@@ -32,6 +32,36 @@ export function verifySessionToken(token: string): string | null {
   return null;
 }
 
+export function isValidStudentEmail(email: string): boolean {
+  if (!email || typeof email !== 'string') return false;
+  const trimmed = email.trim().toLowerCase();
+  return /^[a-zA-Z0-9._%+-]+@gmail(\.com)?$/i.test(trimmed);
+}
+
+export function normalizeStudentEmail(email: string): string {
+  let trimmed = (email || '').trim().toLowerCase();
+  if (trimmed.endsWith('@gmail')) {
+    trimmed = trimmed + '.com';
+  }
+  return trimmed;
+}
+
+export function hashPassword(password: string): string {
+  return crypto.createHmac('sha256', AUTH_SECRET).update(password).digest('hex');
+}
+
+export function verifyPassword(password: string, hash: string): boolean {
+  try {
+    const computed = hashPassword(password);
+    const bufA = Buffer.from(computed, 'hex');
+    const bufB = Buffer.from(hash, 'hex');
+    if (bufA.length !== bufB.length) return false;
+    return crypto.timingSafeEqual(bufA, bufB);
+  } catch {
+    return false;
+  }
+}
+
 export async function getCurrentUser(): Promise<{ user: User | null; progress: UserProgress | null }> {
   try {
     const cookieStore = cookies();

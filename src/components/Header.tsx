@@ -25,13 +25,14 @@ export default function Header() {
     status: 'approved' as const,
   };
 
-  const currentName = user?.name || defaultProfile.name;
-  const currentEmail = user?.email || defaultProfile.email;
-  const currentRole = defaultProfile.role; // "Học viên"
+  const isAdmin = user?.email?.toLowerCase() === 'dot71714@gmail.com';
+  const currentName = isAdmin ? 'ADMIN' : (user?.name || defaultProfile.name);
+  const currentEmail = isAdmin ? 'ADMIN' : (user?.email || defaultProfile.email);
+  const currentRole = isAdmin ? 'Quản trị viên' : defaultProfile.role;
   const currentStatus = user?.status || defaultProfile.status;
-  const currentInitials = user?.name
+  const currentInitials = isAdmin ? 'AD' : (user?.name
     ? user.name.split(' ').map((p) => p[0]).slice(-2).join('').toUpperCase() || defaultProfile.initials
-    : defaultProfile.initials;
+    : defaultProfile.initials);
 
   const updateStatsFromStorage = () => {
     try {
@@ -296,9 +297,7 @@ export default function Header() {
                   {user.email.toLowerCase() === 'dot71714@gmail.com' && (
                     <div className="px-2 py-1.5 border-b border-slate-100 dark:border-[#383c38]">
                       <a
-                        href="http://localhost:3001"
-                        target="_blank"
-                        rel="noreferrer"
+                        href="/admin"
                         className="flex items-center space-x-2 px-2.5 py-1.5 rounded-lg bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-300 font-semibold hover:bg-emerald-100 dark:hover:bg-emerald-900/50 transition-colors"
                       >
                         <ShieldCheck className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />

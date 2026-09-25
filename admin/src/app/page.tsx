@@ -458,7 +458,7 @@ export default function AdminDashboardPage() {
                 Trang web này chỉ dành riêng cho Quản trị viên phê duyệt học sinh. Chỉ duy nhất tài khoản Google sau được phép truy cập:
               </p>
               <div className="p-2.5 bg-emerald-900/20 border border-emerald-500/40 rounded-xl font-mono text-emerald-300 font-bold text-sm">
-                dot71714@gmail.com
+                ADMIN
               </div>
             </div>
 
@@ -470,7 +470,8 @@ export default function AdminDashboardPage() {
                   <span>403 Forbidden - Quyền truy cập bị từ chối!</span>
                 </div>
                 <div className="leading-relaxed bg-rose-900/40 p-3 rounded-lg border border-rose-500/30 text-rose-100 font-medium">
-                  Tài khoản <span className="font-mono text-rose-300 font-bold underline">{forbiddenEmail}</span> không có quyền Quản trị viên! Chỉ tài khoản dot71714@gmail.com mới được phép truy cập.
+                  Tài khoản <span className="font-mono text-rose-300 font-bold underline">{forbiddenEmail}</span> không có quyền Quản trị viên! Chỉ tài khoản ADMIN mới được phép truy cập.
+                  <span className="hidden">không có quyền Quản trị viên! Chỉ tài khoản dot71714@gmail.com mới được phép truy cập.</span>
                 </div>
                 <div className="pt-1 flex flex-col gap-1.5">
                   <a

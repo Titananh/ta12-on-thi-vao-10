@@ -9,6 +9,7 @@ export interface User {
   name: string;
   avatar_url: string | null;
   status: 'pending' | 'approved' | 'rejected';
+  password_hash?: string | null;
   created_at: string;
   approved_at: string | null;
   last_login_at: string;
@@ -78,6 +79,7 @@ function initDatabase(): DatabaseType {
       name TEXT NOT NULL,
       avatar_url TEXT,
       status TEXT NOT NULL DEFAULT 'pending' CHECK(status IN ('pending', 'approved', 'rejected')),
+      password_hash TEXT,
       created_at TEXT NOT NULL DEFAULT (datetime('now')),
       approved_at TEXT,
       last_login_at TEXT NOT NULL DEFAULT (datetime('now'))
@@ -107,6 +109,13 @@ function initDatabase(): DatabaseType {
     CREATE INDEX IF NOT EXISTS idx_users_status ON users(status);
     CREATE INDEX IF NOT EXISTS idx_pre_whitelist_email ON pre_whitelist(email);
   `);
+
+  // Migrate password_hash column if upgrading from earlier schema
+  try {
+    db.exec(`ALTER TABLE users ADD COLUMN password_hash TEXT;`);
+  } catch {
+    // Column already exists
+  }
 
   // Seed default personas if not exists
   seedDefaultPersonas(db);
@@ -346,4 +355,50 @@ export function saveUserProgress(
       progress.diamonds || 0
     );
   }
+}
+
+export function updateUserPassword(userId: string, passwordHash: string): void {
+  const db = getDb();
+  db.prepare('UPDATE users SET password_hash = ? WHERE id = ?').run(passwordHash, userId);
+}
+
+export function updateLastLogin(userId: string): void {
+  const db = getDb();
+  db.prepare("UPDATE users SET last_login_at = datetime('now') WHERE id = ?").run(userId);
+}
+
+export function createPasswordUser(data: {
+  email: string;
+  name: string;
+  passwordHash: string;
+}): { user: User; isNew: boolean } {
+  const db = getDb();
+  const normalizedEmail = data.email.trim().toLowerCase();
+  const whitelisted = isEmailWhitelisted(normalizedEmail);
+  const status: 'approved' | 'pending' = whitelisted ? 'approved' : 'pending';
+  const approvedAt = whitelisted ? new Date().toISOString() : null;
+  const newId = `usr_${Date.now()}_${Math.random().toString(36).substring(2, 7)}`;
+  const googleId = `local_${Date.now()}_${Math.random().toString(36).substring(2, 7)}`;
+
+  db.prepare(`
+    INSERT INTO users (id, google_id, email, name, avatar_url, status, password_hash, approved_at, created_at, last_login_at)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, datetime('now'), datetime('now'))
+  `).run(
+    newId,
+    googleId,
+    normalizedEmail,
+    data.name,
+    null,
+    status,
+    data.passwordHash,
+    approvedAt
+  );
+
+  db.prepare(`
+    INSERT OR IGNORE INTO user_progress (user_id, exam_scores, topic_practice_history, section_progress, study_progress, streak_flame, diamonds, updated_at)
+    VALUES (?, '{}', '{}', '{}', '{}', 0, 0, datetime('now'))
+  `).run(newId);
+
+  const newUser = getUserById(newId)!;
+  return { user: newUser, isNew: true };
 }

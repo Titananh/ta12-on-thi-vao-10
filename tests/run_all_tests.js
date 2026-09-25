@@ -23,7 +23,8 @@ const suites = [
   { name: 'Auth, SQLite & Progress Sync Suite (R2)', file: 'tests/test_auth_sqlite_sync.js' },
   { name: 'Milestone 1 Google OAuth Crypto & Admin Zero-Bypass', file: 'tests/test_m1_google_auth_crypto.js' },
   { name: 'Milestone 2 Student Web Security & Pending Gate', file: 'tests/test_m2_student_security.js' },
-  { name: 'Milestone 3 Comprehensive Security Penetration Suite', file: 'tests/test_m3_penetration_suite.js' }
+  { name: 'Milestone 3 Comprehensive Security Penetration Suite', file: 'tests/test_m3_penetration_suite.js' },
+  { name: 'Student Password Auth & Admin Masking Suite', file: 'tests/test_student_password_auth.js' }
 ];
 
 console.log('========================================================================');

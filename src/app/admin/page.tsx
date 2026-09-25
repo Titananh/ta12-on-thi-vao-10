@@ -455,10 +455,10 @@ export default function AdminDashboardPage() {
                 Chỉ dành riêng cho Quản trị viên tối cao
               </p>
               <p className="text-sm text-slate-300 pt-2 leading-relaxed">
-                Trang web này chỉ dành riêng cho Quản trị viên phê duyệt học sinh. Chỉ duy nhất tài khoản Google sau được phép truy cập:
+                Trang web này chỉ dành riêng cho Quản trị viên phê duyệt học sinh. Chỉ duy nhất tài khoản Quản trị viên tối cao được phép truy cập:
               </p>
               <div className="p-2.5 bg-emerald-900/20 border border-emerald-500/40 rounded-xl font-mono text-emerald-300 font-bold text-sm">
-                dot71714@gmail.com
+                ADMIN
               </div>
             </div>
 
@@ -470,7 +470,7 @@ export default function AdminDashboardPage() {
                   <span>403 Forbidden - Quyền truy cập bị từ chối!</span>
                 </div>
                 <div className="leading-relaxed bg-rose-900/40 p-3 rounded-lg border border-rose-500/30 text-rose-100 font-medium">
-                  Tài khoản <span className="font-mono text-rose-300 font-bold underline">{forbiddenEmail}</span> không có quyền Quản trị viên! Chỉ tài khoản dot71714@gmail.com mới được phép truy cập.
+                  Tài khoản <span className="font-mono text-rose-300 font-bold underline">{forbiddenEmail}</span> không có quyền Quản trị viên! Chỉ tài khoản ADMIN mới được phép truy cập.
                 </div>
                 <div className="pt-1 flex flex-col gap-1.5">
                   <a
@@ -779,15 +779,26 @@ export default function AdminDashboardPage() {
                               </div>
                               <div className="min-w-0">
                                 <div className="font-bold text-white flex items-center gap-2">
-                                  <span>{u.name}</span>
+                                  <span>{u.email?.toLowerCase() === SUPERADMIN_EMAIL.toLowerCase() ? 'ADMIN' : u.name}</span>
                                   {u.is_whitelisted && (
                                     <span className="text-[10px] px-1.5 py-0.5 rounded font-extrabold bg-blue-500/20 text-blue-400 border border-blue-500/30">
                                       PRE-WHITELIST
                                     </span>
                                   )}
+                                  {u.email?.toLowerCase() === SUPERADMIN_EMAIL.toLowerCase() && (
+                                    <span className="text-[10px] px-1.5 py-0.5 rounded font-extrabold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">
+                                      👑 SUPERADMIN
+                                    </span>
+                                  )}
                                 </div>
                                 <div className="text-xs text-[#8c9c8c] flex items-center gap-1.5 mt-0.5">
-                                  <span className="font-mono">{u.email}</span>
+                                  <span className="font-mono">
+                                    {u.email?.toLowerCase() === SUPERADMIN_EMAIL.toLowerCase() ? (
+                                      <span className="text-emerald-400 font-bold">ADMIN (Quản trị viên)</span>
+                                    ) : (
+                                      u.email
+                                    )}
+                                  </span>
                                 </div>
                               </div>
                             </div>
@@ -1017,7 +1028,11 @@ export default function AdminDashboardPage() {
                     whitelist.map((w) => (
                       <tr key={w.id} className="hover:bg-[#1a221a]/60 transition-colors">
                         <td className="py-4 px-5 font-mono font-bold text-white text-sm">
-                          {w.email}
+                          {w.email?.toLowerCase() === SUPERADMIN_EMAIL.toLowerCase() ? (
+                            <span className="text-emerald-400">ADMIN (Superadmin)</span>
+                          ) : (
+                            w.email
+                          )}
                         </td>
                         <td className="py-4 px-4 text-xs text-[#a0b0a0]">
                           {w.notes || <span className="text-[#607060] italic">Không có ghi chú</span>}

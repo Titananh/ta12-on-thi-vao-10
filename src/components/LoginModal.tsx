@@ -2,23 +2,25 @@
 
 import React from 'react';
 import { X, LogIn, Info, ShieldCheck } from 'lucide-react';
+import StudentLoginForm from './StudentLoginForm';
 
 interface LoginModalProps {
   isOpen: boolean;
   onClose: () => void;
+  defaultMode?: 'login' | 'register';
 }
 
-export default function LoginModal({ isOpen, onClose }: LoginModalProps) {
+export default function LoginModal({ isOpen, onClose, defaultMode = 'login' }: LoginModalProps) {
   if (!isOpen) return null;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/70 backdrop-blur-sm animate-fadeIn">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/75 backdrop-blur-sm animate-fadeIn">
       <div
-        className="bg-white dark:bg-[#242824] rounded-2xl max-w-md w-full shadow-2xl border border-slate-200 dark:border-[#383c38] overflow-hidden transition-all"
+        className="bg-white dark:bg-[#242824] rounded-2xl max-w-md w-full shadow-2xl border border-slate-200 dark:border-[#383c38] overflow-hidden transition-all my-8 max-h-[90vh] flex flex-col"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Header */}
-        <div className="bg-gradient-to-r from-[#22be34] to-[#1c581f] p-5 text-white flex items-center justify-between relative">
+        <div className="bg-gradient-to-r from-[#22be34] to-[#1c581f] p-5 text-white flex items-center justify-between relative shrink-0">
           <div className="flex items-center space-x-3">
             <div className="w-10 h-10 rounded-xl bg-white/20 backdrop-blur-md flex items-center justify-center">
               <LogIn className="w-5 h-5 text-white" />
@@ -37,20 +39,27 @@ export default function LoginModal({ isOpen, onClose }: LoginModalProps) {
           </button>
         </div>
 
-        <div className="p-6 space-y-5">
-          <div className="text-center space-y-1.5">
-            <p className="text-sm text-slate-600 dark:text-slate-300">
-              Đăng nhập bằng tài khoản Google để đồng bộ tiến trình học tập, lưu kết quả làm bài và duy trì chuỗi học tập.
-            </p>
+        {/* Modal Content */}
+        <div className="p-6 space-y-4 overflow-y-auto">
+          {/* Email & Password Student Login/Register Component */}
+          <StudentLoginForm onSuccess={onClose} defaultMode={defaultMode} />
+
+          {/* Divider */}
+          <div className="relative flex py-1 items-center">
+            <div className="flex-grow border-t border-slate-200 dark:border-[#383c38]"></div>
+            <span className="flex-shrink mx-3 text-[10px] text-slate-400 uppercase tracking-wider font-semibold">
+              Hoặc tiếp tục với Google
+            </span>
+            <div className="flex-grow border-t border-slate-200 dark:border-[#383c38]"></div>
           </div>
 
-          {/* Nút Đăng nhập Google Chuẩn - Duy nhất */}
+          {/* Nút Đăng nhập Google Chuẩn */}
           <div>
             <a
               href="/api/auth/google"
-              className="w-full py-3.5 px-4 rounded-xl border border-slate-200 dark:border-[#383c38] bg-white dark:bg-[#1a1d1a] hover:bg-slate-50 dark:hover:bg-[#252b25] text-slate-700 dark:text-slate-200 font-semibold text-sm shadow-sm transition-all flex items-center justify-center gap-3 cursor-pointer group hover:border-[#22be34] hover:shadow-md"
+              className="w-full py-2.5 px-4 rounded-xl border border-slate-200 dark:border-[#383c38] bg-white dark:bg-[#1a1d1a] hover:bg-slate-50 dark:hover:bg-[#252b25] text-slate-700 dark:text-slate-200 font-semibold text-xs shadow-xs transition-all flex items-center justify-center gap-2.5 cursor-pointer group hover:border-[#22be34]"
             >
-              <svg className="w-5 h-5" viewBox="0 0 24 24">
+              <svg className="w-4 h-4" viewBox="0 0 24 24">
                 <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" />
                 <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" />
                 <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.06H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.94l2.85-2.22.81-.63z" />
@@ -60,20 +69,21 @@ export default function LoginModal({ isOpen, onClose }: LoginModalProps) {
             </a>
           </div>
 
-          {/* Thông báo chính sách phê duyệt học sinh mới */}
-          <div className="p-3.5 bg-amber-50 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-900/60 rounded-xl space-y-1.5 text-xs text-amber-800 dark:text-amber-300">
-            <div className="flex items-center space-x-2 font-semibold">
-              <ShieldCheck className="w-4 h-4 text-amber-600 dark:text-amber-400" />
+          {/* Thông báo chính sách phê duyệt học sinh mới - Mask admin email, display ADMIN */}
+          <div className="p-3 bg-amber-50 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-900/60 rounded-xl space-y-1 text-xs text-amber-800 dark:text-amber-300">
+            <div className="flex items-center space-x-1.5 font-semibold">
+              <ShieldCheck className="w-3.5 h-3.5 text-amber-600 dark:text-amber-400" />
               <span>Chính sách kiểm soát chất lượng & Sĩ số</span>
             </div>
             <p className="text-[11px] leading-relaxed text-amber-700 dark:text-amber-400">
-              Học sinh mới đăng ký sẽ ở trạng thái chờ duyệt (Pending). Quản trị viên (<code>dot71714@gmail.com</code>) sẽ phê duyệt trên Cổng Quản Trị trước khi kích hoạt quyền truy cập khoá học.
+              {/* Superadmin alias gate: dot71714@gmail.com */}
+              Học sinh mới đăng ký sẽ ở trạng thái chờ duyệt (Pending). Quản trị viên (<code>ADMIN</code>) sẽ phê duyệt trên Cổng Quản Trị trước khi kích hoạt quyền truy cập khoá học.
             </p>
           </div>
 
           {/* Ghi chú chân modal */}
           <div className="pt-2 text-[11px] text-slate-500 dark:text-slate-400 flex items-start space-x-1.5 leading-relaxed border-t border-slate-100 dark:border-[#383c38]">
-            <Info className="w-3.5 h-3.5 text-slate-400 mt-0.5 flex-shrink-0" />
+            <Info className="w-3.5 h-3.5 text-slate-400 mt-0.5 shrink-0" />
             <span>
               Mọi tài khoản được cấp quyền truy cập công bằng và minh bạch. Nếu cần hỗ trợ khẩn cấp, vui lòng liên hệ admin qua email <code>ta12@cth.edu.vn</code>.
             </span>
