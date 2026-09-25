@@ -52,9 +52,12 @@ export async function GET(request: Request) {
 
     let questions = sectionData.questions || [];
     if (count && count < questions.length) {
-      // If grammar_vocab_cloze, ensure authentic question 41501 is at the top
-      const targetQ = questions.find((q: any) => String(q.id) === '41501');
-      const rest = targetQ ? questions.filter((q: any) => String(q.id) !== '41501') : questions;
+      let pinnedId: string | null = null;
+      if (safeSectionId === 'grammar_vocab_cloze') pinnedId = '41501';
+      else if (safeSectionId === 'sign_notices') pinnedId = '929728';
+
+      const targetQ = pinnedId ? questions.find((q: any) => String(q.id) === pinnedId) : null;
+      const rest = targetQ ? questions.filter((q: any) => String(q.id) !== pinnedId) : questions;
       const shuffled = [...rest];
       for (let i = shuffled.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
