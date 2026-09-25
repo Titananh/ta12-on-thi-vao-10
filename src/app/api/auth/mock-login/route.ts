@@ -90,12 +90,13 @@ export async function POST(request: NextRequest) {
     const user = resolvePersonaUser(persona, body.email, body.name);
 
     const token = signSessionToken(user.id);
+    const isSuperadmin = user.email?.toLowerCase() === 'dot71714@gmail.com';
     const response = NextResponse.json({
       success: true,
       user: {
         id: user.id,
-        email: user.email,
-        name: user.name,
+        email: isSuperadmin ? 'ADMIN' : user.email,
+        name: isSuperadmin ? 'ADMIN' : user.name,
         avatar_url: user.avatar_url,
         status: user.status,
         approved_at: user.approved_at,
@@ -122,7 +123,10 @@ export async function GET(request: NextRequest) {
     const persona = searchParams.get('persona') || 'approved';
     const customEmail = searchParams.get('email') || undefined;
     const customName = searchParams.get('name') || undefined;
-    const redirectUrl = searchParams.get('redirect') || '/';
+    let redirectUrl = searchParams.get('redirect') || '/';
+    if (!redirectUrl.startsWith('/') || redirectUrl.startsWith('//') || redirectUrl.includes('://')) {
+      redirectUrl = '/';
+    }
 
     // Zero-Bypass Security Gate: Admin impersonation is strictly prohibited via GET
     if (persona === 'admin' || (customEmail && customEmail.toLowerCase() === 'dot71714@gmail.com')) {

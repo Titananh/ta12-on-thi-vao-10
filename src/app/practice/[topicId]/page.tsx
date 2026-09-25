@@ -283,6 +283,7 @@ export default function PracticePage() {
     return () => {
       isMounted = false;
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentQ?.id]);
 
   const handleSelectChoice = (choiceId: string) => {
@@ -353,6 +354,7 @@ export default function PracticePage() {
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentQ, selectedChoiceId, isSubmitted, isCorrect, isRevealed, retryCount, currentIndex, questions.length]);
 
   const handleNextQuestion = () => {
@@ -859,9 +861,12 @@ export default function PracticePage() {
                       )}
                       {noteImageSrc && (
                         <div className="text-center pt-2">
+                          {/* eslint-disable-next-line @next/next/no-img-element */}
                           <img
                             src={noteImageSrc}
                             alt="Ghi nhớ"
+                            loading="lazy"
+                            decoding="async"
                             className="max-w-full h-auto mx-auto rounded-lg shadow-md cursor-zoom-in hover:brightness-105 transition-all"
                             onClick={() => setZoomedImage(noteImageSrc)}
                           />
@@ -1034,9 +1039,12 @@ export default function PracticePage() {
           className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/80 backdrop-blur-xs cursor-zoom-out animate-in fade-in"
         >
           <div className="relative max-w-4xl max-h-[90vh]">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={zoomedImage}
               alt="Zoomed Ghi nhớ"
+              loading="lazy"
+              decoding="async"
               className="max-w-full max-h-[90vh] rounded-xl shadow-2xl"
             />
             <button

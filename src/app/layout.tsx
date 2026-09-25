@@ -4,8 +4,62 @@ import Header from '@/components/Header';
 import ProgressSyncProvider from '@/components/ProgressSyncProvider';
 
 export const metadata: Metadata = {
-  title: 'TA12 - Ôn thi vào 10 môn Tiếng Anh Hà Nội',
+  metadataBase: new URL('https://ta12-on-thi-vao-10.vercel.app'),
+  title: {
+    default: 'TA12 - Ôn thi vào 10 môn Tiếng Anh Hà Nội',
+    template: '%s | TA12',
+  },
   description: 'Nền tảng học thêm & Ôn thi vào lớp 10 môn Tiếng Anh theo chuyên đề và luyện đề chuẩn TA12',
+  keywords: [
+    'TA12',
+    'Ôn thi vào 10',
+    'Tiếng Anh thi vào 10',
+    'Luyện thi vào 10 Hà Nội',
+    'Đề thi Tiếng Anh vào 10',
+    'Ngữ pháp Tiếng Anh',
+    'Từ vựng Tiếng Anh thi vào 10',
+  ],
+  authors: [{ name: 'TA12 Education', url: 'https://ta12-on-thi-vao-10.vercel.app' }],
+  creator: 'TA12 Team',
+  publisher: 'TA12 Education',
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
+  openGraph: {
+    type: 'website',
+    locale: 'vi_VN',
+    url: 'https://ta12-on-thi-vao-10.vercel.app',
+    siteName: 'TA12 - Luyện thi Tiếng Anh vào 10',
+    title: 'TA12 - Ôn thi vào 10 môn Tiếng Anh Hà Nội',
+    description: 'Nền tảng học thêm & Ôn thi vào lớp 10 môn Tiếng Anh theo chuyên đề và luyện đề chuẩn TA12',
+    images: [
+      {
+        url: '/images/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'TA12 - Ôn thi vào 10 môn Tiếng Anh',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'TA12 - Ôn thi vào 10 môn Tiếng Anh Hà Nội',
+    description: 'Nền tảng học thêm & Ôn thi vào lớp 10 môn Tiếng Anh theo chuyên đề và luyện đề chuẩn TA12',
+    images: ['/images/og-image.png'],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
 };
 
 export default function RootLayout({

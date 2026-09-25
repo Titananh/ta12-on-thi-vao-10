@@ -3,11 +3,13 @@
 import React, { useState, useEffect } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { Bell, ChevronDown, Flame, Gem, LogIn, LogOut, Moon, ShieldCheck, Sun, UserCheck, UserX, Volume2, VolumeX } from 'lucide-react';
 import { useAuthProgress } from './ProgressSyncProvider';
 import LoginModal from './LoginModal';
 
 export default function Header() {
+  const pathname = usePathname();
   const [isDark, setIsDark] = useState<boolean>(true);
   const [isSoundOn, setIsSoundOn] = useState<boolean>(true);
   const [stats, setStats] = useState<{ streak: number; diamonds: number }>({ streak: 0, diamonds: 0 });
@@ -25,7 +27,7 @@ export default function Header() {
     status: 'approved' as const,
   };
 
-  const isAdmin = user?.email?.toLowerCase() === 'dot71714@gmail.com';
+  const isAdmin = user?.email?.toLowerCase() === 'dot71714@gmail.com' || user?.email === 'ADMIN' || (user as any)?.role === 'superadmin';
   const currentName = isAdmin ? 'ADMIN' : (user?.name || defaultProfile.name);
   const currentEmail = isAdmin ? 'ADMIN' : (user?.email || defaultProfile.email);
   const currentRole = isAdmin ? 'Quản trị viên' : defaultProfile.role;
@@ -273,38 +275,53 @@ export default function Header() {
 
               {/* Profile & Persona Switcher Dropdown */}
               {isProfileMenuOpen && (
-                <div
-                  className="absolute right-0 mt-2 w-64 bg-white dark:bg-[#242824] border border-slate-200 dark:border-[#383c38] rounded-xl shadow-2xl py-2 z-50 text-xs"
-                  onMouseLeave={() => setIsProfileMenuOpen(false)}
-                >
-                  <div className="px-3 py-2 border-b border-slate-100 dark:border-[#383c38]">
-                    <div className="font-semibold text-slate-800 dark:text-white truncate">{currentName}</div>
-                    <div className="text-slate-400 text-[11px] truncate">{currentEmail}</div>
-                    <div className="mt-1">
-                      {currentStatus === 'approved' ? (
-                        <span className="inline-block text-[10px] font-medium text-emerald-600 dark:text-emerald-400">
-                          ✓ Trạng thái: Đã duyệt toàn bộ khoá học
-                        </span>
-                      ) : (
-                        <span className="inline-block text-[10px] font-medium text-amber-500">
-                          ⏳ Trạng thái: Đang chờ Admin kích hoạt
-                        </span>
-                      )}
+                <>
+                  <div
+                    className="fixed inset-0 z-[90]"
+                    onClick={() => setIsProfileMenuOpen(false)}
+                  />
+                  <div
+                    className="absolute right-0 mt-2 w-64 bg-white dark:bg-[#202520] border border-slate-200 dark:border-[#343e34] rounded-xl shadow-2xl py-2 z-[100] text-xs"
+                  >
+                    <div className="px-3 py-2 border-b border-slate-100 dark:border-[#383c38]">
+                      <div className="font-semibold text-slate-800 dark:text-white truncate">{currentName}</div>
+                      <div className="text-slate-400 text-[11px] truncate">{currentEmail}</div>
+                      <div className="mt-1">
+                        {currentStatus === 'approved' ? (
+                          <span className="inline-block text-[10px] font-medium text-emerald-600 dark:text-emerald-400">
+                            ✓ Trạng thái: Đã duyệt toàn bộ khoá học
+                          </span>
+                        ) : (
+                          <span className="inline-block text-[10px] font-medium text-amber-500">
+                            ⏳ Trạng thái: Đang chờ Admin kích hoạt
+                          </span>
+                        )}
+                      </div>
                     </div>
-                  </div>
 
-                  {/* Superadmin link if dot71714@gmail.com */}
-                  {user.email.toLowerCase() === 'dot71714@gmail.com' && (
-                    <div className="px-2 py-1.5 border-b border-slate-100 dark:border-[#383c38]">
-                      <a
-                        href="/admin"
-                        className="flex items-center space-x-2 px-2.5 py-1.5 rounded-lg bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-300 font-semibold hover:bg-emerald-100 dark:hover:bg-emerald-900/50 transition-colors"
-                      >
-                        <ShieldCheck className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
-                        <span>Trang Quản trị Admin</span>
-                      </a>
-                    </div>
-                  )}
+                    {/* Superadmin link */}
+                    {isAdmin && (
+                      <div className="px-2 py-1.5 border-b border-slate-100 dark:border-[#383c38]">
+                        {pathname === '/admin' ? (
+                          <Link
+                            href="/"
+                            onClick={() => setIsProfileMenuOpen(false)}
+                            className="flex items-center space-x-2 px-2.5 py-1.5 rounded-lg bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-300 font-semibold hover:bg-emerald-100 dark:hover:bg-emerald-900/50 transition-colors"
+                          >
+                            <span>← Về trang học sinh TA12</span>
+                          </Link>
+                        ) : (
+                          <Link
+                            href="/admin"
+                            onClick={() => setIsProfileMenuOpen(false)}
+                            className="flex items-center space-x-2 px-2.5 py-1.5 rounded-lg bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-300 font-semibold hover:bg-emerald-100 dark:hover:bg-emerald-900/50 transition-colors"
+                          >
+                            <ShieldCheck className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
+                            <span>Cổng Quản trị Admin</span>
+                          </Link>
+                        )}
+                      </div>
+                    )}
 
                   {/* Switch account modal trigger */}
                   <div className="px-2 py-1.5">
@@ -332,7 +349,8 @@ export default function Header() {
                     </button>
                   </div>
                 </div>
-              )}
+              </>
+            )}
             </div>
           ) : (
             <button

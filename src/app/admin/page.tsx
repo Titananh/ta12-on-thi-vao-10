@@ -106,8 +106,8 @@ export default function AdminDashboardPage() {
     try {
       const res = await adminFetch('/api/admin/session');
       const data = await res.json();
-      if (data.authenticated && data.user && data.user.email.toLowerCase() === SUPERADMIN_EMAIL.toLowerCase()) {
-        setAdminUser(data.user);
+      if (data.authenticated && data.user && (data.user.email?.toLowerCase() === SUPERADMIN_EMAIL.toLowerCase() || data.user.email === 'ADMIN' || data.user.role === 'superadmin')) {
+        setAdminUser({ ...data.user, email: 'ADMIN' });
       } else {
         setAdminUser(null);
       }
@@ -409,72 +409,6 @@ export default function AdminDashboardPage() {
         </div>
       )}
 
-      {/* Top Navbar */}
-      <header className="sticky top-0 z-40 bg-[#161a16]/95 backdrop-blur-md border-b border-[#283228] px-6 py-3.5">
-        <div className="max-w-7xl mx-auto flex items-center justify-between">
-          <div className="flex items-center gap-4">
-            <div className="flex items-center gap-2.5">
-              <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-emerald-500 to-green-700 flex items-center justify-center font-black text-white text-lg shadow-lg shadow-emerald-900/30">
-                TA
-              </div>
-              <div>
-                <div className="flex items-center gap-2">
-                  <span className="font-extrabold text-lg tracking-tight text-white">TA12 ADMIN</span>
-                  <span className="text-[11px] px-2 py-0.5 rounded-full font-bold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">
-                    PORTAL
-                  </span>
-                </div>
-                <p className="text-xs text-[#8c9c8c]">Hệ thống Phê duyệt & Quản trị Học sinh Ôn thi vào 10</p>
-              </div>
-            </div>
-          </div>
-
-          <div className="flex items-center gap-3">
-            <div className="hidden md:flex items-center gap-2 px-3 py-1.5 rounded-lg bg-[#1e241e] border border-[#2a362a] text-xs text-[#a0b0a0]">
-              <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-              <span>SQLite WAL: <code className="text-emerald-300 font-mono">data/ta12_users.sqlite</code></span>
-            </div>
-
-            <button
-              onClick={refreshAll}
-              disabled={loading}
-              className="px-3.5 py-1.5 rounded-lg bg-[#222a22] hover:bg-[#2b362b] border border-[#344434] text-xs font-semibold text-[#d0ded0] flex items-center gap-1.5 transition-colors disabled:opacity-50"
-              title="Làm mới dữ liệu từ SQLite"
-            >
-              <svg className={`w-3.5 h-3.5 ${loading ? 'animate-spin' : ''}`} fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-              </svg>
-              <span>{loading ? 'Đang tải...' : 'Làm mới'}</span>
-            </button>
-
-            {adminUser && (
-              <div className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-emerald-950/60 border border-emerald-500/40 text-xs">
-                <span className="text-amber-400 font-bold">👑 Superadmin:</span>
-                <span className="text-emerald-300 font-mono font-medium">{adminUser.email}</span>
-                <button
-                  onClick={handleAdminLogout}
-                  className="ml-2 px-2 py-0.5 rounded bg-rose-900/40 hover:bg-rose-900/70 border border-rose-500/40 text-rose-300 text-[11px] font-medium transition-colors cursor-pointer"
-                >
-                  Đăng xuất
-                </button>
-              </div>
-            )}
-
-            <a
-              href="/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="px-3.5 py-1.5 rounded-lg bg-emerald-600/20 hover:bg-emerald-600/30 border border-emerald-500/30 text-xs font-semibold text-emerald-400 flex items-center gap-1.5 transition-colors"
-            >
-              <span>Vào Web Học sinh</span>
-              <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-              </svg>
-            </a>
-          </div>
-        </div>
-      </header>
-
       {/* Admin Authentication Gate */}
       {checkingAuth ? (
         <div className="min-h-[70vh] flex flex-col items-center justify-center p-6 text-center">
@@ -653,7 +587,56 @@ export default function AdminDashboardPage() {
         </div>
       ) : (
         /* Main Container */
-        <main className="max-w-7xl mx-auto px-6 py-8 space-y-8">
+        <div className="w-full space-y-6 pt-1">
+          {/* Dashboard Header Banner */}
+          <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 p-5 rounded-2xl bg-[#181f18] border border-[#283628] shadow-sm">
+            <div className="flex items-center gap-3.5">
+              <div className="w-11 h-11 rounded-xl bg-gradient-to-br from-emerald-500 to-green-700 flex items-center justify-center font-black text-white text-xl shadow-lg shadow-emerald-900/30">
+                🛡️
+              </div>
+              <div>
+                <div className="flex items-center gap-2">
+                  <h1 className="font-extrabold text-xl tracking-tight text-white">Cổng Quản Trị Viên TA12</h1>
+                  <span className="text-[10px] px-2 py-0.5 rounded-full font-bold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 font-mono">
+                    ADMIN PORTAL
+                  </span>
+                </div>
+                <p className="text-xs text-[#8c9c8c] mt-0.5">Phê duyệt học sinh & quản trị ngân hàng đề thi chuẩn TA12</p>
+              </div>
+            </div>
+
+            <div className="flex flex-wrap items-center gap-2.5">
+              <div className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-[#111411] border border-[#222a22] text-xs text-[#a0b0a0]">
+                <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+                <span>SQLite: <code className="text-emerald-300 font-mono">ta12_users.sqlite</code></span>
+              </div>
+
+              <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-emerald-950/60 border border-emerald-500/40 text-xs">
+                <span className="text-amber-400 font-bold">👑 Quyền hạn:</span>
+                <span className="text-emerald-300 font-mono font-bold">ADMIN</span>
+              </div>
+
+              <button
+                onClick={refreshAll}
+                disabled={loading}
+                className="px-3.5 py-1.5 rounded-lg bg-[#222a22] hover:bg-[#2b362b] border border-[#344434] text-xs font-semibold text-[#d0ded0] flex items-center gap-1.5 transition-colors disabled:opacity-50 cursor-pointer"
+                title="Làm mới dữ liệu từ SQLite"
+              >
+                <svg className={`w-3.5 h-3.5 ${loading ? 'animate-spin' : ''}`} fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+                </svg>
+                <span>{loading ? 'Đang tải...' : 'Làm mới'}</span>
+              </button>
+
+              <button
+                onClick={handleAdminLogout}
+                className="px-3 py-1.5 rounded-lg bg-rose-950/40 hover:bg-rose-900/60 border border-rose-500/40 text-rose-300 text-xs font-medium transition-colors cursor-pointer"
+                title="Đăng xuất khỏi Cổng Quản trị"
+              >
+                Đăng xuất
+              </button>
+            </div>
+          </div>
         {/* 4 Summary Metric Cards */}
         <section className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
           {/* Approved Card */}
@@ -882,7 +865,7 @@ export default function AdminDashboardPage() {
                                       PRE-WHITELIST
                                     </span>
                                   )}
-                                  {u.email?.toLowerCase() === SUPERADMIN_EMAIL.toLowerCase() && (
+                                  {(u.email?.toLowerCase() === SUPERADMIN_EMAIL.toLowerCase() || u.email === 'ADMIN') && (
                                     <span className="text-[10px] px-1.5 py-0.5 rounded font-extrabold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">
                                       👑 SUPERADMIN
                                     </span>
@@ -890,7 +873,7 @@ export default function AdminDashboardPage() {
                                 </div>
                                 <div className="text-xs text-[#8c9c8c] flex items-center gap-1.5 mt-0.5">
                                   <span className="font-mono">
-                                    {u.email?.toLowerCase() === SUPERADMIN_EMAIL.toLowerCase() ? (
+                                    {u.email?.toLowerCase() === SUPERADMIN_EMAIL.toLowerCase() || u.email === 'ADMIN' ? (
                                       <span className="text-emerald-400 font-bold">ADMIN (Quản trị viên)</span>
                                     ) : (
                                       u.email
@@ -962,7 +945,7 @@ export default function AdminDashboardPage() {
                           <td className="py-4 px-5 text-right">
                             <div className="flex items-center justify-end gap-2">
                               {/* Superadmin special indicator */}
-                              {u.email?.toLowerCase() === 'dot71714@gmail.com' ? (
+                              {u.email?.toLowerCase() === 'dot71714@gmail.com' || u.email === 'ADMIN' ? (
                                 <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-emerald-500/15 border border-emerald-500/30 text-emerald-400 font-bold text-xs shadow-sm">
                                   <span>👑</span> Superadmin
                                 </span>
@@ -1125,7 +1108,7 @@ export default function AdminDashboardPage() {
                     whitelist.map((w) => (
                       <tr key={w.id} className="hover:bg-[#1a221a]/60 transition-colors">
                         <td className="py-4 px-5 font-mono font-bold text-white text-sm">
-                          {w.email?.toLowerCase() === SUPERADMIN_EMAIL.toLowerCase() ? (
+                          {w.email?.toLowerCase() === SUPERADMIN_EMAIL.toLowerCase() || w.email === 'ADMIN' ? (
                             <span className="text-emerald-400">ADMIN (Superadmin)</span>
                           ) : (
                             w.email
@@ -1165,7 +1148,7 @@ export default function AdminDashboardPage() {
             </div>
           </div>
         )}
-      </main>
+        </div>
       )}
 
       {/* Batch Import Modal */}

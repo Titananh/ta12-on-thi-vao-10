@@ -238,9 +238,12 @@ export default function TheoryModal({
           className="fixed inset-0 z-[60] flex items-center justify-center p-4 bg-black/85 backdrop-blur-xs cursor-zoom-out animate-in fade-in"
         >
           <div className="relative max-w-4xl max-h-[90vh]">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={zoomedImage}
               alt="Phóng to ảnh kiến thức"
+              loading="lazy"
+              decoding="async"
               className="max-w-full max-h-[90vh] rounded-xl shadow-2xl"
             />
             <button

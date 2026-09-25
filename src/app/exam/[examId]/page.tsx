@@ -49,9 +49,32 @@ export async function generateMetadata({ params }: ExamPageProps): Promise<Metad
       title: 'Không tìm thấy đề thi - TA12',
     };
   }
+  const title = `${exam.title} - Phòng thi TA12`;
+  const description = `Phòng thi trực tuyến có bấm giờ và chấm điểm chi tiết môn Tiếng Anh vào 10 Hà Nội chuẩn TA12: ${exam.title}`;
   return {
-    title: `${exam.title} - Phòng thi TA12`,
-    description: `Phòng thi trực tuyến có bấm giờ và chấm điểm chi tiết môn Tiếng Anh vào 10 Hà Nội chuẩn TA12.`,
+    title,
+    description,
+    openGraph: {
+      title,
+      description,
+      url: `https://ta12-on-thi-vao-10.vercel.app/exam/${params.examId}`,
+      siteName: 'TA12',
+      type: 'article',
+      images: [
+        {
+          url: '/images/og-image.png',
+          width: 1200,
+          height: 630,
+          alt: title,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+      images: ['/images/og-image.png'],
+    },
   };
 }
 

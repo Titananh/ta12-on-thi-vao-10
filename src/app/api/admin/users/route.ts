@@ -61,11 +61,12 @@ export async function GET(request: NextRequest) {
         // ignore
       }
 
+      const isSuperadmin = r.email?.toLowerCase() === 'dot71714@gmail.com';
       return {
         id: r.id,
-        google_id: r.google_id,
-        email: r.email,
-        name: r.name,
+        google_id: isSuperadmin ? 'mock_google_admin' : r.google_id,
+        email: isSuperadmin ? 'ADMIN' : r.email,
+        name: isSuperadmin ? 'ADMIN' : r.name,
         avatar_url: r.avatar_url,
         status: r.status,
         created_at: r.created_at,

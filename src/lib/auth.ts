@@ -12,7 +12,7 @@ export function signSessionToken(userId: string): string {
   return Buffer.from(`${payload}:${sig}`).toString('base64');
 }
 
-export function verifySessionToken(token: string): string | null {
+export function verifySessionToken(token: string, maxAgeMs = 30 * 24 * 60 * 60 * 1000): string | null {
   try {
     const cleanToken = decodeURIComponent(token);
     const raw = Buffer.from(cleanToken, 'base64').toString('utf8');
@@ -20,6 +20,13 @@ export function verifySessionToken(token: string): string | null {
     if (parts.length !== 3) return null;
     const [userId, ts, sig] = parts;
     if (!userId || !ts || !sig) return null;
+
+    const tokenTime = parseInt(ts, 10);
+    const now = Date.now();
+    if (isNaN(tokenTime) || now - tokenTime > maxAgeMs || now - tokenTime < -60000) {
+      return null;
+    }
+
     const expectedSig = crypto.createHmac('sha256', AUTH_SECRET).update(`${userId}:${ts}`).digest('hex');
     const sigBuffer = Buffer.from(sig);
     const expectedBuffer = Buffer.from(expectedSig);

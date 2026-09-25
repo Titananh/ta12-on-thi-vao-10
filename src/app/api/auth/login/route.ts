@@ -100,7 +100,7 @@ export async function POST(request: NextRequest) {
         isAdmin: true,
         user: {
           id: adminUserId,
-          email: SUPERADMIN_EMAIL,
+          email: 'ADMIN',
           name: 'ADMIN',
           status: 'approved',
           role: 'superadmin',

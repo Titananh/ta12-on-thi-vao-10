@@ -9,13 +9,17 @@ export async function GET() {
     return NextResponse.json({
       authenticated: false,
       user: null,
-      required_email: SUPERADMIN_EMAIL
+      required_email: 'ADMIN'
     });
   }
 
   return NextResponse.json({
     authenticated: true,
-    user: admin,
-    required_email: SUPERADMIN_EMAIL
+    user: {
+      ...admin,
+      email: 'ADMIN',
+      display_email: 'ADMIN',
+    },
+    required_email: 'ADMIN'
   });
 }

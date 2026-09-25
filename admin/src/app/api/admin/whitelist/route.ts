@@ -26,17 +26,20 @@ export async function GET(request: NextRequest) {
 
     return NextResponse.json({
       success: true,
-      whitelist: rows.map((r) => ({
-        id: r.id,
-        email: r.email,
-        created_at: r.created_at,
-        notes: r.notes || '',
-        registered_user: r.user_id ? {
-          id: r.user_id,
-          name: r.user_name,
-          status: r.user_status,
-        } : null,
-      })),
+      whitelist: rows.map((r) => {
+        const isSuperadmin = r.email?.toLowerCase() === 'dot71714@gmail.com';
+        return {
+          id: r.id,
+          email: isSuperadmin ? 'ADMIN' : r.email,
+          created_at: r.created_at,
+          notes: r.notes || '',
+          registered_user: r.user_id ? {
+            id: r.user_id,
+            name: isSuperadmin ? 'ADMIN' : r.user_name,
+            status: r.user_status,
+          } : null,
+        };
+      }),
       total: rows.length,
     });
   } catch (error: any) {

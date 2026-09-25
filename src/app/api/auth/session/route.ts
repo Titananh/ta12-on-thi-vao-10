@@ -23,11 +23,13 @@ export async function GET() {
       try { parsedStudy = JSON.parse(progress.study_progress || '{}'); } catch {}
     }
 
+    const isSuperadmin = user.email?.toLowerCase() === 'dot71714@gmail.com';
     return NextResponse.json({
       user: {
         id: user.id,
-        email: user.email,
-        name: user.name,
+        email: isSuperadmin ? 'ADMIN' : user.email,
+        name: isSuperadmin ? 'ADMIN' : user.name,
+        role: isSuperadmin ? 'superadmin' : 'student',
         avatar_url: user.avatar_url,
         status: user.status,
         approved_at: user.approved_at,

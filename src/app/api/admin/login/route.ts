@@ -71,7 +71,7 @@ export async function POST(request: NextRequest) {
       token,
       user: {
         id: adminUserId,
-        email: SUPERADMIN_EMAIL,
+        email: 'ADMIN',
         name: 'ADMIN',
         role: 'superadmin',
       },

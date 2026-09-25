@@ -17,10 +17,12 @@ try {
 // Fallback theory lookup helper
 function getFallbackTheory(sectionId?: string | null, topicId?: string | null): any {
   const theoriesDir = path.join(process.cwd(), 'data', 'theories');
+  const safeSectionId = sectionId ? sectionId.replace(/[^a-zA-Z0-9_-]/g, '') : null;
+  const safeTopicId = topicId ? topicId.replace(/[^a-zA-Z0-9_-]/g, '') : null;
 
   // Try section theory
-  if (sectionId) {
-    const secPath = path.join(theoriesDir, 'sections', `${sectionId}.json`);
+  if (safeSectionId) {
+    const secPath = path.join(theoriesDir, 'sections', `${safeSectionId}.json`);
     if (fs.existsSync(secPath)) {
       try {
         return JSON.parse(fs.readFileSync(secPath, 'utf8'));
@@ -29,15 +31,15 @@ function getFallbackTheory(sectionId?: string | null, topicId?: string | null): 
   }
 
   // Try topic theory
-  if (topicId) {
-    const directPath = path.join(theoriesDir, `${topicId}.json`);
+  if (safeTopicId) {
+    const directPath = path.join(theoriesDir, `${safeTopicId}.json`);
     if (fs.existsSync(directPath)) {
       try {
         return JSON.parse(fs.readFileSync(directPath, 'utf8'));
       } catch (e) {}
     }
 
-    const cleanId = topicId.replace(/^(grammar_|vocab_)/, '');
+    const cleanId = safeTopicId.replace(/^(grammar_|vocab_)/, '');
 
     // Try grammar / vocab with cleanId
     const grammarPath = path.join(theoriesDir, 'grammar', `grammar_${cleanId}.json`);

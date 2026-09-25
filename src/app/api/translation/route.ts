@@ -4,10 +4,15 @@ import path from 'path';
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
-  const questionId = searchParams.get('questionId');
+  const rawQuestionId = searchParams.get('questionId');
 
-  if (!questionId) {
+  if (!rawQuestionId) {
     return NextResponse.json({ error: 'questionId is required' }, { status: 400 });
+  }
+
+  const questionId = rawQuestionId.replace(/[^a-zA-Z0-9_-]/g, '');
+  if (!questionId) {
+    return NextResponse.json({ error: 'Invalid questionId' }, { status: 400 });
   }
 
   const transPath = path.join(process.cwd(), 'data', 'translations.json');

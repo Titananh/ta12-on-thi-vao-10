@@ -16,7 +16,10 @@ export async function POST() {
 
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
-  const redirectUrl = searchParams.get('redirect') || '/';
+  let redirectUrl = searchParams.get('redirect') || '/';
+  if (!redirectUrl.startsWith('/') || redirectUrl.startsWith('//') || redirectUrl.includes('://')) {
+    redirectUrl = '/';
+  }
   const response = NextResponse.redirect(new URL(redirectUrl, request.url));
   response.cookies.set(SESSION_COOKIE_NAME, '', {
     httpOnly: true,

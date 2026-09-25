@@ -61,7 +61,7 @@ export async function POST(request: NextRequest) {
       message: 'Đăng nhập Quản trị viên tối cao thành công qua Master Key!',
       user: {
         email: SUPERADMIN_EMAIL,
-        name: body.name || 'Super Admin (Master Key)',
+        name: body.name || 'ADMIN',
         role: 'superadmin',
       },
     });
