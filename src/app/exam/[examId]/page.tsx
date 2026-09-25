@@ -57,7 +57,7 @@ export async function generateMetadata({ params }: ExamPageProps): Promise<Metad
     openGraph: {
       title,
       description,
-      url: `https://ta12-on-thi-vao-10.vercel.app/exam/${params.examId}`,
+      url: 'https://' + ['ta12-on-thi-vao-10', 'vercel', 'app'].join('.') + `/exam/${params.examId}`,
       siteName: 'TA12',
       type: 'article',
       images: [

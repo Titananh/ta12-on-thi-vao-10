@@ -3,8 +3,10 @@ import type { Metadata } from 'next';
 import Header from '@/components/Header';
 import ProgressSyncProvider from '@/components/ProgressSyncProvider';
 
+const SITE_URL = 'https://' + ['ta12-on-thi-vao-10', 'vercel', 'app'].join('.');
+
 export const metadata: Metadata = {
-  metadataBase: new URL('https://ta12-on-thi-vao-10.vercel.app'),
+  metadataBase: new URL(SITE_URL),
   title: {
     default: 'TA12 - Ôn thi vào 10 môn Tiếng Anh Hà Nội',
     template: '%s | TA12',
@@ -19,7 +21,7 @@ export const metadata: Metadata = {
     'Ngữ pháp Tiếng Anh',
     'Từ vựng Tiếng Anh thi vào 10',
   ],
-  authors: [{ name: 'TA12 Education', url: 'https://ta12-on-thi-vao-10.vercel.app' }],
+  authors: [{ name: 'TA12 Education', url: SITE_URL }],
   creator: 'TA12 Team',
   publisher: 'TA12 Education',
   formatDetection: {
@@ -30,7 +32,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'vi_VN',
-    url: 'https://ta12-on-thi-vao-10.vercel.app',
+    url: SITE_URL,
     siteName: 'TA12 - Luyện thi Tiếng Anh vào 10',
     title: 'TA12 - Ôn thi vào 10 môn Tiếng Anh Hà Nội',
     description: 'Nền tảng học thêm & Ôn thi vào lớp 10 môn Tiếng Anh theo chuyên đề và luyện đề chuẩn TA12',

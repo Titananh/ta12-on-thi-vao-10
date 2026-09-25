@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/admin/
+Disallow: /api/auth/
+
+Sitemap: https://ta12-on-thi-vao-10.vercel.app/sitemap.xml
