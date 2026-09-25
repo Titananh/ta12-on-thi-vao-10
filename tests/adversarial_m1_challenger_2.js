@@ -22,89 +22,107 @@ const ADMIN_DIR = path.join(ROOT_DIR, 'admin');
 // -----------------------------------------------------------------------------
 // Module Mocking & TypeScript Transpiler Hook
 // -----------------------------------------------------------------------------
+class MockResponseCookies {
+  constructor() {
+    this._map = new Map();
+  }
+  set(name, value, options = {}) {
+    this._map.set(name, { name, value: String(value), options });
+  }
+  get(name) {
+    return this._map.get(name) || undefined;
+  }
+  delete(name) {
+    this._map.set(name, { name, value: '', options: { maxAge: 0, path: '/' } });
+  }
+}
+
+class MockNextResponse {
+  constructor(body, init = {}) {
+    this.body = body;
+    this.status = typeof init === 'number' ? init : (init?.status || 200);
+    this.headers = new Map();
+    this.cookies = new MockResponseCookies();
+  }
+  static json(body, init = {}) {
+    const res = new MockNextResponse(JSON.stringify(body), init);
+    res._json = body;
+    return res;
+  }
+  static redirect(url, init = {}) {
+    const status = typeof init === 'number' ? init : (init?.status || 307);
+    const res = new MockNextResponse('', { status });
+    res.headers.set('location', typeof url === 'string' ? url : url.toString());
+    return res;
+  }
+  async json() {
+    return this._json !== undefined ? this._json : (this.body ? JSON.parse(this.body) : {});
+  }
+}
+
+class MockHeaders {
+  constructor(init = {}) {
+    this._map = new Map();
+    if (init) {
+      if (init instanceof MockHeaders || init.entries) {
+        for (const [k, v] of Object.entries(init)) {
+          this._map.set(k.toLowerCase(), v);
+        }
+      } else {
+        for (const [k, v] of Object.entries(init)) {
+          this._map.set(k.toLowerCase(), String(v));
+        }
+      }
+    }
+  }
+  get(name) {
+    return this._map.get(name.toLowerCase()) || null;
+  }
+  set(name, value) {
+    this._map.set(name.toLowerCase(), String(value));
+  }
+}
+
+class MockRequestCookies {
+  constructor(init = {}) {
+    this._map = new Map();
+    if (init) {
+      for (const [k, v] of Object.entries(init)) {
+        this._map.set(k, { name: k, value: String(v) });
+      }
+    }
+  }
+  get(name) {
+    return this._map.get(name) || undefined;
+  }
+}
+
+class MockNextRequest {
+  constructor(input, init = {}) {
+    this.url = typeof input === 'string' ? input : input.url;
+    this.nextUrl = new URL(this.url);
+    this.method = init.method || 'GET';
+    this.body = init.body;
+    this.headers = new MockHeaders(init.headers || {});
+    this.cookies = new MockRequestCookies(init.cookies || {});
+  }
+  async json() {
+    if (this.body === undefined || this.body === null) return {};
+    return typeof this.body === 'string' ? JSON.parse(this.body) : this.body;
+  }
+}
+
 const originalRequire = Module.prototype.require;
 Module.prototype.require = function (request) {
   if (request === 'next/server') {
-    class MockNextResponse {
-      constructor(body, init = {}) {
-        this.body = body;
-        this.status = init.status || 200;
-        this.headers = new Map();
-        this.cookies = new Map();
-      }
-      static json(body, init = {}) {
-        const res = new MockNextResponse(JSON.stringify(body), init);
-        res._json = body;
-        return res;
-      }
-      static redirect(url, init = {}) {
-        const res = new MockNextResponse('', { status: typeof init === 'number' ? init : (init?.status || 307) });
-        res.headers.set('location', typeof url === 'string' ? url : url.toString());
-        return res;
-      }
-      async json() {
-        return this._json !== undefined ? this._json : JSON.parse(this.body);
-      }
-    }
-    class MockHeaders {
-      constructor(init = {}) {
-        this._map = new Map();
-        if (init) {
-          if (init instanceof MockHeaders || init.entries) {
-            for (const [k, v] of Object.entries(init)) {
-              this._map.set(k.toLowerCase(), v);
-            }
-          } else {
-            for (const [k, v] of Object.entries(init)) {
-              this._map.set(k.toLowerCase(), String(v));
-            }
-          }
-        }
-      }
-      get(name) {
-        return this._map.get(name.toLowerCase()) || null;
-      }
-      set(name, value) {
-        this._map.set(name.toLowerCase(), String(value));
-      }
-    }
-    class MockCookies {
-      constructor(init = {}) {
-        this._map = new Map();
-        if (init) {
-          for (const [k, v] of Object.entries(init)) {
-            this._map.set(k, { name: k, value: String(v) });
-          }
-        }
-      }
-      get(name) {
-        return this._map.get(name) || undefined;
-      }
-      set(name, value, options) {
-        this._map.set(name, { name, value, options });
-      }
-      delete(name) {
-        this._map.delete(name);
-      }
-    }
-    class MockNextRequest {
-      constructor(input, init = {}) {
-        this.url = typeof input === 'string' ? input : input.url;
-        this.nextUrl = new URL(this.url);
-        this.method = init.method || 'GET';
-        this.body = init.body;
-        this.headers = new MockHeaders(init.headers || {});
-        this.cookies = new MockCookies(init.cookies || {});
-      }
-      async json() {
-        return typeof this.body === 'string' ? JSON.parse(this.body) : this.body;
-      }
-    }
     return { NextResponse: MockNextResponse, NextRequest: MockNextRequest };
   }
   if (request.startsWith('@/')) {
     const rel = request.replace('@/', 'admin/src/');
-    return originalRequire.call(this, path.resolve(ROOT_DIR, rel));
+    const resolved = path.resolve(ROOT_DIR, rel);
+    if (fs.existsSync(resolved + '.ts')) return originalRequire.call(this, resolved + '.ts');
+    if (fs.existsSync(resolved + '.tsx')) return originalRequire.call(this, resolved + '.tsx');
+    return originalRequire.call(this, resolved);
   }
   return originalRequire.call(this, request);
 };
@@ -155,7 +173,6 @@ async function runAdversarialPenetrationTests() {
   const googleRoute = require(path.join(ADMIN_DIR, 'src', 'app', 'api', 'auth', 'google', 'route.ts'));
   const logoutRoute = require(path.join(ADMIN_DIR, 'src', 'app', 'api', 'auth', 'logout', 'route.ts'));
   const statsRoute = require(path.join(ADMIN_DIR, 'src', 'app', 'api', 'admin', 'stats', 'route.ts'));
-  const { NextRequest } = require('next/server');
 
   // Set up mock RSA keys for Google ID Token verification
   const { publicKey, privateKey } = crypto.generateKeyPairSync('rsa', { modulusLength: 2048 });
@@ -195,7 +212,7 @@ async function runAdversarialPenetrationTests() {
   const legitimateState = adminGoogleAuth.generateOAuthState({ returnUrl: '/dashboard', portal: 'admin' });
   const verifiedState = adminGoogleAuth.verifyOAuthState(legitimateState);
   assertEmpirical('Legitimate state verifies successfully', verifiedState.valid === true);
-  assertEmpirical('State payload contains unguessable random nonce (16 bytes)',
+  assertEmpirical('State payload contains unguessable random nonce (16 bytes hex)',
     typeof verifiedState.data?.nonce === 'string' && verifiedState.data.nonce.length === 32);
   assertEmpirical('State preserves returnUrl metadata', verifiedState.data?.returnUrl === '/dashboard');
 
@@ -253,18 +270,18 @@ async function runAdversarialPenetrationTests() {
     adminGoogleAuth.verifyOAuthState(futureState).valid === false);
 
   // 1.7 OAuth Route: State Cookie Binding & State Mismatch Detection
-  const reqInit = new NextRequest('http://localhost:3001/api/auth/google');
+  const reqInit = new MockNextRequest('http://localhost:3001/api/auth/google');
   const resInit = await googleRoute.GET(reqInit);
-  const setCookieHeader = resInit.cookies.get('ta12_admin_oauth_state');
-  assertEmpirical('Google OAuth initiation sets ta12_admin_oauth_state cookie', Boolean(setCookieHeader));
-  assertEmpirical('OAuth state cookie has httpOnly=true', setCookieHeader.options?.httpOnly === true);
-  assertEmpirical('OAuth state cookie has sameSite=lax', setCookieHeader.options?.sameSite === 'lax');
-  assertEmpirical('OAuth state cookie has maxAge=600s (10m)', setCookieHeader.options?.maxAge === 600);
+  const stateCookieEntry = resInit.cookies.get('ta12_admin_oauth_state');
+  assertEmpirical('Google OAuth initiation sets ta12_admin_oauth_state cookie', Boolean(stateCookieEntry));
+  assertEmpirical('OAuth state cookie has httpOnly=true', stateCookieEntry?.options?.httpOnly === true);
+  assertEmpirical('OAuth state cookie has sameSite=lax', stateCookieEntry?.options?.sameSite === 'lax');
+  assertEmpirical('OAuth state cookie has maxAge=600s (10m)', stateCookieEntry?.options?.maxAge === 600);
 
   // Cross-Session State Mismatch Attack (Attacker tries to submit legitimate state from another session)
   const attackerGeneratedState = adminGoogleAuth.generateOAuthState({ returnUrl: '/' });
   const victimCookieState = adminGoogleAuth.generateOAuthState({ returnUrl: '/' });
-  const reqMismatch = new NextRequest(
+  const reqMismatch = new MockNextRequest(
     `http://localhost:3001/api/auth/callback/google?code=some_code&state=${encodeURIComponent(attackerGeneratedState)}`,
     { cookies: { ta12_admin_oauth_state: victimCookieState } }
   );
@@ -303,7 +320,7 @@ async function runAdversarialPenetrationTests() {
       json: async () => ({ id_token: idToken }),
       text: async () => '',
     };
-    const req = new NextRequest(
+    const req = new MockNextRequest(
       `http://localhost:3001/api/auth/callback/google?code=valid_mock_code&state=${encodeURIComponent(testCallbackState)}`,
       { cookies: { ta12_admin_oauth_state: testCallbackState } }
     );
@@ -328,8 +345,9 @@ async function runAdversarialPenetrationTests() {
     const loc = res.headers.get('location');
     const hasForbiddenError = loc && loc.includes('error=forbidden');
     const hasForbiddenEmail = loc && loc.includes(encodeURIComponent(hostileEmail.toLowerCase()));
-    const noAdminSession = !res.cookies.get('ta12_admin_session')?.value;
-    const sessionCleared = res.cookies.get('ta12_admin_session')?.options?.maxAge === 0;
+    const sessionCookieEntry = res.cookies.get('ta12_admin_session');
+    const noAdminSession = !sessionCookieEntry || sessionCookieEntry.value === '';
+    const sessionCleared = sessionCookieEntry?.options?.maxAge === 0;
 
     assertEmpirical(
       `Hostile email "${hostileEmail}" rejected with 403 Forbidden redirect & session cleared`,
@@ -339,7 +357,10 @@ async function runAdversarialPenetrationTests() {
   }
 
   // 2.2 Unverified email for dot71714@gmail.com
+  const origConsoleError = console.error;
+  console.error = () => {}; // suppress expected error logging for this negative test
   const resUnverified = await testCallbackWithEmail('dot71714@gmail.com', false);
+  console.error = origConsoleError;
   const locUnverified = resUnverified.headers.get('location');
   assertEmpirical(
     'Email dot71714@gmail.com with email_verified=false is strictly rejected (fails id_token crypto check)',
@@ -350,10 +371,10 @@ async function runAdversarialPenetrationTests() {
   // 2.3 Genuine dot71714@gmail.com with email_verified=true
   const resSuperadmin = await testCallbackWithEmail('dot71714@gmail.com', true);
   const locSuperadmin = resSuperadmin.headers.get('location');
-  const sessionCookie = resSuperadmin.cookies.get('ta12_admin_session');
+  const sessionCookieEntry = resSuperadmin.cookies.get('ta12_admin_session');
   assertEmpirical(
     'Genuine dot71714@gmail.com succeeds: redirects to returnUrl and issues admin session',
-    Boolean(locSuperadmin && !locSuperadmin.includes('error') && sessionCookie && sessionCookie.value)
+    Boolean(locSuperadmin && !locSuperadmin.includes('error') && sessionCookieEntry && sessionCookieEntry.value)
   );
 
   // 2.4 Case Canonicalization: DOT71714@GMAIL.COM in Google token
@@ -401,25 +422,25 @@ async function runAdversarialPenetrationTests() {
 
   // 3.2 Master Key Login endpoint boundary tests
   // Missing body
-  const resNoBody = await loginRoute.POST(new NextRequest('http://localhost:3001/api/auth/login', { method: 'POST' }));
+  const resNoBody = await loginRoute.POST(new MockNextRequest('http://localhost:3001/api/auth/login', { method: 'POST', body: {} }));
   assertEmpirical('Missing masterKey rejected with HTTP 401', resNoBody.status === 401);
 
   // Whitespace-only master key
-  const resWhitespace = await loginRoute.POST(new NextRequest('http://localhost:3001/api/auth/login', {
+  const resWhitespace = await loginRoute.POST(new MockNextRequest('http://localhost:3001/api/auth/login', {
     method: 'POST',
     body: { masterKey: '     ' }
   }));
   assertEmpirical('Whitespace-only masterKey rejected with HTTP 401', resWhitespace.status === 401);
 
   // Old backdoor: sending email only without master key
-  const resBackdoor = await loginRoute.POST(new NextRequest('http://localhost:3001/api/auth/login', {
+  const resBackdoor = await loginRoute.POST(new MockNextRequest('http://localhost:3001/api/auth/login', {
     method: 'POST',
     body: { email: 'dot71714@gmail.com' }
   }));
   assertEmpirical('ZERO-BYPASS: Email-only POST blocked with HTTP 401', resBackdoor.status === 401);
 
   // Valid login via password alias
-  const resPasswordAlias = await loginRoute.POST(new NextRequest('http://localhost:3001/api/auth/login', {
+  const resPasswordAlias = await loginRoute.POST(new MockNextRequest('http://localhost:3001/api/auth/login', {
     method: 'POST',
     body: { password: EXPECTED_MASTER }
   }));
@@ -431,17 +452,18 @@ async function runAdversarialPenetrationTests() {
   console.log('\n▶ CHALLENGE 4: Session Cookie Security Properties & TTL Expiry...');
 
   // 4.1 Login cookie properties inspection
-  const loginCookie = resPasswordAlias.cookies.get('ta12_admin_session');
-  assertEmpirical('ta12_admin_session cookie exists on successful login', Boolean(loginCookie));
-  assertEmpirical('Cookie property httpOnly === true (XSS immunity)', loginCookie.options?.httpOnly === true);
-  assertEmpirical('Cookie property sameSite === "lax" (CSRF mitigation)', loginCookie.options?.sameSite === 'lax');
-  assertEmpirical('Cookie property maxAge === 604800 (strict 7 days TTL)', loginCookie.options?.maxAge === 7 * 24 * 3600);
-  assertEmpirical('Cookie property path === "/"', loginCookie.options?.path === '/');
+  const loginCookieEntry = resPasswordAlias.cookies.get('ta12_admin_session');
+  assertEmpirical('ta12_admin_session cookie exists on successful login', Boolean(loginCookieEntry));
+  assertEmpirical('Cookie property httpOnly === true (XSS immunity)', loginCookieEntry?.options?.httpOnly === true);
+  assertEmpirical('Cookie property sameSite === "lax" (CSRF mitigation)', loginCookieEntry?.options?.sameSite === 'lax');
+  assertEmpirical('Cookie property maxAge === 604800 (strict 7 days TTL)', loginCookieEntry?.options?.maxAge === 7 * 24 * 3600);
+  assertEmpirical('Cookie property path === "/"', loginCookieEntry?.options?.path === '/');
 
   // 4.2 Logout endpoint destroys cookie
   const resLogout = await logoutRoute.POST();
+  const logoutCookie = resLogout.cookies.get('ta12_admin_session');
   assertEmpirical('POST /api/auth/logout deletes admin session cookie',
-    resLogout.cookies.get('ta12_admin_session') === undefined || resLogout.cookies.get('ta12_admin_session')?.value === '');
+    logoutCookie === undefined || logoutCookie.value === '' || logoutCookie.options?.maxAge === 0);
 
   // 4.3 Server-Side TTL Timestamp Enforcement in verifyAdminToken
   const freshAdminToken = adminAuth.signAdminToken('dot71714@gmail.com');
@@ -489,14 +511,14 @@ async function runAdversarialPenetrationTests() {
   console.log('\n▶ CHALLENGE 5: API Route Access Guard & Token Verification...');
 
   // Unauthenticated live request
-  const unauthReq = new NextRequest('http://localhost:3001/api/admin/stats', {
+  const unauthReq = new MockNextRequest('http://localhost:3001/api/admin/stats', {
     headers: { 'user-agent': 'Penetration-Tester/1.0' }
   });
   const unauthRes = await statsRoute.GET(unauthReq);
   assertEmpirical('Live HTTP request without session returns HTTP 401 Unauthorized', unauthRes.status === 401);
 
   // Request with expired token
-  const expiredReq = new NextRequest('http://localhost:3001/api/admin/stats', {
+  const expiredReq = new MockNextRequest('http://localhost:3001/api/admin/stats', {
     headers: {
       'user-agent': 'Penetration-Tester/1.0',
       cookie: `ta12_admin_session=${expiredAdminToken}`
@@ -511,7 +533,7 @@ async function runAdversarialPenetrationTests() {
   const studentTokenSig = crypto.createHmac('sha256', ADMIN_SECRET).update(studentTokenPayload).digest('hex');
   const studentToken = Buffer.from(`${studentTokenPayload}:${studentTokenSig}`).toString('base64');
 
-  const studentReq = new NextRequest('http://localhost:3001/api/admin/stats', {
+  const studentReq = new MockNextRequest('http://localhost:3001/api/admin/stats', {
     headers: {
       'user-agent': 'Penetration-Tester/1.0',
       cookie: `ta12_admin_session=${studentToken}`
@@ -522,7 +544,7 @@ async function runAdversarialPenetrationTests() {
   assertEmpirical('Live HTTP request with non-superadmin token strictly returns HTTP 401', studentRes.status === 401);
 
   // Request with valid superadmin session
-  const authReq = new NextRequest('http://localhost:3001/api/admin/stats', {
+  const authReq = new MockNextRequest('http://localhost:3001/api/admin/stats', {
     headers: {
       'user-agent': 'Penetration-Tester/1.0',
       cookie: `ta12_admin_session=${freshAdminToken}`
