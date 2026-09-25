@@ -39,12 +39,28 @@ declare global {
 }
 
 function initDatabase(): DatabaseType {
-  const dbDir = path.resolve(process.cwd(), 'data');
-  if (!fs.existsSync(dbDir)) {
-    fs.mkdirSync(dbDir, { recursive: true });
+  const isVercel = Boolean(process.env.VERCEL || process.env.AWS_LAMBDA_FUNCTION_NAME);
+  let dbDir = path.resolve(process.cwd(), 'data');
+  let dbPath = path.join(dbDir, 'ta12_users.sqlite');
+
+  if (isVercel) {
+    const tmpPath = '/tmp/ta12_users.sqlite';
+    if (!fs.existsSync(tmpPath)) {
+      if (fs.existsSync(dbPath)) {
+        try {
+          fs.copyFileSync(dbPath, tmpPath);
+        } catch {
+          // fallback
+        }
+      }
+    }
+    dbPath = tmpPath;
+  } else {
+    if (!fs.existsSync(dbDir)) {
+      fs.mkdirSync(dbDir, { recursive: true });
+    }
   }
 
-  const dbPath = path.join(dbDir, 'ta12_users.sqlite');
   const db = new Database(dbPath);
 
   // WAL mode and concurrency configuration
@@ -184,6 +200,8 @@ export function getDb(): DatabaseType {
     return globalThis.__ta12_db;
   }
 }
+
+export const getDatabase = getDb;
 
 // Helper methods
 export function getUserById(id: string): User | undefined {

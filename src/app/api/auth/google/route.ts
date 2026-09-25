@@ -7,6 +7,7 @@ export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
   const returnUrl = searchParams.get('returnUrl') || '/';
   const requestedPersona = searchParams.get('persona') || 'approved';
+  const portal = searchParams.get('portal') || (returnUrl.startsWith('/admin') ? 'admin' : 'student');
 
   const clientId = process.env.GOOGLE_CLIENT_ID;
   const clientSecret = process.env.GOOGLE_CLIENT_SECRET;
@@ -15,7 +16,7 @@ export async function GET(request: NextRequest) {
     const origin = request.nextUrl.origin;
     const redirectUri = `${origin}/api/auth/callback/google`;
     const scope = encodeURIComponent('openid email profile');
-    const state = generateOAuthState({ returnUrl, portal: 'student' });
+    const state = generateOAuthState({ returnUrl, portal });
 
     const authEndpoint = ['https:', '', 'accounts.google.com', 'o', 'oauth2', 'v2', 'auth'].join('/');
     const authUrl = `${authEndpoint}?client_id=${encodeURIComponent(clientId)}&redirect_uri=${encodeURIComponent(
@@ -33,13 +34,27 @@ export async function GET(request: NextRequest) {
       maxAge: 10 * 60, // 10 minutes
     });
 
+    if (portal === 'admin') {
+      response.cookies.set('ta12_admin_oauth_state', state, {
+        httpOnly: true,
+        secure: process.env.NODE_ENV === 'production',
+        sameSite: 'lax',
+        path: '/',
+        maxAge: 10 * 60,
+      });
+    }
+
     return response;
   }
 
   // When credentials are not configured in production, redirect with error flag
   if (process.env.NODE_ENV === 'production') {
-    const errorUrl = new URL('/', request.url);
-    errorUrl.searchParams.set('auth_error', 'oauth_unconfigured');
+    const errorUrl = new URL(portal === 'admin' ? '/admin' : '/', request.url);
+    if (portal === 'admin') {
+      errorUrl.searchParams.set('error', 'oauth_unconfigured');
+    } else {
+      errorUrl.searchParams.set('auth_error', 'oauth_unconfigured');
+    }
     return NextResponse.redirect(errorUrl);
   }
 
