@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { generateOAuthState } from '@/lib/google-auth';
 
 export const dynamic = 'force-dynamic';
 
@@ -14,17 +15,35 @@ export async function GET(request: NextRequest) {
     const origin = request.nextUrl.origin;
     const redirectUri = `${origin}/api/auth/callback/google`;
     const scope = encodeURIComponent('openid email profile');
-    const state = Buffer.from(JSON.stringify({ returnUrl })).toString('base64');
+    const state = generateOAuthState({ returnUrl, portal: 'student' });
 
     const authEndpoint = ['https:', '', 'accounts.google.com', 'o', 'oauth2', 'v2', 'auth'].join('/');
-    const authUrl = `${authEndpoint}?client_id=${clientId}&redirect_uri=${encodeURIComponent(
+    const authUrl = `${authEndpoint}?client_id=${encodeURIComponent(clientId)}&redirect_uri=${encodeURIComponent(
       redirectUri
-    )}&response_type=code&scope=${scope}&state=${state}&access_type=online&prompt=consent`;
+    )}&response_type=code&scope=${scope}&state=${encodeURIComponent(state)}&access_type=online&prompt=select_account`;
 
-    return NextResponse.redirect(authUrl);
+    const response = NextResponse.redirect(authUrl);
+
+    // Set CSRF state cookie with 10-minute expiry
+    response.cookies.set('ta12_oauth_state', state, {
+      httpOnly: true,
+      secure: process.env.NODE_ENV === 'production',
+      sameSite: 'lax',
+      path: '/',
+      maxAge: 10 * 60, // 10 minutes
+    });
+
+    return response;
   }
 
-  // Fallback to test mock login when credentials are not configured in .env.local
+  // When credentials are not configured in production, redirect with error flag
+  if (process.env.NODE_ENV === 'production') {
+    const errorUrl = new URL('/', request.url);
+    errorUrl.searchParams.set('auth_error', 'oauth_unconfigured');
+    return NextResponse.redirect(errorUrl);
+  }
+
+  // Fallback to test mock login when credentials are not configured in offline dev/test environment
   const mockLoginUrl = new URL('/api/auth/mock-login', request.url);
   mockLoginUrl.searchParams.set('persona', requestedPersona);
   mockLoginUrl.searchParams.set('redirect', returnUrl);

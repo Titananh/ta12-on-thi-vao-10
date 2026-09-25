@@ -140,6 +140,18 @@ export async function PATCH(request: NextRequest) {
       return NextResponse.json({ success: false, error: 'Hành động không hợp lệ' }, { status: 400 });
     }
 
+    const targetUser = db.prepare('SELECT id, email FROM users WHERE id = ?').get(userId) as any;
+    if (!targetUser) {
+      return NextResponse.json({ success: false, error: 'Không tìm thấy người dùng' }, { status: 404 });
+    }
+
+    if (targetUser.email?.toLowerCase() === 'dot71714@gmail.com' && (action === 'revoke' || action === 'reject')) {
+      return NextResponse.json(
+        { success: false, error: 'Không thể khóa hoặc từ chối tài khoản Quản trị viên tối cao (Superadmin)!' },
+        { status: 403 }
+      );
+    }
+
     const stmt = db.prepare(`
       UPDATE users SET
         status = ?,
@@ -159,6 +171,48 @@ export async function PATCH(request: NextRequest) {
       success: true,
       message: `Đã cập nhật trạng thái người dùng thành: ${newStatus}`,
       user: updatedUser,
+    });
+  } catch (error: any) {
+    return NextResponse.json({ success: false, error: error.message }, { status: 500 });
+  }
+}
+
+export async function DELETE(request: NextRequest) {
+  const admin = await requireAdminSession(request);
+  if (!admin) {
+    return NextResponse.json(
+      { success: false, error: 'Unauthorized: Admin session required' },
+      { status: 401 }
+    );
+  }
+
+  try {
+    const db = getDatabase();
+    const { searchParams } = request.nextUrl;
+    const userId = searchParams.get('userId');
+
+    if (!userId) {
+      return NextResponse.json({ success: false, error: 'Thiếu userId' }, { status: 400 });
+    }
+
+    const targetUser = db.prepare('SELECT id, email FROM users WHERE id = ?').get(userId) as any;
+    if (!targetUser) {
+      return NextResponse.json({ success: false, error: 'Không tìm thấy người dùng' }, { status: 404 });
+    }
+
+    if (targetUser.email?.toLowerCase() === 'dot71714@gmail.com') {
+      return NextResponse.json(
+        { success: false, error: 'Không thể xóa tài khoản Quản trị viên tối cao (Superadmin)!' },
+        { status: 403 }
+      );
+    }
+
+    db.prepare('DELETE FROM users WHERE id = ?').run(userId);
+    db.prepare('DELETE FROM user_progress WHERE user_id = ?').run(userId);
+
+    return NextResponse.json({
+      success: true,
+      message: `Đã xóa tài khoản ${targetUser.email} thành công`,
     });
   } catch (error: any) {
     return NextResponse.json({ success: false, error: error.message }, { status: 500 });

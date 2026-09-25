@@ -9,11 +9,12 @@ import HocOnView from '@/components/HocOnView';
 import LuyenDeView from '@/components/LuyenDeView';
 import LuyenPhanView from '@/components/LuyenPhanView';
 import ApprovalWaitingScreen from '@/components/ApprovalWaitingScreen';
+import LoginRequiredScreen from '@/components/LoginRequiredScreen';
 import { useAuthProgress } from '@/components/ProgressSyncProvider';
 import taxonomyData from '../../data/taxonomy.json';
 
 export default function HomePage() {
-  const { user } = useAuthProgress();
+  const { user, isLoading } = useAuthProgress();
   const [activeTab, setActiveTab] = useState<'hoc-on' | 'luyen-de' | 'luyen-phan' | 'luyen-chudiem'>('luyen-chudiem');
   const [activeSkillSeo, setActiveSkillSeo] = useState<string>('phonetics');
   const [isModalOpen, setIsModalOpen] = useState<boolean>(false);
@@ -32,9 +33,44 @@ export default function HomePage() {
     } catch (e) {}
   }, []);
 
+  // Loading state: show spinner while checking auth session
+  if (isLoading) {
+    return (
+      <div className="min-h-[400px] flex items-center justify-center">
+        <div className="flex flex-col items-center space-y-3">
+          <div className="w-10 h-10 border-4 border-emerald-200 border-t-emerald-600 rounded-full animate-spin" />
+          <p className="text-sm text-slate-500 dark:text-slate-400">Đang kiểm tra đăng nhập...</p>
+        </div>
+      </div>
+    );
+  }
+
+  // Access Guard: require login to access any content
+  if (!user) {
+    return <LoginRequiredScreen />;
+  }
+
   // Access Guard: block pending users with ApprovalWaitingScreen
-  if (user && user.status === 'pending') {
+  if (user.status === 'pending') {
     return <ApprovalWaitingScreen user={user} />;
+  }
+
+  // Access Guard: block rejected users
+  if (user.status === 'rejected') {
+    return (
+      <div className="min-h-[400px] flex items-center justify-center px-4">
+        <div className="w-full max-w-lg bg-white dark:bg-[#242824] border border-red-200 dark:border-red-900/60 rounded-2xl shadow-xl p-8 text-center">
+          <div className="w-16 h-16 mx-auto mb-4 rounded-2xl bg-red-50 dark:bg-red-950/40 flex items-center justify-center text-red-500">
+            <svg className="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M18.364 18.364A9 9 0 005.636 5.636m12.728 12.728A9 9 0 015.636 5.636m12.728 12.728L5.636 5.636" /></svg>
+          </div>
+          <h2 className="text-xl font-bold text-slate-800 dark:text-white mb-2">Quyền truy cập bị từ chối</h2>
+          <p className="text-sm text-slate-600 dark:text-slate-300 mb-4">
+            Tài khoản <strong>{user.email}</strong> đã bị từ chối hoặc thu hồi quyền truy cập. Vui lòng liên hệ Quản trị viên để được hỗ trợ.
+          </p>
+          <a href="mailto:ta12@cth.edu.vn" className="text-emerald-600 hover:underline text-sm font-medium">ta12@cth.edu.vn</a>
+        </div>
+      </div>
+    );
   }
 
   return (

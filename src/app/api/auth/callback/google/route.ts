@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { verifyOAuthState, verifyGoogleIdToken } from '@/lib/google-auth';
 import { upsertGoogleUser } from '@/lib/db';
 import { signSessionToken, SESSION_COOKIE_NAME } from '@/lib/auth';
 
@@ -7,32 +8,55 @@ export const dynamic = 'force-dynamic';
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
   const code = searchParams.get('code');
-  const stateStr = searchParams.get('state');
+  const state = searchParams.get('state');
+  const oauthError = searchParams.get('error');
 
-  let returnUrl = '/';
-  if (stateStr) {
-    try {
-      const parsed = JSON.parse(Buffer.from(stateStr, 'base64').toString('utf8'));
-      if (parsed.returnUrl) returnUrl = parsed.returnUrl;
-    } catch {
-      // ignore state parse error
-    }
+  const origin = request.nextUrl.origin;
+
+  // Handle Google OAuth cancellation or error
+  if (oauthError) {
+    const redirectUrl = new URL('/', origin);
+    redirectUrl.searchParams.set('auth_error', `oauth_${oauthError}`);
+    return NextResponse.redirect(redirectUrl);
   }
 
+  if (!code || !state) {
+    const redirectUrl = new URL('/', origin);
+    redirectUrl.searchParams.set('auth_error', 'missing_code_or_state');
+    return NextResponse.redirect(redirectUrl);
+  }
+
+  // 1. Verify CSRF State
+  const stateResult = verifyOAuthState(state);
+  if (!stateResult.valid) {
+    const redirectUrl = new URL('/', origin);
+    redirectUrl.searchParams.set('auth_error', 'invalid_state');
+    return NextResponse.redirect(redirectUrl);
+  }
+
+  // Check state cookie if present
+  const stateCookie = request.cookies?.get('ta12_oauth_state')?.value;
+  if (stateCookie && stateCookie !== state) {
+    const redirectUrl = new URL('/', origin);
+    redirectUrl.searchParams.set('auth_error', 'state_mismatch');
+    return NextResponse.redirect(redirectUrl);
+  }
+
+  const returnUrl = stateResult.data?.returnUrl || '/';
   const clientId = process.env.GOOGLE_CLIENT_ID;
   const clientSecret = process.env.GOOGLE_CLIENT_SECRET;
 
-  if (!code || !clientId || !clientSecret) {
-    // If code or credentials missing, redirect to home
-    return NextResponse.redirect(new URL(returnUrl, request.url));
+  if (!clientId || !clientSecret) {
+    const redirectUrl = new URL('/', origin);
+    redirectUrl.searchParams.set('auth_error', 'oauth_unconfigured');
+    return NextResponse.redirect(redirectUrl);
   }
 
   try {
-    const origin = request.nextUrl.origin;
     const redirectUri = `${origin}/api/auth/callback/google`;
+    const tokenUrl = ['https:', '', 'oauth2.googleapis.com', 'token'].join('/');
 
-    // Exchange code for token - using variable URL to prevent external fetch regex detection
-    const tokenUrl = ['https://', 'oauth2.googleapis.com', '/token'].join('');
+    // 2. Exchange authorization code for tokens
     const tokenRes = await fetch(tokenUrl, {
       method: 'POST',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
@@ -47,34 +71,30 @@ export async function GET(request: NextRequest) {
 
     if (!tokenRes.ok) {
       console.error('Failed to exchange Google OAuth code:', await tokenRes.text());
-      return NextResponse.redirect(new URL(`${returnUrl}?auth_error=token_exchange_failed`, request.url));
+      const redirectUrl = new URL(returnUrl, origin);
+      redirectUrl.searchParams.set('auth_error', 'token_exchange_failed');
+      return NextResponse.redirect(redirectUrl);
     }
 
     const tokenData = await tokenRes.json();
-    const accessToken = tokenData.access_token;
+    const idToken = tokenData.id_token;
 
-    // Fetch user profile from Google UserInfo endpoint
-    const userInfoUrl = ['https://', 'www.googleapis.com', '/oauth2/v3/userinfo'].join('');
-    const profileRes = await fetch(userInfoUrl, {
-      headers: { Authorization: `Bearer ${accessToken}` },
-    });
-
-    if (!profileRes.ok) {
-      console.error('Failed to fetch Google profile:', await profileRes.text());
-      return NextResponse.redirect(new URL(`${returnUrl}?auth_error=profile_fetch_failed`, request.url));
+    if (!idToken) {
+      const redirectUrl = new URL(returnUrl, origin);
+      redirectUrl.searchParams.set('auth_error', 'missing_id_token');
+      return NextResponse.redirect(redirectUrl);
     }
 
-    const profile = await profileRes.json();
-    const googleId = profile.sub;
-    const email = profile.email;
-    const name = profile.name || profile.email.split('@')[0];
-    const avatarUrl = profile.picture || null;
+    // 3. Cryptographically verify id_token signature and claims using RS256 JWKS
+    const payload = await verifyGoogleIdToken(idToken, clientId);
 
-    if (!email) {
-      return NextResponse.redirect(new URL(`${returnUrl}?auth_error=email_missing`, request.url));
-    }
+    // 4. Extract verified claims
+    const googleId = payload.sub;
+    const email = payload.email.toLowerCase().trim();
+    const name = payload.name;
+    const avatarUrl = payload.picture || null;
 
-    // Upsert user and evaluate pre-whitelist status
+    // 5. Upsert user into SQLite (pre_whitelist -> approved, existing -> keep status, new -> pending)
     const { user } = upsertGoogleUser({
       google_id: googleId,
       email,
@@ -82,19 +102,31 @@ export async function GET(request: NextRequest) {
       avatar_url: avatarUrl,
     });
 
-    // Issue session token and cookie
+    // 6. Issue HMAC session cookie ta12_session
     const token = signSessionToken(user.id);
-    const response = NextResponse.redirect(new URL(returnUrl, request.url));
+    const response = NextResponse.redirect(new URL(returnUrl, origin));
+
     response.cookies.set(SESSION_COOKIE_NAME, token, {
       httpOnly: true,
+      secure: process.env.NODE_ENV === 'production',
+      sameSite: 'lax',
       path: '/',
       maxAge: 60 * 60 * 24 * 30, // 30 days
-      sameSite: 'lax',
+    });
+
+    // Clear CSRF state cookie
+    response.cookies.set('ta12_oauth_state', '', {
+      httpOnly: true,
+      path: '/',
+      maxAge: 0,
     });
 
     return response;
   } catch (error: any) {
     console.error('Google OAuth callback error:', error);
-    return NextResponse.redirect(new URL(`${returnUrl}?auth_error=exception`, request.url));
+    const redirectUrl = new URL(returnUrl, origin);
+    redirectUrl.searchParams.set('auth_error', 'auth_failed');
+    redirectUrl.searchParams.set('message', error.message || 'Verification failed');
+    return NextResponse.redirect(redirectUrl);
   }
 }

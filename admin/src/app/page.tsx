@@ -228,6 +228,31 @@ export default function AdminDashboardPage() {
     }
   };
 
+  // Delete User
+  const handleDeleteUser = async (userId: string, email: string) => {
+    if (!confirm(`Xác nhận xóa vĩnh viễn tài khoản học sinh: ${email}?`)) {
+      return;
+    }
+
+    setActionLoadingId(userId);
+    try {
+      const res = await fetch(`/api/admin/users?userId=${encodeURIComponent(userId)}`, {
+        method: 'DELETE',
+      });
+      const data = await res.json();
+      if (data.success) {
+        showToast(data.message, 'success');
+        await Promise.all([fetchUsers(), fetchStats()]);
+      } else {
+        showToast(data.error || 'Xóa thất bại', 'error');
+      }
+    } catch (err: any) {
+      showToast(err.message || 'Lỗi mạng khi xóa', 'error');
+    } finally {
+      setActionLoadingId(null);
+    }
+  };
+
   // Add Single Pre-whitelist Email
   const handleAddWhitelist = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -828,50 +853,69 @@ export default function AdminDashboardPage() {
                           {/* 1-Click Action Buttons */}
                           <td className="py-4 px-5 text-right">
                             <div className="flex items-center justify-end gap-2">
-                              {/* Pending user actions */}
-                              {isPending && (
+                              {/* Superadmin special indicator */}
+                              {u.email?.toLowerCase() === 'dot71714@gmail.com' ? (
+                                <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-emerald-500/15 border border-emerald-500/30 text-emerald-400 font-bold text-xs shadow-sm">
+                                  <span>👑</span> Superadmin
+                                </span>
+                              ) : (
                                 <>
+                                  {/* Pending user actions */}
+                                  {isPending && (
+                                    <>
+                                      <button
+                                        onClick={() => handleUserAction(u.id, 'approve')}
+                                        disabled={isLoading}
+                                        className="px-3.5 py-1.5 rounded-lg bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs flex items-center gap-1.5 shadow-md shadow-emerald-950/40 transition-all disabled:opacity-50"
+                                        title="Phê duyệt ngay lập tức cho học sinh truy cập web"
+                                      >
+                                        <span>✓ Duyệt (Approve)</span>
+                                      </button>
+                                      <button
+                                        onClick={() => handleUserAction(u.id, 'reject')}
+                                        disabled={isLoading}
+                                        className="px-3 py-1.5 rounded-lg bg-[#2b1f1f] hover:bg-rose-900/60 border border-rose-500/40 text-rose-300 font-semibold text-xs transition-colors disabled:opacity-50"
+                                        title="Từ chối truy cập"
+                                      >
+                                        <span>✕ Từ chối</span>
+                                      </button>
+                                    </>
+                                  )}
+
+                                  {/* Approved user actions */}
+                                  {isApproved && (
+                                    <button
+                                      onClick={() => handleUserAction(u.id, 'revoke')}
+                                      disabled={isLoading}
+                                      className="px-3 py-1.5 rounded-lg bg-[#292218] hover:bg-amber-900/60 border border-amber-500/40 text-amber-300 font-semibold text-xs transition-colors disabled:opacity-50"
+                                      title="Khóa / Thu hồi quyền truy cập học sinh này"
+                                    >
+                                      <span>✕ Thu hồi (Revoke)</span>
+                                    </button>
+                                  )}
+
+                                  {/* Rejected user actions */}
+                                  {isRejected && (
+                                    <button
+                                      onClick={() => handleUserAction(u.id, 'approve')}
+                                      disabled={isLoading}
+                                      className="px-3 py-1.5 rounded-lg bg-[#1a281a] hover:bg-emerald-900/60 border border-emerald-500/40 text-emerald-300 font-semibold text-xs transition-colors disabled:opacity-50"
+                                      title="Kích hoạt lại tài khoản này"
+                                    >
+                                      <span>⟲ Kích hoạt lại</span>
+                                    </button>
+                                  )}
+
+                                  {/* Delete user button */}
                                   <button
-                                    onClick={() => handleUserAction(u.id, 'approve')}
+                                    onClick={() => handleDeleteUser(u.id, u.email)}
                                     disabled={isLoading}
-                                    className="px-3.5 py-1.5 rounded-lg bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs flex items-center gap-1.5 shadow-md shadow-emerald-950/40 transition-all disabled:opacity-50"
-                                    title="Phê duyệt ngay lập tức cho học sinh truy cập web"
+                                    className="p-1.5 rounded-lg hover:bg-rose-950/50 text-[#687868] hover:text-rose-400 border border-transparent hover:border-rose-800/40 transition-colors disabled:opacity-50"
+                                    title="Xóa vĩnh viễn tài khoản học sinh này"
                                   >
-                                    <span>✓ Duyệt (Approve)</span>
-                                  </button>
-                                  <button
-                                    onClick={() => handleUserAction(u.id, 'reject')}
-                                    disabled={isLoading}
-                                    className="px-3 py-1.5 rounded-lg bg-[#2b1f1f] hover:bg-rose-900/60 border border-rose-500/40 text-rose-300 font-semibold text-xs transition-colors disabled:opacity-50"
-                                    title="Từ chối truy cập"
-                                  >
-                                    <span>✕ Từ chối</span>
+                                    <span className="text-xs">🗑️</span>
                                   </button>
                                 </>
-                              )}
-
-                              {/* Approved user actions */}
-                              {isApproved && (
-                                <button
-                                  onClick={() => handleUserAction(u.id, 'revoke')}
-                                  disabled={isLoading}
-                                  className="px-3 py-1.5 rounded-lg bg-[#292218] hover:bg-amber-900/60 border border-amber-500/40 text-amber-300 font-semibold text-xs transition-colors disabled:opacity-50"
-                                  title="Khóa / Thu hồi quyền truy cập học sinh này"
-                                >
-                                  <span>✕ Thu hồi (Revoke)</span>
-                                </button>
-                              )}
-
-                              {/* Rejected user actions */}
-                              {isRejected && (
-                                <button
-                                  onClick={() => handleUserAction(u.id, 'approve')}
-                                  disabled={isLoading}
-                                  className="px-3 py-1.5 rounded-lg bg-[#1a281a] hover:bg-emerald-900/60 border border-emerald-500/40 text-emerald-300 font-semibold text-xs transition-colors disabled:opacity-50"
-                                  title="Kích hoạt lại tài khoản này"
-                                >
-                                  <span>⟲ Kích hoạt lại</span>
-                                </button>
                               )}
                             </div>
                           </td>

@@ -288,6 +288,13 @@ async function runTestSuite() {
   check('Subsequent login of whitelisted user is upgraded to status="approved"', upgradedUser.status === 'approved');
   check('Upgraded user receives valid approved_at timestamp', Boolean(upgradedUser.approved_at));
 
+  // Teardown transient test records so test runs never pollute production database
+  db.prepare('DELETE FROM users WHERE email = ?').run(unknownEmail);
+  db.prepare('DELETE FROM pre_whitelist WHERE email = ?').run(unknownEmail);
+  db.prepare('DELETE FROM user_progress WHERE user_id = ?').run(regularUser.id);
+  db.prepare('DELETE FROM users WHERE email = ?').run('vip.student@ta12.edu.vn');
+  db.prepare('DELETE FROM user_progress WHERE user_id = ?').run(vipUser.id);
+
   // ---------------------------------------------------------------------------
   // VECTOR 6: Learning Progress Sync (GET / POST) & SQLite Persistence
   // ---------------------------------------------------------------------------

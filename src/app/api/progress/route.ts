@@ -11,6 +11,13 @@ export async function GET() {
       return NextResponse.json({ error: 'Unauthenticated' }, { status: 401 });
     }
 
+    if (user.status !== 'approved') {
+      return NextResponse.json(
+        { error: 'Access denied: Account pending admin approval' },
+        { status: 403 }
+      );
+    }
+
     const progress = getUserProgress(user.id);
     if (!progress) {
       return NextResponse.json({
@@ -54,6 +61,13 @@ export async function POST(request: NextRequest) {
     const { user } = await getCurrentUser();
     if (!user) {
       return NextResponse.json({ error: 'Unauthenticated' }, { status: 401 });
+    }
+
+    if (user.status !== 'approved') {
+      return NextResponse.json(
+        { error: 'Access denied: Account pending admin approval' },
+        { status: 403 }
+      );
     }
 
     const body = await request.json();

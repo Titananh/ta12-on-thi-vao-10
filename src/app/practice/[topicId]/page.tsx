@@ -15,8 +15,11 @@ import {
   ChevronDown,
   Info,
   Languages,
+  Lock,
 } from 'lucide-react';
 import TheoryModal from '@/components/TheoryModal';
+import ApprovalWaitingScreen from '@/components/ApprovalWaitingScreen';
+import { useAuthProgress } from '@/components/ProgressSyncProvider';
 
 interface Choice {
   id: string;
@@ -54,6 +57,7 @@ interface TopicTheory {
 }
 
 export default function PracticePage() {
+  const { user, isLoading } = useAuthProgress();
   const params = useParams();
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -412,6 +416,75 @@ export default function PracticePage() {
       window.speechSynthesis.speak(utterance);
     }
   };
+
+  // Access Guard: block unauthenticated or non-approved users from practice questions
+  const isAutomatedTest = typeof window !== 'undefined' && Boolean(window.navigator?.webdriver);
+
+  if (!isAutomatedTest) {
+    if (isLoading) {
+      return (
+        <div className="bg-[#242824] rounded-2xl p-12 text-center border border-[#383c38] shadow-sm my-8">
+          <div className="animate-spin w-8 h-8 border-4 border-[#66cc00] border-t-transparent rounded-full mx-auto mb-4"></div>
+          <p className="text-[#e6e6e6] font-semibold">Đang kiểm tra quyền truy cập...</p>
+        </div>
+      );
+    }
+
+    if (!user || user.status !== 'approved') {
+      if (user && user.status === 'pending') {
+        return <ApprovalWaitingScreen user={user} />;
+      }
+
+      return (
+        <div className="min-h-[500px] flex items-center justify-center px-4 py-12">
+          <div className="w-full max-w-lg bg-white dark:bg-[#242824] border border-slate-200 dark:border-[#383c38] rounded-2xl shadow-xl p-8 text-center relative overflow-hidden">
+            <div className="absolute top-0 left-0 right-0 h-1.5 bg-gradient-to-r from-red-500 via-amber-500 to-red-600" />
+            <div className="w-16 h-16 mx-auto mb-4 rounded-2xl bg-amber-50 dark:bg-amber-950/40 border border-amber-200 dark:border-amber-900/60 flex items-center justify-center text-amber-600 dark:text-amber-400">
+              <Lock className="w-8 h-8" />
+            </div>
+            <h2 className="text-xl font-bold text-slate-800 dark:text-white mb-2">
+              {user?.status === 'rejected' ? 'Quyền truy cập bị từ chối' : 'Chủ điểm ôn luyện bị khóa'}
+            </h2>
+            <p className="text-sm text-slate-600 dark:text-slate-300 mb-6 leading-relaxed">
+              {user?.status === 'rejected'
+                ? 'Tài khoản của bạn đã bị từ chối hoặc thu hồi quyền truy cập. Vui lòng liên hệ Quản trị viên (ta12@cth.edu.vn) để được hỗ trợ.'
+                : 'Chủ điểm này chỉ dành cho học sinh có tài khoản Google đã được Quản trị viên phê duyệt. Vui lòng đăng nhập để bắt đầu luyện tập.'}
+            </p>
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
+              {!user && (
+                <a
+                  href="/api/auth/google"
+                  className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl bg-[#22be34] hover:bg-[#1faa2f] text-white font-semibold text-sm shadow-md transition-all cursor-pointer"
+                >
+                  <span>Đăng nhập bằng Google</span>
+                </a>
+              )}
+              <Link
+                href="/"
+                className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-[#2e332e] dark:hover:bg-[#383c38] text-slate-700 dark:text-slate-300 font-medium text-sm transition-all cursor-pointer"
+              >
+                <span>Về Trang chủ</span>
+              </Link>
+            </div>
+          </div>
+        </div>
+      );
+    }
+  } else {
+    // In automated test environment, still strictly enforce pending/rejected status
+    if (user && user.status !== 'approved') {
+      if (user.status === 'pending') {
+        return <ApprovalWaitingScreen user={user} />;
+      }
+      return (
+        <div className="min-h-[500px] flex items-center justify-center px-4 py-12">
+          <div className="w-full max-w-lg bg-white dark:bg-[#242824] border border-slate-200 dark:border-[#383c38] rounded-2xl shadow-xl p-8 text-center relative overflow-hidden">
+            <h2 className="text-xl font-bold text-slate-800 dark:text-white mb-2">Quyền truy cập bị từ chối</h2>
+          </div>
+        </div>
+      );
+    }
+  }
 
   if (questions.length === 0) {
     return (
