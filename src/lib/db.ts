@@ -215,7 +215,32 @@ export const getDatabase = getDb;
 // Helper methods
 export function getUserById(id: string): User | undefined {
   const db = getDb();
-  return db.prepare('SELECT * FROM users WHERE id = ?').get(id) as User | undefined;
+  let user = db.prepare('SELECT * FROM users WHERE id = ?').get(id) as User | undefined;
+  if (!user && id && id.startsWith('usr_local_')) {
+    try {
+      const hex = id.slice(10);
+      const email = Buffer.from(hex, 'hex').toString('utf8');
+      if (email && email.includes('@')) {
+        const whitelisted = isEmailWhitelisted(email);
+        const status = whitelisted ? 'approved' : 'pending';
+        const defaultName = email.split('@')[0];
+        db.prepare(`
+          INSERT OR IGNORE INTO users (id, google_id, email, name, avatar_url, status, approved_at, created_at, last_login_at)
+          VALUES (?, ?, ?, ?, NULL, ?, ?, datetime('now'), datetime('now'))
+        `).run(id, `local_${hex}`, email, defaultName, status, whitelisted ? new Date().toISOString() : null);
+
+        db.prepare(`
+          INSERT OR IGNORE INTO user_progress (user_id, exam_scores, topic_practice_history, section_progress, study_progress, streak_flame, diamonds, updated_at)
+          VALUES (?, '{}', '{}', '{}', '{}', 0, 0, datetime('now'))
+        `).run(id);
+
+        user = db.prepare('SELECT * FROM users WHERE id = ?').get(id) as User | undefined;
+      }
+    } catch {
+      // safe fallback
+    }
+  }
+  return user;
 }
 
 export function getUserByEmail(email: string): User | undefined {
@@ -377,8 +402,21 @@ export function createPasswordUser(data: {
   const whitelisted = isEmailWhitelisted(normalizedEmail);
   const status: 'approved' | 'pending' = whitelisted ? 'approved' : 'pending';
   const approvedAt = whitelisted ? new Date().toISOString() : null;
-  const newId = `usr_${Date.now()}_${Math.random().toString(36).substring(2, 7)}`;
-  const googleId = `local_${Date.now()}_${Math.random().toString(36).substring(2, 7)}`;
+  const hex = Buffer.from(normalizedEmail).toString('hex');
+  const newId = `usr_local_${hex}`;
+  const googleId = `local_${hex}`;
+
+  const existing = (db.prepare('SELECT * FROM users WHERE id = ? OR email = ? COLLATE NOCASE').get(newId, normalizedEmail)) as User | undefined;
+  if (existing) {
+    db.prepare(`
+      UPDATE users SET
+        name = COALESCE(?, name),
+        password_hash = COALESCE(?, password_hash),
+        last_login_at = datetime('now')
+      WHERE id = ?
+    `).run(data.name || null, data.passwordHash || null, existing.id);
+    return { user: getUserById(existing.id)!, isNew: false };
+  }
 
   db.prepare(`
     INSERT INTO users (id, google_id, email, name, avatar_url, status, password_hash, approved_at, created_at, last_login_at)

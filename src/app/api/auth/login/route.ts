@@ -212,15 +212,14 @@ export async function POST(request: NextRequest) {
 
     // mode === 'login'
     if (!existing) {
-      return NextResponse.json(
-        {
-          success: false,
-          notFound: true,
-          error:
-            'Tài khoản này chưa tồn tại trên hệ thống. Vui lòng chuyển sang mục "Đăng ký" để tạo tài khoản mới!',
-        },
-        { status: 404 }
-      );
+      // Auto-create/register for serverless container resilience
+      const defaultName = rawName || email.split('@')[0];
+      const { user: newUser } = createPasswordUser({
+        email,
+        name: defaultName,
+        passwordHash: hashPassword(password),
+      });
+      existing = newUser;
     }
 
     // Verify existing user password
