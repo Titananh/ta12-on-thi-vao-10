@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="vi" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TA12 - Ôn Thi Vào 10 Môn Tiếng Anh (Hà Nội)</title>
+  <meta name="description" content="Nền tảng luyện thi vào lớp 10 môn Tiếng Anh TP. Hà Nội mang thương hiệu TA12. Tích hợp đầy đủ ngân hàng đề thi chính thức, lý thuyết chuyên đề và giải thích chi tiết.">
+  <link rel="icon" href="./favicon.ico" />
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              green: '#22be34',
+              darkGreen: '#1c581f',
+              lightLime: '#83c224',
+              accentLime: '#66cc00'
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.85; transform: scale(1.02); }
+    }
+    .glow-pulse { animation: pulseGlow 2.5s infinite ease-in-out; }
+    .custom-scrollbar::-webkit-scrollbar { width: 6px; }
+    .custom-scrollbar::-webkit-scrollbar-thumb { background: #383c38; border-radius: 9999px; }
+  </style>
+</head>
+<body class="bg-[#181a18] text-slate-100 min-h-screen font-sans antialiased flex flex-col transition-colors duration-200" id="bodyRoot">
+
+  <!-- Top Announcement Bar -->
+  <div class="bg-gradient-to-r from-[#1c581f] via-[#22be34] to-[#1c581f] text-white py-1.5 px-4 text-xs font-medium text-center flex items-center justify-center space-x-2">
+    <span class="bg-white/20 px-2 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wider">GitHub Pages</span>
+    <span>Hệ thống Ôn thi vào 10 môn Tiếng Anh Hà Nội — Phiên bản Public GitHub TA12</span>
+    <a href="https://github.com/Titananh/ta12-on-thi-vao-10" target="_blank" class="underline font-bold hover:text-emerald-100 ml-1">GitHub Repo ›</a>
+  </div>
+
+  <!-- Main Header -->
+  <header class="bg-[#242824] border-b border-[#383c38] sticky top-0 z-40 shadow-sm">
+    <div class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between">
+      <!-- Left: Logo & Nav -->
+      <div class="flex items-center space-x-6">
+        <a href="./" class="flex items-center space-x-2 font-black text-2xl tracking-tighter text-[#66cc00]">
+          <span class="bg-[#22be34] text-white px-2 py-0.5 rounded-lg text-lg font-extrabold mr-1">TA</span>12
+        </a>
+        <nav class="hidden md:flex items-center space-x-5 text-sm font-medium">
+          <a href="#overview" class="hover:text-emerald-400 flex items-center space-x-1 text-slate-300">
+            <span>📊 Tổng quan</span>
+          </a>
+          <div class="h-4 w-px bg-slate-700"></div>
+          <span class="text-[#66cc00] font-semibold border-b-2 border-[#66cc00] pb-0.5">TA vào 10 HN</span>
+          <a href="#chuyen-de" class="hover:text-emerald-400 text-slate-300">Chuyên đề trọng điểm</a>
+          <a href="#de-thi" class="hover:text-emerald-400 text-slate-300">Đề thi chính thức</a>
+        </nav>
+      </div>
+
+      <!-- Right: Badges & Profile -->
+      <div class="flex items-center space-x-3">
+        <!-- Streak & Diamonds -->
+        <div class="hidden sm:flex items-center space-x-3 bg-[#1a1d1a] border border-[#383c38] rounded-full px-3 py-1 text-xs font-semibold">
+          <div class="flex items-center space-x-1 text-amber-500">
+            <i data-lucide="flame" class="w-4 h-4 fill-amber-500"></i>
+            <span id="streakCount">3</span>
+          </div>
+          <span class="text-slate-600">|</span>
+          <div class="flex items-center space-x-1 text-emerald-400">
+            <i data-lucide="gem" class="w-4 h-4"></i>
+            <span id="diamondCount">50</span>
+          </div>
+        </div>
+
+        <!-- Theme Toggle -->
+        <button id="themeBtn" onclick="toggleTheme()" class="p-2 rounded-lg text-slate-400 hover:text-white hover:bg-[#1e221e] transition-colors" title="Đổi giao diện">
+          <i data-lucide="sun" class="w-4 h-4 text-amber-400"></i>
+        </button>
+
+        <!-- User Profile Pill -->
+        <div class="relative">
+          <button id="userMenuBtn" onclick="toggleUserDropdown()" class="flex items-center space-x-2 pl-2 border-l border-[#383c38] text-left cursor-pointer hover:opacity-90">
+            <div class="w-8 h-8 rounded-full bg-emerald-900/60 text-emerald-300 flex items-center justify-center font-bold text-sm border border-emerald-500">
+              <span id="userAvatarText">ĐT</span>
+            </div>
+            <div class="hidden lg:block text-left leading-tight">
+              <div class="flex items-center space-x-1.5">
+                <span id="userNameText" class="text-xs font-semibold text-white">Đỗ Tuấn</span>
+                <span id="userBadge" class="text-[9px] font-bold text-emerald-400 bg-emerald-950/70 border border-emerald-400 px-1 py-0.2 rounded-full">
+                  ✓ Đã duyệt
+                </span>
+              </div>
+              <div class="text-[10px] text-slate-400 flex items-center space-x-1">
+                <span>Học viên</span>
+                <span class="text-slate-500">•</span>
+                <span id="userEmailText" class="text-[9px] text-slate-400 truncate max-w-[120px]">dotuan.student@ta12.edu.vn</span>
+              </div>
+            </div>
+            <i data-lucide="chevron-down" class="w-3.5 h-3.5 text-slate-400"></i>
+          </button>
+
+          <!-- Dropdown -->
+          <div id="userDropdown" class="hidden absolute right-0 mt-2 w-64 bg-[#242824] border border-[#383c38] rounded-xl shadow-2xl py-2 z-50 text-xs">
+            <div class="px-3 py-2 border-b border-[#383c38]">
+              <div id="ddName" class="font-semibold text-white">Đỗ Tuấn</div>
+              <div id="ddEmail" class="text-slate-400 text-[11px]">dotuan.student@ta12.edu.vn</div>
+              <div class="mt-1">
+                <span class="text-[10px] text-emerald-400 font-medium">✓ Đã duyệt toàn bộ khoá học</span>
+              </div>
+            </div>
+            <div class="px-2 py-1.5">
+              <button onclick="switchUserPersona('admin')" class="w-full text-left flex items-center space-x-2 px-2.5 py-1.5 rounded-lg hover:bg-[#1a1d1a] text-red-300 transition-colors">
+                <i data-lucide="shield-check" class="w-3.5 h-3.5 text-red-400"></i>
+                <span>dot71714@gmail.com (Superadmin)</span>
+              </button>
+              <button onclick="switchUserPersona('approved')" class="w-full text-left flex items-center space-x-2 px-2.5 py-1.5 rounded-lg hover:bg-[#1a1d1a] text-emerald-300 transition-colors">
+                <i data-lucide="user-check" class="w-3.5 h-3.5 text-emerald-400"></i>
+                <span>Đỗ Tuấn (Học viên - Đã duyệt)</span>
+              </button>
+              <button onclick="switchUserPersona('pending')" class="w-full text-left flex items-center space-x-2 px-2.5 py-1.5 rounded-lg hover:bg-[#1a1d1a] text-amber-300 transition-colors">
+                <i data-lucide="user-x" class="w-3.5 h-3.5 text-amber-400"></i>
+                <span>Nguyễn Văn An (Chờ duyệt)</span>
+              </button>
+            </div>
+            <div class="border-t border-[#383c38] pt-1 px-2">
+              <button onclick="logoutDemo()" class="w-full text-left flex items-center space-x-2 px-2.5 py-1.5 rounded-lg hover:bg-red-950/40 text-red-400 transition-colors">
+                <i data-lucide="log-out" class="w-3.5 h-3.5"></i>
+                <span>Đăng xuất</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content Container -->
+  <main class="max-w-6xl mx-auto px-4 py-6 flex-1 w-full space-y-6">
+
+    <!-- Hero / Status Banner -->
+    <div class="bg-gradient-to-r from-[#1c581f]/80 via-[#242824] to-[#1c581f]/80 border border-[#383c38] rounded-2xl p-6 relative overflow-hidden">
+      <div class="relative z-10 flex flex-col md:flex-row md:items-center justify-between gap-4">
+        <div>
+          <div class="flex items-center space-x-2 mb-2">
+            <span class="bg-[#22be34] text-white text-[11px] font-bold px-2.5 py-0.5 rounded-full uppercase tracking-wider">
+              Chính thức
+            </span>
+            <span class="text-xs text-slate-400">Khoá học Ôn thi vào 10 môn Anh - Hà Nội</span>
+          </div>
+          <h1 class="text-2xl md:text-3xl font-extrabold text-white tracking-tight">
+            Nền tảng Luyện thi Tiếng Anh vào 10 TA12
+          </h1>
+          <p class="text-sm text-slate-300 mt-1 max-w-2xl">
+            Tái hiện chuẩn xác 100% kho đề thi Sở GD&ĐT Hà Nội, hệ thống chuyên đề ngữ âm, trọng âm, ngữ pháp, từ vựng và bài tập đọc hiểu kèm giải thích chi tiết.
+          </p>
+        </div>
+
+        <div class="flex flex-wrap items-center gap-3">
+          <a href="https://github.com/Titananh/ta12-on-thi-vao-10" target="_blank" class="px-4 py-2 bg-[#22be34] hover:bg-[#1faa2f] text-white text-xs font-bold rounded-xl shadow-lg flex items-center space-x-2 transition-all">
+            <i data-lucide="github" class="w-4 h-4"></i>
+            <span>Mã nguồn GitHub</span>
+          </a>
+          <button onclick="scrollToDemo()" class="px-4 py-2 bg-[#1a1d1a] hover:bg-[#2c322c] border border-[#383c38] text-white text-xs font-semibold rounded-xl flex items-center space-x-2 transition-all">
+            <i data-lucide="play-circle" class="w-4 h-4 text-emerald-400"></i>
+            <span>Trải nghiệm câu hỏi</span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 4 Big Navigation Cards -->
+    <div class="grid grid-cols-2 lg:grid-cols-4 gap-4">
+      <!-- Card 1: Học ôn -->
+      <div onclick="switchTab('hoc-on')" class="nav-card cursor-pointer p-5 rounded-2xl border border-[#383c38] bg-[#242824] hover:border-emerald-500 hover:bg-[#2a302a] transition-all group">
+        <div class="w-10 h-10 rounded-xl bg-blue-500/20 text-blue-400 flex items-center justify-center mb-3">
+          <i data-lucide="book-open" class="w-5 h-5"></i>
+        </div>
+        <div class="text-xs font-bold text-slate-400 uppercase tracking-wider">Chế độ 1</div>
+        <div class="text-lg font-extrabold text-white group-hover:text-emerald-400 transition-colors">HỌC ÔN</div>
+        <div class="text-xs text-slate-400 mt-1">Lý thuyết & Từ vựng trọng điểm</div>
+      </div>
+
+      <!-- Card 2: Luyện đề thi -->
+      <div onclick="switchTab('luyen-de')" class="nav-card cursor-pointer p-5 rounded-2xl border border-[#383c38] bg-[#242824] hover:border-emerald-500 hover:bg-[#2a302a] transition-all group">
+        <div class="w-10 h-10 rounded-xl bg-purple-500/20 text-purple-400 flex items-center justify-center mb-3">
+          <i data-lucide="file-text" class="w-5 h-5"></i>
+        </div>
+        <div class="text-xs font-bold text-slate-400 uppercase tracking-wider">Chế độ 2</div>
+        <div class="text-lg font-extrabold text-white group-hover:text-emerald-400 transition-colors">LUYỆN ĐỀ THI</div>
+        <div class="text-xs text-slate-400 mt-1">Đề chính thức Sở GD&ĐT Hà Nội</div>
+      </div>
+
+      <!-- Card 3: Luyện từng phần -->
+      <div onclick="switchTab('luyen-phan')" class="nav-card cursor-pointer p-5 rounded-2xl border border-[#383c38] bg-[#242824] hover:border-emerald-500 hover:bg-[#2a302a] transition-all group">
+        <div class="w-10 h-10 rounded-xl bg-amber-500/20 text-amber-400 flex items-center justify-center mb-3">
+          <i data-lucide="layers" class="w-5 h-5"></i>
+        </div>
+        <div class="text-xs font-bold text-slate-400 uppercase tracking-wider">Chế độ 3</div>
+        <div class="text-lg font-extrabold text-white group-hover:text-emerald-400 transition-colors">LUYỆN TỪNG PHẦN</div>
+        <div class="text-xs text-slate-400 mt-1">Phát âm, Trọng âm, Tìm lỗi sai</div>
+      </div>
+
+      <!-- Card 4: Luyện chủ điểm (Active) -->
+      <div onclick="switchTab('luyen-chudiem')" class="nav-card cursor-pointer p-5 rounded-2xl border-2 border-[#22be34] bg-[#242824] shadow-lg shadow-emerald-950/40 transition-all group">
+        <div class="w-10 h-10 rounded-xl bg-emerald-500/20 text-emerald-400 flex items-center justify-center mb-3">
+          <i data-lucide="target" class="w-5 h-5"></i>
+        </div>
+        <div class="text-xs font-bold text-[#66cc00] uppercase tracking-wider">Chế độ 4 • Đang chọn</div>
+        <div class="text-lg font-extrabold text-white group-hover:text-emerald-400 transition-colors">LUYỆN CHỦ ĐIỂM</div>
+        <div class="text-xs text-slate-400 mt-1">Ngân hàng 38 chuyên đề chuyên sâu</div>
+      </div>
+    </div>
+
+    <!-- Authentic Skill Filter Pills -->
+    <div class="flex items-center space-x-2 overflow-x-auto pb-2 custom-scrollbar">
+      <button class="px-4 py-2 rounded-xl text-xs font-bold bg-[#1c581f] text-white border border-emerald-500 flex items-center space-x-1.5 flex-shrink-0">
+        <span class="w-2 h-2 rounded-full bg-[#83c224]"></span>
+        <span>Phonetics (Ngữ âm)</span>
+      </button>
+      <button class="px-4 py-2 rounded-xl text-xs font-semibold bg-[#242824] hover:bg-[#2c322c] text-slate-300 border border-[#383c38] flex items-center space-x-1.5 flex-shrink-0">
+        <span class="w-2 h-2 rounded-full bg-slate-500"></span>
+        <span>Vocabulary (Từ vựng)</span>
+      </button>
+      <button class="px-4 py-2 rounded-xl text-xs font-semibold bg-[#242824] hover:bg-[#2c322c] text-slate-300 border border-[#383c38] flex items-center space-x-1.5 flex-shrink-0">
+        <span class="w-2 h-2 rounded-full bg-slate-500"></span>
+        <span>Grammar (Ngữ pháp)</span>
+      </button>
+      <button class="px-4 py-2 rounded-xl text-xs font-semibold bg-[#242824] hover:bg-[#2c322c] text-slate-300 border border-[#383c38] flex items-center space-x-1.5 flex-shrink-0">
+        <span class="w-2 h-2 rounded-full bg-slate-500"></span>
+        <span>Reading (Đọc hiểu)</span>
+      </button>
+      <button class="px-4 py-2 rounded-xl text-xs font-semibold bg-[#242824] hover:bg-[#2c322c] text-slate-300 border border-[#383c38] flex items-center space-x-1.5 flex-shrink-0">
+        <span class="w-2 h-2 rounded-full bg-slate-500"></span>
+        <span>Speaking (Giao tiếp)</span>
+      </button>
+    </div>
+
+    <!-- Authentic Topic Directory (2 Columns with Tak12 Progress Pills & Real Scores) -->
+    <div class="bg-[#242824] border border-[#383c38] rounded-2xl p-6 md:p-8" id="chuyen-de">
+      <div class="flex items-center justify-between mb-6 pb-4 border-b border-[#383c38]">
+        <div>
+          <h2 class="text-2xl font-extrabold text-[#66cc00]">Phonetics (Ngữ âm & Trọng âm)</h2>
+          <p class="text-xs text-slate-400 mt-0.5">Tiến trình luyện tập thực tế theo tài khoản Đỗ Tuấn</p>
+        </div>
+        <div class="text-xs text-slate-400 bg-[#1a1d1a] border border-[#383c38] px-3 py-1.5 rounded-xl">
+          Tổng ngân hàng: <span class="text-emerald-400 font-bold">1,840+</span> câu hỏi
+        </div>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-8">
+        <!-- Col 1: Pronunciation -->
+        <div class="space-y-3">
+          <h3 class="text-lg font-bold text-[#83c224] pb-2 border-b border-[#383c38]">Pronunciation (Phát âm)</h3>
+
+          <!-- Topic 68: Đuôi "ed" (Score: 3) -->
+          <div class="p-3 bg-[#1a1d1a] border border-[#383c38] rounded-xl flex items-center justify-between hover:border-emerald-500 transition-all">
+            <div>
+              <div class="text-sm font-bold text-emerald-300">Đuôi "ed"</div>
+              <div class="text-xs text-slate-400 italic">Pronunciation of -ed ending • 568 câu</div>
+            </div>
+            <div class="flex flex-col items-center justify-center min-w-[28px] pl-2" title="Điểm: 3/100">
+              <div class="w-[7px] h-[20px] bg-slate-700 rounded-full overflow-hidden flex flex-col justify-end">
+                <div class="w-full bg-[#83c224] rounded-full" style="height: 15%;"></div>
+              </div>
+              <span class="text-[12px] font-semibold text-slate-200 mt-1">3</span>
+            </div>
+          </div>
+
+          <!-- Topic 69: Đuôi "s" / "es" -->
+          <div class="p-3 bg-[#1a1d1a] border border-[#383c38] rounded-xl flex items-center justify-between hover:border-emerald-500 transition-all">
+            <div>
+              <div class="text-sm font-bold text-emerald-300">Đuôi "s/es"</div>
+              <div class="text-xs text-slate-400 italic">Pronunciation of -s/-es ending • 420 câu</div>
+            </div>
+            <div class="flex flex-col items-center justify-center min-w-[28px] pl-2" title="Điểm: 0/100">
+              <div class="w-[7px] h-[20px] bg-slate-700 rounded-full overflow-hidden flex flex-col justify-end">
+                <div class="w-full bg-transparent" style="height: 0%;"></div>
+              </div>
+              <span class="text-[12px] font-semibold text-slate-500 mt-1">0</span>
+            </div>
+          </div>
+
+          <!-- Topic 70: Nguyên âm và phụ âm -->
+          <div class="p-3 bg-[#1a1d1a] border border-[#383c38] rounded-xl flex items-center justify-between hover:border-emerald-500 transition-all">
+            <div>
+              <div class="text-sm font-bold text-emerald-300">Nguyên âm & Phụ âm</div>
+              <div class="text-xs text-slate-400 italic">Vowels and Consonants • 650 câu</div>
+            </div>
+            <div class="flex flex-col items-center justify-center min-w-[28px] pl-2" title="Điểm: 0/100">
+              <div class="w-[7px] h-[20px] bg-slate-700 rounded-full overflow-hidden flex flex-col justify-end">
+                <div class="w-full bg-transparent" style="height: 0%;"></div>
+              </div>
+              <span class="text-[12px] font-semibold text-slate-500 mt-1">0</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Col 2: Word Stress & Grammar Highlights -->
+        <div class="space-y-3">
+          <h3 class="text-lg font-bold text-[#83c224] pb-2 border-b border-[#383c38]">Word Stress & Điểm cao</h3>
+
+          <!-- Topic 535: Đại từ sở hữu (Score: 10) -->
+          <div class="p-3 bg-[#1a1d1a] border border-[#383c38] rounded-xl flex items-center justify-between hover:border-emerald-500 transition-all">
+            <div>
+              <div class="text-sm font-bold text-emerald-300">Đại từ sở hữu</div>
+              <div class="text-xs text-slate-400 italic">Possessive Pronouns • 193 câu</div>
+            </div>
+            <div class="flex flex-col items-center justify-center min-w-[28px] pl-2" title="Điểm: 10/100">
+              <div class="w-[7px] h-[20px] bg-slate-700 rounded-full overflow-hidden flex flex-col justify-end">
+                <div class="w-full bg-[#83c224] rounded-full" style="height: 35%;"></div>
+              </div>
+              <span class="text-[12px] font-semibold text-slate-200 mt-1">10</span>
+            </div>
+          </div>
+
+          <!-- Topic 257: So sánh bằng (Score: 10) -->
+          <div class="p-3 bg-[#1a1d1a] border border-[#383c38] rounded-xl flex items-center justify-between hover:border-emerald-500 transition-all">
+            <div>
+              <div class="text-sm font-bold text-emerald-300">So sánh bằng (Equal Comparison)</div>
+              <div class="text-xs text-slate-400 italic">as...as / the same as • 382 câu</div>
+            </div>
+            <div class="flex flex-col items-center justify-center min-w-[28px] pl-2" title="Điểm: 10/100">
+              <div class="w-[7px] h-[20px] bg-slate-700 rounded-full overflow-hidden flex flex-col justify-end">
+                <div class="w-full bg-[#83c224] rounded-full" style="height: 35%;"></div>
+              </div>
+              <span class="text-[12px] font-semibold text-slate-200 mt-1">10</span>
+            </div>
+          </div>
+
+          <!-- Word Stress 2 syllables -->
+          <div class="p-3 bg-[#1a1d1a] border border-[#383c38] rounded-xl flex items-center justify-between hover:border-emerald-500 transition-all">
+            <div>
+              <div class="text-sm font-bold text-emerald-300">Trọng âm từ 2 âm tiết</div>
+              <div class="text-xs text-slate-400 italic">Stress in two-syllable words • 410 câu</div>
+            </div>
+            <div class="flex flex-col items-center justify-center min-w-[28px] pl-2" title="Điểm: 0/100">
+              <div class="w-[7px] h-[20px] bg-slate-700 rounded-full overflow-hidden flex flex-col justify-end">
+                <div class="w-full bg-transparent" style="height: 0%;"></div>
+              </div>
+              <span class="text-[12px] font-semibold text-slate-500 mt-1">0</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Interactive Practice Demo Box -->
+    <div class="bg-[#242824] border border-[#383c38] rounded-2xl p-6 md:p-8" id="demoSection">
+      <div class="flex items-center justify-between mb-4">
+        <div class="flex items-center space-x-2">
+          <span class="bg-emerald-500 text-white text-xs font-bold px-2 py-0.5 rounded-lg">Demo Câu Hỏi</span>
+          <span class="text-xs text-slate-400">Chuyên đề 68: Phát âm đuôi "-ed"</span>
+        </div>
+        <span class="text-xs text-amber-400 font-semibold flex items-center space-x-1">
+          <i data-lucide="clock" class="w-3.5 h-3.5"></i>
+          <span>Kiểm tra tức thì (Instant Feedback)</span>
+        </span>
+      </div>
+
+      <!-- Question Content -->
+      <div class="p-5 bg-[#1a1d1a] border border-[#383c38] rounded-xl mb-4">
+        <p class="text-sm md:text-base font-semibold text-slate-200 mb-4">
+          Choose the word whose underlined part is pronounced differently from that of the others:
+        </p>
+
+        <!-- Choices -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3" id="choicesContainer">
+          <button onclick="pickChoice('A')" id="btnChoiceA" class="choice-btn p-3 rounded-xl border border-[#383c38] bg-[#242824] hover:border-emerald-500 text-left text-sm font-medium flex items-center space-x-3 transition-all">
+            <span class="w-7 h-7 rounded-lg bg-[#1a1d1a] border border-[#383c38] flex items-center justify-center font-bold text-xs text-slate-300">A</span>
+            <span>want<u class="text-emerald-400 font-bold">ed</u></span>
+          </button>
+
+          <button onclick="pickChoice('B')" id="btnChoiceB" class="choice-btn p-3 rounded-xl border border-[#383c38] bg-[#242824] hover:border-emerald-500 text-left text-sm font-medium flex items-center space-x-3 transition-all">
+            <span class="w-7 h-7 rounded-lg bg-[#1a1d1a] border border-[#383c38] flex items-center justify-center font-bold text-xs text-slate-300">B</span>
+            <span>decid<u class="text-emerald-400 font-bold">ed</u></span>
+          </button>
+
+          <button onclick="pickChoice('C')" id="btnChoiceC" class="choice-btn p-3 rounded-xl border border-[#383c38] bg-[#242824] hover:border-emerald-500 text-left text-sm font-medium flex items-center space-x-3 transition-all">
+            <span class="w-7 h-7 rounded-lg bg-[#1a1d1a] border border-[#383c38] flex items-center justify-center font-bold text-xs text-slate-300">C</span>
+            <span>look<u class="text-emerald-400 font-bold">ed</u></span>
+          </button>
+
+          <button onclick="pickChoice('D')" id="btnChoiceD" class="choice-btn p-3 rounded-xl border border-[#383c38] bg-[#242824] hover:border-emerald-500 text-left text-sm font-medium flex items-center space-x-3 transition-all">
+            <span class="w-7 h-7 rounded-lg bg-[#1a1d1a] border border-[#383c38] flex items-center justify-center font-bold text-xs text-slate-300">D</span>
+            <span>start<u class="text-emerald-400 font-bold">ed</u></span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Action & Feedback Box -->
+      <div class="flex items-center justify-between flex-wrap gap-3">
+        <button id="checkBtn" onclick="checkAnswer()" disabled class="px-5 py-2.5 bg-[#22be34] hover:bg-[#1faa2f] disabled:opacity-40 disabled:cursor-not-allowed text-white font-bold rounded-xl text-xs transition-all shadow-md">
+          Kiểm tra ngay
+        </button>
+
+        <div id="feedbackBox" class="hidden flex-1 p-3 rounded-xl text-xs border"></div>
+      </div>
+    </div>
+
+    <!-- Official Exams Catalog -->
+    <div class="bg-[#242824] border border-[#383c38] rounded-2xl p-6 md:p-8" id="de-thi">
+      <div class="flex items-center justify-between mb-4">
+        <div>
+          <h2 class="text-2xl font-extrabold text-[#66cc00]">Đề thi chính thức vào 10 Sở GD&ĐT Hà Nội</h2>
+          <p class="text-xs text-slate-400">Ngân hàng 138 đề thi thật qua các năm</p>
+        </div>
+        <span class="text-xs text-purple-400 font-semibold bg-purple-950/60 border border-purple-800 px-3 py-1 rounded-full">
+          Chuẩn phòng thi 60 phút
+        </span>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <div class="p-4 bg-[#1a1d1a] border border-[#383c38] rounded-xl hover:border-emerald-500 transition-all">
+          <div class="text-[11px] text-amber-400 font-bold uppercase tracking-wider mb-1">Năm 2024</div>
+          <div class="font-bold text-white text-sm">Đề chính thức Sở GD&ĐT Hà Nội (2024)</div>
+          <div class="text-xs text-slate-400 mt-1">40 câu • 60 phút • Điểm học viên: <span class="text-emerald-400 font-bold">9.25/10</span></div>
+        </div>
+
+        <div class="p-4 bg-[#1a1d1a] border border-[#383c38] rounded-xl hover:border-emerald-500 transition-all">
+          <div class="text-[11px] text-amber-400 font-bold uppercase tracking-wider mb-1">Năm 2023</div>
+          <div class="font-bold text-white text-sm">Đề chính thức Sở GD&ĐT Hà Nội (2023)</div>
+          <div class="text-xs text-slate-400 mt-1">40 câu • 60 phút • Điểm học viên: <span class="text-emerald-400 font-bold">8.75/10</span></div>
+        </div>
+
+        <div class="p-4 bg-[#1a1d1a] border border-[#383c38] rounded-xl hover:border-emerald-500 transition-all">
+          <div class="text-[11px] text-amber-400 font-bold uppercase tracking-wider mb-1">Năm 2022</div>
+          <div class="font-bold text-white text-sm">Đề chính thức Sở GD&ĐT Hà Nội (2022)</div>
+          <div class="text-xs text-slate-400 mt-1">40 câu • 60 phút • Điểm học viên: <span class="text-slate-500">Chưa làm</span></div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-[#1e221e] border-t border-[#383c38] py-8 text-center text-xs text-slate-400">
+    <div class="max-w-6xl mx-auto px-4 space-y-2">
+      <div class="font-bold text-white text-sm">Nền tảng Ôn Thi Vào 10 Môn Tiếng Anh (TA12)</div>
+      <p>Bản quyền thuộc về dự án TA12 • Host tĩnh chính thức trên GitHub Pages: <a href="https://titananh.github.io/ta12-on-thi-vao-10/" class="text-emerald-400 hover:underline">titananh.github.io/ta12-on-thi-vao-10</a></p>
+      <p class="text-slate-500 text-[11px]">Hỗ trợ kỹ thuật & Quản trị: <span class="text-slate-400">dot71714@gmail.com</span></p>
+    </div>
+  </footer>
+
+  <script>
+    // Initialize Lucide Icons
+    lucide.createIcons();
+
+    // Theme Toggle
+    function toggleTheme() {
+      const root = document.getElementById('bodyRoot');
+      const isDark = root.classList.contains('dark');
+      if (isDark) {
+        root.classList.remove('dark');
+        root.classList.add('bg-slate-50', 'text-slate-800');
+        root.classList.remove('bg-[#181a18]', 'text-slate-100');
+      } else {
+        root.classList.add('dark');
+        root.classList.add('bg-[#181a18]', 'text-slate-100');
+        root.classList.remove('bg-slate-50', 'text-slate-800');
+      }
+      lucide.createIcons();
+    }
+
+    // User Dropdown
+    function toggleUserDropdown() {
+      const dd = document.getElementById('userDropdown');
+      dd.classList.toggle('hidden');
+    }
+
+    function switchUserPersona(type) {
+      const name = document.getElementById('userNameText');
+      const email = document.getElementById('userEmailText');
+      const badge = document.getElementById('userBadge');
+      const avatar = document.getElementById('userAvatarText');
+      const ddName = document.getElementById('ddName');
+      const ddEmail = document.getElementById('ddEmail');
+
+      if (type === 'admin') {
+        name.innerText = 'Admin Tuấn Anh';
+        email.innerText = 'dot71714@gmail.com';
+        badge.innerText = 'Superadmin';
+        badge.className = 'text-[9px] font-bold text-red-400 bg-red-950/70 border border-red-400 px-1 py-0.2 rounded-full';
+        avatar.innerText = 'TA';
+        ddName.innerText = 'Admin Tuấn Anh';
+        ddEmail.innerText = 'dot71714@gmail.com';
+      } else if (type === 'pending') {
+        name.innerText = 'Nguyễn Văn An';
+        email.innerText = 'pending.student@ta12.edu.vn';
+        badge.innerText = '⏳ Chờ duyệt';
+        badge.className = 'text-[9px] font-bold text-amber-400 bg-amber-950/70 border border-amber-400 px-1 py-0.2 rounded-full animate-pulse';
+        avatar.innerText = 'VA';
+        ddName.innerText = 'Nguyễn Văn An';
+        ddEmail.innerText = 'pending.student@ta12.edu.vn';
+      } else {
+        name.innerText = 'Đỗ Tuấn';
+        email.innerText = 'dotuan.student@ta12.edu.vn';
+        badge.innerText = '✓ Đã duyệt';
+        badge.className = 'text-[9px] font-bold text-emerald-400 bg-emerald-950/70 border border-emerald-400 px-1 py-0.2 rounded-full';
+        avatar.innerText = 'ĐT';
+        ddName.innerText = 'Đỗ Tuấn';
+        ddEmail.innerText = 'dotuan.student@ta12.edu.vn';
+      }
+      toggleUserDropdown();
+    }
+
+    function logoutDemo() {
+      const name = document.getElementById('userNameText');
+      const email = document.getElementById('userEmailText');
+      const badge = document.getElementById('userBadge');
+      const avatar = document.getElementById('userAvatarText');
+      name.innerText = 'Khách';
+      email.innerText = 'Chưa đăng nhập';
+      badge.innerText = 'Đăng nhập';
+      badge.className = 'text-[9px] font-bold text-blue-400 bg-blue-950/70 border border-blue-400 px-1 py-0.2 rounded-full';
+      avatar.innerText = '??';
+      toggleUserDropdown();
+    }
+
+    // Interactive Quiz Demo
+    let selectedChoice = null;
+    function pickChoice(choice) {
+      selectedChoice = choice;
+      document.querySelectorAll('.choice-btn').forEach(btn => {
+        btn.classList.remove('border-[#22be34]', 'bg-emerald-950/40');
+      });
+      const activeBtn = document.getElementById('btnChoice' + choice);
+      activeBtn.classList.add('border-[#22be34]', 'bg-emerald-950/40');
+      document.getElementById('checkBtn').removeAttribute('disabled');
+    }
+
+    function checkAnswer() {
+      const feedback = document.getElementById('feedbackBox');
+      feedback.classList.remove('hidden');
+
+      if (selectedChoice === 'C') {
+        feedback.className = 'flex-1 p-3 rounded-xl text-xs border border-emerald-500 bg-emerald-950/50 text-emerald-300';
+        feedback.innerHTML = '<strong>Chính xác! (+10đ)</strong> Đáp án là <strong>C. looked</strong> (phát âm là /t/). Các từ A, B, D kết thúc bằng /t/ hoặc /d/ nên phát âm đuôi -ed là /ɪd/.';
+      } else {
+        feedback.className = 'flex-1 p-3 rounded-xl text-xs border border-red-500 bg-red-950/50 text-red-300';
+        feedback.innerHTML = '<strong>Chưa chính xác!</strong> Đáp án đúng là <strong>C. looked</strong> (/t/). Các từ còn lại phát âm là /ɪd/ vì có âm cuối là /t/ hoặc /d/.';
+      }
+    }
+
+    function scrollToDemo() {
+      document.getElementById('demoSection').scrollIntoView({ behavior: 'smooth' });
+    }
+
+    function switchTab(tab) {
+      alert('Đã chuyển sang chế độ: ' + tab.toUpperCase() + '. Khi chạy phiên bản fullstack Node.js (npm start), dữ liệu SQLite sẽ tự động đồng bộ.');
+    }
+  </script>
+</body>
+</html>

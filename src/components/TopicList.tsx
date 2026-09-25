@@ -105,8 +105,8 @@ export default function TopicList({ skill, userStats }: TopicListProps) {
 
                     {/* Authentic Tak12 Score Progress: vertical pill bar & score label */}
                     <div
-                      className="flex flex-col items-center justify-center min-w-[28px] pl-2 flex-shrink-0"
-                      title={`Điểm: ${topicScore}/100 • Ngân hàng: ${topic.totalQuestions || 0} câu`}
+                      className="flex flex-col items-center justify-center min-w-[28px] text-right pl-2 flex-shrink-0"
+                      title={`Điểm: ${topicScore > 0 ? `${topicScore}%` : (topic.completed || 0)} • Ngân hàng: ${topic.totalQuestions || 0} câu`}
                     >
                       {/* Vertical pill progress bar */}
                       <div className="w-[7px] h-[20px] bg-slate-200 dark:bg-slate-700 rounded-full overflow-hidden flex flex-col justify-end">
@@ -118,7 +118,7 @@ export default function TopicList({ skill, userStats }: TopicListProps) {
                               ? 'bg-[#83c224]'
                               : 'bg-transparent'
                           }`}
-                          style={{ height: `${Math.max(topicScore > 0 ? topicScore : 0, topicScore > 0 ? 15 : 0)}%` }}
+                          style={{ height: `${topicScore}%` }}
                         />
                       </div>
                       {/* Score label below */}

@@ -5,6 +5,17 @@ import { signSessionToken, SESSION_COOKIE_NAME } from '@/lib/auth';
 export const dynamic = 'force-dynamic';
 
 function resolvePersonaUser(persona: string, customEmail?: string, customName?: string): User {
+  if (persona === 'admin' || (customEmail && customEmail.toLowerCase() === 'dot71714@gmail.com')) {
+    const admin = getUserById('usr_admin_dot71714');
+    if (admin) return admin;
+    const { user } = upsertGoogleUser({
+      google_id: 'mock_google_dot71714',
+      email: 'dot71714@gmail.com',
+      name: customName || 'Admin Tuấn Anh',
+    });
+    return user;
+  }
+
   if (persona === 'pending') {
     const user = getUserById('usr_pending_demo');
     if (user) return user;

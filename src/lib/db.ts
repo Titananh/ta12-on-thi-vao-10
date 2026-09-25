@@ -147,6 +147,28 @@ function seedDefaultPersonas(db: DatabaseType) {
       VALUES (?, ?, datetime('now'))
     `).run('vip.student@ta12.edu.vn', 'Học sinh lớp chọn - Tự động duyệt ngay khi đăng nhập');
   }
+
+  // 4. Superadmin Pre-whitelist & Account: dot71714@gmail.com
+  const adminEntry = db.prepare('SELECT id FROM pre_whitelist WHERE email = ? COLLATE NOCASE').get('dot71714@gmail.com');
+  if (!adminEntry) {
+    db.prepare(`
+      INSERT INTO pre_whitelist (email, notes, created_at)
+      VALUES (?, ?, datetime('now'))
+    `).run('dot71714@gmail.com', 'Superadmin - Tự động kích hoạt đặc quyền');
+  }
+
+  const adminUser = db.prepare('SELECT id FROM users WHERE email = ? COLLATE NOCASE').get('dot71714@gmail.com');
+  if (!adminUser) {
+    db.prepare(`
+      INSERT INTO users (id, google_id, email, name, avatar_url, status, approved_at, created_at, last_login_at)
+      VALUES (?, ?, ?, ?, ?, 'approved', datetime('now'), datetime('now'), datetime('now'))
+    `).run('usr_admin_dot71714', 'mock_google_dot71714', 'dot71714@gmail.com', 'Admin Tuấn Anh', null);
+
+    db.prepare(`
+      INSERT OR IGNORE INTO user_progress (user_id, exam_scores, topic_practice_history, section_progress, study_progress, streak_flame, diamonds, updated_at)
+      VALUES (?, '{}', '{}', '{}', '{}', 10, 500, datetime('now'))
+    `).run('usr_admin_dot71714');
+  }
 }
 
 export function getDb(): DatabaseType {
