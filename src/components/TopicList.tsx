@@ -103,41 +103,32 @@ export default function TopicList({ skill, userStats }: TopicListProps) {
                       </div>
                     </Link>
 
-                    {/* 2-Column Progress Layout: Col 1 = Số câu đã làm, Col 2 = % Chính xác */}
-                    <div className="flex items-center gap-4 flex-shrink-0">
-                      {/* Column 1: Số câu đã làm */}
-                      <div className="hidden sm:flex flex-col items-end min-w-[80px]">
-                        <div className="text-[11px] font-medium text-slate-500 dark:text-slate-400">
-                          {topic.completed ? `${topic.completed}/${topic.totalQuestions || 50} câu` : `${topic.completed || 0} câu`}
-                        </div>
-                        <div className="w-16 h-1.5 bg-slate-100 dark:bg-slate-700 rounded-full overflow-hidden mt-1">
-                          <div
-                            className="bg-emerald-500 h-full rounded-full transition-all"
-                            style={{ width: `${Math.min(100, Math.round(((topic.completed || 0) / Math.max(topic.totalQuestions || 50, 1)) * 100))}%` }}
-                          />
-                        </div>
-                      </div>
-
-                      {/* Column 2: % Chính xác */}
-                      <div className="flex items-center space-x-2">
-                        <div className="w-1.5 h-6 bg-slate-200 dark:bg-slate-700 rounded-full overflow-hidden hidden">
-                          <div
-                            className="bg-emerald-500 w-full rounded-full transition-all"
-                            style={{ height: `${topicScore}%` }}
-                          ></div>
-                        </div>
-                        <span
-                          className={`px-2 py-0.5 rounded-full text-xs font-bold text-center min-w-[28px] text-right min-w-[48px] ${
+                    {/* Authentic Tak12 Score Progress: vertical pill bar & score label */}
+                    <div
+                      className="flex flex-col items-center justify-center min-w-[28px] pl-2 flex-shrink-0"
+                      title={`Điểm: ${topicScore}/100 • Ngân hàng: ${topic.totalQuestions || 0} câu`}
+                    >
+                      {/* Vertical pill progress bar */}
+                      <div className="w-[7px] h-[20px] bg-slate-200 dark:bg-slate-700 rounded-full overflow-hidden flex flex-col justify-end">
+                        <div
+                          className={`w-full rounded-full transition-all duration-300 ${
                             topicScore >= 80
-                              ? 'bg-emerald-100 dark:bg-emerald-950 text-emerald-800 dark:text-emerald-300'
+                              ? 'bg-[#22be34]'
                               : topicScore > 0
-                              ? 'bg-amber-100 dark:bg-amber-950 text-amber-800 dark:text-amber-300'
-                              : 'bg-slate-100 dark:bg-[#1a1d1a] text-slate-500 dark:text-slate-400'
+                              ? 'bg-[#83c224]'
+                              : 'bg-transparent'
                           }`}
-                        >
-                          {topicScore > 0 ? `${topicScore}%` : (topic.completed || 0)}
-                        </span>
+                          style={{ height: `${Math.max(topicScore > 0 ? topicScore : 0, topicScore > 0 ? 15 : 0)}%` }}
+                        />
                       </div>
+                      {/* Score label below */}
+                      <span
+                        className={`text-[12px] font-semibold mt-1 leading-none ${
+                          topicScore > 0 ? 'text-slate-700 dark:text-slate-200' : 'text-slate-400 dark:text-slate-500'
+                        }`}
+                      >
+                        {topicScore}
+                      </span>
                     </div>
                   </div>
                 );
