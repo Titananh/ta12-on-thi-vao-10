@@ -1914,6 +1914,11 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
         isOpen={!!selectedTheoryQId}
         onClose={() => setSelectedTheoryQId(null)}
         questionId={selectedTheoryQId}
+        questionDetail={
+          testableQuestions.find((q) => String(q.id) === String(selectedTheoryQId))?.explanation ||
+          testableQuestions.find((q) => String(q.id) === String(selectedTheoryQId))?.hint ||
+          null
+        }
       />
     </div>
   );

@@ -13,7 +13,9 @@ interface TheoryModalProps {
   onClose: () => void;
   questionId?: string | number | null;
   topicId?: string | null;
+  studyUnit?: string | number | null;
   sectionId?: string | null;
+  questionDetail?: string | null;
   theoryFallback?: {
     topicName?: string;
     englishName?: string;
@@ -33,7 +35,9 @@ export default function TheoryModal({
   onClose,
   questionId,
   topicId,
+  studyUnit,
   sectionId,
+  questionDetail,
   theoryFallback,
 }: TheoryModalProps) {
   const [loading, setLoading] = useState(false);
@@ -50,13 +54,20 @@ export default function TheoryModal({
         const queryParams = new URLSearchParams();
         if (questionId) queryParams.set('questionId', String(questionId));
         if (topicId) queryParams.set('topicId', String(topicId));
+        if (studyUnit) queryParams.set('studyUnit', String(studyUnit));
         if (sectionId) queryParams.set('sectionId', String(sectionId));
 
         const res = await fetch(`/api/related-topic?${queryParams.toString()}`);
         if (res.ok) {
           const data = await res.json();
           if (isMounted && data && Array.isArray(data.listQuestionTopicDetail) && data.listQuestionTopicDetail.length > 0) {
-            setTopics(data.listQuestionTopicDetail);
+            // A question's own explanation is more precise than a module/section fallback.
+            // Keep the official cached related topic whenever one exists.
+            if (data.source !== 'question' && questionDetail?.trim()) {
+              setTopics([{ name: 'Kiến thức cần vận dụng', detail: questionDetail }]);
+            } else {
+              setTopics(data.listQuestionTopicDetail);
+            }
             setLoading(false);
             return;
           }
@@ -67,7 +78,14 @@ export default function TheoryModal({
 
       // Fallback if network or no topics found
       if (isMounted) {
-        if (theoryFallback) {
+        if (questionDetail?.trim()) {
+          setTopics([
+            {
+              name: 'Kiến thức cần vận dụng',
+              detail: questionDetail,
+            },
+          ]);
+        } else if (theoryFallback) {
           let fallbackDetail = theoryFallback.detail || '';
           if (!fallbackDetail && theoryFallback.rules && theoryFallback.rules.length > 0) {
             fallbackDetail = `
@@ -110,7 +128,7 @@ export default function TheoryModal({
     return () => {
       isMounted = false;
     };
-  }, [isOpen, questionId, topicId, sectionId, theoryFallback]);
+  }, [isOpen, questionId, topicId, studyUnit, sectionId, questionDetail, theoryFallback]);
 
   if (!isOpen) return null;
 

@@ -90,7 +90,7 @@ export default function HocOnView({ onStartQuiz }: HocOnViewProps) {
       onStartQuiz(unitId, subTab);
     } else {
       // Direct navigation to practice runner
-      window.location.href = `/practice/68?studyUnit=${unitId}&type=${subTab}`;
+      window.location.href = `/practice/${unitId}?studyUnit=${unitId}&type=${subTab}`;
     }
   };
 

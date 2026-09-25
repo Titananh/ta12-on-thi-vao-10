@@ -54,6 +54,11 @@
 | F33 | Admin Dashboard & 1-Click Actions | Metric cards, user table with 1-click Approve/Revoke, live search/filtering | M_ADMIN | User Req R3 |
 | F34 | Pre-whitelist Management | Admin input for allowed emails with auto-retroactive approval of pending accounts | M_ADMIN | User Req R3 |
 | F35 | Dual Build & Integration Test Suite | `npm run build:all`, test suite validating dual app builds, OAuth flows, and SQLite synchronization | M_VERIF | User Req R3 |
+| F36 | TheoryModal Topic Mapping & Disambiguation | Eliminate topic 68 fallback; map 100% study, exam, and section questions in `data/related_topics.json` | M_KIENTHUC_CORE | User Req R1 |
+| F37 | Tak12 4-Level Priority Hierarchy | questionId cache -> explanation/ruleTip -> studyUnit -> sectionId fallback sequence | M_KIENTHUC_CORE | User Req R1 |
+| F38 | 100% Offline Illustration Asset Delivery | All illustration images localized in `public/Upload/` served locally with 0 external requests | M_KIENTHUC_UI | User Req R1 |
+| F39 | Practice & ExamRunner Integration | Pass `questionId`, `studyUnit`, `sectionId`, `questionDetail` in Practice; support TheoryModal in active taking & review in ExamRunner | M_KIENTHUC_UI | User Req R2 |
+| F40 | Comprehensive Verification & Deployment | 21/21 modal checks, 16 test suites, Next.js dual builds, 5 real browser DevTools scenarios, git push & Vercel deployment | M_KIENTHUC_VERIF | User Req R3 |
 
 ## Milestones
 | # | Name | Scope | Dependencies | Status |
@@ -64,6 +69,10 @@
 | M_AUTH_DB | Google OAuth & SQLite Progress Sync (R2) | Install `better-sqlite3`, initialize `data/ta12_users.sqlite`, OAuth handlers, Access Guard, Header profile integration, and progress sync | M_GIT | DONE |
 | M_ADMIN | Dedicated Admin Web Portal (R3) | Standalone Next.js 14 app in `admin/` on port 3001, shared SQLite, Dashboard stats, 1-click Approve/Revoke, Pre-whitelist | M_AUTH_DB | DONE |
 | M_VERIF | Dual-App Build & Full E2E Verification | Ensure `npm run build:all` passes 100%, run full master test suite + admin tests, challenger tests, forensic audit | M_ADMIN | DONE |
+| M_KIENTHUC_CORE | TheoryModal Core Logic & Tak12 Hierarchy | Add `studyUnit` prop in TheoryModal, parse in `/api/related-topic`, fix `/api/questions` study subdirs check, eliminate fallback to topic 68 | none | IN_PROGRESS |
+| M_KIENTHUC_UI | Component Integration & Offline Assets | Update `PracticePage` & `ExamRunner` to pass complete props, track untracked images in `public/Upload/`, clean placeholder routes | M_KIENTHUC_CORE | PLANNED |
+| M_KIENTHUC_VERIF | Verification & Browser DevTools Testing | Pass `verify_kienthuc_modal.js` (21/21), resolve `npm test` legacy check, run dual Next.js builds, capture 5 browser scenario screenshots | M_KIENTHUC_UI | PLANNED |
+| M_KIENTHUC_DEPLOY | Git Commit, Push & Vercel Verification | Commit changes, push to `origin/main`, verify Vercel deployment status, issue completion claim report | M_KIENTHUC_VERIF | PLANNED |
 
 ## Interface Contracts
 ### Exam Room API (`/api/exams`)
@@ -96,6 +105,22 @@
 - **POST `/api/admin/whitelist`**: Add email to whitelist with optional auto-approval for existing pending accounts.
 - **DELETE `/api/admin/whitelist`**: Remove email from whitelist.
 - **GET `/api/admin/stats`**: Overall counts (approved, pending, rejected, whitelist) and student progress averages.
+
+### Knowledge / Related Topic API (`/api/related-topic`)
+- **GET `/api/related-topic?questionId=[id]&topicId=[id]&studyUnit=[id]&sectionId=[id]`**:
+  - Implements Tak12 4-level hierarchy: Level 1 (cached question topic) > Level 2 (explanation / ruleTip) > Level 3 (studyUnit module theory) > Level 4 (sectionId theory).
+  - Returns: `{ isDisplay: boolean, source: 'question' | 'studyUnit' | 'section' | 'topic', listQuestionTopicDetail: [{ name: string, detail: string | null }] }`.
+
+### TheoryModal Component Interface (`src/components/TheoryModal.tsx`)
+- **Props**:
+  - `isOpen: boolean`
+  - `onClose: () => void`
+  - `questionId?: string | number | null`
+  - `topicId?: string | null`
+  - `studyUnit?: string | number | null`
+  - `sectionId?: string | null`
+  - `questionDetail?: string | null`
+  - `theoryFallback?: { topicName?: string; englishName?: string; detail?: string; ... } | null`
 
 ## Code Layout
 - `data/exams/`: Offline exam catalog and bundles (`bundles/<examId>.json`).

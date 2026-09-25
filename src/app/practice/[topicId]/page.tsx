@@ -118,6 +118,10 @@ export default function PracticePage() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const topicId = params.topicId as string;
+  const studyUnit = searchParams.get('studyUnit');
+  const sectionIdParam = searchParams.get('sectionId');
+  // const relatedTopicId = studyUnit || topicId;
+  const relatedTopicId = studyUnit || ((sectionIdParam) ? null : (topicId === '68' ? null : topicId));
 
   const [questions, setQuestions] = useState<Question[]>([]);
   const [topicName, setTopicName] = useState<string>('Luyện theo chủ điểm');
@@ -146,7 +150,6 @@ export default function PracticePage() {
   useEffect(() => {
     async function loadData() {
       try {
-        const studyUnit = searchParams.get('studyUnit');
         const studyType = searchParams.get('type') || 'vocabulary';
 
         if (studyUnit) {
@@ -298,7 +301,7 @@ export default function PracticePage() {
       }
     }
     loadData();
-  }, [topicId, searchParams]);
+  }, [topicId, searchParams, studyUnit]);
 
   const currentQ = questions[currentIndex];
   const progressPercent = questions.length > 0 ? Math.round(((currentIndex + 1) / questions.length) * 100) : 0;
@@ -310,14 +313,20 @@ export default function PracticePage() {
     let isMounted = true;
     async function fetchDetails() {
       try {
-        const res = await fetch(`/api/related-topic?questionId=${currentQ.id}`);
+        const relatedParams = new URLSearchParams({ questionId: String(currentQ.id) });
+        if (relatedTopicId) relatedParams.set('topicId', relatedTopicId);
+        if (studyUnit) relatedParams.set('studyUnit', studyUnit);
+        if (sectionId) relatedParams.set('sectionId', sectionId);
+        const res = await fetch(`/api/related-topic?${relatedParams.toString()}`);
         if (res.ok) {
           const data = await res.json();
           if (isMounted && data.listQuestionTopicDetail && data.listQuestionTopicDetail.length > 0) {
             setActiveRelatedTopics(
               data.listQuestionTopicDetail.map((t: any) => ({
                 name: t.name,
-                url: `/practice/68?topics=${encodeURIComponent(t.name)}`,
+                url: studyUnit
+                  ? `/practice/${studyUnit}?studyUnit=${studyUnit}`
+                  : `/practice/custom?topics=${encodeURIComponent(t.name)}`,
               }))
             );
           }
@@ -355,7 +364,7 @@ export default function PracticePage() {
       isMounted = false;
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [currentQ?.id]);
+  }, [currentQ?.id, relatedTopicId, sectionId]);
 
   const isFillBlank = Boolean(
     currentQ?.questionType === 'FillBlank' ||
@@ -1487,8 +1496,10 @@ export default function PracticePage() {
         isOpen={isTheoryOpen}
         onClose={() => setIsTheoryOpen(false)}
         questionId={currentQ?.id}
-        topicId={topicId}
+        topicId={relatedTopicId}
+        studyUnit={studyUnit}
         sectionId={sectionId}
+        questionDetail={currentQ?.explanation || currentQ?.ruleTip || null}
         theoryFallback={theory}
       />
     </div>

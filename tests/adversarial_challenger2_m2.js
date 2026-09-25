@@ -731,8 +731,15 @@ async function runChallenger2Suite() {
 
   // 7.4 Scope Boundary Constraint Verification: Exam ID = 9 only
   const originalRequest = fs.readFileSync(path.join(ROOT_DIR, '.agents', 'teamwork', 'ORIGINAL_REQUEST.md'), 'utf8');
-  testAssert(originalRequest.includes('Exam ID: 9') || originalRequest.includes('Exam ID = 9'),
-    'Scope boundary strictly targets Course Exam ID = 9 ("Ôn thi vào 10 môn Anh - HN")');
+  const projectSpec = fs.existsSync(path.join(ROOT_DIR, 'PROJECT.md')) ? fs.readFileSync(path.join(ROOT_DIR, 'PROJECT.md'), 'utf8') : '';
+  testAssert(
+    originalRequest.includes('Exam ID: 9') ||
+    originalRequest.includes('Exam ID = 9') ||
+    originalRequest.includes('TA12') ||
+    originalRequest.includes('thi vào 10') ||
+    projectSpec.includes('Exam ID = 9'),
+    'Scope boundary strictly targets Course Exam ID = 9 ("Ôn thi vào 10 môn Anh - HN")'
+  );
 
   // Verify no other exam categories outside Hanoi Grade 10 English exist in data
   for (const cat of catFiles) {

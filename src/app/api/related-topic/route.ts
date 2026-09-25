@@ -14,50 +14,66 @@ try {
   console.error('Failed to load related_topics.json:', e);
 }
 
-// Fallback theory lookup helper
-function getFallbackTheory(sectionId?: string | null, topicId?: string | null): any {
+// Lookup helper for study unit theory
+function getStudyUnitTheory(studyUnit?: string | number | null): any {
+  if (!studyUnit) return null;
   const theoriesDir = path.join(process.cwd(), 'data', 'theories');
-  const safeSectionId = sectionId ? sectionId.replace(/[^a-zA-Z0-9_-]/g, '') : null;
-  const safeTopicId = topicId ? topicId.replace(/[^a-zA-Z0-9_-]/g, '') : null;
+  const cleanId = String(studyUnit).replace(/[^a-zA-Z0-9_-]/g, '').replace(/^(grammar_|vocab_)/, '');
 
-  // Try section theory
-  if (safeSectionId) {
-    const secPath = path.join(theoriesDir, 'sections', `${safeSectionId}.json`);
-    if (fs.existsSync(secPath)) {
-      try {
-        return JSON.parse(fs.readFileSync(secPath, 'utf8'));
-      } catch (e) {}
-    }
+  const grammarPath = path.join(theoriesDir, 'grammar', `grammar_${cleanId}.json`);
+  if (fs.existsSync(grammarPath)) {
+    try {
+      return JSON.parse(fs.readFileSync(grammarPath, 'utf8'));
+    } catch (e) {}
   }
 
-  // Try topic theory
-  if (safeTopicId) {
-    const directPath = path.join(theoriesDir, `${safeTopicId}.json`);
-    if (fs.existsSync(directPath)) {
-      try {
-        return JSON.parse(fs.readFileSync(directPath, 'utf8'));
-      } catch (e) {}
-    }
-
-    const cleanId = safeTopicId.replace(/^(grammar_|vocab_)/, '');
-
-    // Try grammar / vocab with cleanId
-    const grammarPath = path.join(theoriesDir, 'grammar', `grammar_${cleanId}.json`);
-    if (fs.existsSync(grammarPath)) {
-      try {
-        return JSON.parse(fs.readFileSync(grammarPath, 'utf8'));
-      } catch (e) {}
-    }
-
-    const vocabPath = path.join(theoriesDir, 'vocabulary', `vocab_${cleanId}.json`);
-    if (fs.existsSync(vocabPath)) {
-      try {
-        return JSON.parse(fs.readFileSync(vocabPath, 'utf8'));
-      } catch (e) {}
-    }
+  const vocabPath = path.join(theoriesDir, 'vocabulary', `vocab_${cleanId}.json`);
+  if (fs.existsSync(vocabPath)) {
+    try {
+      return JSON.parse(fs.readFileSync(vocabPath, 'utf8'));
+    } catch (e) {}
   }
 
   return null;
+}
+
+// Lookup helper for section theory
+function getSectionTheory(sectionId?: string | null): any {
+  if (!sectionId) return null;
+  const theoriesDir = path.join(process.cwd(), 'data', 'theories');
+  const safeSectionId = sectionId.replace(/[^a-zA-Z0-9_-]/g, '');
+  const secPath = path.join(theoriesDir, 'sections', `${safeSectionId}.json`);
+  if (fs.existsSync(secPath)) {
+    try {
+      return JSON.parse(fs.readFileSync(secPath, 'utf8'));
+    } catch (e) {}
+  }
+  return null;
+}
+
+// Lookup helper for topic theory
+function getTopicTheory(topicId?: string | null): any {
+  if (!topicId) return null;
+  const theoriesDir = path.join(process.cwd(), 'data', 'theories');
+  const safeTopicId = topicId.replace(/[^a-zA-Z0-9_-]/g, '');
+
+  // Check if topicId is a study unit ID first
+  const studyUnitTheory = getStudyUnitTheory(safeTopicId);
+  if (studyUnitTheory) return studyUnitTheory;
+
+  const directPath = path.join(theoriesDir, `${safeTopicId}.json`);
+  if (fs.existsSync(directPath)) {
+    try {
+      return JSON.parse(fs.readFileSync(directPath, 'utf8'));
+    } catch (e) {}
+  }
+
+  return null;
+}
+
+// Fallback theory lookup helper
+function getFallbackTheory(studyUnit?: string | null, sectionId?: string | null, topicId?: string | null): any {
+  return getStudyUnitTheory(studyUnit) || getSectionTheory(sectionId) || (topicId && topicId !== '68' ? getTopicTheory(topicId) : null);
 }
 
 // Render fallback HTML detail from structured theory rules
@@ -128,17 +144,28 @@ function formatTheoryToHtml(theory: any): string {
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
   const questionId = searchParams.get('questionId');
+  const studyUnit = searchParams.get('studyUnit');
   const sectionId = searchParams.get('sectionId');
   const topicId = searchParams.get('topicId');
+  const explanation = searchParams.get('explanation') || searchParams.get('questionDetail');
+  const ruleTip = searchParams.get('ruleTip');
 
-  // 1. Check local cached topics by questionId
+  // Level 1: Check local cached topics by questionId (data/related_topics.json)
   if (questionId && cachedTopics[questionId]) {
     const cached = cachedTopics[questionId];
     if (cached.listQuestionTopicDetail && cached.listQuestionTopicDetail.length > 0) {
-      // Enrich any null detail if possible
+      // Enrich any null/empty detail if possible
       const enrichedList = cached.listQuestionTopicDetail.map((t: any) => {
         if (!t.detail || t.detail.trim() === '') {
-          const fallback = getFallbackTheory(sectionId, topicId);
+          // Check Level 2 explanation/ruleTip
+          if (explanation?.trim() || ruleTip?.trim()) {
+            return {
+              ...t,
+              detail: explanation?.trim() || ruleTip?.trim() || '',
+            };
+          }
+          // Check Level 3 studyUnit or Level 4 sectionId
+          const fallback = getFallbackTheory(studyUnit, sectionId, topicId);
           if (fallback) {
             return {
               ...t,
@@ -151,28 +178,80 @@ export async function GET(request: NextRequest) {
 
       return NextResponse.json({
         isDisplay: true,
+        source: 'question',
         listQuestionTopicDetail: enrichedList,
       });
     }
   }
 
-  // 2. Fallback to section or topic theory offline
-  const fallback = getFallbackTheory(sectionId, topicId);
-  if (fallback) {
+  // Level 2: Explanation / ruleTip of the question
+  if (explanation?.trim() || ruleTip?.trim()) {
     return NextResponse.json({
       isDisplay: true,
+      source: 'explanation',
       listQuestionTopicDetail: [
         {
-          name: fallback.topicName || (fallback.englishName ? `${fallback.topicName} (${fallback.englishName})` : 'Kiến thức liên quan'),
-          detail: formatTheoryToHtml(fallback),
+          name: 'Kiến thức cần vận dụng',
+          detail: explanation?.trim() || ruleTip?.trim() || '',
         },
       ],
     });
   }
 
-  // 4. Default generic response
+  // Level 3: Study unit theory (data/theories/grammar/ or data/theories/vocabulary/)
+  const studyTheory = getStudyUnitTheory(studyUnit) || (topicId && topicId !== '68' ? getStudyUnitTheory(topicId) : null);
+  if (studyTheory) {
+    const title = studyTheory.topicName || studyTheory.title || (studyTheory.englishName ? `${studyTheory.topicName || studyTheory.title} (${studyTheory.englishName})` : 'Kiến thức chủ điểm');
+    return NextResponse.json({
+      isDisplay: true,
+      source: 'studyUnit',
+      listQuestionTopicDetail: [
+        {
+          name: title,
+          detail: formatTheoryToHtml(studyTheory),
+        },
+      ],
+    });
+  }
+
+  // Level 4: Section question type theory (data/theories/sections/${sectionId}.json)
+  const sectionTheory = getSectionTheory(sectionId);
+  if (sectionTheory) {
+    const title = sectionTheory.topicName || sectionTheory.title || (sectionTheory.englishName ? `${sectionTheory.topicName || sectionTheory.title} (${sectionTheory.englishName})` : 'Kiến thức dạng bài');
+    return NextResponse.json({
+      isDisplay: true,
+      source: 'section',
+      listQuestionTopicDetail: [
+        {
+          name: title,
+          detail: formatTheoryToHtml(sectionTheory),
+        },
+      ],
+    });
+  }
+
+  // Topic theory fallback (only when genuine topicId provided, not dummy '68' when studyUnit or sectionId was provided)
+  if (topicId && !studyUnit && !sectionId) {
+    const topicTheory = getTopicTheory(topicId);
+    if (topicTheory) {
+      const title = topicTheory.topicName || topicTheory.title || (topicTheory.englishName ? `${topicTheory.topicName || topicTheory.title} (${topicTheory.englishName})` : 'Kiến thức liên quan');
+      return NextResponse.json({
+        isDisplay: true,
+        source: 'topic',
+        listQuestionTopicDetail: [
+          {
+            name: title,
+            detail: formatTheoryToHtml(topicTheory),
+          },
+        ],
+      });
+    }
+  }
+
+  // Default generic response
   return NextResponse.json({
     isDisplay: true,
+    source: 'generic',
     listQuestionTopicDetail: [
       {
         name: 'Kiến thức ôn thi vào 10 môn Tiếng Anh',

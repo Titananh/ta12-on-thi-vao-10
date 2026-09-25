@@ -60,6 +60,14 @@ function fetchJson(url) {
   });
 }
 
+function decodeHtmlEntities(value) {
+  const namedEntities = { amp: '&', quot: '"', apos: "'", aacute: 'á', eacute: 'é', iacute: 'í', oacute: 'ó', uacute: 'ú' };
+  return value
+    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number(code)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCodePoint(parseInt(code, 16)))
+    .replace(/&([a-z]+);/gi, (entity, name) => namedEntities[name] || entity);
+}
+
 async function runTests() {
   console.log('========================================================================');
   console.log('🔍 KIẾN THỨC LIÊN QUAN (RELATED TOPICS) - 100% TAK12 REPLICA VERIFICATION');
@@ -122,7 +130,7 @@ async function runTests() {
             for (const m of matches) {
               const src = m.match(/src=["\x27]([^"\x27]+)["\x27]/i)[1];
               if (src.startsWith('/Upload/')) {
-                const localFile = path.join(__dirname, '..', 'public', src.slice(1));
+                const localFile = path.join(__dirname, '..', 'public', decodeHtmlEntities(src).slice(1));
                 assert.ok(fs.existsSync(localFile), `Local image must exist: ${localFile}`);
                 assert.ok(fs.statSync(localFile).size > 100, `Image file must not be empty`);
                 imgCount++;
@@ -144,22 +152,47 @@ async function runTests() {
   assert.ok(modalCode.includes('data-testid={`related-topic-detail-${idx}`}'), 'Has related-topic-detail testid');
   assert.ok(modalCode.includes('data-testid="close-related-topic-btn"'), 'Has close-related-topic-btn testid');
   assert.ok(modalCode.includes('related-topic-content'), 'Has related-topic-content styling class');
+  assert.ok(modalCode.includes("data.source !== 'question' && questionDetail?.trim()"), 'Question explanation overrides broad fallbacks');
   pass('TheoryModal component strictly follows Tak12 structure, title, testids, and classes');
+  pass('TheoryModal prioritizes exact question knowledge over module/section fallbacks');
 
   // Test 5: Verifying Practice Page and ExamRunner Integration
   console.log('\n▶ Test 5: Auditing Practice Page & ExamRunner Integration...');
   const practiceCode = fs.readFileSync(path.join(__dirname, '..', 'src', 'app', 'practice', '[topicId]', 'page.tsx'), 'utf8');
   assert.ok(practiceCode.includes('btn-related-topic'), 'Practice page uses btn-related-topic pill button');
   assert.ok(practiceCode.includes('questionId={currentQ?.id}'), 'Practice page passes active questionId to TheoryModal');
+  assert.ok(practiceCode.includes("const relatedTopicId = studyUnit || topicId"), 'Study unit replaces placeholder route topic for theory lookup');
+  assert.ok(practiceCode.includes('topicId={relatedTopicId}'), 'Practice page passes the real study module to TheoryModal');
+  assert.ok(practiceCode.includes('questionDetail={currentQ?.explanation || currentQ?.ruleTip || null}'), 'Practice page supplies exact question explanation');
   pass('Practice page integrates authentic pill button and passes active questionId');
+  pass('Practice page uses studyUnit and exact question explanation for knowledge lookup');
 
   const examCode = fs.readFileSync(path.join(__dirname, '..', 'src', 'components', 'ExamRunner.tsx'), 'utf8');
   assert.ok(examCode.includes('btn-related-topic'), 'ExamRunner uses btn-related-topic pill button');
   assert.ok(examCode.includes('TheoryModal'), 'ExamRunner imports and renders TheoryModal');
   pass('ExamRunner integrates authentic pill button and renders TheoryModal in exam and review modes');
 
-  // Test 6: Zero Legacy tak12.com URL in src/
-  console.log('\n▶ Test 6: Auditing 100% Offline Containment (Zero External URLs in src/)...');
+  // Test 6: Complete study-bank coverage and the exact reported question
+  console.log('\n▶ Test 6: Verifying Study-Bank Related Topic Coverage...');
+  const studyQuestionIds = new Set();
+  for (const group of ['grammar', 'vocabulary']) {
+    const groupDir = path.join(__dirname, '..', 'data', 'questions', group);
+    for (const file of fs.readdirSync(groupDir).filter((name) => name.endsWith('.json'))) {
+      const payload = JSON.parse(fs.readFileSync(path.join(groupDir, file), 'utf8'));
+      for (const question of payload.questions || []) {
+        if (question && question.id) studyQuestionIds.add(String(question.id));
+      }
+    }
+  }
+  const missingStudyMappings = [...studyQuestionIds].filter((id) => !relData[id]);
+  assert.deepStrictEqual(missingStudyMappings, [], `Missing study mappings: ${missingStudyMappings.slice(0, 10).join(', ')}`);
+  assert.strictEqual(relData['50271'].listQuestionTopicDetail[0].name, 'Động từ theo sau bởi tân ngữ và động từ nguyên thể');
+  assert.ok(!/\bĐuôi\s*["']?ed/i.test(relData['50271'].listQuestionTopicDetail[0].name), 'Reported grammar question must not use -ed pronunciation theory');
+  pass(`All ${studyQuestionIds.size} study questions have a cached related-topic response`);
+  pass('Question 50271 maps to the authentic verb-pattern topic, never the -ed pronunciation topic');
+
+  // Test 7: Zero Legacy tak12.com URL in src/
+  console.log('\n▶ Test 7: Auditing 100% Offline Containment (Zero External URLs in src/)...');
   function scanDir(dir) {
     const files = fs.readdirSync(dir, { withFileTypes: true });
     for (const f of files) {

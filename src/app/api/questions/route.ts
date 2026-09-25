@@ -89,8 +89,33 @@ export async function GET(request: Request) {
   let questions: any[] = [];
   if (fs.existsSync(questionsPath)) {
     try {
-      questions = JSON.parse(fs.readFileSync(questionsPath, 'utf8'));
+      const parsed = JSON.parse(fs.readFileSync(questionsPath, 'utf8'));
+      questions = Array.isArray(parsed) ? parsed : (parsed.questions || []);
     } catch (e) {}
+  }
+
+  // Check grammar subdirectory
+  if (questions.length === 0) {
+    const grammarPath = path.join(questionsDir, 'grammar', `grammar_${topicId}.json`);
+    if (fs.existsSync(grammarPath)) {
+      try {
+        const parsed = JSON.parse(fs.readFileSync(grammarPath, 'utf8'));
+        questions = Array.isArray(parsed) ? parsed : (parsed.questions || []);
+        if (parsed.title) topicName = parsed.title;
+      } catch (e) {}
+    }
+  }
+
+  // Check vocabulary subdirectory
+  if (questions.length === 0) {
+    const vocabPath = path.join(questionsDir, 'vocabulary', `vocab_${topicId}.json`);
+    if (fs.existsSync(vocabPath)) {
+      try {
+        const parsed = JSON.parse(fs.readFileSync(vocabPath, 'utf8'));
+        questions = Array.isArray(parsed) ? parsed : (parsed.questions || []);
+        if (parsed.title) topicName = parsed.title;
+      } catch (e) {}
+    }
   }
 
   // Fallback to sample topic 68 if specific topic file not found
@@ -116,6 +141,20 @@ export async function GET(request: Request) {
       theory = JSON.parse(fs.readFileSync(theoryPath, 'utf8'));
     } catch (e) {}
   } else {
+    const grammarTheoryPath = path.join(theoriesDir, 'grammar', `grammar_${topicId}.json`);
+    const vocabTheoryPath = path.join(theoriesDir, 'vocabulary', `vocab_${topicId}.json`);
+    if (fs.existsSync(grammarTheoryPath)) {
+      try {
+        theory = JSON.parse(fs.readFileSync(grammarTheoryPath, 'utf8'));
+      } catch (e) {}
+    } else if (fs.existsSync(vocabTheoryPath)) {
+      try {
+        theory = JSON.parse(fs.readFileSync(vocabTheoryPath, 'utf8'));
+      } catch (e) {}
+    }
+  }
+
+  if (!theory) {
     theory = {
       topicId: Number(topicId) || 0,
       topicName,

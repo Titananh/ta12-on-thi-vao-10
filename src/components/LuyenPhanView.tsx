@@ -90,7 +90,7 @@ export default function LuyenPhanView() {
     if (!selectedSection) return;
     setIsDrillModalOpen(false);
     // Navigate to practice session configured for this section
-    window.location.href = `/practice/68?sectionId=${selectedSection.sectionId}&count=${drillCount}`;
+    window.location.href = `/practice/${selectedSection.sectionId}?sectionId=${selectedSection.sectionId}&count=${drillCount}`;
   };
 
   return (

@@ -58,13 +58,24 @@ if (fs.existsSync(examsDir)) {
   }
 }
 
-// 3. Question sets
+function collectJsonFilesRecursively(dir) {
+  if (!fs.existsSync(dir)) return [];
+  const files = [];
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const fullPath = path.join(dir, entry.name);
+    if (entry.isDirectory()) files.push(...collectJsonFilesRecursively(fullPath));
+    else if (entry.isFile() && entry.name.endsWith('.json')) files.push(fullPath);
+  }
+  return files;
+}
+
+// 3. Question sets, including nested grammar/ and vocabulary/ study banks
 const qDir = path.join(DATA_DIR, 'questions');
 if (fs.existsSync(qDir)) {
-  const qFiles = fs.readdirSync(qDir).filter(f => f.endsWith('.json'));
+  const qFiles = collectJsonFilesRecursively(qDir);
   for (const f of qFiles) {
     try {
-      const d = JSON.parse(fs.readFileSync(path.join(qDir, f), 'utf8'));
+      const d = JSON.parse(fs.readFileSync(f, 'utf8'));
       addIdsFromObj(d);
     } catch(e){}
   }
@@ -77,38 +88,62 @@ console.log(`Total questions discovered: ${idList.length}`);
 const pendingIds = idList.filter(id => !cache[id]);
 console.log(`Questions pending fetch: ${pendingIds.length}`);
 
-// Download image helper
+function decodeHtmlEntities(value) {
+  const namedEntities = {
+    amp: '&', quot: '"', apos: "'", lt: '<', gt: '>',
+    aacute: 'á', eacute: 'é', iacute: 'í', oacute: 'ó', uacute: 'ú',
+    Aacute: 'Á', Eacute: 'É', Iacute: 'Í', Oacute: 'Ó', Uacute: 'Ú',
+  };
+  return value
+    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number(code)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => String.fromCodePoint(parseInt(code, 16)))
+    .replace(/&([a-z]+);/gi, (entity, name) => namedEntities[name] || entity);
+}
+
+// Download image helper. Resolve only after the file is completely written so
+// the generated cache can be verified and deployed as a self-contained bundle.
 function downloadImage(imgUrl) {
-  let fullUrl = imgUrl;
+  let fullUrl = decodeHtmlEntities(imgUrl);
   if (fullUrl.startsWith('/')) {
     fullUrl = 'https://tak12.com' + fullUrl;
   }
-  if (!fullUrl.startsWith('http')) return;
+  if (!fullUrl.startsWith('http')) return Promise.resolve(false);
 
-  try {
-    const urlObj = new URL(fullUrl);
-    const localRelPath = urlObj.pathname.startsWith('/Upload/') ? urlObj.pathname.slice(8) : path.basename(urlObj.pathname);
-    const destPath = path.join(UPLOAD_DIR, localRelPath);
-    const destDir = path.dirname(destPath);
-    if (!fs.existsSync(destDir)) fs.mkdirSync(destDir, { recursive: true });
-    if (fs.existsSync(destPath)) return;
+  return new Promise((resolve) => {
+    try {
+      const urlObj = new URL(fullUrl);
+      const decodedPath = decodeURIComponent(urlObj.pathname);
+      const localRelPath = decodedPath.startsWith('/Upload/') ? decodedPath.slice(8) : path.basename(decodedPath);
+      const destPath = path.join(UPLOAD_DIR, localRelPath);
+      const destDir = path.dirname(destPath);
+      if (!fs.existsSync(destDir)) fs.mkdirSync(destDir, { recursive: true });
+      if (fs.existsSync(destPath) && fs.statSync(destPath).size > 100) return resolve(true);
 
-    https.get(fullUrl, (res) => {
-      if (res.statusCode === 200) {
+      https.get(urlObj, (res) => {
+        if (res.statusCode !== 200) {
+          res.resume();
+          return resolve(false);
+        }
         const fileStream = fs.createWriteStream(destPath);
         res.pipe(fileStream);
-      }
-    }).on('error', () => {});
-  } catch (err) {}
+        fileStream.on('finish', () => fileStream.close(() => resolve(true)));
+        fileStream.on('error', () => resolve(false));
+      }).on('error', () => resolve(false));
+    } catch (err) {
+      resolve(false);
+    }
+  });
 }
 
-function extractAndDownloadImages(html) {
-  if (!html) return;
+function extractImageUrls(html) {
+  if (!html) return [];
+  const urls = [];
   const imgRegex = /<img[^>]+src=["']([^"']+)["']/gi;
   let match;
   while ((match = imgRegex.exec(html)) !== null) {
-    downloadImage(match[1]);
+    urls.push(match[1]);
   }
+  return urls;
 }
 
 // Fetch single question topic
@@ -143,7 +178,8 @@ function fetchTopic(qId) {
 }
 
 // Concurrency runner
-const CONCURRENCY = 20;
+const CONCURRENCY = 4;
+const REQUEST_DELAY_MS = 125;
 let currentIndex = 0;
 let completedCount = 0;
 let saveCounter = 0;
@@ -155,13 +191,6 @@ async function worker() {
     const res = await fetchTopic(qId);
     if (res) {
       cache[qId] = res;
-      if (res.listQuestionTopicDetail) {
-        for (const t of res.listQuestionTopicDetail) {
-          if (t && t.detail) {
-            extractAndDownloadImages(t.detail);
-          }
-        }
-      }
     } else {
       // Record empty response so we don't refetch forever
       cache[qId] = { isDisplay: false, listQuestionTopicDetail: [] };
@@ -175,6 +204,8 @@ async function worker() {
       fs.writeFileSync(OUT_FILE, JSON.stringify(cache));
       console.log(`[Progress] ${completedCount}/${pendingIds.length} done (${((completedCount / pendingIds.length) * 100).toFixed(1)}%). Cache size: ${Object.keys(cache).length}`);
     }
+
+    await new Promise(resolve => setTimeout(resolve, REQUEST_DELAY_MS));
   }
 }
 
@@ -187,6 +218,20 @@ async function main() {
   await Promise.all(workers);
 
   fs.writeFileSync(OUT_FILE, JSON.stringify(cache, null, 2));
+  const imageUrls = new Set();
+  for (const result of Object.values(cache)) {
+    for (const topic of result.listQuestionTopicDetail || []) {
+      for (const imageUrl of extractImageUrls(topic && topic.detail)) imageUrls.add(imageUrl);
+    }
+  }
+  const images = Array.from(imageUrls);
+  let downloadedImages = 0;
+  for (let i = 0; i < images.length; i += CONCURRENCY) {
+    const batch = images.slice(i, i + CONCURRENCY);
+    const results = await Promise.all(batch.map(downloadImage));
+    downloadedImages += results.filter(Boolean).length;
+  }
+  console.log(`Verified/downloaded ${downloadedImages}/${images.length} unique related-topic images.`);
   console.log(`Crawl completed! Saved ${Object.keys(cache).length} entries to ${OUT_FILE}`);
 }
 
