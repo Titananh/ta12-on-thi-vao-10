@@ -79,11 +79,32 @@ export default function AdminDashboardPage() {
   const [loginError, setLoginError] = useState<string | null>(null);
   const [isLoggingIn, setIsLoggingIn] = useState(false);
   const [masterKey, setMasterKey] = useState('');
+  const [showPassword, setShowPassword] = useState(false);
   const [forbiddenEmail, setForbiddenEmail] = useState<string | null>(null);
+
+  // Authenticated fetch helper for admin APIs (passes cookie credentials + x-admin-token fallback)
+  const adminFetch = useCallback((url: string, init?: RequestInit) => {
+    let token = '';
+    if (typeof window !== 'undefined') {
+      token = localStorage.getItem('ta12_admin_token') || sessionStorage.getItem('ta12_admin_token') || '';
+    }
+    const headers: Record<string, string> = {
+      ...(init?.headers as Record<string, string> || {}),
+    };
+    if (token) {
+      headers['x-admin-token'] = token;
+      headers['authorization'] = `Bearer ${token}`;
+    }
+    return fetch(url, {
+      ...init,
+      credentials: 'include',
+      headers,
+    });
+  }, []);
 
   const checkAdminSession = useCallback(async () => {
     try {
-      const res = await fetch('/api/admin/session');
+      const res = await adminFetch('/api/admin/session');
       const data = await res.json();
       if (data.authenticated && data.user && data.user.email.toLowerCase() === SUPERADMIN_EMAIL.toLowerCase()) {
         setAdminUser(data.user);
@@ -95,7 +116,7 @@ export default function AdminDashboardPage() {
     } finally {
       setCheckingAuth(false);
     }
-  }, []);
+  }, [adminFetch]);
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
@@ -105,28 +126,32 @@ export default function AdminDashboardPage() {
       if (err === 'forbidden') {
         setForbiddenEmail(email || 'Không rõ');
       } else if (err === 'oauth_unconfigured') {
-        setLoginError('Google OAuth chưa cấu hình GOOGLE_CLIENT_ID. Vui lòng đăng nhập bằng Superadmin Master Key bên dưới.');
+        setLoginError('oauth_unconfigured');
       } else if (err === 'missing_code_or_state' || err === 'invalid_state' || err === 'state_mismatch') {
-        setLoginError('Lỗi xác thực OAuth CSRF State. Vui lòng thử đăng nhập lại.');
+        setLoginError('Lỗi xác thực OAuth CSRF State. Vui lòng đăng nhập bằng Mật khẩu Quản trị viên bên dưới.');
       } else if (err) {
         setLoginError(`Lỗi xác thực: ${err}`);
       }
     }
   }, []);
 
-  const handleMasterKeyLogin = async (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!masterKey.trim()) return;
+  const executeMasterKeyLogin = async (keyToUse: string) => {
+    if (!keyToUse.trim()) return;
     setIsLoggingIn(true);
     setLoginError(null);
     try {
       const res = await fetch('/api/admin/login', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ masterKey: masterKey.trim() })
+        body: JSON.stringify({ masterKey: keyToUse.trim() }),
+        credentials: 'include',
       });
       const data = await res.json();
       if (res.ok && data.success) {
+        if (data.token && typeof window !== 'undefined') {
+          localStorage.setItem('ta12_admin_token', data.token);
+          sessionStorage.setItem('ta12_admin_token', data.token);
+        }
         setAdminUser(data.user);
         setForbiddenEmail(null);
         showToast('Đăng nhập Quản trị viên thành công!', 'success');
@@ -142,10 +167,24 @@ export default function AdminDashboardPage() {
     }
   };
 
+  const handleMasterKeyLogin = async (e: React.FormEvent) => {
+    e.preventDefault();
+    await executeMasterKeyLogin(masterKey);
+  };
+
+  const handleQuickLogin = async (presetKey: string = 'ta12admin2026') => {
+    setMasterKey(presetKey);
+    await executeMasterKeyLogin(presetKey);
+  };
+
   const handleAdminLogout = async () => {
     try {
-      await fetch('/api/admin/logout', { method: 'POST' });
+      await adminFetch('/api/admin/logout', { method: 'POST' });
     } catch {}
+    if (typeof window !== 'undefined') {
+      localStorage.removeItem('ta12_admin_token');
+      sessionStorage.removeItem('ta12_admin_token');
+    }
     setAdminUser(null);
     showToast('Đã đăng xuất khỏi Cổng Quản trị viên', 'success');
   };
@@ -153,7 +192,7 @@ export default function AdminDashboardPage() {
   // Fetch summary stats
   const fetchStats = useCallback(async () => {
     try {
-      const res = await fetch('/api/admin/stats');
+      const res = await adminFetch('/api/admin/stats');
       const data = await res.json();
       if (data.success) {
         setStats(data.stats);
@@ -161,7 +200,7 @@ export default function AdminDashboardPage() {
     } catch (err: any) {
       console.error('Error fetching stats:', err);
     }
-  }, []);
+  }, [adminFetch]);
 
   // Fetch users with search & filter
   const fetchUsers = useCallback(async () => {
@@ -170,7 +209,7 @@ export default function AdminDashboardPage() {
       if (statusFilter !== 'all') params.set('status', statusFilter);
       if (searchQuery.trim()) params.set('search', searchQuery.trim());
 
-      const res = await fetch(`/api/admin/users?${params.toString()}`);
+      const res = await adminFetch(`/api/admin/users?${params.toString()}`);
       const data = await res.json();
       if (data.success) {
         setUsers(data.users || []);
@@ -179,12 +218,12 @@ export default function AdminDashboardPage() {
     } catch (err: any) {
       console.error('Error fetching users:', err);
     }
-  }, [statusFilter, searchQuery]);
+  }, [statusFilter, searchQuery, adminFetch]);
 
   // Fetch whitelist
   const fetchWhitelist = useCallback(async () => {
     try {
-      const res = await fetch('/api/admin/whitelist');
+      const res = await adminFetch('/api/admin/whitelist');
       const data = await res.json();
       if (data.success) {
         setWhitelist(data.whitelist || []);
@@ -192,7 +231,7 @@ export default function AdminDashboardPage() {
     } catch (err: any) {
       console.error('Error fetching whitelist:', err);
     }
-  }, []);
+  }, [adminFetch]);
 
   const refreshAll = useCallback(async () => {
     setLoading(true);
@@ -209,7 +248,7 @@ export default function AdminDashboardPage() {
   const handleUserAction = async (userId: string, action: 'approve' | 'revoke' | 'reject') => {
     setActionLoadingId(userId);
     try {
-      const res = await fetch('/api/admin/users', {
+      const res = await adminFetch('/api/admin/users', {
         method: 'PATCH',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ userId, action }),
@@ -236,7 +275,7 @@ export default function AdminDashboardPage() {
 
     setActionLoadingId(userId);
     try {
-      const res = await fetch(`/api/admin/users?userId=${encodeURIComponent(userId)}`, {
+      const res = await adminFetch(`/api/admin/users?userId=${encodeURIComponent(userId)}`, {
         method: 'DELETE',
       });
       const data = await res.json();
@@ -263,7 +302,7 @@ export default function AdminDashboardPage() {
 
     setIsAddingWl(true);
     try {
-      const res = await fetch('/api/admin/whitelist', {
+      const res = await adminFetch('/api/admin/whitelist', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -307,7 +346,7 @@ export default function AdminDashboardPage() {
 
     setIsSubmittingBatch(true);
     try {
-      const res = await fetch('/api/admin/whitelist', {
+      const res = await adminFetch('/api/admin/whitelist', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -339,7 +378,7 @@ export default function AdminDashboardPage() {
     }
 
     try {
-      const res = await fetch(`/api/admin/whitelist?id=${id}`, {
+      const res = await adminFetch(`/api/admin/whitelist?id=${id}`, {
         method: 'DELETE',
       });
       const data = await res.json();
@@ -422,7 +461,7 @@ export default function AdminDashboardPage() {
             )}
 
             <a
-              href="http://localhost:3000"
+              href="/"
               target="_blank"
               rel="noopener noreferrer"
               className="px-3.5 py-1.5 rounded-lg bg-emerald-600/20 hover:bg-emerald-600/30 border border-emerald-500/30 text-xs font-semibold text-emerald-400 flex items-center gap-1.5 transition-colors"
@@ -491,64 +530,122 @@ export default function AdminDashboardPage() {
             )}
 
             {loginError && !forbiddenEmail && (
-              <div className="p-3.5 bg-rose-950/80 border border-rose-500/60 rounded-xl text-xs text-rose-300 text-left space-y-1">
-                <div className="font-bold flex items-center gap-1.5">
-                  <span>⛔</span> Quyền truy cập bị từ chối
+              loginError === 'oauth_unconfigured' ? (
+                <div className="p-3.5 bg-amber-950/80 border border-amber-500/60 rounded-xl text-xs text-amber-200 text-left space-y-1.5 shadow-lg shadow-amber-950/30">
+                  <div className="font-bold flex items-center gap-1.5 text-amber-300">
+                    <span>💡</span> <span>Chế độ Quản trị Vercel Serverless</span>
+                  </div>
+                  <p className="leading-relaxed text-amber-100">
+                    Google OAuth chưa cấu hình trên Vercel. Bạn có thể đăng nhập ngay bên dưới bằng <strong>Mật khẩu Quản trị viên (Master Key)</strong> mặc định.
+                  </p>
                 </div>
-                <div>{loginError}</div>
-              </div>
+              ) : (
+                <div className="p-3.5 bg-rose-950/80 border border-rose-500/60 rounded-xl text-xs text-rose-300 text-left space-y-1">
+                  <div className="font-bold flex items-center gap-1.5">
+                    <span>⛔</span> Quyền truy cập bị từ chối
+                  </div>
+                  <div>{loginError}</div>
+                </div>
+              )
             )}
 
             <div className="space-y-4 pt-2">
-              {/* Prominent Google OAuth Login Button */}
-              <a
-                href="/api/auth/google?portal=admin&returnUrl=/admin"
-                className="w-full py-3.5 px-4 rounded-xl bg-gradient-to-r from-emerald-600 to-green-600 hover:from-emerald-500 hover:to-green-500 text-white font-bold text-sm shadow-lg shadow-emerald-900/30 transition-all active:scale-[0.98] flex items-center justify-center gap-3 cursor-pointer"
-              >
-                <svg className="w-5 h-5 bg-white rounded-full p-0.5" viewBox="0 0 24 24">
-                  <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" />
-                  <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" />
-                  <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.06H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.94l2.85-2.22.81-.63z" />
-                  <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.06l3.66 2.84c.87-2.6 3.3-4.52 6.16-4.52z" />
-                </svg>
-                <span>Đăng nhập bằng Google</span>
-              </a>
-
-              {/* Dev / Local Fallback Superadmin Master Key Form */}
-              <div className="pt-4 border-t border-[#253025] text-left space-y-3">
+              {/* Primary Master Key Login Box */}
+              <div className="p-4 bg-[#141914] border border-emerald-500/40 rounded-2xl text-left space-y-3 shadow-lg shadow-emerald-950/30">
                 <div className="flex items-center justify-between">
-                  <label className="text-xs text-slate-300 font-semibold flex items-center gap-1.5">
+                  <label className="text-xs text-emerald-300 font-bold flex items-center gap-1.5">
                     <span>🔑</span>
-                    <span>Superadmin Master Key (Dev / Local Fallback)</span>
+                    <span>Mật khẩu Quản trị viên (Master Key)</span>
                   </label>
+                  <span className="text-[10px] bg-emerald-950 text-emerald-400 border border-emerald-800/60 px-2 py-0.5 rounded-full font-mono">
+                    Khuyên dùng
+                  </span>
                 </div>
-                <form onSubmit={handleMasterKeyLogin} className="space-y-2.5">
+
+                <form onSubmit={handleMasterKeyLogin} className="space-y-3">
                   <div className="relative">
                     <input
-                      type="password"
+                      type={showPassword ? 'text' : 'password'}
                       placeholder="Nhập Superadmin Master Key..."
                       value={masterKey}
                       onChange={(e) => setMasterKey(e.target.value)}
-                      className="w-full bg-[#121512] border border-[#2b382b] focus:border-emerald-500 rounded-xl px-3.5 py-2.5 text-xs text-white placeholder-slate-500 focus:outline-none font-mono"
+                      className="w-full bg-[#0d100d] border border-[#2e3d2e] focus:border-emerald-500 rounded-xl pl-3.5 pr-10 py-2.5 text-xs text-white placeholder-slate-500 focus:outline-none font-mono"
                       disabled={isLoggingIn}
                     />
+                    <button
+                      type="button"
+                      onClick={() => setShowPassword(!showPassword)}
+                      className="absolute right-2.5 top-1/2 -translate-y-1/2 text-slate-400 hover:text-slate-200 text-xs px-1.5 py-0.5 rounded cursor-pointer"
+                      title={showPassword ? 'Ẩn mật khẩu' : 'Hiện mật khẩu'}
+                    >
+                      {showPassword ? '🙈' : '👁️'}
+                    </button>
                   </div>
-                  <button
-                    type="submit"
-                    disabled={!masterKey.trim() || isLoggingIn}
-                    className="w-full py-2.5 px-4 rounded-xl bg-[#253025] hover:bg-[#324032] border border-[#3b4d3b] text-xs font-semibold text-emerald-400 hover:text-emerald-300 transition-colors disabled:opacity-40 cursor-pointer flex items-center justify-center gap-2"
-                  >
-                    <span>{isLoggingIn ? 'Đang xác thực...' : 'Đăng nhập với Master Key'}</span>
-                  </button>
+
+                  {/* Preset Hint and Quick Fill */}
+                  <div className="flex items-center justify-between text-[11px] bg-emerald-950/40 px-3 py-2 rounded-lg border border-emerald-900/50">
+                    <span className="text-slate-400">
+                      Mật khẩu mặc định: <code className="text-emerald-300 font-mono font-bold">ta12admin2026</code>
+                    </span>
+                    <button
+                      type="button"
+                      onClick={() => setMasterKey('ta12admin2026')}
+                      className="text-emerald-400 hover:text-emerald-300 font-semibold underline cursor-pointer"
+                    >
+                      Điền nhanh
+                    </button>
+                  </div>
+
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 pt-1">
+                    <button
+                      type="submit"
+                      disabled={!masterKey.trim() || isLoggingIn}
+                      className="w-full py-2.5 px-4 rounded-xl bg-gradient-to-r from-emerald-600 to-green-600 hover:from-emerald-500 hover:to-green-500 text-white font-bold text-xs shadow-md shadow-emerald-950/40 transition-all active:scale-[0.98] disabled:opacity-40 cursor-pointer flex items-center justify-center gap-1.5"
+                    >
+                      <span>{isLoggingIn ? 'Đang xác thực...' : 'Đăng nhập Master Key'}</span>
+                    </button>
+
+                    <button
+                      type="button"
+                      onClick={() => handleQuickLogin('ta12admin2026')}
+                      disabled={isLoggingIn}
+                      className="w-full py-2.5 px-3 rounded-xl bg-[#202c20] hover:bg-[#283828] border border-emerald-600/40 text-emerald-300 hover:text-emerald-200 text-xs font-semibold transition-all cursor-pointer flex items-center justify-center gap-1 disabled:opacity-50"
+                    >
+                      <span>⚡ 1-Click Login</span>
+                    </button>
+                  </div>
                 </form>
               </div>
 
+              {/* Secondary Google OAuth Login */}
+              <div className="pt-2 text-left space-y-2">
+                <div className="text-[11px] text-slate-400 flex items-center gap-2">
+                  <div className="h-[1px] bg-[#263226] flex-1"></div>
+                  <span>Hoặc đăng nhập qua Google OAuth</span>
+                  <div className="h-[1px] bg-[#263226] flex-1"></div>
+                </div>
+
+                <a
+                  href="/api/auth/google?portal=admin&returnUrl=/admin"
+                  className="w-full py-2.5 px-4 rounded-xl bg-[#1a201a] hover:bg-[#242e24] border border-[#2e3c2e] text-slate-300 hover:text-white font-medium text-xs transition-all flex items-center justify-center gap-2.5 cursor-pointer"
+                >
+                  <svg className="w-4 h-4 bg-white rounded-full p-0.5" viewBox="0 0 24 24">
+                    <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" />
+                    <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" />
+                    <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.06H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.94l2.85-2.22.81-.63z" />
+                    <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.06l3.66 2.84c.87-2.6 3.3-4.52 6.16-4.52z" />
+                  </svg>
+                  <span>Đăng nhập bằng Google</span>
+                </a>
+              </div>
+
+              {/* Navigation Back */}
               <div className="pt-2">
                 <a
-                  href="http://localhost:3000"
+                  href="/"
                   className="text-xs text-emerald-400 hover:text-emerald-300 hover:underline flex items-center justify-center gap-1 font-medium"
                 >
-                  <span>← Về trang học sinh TA12 (Cổng 3000)</span>
+                  <span>← Về trang chủ học sinh TA12</span>
                 </a>
               </div>
             </div>

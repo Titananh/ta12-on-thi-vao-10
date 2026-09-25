@@ -146,6 +146,39 @@ async function runStudentPasswordAuthTests() {
     adminPageSrc.includes("u.email?.toLowerCase() === SUPERADMIN_EMAIL.toLowerCase() ? 'ADMIN' : u.name"));
 
   // ---------------------------------------------------------------------------
+  // Vector 5: Admin Master Key Verification & Zero-Localhost Audit
+  // ---------------------------------------------------------------------------
+  console.log('\n▶ Vector 5: Admin Master Key Verification & Zero-Localhost Audit...');
+
+  // 5.1 Zero localhost:3000 links in admin page
+  check('Admin page has zero hardcoded http://localhost:3000 links',
+    !adminPageSrc.includes('http://localhost:3000'));
+
+  // 5.2 Default master key hint in admin UI
+  check('Admin page displays default master key hint (ta12admin2026)',
+    adminPageSrc.includes('ta12admin2026'));
+
+  // 5.3 1-Click Login button in admin UI
+  check('Admin page includes 1-Click Login button',
+    adminPageSrc.includes('1-Click Login'));
+
+  // 5.4 Graceful oauth_unconfigured handling
+  check('Admin page gracefully handles oauth_unconfigured error state',
+    adminPageSrc.includes('oauth_unconfigured') && adminPageSrc.includes('Chế độ Quản trị Vercel Serverless'));
+
+  // 5.5 Admin login route accepts valid master keys
+  const adminLoginRouteSrc = fs.readFileSync(path.join(ROOT_DIR, 'src', 'app', 'api', 'admin', 'login', 'route.ts'), 'utf8');
+  check('Admin login route supports ta12admin2026', adminLoginRouteSrc.includes("'ta12admin2026'"));
+  check('Admin login route supports dot71714@admin2026', adminLoginRouteSrc.includes("'dot71714@admin2026'"));
+  check('Admin login route supports ta12_superadmin_secret_key_2026', adminLoginRouteSrc.includes("'ta12_superadmin_secret_key_2026'"));
+  check('Admin login route sets SESSION_COOKIE_NAME for seamless navigation', adminLoginRouteSrc.includes('SESSION_COOKIE_NAME'));
+
+  // 5.6 Admin session route supports token-based authentication
+  const adminSessionRouteSrc = fs.readFileSync(path.join(ROOT_DIR, 'src', 'app', 'api', 'admin', 'session', 'route.ts'), 'utf8');
+  check('Admin session route accepts NextRequest and checks requireAdminSession',
+    adminSessionRouteSrc.includes('requireAdminSession(request)'));
+
+  // ---------------------------------------------------------------------------
   // SUMMARY
   // ---------------------------------------------------------------------------
   console.log('\n========================================================================');
