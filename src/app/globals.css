@@ -344,4 +344,190 @@ body {
   right: 0;
 }
 
+/* ==========================================================================
+   TA12 FillBlank & Select Dropdown Styles (Light & Dark Mode)
+   ========================================================================== */
+
+.fillblank-option {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  vertical-align: middle;
+  margin: 0 4px;
+  position: relative;
+}
+
+.fillblank-option label {
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1;
+  color: #9ca3af;
+  background-color: rgba(156, 163, 175, 0.15);
+  padding: 2px 6px;
+  border-radius: 4px;
+  user-select: none;
+}
+
+.dark .fillblank-option label {
+  color: #a3a3a3;
+  background-color: #262926;
+  border: 1px solid #383c38;
+}
+
+.fillblank-option select,
+select.fillblank-select,
+select.ms {
+  appearance: none;
+  -webkit-appearance: none;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.4;
+  height: 32px;
+  padding: 4px 28px 4px 10px;
+  border-radius: 6px;
+  border: 1.5px solid #cbd5e1;
+  background-color: #ffffff;
+  color: #1e293b;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.15s ease-in-out;
+  vertical-align: middle;
+  display: inline-block;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%2364748b' stroke-width='2'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 6px center;
+  background-size: 16px 16px;
+  min-width: 90px;
+}
+
+.dark .fillblank-option select,
+.dark select.fillblank-select,
+.dark select.ms {
+  background-color: #1e221e !important;
+  color: #ffffff !important;
+  border-color: #383c38;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%239ca3af' stroke-width='2'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E");
+}
+
+.fillblank-option select:focus,
+.dark .fillblank-option select:focus,
+select.fillblank-select:focus,
+select.ms:focus {
+  border-color: #5fbd18;
+  box-shadow: 0 0 0 2px rgba(95, 189, 24, 0.3);
+}
+
+/* Explicit option backgrounds to prevent white-on-white text collision */
+.fillblank-option select option,
+select.fillblank-select option,
+select.ms option,
+option.fillblank-option {
+  background-color: #ffffff !important;
+  color: #1e293b !important;
+  padding: 6px 10px;
+}
+
+.dark .fillblank-option select option,
+.dark select.fillblank-select option,
+.dark select.ms option,
+.dark option.fillblank-option {
+  background-color: #1e221e !important;
+  color: #ffffff !important;
+}
+
+.fillblank-option input,
+input.fillblank-input,
+input.ms {
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.4;
+  height: 32px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  border: 1.5px solid #cbd5e1;
+  background-color: #ffffff;
+  color: #1e293b;
+  outline: none;
+  transition: all 0.15s ease-in-out;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.dark .fillblank-option input,
+.dark input.fillblank-input,
+.dark input.ms {
+  background-color: #1e221e !important;
+  color: #ffffff !important;
+  border-color: #383c38;
+}
+
+.dark .fillblank-option input:focus,
+.dark input.fillblank-input:focus,
+.dark input.ms:focus {
+  border-color: #5fbd18;
+  box-shadow: 0 0 0 2px rgba(95, 189, 24, 0.3);
+}
+
+/* Correct / Wrong states */
+.fillblank-option.correct select,
+.fillblank-option.correct input,
+.fillblank-option select.is-correct,
+.fillblank-option input.is-correct,
+.fillblank-blank-correct,
+.blank-correct {
+  border-color: #22be34 !important;
+  background-color: rgba(34, 190, 52, 0.18) !important;
+  color: #22be34 !important;
+}
+
+.dark .fillblank-option.correct select,
+.dark .fillblank-option.correct input,
+.dark .fillblank-option select.is-correct,
+.dark .fillblank-option input.is-correct,
+.dark .fillblank-blank-correct,
+.dark .blank-correct {
+  border-color: #22be34 !important;
+  background-color: rgba(34, 190, 52, 0.22) !important;
+  color: #4ade80 !important;
+}
+
+.fillblank-option.wrong select,
+.fillblank-option.wrong input,
+.fillblank-option select.is-wrong,
+.fillblank-option input.is-wrong,
+.fillblank-blank-wrong,
+.blank-wrong {
+  border-color: #db2828 !important;
+  background-color: rgba(219, 40, 40, 0.18) !important;
+  color: #db2828 !important;
+}
+
+.dark .fillblank-option.wrong select,
+.dark .fillblank-option.wrong input,
+.dark .fillblank-option select.is-wrong,
+.dark .fillblank-option input.is-wrong,
+.dark .fillblank-blank-wrong,
+.dark .blank-wrong {
+  border-color: #db2828 !important;
+  background-color: rgba(219, 40, 40, 0.22) !important;
+  color: #f87171 !important;
+}
+
+.fillblank-correct-badge {
+  display: inline-flex;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 4px;
+  margin-left: 4px;
+  background-color: rgba(34, 190, 52, 0.2);
+  border: 1px solid rgba(34, 190, 52, 0.5);
+  color: #4ade80;
+  vertical-align: middle;
+}
+
+
 

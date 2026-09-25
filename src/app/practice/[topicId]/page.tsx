@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useParams, useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import {
@@ -29,13 +29,22 @@ interface Choice {
   isCorrect?: boolean;
 }
 
+interface FillBlankAnswer {
+  index: number;
+  correctAnswers: string[];
+}
+
 interface Question {
   id: string;
+  questionType?: string;
+  questionNumber?: number;
   questionName: string;
   questionText: string;
   passageText?: string | null;
   choices: Choice[];
   correctChoiceId: string;
+  fillblankAnswers?: FillBlankAnswer[];
+  shortAnswers?: string[];
   explanation: string;
   ruleTip?: string;
   answerFeedbacks?: Record<string, string>;
@@ -56,6 +65,52 @@ interface TopicTheory {
   rules?: Array<{ sound?: string; rule: string; formula?: string; examples?: string }>;
 }
 
+function normalizeBlankValue(str: string): string {
+  if (!str) return '';
+  return str
+    .trim()
+    .toLowerCase()
+    .replace(/[\u2018\u2019]/g, "'")
+    .replace(/[\u201C\u201D]/g, '"')
+    .replace(/\s+/g, ' ');
+}
+
+function normalizeSentence(str: string): string {
+  if (!str) return '';
+  return str
+    .trim()
+    .toLowerCase()
+    .replace(/[\u2018\u2019]/g, "'")
+    .replace(/[\u201C\u201D]/g, '"')
+    .replace(/\s*([,.:;?!])\s*/g, '$1 ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .replace(/[.?!]+$/, '');
+}
+
+function expandContractions(s: string): string {
+  return s
+    .replace(/\bhaven't\b/g, 'have not')
+    .replace(/\bhasn't\b/g, 'has not')
+    .replace(/\bdidn't\b/g, 'did not')
+    .replace(/\bwon't\b/g, 'will not')
+    .replace(/\bcan't\b/g, 'cannot')
+    .replace(/\bisn't\b/g, 'is not')
+    .replace(/\baren't\b/g, 'are not')
+    .replace(/\bwasn't\b/g, 'was not')
+    .replace(/\bweren't\b/g, 'were not')
+    .replace(/\bwouldn't\b/g, 'would not')
+    .replace(/\bcouldn't\b/g, 'could not')
+    .replace(/\bshouldn't\b/g, 'should not');
+}
+
+function matchesSentence(user: string, target: string): boolean {
+  const normUser = normalizeSentence(user);
+  const normTarget = normalizeSentence(target);
+  if (normUser === normTarget) return true;
+  return expandContractions(normUser) === expandContractions(normTarget);
+}
+
 export default function PracticePage() {
   const { user, isLoading } = useAuthProgress();
   const params = useParams();
@@ -70,6 +125,9 @@ export default function PracticePage() {
   const [theory, setTheory] = useState<TopicTheory | null>(null);
   const [currentIndex, setCurrentIndex] = useState<number>(0);
   const [selectedChoiceId, setSelectedChoiceId] = useState<string | null>(null);
+  const [blankAnswers, setBlankAnswers] = useState<Record<string, string>>({});
+  const [selectedWordOrder, setSelectedWordOrder] = useState<string[]>([]);
+  const questionPromptRef = useRef<HTMLDivElement>(null);
   const [isSubmitted, setIsSubmitted] = useState<boolean>(false);
   const [isCorrect, setIsCorrect] = useState<boolean>(false);
   const [isRevealed, setIsRevealed] = useState<boolean>(false);
@@ -98,6 +156,8 @@ export default function PracticePage() {
               if (sData.questions && sData.questions.length > 0) {
                 const formatted: Question[] = sData.questions.map((q: any, idx: number) => ({
                   id: String(q.id || `study_${studyUnit}_${idx}`),
+                  questionType: q.questionType || (q.fillblankAnswers?.length ? 'FillBlank' : (q.shortAnswers?.length ? 'ShortAnswer' : 'MultipleChoice')),
+                  questionNumber: q.questionNumber,
                   questionName: q.questionName || `Câu ${idx + 1}`,
                   questionText: q.questionText || '',
                   passageText: q.passageText || q.passage || null,
@@ -109,6 +169,8 @@ export default function PracticePage() {
                     isCorrect: c.isCorrect || false,
                   })),
                   correctChoiceId: String(q.correctChoiceId || q.choices?.find((c: any) => c.isCorrect)?.id || ''),
+                  fillblankAnswers: q.fillblankAnswers || null,
+                  shortAnswers: q.shortAnswers || null,
                   explanation: q.explanation || '',
                   ruleTip: q.ruleTip || q.hint || '',
                   answerFeedbacks: q.answerFeedbacks || {},
@@ -147,6 +209,8 @@ export default function PracticePage() {
             if (data.questions && data.questions.length > 0) {
               const formatted: Question[] = data.questions.map((q: any) => ({
                 id: String(q.id),
+                questionType: q.questionType || (q.fillblankAnswers?.length ? 'FillBlank' : (q.shortAnswers?.length ? 'ShortAnswer' : 'MultipleChoice')),
+                questionNumber: q.questionNumber,
                 questionName: q.questionName || '',
                 questionText: q.questionText || '',
                 passageText: q.passageText || q.passage || null,
@@ -158,6 +222,8 @@ export default function PracticePage() {
                   isCorrect: c.isCorrect || false,
                 })),
                 correctChoiceId: String(q.correctChoiceId || q.choices?.find((c: any) => c.isCorrect)?.id || ''),
+                fillblankAnswers: q.fillblankAnswers || null,
+                shortAnswers: q.shortAnswers || null,
                 explanation: q.explanation || '',
                 ruleTip: q.hint || q.ruleTip || '',
                 answerFeedbacks: q.answerFeedbacks || {},
@@ -200,6 +266,8 @@ export default function PracticePage() {
         if (data.questions && data.questions.length > 0) {
           const formatted: Question[] = data.questions.map((q: any, idx: number) => ({
             id: String(q.id || `q_${idx}`),
+            questionType: q.questionType || (q.fillblankAnswers?.length ? 'FillBlank' : (q.shortAnswers?.length ? 'ShortAnswer' : 'MultipleChoice')),
+            questionNumber: q.questionNumber,
             questionName: q.questionName || `Question ${idx + 1}`,
             questionText: q.questionText || '',
             passageText: q.passageText || q.passage || null,
@@ -211,6 +279,8 @@ export default function PracticePage() {
               isCorrect: c.isCorrect || false,
             })),
             correctChoiceId: String(q.correctChoiceId || q.choices?.find((c: any) => c.isCorrect)?.id || ''),
+            fillblankAnswers: q.fillblankAnswers || null,
+            shortAnswers: q.shortAnswers || null,
             explanation: q.explanation || '',
             ruleTip: q.ruleTip || q.hint || '',
             answerFeedbacks: q.answerFeedbacks || {},
@@ -286,6 +356,134 @@ export default function PracticePage() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentQ?.id]);
 
+  const isFillBlank = Boolean(
+    currentQ?.questionType === 'FillBlank' ||
+    (currentQ?.fillblankAnswers && currentQ.fillblankAnswers.length > 0) ||
+    (currentQ?.questionText && currentQ.questionText.includes('fillblank-option'))
+  );
+
+  const isShortAnswer = Boolean(
+    currentQ?.questionType === 'ShortAnswer' ||
+    (currentQ?.shortAnswers && currentQ.shortAnswers.length > 0)
+  );
+
+  const isWordOrder = Boolean(currentQ?.questionType === 'WordOrder');
+
+  const totalBlanks = currentQ?.fillblankAnswers?.length || (
+    isFillBlank ? (currentQ?.questionText?.match(/class=['"][^'"]*fillblank-option/g)?.length || 1) : 0
+  );
+
+  const filledBlanksCount = isFillBlank && currentQ?.fillblankAnswers
+    ? currentQ.fillblankAnswers.filter((fb) => {
+        const idxStr = String(fb.index);
+        return (blankAnswers[idxStr] || blankAnswers[fb.index] || '').trim().length > 0;
+      }).length
+    : Object.keys(blankAnswers).filter((k) => (blankAnswers[k] || '').trim().length > 0).length;
+
+  const canSubmit = isFillBlank
+    ? (totalBlanks > 0 ? filledBlanksCount >= totalBlanks : filledBlanksCount > 0)
+    : isShortAnswer
+    ? Boolean((blankAnswers['0'] || '').trim().length > 0)
+    : isWordOrder
+    ? Boolean(currentQ?.choices && currentQ.choices.length > 0 && selectedWordOrder.length === currentQ.choices.length)
+    : Boolean(selectedChoiceId);
+
+  // Sync canSubmit state with selectedChoiceId for FillBlank & ShortAnswer & WordOrder
+  useEffect(() => {
+    if (isFillBlank || isShortAnswer || isWordOrder) {
+      if (canSubmit) {
+        if (!selectedChoiceId) {
+          setSelectedChoiceId('interactive_answered');
+        }
+      } else {
+        if (selectedChoiceId === 'fillblank_answered' || selectedChoiceId === 'interactive_answered') {
+          setSelectedChoiceId(null);
+        }
+      }
+    }
+  }, [canSubmit, isFillBlank, isShortAnswer, isWordOrder, selectedChoiceId]);
+
+  // Dynamic HTML event delegation on question container (change & input events)
+  useEffect(() => {
+    const container = questionPromptRef.current;
+    if (!container) return;
+
+    const handleSync = (e: Event) => {
+      const target = e.target as HTMLSelectElement | HTMLInputElement;
+      if (!target || !['SELECT', 'INPUT'].includes(target.tagName)) return;
+      const idx = target.getAttribute('index') || target.getAttribute('name')?.split('-').pop() || '0';
+      const val = target.value;
+      setBlankAnswers((prev) => ({ ...prev, [idx]: val }));
+    };
+
+    container.addEventListener('change', handleSync);
+    container.addEventListener('input', handleSync);
+
+    return () => {
+      container.removeEventListener('change', handleSync);
+      container.removeEventListener('input', handleSync);
+    };
+  }, [currentQ?.id]);
+
+  // Bidirectional DOM sync on mount/retry/answer reveal
+  useEffect(() => {
+    const container = questionPromptRef.current;
+    if (!container) return;
+
+    const controls = container.querySelectorAll<HTMLSelectElement | HTMLInputElement>('select, input');
+    controls.forEach((ctrl) => {
+      const idx = ctrl.getAttribute('index') || ctrl.getAttribute('name')?.split('-').pop() || '0';
+      if (blankAnswers[idx] !== undefined) {
+        if (ctrl.value !== blankAnswers[idx]) {
+          ctrl.value = blankAnswers[idx];
+        }
+      } else if (!isSubmitted) {
+        if (ctrl.value !== '') {
+          ctrl.value = '';
+        }
+      }
+      ctrl.disabled = isSubmitted && isRevealed;
+    });
+
+    // Clean up badges before applying new ones
+    container.querySelectorAll('.fillblank-correct-badge').forEach((el) => el.remove());
+
+    if (isSubmitted) {
+      controls.forEach((ctrl) => {
+        const span = (ctrl.closest('.fillblank-option') || ctrl.parentElement) as HTMLElement;
+        const idxStr = ctrl.getAttribute('index') || ctrl.getAttribute('name')?.split('-').pop() || '0';
+        const idx = parseInt(idxStr, 10);
+        const userVal = normalizeBlankValue(blankAnswers[idxStr] ?? blankAnswers[String(idx)] ?? '');
+
+        const fbItem = currentQ?.fillblankAnswers?.find(fb => String(fb.index) === idxStr) || currentQ?.fillblankAnswers?.[idx];
+        const correctAnswers = (fbItem?.correctAnswers || []).map(normalizeBlankValue);
+        const isCorrectBlank = correctAnswers.length > 0 ? correctAnswers.some((ans) => ans === userVal) : false;
+
+        if (span) {
+          span.classList.remove('correct', 'wrong');
+          span.classList.add(isCorrectBlank ? 'correct' : 'wrong');
+        }
+        ctrl.classList.remove('is-correct', 'is-wrong');
+        ctrl.classList.add(isCorrectBlank ? 'is-correct' : 'is-wrong');
+
+        if (!isCorrectBlank && isRevealed && fbItem?.correctAnswers?.[0]) {
+          const badge = document.createElement('span');
+          badge.className = 'fillblank-correct-badge';
+          badge.textContent = `Đ/A: ${fbItem.correctAnswers[0]}`;
+          span?.appendChild(badge);
+        }
+      });
+    } else {
+      controls.forEach((ctrl) => {
+        const span = (ctrl.closest('.fillblank-option') || ctrl.parentElement) as HTMLElement;
+        if (span) {
+          span.classList.remove('correct', 'wrong');
+        }
+        ctrl.classList.remove('is-correct', 'is-wrong');
+      });
+    }
+  }, [blankAnswers, isSubmitted, isRevealed, currentQ]);
+
   const handleSelectChoice = (choiceId: string) => {
     if (isSubmitted && !isRevealed && retryCount > 0) {
       setSelectedChoiceId(choiceId);
@@ -299,7 +497,26 @@ export default function PracticePage() {
   const handleSubmitAnswer = () => {
     if (!selectedChoiceId || !currentQ) return;
 
-    const correct = selectedChoiceId === currentQ.correctChoiceId;
+    let correct = false;
+    if (isFillBlank && currentQ.fillblankAnswers && currentQ.fillblankAnswers.length > 0) {
+      let correctCount = 0;
+      currentQ.fillblankAnswers.forEach((fb, idx) => {
+        const userVal = normalizeBlankValue(blankAnswers[String(fb.index)] ?? blankAnswers[idx] ?? '');
+        const match = (fb.correctAnswers || []).some((ans) => normalizeBlankValue(ans) === userVal);
+        if (match) correctCount++;
+      });
+      correct = correctCount === currentQ.fillblankAnswers.length;
+    } else if (isShortAnswer && currentQ.shortAnswers && currentQ.shortAnswers.length > 0) {
+      const userVal = blankAnswers['0'] || '';
+      correct = currentQ.shortAnswers.some((ans) => matchesSentence(userVal, ans));
+    } else if (isWordOrder) {
+      const userSentence = selectedWordOrder.join(' ');
+      const answers = currentQ.shortAnswers || [];
+      correct = answers.length > 0 ? answers.some((ans) => matchesSentence(userSentence, ans)) : false;
+    } else {
+      correct = selectedChoiceId === currentQ.correctChoiceId;
+    }
+
     setIsSubmitted(true);
     setIsCorrect(correct);
     if (correct || retryCount <= 0) {
@@ -317,10 +534,27 @@ export default function PracticePage() {
     setRetryCount(prev => prev - 1);
     setSelectedChoiceId(null);
     setIsSubmitted(false);
+    if (isWordOrder) {
+      setSelectedWordOrder([]);
+    }
   };
 
   const handleRevealAnswer = () => {
     setIsRevealed(true);
+    if (isFillBlank && currentQ?.fillblankAnswers) {
+      const revealed: Record<string, string> = {};
+      currentQ.fillblankAnswers.forEach((fb, idx) => {
+        const val = fb.correctAnswers?.[0] || '';
+        revealed[String(fb.index)] = val;
+        revealed[String(idx)] = val;
+      });
+      setBlankAnswers(revealed);
+    } else if (isShortAnswer && currentQ?.shortAnswers?.[0]) {
+      setBlankAnswers({ '0': currentQ.shortAnswers[0] });
+    } else if (isWordOrder && currentQ?.shortAnswers?.[0]) {
+      const words = currentQ.shortAnswers[0].split(' ');
+      setSelectedWordOrder(words);
+    }
   };
 
   // Keyboard navigation: 1..4 or A..D to select, Enter to submit / retry / next
@@ -361,6 +595,8 @@ export default function PracticePage() {
     if (currentIndex < questions.length - 1) {
       setCurrentIndex((prev) => prev + 1);
       setSelectedChoiceId(null);
+      setBlankAnswers({});
+      setSelectedWordOrder([]);
       setIsSubmitted(false);
       setIsCorrect(false);
       setIsRevealed(false);
@@ -531,6 +767,7 @@ export default function PracticePage() {
               setScore(0);
               setIsFinished(false);
               setSelectedChoiceId(null);
+              setBlankAnswers({});
               setIsSubmitted(false);
               setIsRevealed(false);
               setRetryCount(1);
@@ -664,6 +901,7 @@ export default function PracticePage() {
 
           <div className="flex items-start justify-between gap-3">
             <div
+              ref={questionPromptRef}
               className="text-[17px] leading-relaxed font-bold text-white flex-1"
               dangerouslySetInnerHTML={{ __html: currentQ.questionText }}
             />
@@ -677,9 +915,180 @@ export default function PracticePage() {
             </button>
           </div>
 
+          {/* ShortAnswer input field (for sentence transformation / open typing) */}
+          {isShortAnswer && (!currentQ.choices || currentQ.choices.length === 0) && (!currentQ.questionText.includes('<input')) && (
+            <div className="p-4 rounded-xl bg-[#1e221e] border border-[#383c38] space-y-2.5">
+              <div className="text-xs font-bold text-emerald-400 uppercase tracking-wider flex items-center gap-1.5">
+                <span>✍️ Nhập câu trả lời của bạn:</span>
+              </div>
+              <input
+                type="text"
+                disabled={isSubmitted && isRevealed}
+                value={blankAnswers['0'] || ''}
+                onChange={(e) => setBlankAnswers((prev) => ({ ...prev, '0': e.target.value }))}
+                placeholder="Nhập câu trả lời hoàn chỉnh tại đây..."
+                className="w-full bg-[#181a18] border border-[#383c38] focus:border-[#5fbd18] rounded-lg px-4 py-2.5 text-white text-sm outline-none transition-all font-medium"
+              />
+            </div>
+          )}
+
+          {/* ShortAnswer post-submission feedback banner */}
+          {isShortAnswer && isSubmitted && isRevealed && (
+            <div className={`p-4 rounded-xl border text-sm space-y-2 ${
+              isCorrect
+                ? 'bg-[rgba(34,190,52,0.16)] border-[#22be34]/40 text-[#b8e4bd]'
+                : 'bg-[rgba(239,68,68,0.18)] border-[#db2828]/40 text-[#e6e6e6]'
+            }`}>
+              <div className={`font-semibold flex items-center gap-1.5 ${isCorrect ? 'text-[#22be34]' : 'text-[#db2828]'}`}>
+                {isCorrect ? <CheckCircle2 className="w-4 h-4 text-[#22be34]" /> : <X className="w-4 h-4 text-[#db2828]" />}
+                <span>{isCorrect ? 'Chính xác!' : 'Đáp án đúng:'}</span>
+              </div>
+              {!isCorrect && currentQ.shortAnswers && currentQ.shortAnswers.length > 0 && (
+                <div className="font-semibold text-emerald-400 bg-[#181a18] p-3 rounded-lg border border-[#383c38]">
+                  {currentQ.shortAnswers.join(' / ')}
+                </div>
+              )}
+            </div>
+          )}
+
+          {/* WordOrder Interactive Rearrangement Area */}
+          {isWordOrder && (
+            <div className="space-y-4">
+              <div className="p-4 rounded-xl bg-[#1e221e] border border-[#383c38] space-y-2.5">
+                <div className="text-xs font-bold text-emerald-400 uppercase tracking-wider flex items-center justify-between">
+                  <span>🧩 Câu đã sắp xếp:</span>
+                  {selectedWordOrder.length > 0 && !isSubmitted && (
+                    <button
+                      type="button"
+                      onClick={() => setSelectedWordOrder([])}
+                      className="text-xs text-slate-400 hover:text-white underline cursor-pointer"
+                    >
+                      Xóa làm lại
+                    </button>
+                  )}
+                </div>
+                <div className="min-h-[52px] p-3 rounded-lg bg-[#181a18] border border-dashed border-[#383c38] flex flex-wrap gap-2 items-center">
+                  {selectedWordOrder.length === 0 ? (
+                    <span className="text-xs text-slate-500 italic">Nhấp vào các từ/cụm từ bên dưới để ghép câu...</span>
+                  ) : (
+                    selectedWordOrder.map((word, wIdx) => (
+                      <button
+                        key={`${word}-${wIdx}`}
+                        type="button"
+                        disabled={isSubmitted && isRevealed}
+                        onClick={() => {
+                          if (isSubmitted && isRevealed) return;
+                          setSelectedWordOrder(prev => prev.filter((_, idx) => idx !== wIdx));
+                        }}
+                        className="px-3 py-1.5 rounded-lg bg-[#2a382a] border border-[#5fbd18] text-white text-sm font-semibold hover:bg-red-950/60 hover:border-red-500 transition-colors flex items-center gap-1.5 cursor-pointer shadow-xs"
+                      >
+                        <span>{word}</span>
+                        {!isSubmitted && <span className="text-xs text-slate-400">×</span>}
+                      </button>
+                    ))
+                  )}
+                </div>
+              </div>
+
+              {/* Pool of available word chips */}
+              {!isSubmitted && (
+                <div className="p-4 rounded-xl bg-[#1e221e] border border-[#383c38] space-y-2.5">
+                  <div className="text-xs font-bold text-slate-400 uppercase tracking-wider">
+                    <span>📌 Các từ / cụm từ cần sắp xếp:</span>
+                  </div>
+                  <div className="flex flex-wrap gap-2">
+                    {currentQ.choices.map((choice, cIdx) => {
+                      const text = choice.text;
+                      const countInChoices = currentQ.choices.filter(c => c.text === text).length;
+                      const countInSelected = selectedWordOrder.filter(w => w === text).length;
+                      const isUsed = countInSelected >= countInChoices;
+
+                      return (
+                        <button
+                          key={cIdx}
+                          type="button"
+                          disabled={isUsed}
+                          onClick={() => {
+                            if (!isUsed) {
+                              setSelectedWordOrder(prev => [...prev, text]);
+                            }
+                          }}
+                          className={`px-3.5 py-2 rounded-lg text-sm font-semibold transition-all shadow-xs ${
+                            isUsed
+                              ? 'bg-[#181a18] border border-[#2a2d2a] text-slate-600 cursor-not-allowed opacity-40'
+                              : 'bg-[#252825] border border-slate-600 text-slate-200 hover:border-[#5fbd18] hover:bg-[#2a382a] hover:text-white cursor-pointer active:scale-95'
+                          }`}
+                        >
+                          {text}
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
+              )}
+
+              {/* WordOrder post-submission feedback */}
+              {isSubmitted && isRevealed && (
+                <div className={`p-4 rounded-xl border text-sm space-y-2 ${
+                  isCorrect
+                    ? 'bg-[rgba(34,190,52,0.16)] border-[#22be34]/40 text-[#b8e4bd]'
+                    : 'bg-[rgba(239,68,68,0.18)] border-[#db2828]/40 text-[#e6e6e6]'
+                }`}>
+                  <div className={`font-semibold flex items-center gap-1.5 ${isCorrect ? 'text-[#22be34]' : 'text-[#db2828]'}`}>
+                    {isCorrect ? <CheckCircle2 className="w-4 h-4 text-[#22be34]" /> : <X className="w-4 h-4 text-[#db2828]" />}
+                    <span>{isCorrect ? 'Chính xác!' : 'Đáp án đúng:'}</span>
+                  </div>
+                  {!isCorrect && currentQ.shortAnswers && currentQ.shortAnswers.length > 0 && (
+                    <div className="font-semibold text-emerald-400 bg-[#181a18] p-3 rounded-lg border border-[#383c38]">
+                      {currentQ.shortAnswers[0]}
+                    </div>
+                  )}
+                </div>
+              )}
+            </div>
+          )}
+
+          {/* FillBlank Answer Key Table when Revealed */}
+          {isFillBlank && isSubmitted && isRevealed && currentQ.fillblankAnswers && currentQ.fillblankAnswers.length > 0 && (
+            <div className="p-4 rounded-xl bg-[#1e221e] border border-[#383c38] space-y-3">
+              <div className="text-xs font-bold text-emerald-400 uppercase tracking-wider flex items-center gap-1.5">
+                <span>📋 Đáp án chi tiết các ô trống:</span>
+              </div>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5">
+                {currentQ.fillblankAnswers.map((fb, idx) => {
+                  const label = `${currentQ.questionNumber || currentIndex + 1}.${idx + 1}`;
+                  const userVal = normalizeBlankValue(blankAnswers[String(fb.index)] ?? blankAnswers[idx] ?? '');
+                  const isMatch = (fb.correctAnswers || []).some(ans => normalizeBlankValue(ans) === userVal);
+                  return (
+                    <div
+                      key={idx}
+                      className={`p-3 rounded-lg border flex items-center justify-between text-xs sm:text-sm ${
+                        isMatch
+                          ? 'bg-[rgba(34,190,52,0.12)] border-[#22be34]/40 text-[#b8e4bd]'
+                          : 'bg-[rgba(239,68,68,0.12)] border-[#db2828]/40 text-slate-300'
+                      }`}
+                    >
+                      <div className="flex items-center gap-2">
+                        <span className="font-bold px-2 py-0.5 rounded bg-[#252825] text-slate-300 border border-[#383c38]">
+                          {label}
+                        </span>
+                        <span>{userVal ? `Bạn điền: ${userVal}` : '(Chưa điền)'}</span>
+                      </div>
+                      <div className="font-bold text-emerald-400 flex items-center gap-1">
+                        <span>Đ/A:</span>
+                        <span>{fb.correctAnswers.join(' / ')}</span>
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+
           {/* Answer Choices List (Tak12 Semantic UI feed replica) */}
-          <div className="space-y-3">
-            {currentQ.choices.map((choice, cIdx) => {
+          {!isWordOrder && (
+            <div className="space-y-3">
+              {currentQ.choices.map((choice, cIdx) => {
               const isSelected = selectedChoiceId === choice.id;
               const isChoiceCorrect = choice.id === currentQ.correctChoiceId;
               const choiceLabel = choice.label || String.fromCharCode(65 + cIdx);
@@ -794,6 +1203,7 @@ export default function PracticePage() {
               );
             })}
           </div>
+        )}
 
           {/* Feedback & Retry Banner (1-Retry Mechanism) */}
           {isSubmitted && !isCorrect && !isRevealed && (
