@@ -1,0 +1,347 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-green: #1c581f;
+  --primary-brand: #27ae60;
+  --primary-light: #ebf7ee;
+  --active-tab-green: #83c224;
+  --tag-green: #add93f;
+  --navbox1-background: #ebf7ee;
+  --navbox2-background: #dcf1f6;
+  --navbox3-background: #ffffff;
+  --navbox4-background: #83c224;
+}
+
+body {
+  color: #2c3e50;
+  background-color: #f8fafc;
+  font-family: "Inter UI", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* TA12 Tag Pill Shape */
+.ta-tag-pill {
+  position: relative;
+  background-color: var(--tag-green);
+  color: #1c581f;
+  padding: 6px 16px 6px 20px;
+  font-size: 13px;
+  font-weight: 700;
+  border-radius: 0 4px 4px 0;
+  display: inline-flex;
+  align-items: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  clip-path: polygon(10px 0%, 100% 0%, 100% 100%, 10px 100%, 0% 50%);
+}
+
+.ta-tag-pill:hover {
+  filter: brightness(0.95);
+  transform: translateY(-1px);
+}
+
+.ta-tag-pill.active {
+  background-color: #1c581f;
+  color: #ffffff;
+}
+
+/* Question Option Radio Styling */
+.choice-item {
+  display: flex;
+  align-items: center;
+  padding: 12px 16px;
+  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  background-color: #ffffff;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+}
+
+.choice-item:hover {
+  background-color: #f1f5f9;
+  border-color: #cbd5e1;
+}
+
+.choice-item.selected {
+  background-color: #f0fdf4;
+  border-color: #22c55e;
+}
+
+.choice-item.correct {
+  background-color: #ecfdf5 !important;
+  border-color: #10b981 !important;
+}
+
+.choice-item.wrong {
+  background-color: #fef2f2 !important;
+  border-color: #ef4444 !important;
+}
+
+/* Score Progress Bar in Topic list */
+.topic-progress-bar {
+  width: 6px;
+  height: 24px;
+  background-color: #e2e8f0;
+  border-radius: 3px;
+  position: relative;
+  overflow: hidden;
+}
+
+.topic-progress-bar-fill {
+  background-color: #22c55e;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  transition: height 0.3s ease;
+}
+
+/* TA12 Authentic Related Topics Modal & Content */
+.related-topic-content {
+  color: #e6e6e6;
+  font-size: 15px;
+  line-height: 1.65;
+}
+
+.related-topic-content p {
+  margin-bottom: 0.75rem;
+  color: #e6e6e6;
+}
+
+.related-topic-content ul {
+  list-style-type: disc !important;
+  padding-left: 1.5rem !important;
+  margin-top: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.related-topic-content ol {
+  list-style-type: decimal !important;
+  padding-left: 1.5rem !important;
+  margin-top: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.related-topic-content li {
+  margin-bottom: 0.35rem;
+  color: #e6e6e6;
+}
+
+.related-topic-content strong {
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.related-topic-content em {
+  font-style: italic;
+  color: #cbd5e1;
+}
+
+.related-topic-content a {
+  color: #66cc00 !important;
+  text-decoration: underline;
+}
+
+.related-topic-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 0.75rem auto;
+  display: block;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  cursor: zoom-in;
+}
+
+.related-topic-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.75rem 0;
+  font-size: 14px;
+}
+
+.related-topic-content th,
+.related-topic-content td {
+  border: 1px solid #383c38;
+  padding: 8px 12px;
+}
+
+.related-topic-content th {
+  background-color: #2a2e2a;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.related-topic-content iframe {
+  max-width: 100%;
+  border-radius: 8px;
+  margin: 0.75rem auto;
+  display: block;
+}
+
+/* Dark contrast overrides for pre-rendered markup inside .related-topic-content against #242824 */
+.related-topic-content [class*="text-slate-"],
+.related-topic-content .text-slate-900,
+.related-topic-content .text-slate-800,
+.related-topic-content .text-slate-700,
+.related-topic-content .text-slate-600 {
+  color: #e6e6e6 !important;
+}
+
+.related-topic-content [class*="bg-slate-"],
+.related-topic-content .bg-slate-50,
+.related-topic-content .bg-slate-100 {
+  background-color: #1a1d1a !important;
+}
+
+.related-topic-content [class*="border-slate-"],
+.related-topic-content .border-slate-100,
+.related-topic-content .border-slate-200 {
+  border-color: #383c38 !important;
+}
+
+.related-topic-content .bg-emerald-50,
+.related-topic-content .bg-emerald-100 {
+  background-color: #1e2e1e !important;
+}
+
+.related-topic-content .text-emerald-900,
+.related-topic-content .text-emerald-800 {
+  color: #a7f3d0 !important;
+}
+
+.related-topic-content td,
+.related-topic-content tr {
+  color: #e6e6e6 !important;
+}
+
+.related-topic-content .bg-white {
+  background-color: #1e221e !important;
+}
+
+.related-topic-content .lp-template,
+.related-topic-content .lp-template.lp-partners {
+  background-color: transparent !important;
+}
+
+.related-topic-content .lp-partner-banner-content .lp-title {
+  color: #4ade80 !important;
+}
+
+.related-topic-content .lp-partner-banner-content .lp-description {
+  color: #cbd5e1 !important;
+}
+
+/* TA12 Authentic Related Topic Pill Button */
+.btn-related-topic {
+  background-color: #ebf7ee;
+  color: #1c581f;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 5px 12px;
+  border-radius: 6px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  border: 1px solid #d4eedb;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+}
+
+.btn-related-topic:hover {
+  background-color: #dcf3e2;
+  border-color: #bfe5ca;
+}
+
+.dark .btn-related-topic {
+  background-color: #1e3320;
+  color: #86efac;
+  border-color: #27522d;
+}
+
+.dark .btn-related-topic:hover {
+  background-color: #264229;
+  border-color: #3b6e44;
+}
+
+/* TA12 Authentic Buttons */
+.app-btn-base {
+  font-family: inherit;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.15s ease-in-out;
+  outline: none;
+}
+
+.app-btn-positive-outline {
+  background: transparent;
+  color: #5fbd18;
+  border: 1.5px solid #5fbd18;
+  padding: 8px 24px;
+  font-size: 15px;
+  font-weight: 600;
+  border-radius: 6px;
+}
+
+.app-btn-positive-outline:hover {
+  background: #5fbd18;
+  color: #ffffff;
+}
+
+.app-btn-default-outline {
+  background: transparent;
+  color: #a0a0a0;
+  border: 1.5px solid #4a4e4a;
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 6px;
+}
+
+.app-btn-default-outline:hover {
+  color: #ffffff;
+  border-color: #6a6e6a;
+}
+
+.app-btn-positive-shadow {
+  background: #5fbd18;
+  color: #ffffff;
+  border: none;
+  padding: 6px 16px;
+  font-size: 13px;
+  font-weight: 700;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(95, 189, 24, 0.3);
+}
+
+.app-btn-positive-shadow:hover {
+  background: #54a815;
+}
+
+/* Tak12 Authentic Translation Sheet Drawer */
+.translation-sheet {
+  position: fixed;
+  top: 0;
+  right: -450px;
+  width: 400px;
+  max-width: 90vw;
+  height: 100vh;
+  z-index: 1000;
+  background-color: rgb(36, 40, 36);
+  color: rgb(230, 230, 230);
+  box-shadow: -4px 0 20px rgba(0, 0, 0, 0.5);
+  border-left: 1px solid #383c38;
+  transition: right 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  display: flex;
+  flex-direction: column;
+}
+
+.translation-sheet.open {
+  right: 0;
+}
+
+

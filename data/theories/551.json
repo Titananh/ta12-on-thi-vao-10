@@ -1,0 +1,32 @@
+{
+  "topicId": 551,
+  "topicName": "Mệnh đề quan hệ",
+  "englishName": "Relative Clauses",
+  "rules": [
+    {
+      "rule": "Đại từ quan hệ chỉ người:",
+      "formula": "WHO: làm chủ ngữ hoặc tân ngữ (N(người) + WHO + V/S+V) // WHOM: chỉ làm tân ngữ (N(người) + WHOM + S+V)",
+      "examples": "The woman who lives next door is a doctor. / The boy whom we met is Nam."
+    },
+    {
+      "rule": "Đại từ quan hệ chỉ vật:",
+      "formula": "WHICH: làm chủ ngữ hoặc tân ngữ cho danh từ chỉ vật (N(vật) + WHICH + V/S+V)",
+      "examples": "The book which you lent me is fascinating."
+    },
+    {
+      "rule": "Đại từ quan hệ 'THAT': Thay thế cho who, whom, which trong mệnh đề xác định.",
+      "formula": "LƯU Ý: KHÔNG dùng 'THAT' sau dấu phẩy (,) và sau giới từ.",
+      "examples": "The pen that is on the desk is mine (ĐÚNG). / Mr. Ba, that is my teacher... (SAI)."
+    },
+    {
+      "rule": "Đại từ quan hệ chỉ sự sở hữu 'WHOSE':",
+      "formula": "N(người/vật) + WHOSE + Noun",
+      "examples": "The girl whose mother is a singer sings very beautifully."
+    },
+    {
+      "rule": "Rút gọn mệnh đề quan hệ:",
+      "formula": "Chủ động -> V-ing // Bị động -> V3/ed // Sau the first, last, only, so sánh nhất -> to V-inf",
+      "examples": "The man standing there is my uncle. / The bridge built in 1902 is Long Bien Bridge."
+    }
+  ]
+}

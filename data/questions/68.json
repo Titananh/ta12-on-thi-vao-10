@@ -1,0 +1,452 @@
+[
+  {
+    "id": "68_1",
+    "questionName": "Question 1",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_1_1",
+        "text": "happened",
+        "html": "happen<u>ed</u>"
+      },
+      {
+        "id": "68_1_2",
+        "text": "mixed",
+        "html": "mix<u>ed</u>"
+      },
+      {
+        "id": "68_1_3",
+        "text": "listened",
+        "html": "listen<u>ed</u>"
+      },
+      {
+        "id": "68_1_4",
+        "text": "lived",
+        "html": "liv<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_1_2",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"mixed\"</strong> được phát âm là <strong>/t/</strong>, trong các từ còn lại được phát âm là <strong>/d/</strong>.</p><ul><li><strong>mixed</strong> (v.) /mɪkst/</li><li><strong>happened</strong> (v.) /ˈhæpənd/</li><li><strong>listened</strong> (v.) /ˈlɪsnd/</li><li><strong>lived</strong> (v.) /lɪvd/</li></ul>",
+    "ruleTip": "Đuôi '-ed' phát âm là /t/ sau các âm vô thanh (/s/, /p/, /k/, /f/, /ʃ/, /tʃ/)."
+  },
+  {
+    "id": "68_2",
+    "questionName": "Question 2",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_2_1",
+        "text": "passed",
+        "html": "pass<u>ed</u>"
+      },
+      {
+        "id": "68_2_3",
+        "text": "washed",
+        "html": "wash<u>ed</u>"
+      },
+      {
+        "id": "68_2_2",
+        "text": "opened",
+        "html": "open<u>ed</u>"
+      },
+      {
+        "id": "68_2_4",
+        "text": "worked",
+        "html": "work<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_2_2",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"opened\"</strong> được phát âm là <strong>/d/</strong>, trong các từ còn lại được phát âm là <strong>/t/</strong>.</p><ul><li><strong>opened</strong> (v.) /ˈəʊpənd/</li><li><strong>passed</strong> (v.) /pɑːst/</li><li><strong>washed</strong> (v.) /wɒʃt/</li><li><strong>worked</strong> (v.) /wɜːkt/</li></ul>",
+    "ruleTip": "Đuôi '-ed' phát âm là /d/ sau các âm hữu thanh còn lại (như /n/)."
+  },
+  {
+    "id": "68_3",
+    "questionName": "Question 3",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_3_1",
+        "text": "dressed",
+        "html": "dress<u>ed</u>"
+      },
+      {
+        "id": "68_3_4",
+        "text": "joined",
+        "html": "join<u>ed</u>"
+      },
+      {
+        "id": "68_3_2",
+        "text": "dropped",
+        "html": "dropp<u>ed</u>"
+      },
+      {
+        "id": "68_3_3",
+        "text": "matched",
+        "html": "match<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_3_4",
+    "explanation": "<p>Phần gạch chân trong <strong>\"joined\"</strong> được phát âm là <strong>/d/</strong>, trong các từ còn lại được phát âm là <strong>/t/</strong>.</p><ul><li><strong>joined</strong> (v.) /dʒɔɪnd/</li><li><strong>dressed</strong> (v.) /drest/</li><li><strong>dropped</strong> (v.) /drɒpt/</li><li><strong>matched</strong> (v.) /mætʃt/</li></ul>",
+    "ruleTip": "Đuôi '-ed' phát âm là /d/ sau các nguyên âm và phụ âm hữu thanh."
+  },
+  {
+    "id": "68_4",
+    "questionName": "Question 4",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_4_1",
+        "text": "played",
+        "html": "play<u>ed</u>"
+      },
+      {
+        "id": "68_4_2",
+        "text": "planned",
+        "html": "plann<u>ed</u>"
+      },
+      {
+        "id": "68_4_4",
+        "text": "lived",
+        "html": "liv<u>ed</u>"
+      },
+      {
+        "id": "68_4_3",
+        "text": "cooked",
+        "html": "cook<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_4_3",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"cooked\"</strong> được phát âm là <strong>/t/</strong>, trong các từ còn lại được phát âm là <strong>/d/</strong>.</p><ul><li><strong>cooked</strong> (v.) /kʊkt/</li><li><strong>played</strong> (v.) /pleɪd/</li><li><strong>planned</strong> (v.) /plænd/</li><li><strong>lived</strong> (v.) /lɪvd/</li></ul>",
+    "ruleTip": "Đuôi '-ed' phát âm là /t/ sau âm vô thanh /k/."
+  },
+  {
+    "id": "68_5",
+    "questionName": "Question 5",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_5_1",
+        "text": "watched",
+        "html": "watch<u>ed</u>"
+      },
+      {
+        "id": "68_5_3",
+        "text": "missed",
+        "html": "miss<u>ed</u>"
+      },
+      {
+        "id": "68_5_2",
+        "text": "cleaned",
+        "html": "clean<u>ed</u>"
+      },
+      {
+        "id": "68_5_4",
+        "text": "talked",
+        "html": "talk<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_5_2",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"cleaned\"</strong> được phát âm là <strong>/d/</strong>, trong các từ còn lại được phát âm là <strong>/t/</strong>.</p><ul><li><strong>cleaned</strong> (v.) /kliːnd/</li><li><strong>watched</strong> (v.) /wɒtʃt/</li><li><strong>missed</strong> (v.) /mɪst/</li><li><strong>talked</strong> (v.) /tɔːkt/</li></ul>",
+    "ruleTip": "Đuôi '-ed' phát âm là /d/ sau âm hữu thanh /n/."
+  },
+  {
+    "id": "68_6",
+    "questionName": "Question 6",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_6_1",
+        "text": "toured",
+        "html": "tour<u>ed</u>"
+      },
+      {
+        "id": "68_6_3",
+        "text": "solved",
+        "html": "solv<u>ed</u>"
+      },
+      {
+        "id": "68_6_2",
+        "text": "jumped",
+        "html": "jump<u>ed</u>"
+      },
+      {
+        "id": "68_6_4",
+        "text": "rained",
+        "html": "rain<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_6_2",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"jumped\"</strong> được phát âm là <strong>/t/</strong>, trong các từ còn lại được phát âm là <strong>/d/</strong>.</p><ul><li><strong>jumped</strong> (v.) /dʒʌmpt/</li><li><strong>toured</strong> (v.) /tʊəd/</li><li><strong>solved</strong> (v.) /sɒlvd/</li><li><strong>rained</strong> (v.) /reɪnd/</li></ul>",
+    "ruleTip": "Đuôi '-ed' phát âm là /t/ sau âm vô thanh /p/."
+  },
+  {
+    "id": "68_7",
+    "questionName": "Question 7",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_7_1",
+        "text": "talked",
+        "html": "talk<u>ed</u>"
+      },
+      {
+        "id": "68_7_3",
+        "text": "missed",
+        "html": "miss<u>ed</u>"
+      },
+      {
+        "id": "68_7_4",
+        "text": "stepped",
+        "html": "stepp<u>ed</u>"
+      },
+      {
+        "id": "68_7_2",
+        "text": "naked",
+        "html": "nak<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_7_2",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"naked\"</strong> được phát âm là <strong>/ɪd/</strong>, trong các từ còn lại được phát âm là <strong>/t/</strong>.</p><ul><li><strong>naked</strong> (adj.) /ˈneɪkɪd/</li><li><strong>talked</strong> (v.) /tɔːkt/</li><li><strong>missed</strong> (v.) /mɪst/</li><li><strong>stepped</strong> (v.) /stept/</li></ul>",
+    "ruleTip": "Tính từ đặc biệt kết thúc bằng '-ed' như 'naked', 'wicked', 'crooked' luôn phát âm là /ɪd/."
+  },
+  {
+    "id": "68_8",
+    "questionName": "Question 8",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_8_1",
+        "text": "wanted",
+        "html": "want<u>ed</u>"
+      },
+      {
+        "id": "68_8_4",
+        "text": "stopped",
+        "html": "stopp<u>ed</u>"
+      },
+      {
+        "id": "68_8_2",
+        "text": "decided",
+        "html": "decid<u>ed</u>"
+      },
+      {
+        "id": "68_8_3",
+        "text": "needed",
+        "html": "need<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_8_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"stopped\"</strong> được phát âm là <strong>/t/</strong>, trong các từ còn lại phát âm là <strong>/ɪd/</strong>.</p><ul><li><strong>stopped</strong> (v.) /stɒpt/</li><li><strong>wanted</strong> (v.) /ˈwɒntɪd/</li><li><strong>decided</strong> (v.) /dɪˈsaɪdɪd/</li><li><strong>needed</strong> (v.) /ˈniːdɪd/</li></ul>",
+    "ruleTip": "Đuôi '-ed' phát âm là /ɪd/ khi tận cùng là /t/ hoặc /d/ (mẹo: 'tiền đô')."
+  },
+  {
+    "id": "68_9",
+    "questionName": "Question 9",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_9_1",
+        "text": "invited",
+        "html": "invit<u>ed</u>"
+      },
+      {
+        "id": "68_9_2",
+        "text": "attended",
+        "html": "attend<u>ed</u>"
+      },
+      {
+        "id": "68_9_4",
+        "text": "looked",
+        "html": "look<u>ed</u>"
+      },
+      {
+        "id": "68_9_3",
+        "text": "visited",
+        "html": "visit<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_9_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"looked\"</strong> được phát âm là <strong>/t/</strong>, các từ còn lại phát âm là <strong>/ɪd/</strong>.</p><ul><li><strong>looked</strong> (v.) /lʊkt/</li><li><strong>invited</strong> (v.) /ɪnˈvaɪtɪd/</li><li><strong>attended</strong> (v.) /əˈtendɪd/</li><li><strong>visited</strong> (v.) /ˈvɪzɪtɪd/</li></ul>",
+    "ruleTip": "Đuôi '-ed' phát âm là /ɪd/ sau /t/ và /d/. 'looked' kết thúc bằng /k/ nên đọc là /t/."
+  },
+  {
+    "id": "68_10",
+    "questionName": "Question 10",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_10_4",
+        "text": "loved",
+        "html": "lov<u>ed</u>"
+      },
+      {
+        "id": "68_10_1",
+        "text": "helped",
+        "html": "help<u>ed</u>"
+      },
+      {
+        "id": "68_10_2",
+        "text": "laughed",
+        "html": "laugh<u>ed</u>"
+      },
+      {
+        "id": "68_10_3",
+        "text": "hoped",
+        "html": "hop<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_10_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"loved\"</strong> được phát âm là <strong>/d/</strong>, trong các từ còn lại được phát âm là <strong>/t/</strong>.</p><ul><li><strong>loved</strong> (v.) /lʌvd/</li><li><strong>helped</strong> (v.) /helpt/</li><li><strong>laughed</strong> (v.) /lɑːft/</li><li><strong>hoped</strong> (v.) /həʊpt/</li></ul>",
+    "ruleTip": "Đuôi '-ed' sau 'gh' đọc là /f/ (laughed) phát âm là /t/. 'loved' kết thúc bằng /v/ nên phát âm là /d/."
+  },
+  {
+    "id": "68_11",
+    "questionName": "Question 11",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_11_2",
+        "text": "fixed",
+        "html": "fix<u>ed</u>"
+      },
+      {
+        "id": "68_11_3",
+        "text": "looked",
+        "html": "look<u>ed</u>"
+      },
+      {
+        "id": "68_11_4",
+        "text": "promised",
+        "html": "promis<u>ed</u>"
+      },
+      {
+        "id": "68_11_1",
+        "text": "wicked",
+        "html": "wick<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_11_1",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"wicked\"</strong> được phát âm là <strong>/ɪd/</strong>, trong các từ còn lại được phát âm là <strong>/t/</strong>.</p><ul><li><strong>wicked</strong> (adj.) /ˈwɪkɪd/</li><li><strong>fixed</strong> (v.) /fɪkst/</li><li><strong>looked</strong> (v.) /lʊkt/</li><li><strong>promised</strong> (v.) /ˈprɒmɪst/</li></ul>",
+    "ruleTip": "Tính từ 'wicked' /ˈwɪkɪd/ (độc ác) là trường hợp đặc biệt phát âm là /ɪd/."
+  },
+  {
+    "id": "68_12",
+    "questionName": "Question 12",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_12_4",
+        "text": "watched",
+        "html": "watch<u>ed</u>"
+      },
+      {
+        "id": "68_12_1",
+        "text": "painted",
+        "html": "paint<u>ed</u>"
+      },
+      {
+        "id": "68_12_2",
+        "text": "waited",
+        "html": "wait<u>ed</u>"
+      },
+      {
+        "id": "68_12_3",
+        "text": "decided",
+        "html": "decid<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_12_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"watched\"</strong> được phát âm là <strong>/t/</strong>, các từ còn lại phát âm là <strong>/ɪd/</strong>.</p><ul><li><strong>watched</strong> (v.) /wɒtʃt/</li><li><strong>painted</strong> (v.) /ˈpeɪntɪd/</li><li><strong>waited</strong> (v.) /ˈweɪtɪd/</li><li><strong>decided</strong> (v.) /dɪˈsaɪdɪd/</li></ul>",
+    "ruleTip": "Đuôi '-ed' sau /tʃ/ phát âm là /t/, sau /t, d/ phát âm là /ɪd/."
+  },
+  {
+    "id": "68_13",
+    "questionName": "Question 13",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_13_2",
+        "text": "arrested",
+        "html": "arrest<u>ed</u>"
+      },
+      {
+        "id": "68_13_3",
+        "text": "excited",
+        "html": "excit<u>ed</u>"
+      },
+      {
+        "id": "68_13_4",
+        "text": "minded",
+        "html": "mind<u>ed</u>"
+      },
+      {
+        "id": "68_13_1",
+        "text": "kissed",
+        "html": "kiss<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_13_1",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"kissed\"</strong> được phát âm là <strong>/t/</strong>, các từ còn lại phát âm là <strong>/ɪd/</strong>.</p><ul><li><strong>kissed</strong> (v.) /kɪst/</li><li><strong>arrested</strong> (v.) /əˈrestɪd/</li><li><strong>excited</strong> (v.) /ɪkˈsaɪtɪd/</li><li><strong>minded</strong> (v.) /ˈmaɪndɪd/</li></ul>",
+    "ruleTip": "Đuôi '-ed' sau /s/ phát âm là /t/, sau /t, d/ phát âm là /ɪd/."
+  },
+  {
+    "id": "68_14",
+    "questionName": "Question 14",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_14_1",
+        "text": "phoned",
+        "html": "phon<u>ed</u>"
+      },
+      {
+        "id": "68_14_4",
+        "text": "parked",
+        "html": "park<u>ed</u>"
+      },
+      {
+        "id": "68_14_2",
+        "text": "called",
+        "html": "call<u>ed</u>"
+      },
+      {
+        "id": "68_14_3",
+        "text": "arrived",
+        "html": "arriv<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_14_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"parked\"</strong> được phát âm là <strong>/t/</strong>, các từ còn lại phát âm là <strong>/d/</strong>.</p><ul><li><strong>parked</strong> (v.) /pɑːkt/</li><li><strong>phoned</strong> (v.) /fəʊnd/</li><li><strong>called</strong> (v.) /kɔːld/</li><li><strong>arrived</strong> (v.) /əˈraɪvd/</li></ul>",
+    "ruleTip": "Đuôi '-ed' sau /k/ phát âm là /t/, các từ còn lại kết thúc bằng phụ âm hữu thanh (/n, l, v/) phát âm là /d/."
+  },
+  {
+    "id": "68_15",
+    "questionName": "Question 15",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "68_15_1",
+        "text": "crooked",
+        "html": "crook<u>ed</u>"
+      },
+      {
+        "id": "68_15_2",
+        "text": "touched",
+        "html": "touch<u>ed</u>"
+      },
+      {
+        "id": "68_15_3",
+        "text": "checked",
+        "html": "check<u>ed</u>"
+      },
+      {
+        "id": "68_15_4",
+        "text": "laughed",
+        "html": "laugh<u>ed</u>"
+      }
+    ],
+    "correctChoiceId": "68_15_1",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"crooked\"</strong> được phát âm là <strong>/ɪd/</strong>, các từ còn lại phát âm là <strong>/t/</strong>.</p><ul><li><strong>crooked</strong> (adj.) /ˈkrʊkɪd/</li><li><strong>touched</strong> (v.) /tʌtʃt/</li><li><strong>checked</strong> (v.) /tʃekt/</li><li><strong>laughed</strong> (v.) /lɑːft/</li></ul>",
+    "ruleTip": "Tính từ 'crooked' /ˈkrʊkɪd/ (cong queo) là trường hợp ngoại lệ phát âm là /ɪd/."
+  }
+]

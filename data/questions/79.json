@@ -1,0 +1,452 @@
+[
+  {
+    "id": "79_1",
+    "questionName": "Question 1",
+    "questionText": "<p><strong>Alice:</strong> \"What a gorgeous dress you are wearing!\"<br/><strong>Mary:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_1_2",
+        "text": "Yes, of course. I'm rich.",
+        "html": "Yes, of course. I'm rich."
+      },
+      {
+        "id": "79_1_3",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "79_1_4",
+        "text": "No, it's terrible.",
+        "html": "No, it's terrible."
+      },
+      {
+        "id": "79_1_1",
+        "text": "Thank you. That's a nice compliment.",
+        "html": "Thank you. That's a nice compliment."
+      }
+    ],
+    "correctChoiceId": "79_1_1",
+    "explanation": "<p>Đáp lại lời khen ngợi ngoại hình/trang phục: luôn nói lời cảm ơn lịch sự: <strong>\"Thank you. That's a nice compliment.\"</strong>.</p>",
+    "ruleTip": "Đáp lại lời khen ngợi ngoại hình/trang phục: luôn nói lời cảm ơn lịch sự ('Thank you...')."
+  },
+  {
+    "id": "79_2",
+    "questionName": "Question 2",
+    "questionText": "<p><strong>Teacher:</strong> \"Congratulations on winning the first prize in the English contest, Nam!\"<br/><strong>Nam:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_2_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "79_2_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "79_2_4",
+        "text": "That's all right.",
+        "html": "That's all right."
+      },
+      {
+        "id": "79_2_1",
+        "text": "Thank you very much, teacher.",
+        "html": "Thank you very much, teacher."
+      }
+    ],
+    "correctChoiceId": "79_2_1",
+    "explanation": "<p>Đáp lại lời chúc mừng của thầy cô: <strong>\"Thank you very much, teacher.\"</strong>.</p>",
+    "ruleTip": "Đáp lại lời chúc mừng ('Congratulations on...'): 'Thank you very much'."
+  },
+  {
+    "id": "79_3",
+    "questionName": "Question 3",
+    "questionText": "<p><strong>Susan:</strong> \"You gave a really impressive presentation today!\"<br/><strong>Jack:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_3_2",
+        "text": "I know I am great.",
+        "html": "I know I am great."
+      },
+      {
+        "id": "79_3_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "79_3_4",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "79_3_1",
+        "text": "Thanks! It's very nice of you to say so.",
+        "html": "Thanks! It's very nice of you to say so."
+      }
+    ],
+    "correctChoiceId": "79_3_1",
+    "explanation": "<p>Đáp lại lời khen bài thuyết trình: <strong>\"Thanks! It's very nice of you to say so.\"</strong> (Cảm ơn bạn! Bạn thật tốt khi nói như vậy).</p>",
+    "ruleTip": "'It's very nice/kind of you to say so' (Bạn thật tốt khi nói như vậy) là mẫu câu chuẩn đáp lại lời khen."
+  },
+  {
+    "id": "79_4",
+    "questionName": "Question 4",
+    "questionText": "<p><strong>Mai:</strong> \"Your new hairstyle looks really great!\"<br/><strong>Hoa:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_4_2",
+        "text": "Yes, it is very expensive.",
+        "html": "Yes, it is very expensive."
+      },
+      {
+        "id": "79_4_3",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "79_4_4",
+        "text": "Not at all.",
+        "html": "Not at all."
+      },
+      {
+        "id": "79_4_1",
+        "text": "Thanks, I had it cut yesterday.",
+        "html": "Thanks, I had it cut yesterday."
+      }
+    ],
+    "correctChoiceId": "79_4_1",
+    "explanation": "<p>Đáp lại lời khen kiểu tóc mới: cảm ơn kèm chi tiết tự nhiên <strong>\"Thanks, I had it cut yesterday.\"</strong>.</p>",
+    "ruleTip": "Đáp lại lời khen kiểu tóc: cảm ơn kèm theo thông tin bổ sung tự nhiên."
+  },
+  {
+    "id": "79_5",
+    "questionName": "Question 5",
+    "questionText": "<p><strong>Tim:</strong> \"I've passed the Grade 10 entrance examination with high marks!\"<br/><strong>Uncle:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_5_1",
+        "text": "Well done! I'm so proud of you.",
+        "html": "Well done! I'm so proud of you."
+      },
+      {
+        "id": "79_5_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "79_5_3",
+        "text": "It's a pity.",
+        "html": "It's a pity."
+      },
+      {
+        "id": "79_5_4",
+        "text": "Don't mention it.",
+        "html": "Don't mention it."
+      }
+    ],
+    "correctChoiceId": "79_5_1",
+    "explanation": "<p>Người chú chúc mừng cháu thi đỗ điểm cao: <strong>\"Well done! I'm so proud of you.\"</strong> (Làm tốt lắm! Chú rất tự hào về cháu).</p>",
+    "ruleTip": "Đưa ra lời khen ngợi/chúc mừng khi ai đó đạt thành tích: 'Well done!' hoặc 'Congratulations!'."
+  },
+  {
+    "id": "79_6",
+    "questionName": "Question 6",
+    "questionText": "<p><strong>Guest:</strong> \"The meal was absolutely delicious!\"<br/><strong>Host:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_6_2",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "79_6_1",
+        "text": "Thank you. I'm glad you enjoyed it.",
+        "html": "Thank you. I'm glad you enjoyed it."
+      },
+      {
+        "id": "79_6_3",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "79_6_4",
+        "text": "It doesn't matter.",
+        "html": "It doesn't matter."
+      }
+    ],
+    "correctChoiceId": "79_6_1",
+    "explanation": "<p>Chủ nhà đáp lại lời khen món ăn: <strong>\"Thank you. I'm glad you enjoyed it.\"</strong> (Cảm ơn bạn. Mình rất vui vì bạn thích món ăn).</p>",
+    "ruleTip": "Chủ nhà đáp lại lời khen món ăn: 'Thank you. I'm glad you enjoyed it'."
+  },
+  {
+    "id": "79_7",
+    "questionName": "Question 7",
+    "questionText": "<p><strong>Peter:</strong> \"You played badminton so skillfully!\"<br/><strong>David:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_7_2",
+        "text": "Of course, I am the best.",
+        "html": "Of course, I am the best."
+      },
+      {
+        "id": "79_7_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "79_7_1",
+        "text": "Thank you, but I still need more practice.",
+        "html": "Thank you, but I still need more practice."
+      },
+      {
+        "id": "79_7_4",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      }
+    ],
+    "correctChoiceId": "79_7_1",
+    "explanation": "<p>Đáp lại lời khen thể thao một cách khiêm tốn: <strong>\"Thank you, but I still need more practice.\"</strong> (Cảm ơn bạn, nhưng mình vẫn cần luyện thêm).</p>",
+    "ruleTip": "Cách đáp lại lời khen thể hiện sự khiêm tốn: cảm ơn và nói mình cần rèn luyện thêm."
+  },
+  {
+    "id": "79_8",
+    "questionName": "Question 8",
+    "questionText": "<p><strong>Lisa:</strong> \"How beautiful your garden is!\"<br/><strong>Mrs. Green:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_8_2",
+        "text": "Yes, I think so too.",
+        "html": "Yes, I think so too."
+      },
+      {
+        "id": "79_8_3",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "79_8_1",
+        "text": "Thanks. My husband spends a lot of time taking care of it.",
+        "html": "Thanks. My husband spends a lot of time taking care of it."
+      },
+      {
+        "id": "79_8_4",
+        "text": "Don't worry.",
+        "html": "Don't worry."
+      }
+    ],
+    "correctChoiceId": "79_8_1",
+    "explanation": "<p>Đáp lại lời khen khu vườn xinh đẹp: <strong>\"Thanks. My husband spends a lot of time taking care of it.\"</strong>.</p>",
+    "ruleTip": "Cấu trúc câu khen ngợi cảm thán: 'How + adj + S + V!' hoặc 'What a/an + adj + noun!'."
+  },
+  {
+    "id": "79_9",
+    "questionName": "Question 9",
+    "questionText": "<p><strong>Tom:</strong> \"Happy birthday, Linh! Wishing you all the best.\"<br/><strong>Linh:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_9_1",
+        "text": "Thank you so much for remembering my birthday.",
+        "html": "Thank you so much for remembering my birthday."
+      },
+      {
+        "id": "79_9_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "79_9_3",
+        "text": "Not at all.",
+        "html": "Not at all."
+      },
+      {
+        "id": "79_9_4",
+        "text": "That's fine.",
+        "html": "That's fine."
+      }
+    ],
+    "correctChoiceId": "79_9_1",
+    "explanation": "<p>Đáp lại lời chúc mừng sinh nhật: <strong>\"Thank you so much for remembering my birthday.\"</strong> (Cảm ơn bạn rất nhiều vì đã nhớ ngày sinh nhật của mình).</p>",
+    "ruleTip": "Đáp lại lời chúc mừng sinh nhật: cảm ơn người chúc đã nhớ ngày sinh nhật của mình."
+  },
+  {
+    "id": "79_10",
+    "questionName": "Question 10",
+    "questionText": "<p><strong>Jane:</strong> \"Congratulations on getting the scholarship!\"<br/><strong>Brian:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_10_2",
+        "text": "Yes, obviously.",
+        "html": "Yes, obviously."
+      },
+      {
+        "id": "79_10_1",
+        "text": "Thanks! I couldn't have done it without your encouragement.",
+        "html": "Thanks! I couldn't have done it without your encouragement."
+      },
+      {
+        "id": "79_10_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "79_10_4",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      }
+    ],
+    "correctChoiceId": "79_10_1",
+    "explanation": "<p>Đáp lại lời chúc học bổng bằng sự biết ơn: <strong>\"Thanks! I couldn't have done it without your encouragement.\"</strong>.</p>",
+    "ruleTip": "Đáp lại lời chúc mừng học bổng: tri ân sự hỗ trợ của bạn bè/thầy cô."
+  },
+  {
+    "id": "79_11",
+    "questionName": "Question 11",
+    "questionText": "<p><strong>Mother:</strong> \"You have cleaned your room so neatly, son!\"<br/><strong>Son:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_11_2",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "79_11_3",
+        "text": "Don't mention it.",
+        "html": "Don't mention it."
+      },
+      {
+        "id": "79_11_1",
+        "text": "Thank you, Mom.",
+        "html": "Thank you, Mom."
+      },
+      {
+        "id": "79_11_4",
+        "text": "It's a pity.",
+        "html": "It's a pity."
+      }
+    ],
+    "correctChoiceId": "79_11_1",
+    "explanation": "<p>Con trai đáp lại lời khen của mẹ: <strong>\"Thank you, Mom.\"</strong> (Con cảm ơn mẹ ạ).</p>",
+    "ruleTip": "Trẻ em đáp lại lời khen của phụ huynh bằng lời cảm ơn ngoan ngoãn."
+  },
+  {
+    "id": "79_12",
+    "questionName": "Question 12",
+    "questionText": "<p><strong>Colleague:</strong> \"Your design idea was very creative!\"<br/><strong>Designer:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_12_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "79_12_1",
+        "text": "Thank you. That means a lot to me.",
+        "html": "Thank you. That means a lot to me."
+      },
+      {
+        "id": "79_12_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "79_12_4",
+        "text": "That's all right.",
+        "html": "That's all right."
+      }
+    ],
+    "correctChoiceId": "79_12_1",
+    "explanation": "<p>Đáp lại lời khen sáng tạo từ đồng nghiệp: <strong>\"Thank you. That means a lot to me.\"</strong> (Cảm ơn bạn. Lời khen đó có ý nghĩa rất lớn với mình).</p>",
+    "ruleTip": "'That means a lot to me' (Điều đó có ý nghĩa rất lớn với tôi) đáp lại lời khen công việc."
+  },
+  {
+    "id": "79_13",
+    "questionName": "Question 13",
+    "questionText": "<p><strong>Mark:</strong> \"You have a lovely speaking voice!\"<br/><strong>Anna:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_13_1",
+        "text": "That's very kind of you. Thank you!",
+        "html": "That's very kind of you. Thank you!"
+      },
+      {
+        "id": "79_13_2",
+        "text": "No problem.",
+        "html": "No problem."
+      },
+      {
+        "id": "79_13_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "79_13_4",
+        "text": "Of course I know.",
+        "html": "Of course I know."
+      }
+    ],
+    "correctChoiceId": "79_13_1",
+    "explanation": "<p>Đáp lại lời khen giọng nói: <strong>\"That's very kind of you. Thank you!\"</strong> (Bạn thật tốt khi khen như vậy. Cảm ơn bạn!).</p>",
+    "ruleTip": "'That's very kind of you' là phản hồi thanh lịch khi được khen năng khiếu."
+  },
+  {
+    "id": "79_14",
+    "questionName": "Question 14",
+    "questionText": "<p><strong>Bill:</strong> \"We have just bought a new house near West Lake.\"<br/><strong>Friend:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_14_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "79_14_1",
+        "text": "Congratulations! That's wonderful news.",
+        "html": "Congratulations! That's wonderful news."
+      },
+      {
+        "id": "79_14_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "79_14_4",
+        "text": "It's my pleasure.",
+        "html": "It's my pleasure."
+      }
+    ],
+    "correctChoiceId": "79_14_1",
+    "explanation": "<p>Chúc mừng bạn mua nhà mới: <strong>\"Congratulations! That's wonderful news.\"</strong> (Chúc mừng bạn! Thật là một tin tuyệt vời).</p>",
+    "ruleTip": "Chúc mừng bạn bè khi có tin vui lớn (mua nhà, có tin vui): 'Congratulations! That's wonderful news.'"
+  },
+  {
+    "id": "79_15",
+    "questionName": "Question 15",
+    "questionText": "<p><strong>Paul:</strong> \"You danced exceptionally well tonight!\"<br/><strong>Sarah:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "79_15_2",
+        "text": "Yes, I am an expert.",
+        "html": "Yes, I am an expert."
+      },
+      {
+        "id": "79_15_3",
+        "text": "Don't worry.",
+        "html": "Don't worry."
+      },
+      {
+        "id": "79_15_1",
+        "text": "Thank you. You're giving me too much credit.",
+        "html": "Thank you. You're giving me too much credit."
+      },
+      {
+        "id": "79_15_4",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      }
+    ],
+    "correctChoiceId": "79_15_1",
+    "explanation": "<p>Đáp lại lời khen khiêu vũ khiêm tốn: <strong>\"Thank you. You're giving me too much credit.\"</strong> (Cảm ơn bạn. Bạn quá khen rồi ạ).</p>",
+    "ruleTip": "'You're giving me too much credit' (Bạn quá khen rồi) là cách từ chối khéo, khiêm nhường."
+  }
+]

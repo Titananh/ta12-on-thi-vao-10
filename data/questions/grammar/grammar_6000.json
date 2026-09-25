@@ -1,0 +1,793 @@
+{
+  "quizId": 6000,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 56: Empty subject (Chủ ngữ giả)",
+  "totalQuestions": 17,
+  "questions": [
+    {
+      "id": 917443,
+      "questionNumber": 1,
+      "questionName": "2 - lý thuyết new",
+      "questionType": "Matching",
+      "questionText": "<p><strong>Trong m&#7895;i c&#226;u d&#432;&#7899;i &#273;&#226;y, ch&#7911; ng&#7919; gi&#7843; 'it' &#273;&#432;&#7907;c d&#249;ng &#273;&#7875; n&#243;i v&#7873;:</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\" cellspacing=\"10\" cellpadding=\"10\">\n<tbody>\n<tr>\n<td style=\"width: 49.3934%; text-align: center;\"><img src=\"/images/exams/917443_1_0b504f0e.jpg\" alt=\"\" width=\"550\" /></td>\n<td style=\"width: 49.3934%; text-align: center;\"><img src=\"/images/exams/917443_2_5478cc34.jpg\" alt=\"\" width=\"550\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": [
+        "/images/exams/917443_1_0b504f0e.jpg",
+        "/images/exams/917443_2_5478cc34.jpg"
+      ]
+    },
+    {
+      "id": 917489,
+      "questionNumber": 2,
+      "questionName": "2 - lý thuyết new there",
+      "questionType": "Matching",
+      "questionText": "<p><strong>Trong m&#7895;i c&#226;u d&#432;&#7899;i &#273;&#226;y, ch&#7911; ng&#7919; gi&#7843; 'there' &#273;&#432;&#7907;c d&#249;ng &#273;&#7875; n&#243;i v&#7873;:</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/917489_61723a8e.jpg\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": [
+        "/images/exams/917489_61723a8e.jpg"
+      ]
+    },
+    {
+      "id": 917444,
+      "questionNumber": 3,
+      "questionName": "3 - lý thuyết new",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>X&#225;c &#273;&#7883;nh ch&#7913;c n&#259;ng ng&#7919; ph&#225;p c&#7911;a 'it' v&#224; 'there' trong c&#225;c c&#226;u sau.</strong></p>\n<p>1. The other room has two beds in <strong><em>it</em></strong>. <span class='fillblank-option'><label>3.1</label><select class='ms fillblank-option-3' index='0' name='fbo-917444-0' data-testid='fillblank-select-917444-0'><option value='' data-testid='fillblank-option-empty-917444-0'></option><option value=\"làm đại từ\" data-testid='fillblank-option-917444-0-làm đại từ'>làm đại từ</option><option value=\"làm chủ ngữ giả\" data-testid='fillblank-option-917444-0-làm chủ ngữ giả'>làm chủ ngữ giả</option></select></span></p>\n<p>2. <em><strong>It</strong></em>&#8217;s quite likely that we shall be late, so please do start without us. <span class='fillblank-option'><label>3.2</label><select class='ms fillblank-option-3' index='1' name='fbo-917444-1' data-testid='fillblank-select-917444-1'><option value='' data-testid='fillblank-option-empty-917444-1'></option><option value=\"làm chủ ngữ giả\" data-testid='fillblank-option-917444-1-làm chủ ngữ giả'>làm chủ ngữ giả</option><option value=\"làm đại từ\" data-testid='fillblank-option-917444-1-làm đại từ'>làm đại từ</option></select></span></p>\n<p>3. <em><strong>There</strong></em>&#8217;s a woman waiting outside who wants to talk to you. <span class='fillblank-option'><label>3.3</label><select class='ms fillblank-option-3' index='2' name='fbo-917444-2' data-testid='fillblank-select-917444-2'><option value='' data-testid='fillblank-option-empty-917444-2'></option><option value=\"làm trạng từ\" data-testid='fillblank-option-917444-2-làm trạng từ'>làm trạng từ</option><option value=\"làm chủ ngữ giả\" data-testid='fillblank-option-917444-2-làm chủ ngữ giả'>làm chủ ngữ giả</option></select></span></p>\n<p>4. We went on to Paris and stayed <em><strong>there</strong></em> eleven days. <span class='fillblank-option'><label>3.4</label><select class='ms fillblank-option-3' index='3' name='fbo-917444-3' data-testid='fillblank-select-917444-3'><option value='' data-testid='fillblank-option-empty-917444-3'></option><option value=\"làm chủ ngữ giả\" data-testid='fillblank-option-917444-3-làm chủ ngữ giả'>làm chủ ngữ giả</option><option value=\"làm trạng từ\" data-testid='fillblank-option-917444-3-làm trạng từ'>làm trạng từ</option></select></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "làm đại từ"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "làm chủ ngữ giả"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "làm chủ ngữ giả"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "làm trạng từ"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\" cellspacing=\"10\" cellpadding=\"10\">\n<tbody>\n<tr>\n<td style=\"width: 49.7328%; text-align: center;\"><img src=\"/images/exams/917444_1_eadd5653.jpg\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7328%; text-align: center;\"><img src=\"/images/exams/917444_2_e51a60d6.jpg\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>\n<p><br />Dịch:</p>\n<p>1. Căn ph&ograve;ng kia c&oacute; hai giường.&nbsp;</p>\n<p>2. Rất c&oacute; thể ch&uacute;ng t&ocirc;i sẽ đến muộn, v&igrave; vậy h&atilde;y bắt đầu m&agrave; kh&ocirc;ng c&oacute; ch&uacute;ng t&ocirc;i.&nbsp;</p>\n<p>3. C&oacute; một người phụ nữ đang đợi b&ecirc;n ngo&agrave;i muốn n&oacute;i chuyện với bạn.&nbsp;</p>\n<p>4. Ch&uacute;ng t&ocirc;i tiếp tục đến Paris v&agrave; ở đ&oacute; trong 11 ng&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": [
+        "/images/exams/917444_1_eadd5653.jpg",
+        "/images/exams/917444_2_e51a60d6.jpg"
+      ]
+    },
+    {
+      "id": 48593,
+      "questionNumber": 4,
+      "questionName": "Question 30.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ a clock in your classroom?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 139749,
+          "label": "A",
+          "text": "Are there",
+          "isCorrect": false
+        },
+        {
+          "id": 139750,
+          "label": "B",
+          "text": "Is there",
+          "isCorrect": true
+        },
+        {
+          "id": 139751,
+          "label": "C",
+          "text": "Have there",
+          "isCorrect": false
+        },
+        {
+          "id": 139752,
+          "label": "D",
+          "text": "Has there",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 139750,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đ&acirc;y l&agrave; <strong data-start=\"91\" data-end=\"131\">c&acirc;u hỏi về sự tồn tại của một sự vật</strong> v&agrave; danh từ đứng sau chỗ trống l&agrave; ''<em>a clock''</em>.</p>\n<p>H&atilde;y x&aacute;c định danh từ n&agrave;y l&agrave; <strong data-start=\"206\" data-end=\"228\">số &iacute;t hay số nhiều</strong>, rồi nhớ lại c&aacute;ch đặt <strong data-start=\"251\" data-end=\"262\">c&acirc;u hỏi</strong> với cấu tr&uacute;c ''<em>There is/There are</em>'' <strong data-start=\"276\" data-end=\"298\">để chỉ sự tồn tại</strong>&nbsp;để đối chiếu với c&aacute;c lựa chọn v&agrave; chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Hỏi về sự tồn tại của vật/người</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Cấu tr&uacute;c n&agrave;y d&ugrave;ng để hỏi về sự tồn tại của một người hoặc vật n&agrave;o đ&oacute; tại một địa điểm cụ thể.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Is there + a/an + N (số &iacute;t) + ...?</span></strong></li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Are there + N (số nhiều) + ...?</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u hỏi, danh từ đi sau chỗ trống l&agrave; \"<em>a clock</em>\" (một chiếc đồng hồ), l&agrave; danh từ số &iacute;t. Do đ&oacute;, ch&uacute;ng ta cần d&ugrave;ng cấu tr&uacute;c hỏi về sự tồn tại với danh từ số &iacute;t l&agrave; \"<em>Is there</em>\".</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>Are there</em>\" chỉ được d&ugrave;ng khi danh từ theo sau l&agrave; danh từ số nhiều m&agrave; \"<em>a clock</em>\" l&agrave; số &iacute;t n&ecirc;n kh&ocirc;ng ph&ugrave; hợp. Phương &aacute;n 3 \"<em>Have there</em>\" v&agrave; phương &aacute;n 4 \"<em>Has there</em>\" kh&ocirc;ng phải l&agrave; cấu tr&uacute;c chuẩn để hỏi về sự tồn tại trong trường hợp n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "139749": "Sai vì <em>\"a clock\"</em> là danh từ số ít, không đi với <em>\"Are there\"</em>.",
+        "139750": "Đúng vì <em>\"Is there\"</em> được dùng để hỏi về sự tồn tại của một danh từ số ít như <em>\"a clock\"</em>.",
+        "139751": "Sai vì không có cấu trúc <em>\"Have there\"</em> để hỏi về sự tồn tại.",
+        "139752": "Sai vì không có cấu trúc <em>\"Has there\"</em> để hỏi về sự tồn tại."
+      },
+      "images": []
+    },
+    {
+      "id": 64558,
+      "questionNumber": 5,
+      "questionName": "Question 190:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What does Sam usually do when _____ warm?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 172008,
+          "label": "A",
+          "text": "there’s",
+          "isCorrect": false
+        },
+        {
+          "id": 172009,
+          "label": "B",
+          "text": "it’s",
+          "isCorrect": true
+        },
+        {
+          "id": 172010,
+          "label": "C",
+          "text": "its",
+          "isCorrect": false
+        },
+        {
+          "id": 172011,
+          "label": "D",
+          "text": "they ’re",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 172009,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Ch&uacute; &yacute; t&iacute;nh từ <em data-start=\"56\" data-end=\"62\">warm </em>cho thấy c&acirc;u đang n&oacute;i về <strong data-start=\"80\" data-end=\"93\">thời tiết.</strong></p>\n<p>H&atilde;y nhớ lại <strong data-start=\"114\" data-end=\"159\">chủ ngữ giả thường được d&ugrave;ng để diễn tả thời tiết</strong>, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Chủ ngữ giả ''It'' diễn tả thời tiết/nhiệt độ</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Trong tiếng Anh, khi muốn m&ocirc; tả thời tiết hoặc nhiệt độ, ch&uacute;ng ta sử dụng chủ ngữ giả \"it\" c&ugrave;ng với động từ \"to be\" v&agrave; một t&iacute;nh từ. Cấu tr&uacute;c n&agrave;y gi&uacute;p diễn đạt c&aacute;c điều kiện tự nhi&ecirc;n như nắng, mưa,&nbsp;ấm, lạnh,&nbsp; một c&aacute;ch ch&iacute;nh x&aacute;c.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: <span style=\"color: #1c581f;\">It + be (is/was/will be) + [t&iacute;nh từ m&ocirc; tả thời tiết/nhiệt độ]</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Để m&ocirc; tả điều kiện thời tiết \"<em>warm</em>\" (ấm &aacute;p), ch&uacute;ng ta cần một chủ ngữ v&agrave; động từ ph&ugrave; hợp. \"<em>It's</em>\" (viết tắt của \"<em>it is</em>\") l&agrave; lựa chọn ch&iacute;nh x&aacute;c nhất v&igrave; \"<em>it</em>\" thường được d&ugrave;ng l&agrave;m chủ ngữ giả khi n&oacute;i về thời tiết, v&agrave; \"<em>is</em>\" l&agrave; động từ \"<em>to be</em>\" tương ứng.</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>there's</em>\" (viết tắt của \"<em>there is</em>\") được d&ugrave;ng để diễn tả sự tồn tại của vật hoặc người (v&iacute; dụ: <em>There's a cat on the roof</em>), kh&ocirc;ng d&ugrave;ng để m&ocirc; tả thời tiết hay nhiệt độ.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 \"<em>its</em>\" l&agrave; một t&iacute;nh từ sở hữu (của n&oacute;), kh&ocirc;ng thể đ&oacute;ng vai tr&ograve; chủ ngữ v&agrave; động từ trong c&acirc;u.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<em>they're</em>\" (viết tắt của \"<em>they are</em>\") d&ugrave;ng với chủ ngữ số nhiều, kh&ocirc;ng ph&ugrave; hợp để m&ocirc; tả điều kiện thời tiết.</li>\n</ul>",
+      "answerFeedbacks": {
+        "172008": "\"There’s\" (viết tắt của <em>there is</em>) được dùng để diễn tả sự tồn tại của vật hoặc người, không dùng để mô tả thời tiết hay nhiệt độ.",
+        "172009": "\"It’s\" (viết tắt của <em>it is</em>) là chủ ngữ và động từ đúng để mô tả thời tiết hoặc nhiệt độ trong tiếng Anh.",
+        "172010": "\"Its\" là một tính từ sở hữu (của nó), không thể đóng vai trò chủ ngữ và động từ trong câu.",
+        "172011": "\"They’re\" (viết tắt của <em>they are</em>) dùng với chủ ngữ số nhiều, không phù hợp để mô tả điều kiện thời tiết."
+      },
+      "images": []
+    },
+    {
+      "id": 139972,
+      "questionNumber": 6,
+      "questionName": "Q2 nhấn mạnh chủ ngữ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ my neighbors who rescued me from the fire.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 329398,
+          "label": "A",
+          "text": "It is",
+          "isCorrect": false
+        },
+        {
+          "id": 329399,
+          "label": "B",
+          "text": "It was",
+          "isCorrect": true
+        },
+        {
+          "id": 329400,
+          "label": "C",
+          "text": "That is",
+          "isCorrect": false
+        },
+        {
+          "id": 329401,
+          "label": "D",
+          "text": "This is",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 329399,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>C&acirc;u tr&ecirc;n đang cần ho&agrave;n thiện cấu tr&uacute;c của một c&acirc;u chẻ để nhấn mạnh chủ ngữ \"<em>my neighbors</em>\", h&atilde;y ch&uacute; &yacute; đến th&igrave; của động từ trong mệnh đề theo sau&nbsp;để chọn dạng <em>to be</em>&nbsp;cho ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u chẻ (Cleft sentences)</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&acirc;u chẻ d&ugrave;ng để nhấn mạnh một th&agrave;nh phần cụ thể (chủ ngữ, t&acirc;n ngữ, trạng ngữ) trong c&acirc;u, gi&uacute;p người nghe/đọc tập trung v&agrave;o th&ocirc;ng tin quan trọng đ&oacute;.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><span style=\"color: #1c581f; font-weight: 600;\">It + be + [th&agrave;nh phần nhấn mạnh] + that/who/which + [phần c&ograve;n lại của c&acirc;u]</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u tr&ecirc;n&nbsp;c&oacute; cấu tr&uacute;c của một c&acirc;u chẻ d&ugrave;ng để nhấn mạnh chủ ngữ <em>my neighbors</em>. Mệnh đề quan hệ <em>who rescued me from the fire</em> chứa động từ <em>rescued</em> ở th&igrave; qu&aacute; khứ đơn, do đ&oacute;, động từ <em>to be</em> trong cấu tr&uacute;c c&acirc;u chẻ cũng phải ở th&igrave; qu&aacute; khứ đơn. V&igrave; vậy, phương &aacute;n <em>It was</em> l&agrave; lựa chọn ch&iacute;nh x&aacute;c nhất để ho&agrave;n th&agrave;nh c&acirc;u, tạo th&agrave;nh c&acirc;u chẻ <em>It was my neighbors who rescued me from the fire</em> (Ch&iacute;nh những người h&agrave;ng x&oacute;m đ&atilde; cứu t&ocirc;i khỏi đ&aacute;m ch&aacute;y).</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>It is</em>\" kh&ocirc;ng đ&uacute;ng v&igrave; h&agrave;nh động \"<em>rescued</em>\" đ&atilde; xảy ra trong qu&aacute; khứ, do đ&oacute; cần d&ugrave;ng trợ động từ \"<em>was</em>\" thay v&igrave; \"<em>is</em>\". C&aacute;c phương &aacute;n 3 \"<em>That is</em>\" v&agrave; 4 \"<em>This is</em>\" thường d&ugrave;ng để giới thiệu hoặc chỉ định, kh&ocirc;ng d&ugrave;ng để tạo c&acirc;u chẻ nhấn mạnh th&agrave;nh phần c&acirc;u.</p>",
+      "answerFeedbacks": {
+        "329398": "Đây là đáp án đúng vì cấu trúc câu chẻ <em>It was + [thành phần nhấn mạnh] + who + V(quá khứ)</em> phù hợp để nhấn mạnh chủ ngữ <em>my neighbors</em> khi hành động <em>rescued</em> đã xảy ra trong quá khứ.",
+        "329399": "<em>That is</em> thường dùng để giới thiệu hoặc chỉ định một người/vật, không dùng để tạo câu chẻ nhấn mạnh thành phần câu như trong trường hợp này.",
+        "329400": "<em>This is</em> dùng để giới thiệu hoặc chỉ định một người/vật ở gần, không phải cấu trúc câu chẻ dùng để nhấn mạnh một thành phần trong câu."
+      },
+      "images": []
+    },
+    {
+      "id": 68428,
+      "questionNumber": 7,
+      "questionName": "Question 20:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Make sure _____ is no traffic jam.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 180061,
+          "label": "A",
+          "text": "they",
+          "isCorrect": false
+        },
+        {
+          "id": 180062,
+          "label": "B",
+          "text": "it",
+          "isCorrect": false
+        },
+        {
+          "id": 180063,
+          "label": "C",
+          "text": "there",
+          "isCorrect": true
+        },
+        {
+          "id": 180064,
+          "label": "D",
+          "text": "some",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 180063,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để diễn tả sự tồn tại của một sự vật, hiện tượng như ''traffic jam'', bạn cần sử dụng cấu tr&uacute;c <i>n&agrave;o?</i></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc \"There is/are\"</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để diễn tả sự tồn tại của người hoặc vật ở một địa điểm hoặc thời điểm nào đó.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: <span style=\"color: #1c581f;\">There + be (is/are/was/were) + N (danh từ)</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, dấu hiệu <em>\"is no traffic jam\"</em> cho thấy cần một cấu trúc diễn tả sự tồn tại của một sự vật số ít. Cấu trúc <em>\"There is/are\"</em> là cấu trúc phù hợp để diễn tả điều này. Do đó, phương án 3 (<em>\"there\"</em>) là đáp án đúng.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại không phù hợp vì phương án 1 (<em>\"they\"</em>) là đại từ nhân xưng số nhiều, phương án 2 (<em>\"it\"</em>) là đại từ nhân xưng số ít nhưng không dùng để diễn tả sự tồn tại trong ngữ cảnh này còn phương án 4 (<em>\"some\"</em>) là lượng từ, không thể làm chủ ngữ cho động từ <em>\"is\"</em>.</p>",
+      "answerFeedbacks": {
+        "180061": "<em>\"they\"</em> là đại từ nhân xưng số nhiều, không thể đi với <em>\"is\"</em> và không dùng để diễn tả sự tồn tại trong ngữ cảnh này.",
+        "180062": "<em>\"it\"</em> là đại từ nhân xưng số ít, dùng làm chủ ngữ chỉ vật hoặc chủ ngữ giả, nhưng không dùng để diễn tả sự tồn tại theo cấu trúc <em>\"It is no traffic jam\"</em>.",
+        "180063": "<em>\"There\"</em> được dùng trong cấu trúc <em>\"There is/are\"</em> để diễn tả sự tồn tại của một sự vật hay hiện tượng.",
+        "180064": "<em>\"some\"</em> là lượng từ, cần theo sau là danh từ hoặc đứng một mình, không thể làm chủ ngữ cho <em>\"is\"</em> trong cấu trúc này."
+      },
+      "images": []
+    },
+    {
+      "id": 110199,
+      "questionNumber": 8,
+      "questionName": "Question 1:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ comes a time when you have to make a decision and stick to it.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 262600,
+          "label": "A",
+          "text": "It",
+          "isCorrect": false
+        },
+        {
+          "id": 262601,
+          "label": "B",
+          "text": "That",
+          "isCorrect": false
+        },
+        {
+          "id": 262602,
+          "label": "C",
+          "text": "Then",
+          "isCorrect": false
+        },
+        {
+          "id": 262603,
+          "label": "D",
+          "text": "There",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 262603,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy xem xét chức năng của từ cần điền ở đầu câu.</p>\n<ul>\n<li>Câu này đang giới thiệu sự xuất hiện hoặc tồn tại của <em>\"a time\"</em>.</li>\n<li>Trong tiếng Anh, khi muốn giới thiệu sự tồn tại của một sự vật, hiện tượng, ta thường dùng chủ ngữ giả nào được theo sau là động từ '<em>to be</em> hoặc các động từ chỉ sự xuất hiện như <em>\"come\", \"go\", \"appear\"</em>.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Chủ ngữ giả giới thiệu (Existential Subject)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Chủ ngữ giả giới thiệu \"there\" được sử dụng để chỉ sự tồn tại hoặc sự xuất hiện của một điều gì đó, thường đứng ở đầu câu và theo sau bởi động từ <em>to be</em> hoặc các động từ khác như <em>come, appear, exist</em>.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">There + V + N/NP</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu đang giới thiệu sự tồn tại của \"<em>a time</em>\". Trong tiếng Anh, để giới thiệu sự tồn tại của một sự vật, hiện tượng, ta sử dụng chủ ngữ giả giới thiệu <em>\"There\"</em>, theo sau là động từ <em>to be</em> hoặc các động từ chỉ sự xuất hiện như <em>\"come\"</em>. Vì vậy, <em>\"There\"</em> là lựa chọn phù hợp nhất.</p>",
+      "answerFeedbacks": {
+        "262600": "Sai vì <em>\"It\"</em> thường dùng làm chủ ngữ giả cho thời gian, thời tiết, khoảng cách, hoặc khi theo sau là mệnh đề <em>to V/that-clause</em>, không dùng để giới thiệu sự tồn tại của một danh từ không xác định.",
+        "262601": "Sai vì <em>\"That\"</em> là đại từ chỉ định hoặc liên từ, không phù hợp làm chủ ngữ giới thiệu trong cấu trúc này.",
+        "262602": "Sai vì <em>\"Then\"</em> là trạng từ chỉ thời gian hoặc trình tự, không thể đóng vai trò chủ ngữ của câu.",
+        "262603": "Đúng vì <em>\"There\"</em> là chủ ngữ giả giới thiệu sự tồn tại của <em>\"a time\"</em> trong cấu trúc <em>\"There comes a time when...\"</em>, đây là một cách diễn đạt phổ biến để nói về một thời điểm sẽ đến."
+      },
+      "images": []
+    },
+    {
+      "id": 224905,
+      "questionNumber": 9,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ over 450 miles from San Francisco to Los Angeles. &nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 503818,
+          "label": "A",
+          "text": "There was",
+          "isCorrect": false
+        },
+        {
+          "id": 503819,
+          "label": "B",
+          "text": "There is",
+          "isCorrect": false
+        },
+        {
+          "id": 503820,
+          "label": "C",
+          "text": "It was",
+          "isCorrect": false
+        },
+        {
+          "id": 503821,
+          "label": "D",
+          "text": "It is",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 503821,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để diễn tả khoảng c&aacute;ch, thời gian hoặc thời tiết, ch&uacute;ng ta thường d&ugrave;ng chủ ngữ giả <em>It</em>. Cụm <em>''<span style=\"text-align: justify;\">over 450 miles from San Francisco to Los Angeles\"&nbsp;</span></em><span style=\"text-align: justify;\">cho thấy đ&acirc;y l&agrave; một sự thật hiển nhi&ecirc;n n&ecirc;n sẽ phải sử dụng th&igrave; Hiện tại đơn?</span></p>\n<p><span style=\"text-align: justify;\">H&atilde;y nhớ lại cấu tr&uacute;c của th&igrave; Hiện tại đơn với chủ ngữ giả <em>''It'' </em>để t&igrave;m ra phương &aacute;n đ&uacute;ng.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Chủ ngữ giả \"It\" v&agrave; th&igrave; hiện tại đơn</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Chủ ngữ giả \"It\" được d&ugrave;ng để diễn tả khoảng c&aacute;ch, thời gian, thời tiết, hoặc c&aacute;c sự kiện chung chung. Khi diễn tả một sự thật hoặc th&ocirc;ng tin cố định về khoảng c&aacute;ch, ch&uacute;ng ta d&ugrave;ng th&igrave; hiện tại đơn.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: <span style=\"color: #1c581f;\">It + is + [t&iacute;nh từ/danh từ/cụm trạng từ chỉ khoảng c&aacute;ch, thời gian, thời tiết]</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi diễn tả một khoảng c&aacute;ch cố định giữa hai địa điểm <em>(\"over 450 miles from San Francisco to Los Angeles\")</em>, đ&acirc;y l&agrave; một sự thật hiển nhi&ecirc;n. Để diễn tả khoảng c&aacute;ch trong tiếng Anh, ch&uacute;ng ta sử dụng chủ ngữ giả \"<em>It</em>\". V&igrave; đ&acirc;y l&agrave; một sự thật ở hiện tại, ch&uacute;ng ta d&ugrave;ng th&igrave; hiện tại đơn.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 v&agrave; 2 (<em>\"There was\" </em>v&agrave; <em>\"There is\"</em>) sai v&igrave; <em>There</em> d&ugrave;ng để diễn tả sự tồn tại của vật/người, kh&ocirc;ng d&ugrave;ng cho khoảng c&aacute;ch. Phương &aacute;n 3 (<em>\"It was\"</em>) sai v&igrave; <em>was</em> l&agrave; th&igrave; qu&aacute; khứ, kh&ocirc;ng ph&ugrave; hợp để diễn tả một sự thật cố định ở hiện tại.</p>",
+      "answerFeedbacks": {
+        "503818": "Chủ ngữ <em>There</em> được dùng để diễn tả sự tồn tại của một người/vật, không phải để diễn tả khoảng cách. Thêm vào đó, <em>was</em> là thì quá khứ đơn, không phù hợp để diễn tả một sự thật cố định ở hiện tại.",
+        "503819": "Chủ ngữ <em>There</em> được dùng để diễn tả sự tồn tại của một người/vật (ví dụ: <em>There is a book on the table</em>), không phải để diễn tả khoảng cách.",
+        "503820": "Mặc dù <em>It</em> là chủ ngữ giả đúng để diễn tả khoảng cách, nhưng <em>was</em> là thì quá khứ đơn, không phù hợp để diễn tả một sự thật cố định về khoảng cách ở hiện tại.",
+        "503821": "Chủ ngữ giả <em>It</em> được dùng để diễn tả khoảng cách, thời gian, thời tiết, và <em>is</em> (thì hiện tại đơn) phù hợp để diễn tả một sự thật cố định."
+      },
+      "images": []
+    },
+    {
+      "id": 8881,
+      "questionNumber": 10,
+      "questionName": "Question 49.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><u>On the Moon</u>, <u>no air</u> because <span style=\"text-decoration: underline;\">the</span> moon’s gravitational field is <u>too weak</u> to retain an atmosphere.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 26960,
+          "label": "A",
+          "text": "On the moon",
+          "isCorrect": false
+        },
+        {
+          "id": 26961,
+          "label": "B",
+          "text": "no air",
+          "isCorrect": true
+        },
+        {
+          "id": 26962,
+          "label": "C",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "id": 26963,
+          "label": "D",
+          "text": "too weak",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 26961,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để tìm lỗi sai trong câu, hãy xem xét các quy tắc ngữ pháp liên quan đến từng phần được gạch chân:<ul style=\"padding-left: 30px;\"><li style=\"text-align: justify; margin-bottom: 3px;\">Cụm giới từ chỉ địa điểm thường đứng ở đầu câu hoặc cuối câu để bổ nghĩa cho động từ hoặc cả câu.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Để diễn tả sự tồn tại của một sự vật, hiện tượng, cần sử dụng cấu trúc với chủ ngữ giả <em>There</em> và động từ <em>to be</em> (<em>There is/are...</em>).</li><li style=\"text-align: justify; margin-bottom: 3px;\">Mạo từ xác định <em>the</em> được dùng trước danh từ đã được xác định hoặc duy nhất.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Cấu trúc <em>too + adj./adv. + (for O) + to V(inf)</em> diễn tả một điều gì đó vượt quá mức cần thiết hoặc không thể thực hiện được.</li></ul>So sánh từng quy tắc này với cách sử dụng các thành phần tương ứng trong câu gốc để xác định lỗi.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Chủ ngữ giả</span>.</p><blockquote style=\"margin-left: 0px; padding-left: 18px;\"><p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Chủ ngữ giả (dummy subject) được dùng để giới thiệu sự tồn tại của một người, vật, hoặc sự việc. Nó thường được dùng với động từ \"<em>to be</em>\" để chỉ ra rằng có cái gì đó ở đâu đó.</p><p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">There + be + N + (place/time)</span></p></blockquote><p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu này, người viết muốn diễn tả sự không tồn tại của không khí trên Mặt Trăng. Để diễn tả sự tồn tại hay không tồn tại của một vật, sự việc, tiếng Anh sử dụng cấu trúc chủ ngữ giả \"<em>There + be + N</em>\". Phần \"<em>no air</em>\" chỉ là một cụm danh từ, thiếu chủ ngữ giả và động từ \"<em>to be</em>\" để tạo thành một mệnh đề hoàn chỉnh.</p><p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<strong>no air</strong>\" => \"<strong>there is no air</strong>\"</p>",
+      "answerFeedbacks": {
+        "26960": "Cụm giới từ \"<em>On the Moon</em>\" đúng về mặt ngữ pháp và ngữ nghĩa, chỉ địa điểm.",
+        "26961": "Cụm từ \"<em>no air</em>\" thiếu chủ ngữ giả và động từ \"<em>to be</em>\" để tạo thành một mệnh đề hoàn chỉnh diễn tả sự tồn tại.",
+        "26962": "Mạo từ \"<em>the</em>\" được sử dụng chính xác trước danh từ xác định \"<em>moon’s gravitational field</em>\".",
+        "26963": "Cấu trúc \"<em>too + adj. + to V(inf)</em>\" được dùng đúng để diễn tả hậu quả, rằng lực hấp dẫn quá yếu để giữ lại bầu khí quyển."
+      },
+      "images": []
+    },
+    {
+      "id": 328777,
+      "questionNumber": 11,
+      "questionName": "Grammar Practice for Elementary Students 3rd-p.121",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Choose the correct answer.</strong></p>\n<p>A: <span class='fillblank-option'><label>11.1</label><select class='ms fillblank-option-11' index='0' name='fbo-328777-0' data-testid='fillblank-select-328777-0'><option value='' data-testid='fillblank-option-empty-328777-0'></option><option value=\"There's\" data-testid='fillblank-option-328777-0-There's'>There's</option><option value=\"It's\" data-testid='fillblank-option-328777-0-It's'>It's</option></select></span> <span class=\"word\">a</span> <span class=\"word\">message</span> <span class=\"word\">for</span> <span class=\"word\">you</span> <span class=\"word\">from</span> <span class=\"word\">Rob</span> <span class=\"word\">on</span> <span class=\"word\">the</span> <span class=\"word\">phone.</span></p>\n<p>B: Thanks. <span class='fillblank-option'><label>11.2</label><select class='ms fillblank-option-11' index='1' name='fbo-328777-1' data-testid='fillblank-select-328777-1'><option value='' data-testid='fillblank-option-empty-328777-1'></option><option value=\"It's\" data-testid='fillblank-option-328777-1-It's'>It's</option><option value=\"There's\" data-testid='fillblank-option-328777-1-There's'>There's</option></select></span> <span class=\"word\">his</span> <span class=\"word\">birthday</span> <span class=\"word\">on</span> <span class=\"word\">the</span> <span class=\"word\">9th</span> <span class=\"word\">and</span> <span class=\"word\">he's</span> <span class=\"word\">having</span> <span class=\"word\">a</span> <span class=\"word\">party.</span> <span class=\"word\">I've</span> <span class=\"word\">got some CDs for it. </span><span class='fillblank-option'><label>11.3</label><select class='ms fillblank-option-11' index='2' name='fbo-328777-2' data-testid='fillblank-select-328777-2'><option value='' data-testid='fillblank-option-empty-328777-2'></option><option value=\"There's\" data-testid='fillblank-option-328777-2-There's'>There's</option><option value=\"It's\" data-testid='fillblank-option-328777-2-It's'>It's</option></select></span> <span class=\"word\">a</span> <span class=\"word\">shop</span> <span class=\"word\">in</span> <span class=\"word\">town</span> <span class=\"word\">that</span> <span class=\"word\">sells</span> <span class=\"word\">cheap</span> <span class=\"word\">CDs</span> <span class=\"word\">and</span> <span class=\"word\">I</span> <span class=\"word\">got them there.</span></p>\n<p>A: <span class=\"word\">Yeah.</span> <span class=\"word\">I</span> <span class=\"word\">know</span> <span class=\"word\">that</span> <span class=\"word\">shop.</span> <span class=\"word\">It's</span> <span class=\"word\">really</span> <span class=\"word\">good.</span>&nbsp;</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "There's"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "It's"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "There's"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\">Chủ ngữ giả \"<strong>it</strong>\" được d&ugrave;ng khi n&oacute;i về ng&agrave;y, giờ, thời tiết, khoảng c&aacute;ch, quan điểm về việc g&igrave; đ&oacute; hoặc t&igrave;nh h&igrave;nh xung quanh.</p>\n<p style=\"text-align: justify;\">Chủ ngữ giả \"<strong>there</strong>\" được d&ugrave;ng để diễn đạt c&aacute;i g&igrave; đ&oacute; ở đ&acirc;u; số lượng của người/sự vật; sự hiện diện/tồn tại của ai/sự vật/sự việc g&igrave; đ&oacute;.</p>\n<p style=\"text-align: justify;\">Dịch:</p>\n<p style=\"text-align: justify;\">A: C&oacute; một tin nhắn ở điện thoại từ Rob cho bạn.</p>\n<p style=\"text-align: justify;\">B: Cảm ơn bạn. Sinh nhật cậu ấy v&agrave;o m&ugrave;ng 9 v&agrave; cậu ấy sẽ tổ chức tiệc. T&ocirc;i c&oacute; một v&agrave;i chiếc CD cho n&oacute; (bữa tiệc) rồi. C&oacute; một cửa h&agrave;ng trong thị trấn b&aacute;n những chiếc CD gi&aacute; rẻ v&agrave; t&ocirc;i đ&atilde; mua ch&uacute;ng ở đ&oacute;.</p>\n<p style=\"text-align: justify;\">A: Ừ. T&ocirc;i biết cửa h&agrave;ng đ&oacute;. N&oacute; rất tuyệt.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 149472,
+      "questionNumber": 12,
+      "questionName": "It takes about twenty minutes",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (kéo từng từ/cụm từ về vị trí đúng để tạo thành câu hoàn chỉnh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "by bike.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "twenty minutes",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "It",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "go to school",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "takes us",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "about",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "to",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy bắt đầu câu với chủ ngữ giả <strong>'It'</strong> và tìm cấu trúc quen thuộc dùng để nói về việc mất bao nhiêu thời gian để làm một việc gì đó: <em>It takes + (ai đó) + (khoảng thời gian) + to do something</em>.",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 217720,
+      "questionNumber": 13,
+      "questionName": "It is important to buckle up your seatbelt when traveling by car.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "traveling",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "buckle up",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "important",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "by car.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "It is",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "when",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "your seatbelt",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 201286,
+      "questionNumber": 14,
+      "questionName": "There was a large increase in the amount of money invested in March and April.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "of",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "the property market",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "a large amount",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "There",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "in March.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "money invested",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 61909,
+      "questionNumber": 15,
+      "questionName": "Question 32:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is closest in meaning to the following sentence.</em></p>\n<p><strong>I last heard this song 10 years ago.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 165924,
+          "label": "A",
+          "text": "It has been 10 years when I have heard this song.",
+          "isCorrect": false
+        },
+        {
+          "id": 165925,
+          "label": "B",
+          "text": "It was 10 years since I last heard this song.",
+          "isCorrect": false
+        },
+        {
+          "id": 165926,
+          "label": "C",
+          "text": "It is 10 years since I last heard this song.",
+          "isCorrect": true
+        },
+        {
+          "id": 165927,
+          "label": "D",
+          "text": "It is 10 years when I have heard this song.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 165926,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c:<strong> S + last + V(pt) + khoảng thời gian</strong>...: lần cuối l&agrave;m g&igrave;&nbsp;</p>\n<p>Cấu tr&uacute;c sử dụng chủ ngữ giả \"<strong>It</strong>\" để diễn tả thời gian:<strong>&nbsp;It is + khoảng thời gian + since + S + last + V(pt) + ...</strong>: đ&atilde; (bao l&acirc;u) kể từ lần cuối c&ugrave;ng l&agrave;m g&igrave;</p>\n<p>Dịch: T&ocirc;i nghe b&agrave;i h&aacute;t n&agrave;y lần cuối l&agrave; từ 10 năm trước.</p>\n<p>~ Đ&atilde; 10 năm kể từ lần cuối t&ocirc;i nghe b&agrave;i h&aacute;t n&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 13918,
+      "questionNumber": 16,
+      "questionName": "Cùng nghĩa với",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><i>Choose the sentence that is CLOSEST in meaning to the sentence given.</i></p>\n<p><strong>I find it useful to join the sports club.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 46545,
+          "label": "A",
+          "text": "<p>Joining the sports club is not useful for me.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 46546,
+          "label": "B",
+          "text": "<p>It is useful for me to join the sports club.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 46547,
+          "label": "C",
+          "text": "<p>I used to join the sports club.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 46548,
+          "label": "D",
+          "text": "<p>I never like joining the sports club.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 46546,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn được câu đồng nghĩa, học sinh cần xác định nghĩa cốt lõi của câu gốc: <em>\"I find it useful to join the sports club.\"</em></p>\n<ul>\n<li>Thành phần nghĩa 1: <strong>\"I find it useful\"</strong> – <em>\"Tôi thấy nó hữu ích\"</em>. Đây là cách diễn đạt một nhận định cá nhân về sự hữu ích.</li>\n<li>Thành phần nghĩa 2: <strong>\"to join the sports club\"</strong> – <em>\"việc tham gia câu lạc bộ thể thao\"</em>. Đây là hành động được nhắc đến.</li>\n</ul>\n<p>Hãy tìm một câu có thể diễn đạt lại hai thành phần nghĩa này mà không thay đổi ý nghĩa chính, đặc biệt là ý nghĩa về sự <strong>\"hữu ích\"</strong> và thì của hành động.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><b>find it + adj + to V / V-ing</b>: thấy điều gì đó như thế nào</p>\n<p style=\"text-align: justify;\"><b>It is + adj + for O + to V</b>: việc điều gì đó như thế nào đối với ai đó</p>\n<p style=\"text-align: justify;\"><b>useful</b> (adj.): hữu ích, có ích</p>\n<p style=\"text-align: justify;\"><b>join</b> (v.): tham gia, gia nhập</p>\n<p style=\"text-align: justify;\"><b>sports club</b> (n.): câu lạc bộ thể thao</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 2 đúng vì diễn đạt lại ý nghĩa của câu gốc <em>\"I find it useful to join the sports club\"</em> bằng cấu trúc tương đương <em>\"It is useful for me to join the sports club\"</em>, cả hai đều có nghĩa \"Tôi thấy việc tham gia câu lạc bộ thể thao là hữu ích\".</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 1 sai vì thay đổi nghĩa của câu gốc từ \"hữu ích\" thành \"không hữu ích\".</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 3 sai vì thay đổi thì của câu gốc, từ hiện tại sang quá khứ (<em>\"used to\"</em> diễn tả thói quen trong quá khứ).</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 4 sai vì thay đổi nghĩa của câu gốc từ \"hữu ích\" thành \"không thích\", thể hiện thái độ phủ định hoàn toàn.</li>\n</ul>",
+      "answerFeedbacks": {
+        "46545": "<p>Sai vì thay đổi nghĩa của câu gốc từ \"hữu ích\" thành \"không hữu ích\".</p>",
+        "46546": "<p>Đúng vì diễn đạt lại ý nghĩa của câu gốc bằng một cấu trúc tương đương, giữ nguyên nghĩa \"hữu ích\".</p>",
+        "46547": "<p>Sai vì thay đổi thì của câu gốc, diễn tả thói quen trong quá khứ thay vì hiện tại.</p>",
+        "46548": "<p>Sai vì thay đổi nghĩa của câu gốc, thể hiện thái độ không thích thay vì nhận thấy sự hữu ích.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 442193,
+      "questionNumber": 17,
+      "questionName": "phân biệt it/ there",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Choose the correct answer in each blank.</strong></p>\n<p>1. <span class='fillblank-option'><label>17.1</label><select class='ms fillblank-option-17' index='0' name='fbo-442193-0' data-testid='fillblank-select-442193-0'><option value='' data-testid='fillblank-option-empty-442193-0'></option><option value=\"There\" data-testid='fillblank-option-442193-0-There'>There</option><option value=\"It\" data-testid='fillblank-option-442193-0-It'>It</option></select></span>'s a party at Nick's tonight. Do you want to go?</p>\n<p>2. <span class='fillblank-option'><label>17.2</label><select class='ms fillblank-option-17' index='1' name='fbo-442193-1' data-testid='fillblank-select-442193-1'><option value='' data-testid='fillblank-option-empty-442193-1'></option><option value=\"It\" data-testid='fillblank-option-442193-1-It'>It</option><option value=\"There\" data-testid='fillblank-option-442193-1-There'>There</option></select></span>'s half past ten. We should go home soon.</p>\n<p>3. If you're hungry, <span class='fillblank-option'><label>17.3</label><select class='ms fillblank-option-17' index='2' name='fbo-442193-2' data-testid='fillblank-select-442193-2'><option value='' data-testid='fillblank-option-empty-442193-2'></option><option value=\"it\" data-testid='fillblank-option-442193-2-it'>it</option><option value=\"there\" data-testid='fillblank-option-442193-2-there'>there</option></select></span>'s some bread in the cupboard.</p>\n<p>4. Don't forget, <span class='fillblank-option'><label>17.4</label><select class='ms fillblank-option-17' index='3' name='fbo-442193-3' data-testid='fillblank-select-442193-3'><option value='' data-testid='fillblank-option-empty-442193-3'></option><option value=\"it\" data-testid='fillblank-option-442193-3-it'>it</option><option value=\"there\" data-testid='fillblank-option-442193-3-there'>there</option></select></span>'s your mum's birthday tomorrow.</p>\n<p>5. <span class='fillblank-option'><label>17.5</label><select class='ms fillblank-option-17' index='4' name='fbo-442193-4' data-testid='fillblank-select-442193-4'><option value='' data-testid='fillblank-option-empty-442193-4'></option><option value=\"It\" data-testid='fillblank-option-442193-4-It'>It</option><option value=\"There\" data-testid='fillblank-option-442193-4-There'>There</option></select></span>'s very hot in here. Can we open a window?</p>\n<p>6. OK, let's start the meeting. <span class='fillblank-option'><label>17.6</label><select class='ms fillblank-option-17' index='5' name='fbo-442193-5' data-testid='fillblank-select-442193-5'><option value='' data-testid='fillblank-option-empty-442193-5'></option><option value=\"It\" data-testid='fillblank-option-442193-5-It'>It</option><option value=\"There\" data-testid='fillblank-option-442193-5-There'>There</option></select></span>'s a lot to talk about!</p>\n<div style=\"position: absolute; left: -118px; top: -12px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "There"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "It"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "there"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "it"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "It"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "There"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Cấu tr&uacute;c: <strong>There + tobe + N...</strong>: C&oacute;</p>\n<p>Dịch: C&oacute; một bữa tiệc tại nh&agrave; Nick tối nay. Bạn c&oacute; muốn đến kh&ocirc;ng?</p>\n<p>2. Chủ ngữ giả \"<strong>It</strong>\" được d&ugrave;ng để n&oacute;i về thời gian.</p>\n<p>Dịch: Mười giờ rưỡi rồi. Ch&uacute;ng ta n&ecirc;n về nh&agrave; sớm th&ocirc;i.</p>\n<p>3. Cấu tr&uacute;c: <strong>There + tobe + N...</strong>: C&oacute;</p>\n<p>Dịch: Nếu bạn đ&oacute;i, c&oacute; một &iacute;t b&aacute;nh m&igrave; trong tủ.</p>\n<p>4. Chủ ngữ giả \"<strong>It</strong>\" được d&ugrave;ng để n&oacute;i về ng&agrave;y.</p>\n<p>Dịch: Đừng qu&ecirc;n, ng&agrave;y mai l&agrave; ng&agrave;y sinh nhật mẹ của bạn.</p>\n<p>5. Chủ ngữ giả \"<strong>It</strong>\" được d&ugrave;ng để n&oacute;i về trạng th&aacute;i xung quanh chủ ngữ.</p>\n<p>Dịch: Trong n&agrave;y thật n&oacute;ng. Ch&uacute;ng ta c&oacute; thể mở một cửa sổ được kh&ocirc;ng?</p>\n<p>6. Cấu tr&uacute;c: <strong>There + tobe + N...</strong>: C&oacute;</p>\n<p>Dịch: Được rồi, h&atilde;y bắt đầu cuộc họp. C&oacute; rất nhiều điều để n&oacute;i!</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

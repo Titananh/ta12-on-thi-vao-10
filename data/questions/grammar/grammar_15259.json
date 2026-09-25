@@ -1,0 +1,934 @@
+{
+  "quizId": 15259,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 31: Expressions with V-inf (Các cấu trúc với V-inf)",
+  "totalQuestions": 23,
+  "questions": [
+    {
+      "id": 900054,
+      "questionNumber": 1,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>K&#233;o th&#7843; c&#225;c t&#7915; &#273;&#432;&#7907;c cho &#273;&#7875; ho&#224;n th&#224;nh c&#225;c c&#7845;u tr&#250;c sau.&nbsp;</strong></p>\n<p>1. It + <span class='fillblank-option'><label>1.1</label><input id='fbo-900054-0' class='ms fillblank-option-1' index='0' name='fbo-900054-0' type='text' size='7' autocomplete='off' data-testid='fillblank-input-900054-0' /></span> + sb + time + to V(inf)</p>\n<p>2. <span class='fillblank-option'><label>1.2</label><input id='fbo-900054-1' class='ms fillblank-option-1' index='1' name='fbo-900054-1' type='text' size='9' autocomplete='off' data-testid='fillblank-input-900054-1' /></span> + V(inf)</p>\n<p>3. <span class='fillblank-option'><label>1.3</label><input id='fbo-900054-2' class='ms fillblank-option-1' index='2' name='fbo-900054-2' type='text' size='7' autocomplete='off' data-testid='fillblank-input-900054-2' /></span> don&#8217;t we + V(inf)?</p>\n<p>4. There's + no <span class='fillblank-option'><label>1.4</label><input id='fbo-900054-3' class='ms fillblank-option-1' index='3' name='fbo-900054-3' type='text' size='6' autocomplete='off' data-testid='fillblank-input-900054-3' /></span> + to V(inf)</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1734659,
+          "label": "A",
+          "text": "need",
+          "isCorrect": false
+        },
+        {
+          "id": 1734656,
+          "label": "B",
+          "text": "takes",
+          "isCorrect": false
+        },
+        {
+          "id": 1734658,
+          "label": "C",
+          "text": "Why",
+          "isCorrect": false
+        },
+        {
+          "id": 1734657,
+          "label": "D",
+          "text": "Let’s",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "takes"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Let’s"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "Why"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "need"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.7362%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/3_-_Copy_4_ab25341b.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7362%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/5_-_Copy_6_33031071.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 914314,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "Matching",
+      "questionText": "<p><strong>N&#7889;i c&#225;c c&#7845;u tr&#250;c v&#7899;i V(inf) sau v&#7899;i c&#225;ch d&#249;ng t&#432;&#417;ng &#7913;ng.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; height: 18px; border-color: #2DC26B; border-style: dashed;\" border=\"1\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 49.7301%; height: 18px; text-align: center;\"><img src=\"/images/exams/914314_new_7cec63c8.jpg\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7301%; height: 18px; text-align: center;\"><img src=\"/images/exams/wh_word_to_V_ed2ee324.jpg\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 75303,
+      "questionNumber": 3,
+      "questionName": "Question 6:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>There&#8217;s _____ to be frightened of the dog; he&#8217;s quite harmless.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 189152,
+          "label": "A",
+          "text": "no importance",
+          "isCorrect": false
+        },
+        {
+          "id": 189153,
+          "label": "B",
+          "text": "no demand",
+          "isCorrect": false
+        },
+        {
+          "id": 189154,
+          "label": "C",
+          "text": "no need",
+          "isCorrect": true
+        },
+        {
+          "id": 189155,
+          "label": "D",
+          "text": "no use",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 189154,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;́u trúc: <strong>There's + no need + to V(inf)</strong>:<strong> </strong>kh&ocirc;ng cần thiết phải l&agrave;m g&igrave;</p>\n<p>Dịch: Kh&ocirc;ng cần phải sợ h&atilde;i con ch&oacute; đ&oacute;; n&oacute; kh&aacute; l&agrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 648885,
+      "questionNumber": 4,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>It took us three hours _____ to Vung Tau last year.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1249155,
+          "label": "A",
+          "text": "drive",
+          "isCorrect": false
+        },
+        {
+          "id": 1249156,
+          "label": "B",
+          "text": "driving",
+          "isCorrect": false
+        },
+        {
+          "id": 1249157,
+          "label": "C",
+          "text": "to drive",
+          "isCorrect": true
+        },
+        {
+          "id": 1249158,
+          "label": "D",
+          "text": "drove",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1249157,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để hoàn thành câu này, bạn cần nhớ cấu trúc ngữ pháp dùng để diễn tả khoảng thời gian cần thiết để làm một việc gì đó. </p>\n<ul>\n<li>Câu bắt đầu bằng \"<em>It took us three hours...</em>\".</li>\n<li>Hãy nhớ lại cấu trúc phổ biến \"It takes/took + (sb) + time + ...\".</li>\n<li>Dạng động từ nào sẽ điền vào chỗ trống sau \"<em>time</em>\" trong cấu trúc này?</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc \"It takes/took (sb) time to do sth\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả khoảng thời gian cần thiết để ai đó thực hiện một hành động nào đó.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">It + takes/took + (O) + time + to V(inf)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, chúng ta có cụm \"<em>It took us three hours...</em>\". Để diễn tả thời gian cần thiết để làm một việc gì đó, chúng ta sử dụng cấu trúc \"<em>It takes/took (sb) time to do sth</em>\". Vì vậy, động từ sau \"<em>three hours</em>\" phải ở dạng nguyên thể có \"<em>to</em>\".</p>\n<p style=\"text-align: justify;\">Phương án 3, <em>to drive</em>, là dạng động từ nguyên thể có <em>to</em>, hoàn toàn phù hợp với cấu trúc này. Các phương án còn lại không đúng dạng động từ yêu cầu của cấu trúc.</p>",
+      "answerFeedbacks": {
+        "1249155": "Sai vì cấu trúc <em>It takes/took (sb) time to do sth</em> yêu cầu động từ nguyên thể có <em>to</em> (<em>to V(inf)</em>).",
+        "1249156": "Sai vì dạng <em>V-ing</em> không được sử dụng sau <em>time</em> trong cấu trúc <em>It takes/took (sb) time to do sth</em>.",
+        "1249157": "Đúng vì <em>to drive</em> là dạng động từ nguyên thể có <em>to</em> (<em>to V(inf)</em>), phù hợp với cấu trúc <em>It takes/took (sb) time to do sth</em>.",
+        "1249158": "Sai vì <em>drove</em> là dạng quá khứ đơn của động từ, không phù hợp với cấu trúc <em>It takes/took (sb) time to do sth</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 558936,
+      "questionNumber": 5,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>My teacher often gives us advice _____ water.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1087226,
+          "label": "A",
+          "text": "by how saving",
+          "isCorrect": false
+        },
+        {
+          "id": 1087227,
+          "label": "B",
+          "text": "about how saving",
+          "isCorrect": false
+        },
+        {
+          "id": 1087228,
+          "label": "C",
+          "text": "on how to save",
+          "isCorrect": true
+        },
+        {
+          "id": 1087229,
+          "label": "D",
+          "text": "with how to save",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1087228,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đáp án đúng, hãy xem xét hai yếu tố chính:</p>\n<ul>\n<li>Danh từ <em>\"advice\"</em> thường đi với giới từ nào khi nói về một chủ đề cụ thể?</li>\n<li>Sau các từ để hỏi như <em>\"how\"</em>, dạng động từ nào thường được sử dụng để chỉ cách thức thực hiện một hành động?</li>\n</ul>\n<p>Hãy kết hợp giới từ và dạng động từ phù hợp để hoàn thành câu.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span></span></p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cấu trúc:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f;\"><strong>advice on something:</strong></span> lời khuyên về điều gì </li>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f;\"><strong> how to V(inf):</strong></span> cách làm việc gì</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, chúng ta cần một giới từ đi với danh từ <em>\"advice\"</em> để chỉ chủ đề của lời khuyên, và sau đó là cấu trúc diễn tả cách thức. Danh từ <em>\"advice\"</em> thường đi với giới từ <em>\"on\"</em> hoặc <em>\"about\"</em> khi nói về một chủ đề cụ thể. Sau các từ để hỏi như <em>\"how\"</em>, cấu trúc chính xác để chỉ cách làm gì là <em>\"how to V(inf)\"</em>. Phương án 3, <em>\"on how to save\"</em>, kết hợp giới từ <em>\"on\"</em> phù hợp với <em>\"advice\"</em> và cấu trúc <em>\"how to save\"</em> chính xác về ngữ pháp, tạo thành cụm <em>\"advice on how to save water\"</em> (lời khuyên về cách tiết kiệm nước). </p>",
+      "answerFeedbacks": {
+        "1087226": "Sai vì giới từ <em>\"by\"</em> không phù hợp với <em>\"advice\"</em> trong ngữ cảnh này, và cấu trúc <em>\"how saving\"</em> là sai ngữ pháp.",
+        "1087227": "Sai vì mặc dù <em>\"about\"</em> có thể đi với <em>\"advice\"</em>, cấu trúc <em>\"how saving\"</em> là sai ngữ pháp.",
+        "1087228": "Đúng vì cấu trúc <em>\"advice on + how to V(inf)\"</em> là cách diễn đạt chính xác lời khuyên về cách làm gì đó.",
+        "1087229": "Sai vì giới từ <em>\"with\"</em> không phù hợp với <em>\"advice\"</em> trong ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 729245,
+      "questionNumber": 6,
+      "questionName": "n + to v",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Failure _____ the chemical at the right temperature could lead to an explosion.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1411788,
+          "label": "A",
+          "text": "kept",
+          "isCorrect": false
+        },
+        {
+          "id": 1411789,
+          "label": "B",
+          "text": "keeping",
+          "isCorrect": false
+        },
+        {
+          "id": 1411790,
+          "label": "C",
+          "text": "to keeping",
+          "isCorrect": false
+        },
+        {
+          "id": 1411791,
+          "label": "D",
+          "text": "to keep",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1411791,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để trả lời c&acirc;u hỏi n&agrave;y, bạn cần nhớ cấu tr&uacute;c ngữ ph&aacute;p khi một động từ được d&ugrave;ng để bổ nghĩa cho một danh từ, đặc biệt l&agrave; c&aacute;c danh từ trừu tượng như \"<em>Failure\"</em>. H&atilde;y xem x&eacute;t c&aacute;ch sử dụng của <strong>động từ nguy&ecirc;n thể c&oacute; <em>to</em></strong> (to-infinitive) sau danh từ để chỉ mục đ&iacute;ch hoặc h&agrave;nh động li&ecirc;n quan. Cụ thể, cấu tr&uacute;c <em>Noun + to V(inf)</em> thường được d&ugrave;ng để giải th&iacute;ch r&otilde; hơn về danh từ đ&oacute;. &Aacute;p dụng quy tắc n&agrave;y v&agrave;o từ \"<em>Failure\"</em> trong c&acirc;u để t&igrave;m dạng thức đ&uacute;ng của động từ \"<em>keep\"</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ nguy&ecirc;n thể c&oacute; \"to\" bổ nghĩa cho danh từ</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Động từ nguy&ecirc;n thể c&oacute; \"<strong>to</strong>\" (to-infinitive) được d&ugrave;ng để bổ nghĩa cho danh từ, đặc biệt l&agrave; c&aacute;c danh từ trừu tượng, nhằm diễn tả mục đ&iacute;ch, kết quả hoặc h&agrave;nh động cụ thể li&ecirc;n quan đến danh từ đ&oacute;.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><span style=\"color: #1c581f; font-weight: 600;\">Noun + to V(inf)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, từ \"<strong>Failure</strong>\" l&agrave; một danh từ trừu tượng, mang nghĩa \"sự thất bại\" hoặc \"việc kh&ocirc;ng l&agrave;m được\". Để diễn tả h&agrave;nh động cụ thể m&agrave; sự thất bại n&agrave;y li&ecirc;n quan đến, ch&uacute;ng ta cần sử dụng cấu tr&uacute;c \"<strong>Noun + to V(inf)</strong>\".</p>\n<p style=\"text-align: justify;\">Phương &aacute;n \"<strong>to keep</strong>\" l&agrave; động từ nguy&ecirc;n thể c&oacute; \"<strong>to</strong>\", ho&agrave;n to&agrave;n ph&ugrave; hợp để kết hợp với \"<strong>Failure</strong>\", mang nghĩa l&agrave; \"việc kh&ocirc;ng giữ/thất bại trong việc giữ\".</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n kh&aacute;c như \"kept\" (qu&aacute; khứ đơn/ph&acirc;n từ), \"keeping\" (danh động từ) hoặc \"to keeping\" (sai cấu tr&uacute;c) đều kh&ocirc;ng đ&uacute;ng ngữ ph&aacute;p trong ngữ cảnh n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "1411788": "<p>Sai v&igrave; \"<em>kept</em>\" l&agrave; dạng qu&aacute; khứ đơn hoặc qu&aacute; khứ ph&acirc;n từ của động từ \"<em>keep</em>\", kh&ocirc;ng thể đứng trực tiếp sau danh từ \"<em>Failure</em>\" để bổ nghĩa theo cấu tr&uacute;c n&agrave;y.</p>",
+        "1411789": "<p>Sai v&igrave; danh động từ \"<em>keeping</em>\" kh&ocirc;ng tạo th&agrave;nh cấu tr&uacute;c ngữ ph&aacute;p ch&iacute;nh x&aacute;c để bổ nghĩa cho danh từ \"<em>Failure</em>\" trong ngữ cảnh n&agrave;y.</p>",
+        "1411790": "<p>Sai v&igrave; \"<em>to </em><em>keeping</em>\" kết hợp giới từ <em>to</em> với danh động từ, kh&ocirc;ng phải l&agrave; cấu tr&uacute;c động từ nguy&ecirc;n thể c&oacute; \"<em>to</em>\" chuẩn để bổ nghĩa cho danh từ \"<em>Failure</em>\".</p>",
+        "1411791": "<p>Đ&uacute;ng v&igrave; \"<em>to keep</em>\" l&agrave; động từ nguy&ecirc;n thể c&oacute; \"<em>to</em>\", tạo th&agrave;nh cấu tr&uacute;c \"<em>Failure to V(inf)</em>\" (việc kh&ocirc;ng l&agrave;m g&igrave; đ&oacute;) để bổ nghĩa cho danh từ \"<em>Failure</em>\" một c&aacute;ch ch&iacute;nh x&aacute;c.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 749822,
+      "questionNumber": 7,
+      "questionName": "Complete Book 5 - p47",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Learning a new language opens up the opportunity _____ with people from different cultures.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1446739,
+          "label": "A",
+          "text": "to connect",
+          "isCorrect": true
+        },
+        {
+          "id": 1446740,
+          "label": "B",
+          "text": "connecting",
+          "isCorrect": false
+        },
+        {
+          "id": 1446741,
+          "label": "C",
+          "text": "connect",
+          "isCorrect": false
+        },
+        {
+          "id": 1446742,
+          "label": "D",
+          "text": "connected",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1446739,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Cần chú ý đến cấu trúc ngữ pháp theo sau danh từ <em>\"opportunity\"</em> khi diễn tả một cơ hội hoặc khả năng.</p>\n<p>Danh từ <em>\"opportunity\"</em> thường được theo sau bởi một động từ ở dạng cụ thể để chỉ hành động có thể thực hiện.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc danh từ theo sau bởi động từ nguyên thể có \"to\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Cấu trúc này dùng để diễn tả mục đích, chức năng hoặc khả năng của danh từ được đề cập.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">Noun + to V(inf)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, từ <em>\"opportunity\"</em> (cơ hội) cần được theo sau bởi một động từ nguyên thể có <em>\"to\"</em> để diễn tả hành động mà cơ hội đó mang lại. Cấu trúc <em>\"opportunity + to V(inf)\"</em> là cách diễn đạt chuẩn xác để chỉ \"cơ hội để làm gì\".</p>\n<p style=\"text-align: justify;\">Phương án <em>\"to connect\"</em> tuân thủ cấu trúc này, diễn tả \"cơ hội để kết nối\". Các phương án còn lại không đúng cấu trúc ngữ pháp theo sau danh từ <em>\"opportunity\"</em> trong ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "1446739": "Đúng vì cấu trúc <em>\"opportunity + to V(inf)\"</em> được dùng để diễn tả cơ hội hoặc khả năng làm điều gì đó.",
+        "1446740": "Sai vì dạng <em>V-ing</em> không đi trực tiếp sau <em>\"opportunity\"</em> để chỉ mục đích hoặc khả năng trong ngữ cảnh này.",
+        "1446741": "Sai vì <em>\"connect\"</em> ở dạng nguyên thể không <em>\"to\"</em> không phù hợp sau <em>\"opportunity\"</em> để diễn tả mục đích.",
+        "1446742": "Sai vì <em>\"connected\"</em> là dạng quá khứ đơn hoặc quá khứ phân từ, không đúng cấu trúc ngữ pháp cần thiết sau <em>\"opportunity\"</em> trong câu này."
+      },
+      "images": []
+    },
+    {
+      "id": 756873,
+      "questionNumber": 8,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>His dream _____ a doctor motivated him to study hard.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1458995,
+          "label": "A",
+          "text": "become",
+          "isCorrect": false
+        },
+        {
+          "id": 1458996,
+          "label": "B",
+          "text": "becoming",
+          "isCorrect": false
+        },
+        {
+          "id": 1458997,
+          "label": "C",
+          "text": "to becoming",
+          "isCorrect": false
+        },
+        {
+          "id": 1458998,
+          "label": "D",
+          "text": "to become",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1458998,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để hoàn thành câu này, bạn cần tìm cấu trúc ngữ pháp phù hợp để bổ nghĩa cho danh từ <em>\"dream\"</em>.</p>\n<p>Khi một danh từ như <em>\"dream\"</em>, <em>\"plan\"</em>, <em>\"desire\"</em> cần được giải thích thêm về nội dung hoặc mục tiêu của nó, chúng ta thường sử dụng dạng động từ nào theo sau?</p>\n<p>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ nguyên thể có <em>to</em> theo sau danh từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả mục đích, kết quả hoặc nội dung của danh từ đứng trước nó. Cụ thể, nó thường dùng để bổ nghĩa cho danh từ, chỉ ra mục tiêu hoặc điều mong muốn liên quan đến danh từ đó.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">N + to V(inf)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, \"<em>dream</em>\" là một danh từ, và chỗ trống cần một động từ để bổ nghĩa cho danh từ này, diễn tả nội dung của giấc mơ (giấc mơ <em>trở thành</em> bác sĩ). Cấu trúc <em>N + to V(inf)</em> là cấu trúc phù hợp để bổ nghĩa cho danh từ, chỉ mục đích hoặc nội dung của danh từ đó.</p>\n<p style=\"text-align: justify;\">Phương án 4 \"<em>to become</em>\" tuân thủ cấu trúc này, diễn tả chính xác nội dung của \"<em>his dream</em>\". Các phương án khác không phù hợp về mặt ngữ pháp để bổ nghĩa cho danh từ \"dream\" trong ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "1458995": "Sai vì động từ nguyên thể không <em>to</em> không thể trực tiếp bổ nghĩa cho danh từ \"dream\" trong cấu trúc này.",
+        "1458996": "Sai vì <em>V-ing</em> có thể theo sau giới từ (ví dụ: <em>dream of becoming</em>), nhưng không trực tiếp bổ nghĩa cho danh từ \"dream\" theo cách này.",
+        "1458997": "Sai vì cấu trúc <em>\"to V-ing\"</em> không phải là cấu trúc ngữ pháp chuẩn để bổ nghĩa cho danh từ theo cách này; <em>\"to\"</em> ở đây là một phần của động từ nguyên thể, không phải giới từ đi với <em>V-ing</em>.",
+        "1458998": "Đúng vì cấu trúc <em>\"N + to V(inf)\"</em> được sử dụng để bổ nghĩa cho danh từ, diễn tả mục đích hoặc nội dung của danh từ đó, như trong <em>\"his dream to become a doctor\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 656965,
+      "questionNumber": 9,
+      "questionName": "sửa",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Before the party, let's _____ the living room with colorful balloons and streamers.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1266476,
+          "label": "A",
+          "text": "decorate",
+          "isCorrect": true
+        },
+        {
+          "id": 1266477,
+          "label": "B",
+          "text": "decorating",
+          "isCorrect": false
+        },
+        {
+          "id": 1266478,
+          "label": "C",
+          "text": "to decorate",
+          "isCorrect": false
+        },
+        {
+          "id": 1266479,
+          "label": "D",
+          "text": "to decorating",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1266476,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Cụm từ <em>\"let's\"</em> trong tiếng Anh được dùng để đưa ra một gợi ý hoặc đề xuất cùng thực hiện một hành động.</li>\n<li>Hãy nhớ lại <em>\"let's\"</em> là viết tắt của <em>\"let us\"</em>, và nó luôn theo sau bởi một động từ ở dạng nào?</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ nguyên thể sau \"let's\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> \"Let's\" được dùng để đưa ra gợi ý, đề xuất cùng làm một việc gì đó.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">Let's + V(inf)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm từ <em>\"let's\"</em> (viết tắt của <em>\"let us\"</em>) được dùng để đưa ra một đề xuất. Theo quy tắc ngữ pháp, <em>\"let's\"</em> luôn theo sau bởi một động từ nguyên thể không <em>\"to\"</em> (bare infinitive).</p>\n<p style=\"text-align: justify;\">Phương án 1, <em>\"decorate\"</em>, là động từ nguyên thể không <em>\"to\"</em>, hoàn toàn phù hợp với cấu trúc này. Các phương án còn lại là các dạng động từ không phù hợp sau <em>\"let's\"</em>.</p>",
+      "answerFeedbacks": {
+        "1266476": "Đúng vì <em>\"let's\"</em> luôn theo sau bởi động từ nguyên thể không <em>\"to\"</em> (bare infinitive).",
+        "1266477": "Sai vì động từ sau <em>\"let's\"</em> phải là nguyên thể không <em>\"to\"</em>, không phải dạng V-ing.",
+        "1266478": "Sai vì động từ sau <em>\"let's\"</em> phải là nguyên thể không <em>\"to\"</em>, không phải nguyên thể có <em>\"to\"</em>.",
+        "1266479": "Sai vì đây không phải là một dạng động từ hợp lệ trong tiếng Anh sau <em>\"let's\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 620718,
+      "questionNumber": 10,
+      "questionName": "12",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>None <span style=\"text-decoration: underline;\">of</span> them had <span style=\"text-decoration: underline;\">any</span> idea about how <span style=\"text-decoration: underline;\">make</span> a raft with only <span style=\"text-decoration: underline;\">a few</span> bamboo canes.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1194574,
+          "label": "A",
+          "text": "of",
+          "isCorrect": false
+        },
+        {
+          "id": 1194575,
+          "label": "B",
+          "text": "any",
+          "isCorrect": false
+        },
+        {
+          "id": 1194576,
+          "label": "C",
+          "text": "make",
+          "isCorrect": true
+        },
+        {
+          "id": 1194577,
+          "label": "D",
+          "text": "a few",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1194576,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>how to do sth</strong>: l&agrave;m c&aacute;i g&igrave; như thế n&agrave;o</p>\n<p>Sửa: \"<strong>make</strong>\" =&gt; \"<strong>to make</strong>\"</p>\n<p>Dịch: Kh&ocirc;ng ai trong số họ c&oacute; bất kỳ &yacute; tưởng n&agrave;o về c&aacute;ch l&agrave;m một chiếc b&egrave; chỉ bằng một v&agrave;i thanh tre.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 672361,
+      "questionNumber": 11,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Why don't we <span style=\"text-decoration: underline;\">watching</span> <span style=\"text-decoration: underline;\">a</span> movie tonight <span style=\"text-decoration: underline;\">instead</span> of <span style=\"text-decoration: underline;\">going</span> out?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1297751,
+          "label": "A",
+          "text": "watching",
+          "isCorrect": true
+        },
+        {
+          "id": 1297752,
+          "label": "B",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 1297753,
+          "label": "C",
+          "text": "instead",
+          "isCorrect": false
+        },
+        {
+          "id": 1297754,
+          "label": "D",
+          "text": "going",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1297751,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u đề nghị, gợi &yacute;: <strong>Why don't we + V(inf) ...?</strong>: Sao ch&uacute;ng ta kh&ocirc;ng ... nhỉ?</p>\n<p>Sửa: \"<strong>watching</strong>\" =&gt; \"<strong>watch</strong>\"</p>\n<p>Dịch: Tại sao tối nay ch&uacute;ng ta kh&ocirc;ng xem phim thay v&igrave; đi chơi?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 775174,
+      "questionNumber": 12,
+      "questionName": "20",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>If you <span style=\"text-decoration: underline;\">have</span> <span style=\"text-decoration: underline;\">an</span> emergency, <span style=\"text-decoration: underline;\">do</span> you know who <span style=\"text-decoration: underline;\">calling</span>?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1489462,
+          "label": "A",
+          "text": "have",
+          "isCorrect": false
+        },
+        {
+          "id": 1489463,
+          "label": "B",
+          "text": "an",
+          "isCorrect": false
+        },
+        {
+          "id": 1489464,
+          "label": "C",
+          "text": "do",
+          "isCorrect": false
+        },
+        {
+          "id": 1489465,
+          "label": "D",
+          "text": "calling",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1489465,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>\"<strong>who calling</strong>\" thiếu động từ be \"<strong>is</strong>\" v&agrave; nếu sử dụng th&igrave; hiện tại tiếp diễn th&igrave; cũng kh&ocirc;ng ph&ugrave; hợp với logic c&acirc;u. =&gt; Cần sửa.</p>\n<p>D&ugrave;ng \"<strong>who + to V(inf)</strong>\" (ai đ&ecirc;̉ l&agrave;m g&igrave;) l&agrave;m t&acirc;n ngữ sau động từ \"<strong>know</strong>\".</p>\n<p>Sửa: \"<strong>calling</strong>\" =&gt; \"<strong>to call</strong>\"</p>\n<p>Dịch: Nếu bạn gặp trường hợp khẩn cấp, bạn c&oacute; biết gọi ai kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 18331,
+      "questionNumber": 13,
+      "questionName": "II",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Would you mind showing me how (use) <span class='fillblank-option'><input id='fbo-18331-0' class='ms fillblank-option-13' index='0' name='fbo-18331-0' type='text' size='9' autocomplete='off' data-testid='fillblank-input-18331-0' /></span> this printer?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "to use"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>show sb sth</strong>: chỉ cho ai c&aacute;i g&igrave;</p>\n<p>D&ugrave;ng cấu tr&uacute;c \"<strong>how</strong> <strong>to do sth</strong>\" (c&aacute;ch l&agrave;m g&igrave;) l&agrave;m t&acirc;n ngữ bổ nghĩa cho động từ \"<strong>show</strong>\".</p>\n<p>Dịch:&nbsp;Bạn c&oacute; phiền nếu chỉ cho t&ocirc;i c&aacute;ch sử dụng m&aacute;y in n&agrave;y kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 914319,
+      "questionNumber": 14,
+      "questionName": "II",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>There's no need (worry) <span class='fillblank-option'><input id='fbo-914319-0' class='ms fillblank-option-14' index='0' name='fbo-914319-0' type='text' size='11' autocomplete='off' data-testid='fillblank-input-914319-0' /></span>&nbsp;about the meeting; everything is prepared.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "to worry"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>There's + no need + to V (inf)</strong>: Kh&ocirc;ng cần phải l&agrave;m g&igrave;</p>\n<p>Dịch: Kh&ocirc;ng cần phải lo lắng về cuộc họp; mọi thứ đ&atilde; được chuẩn bị.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 700495,
+      "questionNumber": 15,
+      "questionName": "(*) a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>How long / it / usually / take / you / cook dinner / your family / everyday?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1357183,
+          "label": "A",
+          "text": "How long does it usually take you to cook dinner for your family every day?",
+          "isCorrect": true
+        },
+        {
+          "id": 1357184,
+          "label": "B",
+          "text": "How long will it usually take you cook dinner for your family every day?",
+          "isCorrect": false
+        },
+        {
+          "id": 1357185,
+          "label": "C",
+          "text": "How long did it usually take you to cooking dinner for your family every day?",
+          "isCorrect": false
+        },
+        {
+          "id": 1357186,
+          "label": "D",
+          "text": "How long do it usually take you cooking dinner for your family every day?",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1357183,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Th&igrave; hiện tại đơn được d&ugrave;ng để d</span><span style=\"font-weight: 400;\">iễn tả th&oacute;i quen, h&agrave;nh động lặp đi lặp lại ở hiện tại. </span>Dấu hiệu: \"<strong>every day</strong>\".</p>\n<p>Cấu tr&uacute;c: <strong>How long + does + it + (usually) + take + sb + to V(inf)?</strong>: Ai đ&oacute; mất bao nhi&ecirc;u thời gian để l&agrave;m g&igrave;?</p>\n<p>Dịch: Bạn thường mất bao nhi&ecirc;u thời gian để nấu bữa tối cho gia đ&igrave;nh mỗi ng&agrave;y?&nbsp;</p>\n<p><em>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:&nbsp;</em></p>\n<ul>\n<li><em>How long <span style=\"text-decoration: line-through;\"><strong>will</strong></span> it usually take you <span style=\"text-decoration: line-through;\"><strong>cook</strong></span> dinner for your family every day?</em></li>\n<li><em>How long <span style=\"text-decoration: line-through;\"><strong>did</strong></span> it usually take you <span style=\"text-decoration: line-through;\"><strong>to cooking</strong></span> dinner for your family every day?</em></li>\n<li><em>How long <span style=\"text-decoration: line-through;\"><strong>do</strong></span> it usually take you <span style=\"text-decoration: line-through;\"><strong>cooking</strong></span> dinner for your family every day?</em></li>\n</ul>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 391432,
+      "questionNumber": 16,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>Lucy / spend / two / hour / a week / learn / how / play / piano.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 798718,
+          "label": "A",
+          "text": "Lucy spends two hours a week learning how to play the piano.",
+          "isCorrect": true
+        },
+        {
+          "id": 798719,
+          "label": "B",
+          "text": "Lucy spends two hours a week on learning how to play piano.",
+          "isCorrect": false
+        },
+        {
+          "id": 798720,
+          "label": "C",
+          "text": "Lucy spends two hours a week on learning how playing the piano.",
+          "isCorrect": false
+        },
+        {
+          "id": 798721,
+          "label": "D",
+          "text": "Lucy spends two hours a week to learning how to play the piano.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 798718,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + spend(s) + time + V-ing</strong>: Ai đ&oacute; d&agrave;nh bao nhi&ecirc;u thời gian để l&agrave;m g&igrave;</p>\n<p><strong>play the piano</strong>: chơi đ&agrave;n piano</p>\n<p>Cấu tr&uacute;c \"<strong>how to V(inf)</strong>\" (c&aacute;ch l&agrave;m g&igrave;) l&agrave;m t&acirc;n ngữ sau động từ \"<strong>learn</strong>\".</p>\n<p>Dịch: Lucy d&agrave;nh hai giờ mỗi tuần để học chơi piano.</p>\n<p><em>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:&nbsp;</em></p>\n<ul>\n<li><em>Lucy spends two hours a week <strong><span style=\"text-decoration: line-through;\">on</span></strong> learning how to <span style=\"text-decoration: line-through;\"><strong>play piano</strong></span>.</em></li>\n<li><em>Lucy spends two hours a week <strong><span style=\"text-decoration: line-through;\">on</span></strong> learning <span style=\"text-decoration: line-through;\"><strong>how playing</strong></span> the piano.</em></li>\n<li><em>Lucy spends two hours a week <span style=\"text-decoration: line-through;\"><strong>to</strong></span> learning how to play the piano.</em></li>\n</ul>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 856851,
+      "questionNumber": 17,
+      "questionName": "let's",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>Let's / go / the museum / and / learn / history / this Saturday.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1633636,
+          "label": "A",
+          "text": "Let’s going to the museum and learn about history this Saturday.",
+          "isCorrect": false
+        },
+        {
+          "id": 1633637,
+          "label": "B",
+          "text": "Let’s go to the museum to learning about history this Saturday.",
+          "isCorrect": false
+        },
+        {
+          "id": 1633638,
+          "label": "C",
+          "text": "Let's to go to the museum and learning about history this Saturday.",
+          "isCorrect": false
+        },
+        {
+          "id": 1633639,
+          "label": "D",
+          "text": "Let's go to the museum and learn about history this Saturday.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1633639,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;́u trúc c&acirc;u đ&ecirc;̀ nghị, gợi ý: <strong>Let's + V(inf) + ....</strong>: Hãy cùng làm gì</p>\n<p><strong>to V(inf)</strong>: đ&ecirc;̉ làm gì</p>\n<p>Li&ecirc;n từ &ldquo;<strong>and</strong>&rdquo; li&ecirc;n kết c&aacute;c th&agrave;nh phần tương đồng về dạng thức, chức năng. =&gt; Sau \"<strong>and</strong>\" phải là đ&ocirc;̣ng từ nguy&ecirc;n th&ecirc;̉.</p>\n<p>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:&nbsp;</p>\n<ul>\n<li><em>Let&rsquo;s <span style=\"text-decoration: line-through;\"><strong>going</strong></span> to the museum and learn about history this Saturday.</em></li>\n<li><em>Let&rsquo;s go to the museum <span style=\"text-decoration: line-through;\"><strong>to learning</strong></span> about history this Saturday.</em></li>\n<li><em>Let's <span style=\"text-decoration: line-through;\"><strong>to go</strong></span> to the museum and <span style=\"text-decoration: line-through;\"><strong>learning</strong></span> about history this Saturday.</em></li>\n</ul>\n<p>Dịch: H&atilde;y cùng đến bảo t&agrave;ng v&agrave; t&igrave;m hiểu về lịch sử v&agrave;o thứ Bảy n&agrave;y nh&eacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 743190,
+      "questionNumber": 18,
+      "questionName": "34",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>How about going to the shopping center this weekend?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1435397,
+          "label": "A",
+          "text": "Do they let us go to the shopping center this weekend?",
+          "isCorrect": false
+        },
+        {
+          "id": 1435398,
+          "label": "B",
+          "text": "Why don't we go to the shopping center this weekend?",
+          "isCorrect": true
+        },
+        {
+          "id": 1435399,
+          "label": "C",
+          "text": "Why are we going to the shopping center this weekend?",
+          "isCorrect": false
+        },
+        {
+          "id": 1435400,
+          "label": "D",
+          "text": "What do we do in the shopping center this weekend?",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1435398,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"color: #000000; background-color: #fbeeb8;\"><strong>Kiến thức cần lưu &yacute;:</strong></span></p>\n<ul>\n<li>Cấu tr&uacute;c đưa ra c&acirc;u đề nghị, gợi &yacute;, đề xuất:<strong> How about + V-ing?</strong>: L&agrave;m g&igrave; th&igrave; thế n&agrave;o? ~ <strong>Why don't we + V(inf)?</strong>: Tại sao ch&uacute;ng ta kh&ocirc;ng l&agrave;m g&igrave; nhỉ?</li>\n<li><strong>let sb + V(inf)</strong>: để ai đ&oacute; l&agrave;m g&igrave;</li>\n</ul>\n<hr />\n<p><span style=\"color: #000000; background-color: #fbeeb8;\"><strong>Dịch:</strong></span></p>\n<p><em>C&acirc;u gốc:&nbsp;Bạn <strong>nghĩ sao về việc đi trung t&acirc;m mua sắm</strong> v&agrave;o cuối tuần n&agrave;y?<br /></em></p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong> </span>Họ c&oacute; để ch&uacute;ng ta đi trung t&acirc;m mua sắm v&agrave;o cuối tuần n&agrave;y kh&ocirc;ng?</p>\n<p><span style=\"color: #000000;\"><span style=\"color: #2dc26b;\"><strong>✔</strong> </span></span><strong>Tại sao ch&uacute;ng ta kh&ocirc;ng đi</strong>&nbsp;<strong>trung t&acirc;m mua sắm </strong>v&agrave;o cuối tuần n&agrave;y nhỉ?<span style=\"color: #000000;\"><span style=\"color: #2dc26b;\"><br /></span></span></p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong><span style=\"color: #000000;\"> </span></span>Tại sao ch&uacute;ng ta sẽ đi trung t&acirc;m mua sắm v&agrave;o cuối tuần n&agrave;y?<span style=\"color: #e03e2d;\"><br /></span></p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong> </span>Ch&uacute;ng ta l&agrave;m g&igrave; ở trung t&acirc;m mua sắm v&agrave;o cuối tuần n&agrave;y?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 833747,
+      "questionNumber": 19,
+      "questionName": "26",
+      "questionType": "MultipleChoice",
+      "questionText": "<em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em>\n<br>\n<strong>Let's drink some warm water after eating spicy food.</strong>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2168988,
+          "label": "A",
+          "text": "What about we drink some warm water after eating spicy food?",
+          "isCorrect": false
+        },
+        {
+          "id": 2168989,
+          "label": "B",
+          "text": "How about to drink some warm water after eating spicy food?",
+          "isCorrect": false
+        },
+        {
+          "id": 2168990,
+          "label": "C",
+          "text": "Why don’t we drink some warm water after eating spicy food?",
+          "isCorrect": true
+        },
+        {
+          "id": 2168991,
+          "label": "D",
+          "text": "Why not drinking some warm water after we eating spicy food?",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2168990,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để đưa ra một lời đề nghị, chúng ta có thể dùng nhiều cấu trúc khác nhau. Hãy xem xét cấu trúc của câu gốc <strong>Let's + V(inf)</strong>.</p>\n<p>Sau đó, hãy kiểm tra các cấu trúc trong từng phương án để tìm ra cấu trúc nào đúng về mặt ngữ pháp và đồng nghĩa với câu gốc.</p>\n<p>Lưu ý dạng của động từ theo sau các cụm từ gợi ý như <strong>What about</strong>, <strong>How about</strong>, và <strong>Why not</strong>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc câu đề nghị, rủ rê (Making suggestions)</strong>: Dùng để đưa ra lời gợi ý, đề nghị hoặc rủ ai đó cùng làm gì. Một số cấu trúc thông dụng:</p>\n<p style=\"text-align: justify;\"><strong>1. Let's + V(inf)</strong></p>\n<p style=\"text-align: justify;\"><strong>2. What about / How about + V-ing?</strong></p>\n<p style=\"text-align: justify;\"><strong>3. Why don't we + V(inf)?</strong></p>\n<p style=\"text-align: justify;\"><strong>4. Why not + V(inf)?</strong></p>\n<p style=\"text-align: justify;\"><strong>spicy (adj.)</strong>: cay, có nhiều gia vị</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<ul>\n<li style=\"text-align: justify;\">Câu đề bài dùng cấu trúc <strong>Let's + V(inf)</strong> (<strong>Let's drink</strong>) để đưa ra lời đề nghị.</li>\n<li style=\"text-align: justify;\">Phương án 3 đúng vì sử dụng cấu trúc <strong>Why don't we + V(inf)?</strong> (<strong>Why don't we drink</strong>), có ý nghĩa tương đương với cấu trúc trong câu đề bài.</li>\n<li style=\"text-align: justify;\">Phương án 1 sai ngữ pháp. Cấu trúc đúng phải là <strong>What about + V-ing?</strong> (<strong>What about drinking...?</strong>).</li>\n<li style=\"text-align: justify;\">Phương án 2 sai ngữ pháp. Cấu trúc đúng phải là <strong>How about + V-ing?</strong> (<strong>How about drinking...?</strong>), không dùng \"to V(inf)\".</li>\n<li style=\"text-align: justify;\">Phương án 4 sai ngữ pháp. Cấu trúc đúng phải là <strong>Why not + V(inf)?</strong> (<strong>Why not drink...?</strong>). Ngoài ra, cụm \"<strong>after we eating</strong>\" cũng sai, phải là \"<strong>after we eat</strong>\" hoặc \"<strong>after eating</strong>\".</li>\n</ul>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Dịch: </span></p>\n<p style=\"text-align: justify;\"><strong>Chúng ta hãy uống một ít nước ấm sau khi ăn đồ cay nhé.</strong></p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong><em>Ý muốn nói là: </em>Hay là chúng ta uống một ít nước ấm sau khi ăn đồ cay nhỉ?</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong><em>Ý muốn nói là: </em>Hay là uống một ít nước ấm sau khi ăn đồ cay nhỉ?</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #49c015;\">✔ </span>Tại sao chúng ta không uống một ít nước ấm sau khi ăn đồ cay nhỉ?</strong></p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong><em>Ý muốn nói là: </em>Tại sao không uống một ít nước ấm sau khi chúng ta ăn đồ cay nhỉ?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 652344,
+      "questionNumber": 20,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>She spends 30 minutes walking in the park every morning.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1256610,
+          "label": "A",
+          "text": "It takes her 30 minutes to walk in the park every morning.",
+          "isCorrect": true
+        },
+        {
+          "id": 1256611,
+          "label": "B",
+          "text": "It takes her 30 minutes walk in the park every morning.",
+          "isCorrect": false
+        },
+        {
+          "id": 1256612,
+          "label": "C",
+          "text": "It takes her 30 minutes walking in the park every morning.",
+          "isCorrect": false
+        },
+        {
+          "id": 1256613,
+          "label": "D",
+          "text": "It takes her 30 minutes to walking in the park every morning.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1256610,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + spend(s)/spent + time + V-ing: </strong>Ai đ&oacute; d&agrave;nh bao nhi&ecirc;u thời gian v&agrave;o việc g&igrave;</p>\n<p>~ <strong>It + takes/took + sb + time + to + V</strong>: Ai đ&oacute; d&agrave;nh/mất bao l&acirc;u để l&agrave;m g&igrave;</p>\n<p>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:&nbsp;</p>\n<ul>\n<li><em>It takes her 30 minutes <span style=\"text-decoration: line-through;\"><strong>walk</strong></span> in the park every morning.</em></li>\n<li><em>It takes her 30 minutes <span style=\"text-decoration: line-through;\"><strong>walking</strong></span> in the park every morning.</em></li>\n<li><em>It takes her 30 minutes <span style=\"text-decoration: line-through;\"><strong>to walking</strong></span> in the park every morning.</em></li>\n</ul>\n<p>Dịch: C&ocirc; ấy d&agrave;nh 30 ph&uacute;t để đi bộ trong c&ocirc;ng vi&ecirc;n mỗi buổi s&aacute;ng.&nbsp;</p>\n<p>~ C&ocirc; ấy mất 30 ph&uacute;t để đi bộ trong c&ocirc;ng vi&ecirc;n mỗi buổi s&aacute;ng.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 153361,
+      "questionNumber": 21,
+      "questionName": "2",
+      "questionType": "WordOrder",
+      "questionText": "<p style=\"text-align: justify;\"><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "don't",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "Why",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "go to",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "the movie theatre",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "this weekend?",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "we",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 146939,
+      "questionNumber": 22,
+      "questionName": "1",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Nga spends 4 hours a day practicing English with her friends. </strong></p>\n<p><strong>=&gt; It takes ............</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "It takes Nga 4 hours a day to practice English with her friends."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c:&nbsp;<strong>It + takes/took + sb + time + to + V</strong>: Ai đ&oacute; d&agrave;nh/mất bao l&acirc;u để l&agrave;m g&igrave;</p>\n<p>~ <strong>S + spend(s)/spent + time + V-ing: </strong>Ai đ&oacute; d&agrave;nh bao nhi&ecirc;u thời gian v&agrave;o việc g&igrave;</p>\n<p>Dịch: Nga d&agrave;nh bốn giờ đồng hồ một ng&agrave;y để tập luyện tiếng Anh với c&aacute;c bạn của m&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 399803,
+      "questionNumber": 23,
+      "questionName": "Question 2",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Let&#8217;s go camping tomorrow.</strong></p>\n<p><strong>=&gt; Why don't ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Why don't we go camping tomorrow?"
+      ],
+      "hint": "",
+      "explanation": "<p><strong>Let's + V(inf)</strong>: h&atilde;y c&ugrave;ng l&agrave;m g&igrave;</p>\n<p>~<strong> Why don't we + V(inf)?</strong>: Tại sao ch&uacute;ng ta kh&ocirc;ng l&agrave;m g&igrave;?</p>\n<p>Dịch: Ng&agrave;y mai ch&uacute;ng ta h&atilde;y đi cắm trại.</p>\n<p>~ Tại sao ch&uacute;ng ta kh&ocirc;ng đi cắm trại v&agrave;o ng&agrave;y mai?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

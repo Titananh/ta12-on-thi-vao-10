@@ -1,0 +1,1411 @@
+{
+  "id": 19163,
+  "title": "Đề thi thử Tiếng Anh vào 10 trường THCS Thái Thịnh năm 2026",
+  "year": 2026,
+  "categoryId": 1489,
+  "categoryName": "Đề thi thử vào 10 môn Anh của các đơn vị GD tại Hà Nội",
+  "timeLimit": 60,
+  "totalPoint": 40,
+  "questionCount": 31,
+  "author": "Tổ GV Tiếng Anh - TA12",
+  "description": "",
+  "createdAt": "2026-09-24T14:47:07.810Z",
+  "questions": [
+    {
+      "id": 1201601,
+      "questionNumber": 1,
+      "questionName": "Pronunciation (underlined part)",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><span style=\"font-weight: 600;\">Choose the word which has the underlined part pronounced differently from the others.</span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2324943,
+          "label": "A",
+          "text": "<p><span style=\"text-decoration: underline;\">a</span>ccess</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324944,
+          "label": "B",
+          "text": "<p>p<span style=\"text-decoration: underline;\">a</span>radise</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324945,
+          "label": "C",
+          "text": "<p>p<span style=\"text-decoration: underline;\">a</span>ckage</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324946,
+          "label": "D",
+          "text": "<p>v<span style=\"text-decoration: underline;\">a</span>riety</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2324946,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Chữ \"a\" trong &acirc;m tiết c&oacute; trọng &acirc;m v&agrave; &acirc;m tiết đ&oacute;ng thường ph&aacute;t &acirc;m /&aelig;/. Tuy nhi&ecirc;n, chữ \"a\" trong &acirc;m tiết kh&ocirc;ng nhấn thường bị yếu đi th&agrave;nh /ə/. N&ecirc;n h&atilde;y xem x&eacute;t c&aacute;c chữ 'a' được gạch ch&acirc;n xem c&oacute; thuộc &acirc;m tiết c&oacute; trọng &acirc;m hay kh&ocirc;ng.</p>",
+      "explanation": "<p>Phần được gạch ch&acirc;n trong từ <b>v<u>a</u>riety</b> được ph&aacute;t &acirc;m l&agrave;<strong> /ə/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave;<strong> /&aelig;/</strong>.</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n        font-style: italic;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">access</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈ&aelig;kses/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>quyền truy cập</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">paradise</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈp&aelig;rədaɪs/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>thi&ecirc;n đường</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">package</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈp&aelig;kɪdʒ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>g&oacute;i h&agrave;ng</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">variety</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/vəˈraɪəti/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sự đa dạng</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "2324943": "Phần gạch chân \"a\" trong từ \"access\" được phát âm là /æ/.",
+        "2324944": "Phần gạch chân \"a\" trong từ \"paradise\" được phát âm là /æ/.",
+        "2324945": "Phần gạch chân \"a\" trong từ \"package\" được phát âm là /æ/.",
+        "2324946": "Phần gạch chân \"a\" trong từ \"variety\" được phát âm là /ə/, khác với các từ còn lại."
+      },
+      "images": []
+    },
+    {
+      "id": 1201607,
+      "questionNumber": 2,
+      "questionName": "Pronunciation (underlined part)",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><span style=\"font-weight: 600;\">Choose the word which has the underlined part pronounced differently from the others.</span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2324961,
+          "label": "A",
+          "text": "<p>l<span style=\"text-decoration: underline;\">o</span>cal</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324964,
+          "label": "B",
+          "text": "<p>fl<span style=\"text-decoration: underline;\">o</span>ra</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2324965,
+          "label": "C",
+          "text": "<p>ec<span style=\"text-decoration: underline;\">o</span>system</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324967,
+          "label": "D",
+          "text": "<p>br<span style=\"text-decoration: underline;\">o</span>chure</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2324964,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Chữ \"o\" thường ph&aacute;t &acirc;m /əʊ/ trong &acirc;m tiết mở hoặc trước phụ &acirc;m + \"e\" c&acirc;m (v&iacute; dụ: \"local\", \"ecosystem\", \"brochure\"). Tuy nhi&ecirc;n, \"flora\" l&agrave; từ vay mượn từ tiếng Latin n&ecirc;n c&oacute; c&aacute;ch ph&aacute;t &acirc;m đặc biệt /ɔː/ (&acirc;m d&agrave;i).</p>",
+      "explanation": "<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n        font-style: italic;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<p>Phần được gạch ch&acirc;n trong từ <b>fl<u>o</u>ra</b> được ph&aacute;t &acirc;m l&agrave;<strong> /ɔː/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave;<strong> /əʊ/</strong>.</p>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">local</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈləʊkəl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>(thuộc) địa phương</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">flora</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈflɔːrə/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>hệ thực vật</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">ecosystem</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈiːkəʊsɪstəm/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>hệ sinh th&aacute;i</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">brochure</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈbrəʊʃʊər/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>cuốn s&aacute;ch nhỏ quảng c&aacute;o, tờ rơi</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "2324961": "<p>Phần được gạch ch&acirc;n trong từ n&agrave;y được ph&aacute;t &acirc;m l&agrave; /əʊ/.</p>",
+        "2324964": "<p>Phần được gạch ch&acirc;n trong từ n&agrave;y được ph&aacute;t &acirc;m l&agrave; /ɔː/, kh&aacute;c với c&aacute;c từ c&ograve;n lại.</p>",
+        "2324965": "<p>Phần được gạch ch&acirc;n trong từ n&agrave;y được ph&aacute;t &acirc;m l&agrave; /əʊ/.</p>",
+        "2324967": "<p>Phần được gạch ch&acirc;n trong từ n&agrave;y được ph&aacute;t &acirc;m l&agrave; /əʊ/.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201614,
+      "questionNumber": 3,
+      "questionName": "Stress position",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2324987,
+          "label": "A",
+          "text": "<p>vehicle</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324993,
+          "label": "B",
+          "text": "<p>previous</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324999,
+          "label": "C",
+          "text": "<p>republic</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325005,
+          "label": "D",
+          "text": "<p>curious</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2324999,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy xem xét quy tắc trọng âm với các hậu tố. Thông thường, các từ kết thúc bằng hậu tố <em>-ic</em> có trọng âm rơi vào âm tiết ngay trước nó.",
+      "explanation": "<p>Từ <strong>republic</strong> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ hai, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất.</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n        font-style: italic;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">vehicle</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈviː.ə.kəl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>xe cộ, phương tiện</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">previous</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈpriː.vi.əs/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>trước, trước đ&oacute;</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">republic</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/rɪˈpʌb.lɪk/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>nước cộng h&ograve;a</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">curious</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈkjʊə.ri.əs/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>t&ograve; m&ograve;, hiếu kỳ</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "2324987": "Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈviː.ə.kəl/.",
+        "2324993": "Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈpriː.vi.əs/.",
+        "2324999": "Từ này có trọng âm rơi vào âm tiết thứ hai /rɪˈpʌb.lɪk/, theo quy tắc trọng âm thường rơi vào âm tiết ngay trước hậu tố <em>-ic</em>.",
+        "2325005": "Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈkjʊə.ri.əs/."
+      },
+      "images": []
+    },
+    {
+      "id": 1201622,
+      "questionNumber": 4,
+      "questionName": "Stress position",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325031,
+          "label": "A",
+          "text": "<p>marine</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325032,
+          "label": "B",
+          "text": "<p>coral</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325033,
+          "label": "C",
+          "text": "<p>urgent</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325034,
+          "label": "D",
+          "text": "<p>homestay</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325031,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hầu hết c&aacute;c danh từ v&agrave; t&iacute;nh từ c&oacute; hai &acirc;m tiết thường c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết đầu ti&ecirc;n. Tuy nhi&ecirc;n, h&atilde;y ch&uacute; &yacute; đến c&aacute;c từ c&oacute; hậu tố đặc biệt như <em>-ine</em>.</p>",
+      "explanation": "<p>Từ <strong>marine</strong> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ hai, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất.</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n        font-style: italic;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">marine</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/məˈriːn/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>(thuộc) biển, h&agrave;ng hải</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">coral</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈkɒrəl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>san h&ocirc;</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">urgent</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈɜːdʒənt/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>khẩn cấp, cấp b&aacute;ch</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">homestay</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈhəʊmsteɪ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>việc ở trọ tại nh&agrave; d&acirc;n (khi đi du lịch)</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "2325031": "Từ này có trọng âm rơi vào âm tiết thứ hai /məˈriːn/, khác với các từ còn lại.",
+        "2325032": "<p>Từ n&agrave;y c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất /ˈkɒrəl/, c&ugrave;ng nh&oacute;m với <em>\"urgent\"</em> v&agrave; <em>\"homestay\"</em>.</p>",
+        "2325033": "Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈɜːdʒənt/, cùng nhóm với <em>\"coral\"</em> và <em>\"homestay\"</em>.",
+        "2325034": "Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈhəʊmsteɪ/, cùng nhóm với <em>\"coral\"</em> và <em>\"urgent\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 1201633,
+      "questionNumber": 5,
+      "questionName": "Complete sentence (grammar)",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>She asked me _____ that way led to the rail station.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325059,
+          "label": "A",
+          "text": "whether",
+          "isCorrect": true
+        },
+        {
+          "id": 2325060,
+          "label": "B",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "id": 2325061,
+          "label": "C",
+          "text": "when",
+          "isCorrect": false
+        },
+        {
+          "id": 2325062,
+          "label": "D",
+          "text": "why",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325059,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Khi tường thuật lại một c&acirc;u hỏi Yes/No (c&acirc;u hỏi c&oacute; thể trả lời bằng <em>\"Yes\"</em> hoặc <em>\"No\"</em>), bạn cần sử dụng li&ecirc;n từ \"if\" hoặc \"whether\".</p>",
+      "explanation": "<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Đ&acirc;y l&agrave; c&acirc;u tường thuật của một c&acirc;u hỏi Yes/No: \"<strong>Does that way lead to the rail station?</strong>\".&nbsp;</p>\n<p style=\"text-align: justify;\">Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của dạng c&acirc;u hỏi Yes/No: <strong>S + asked sb/wondered/wanted to know + if/whether + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p style=\"text-align: justify;\">Như vậy, khi chuyển sang c&acirc;u gi&aacute;n tiếp của dạng c&acirc;u hỏi Yes/No, ch&uacute;ng ta sử dụng li&ecirc;n từ <em>\"whether\"</em> hoặc <em>\"if\"</em> để giới thiệu mệnh đề danh ngữ.</p>",
+      "answerFeedbacks": {
+        "2325059": "Đây là liên từ đúng để bắt đầu một mệnh đề danh ngữ tường thuật một câu hỏi Yes/No sau động từ <em>\"asked\"</em>.",
+        "2325060": "<p>Từ n&agrave;y thường d&ugrave;ng để hỏi về sự lựa chọn hoặc bắt đầu mệnh đề quan hệ, kh&ocirc;ng ph&ugrave; hợp để tường thuật một c&acirc;u hỏi Yes/No.</p>",
+        "2325061": "<p>Từ n&agrave;y d&ugrave;ng để hỏi về thời gian hoặc bắt đầu mệnh đề trạng ngữ chỉ thời gian, kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh c&acirc;u hỏi gi&aacute;n tiếp n&agrave;y.</p>",
+        "2325062": "Từ này dùng để hỏi về lý do, không phù hợp để tường thuật một câu hỏi Yes/No về việc một con đường có dẫn đến nhà ga hay không."
+      },
+      "images": []
+    },
+    {
+      "id": 1201640,
+      "questionNumber": 6,
+      "questionName": "Complete conversation",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Lan is asking her mother for permission.</em></p>\n<p><strong>Lan: Can I watch a horror film, Mum?</strong></p>\n<p><strong>Mom: _____</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325087,
+          "label": "A",
+          "text": "<p>I'm sorry. You can't.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325088,
+          "label": "B",
+          "text": "<p>You may be.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325089,
+          "label": "C",
+          "text": "<p>You shouldn't be.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325090,
+          "label": "D",
+          "text": "<p>No, dear, you can't. It's late.</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2325090,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Khi từ chối lời xin phép, người nói thường đưa ra một lý do hợp lý. Hãy xem xét phương án nào vừa từ chối dứt khoát, vừa có lý do phù hợp với ngữ cảnh mẹ con.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Lan hỏi xin ph&eacute;p xem phim kinh dị. Người mẹ cần từ chối v&agrave; đưa ra l&yacute; do.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 4 <em>\"No, dear, you can't. It's late.\"</em> l&agrave; lời từ chối trực tiếp <em>\"No, dear, you can't.\"</em> v&agrave; đưa ra l&yacute; do hợp l&yacute; <em>\"It's late.\"</em> (đ&atilde; muộn), ph&ugrave; hợp để người mẹ phản hồi sự xin ph&eacute;p của người con.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 <em>\"I'm sorry. You can't.\"</em> tuy từ chối nhưng hơi cụt, thiếu l&yacute; do. Phương &aacute;n 2 <em>\"You may be.\"</em> kh&ocirc;ng phải l&agrave; c&aacute;ch trả lời cho c&acirc;u hỏi xin ph&eacute;p. Phương &aacute;n 3 <em>\"You shouldn't be.\"</em> l&agrave; lời khuy&ecirc;n, kh&ocirc;ng phải phản hồi lời xin ph&eacute;p.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>ask for permission</strong> (phr.): xin ph&eacute;p</p>\n<p style=\"text-align: justify;\"><strong>horror film</strong> (n.): phim kinh dị</p>",
+      "answerFeedbacks": {
+        "2325087": "Mặc dù là lời từ chối, nhưng câu trả lời này hơi cụt và không cung cấp lý do, khiến nó kém tự nhiên trong ngữ cảnh mẹ con.",
+        "2325088": "Cụm từ \"may be\" không phù hợp để trả lời trực tiếp cho câu hỏi xin phép \"Can I...?\" mà không có động từ chính đi kèm.",
+        "2325089": "<p>C&acirc;u n&agrave;y mang nghĩa khuy&ecirc;n răn \"con kh&ocirc;ng n&ecirc;n l&agrave;m vậy\", nhưng kh&ocirc;ng trực tiếp trả lời c&acirc;u hỏi xin ph&eacute;p.</p>",
+        "2325090": "<p>Đ&acirc;y l&agrave; lời từ chối trực tiếp v&agrave; lịch sự, k&egrave;m theo l&yacute; do r&otilde; r&agrave;ng (\"It's late\"), rất ph&ugrave; hợp với ngữ cảnh mẹ từ chối y&ecirc;u cầu của con.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201648,
+      "questionNumber": 7,
+      "questionName": "Complete sentence (vocabulary)",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Young people are usually good at _____ for cheap transportation and accommodation.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325111,
+          "label": "A",
+          "text": "<p>applying</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325112,
+          "label": "B",
+          "text": "<p>booking</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325113,
+          "label": "C",
+          "text": "<p>hunting</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325114,
+          "label": "D",
+          "text": "<p>buying</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325113,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Động từ n&agrave;o mi&ecirc;u tả việc t&igrave;m kiếm một thứ g&igrave; đ&oacute; (như v&eacute; rẻ, ph&ograve;ng rẻ) một c&aacute;ch t&iacute;ch cực v&agrave; tốn c&ocirc;ng sức v&igrave; ch&uacute;ng kh&ocirc;ng dễ t&igrave;m?</p>",
+      "explanation": "<p><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span>&nbsp;</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">apply for</span></strong><span class=\"word-pos-sharp\">(v. + <span style=\"background-color: rgba(249, 249, 249, 0.78);\">prep.</span>)<br /></span></td>\n<td><span class=\"word-ipa-sharp\">/əˈplaɪ&nbsp;fɔːr/<br /></span></td>\n<td><span style=\"color: #7e8c8d;\"><em>nộp đơn, ứng tuyển</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">book for</span></strong><span class=\"word-pos-sharp\">(v.&nbsp;</span><span style=\"color: #57aa19;\">+&nbsp;</span><span style=\"color: #57aa19; background-color: rgba(249, 249, 249, 0.78);\">prep.</span><span style=\"color: #57aa19;\">)</span></td>\n<td><span class=\"word-ipa-sharp\">/bʊk&nbsp;fɔːr/<br /></span></td>\n<td><span style=\"color: #7e8c8d;\"><em>đặt trước cho ai</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">hunt for</span></strong><span class=\"word-pos-sharp\">(v. + prep.)</span></td>\n<td><span class=\"word-ipa-sharp\">/hʌnt fɔːr/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>săn l&ugrave;ng, t&igrave;m kiếm (thứ kh&oacute; t&igrave;m)</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">buy for</span></strong><span class=\"word-pos-sharp\">(v. + <span style=\"background-color: rgba(249, 249, 249, 0.78);\">prep.</span>)<br /></span></td>\n<td><span class=\"word-ipa-sharp\">/baɪ&nbsp;fɔːr/<br /></span></td>\n<td><span style=\"color: #7e8c8d;\"><em>mua cho ai</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">&nbsp;</span></p>",
+      "answerFeedbacks": {
+        "2325111": "Động từ này không phù hợp vì <em>\"apply for\"</em> thường dùng khi nộp đơn xin việc, xin học bổng hoặc giấy phép.",
+        "2325112": "<p>Động từ n&agrave;y kh&ocirc;ng ph&ugrave; hợp v&igrave; <em>\"book\"</em> l&agrave; h&agrave;nh động đặt chỗ sau khi đ&atilde; t&igrave;m thấy, kh&ocirc;ng phải qu&aacute; tr&igrave;nh t&igrave;m kiếm.</p>",
+        "2325113": "<p>Đ&aacute;p &aacute;n n&agrave;y đ&uacute;ng v&igrave; cụm động từ <em>\"hunt for\"</em> c&oacute; nghĩa l&agrave; t&igrave;m kiếm thứ g&igrave; đ&oacute; kh&oacute; t&igrave;m, ph&ugrave; hợp với ngữ cảnh.</p>",
+        "2325114": "<p>Động từ n&agrave;y kh&ocirc;ng ph&ugrave; hợp v&igrave; <em>\"buy\"</em> l&agrave; h&agrave;nh động mua b&aacute;n, l&agrave; bước cuối c&ugrave;ng sau khi đ&atilde; t&igrave;m kiếm v&agrave; lựa chọn.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201655,
+      "questionNumber": 8,
+      "questionName": "Complete sentence (grammar)",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We joined a tour group _____ members came from various countries around the world.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325135,
+          "label": "A",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "id": 2325136,
+          "label": "B",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 2325137,
+          "label": "C",
+          "text": "whose",
+          "isCorrect": true
+        },
+        {
+          "id": 2325138,
+          "label": "D",
+          "text": "who",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325137,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đại từ quan hệ ph&ugrave; hợp, h&atilde;y xem x&eacute;t mối quan hệ giữa danh từ đứng trước chỗ trống (<em>\"a tour group\"</em>) v&agrave; danh từ đứng ngay sau chỗ trống (<em>\"members\"</em>). Bạn cần một từ để diễn tả rằng <em>\"members\"</em> thuộc về <em>\"a tour group\"</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Đại từ quan hệ sở hữu</span>.</p>\n<ul style=\"margin: 0; padding-left: 20px;\">\n<li><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span>&nbsp;D&ugrave;ng để thay thế cho một t&iacute;nh từ sở hữu hoặc một sở hữu c&aacute;ch trong mệnh đề quan hệ, chỉ mối quan hệ sở hữu giữa danh từ đứng trước n&oacute; v&agrave; danh từ đứng sau n&oacute;.</li>\n<li style=\"margin-top: 10px;\"><span style=\"text-align: justify; font-weight: 600;\">Cấu tr&uacute;c:&nbsp;</span><span style=\"font-weight: 600; text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\">N(sở hữu) + whose + N(được sở hữu) + V</span></span></span></li>\n</ul>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, ch&uacute;ng ta cần một đại từ quan hệ để li&ecirc;n kết <em>\"</em><strong>a tour group</strong><em>\"</em> với <em>\"</em><strong>members</strong><em>\"</em>, để cho thấy <em>\"</em><strong>members</strong><em>\" (th&agrave;nh vi&ecirc;n)</em> thuộc về <em>\"</em><strong>a tour group</strong><em>\" </em>(<em>một đo&agrave;n du lịch</em>). Đại từ quan hệ \"<strong>whose\" </strong>được d&ugrave;ng để chỉ sự sở hữu cho cả người v&agrave; vật, ph&ugrave; hợp với ngữ cảnh n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "2325135": "<p><em>Which</em> l&agrave; đại từ quan hệ d&ugrave;ng để thay thế danh từ kh&ocirc;ng chỉ người, kh&ocirc;ng d&ugrave;ng để chỉ sự sở hữu.</p>",
+        "2325136": "<p><em>That</em> l&agrave; đại từ quan hệ d&ugrave;ng để thay thế cho danh từ chỉ người hoặc danh từ kh&ocirc;ng chỉ người, kh&ocirc;ng d&ugrave;ng để chỉ sự sở hữu.</p>",
+        "2325137": "<em>Whose</em> là đại từ quan hệ sở hữu, phù hợp để chỉ rằng <em>members</em> (thành viên) thuộc về <em>a tour group</em> (một đoàn du lịch).",
+        "2325138": "<p><em>Who</em> l&agrave; đại từ quan hệ thay thế cho danh từ chỉ người v&agrave; đ&oacute;ng vai tr&ograve; l&agrave;m chủ ngữ hoặc t&acirc;n ngữ, kh&ocirc;ng d&ugrave;ng để chỉ sự sở hữu.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201662,
+      "questionNumber": 9,
+      "questionName": "Complete sentence (vocabulary)",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Devon in England is a _____ stone circle. Its stone monuments are the largest in the world.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325158,
+          "label": "A",
+          "text": "<p>support</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325161,
+          "label": "B",
+          "text": "<p>minor</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325164,
+          "label": "C",
+          "text": "<p>majestic</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325167,
+          "label": "D",
+          "text": "<p>sustainable</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325164,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y đọc kỹ c&acirc;u thứ hai (<em>\"Its stone monuments are the largest in the world.\"</em>) để t&igrave;m manh mối về đặc điểm của v&ograve;ng tr&ograve;n đ&aacute; n&agrave;y. Từ cần điền phải m&ocirc; tả một thứ g&igrave; đ&oacute; c&oacute; quy m&ocirc; to lớn v&agrave; ấn tượng.</p>",
+      "explanation": "<p><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span>&nbsp;</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">support</span></strong><span class=\"word-pos-sharp\">(v.)</span></td>\n<td><span class=\"word-ipa-sharp\">/səˈpɔːt/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>ủng hộ, hỗ trợ</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">minor</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈmaɪnə(r)/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>nhỏ, thứ yếu, kh&ocirc;ng quan trọng</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">majestic</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/məˈdʒestɪk/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>h&ugrave;ng vĩ, tr&aacute;ng lệ, oai nghi&ecirc;m</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">sustainable</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/səˈsteɪnəbl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>bền vững, c&oacute; thể duy tr&igrave; l&acirc;u d&agrave;i</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">&nbsp;</span></p>",
+      "answerFeedbacks": {
+        "2325158": "Từ <em>\"support\"</em> là một động từ hoặc danh từ, không phải là một tính từ có thể đứng trước danh từ <em>\"stone circle\"</em>.",
+        "2325161": "Từ <em>\"minor\"</em> (nhỏ, không quan trọng) có nghĩa trái ngược với thông tin ở câu sau rằng các di tích đá này \"lớn nhất thế giới\".",
+        "2325164": "Từ <em>\"majestic\"</em> (hùng vĩ, tráng lệ) là tính từ phù hợp nhất để miêu tả một công trình kiến trúc được mô tả là \"lớn nhất thế giới\".",
+        "2325167": "Từ <em>\"sustainable\"</em> (bền vững) không phù hợp về mặt ngữ nghĩa để mô tả kích thước hay vẻ đẹp của một di tích cổ."
+      },
+      "images": []
+    },
+    {
+      "id": 1201669,
+      "questionNumber": 10,
+      "questionName": "Complete sentence (vocabulary)",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He _____ before inviting her to his party because he was afraid that she wouldn't like it.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325185,
+          "label": "A",
+          "text": "<p>hesitated</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325188,
+          "label": "B",
+          "text": "<p>admired</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325191,
+          "label": "C",
+          "text": "<p>accepted</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325194,
+          "label": "D",
+          "text": "<p>possessed</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325185,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy đọc kỹ vế sau của câu, đặc biệt là cụm từ \"<em>because he was afraid that she wouldn't like it</em>\", để hiểu trạng thái tâm lý của nhân vật trước khi hành động.</p>",
+      "explanation": "<p><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span> </p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #fff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n        color: #1c581f;\n        font-size: 15px;\n    }\n\n    .vocab-table-sharp th, \n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        display: inline-block;\n        margin: 0 0.4rem 4px 0;\n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n        display: block;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">hesitate</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/'heziteit/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>do dự, ngập ngừng</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">admire</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/ədˈmaɪər/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>ngưỡng mộ, khâm phục</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">accept</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/ək'sept/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>chấp nhận, đồng ý</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">possess</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/pəˈzes/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sở hữu, chiếm hữu</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span><span style=\"text-align: justify;\"> </span><span style=\"text-align: justify;\">Câu hỏi mô tả hành động của một người trước khi mời ai đó đến bữa tiệc, và lý do là <strong>\"because he was afraid that she wouldn't like it\"</strong> (vì anh ấy sợ rằng cô ấy sẽ không thích). Ngữ cảnh này chỉ ra rằng người đó cảm thấy không chắc chắn hoặc ngần ngại. Do đó, từ cần điền phải diễn tả sự do dự, ngập ngừng. Trong các lựa chọn, từ <strong>\"hesitate\"</strong> (do dự) là phù hợp nhất, trong khi các từ khác đều không hợp lý về mặt ngữ nghĩa.</span></p>",
+      "answerFeedbacks": {
+        "2325185": "Đúng vì từ này có nghĩa là do dự, ngập ngừng, hoàn toàn phù hợp với ngữ cảnh \"<em>because he was afraid that she wouldn't like it</em>\" (vì anh ấy sợ rằng cô ấy sẽ không thích).",
+        "2325188": "Sai vì \"admired\" có nghĩa là ngưỡng mộ, không liên quan đến việc do dự hay sợ hãi khi mời ai đó đến bữa tiệc.",
+        "2325191": "Sai vì \"accepted\" có nghĩa là chấp nhận, không hợp lý trong ngữ cảnh này khi chủ ngữ là người mời chứ không phải người được mời.",
+        "2325194": "Sai vì \"possessed\" có nghĩa là sở hữu, hoàn toàn không phù hợp với hành động mời hay do dự."
+      },
+      "images": []
+    },
+    {
+      "id": 1201676,
+      "questionNumber": 11,
+      "questionName": "Complete sentence (vocabulary)",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ tourism is about exploring local cuisines and trying delicious dishes.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325215,
+          "label": "A",
+          "text": "<p>Medical</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325216,
+          "label": "B",
+          "text": "<p>Food</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325217,
+          "label": "C",
+          "text": "<p>Shopping</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325218,
+          "label": "D",
+          "text": "<p>Sports</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325216,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến c&aacute;c từ kh&oacute;a trong c&acirc;u như <em>'cuisines'</em> (ẩm thực) v&agrave; <em>'dishes'</em> (m&oacute;n ăn) để x&aacute;c định loại h&igrave;nh du lịch được đề cập.</p>",
+      "explanation": "<p><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span>&nbsp;</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\" style=\"height: 90px;\">\n<thead>\n<tr style=\"height: 18px;\">\n<th style=\"height: 18px; width: 236.319px;\">Từ vựng</th>\n<th style=\"height: 18px; width: 236.319px;\">Phi&ecirc;n &acirc;m</th>\n<th style=\"height: 18px; width: 236.319px;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"height: 18px; width: 236.319px;\"><strong><span class=\"word-en-sharp\">medical tourism</span></strong><span style=\"color: #5fbd18;\">(phr.)</span><strong><span class=\"word-en-sharp\"><br /></span></strong></td>\n<td style=\"height: 18px; width: 236.319px;\"><span class=\"word-ipa-sharp\">/ˈmedɪkl <span style=\"background-color: rgba(249, 249, 249, 0.424);\">ˈtʊərɪzəm</span>/<br /></span></td>\n<td style=\"height: 18px; width: 236.319px;\"><span style=\"color: #7e8c8d;\"><em style=\"background-color: rgba(249, 249, 249, 0.03);\">du lịch</em><em>&nbsp;y tế</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td style=\"height: 18px; width: 236.319px;\"><strong><span class=\"word-en-sharp\">food tourism</span></strong><span class=\"word-pos-sharp\">(phr.)</span></td>\n<td style=\"height: 18px; width: 236.319px;\"><span class=\"word-ipa-sharp\">/fuːd ˈtʊərɪzəm/</span></td>\n<td style=\"height: 18px; width: 236.319px;\"><span style=\"color: #7e8c8d;\"><em>du lịch ẩm thực</em></span></td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"height: 18px; width: 236.319px;\"><strong><span class=\"word-en-sharp\">shopping tourism</span></strong><span style=\"color: #5fbd18;\">(phr.)</span><strong><span class=\"word-en-sharp\"><br /></span></strong></td>\n<td style=\"height: 18px; width: 236.319px;\"><span class=\"word-ipa-sharp\">/ˈʃɒpɪŋ <span style=\"background-color: rgba(249, 249, 249, 0.424);\">ˈtʊərɪzəm</span>/<br /></span></td>\n<td style=\"height: 18px; width: 236.319px;\"><span style=\"color: #7e8c8d;\"><em style=\"background-color: rgba(249, 249, 249, 0.03);\">du lịch </em><em>mua sắm</em></span></td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"height: 18px; width: 236.319px;\"><strong><span class=\"word-en-sharp\">sports tourism</span></strong><span style=\"color: #5fbd18;\">(phr.)</span><strong><span class=\"word-en-sharp\"><br /></span></strong></td>\n<td style=\"height: 18px; width: 236.319px;\"><span class=\"word-ipa-sharp\">/spɔːts <span style=\"background-color: rgba(249, 249, 249, 0.424);\">ˈtʊərɪzəm</span>/<br /></span></td>\n<td style=\"height: 18px; width: 236.319px;\"><span style=\"color: #7e8c8d;\"><em style=\"background-color: rgba(249, 249, 249, 0.03);\">du lịch </em><em>thể thao</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">&nbsp;</span></p>",
+      "answerFeedbacks": {
+        "2325215": "Phương án này không phù hợp vì <em>\"Medical tourism\"</em> (du lịch y tế) là việc đi lại để được chăm sóc sức khỏe, không liên quan đến ẩm thực.",
+        "2325216": "Phương án này đúng vì cụm từ <em>\"Food tourism\"</em> (du lịch ẩm thực) có nghĩa là khám phá ẩm thực địa phương, phù hợp với vế sau của câu.",
+        "2325217": "Phương án này không phù hợp vì <em>\"Shopping tourism\"</em> (du lịch mua sắm) là việc đi lại với mục đích chính là mua sắm hàng hóa.",
+        "2325218": "Phương án này không phù hợp vì <em>\"Sports tourism\"</em> (du lịch thể thao) liên quan đến việc tham dự hoặc tham gia các sự kiện thể thao."
+      },
+      "images": []
+    },
+    {
+      "id": 1201683,
+      "questionNumber": 12,
+      "questionName": "Complete sentence (grammar)",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He looked so funny, so we couldn't help _____ at him.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325251,
+          "label": "A",
+          "text": "to laugh",
+          "isCorrect": false
+        },
+        {
+          "id": 2325252,
+          "label": "B",
+          "text": "laughing",
+          "isCorrect": true
+        },
+        {
+          "id": 2325253,
+          "label": "C",
+          "text": "laughed",
+          "isCorrect": false
+        },
+        {
+          "id": 2325254,
+          "label": "D",
+          "text": "laugh",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325252,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy nhớ lại cấu trúc ngữ pháp với cụm từ <em>'can't help'</em> hoặc <em>'couldn't help'</em>. Cụm từ này thường được theo sau bởi dạng động từ nào để diễn tả việc không thể kiềm chế hoặc không thể tránh khỏi một hành động?",
+      "explanation": "<p><span style=\"font-weight: 600; text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\">can't/couldn't help + V-ing (kh&ocirc;ng thể nhịn l&agrave;m g&igrave;, kh&ocirc;ng thể kh&ocirc;ng l&agrave;m g&igrave;)</span></span></span></p>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Cần điền một động từ theo sau cụm từ <strong>\"couldn't help\"</strong>. Theo quy tắc ngữ ph&aacute;p, cấu tr&uacute;c <strong>\"can't/couldn't help\"</strong> lu&ocirc;n được theo sau bởi một danh động từ (V-ing).</p>\n<p style=\"text-align: justify;\">V&igrave; vậy, phương &aacute;n <strong>\"laughing\"</strong> l&agrave; dạng đ&uacute;ng của động từ để ho&agrave;n th&agrave;nh c&acirc;u, diễn tả &yacute; nghĩa <em>\"ch&uacute;ng t&ocirc;i kh&ocirc;ng thể nhịn cười\"</em>.</p>",
+      "answerFeedbacks": {
+        "2325251": "Cấu trúc <em>\"can't help\"</em> phải được theo sau bởi một danh động từ (V-ing), không phải động từ nguyên thể có <em>\"to\"</em>.",
+        "2325252": "Đây là dạng danh động từ (V-ing) chính xác cần dùng sau cấu trúc <em>\"couldn't help\"</em> để diễn tả việc không thể ngừng làm gì.",
+        "2325253": "<em>\"Laughed\"</em> là dạng quá khứ đơn hoặc quá khứ phân từ của động từ <em>\"laugh\"</em>, không phù hợp với cấu trúc <em>\"couldn't help\"</em>.",
+        "2325254": "<em>\"Laugh\"</em> là động từ nguyên thể không <em>\"to\"</em>, không đúng ngữ pháp khi đứng sau <em>\"couldn't help\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 1205374,
+      "questionNumber": 13,
+      "questionName": "13-16",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the best answer for each blank.</strong></p>\n<p style=\"text-align: center;\"><strong>Discover the Beauty of the Great Barrier Reef</strong></p>\n<p style=\"text-align: justify;\">Welcome to the Great Barrier Reef, one of the most spectacular natural wonders on Earth! Located off the coast of Australia, this breathtaking destination is home to thousands of marine species and vibrant coral formations. As <span class='fillblank-option'><label>13.1</label><select class='ms fillblank-option-13' index='0' name='fbo-1205374-0' data-testid='fillblank-select-1205374-0'><option value='' data-testid='fillblank-option-empty-1205374-0'></option><option value=\"the\" data-testid='fillblank-option-1205374-0-the'>the</option><option value=\"Ø\" data-testid='fillblank-option-1205374-0-Ø'>Ø</option><option value=\"a\" data-testid='fillblank-option-1205374-0-a'>a</option><option value=\"an\" data-testid='fillblank-option-1205374-0-an'>an</option></select></span> UNESCO World Heritage Site, the reef attracts millions of travelers eager to explore its magical underwater world.</p>\n<p style=\"text-align: justify;\">The best time to visit is <span class='fillblank-option'><label>13.2</label><select class='ms fillblank-option-13' index='1' name='fbo-1205374-1' data-testid='fillblank-select-1205374-1'><option value='' data-testid='fillblank-option-empty-1205374-1'></option><option value=\"at\" data-testid='fillblank-option-1205374-1-at'>at</option><option value=\"in\" data-testid='fillblank-option-1205374-1-in'>in</option><option value=\"on\" data-testid='fillblank-option-1205374-1-on'>on</option><option value=\"of\" data-testid='fillblank-option-1205374-1-of'>of</option></select></span> the summer months, when the weather is warm and the ocean is calm. During this time, visitors can enjoy exciting activities such as snorkeling and diving while admiring the reef's incredible biodiversity and crystal-clear waters.</p>\n<p style=\"text-align: justify;\">A trip to the Great Barrier Reef is truly an unforgettable experience for nature lovers. You can also <span class='fillblank-option'><label>13.3</label><select class='ms fillblank-option-13' index='2' name='fbo-1205374-2' data-testid='fillblank-select-1205374-2'><option value='' data-testid='fillblank-option-empty-1205374-2'></option><option value=\"go\" data-testid='fillblank-option-1205374-2-go'>go</option><option value=\"make\" data-testid='fillblank-option-1205374-2-make'>make</option><option value=\"do\" data-testid='fillblank-option-1205374-2-do'>do</option><option value=\"take\" data-testid='fillblank-option-1205374-2-take'>take</option></select></span> a boat tour to discover hidden coral gardens, colorful fish, and the extraordinary <span class='fillblank-option'><label>13.4</label><select class='ms fillblank-option-13' index='3' name='fbo-1205374-3' data-testid='fillblank-select-1205374-3'><option value='' data-testid='fillblank-option-empty-1205374-3'></option><option value=\"beautify\" data-testid='fillblank-option-1205374-3-beautify'>beautify</option><option value=\"beautiful\" data-testid='fillblank-option-1205374-3-beautiful'>beautiful</option><option value=\"beauty\" data-testid='fillblank-option-1205374-3-beauty'>beauty</option><option value=\"beautifully\" data-testid='fillblank-option-1205374-3-beautifully'>beautifully</option></select></span> that lies beneath the surface. Come and experience the wonder of the Great Barrier Reef - a destination you will never forget!</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "a"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "in"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "take"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "beauty"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.1</strong> Cụm danh từ \"<strong>UNESCO World Heritage Site</strong>\" l&agrave; cụm danh từ đếm được số &iacute;t được nhắc tới lần đầu v&agrave; c&oacute; c&aacute;ch ph&aacute;t &acirc;m (/juːˈnes.koʊ/) bắt đầu bằng phụ &acirc;m /juː/. Do đ&oacute;, ch&uacute;ng ta sử dụng mạo từ kh&ocirc;ng x&aacute;c định \"<strong>a</strong>\".</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.2</strong> \"<strong>The summer months</strong>\" l&agrave; một khoảng thời gian d&agrave;i, do đ&oacute; cần kết hợp với giới từ \"<strong>in</strong>\".\n<ul>\n<li><strong>in</strong> <strong>+ khoảng thời gian d&agrave;i (th&aacute;ng/ m&ugrave;a/ năm/ thế kỷ)</strong>: v&agrave;o...</li>\n<li>of (prep.): của&nbsp;</li>\n<li>at + giờ: v&agrave;o l&uacute;c &hellip;</li>\n<li>on + ng&agrave;y th&aacute;ng: v&agrave;o &hellip;</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.3</strong> Cần động từ kết hợp với \"<strong>a tour</strong>\" để tạo cụm từ cố định để diễn tả việc tham gia một chuyến tham quan. Ta c&oacute; cụm \"<strong>take a tour</strong>\".\n<ul>\n<li><strong>take a tour</strong> (phr.): tham gia một chuyến tham quan</li>\n<li>make (v.): l&agrave;m, chế tạo</li>\n<li>do (v.): l&agrave;m, thực hiện</li>\n<li>go (v.): đi</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.4</strong> Cần một danh từ l&agrave;m chủ ngữ của mệnh đề quan hệ. Danh từ n&agrave;y đứng sau v&agrave; được bổ nghĩa bởi t&iacute;nh từ \"<strong>extraordinary</strong>\".\n<ul>\n<li><strong>beauty </strong>(n.): vẻ đẹp</li>\n<li>beautiful (adj.): đẹp</li>\n<li>beautifully (adv.): một c&aacute;ch đẹp đẽ</li>\n<li>beautify (v.): l&agrave;m đẹp</li>\n</ul>\n</div>\n</div>\n</div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 1201824,
+      "questionNumber": 14,
+      "questionName": "đề bài sx",
+      "questionType": "Description",
+      "questionText": "<p><strong>Read and do the following tasks.</strong></p>\n<p><strong>We had planned a relaxing weekend in the countryside. However, things didn't go as smoothly as we had hoped. _____</strong></p>\n<p><strong>a. </strong>Unfortunately, on the way there, our car suddenly broke down in the middle of the road.</p>\n<p><strong>b. </strong>We were so excited to leave the city and enjoy some peace.</p>\n<p><strong>c. </strong>After waiting for an hour, a kind driver stopped to help us.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 1201734,
+      "questionNumber": 15,
+      "questionName": "Sentence ordering",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Put the sentences (a-c) in the correct order, then fill in the blank to make a logical text.</strong></p>",
+      "passageText": "<p><strong>Read and do the following tasks.</strong></p>\n<p><strong>We had planned a relaxing weekend in the countryside. However, things didn't go as smoothly as we had hoped. _____</strong></p>\n<p><strong>a. </strong>Unfortunately, on the way there, our car suddenly broke down in the middle of the road.</p>\n<p><strong>b. </strong>We were so excited to leave the city and enjoy some peace.</p>\n<p><strong>c. </strong>After waiting for an hour, a kind driver stopped to help us.</p>",
+      "parentQuestionId": 1201824,
+      "choices": [
+        {
+          "id": 2325423,
+          "label": "A",
+          "text": "<p>c-b-a</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325424,
+          "label": "B",
+          "text": "<p>b-c-a</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325425,
+          "label": "C",
+          "text": "<p>b-a-c</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325426,
+          "label": "D",
+          "text": "<p>a-c-b</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325425,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để sắp xếp c&aacute;c c&acirc;u, h&atilde;y t&igrave;m c&acirc;u mở đầu giới thiệu chủ đề. Sau đ&oacute;, t&igrave;m c&aacute;c mối li&ecirc;n hệ logic giữa c&aacute;c c&acirc;u như:</p>\n<ul>\n<li>Sự kiện theo tr&igrave;nh tự thời gian.</li>\n<li>Nguy&ecirc;n nh&acirc;n &ndash; kết quả.</li>\n<li>C&aacute;c đại từ <em>(v&iacute; dụ: she, it)</em> hoặc cụm từ <em>(v&iacute; dụ: a new one)</em> tham chiếu đến danh từ đ&atilde; được nhắc đến trước đ&oacute; <em>(v&iacute; dụ: old phone)</em>.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Để sắp xếp c&aacute;c c&acirc;u được cho để tạo th&agrave;nh một đoạn văn logic, ch&uacute;ng ta cần x&aacute;c định tr&igrave;nh tự c&aacute;c sự kiện v&agrave; mối quan hệ giữa ch&uacute;ng:</p>\n<ul>\n<li>Đoạn văn mở đầu giới thiệu về kế hoạch cuối tuần thư gi&atilde;n v&agrave; một sự cố đ&atilde; xảy ra.</li>\n<li>C&acirc;u <b>(b)</b> m&ocirc; tả cảm x&uacute;c (excited) v&agrave; mong đợi ban đầu, rất ph&ugrave; hợp để tiếp nối &yacute; \"<strong>We had planned a relaxing weekend...</strong>\".</li>\n<li>C&acirc;u <b>(a)</b> giới thiệu trực tiếp sự cố, l&agrave;m r&otilde; &yacute; \"<strong>things didn't go as smoothly</strong>\" v&agrave; đối lập với sự h&agrave;o hứng ở c&acirc;u <b>(b)</b>. Từ \"<strong>Unfortunately</strong>\" cũng l&agrave; một dấu hiệu mạnh mẽ cho thấy đ&acirc;y l&agrave; một sự kiện ti&ecirc;u cực.</li>\n<li>C&acirc;u <b>(c)</b> m&ocirc; tả kết quả hoặc giải ph&aacute;p cho vấn đề \"<strong>our car suddenly broke down</strong>\" được n&ecirc;u ở c&acirc;u <b>(a)</b>. Cụm từ \"<strong>After waiting for an hour</strong>\" l&agrave; một dấu hiệu thời gian r&otilde; r&agrave;ng cho thấy đ&acirc;y l&agrave; h&agrave;nh động tiếp theo sau sự cố.</li>\n</ul>\n<p><strong>&rarr; </strong>Thứ tự logic để tạo th&agrave;nh một đoạn văn ho&agrave;n chỉnh l&agrave;:<strong> b-a-c</strong></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><b>go smoothly</b> (phr.): diễn ra su&ocirc;n sẻ, thuận lợi</p>\n<p style=\"text-align: justify;\"><b>break down</b> (phr.v.): bị hỏng (thường d&ugrave;ng cho xe cộ, m&aacute;y m&oacute;c)</p>\n<p style=\"text-align: justify;\"><b>in the middle of</b> (phr.): ở giữa</p>",
+      "answerFeedbacks": {
+        "2325423": "Thứ tự này không hợp lý. Câu <b>(c)</b> mô tả một giải pháp hoặc kết quả, không thể đứng đầu đoạn văn khi vấn đề chưa được nêu.",
+        "2325424": "Thứ tự này không logic. Câu <b>(c)</b> (giải quyết vấn đề) không thể đứng trước câu <b>(a)</b> (vấn đề xảy ra).",
+        "2325425": "Thứ tự này tạo thành một đoạn văn mạch lạc và logic. Câu <b>(b)</b> giới thiệu cảm xúc ban đầu, <b>(a)</b> là sự cố xảy ra, và <b>(c)</b> là kết quả hoặc giải pháp cho sự cố đó.",
+        "2325426": "Thứ tự này không logic. Câu <b>(b)</b> (cảm xúc ban đầu) không thể đứng cuối cùng sau khi vấn đề <b>(a)</b> đã được nêu và giải quyết <b>(c)</b>."
+      },
+      "images": []
+    },
+    {
+      "id": 1201740,
+      "questionNumber": 16,
+      "questionName": "Complete text",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the sentence that can end the text most appropriately.</strong></p>",
+      "passageText": "<p><strong>Read and do the following tasks.</strong></p>\n<p><strong>We had planned a relaxing weekend in the countryside. However, things didn't go as smoothly as we had hoped. _____</strong></p>\n<p><strong>a. </strong>Unfortunately, on the way there, our car suddenly broke down in the middle of the road.</p>\n<p><strong>b. </strong>We were so excited to leave the city and enjoy some peace.</p>\n<p><strong>c. </strong>After waiting for an hour, a kind driver stopped to help us.</p>",
+      "parentQuestionId": 1201824,
+      "choices": [
+        {
+          "id": 2325451,
+          "label": "A",
+          "text": "<p>Finally, we managed to reach our destination, but it was already dark.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325452,
+          "label": "B",
+          "text": "<p>We quickly found a mechanic, and the car was fixed in no time.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325453,
+          "label": "C",
+          "text": "<p>The car broke down, so we had to return home without enjoying the weekend.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325454,
+          "label": "D",
+          "text": "<p>The countryside was beautiful, and we had a great time exploring it.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325451,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy chú ý cụm từ <em>\"didn't go as smoothly as we had hoped\"</em>. Câu trả lời đúng cần phản ánh một tình huống không thuận lợi nhưng có thể vẫn có một kết quả nhất định, không nhất thiết là thất bại hoàn toàn. Các từ như <em>\"However\"</em> và <em>\"finally\"</em> là những dấu hiệu quan trọng để xác định mạch logic của đoạn văn.",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng đọc hiểu về việc x&aacute;c định mối quan hệ logic giữa c&aacute;c c&acirc;u trong văn bản v&agrave; c&aacute;ch ch&uacute;ng tiếp nối một c&acirc;u chuyện. Để trả lời, học sinh cần đọc kỹ c&acirc;u trước chỗ trống để hiểu ngữ cảnh v&agrave; t&igrave;m c&acirc;u kết nối hợp l&yacute; nhất.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>C&acirc;u trước chỗ trống l&agrave; <strong>[[We had planned a relaxing weekend in the countryside. However, things didn't go as smoothly as we had hoped.]]</strong> (<em>Ch&uacute;ng t&ocirc;i đ&atilde; l&ecirc;n kế hoạch cho một cuối tuần thư gi&atilde;n ở v&ugrave;ng n&ocirc;ng th&ocirc;n. Tuy nhi&ecirc;n, mọi thứ đ&atilde; kh&ocirc;ng diễn ra su&ocirc;n sẻ như ch&uacute;ng t&ocirc;i mong đợi.</em>). C&acirc;u n&agrave;y thiết lập một kỳ vọng về một vấn đề hoặc một sự kiện kh&ocirc;ng như &yacute; muốn. Chỗ trống cần một c&acirc;u để kết th&uacute;c đoạn văn, t&oacute;m tắt hoặc giải th&iacute;ch th&ecirc;m về việc &ldquo;mọi thứ đ&atilde; kh&ocirc;ng su&ocirc;n sẻ&rdquo;.&nbsp;</p>\n<p style=\"text-align: justify;\">X&eacute;t c&aacute;c lựa chọn:</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #49c015;\">✔</span></strong><span style=\"color: #49c015;\"> </span><strong>Phương &aacute;n 1 \"Finally, we managed to reach our destination, but it was already dark.\" </strong>đ&uacute;ng v&igrave; từ &ldquo;<strong>Finally</strong>&rdquo; (<em>Cuối c&ugrave;ng</em>) v&agrave; cụm từ \"<strong>managed to</strong>\" (xoay xở được) gợi &yacute; rằng đ&atilde; c&oacute; một sự cố hoặc kh&oacute; khăn trước đ&oacute;, ph&ugrave; hợp với &ldquo;<strong>things didn't go as smoothly</strong>&rdquo; (<em>mọi thứ đ&atilde; kh&ocirc;ng diễn ra su&ocirc;n sẻ</em>).&nbsp;</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Phương &aacute;n 2 \"We quickly found a mechanic, and the car was fixed in no time&rdquo; sai v&igrave; c&aacute;c từ &ldquo;quickly&rdquo; (<em>nhanh ch&oacute;ng</em>) v&agrave; &ldquo;in no time&rdquo; (<em>ngay lập tức</em>) m&acirc;u thuẫn với &yacute; &ldquo;didn't go as smoothly as we had hoped&rdquo; (<em>đ&atilde; kh&ocirc;ng diễn ra su&ocirc;n sẻ như ch&uacute;ng t&ocirc;i mong đợi</em>). Nếu sự cố được giải quyết nhanh ch&oacute;ng, n&oacute; kh&ocirc;ng thực sự g&acirc;y ra nhiều trở ngại.</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Phương &aacute;n 3 \"The car broke down, so we had to return home without enjoying the weekend.\" sai v&igrave; mặc d&ugrave; &ldquo;The car broke down&rdquo; (<em>Xe bị hỏng</em>) giải th&iacute;ch cho việc kh&ocirc;ng su&ocirc;n sẻ, nhưng việc &ldquo;return home without enjoying the weekend&rdquo; (<em>trở về nh&agrave; m&agrave; kh&ocirc;ng tận hưởng cuối tuần</em>) l&agrave; một kết cục qu&aacute; ti&ecirc;u cực so với cụm &ldquo;didn't go as smoothly&rdquo;. Phương &aacute;n n&agrave;y m&ocirc; tả một thất bại ho&agrave;n to&agrave;n, trong khi &ldquo;kh&ocirc;ng su&ocirc;n sẻ&rdquo; c&oacute; thể chỉ l&agrave; những kh&oacute; khăn nhất định.</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Phương &aacute;n 4 \"The countryside was beautiful, and we had a great time exploring it.\" sai v&igrave; n&oacute; ho&agrave;n to&agrave;n m&acirc;u thuẫn với c&acirc;u trước đ&oacute; &ldquo;However, things didn't go as smoothly as we had hoped.&rdquo; (<em>Tuy nhi&ecirc;n, mọi thứ đ&atilde; kh&ocirc;ng diễn ra su&ocirc;n sẻ như ch&uacute;ng t&ocirc;i mong đợi.</em>).</p>",
+      "answerFeedbacks": {
+        "2325451": "Phương án này cung cấp một kết thúc hợp lý cho đoạn văn, gợi ý một sự kiện không suôn sẻ (qua từ \"Finally\" và \"but it was already dark\") nhưng vẫn đạt được mục tiêu cuối cùng.",
+        "2325452": "Các từ \"quickly\" và \"in no time\" mâu thuẫn với ý \"didn't go as smoothly as we had hoped\" trong câu trước, vì nó cho thấy vấn đề được giải quyết dễ dàng.",
+        "2325453": "Mặc dù giải thích được sự không suôn sẻ, nhưng việc \"return home without enjoying the weekend\" là một kết cục quá tiêu cực, vượt ra ngoài ý nghĩa của \"didn't go as smoothly\" (không suôn sẻ) có thể ngụ ý.",
+        "2325454": "Phương án này hoàn toàn mâu thuẫn với câu trước đó \"However, things didn't go as smoothly as we had hoped.\""
+      },
+      "images": []
+    },
+    {
+      "id": 1205381,
+      "questionNumber": 17,
+      "questionName": "19-24",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the best answer for each blank.</strong></p>\n<p style=\"text-align: justify;\">The original Seven Wonders of the Ancient World is a list which has annoyed travelers for a long time. Six of the seven structures on the list haven't existed <span class='fillblank-option'><label>16.1</label><select class='ms fillblank-option-16' index='0' name='fbo-1205381-0' data-testid='fillblank-select-1205381-0'><option value='' data-testid='fillblank-option-empty-1205381-0'></option><option value=\"in\" data-testid='fillblank-option-1205381-0-in'>in</option><option value=\"since\" data-testid='fillblank-option-1205381-0-since'>since</option><option value=\"during\" data-testid='fillblank-option-1205381-0-during'>during</option><option value=\"for\" data-testid='fillblank-option-1205381-0-for'>for</option></select></span> centuries, so they can only be imagined and not seen. Some historians even doubt <span class='fillblank-option'><label>16.2</label><select class='ms fillblank-option-16' index='1' name='fbo-1205381-1' data-testid='fillblank-select-1205381-1'><option value='' data-testid='fillblank-option-empty-1205381-1'></option><option value=\"when\" data-testid='fillblank-option-1205381-1-when'>when</option><option value=\"if\" data-testid='fillblank-option-1205381-1-if'>if</option><option value=\"where\" data-testid='fillblank-option-1205381-1-where'>where</option><option value=\"unless\" data-testid='fillblank-option-1205381-1-unless'>unless</option></select></span> one of the wonders, the Hanging Gardens of Babylon, ever existed.</p>\n<p style=\"text-align: justify;\">Herodotus created the original list in the 5th century B.C., <span class='fillblank-option'><label>16.3</label><select class='ms fillblank-option-16' index='2' name='fbo-1205381-2' data-testid='fillblank-select-1205381-2'><option value='' data-testid='fillblank-option-empty-1205381-2'></option><option value=\"and\" data-testid='fillblank-option-1205381-2-and'>and</option><option value=\"for\" data-testid='fillblank-option-1205381-2-for'>for</option><option value=\"so\" data-testid='fillblank-option-1205381-2-so'>so</option><option value=\"but\" data-testid='fillblank-option-1205381-2-but'>but</option></select></span> it is not surprising that those architectural marvels are no longer around. However, they have listed a new list of wonders, which is more modern and consists of structures <span class='fillblank-option'><label>16.4</label><select class='ms fillblank-option-16' index='3' name='fbo-1205381-3' data-testid='fillblank-select-1205381-3'><option value='' data-testid='fillblank-option-empty-1205381-3'></option><option value=\"where\" data-testid='fillblank-option-1205381-3-where'>where</option><option value=\"which\" data-testid='fillblank-option-1205381-3-which'>which</option><option value=\"who\" data-testid='fillblank-option-1205381-3-who'>who</option><option value=\"whose\" data-testid='fillblank-option-1205381-3-whose'>whose</option></select></span> visitors can see.</p>\n<p style=\"text-align: justify;\">The New Seven Wonders of the World were chosen through a popular vote over a period of six years. A nonprofit group <span class='fillblank-option'><label>16.5</label><select class='ms fillblank-option-16' index='4' name='fbo-1205381-4' data-testid='fillblank-select-1205381-4'><option value='' data-testid='fillblank-option-empty-1205381-4'></option><option value=\"started\" data-testid='fillblank-option-1205381-4-started'>started</option><option value=\"created\" data-testid='fillblank-option-1205381-4-created'>created</option><option value=\"set\" data-testid='fillblank-option-1205381-4-set'>set</option><option value=\"organized\" data-testid='fillblank-option-1205381-4-organized'>organized</option></select></span> this vote and it was led by a Swiss adventurer whose name was Bernard Weber. In 1999, Weber started gathering suggestions from people around the world through the Internet. The list went through several rounds of <span class='fillblank-option'><label>16.6</label><select class='ms fillblank-option-16' index='5' name='fbo-1205381-5' data-testid='fillblank-select-1205381-5'><option value='' data-testid='fillblank-option-empty-1205381-5'></option><option value=\"shortening\" data-testid='fillblank-option-1205381-5-shortening'>shortening</option><option value=\"scaling up\" data-testid='fillblank-option-1205381-5-scaling up'>scaling up</option><option value=\"narrowing down\" data-testid='fillblank-option-1205381-5-narrowing down'>narrowing down</option><option value=\"decreasing\" data-testid='fillblank-option-1205381-5-decreasing'>decreasing</option></select></span>, from over 200 nominations to 70, then to 21, and finally to 7. The group received over 100 million votes through the Internet and cell phone messages, making it the largest poll ever conducted if their claims are true.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "for"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "if"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "so"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "which"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "organized"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "narrowing down"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.1</strong> Giới từ \"<strong>for</strong>\" được d&ugrave;ng để chỉ một khoảng thời gian k&eacute;o d&agrave;i, ph&ugrave; hợp với cụm từ chỉ khoảng thời gian \"<strong>centuries</strong>\" (nhiều thế kỷ) trong cấu tr&uacute;c th&igrave; hiện tại ho&agrave;n th&agrave;nh \"<strong>haven't existed</strong>\".\n<ul>\n<li><strong>for </strong>(prep.): trong khoảng thời gian</li>\n<li>since (prep.): từ khi&nbsp;</li>\n<li>during (prep.): trong suốt (thường đi với một khoảng thời gian cụ thể, c&oacute; giới hạn)</li>\n<li>in (prep.): trong (thường đi với năm, th&aacute;ng, m&ugrave;a, hoặc khoảng thời gian trong tương lai)</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.2</strong> Cụm \"<strong>doubt if/whether</strong>\" được d&ugrave;ng để diễn tả sự nghi ngờ về một khả năng hoặc một điều g&igrave; đ&oacute; c&oacute; đ&uacute;ng hay kh&ocirc;ng. Trong ngữ cảnh n&agrave;y, người ta nghi ngờ liệu Vườn treo Babylon c&oacute; thực sự tồn tại hay kh&ocirc;ng.\n<ul>\n<li><strong>if </strong>(conj.): liệu rằng, nếu</li>\n<li>when (adv.): khi n&agrave;o</li>\n<li>where (adv.): ở đ&acirc;u</li>\n<li>unless (conj.): trừ khi</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.3</strong> Li&ecirc;n từ \"<strong>so</strong>\" được d&ugrave;ng để chỉ kết quả hoặc hệ quả của một h&agrave;nh động hay sự kiện. Việc Herodotus tạo ra danh s&aacute;ch v&agrave;o thế kỷ thứ 5 TCN l&agrave; nguy&ecirc;n nh&acirc;n dẫn đến việc kh&ocirc;ng ngạc nhi&ecirc;n khi những kỳ quan đ&oacute; kh&ocirc;ng c&ograve;n tồn tại.\n<ul>\n<li><strong>so </strong>(conj.): v&igrave; vậy, do đ&oacute;</li>\n<li>and (conj.): v&agrave;</li>\n<li>for (conj.): v&igrave; (thường d&ugrave;ng để giải th&iacute;ch l&yacute; do)</li>\n<li>but (conj.): nhưng</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.4</strong> Đại từ quan hệ \"<strong>which</strong>\" được sử dụng để bổ nghĩa cho danh từ kh&ocirc;ng chỉ người \"<strong>structures</strong>\" (c&aacute;c c&ocirc;ng tr&igrave;nh kiến tr&uacute;c).&nbsp;\n<ul>\n<li><strong>which + V</strong>: thay thế danh từ kh&ocirc;ng chỉ người (vật, địa điểm, quốc gia...), đ&oacute;ng vai tr&ograve; chủ ngữ trong mệnh đề quan hệ</li>\n<li>who + V: thay thế cho danh từ chỉ người, l&agrave;m chủ ngữ trong mệnh đề quan hệ</li>\n<li>where + clause: thay thế cho c&aacute;c từ/cụm từ chỉ địa điểm, nơi chốn, đ&oacute;ng vai tr&ograve; l&agrave; trạng từ/trạng ngữ trong c&acirc;u.</li>\n<li>whose + N: chỉ sự sở hữu cho danh từ, thay thế cho t&iacute;nh từ sở hữu hoặc sở hữu c&aacute;ch &lsquo;s.</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.5</strong> Động từ \"<strong>organized</strong>\" c&oacute; nghĩa l&agrave; tổ chức, sắp xếp một sự kiện hoặc hoạt động, rất ph&ugrave; hợp với ngữ cảnh một nh&oacute;m phi lợi nhuận \"tổ chức\" một cuộc bỏ phiếu.\n<ul>\n<li><strong>organize </strong>(v.): tổ chức, sắp xếp</li>\n<li>set (v.): thiết lập, đặt (thường đi với \"up\" để tạo th&agrave;nh \"set up\" - th&agrave;nh lập)</li>\n<li>create (v.): tạo ra, s&aacute;ng tạo</li>\n<li>start (v.): bắt đầu</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.6</strong> Cụm động từ \"<strong>narrow down</strong>\" c&oacute; nghĩa l&agrave; thu hẹp, loại bỏ dần c&aacute;c lựa chọn, rất ph&ugrave; hợp với ngữ cảnh danh s&aacute;ch được r&uacute;t gọn từ 200 xuống 70, rồi 21, v&agrave; cuối c&ugrave;ng l&agrave; 7.\n<ul>\n<li><strong>narrow down</strong> (phr.v.): thu hẹp, loại bỏ dần</li>\n<li>scale up (phr.v.): mở rộng, tăng quy m&ocirc;</li>\n<li>decrease (v.): giảm bớt</li>\n<li>shorten (v.): r&uacute;t ngắn</li>\n</ul>\n</div>\n</div>\n</div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 1201800,
+      "questionNumber": 18,
+      "questionName": "Closest in meaning",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Sarah wondered, &quot;Can we swim in the Dead Sea?&quot;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325651,
+          "label": "A",
+          "text": "<p>Sarah asked if they could swim in the Dead Sea.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325652,
+          "label": "B",
+          "text": "<p>Sarah thought swimming wasn't allowed in the Dead Sea.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325653,
+          "label": "C",
+          "text": "<p>Sarah asked if the Dead Sea was a good place for swimming.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325654,
+          "label": "D",
+          "text": "<p>Sarah wondered whether they can swim in the Dead Sea.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325651,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chuyển một c&acirc;u hỏi Yes/No từ lời n&oacute;i trực tiếp sang gi&aacute;n tiếp, bạn cần &aacute;p dụng cấu tr&uacute;c:&nbsp;<span style=\"font-weight: 600; text-align: justify;\">S + asked sb/wondered/wanted to know + if/whether + S + V(l&ugrave;i th&igrave;)</span><span style=\"text-align: justify;\"> (kh&ocirc;ng đảo to be/ trợ động từ/ động từ khuyết thiếu l&ecirc;n trước chủ ngữ).</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\">Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của dạng c&acirc;u hỏi Yes/No: <strong>S + asked sb/wondered/wanted to know + if/whether + S + V(l&ugrave;i th&igrave;)</strong> (kh&ocirc;ng đảo to be/ trợ động từ/ động từ khuyết thiếu l&ecirc;n trước chủ ngữ).</p>\n<p>Động từ tường thuật&nbsp;<span style=\"font-weight: 600;\">\"wondered\"</span>&nbsp;ở th&igrave; qu&aacute; khứ đơn, v&igrave; vậy động từ trong mệnh đề được tường thuật phải l&ugrave;i th&igrave;:&nbsp;<span style=\"font-weight: 600;\">can &rarr; could</span>.&nbsp;</p>\n<p>Đổi đại từ:&nbsp;<span style=\"font-weight: 600;\">we &rarr; they</span>.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:&nbsp;</span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 đ&uacute;ng v&igrave; đ&atilde; &aacute;p dụng ch&iacute;nh x&aacute;c c&aacute;c quy tắc tr&ecirc;n: <strong>\"Sarah asked if they could swim in the Dead Sea.\"</strong>. Động từ <em>\"asked\"</em> c&oacute; thể thay thế cho <em>\"wondered\"</em> trong ngữ cảnh n&agrave;y.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 sai v&igrave; đổi c&acirc;u hỏi th&agrave;nh một c&acirc;u khẳng định về suy nghĩ của Sarah, l&agrave;m thay đổi ho&agrave;n to&agrave;n &yacute; nghĩa.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 sai v&igrave; thay đổi &yacute; nghĩa của c&acirc;u hỏi gốc từ việc hỏi về khả năng/sự cho ph&eacute;p sang hỏi về sự ph&ugrave; hợp của địa điểm.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<strong>Sarah wondered whether they <span style=\"color: #ff0000;\">can </span>swim in the Dead Sea.</strong>\" sai v&igrave; kh&ocirc;ng l&ugrave;i th&igrave; của động từ khuyết thiếu \"can\" th&agrave;nh \"could\".</li>\n</ul>",
+      "answerFeedbacks": {
+        "2325651": "Câu này thuật lại chính xác câu hỏi của Sarah bằng cách sử dụng cấu trúc câu tường thuật cho câu hỏi Yes/No, lùi thì động từ <em>\"can\"</em> thành <em>\"could\"</em> và đổi đại từ <em>\"we\"</em> thành <em>\"they\"</em>.",
+        "2325652": "Câu này diễn đạt một suy nghĩ hoặc giả định của Sarah, không phải là một câu hỏi như trong câu gốc.",
+        "2325653": "Câu này thay đổi ý nghĩa của câu hỏi gốc, từ việc hỏi về khả năng/sự cho phép (<em>\"can we swim\"</em>) sang hỏi về sự phù hợp của địa điểm (<em>\"was it a good place\"</em>).",
+        "2325654": "Câu này sai ngữ pháp vì không lùi thì động từ <em>\"can\"</em> thành <em>\"could\"</em> khi động từ tường thuật <em>\"wondered\"</em> ở thì quá khứ."
+      },
+      "images": []
+    },
+    {
+      "id": 1201806,
+      "questionNumber": 19,
+      "questionName": "Closest in meaning",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>The restaurant served fresh seafood. We ordered dishes from there.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325679,
+          "label": "A",
+          "text": "<p>We enjoyed fresh seafood at a restaurant where we placed our order.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325680,
+          "label": "B",
+          "text": "<p>We ordered dishes from the restaurant where the fresh seafood was served.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325681,
+          "label": "C",
+          "text": "<p>Serving fresh seafood, the restaurant received many orders from us.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325682,
+          "label": "D",
+          "text": "<p>The fresh seafood we ordered from a restaurant was very delicious dishes.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325680,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn c&acirc;u c&oacute; &yacute; nghĩa gần nhất, h&atilde;y t&igrave;m c&aacute;ch kết hợp hai c&acirc;u gốc \"The restaurant served fresh seafood. We ordered dishes from there.\" m&agrave; kh&ocirc;ng l&agrave;m thay đổi th&ocirc;ng tin hay &yacute; nghĩa. Ch&uacute; &yacute; c&aacute;ch sử dụng <span style=\"font-weight: 600;\">mệnh đề quan hệ </span>v&agrave; <span style=\"font-weight: 600;\">thể bị động</span>&nbsp;để duy tr&igrave; sự ch&iacute;nh x&aacute;c về nghĩa v&agrave; ngữ ph&aacute;p.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan:&nbsp;</span></p>\n<p style=\"text-align: justify;\"><strong>where + clause:</strong> thay thế cho c&aacute;c từ/cụm từ chỉ địa điểm, nơi chốn, đ&oacute;ng vai tr&ograve; l&agrave; trạng từ/trạng ngữ trong c&acirc;u</p>\n<p style=\"text-align: justify;\">Cấu tr&uacute;c bị động ở th&igrave; qu&aacute; khứ đơn: <strong>S + was/were + V(pp) + (by O)</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">&rarr;</span>&nbsp;Phương &aacute;n 2 \"<strong>We ordered dishes from the restaurant <span style=\"color: #5fbd18;\">where</span> the fresh seafood <span style=\"color: #5fbd18;\">was served</span>.</strong>\" l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:&nbsp;</span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<strong>We <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">enjoyed</span></span> fresh seafood at a restaurant where we placed our order.</strong>\" sai v&igrave; thay đổi &yacute; nghĩa gốc, th&ecirc;m th&ocirc;ng tin \"enjoyed\" kh&ocirc;ng c&oacute; trong c&acirc;u ban đầu.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 \"<strong><span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">Serving fresh seafood</span></span>, the restaurant received many orders from us.</strong>\" sai v&igrave; mệnh đề ph&acirc;n từ \"Serving fresh seafood\" ngụ &yacute; mối quan hệ nh&acirc;n quả kh&ocirc;ng c&oacute; trong c&acirc;u gốc.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<strong>The fresh seafood we ordered from a restaurant <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">was very delicious dishes</span></span>.</strong>\" sai v&igrave; th&ecirc;m th&ocirc;ng tin \"very delicious\" kh&ocirc;ng c&oacute; trong c&acirc;u gốc v&agrave; c&oacute; lỗi ngữ ph&aacute;p (\"was... dishes\" thay v&igrave; \"were... dishes\" hoặc \"was... dish\").</li>\n</ul>",
+      "answerFeedbacks": {
+        "2325679": "Câu này thay đổi ý nghĩa gốc, nói rằng \"chúng tôi đã thưởng thức hải sản tươi\" trong khi câu gốc chỉ nói \"chúng tôi đã gọi món\".",
+        "2325680": "Câu này kết hợp chính xác hai câu gốc bằng mệnh đề quan hệ với \"where\", giữ nguyên ý nghĩa rằng chúng tôi đã gọi món từ nhà hàng nơi phục vụ hải sản tươi.",
+        "2325681": "Câu này ngụ ý mối quan hệ nhân quả (vì phục vụ hải sản tươi nên nhà hàng nhận được nhiều đơn hàng) không được đề cập trong câu gốc.",
+        "2325682": "Câu này thêm thông tin mới (\"very delicious\") không có trong câu gốc và có lỗi ngữ pháp (\"was... dishes\")."
+      },
+      "images": []
+    },
+    {
+      "id": 1201814,
+      "questionNumber": 20,
+      "questionName": "Sentence building from cues",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.&nbsp;</em></p>\n<p><strong>tour / include / a visit / a nature reserve / you can see / endanger / animals.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325703,
+          "label": "A",
+          "text": "<p>The tour includes a visit to a nature reserve where you can see endangered animals.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325704,
+          "label": "B",
+          "text": "<p>The tour includes a visit to a nature reserve you can see endangered animals.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325705,
+          "label": "C",
+          "text": "<p>The tour including a visit to a nature reserve which you can see endangered animals.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325706,
+          "label": "D",
+          "text": "<p>The tour includes a visit to a nature reserve when you can see endangered animals.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325703,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để tạo c&acirc;u đ&uacute;ng từ c&aacute;c từ cho sẵn, h&atilde;y ch&uacute; &yacute; đến c&aacute;c yếu tố sau:</p>\n<ul>\n<li>X&aacute;c định đ&uacute;ng chủ ngữ v&agrave; động từ ch&iacute;nh của c&acirc;u, đảm bảo h&ograve;a hợp chủ ngữ-động từ.</li>\n<li>Lựa chọn giới từ ph&ugrave; hợp sau \"a visit\" tạo cụm từ cố định mang nghĩa chuyến thăm một địa điểm cụ thể.</li>\n<li>Sử dụng trạng từ quan hệ ch&iacute;nh x&aacute;c để giới thiệu mệnh đề quan hệ bổ nghĩa cho danh từ chỉ nơi chốn.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan:&nbsp;</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">include</span> (v.): bao gồm</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">a visit to</span> (n. + prep.): một chuyến thăm tới</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">endangered</span> (adj.): bị đe dọa, c&oacute; nguy cơ tuyệt chủng. T&iacute;nh từ bổ nghĩa cho danh từ \"animals\".</p>\n<p style=\"text-align: justify;\"><strong>N(nơi chốn) + where + clause:</strong> thay thế cho c&aacute;c từ/cụm từ chỉ địa điểm, nơi chốn, đ&oacute;ng vai tr&ograve; l&agrave; trạng từ/trạng ngữ trong c&acirc;u.</p>\n<p style=\"text-align: justify;\">Th&igrave; hiện tại đơn được d&ugrave;ng để diễn tả sự thật hiển nhi&ecirc;n: <strong>S + V(s/es)...&nbsp;</strong>V&igrave; chủ ngữ \"<strong>tour</strong>\" l&agrave; danh từ số &iacute;t n&ecirc;n động từ \"include\" được chia ở dạng số &iacute;t (th&ecirc;m s).</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">&rarr;</span>&nbsp;Phương &aacute;n 1 \"<span style=\"font-weight: 600;\"><span style=\"color: #5fbd18;\">The tour includes a visit to a nature reserve where you can see endangered animals.</span></span>\" l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:&nbsp;</span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 \"<strong>The tour includes a visit to a nature reserve <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">you can see</span></span> endangered animals.</strong>\" sai v&igrave; thiếu đại từ quan hệ để nối mệnh đề phụ với mệnh đề ch&iacute;nh.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 \"<strong>The tour <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">including</span></span> a visit to a nature reserve <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">which</span></span> you can see endangered animals.</strong>\" sai v&igrave; động từ ch&iacute;nh của c&acirc;u phải l&agrave; \"includes\" chứ kh&ocirc;ng phải \"including\"; v&agrave; d&ugrave;ng \"which\" kh&ocirc;ng ph&ugrave; hợp về ngữ ph&aacute;p.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<strong>The tour includes a visit to a nature reserve <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">when</span></span> you can see endangered animals.</strong>\" sai v&igrave; d&ugrave;ng \"when\" kh&ocirc;ng ph&ugrave; hợp để chỉ nơi chốn.</li>\n</ul>",
+      "answerFeedbacks": {
+        "2325703": "Câu này sử dụng đúng cấu trúc ngữ pháp \"includes\" cho động từ chính, cụm danh từ \"a visit to a nature reserve\" và đại từ quan hệ \"where\" để chỉ nơi chốn.",
+        "2325704": "<p>C&acirc;u n&agrave;y sai v&igrave; thiếu đại từ quan hệ để nối mệnh đề phụ với mệnh đề ch&iacute;nh, khiến c&acirc;u kh&ocirc;ng c&oacute; ngữ ph&aacute;p ho&agrave;n chỉnh.</p>",
+        "2325705": "Câu này sai vì động từ chính của câu phải là \"includes\" chứ không phải \"including\"; đồng thời, dùng \"which\" không phù hợp để chỉ nơi chốn.",
+        "2325706": "Câu này sai vì dùng trạng từ quan hệ \"when\" không phù hợp để chỉ nơi chốn mà phải dùng \"where\"."
+      },
+      "images": []
+    },
+    {
+      "id": 1201819,
+      "questionNumber": 21,
+      "questionName": "Sentence building from cues",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.&nbsp;</em></p>\n<p><strong>Trang An Landscape Complex / receive / title UNESCO World Heritage Site / 2014.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325719,
+          "label": "A",
+          "text": "<p>Trang An Landscape Complex has received the title UNESCO World Heritage Site since 2014.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325720,
+          "label": "B",
+          "text": "<p>Trang An Landscape Complex receive the title UNESCO World Heritage Site in 2014.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325721,
+          "label": "C",
+          "text": "<p>Trang An Landscape Complex received the title UNESCO World Heritage Site in 2014.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325722,
+          "label": "D",
+          "text": "<p>Trang An Landscape Complex receives the title UNESCO World Heritage Site in 2014.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325721,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn được c&acirc;u đ&uacute;ng, h&atilde;y ch&uacute; &yacute; đến mốc thời gian cụ thể <em>\"2014\"</em> v&agrave; x&aacute;c định th&igrave; của động từ cũng như giới từ đi k&egrave;m ph&ugrave; hợp để diễn tả một sự kiện đ&atilde; xảy ra v&agrave; kết th&uacute;c trong qu&aacute; khứ.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan:&nbsp;</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">receive</span> (v.): nhận, đ&oacute;n nhận.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">in + năm</span> (phr.): v&agrave;o...</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Th&igrave; Qu&aacute; khứ đơn</span>&nbsp;d&ugrave;ng để diễn tả h&agrave;nh động, sự việc đ&atilde; xảy ra v&agrave; kết th&uacute;c tại một thời điểm x&aacute;c định trong qu&aacute; khứ. Cấu tr&uacute;c:&nbsp;<span style=\"font-weight: 600;\">S + V(pt)</span>.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">&rarr;</span>&nbsp;Phương &aacute;n 3 \"<strong>Trang An Landscape Complex <span style=\"color: #5fbd18;\">received</span> the title UNESCO World Heritage Site <span style=\"color: #5fbd18;\">in</span> 2014.</strong>\" l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:&nbsp;</span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<strong>Trang An Landscape Complex <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">has received</span></span> the title UNESCO World Heritage Site <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">since</span></span> 2014.</strong>\" sai v&igrave; động từ \"receive\" (nhận) trong ngữ cảnh n&agrave;y được coi l&agrave; một h&agrave;nh động đơn lẻ đ&atilde; ho&agrave;n tất tại một thời điểm x&aacute;c định, kh&ocirc;ng thể d&ugrave;ng th&igrave; hiện tại ho&agrave;n th&agrave;nh m&agrave; cần th&igrave; qu&aacute; khứ đơn.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 \"<strong>Trang An Landscape Complex <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">receive</span></span> the title UNESCO World Heritage Site in 2014.</strong>\" sai v&igrave; động từ \"<em>receive</em>\" ở dạng nguy&ecirc;n mẫu kh&ocirc;ng ph&ugrave; hợp với chủ ngữ số &iacute;t \"Trang An Landscape Complex\" v&agrave; mốc thời gian \"in 2014\" ở qu&aacute; khứ.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<strong>Trang An Landscape Complex <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">receives</span></span> the title UNESCO World Heritage Site in 2014.</strong>\" sai v&igrave; động từ \"<em>receives</em>\" ở th&igrave; Hiện tại đơn kh&ocirc;ng ph&ugrave; hợp với mốc thời gian cụ thể \"in 2014\" trong qu&aacute; khứ.</li>\n</ul>",
+      "answerFeedbacks": {
+        "2325719": "Sai vì <em>has received</em> và <em>since 2014</em> diễn tả một hành động kéo dài từ quá khứ đến hiện tại hoặc còn liên quan đến hiện tại, không phù hợp với một sự kiện đã hoàn tất tại một thời điểm cụ thể trong quá khứ là năm 2014.",
+        "2325720": "Sai vì động từ <em>receive</em> ở dạng nguyên mẫu không chia thì không phù hợp với chủ ngữ số ít <em>Trang An Landscape Complex</em> và mốc thời gian <em>in 2014</em>.",
+        "2325721": "Đúng vì động từ <em>received</em> ở thì Quá khứ đơn và giới từ <em>in</em> phù hợp để diễn tả một sự kiện đã xảy ra và kết thúc vào một thời điểm cụ thể trong quá khứ là năm 2014.",
+        "2325722": "Sai vì động từ <em>receives</em> ở thì Hiện tại đơn diễn tả một thói quen hoặc sự thật hiển nhiên, không phù hợp với mốc thời gian cụ thể <em>in 2014</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 1201829,
+      "questionNumber": 22,
+      "questionName": "Notice comprehension",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What does the notice say?</strong></p>\n<style>\n  .container-option-1 {\n    display: flex;\n    justify-content: flex-start; \n    background-color: transparent; \n  }\n\n  .gym-card-clean {\n    background-color: #e5f6e3;\n    border: 2px solid #ceedca;\n    border-radius: 1rem;\n    width: 100%;\n    max-width: 25rem;\n    overflow: hidden;\n    box-shadow: 0 4px 15px rgba(28, 88, 31, 0.08);\n    transition: all 0.3s ease;\n  }\n\n  .gym-card-clean:hover {\n    transform: translateY(-4px);\n    box-shadow: 0 12px 24px rgba(28, 88, 31, 0.15);\n    border-color: #5fbd18;\n  }\n\n\n  .card-body-simple {\n    padding: 1.5rem 1rem; \n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    text-align: center;\n  }\n\n  .text-content {\n    color: #1c581f;\n    margin: 0;\n    font-weight: 500;\n  }\n</style>\n<div class=\"container-option-1\">\n<div class=\"gym-card-clean\">\n<div class=\"card-body-simple\">\n<p class=\"text-content\">If you take this journey regularly, you can save money with our Super Weekly Saver Ticket.</p>\n</div>\n</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325744,
+          "label": "A",
+          "text": "<p>Regular travellers on this journey can save money with a Super Weekly Saver Ticket.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325746,
+          "label": "B",
+          "text": "<p>The notice advises you to take this journey less often to save money.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325748,
+          "label": "C",
+          "text": "<p>The Super Weekly Saver ticket can help all travellers save money.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325750,
+          "label": "D",
+          "text": "<p>Cheaper tickets are available for people who travel long.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325744,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Chú ý kỹ điều kiện được nêu trong thông báo: <em>\"If you take this journey regularly\"</em>. Ai là người có thể tiết kiệm tiền theo điều kiện này?",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Nội dung th&ocirc;ng b&aacute;o: </span></p>\n<p style=\"text-align: justify;\"><em>Nếu bạn đi chuyến n&agrave;y thường xuy&ecirc;n, bạn c&oacute; thể tiết kiệm tiền với V&eacute; Si&ecirc;u Tiết Kiệm H&agrave;ng Tuần của ch&uacute;ng t&ocirc;i.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Ph&aacute;t biểu đ&uacute;ng l&agrave; phương &aacute;n 1 v&igrave; n&oacute; diễn đạt lại ch&iacute;nh x&aacute;c điều kiện v&agrave; lợi &iacute;ch được n&ecirc;u trong th&ocirc;ng b&aacute;o rằng chỉ những người đi lại thường xuy&ecirc;n mới c&oacute; thể tiết kiệm tiền với loại v&eacute; n&agrave;y.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><b>regularly</b> (adv.): thường xuy&ecirc;n</p>\n<p style=\"text-align: justify;\"><b>save money</b> (phr.): tiết kiệm tiền</p>\n<p><b>travellers</b> (n.): h&agrave;nh kh&aacute;ch, người đi lại</p>\n<p style=\"text-align: justify;\"><b>less often</b> (phr.): &iacute;t thường xuy&ecirc;n hơn</p>",
+      "answerFeedbacks": {
+        "2325744": "<p>Đ&acirc;y l&agrave; phương &aacute;n đ&uacute;ng. Th&ocirc;ng b&aacute;o n&oacute;i rằng <em>\"If you take this journey regularly, you can save money...\"</em>, điều n&agrave;y tương đương với việc những h&agrave;nh kh&aacute;ch đi lại thường xuy&ecirc;n c&oacute; thể tiết kiệm tiền.</p>",
+        "2325746": "Thông báo khuyến khích đi lại <em>\"regularly\"</em> (thường xuyên) để tiết kiệm tiền, không phải <em>\"less often\"</em> (ít thường xuyên hơn).",
+        "2325748": "Thông báo chỉ đề cập đến những người đi lại <em>\"regularly\"</em> (thường xuyên), không phải <em>\"all travellers\"</em> (tất cả hành khách).",
+        "2325750": "Thông báo nói về việc đi lại <em>\"regularly\"</em> (thường xuyên), không phải về việc đi <em>\"long\"</em> (xa)."
+      },
+      "images": []
+    },
+    {
+      "id": 1201833,
+      "questionNumber": 23,
+      "questionName": "Sign meaning",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What does the sign mean?</strong></p>\n<p><img src=\"/images/exams/img_1_1201833_0_6fde52c8.png\" width=\"200\"></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325764,
+          "label": "A",
+          "text": "<p>You mustn't use horns in this area.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325766,
+          "label": "B",
+          "text": "<p>You should use the horn only in an emergency.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325768,
+          "label": "C",
+          "text": "<p>You don't have to use the horn in this area.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325770,
+          "label": "D",
+          "text": "<p>There aren't any horns in this area.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325764,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy chú ý đến hình ảnh chiếc còi bị gạch chéo trong vòng tròn đỏ. Hình ảnh này thường biểu thị điều gì? Sau đó, hãy xem xét các động từ khuyết thiếu như <em>mustn't</em>, <em>should</em>, và <em>don't have to</em> trong các phương án để chọn câu diễn đạt đúng nhất ý nghĩa của biển báo cấm.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Nội dung biển hiệu: </span></p>\n<p style=\"text-align: justify;\"><em>Biển hiệu cấm sử dụng c&ograve;i xe. H&igrave;nh ảnh một chiếc c&ograve;i xe bị gạch ch&eacute;o trong v&ograve;ng tr&ograve;n biểu thị lệnh cấm.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Biển b&aacute;o giao th&ocirc;ng h&igrave;nh tr&ograve;n c&oacute; gạch ch&eacute;o từ tr&ecirc;n xuống dưới l&agrave; dấu hiệu cấm. Trong trường hợp n&agrave;y, biểu tượng l&agrave; một chiếc c&ograve;i xe, do đ&oacute; biển b&aacute;o c&oacute; nghĩa l&agrave; cấm sử dụng c&ograve;i xe. Phương &aacute;n 1 diễn đạt đ&uacute;ng &yacute; nghĩa n&agrave;y bằng c&aacute;ch sử dụng động từ khuyết thiếu <em>mustn't</em> (kh&ocirc;ng được ph&eacute;p).</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>mustn't + V(inf)</strong>: kh&ocirc;ng được ph&eacute;p (diễn tả sự cấm đo&aacute;n, bắt buộc kh&ocirc;ng được l&agrave;m g&igrave;)</p>\n<p style=\"text-align: justify;\"><strong>should&nbsp;</strong><span style=\"font-weight: 600;\">+ V(inf)</span>: n&ecirc;n (diễn tả lời khuy&ecirc;n, sự khuyến nghị)</p>\n<p style=\"text-align: justify;\"><strong>don't have to</strong><span style=\"font-weight: 600;\">+ V(inf)</span>: kh&ocirc;ng cần phải (diễn tả sự kh&ocirc;ng cần thiết)</p>\n<p style=\"text-align: justify;\"><strong>horn</strong> (n.): c&ograve;i xe</p>",
+      "answerFeedbacks": {
+        "2325764": "<p>Biển b&aacute;o c&oacute; h&igrave;nh chiếc c&ograve;i bị gạch ch&eacute;o trong v&ograve;ng tr&ograve;n biểu thị lệnh cấm, v&agrave; <em>mustn't</em> ch&iacute;nh x&aacute;c l&agrave; động từ khuyết thiếu d&ugrave;ng để diễn tả sự cấm đo&aacute;n.</p>",
+        "2325766": "Phương án này sai vì biển báo cấm hoàn toàn việc sử dụng còi, không phải chỉ giới hạn trong trường hợp khẩn cấp.",
+        "2325768": "Phương án này sai vì <em>don't have to</em> diễn tả sự không cần thiết chứ không phải sự cấm đoán tuyệt đối như biển báo.",
+        "2325770": "Phương án này sai vì biển báo quy định hành vi sử dụng còi, không phải thông báo về sự hiện diện của còi xe trong khu vực."
+      },
+      "images": [
+        "/images/exams/img_1_1201833_0_6fde52c8.png"
+      ]
+    },
+    {
+      "id": 1201838,
+      "questionNumber": 24,
+      "questionName": "Reading Comprehension: Con Dao Island",
+      "questionType": "Description",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions.</strong></p>\n<p style=\"text-align: center;\"><strong>Discovering Con Dao Island</strong></p>\n<p style=\"text-align: justify;\">After just a short 45-minute flight from Ho Chi Minh City, you will arrive at one of Vietnam's most beautiful destinations: Con Dao Island.</p>\n<p style=\"text-align: justify;\">The island is shaped like a crescent moon, stretching about 40 km from north to south and 20 km from west to east. While Con Dao is well known for its pristine beaches, it also has a hilly landscape with many peaks, the tallest of which is Thanh Gia Mountain, reaching 577 meters. Thanks to its location in the East Sea, Con Dao enjoys a tropical monsoon climate, allowing visitors to travel here at any time of the year. However, the ideal season to visit is from March to September, when the ocean is calm, and the weather is most <strong>pleasant</strong>.</p>\n<p style=\"text-align: justify;\">Con Dao is most famous for its historical sites and marine biodiversity. The island is home to sea turtles, which come ashore to nest during certain months. The fresh seafood here is another highlight, with dishes like grilled lobster and spicy sea urchin being must-tries. However, what truly makes Con Dao special is its untouched natural beauty, with hidden beaches and crystal-clear waters. Many of these places remain <strong>unspoiled</strong>, making Con Dao a perfect retreat for those looking for peace and serenity.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 1201842,
+      "questionNumber": 25,
+      "questionName": "Main idea",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What is the main idea of the passage?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions.</strong></p>\n<p style=\"text-align: center;\"><strong>Discovering Con Dao Island</strong></p>\n<p style=\"text-align: justify;\">After just a short 45-minute flight from Ho Chi Minh City, you will arrive at one of Vietnam's most beautiful destinations: Con Dao Island.</p>\n<p style=\"text-align: justify;\">The island is shaped like a crescent moon, stretching about 40 km from north to south and 20 km from west to east. While Con Dao is well known for its pristine beaches, it also has a hilly landscape with many peaks, the tallest of which is Thanh Gia Mountain, reaching 577 meters. Thanks to its location in the East Sea, Con Dao enjoys a tropical monsoon climate, allowing visitors to travel here at any time of the year. However, the ideal season to visit is from March to September, when the ocean is calm, and the weather is most <strong>pleasant</strong>.</p>\n<p style=\"text-align: justify;\">Con Dao is most famous for its historical sites and marine biodiversity. The island is home to sea turtles, which come ashore to nest during certain months. The fresh seafood here is another highlight, with dishes like grilled lobster and spicy sea urchin being must-tries. However, what truly makes Con Dao special is its untouched natural beauty, with hidden beaches and crystal-clear waters. Many of these places remain <strong>unspoiled</strong>, making Con Dao a perfect retreat for those looking for peace and serenity.</p>",
+      "parentQuestionId": 1201838,
+      "choices": [
+        {
+          "id": 2325796,
+          "label": "A",
+          "text": "<p>The best time to visit Con Dao Island</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325798,
+          "label": "B",
+          "text": "<p>The unique food and wildlife of Con Dao Island</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325800,
+          "label": "C",
+          "text": "<p>The historical importance of Con Dao Island</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325802,
+          "label": "D",
+          "text": "<p>Some fascinating attractions of Con Dao Island</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2325802,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Câu hỏi yêu cầu tìm ý chính của <strong>cả bài đọc</strong>. Hãy đọc lại toàn bộ bài và xem mỗi đoạn văn đang nói về điều gì. Đáp án đúng phải là ý bao quát được tất cả các thông tin này, chứ không phải chỉ là một chi tiết nhỏ trong một đoạn.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng x&aacute;c định &yacute; ch&iacute;nh của to&agrave;n bộ b&agrave;i đọc. Để trả lời, học sinh cần tổng hợp th&ocirc;ng tin từ tất cả c&aacute;c đoạn v&agrave; t&igrave;m ra chủ đề bao qu&aacute;t nhất.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc giới thiệu nhiều kh&iacute;a cạnh hấp dẫn của C&ocirc;n Đảo, bao gồm c&aacute;c b&atilde;i biển nguy&ecirc;n sơ, cảnh quan đồi n&uacute;i, c&aacute;c di t&iacute;ch lịch sử, sự đa dạng sinh học biển như r&ugrave;a biển, v&agrave; c&aacute;c m&oacute;n hải sản tươi ngon. Do đ&oacute;, phương &aacute;n 4 l&agrave; lựa chọn ch&iacute;nh x&aacute;c nhất v&igrave; cụm từ \"<strong>fascinating attractions</strong>\" (<em>những điểm tham quan hấp dẫn</em>) bao qu&aacute;t tất cả c&aacute;c chi tiết n&agrave;y. C&aacute;c phương &aacute;n kh&aacute;c chỉ đề cập đến một kh&iacute;a cạnh duy nhất được thảo luận trong b&agrave;i.</p>",
+      "answerFeedbacks": {
+        "2325796": "Đây là thông tin quá hẹp vì nó chỉ là một chi tiết được đề cập trong đoạn văn thứ hai.",
+        "2325798": "Thông tin này không bao quát đủ nội dung vì bài đọc còn đề cập đến các điểm thu hút khác như bãi biển, núi non và di tích lịch sử.",
+        "2325800": "Thông tin này quá hẹp vì các di tích lịch sử chỉ là một trong số nhiều điểm hấp dẫn được nhắc đến trong bài đọc.",
+        "2325802": "Đây là đáp án đúng vì nó tổng hợp được tất cả các khía cạnh của Côn Đảo được mô tả trong bài, bao gồm vẻ đẹp tự nhiên, di tích lịch sử, sinh vật biển và ẩm thực."
+      },
+      "images": []
+    },
+    {
+      "id": 1201847,
+      "questionNumber": 26,
+      "questionName": "Specific information",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>According to the passage, Con Dao Island _____.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions.</strong></p>\n<p style=\"text-align: center;\"><strong>Discovering Con Dao Island</strong></p>\n<p style=\"text-align: justify;\">After just a short 45-minute flight from Ho Chi Minh City, you will arrive at one of Vietnam's most beautiful destinations: Con Dao Island.</p>\n<p style=\"text-align: justify;\">The island is shaped like a crescent moon, stretching about 40 km from north to south and 20 km from west to east. While Con Dao is well known for its pristine beaches, it also has a hilly landscape with many peaks, the tallest of which is Thanh Gia Mountain, reaching 577 meters. Thanks to its location in the East Sea, Con Dao enjoys a tropical monsoon climate, allowing visitors to travel here at any time of the year. However, the ideal season to visit is from March to September, when the ocean is calm, and the weather is most <strong>pleasant</strong>.</p>\n<p style=\"text-align: justify;\">Con Dao is most famous for its historical sites and marine biodiversity. The island is home to sea turtles, which come ashore to nest during certain months. The fresh seafood here is another highlight, with dishes like grilled lobster and spicy sea urchin being must-tries. However, what truly makes Con Dao special is its untouched natural beauty, with hidden beaches and crystal-clear waters. Many of these places remain <strong>unspoiled</strong>, making Con Dao a perfect retreat for those looking for peace and serenity.</p>",
+      "parentQuestionId": 1201838,
+      "choices": [
+        {
+          "id": 2325822,
+          "label": "A",
+          "text": "<p>is the largest island in Vietnam</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325825,
+          "label": "B",
+          "text": "<p>is completely covered in forests</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325828,
+          "label": "C",
+          "text": "<p>has both mountains and beaches</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325830,
+          "label": "D",
+          "text": "<p>is not affected by weather changes</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325828,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy đọc kỹ đoạn văn thứ hai để tìm các từ khóa mô tả đặc điểm tự nhiên và địa hình của hòn đảo.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng đọc t&igrave;m th&ocirc;ng tin cụ thể trong b&agrave;i. Để trả lời đ&uacute;ng, học sinh cần x&aacute;c định c&aacute;c chi tiết m&ocirc; tả về đặc điểm địa l&yacute; của C&ocirc;n Đảo được n&ecirc;u trong đoạn văn thứ hai.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc cung cấp hai th&ocirc;ng tin quan trọng về địa h&igrave;nh của C&ocirc;n Đảo trong c&ugrave;ng một đoạn. Thứ nhất, b&agrave;i đọc n&ecirc;u r&otilde;: [[<strong>While Con Dao is well known for its pristine beaches...</strong>]] (<em>Mặc d&ugrave; C&ocirc;n Đảo nổi tiếng với những b&atilde;i biển hoang sơ...</em>). Thứ hai, b&agrave;i đọc cũng m&ocirc; tả: [[<strong>...it also has a hilly landscape with many peaks...</strong>]] (<em>...n&oacute; cũng c&oacute; địa h&igrave;nh đồi n&uacute;i với nhiều đỉnh...</em>). Như vậy, c&oacute; thể kết luận rằng C&ocirc;n Đảo c&oacute; cả n&uacute;i v&agrave; biển, n&ecirc;n phương &aacute;n 3 l&agrave; đ&aacute;p &aacute;n ch&iacute;nh x&aacute;c.</p>",
+      "answerFeedbacks": {
+        "2325822": "Thông tin này không được đề cập trong bài đọc.",
+        "2325825": "Đây là một sự khái quát hóa không chính xác vì bài đọc không hề nói rằng hòn đảo bị bao phủ \"hoàn toàn\" bởi rừng.",
+        "2325828": "Thông tin này được xác nhận bởi các chi tiết trong bài đọc về \"<em>pristine beaches</em>\" và \"<em>a hilly landscape with many peaks</em>\".",
+        "2325830": "Thông tin này trái ngược với chi tiết trong bài đọc rằng Côn Đảo có \"<em>a tropical monsoon climate</em>\"."
+      },
+      "images": []
+    },
+    {
+      "id": 1201856,
+      "questionNumber": 27,
+      "questionName": "Specific information (reason)",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Tourists can visit Con Dao at any time of the year because of _____.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions.</strong></p>\n<p style=\"text-align: center;\"><strong>Discovering Con Dao Island</strong></p>\n<p style=\"text-align: justify;\">After just a short 45-minute flight from Ho Chi Minh City, you will arrive at one of Vietnam's most beautiful destinations: Con Dao Island.</p>\n<p style=\"text-align: justify;\">The island is shaped like a crescent moon, stretching about 40 km from north to south and 20 km from west to east. While Con Dao is well known for its pristine beaches, it also has a hilly landscape with many peaks, the tallest of which is Thanh Gia Mountain, reaching 577 meters. Thanks to its location in the East Sea, Con Dao enjoys a tropical monsoon climate, allowing visitors to travel here at any time of the year. However, the ideal season to visit is from March to September, when the ocean is calm, and the weather is most <strong>pleasant</strong>.</p>\n<p style=\"text-align: justify;\">Con Dao is most famous for its historical sites and marine biodiversity. The island is home to sea turtles, which come ashore to nest during certain months. The fresh seafood here is another highlight, with dishes like grilled lobster and spicy sea urchin being must-tries. However, what truly makes Con Dao special is its untouched natural beauty, with hidden beaches and crystal-clear waters. Many of these places remain <strong>unspoiled</strong>, making Con Dao a perfect retreat for those looking for peace and serenity.</p>",
+      "parentQuestionId": 1201838,
+      "choices": [
+        {
+          "id": 2325847,
+          "label": "A",
+          "text": "<p>its lack of storms</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325848,
+          "label": "B",
+          "text": "<p>its calm waters</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325849,
+          "label": "C",
+          "text": "<p>its tropical monsoon climate</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325850,
+          "label": "D",
+          "text": "<p>its dry weather all year</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325849,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Đọc kỹ đoạn văn thứ hai. H&atilde;y t&igrave;m c&acirc;u văn giải th&iacute;ch <strong>l&yacute; do</strong> tại sao du kh&aacute;ch c&oacute; thể đến C&ocirc;n Đảo \"at any time of the year\".</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>Câu hỏi này kiểm tra kỹ năng nhận diện mối quan hệ nguyên nhân - kết quả. Để trả lời, học sinh cần tìm trong bài đọc lý do giải thích tại sao du khách có thể đến Côn Đảo vào bất kỳ thời điểm nào trong năm.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span>Bài đọc có đề cập đến lý do du khách có thể đến Côn Đảo quanh năm trong câu: <strong>[[Thanks to its location in the East Sea, Con Dao enjoys a tropical monsoon climate, allowing visitors to travel here at any time of the year.]]</strong> (<em>Nhờ vị trí địa lý ở Biển Đông, Côn Đảo có khí hậu gió mùa nhiệt đới, cho phép du khách đến đây tham quan vào bất kỳ thời điểm nào trong năm.</em>). Như vậy, chính \"khí hậu nhiệt đới gió mùa\" là nguyên nhân.</p>\n<p style=\"text-align: justify;\">Phương án 2 có thể gây nhầm lẫn vì bài đọc có nhắc đến biển lặng, nhưng đó là đặc điểm của mùa lý tưởng để du lịch (từ tháng 3 đến tháng 9), chứ không phải là lý do có thể đến đây quanh năm.</p>",
+      "answerFeedbacks": {
+        "2325847": "Thông tin này không được đề cập trong bài đọc.",
+        "2325848": "Bài đọc chỉ nói rằng biển lặng là đặc điểm của mùa lý tưởng để du lịch (từ tháng 3 đến tháng 9), không phải là lý do có thể đến đây quanh năm.",
+        "2325849": "<p>Chi tiết n&agrave;y được b&agrave;i đọc n&ecirc;u r&otilde; \"<em>Thanks to... Con Dao enjoys a tropical monsoon climate, allowing visitors to travel here at any time of the year</em>\".</p>",
+        "2325850": "Thông tin này mâu thuẫn với chi tiết \"khí hậu nhiệt đới gió mùa\" (tropical monsoon climate) được nhắc đến trong bài, vốn bao gồm cả mùa mưa và mùa khô."
+      },
+      "images": []
+    },
+    {
+      "id": 1201861,
+      "questionNumber": 28,
+      "questionName": "Vocabulary (antonym)",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &quot;pleasant&quot; in paragraph 2 is OPPOSITE in meaning to _____.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions.</strong></p>\n<p style=\"text-align: center;\"><strong>Discovering Con Dao Island</strong></p>\n<p style=\"text-align: justify;\">After just a short 45-minute flight from Ho Chi Minh City, you will arrive at one of Vietnam's most beautiful destinations: Con Dao Island.</p>\n<p style=\"text-align: justify;\">The island is shaped like a crescent moon, stretching about 40 km from north to south and 20 km from west to east. While Con Dao is well known for its pristine beaches, it also has a hilly landscape with many peaks, the tallest of which is Thanh Gia Mountain, reaching 577 meters. Thanks to its location in the East Sea, Con Dao enjoys a tropical monsoon climate, allowing visitors to travel here at any time of the year. However, the ideal season to visit is from March to September, when the ocean is calm, and the weather is most <strong>pleasant</strong>.</p>\n<p style=\"text-align: justify;\">Con Dao is most famous for its historical sites and marine biodiversity. The island is home to sea turtles, which come ashore to nest during certain months. The fresh seafood here is another highlight, with dishes like grilled lobster and spicy sea urchin being must-tries. However, what truly makes Con Dao special is its untouched natural beauty, with hidden beaches and crystal-clear waters. Many of these places remain <strong>unspoiled</strong>, making Con Dao a perfect retreat for those looking for peace and serenity.</p>",
+      "parentQuestionId": 1201838,
+      "choices": [
+        {
+          "id": 2325863,
+          "label": "A",
+          "text": "<p>wonderful</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325864,
+          "label": "B",
+          "text": "<p>refreshing</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325865,
+          "label": "C",
+          "text": "<p>delightful</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325866,
+          "label": "D",
+          "text": "<p>uncomfortable</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2325866,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy đọc kỹ câu cuối cùng của đoạn văn thứ hai. Từ \"pleasant\" được dùng để miêu tả thời tiết lý tưởng để du lịch. Bạn cần tìm một từ trong các phương án có ý nghĩa <strong>trái ngược</strong> với một thời tiết lý tưởng.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra khả năng suy đo&aacute;n nghĩa của từ trong ngữ cảnh v&agrave; t&igrave;m từ c&oacute; nghĩa tr&aacute;i ngược. Để trả lời đ&uacute;ng, học sinh cần x&aacute;c định nghĩa của từ \"pleasant\" dựa v&agrave;o c&acirc;u văn chứa n&oacute;, sau đ&oacute; t&igrave;m từ c&oacute; nghĩa đối lập trong c&aacute;c phương &aacute;n.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Trong b&agrave;i đọc, từ \"<strong>pleasant</strong>\" được d&ugrave;ng trong c&acirc;u: <strong>[[...the weather is most pleasant]]</strong> (<em>...thời tiết dễ chịu nhất</em>). Ngữ cảnh n&agrave;y cho thấy \"<strong>pleasant</strong>\" c&oacute; nghĩa l&agrave; \"dễ chịu, thoải m&aacute;i\". C&acirc;u hỏi y&ecirc;u cầu t&igrave;m từ TR&Aacute;I NGHĨA với \"<strong>pleasant</strong>\". X&eacute;t c&aacute;c phương &aacute;n, \"<strong>uncomfortable</strong>\" c&oacute; nghĩa l&agrave; \"kh&oacute; chịu, kh&ocirc;ng thoải m&aacute;i\". Đ&acirc;y l&agrave; từ tr&aacute;i nghĩa cần chọn.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n c&ograve;n lại như \"wonderful\" (tuyệt vời), \"refreshing\" (sảng kho&aacute;i) v&agrave; \"delightful\" (th&uacute; vị) đều mang nghĩa t&iacute;ch cực v&agrave; tương đồng với \"pleasant\", do đ&oacute; ch&uacute;ng kh&ocirc;ng phải l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>",
+      "answerFeedbacks": {
+        "2325863": "Từ này có nghĩa là \"tuyệt vời\", mang nghĩa tương đồng chứ không phải trái ngược với \"pleasant\".",
+        "2325864": "Từ này có nghĩa là \"sảng khoái, trong lành\", mang nghĩa tích cực tương tự \"pleasant\" khi miêu tả thời tiết, nên không phải là từ trái nghĩa.",
+        "2325865": "Từ này có nghĩa là \"thú vị, dễ chịu\", là một từ đồng nghĩa với \"pleasant\", do đó không phải là đáp án đúng.",
+        "2325866": "Đây là đáp án đúng vì \"uncomfortable\" (khó chịu) là từ trái nghĩa trực tiếp của \"pleasant\" (dễ chịu)."
+      },
+      "images": []
+    },
+    {
+      "id": 1201865,
+      "questionNumber": 29,
+      "questionName": "Specific information (false statement)",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Which sentence is NOT TRUE according to the passage?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions.</strong></p>\n<p style=\"text-align: center;\"><strong>Discovering Con Dao Island</strong></p>\n<p style=\"text-align: justify;\">After just a short 45-minute flight from Ho Chi Minh City, you will arrive at one of Vietnam's most beautiful destinations: Con Dao Island.</p>\n<p style=\"text-align: justify;\">The island is shaped like a crescent moon, stretching about 40 km from north to south and 20 km from west to east. While Con Dao is well known for its pristine beaches, it also has a hilly landscape with many peaks, the tallest of which is Thanh Gia Mountain, reaching 577 meters. Thanks to its location in the East Sea, Con Dao enjoys a tropical monsoon climate, allowing visitors to travel here at any time of the year. However, the ideal season to visit is from March to September, when the ocean is calm, and the weather is most <strong>pleasant</strong>.</p>\n<p style=\"text-align: justify;\">Con Dao is most famous for its historical sites and marine biodiversity. The island is home to sea turtles, which come ashore to nest during certain months. The fresh seafood here is another highlight, with dishes like grilled lobster and spicy sea urchin being must-tries. However, what truly makes Con Dao special is its untouched natural beauty, with hidden beaches and crystal-clear waters. Many of these places remain <strong>unspoiled</strong>, making Con Dao a perfect retreat for those looking for peace and serenity.</p>",
+      "parentQuestionId": 1201838,
+      "choices": [
+        {
+          "id": 2325887,
+          "label": "A",
+          "text": "<p>Con Dao is located in the East Sea.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325888,
+          "label": "B",
+          "text": "<p>The beaches in Con Dao are fully developed for tourism.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325889,
+          "label": "C",
+          "text": "<p>Con Dao's best travel season is from March to September.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325890,
+          "label": "D",
+          "text": "<p>The island has historical sites and a diverse marine ecosystem.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325888,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để t&igrave;m c&acirc;u trả lời, h&atilde;y tập trung v&agrave;o đoạn văn cuối c&ugrave;ng. Ch&uacute; &yacute; đến những từ t&aacute;c giả d&ugrave;ng để mi&ecirc;u tả vẻ đẹp tự nhi&ecirc;n của C&ocirc;n Đảo v&agrave; so s&aacute;nh ch&uacute;ng với c&aacute;c phương &aacute;n đ&atilde; cho để t&igrave;m ra điểm m&acirc;u thuẫn.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng đọc hiểu chi tiết, cụ thể l&agrave; x&aacute;c định th&ocirc;ng tin KH&Ocirc;NG đ&uacute;ng hoặc tr&aacute;i ngược với th&ocirc;ng tin được cung cấp trong b&agrave;i đọc. Để trả lời, học sinh cần đọc kỹ từng phương &aacute;n v&agrave; đối chiếu với c&aacute;c chi tiết c&oacute; trong b&agrave;i.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc m&ocirc; tả C&ocirc;n Đảo l&agrave; một nơi c&oacute; vẻ đẹp đặc biệt nhờ sự hoang sơ, với những b&atilde;i biển v&agrave; l&agrave;n nước trong vắt c&ograve;n nguy&ecirc;n sơ. Dẫn chứng nằm ở đoạn cuối: <strong>[[what truly makes Con Dao special is its untouched natural beauty, with hidden beaches and crystal-clear waters. Many of these places remain unspoiled]]</strong> (<em>điều thực sự l&agrave;m n&ecirc;n sự đặc biệt của C&ocirc;n Đảo l&agrave; vẻ đẹp tự nhi&ecirc;n hoang sơ, với những b&atilde;i biển ẩn m&igrave;nh v&agrave; l&agrave;n nước trong vắt. Nhiều nơi trong số n&agrave;y vẫn c&ograve;n nguy&ecirc;n vẹn</em>). Cụm từ \"<strong>fully developed for tourism</strong>\" (được ph&aacute;t triển du lịch một c&aacute;ch to&agrave;n diện) trong phương &aacute;n 2 ho&agrave;n to&agrave;n tr&aacute;i ngược với &yacute; nghĩa của \"<strong>untouched</strong>\" (hoang sơ) v&agrave; \"<strong>unspoiled</strong>\" (chưa bị t&aacute;c động).</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n c&ograve;n lại đều l&agrave; những th&ocirc;ng tin đ&uacute;ng v&agrave; c&oacute; thể được t&igrave;m thấy trực tiếp trong b&agrave;i đọc:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 được đề cập ở đoạn 2: <strong>[[in the East Sea]]</strong></li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 ở đoạn 2: <strong>[[from March to September]]</strong></li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 ở đoạn 3: <strong>[[historical sites and marine biodiversity]]</strong></li>\n</ul>",
+      "answerFeedbacks": {
+        "2325887": "<p>Th&ocirc;ng tin n&agrave;y đ&uacute;ng với b&agrave;i đọc, được đề cập trong c&acirc;u \"<em>Thanks to its location in the East Sea, Con Dao enjoys a tropical monsoon climate...</em>\".</p>",
+        "2325888": "Thông tin này trái ngược với bài đọc, vốn miêu tả Côn Đảo có vẻ đẹp tự nhiên \"<em>untouched</em>\" (hoang sơ) và \"<em>unspoiled</em>\" (chưa bị tác động).",
+        "2325889": "Thông tin này đúng với bài đọc, được nêu rõ trong câu \"<em>...the ideal season to visit is from March to September...</em>\".",
+        "2325890": "Thông tin này đúng với bài đọc, được khẳng định trong câu \"<em>Con Dao is most famous for its historical sites and marine biodiversity.</em>\"."
+      },
+      "images": []
+    },
+    {
+      "id": 1201872,
+      "questionNumber": 30,
+      "questionName": "Vocabulary (synonym)",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &quot;unspoiled&quot; in paragraph 3 is CLOSEST in meaning to _____.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions.</strong></p>\n<p style=\"text-align: center;\"><strong>Discovering Con Dao Island</strong></p>\n<p style=\"text-align: justify;\">After just a short 45-minute flight from Ho Chi Minh City, you will arrive at one of Vietnam's most beautiful destinations: Con Dao Island.</p>\n<p style=\"text-align: justify;\">The island is shaped like a crescent moon, stretching about 40 km from north to south and 20 km from west to east. While Con Dao is well known for its pristine beaches, it also has a hilly landscape with many peaks, the tallest of which is Thanh Gia Mountain, reaching 577 meters. Thanks to its location in the East Sea, Con Dao enjoys a tropical monsoon climate, allowing visitors to travel here at any time of the year. However, the ideal season to visit is from March to September, when the ocean is calm, and the weather is most <strong>pleasant</strong>.</p>\n<p style=\"text-align: justify;\">Con Dao is most famous for its historical sites and marine biodiversity. The island is home to sea turtles, which come ashore to nest during certain months. The fresh seafood here is another highlight, with dishes like grilled lobster and spicy sea urchin being must-tries. However, what truly makes Con Dao special is its untouched natural beauty, with hidden beaches and crystal-clear waters. Many of these places remain <strong>unspoiled</strong>, making Con Dao a perfect retreat for those looking for peace and serenity.</p>",
+      "parentQuestionId": 1201838,
+      "choices": [
+        {
+          "id": 2325903,
+          "label": "A",
+          "text": "<p>overdeveloped</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325904,
+          "label": "B",
+          "text": "<p>crowded</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325905,
+          "label": "C",
+          "text": "<p>damaged</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325906,
+          "label": "D",
+          "text": "<p>preserved</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2325906,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy đọc kỹ câu chứa từ <strong>“unspoiled”</strong> và câu ngay trước đó. Cụm từ nào trong câu trước mô tả vẻ đẹp của Côn Đảo và có thể giúp bạn suy ra ý nghĩa của <strong>“unspoiled”</strong>?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng đo&aacute;n nghĩa của từ trong ngữ cảnh. Để trả lời, học sinh cần đọc kỹ c&acirc;u chứa từ &ldquo;unspoiled&rdquo; v&agrave; c&aacute;c c&acirc;u xung quanh để suy luận ra &yacute; nghĩa của n&oacute;.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc m&ocirc; tả C&ocirc;n Đảo c&oacute; [[<strong>untouched natural beauty</strong>]] (<em>vẻ đẹp tự nhi&ecirc;n hoang sơ</em>) v&agrave; l&agrave; một nơi [[<strong>perfect retreat for those looking for peace and serenity</strong>]] (<em>nơi nghỉ dưỡng ho&agrave;n hảo cho những ai t&igrave;m kiếm sự b&igrave;nh y&ecirc;n v&agrave; thanh thản</em>). Từ &ldquo;<strong>unspoiled</strong>&rdquo; được d&ugrave;ng để mi&ecirc;u tả những nơi n&agrave;y, c&oacute; nghĩa l&agrave; ch&uacute;ng vẫn c&ograve;n nguy&ecirc;n vẹn, chưa bị t&aacute;c động hay ph&aacute; hỏng bởi con người. Trong c&aacute;c phương &aacute;n, &ldquo;<strong>preserved</strong>&rdquo; (<em>được bảo tồn, giữ g&igrave;n</em>) l&agrave; từ c&oacute; nghĩa gần nhất với &ldquo;unspoiled&rdquo; trong ngữ cảnh n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "2325903": "<p>Từ n&agrave;y c&oacute; nghĩa \"ph&aacute;t triển qu&aacute; mức\", l&agrave; từ tr&aacute;i nghĩa với \"unspoiled\" (hoang sơ).</p>",
+        "2325904": "<p>Từ n&agrave;y c&oacute; nghĩa \"đ&ocirc;ng đ&uacute;c\", kh&ocirc;ng phải l&agrave; từ đồng nghĩa với \"unspoiled\" (hoang sơ).</p>",
+        "2325905": "<p>Từ n&agrave;y c&oacute; nghĩa \"bị tổn hại\", l&agrave; từ tr&aacute;i nghĩa với \"unspoiled\" (hoang sơ).</p>",
+        "2325906": "<p>Từ n&agrave;y đồng nghĩa với &ldquo;unspoiled&rdquo; trong ngữ cảnh vẻ đẹp tự nhi&ecirc;n vẫn được giữ g&igrave;n nguy&ecirc;n vẹn, như được gợi &yacute; bởi cụm từ &ldquo;untouched natural beauty&rdquo;.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1205400,
+      "questionNumber": 31,
+      "questionName": "37-40",
+      "questionType": "FillBlank",
+      "questionText": "<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><span style=\"font-weight: 600;\">Four phrases/sentences have been removed from the text below. Choose the correct answer to complete the text. Write only the letter A-D in each blank.</span></p>\n<table style=\"border-collapse: collapse; width: 100%; border-color: #5fbd18;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 100%;\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\"><strong>A. </strong>which make people respect natural habitats</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\"><strong>B. </strong>natural wonders will be around for future generations to enjoy</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\"><strong>C. </strong>which can pollute the air, water and soil around natural wonders</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\"><strong>D.</strong> tourists may step on small plants and flowers and hurt them</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: center;\"><strong><br>Tourism and Natural Wonders</strong></p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\">People love visiting natural wonders because they are unique and charming. However, the development of tourism can have some negative effects on natural wonders by causing pollution and habitat destruction. First of all, tourists produce waste <span class='fillblank-option'><label>29.1</label><input id='fbo-1205400-0' class='ms fillblank-option-29' index='0' name='fbo-1205400-0' type='text' size='4' autocomplete='off' data-testid='fillblank-input-1205400-0' /></span>. Secondly, by hiking or climbing natural wonders, <span class='fillblank-option'><label>29.2</label><input id='fbo-1205400-1' class='ms fillblank-option-29' index='1' name='fbo-1205400-1' type='text' size='4' autocomplete='off' data-testid='fillblank-input-1205400-1' /></span>. This can also damage the homes of small animals. Finally, people often build hotels near natural wonders. This construction can lead to habitat destruction, which causes harm to plants and animals in the area.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\">Despite these negative effects, we can preserve natural wonders in many ways. Firstly, we can create laws against littering to reduce the amount of waste from tourists. Secondly, we can have laws <span class='fillblank-option'><label>29.3</label><input id='fbo-1205400-2' class='ms fillblank-option-29' index='2' name='fbo-1205400-2' type='text' size='2' autocomplete='off' data-testid='fillblank-input-1205400-2' /></span> and not harm nature in any way when they construct buildings near the wonders. Finally, we can raise public awareness of the importance of preserving natural wonders. As a result, <span class='fillblank-option'><label>29.4</label><input id='fbo-1205400-3' class='ms fillblank-option-29' index='3' name='fbo-1205400-3' type='text' size='4' autocomplete='off' data-testid='fillblank-input-1205400-3' /></span>.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "C"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "D"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "A"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "B"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"line-height: 1.4; margin-bottom: 20px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span style=\"background-color: #299b83; color: #ffffff; padding: 0 4px;\">.1</span></strong> <strong> Chọn <span style=\"color: #5fbd18;\">C.</span> which can pollute the air, water and soil around natural wonders.</strong></div>\n<div style=\"background-color: #f9f9f9; padding: 15px; text-align: justify; border-radius: 8px;\">Chỗ trống n&agrave;y nằm sau cụm từ \"<strong>tourists produce waste</strong>\". Đ&aacute;p &aacute;n C l&agrave; một mệnh đề quan hệ bổ nghĩa cho \"waste\", m&ocirc; tả hậu quả của việc tạo ra r&aacute;c thải. Cụm từ <strong>[[pollute the air, water and soil]]</strong> (<em>g&acirc;y &ocirc; nhiễm kh&ocirc;ng kh&iacute;, nước v&agrave; đất</em>) kết hợp một c&aacute;ch logic với \"<strong>waste</strong>\" (r&aacute;c thải), cho thấy t&aacute;c động ti&ecirc;u cực của r&aacute;c thải l&ecirc;n m&ocirc;i trường xung quanh c&aacute;c k&igrave; quan thi&ecirc;n nhi&ecirc;n.&nbsp;</div>\n</div>\n<div style=\"line-height: 1.4; margin-bottom: 20px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span style=\"background-color: #299b83; color: #ffffff; padding: 0 4px;\">.2</span></strong> <strong> Chọn <span style=\"color: #5fbd18;\">D.</span> tourists may step on small plants and flowers and hurt them.</strong></div>\n<div style=\"background-color: #f9f9f9; padding: 15px; text-align: justify; border-radius: 8px;\">Chỗ trống n&agrave;y đứng sau \"<strong>Secondly, by hiking or climbing natural wonders,</strong>\" v&agrave; được theo sau bởi c&acirc;u <strong>[[This can also damage the homes of small animals.]]</strong>&nbsp;(<em>Điều n&agrave;y cũng c&oacute; thể l&agrave;m hỏng m&ocirc;i trường sống của c&aacute;c lo&agrave;i động vật nhỏ</em>). Đ&aacute;p &aacute;n D m&ocirc; tả một h&agrave;nh động cụ thể của kh&aacute;ch du lịch khi \"<strong>hiking or climbing</strong>\" l&agrave; <strong>[[may step on small plants and flowers and hurt them]]</strong> (<em>c&oacute; thể giẫm l&ecirc;n c&aacute;c c&acirc;y v&agrave; hoa nhỏ v&agrave; l&agrave;m hại ch&uacute;ng</em>). H&agrave;nh động n&agrave;y giải th&iacute;ch r&otilde; hơn c&aacute;ch thức kh&aacute;ch du lịch g&acirc;y hại, v&agrave; n&oacute; li&ecirc;n kết trực tiếp với việc l&agrave;m hỏng m&ocirc;i trường sống của động vật nhỏ, tạo th&agrave;nh một chuỗi nguy&ecirc;n nh&acirc;n &ndash; kết quả hợp l&yacute;.</div>\n</div>\n<div style=\"line-height: 1.4; margin-bottom: 20px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span style=\"background-color: #299b83; color: #ffffff; padding: 0 4px;\">.3</span></strong> <strong> Chọn <span style=\"color: #5fbd18;\">A.</span> which make people respect natural habitats.</strong></div>\n<div style=\"background-color: #f9f9f9; padding: 15px; text-align: justify; border-radius: 8px;\">Chỗ trống n&agrave;y nằm trong đoạn văn n&oacute;i về c&aacute;c c&aacute;ch bảo tồn k&igrave; quan thi&ecirc;n nhi&ecirc;n. Cụm từ \"<strong>Secondly, we can have laws</strong>\" (<em>Thứ hai, ch&uacute;ng ta c&oacute; thể c&oacute; luật</em>) gợi &yacute; về một quy định hoặc h&agrave;nh động mang t&iacute;nh ph&aacute;p l&yacute;. Đ&aacute;p &aacute;n A l&agrave; một mệnh đề quan hệ bổ nghĩa cho \"<strong>laws</strong>\", chỉ ra mục đ&iacute;ch của những luật n&agrave;y l&agrave; <strong>[[make people respect natural habitats]]</strong> (<em>khiến mọi người t&ocirc;n trọng m&ocirc;i trường sống tự nhi&ecirc;n</em>). Điều n&agrave;y được củng cố bởi vế sau của c&acirc;u <strong>[[and not harm nature in any way when they construct buildings near the wonders.]]</strong>&nbsp;(<em>v&agrave; kh&ocirc;ng l&agrave;m hại thi&ecirc;n nhi&ecirc;n dưới bất k&igrave; h&igrave;nh thức n&agrave;o khi họ x&acirc;y dựng c&aacute;c t&ograve;a nh&agrave; gần c&aacute;c k&igrave; quan</em>), cho thấy luật ph&aacute;p nhằm bảo vệ m&ocirc;i trường sống.</div>\n</div>\n<div style=\"line-height: 1.4; margin-bottom: 20px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span style=\"background-color: #299b83; color: #ffffff; padding: 0 4px;\">.4</span></strong> <strong> Chọn <span style=\"color: #5fbd18;\">B.</span> natural wonders will be around for future generations to enjoy.</strong></div>\n<div style=\"background-color: #f9f9f9; padding: 15px; text-align: justify; border-radius: 8px;\">Chỗ trống n&agrave;y xuất hiện ở cuối đoạn văn, sau khi liệt k&ecirc; c&aacute;c biện ph&aacute;p bảo tồn v&agrave; cụm từ \"<strong>As a result,</strong>\" (<em>Kết quả l&agrave;</em>). Điều n&agrave;y b&aacute;o hiệu một kết quả t&iacute;ch cực từ những nỗ lực bảo tồn. Đ&aacute;p &aacute;n B l&agrave; một kết quả hợp l&yacute; v&agrave; t&iacute;ch cực của việc \"<strong>raise public awareness of the importance of preserving natural wonders</strong>\" (<em>n&acirc;ng cao nhận thức cộng đồng về tầm quan trọng của việc bảo tồn c&aacute;c k&igrave; quan thi&ecirc;n nhi&ecirc;n</em>), ph&ugrave; hợp với chủ đề chung của đoạn văn về bảo tồn.</div>\n</div>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "topicId": 134,
+  "topicName": "Các thì tương lai",
+  "englishName": "Future Tenses: Will, Be going to & Time Clauses",
+  "rules": [
+    {
+      "rule": "Thì Tương lai đơn (Will + V-inf): Quyết định tức thì tại thời điểm nói, lời hứa, dự đoán không có căn cứ.",
+      "formula": "S + will + V(nguyên thể) / S + won't + V(nguyên thể)",
+      "examples": "I'm so thirsty. I will get some water. / I promise I won't be late."
+    },
+    {
+      "rule": "Tương lai gần (Be going to + V-inf): Dự định đã có kế hoạch từ trước, hoặc dự đoán dựa trên căn cứ/bằng chứng rõ ràng ở hiện tại.",
+      "formula": "S + am/is/are + going to + V(nguyên thể)",
+      "examples": "Look at those dark clouds! It is going to rain. / We are going to buy a new house next month."
+    },
+    {
+      "rule": "Mệnh đề trạng ngữ chỉ thời gian trong tương lai (Time Clauses):",
+      "formula": "When / As soon as / Until / By the time + S + V(hiện tại đơn), S + will + V(nguyên thể)",
+      "examples": "I will call you as soon as I arrive at the airport (KHÔNG dùng: as soon as I will arrive)."
+    }
+  ]
+}

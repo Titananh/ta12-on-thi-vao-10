@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1645_1",
+    "questionName": "Question 1",
+    "questionText": "<p>Talented ________ in Van Phuc Silk Village have preserved the intricate weaving technique for centuries.</p>",
+    "choices": [
+      {
+        "id": "1645_1_2",
+        "text": "assistants",
+        "html": "assistants"
+      },
+      {
+        "id": "1645_1_3",
+        "text": "mechanics",
+        "html": "mechanics"
+      },
+      {
+        "id": "1645_1_1",
+        "text": "artisans",
+        "html": "artisans"
+      },
+      {
+        "id": "1645_1_4",
+        "text": "tourists",
+        "html": "tourists"
+      }
+    ],
+    "correctChoiceId": "1645_1_1",
+    "explanation": "<p>Nghệ nhân làng lụa Vạn Phúc: <strong>artisans (nghệ nhân dệt lụa)</strong>.</p>",
+    "ruleTip": "'artisan' = thợ thủ công nghệ nhân tài hoa của làng nghề."
+  },
+  {
+    "id": "1645_2",
+    "questionName": "Question 2",
+    "questionText": "<p>Visitors to Bat Trang ________ village can mold their own clay cups and ceramic vases.</p>",
+    "choices": [
+      {
+        "id": "1645_2_2",
+        "text": "weaving",
+        "html": "weaving"
+      },
+      {
+        "id": "1645_2_3",
+        "text": "carpentry",
+        "html": "carpentry"
+      },
+      {
+        "id": "1645_2_1",
+        "text": "pottery",
+        "html": "pottery"
+      },
+      {
+        "id": "1645_2_4",
+        "text": "blacksmith",
+        "html": "blacksmith"
+      }
+    ],
+    "correctChoiceId": "1645_2_1",
+    "explanation": "<p>Làng gốm Bát Tràng: <strong>pottery village</strong>.</p>",
+    "ruleTip": "'pottery' = đồ gốm sứ; 'pottery village' = làng gốm."
+  },
+  {
+    "id": "1645_3",
+    "questionName": "Question 3",
+    "questionText": "<p>In Northern Vietnamese villages, the communal ________ has always been the heart of community gatherings.</p>",
+    "choices": [
+      {
+        "id": "1645_3_2",
+        "text": "palace",
+        "html": "palace"
+      },
+      {
+        "id": "1645_3_3",
+        "text": "castle",
+        "html": "castle"
+      },
+      {
+        "id": "1645_3_4",
+        "text": "tower",
+        "html": "tower"
+      },
+      {
+        "id": "1645_3_1",
+        "text": "house",
+        "html": "house"
+      }
+    ],
+    "correctChoiceId": "1645_3_1",
+    "explanation": "<p>Đình làng ở Bắc Bộ: <strong>communal house</strong>.</p>",
+    "ruleTip": "'communal house' = đình làng truyền thống nơi hội họp cộng đồng."
+  },
+  {
+    "id": "1645_4",
+    "questionName": "Question 4",
+    "questionText": "<p>Participating in local community ________ teaches young students empathy and civic responsibility.</p>",
+    "choices": [
+      {
+        "id": "1645_4_2",
+        "text": "business",
+        "html": "business"
+      },
+      {
+        "id": "1645_4_1",
+        "text": "service",
+        "html": "service"
+      },
+      {
+        "id": "1645_4_3",
+        "text": "entertainment",
+        "html": "entertainment"
+      },
+      {
+        "id": "1645_4_4",
+        "text": "conflict",
+        "html": "conflict"
+      }
+    ],
+    "correctChoiceId": "1645_4_1",
+    "explanation": "<p>Hoạt động phục vụ cộng đồng: <strong>community service</strong>.</p>",
+    "ruleTip": "'community service' = hoạt động phục vụ cộng đồng tình nguyện."
+  },
+  {
+    "id": "1645_5",
+    "questionName": "Question 5",
+    "questionText": "<p>Our youth volunteer group visited a local ________ home to cook meals and talk with lonely senior citizens.</p>",
+    "choices": [
+      {
+        "id": "1645_5_1",
+        "text": "nursing",
+        "html": "nursing"
+      },
+      {
+        "id": "1645_5_2",
+        "text": "kindergarten",
+        "html": "kindergarten"
+      },
+      {
+        "id": "1645_5_3",
+        "text": "orphanage",
+        "html": "orphanage"
+      },
+      {
+        "id": "1645_5_4",
+        "text": "factory",
+        "html": "factory"
+      }
+    ],
+    "correctChoiceId": "1645_5_1",
+    "explanation": "<p>Viện dưỡng lão dành cho người cao tuổi: <strong>nursing home</strong>.</p>",
+    "ruleTip": "'nursing home' = viện dưỡng lão (chăm sóc người già)."
+  },
+  {
+    "id": "1645_6",
+    "questionName": "Question 6",
+    "questionText": "<p>Many families choose to relocate from the crowded inner city to green ________ areas for fresher air.</p>",
+    "choices": [
+      {
+        "id": "1645_6_2",
+        "text": "industrial",
+        "html": "industrial"
+      },
+      {
+        "id": "1645_6_3",
+        "text": "downtown",
+        "html": "downtown"
+      },
+      {
+        "id": "1645_6_4",
+        "text": "desert",
+        "html": "desert"
+      },
+      {
+        "id": "1645_6_1",
+        "text": "suburban",
+        "html": "suburban"
+      }
+    ],
+    "correctChoiceId": "1645_6_1",
+    "explanation": "<p>Vùng ngoại ô thoáng đãng: <strong>suburban areas</strong>.</p>",
+    "ruleTip": "'suburban' = thuộc ngoại ô; 'urban' = thuộc đô thị; 'rural' = thuộc nông thôn."
+  },
+  {
+    "id": "1645_7",
+    "questionName": "Question 7",
+    "questionText": "<p>Cultural ________ programs aim to safeguard ancient folk songs like Quan Ho and Cheo.</p>",
+    "choices": [
+      {
+        "id": "1645_7_1",
+        "text": "preservation",
+        "html": "preservation"
+      },
+      {
+        "id": "1645_7_2",
+        "text": "destruction",
+        "html": "destruction"
+      },
+      {
+        "id": "1645_7_3",
+        "text": "damage",
+        "html": "damage"
+      },
+      {
+        "id": "1645_7_4",
+        "text": "omission",
+        "html": "omission"
+      }
+    ],
+    "correctChoiceId": "1645_7_1",
+    "explanation": "<p>Chương trình bảo tồn văn hóa dân gian: <strong>cultural preservation</strong>.</p>",
+    "ruleTip": "'preservation' = sự bảo tồn, gìn giữ di sản (preserve -> preservation)."
+  },
+  {
+    "id": "1645_8",
+    "questionName": "Question 8",
+    "questionText": "<p>The residential group established a night ________ watch to maintain neighborhood security.</p>",
+    "choices": [
+      {
+        "id": "1645_8_2",
+        "text": "stranger",
+        "html": "stranger"
+      },
+      {
+        "id": "1645_8_3",
+        "text": "foreigner",
+        "html": "foreigner"
+      },
+      {
+        "id": "1645_8_1",
+        "text": "neighborhood",
+        "html": "neighborhood"
+      },
+      {
+        "id": "1645_8_4",
+        "text": "tourist",
+        "html": "tourist"
+      }
+    ],
+    "correctChoiceId": "1645_8_1",
+    "explanation": "<p>Tổ dân phố tự quản giữ an ninh: <strong>neighborhood watch</strong>.</p>",
+    "ruleTip": "'neighborhood watch' = đội tự quản dân phòng khu phố."
+  },
+  {
+    "id": "1645_9",
+    "questionName": "Question 9",
+    "questionText": "<p>The Temple of Literature is considered a prominent historical ________ in Hanoi.</p>",
+    "choices": [
+      {
+        "id": "1645_9_2",
+        "text": "sight",
+        "html": "sight"
+      },
+      {
+        "id": "1645_9_3",
+        "text": "cite",
+        "html": "cite"
+      },
+      {
+        "id": "1645_9_1",
+        "text": "site",
+        "html": "site"
+      },
+      {
+        "id": "1645_9_4",
+        "text": "scene",
+        "html": "scene"
+      }
+    ],
+    "correctChoiceId": "1645_9_1",
+    "explanation": "<p>Địa danh, di tích lịch sử nổi bật: <strong>historical site</strong> (Văn Miếu Quốc Tử Giám).</p>",
+    "ruleTip": "'historical site' = di tích lịch sử; phân biệt site (địa điểm) vs sight (cảnh tượng)."
+  },
+  {
+    "id": "1645_10",
+    "questionName": "Question 10",
+    "questionText": "<p>Conical hats made in Chuong Village are famous traditional Vietnamese ________.</p>",
+    "choices": [
+      {
+        "id": "1645_10_2",
+        "text": "electronics",
+        "html": "electronics"
+      },
+      {
+        "id": "1645_10_3",
+        "text": "machines",
+        "html": "machines"
+      },
+      {
+        "id": "1645_10_4",
+        "text": "vehicles",
+        "html": "vehicles"
+      },
+      {
+        "id": "1645_10_1",
+        "text": "handicrafts",
+        "html": "handicrafts"
+      }
+    ],
+    "correctChoiceId": "1645_10_1",
+    "explanation": "<p>Nón lá làng Chuông là sản phẩm thủ công mỹ nghệ: <strong>handicrafts</strong>.</p>",
+    "ruleTip": "'handicrafts' = hàng thủ công mỹ nghệ làm bằng tay."
+  },
+  {
+    "id": "1645_11",
+    "questionName": "Question 11",
+    "questionText": "<p>Traditional lacquerware skills have been ________ down from master craftspeople to apprentices.</p>",
+    "choices": [
+      {
+        "id": "1645_11_1",
+        "text": "passed",
+        "html": "passed"
+      },
+      {
+        "id": "1645_11_2",
+        "text": "put",
+        "html": "put"
+      },
+      {
+        "id": "1645_11_3",
+        "text": "cut",
+        "html": "cut"
+      },
+      {
+        "id": "1645_11_4",
+        "text": "given",
+        "html": "given"
+      }
+    ],
+    "correctChoiceId": "1645_11_1",
+    "explanation": "<p>Nghề sơn mài truyền thống được truyền lại: <strong>passed down</strong>.</p>",
+    "ruleTip": "'pass down' = truyền lại từ thế hệ này sang thế hệ khác."
+  },
+  {
+    "id": "1645_12",
+    "questionName": "Question 12",
+    "questionText": "<p>All the local ________ agreed to donate funds to clean up the shared community pond.</p>",
+    "choices": [
+      {
+        "id": "1645_12_2",
+        "text": "guests",
+        "html": "guests"
+      },
+      {
+        "id": "1645_12_1",
+        "text": "residents",
+        "html": "residents"
+      },
+      {
+        "id": "1645_12_3",
+        "text": "passers-by",
+        "html": "passers-by"
+      },
+      {
+        "id": "1645_12_4",
+        "text": "travelers",
+        "html": "travelers"
+      }
+    ],
+    "correctChoiceId": "1645_12_1",
+    "explanation": "<p>Cư dân địa phương đồng lòng quyên góp: <strong>residents</strong>.</p>",
+    "ruleTip": "'local residents' = người dân địa phương sinh sống trong khu vực."
+  },
+  {
+    "id": "1645_13",
+    "questionName": "Question 13",
+    "questionText": "<p>Ecotourism has provided an economic ________ to traditional craft villages near the capital.</p>",
+    "choices": [
+      {
+        "id": "1645_13_2",
+        "text": "barrier",
+        "html": "barrier"
+      },
+      {
+        "id": "1645_13_1",
+        "text": "boost",
+        "html": "boost"
+      },
+      {
+        "id": "1645_13_3",
+        "text": "loss",
+        "html": "loss"
+      },
+      {
+        "id": "1645_13_4",
+        "text": "decline",
+        "html": "decline"
+      }
+    ],
+    "correctChoiceId": "1645_13_1",
+    "explanation": "<p>Du lịch sinh thái mang lại sự thúc đẩy kinh tế: <strong>an economic boost</strong>.</p>",
+    "ruleTip": "'an economic boost' = đòn bẩy, sự thúc đẩy tăng trưởng kinh tế."
+  },
+  {
+    "id": "1645_14",
+    "questionName": "Question 14",
+    "questionText": "<p>Civic ________ requires every citizen to vote and comply with environmental hygiene laws.</p>",
+    "choices": [
+      {
+        "id": "1645_14_1",
+        "text": "responsibility",
+        "html": "responsibility"
+      },
+      {
+        "id": "1645_14_2",
+        "text": "irresponsibility",
+        "html": "irresponsibility"
+      },
+      {
+        "id": "1645_14_3",
+        "text": "neglect",
+        "html": "neglect"
+      },
+      {
+        "id": "1645_14_4",
+        "text": "refusal",
+        "html": "refusal"
+      }
+    ],
+    "correctChoiceId": "1645_14_1",
+    "explanation": "<p>Trách nhiệm công dân đối với xã hội: <strong>civic responsibility</strong>.</p>",
+    "ruleTip": "'civic responsibility' = trách nhiệm công dân đối với cộng đồng."
+  },
+  {
+    "id": "1645_15",
+    "questionName": "Question 15",
+    "questionText": "<p>Growing up in a close-knit village gives people a strong sense of ________ and identity.</p>",
+    "choices": [
+      {
+        "id": "1645_15_2",
+        "text": "isolation",
+        "html": "isolation"
+      },
+      {
+        "id": "1645_15_1",
+        "text": "belonging",
+        "html": "belonging"
+      },
+      {
+        "id": "1645_15_3",
+        "text": "loneliness",
+        "html": "loneliness"
+      },
+      {
+        "id": "1645_15_4",
+        "text": "strangeness",
+        "html": "strangeness"
+      }
+    ],
+    "correctChoiceId": "1645_15_1",
+    "explanation": "<p>Ý thức gắn kết thuộc về cộng đồng: <strong>a sense of belonging</strong>.</p>",
+    "ruleTip": "'a sense of belonging' = cảm giác thân thuộc, gắn bó với cộng đồng quê hương."
+  }
+]

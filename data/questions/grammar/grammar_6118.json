@@ -1,0 +1,1118 @@
+{
+  "quizId": 6118,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 32: Passive voice: Frequent uses (Các dạng câu bị động thường gặp)",
+  "totalQuestions": 27,
+  "questions": [
+    {
+      "id": 900770,
+      "questionNumber": 1,
+      "questionName": "4",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Nh&#7919;ng c&#226;u n&#224;o sau &#273;&#226;y l&#224; &#273;&#250;ng?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1711975,
+          "label": "A",
+          "text": "Thể chủ động được dùng để nhấn mạnh người thực hiện hành động.",
+          "isCorrect": true
+        },
+        {
+          "id": 1711976,
+          "label": "B",
+          "text": "Câu chủ động và câu bị động thể hiện những cách khác nhau để sắp xếp nội dung của một mệnh đề.",
+          "isCorrect": true
+        },
+        {
+          "id": 1711977,
+          "label": "C",
+          "text": "\"by + đối tượng thực hiện hành động\" không thể bị loại bỏ khỏi câu bị động.",
+          "isCorrect": false
+        },
+        {
+          "id": 1711978,
+          "label": "D",
+          "text": "Câu bị động được sử dụng khi người nói tập trung vào người thực hiện hành động.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1711975,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"width: 100%; border-color: #2dc26b; border-style: dashed; height: 18px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 49.7266%; height: 18px;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/5_-_Copy_7_b5edc64e.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7266%; height: 18px;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/3_-_Copy_5_75e2c155.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 900763,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ho&#224;n th&#224;nh c&#225;c c&#226;u sau.</strong></p>\n<p>1. <span class='fillblank-option'><label>2.1</label><input id='fbo-900763-0' class='ms fillblank-option-2' index='0' name='fbo-900763-0' type='text' size='3' autocomplete='off' data-testid='fillblank-input-900763-0' /></span> + &#273;&#7889;i t&#432;&#7907;ng th&#7921;c hi&#7879;n h&#224;nh &#273;&#7897;ng</p>\n<p>2. <span class='fillblank-option'><label>2.2</label><input id='fbo-900763-1' class='ms fillblank-option-2' index='1' name='fbo-900763-1' type='text' size='6' autocomplete='off' data-testid='fillblank-input-900763-1' /></span> + ph&#432;&#417;ng ti&#7879;n th&#7921;c hi&#7879;n h&#224;nh &#273;&#7897;ng</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1734693,
+          "label": "A",
+          "text": "by",
+          "isCorrect": false
+        },
+        {
+          "id": 1734694,
+          "label": "B",
+          "text": "with",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "by"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "with"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/5_-_Copy_7_b5edc64e.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 900767,
+      "questionNumber": 3,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Ch&#250;ng ta kh&#244;ng th&#7875; s&#7917; d&#7909;ng d&#7841;ng b&#7883; &#273;&#7897;ng v&#7899;i _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1711965,
+          "label": "A",
+          "text": "động từ diễn tả trạng thái hoặc tình huống",
+          "isCorrect": true
+        },
+        {
+          "id": 1711966,
+          "label": "B",
+          "text": "ngoại động từ (động từ có tân ngữ theo sau)",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1711965,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/Screenshot_2025-02-27_173055_d27d82a4.jpg\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 228572,
+      "questionNumber": 4,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Was the accident _____ by the police?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 513683,
+          "label": "A",
+          "text": "investigate",
+          "isCorrect": false
+        },
+        {
+          "id": 513684,
+          "label": "B",
+          "text": "being investigated",
+          "isCorrect": true
+        },
+        {
+          "id": 513685,
+          "label": "C",
+          "text": "investigating",
+          "isCorrect": false
+        },
+        {
+          "id": 513686,
+          "label": "D",
+          "text": "be investigated",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 513684,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Trong c&acirc;u c&oacute; từ <em>\"Was\"</em> ở đầu v&agrave; cụm <em>\"by the police\"</em> ở cuối cho thấy đ&acirc;y l&agrave; một c&acirc;u hỏi ở thể bị động. V&igrave; c&oacute; <em>\"Was\"</em>, h&agrave;nh động n&agrave;y diễn ra trong qu&aacute; khứ. H&atilde;y nhớ lại cấu tr&uacute;c của thể bị động ở th&igrave; qu&aacute; khứ tiếp diễn v&agrave; đối chiếu với c&aacute;c phương &aacute;n.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><b>Thể bị động ở dạng nghi vấn th&igrave; Qu&aacute; khứ tiếp diễn</b>.</span></p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Thể bị động th&igrave; Qu&aacute; khứ tiếp diễn được d&ugrave;ng để diễn tả một h&agrave;nh động đang diễn ra tại một thời điểm nhất định trong qu&aacute; khứ, trong đ&oacute; chủ thể chịu t&aacute;c động của h&agrave;nh động được nhấn mạnh.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><strong><span style=\"color: #1c581f;\">Was/Were + S + being + V(pp)?</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi tr&ecirc;n đang ở dạng nghi vấn của thể bị động. Với trợ động từ \"Was\" v&agrave; cụm \"by the police\", c&acirc;u đang hỏi về một h&agrave;nh động đang diễn ra trong qu&aacute; khứ v&agrave; được thực hiện bởi <em>\"the police\"</em> tr&ecirc;n <em>\"the accident\"</em>. Do đ&oacute;, ch&uacute;ng ta cần d&ugrave;ng cấu tr&uacute;c của th&igrave; qu&aacute; khứ tiếp diễn ở thể bị động.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 2, <em>\"being investigated\"</em>, l&agrave; dạng bị động ch&iacute;nh x&aacute;c của th&igrave; qu&aacute; khứ tiếp diễn (was/were + being + V(pp)), ph&ugrave; hợp với ngữ cảnh v&agrave; cấu tr&uacute;c của c&acirc;u.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n kh&aacute;c đều kh&ocirc;ng ph&ugrave; hợp v&igrave;:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 <em>(\"investigate\")</em> l&agrave; động từ nguy&ecirc;n thể</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 <em>(\"investigating\")</em> l&agrave; dạng V-ing d&ugrave;ng cho thể chủ động tiếp diễn</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 <em>(\"be investigated\")</em> l&agrave; dạng bị động nguy&ecirc;n thể, kh&ocirc;ng d&ugrave;ng với <em>\"Was\"</em> để tạo th&agrave;nh th&igrave; qu&aacute; khứ tiếp diễn bị động.</li>\n</ul>",
+      "answerFeedbacks": {
+        "513683": "Là dạng động từ nguyên thể, không thể đứng sau <em>\"Was the accident\"</em> trong cấu trúc bị động tiếp diễn.",
+        "513684": "Cấu trúc <em>\"being + V(pp)\"</em> là dạng thức chính xác của thể bị động ở các thì tiếp diễn, phù hợp với ngữ cảnh <em>\"Was ... by the police\"</em>.",
+        "513685": "Là dạng V-ing, thường dùng cho thể chủ động tiếp diễn (ví dụ: <em>\"The police were investigating the accident\"</em>), không phù hợp với cấu trúc bị động.",
+        "513686": "Là dạng bị động nguyên thể (infinitive passive), không phù hợp với <em>\"Was\"</em> và yêu cầu thì tiếp diễn."
+      },
+      "images": []
+    },
+    {
+      "id": 11168,
+      "questionNumber": 5,
+      "questionName": "Question 112.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The picnic _____ because Peter has just had a traffic accident.</strong></p>\n<div style=\"position: absolute; left: 463px; top: -12px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 36109,
+          "label": "A",
+          "text": "will cancel",
+          "isCorrect": false
+        },
+        {
+          "id": 36110,
+          "label": "B",
+          "text": "is going to cancel",
+          "isCorrect": false
+        },
+        {
+          "id": 36111,
+          "label": "C",
+          "text": "will be cancelled",
+          "isCorrect": true
+        },
+        {
+          "id": 36112,
+          "label": "D",
+          "text": "is cancelled",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 36111,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; tương lai đơn được d&ugrave;ng để đưa ra quyết định ngay tại thời điểm n&oacute;i.&nbsp;</p>\n<p>Chủ ngữ \"<strong>the picnic</strong>\" chịu t&aacute;c động của h&agrave;nh động \"<strong>cancel</strong>\". =&gt; Động từ phải được chia ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động ở th&igrave; tương lai đơn: <strong>S + will + be + V(pp) + (by O)</strong></p>\n<p>Dịch: Chuyến d&atilde; ngoại sẽ bị hủy v&igrave; Peter vừa bị tai nạn giao th&ocirc;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 11279,
+      "questionNumber": 6,
+      "questionName": "Question 223.",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>_____ yet?</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 36553,
+          "label": "A",
+          "text": "Have the letters been typed",
+          "isCorrect": true
+        },
+        {
+          "id": 36554,
+          "label": "B",
+          "text": "Have been the letters typed",
+          "isCorrect": false
+        },
+        {
+          "id": 36555,
+          "label": "C",
+          "text": "Have the letters typed",
+          "isCorrect": false
+        },
+        {
+          "id": 36556,
+          "label": "D",
+          "text": "Had the letters typed",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 36553,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để trả lời câu hỏi này, bạn cần xác định hai yếu tố chính: <ul><li>Thứ nhất, từ <em>\"yet\"</em> thường xuất hiện trong câu hỏi của thì nào?</li><li>Thứ hai, chủ ngữ <em>\"the letters\"</em> có tự thực hiện hành động <em>\"type\"</em> được không, hay nó phải <em>\"được type\"</em>? Điều này sẽ giúp bạn chọn đúng thể (chủ động hay bị động) cho câu.</li></ul>Sau khi xác định được thì và thể, hãy nhớ lại cấu trúc câu hỏi tương ứng.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thể bị động ở th&igrave; hiện tại ho&agrave;n th&agrave;nh dạng nghi vấn</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Thể bị động th&igrave; hiện tại ho&agrave;n th&agrave;nh được d&ugrave;ng để diễn tả một h&agrave;nh động đ&atilde; được ho&agrave;n th&agrave;nh bởi một chủ thể kh&ocirc;ng x&aacute;c định hoặc kh&ocirc;ng quan trọng, hoặc khi người n&oacute;i muốn nhấn mạnh v&agrave;o kết quả của h&agrave;nh động hơn l&agrave; người thực hiện. H&agrave;nh động đ&oacute; xảy ra trong qu&aacute; khứ v&agrave; c&oacute; li&ecirc;n quan đến hiện tại.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c:</strong><span style=\"color: #1c581f; font-weight: 600;\">&nbsp;Have/Has + S + been + V(pp)?</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi c&oacute; từ <em>\"yet\"</em> l&agrave; dấu hiệu đặc trưng của th&igrave; hiện tại ho&agrave;n th&agrave;nh. Chủ ngữ <em>\"the letters\"</em> (c&aacute;c l&aacute; thư) kh&ocirc;ng thể tự thực hiện h&agrave;nh động <em>\"typed\"</em> (đ&aacute;nh m&aacute;y) m&agrave; phải được người kh&aacute;c thực hiện, do đ&oacute; c&acirc;u cần phải ở thể bị động. Kết hợp cả hai yếu tố n&agrave;y, cấu tr&uacute;c c&acirc;u hỏi của th&igrave; hiện tại ho&agrave;n th&agrave;nh thể bị động l&agrave; <em>\"Have/Has + S + been + V(pp)?\"</em>. Phương &aacute;n 1 <em>\"Have the letters been typed\"</em> tu&acirc;n thủ đ&uacute;ng cấu tr&uacute;c n&agrave;y. C&aacute;c phương &aacute;n:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 \"<em>Have been the letters typed</em>\" sai v&igrave; trật tự từ trong c&acirc;u hỏi bị động của th&igrave; hiện tại ho&agrave;n th&agrave;nh phải l&agrave; \"<em>Have/Has + S + been + V(pp)</em>\".</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 \"<em>Have the letters typed</em>\" sai v&igrave; n&oacute; ở thể chủ động, trong khi \"<em>the letters</em>\" l&agrave; vật v&agrave; phải ở thể bị động.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<em>Had the letters typed</em>\" sai th&igrave; v&igrave; \"<em>yet</em>\" l&agrave; dấu hiệu của th&igrave; hiện tại ho&agrave;n th&agrave;nh, kh&ocirc;ng phải qu&aacute; khứ ho&agrave;n th&agrave;nh.</li>\n</ul>\n<p style=\"text-align: justify;\">&nbsp;</p>",
+      "answerFeedbacks": {
+        "36553": "Đúng vì đây là cấu trúc câu hỏi của thì hiện tại hoàn thành thể bị động (<em>Have/Has + S + been + V(pp)</em>), phù hợp với dấu hiệu <em>\"yet\"</em> và chủ ngữ <em>\"the letters\"</em> không thể tự thực hiện hành động.",
+        "36554": "Sai vì trật tự từ trong câu hỏi bị động của thì hiện tại hoàn thành phải là <em>\"Have/Has + S + been + V(pp)\"</em>, không phải <em>\"Have been + S + V(pp)\"</em>.",
+        "36555": "Sai vì <em>\"the letters\"</em> (các lá thư) không thể tự thực hiện hành động <em>\"typed\"</em> (đánh máy) mà phải được đánh máy, nên câu phải ở thể bị động chứ không phải chủ động.",
+        "36556": "Sai vì thì quá khứ hoàn thành (<em>\"Had + S + V(pp)\"</em>) không phù hợp với dấu hiệu <em>\"yet\"</em>, vốn thường dùng trong thì hiện tại hoàn thành."
+      },
+      "images": []
+    },
+    {
+      "id": 141983,
+      "questionNumber": 7,
+      "questionName": "22",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The computer's memory is the place where information _____ and calculations are done.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 334397,
+          "label": "A",
+          "text": "keep",
+          "isCorrect": false
+        },
+        {
+          "id": 334398,
+          "label": "B",
+          "text": "is kept",
+          "isCorrect": true
+        },
+        {
+          "id": 334399,
+          "label": "C",
+          "text": "kept",
+          "isCorrect": false
+        },
+        {
+          "id": 334400,
+          "label": "D",
+          "text": "are kept",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 334398,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>C&acirc;u c&oacute; chủ ngữ l&agrave; <em>'information'</em> thường d&ugrave;ng động từ số &iacute;t v&agrave; thể bị động v&igrave; <em>'information'</em> (th&ocirc;ng tin) kh&ocirc;ng tự thực hiện h&agrave;nh động m&agrave; được người/vật kh&aacute;c lưu trữ hoặc xử l&yacute;.</p>\n<p>H&atilde;y xem x&eacute;t chủ ngữ <em>'information'</em> v&agrave; mối quan hệ của n&oacute; với h&agrave;nh động <em>'keep'</em>. <em>'Information'</em> c&oacute; tự <em>'keep'</em> kh&ocirc;ng, hay n&oacute; <em>'is kept' </em>&nbsp;x&aacute;c định th&igrave; v&agrave; thể ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thể bị động th&igrave; Hiện tại đơn.</span></p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Thể bị động được sử dụng khi chủ thể thực hiện h&agrave;nh động kh&ocirc;ng quan trọng, kh&ocirc;ng x&aacute;c định, hoặc khi muốn nhấn mạnh v&agrave;o đối tượng chịu t&aacute;c động của h&agrave;nh động.</p>\n<p><strong>Một số cấu tr&uacute;c thể bị động ở th&igrave; hiện tại đơn:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">S (số &iacute;t) + is + V(pp)</span></strong>: được [l&agrave;m g&igrave;] (d&ugrave;ng cho chủ ngữ số &iacute;t)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">S (số nhiều) + are + V(pp)</span></strong>: được [l&agrave;m g&igrave;] (d&ugrave;ng cho chủ ngữ số nhiều)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, chủ ngữ l&agrave; \"<strong>information</strong>\" (<em>th&ocirc;ng tin</em>), l&agrave; danh từ kh&ocirc;ng đếm được v&agrave; được coi l&agrave; số &iacute;t. Th&ocirc;ng tin kh&ocirc;ng thể tự \"<strong>keep</strong>\" (<em>giữ</em>) m&agrave; phải \"được giữ\", cho thấy cần sử dụng thể bị động. V&igrave; vậy, động từ cần chia ở thể bị động th&igrave; hiện tại đơn số &iacute;t v&agrave; phương &aacute;n \"<strong>is kept</strong>\" l&agrave; ph&ugrave; hợp nhất.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 (keep) sai v&igrave; đ&acirc;y l&agrave; dạng chủ động v&agrave; kh&ocirc;ng h&ograve;a hợp với chủ ngữ số &iacute;t \"information\". Phương &aacute;n 3 (kept) sai v&igrave; thiếu động từ \"be\" để tạo th&agrave;nh thể bị động ho&agrave;n chỉnh. Phương &aacute;n 4 (are kept) sai v&igrave; \"information\" l&agrave; danh từ kh&ocirc;ng đếm được (số &iacute;t), n&ecirc;n kh&ocirc;ng thể đi với \"are\" (số nhiều).</p>",
+      "answerFeedbacks": {
+        "334397": "Sai vì <em>\"information\"</em> là danh từ không đếm được (số ít) và cần thể bị động; <em>\"keep\"</em> là dạng chủ động số nhiều hoặc nguyên thể.",
+        "334398": "Đúng vì <em>\"information\"</em> là danh từ không đếm được (số ít) và câu cần thể bị động ở thì hiện tại đơn.",
+        "334399": "Sai vì <em>\"kept\"</em> là quá khứ đơn chủ động hoặc quá khứ phân từ thiếu <em>\"be\"</em>; câu này cần thể bị động ở thì hiện tại đơn.",
+        "334400": "Sai vì <em>\"information\"</em> là danh từ không đếm được, được coi là số ít, do đó phải dùng động từ số ít."
+      },
+      "images": []
+    },
+    {
+      "id": 11121,
+      "questionNumber": 8,
+      "questionName": "Question 65.",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>The students _____ by Mrs. Monty. However, this week they _____ by Mr. Tanzer.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 35921,
+          "label": "A",
+          "text": "are usually taught / are being taught",
+          "isCorrect": true
+        },
+        {
+          "id": 35922,
+          "label": "B",
+          "text": "usually teach / are teaching",
+          "isCorrect": false
+        },
+        {
+          "id": 35923,
+          "label": "C",
+          "text": "have usually been taught / have been teaching",
+          "isCorrect": false
+        },
+        {
+          "id": 35924,
+          "label": "D",
+          "text": "were usually teaching / are teaching",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 35921,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đ&aacute;p &aacute;n đ&uacute;ng, h&atilde;y x&aacute;c định hai yếu tố ch&iacute;nh cho mỗi chỗ trống:</p>\n<ul>\n<li><strong>Th&igrave; của động từ:</strong> Ch&uacute; &yacute; c&aacute;c dấu hiệu thời gian như <em>\"usually\"</em> (thường xuy&ecirc;n) v&agrave; <em>\"this week\"</em> (tuần n&agrave;y).</li>\n<li><strong>Thể của động từ:</strong> Cụm giới từ <em>\"by + O\"</em> (<em>\"by Mrs. Monty\"</em>, <em>\"by Mr. Tanzer\"</em>) l&agrave; dấu hiệu r&otilde; r&agrave;ng cho thấy c&acirc;u cần d&ugrave;ng thể bị động (Passive Voice).</li>\n</ul>\n<p>H&atilde;y nhớ lại thể bị động của c&aacute;c th&igrave; tướng ứng với dấu hiệu thời gian trong từng vế.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thể bị động với th&igrave; hiện tại đơn v&agrave; hiện tại tiếp diễn</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong></p>\n<ul>\n<li style=\"text-align: justify;\">Thể bị động d&ugrave;ng để nhấn mạnh h&agrave;nh động hoặc đối tượng chịu t&aacute;c động của h&agrave;nh động, thay v&igrave; chủ thể thực hiện h&agrave;nh động. N&oacute; thường được sử dụng khi chủ thể kh&ocirc;ng quan trọng, kh&ocirc;ng r&otilde; r&agrave;ng hoặc muốn giấu đi.</li>\n<li style=\"text-align: justify;\">Th&igrave; hiện tại đơn d&ugrave;ng để diễn tả một h&agrave;nh động thường xuy&ecirc;n, th&oacute;i quen hoặc sự thật hiển nhi&ecirc;n.</li>\n<li style=\"text-align: justify;\">Th&igrave; hiện tại tiếp diễn d&ugrave;ng để diễn tả một h&agrave;nh động đang diễn ra tại thời điểm n&oacute;i, hoặc một h&agrave;nh động tạm thời đang xảy ra trong một giai đoạn nhất định.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c:</strong></p>\n<ul>\n<li style=\"text-align: justify;\">Hiện tại đơn bị động: <strong>S + am/is/are + V(pp) + (by O)</strong></li>\n<li style=\"text-align: justify;\">Hiện tại tiếp diễn bị động: <strong>S + am/is/are + being + V(pp) + (by O)</strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong vế đầu, cụm <em>\"by Mrs. Monty\"</em> v&agrave; trạng từ tần suất <em>\"usually\"</em> cho thấy cần sử dụng th&igrave; hiện tại đơn ở thể bị động. Trong vế sau, cụm <em>\"by Mr. Tanzer\"</em> v&agrave; trạng ngữ thời gian <em>\"this week\"</em> (diễn tả một sự sắp xếp tạm thời) y&ecirc;u cầu th&igrave; hiện tại tiếp diễn ở thể bị động. Do đ&oacute;, phương &aacute;n 1 <em>\"are usually taught / are being taught\"</em> l&agrave; lựa chọn ph&ugrave; hợp nhất. C&aacute;c phương &aacute;n:</p>\n<ul>\n<li class=\"PDq2pG_selectionAnchorContainer\" data-start=\"49\" data-end=\"209\">Phương &aacute;n 2 <em data-start=\"61\" data-end=\"93\">\"usually teach / are teaching\"</em> sai v&igrave; cả hai đều ở thể chủ động, trong khi cụm <em data-start=\"146\" data-end=\"163\">\"by Mrs. Monty\"</em> v&agrave; <em data-start=\"167\" data-end=\"184\">\"by Mr. Tanzer\"</em> y&ecirc;u cầu thể bị động.</li>\n<li data-start=\"211\" data-end=\"421\">Phương &aacute;n 3 <em data-start=\"223\" data-end=\"272\">\"have usually been taught / have been teaching\"</em> sai v&igrave; th&igrave; hiện tại ho&agrave;n th&agrave;nh kh&ocirc;ng ph&ugrave; hợp với dấu hiệu <em data-start=\"335\" data-end=\"346\">\"usually\"</em> v&agrave; <em data-start=\"350\" data-end=\"363\">\"this week\",</em>&nbsp;đồng thời <em data-start=\"375\" data-end=\"397\">\"have been teaching\"</em> vẫn ở thể chủ động.</li>\n<li data-start=\"423\" data-end=\"645\">Phương &aacute;n 4 <em data-start=\"435\" data-end=\"475\">\"were usually teaching / are teaching\"</em> kh&ocirc;ng ph&ugrave; hợp v&igrave; <em data-start=\"483\" data-end=\"508\">\"were usually teaching\"</em> l&agrave; qu&aacute; khứ tiếp diễn chủ động v&agrave; <em data-start=\"546\" data-end=\"562\">\"are teaching\"</em> l&agrave; hiện tại tiếp diễn chủ động, đều kh&ocirc;ng ph&ugrave; hợp với y&ecirc;u cầu thể bị động.</li>\n</ul>",
+      "answerFeedbacks": {
+        "35921": "Đúng vì <em>\"are usually taught\"</em> là thì hiện tại đơn bị động diễn tả hành động thường xuyên, và <em>\"are being taught\"</em> là thì hiện tại tiếp diễn bị động diễn tả hành động tạm thời đang diễn ra.",
+        "35922": "Sai vì <em>\"usually teach\"</em> và <em>\"are teaching\"</em> đều là thể chủ động, trong khi ngữ cảnh <em>\"by Mrs. Monty\"</em> và <em>\"by Mr. Tanzer\"</em> yêu cầu thể bị động.",
+        "35923": "Sai vì thì hiện tại hoàn thành bị động <em>\"have usually been taught\"</em> và hiện tại hoàn thành tiếp diễn chủ động <em>\"have been teaching\"</em> không phù hợp với các dấu hiệu thời gian <em>\"usually\"</em> và <em>\"this week\"</em> trong ngữ cảnh này.",
+        "35924": "Sai vì <em>\"were usually teaching\"</em> là thì quá khứ tiếp diễn chủ động và <em>\"are teaching\"</em> là thì hiện tại tiếp diễn chủ động, không phù hợp với yêu cầu thể bị động của câu."
+      },
+      "images": []
+    },
+    {
+      "id": 914369,
+      "questionNumber": 9,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The corner store _____ by a masked gunman last night.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1734764,
+          "label": "A",
+          "text": "robbed",
+          "isCorrect": false
+        },
+        {
+          "id": 1734765,
+          "label": "B",
+          "text": "was robbed",
+          "isCorrect": true
+        },
+        {
+          "id": 1734766,
+          "label": "C",
+          "text": "is robbed",
+          "isCorrect": false
+        },
+        {
+          "id": 1734767,
+          "label": "D",
+          "text": "was robbing",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1734765,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để tìm đáp án đúng, hãy xác định hai yếu tố chính:</p>\n<ul>\n<li>Thời điểm hành động xảy ra là <em>\"last night\"</em>.</li>\n<li>Xem xét liệu chủ ngữ <em>\"The corner store\"</em> thực hiện hành động <em>\"rob\"</em> hay chịu tác động của hành động đó. Hãy chú ý đến cụm từ <em>\"by a masked gunman\"</em> để nhận diện chủ thể thực hiện hành động.</li>\n</ul>\n<p>Kết hợp hai yếu tố này để chọn dạng động từ phù hợp về cả thì và thể.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thể bị động ở thì quá khứ đơn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một hành động xảy ra trong quá khứ mà chủ thể (S) là người/vật chịu tác động của hành động đó, chứ không phải là người thực hiện hành động.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S (vật/người bị tác động) + was/were + V(pp)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, dấu hiệu <em>\"last night\"</em> cho thấy hành động xảy ra trong quá khứ. Chủ ngữ <em>\"The corner store\"</em> là một vật, không thể tự thực hiện hành động <em>\"rob\"</em> (cướp) mà phải là đối tượng bị cướp. Cụm từ <em>\"by a masked gunman\"</em> càng khẳng định chủ ngữ chịu tác động. Vì vậy, cần sử dụng thể bị động ở thì quá khứ đơn, có cấu trúc là <em>was/were + V(pp)</em> và phương án <em>\"was robbed\"</em> là đáp án chính xác.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều không phù hợp để sử dụng trong cấu trúc của thì Quá khứ đơn thể bị động.</p>",
+      "answerFeedbacks": {
+        "1734764": "Sai vì động từ <em>robbed</em> ở thể chủ động (active voice), nhưng chủ ngữ <em>The corner store</em> phải là đối tượng bị tác động (passive voice).",
+        "1734765": "Đúng vì đây là cấu trúc thể bị động của thì quá khứ đơn (<em>was + V(pp)</em>), phù hợp với hành động xảy ra <em>last night</em> và chủ ngữ bị tác động.",
+        "1734766": "Sai vì đây là cấu trúc thể bị động của thì hiện tại đơn (<em>is + V(pp)</em>), không phù hợp với dấu hiệu thời gian <em>last night</em>.",
+        "1734767": "Sai vì đây là cấu trúc thì quá khứ tiếp diễn ở thể chủ động (<em>was + V-ing</em>), không phù hợp với chủ ngữ bị tác động và hành động đã hoàn thành."
+      },
+      "images": []
+    },
+    {
+      "id": 123161,
+      "questionNumber": 10,
+      "questionName": "5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Animals _____ to survive in the wild, rather than kept in captivity.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 289675,
+          "label": "A",
+          "text": "should help",
+          "isCorrect": false
+        },
+        {
+          "id": 289676,
+          "label": "B",
+          "text": "could been helped",
+          "isCorrect": false
+        },
+        {
+          "id": 289677,
+          "label": "C",
+          "text": "should be helped",
+          "isCorrect": true
+        },
+        {
+          "id": 289678,
+          "label": "D",
+          "text": "could be helping",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 289677,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>Animals</strong>\" chịu t&aacute;c động của h&agrave;nh động \"<strong>help</strong>\". =&gt; Động từ phải được chia ở thể bị động.</p>\n<p>Cấu tr&uacute;c bị động với động từ khuyết thiếu: <strong>S + modal verb + be + V(pp) + ...</strong></p>\n<p>Dich: C&aacute;c lo&agrave;i động vật n&ecirc;n được gi&uacute;p đỡ để sống s&oacute;t trong m&ocirc;i trường hoang d&atilde;, thay v&igrave; bị nhốt.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 22981,
+      "questionNumber": 11,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The room <u>should</u> cleaned <u>once</u> a day but <u>no one</u> is <u>willing</u> to do it.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 70481,
+          "label": "A",
+          "text": "should",
+          "isCorrect": true
+        },
+        {
+          "id": 70482,
+          "label": "B",
+          "text": "once",
+          "isCorrect": false
+        },
+        {
+          "id": 70483,
+          "label": "C",
+          "text": "no one",
+          "isCorrect": false
+        },
+        {
+          "id": 70484,
+          "label": "D",
+          "text": "willing",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 70481,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>the room</strong>\" chịu t&aacute;c động của h&agrave;nh động \"<strong>clean</strong>\". =&gt; Động từ phải ở thể bị động.</p>\n<p>Cấu tr&uacute;c bị động với động từ khuyết thiếu: <strong>S + modal V + be + V(pp)...</strong></p>\n<p>Sửa: \"<strong>should</strong>\" =&gt; \"<strong>should be</strong>\"</p>\n<p>Dịch: Căn ph&ograve;ng n&ecirc;n được dọn dẹp mỗi ng&agrave;y một lần nhưng kh&ocirc;ng ai sẵn l&ograve;ng l&agrave;m việc đ&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 177926,
+      "questionNumber": 12,
+      "questionName": "Question 2:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><u>All</u> the main <u>streets</u> built before the 1950s <u>in</u> this city <u>will widen</u>.</strong></p>\n<div style=\"position: absolute; left: -22px; top: 70.4922px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 408204,
+          "label": "A",
+          "text": "All",
+          "isCorrect": false
+        },
+        {
+          "id": 408205,
+          "label": "B",
+          "text": "streets",
+          "isCorrect": false
+        },
+        {
+          "id": 408206,
+          "label": "C",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 408207,
+          "label": "D",
+          "text": "will widen",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 408207,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>All the main streets</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>widen</strong>\". =&gt; Động từ phải được chia ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động ở th&igrave; tương lai đơn: <strong>S + will + be + V(pp) + (by O)</strong></p>\n<p>Sửa: \"<strong>will widen</strong>\" =&gt; \"<strong>will be widened</strong>\"</p>\n<p>Dịch: Tất cả những tuyến phố ch&iacute;nh m&agrave; được x&acirc;y dựng trước những năm 1950 trong th&agrave;nh phố n&agrave;y sẽ được mở rộng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 22996,
+      "questionNumber": 13,
+      "questionName": "Choose the underlined word or phrase that needs correction.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>A talk <span style=\"text-decoration: underline;\">on teamwork</span> may <span style=\"text-decoration: underline;\">b</span><u><u>e giving</u></u> <u><u><u>by</u></u></u> our Training Manager <span style=\"text-decoration: underline;\">soon</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 70541,
+          "label": "A",
+          "text": "on teamwork",
+          "isCorrect": false
+        },
+        {
+          "id": 70542,
+          "label": "B",
+          "text": "be giving",
+          "isCorrect": true
+        },
+        {
+          "id": 70543,
+          "label": "C",
+          "text": "by",
+          "isCorrect": false
+        },
+        {
+          "id": 70544,
+          "label": "D",
+          "text": "soon",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 70542,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>A</strong> <strong>talk</strong>\" chịu t&aacute;c động của h&agrave;nh động \"<strong>give</strong>\". =&gt; Động từ phải được chia ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động với động từ khuyết thiếu: <strong>S + modal verb + be + V(pp)&nbsp;</strong></p>\n<p>Dịch: Một buổi n&oacute;i chuyện về l&agrave;m việc nh&oacute;m c&oacute; thể sớm được tổ chức bởi Gi&aacute;m đốc đ&agrave;o tạo.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 300487,
+      "questionNumber": 14,
+      "questionName": "2. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The classroom <u>was cleaning</u> by the <u>students</u> when I <u>came</u> yesterday <u>morning</u>.</strong></p>\n<div style=\"position: absolute; left: -17px; top: 70.2614px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 655024,
+          "label": "A",
+          "text": "was cleaning",
+          "isCorrect": true
+        },
+        {
+          "id": 655025,
+          "label": "B",
+          "text": "students",
+          "isCorrect": false
+        },
+        {
+          "id": 655026,
+          "label": "C",
+          "text": "came",
+          "isCorrect": false
+        },
+        {
+          "id": 655027,
+          "label": "D",
+          "text": "morning",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 655024,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>The classroom</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>clean</strong>\". =&gt; Động từ phải được chia ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động ở th&igrave; qu&aacute; khứ tiếp diễn: <strong>S + was/were + being + V(pp)</strong></p>\n<p>Sửa: \"<strong>was cleaning</strong>\" =&gt; \"<strong>was being cleaned</strong>\"</p>\n<p>Dịch: Lớp học đang được c&aacute;c học sinh dọn dẹp khi t&ocirc;i đến lớp s&aacute;ng h&ocirc;m qua.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 179226,
+      "questionNumber": 15,
+      "questionName": "Question 29:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Did they build the circus at the same time as the theater?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 411363,
+          "label": "A",
+          "text": "Was the circus built at the same time as the theater?",
+          "isCorrect": true
+        },
+        {
+          "id": 411364,
+          "label": "B",
+          "text": "Was the circus built at the same time of the theater?",
+          "isCorrect": false
+        },
+        {
+          "id": 411365,
+          "label": "C",
+          "text": "Did they build the circus along with the theater?",
+          "isCorrect": false
+        },
+        {
+          "id": 411366,
+          "label": "D",
+          "text": "Did they build the circus as long as the theater?",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 411363,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>the circus</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>build</strong>\". =&gt; Động từ phải ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động ở th&igrave; qu&aacute; khứ đơn th&ecirc;̉ nghi v&acirc;́n: <strong>Was/Were + S + V(pp)...?</strong></p>\n<p>the N of (the) N: cái gì của cái gì</p>\n<p>along with: cùng với</p>\n<p>as long as + clause: mi&ecirc;̃n là</p>\n<p><em>Các phương án còn lại sai vì:</em></p>\n<ul>\n<li><em>Was the circus built at the same time <span style=\"text-decoration: line-through;\"><strong>of</strong></span> the theater?</em></li>\n<li><em>Did they build the circus <span style=\"text-decoration: line-through;\"><strong>along with</strong></span> the theater?</em></li>\n<li><em>Did they build the circus <span style=\"text-decoration: line-through;\"><strong>as long as</strong></span> the theater?</em></li>\n</ul>\n<p>Dịch: C&oacute; phải họ đ&atilde; x&acirc;y rạp xiếc c&ugrave;ng l&uacute;c với nh&agrave; h&aacute;t kh&ocirc;ng?</p>\n<p>~ Rạp xiếc được x&acirc;y dựng c&ugrave;ng thời điểm với nh&agrave; h&aacute;t đ&uacute;ng kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 178370,
+      "questionNumber": 16,
+      "questionName": "Question 41:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>They developed a vaccine to cope with the flu epidemic.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 409270,
+          "label": "A",
+          "text": "The flu epidemic was developed for them to cope with a vaccine.",
+          "isCorrect": false
+        },
+        {
+          "id": 409271,
+          "label": "B",
+          "text": "The flu epidemic developed a vaccine to cope with them.",
+          "isCorrect": false
+        },
+        {
+          "id": 409272,
+          "label": "C",
+          "text": "A vaccine was developed to cope with the flu epidemic.",
+          "isCorrect": true
+        },
+        {
+          "id": 409273,
+          "label": "D",
+          "text": "The flu epidemic was developed to cope with a vaccine.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 409272,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>a</strong> <strong>vaccine</strong>\" kh&ocirc;ng thể tự thực hiện h&agrave;nh động \"<strong>develop</strong>\" =&gt; Động từ phải ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động ở th&igrave; qu&aacute; khứ đơn: <strong>S + was/were + V(pp) + (by O)</strong></p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em>The flu epidemic <strong><span style=\"text-decoration: line-through;\">was developed for them to cope with</span></strong> a vaccine.</em></li>\n<li><em><span style=\"text-decoration: line-through;\"><strong>The flu epidemic </strong><strong>developed</strong></span> a vaccine to cope with them. (sai nghĩa)</em></li>\n<li><em>The flu epidemic <span style=\"text-decoration: line-through;\"><strong>was developed to cope with a vaccine</strong></span>. (sai nghĩa)</em></li>\n</ul>\n<p>Dịch:&nbsp;Họ đ&atilde; ph&aacute;t triển một loại vắc-xin để đối ph&oacute; với dịch c&uacute;m.</p>\n<p>~ Một loại vắc-xin đ&atilde; được ph&aacute;t triển để đối ph&oacute; với dịch c&uacute;m.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 854840,
+      "questionNumber": 17,
+      "questionName": "đoạn văn",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Read the passage and choose the correct answer for each blank.</strong></p>\n<p style=\"text-align: justify;\">A painting by Francisco Goya named <em>Children with a Cart</em>&nbsp;<strong><span class='fillblank-option'><label>17.1</label><select class='ms fillblank-option-17' index='0' name='fbo-854840-0' data-testid='fillblank-select-854840-0'><option value='' data-testid='fillblank-option-empty-854840-0'></option><option value=\"was\" data-testid='fillblank-option-854840-0-was'>was</option><option value=\"had\" data-testid='fillblank-option-854840-0-had'>had</option><option value=\"is\" data-testid='fillblank-option-854840-0-is'>is</option><option value=\"been\" data-testid='fillblank-option-854840-0-been'>been</option></select></span></strong> stolen while it was <strong><span class='fillblank-option'><label>17.2</label><select class='ms fillblank-option-17' index='1' name='fbo-854840-1' data-testid='fillblank-select-854840-1'><option value='' data-testid='fillblank-option-empty-854840-1'></option><option value=\"been transported\" data-testid='fillblank-option-854840-1-been transported'>been transported</option><option value=\"transporting\" data-testid='fillblank-option-854840-1-transporting'>transporting</option><option value=\"being transported\" data-testid='fillblank-option-854840-1-being transported'>being transported</option><option value=\"transport\" data-testid='fillblank-option-854840-1-transport'>transport</option></select></span></strong> to an exhibition in New York earlier this month. The FBI searched for it for weeks until last Saturday, when they were called <strong><span class='fillblank-option'><label>17.3</label><select class='ms fillblank-option-17' index='2' name='fbo-854840-2' data-testid='fillblank-select-854840-2'><option value='' data-testid='fillblank-option-empty-854840-2'></option><option value=\"with\" data-testid='fillblank-option-854840-2-with'>with</option><option value=\"by\" data-testid='fillblank-option-854840-2-by'>by</option><option value=\"from\" data-testid='fillblank-option-854840-2-from'>from</option><option value=\"for\" data-testid='fillblank-option-854840-2-for'>for</option></select></span></strong> a lawyer who offered to reveal where the painting was.&nbsp;</p>\n<p style=\"text-align: justify;\">It is unlikely that they will display the painting in the show in New York. Therefore, it will instead <strong><span class='fillblank-option'><label>17.4</label><select class='ms fillblank-option-17' index='3' name='fbo-854840-3' data-testid='fillblank-select-854840-3'><option value='' data-testid='fillblank-option-empty-854840-3'></option><option value=\"taken\" data-testid='fillblank-option-854840-3-taken'>taken</option><option value=\"taking\" data-testid='fillblank-option-854840-3-taking'>taking</option><option value=\"take\" data-testid='fillblank-option-854840-3-take'>take</option><option value=\"be taken\" data-testid='fillblank-option-854840-3-be taken'>be taken</option></select></span></strong> back to its home in Ohio. To avoid being stolen again, the painting needs <strong><span class='fillblank-option'><label>17.5</label><select class='ms fillblank-option-17' index='4' name='fbo-854840-4' data-testid='fillblank-select-854840-4'><option value='' data-testid='fillblank-option-empty-854840-4'></option><option value=\"handled\" data-testid='fillblank-option-854840-4-handled'>handled</option><option value=\"been handled\" data-testid='fillblank-option-854840-4-been handled'>been handled</option><option value=\"to be handled\" data-testid='fillblank-option-854840-4-to be handled'>to be handled</option><option value=\"to handle\" data-testid='fillblank-option-854840-4-to handle'>to handle</option></select></span></strong> with extreme care during the entire transportation process and must not <strong><span class='fillblank-option'><label>17.6</label><select class='ms fillblank-option-17' index='5' name='fbo-854840-5' data-testid='fillblank-select-854840-5'><option value='' data-testid='fillblank-option-empty-854840-5'></option><option value=\"let\" data-testid='fillblank-option-854840-5-let'>let</option><option value=\"to let\" data-testid='fillblank-option-854840-5-to let'>to let</option><option value=\"be let\" data-testid='fillblank-option-854840-5-be let'>be let</option><option value=\"letting\" data-testid='fillblank-option-854840-5-letting'>letting</option></select></span></strong> out of sight.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "was"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "being transported"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "by"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "be taken"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "to be handled"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "be let"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Chủ ngữ \"<strong>A painting</strong>\" chịu tác đ&ocirc;̣ng của hành đ&ocirc;̣ng \"<strong>stolen</strong>\" =&gt; đ&ocirc;̣ng từ ở dạng bị đ&ocirc;̣ng.</p>\n<p>Đ&ocirc;̣ng từ được chia thì quá khứ đơn trong vì đ&acirc;y là hành đ&ocirc;̣ng chen ngang trong khi hành đ&ocirc;̣ng khác đang di&ecirc;̃n ra (hành đ&ocirc;̣ng \"transport\").</p>\n<p>C&acirc;́u trúc bị đ&ocirc;̣ng với thì quá khứ đơn: <strong>S + was/were + V(pp)</strong></p>\n<p>2. Chủ ngữ \"<strong>it</strong>\" chịu tác đ&ocirc;̣ng của hành đ&ocirc;̣ng \"<strong>transport</strong>\" =&gt; đ&ocirc;̣ng từ ở dạng bị đ&ocirc;̣ng.</p>\n<p>C&acirc;́u trúc bị đ&ocirc;̣ng với thì quá khứ ti&ecirc;́p di&ecirc;̃n: <strong>S + was/were + being + V(pp)</strong></p>\n<p>3. Đ&ocirc;̣ng từ \"<strong>call</strong>\" ở dạng bị đ&ocirc;̣ng ở thì quá khứ đơn: <strong>S + was/were + V(pp) + by/with O</strong></p>\n<p><strong>by + N</strong>: bởi ai/c&aacute;i g&igrave; =&gt; n&oacute;i về đối tượng trực tiếp thực hiện h&agrave;nh động.</p>\n<p>with + N: với/bằng c&aacute;i g&igrave; =&gt; n&oacute;i về phương tiện, c&ocirc;ng cụ m&agrave; ai đ&oacute; d&ugrave;ng để thực hiện h&agrave;nh động =&gt; kh&ocirc;ng phù hợp với c&acirc;u này.</p>\n<p>4. Chủ ngữ \"<strong>it</strong>\" (thay th&ecirc;́ cho \"<strong>the painting</strong>\") chịu tác đ&ocirc;̣ng của hành đ&ocirc;̣ng \"<strong>take</strong>\" =&gt; đ&ocirc;̣ng từ ở dạng bị đ&ocirc;̣ng.</p>\n<p>C&acirc;́u trúc bị đ&ocirc;̣ng ở thì tương lai đơn: <strong>S + will + be + V(pp)</strong></p>\n<p>5. Chủ ngữ \"<strong>the painting</strong>\" chịu tác đ&ocirc;̣ng của hành đ&ocirc;̣ng \"<strong>handle</strong>\" =&gt; đ&ocirc;̣ng từ ở dạng bị đ&ocirc;̣ng.</p>\n<p>C&acirc;́u trúc bị đ&ocirc;̣ng với đ&ocirc;̣ng từ \"<strong>need</strong>\": <strong>S + need + to be V(pp)</strong></p>\n<p>6. Chủ ngữ \"<strong>the painting</strong>\" kh&ocirc;ng tự thực hi&ecirc;̣n hành đ&ocirc;̣ng \"<strong>let</strong>\" =&gt; đ&ocirc;̣ng từ ở dạng bị đ&ocirc;̣ng.</p>\n<p>C&acirc;́u trúc bị đ&ocirc;̣ng với \"<strong>must</strong>\": <strong>S + must + be V(pp)</strong></p>\n<p>Dịch:&nbsp;</p>\n<p>Một bức tranh của Francisco Goya c&oacute; t&ecirc;n là <em>Children with a Cart</em> đ&atilde; bị đ&aacute;nh cắp khi đang được vận chuyển đến một cuộc triển l&atilde;m ở New York v&agrave;o đầu th&aacute;ng n&agrave;y. FBI đ&atilde; t&igrave;m kiếm bức tranh trong nhiều tuần cho đến thứ Bảy tuần trước, khi họ được một luật sư gọi đến v&agrave; đề nghị tiết lộ nơi bức tranh được cất giữ.</p>\n<p>C&oacute; vẻ như bức tranh sẽ kh&ocirc;ng được trưng b&agrave;y tại buổi triển l&atilde;m ở New York. Thay v&agrave;o đ&oacute;, n&oacute; sẽ được đưa trở về nơi xuất xứ của n&oacute; ở Ohio. Để tr&aacute;nh bị đ&aacute;nh cắp lần nữa, bức tranh cần được xử l&yacute; cực kỳ cẩn thận trong suốt qu&aacute; tr&igrave;nh vận chuyển v&agrave; kh&ocirc;ng được để n&oacute; ngo&agrave;i tầm mắt.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 56824,
+      "questionNumber": 18,
+      "questionName": "Question 3",
+      "questionType": "FillBlank",
+      "questionText": "<p><em><span class=\"word\">Give</span>&nbsp;<span class=\"word\">the</span>&nbsp;<span class=\"word\">correct</span>&nbsp;<span class=\"word\">tense</span>&nbsp;<span class=\"word\">of</span>&nbsp;<span class=\"word\">the</span>&nbsp;<span class=\"word\">verbs</span>&nbsp;<span class=\"word\">in</span>&nbsp;<span class=\"word\">brackets.</span></em></p>\n<p><strong>The surgery must (perform) <span class='fillblank-option'><input id='fbo-56824-0' class='ms fillblank-option-18' index='0' name='fbo-56824-0' type='text' size='15' autocomplete='off' data-testid='fillblank-input-56824-0' /></span> as soon as possible by the doctor.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "be performed"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>The surgery</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>perform</strong>\". =&gt; Động từ phải ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động với động từ khuyết thiếu: <strong>S + modal verb + be + V(pp)&nbsp;</strong></p>\n<p>Dịch: Cuộc phẫu thuật phải được thực hiện c&agrave;ng sớm c&agrave;ng tốt bởi b&aacute;c sĩ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 300267,
+      "questionNumber": 19,
+      "questionName": "3",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Traffic rules should (obey) <span class='fillblank-option'><input id='fbo-300267-0' class='ms fillblank-option-19' index='0' name='fbo-300267-0' type='text' size='13' autocomplete='off' data-testid='fillblank-input-300267-0' /></span> strictly by road users.</strong></p>\n<div style=\"position: absolute; left: 448px; top: 22px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "be obeyed"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>Traffic rules</strong>\" kh&ocirc;ng tự thực hiện h&agrave;nh động \"<strong>obey</strong>\".&nbsp;=&gt; Động từ phải ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động với động từ khuyết thiếu: <strong>S + modal verb + be + V(pp)</strong></p>\n<p>Dịch: Luật giao th&ocirc;ng n&ecirc;n được chấp h&agrave;nh nghi&ecirc;m t&uacute;c bởi người tham gia giao th&ocirc;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 819016,
+      "questionNumber": 20,
+      "questionName": "5",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>When I came yesterday, my car (repair) <span class='fillblank-option'><input id='fbo-819016-0' class='ms fillblank-option-20' index='0' name='fbo-819016-0' type='text' size='20' autocomplete='off' data-testid='fillblank-input-819016-0' /></span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "was being repaired"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Khi diễn tả một h&agrave;nh động đang xảy ra th&igrave; h&agrave;nh động kh&aacute;c chen ngang trong qu&aacute; khứ, ta d&ugrave;ng<strong> </strong></span><strong>th&igrave; qu&aacute; khứ tiếp diễn</strong><span style=\"font-weight: 400;\"> để chỉ h&agrave;nh động đang xảy ra trong qu&aacute; khứ (h&agrave;nh động \"<strong>repair</strong>\") v&agrave; d&ugrave;ng </span><strong>th&igrave; qu&aacute; khứ đơn</strong><span style=\"font-weight: 400;\"> để chỉ h&agrave;nh động hay sự việc chen v&agrave;o (h&agrave;nh động \"<strong>come</strong>\").</span></p>\n<p><span style=\"font-weight: 400;\">Chủ ngữ \"<strong>my car</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>repair</strong>\". =&gt; Động từ phải ở dạng bị động.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c bị động ở th&igrave; qu&aacute; khứ tiếp diễn: <strong>S + was/were + being + V(pp) + (by O)</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: H&ocirc;m qua khi t&ocirc;i đ&ecirc;́n, chi&ecirc;́c xe của t&ocirc;i đang được sửa.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 389457,
+      "questionNumber": 21,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Complete the sentences with the correct active or passive form of the verb in brackets.</strong></p>\n<p>1. The new teammates (should / give) <span class='fillblank-option'><label>21.1</label><input id='fbo-389457-0' class='ms fillblank-option-21' index='0' name='fbo-389457-0' type='text' size='16' autocomplete='off' data-testid='fillblank-input-389457-0' /></span> more time to get accustomed to the practice sessions.&nbsp;</p>\n<p>2. <em>The Times</em> (never / publish) <span class='fillblank-option'><label>21.2</label><input id='fbo-389457-1' class='ms fillblank-option-21' index='1' name='fbo-389457-1' type='text' size='21' autocomplete='off' data-testid='fillblank-input-389457-1' /></span> such a shocking letter before.</p>\n<p>3. The students (instruct) <span class='fillblank-option'><label>21.3</label><input id='fbo-389457-2' class='ms fillblank-option-21' index='2' name='fbo-389457-2' type='text' size='22' autocomplete='off' data-testid='fillblank-input-389457-2' /></span> on what to do by their teacher when the headmaster came in.&nbsp;</p>\n<p>4. The bridge (repair) <span class='fillblank-option'><label>21.4</label><input id='fbo-389457-3' class='ms fillblank-option-21' index='3' name='fbo-389457-3' type='text' size='19' autocomplete='off' data-testid='fillblank-input-389457-3' /></span> at the moment so it (cannot / use) <span class='fillblank-option'><label>21.5</label><input id='fbo-389457-4' class='ms fillblank-option-21' index='4' name='fbo-389457-4' type='text' size='16' autocomplete='off' data-testid='fillblank-input-389457-4' /></span>.&nbsp;</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "should be given"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "has never published"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "were being instructed"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "is being repaired"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "cannot be used",
+            "can't be used",
+            "can’t be used"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Chủ ngữ \"<strong>The new teammates</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>give</strong>\". =&gt; Động từ phải được chia ở thể bị động.</p>\n<p>Cấu tr&uacute;c bị động với động từ khuyết thiếu: <strong>S + modal verb + be + V(pp)</strong></p>\n<p>Dịch: C&aacute;c đồng đội mới n&ecirc;n được cho th&ecirc;m thời gian để l&agrave;m quen với c&aacute;c buổi luyện tập.</p>\n<p>2. Chủ ngữ \"<strong>The Times</strong>\" tự thực hiện h&agrave;nh động \"<strong>publish</strong>\". =&gt; Động từ phải được chia ở thể chủ động.</p>\n<p>Th&igrave; hiện tại ho&agrave;n th&agrave;nh được d&ugrave;ng để diễn tả trải nghiệm của ai/c&aacute;i g&igrave; cho tới hiện tại. Dấu hiệu: \"<strong>before</strong>\", \"<strong>never</strong>\".</p>\n<p>Cấu tr&uacute;c của th&igrave; hiện tại ho&agrave;n th&agrave;nh với \"<strong>never</strong>\": <strong>S + have/has + never + V(pp)</strong></p>\n<p>Dịch: Tờ <em>The Times </em>chưa bao giờ xuất bản một bức thư g&acirc;y sốc như vậy trước đ&acirc;y.&nbsp;</p>\n<p>3. Chủ ngữ \"<strong>The students</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>instruct</strong>\". =&gt; Động từ phải được chia ở thể bị động.</p>\n<p><span style=\"font-weight: 400;\">Khi diễn tả một h&agrave;nh động đang xảy ra th&igrave; h&agrave;nh động kh&aacute;c chen ngang trong qu&aacute; khứ, ta d&ugrave;ng<strong> </strong></span><strong>th&igrave; qu&aacute; khứ tiếp diễn</strong><span style=\"font-weight: 400;\"> để chỉ h&agrave;nh động đang xảy ra trong qu&aacute; khứ (h&agrave;nh động \"<strong>instruct</strong>\") v&agrave; d&ugrave;ng </span><strong>th&igrave; qu&aacute; khứ đơn</strong><span style=\"font-weight: 400;\"> để chỉ h&agrave;nh động hay sự việc chen v&agrave;o (h&agrave;nh động \"<strong>come</strong>\").</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c của th&igrave; qu&aacute; khứ tiếp diễn ở thể bị động: <strong>S + was/were + being + V(pp)</strong></span></p>\n<p>Dịch: C&aacute;c học sinh đang được gi&aacute;o vi&ecirc;n hướng dẫn phải l&agrave;m g&igrave; th&igrave; hiệu trưởng bước v&agrave;o.</p>\n<p>4. Chủ ngữ \"<strong>The bridge</strong>\" v&agrave; \"<strong>it</strong>\" bị t&aacute;c động lần lượt bởi c&aacute;c h&agrave;nh động \"<strong>repair</strong>\" v&agrave; \"<strong>use</strong>\". =&gt; Động từ phải được chia ở thể bị động.</p>\n<p>Động từ \"<strong>repair</strong>\" được chia ở th&igrave; hiện tại tiếp diễn để diễn tả h&agrave;nh động đang xảy ra nhưng kh&ocirc;ng nhất thiết ở thời điểm n&oacute;i. Dấu hiệu: \"<strong>at the moment</strong>\".</p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c của th&igrave; hiện tại tiếp diễn ở thể bị động: <strong>S + am/is/are + being + V(pp)</strong></span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c bị động với động từ khuyết thiếu: <strong>S + modal verb + be + V(pp)</strong></span></p>\n<p>Dịch: Hiện tại, c&acirc;y cầu đang được sửa chữa, v&igrave; vậy n&oacute; kh&ocirc;ng thể được sử dụng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 142621,
+      "questionNumber": 22,
+      "questionName": "4",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "two years.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "every",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "held",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "This festival",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "is",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 225806,
+      "questionNumber": 23,
+      "questionName": "The paintings at the exhibition were shown two weeks ago.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "shown",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "ago.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "two weeks",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "The paintings",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "were",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "at",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "the exhibition",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 208181,
+      "questionNumber": 24,
+      "questionName": "Some important documents are being prepared for the trial by the lawyer.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</span></em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "prepared",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "the lawyer.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "being",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "are",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "by",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "Some important documents",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "the trial",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "for",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 711747,
+      "questionNumber": 25,
+      "questionName": "chat",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>The chef was cooking a delicious meal for the guests.</strong></p>\n<p><strong>=&gt; A delicious meal <span class='fillblank-option'><input id='fbo-711747-0' class='ms fillblank-option-25' index='0' name='fbo-711747-0' type='text' size='18' autocomplete='off' data-testid='fillblank-input-711747-0' /></span> for the guests by the chef.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "was being cooked"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>A delicious meal</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>cook</strong>\". =&gt; Động từ phải ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động ở th&igrave; qu&aacute; khứ tiếp diễn: <strong>S + was/were + being + V(pp) + (by O)</strong></p>\n<p><span style=\"font-weight: 400;\">Dịch:&nbsp;</span>Đầu bếp đang nấu một bữa ăn ngon cho kh&aacute;ch.</p>\n<p>~ Một bữa ăn ngon đang được đầu bếp nấu cho kh&aacute;ch.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 50458,
+      "questionNumber": 26,
+      "questionName": "37",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning as the first.</em></p>\n<p><strong>The school will announce the exam results in two weeks.</strong></p>\n<p><strong>=&gt; The exam results <span class='fillblank-option'><input id='fbo-50458-0' class='ms fillblank-option-26' index='0' name='fbo-50458-0' type='text' size='20' autocomplete='off' data-testid='fillblank-input-50458-0' /></span> by the school in two weeks.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "will be announced"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>the exam results</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>announce</strong>\". =&gt; Động từ phải ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động ở th&igrave; tương lai đơn: <strong>S + will + be + V(pp) + (by O)</strong></p>\n<p>Dịch: Nh&agrave; trường sẽ c&ocirc;ng bố kết quả thi trong hai tuần nữa.</p>\n<p>~ Kết quả thi sẽ được nh&agrave; trường c&ocirc;ng bố trong hai tuần nữa.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 345757,
+      "questionNumber": 27,
+      "questionName": "40",
+      "questionType": "FillBlank",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete the second sentence so that it has the same meaning to the first.</span></em></p>\n<p><strong>You can find flowers in almost every part of the world.</strong></p>\n<p><strong>=&gt; Flowers <span class='fillblank-option'><input id='fbo-345757-0' class='ms fillblank-option-27' index='0' name='fbo-345757-0' type='text' size='40' autocomplete='off' data-testid='fillblank-input-345757-0' /></span> the world.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "can be found in almost every part of"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>Flowers</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>find</strong>\". =&gt; Động từ phải ở dạng bị động.</p>\n<p>Cấu tr&uacute;c c&acirc;u bị động với động từ khuyết thiếu: <strong>S + modal verb + be + V(pp)</strong></p>\n<p>Dịch:&nbsp;Bạn c&oacute; thể t&igrave;m thấy hoa ở hầu hết mọi nơi tr&ecirc;n thế giới.</p>\n<p>~ Hoa c&oacute; thể được t&igrave;m thấy ở hầu hết mọi nơi tr&ecirc;n thế giới.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+  "quizId": 16334,
+  "title": "Ôn luyện Từ vựng thi vào 10 số 61: World Englishes (Set 1)",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": 905836,
+      "questionNumber": 1,
+      "questionName": "Expanding Circle, Outer Circle, Inner Circle, official language",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Drag and drop to complete the sentences.</strong></p>\n<p>1. The <strong><span class='fillblank-option'><label>1.1</label><input id='fbo-905836-0' class='ms fillblank-option-1' index='0' name='fbo-905836-0' type='text' size='17' autocomplete='off' data-testid='fillblank-input-905836-0' /></span></strong> includes countries where people learn English as a language besides their mother tongue.</p>\n<p>2. In the <strong><span class='fillblank-option'><label>1.2</label><input id='fbo-905836-1' class='ms fillblank-option-1' index='1' name='fbo-905836-1' type='text' size='16' autocomplete='off' data-testid='fillblank-input-905836-1' /></span></strong>, English is the native language of people from these countries.</p>\n<p>3. The <strong><span class='fillblank-option'><label>1.3</label><input id='fbo-905836-2' class='ms fillblank-option-1' index='2' name='fbo-905836-2' type='text' size='13' autocomplete='off' data-testid='fillblank-input-905836-2' /></span></strong> consists of countries where English has historical significance but is not native.</p>\n<p>4. In Canada, English is considered<strong> </strong>the<strong> <span class='fillblank-option'><label>1.4</label><input id='fbo-905836-3' class='ms fillblank-option-1' index='3' name='fbo-905836-3' type='text' size='19' autocomplete='off' data-testid='fillblank-input-905836-3' /></span></strong> of the country.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1734724,
+          "label": "A",
+          "text": "official language",
+          "isCorrect": false
+        },
+        {
+          "id": 1734723,
+          "label": "B",
+          "text": "Outer Circle",
+          "isCorrect": false
+        },
+        {
+          "id": 1734721,
+          "label": "C",
+          "text": "Expanding Circle",
+          "isCorrect": false
+        },
+        {
+          "id": 1734722,
+          "label": "D",
+          "text": "Inner Circle",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Expanding Circle"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Inner Circle"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "Outer Circle"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "official language"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"0ACF81FB\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX19oYZvIe8moRugMPqCkMgelvWwUsbz33dejMNMM%2BsJ0SW3kEJQjZOPAyDQ%2BSvpf4tU3joayxWuPPgHFTWs1YfmlVOtsQ6AVVm4iUpQEA1zjn0vkHh41gd8DCeNuB5%2B77zEOaVogM%2FZUvWzFKgnqkHRCvtBHYNWGztdUo6aNgCIPX1B9kFyxKcDTHteNWw0388bERojHlkEEypqqxBYXGzY%2B8b5%2BQmKSQLtuMqBLSlBZK5GWYlTVcPYHR2lDHHtu2fmRocG5SLUWH9iG3U8rEVXupSOSbWNXRcurDWVJInnAY5arKlBZJZrgPfvkBx%2FNwZhDVsJ6tuqM5jihA5kl6QH8UNzBghAf7mlqxbtAMR7kc0wehOxUoW5EJrCXbpweVZoSLB%2B2eVAcaODBTgCjePyWW5vcCRsr1uc%3D\" width=\"100%\" height=\"445\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch:&nbsp;</p>\n<p>1. C&aacute;c khu vực d&ugrave;ng nhiều loại tiếng Anh trong ngữ cảnh ngoại ngữ bao gồm c&aacute;c quốc gia m&agrave; người d&acirc;n học tiếng Anh như một ng&ocirc;n ngữ ngo&agrave;i tiếng mẹ đẻ.</p>\n<p>2. Trong c&aacute;c quốc gia n&oacute;i tiếng Anh truyền thống, tiếng Anh l&agrave; ng&ocirc;n ngữ mẹ đẻ của người d&acirc;n từ c&aacute;c quốc gia này.</p>\n<p>3. Những quốc gia thuộc địa cũ của Anh bao gồm c&aacute;c quốc gia m&agrave; tiếng Anh c&oacute; &yacute; nghĩa lịch sử nhưng kh&ocirc;ng phải l&agrave; tiếng mẹ đẻ.</p>\n<p>4. Ở Canada, tiếng Anh được coi l&agrave; ng&ocirc;n ngữ ch&iacute;nh thức của đất nước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905849,
+      "questionNumber": 2,
+      "questionName": "global language",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>English is often seen as a <span style=\"text-decoration: underline;\">global</span> language that connects people from different countries and cultures.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1720094,
+          "label": "A",
+          "text": "digital",
+          "isCorrect": false
+        },
+        {
+          "id": 1720095,
+          "label": "B",
+          "text": "national",
+          "isCorrect": false
+        },
+        {
+          "id": 1720096,
+          "label": "C",
+          "text": "international",
+          "isCorrect": true
+        },
+        {
+          "id": 1720097,
+          "label": "D",
+          "text": "traditional",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1720096,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"77068677\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2BFd6TwDX61sa3%2F4HHsQzYYNbI2LkfWdSssOFp4%2BT5YMNmdYtaU2HmnmvRqiBNuF2r4HQhwFrg9fagmH45kjxvLmz5azI0ui4GlYsgWlJ0SIVKnU6StoJMpMBOlYjq2cGJ%2FFpYgpqhhr5SszZa201YndVnYxMI01qPTECJmQg999ylweflgvfcCn%2F2n5R1GrMw5pIGjMOY7p36PxbNJOkMsTTcurPF5ec1U8uoexzeD2SW7GC9ooZsdDIwnup%2FX3FltwMFuwjXfPT61hvfDmytmKePQ%2FkrsThZU6MOXFlA9hOCmyCLcBT98%2BagTrsxPqnVuFbwfuDxQeRU3UJehTZrKgLYBij%2FIVScpyDyMWkJkBGhHftGTLRHw6LFN3iWMXcg%2FeZlUKb6hSdv6UIU7HyZyqtOVbwJHmDJ8PaG76NnND5MEvkDcd9HvGSsyhfoqdIyOVNF4SMyp2Q%3D%3D\" width=\"100%\" height=\"365\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Tiếng Anh thường được coi l&agrave; ng&ocirc;n ngữ to&agrave;n cầu kết nối mọi người từ c&aacute;c quốc gia v&agrave; nền văn h&oacute;a kh&aacute;c nhau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905861,
+      "questionNumber": 3,
+      "questionName": "establish",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>Many cities <span style=\"text-decoration: underline;\">establish</span> English language centers to teach English to poor children freely.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1720116,
+          "label": "A",
+          "text": "set up",
+          "isCorrect": true
+        },
+        {
+          "id": 1720117,
+          "label": "B",
+          "text": "give up",
+          "isCorrect": false
+        },
+        {
+          "id": 1720118,
+          "label": "C",
+          "text": "clean up",
+          "isCorrect": false
+        },
+        {
+          "id": 1720119,
+          "label": "D",
+          "text": "stock up",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1720116,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"5034C01B\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2Bumm%2FFjTjJsMmOjxPRJYo1PWlSJAHRH8aGZIjgqsWUHdNNQCvfz4Mhj%2FdBQHxPEvMaM%2F0SYzhFWVA9e5iyvkP9YFBbK%2FNX5gaPuPGL%2BZsnfVjt6%2FoHHPSFBYDmZQghFoqw30ji0R17h1vRN1wPLNr%2FO5t3ZZgRA0HmHByfX%2FIRArJp1bHEavRDUVsTeMDbxYpmf1bH%2FK%2B9xwXuJ9ONzi7UvxVbMPztinsdH02HpbfjkRmxTpqcp5mwCSShqtyqWnwo6IszT3Ahmy8rTQ2sNdSrJsC0ipQQZDlFbTuA37XMRJIQpahHQGXlSujfPZ91uc34DxWfFDI2FlZVc4xXa3vfVLgtrhZnNmAmDcsSfMslYl5dY12e0LqgUFMpQj23PBjKeE32Vpu%2BRbPty2N6fpa6Fb6cLhnr3Tp%2F%2BsAzEspFSa7QjmqW%2B%2F7Y8ezuknQAysViMe4lvL7yCp6czkEpkjPxwtdryyafLCqj0t3C6MiuAMx8c24BrKwKlzRR8zmQUu2lI908K%2BpMOA%3D%3D\" width=\"100%\" height=\"480\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Nhiều th&agrave;nh phố th&agrave;nh lập c&aacute;c trung t&acirc;m tiếng Anh để dạy tiếng Anh miễn ph&iacute; cho trẻ em ngh&egrave;o.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905868,
+      "questionNumber": 4,
+      "questionName": "common language",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>English has become a <span style=\"text-decoration: underline;\">common</span> language for people who speak different native languages.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1720132,
+          "label": "A",
+          "text": "ancient",
+          "isCorrect": false
+        },
+        {
+          "id": 1720133,
+          "label": "B",
+          "text": "modern",
+          "isCorrect": false
+        },
+        {
+          "id": 1720134,
+          "label": "C",
+          "text": "spoken",
+          "isCorrect": false
+        },
+        {
+          "id": 1720135,
+          "label": "D",
+          "text": "shared",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1720135,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"9F755EC9\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2FDh0dlu9ISFdaorBqme3dTRIZqnMHlS1foh2jKaWpgQ7iVGfxC8F%2F%2FYHt%2FkcsMY2kaWFg1KpZ39CLbcAkcFT5keTU0KuqKDPOsR5OLMoFd%2F3uBstntP74O%2Fjtu4paEk2rR6k44nCqW8UIg9jXxFOURow4Lt0lF1J5g9D9%2F%2FLnNM8ZRjMOTzNbZDN9nQfsjGmg065n%2BNYoXzGlsJ%2BZxZkhyeT5f%2FEwhQ4V%2F3aW2liDM1PKuAJ0kdvm%2FRxpJ56VtZF%2FJ%2FLfi9kvfRi3tVcQUN2IILBpnyUiVhjEZ9vm8GfFg3aeZfC%2FOsQj9XD6sElKklgdim8kV3uS3UTouz%2BM%2B9Ln1z6PH%2FDcB7QP%2FUESgEOMOjYXgPZCslidNu6F15%2B%2Fm3VvfwYF6uvubWpji6E%2BCCfd%2F%2BQHvzl4cs6PgXqmxAuxQDN8D7elRqCW0\" width=\"100%\" height=\"365\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Tiếng Anh đã trở th&agrave;nh ng&ocirc;n ngữ chung cho những người n&oacute;i nhiều ng&ocirc;n ngữ bản địa kh&aacute;c nhau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 906110,
+      "questionNumber": 5,
+      "questionName": "means of communication",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>In many countries, English is used as a <span style=\"text-decoration: underline;\">means</span> of communication in international schools and businesses.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1720534,
+          "label": "A",
+          "text": "method",
+          "isCorrect": true
+        },
+        {
+          "id": 1720535,
+          "label": "B",
+          "text": "rule",
+          "isCorrect": false
+        },
+        {
+          "id": 1720536,
+          "label": "C",
+          "text": "sign",
+          "isCorrect": false
+        },
+        {
+          "id": 1720537,
+          "label": "D",
+          "text": "solution",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1720534,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"935A2E03\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2FmPn2uCNl%2BVD4oz3IqUtytsHXLqUPNGeAAhlNQBTTQf%2BLvyysXY0kzjGFNGiiqic6BxSs1t2vLrIdde9ZBEolpih2g%2Bpf%2BlRMqg8JnIzvw16la26UFqhdKDw8oIRCpj4o8CgntNxbWmze8vrJqAVfk8C71w2Aao%2FLrIhCZMwPuqYHIvQY6Uf2Xq274XimUJK1XibvIFhHqNG1s%2FdYCnrPoOIS8SOzpX4m6bd9xby1FBQDv8F56kf%2FQSZOjvybkFx18aoiT7xvZUK9U2P2Ip%2FAz0eoT37T%2Bkla6xvxn4Kc6iPaofL1WOOXgAPsZnu%2BsGCcKBMOLWzYGaPEsmjA3YIOXbuptkwWtD1oR6x%2B7zaRQeplrmollgBiCNve0VEpRJ%2FCRXhY44%2BIwgqB2Vcauf1d6cShruhHuKl4%3D\" width=\"100%\" height=\"365\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Ở nhiều quốc gia, tiếng Anh được sử dụng l&agrave;m phương tiện giao tiếp trong trường học v&agrave; doanh nghiệp qu&ocirc;́c t&ecirc;́.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 906039,
+      "questionNumber": 6,
+      "questionName": "foreign",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Although many _____ languages have been introduced into the country, English is still the most preferred.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1720422,
+          "label": "A",
+          "text": "local",
+          "isCorrect": false
+        },
+        {
+          "id": 1720423,
+          "label": "B",
+          "text": "dead",
+          "isCorrect": false
+        },
+        {
+          "id": 1720424,
+          "label": "C",
+          "text": "historical",
+          "isCorrect": false
+        },
+        {
+          "id": 1720425,
+          "label": "D",
+          "text": "foreign",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1720425,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"AD9C2C66\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2B0FLNC6YMIfn7W7MvX7vkeeFDfnBheb3LNUgihT7DGce1g2prb5WMXgDIsr4zFi6gEupIQu3hBRvWj4aK%2FLaOSxJqXnzRZoAqQ2nl%2FOxYLp8E4GQT%2F3hDfeb8fZremWTusjFhdCzgtxCe8ZhgXz%2BbDbvhUGQn5P6ORiw67idIS1kFIEzxd%2FazZ3CXsQc8EzrU13yM%2BFzjXlHpMdGHFbwn1zT5yu%2FvBCbWFOztFIqN8%2BU3i2XNZzrf8HxtmVeuJ313C5PTqikTlcJ%2BP4gFQ3bE2UO6l2esmSBE6BIOwaDfI3JE9yfDuU0JSJxapad10cR67cs3TAbXl9nAh8b3o6NEEobXPcJ%2FxoCSilNlemEDxs8u3CBwkiuYSN8jOHRj0JsXCd9%2FbPZ46nw%3D%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Mặc d&ugrave; nhiều ng&ocirc;n ngữ nước ngo&agrave;i đ&atilde; được du nhập v&agrave;o đất nước n&agrave;y, tiếng Anh vẫn l&agrave; ng&ocirc;n ngữ được ưa chuộng nhất.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 906040,
+      "questionNumber": 7,
+      "questionName": "linguist",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The job of this _____ is to study the differences in English speaking around the world.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1720426,
+          "label": "A",
+          "text": "linguist",
+          "isCorrect": true
+        },
+        {
+          "id": 1720427,
+          "label": "B",
+          "text": "dentist",
+          "isCorrect": false
+        },
+        {
+          "id": 1720428,
+          "label": "C",
+          "text": "activist",
+          "isCorrect": false
+        },
+        {
+          "id": 1720429,
+          "label": "D",
+          "text": "physicist",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1720426,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"BBBF82C7\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19177j49ijR1WjuLin7NPLdkKuhwBSzBNHoEmngnwAbbd9cS1rHRH4GTySST3GA0YToJodKZIq6opJ5sQy4paKTWRsBMAT2HubjAGpdrcLJIYMFXj%2BP0QtdGvV1rEz%2BM3TMyrhAQ7xiMAfKoga0VJOKB4iTETI0eJawYlYXOLIgzulSaRgskH52vBQAxV4eGXOTG%2BALqqeinsQdVuoOo9YtIC9Sd5XysmFMT8o7w%2BJM7zCQyIOuPNwhQRgBAqQyoLIRTxk3fMal2VZL1JgvtkLx9zNEBj7djeeWBITfSlrAfx%2BH7IuQicfcsvfY6MCzXGJQBrn89b5O1y0U4wHeUJmwzmSyHcsJ%2FPXExxBh72nVfYJKTN%2FAYHBE\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: C&ocirc;ng việc của nh&agrave; ng&ocirc;n ngữ học đó l&agrave; nghi&ecirc;n cứu sự kh&aacute;c biệt trong c&aacute;ch n&oacute;i tiếng Anh tr&ecirc;n to&agrave;n thế giới.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 906041,
+      "questionNumber": 8,
+      "questionName": "invent",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>People _____ new words in English to reflect their culture and daily life.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1720430,
+          "label": "A",
+          "text": "register",
+          "isCorrect": false
+        },
+        {
+          "id": 1720431,
+          "label": "B",
+          "text": "invent",
+          "isCorrect": true
+        },
+        {
+          "id": 1720432,
+          "label": "C",
+          "text": "detest",
+          "isCorrect": false
+        },
+        {
+          "id": 1720433,
+          "label": "D",
+          "text": "construct",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1720431,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"99FA8F1B\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19zjNu9lkRVlSyhv76u7sMaeByMzYqYd3TULz7D36WJmI7eYOI%2B8ZDwwO8WBA5vnUZkruWd8bkMObyaGbwAK7WaMMfEeCVJiXu7ndWGgBhS8QlW7J29PgnV5uBzd%2Bf7Wk5tPffY9MZGNgLZo3BRlG6lqgNrQ3qLW7H9WNC0bxRybNqerTdK1fAh6hn2D4ewLoB0cKXP84RFdDX1b6c%2F3LhNjZQDmainuHkpPCXaY8JiNAOkcX92qnGY1N7zq1hd2sLjsJvcRAZARlz5MBqUZ9rD34wSqPKNcOeZVsoR5nElf90ZUeZmLEqYBsNGdY9gioIHc6xWctS%2FsrI6yJEx5Xt2WouI1XB5wes%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Mọi người s&aacute;ng tạo ra những từ mới trong tiếng Anh để phản &aacute;nh văn h&oacute;a v&agrave; cuộc sống h&agrave;ng ng&agrave;y của họ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 906042,
+      "questionNumber": 9,
+      "questionName": "relation",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>There is a strong _____ between the spread of English and global communication.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1720434,
+          "label": "A",
+          "text": "choice",
+          "isCorrect": false
+        },
+        {
+          "id": 1720435,
+          "label": "B",
+          "text": "conflict",
+          "isCorrect": false
+        },
+        {
+          "id": 1720436,
+          "label": "C",
+          "text": "divison",
+          "isCorrect": false
+        },
+        {
+          "id": 1720437,
+          "label": "D",
+          "text": "relation",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1720437,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"CC82D837\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FSShDfJh6EwnRQRK%2BZv9uPJF5TFSMcM2VZMUPm9pQAdEWh8txr52li7eibY%2BihhoGGmO7YQqxOG4Yh4ZI%2FwHqy5H74XKqWYWhWUU0pkaH0Cy1R8qyd7IPIXI7gcf0Q%2FRG5tOZ3qOizNWXUhVhzcv1Bx%2BGSF9mcryEJRSelsTBW1wZhgK5joN2nFSzphDDPeAx%2BqhOoX8wU2zkuaaa8%2F%2B6aV15cVYMqDOFbqe1tWYcBBXCFXic1CWeJDU1ZioD2Vm7LO8II0HdmPf%2B2pD5uTjsfaFp4zWyu550gmSmwWNzB0aCaKOr04wVOBULSHJVQtOg3G3Y%2F0jMVW%2FnS0IyCslLSGXl9xCycheFJHmWd8eA9QUaUKzSljUGn\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: C&oacute; mối li&ecirc;n hệ chặt chẽ giữa sự phổ biến của tiếng Anh v&agrave; giao tiếp to&agrave;n cầu.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 906043,
+      "questionNumber": 10,
+      "questionName": "model",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>In 1992, Crystal proposed a _____ to explain the global spread of English across different regions.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1720438,
+          "label": "A",
+          "text": "model",
+          "isCorrect": true
+        },
+        {
+          "id": 1720439,
+          "label": "B",
+          "text": "costume",
+          "isCorrect": false
+        },
+        {
+          "id": 1720440,
+          "label": "C",
+          "text": "district",
+          "isCorrect": false
+        },
+        {
+          "id": 1720441,
+          "label": "D",
+          "text": "wave",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1720438,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe id=\"embed-frame-D3318\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BaudxLz4EAaPerKRPyds5FpjMZVUh8Tf3B7bsQcHq6gl4RUk17c2wmrt3N0TIxERIqANrKY1Ej1DGJTaupcz2UyRB0ormv%2BIzi8rOB1fO4Zswoeqpd%2BucdA6tqEYcOzPwFAr%2BEG8Y9w30up8SiPhS%2F0XVoh1Fl9VkNnX945vlIw2X00FuIG6FCQGsiRe6xXpqULkMIaDMADpuUYLNke245WmpJQyxgLTDCiGg9T8F81uCikPzGWbloDW%2BARxdSp0XMOYaBm7uRuQvA%2Fj%2BgBslajK6wmWTX6V9NWEbv28CaDjhtKFehtIjbKfgZiCH9LnSVYd0jGhUjxi%2BdLL7ojulR7BtYl3jkMjpiy7845mjsYJ94%2FP7FmVeR\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Vào năm 1992, Crystal đề xuất một m&ocirc; h&igrave;nh để giải th&iacute;ch sự lan truyền của tiếng Anh tr&ecirc;n to&agrave;n cầu ở nhiều khu vực kh&aacute;c nhau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 906044,
+      "questionNumber": 11,
+      "questionName": "concentric",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Kachru's model uses three _____ circles to illustrate how English is used in different regions worldwide.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1720442,
+          "label": "A",
+          "text": "inner",
+          "isCorrect": false
+        },
+        {
+          "id": 1720443,
+          "label": "B",
+          "text": "solar",
+          "isCorrect": false
+        },
+        {
+          "id": 1720444,
+          "label": "C",
+          "text": "concentric",
+          "isCorrect": true
+        },
+        {
+          "id": 1720445,
+          "label": "D",
+          "text": "severe",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1720444,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"335DB479\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2F3D75Jd9UcFEAb3iMgTvie6mPxBnoslqh7B5zutvAo5ziaSS9gc3%2F0PM1IwhYY1TIAhGMxU1t1%2BGycOow59Re21eSEYI77nxuCYBmAH3fCFLWW2rmuq3JawXlLyosAmH8TVF9bEt6G7Ydrg07nyRWeLDukGMB%2BHhfAfRA%2FH0Yv6OefK31UzFPafOkew7GdNq9yvKQQ%2Bkzmsb54nS8MQx33u%2BwSjaFIsrUuFyonYoUj7YeeYyz3UTEw2p7CrnBiXB1sSuh0x%2BME%2BX7FHJ5EhaPzHmkGdx0s8iNYsd3rORabKsR9Em%2BEnhxE48hkaSUozZbb%2BUwxZRl8GG5UHSqMuAWijY3gBurkULKy1Zh8GYq%2FpqwuRUIaRcW5\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: M&ocirc; h&igrave;nh của Kachru sử dụng ba v&ograve;ng tr&ograve;n đồng t&acirc;m để minh họa c&aacute;ch tiếng Anh được sử dụng ở c&aacute;c khu vực kh&aacute;c nhau tr&ecirc;n to&agrave;n thế giới.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905883,
+      "questionNumber": 12,
+      "questionName": "development",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentence by changing the form of the word in capitals.</em></p>\n<p><strong>The <span class='fillblank-option'><input id='fbo-905883-0' class='ms fillblank-option-12' index='0' name='fbo-905883-0' type='text' size='12' autocomplete='off' data-testid='fillblank-input-905883-0' /></span> of World Englishes reflects how English adapts to different cultures and countries. (DEVELOP)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "development"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại c&acirc;̀n đi&ecirc;̀n: danh từ, theo sau mạo từ \"<strong>the</strong>\" trong c&acirc;́u trúc \"<strong>the N + of + N</strong>\" (cái gì của cái gì)</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"557A257A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19Dvs8BadWKBXqma5%2Bktnp2K5b8Kec4xCxm8XxnBBHfHYj9S93K%2BlwamGtxOhZCW9cguXsyqP%2FjmaUbqWMuQ%2F9gSgm%2F8tfN%2B6zR%2FeR0Vvs8NNf0O1WuHizNsUyHOW50CboFialGnte6LU3cIQh15kXUId3qxtBoj240A%2FpBwCQizQU1VZXeLJqu7OeS5TLoDenw8OKCQw4%2BJRqd86Fl5S694QSRp0hQioLu4Xs5rqez5ToaczjrfCzlwIdW6nrDGK6bBKqoVBreAbwC2V399zStk6BfRphvldFqEGHOAi1VvEPKJj60x43h8F3OMQfTwkE8gWP5AeqkZOcwE5VJMghfpJeZ9EVFVX%2BQb6z9hoyjr1e9Ug3IXpq0\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Sự ph&aacute;t triển của tiếng Anh toàn c&acirc;̀u phản &aacute;nh c&aacute;ch tiếng Anh th&iacute;ch ứng với c&aacute;c nền văn h&oacute;a v&agrave; quốc gia kh&aacute;c nhau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905870,
+      "questionNumber": 13,
+      "questionName": "decision",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentence by changing the form of the word in capitals.</em></p>\n<p><strong>The government made a <span class='fillblank-option'><input id='fbo-905870-0' class='ms fillblank-option-13' index='0' name='fbo-905870-0' type='text' size='9' autocomplete='off' data-testid='fillblank-input-905870-0' /></span> to teach English in schools to prepare students for global integration. (DECIDE)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "decision"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại c&acirc;̀n đi&ecirc;̀n: danh từ s&ocirc;́ ít, theo sau mạo từ \"<strong>a</strong>\" và làm t&acirc;n ngữ sau đ&ocirc;̣ng từ \"<strong>made</strong>\".</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"E9CB9416\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19qiejGw7B3vMNmgkDZE8g5DUeURAJS8HL3NkmEYZikdgNz0H7%2BgJPCgPOA2Mi8x%2B8mqydw1IDLgqfvPJGDoZ7e3mYW4s6puYWoz9p5f7ZiCegaOJHmozgu8RFOkZr%2Fz0DYX%2F0hhelQXy864GJ5K4eY4ujUsddLG6Szi3zHiHbCkeoAW6NDHPTxD4hjL5rlIQ0q%2FaWDL4IfxqHC%2FwqGih7OJVulH7EPxuVDklEm8AU6yqfJRurH3ELSCyYY52VyHUpWEecIYJtJhilhLz7vQmcuNiBh5Ivhylde%2FMm7p0g%2FD5h1dCBw%2Bu9yJwzCNe9icbSuSFoZ9AdkR9kodmJhasO5wWD8baZTCImjTH%2FIjlgvSwtzb0NnLajs\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Ch&iacute;nh phủ đ&atilde; quyết định dạy tiếng Anh trong trường học để chuẩn bị cho học sinh hội nhập to&agrave;n cầu.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 906075,
+      "questionNumber": 14,
+      "questionName": "native speaker, second language, first language, standard",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Read the conversation and then choose the correct answer to fill in each blank.</strong></p>\n<p>Nga: Hi, Quang! I was reading about World Englishes and got curious. Do you know what a <strong><span class='fillblank-option'><label>14.1</label><select class='ms fillblank-option-14' index='0' name='fbo-906075-0' data-testid='fillblank-select-906075-0'><option value='' data-testid='fillblank-option-empty-906075-0'></option><option value=\"public\" data-testid='fillblank-option-906075-0-public'>public</option><option value=\"native\" data-testid='fillblank-option-906075-0-native'>native</option></select></span></strong> speaker of English is?</p>\n<p>Quang: Yes, it is someone who speaks English as their <strong><span class='fillblank-option'><label>14.2</label><select class='ms fillblank-option-14' index='1' name='fbo-906075-1' data-testid='fillblank-select-906075-1'><option value='' data-testid='fillblank-option-empty-906075-1'></option><option value=\"first\" data-testid='fillblank-option-906075-1-first'>first</option><option value=\"foreign\" data-testid='fillblank-option-906075-1-foreign'>foreign</option></select></span></strong>&nbsp;language, like people from the UK or the US.</p>\n<p>Nga: That makes sense! What about people who speak English as a <strong><span class='fillblank-option'><label>14.3</label><select class='ms fillblank-option-14' index='2' name='fbo-906075-2' data-testid='fillblank-select-906075-2'><option value='' data-testid='fillblank-option-empty-906075-2'></option><option value=\"written\" data-testid='fillblank-option-906075-2-written'>written</option><option value=\"second\" data-testid='fillblank-option-906075-2-second'>second</option></select></span> </strong>language?</p>\n<p>Quang: Well, many people around the world speak English to connect with others or for work, not because it is their mother tongue. It&#8217;s common in countries like India or Singapore.</p>\n<p>Nga: Interesting! Is there any <strong><span class='fillblank-option'><label>14.4</label><select class='ms fillblank-option-14' index='3' name='fbo-906075-3' data-testid='fillblank-select-906075-3'><option value='' data-testid='fillblank-option-empty-906075-3'></option><option value=\"standard\" data-testid='fillblank-option-906075-3-standard'>standard</option><option value=\"degree\" data-testid='fillblank-option-906075-3-degree'>degree</option></select></span></strong> in English?</p>\n<p>Quang: Yes, there are certain rules for grammar and pronunciation, but English can be different in various countries.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "native"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "first"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "second"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "standard"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"4E48EA5D\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX18ikD3P0YX3ZwAUr9XpzqunbjBbPLdFf55Jn0w0siN6lEEb5pUoAFzO8NJRVXST4qxUMa8hcVDJHjfmy2Qwz1sRLXIc7oYLW%2Fj7CEtk6x9kqcU5yIHkWn6DdqVkn0ihDhFjrQpaxwm%2FrQBQqZOTPnFXUKXWbE7Z46nYpGQzGQz%2FzMU1XSH08Q9YSQqad9rBEJ44defJQMrYpw9Rof0Ngq4sLA4NT4JtMkLpQFTtjEDvqV%2B8OmuIqnDHyrN7xu3MvheoZWo8MEspyO0wI3eAEBFafxOvLDo2kiXPPooHcVddGC4wQK9stHOzHf%2BFgg1qBJLjTQsEXGV3oUzPAjSVNF%2Fiz5mn6TIzVzqv%2FHnn54FFJZor6Vzslu%2F9V7zQ7vH2yREmiAJTRPuGBYgioNQ3u6SKqMpGo%2BhqPoOAAi1dK92DS%2BlzuZll54vP4%2BbuZeVlHZkGh0N4Nly4dBCA5iswTYKblhcGpanUDgVF2FjPnpdtoqc9pzFNj0OdOnehDNdbusmzx97TPwOWFWB7pOOyeDvnFeNKJOoD9fdtQuRyineyztoxEMnt8CEr3hjfUgRT%2Fd2g4c6%2BfGDU7QUdCgrQF4doCu5XejKpOOj8Xp%2BsGFNoUm4u5QFbJ7N%2BqGaFH%2F%2BsOwBM8mWehXQqe0bnN%2ByiuLv8q1OVNxXb9xc%3D\" width=\"100%\" height=\"630\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch:&nbsp;</p>\n<p>Nga: Ch&agrave;o Quang! T&ocirc;i đang đọc về ti&ecirc;́ng Anh toàn c&acirc;̀u v&agrave; thấy t&ograve; m&ograve;. Bạn c&oacute; biết <span style=\"text-decoration: underline;\">người bản xứ</span> n&oacute;i tiếng Anh l&agrave; g&igrave; kh&ocirc;ng?</p>\n<p>Quang: C&oacute;, đ&oacute; l&agrave; người n&oacute;i tiếng Anh như <span style=\"text-decoration: underline;\">ng&ocirc;n ngữ đầu ti&ecirc;n</span> của họ, giống như những người ở Anh hoặc Hoa Kỳ.</p>\n<p>Nga: Điều đ&oacute; c&oacute; l&yacute; th&acirc;̣t! Nhưng c&ograve;n những người n&oacute;i tiếng Anh như <span style=\"text-decoration: underline;\">ng&ocirc;n ngữ thứ hai</span> th&igrave; sao?</p>\n<p>Quang: Chà, nhiều người tr&ecirc;n khắp thế giới n&oacute;i tiếng Anh để giao tiếp với người kh&aacute;c hoặc để l&agrave;m việc, kh&ocirc;ng phải v&igrave; đ&oacute; l&agrave; tiếng mẹ đẻ của họ. N&oacute; phổ biến ở c&aacute;c quốc gia như Ấn Độ hoặc Singapore.</p>\n<p>Nga: Th&uacute; vị th&acirc;̣t! C&oacute; <span style=\"text-decoration: underline;\">ti&ecirc;u chu&acirc;̉n</span> n&agrave;o trong tiếng Anh kh&ocirc;ng?</p>\n<p>Quang: C&oacute;, c&oacute; một số quy tắc nhất định về ngữ ph&aacute;p v&agrave; c&aacute;ch ph&aacute;t &acirc;m, nhưng tiếng Anh c&oacute; thể kh&aacute;c nhau ở c&aacute;c quốc gia kh&aacute;c nhau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 906086,
+      "questionNumber": 15,
+      "questionName": "common language, community, consist, come from",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\" data-start=\"0\" data-end=\"248\"><strong>Choose the correct word from the box to fill in each blank. You can change the form of the word if necessary.&nbsp;</strong></p>\n<table style=\"border-collapse: collapse; width: 100.03%;\" border=\"1\" cellspacing=\"10\" cellpadding=\"10\">\n<tbody>\n<tr>\n<td style=\"width: 24.7144%; text-align: center;\"><strong>community</strong></td>\n<td style=\"width: 24.7144%; text-align: center;\"><strong>consist</strong></td>\n<td style=\"width: 24.7144%; text-align: center;\"><strong>come</strong></td>\n<td style=\"width: 24.7144%; text-align: center;\"><strong>common language</strong></td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: justify;\" data-start=\"0\" data-end=\"248\"><br>English has become a <strong><span class='fillblank-option'><label>15.1</label><input id='fbo-906086-0' class='ms fillblank-option-15' index='0' name='fbo-906086-0' type='text' size='18' autocomplete='off' data-testid='fillblank-input-906086-0' /></span></strong>&nbsp;for people around the world. It helps people from different countries communicate with each other. In many places, people use English as a way to share ideas, especially in business, education, and travel.</p>\n<p style=\"text-align: justify;\" data-start=\"250\" data-end=\"501\">Many countries have a large <strong><span class='fillblank-option'><label>15.2</label><input id='fbo-906086-1' class='ms fillblank-option-15' index='1' name='fbo-906086-1' type='text' size='13' autocomplete='off' data-testid='fillblank-input-906086-1' /></span></strong> of English speakers. It <strong><span class='fillblank-option'><label>15.3</label><input id='fbo-906086-2' class='ms fillblank-option-15' index='2' name='fbo-906086-2' type='text' size='9' autocomplete='off' data-testid='fillblank-input-906086-2' /></span> </strong>of&nbsp;people who speak English as a first language, such as in the UK and the US, and those who speak it as a second language, like in India or Singapore.</p>\n<p style=\"text-align: justify;\" data-start=\"503\" data-end=\"801\" data-is-last-node>English has many different forms, and it<strong> <span class='fillblank-option'><label>15.4</label><input id='fbo-906086-3' class='ms fillblank-option-15' index='3' name='fbo-906086-3' type='text' size='6' autocomplete='off' data-testid='fillblank-input-906086-3' /></span></strong> from many different countries. It started in England but has changed and developed in different ways as people in other countries started using it. Today, English is spoken in many parts of the world, and it continues to grow as a global language.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "common language"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "community"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "consists"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "comes"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"021C1CB0\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2BEVWGTueWZYTwkoXuarsB0UguBuBkp21is4DNVD2QaYKKPhJvcHif2C8UZ5Kx1wQ%2BVuPGXEoICGu4jU%2Bc5zBLKMFLZQHDNF%2FObpP5DYFU%2FIyxCvmTVR9%2BNByQNxr%2F6hXOMh9A72WXBGUXKiSoFHkb%2Fu7pEVjPot2v0tW%2F%2FGYv2zqXOVtcEzHmULnp23BzYNjZiJVKM0Kz1twmpGLjVyfTTjz9WHHE1lZXVsa199Y1gZjiTEHLyGZUvnRKYgSKLuVgKSKAuRcTUMCj7A4rv8xwx8WxD1P01DecnjKeQoBuY0xxY7YTanMZfvmIlIg2cfPvoOWXckY0arwy65QbzpO35xBfspXJvrBJctErp%2BzigLBD7MCrT%2Bk684sSglqwMrE4GSaAGst0pMDKqx0PYFt8FGgmpF7BXxIQ%3D\" width=\"100%\" height=\"325\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\">Cụm danh từ \"<strong>common language</strong>\" ở dạng s&ocirc;́ ít do đằng trước có mạo từ \"<strong>a</strong>\".</p>\n<p style=\"text-align: justify;\">Danh từ \"<strong>community</strong>\" ở dạng s&ocirc;́ ít do đằng trước có mạo từ \"<strong>a</strong>\".</p>\n<p style=\"text-align: justify;\">Đ&ocirc;̣ng từ \"<strong>consist</strong>\" được chia ở dạng s&ocirc;́ ít do chủ ngữ là đại từ ở ng&ocirc;i thứ 3 s&ocirc;́ ít \"<strong>It</strong>\".</p>\n<p style=\"text-align: justify;\">Đ&ocirc;̣ng từ \"<strong>come</strong>\" được chia ở dạng s&ocirc;́ ít do chủ ngữ là đại từ ở ng&ocirc;i thứ 3 s&ocirc;́ ít \"<strong>it</strong>\".</p>\n<p style=\"text-align: justify;\">Dịch:&nbsp;</p>\n<p style=\"text-align: justify;\">Tiếng Anh đ&atilde; trở th&agrave;nh <span style=\"text-decoration: underline;\">ng&ocirc;n ngữ chung</span> cho mọi người tr&ecirc;n to&agrave;n thế giới. N&oacute; gi&uacute;p mọi người từ c&aacute;c quốc gia kh&aacute;c nhau giao tiếp với nhau. Ở nhiều nơi, mọi người sử dụng tiếng Anh như một c&aacute;ch để chia sẻ &yacute; tưởng, đặc biệt l&agrave; trong lĩnh vực kinh doanh, gi&aacute;o dục v&agrave; du lịch.</p>\n<p style=\"text-align: justify;\">Nhiều quốc gia c&oacute; <span style=\"text-decoration: underline;\">cộng đồng</span> người n&oacute;i tiếng Anh lớn. N&oacute; bao gồm những người n&oacute;i tiếng Anh như ng&ocirc;n ngữ mẹ đẻ, chẳng hạn như ở Vương quốc Anh v&agrave; Hoa Kỳ, v&agrave; những người n&oacute;i tiếng Anh như ng&ocirc;n ngữ thứ hai, như ở Ấn Độ hoặc Singapore.</p>\n<p style=\"text-align: justify;\">Tiếng Anh c&oacute; nhiều dạng kh&aacute;c nhau v&agrave; <span style=\"text-decoration: underline;\">xuất ph&aacute;t</span> từ nhiều quốc gia kh&aacute;c nhau. N&oacute; bắt đầu ở Anh nhưng đ&atilde; thay đổi v&agrave; ph&aacute;t triển theo nhiều c&aacute;ch kh&aacute;c nhau khi người d&acirc;n ở c&aacute;c nước kh&aacute;c bắt đầu sử dụng n&oacute;. Ng&agrave;y nay, tiếng Anh được n&oacute;i ở nhiều nơi tr&ecirc;n thế giới v&agrave; n&oacute; tiếp tục ph&aacute;t triển như một ng&ocirc;n ngữ to&agrave;n cầu.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

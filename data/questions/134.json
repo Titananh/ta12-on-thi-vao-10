@@ -1,0 +1,452 @@
+[
+  {
+    "id": "134_1",
+    "questionName": "Question 1",
+    "questionText": "<p>Look at those dark storm clouds in the sky! It ________ rain.</p>",
+    "choices": [
+      {
+        "id": "134_1_2",
+        "text": "will",
+        "html": "will"
+      },
+      {
+        "id": "134_1_3",
+        "text": "shall",
+        "html": "shall"
+      },
+      {
+        "id": "134_1_1",
+        "text": "is going to",
+        "html": "is going to"
+      },
+      {
+        "id": "134_1_4",
+        "text": "is",
+        "html": "is"
+      }
+    ],
+    "correctChoiceId": "134_1_1",
+    "explanation": "<p>Dự đoán sự việc có căn cứ, dấu hiệu rõ ràng trước mắt ('dark storm clouds'): dùng <strong>is going to + V-inf</strong>.</p>",
+    "ruleTip": "Dự đoán có bằng chứng cụ thể trước mắt: dùng 'be going to + V-inf'."
+  },
+  {
+    "id": "134_2",
+    "questionName": "Question 2",
+    "questionText": "<p>\"The doorbell is ringing.\" - \"Don't worry, I ________ it.\"</p>",
+    "choices": [
+      {
+        "id": "134_2_2",
+        "text": "am going to answer",
+        "html": "am going to answer"
+      },
+      {
+        "id": "134_2_1",
+        "text": "will answer",
+        "html": "will answer"
+      },
+      {
+        "id": "134_2_3",
+        "text": "answer",
+        "html": "answer"
+      },
+      {
+        "id": "134_2_4",
+        "text": "answered",
+        "html": "answered"
+      }
+    ],
+    "correctChoiceId": "134_2_1",
+    "explanation": "<p>Quyết định đưa ra ngay tức thì tại thời điểm nói (không có dự định từ trước): dùng <strong>will + V-inf (will answer)</strong>.</p>",
+    "ruleTip": "Quyết định tức thì ngay tại thời điểm nói: dùng 'will + V-inf'."
+  },
+  {
+    "id": "134_3",
+    "questionName": "Question 3",
+    "questionText": "<p>I will send you an email as soon as I ________ the entrance exam results.</p>",
+    "choices": [
+      {
+        "id": "134_3_2",
+        "text": "will receive",
+        "html": "will receive"
+      },
+      {
+        "id": "134_3_3",
+        "text": "received",
+        "html": "received"
+      },
+      {
+        "id": "134_3_4",
+        "text": "am receiving",
+        "html": "am receiving"
+      },
+      {
+        "id": "134_3_1",
+        "text": "receive",
+        "html": "receive"
+      }
+    ],
+    "correctChoiceId": "134_3_1",
+    "explanation": "<p>Mệnh đề trạng ngữ chỉ thời gian với <strong>'as soon as'</strong> chỉ tương lai: chia thì Hiện tại đơn: <strong>receive</strong> (tuyệt đối không dùng will).</p>",
+    "ruleTip": "Mệnh đề chỉ thời gian (as soon as, when, until) chia Hiện tại đơn, KHÔNG dùng will."
+  },
+  {
+    "id": "134_4",
+    "questionName": "Question 4",
+    "questionText": "<p>Why are you turning on the TV? - I ________ the football match between Vietnam and Thailand.</p>",
+    "choices": [
+      {
+        "id": "134_4_2",
+        "text": "will watch",
+        "html": "will watch"
+      },
+      {
+        "id": "134_4_3",
+        "text": "watch",
+        "html": "watch"
+      },
+      {
+        "id": "134_4_1",
+        "text": "am going to watch",
+        "html": "am going to watch"
+      },
+      {
+        "id": "134_4_4",
+        "text": "watched",
+        "html": "watched"
+      }
+    ],
+    "correctChoiceId": "134_4_1",
+    "explanation": "<p>Hành động đã có chủ ý, kế hoạch từ trước (bật TV để xem): dùng <strong>am going to watch</strong>.</p>",
+    "ruleTip": "Dự định đã có kế hoạch từ trước khi nói: dùng 'be going to + V-inf'."
+  },
+  {
+    "id": "134_5",
+    "questionName": "Question 5",
+    "questionText": "<p>Don't worry about your secret. I promise I ________ anyone.</p>",
+    "choices": [
+      {
+        "id": "134_5_2",
+        "text": "am not telling",
+        "html": "am not telling"
+      },
+      {
+        "id": "134_5_3",
+        "text": "am not going to tell",
+        "html": "am not going to tell"
+      },
+      {
+        "id": "134_5_4",
+        "text": "don't tell",
+        "html": "don't tell"
+      },
+      {
+        "id": "134_5_1",
+        "text": "won't tell",
+        "html": "won't tell"
+      }
+    ],
+    "correctChoiceId": "134_5_1",
+    "explanation": "<p>Lời hứa (promise): luôn dùng thì Tương lai đơn: <strong>won't tell</strong>.</p>",
+    "ruleTip": "Lời hứa (promise): luôn dùng 'will / won't + V-inf'."
+  },
+  {
+    "id": "134_6",
+    "questionName": "Question 6",
+    "questionText": "<p>Please wait here patiently until the nurse ________ your name.</p>",
+    "choices": [
+      {
+        "id": "134_6_2",
+        "text": "will call",
+        "html": "will call"
+      },
+      {
+        "id": "134_6_3",
+        "text": "is calling",
+        "html": "is calling"
+      },
+      {
+        "id": "134_6_4",
+        "text": "called",
+        "html": "called"
+      },
+      {
+        "id": "134_6_1",
+        "text": "calls",
+        "html": "calls"
+      }
+    ],
+    "correctChoiceId": "134_6_1",
+    "explanation": "<p>Sau liên từ chỉ thời gian <strong>'until'</strong>: chia thì Hiện tại đơn: <strong>calls</strong>.</p>",
+    "ruleTip": "Sau 'until' dùng thì Hiện tại đơn mang ý nghĩa tương lai."
+  },
+  {
+    "id": "134_7",
+    "questionName": "Question 7",
+    "questionText": "<p>I think our school basketball team ________ the championship trophy this year.</p>",
+    "choices": [
+      {
+        "id": "134_7_2",
+        "text": "is winning",
+        "html": "is winning"
+      },
+      {
+        "id": "134_7_3",
+        "text": "is going to win",
+        "html": "is going to win"
+      },
+      {
+        "id": "134_7_1",
+        "text": "will win",
+        "html": "will win"
+      },
+      {
+        "id": "134_7_4",
+        "text": "wins",
+        "html": "wins"
+      }
+    ],
+    "correctChoiceId": "134_7_1",
+    "explanation": "<p>Dự đoán dựa trên quan điểm, niềm tin cá nhân ('I think'): dùng <strong>will + V-inf (will win)</strong>.</p>",
+    "ruleTip": "Dự đoán dựa trên cảm tính cá nhân đi với think/hope/believe: dùng 'will + V-inf'."
+  },
+  {
+    "id": "134_8",
+    "questionName": "Question 8",
+    "questionText": "<p>That suitcase looks extremely heavy. I ________ you carry it upstairs.</p>",
+    "choices": [
+      {
+        "id": "134_8_2",
+        "text": "am helping",
+        "html": "am helping"
+      },
+      {
+        "id": "134_8_1",
+        "text": "will help",
+        "html": "will help"
+      },
+      {
+        "id": "134_8_3",
+        "text": "am going to help",
+        "html": "am going to help"
+      },
+      {
+        "id": "134_8_4",
+        "text": "help",
+        "html": "help"
+      }
+    ],
+    "correctChoiceId": "134_8_1",
+    "explanation": "<p>Đưa ra lời đề nghị giúp đỡ tức thì: dùng <strong>will + V-inf (will help)</strong>.</p>",
+    "ruleTip": "Đưa ra lời đề nghị giúp đỡ tức thì: dùng 'will + V-inf'."
+  },
+  {
+    "id": "134_9",
+    "questionName": "Question 9",
+    "questionText": "<p>Watch out! That unstable ladder ________ fall down!</p>",
+    "choices": [
+      {
+        "id": "134_9_1",
+        "text": "is going to",
+        "html": "is going to"
+      },
+      {
+        "id": "134_9_2",
+        "text": "will",
+        "html": "will"
+      },
+      {
+        "id": "134_9_3",
+        "text": "shall",
+        "html": "shall"
+      },
+      {
+        "id": "134_9_4",
+        "text": "can",
+        "html": "can"
+      }
+    ],
+    "correctChoiceId": "134_9_1",
+    "explanation": "<p>Cảnh báo sự cố nguy hiểm sắp xảy ra dựa trên tình huống thực tế trước mắt: dùng <strong>is going to</strong>.</p>",
+    "ruleTip": "Tình huống nguy hiểm sắp xảy ra có căn cứ nhãn tiền: dùng 'be going to'."
+  },
+  {
+    "id": "134_10",
+    "questionName": "Question 10",
+    "questionText": "<p>By the time you finish your homework, hot dinner ________ ready on the table.</p>",
+    "choices": [
+      {
+        "id": "134_10_1",
+        "text": "will be",
+        "html": "will be"
+      },
+      {
+        "id": "134_10_2",
+        "text": "is",
+        "html": "is"
+      },
+      {
+        "id": "134_10_3",
+        "text": "was",
+        "html": "was"
+      },
+      {
+        "id": "134_10_4",
+        "text": "would be",
+        "html": "would be"
+      }
+    ],
+    "correctChoiceId": "134_10_1",
+    "explanation": "<p>Cấu trúc: <strong>By the time + S + V(hiện tại đơn), S + will + V-inf (will be)</strong>.</p>",
+    "ruleTip": "'By the time + Hiện tại đơn, Tương lai đơn (will be)'."
+  },
+  {
+    "id": "134_11",
+    "questionName": "Question 11",
+    "questionText": "<p>At 10:00 AM tomorrow, all Grade 9 students ________ their mock exam in the hall.</p>",
+    "choices": [
+      {
+        "id": "134_11_2",
+        "text": "will take",
+        "html": "will take"
+      },
+      {
+        "id": "134_11_3",
+        "text": "are taking",
+        "html": "are taking"
+      },
+      {
+        "id": "134_11_4",
+        "text": "take",
+        "html": "take"
+      },
+      {
+        "id": "134_11_1",
+        "text": "will be taking",
+        "html": "will be taking"
+      }
+    ],
+    "correctChoiceId": "134_11_1",
+    "explanation": "<p>Hành động sẽ đang diễn ra tại một thời điểm cụ thể trong tương lai ('At 10:00 AM tomorrow'): chia thì Tương lai tiếp diễn: <strong>will be taking</strong>.</p>",
+    "ruleTip": "Hành động đang diễn ra tại thời điểm xác định trong tương lai: will be + V-ing."
+  },
+  {
+    "id": "134_12",
+    "questionName": "Question 12",
+    "questionText": "<p>It's very stuffy and hot in this room. ________ I open the windows?</p>",
+    "choices": [
+      {
+        "id": "134_12_2",
+        "text": "Will",
+        "html": "Will"
+      },
+      {
+        "id": "134_12_1",
+        "text": "Shall",
+        "html": "Shall"
+      },
+      {
+        "id": "134_12_3",
+        "text": "Do",
+        "html": "Do"
+      },
+      {
+        "id": "134_12_4",
+        "text": "Would",
+        "html": "Would"
+      }
+    ],
+    "correctChoiceId": "134_12_1",
+    "explanation": "<p>Cấu trúc đề nghị giúp đỡ hoặc gợi ý với ngôi 'I': <strong>Shall I + V-inf? (Shall I open...)</strong>.</p>",
+    "ruleTip": "'Shall I/we + V-inf' dùng để đưa ra lời đề nghị giúp đỡ hoặc gợi ý."
+  },
+  {
+    "id": "134_13",
+    "questionName": "Question 13",
+    "questionText": "<p>When you ________ to Hanoi this autumn, I will take you to visit the Old Quarter.</p>",
+    "choices": [
+      {
+        "id": "134_13_2",
+        "text": "will come",
+        "html": "will come"
+      },
+      {
+        "id": "134_13_1",
+        "text": "come",
+        "html": "come"
+      },
+      {
+        "id": "134_13_3",
+        "text": "came",
+        "html": "came"
+      },
+      {
+        "id": "134_13_4",
+        "text": "are coming",
+        "html": "are coming"
+      }
+    ],
+    "correctChoiceId": "134_13_1",
+    "explanation": "<p>Mệnh đề trạng ngữ chỉ thời gian bắt đầu bằng <strong>'When'</strong> trong tương lai: chia thì Hiện tại đơn: <strong>come</strong>.</p>",
+    "ruleTip": "Mệnh đề 'When' chỉ tương lai chia thì Hiện tại đơn."
+  },
+  {
+    "id": "134_14",
+    "questionName": "Question 14",
+    "questionText": "<p>If he doesn't apologize sincerely, I ________ invite him to my graduation party.</p>",
+    "choices": [
+      {
+        "id": "134_14_1",
+        "text": "won't",
+        "html": "won't"
+      },
+      {
+        "id": "134_14_2",
+        "text": "wouldn't",
+        "html": "wouldn't"
+      },
+      {
+        "id": "134_14_3",
+        "text": "don't",
+        "html": "don't"
+      },
+      {
+        "id": "134_14_4",
+        "text": "didn't",
+        "html": "didn't"
+      }
+    ],
+    "correctChoiceId": "134_14_1",
+    "explanation": "<p>Mệnh đề chính của câu điều kiện loại 1 thể phủ định: <strong>won't + V-inf</strong>.</p>",
+    "ruleTip": "Mệnh đề chính loại 1 phủ định: won't + V-inf."
+  },
+  {
+    "id": "134_15",
+    "questionName": "Question 15",
+    "questionText": "<p>My family ________ our grandparents in Hue next week; we bought plane tickets yesterday.</p>",
+    "choices": [
+      {
+        "id": "134_15_1",
+        "text": "are going to visit",
+        "html": "are going to visit"
+      },
+      {
+        "id": "134_15_2",
+        "text": "will visit",
+        "html": "will visit"
+      },
+      {
+        "id": "134_15_3",
+        "text": "visited",
+        "html": "visited"
+      },
+      {
+        "id": "134_15_4",
+        "text": "visit",
+        "html": "visit"
+      }
+    ],
+    "correctChoiceId": "134_15_1",
+    "explanation": "<p>Kế hoạch đã có sự chuẩn bị chắc chắn từ trước (đã mua vé máy bay hôm qua): dùng <strong>are going to visit</strong>.</p>",
+    "ruleTip": "Kế hoạch chắc chắn có sự chuẩn bị từ trước: dùng 'be going to' hoặc Hiện tại tiếp diễn."
+  }
+]

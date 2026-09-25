@@ -1,0 +1,1590 @@
+{
+  "id": 4394,
+  "title": "Đề số 2 ôn luyện vào 10 môn Anh Sở Hà Nội ",
+  "year": 2024,
+  "categoryId": 170,
+  "categoryName": "Đề luyện thi vào 10 môn Anh Sở Hà Nội từ năm 2024 trở về trước",
+  "timeLimit": 60,
+  "totalPoint": 40,
+  "questionCount": 37,
+  "author": "Tổ GV Tiếng Anh - TA12",
+  "description": "",
+  "createdAt": "2026-09-24T14:49:05.374Z",
+  "questions": [
+    {
+      "id": 52168,
+      "questionNumber": 1,
+      "questionName": "Question 16:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 147215,
+          "label": "A",
+          "text": "smil<u>ed</u>",
+          "isCorrect": false
+        },
+        {
+          "id": 147216,
+          "label": "B",
+          "text": "agre<u>ed</u>",
+          "isCorrect": false
+        },
+        {
+          "id": 147217,
+          "label": "C",
+          "text": "visit<u>ed</u>",
+          "isCorrect": true
+        },
+        {
+          "id": 147218,
+          "label": "D",
+          "text": "mov<u>ed</u>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 147217,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Phần gạch ch&acirc;n trong từ \"<strong>visit<span style=\"text-decoration: underline;\">ed</span></strong>\" được ph&aacute;t &acirc;m l&agrave; <strong>/ɪd/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/d/</strong>.</p>\n<p><strong>visited (v.) /ˈvɪzɪtɪd/</strong></p>\n<p>smiled (v.) /smaɪld/</p>\n<p>agreed (v.) /əˈɡriːd/</p>\n<p>moved (v.) /muːvd/</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 45492,
+      "questionNumber": 2,
+      "questionName": "Q2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 132136,
+          "label": "A",
+          "text": "<p>ch<span style=\"text-decoration: underline;\">o</span>re</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 132137,
+          "label": "B",
+          "text": "w<u>o</u>rk",
+          "isCorrect": true
+        },
+        {
+          "id": 132138,
+          "label": "C",
+          "text": "<p>m<u>o</u>re</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 132139,
+          "label": "D",
+          "text": "div<u>o</u>rce",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 132137,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Phần gạch ch&acirc;n trong từ \"<strong>w<u>o</u>rk</strong>\" được ph&aacute;t &acirc;m l&agrave; /<strong>ɜ:</strong>/, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; /<strong>ɔ:</strong>/.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18MWoug7xweOhUz9A0Me6%2BIciwYfaNjcFjlRJ51H93%2Fqv7Uz%2BxgkaKX2gaSZ1jLS%2BlopLC%2F4fVddUPOudHj841PHz8VZt2vStk5rlvh4jUSqneMrrRN8uslWYVP71msWikFbUbltkG4H7q4%2Bhp56uu7YhVT3gLc5j%2BJmtHnz8VSMxKoyr3GK4WZPdTsEV7aaMf8v0m8sy22UWaPf2EVERIbsNv6Yj2mTlgYf05PBY5k2yA5gsmWhT3LGFlI5f5zZxCZ6eP8XJ0zjINqx8Uc2IgwkJpx%2FfSdQY1vUy%2FvDyayskhNfE4eZPu9xNbWrzHX1yqtMefxxUC%2B3A%3D%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 18739,
+      "questionNumber": 3,
+      "questionName": "A.II.2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 59448,
+          "label": "A",
+          "text": "happy",
+          "isCorrect": false
+        },
+        {
+          "id": 59449,
+          "label": "B",
+          "text": "hobby",
+          "isCorrect": false
+        },
+        {
+          "id": 59450,
+          "label": "C",
+          "text": "region",
+          "isCorrect": false
+        },
+        {
+          "id": 59451,
+          "label": "D",
+          "text": "agree",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 59451,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Từ </span>\"<strong>agree</strong>\"<span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ hai</span><span style=\"font-weight: 400;\">, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ</span> nhất.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FXNd1YvvrJCTCYV%2FvSu2I9qt%2F3d5tOYYixAiaD7fQhRNY%2BVbczmOL6P72oRiVmznAq4PFsCs%2B61C6zxkCVdKYdvdz0bOdZYFJ%2BpBRHObLTugDfQBt9h%2Fb456dW7sWg6QUboA57AqEhneJ9m6fuqrWjlqXbCfsi0sLgZBWEyDmtg6h8UrG7tHS6MmtV9YtHxVaHgEJ2ETrpcFJn1ShoiseKLbNlK4fnIuS7gKUTfgT3AGFMtV99ZcGV0wWgIW32o6Up%2Flq89jzc98Xa3j6FuzgJ6%2Fzr7H1T6ZIiCYSnMm8ylEQGzopQ2kVJoivI91p4057JrN2mgwfmuQ%3D%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 73226,
+      "questionNumber": 4,
+      "questionName": "Question 1:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 187002,
+          "label": "A",
+          "text": "cartoon",
+          "isCorrect": true
+        },
+        {
+          "id": 187003,
+          "label": "B",
+          "text": "movie",
+          "isCorrect": false
+        },
+        {
+          "id": 187004,
+          "label": "C",
+          "text": "paper",
+          "isCorrect": false
+        },
+        {
+          "id": 187005,
+          "label": "D",
+          "text": "answer",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 187002,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Đối với các từ có hai âm tiết, trọng âm thường có xu hướng rơi vào âm tiết đầu tiên nếu là danh từ hoặc tính từ, ví dụ như /ˈmuː.vi/, /ˈpeɪ.pər/, /ˈɑːn.sər/. Tuy nhiên, có những trường hợp ngoại lệ cần lưu ý, đặc biệt là các từ kết thúc bằng một số hậu tố nhất định.",
+      "explanation": "<p>Từ \"<strong>cartoon</strong>\" c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ 2, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19j5YqCGWNLV6JWWxSvW34Tv56F4EGpVbhUiuPJs7wkXx5GQa6Pm2QampyEpsWjp5RNboc5%2Bi%2BeLWtd8IV49G4HscdWw5DrFlL0twVAnlXhjd2ytDXS0Uj41zk2AfLZzU7mGZeLHIfUQSxPCMZG4ZIWc37mAIKQR3Sxawjfy65zXBuVDrytvcEn%2B%2B9YJcfEvOKIyfmH7509Aq%2FAHgY%2BPyEVUeY9AXcdNj4yX2Tu%2BfR59ugsmyu0yzC5Yy6%2B4JLh6UtX8uFZk7Y4AZYYUd%2FnV32Xv%2BjrpZsnOZo8lTIJWGKWK7882%2FDXk%2Feze0D%2FXJcvl4rgeZBdOJk6zQ%3D%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {
+        "187002": "Từ này có trọng âm rơi vào âm tiết thứ hai /kɑːrˈtuːn/. Các từ có hậu tố <em>\"-oon\"</em> thường có trọng âm chính rơi vào chính hậu tố này.",
+        "187003": "Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈmuː.vi/. Hầu hết các danh từ có hai âm tiết thường có trọng âm chính rơi vào âm tiết đầu tiên.",
+        "187004": "Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈpeɪ.pər/. Hầu hết các danh từ có hai âm tiết thường có trọng âm chính rơi vào âm tiết đầu tiên.",
+        "187005": "Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈɑːn.sər/. Hầu hết các danh từ có hai âm tiết thường có trọng âm chính rơi vào âm tiết đầu tiên."
+      },
+      "images": []
+    },
+    {
+      "id": 45809,
+      "questionNumber": 5,
+      "questionName": "Q15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">He</span> apologized <span style=\"text-decoration: underline;\">with</span> me <span style=\"text-decoration: underline;\">for</span> arriving <span style=\"text-decoration: underline;\">late</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 133110,
+          "label": "A",
+          "text": "He",
+          "isCorrect": false
+        },
+        {
+          "id": 133111,
+          "label": "B",
+          "text": "with",
+          "isCorrect": true
+        },
+        {
+          "id": 133112,
+          "label": "C",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 133113,
+          "label": "D",
+          "text": "late",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 133111,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>apologize + to sb + for sth/doing sth</strong>: xin lỗi ai v&igrave; điều g&igrave;</p>\n<p>Sửa: \"<strong>with</strong>\" =&gt; \"<strong>to</strong>\"</p>\n<p>Dịch: Anh ấy đ&atilde; xin lỗi t&ocirc;i v&igrave; đến muộn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 45898,
+      "questionNumber": 6,
+      "questionName": "Q14",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">In spite</span> of <span style=\"text-decoration: underline;\">their</span> old age, they <span style=\"text-decoration: underline;\">work</span>&nbsp;very <span style=\"text-decoration: underline;\">hardly</span> every day.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 133390,
+          "label": "A",
+          "text": "In spite",
+          "isCorrect": false
+        },
+        {
+          "id": 133391,
+          "label": "B",
+          "text": "their",
+          "isCorrect": false
+        },
+        {
+          "id": 133392,
+          "label": "C",
+          "text": "work",
+          "isCorrect": false
+        },
+        {
+          "id": 133393,
+          "label": "D",
+          "text": "hardly",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 133393,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>hardly </strong>(adv.): hầu như kh&ocirc;ng =&gt; Kh&ocirc;ng ph&ugrave; hợp với nghĩa của c&acirc;u.</p>\n<p><strong>hard</strong> (adv.): chăm chỉ</p>\n<p>Sửa: \"<strong>hardly</strong>\" =&gt; \"<strong>hard</strong>\"</p>\n<p>Dịch: Mặc d&ugrave; tuổi đ&atilde; cao, họ vẫn l&agrave;m việc rất chăm chỉ mỗi ng&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 51896,
+      "questionNumber": 7,
+      "questionName": "Question 25:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">The boys</span> promised <u>not to make</u> <u>so many noise</u> <u>the following day</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 146403,
+          "label": "A",
+          "text": "The boys",
+          "isCorrect": false
+        },
+        {
+          "id": 146404,
+          "label": "B",
+          "text": "not to make",
+          "isCorrect": false
+        },
+        {
+          "id": 146405,
+          "label": "C",
+          "text": "so many noise",
+          "isCorrect": true
+        },
+        {
+          "id": 146406,
+          "label": "D",
+          "text": "the following day",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 146405,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>much + N (kh&ocirc;ng đếm được) ~ many + N (đếm được số nhiều)</strong><span style=\"font-weight: 400;\">: nhiều...</span></p>\n<p><strong>noise </strong>(n.): tiếng ồn -&nbsp;l&agrave; danh từ kh&ocirc;ng đếm được&nbsp;</p>\n<p>Sửa: \"<strong>so many noise</strong>\" =&gt; \"<strong>so much noise</strong>\"</p>\n<p>Dịch: Những cậu b&eacute; đ&atilde; hứa sẽ kh&ocirc;ng g&acirc;y ồn nhiều v&agrave;o ng&agrave;y h&ocirc;m sau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 36089,
+      "questionNumber": 8,
+      "questionName": "Q11. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>They cancelled their picnic ________ the weather was bad.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 110427,
+          "label": "A",
+          "text": "because",
+          "isCorrect": true
+        },
+        {
+          "id": 110428,
+          "label": "B",
+          "text": "when",
+          "isCorrect": false
+        },
+        {
+          "id": 110429,
+          "label": "C",
+          "text": "but",
+          "isCorrect": false
+        },
+        {
+          "id": 110430,
+          "label": "D",
+          "text": "or",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 110427,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>because</strong> (conj.):<strong> </strong>bởi v&igrave;&nbsp;</p>\n<p>when (adv.): khi</p>\n<p>but (conj.): nhưng&nbsp;</p>\n<p>or (conj.): hoặc</p>\n<p>Dịch: Họ hủy buổi picnic v&igrave; thời tiết xấu.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 62889,
+      "questionNumber": 9,
+      "questionName": "Question 13:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The man _____ around the parking lot for 15 minutes to find a parking space yesterday.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 168868,
+          "label": "A",
+          "text": "drive",
+          "isCorrect": false
+        },
+        {
+          "id": 168869,
+          "label": "B",
+          "text": "drives",
+          "isCorrect": false
+        },
+        {
+          "id": 168870,
+          "label": "C",
+          "text": "has driven",
+          "isCorrect": false
+        },
+        {
+          "id": 168871,
+          "label": "D",
+          "text": "drove",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 168871,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; qu&aacute; khứ đơn được d&ugrave;ng để diễn tả h&agrave;nh động đ&atilde; xảy ra v&agrave; kết th&uacute;c ở trong qu&aacute; khứ. Dấu hiệu: \"<strong>yesterday</strong>\".</p>\n<p>Cấu tr&uacute;c: <strong>S + V(pt)</strong></p>\n<p>Dịch: H&ocirc;m qua, người đ&agrave;n &ocirc;ng đ&atilde; l&aacute;i xe v&ograve;ng quanh b&atilde;i đỗ xe 15 ph&uacute;t để t&igrave;m một chỗ đỗ xe.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 64357,
+      "questionNumber": 10,
+      "questionName": "Question 41:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>How _____ bananas are there in the fridge?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 171317,
+          "label": "A",
+          "text": "many",
+          "isCorrect": true
+        },
+        {
+          "id": 171318,
+          "label": "B",
+          "text": "much",
+          "isCorrect": false
+        },
+        {
+          "id": 171319,
+          "label": "C",
+          "text": "long",
+          "isCorrect": false
+        },
+        {
+          "id": 171320,
+          "label": "D",
+          "text": "often",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 171317,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dịch: C&oacute; bao nhi&ecirc;u quả chuối ở trong tủ lạnh?</p>\n<p><strong>bananas</strong>: danh từ đếm được số nhiều</p>\n<p>=&gt; D&ugrave;ng cấu tr&uacute;c: <strong>How many + N(số nhiều)...?</strong>: Bao nhi&ecirc;u...</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 47418,
+      "questionNumber": 11,
+      "questionName": "Question 15:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Soccer is the _____ popular game in the world.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 137508,
+          "label": "A",
+          "text": "best",
+          "isCorrect": false
+        },
+        {
+          "id": 137509,
+          "label": "B",
+          "text": "most",
+          "isCorrect": true
+        },
+        {
+          "id": 137510,
+          "label": "C",
+          "text": "more",
+          "isCorrect": false
+        },
+        {
+          "id": 137511,
+          "label": "D",
+          "text": "well",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 137509,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để điền vào chỗ trống, bạn cần xác định đây là dạng so sánh nào và loại tính từ được sử dụng.</p>\n<ul>\n<li>Cụm <em>\"the _____ popular\"</em> cùng với ngữ cảnh <em>\"in the world\"</em> cho thấy đây là cấu trúc so sánh nhất.</li>\n<li>Hãy nhớ lại quy tắc hình thành so sánh nhất cho tính từ dài như ''<em>popular</em>''.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So sánh nhất của tính từ và trạng từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để so sánh một đối tượng với tất cả các đối tượng còn lại trong một tập hợp, nhấn mạnh đối tượng đó vượt trội hoặc kém nhất về một đặc điểm nào đó.</p>\n<p style=\"text-align: justify;\"><strong>Một số dạng so sánh nhất: </strong></p>\n<ul>\n<li>Tính từ/trạng từ ngắn:<strong> the + adj./adv. + -est</strong></li>\n<li>Tính từ/trạng từ dài:<strong> the most + adj./adv.</strong></li>\n<li>Trường hợp đặc biệt:<strong> the best (từ good/well), the worst (từ bad/badly), v.v.</strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, sự hiện diện của mạo từ <em>\"the\"</em> trước chỗ trống và tính từ <em>\"popular\"</em> (một tính từ dài) sau chỗ trống, cùng với cụm <em>\"in the world\"</em>, là dấu hiệu rõ ràng của cấu trúc so sánh nhất. Để tạo so sánh nhất cho tính từ dài <em>\"popular\"</em>, ta cần sử dụng trạng từ <em>\"most\"</em>.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều không kết hợp với tính từ ''<em>popular</em>'' để tạo thành dạng so sánh nhất chính xác.</p>",
+      "answerFeedbacks": {
+        "137508": "Sai vì <em>\"best\"</em> là dạng so sánh nhất của tính từ <em>\"good\"</em> hoặc trạng từ <em>\"well\"</em>, không dùng với tính từ <em>\"popular\"</em>.",
+        "137509": "Đúng vì <em>\"most\"</em> được dùng để tạo thành dạng so sánh nhất cho các tính từ dài như <em>\"popular\"</em>, tuân theo cấu trúc <em>\"the most + adj.\"</em>.",
+        "137510": "Sai vì <em>\"more\"</em> được dùng để tạo thành dạng so sánh hơn (<em>\"more + adj.\"</em>), không phải so sánh nhất, và câu có <em>\"the\"</em> chỉ cấu trúc so sánh nhất.",
+        "137511": "Sai vì <em>\"well\"</em> là trạng từ hoặc tính từ mang nghĩa <em>\"khỏe mạnh\"</em>, không phải là dạng so sánh nhất của tính từ <em>\"popular\"</em> và không phù hợp với ngữ cảnh."
+      },
+      "images": []
+    },
+    {
+      "id": 16487,
+      "questionNumber": 12,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I am not in a hurry. I don't mind _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 54402,
+          "label": "A",
+          "text": "waiting",
+          "isCorrect": true
+        },
+        {
+          "id": 54403,
+          "label": "B",
+          "text": "wait",
+          "isCorrect": false
+        },
+        {
+          "id": 54404,
+          "label": "C",
+          "text": "to wait",
+          "isCorrect": false
+        },
+        {
+          "id": 54405,
+          "label": "D",
+          "text": "to waiting",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 54402,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>mind + V-ing</strong>: phi&ecirc;̀n, ngại làm gì</p>\n<p>Dịch:&nbsp;<span class=\"\" title=\"\">T&ocirc;i kh&ocirc;ng vội.</span> <span title=\"\">T&ocirc;i kh&ocirc;ng ngại chờ đợi đ&acirc;u.&nbsp;</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 63131,
+      "questionNumber": 13,
+      "questionName": "Question 1",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Mark Twain was born in Missouri _____ 1835.<b></b></b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 169208,
+          "label": "A",
+          "text": "on",
+          "isCorrect": false
+        },
+        {
+          "id": 169209,
+          "label": "B",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 169210,
+          "label": "C",
+          "text": "in",
+          "isCorrect": true
+        },
+        {
+          "id": 169211,
+          "label": "D",
+          "text": "at",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 169210,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>in + năm</strong>: v&agrave;o năm ...</p>\n<p>Dịch: Mark Twain sinh v&agrave;o năm 1835 ở Missouri.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 45285,
+      "questionNumber": 14,
+      "questionName": "Q 10. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I wish I ________ find the time to do more reading.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 131532,
+          "label": "A",
+          "text": "may",
+          "isCorrect": false
+        },
+        {
+          "id": 131533,
+          "label": "B",
+          "text": "will",
+          "isCorrect": false
+        },
+        {
+          "id": 131534,
+          "label": "C",
+          "text": "could",
+          "isCorrect": true
+        },
+        {
+          "id": 131535,
+          "label": "D",
+          "text": "can",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 131534,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c </span><strong>\"wish\"</strong><span style=\"font-weight: 400;\"> thể hiện mong ước một điều g&igrave; đ&oacute; kh&ocirc;ng c&oacute; thật ở hiện tại hoặc giả định một điều tr&aacute;i ngược so với thực tế.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: </span><strong>S + wish(es) + (that) + S + V(pt)&nbsp;</strong></p>\n<p>Dịch: T&ocirc;i ước t&ocirc;i c&oacute; thể c&oacute; thời gian để đọc nhiều hơn. (Thực tế th&igrave; t&ocirc;i kh&ocirc;ng thể c&oacute; th&ecirc;m thời gian cho việc đọc)</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 89164,
+      "questionNumber": 15,
+      "questionName": "Q15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong> When I was a child, I _____ once a day.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 213663,
+          "label": "A",
+          "text": "used to swim",
+          "isCorrect": true
+        },
+        {
+          "id": 213664,
+          "label": "B",
+          "text": "was used to swim",
+          "isCorrect": false
+        },
+        {
+          "id": 213665,
+          "label": "C",
+          "text": "used to swimming",
+          "isCorrect": false
+        },
+        {
+          "id": 213666,
+          "label": "D",
+          "text": "was used to swimming",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 213663,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để diễn tả một th&oacute;i quen hay h&agrave;nh động thường xuy&ecirc;n xảy ra trong qu&aacute; khứ nhưng đ&atilde; kết th&uacute;c ở hiện tại, ch&uacute;ng ta sử dụng cấu tr&uacute;c <em>\"S + used to + V(inf)\"</em>. Ngược lại, để n&oacute;i về sự quen thuộc hay th&iacute;ch nghi với điều g&igrave; đ&oacute;, ta d&ugrave;ng cấu tr&uacute;c <em>\"S + be/get used to + V-ing/N\"</em>.</p>\n<p>H&atilde;y xem x&eacute;t ngữ cảnh <em>\"When I was a child\"</em> v&agrave; tần suất <em>\"once a day\"</em> để x&aacute;c định xem c&acirc;u đang diễn tả th&oacute;i quen trong qu&aacute; khứ hay sự quen thuộc.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu tr&uacute;c ''used to''</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> <strong> </strong></p>\n<ul>\n<li><strong>S + used to + V(inf)</strong>: Diễn tả th&oacute;i quen hoặc h&agrave;nh động thường xuy&ecirc;n xảy ra trong qu&aacute; khứ nhưng đ&atilde; kết th&uacute;c ở hiện tại.</li>\n<li><strong>S + be/get used to + V-ing/N</strong>: Diễn tả sự quen thuộc hoặc th&iacute;ch nghi với một điều g&igrave; đ&oacute;.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Ngữ cảnh <em>\"When I was a child\"</em> v&agrave; <em>\"once a day\"</em> chỉ ra rằng c&acirc;u đang n&oacute;i về một th&oacute;i quen lặp lại trong qu&aacute; khứ đ&atilde; kết th&uacute;c. Cấu tr&uacute;c ph&ugrave; hợp nhất để diễn tả th&oacute;i quen trong qu&aacute; khứ l&agrave; <em>\"used to + V(inf)\"&nbsp;</em>n&ecirc;n phương &aacute;n 1 l&agrave; đ&aacute;p &aacute;n ch&iacute;nh x&aacute;c.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 4 \"<em>was used to swimming</em>\" c&oacute; cấu tr&uacute;c be <em>used to + V-ing</em>, mang nghĩa \"quen với việc g&igrave; đ&oacute;\", kh&ocirc;ng phải để diễn tả một th&oacute;i quen đ&atilde; kết th&uacute;c trong qu&aacute; khứ. Hai phương &aacute;n c&ograve;n lại l&agrave; \"<em>was used to swim</em>\" v&agrave; \"<em>used to swimming</em>\" đều sai cấu tr&uacute;c ngữ ph&aacute;p cơ bản.</p>",
+      "answerFeedbacks": {
+        "213663": "Cấu trúc <em>\"used to + V(inf)\"</em> chính xác để diễn tả một thói quen hoặc hành động thường xuyên xảy ra trong quá khứ nhưng đã kết thúc ở hiện tại.",
+        "213664": "Sai cấu trúc ngữ pháp vì <em>\"be used to\"</em> phải theo sau bởi danh từ hoặc động từ thêm <em>\"-ing\"</em>, không phải động từ nguyên thể.",
+        "213665": "Sai cấu trúc ngữ pháp vì <em>\"used to\"</em> khi diễn tả thói quen trong quá khứ phải theo sau bởi động từ nguyên thể không <em>\"to\"</em>.",
+        "213666": "Mặc dù cấu trúc <em>\"be used to + V-ing\"</em> đúng để diễn tả sự quen thuộc, nhưng không phù hợp với ngữ cảnh diễn tả thói quen lặp lại <em>\"once a day\"</em> trong quá khứ."
+      },
+      "images": []
+    },
+    {
+      "id": 60690,
+      "questionNumber": 16,
+      "questionName": "Question 10:",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>The candidate took a _________ breath before he walked into the interview room.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 163180,
+          "label": "A",
+          "text": "deep",
+          "isCorrect": true
+        },
+        {
+          "id": 163181,
+          "label": "B",
+          "text": "deeply",
+          "isCorrect": false
+        },
+        {
+          "id": 163182,
+          "label": "C",
+          "text": "depth",
+          "isCorrect": false
+        },
+        {
+          "id": 163183,
+          "label": "D",
+          "text": "deepen",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 163180,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy chú ý đến từ loại của từ cần điền. Từ này đứng trước danh từ <em>\"breath\"</em> và sau mạo từ <em>\"a\"</em>, vậy nó cần là một tính từ để bổ nghĩa cho danh từ.</p>\n<p>Bạn có biết cụm từ cố định nào thường dùng để diễn tả hành động \"hít một hơi thật sâu\" không?</p>",
+      "explanation": "<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Giải nghĩa từ vựng:</span> </p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #fff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n        color: #1c581f;\n        font-size: 15px;\n    }\n\n    .vocab-table-sharp th, \n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        display: inline-block;\n        margin: 0 0.4rem 4px 0;\n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n        display: block;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">deep</span></strong><span class=\"word-pos-sharp\">(adj.)</span> <span class=\"word-ipa-sharp\">/diːp/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sâu, sâu sắc</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">deeply</span></strong><span class=\"word-pos-sharp\">(adv.)</span> <span class=\"word-ipa-sharp\">/diːpli/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>một cách sâu sắc, sâu xa</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">depth</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/depθ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>chiều sâu, độ sâu</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">deepen</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/ˈdiːpən/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>làm sâu hơn, đào sâu</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br /><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span><span style=\"color: #454545; font-weight: 400;\"> Trong câu, chỗ trống cần một tính từ để bổ nghĩa cho danh từ \"<em>breath</em>\". Từ <em><strong>deep</strong> </em>là một tính từ và thường được dùng trong cụm từ cố định <em>\"take a deep breath\"</em> (hít một hơi thật sâu), rất phù hợp với ngữ cảnh của câu. Các phương án còn lại là trạng từ (<em>deeply</em>), danh từ (<em>depth</em>) và động từ (<em>deepen</em>) nên không thể đứng trước danh từ để bổ nghĩa.</span></span></p>",
+      "answerFeedbacks": {
+        "163180": "Là một tính từ, đứng trước danh từ \"breath\" để bổ nghĩa, tạo thành cụm từ cố định <em>\"take a deep breath\"</em> có nghĩa là \"hít một hơi thật sâu\".",
+        "163181": "Là một trạng từ, không thể bổ nghĩa trực tiếp cho danh từ <em>\"breath\"</em>.",
+        "163182": "Là một danh từ, không phù hợp để bổ nghĩa cho danh từ <em>\"breath\"</em> trong cấu trúc này.",
+        "163183": "Là một động từ, không thể bổ nghĩa cho danh từ <em>\"breath\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 4535,
+      "questionNumber": 17,
+      "questionName": "hội thoại That's a very nice skirt you're wearing.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>- \"That's a very nice skirt you're wearing.\"</strong></p>\n<p><strong>- \"_____\"</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 10564,
+          "label": "A",
+          "text": "<p>How a compliment!</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 10565,
+          "label": "B",
+          "text": "<p>That's all right.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 10566,
+          "label": "C",
+          "text": "<p>It's nice of you to say so.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 10567,
+          "label": "D",
+          "text": "<p>I like you said so.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 10566,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn đáp án đúng, hãy xác định mục đích giao tiếp của câu \"<em>That's a very nice skirt you're wearing.</em>\". Đây là một lời khen, vì vậy bạn cần tìm câu đáp lại thể hiện sự cảm kích hoặc chấp nhận lời khen một cách lịch sự.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời đầu tiên là một lời khen: \"<em>That's a very nice skirt you're wearing.</em>\" (Bạn đang mặc một chiếc váy rất đẹp đó). Để đáp lại lời khen một cách lịch sự, chúng ta cần thể hiện sự cảm kích.</p>\n<p style=\"text-align: justify;\">Phương án 3 \"<em>It's nice of you to say so.</em>\" (Bạn thật tốt khi nói như vậy / Cảm ơn bạn đã khen) là cách đáp lại phù hợp nhất, thể hiện sự khiêm tốn và cảm ơn.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2, 4 đều không phù hợp về mặt ngữ pháp hoặc ngữ cảnh giao tiếp.</p>",
+      "answerFeedbacks": {
+        "10564": "<p>Cấu trúc cảm thán này không chính xác về mặt ngữ pháp để đáp lại lời khen.</p>",
+        "10565": "<p>Cụm từ này thường dùng để chấp nhận lời xin lỗi hoặc trấn an ai đó, không phù hợp để đáp lại lời khen.</p>",
+        "10566": "<p>Đây là cách đáp lại lời khen lịch sự và phổ biến trong tiếng Anh, thể hiện sự cảm kích.</p>",
+        "10567": "<p>Cụm từ này sai về mặt ngữ pháp và không có nghĩa trong ngữ cảnh này.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 69049,
+      "questionNumber": 18,
+      "questionName": "Question 10:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Tim: Would you mind lending me your dictionary? </strong></p>\n<p><strong>Paul: _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 180816,
+          "label": "A",
+          "text": "Yes, let’s",
+          "isCorrect": false
+        },
+        {
+          "id": 180817,
+          "label": "B",
+          "text": "Great",
+          "isCorrect": false
+        },
+        {
+          "id": 180818,
+          "label": "C",
+          "text": "No, of course",
+          "isCorrect": true
+        },
+        {
+          "id": 180819,
+          "label": "D",
+          "text": "Yes. Here you are",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 180818,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Khi ai đó hỏi <em>\"Would you mind + V-ing...?\"</em>, họ đang hỏi liệu bạn có cảm thấy phiền khi làm điều gì đó không. Để đồng ý giúp đỡ (tức là bạn <em>không phiền</em>), bạn cần trả lời bằng một từ phủ định như <em>\"No\"</em>, <em>\"Not at all\"</em>, hoặc <em>\"Of course not\"</em>. Nếu bạn trả lời <em>\"Yes\"</em>, điều đó có nghĩa là bạn <em>có phiền</em> và sẽ không thực hiện yêu cầu.</p>\n<p>Hãy xem xét Paul có muốn cho Tim mượn từ điển hay không để chọn câu trả lời thể hiện sự không phiền lòng.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Phản hồi lời đề nghị và yêu cầu lịch sự</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Chủ điểm này bao gồm các cách diễn đạt sự đồng ý hoặc từ chối một cách lịch sự khi ai đó đưa ra lời đề nghị hoặc yêu cầu, đặc biệt là với các cấu trúc hỏi lịch sự như \"Would you mind...\".</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">Would you mind + V-ing...? (Bạn có phiền... không?)</span></p>\n<p style=\"text-align: justify;\"><strong>Một số cách phản hồi lời đề nghị/yêu cầu lịch sự:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">No, I don't mind. / No, of course not. / Not at all. / Certainly not.</span></strong>: Đồng ý, không phiền chút nào.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Yes, I do mind. / I'm afraid I do.</span></strong>: Từ chối, tôi có phiền đấy.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Tim hỏi <em>\"Would you mind lending me your dictionary?\"</em>, đây là một lời yêu cầu lịch sự. Để thể hiện sự đồng ý và sẵn lòng giúp đỡ (tức là không phiền), Paul cần trả lời bằng một cách phủ định với từ <em>\"mind\"</em>. Phương án <em>\"No, of course\"</em>, là cách nói rút gọn của <em>\"No, of course I don't mind\"</em>, thể hiện sự đồng ý lịch sự và sẵn lòng giúp đỡ.</p>\n<p style=\"text-align: justify;\">Các phương án khác không phù hợp vì <em>\"Yes\"</em> khi trả lời câu hỏi <em>\"Would you mind...?\"</em> có nghĩa là <em>\"có, tôi phiền\"</em>, và các cụm từ còn lại không phải là cách phản hồi trực tiếp cho dạng câu hỏi này.</p>",
+      "answerFeedbacks": {
+        "180816": "Sai vì <em>\"Yes, let’s\"</em> dùng để đồng ý với một lời đề nghị cùng làm gì đó, không phải để phản hồi câu hỏi <em>\"Would you mind...?\"</em>.",
+        "180817": "Sai vì <em>\"Great\"</em> là một từ cảm thán thể hiện sự tán thành hoặc vui mừng, không phải là câu trả lời trực tiếp và phù hợp về mặt ngữ pháp cho câu hỏi <em>\"Would you mind...?\"</em>.",
+        "180818": "Đúng vì <em>\"No, of course\"</em> là cách nói rút gọn của <em>\"No, of course I don't mind\"</em>, thể hiện sự đồng ý lịch sự và sẵn lòng giúp đỡ khi được hỏi <em>\"Would you mind...?\"</em>.",
+        "180819": "Sai vì <em>\"Yes\"</em> khi trả lời câu hỏi <em>\"Would you mind...?\"</em> có nghĩa là <em>\"có, tôi phiền\"</em>, điều này mâu thuẫn với hành động đưa từ điển và không lịch sự."
+      },
+      "images": []
+    },
+    {
+      "id": 37048,
+      "questionNumber": 19,
+      "questionName": "colorful",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>I remember that my home village had a <u>colorful</u> flower field near the entrance.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 113151,
+          "label": "A",
+          "text": "lack of colors",
+          "isCorrect": false
+        },
+        {
+          "id": 113152,
+          "label": "B",
+          "text": "full of colors",
+          "isCorrect": true
+        },
+        {
+          "id": 113153,
+          "label": "C",
+          "text": "no colors",
+          "isCorrect": false
+        },
+        {
+          "id": 113154,
+          "label": "D",
+          "text": "one color only",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 113152,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 265px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BzrlHDMQvW6Xp0sPFZTGq5NDDudZ8joz7%2BhwhRTirn%2F6kGIJy40O5RCRqkaxsmBLLrF2HwCTdAUgAAtdlCkQGkBwYHj6EFoo3zAvAEpUL8GsMs0j2WYnZsIN6vv0tr3bLy6TLFQoUqfuTYXyvtwzZs5b0Nl0hPr00jykFHsUQko4if%2B37Q5wH%2BAEAlKBoBEJ071sWZ6cVMThSct8Gf7FGtL0DQc5i%2BEao%2BrmOZzAILmM7UV9dbvETyn0qM%2FSWjNFpEjfnifWy6Vu89Mab4aJjRv8CNSuy0FDVZcuLfXfLXyv9qsOCrVUlLWzTrf7s8274XHxbUHS2Sqw%3D%3D\" width=\"100%\" height=\"160\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>~ <strong>full of colors</strong>: đầy m&agrave;u sắc&nbsp;</p>\n<p>lack of colors: thiếu m&agrave;u sắc</p>\n<p>no colors: kh&ocirc;ng m&agrave;u sắc</p>\n<p>one color only: một m&agrave;u duy nhất</p>\n<p>Dịch: T&ocirc;i nhớ rằng qu&ecirc; t&ocirc;i c&oacute; một c&aacute;nh đồng hoa đầy m&agrave;u sắc gần cổng v&agrave;o.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 7708,
+      "questionNumber": 20,
+      "questionName": "at a time = at once",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>I can consume 1 kg of rice <span style=\"text-decoration: underline;\">at a time</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 22276,
+          "label": "A",
+          "text": "at once",
+          "isCorrect": true
+        },
+        {
+          "id": 22277,
+          "label": "B",
+          "text": "on the whole",
+          "isCorrect": false
+        },
+        {
+          "id": 22278,
+          "label": "C",
+          "text": "once in a while",
+          "isCorrect": false
+        },
+        {
+          "id": 22279,
+          "label": "D",
+          "text": "off and on",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 22276,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>at a time&nbsp;</strong>(idm.) =<strong> at once&nbsp;</strong>(idm.): c&ugrave;ng 1 l&uacute;c</p>\n<p>on the whole (idm.): n&oacute;i chung, nh&igrave;n chung</p>\n<p>once in a while (idm.): đ&ocirc;i khi</p>\n<p>off and on (idm.): đ&ocirc;i khi</p>\n<p>Dịch: T&ocirc;i c&oacute; thể ăn 1 kg gạo một lần.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 32975,
+      "questionNumber": 21,
+      "questionName": "Question 14",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) which is OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>I was having such a good time that I was <u>reluctant</u> to leave.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 102459,
+          "label": "A",
+          "text": "sorry",
+          "isCorrect": false
+        },
+        {
+          "id": 102460,
+          "label": "B",
+          "text": "cautious",
+          "isCorrect": false
+        },
+        {
+          "id": 102461,
+          "label": "C",
+          "text": "ready",
+          "isCorrect": true
+        },
+        {
+          "id": 102462,
+          "label": "D",
+          "text": "lucky",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 102461,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX195kAH18XBQvQaBLo8iOBPxQdolfp5%2FU8qWb1yET0FInE9N3Hr8wyfZPScFvNQnAqt7ephLc3zRah8PMVOkjEY8yQTd3ZeBtQH7IwmICmgOImySctifSC1FC%2B75ageHRmc0hVEHSWW43dfJi2bCMT8LyiB%2F9nylUk%2Fz5oiiPMuph9H8yvKVco%2BF07VvWbanIVl%2BQWY%2Fq%2FsvsEKB6aB%2BrqNi%2BjiA71WYjDKdeY8I33hvXWU5jQzjYnWnRGhvRxN02pbPkC51EQgcJZdmD6KUuLONctN8DGevS2KOWrWL0Oh0weF6%2FlCl5qqBTWhblmXLcY%2Fg7I1EBykNnGdPAYXU3PVW8GKmZ7118vw%3D\" width=\"380\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Ch&uacute;ng t&ocirc;i đ&atilde; c&oacute; khoảng thời gian tuyệt vời đến nỗi m&agrave; t&ocirc;i <span style=\"text-decoration: underline;\">miễn cưỡng</span> phải ra đi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 36533,
+      "questionNumber": 22,
+      "questionName": " Question 22: ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) which is OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>The car suddenly <u>sped up</u> and went through a red light.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 111731,
+          "label": "A",
+          "text": "turned down",
+          "isCorrect": false
+        },
+        {
+          "id": 111732,
+          "label": "B",
+          "text": "put down",
+          "isCorrect": false
+        },
+        {
+          "id": 111733,
+          "label": "C",
+          "text": "lay down",
+          "isCorrect": false
+        },
+        {
+          "id": 111734,
+          "label": "D",
+          "text": "slowed down",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 111734,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dịch:&nbsp;Chiếc xe đột ngột <span style=\"text-decoration: underline;\">tăng tốc</span> v&agrave; vượt đ&egrave;n đỏ.</p>\n<p><strong>speed up</strong> (phr.v): tăng tốc &gt;&lt; <strong>slow down</strong> (phr.v): chậm lại</p>\n<p>turn down&nbsp;(phr.v): vặn nhỏ</p>\n<p>put down&nbsp;(phr.v): đặt xuống</p>\n<p>lie down (phr.v): nằm xuống</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 44490,
+      "questionNumber": 23,
+      "questionName": "Q23-27 (180)",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Read the passage and choose the suitable word to fill in the blanks.</strong></p>\n<p style=\"text-align: justify;\">When we feel anxious, we often give ourselves negative messages like: &#8220;I can&#8217;t do this&#8221;, &#8220;I&#8217;m useless&#8221; and &#8220;I&#8217;m going to fail&#8221;.</p>\n<p style=\"text-align: justify;\">It can be difficult but <strong><span class='fillblank-option'><label>23.1</label><select class='ms fillblank-option-23' index='0' name='fbo-44490-0' data-testid='fillblank-select-44490-0'><option value='' data-testid='fillblank-option-empty-44490-0'></option><option value=\"allow\" data-testid='fillblank-option-44490-0-allow'>allow</option><option value=\"try\" data-testid='fillblank-option-44490-0-try'>try</option><option value=\"let\" data-testid='fillblank-option-44490-0-let'>let</option><option value=\"afford\" data-testid='fillblank-option-44490-0-afford'>afford</option></select></span></strong> to replace these with positive thoughts such as: &#8220;this is just anxiety, it can&#8217;t harm me&#8221; and &#8220;relax, concentrate &#8211; it&#8217;s going to be okay&#8221;.</p>\n<p style=\"text-align: justify;\">Picturing how you&#8217;d like things to go can help you feel more <strong><span class='fillblank-option'><label>23.2</label><select class='ms fillblank-option-23' index='1' name='fbo-44490-1' data-testid='fillblank-select-44490-1'><option value='' data-testid='fillblank-option-empty-44490-1'></option><option value=\"negative\" data-testid='fillblank-option-44490-1-negative'>negative</option><option value=\"stressful\" data-testid='fillblank-option-44490-1-stressful'>stressful</option><option value=\"tense\" data-testid='fillblank-option-44490-1-tense'>tense</option><option value=\"positive\" data-testid='fillblank-option-44490-1-positive'>positive</option></select></span></strong>. Try to imagine yourself <strong><span class='fillblank-option'><label>23.3</label><select class='ms fillblank-option-23' index='2' name='fbo-44490-2' data-testid='fillblank-select-44490-2'><option value='' data-testid='fillblank-option-empty-44490-2'></option><option value=\"turning\" data-testid='fillblank-option-44490-2-turning'>turning</option><option value=\"turn\" data-testid='fillblank-option-44490-2-turn'>turn</option><option value=\"turned\" data-testid='fillblank-option-44490-2-turned'>turned</option><option value=\"to turn\" data-testid='fillblank-option-44490-2-to turn'>to turn</option></select></span></strong> up to an exam feeling confident and relaxed. You turn over your paper, write down what you do know and come away knowing you tried your best on the day.</p>\n<p style=\"text-align: justify;\">It can sometimes feel like your whole future depends on <strong><span class='fillblank-option'><label>23.4</label><select class='ms fillblank-option-23' index='3' name='fbo-44490-3' data-testid='fillblank-select-44490-3'><option value='' data-testid='fillblank-option-empty-44490-3'></option><option value=\"when\" data-testid='fillblank-option-44490-3-when'>when</option><option value=\"how\" data-testid='fillblank-option-44490-3-how'>how</option><option value=\"why\" data-testid='fillblank-option-44490-3-why'>why</option><option value=\"what\" data-testid='fillblank-option-44490-3-what'>what</option></select></span></strong> grades you get. There can be a lot of pressure for young people to do well on exams which can cause a lot of stress and anxiety. You might have <strong><span class='fillblank-option'><label>23.5</label><select class='ms fillblank-option-23' index='4' name='fbo-44490-4' data-testid='fillblank-select-44490-4'><option value='' data-testid='fillblank-option-empty-44490-4'></option><option value=\"been predict\" data-testid='fillblank-option-44490-4-been predict'>been predict</option><option value=\"been predicted\" data-testid='fillblank-option-44490-4-been predicted'>been predicted</option><option value=\"be predicted\" data-testid='fillblank-option-44490-4-be predicted'>be predicted</option><option value=\"predict\" data-testid='fillblank-option-44490-4-predict'>predict</option></select></span></strong> certain grades or put into a higher set, and feel if you don&#8217;t get the grade you&#8217;ll let your teachers or parents down.</p>\n<p style=\"text-align: justify;\">Remember, exams are important &#8211; but they&#8217;re not the only way to a successful future. Lots of people succeed in life without doing well in school exams.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "try"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "positive"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "turning"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "what"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "been predicted"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. <strong>try to do sth</strong>: cố gắng l&agrave;m g&igrave;</p>\n<p>allow sb to do sth: cho ph&eacute;p ai l&agrave;m g&igrave;</p>\n<p>let sb do sth: để ai l&agrave;m g&igrave;</p>\n<p>afford to do sth: c&oacute; khả năng, c&oacute; đủ (tiền, thời gian) để l&agrave;m g&igrave;</p>\n<p>Dịch: C&oacute; thể kh&oacute; nhưng h&atilde;y cố gắng thay thế những điều n&agrave;y bằng những suy nghĩ t&iacute;ch cực như: &ldquo;đ&acirc;y chỉ l&agrave; sự lo lắng, n&oacute; kh&ocirc;ng thể l&agrave;m hại t&ocirc;i&rdquo; v&agrave; &ldquo;thư gi&atilde;n, tập trung &ndash; mọi chuyện sẽ ổn th&ocirc;i&rdquo;.</p>\n<p>2. <strong>positive</strong> (adj.): t&iacute;ch cực</p>\n<p>negative (adj.): ti&ecirc;u cực</p>\n<p>tense (adj.): căng, căng thẳng</p>\n<p>stressful (adj.): căng thẳng</p>\n<p>Dịch: H&igrave;nh dung c&aacute;ch mọi thứ xảy ra c&oacute; thể gi&uacute;p bạn cảm thấy t&iacute;ch cực hơn.</p>\n<p>3. <strong>imagine sb doing sth</strong>: tưởng tượng ai đ&oacute; l&agrave;m g&igrave;</p>\n<p>Dịch: H&atilde;y thử tưởng tượng bạn xuất hiện ở một kỳ thi đầy tự tin v&agrave; thoải m&aacute;i.</p>\n<p>4. <strong>what + clause</strong>: kh&ocirc;ng thay thế cho danh từ n&agrave;o, v&agrave; kh&ocirc;ng c&oacute; danh từ n&agrave;o đứng trước n&oacute;, mệnh đề bắt đầu với \"<strong>what</strong>\" l&agrave;m t&acirc;n ngữ trong c&acirc;u.</p>\n<p>when + clause: thay thế cho c&aacute;c từ/cụm từ chỉ thời gian, đ&oacute;ng vai tr&ograve; l&agrave; trạng từ/trạng ngữ trong c&acirc;u.</p>\n<p>why + clause: đứng đầu mệnh đề quan hệ chỉ l&yacute; do, thường thay cho cụm \"for the reason\", \"for that reason\".</p>\n<p>how (adv.): như thế n&agrave;o&nbsp;</p>\n<p>Dịch: Đ&ocirc;i khi bạn c&oacute; thể cảm thấy như to&agrave;n bộ tương lai của bạn phụ thuộc v&agrave;o việc bạn được điểm g&igrave;.</p>\n<p>5. Chủ ngữ \"<strong>you</strong>\" chịu t&aacute;c động của h&agrave;nh động \"<strong>predict</strong>\". =&gt; Động từ phải được chia ở thể bị động.</p>\n<p>Cấu tr&uacute;c thể ho&agrave;n th&agrave;nh của đ&ocirc;̣ng từ khuy&ecirc;́t thi&ecirc;́u ở thể bị động: <strong>might</strong> <strong>+ have been + V(pp)</strong>: c&oacute; thể đ&atilde; được l&agrave;m g&igrave;</p>\n<p>Dịch: Bạn c&oacute; thể được dự b&aacute;o một điểm số nhất định hoặc được đặt v&agrave;o nh&oacute;m c&oacute; điểm số cao hơn.</p>\n<div id=\"gtx-trans\" style=\"position: absolute; left: 66px; top: 456.199px;\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 17711,
+      "questionNumber": 24,
+      "questionName": "Vi(206w)",
+      "questionType": "Description",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the passage and </strong><strong>choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q2\">You probably hear a lot about the environment.</span> But do you really worry about it? <span class=\"answerhighlight q6\">Do you help to save the Earth?</span> <span class=\"answerhighlight q2\">Cleaning a planet is not a task for only one person. People everywhere have to get involved and understand this is our world.</span> <span class=\"answerhighlight q6\">If people in the world see the importance of reducing, reusing and recycling, the destiny of this planet can change</span>.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\"><span class=\"answerhighlight q1\">Reducing the amount of waste you produce is the best way to help the environment.</span> </span><span class=\"answerhighlight qtf1\">Did you switch off the water while brushing your teeth in the morning? You should do it!</span> Did you walk to school or did you use public transportation?</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">Reusing is another way of being environmentally friendly.</span> Try to find ways to use things again!<span class=\"answerhighlight q2\"> <span class=\"answerhighlight qtf2\">Take cloth sacks when you go shopping instead of taking a home newspaper or plastic bags.</span></span> You should use cloth sacks again and again. You have to save some trees! <span class=\"answerhighlight q4\">Shoe boxes and margarine containers can be used to store things or become fun art projects</span>. Use your imagination!</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">You can also recycle in your home or even at school. </span><span class=\"answerhighlight q5\"><span class=\"answerhighlight q2\">Many communities have recycling centers for <span class=\"answerhighlight q5\">newspapers, batteries and a variety of glass and plastics</span>.</span> <strong>These</strong> can be made into new products.</span></p>\n<div style=\"position: absolute; left: 582px; top: 22.6667px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\" style=\"text-align: justify;\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 17712,
+      "questionNumber": 25,
+      "questionName": "II.36",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What is the most environmentally friendly way to save the Earth?</strong></p>\n<div style=\"position: absolute; left: 58px; top: 34.7674px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the passage and </strong><strong>choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q2\">You probably hear a lot about the environment.</span> But do you really worry about it? <span class=\"answerhighlight q6\">Do you help to save the Earth?</span> <span class=\"answerhighlight q2\">Cleaning a planet is not a task for only one person. People everywhere have to get involved and understand this is our world.</span> <span class=\"answerhighlight q6\">If people in the world see the importance of reducing, reusing and recycling, the destiny of this planet can change</span>.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\"><span class=\"answerhighlight q1\">Reducing the amount of waste you produce is the best way to help the environment.</span> </span><span class=\"answerhighlight qtf1\">Did you switch off the water while brushing your teeth in the morning? You should do it!</span> Did you walk to school or did you use public transportation?</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">Reusing is another way of being environmentally friendly.</span> Try to find ways to use things again!<span class=\"answerhighlight q2\"> <span class=\"answerhighlight qtf2\">Take cloth sacks when you go shopping instead of taking a home newspaper or plastic bags.</span></span> You should use cloth sacks again and again. You have to save some trees! <span class=\"answerhighlight q4\">Shoe boxes and margarine containers can be used to store things or become fun art projects</span>. Use your imagination!</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">You can also recycle in your home or even at school. </span><span class=\"answerhighlight q5\"><span class=\"answerhighlight q2\">Many communities have recycling centers for <span class=\"answerhighlight q5\">newspapers, batteries and a variety of glass and plastics</span>.</span> <strong>These</strong> can be made into new products.</span></p>\n<div style=\"position: absolute; left: 582px; top: 22.6667px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\" style=\"text-align: justify;\">&nbsp;</div>\n</div>",
+      "parentQuestionId": 17711,
+      "choices": [
+        {
+          "id": 57314,
+          "label": "A",
+          "text": "The involvement of people everywhere in this planet.",
+          "isCorrect": false
+        },
+        {
+          "id": 57315,
+          "label": "B",
+          "text": "Recycling things in your home or at school.",
+          "isCorrect": false
+        },
+        {
+          "id": 57316,
+          "label": "C",
+          "text": "Reusing things instead of buying or using new ones.",
+          "isCorrect": false
+        },
+        {
+          "id": 57317,
+          "label": "D",
+          "text": "Reducing the amount of waste produced.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 57317,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Giảm lượng chất thải bạn thải ra l&agrave; c&aacute;ch tốt nhất để gi&uacute;p &iacute;ch cho m&ocirc;i trường.</p>\n<p>=&gt; Giảm lượng chất thải l&agrave; c&aacute;ch th&acirc;n thiện với m&ocirc;i trường nhất để cứu Tr&aacute;i đất.</p>\n<div id=\"translation\"></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 17713,
+      "questionNumber": 26,
+      "questionName": "II.37",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Which of the following statements is NOT true?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the passage and </strong><strong>choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q2\">You probably hear a lot about the environment.</span> But do you really worry about it? <span class=\"answerhighlight q6\">Do you help to save the Earth?</span> <span class=\"answerhighlight q2\">Cleaning a planet is not a task for only one person. People everywhere have to get involved and understand this is our world.</span> <span class=\"answerhighlight q6\">If people in the world see the importance of reducing, reusing and recycling, the destiny of this planet can change</span>.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\"><span class=\"answerhighlight q1\">Reducing the amount of waste you produce is the best way to help the environment.</span> </span><span class=\"answerhighlight qtf1\">Did you switch off the water while brushing your teeth in the morning? You should do it!</span> Did you walk to school or did you use public transportation?</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">Reusing is another way of being environmentally friendly.</span> Try to find ways to use things again!<span class=\"answerhighlight q2\"> <span class=\"answerhighlight qtf2\">Take cloth sacks when you go shopping instead of taking a home newspaper or plastic bags.</span></span> You should use cloth sacks again and again. You have to save some trees! <span class=\"answerhighlight q4\">Shoe boxes and margarine containers can be used to store things or become fun art projects</span>. Use your imagination!</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">You can also recycle in your home or even at school. </span><span class=\"answerhighlight q5\"><span class=\"answerhighlight q2\">Many communities have recycling centers for <span class=\"answerhighlight q5\">newspapers, batteries and a variety of glass and plastics</span>.</span> <strong>These</strong> can be made into new products.</span></p>\n<div style=\"position: absolute; left: 582px; top: 22.6667px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\" style=\"text-align: justify;\">&nbsp;</div>\n</div>",
+      "parentQuestionId": 17711,
+      "choices": [
+        {
+          "id": 57318,
+          "label": "A",
+          "text": "The environment is probably talked a lot about.",
+          "isCorrect": false
+        },
+        {
+          "id": 57319,
+          "label": "B",
+          "text": "Batteries, glass and plastics cannot be recycled.",
+          "isCorrect": true
+        },
+        {
+          "id": 57320,
+          "label": "C",
+          "text": "Only one person cannot save the planet.",
+          "isCorrect": false
+        },
+        {
+          "id": 57321,
+          "label": "D",
+          "text": "You should use cloth sacks to go shopping.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 57319,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&ocirc;ng tin KH&Ocirc;NG đúng trong bài là phương án 2 \"Pin, thủy tinh v&agrave; nhựa kh&ocirc;ng thể t&aacute;i chế được.\" &gt;&lt; Th&ocirc;ng tin ở ph&acirc;̀n highlight thứ 4 \"Nhiều cộng đồng c&oacute; trung t&acirc;m t&aacute;i chế b&aacute;o, pin v&agrave; nhiều loại thủy tinh v&agrave; nhựa.\"</p>\n<p><em>Các phương án khác đ&ecirc;̀u có th&ecirc;̉ tìm th&acirc;́y th&ocirc;ng tin tương ứng trong bài đọc:</em></p>\n<p>- Phương án 1 \"M&ocirc;i trường c&oacute; lẽ l&agrave; chủ đề được nhắc đến nhiều.\" ~ Th&ocirc;ng tin ở ph&acirc;̀n highlight thứ nh&acirc;́t \"C&oacute; lẽ bạn đ&atilde; nghe nhiều về m&ocirc;i trường.\"</p>\n<p>- Phương án 3 \"Chỉ một người kh&ocirc;ng thể cứu được h&agrave;nh tinh n&agrave;y.\" ~ Th&ocirc;ng tin ở ph&acirc;̀n highlight thứ 2 \"L&agrave;m sạch một h&agrave;nh tinh kh&ocirc;ng phải l&agrave; nhiệm vụ của ri&ecirc;ng một người. Mọi người ở khắp mọi nơi đều phải tham gia v&agrave; hiểu rằng đ&acirc;y l&agrave; thế giới của ch&uacute;ng ta.\"</p>\n<p>- Phương án 4 \"Bạn n&ecirc;n sử dụng t&uacute;i vải khi đi mua sắm.\" ~ Th&ocirc;ng tin ở ph&acirc;̀n highlight thứ 3 \"H&atilde;y mang theo t&uacute;i vải khi đi mua sắm thay v&igrave; mang theo b&aacute;o cũ hoặc t&uacute;i nilon.\"</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 17714,
+      "questionNumber": 27,
+      "questionName": "II.38",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>According to the passage, how many ways are there to help save the Earth?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the passage and </strong><strong>choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q2\">You probably hear a lot about the environment.</span> But do you really worry about it? <span class=\"answerhighlight q6\">Do you help to save the Earth?</span> <span class=\"answerhighlight q2\">Cleaning a planet is not a task for only one person. People everywhere have to get involved and understand this is our world.</span> <span class=\"answerhighlight q6\">If people in the world see the importance of reducing, reusing and recycling, the destiny of this planet can change</span>.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\"><span class=\"answerhighlight q1\">Reducing the amount of waste you produce is the best way to help the environment.</span> </span><span class=\"answerhighlight qtf1\">Did you switch off the water while brushing your teeth in the morning? You should do it!</span> Did you walk to school or did you use public transportation?</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">Reusing is another way of being environmentally friendly.</span> Try to find ways to use things again!<span class=\"answerhighlight q2\"> <span class=\"answerhighlight qtf2\">Take cloth sacks when you go shopping instead of taking a home newspaper or plastic bags.</span></span> You should use cloth sacks again and again. You have to save some trees! <span class=\"answerhighlight q4\">Shoe boxes and margarine containers can be used to store things or become fun art projects</span>. Use your imagination!</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">You can also recycle in your home or even at school. </span><span class=\"answerhighlight q5\"><span class=\"answerhighlight q2\">Many communities have recycling centers for <span class=\"answerhighlight q5\">newspapers, batteries and a variety of glass and plastics</span>.</span> <strong>These</strong> can be made into new products.</span></p>\n<div style=\"position: absolute; left: 582px; top: 22.6667px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\" style=\"text-align: justify;\">&nbsp;</div>\n</div>",
+      "parentQuestionId": 17711,
+      "choices": [
+        {
+          "id": 57322,
+          "label": "A",
+          "text": "3",
+          "isCorrect": true
+        },
+        {
+          "id": 57323,
+          "label": "B",
+          "text": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 57324,
+          "label": "C",
+          "text": "5",
+          "isCorrect": false
+        },
+        {
+          "id": 57325,
+          "label": "D",
+          "text": "6",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 57322,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Giảm lượng r&aacute;c thải l&agrave; c&aacute;ch tốt nhất để bảo vệ m&ocirc;i trường.</p>\n<p>T&aacute;i sử dụng l&agrave; một c&aacute;ch kh&aacute;c để trở n&ecirc;n th&acirc;n thiện với m&ocirc;i trường.</p>\n<p>Bạn cũng c&oacute; thể t&aacute;i chế tại nh&agrave; hoặc thậm ch&iacute; ở trường.</p>\n<p>=&gt; Có 3 cách đ&ecirc;̉ giúp bảo v&ecirc;̣ trái đ&acirc;́t.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 17716,
+      "questionNumber": 28,
+      "questionName": "II.40",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What does the word &quot;These&quot; in the last paragraph refer to?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the passage and </strong><strong>choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q2\">You probably hear a lot about the environment.</span> But do you really worry about it? <span class=\"answerhighlight q6\">Do you help to save the Earth?</span> <span class=\"answerhighlight q2\">Cleaning a planet is not a task for only one person. People everywhere have to get involved and understand this is our world.</span> <span class=\"answerhighlight q6\">If people in the world see the importance of reducing, reusing and recycling, the destiny of this planet can change</span>.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\"><span class=\"answerhighlight q1\">Reducing the amount of waste you produce is the best way to help the environment.</span> </span><span class=\"answerhighlight qtf1\">Did you switch off the water while brushing your teeth in the morning? You should do it!</span> Did you walk to school or did you use public transportation?</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">Reusing is another way of being environmentally friendly.</span> Try to find ways to use things again!<span class=\"answerhighlight q2\"> <span class=\"answerhighlight qtf2\">Take cloth sacks when you go shopping instead of taking a home newspaper or plastic bags.</span></span> You should use cloth sacks again and again. You have to save some trees! <span class=\"answerhighlight q4\">Shoe boxes and margarine containers can be used to store things or become fun art projects</span>. Use your imagination!</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">You can also recycle in your home or even at school. </span><span class=\"answerhighlight q5\"><span class=\"answerhighlight q2\">Many communities have recycling centers for <span class=\"answerhighlight q5\">newspapers, batteries and a variety of glass and plastics</span>.</span> <strong>These</strong> can be made into new products.</span></p>\n<div style=\"position: absolute; left: 582px; top: 22.6667px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\" style=\"text-align: justify;\">&nbsp;</div>\n</div>",
+      "parentQuestionId": 17711,
+      "choices": [
+        {
+          "id": 57330,
+          "label": "A",
+          "text": "your home and school",
+          "isCorrect": false
+        },
+        {
+          "id": 57331,
+          "label": "B",
+          "text": "many communities",
+          "isCorrect": false
+        },
+        {
+          "id": 57332,
+          "label": "C",
+          "text": "newspapers, batteries, glass and plastics",
+          "isCorrect": true
+        },
+        {
+          "id": 57333,
+          "label": "D",
+          "text": "centers",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 57332,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Nhiều cộng đồng c&oacute; c&aacute;c trung t&acirc;m t&aacute;i chế <strong>b&aacute;o, pin v&agrave; nhiều loại thủy tinh v&agrave; nhựa</strong>. <strong>Những thứ n&agrave;y </strong>c&oacute; thể được chế tạo th&agrave;nh c&aacute;c sản phẩm mới.</p>\n<p>=&gt; Từ \"<strong>These</strong>\" thay th&ecirc;́ cho \"<strong>newspapers, batteries, glass and plastics</strong>\".</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 129516,
+      "questionNumber": 29,
+      "questionName": "Reading VI. Environment Q5.1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What is the passage mainly about?</strong></p>\n<div style=\"position: absolute; left: 190px; top: -12px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the passage and </strong><strong>choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q2\">You probably hear a lot about the environment.</span> But do you really worry about it? <span class=\"answerhighlight q6\">Do you help to save the Earth?</span> <span class=\"answerhighlight q2\">Cleaning a planet is not a task for only one person. People everywhere have to get involved and understand this is our world.</span> <span class=\"answerhighlight q6\">If people in the world see the importance of reducing, reusing and recycling, the destiny of this planet can change</span>.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\"><span class=\"answerhighlight q1\">Reducing the amount of waste you produce is the best way to help the environment.</span> </span><span class=\"answerhighlight qtf1\">Did you switch off the water while brushing your teeth in the morning? You should do it!</span> Did you walk to school or did you use public transportation?</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">Reusing is another way of being environmentally friendly.</span> Try to find ways to use things again!<span class=\"answerhighlight q2\"> <span class=\"answerhighlight qtf2\">Take cloth sacks when you go shopping instead of taking a home newspaper or plastic bags.</span></span> You should use cloth sacks again and again. You have to save some trees! <span class=\"answerhighlight q4\">Shoe boxes and margarine containers can be used to store things or become fun art projects</span>. Use your imagination!</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">You can also recycle in your home or even at school. </span><span class=\"answerhighlight q5\"><span class=\"answerhighlight q2\">Many communities have recycling centers for <span class=\"answerhighlight q5\">newspapers, batteries and a variety of glass and plastics</span>.</span> <strong>These</strong> can be made into new products.</span></p>\n<div style=\"position: absolute; left: 582px; top: 22.6667px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\" style=\"text-align: justify;\">&nbsp;</div>\n</div>",
+      "parentQuestionId": 17711,
+      "choices": [
+        {
+          "id": 304748,
+          "label": "A",
+          "text": "ways to recycle",
+          "isCorrect": false
+        },
+        {
+          "id": 304749,
+          "label": "B",
+          "text": "ways to save the Earth",
+          "isCorrect": true
+        },
+        {
+          "id": 304750,
+          "label": "C",
+          "text": "ways to hear about the planet",
+          "isCorrect": false
+        },
+        {
+          "id": 304751,
+          "label": "D",
+          "text": "ways to reduce waste",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 304749,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Bạn c&oacute; gi&uacute;p cứu Tr&aacute;i đất kh&ocirc;ng? Nếu mọi người tr&ecirc;n thế giới thấy tầm quan trọng của việc giảm thiểu sử dụng, t&aacute;i sử dụng v&agrave; t&aacute;i chế, vận mệnh của h&agrave;nh tinh n&agrave;y c&oacute; thể thay đổi.</p>\n<p>=&gt; B&agrave;i viết n&oacute;i về c&aacute;c c&aacute;ch để cứu Tr&aacute;i đất.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 9014,
+      "questionNumber": 30,
+      "questionName": "Question 182.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>we / be / friends / last school year.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 27493,
+          "label": "A",
+          "text": "We are friends since last school year.",
+          "isCorrect": false
+        },
+        {
+          "id": 27494,
+          "label": "B",
+          "text": "We were friends since last school year.",
+          "isCorrect": false
+        },
+        {
+          "id": 27495,
+          "label": "C",
+          "text": "We have been friends last school year.",
+          "isCorrect": false
+        },
+        {
+          "id": 27496,
+          "label": "D",
+          "text": "We have been friends since last school year.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 27496,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại ho&agrave;n th&agrave;nh được d&ugrave;ng để diễn tả một việc bắt đầu trong qu&aacute; khứ v&agrave; vẫn c&ograve;n tiếp tục ở hiện tại.</p>\n<p>Cấu tr&uacute;c ở thể khẳng định với \"<strong>since</strong>\": <span style=\"font-weight: 400;\"><strong>S + have/has + V(pp) +&hellip;+</strong> <strong>since + mốc thời gian</strong>&nbsp;(Ai đ&oacute; đ&atilde; l&agrave;m g&igrave; kể từ khi n&agrave;o)</span></p>\n<p>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:&nbsp;</p>\n<ul>\n<li><em>We <span style=\"text-decoration: line-through;\"><strong>are</strong></span> friends since last school year.</em></li>\n<li><em>We <span style=\"text-decoration: line-through;\"><strong>were</strong></span> friends since last school year.</em></li>\n<li><em>We have been friends <span style=\"text-decoration: line-through;\"><strong>last school year</strong></span>.</em></li>\n</ul>\n<p>Dịch: Ch&uacute;ng t&ocirc;i l&agrave; bạn từ năm học trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 391388,
+      "questionNumber": 31,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>documentary film / wild animals / interesting / than / expected.</strong></p>\n<div style=\"position: absolute; left: -192px; top: -12px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 798569,
+          "label": "A",
+          "text": "The documentary film about wild animals is more interesting than I expected.",
+          "isCorrect": true
+        },
+        {
+          "id": 798570,
+          "label": "B",
+          "text": "The documentary film about wild animals is more interesting than as I expected.",
+          "isCorrect": false
+        },
+        {
+          "id": 798571,
+          "label": "C",
+          "text": "The documentary film of wild animals is so interesting than I expected.",
+          "isCorrect": false
+        },
+        {
+          "id": 798572,
+          "label": "D",
+          "text": "The documentary film about wild animals is as interesting than I expected.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 798569,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>a film about sth</strong>: phim về ...&nbsp;</p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh hơn với t&iacute;nh từ d&agrave;i: <strong>S + to be + more + adj. + than + Noun/Pronoun/Clause</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Bộ phim t&agrave;i liệu về động vật hoang d&atilde; th&uacute; vị hơn t&ocirc;i mong đợi.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 289451,
+      "questionNumber": 32,
+      "questionName": "I.9.2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>Although / he / tired / he / have to / finish / homework.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 633864,
+          "label": "A",
+          "text": "<p>Although he tired, he has to finish the homework.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 633865,
+          "label": "B",
+          "text": "<p>Although he is tired, he have to finish the homework.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 633866,
+          "label": "C",
+          "text": "<p>Although he was tired, he had to finish his homework.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 633867,
+          "label": "D",
+          "text": "<p>Although he was not tired, he has finish his homework.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 633866,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Xác định liên từ \"Although\" dùng để nối hai mệnh đề mang ý nghĩa tương phản.</li>\n<li>Khi sử dụng tính từ \"tired\" để diễn tả trạng thái, cần một động từ \"to be\" đi kèm (ví dụ: \"he is tired\" hoặc \"he was tired\").</li>\n<li>Cụm động từ \"have to\" diễn tả sự bắt buộc hoặc cần thiết. Hãy chú ý chia động từ \"have\" cho đúng chủ ngữ và thì (ví dụ: \"he has to\" cho hiện tại, \"he had to\" cho quá khứ).</li>\n<li>Đảm bảo sự nhất quán về thì giữa hai mệnh đề được nối bởi \"Although\" để câu có nghĩa và ngữ pháp chính xác.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>although + S + V</strong>: mặc dù ...</p>\n<p style=\"text-align: justify;\"><strong>have to + V(inf)</strong>: phải làm gì</p>\n<p style=\"text-align: justify;\">\"<strong>tired</strong>\" là một tính từ, cần động từ \"to be\" đứng trước để tạo thành một vị ngữ, diễn tả trạng thái mệt mỏi của chủ ngữ.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">→</span> Phương án 3 \"<strong>Although he <span style=\"color: #5fbd18;\">was tired</span>, he <span style=\"color: #5fbd18;\">had to finish</span> his homework.</strong>\" là đáp án đúng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương án 1 \"<strong>Although he <span style=\"color: #ff0000;\">tired</span>, he <span style=\"color: #ff0000;\">has to</span> finish the homework.</strong>\" sai vì thiếu động từ \"to be\" (was) sau chủ ngữ \"he\" trong mệnh đề trạng ngữ chỉ sự nhượng bộ và \"has to\" không phù hợp với thì quá khứ của vế đầu.</li>\n<li style=\"text-align: justify;\">Phương án 2 \"<strong>Although he is tired, he <span style=\"color: #ff0000;\">have to</span> finish the homework.</strong>\" sai vì động từ \"have\" không hòa hợp với chủ ngữ số ít \"he\" trong mệnh đề chính.</li>\n<li style=\"text-align: justify;\">Phương án 4 \"<strong>Although he <span style=\"color: #ff0000;\">was not tired</span>, he <span style=\"color: #ff0000;\">has finish</span> his homework.</strong>\" sai vì từ \"not\" làm thay đổi nghĩa của câu so với các từ gợi ý và \"has finish\" là cấu trúc ngữ pháp sai.</li>\n</ul>",
+      "answerFeedbacks": {
+        "633864": "<p>Sai vì thiếu động từ \"to be\" (was) trước tính từ \"tired\" trong mệnh đề trạng ngữ chỉ sự nhượng bộ và \"has to\" không phù hợp với thì quá khứ của vế đầu.</p>",
+        "633865": "<p>Sai vì động từ \"have\" không hòa hợp với chủ ngữ số ít \"he\" trong mệnh đề chính.</p>",
+        "633866": "<p>Đúng vì câu sử dụng liên từ \"Although\" chính xác, các động từ \"was\" và \"had to\" được chia ở thì quá khứ đơn phù hợp với ngữ cảnh và hòa hợp với chủ ngữ.</p>",
+        "633867": "<p>Sai vì từ \"not\" làm thay đổi nghĩa của câu so với các từ gợi ý và \"has finish\" là cấu trúc ngữ pháp sai.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 391389,
+      "questionNumber": 33,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>What / name / man / create / World Wide Web?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 798573,
+          "label": "A",
+          "text": "What's the name of the man whom created the World Wide Web?",
+          "isCorrect": false
+        },
+        {
+          "id": 798574,
+          "label": "B",
+          "text": "What's the name of the man that created the World Wide Web?",
+          "isCorrect": true
+        },
+        {
+          "id": 798575,
+          "label": "C",
+          "text": "What's the name with the man who created the World Wide Web?",
+          "isCorrect": false
+        },
+        {
+          "id": 798576,
+          "label": "D",
+          "text": "What's the name about the man that created the World Wide Web?",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 798574,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>the name of sth</strong>: t&ecirc;n của ...</p>\n<p>Đại từ quan hệ \"<strong>who/that</strong>\" thay thế cho danh từ chỉ người \"<strong>the man</strong>\" v&agrave; đ&oacute;ng vai tr&ograve; l&agrave;m chủ ngữ trong mệnh đề quan hệ.</p>\n<p>Đại từ quan hệ \"whom\" thay thế cho danh từ chỉ người, đ&oacute;ng vai tr&ograve; l&agrave;m t&acirc;n ngữ trong mệnh đề quan hệ. =&gt; Kh&ocirc;ng đ&uacute;ng trong ngữ cảnh n&agrave;y</p>\n<p>Dịch: T&ecirc;n của người đ&agrave;n &ocirc;ng đ&atilde; tạo ra World Wide Web l&agrave; g&igrave;?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 325328,
+      "questionNumber": 34,
+      "questionName": "13",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>The food was so salty that we couldn't eat it.</strong></p>\n<div style=\"position: absolute; left: 350px; top: 68.5347px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 697102,
+          "label": "A",
+          "text": "The food was not salty enough for us to eat.",
+          "isCorrect": false
+        },
+        {
+          "id": 697103,
+          "label": "B",
+          "text": "The food was too salty for us to eat.",
+          "isCorrect": true
+        },
+        {
+          "id": 697104,
+          "label": "C",
+          "text": "The food was salty enough for us to eat.",
+          "isCorrect": false
+        },
+        {
+          "id": 697105,
+          "label": "D",
+          "text": "The food was such salty that we could eat it.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 697103,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: </span><strong>S + to be + too + adj. + (for sb) + to V</strong><span style=\"font-weight: 400;\">: qu&aacute;... đến nỗi kh&ocirc;ng thể l&agrave;m được</span></p>\n<p><span style=\"font-weight: 400;\">Phương &aacute;n 1, 3 sai nghĩa.</span></p>\n<p><span style=\"font-weight: 400;\">Phương &aacute;n 4 sai cấu tr&uacute;c \"such... that\".</span></p>\n<p>Dịch: Thức ăn mặn đến nỗi ch&uacute;ng t&ocirc;i kh&ocirc;ng thể ăn được.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 125581,
+      "questionNumber": 35,
+      "questionName": "31",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><i>Choose the sentence that is CLOSEST in meaning to the sentence given.</i></p>\n<p><strong>\"You should take better care of your health,\" said Tom's mother.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 294574,
+          "label": "A",
+          "text": "Tom's mother promised to take better care of his health.",
+          "isCorrect": false
+        },
+        {
+          "id": 294575,
+          "label": "B",
+          "text": "Tom's mother ordered him to take better care of his health.",
+          "isCorrect": false
+        },
+        {
+          "id": 294576,
+          "label": "C",
+          "text": "Tom's mother required him to take better care of his health.",
+          "isCorrect": false
+        },
+        {
+          "id": 294577,
+          "label": "D",
+          "text": "Tom's mother advised him to take better care of his health.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 294577,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Trong câu gốc, cụm từ <em>\"You should take better care of your health\"</em> thể hiện ý nghĩa gì? Đây là một lời khuyên, một lời hứa, một mệnh lệnh hay một yêu cầu bắt buộc?<br/>Hãy xem xét các động từ tường thuật trong mỗi phương án: <strong>advised</strong>, <strong>promised</strong>, <strong>ordered</strong>, và <strong>required</strong>. Động từ nào có ý nghĩa phù hợp nhất với sắc thái của <em>\"should\"</em> để diễn tả lời khuyên?",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>advise + sb + to V(inf)</strong>: khuyên ai nên làm gì </p>\n<p style=\"text-align: justify;\"><strong>promise + to V(inf)</strong>: hứa làm gì</p>\n<p style=\"text-align: justify;\"><strong>order + sb + to V(inf)</strong>: ra lệnh cho ai làm gì</p>\n<p style=\"text-align: justify;\"><strong>require + sb + to V(inf)</strong>: yêu cầu ai làm gì</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 4 đúng vì động từ tường thuật <em>\"advised\"</em> (khuyên) diễn đạt chính xác nhất ý nghĩa lời khuyên <em>\"You should...\"</em> trong câu gốc.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 1 sai vì <em>\"promised\"</em> (hứa) không thể hiện lời khuyên từ câu gốc, mà là một cam kết hành động.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 2 sai vì <em>\"ordered\"</em> (ra lệnh) mang sắc thái quá mạnh, không phù hợp với lời khuyên nhẹ nhàng <em>\"should\"</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 3 sai vì <em>\"required\"</em> (yêu cầu bắt buộc) không thể hiện đúng sắc thái lời khuyên từ câu gốc, mà là một sự đòi hỏi mang tính bắt buộc.</li>\n</ul>",
+      "answerFeedbacks": {
+        "294574": "Sai vì <em>\"promised\"</em> (hứa) không thể hiện lời khuyên từ câu gốc, mà là một cam kết hành động của người nói.",
+        "294575": "Sai vì <em>\"ordered\"</em> (ra lệnh) mang sắc thái quá mạnh, không phù hợp với lời khuyên nhẹ nhàng <em>\"should\"</em>.",
+        "294576": "Sai vì <em>\"required\"</em> (yêu cầu bắt buộc) không thể hiện đúng sắc thái lời khuyên từ câu gốc, mà là một sự đòi hỏi mang tính bắt buộc.",
+        "294577": "Đúng vì <em>\"advised\"</em> (khuyên) là động từ tường thuật chính xác nhất để diễn đạt lời khuyên <em>\"You should...\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 296581,
+      "questionNumber": 36,
+      "questionName": "54. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>He wishes he could have more time to go swimming every day.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 647017,
+          "label": "A",
+          "text": "If he could swim, he would have more time every day.",
+          "isCorrect": false
+        },
+        {
+          "id": 647018,
+          "label": "B",
+          "text": "If he had more time, he would go swimming every day.",
+          "isCorrect": true
+        },
+        {
+          "id": 647019,
+          "label": "C",
+          "text": "He says that he has more time to go swimming every day.",
+          "isCorrect": false
+        },
+        {
+          "id": 647020,
+          "label": "D",
+          "text": "He is pleased that he has more time to go swimming every day.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 647018,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> If + S + V(pt), S + would/could/might&hellip;+ V(inf).</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Anh ấy ước m&igrave;nh c&oacute; thể c&oacute; nhiều thời gian hơn để đi bơi mỗi ng&agrave;y.</span></p>\n<p><span style=\"font-weight: 400;\">~ Nếu c&oacute; nhiều thời gian hơn, anh ấy sẽ đi bơi mỗi ng&agrave;y.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 35990,
+      "questionNumber": 37,
+      "questionName": "Question 12",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>In order not to disturb our conversation, he took his seat quietly.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 110152,
+          "label": "A",
+          "text": "He took his seat quietly so that he wouldn’t disturb our conversation.",
+          "isCorrect": true
+        },
+        {
+          "id": 110153,
+          "label": "B",
+          "text": "So as to keep us continue our conversation, he took his seat quietly.",
+          "isCorrect": false
+        },
+        {
+          "id": 110154,
+          "label": "C",
+          "text": "Not to disturbing our conversation, he took his seat quietly.",
+          "isCorrect": false
+        },
+        {
+          "id": 110155,
+          "label": "D",
+          "text": "As long as he took his seat quietly, we weren’t disturbed to keep on our conversation.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 110152,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c:&nbsp;<strong>in order (not) to + V(inf) </strong>~<strong> so that + S + (not) V</strong>: để m&agrave; ...</p>\n<p>~ so as (not) to + V(inf): để (kh&ocirc;ng)...</p>\n<p>keep sb/sth + V-ing: giữ cho ai/c&aacute;i g&igrave; l&agrave;m g&igrave;</p>\n<p>as long as + clause: miễn l&agrave;</p>\n<p><em>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:</em></p>\n<ul>\n<li><em>So as to keep us <span style=\"text-decoration: line-through;\"><strong>continue</strong></span> our conversation, he took his seat quietly.</em></li>\n<li><em>Not to <span style=\"text-decoration: line-through;\"><strong>disturbing</strong></span> our conversation, he took his seat quietly.</em></li>\n<li><em>As long as he took his seat quietly, we weren&rsquo;t disturbed to keep on our conversation. (sai nghĩa)</em></li>\n</ul>\n<p>Dịch: Để kh&ocirc;ng l&agrave;m phiền cuộc tr&ograve; chuyện của ch&uacute;ng t&ocirc;i, anh ấy lặng lẽ ngồi xuống.</p>\n<p>~&nbsp;Anh ấy lặng lẽ ngồi xuống để anh kh&ocirc;ng l&agrave;m phiền cuộc tr&ograve; chuyện của ch&uacute;ng t&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

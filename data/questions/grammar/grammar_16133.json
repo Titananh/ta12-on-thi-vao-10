@@ -1,0 +1,794 @@
+{
+  "quizId": 16133,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 36: Prepositions of movement (Giới từ chỉ sự chuyển động)",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": 902927,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Gi&#7899;i t&#7915; &quot;off&quot; &#273;&#432;&#7907;c s&#7917; d&#7909;ng &#273;&#7875; ch&#7881; &#273;i&#7873;u g&#236;?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715596,
+          "label": "A",
+          "text": "Đặt lên trên một bề mặt",
+          "isCorrect": false
+        },
+        {
+          "id": 1715597,
+          "label": "B",
+          "text": "Rời khỏi hoặc ra khỏi một vật",
+          "isCorrect": true
+        },
+        {
+          "id": 1715598,
+          "label": "C",
+          "text": "Đi ngang qua",
+          "isCorrect": false
+        },
+        {
+          "id": 1715599,
+          "label": "D",
+          "text": "Đi vào bên trong",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1715597,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/7_-_Copy_5_11ba9270.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 902934,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>C&#226;u n&#224;o s&#7917; d&#7909;ng &#273;&#250;ng gi&#7899;i t&#7915; &quot;across&quot;?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715604,
+          "label": "A",
+          "text": "He walked across the field.",
+          "isCorrect": true
+        },
+        {
+          "id": 1715605,
+          "label": "B",
+          "text": "The car drove across into the river.",
+          "isCorrect": false
+        },
+        {
+          "id": 1715606,
+          "label": "C",
+          "text": "She flew across off the mountains.",
+          "isCorrect": false
+        },
+        {
+          "id": 1715607,
+          "label": "D",
+          "text": "We jumped across the box.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1715604,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. \"<strong>across</strong>\" được d&ugrave;ng để chỉ sự di chuyển <strong>ngang qua</strong> một bề mặt (c&aacute;nh đồng).</p>\n<p>Dịch: Anh ấy đi bộ qua c&aacute;nh đồng.</p>\n<p>2. \"across\" v&agrave; \"into\" kh&ocirc;ng được d&ugrave;ng c&ugrave;ng nhau trong ngữ cảnh n&agrave;y.</p>\n<p>3. \"across\" v&agrave; \"off\" kh&ocirc;ng ph&ugrave; hợp khi d&ugrave;ng c&ugrave;ng nhau, g&acirc;y thừa nghĩa.</p>\n<p>4. \"across\" kh&ocirc;ng ph&ugrave; hợp với \"box\" v&igrave; hộp l&agrave; vật nhỏ, kh&ocirc;ng phải bề mặt hoặc khoảng kh&ocirc;ng gian lớn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 902928,
+      "questionNumber": 3,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>K&#233;o th&#7843; &#273;&#7875; ho&#224;n th&#224;nh c&#225;c c&#226;u sau.&nbsp;</strong></p>\n<p>1. <span class='fillblank-option'><label>3.1</label><input id='fbo-902928-0' class='ms fillblank-option-3' index='0' name='fbo-902928-0' type='text' size='5' autocomplete='off' data-testid='fillblank-input-902928-0' /></span> ch&#7881; s&#7921; chuy&#7875;n &#273;&#7897;ng h&#432;&#7899;ng l&#234;n ho&#7863;c l&#234;n cao h&#417;n. <span class='fillblank-option'><label>3.2</label><input id='fbo-902928-1' class='ms fillblank-option-3' index='1' name='fbo-902928-1' type='text' size='8' autocomplete='off' data-testid='fillblank-input-902928-1' /></span> ch&#7881; s&#7921; chuy&#7875;n &#273;&#7897;ng h&#432;&#7899;ng xu&#7889;ng ho&#7863;c th&#7845;p h&#417;n.</p>\n<p>2. <span class='fillblank-option'><label>3.3</label><input id='fbo-902928-2' class='ms fillblank-option-3' index='2' name='fbo-902928-2' type='text' size='8' autocomplete='off' data-testid='fillblank-input-902928-2' /></span> ch&#7881; s&#7921; di chuy&#7875;n v&#224;o b&#234;n trong m&#7897;t kh&#244;ng gian. <span class='fillblank-option'><label>3.4</label><input id='fbo-902928-3' class='ms fillblank-option-3' index='3' name='fbo-902928-3' type='text' size='10' autocomplete='off' data-testid='fillblank-input-902928-3' /></span> ch&#7881; s&#7921; di chuy&#7875;n l&#234;n tr&#234;n b&#7873; m&#7863;t c&#7911;a m&#7897;t v&#7853;t.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1739993,
+          "label": "A",
+          "text": "\"Down\"",
+          "isCorrect": false
+        },
+        {
+          "id": 1739992,
+          "label": "B",
+          "text": "\"Up\"",
+          "isCorrect": false
+        },
+        {
+          "id": 1739994,
+          "label": "C",
+          "text": "\"Into\"",
+          "isCorrect": false
+        },
+        {
+          "id": 1739995,
+          "label": "D",
+          "text": "\"Onto\"",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "\"Up\""
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "\"Down\""
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "\"Into\""
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "\"Onto\""
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.7362%; text-align: center;\"><img src=\"/images/exams/5_-_Copy_8_f798e182.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7362%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/6_-_Copy_10_98a97a21.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 34954,
+      "questionNumber": 4,
+      "questionName": "Question 24",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Please move the chairs ____ the aisle. They're ____ my way.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 107765,
+          "label": "A",
+          "text": "away from/ on",
+          "isCorrect": false
+        },
+        {
+          "id": 107766,
+          "label": "B",
+          "text": "out of/ in",
+          "isCorrect": true
+        },
+        {
+          "id": 107767,
+          "label": "C",
+          "text": "under/ of",
+          "isCorrect": false
+        },
+        {
+          "id": 107768,
+          "label": "D",
+          "text": "from/ on",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 107766,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy nhớ lại các cụm giới từ thường dùng để diễn tả sự di chuyển ra khỏi một không gian.</p>\n<p>Đồng thời, hãy nhớ lại giới từ đi kèm với cụm ''<em>my way</em>'' tạo thành cụm từ cố định để chỉ sự cản trở lối đi.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cụm giới từ cố định</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Cụm giới từ <em>out of</em> (nghĩa là \"ra khỏi, bên ngoài\") được dùng để chỉ hành động di chuyển vật thể từ bên trong một không gian ra ngoài. Cụm giới từ <em>in one's way</em> (nghĩa là \"cản đường, gây vướng víu\") là một thành ngữ cố định để diễn tả sự vật hoặc người đang ngăn cản lối đi của ai đó.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Ngữ cảnh câu đầu tiên yêu cầu giới từ chỉ sự di chuyển ra khỏi một không gian (lối đi). <em>\"Out of\"</em> phù hợp nhất để diễn tả việc di chuyển ghế ra khỏi lối đi. Ngữ cảnh câu thứ hai cần một cụm giới từ cố định để diễn tả việc các chiếc ghế đang cản đường. <em>\"In my way\"</em> là cụm từ chính xác. Do đó, phương án 2 với cặp giới từ <em>out of/in</em> là lựa chọn đúng nhất.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều chứa ít nhất một từ không phù hợp với ngữ cảnh của hai vế câu.</p>",
+      "answerFeedbacks": {
+        "107765": "Sai vì \"away from\" không diễn tả việc di chuyển ra khỏi một không gian cụ thể như \"out of\" và \"on my way\" có nghĩa là \"đang trên đường đi\", không phải \"cản đường\".",
+        "107766": "Đúng vì \"out of\" diễn tả việc di chuyển ra khỏi một không gian và \"in my way\" là cụm giới từ cố định có nghĩa \"cản đường\".",
+        "107767": "Sai vì \"under the aisle\" không có nghĩa phù hợp và \"of my way\" không phải là cụm từ chính xác.",
+        "107768": "Sai vì \"from\" không diễn tả chính xác việc di chuyển ra khỏi một không gian như \"out of\" và \"on my way\" có nghĩa là \"đang trên đường đi\", không phải \"cản đường\"."
+      },
+      "images": []
+    },
+    {
+      "id": 902966,
+      "questionNumber": 5,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The boy climbed _____ the tree to get a better view.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715650,
+          "label": "A",
+          "text": "into",
+          "isCorrect": false
+        },
+        {
+          "id": 1715651,
+          "label": "B",
+          "text": "onto",
+          "isCorrect": false
+        },
+        {
+          "id": 1715652,
+          "label": "C",
+          "text": "up",
+          "isCorrect": true
+        },
+        {
+          "id": 1715653,
+          "label": "D",
+          "text": "across",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1715652,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy xem xét động từ <em>climbed</em> và danh từ <em>the tree</em> để xác định hướng chuyển động mà giới từ cần diễn tả.\n<ul>\n    <li><em>Climbed</em> gợi ý hành động di chuyển lên cao.</li>\n    <li><em>The tree</em> là vật thể mà hành động <em>climbed</em> hướng tới.</li>\n</ul>\nGiới từ nào trong các lựa chọn diễn tả chính xác hành động di chuyển từ dưới lên trên, theo chiều dọc của một vật thể cao như cái cây?",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Giới từ chỉ chuyển động và vị trí</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Giới từ chỉ chuyển động và vị trí được sử dụng để diễn tả hướng di chuyển hoặc vị trí của một vật thể, người trong không gian, thường đi kèm với động từ chỉ hành động.</p>\n<p style=\"text-align: justify;\"><strong>Một số giới từ chỉ chuyển động và vị trí:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">up:</span></strong> lên trên, hướng lên (diễn tả chuyển động từ vị trí thấp hơn lên vị trí cao hơn)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">into:</span></strong> vào trong (diễn tả chuyển động từ bên ngoài vào bên trong một không gian kín)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">onto:</span></strong> lên trên bề mặt (diễn tả chuyển động lên trên và tiếp xúc với bề mặt của một vật)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">across:</span></strong> ngang qua, bên kia (diễn tả chuyển động từ phía này sang phía kia của một bề mặt, khu vực)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Ngữ cảnh của câu diễn tả hành động trèo cây, tức là di chuyển từ vị trí thấp hơn lên vị trí cao hơn trên cây. Giới từ <em>\"up\"</em> diễn tả chính xác chuyển động này. Các phương án khác không phù hợp về nghĩa và cách dùng trong ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "1715650": "Sai vì <em>into</em> diễn tả chuyển động đi vào bên trong một không gian kín, không phù hợp với hành động trèo lên cây.",
+        "1715651": "Sai vì <em>onto</em> diễn tả chuyển động lên trên một bề mặt, nhưng <em>climb up the tree</em> là cách diễn đạt tự nhiên và phổ biến hơn cho hành động trèo cây nói chung.",
+        "1715652": "Đúng vì <em>up</em> diễn tả chuyển động từ vị trí thấp hơn lên vị trí cao hơn, phù hợp với hành động trèo lên cây.",
+        "1715653": "Sai vì <em>across</em> diễn tả chuyển động ngang qua một bề mặt hoặc khu vực, không phù hợp với hành động trèo lên."
+      },
+      "images": []
+    },
+    {
+      "id": 652308,
+      "questionNumber": 6,
+      "questionName": "Complete Book 6 - p76",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>A small boy accidentally fell _____ a well and had to be rescued.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1256456,
+          "label": "A",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 1256457,
+          "label": "B",
+          "text": "over",
+          "isCorrect": false
+        },
+        {
+          "id": 1256458,
+          "label": "C",
+          "text": "into",
+          "isCorrect": true
+        },
+        {
+          "id": 1256459,
+          "label": "D",
+          "text": "upon",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1256458,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn giới từ phù hợp, hãy xem xét động từ chỉ hành động và bản chất của địa điểm được nhắc đến. Trong câu này, động từ <em>\"fell\"</em> (rơi) thể hiện một sự chuyển động. Địa điểm <em>\"a well\"</em> (cái giếng) là một không gian có chiều sâu.</p>\n<p>Bạn cần một giới từ diễn tả sự di chuyển từ bên ngoài vào sâu bên trong một không gian.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Giới từ chỉ chuyển động và vị trí</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Giới từ chỉ chuyển động và vị trí được sử dụng để diễn tả hướng đi, đích đến, hoặc mối quan hệ không gian giữa các vật thể, thường đi kèm với động từ chỉ hành động.</p>\n<p><strong>Một số giới từ chỉ chuyển động và vị trí:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">in:</span></strong> trong, ở trong (chỉ vị trí tĩnh bên trong một không gian).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">over:</span></strong> ở trên (chỉ vị trí cao hơn hoặc chuyển động vượt qua một vật/khu vực).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">into:</span></strong> vào trong (chỉ chuyển động từ bên ngoài vào bên trong một không gian).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">upon:</span></strong> lên trên (giống <em>on</em>, thường trang trọng hơn, chỉ tiếp xúc bề mặt hoặc ngay sau một sự kiện).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, động từ <em>\"fell\"</em> (quá khứ của <em>\"fall\"</em>) diễn tả hành động rơi, một chuyển động, và <em>\"a well\"</em> là một không gian kín. Giới từ <em>\"into\"</em> được dùng để chỉ sự chuyển động từ bên ngoài vào bên trong một không gian, hoàn toàn phù hợp với ngữ cảnh một cậu bé rơi vào giếng.</p>\n<p style=\"text-align: justify;\">Các giới từ khác không phù hợp vì <em>\"in\"</em> chỉ vị trí tĩnh bên trong, <em>\"over\"</em> chỉ chuyển động vượt qua hoặc ở phía trên, còn <em>\"upon\"</em> chỉ sự tiếp xúc bề mặt hoặc sự kiện liên tiếp, không diễn tả đúng ý nghĩa của việc rơi sâu vào trong một không gian.</p>",
+      "answerFeedbacks": {
+        "1256456": "Sai vì <em>\"in\"</em> diễn tả vị trí tĩnh bên trong một không gian, không diễn tả hành động chuyển động từ bên ngoài vào.",
+        "1256457": "Sai vì <em>\"over\"</em> diễn tả chuyển động vượt qua hoặc ở phía trên một vật, không diễn tả chuyển động đi vào bên trong.",
+        "1256458": "Đúng vì <em>\"into\"</em> diễn tả chuyển động từ bên ngoài vào bên trong một không gian hoặc vật thể, phù hợp với hành động <em>\"fell\"</em> (rơi) vào giếng.",
+        "1256459": "Sai vì <em>\"upon\"</em> (thường trang trọng hơn <em>\"on\"</em>) diễn tả sự tiếp xúc trên bề mặt hoặc ngay sau một sự kiện, không phù hợp với hành động rơi vào một không gian sâu."
+      },
+      "images": []
+    },
+    {
+      "id": 652318,
+      "questionNumber": 7,
+      "questionName": "Complete Book 6 - p76",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>To reach my house, you have to climb _____ two flights of stairs.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1256505,
+          "label": "A",
+          "text": "up",
+          "isCorrect": true
+        },
+        {
+          "id": 1256506,
+          "label": "B",
+          "text": "along",
+          "isCorrect": false
+        },
+        {
+          "id": 1256507,
+          "label": "C",
+          "text": "over",
+          "isCorrect": false
+        },
+        {
+          "id": 1256508,
+          "label": "D",
+          "text": "across",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1256505,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để tìm đáp án đúng, hãy xem xét động từ <em>\"climb\"</em> và danh từ <em>\"two flights of stairs\"</em>. Hành động leo cầu thang diễn ra theo hướng nào? Giới từ nào trong các lựa chọn (<em>\"up\"</em>, <em>\"along\"</em>, <em>\"over\"</em>, <em>\"across\"</em>) diễn tả chính xác hướng đi lên?",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Giới từ chỉ hướng và chuyển động</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các giới từ chỉ hướng và chuyển động được dùng để diễn tả hướng đi hoặc cách thức di chuyển của chủ thể trong không gian. Chúng thường đứng sau động từ chỉ hành động để làm rõ phương hướng của hành động đó.</p>\n<p style=\"text-align: justify;\"><strong>Một số giới từ chỉ hướng và chuyển động:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">up:</span></strong> lên trên, theo chiều đi lên (dùng để chỉ sự di chuyển từ vị trí thấp hơn lên vị trí cao hơn, thường là leo trèo, đi lên dốc, cầu thang)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">along:</span></strong> dọc theo (dùng để chỉ sự di chuyển song song với một đường, bờ, con đường, hoặc theo một hướng đã định)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">over:</span></strong> qua, vượt qua (dùng để chỉ sự di chuyển từ phía này sang phía khác của một vật thể, hoặc vượt qua một chướng ngại vật)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">across:</span></strong> ngang qua, từ bên này sang bên kia (dùng để chỉ sự di chuyển từ một phía đến phía đối diện của một bề mặt hoặc khu vực)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu hỏi yêu cầu điền giới từ phù hợp để diễn tả hành động <em>\"climb\"</em> (leo) <em>\"two flights of stairs\"</em> (hai tầng cầu thang). Để diễn tả hành động leo lên cầu thang, cần một giới từ chỉ hướng đi lên. Giới từ <em>\"up\"</em> là phù hợp nhất vì nó diễn tả chuyển động từ vị trí thấp hơn lên cao hơn. Các giới từ khác như <em>\"along\"</em>, <em>\"over\"</em>, <em>\"across\"</em> không diễn tả đúng hướng di chuyển này trong ngữ cảnh cụ thể của việc leo cầu thang.</p>",
+      "answerFeedbacks": {
+        "1256505": "Đúng vì <em>\"climb up\"</em> là cụm từ chính xác để diễn tả hành động leo lên cầu thang, chỉ sự di chuyển từ vị trí thấp hơn lên cao hơn.",
+        "1256506": "Sai vì <em>\"climb along\"</em> không diễn tả việc đi lên cầu thang mà là di chuyển dọc theo một bề mặt.",
+        "1256507": "Sai vì <em>\"climb over\"</em> thường dùng để chỉ việc leo qua một chướng ngại vật, không phù hợp với ngữ cảnh leo cầu thang.",
+        "1256508": "Sai vì <em>\"climb across\"</em> diễn tả việc leo ngang qua một bề mặt hoặc vật cản, không phải đi lên."
+      },
+      "images": []
+    },
+    {
+      "id": 656992,
+      "questionNumber": 8,
+      "questionName": "Q3-P55",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Those playful boys ran _____ the road without looking out for traffic.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1266538,
+          "label": "A",
+          "text": "across",
+          "isCorrect": true
+        },
+        {
+          "id": 1266539,
+          "label": "B",
+          "text": "under",
+          "isCorrect": false
+        },
+        {
+          "id": 1266540,
+          "label": "C",
+          "text": "against",
+          "isCorrect": false
+        },
+        {
+          "id": 1266541,
+          "label": "D",
+          "text": "between",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1266538,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn giới từ đúng, hãy xem xét hành động \"<em>ran</em>\" và đối tượng \"<em>the road</em>\". Bạn cần một giới từ mô tả sự di chuyển từ phía này sang phía kia của con đường.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Giới từ chỉ phương hướng và vị trí</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các giới từ này được dùng để diễn tả mối quan hệ về không gian, hướng di chuyển hoặc vị trí của một vật thể, người so với vật thể khác.</p>\n<p style=\"text-align: justify;\"><strong>Một số giới từ chỉ phương hướng và vị trí:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">across (prep.):</span></strong> qua, ngang qua (từ bên này sang bên kia của một bề mặt hoặc khu vực)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">under (prep.):</span></strong> ở dưới, bên dưới (vị trí thấp hơn một vật khác)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">against (prep.):</span></strong> dựa vào, chống lại (tiếp xúc với bề mặt hoặc phản đối)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">between (prep.):</span></strong> giữa hai vật/người (vị trí ở giữa hai điểm cụ thể)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Cụm \"<em>ran _____ the road</em>\" với hành động \"<em>ran</em>\" (chạy) và đối tượng \"<em>the road</em>\" (con đường) gợi ý một hành động di chuyển từ điểm này sang điểm khác của con đường. Giới từ <em>across</em> phù hợp nhất để diễn tả hành động chạy từ bên này sang bên kia đường.</p>\n<p style=\"text-align: justify;\">Các phương án <em>under</em>, <em>against</em> và <em>between</em> đều không phù hợp về nghĩa hoặc cách dùng trong ngữ cảnh này. <em>Under</em> có nghĩa là \"ở dưới\"; <em>against</em> có nghĩa là \"chống lại\" hoặc \"dựa vào\"; <em>between</em> cần hai đối tượng cụ thể để chỉ vị trí ở giữa.</p>",
+      "answerFeedbacks": {
+        "1266538": "Đúng vì <em>across</em> diễn tả hành động di chuyển từ phía này sang phía bên kia của một bề mặt hoặc khu vực, rất phù hợp với ngữ cảnh \"chạy qua đường\".",
+        "1266539": "Sai vì <em>under</em> có nghĩa là \"ở dưới\" hoặc \"bên dưới\", không phù hợp với hành động chạy trên mặt đường.",
+        "1266540": "Sai vì <em>against</em> có nghĩa là \"chống lại\" hoặc \"dựa vào\", không phù hợp với hành động di chuyển qua đường.",
+        "1266541": "Sai vì <em>between</em> được dùng để chỉ vị trí hoặc hành động ở giữa hai vật thể hoặc hai điểm cụ thể, không phù hợp khi chỉ có một \"road\"."
+      },
+      "images": []
+    },
+    {
+      "id": 651530,
+      "questionNumber": 9,
+      "questionName": "Complete Book 4 - p51",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Kindly step _____ the grass and walk on the pavement instead.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1254614,
+          "label": "A",
+          "text": "off",
+          "isCorrect": true
+        },
+        {
+          "id": 1254615,
+          "label": "B",
+          "text": "out",
+          "isCorrect": false
+        },
+        {
+          "id": 1254616,
+          "label": "C",
+          "text": "on",
+          "isCorrect": false
+        },
+        {
+          "id": 1254617,
+          "label": "D",
+          "text": "along",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1254614,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Câu hỏi này kiểm tra kiến thức về cụm động từ (phrasal verb) với <em>'step'</em>. Để chọn giới từ đúng, hãy chú ý đến vế <em>'walk on the pavement instead'</em>. Điều này gợi ý rằng hành động cần làm là <em>rời khỏi</em> bãi cỏ chứ không phải đi vào hay đi trên nó.</p>\n<p>Hãy tìm giới từ nào khi kết hợp với <em>'step'</em> sẽ mang nghĩa <em>'rời khỏi một bề mặt'</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cụm động từ (phrasal verb)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Cụm động từ <em>\"step off\"</em> có nghĩa là rời khỏi, bước ra khỏi một bề mặt hoặc vị trí nào đó. Cụm từ này được dùng để diễn tả hành động di chuyển chân ra khỏi một vật thể hoặc một khu vực.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, ngữ cảnh <em>\"walk on the pavement instead\"</em> (hãy đi trên vỉa hè thay vì) cho thấy hành động cần thực hiện là rời khỏi bãi cỏ. Giới từ <em>\"off\"</em> kết hợp với động từ <em>\"step\"</em> tạo thành cụm động từ <em>\"step off\"</em>, mang nghĩa là bước ra khỏi hoặc rời khỏi một bề mặt, hoàn toàn phù hợp với ngữ cảnh này. Các phương án còn lại đều không phù hợp để theo sau động từ ''<em>step</em>'' và diễn tả điều này.</p>",
+      "answerFeedbacks": {
+        "1254614": "Đúng vì <em>\"step off\"</em> là cụm động từ có nghĩa là bước ra khỏi hoặc rời khỏi một bề mặt, phù hợp với ngữ cảnh rời khỏi bãi cỏ để đi trên vỉa hè.",
+        "1254615": "Sai vì <em>\"step out\"</em> thường có nghĩa là rời khỏi một địa điểm (ví dụ: <em>\"step out of the house\"</em>) hoặc ra ngoài trong thời gian ngắn, không phù hợp với ngữ cảnh rời khỏi bề mặt bãi cỏ.",
+        "1254616": "Sai vì <em>\"step on\"</em> có nghĩa là bước lên hoặc đặt chân lên một bề mặt, trái ngược với hành động cần thực hiện là rời khỏi bãi cỏ.",
+        "1254617": "Sai vì <em>\"step along\"</em> có nghĩa là bước đi hoặc di chuyển dọc theo một cái gì đó, không phù hợp với ngữ cảnh rời khỏi bề mặt bãi cỏ."
+      },
+      "images": []
+    },
+    {
+      "id": 442348,
+      "questionNumber": 10,
+      "questionName": "Grammar practice - Upper Intermediate - p.171",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The actors walked _____ the stage at the end of the performance and bowed.</strong></p>\n<div style=\"position: absolute; left: -293px; top: 34px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\"> </div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 886528,
+          "label": "A",
+          "text": "at",
+          "isCorrect": false
+        },
+        {
+          "id": 886529,
+          "label": "B",
+          "text": "from",
+          "isCorrect": false
+        },
+        {
+          "id": 886530,
+          "label": "C",
+          "text": "onto",
+          "isCorrect": true
+        },
+        {
+          "id": 886531,
+          "label": "D",
+          "text": "into",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 886530,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn giới từ đúng, hãy xem xét kỹ động từ <em>\"walked\"</em> và danh từ <em>\"the stage\"</em>. </p>\n<ul>\n<li>Động từ <em>\"walked\"</em> thể hiện sự di chuyển.</li>\n<li>Danh từ <em>\"the stage\"</em> là một bề mặt.</li>\n</ul>\n<p>Bạn cần một giới từ diễn tả sự di chuyển từ một nơi khác LÊN trên bề mặt của <em>\"the stage\"</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Giới từ chỉ chuyển động và vị trí</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các giới từ này được sử dụng để diễn tả hướng di chuyển hoặc vị trí của một vật thể/người so với một bề mặt, không gian, hoặc điểm cụ thể.</p>\n<p style=\"text-align: justify;\"><strong>Một số giới từ chỉ chuyển động:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">onto (prep.):</span></strong> lên trên bề mặt (di chuyển từ ngoài vào trong/lên trên bề mặt)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">at (prep.):</span></strong> tại một điểm cụ thể (không nhấn mạnh chuyển động lên bề mặt)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">from (prep.):</span></strong> từ một địa điểm nào đó (chỉ nguồn gốc/điểm xuất phát)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">into (prep.):</span></strong> vào bên trong một không gian kín (di chuyển từ ngoài vào trong không gian 3D)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, hành động <em>\"walked\"</em> (đi bộ) kết hợp với <em>\"the stage\"</em> (sân khấu) cho thấy các diễn viên đang di chuyển từ một vị trí khác (bên ngoài) lên trên bề mặt của sân khấu. Giới từ <em>\"onto\"</em> chính xác diễn tả sự di chuyển lên trên một bề mặt.</p>\n<p style=\"text-align: justify;\">Các giới từ khác không phù hợp vì <em>\"at\"</em> chỉ vị trí tĩnh, <em>\"from\"</em> chỉ nguồn gốc, và <em>\"into\"</em> chỉ sự di chuyển vào bên trong một không gian kín.</p>",
+      "answerFeedbacks": {
+        "886528": "Sai vì <em>at</em> thường dùng để chỉ vị trí tĩnh tại một điểm cụ thể hoặc một sự kiện, không diễn tả chuyển động lên bề mặt.",
+        "886529": "Sai vì <em>from</em> dùng để chỉ nguồn gốc hoặc điểm xuất phát của chuyển động, không phải hướng di chuyển lên trên một bề mặt.",
+        "886530": "Đúng vì <em>onto</em> diễn tả sự di chuyển lên trên một bề mặt hoặc một vị trí cao hơn, rất phù hợp với hành động <em>walked</em> lên <em>the stage</em>.",
+        "886531": "Sai vì <em>into</em> diễn tả sự di chuyển vào bên trong một không gian kín hoặc một vật thể, không phù hợp với việc đi lên một bề mặt như <em>the stage</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 903023,
+      "questionNumber": 11,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The cat <span style=\"text-decoration: underline;\">ran</span> out <span style=\"text-decoration: underline;\">from</span> the house <span style=\"text-decoration: underline;\">when</span> <span style=\"text-decoration: underline;\">it</span> saw the dog.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715712,
+          "label": "A",
+          "text": "ran",
+          "isCorrect": false
+        },
+        {
+          "id": 1715713,
+          "label": "B",
+          "text": "from",
+          "isCorrect": true
+        },
+        {
+          "id": 1715714,
+          "label": "C",
+          "text": "when",
+          "isCorrect": false
+        },
+        {
+          "id": 1715715,
+          "label": "D",
+          "text": "it",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1715713,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>out of </strong>(prep.): ra khỏi&nbsp;</p>\n<p>Sửa: \"<strong>from</strong>\" =&gt; \"<strong>of</strong>\"</p>\n<p>Dịch: Con m&egrave;o chạy ra khỏi nh&agrave; khi n&oacute; nh&igrave;n thấy con ch&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 903024,
+      "questionNumber": 12,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>She walked <span style=\"text-decoration: underline;\">into</span> the bridge <span style=\"text-decoration: underline;\">and</span> reached the <span style=\"text-decoration: underline;\">other</span> side <span style=\"text-decoration: underline;\">of</span> the river.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715716,
+          "label": "A",
+          "text": "into",
+          "isCorrect": true
+        },
+        {
+          "id": 1715717,
+          "label": "B",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "id": 1715718,
+          "label": "C",
+          "text": "other",
+          "isCorrect": false
+        },
+        {
+          "id": 1715719,
+          "label": "D",
+          "text": "of",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1715716,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>into </strong>(prep.): v&agrave;o trong =&gt; Kh&ocirc;ng ph&ugrave; hợp với nghĩa của c&acirc;u.</p>\n<p><strong>across</strong> (prep.): ngang qua, qua</p>\n<p><strong>over</strong> (prep.): ngang qua, qua</p>\n<p>Sửa: \"<strong>into</strong>\" =&gt; \"<strong>across</strong>\" hoặc \"<strong>over</strong>\"</p>\n<p>Dịch: C&ocirc; ấy đi qua cầu v&agrave; đến bờ b&ecirc;n kia của con s&ocirc;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 336834,
+      "questionNumber": 13,
+      "questionName": "Grammar Practice for Elementary Students 3rd-p.154",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Complete the sentences.</strong></p>\n<p>1. Lucy came <span class='fillblank-option'><label>13.1</label><input id='fbo-336834-0' class='ms fillblank-option-13' index='0' name='fbo-336834-0' type='text' size='5' autocomplete='off' data-testid='fillblank-input-336834-0' /></span> the room and sat down on a chair at the back.</p>\n<p>2. We skiied fast <span class='fillblank-option'><label>13.2</label><input id='fbo-336834-1' class='ms fillblank-option-13' index='1' name='fbo-336834-1' type='text' size='5' autocomplete='off' data-testid='fillblank-input-336834-1' /></span> the mountain.</p>\n<p>3. All my clothes fell <span class='fillblank-option'><label>13.3</label><input id='fbo-336834-2' class='ms fillblank-option-13' index='2' name='fbo-336834-2' type='text' size='8' autocomplete='off' data-testid='fillblank-input-336834-2' /></span> my bag when I picked it up.</p>\n<p>4. We went <span class='fillblank-option'><label>13.4</label><input id='fbo-336834-3' class='ms fillblank-option-13' index='3' name='fbo-336834-3' type='text' size='5' autocomplete='off' data-testid='fillblank-input-336834-3' /></span> the sports centre and played volleyball.</p>\n<p>5. Some oranges fell <span class='fillblank-option'><label>13.5</label><input id='fbo-336834-4' class='ms fillblank-option-13' index='4' name='fbo-336834-4' type='text' size='6' autocomplete='off' data-testid='fillblank-input-336834-4' /></span> the tree and landed on the ground.</p>\n<p>6. The boys climbed <span class='fillblank-option'><label>13.6</label><input id='fbo-336834-5' class='ms fillblank-option-13' index='5' name='fbo-336834-5' type='text' size='7' autocomplete='off' data-testid='fillblank-input-336834-5' /></span> big rock and sat on it.</p>\n<p>7. How far is it <span class='fillblank-option'><label>13.7</label><input id='fbo-336834-6' class='ms fillblank-option-13' index='6' name='fbo-336834-6' type='text' size='8' autocomplete='off' data-testid='fillblank-input-336834-6' /></span> the station to your house?</p>\n<div style=\"position: absolute; left: 156px; top: 224.361px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1738535,
+          "label": "A",
+          "text": "out of",
+          "isCorrect": false
+        },
+        {
+          "id": 1738537,
+          "label": "B",
+          "text": "off",
+          "isCorrect": false
+        },
+        {
+          "id": 1738534,
+          "label": "C",
+          "text": "down",
+          "isCorrect": false
+        },
+        {
+          "id": 1738533,
+          "label": "D",
+          "text": "into",
+          "isCorrect": false
+        },
+        {
+          "id": 1738538,
+          "label": "E",
+          "text": "onto",
+          "isCorrect": false
+        },
+        {
+          "id": 1738539,
+          "label": "F",
+          "text": "from",
+          "isCorrect": false
+        },
+        {
+          "id": 1738536,
+          "label": "Opt 7",
+          "text": "to",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "into"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "down"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "out of"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "to"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "off"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "onto"
+          ]
+        },
+        {
+          "index": 6,
+          "correctAnswers": [
+            "from"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. <strong>into</strong> (prep.): v&agrave;o trong</p>\n<p>Dịch: Lucy v&agrave;o ph&ograve;ng v&agrave; ngồi xuống một chiếc ghế ở ph&iacute;a sau.</p>\n<p>2. <strong>down</strong> (prep.): xuống, hướng xuống</p>\n<p>Dịch: Ch&uacute;ng t&ocirc;i đ&atilde; trượt nhanh xuống ngọn n&uacute;i.</p>\n<p>3. <strong>out of</strong> (prep.): ra khỏi (một kh&ocirc;ng gian k&iacute;n hoặc một vật thể)</p>\n<p>Dịch: Tất cả quần &aacute;o của t&ocirc;i đ&atilde; rơi ra khỏi t&uacute;i của t&ocirc;i khi t&ocirc;i nhặt n&oacute; l&ecirc;n.</p>\n<p>4. <strong>to </strong>(prep.): đến</p>\n<p>Dịch: Ch&uacute;ng t&ocirc;i đ&atilde; tới trung t&acirc;m thể thao v&agrave; chơi b&oacute;ng chuyền.</p>\n<p>5. <strong>off </strong>(prep.): khỏi, ra khỏi (một bề mặt, một vị tr&iacute; cụ thể)</p>\n<p>Dịch: Một v&agrave;i quả cam rụng khỏi c&acirc;y v&agrave; rơi xuống đất.</p>\n<p>6. <strong>onto </strong>(prep.): l&ecirc;n tr&ecirc;n</p>\n<p>Dịch: C&aacute;c cậu b&eacute; tr&egrave;o l&ecirc;n tảng đ&aacute; lớn v&agrave; ngồi tr&ecirc;n đ&oacute;.</p>\n<p>7. <strong>from A to B</strong> (prep.): từ A đến B</p>\n<p>Dịch: Nh&agrave; ga c&aacute;ch nh&agrave; bạn bao xa?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 336820,
+      "questionNumber": 14,
+      "questionName": "Grammar Practice for Elementary Students 3rd-p.153",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong><span class=\"word\">Look</span> <span class=\"word\">at</span> <span class=\"word\">the</span> <span class=\"word\">pictures</span> <span class=\"word\">and</span> <span class=\"word\">choose </span><span class=\"word\">the</span> <span class=\"word\">correct</span> <span class=\"word\">answer.</span></strong></p>\n<p><img src=\"/images/exams/90a-Grammar_51b87007.png\" alt width=\"331\" height=\"129\"></p>\n<p style=\"text-align: justify;\"><br>The cat walked <span class='fillblank-option'><label>14.1</label><select class='ms fillblank-option-14' index='0' name='fbo-336820-0' data-testid='fillblank-select-336820-0'><option value='' data-testid='fillblank-option-empty-336820-0'></option><option value=\"off\" data-testid='fillblank-option-336820-0-off'>off</option><option value=\"out of\" data-testid='fillblank-option-336820-0-out of'>out of</option></select></span> the door and climbed <span class='fillblank-option'><label>14.2</label><select class='ms fillblank-option-14' index='1' name='fbo-336820-1' data-testid='fillblank-select-336820-1'><option value='' data-testid='fillblank-option-empty-336820-1'></option><option value=\"off\" data-testid='fillblank-option-336820-1-off'>off</option><option value=\"up\" data-testid='fillblank-option-336820-1-up'>up</option></select></span> the fence. Then she jumped <span class='fillblank-option'><label>14.3</label><select class='ms fillblank-option-14' index='2' name='fbo-336820-2' data-testid='fillblank-select-336820-2'><option value='' data-testid='fillblank-option-empty-336820-2'></option><option value=\"into\" data-testid='fillblank-option-336820-2-into'>into</option><option value=\"onto\" data-testid='fillblank-option-336820-2-onto'>onto</option></select></span> the roof of our garage. She walked <span class='fillblank-option'><label>14.4</label><select class='ms fillblank-option-14' index='3' name='fbo-336820-3' data-testid='fillblank-select-336820-3'><option value='' data-testid='fillblank-option-empty-336820-3'></option><option value=\"to\" data-testid='fillblank-option-336820-3-to'>to</option><option value=\"across\" data-testid='fillblank-option-336820-3-across'>across</option></select></span> the roof and then she jumped <span class='fillblank-option'><label>14.5</label><select class='ms fillblank-option-14' index='4' name='fbo-336820-4' data-testid='fillblank-select-336820-4'><option value='' data-testid='fillblank-option-empty-336820-4'></option><option value=\"into\" data-testid='fillblank-option-336820-4-into'>into</option><option value=\"up\" data-testid='fillblank-option-336820-4-up'>up</option></select></span> a tree. She came <span class='fillblank-option'><label>14.6</label><select class='ms fillblank-option-14' index='5' name='fbo-336820-5' data-testid='fillblank-select-336820-5'><option value='' data-testid='fillblank-option-empty-336820-5'></option><option value=\"down\" data-testid='fillblank-option-336820-5-down'>down</option><option value=\"up\" data-testid='fillblank-option-336820-5-up'>up</option></select></span> the tree a little way and then she jumped <span class='fillblank-option'><label>14.7</label><select class='ms fillblank-option-14' index='6' name='fbo-336820-6' data-testid='fillblank-select-336820-6'><option value='' data-testid='fillblank-option-empty-336820-6'></option><option value=\"to\" data-testid='fillblank-option-336820-6-to'>to</option><option value=\"down\" data-testid='fillblank-option-336820-6-down'>down</option></select></span> the ground.</p>\n<div style=\"position: absolute; left: 315px; top: 34px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "out of"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "up"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "onto"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "across"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "into"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "down"
+          ]
+        },
+        {
+          "index": 6,
+          "correctAnswers": [
+            "to"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. <strong>out of</strong> (prep.): ra khỏi (kh&ocirc;ng gian kh&eacute;p k&iacute;n hoặc vật chứa)</p>\n<p>off (prep.): ra khỏi (một bề mặt hoặc kh&ocirc;ng c&ograve;n tiếp x&uacute;c với một nơi n&agrave;o đ&oacute;)</p>\n<p>2. <strong>up </strong>(prep.): l&ecirc;n&nbsp;</p>\n<p>off (prep.): ra khỏi</p>\n<p>3. <strong>onto </strong>(prep.): l&ecirc;n tr&ecirc;n&nbsp;</p>\n<p>into (prep.): v&agrave;o trong</p>\n<p>4. <strong>across </strong>(prep.): băng qua, ngang qua</p>\n<p>to (prep.): đến (chỉ sự di chuyển đến một điểm hoặc một nơi n&agrave;o đ&oacute;) =&gt; Kh&ocirc;ng ph&ugrave; hợp v&igrave; c&acirc;u n&agrave;y kh&ocirc;ng n&oacute;i đến việc con m&egrave;o di chuyển qua m&aacute;i nh&agrave; từ đầu n&agrave;y sang đầu kia, m&agrave; chỉ l&agrave; di chuyển l&ecirc;n m&aacute;i nh&agrave;.</p>\n<p>5. <strong>into </strong>(prep.): v&agrave;o, v&agrave;o trong</p>\n<p>up (prep.): l&ecirc;n tr&ecirc;n</p>\n<p>6. <strong>down </strong>(prep.): xuống, xu&ocirc;i dọc theo</p>\n<p>up (prep.): l&ecirc;n tr&ecirc;n</p>\n<p>7. <strong>to </strong>(prep.): tới, đến (một điểm hoặc vị tr&iacute; cụ thể)</p>\n<p>down (prep.): xuống =&gt; Kh&ocirc;ng ph&ugrave; hợp với ngữ nghĩa của c&acirc;u v&igrave; \"jump down\" chỉ d&ugrave;ng khi diễn tả sự nhảy xuống từ c&acirc;y m&agrave; kh&ocirc;ng nhắm đến điểm đ&iacute;ch cụ thể (mặt đất).</p>\n<p>Dịch: Con m&egrave;o đi ra khỏi cửa v&agrave; nhảy l&ecirc;n h&agrave;ng r&agrave;o. Sau đ&oacute; n&oacute; nhảy l&ecirc;n tr&ecirc;n n&oacute;c ga-ra của ch&uacute;ng t&ocirc;i. N&oacute; đi qua m&aacute;i nh&agrave; v&agrave; sau đ&oacute; nhảy v&agrave;o/sang một c&aacute;i c&acirc;y. N&oacute; nhảy xu&ocirc;i theo th&acirc;n c&acirc;y một c&aacute;c từ từ v&agrave; rồi tiếp đất.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 336841,
+      "questionNumber": 15,
+      "questionName": "Grammar Practice for Elementary Students 3rd-p.154",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong> <span class=\"word\">Complete</span> <span class=\"word\">the</span> passage with&nbsp;<span class=\"word\">correct</span> <span class=\"word\">prepositions.</span></strong></p>\n<p style=\"text-align: justify;\"><span class=\"word\">I met Philip at his house and we cycled <span class='fillblank-option'><label>15.1</label><input id='fbo-336841-0' class='ms fillblank-option-15' index='0' name='fbo-336841-0' type='text' size='5' autocomplete='off' data-testid='fillblank-input-336841-0' /></span> there <span class='fillblank-option'><label>15.2</label><input id='fbo-336841-1' class='ms fillblank-option-15' index='1' name='fbo-336841-1' type='text' size='3' autocomplete='off' data-testid='fillblank-input-336841-1' /></span> the swimming pool. The pool is on the other side of town, so we had to cycle <span class='fillblank-option'><label>15.3</label><input id='fbo-336841-2' class='ms fillblank-option-15' index='2' name='fbo-336841-2' type='text' size='7' autocomplete='off' data-testid='fillblank-input-336841-2' /></span> the town. There is a big hill on the way there. We cycled up it slowly and then came <span class='fillblank-option'><label>15.4</label><input id='fbo-336841-3' class='ms fillblank-option-15' index='3' name='fbo-336841-3' type='text' size='6' autocomplete='off' data-testid='fillblank-input-336841-3' /></span> quickly. At the bottom of the hill, I fell <span class='fillblank-option'><label>15.5</label><input id='fbo-336841-4' class='ms fillblank-option-15' index='4' name='fbo-336841-4' type='text' size='6' autocomplete='off' data-testid='fillblank-input-336841-4' /></span> my bike! I hurt my arm, but I was all right. We were very hot when we got to the pool, so we jumped <span class='fillblank-option'><label>15.6</label><input id='fbo-336841-5' class='ms fillblank-option-15' index='5' name='fbo-336841-5' type='text' size='8' autocomplete='off' data-testid='fillblank-input-336841-5' /></span> the water immediately. We stayed in the pool for about an hour. When I came <span class='fillblank-option'><label>15.7</label><input id='fbo-336841-6' class='ms fillblank-option-15' index='6' name='fbo-336841-6' type='text' size='9' autocomplete='off' data-testid='fillblank-input-336841-6' /></span> the water, I felt wonderful - very cool and relaxed.</span></p>\n<div style=\"position: absolute; left: 420px; top: 75.0903px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "from"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "to"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "across"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "down"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "off"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "into"
+          ]
+        },
+        {
+          "index": 6,
+          "correctAnswers": [
+            "out of"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1-2. <strong>from A to B </strong>(prep.): từ A tới B</p>\n<p>Dịch: T&ocirc;i gặp Philip ở nh&agrave; cậu ấy v&agrave; ch&uacute;ng t&ocirc;i đạp xe từ đ&oacute; tới bể bơi.</p>\n<p>3. <strong>across</strong> (prep.): ngang qua, băng qua</p>\n<p>Dịch: Bể bơi ở ph&iacute;a b&ecirc;n kia của thị trấn, v&igrave; vậy ch&uacute;ng t&ocirc;i phải đạp xe băng qua thị trấn.</p>\n<p>4. <strong>down</strong> (prep.): xuống, hướng xuống</p>\n<p>Dịch: C&oacute; một ngọn đồi lớn tr&ecirc;n đường đến đ&oacute;. Ch&uacute;ng t&ocirc;i đạp xe từ từ l&ecirc;n đồi rồi đi xuống một c&aacute;ch nhanh ch&oacute;ng.</p>\n<p>5. <strong>off</strong> (prep.): khỏi, ra khỏi (một bề mặt, vị tr&iacute; cụ thể)</p>\n<p><strong>fall off sth</strong>: ng&atilde; khỏi c&aacute;i g&igrave;</p>\n<p>Dịch: Ở dưới ch&acirc;n đồi, t&ocirc;i đ&atilde; ng&atilde; khỏi xe đạp. T&ocirc;i bị thương ở c&aacute;nh tay, nhưng t&ocirc;i kh&ocirc;ng sao.</p>\n<p>6. <strong>into</strong> (prep.): v&agrave;o trong</p>\n<p>Dịch: Ch&uacute;ng t&ocirc;i rất n&oacute;ng khi đến hồ bơi, v&igrave; vậy ch&uacute;ng t&ocirc;i đ&atilde; nhảy v&agrave;o nước ngay lập tức. Ch&uacute;ng t&ocirc;i ở trong bể bơi trong khoảng một giờ.</p>\n<p>7. <strong>out of</strong> (prep.): ra khỏi (một kh&ocirc;ng gian k&iacute;n, ở trong một vật thể)</p>\n<p>Dịch: Khi t&ocirc;i ra khỏi nước, t&ocirc;i cảm thấy tuyệt vời - rất m&aacute;t mẻ v&agrave; thư th&aacute;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

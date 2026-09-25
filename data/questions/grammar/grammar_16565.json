@@ -1,0 +1,1066 @@
+{
+  "quizId": 16565,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 51: Relative clauses (Mệnh đề quan hệ)",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "id": 910169,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p data-start=\"0\" data-end=\"15\"><strong>Ho&#224;n th&#224;nh c&#225;c c&#226;u sau.</strong></p>\n<p data-start=\"20\" data-end=\"172\">1. M&#7879;nh &#273;&#7873; quan h&#7879; kh&#244;ng x&#225;c &#273;&#7883;nh cung c&#7845;p <span class='fillblank-option'><label>1.1</label><input id='fbo-910169-0' class='ms fillblank-option-1' index='0' name='fbo-910169-0' type='text' size='16' autocomplete='off' data-testid='fillblank-input-910169-0' /></span> v&#7873; ng&#432;&#7901;i ho&#7863;c v&#7853;t v&#224; d&#7845;u ph&#7849;y <span class='fillblank-option'><label>1.2</label><input id='fbo-910169-1' class='ms fillblank-option-1' index='1' name='fbo-910169-1' type='text' size='16' autocomplete='off' data-testid='fillblank-input-910169-1' /></span> &#273;&#7875; t&#225;ch m&#7879;nh &#273;&#7873; n&#224;y kh&#7887;i ph&#7847;n c&#242;n l&#7841;i c&#7911;a c&#226;u.</p>\n<p data-start=\"177\" data-end=\"334\" data-is-last-node>2. M&#7879;nh &#273;&#7873; quan h&#7879; x&#225;c &#273;&#7883;nh cung c&#7845;p <span class='fillblank-option'><label>1.3</label><input id='fbo-910169-2' class='ms fillblank-option-1' index='2' name='fbo-910169-2' type='text' size='22' autocomplete='off' data-testid='fillblank-input-910169-2' /></span> v&#7873; ng&#432;&#7901;i ho&#7863;c v&#7853;t v&#224; d&#7845;u ph&#7849;y <span class='fillblank-option'><label>1.4</label><input id='fbo-910169-3' class='ms fillblank-option-1' index='3' name='fbo-910169-3' type='text' size='21' autocomplete='off' data-testid='fillblank-input-910169-3' /></span> &#273;&#7875; t&#225;ch m&#7879;nh &#273;&#7873; n&#224;y kh&#7887;i ph&#7847;n c&#242;n l&#7841;i c&#7911;a c&#226;u.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1739153,
+          "label": "A",
+          "text": "được sử dụng",
+          "isCorrect": false
+        },
+        {
+          "id": 1739155,
+          "label": "B",
+          "text": "không được sử dụng",
+          "isCorrect": false
+        },
+        {
+          "id": 1739152,
+          "label": "C",
+          "text": "thông tin thêm",
+          "isCorrect": false
+        },
+        {
+          "id": 1739154,
+          "label": "D",
+          "text": "thông tin thiết yếu",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "thông tin thêm"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "được sử dụng"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "thông tin thiết yếu"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "không được sử dụng"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/4_-_Copy_8_f8b0c785.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910174,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "Matching",
+      "questionText": "<p><strong>X&#225;c &#273;&#7883;nh xem m&#7879;nh &#273;&#7873; sau l&#224; m&#7879;nh &#273;&#7873; x&#225;c &#273;&#7883;nh hay kh&#244;ng x&#225;c &#273;&#7883;nh.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/4_-_Copy_8_f8b0c785.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910175,
+      "questionNumber": 3,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>C&#226;u n&#224;o sau &#273;&#226;y l&#224; &#273;&#250;ng?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1727202,
+          "label": "A",
+          "text": "He lent me his book, which I found it very interesting.",
+          "isCorrect": false
+        },
+        {
+          "id": 1727203,
+          "label": "B",
+          "text": "He lent me his book, which I found very interesting.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1727203,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Đại từ \"<strong>which</strong>\" trong c&acirc;u đ&oacute;ng vai tr&ograve; l&agrave;m t&acirc;n ngữ thay thế cho danh từ \"<strong>his book</strong>\". =&gt; Ph&iacute;a sau kh&ocirc;ng d&ugrave;ng đại từ t&acirc;n ngữ \"<strong>it</strong>\" nữa.&nbsp;</p>\n<p>Dịch: Anh ấy cho t&ocirc;i mượn cuốn s&aacute;ch của anh ấy, cuốn s&aacute;ch m&agrave; t&ocirc;i thấy rất th&uacute; vị.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910176,
+      "questionNumber": 4,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>C&#226;u n&#224;o sau &#273;&#226;y l&#224; &#273;&#250;ng?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1727204,
+          "label": "A",
+          "text": "This is the best grammar book which has ever been introduced.",
+          "isCorrect": false
+        },
+        {
+          "id": 1727205,
+          "label": "B",
+          "text": "This is the best grammar book that has ever been introduced.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1727205,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/10_17779b20.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 875878,
+      "questionNumber": 5,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The discussion was the reason _____ the team decided to change their strategy for the project.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1669384,
+          "label": "A",
+          "text": "why",
+          "isCorrect": true
+        },
+        {
+          "id": 1669385,
+          "label": "B",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "id": 1669386,
+          "label": "C",
+          "text": "when",
+          "isCorrect": false
+        },
+        {
+          "id": 1669387,
+          "label": "D",
+          "text": "where",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1669384,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Trong câu này, chỗ trống đứng sau danh từ <em>\"reason\"</em> là danh từ chỉ nguyên nhân, lý do, bạn cần một từ quan hệ để giới thiệu mệnh đề giải thích nguyên nhân cho <em>\"reason\"</em>.</p>\n<p>Hãy xem xét từ nào trong các lựa chọn phù hợp nhất để diễn tả \"lý do tại sao\" và bổ nghĩa cho danh từ <em>\"reason\"</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mệnh đề quan hệ với trạng từ quan hệ và đại từ quan hệ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Mệnh đề quan hệ (relative clause) dùng để bổ nghĩa cho một danh từ hoặc cụm danh từ đứng trước nó (antecedent), cung cấp thêm thông tin chi tiết về danh từ đó. Trạng từ quan hệ và đại từ quan hệ là từ nối bắt đầu mệnh đề quan hệ.</p>\n<p style=\"text-align: justify;\"><strong>Một số trạng từ/đại từ quan hệ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">why:</span></strong> lý do tại sao (dùng để bổ nghĩa cho danh từ chỉ lý do như <em>reason</em>)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">which:</span></strong> mà (đại từ quan hệ, thay thế cho vật, sự việc, dùng khi <em>which</em> là chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">when:</span></strong> khi (trạng từ quan hệ, dùng để bổ nghĩa cho danh từ chỉ thời gian)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">where:</span></strong> nơi mà (trạng từ quan hệ, dùng để bổ nghĩa cho danh từ chỉ địa điểm)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, chỗ trống đứng sau danh từ <em>\"reason\"</em> và trước một mệnh đề hoàn chỉnh <em>\"the team decided to change their strategy for the project\"</em>. Danh từ <em>\"reason\"</em> chỉ lý do, vì vậy, trạng từ quan hệ <em>\"why\"</em> là lựa chọn phù hợp nhất để giới thiệu mệnh đề quan hệ giải thích lý do.</p>\n<p style=\"text-align: justify;\">Các phương án khác đều không phù hợp để giới thiệu mệnh đề chỉ lý do.</p>",
+      "answerFeedbacks": {
+        "1669384": "Đúng vì <em>\"why\"</em> là trạng từ quan hệ dùng để bổ nghĩa cho danh từ <em>\"reason\"</em>, chỉ lý do.",
+        "1669385": "Sai vì <em>\"which\"</em> là đại từ quan hệ thay thế cho vật hoặc sự việc, không dùng để giới thiệu mệnh đề chỉ lý do trực tiếp sau <em>\"reason\"</em> mà không có giới từ <em>\"for\"</em>.",
+        "1669386": "Sai vì <em>\"when\"</em> là trạng từ quan hệ chỉ thời gian, không phù hợp để bổ nghĩa cho danh từ <em>\"reason\"</em>.",
+        "1669387": "Sai vì <em>\"where\"</em> là trạng từ quan hệ chỉ địa điểm, không phù hợp để bổ nghĩa cho danh từ <em>\"reason\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 883753,
+      "questionNumber": 6,
+      "questionName": "9",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The paintings _____ Mrs. Brown has in her house are worth around £200,000.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1683374,
+          "label": "A",
+          "text": "which",
+          "isCorrect": true
+        },
+        {
+          "id": 1683375,
+          "label": "B",
+          "text": "whose",
+          "isCorrect": false
+        },
+        {
+          "id": 1683376,
+          "label": "C",
+          "text": "whom",
+          "isCorrect": false
+        },
+        {
+          "id": 1683377,
+          "label": "D",
+          "text": "who",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1683374,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn đúng đại từ quan hệ, bạn cần xác định loại tiền ngữ (người hay vật) và vai trò của đại từ đó trong mệnh đề quan hệ (chủ ngữ, tân ngữ hay chỉ sự sở hữu).<ul><li>Tiền ngữ là <em>\"The paintings\"</em>, đây là danh từ chỉ vật.</li><li>Mệnh đề quan hệ là <em>\"Mrs. Brown has in her house\"</em>. Trong mệnh đề này, <em>\"Mrs. Brown\"</em> là chủ ngữ, <em>\"has\"</em> là động từ. Chỗ trống cần điền sẽ đóng vai trò tân ngữ cho động từ <em>\"has\"</em> (Mrs. Brown has X).</li></ul>Dựa vào các phân tích trên, hãy chọn đại từ quan hệ phù hợp nhất.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Đại từ quan hệ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Đại từ quan hệ dùng để nối một mệnh đề phụ (mệnh đề quan hệ) với một danh từ hoặc cụm danh từ đứng trước nó (tiền ngữ), cung cấp thêm thông tin về tiền ngữ đó. Chúng cũng đóng vai trò là chủ ngữ, tân ngữ hoặc chỉ sự sở hữu trong mệnh đề quan hệ.</p>\n<p><strong>Một số Đại từ quan hệ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">which:</span></strong> Thay thế cho sự vật, hiện tượng; làm chủ ngữ hoặc tân ngữ.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">whose:</span></strong> Chỉ sự sở hữu cho cả người và vật; theo sau là một danh từ.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">whom:</span></strong> Thay thế cho người; làm tân ngữ.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">who:</span></strong> Thay thế cho người; làm chủ ngữ hoặc tân ngữ (trong văn nói).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, tiền ngữ là <em>\"The paintings\"</em> (danh từ chỉ vật). Mệnh đề quan hệ <em>\"Mrs. Brown has in her house\"</em> đã có chủ ngữ (<em>Mrs. Brown</em>) và động từ (<em>has</em>), vậy chỗ trống cần điền sẽ đóng vai trò tân ngữ cho động từ <em>has</em>. Do đó, cần một đại từ quan hệ thay thế cho vật và làm tân ngữ.</p>\n<p style=\"text-align: justify;\">Phương án 1 <em>\"which\"</em> phù hợp vì nó có thể thay thế cho danh từ chỉ vật và làm tân ngữ trong mệnh đề quan hệ. Các phương án còn lại không phù hợp vì <em>\"whose\"</em> chỉ sự sở hữu, còn <em>\"whom\"</em> và <em>\"who\"</em> dùng cho người.</p>",
+      "answerFeedbacks": {
+        "1683374": "Đúng vì <em>which</em> là đại từ quan hệ thay thế cho danh từ chỉ vật (<em>\"The paintings\"</em>) và đóng vai trò tân ngữ trong mệnh đề quan hệ.",
+        "1683375": "Sai vì <em>whose</em> chỉ sự sở hữu và phải theo sau bởi một danh từ, không phải một chủ ngữ và động từ như trong câu này.",
+        "1683376": "Sai vì <em>whom</em> là đại từ quan hệ thay thế cho danh từ chỉ người và đóng vai trò tân ngữ.",
+        "1683377": "Sai vì <em>who</em> là đại từ quan hệ thay thế cho danh từ chỉ người, đóng vai trò chủ ngữ hoặc tân ngữ."
+      },
+      "images": []
+    },
+    {
+      "id": 766350,
+      "questionNumber": 7,
+      "questionName": "15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I love this small city _____ I used to live for six years in my childhood.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1474604,
+          "label": "A",
+          "text": "who",
+          "isCorrect": false
+        },
+        {
+          "id": 1474605,
+          "label": "B",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "id": 1474606,
+          "label": "C",
+          "text": "whose",
+          "isCorrect": false
+        },
+        {
+          "id": 1474607,
+          "label": "D",
+          "text": "where",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1474607,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn từ đúng, bạn cần xác định:\n<ul>\n<li>Danh từ mà mệnh đề quan hệ bổ nghĩa là gì? Trong câu này, đó là <em>\"this small city\"</em>, một danh từ chỉ địa điểm.</li>\n<li>Chức năng của từ cần điền trong mệnh đề quan hệ <em>\"I used to live for six years in my childhood\"</em> là gì? Nó cần thay thế cho một yếu tố chỉ nơi chốn mà hành động <em>\"live\"</em> diễn ra.</li>\n</ul>\nTừ đó, hãy chọn đại từ hoặc trạng từ quan hệ phù hợp để chỉ nơi chốn.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Đại từ và trạng từ quan hệ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Đại từ và trạng từ quan hệ được dùng để nối mệnh đề chính với mệnh đề phụ, cung cấp thêm thông tin về danh từ hoặc địa điểm/thời gian/lý do được nhắc đến trong mệnh đề chính.</p>\n<p><strong>Một số đại từ/trạng từ quan hệ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">who (đại từ quan hệ):</span></strong> người (thay thế cho chủ ngữ hoặc tân ngữ chỉ người)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">which (đại từ quan hệ):</span></strong> vật, sự việc (thay thế cho chủ ngữ hoặc tân ngữ chỉ vật/sự việc)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">whose (đại từ quan hệ):</span></strong> của ai/của cái gì (thay thế cho tính từ sở hữu hoặc sở hữu cách)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">where (trạng từ quan hệ):</span></strong> nơi chốn (thay thế cho cụm giới từ chỉ địa điểm)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, mệnh đề quan hệ <em>\"I used to live for six years in my childhood\"</em> bổ nghĩa cho danh từ <em>\"this small city\"</em>. Danh từ <em>city</em> chỉ một địa điểm, và hành động <em>\"live\"</em> diễn ra tại địa điểm đó.</p>\n<p style=\"text-align: justify;\">Do đó, ta cần một trạng từ quan hệ chỉ nơi chốn để nối hai mệnh đề. <em>Where</em> là lựa chọn phù hợp nhất vì nó thay thế cho cụm giới từ chỉ địa điểm (ví dụ: <em>in the city</em>). Các phương án <em>who</em>, <em>which</em>, <em>whose</em> không phù hợp vì chúng dùng để chỉ người, vật hoặc sở hữu, không phải nơi chốn trong ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "1474604": "Sai vì <em>who</em> là đại từ quan hệ dùng để thay thế cho danh từ chỉ người, trong khi <em>city</em> là danh từ chỉ vật.",
+        "1474605": "Sai vì <em>which</em> là đại từ quan hệ thay thế cho danh từ chỉ vật làm chủ ngữ hoặc tân ngữ, nhưng mệnh đề quan hệ này cần một trạng từ chỉ nơi chốn.",
+        "1474606": "Sai vì <em>whose</em> là đại từ quan hệ chỉ sở hữu, không phù hợp với ngữ cảnh chỉ nơi chốn.",
+        "1474607": "Đúng vì <em>where</em> là trạng từ quan hệ dùng để thay thế cho cụm giới từ chỉ nơi chốn, phù hợp với việc bổ nghĩa cho danh từ <em>city</em> và ý nghĩa của mệnh đề quan hệ."
+      },
+      "images": []
+    },
+    {
+      "id": 833694,
+      "questionNumber": 8,
+      "questionName": "10",
+      "questionType": "MultipleChoice",
+      "questionText": "<strong>Da Nang, _____ is famous for its international fireworks festival, attracts thousands of visitors every year.</strong>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2168837,
+          "label": "A",
+          "text": "where",
+          "isCorrect": false
+        },
+        {
+          "id": 2168838,
+          "label": "B",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 2168839,
+          "label": "C",
+          "text": "what",
+          "isCorrect": false
+        },
+        {
+          "id": 2168840,
+          "label": "D",
+          "text": "which",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2168840,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul><li>Mệnh đề quan hệ không xác định (non-defining relative clauses) cung cấp thông tin thêm về danh từ và luôn được đặt giữa hai dấu phẩy (hoặc một dấu phẩy nếu ở cuối câu).</li><li>Không được sử dụng đại từ quan hệ <em>that</em> trong mệnh đề quan hệ không xác định.</li><li>Sử dụng <em>which</em> để thay thế cho danh từ chỉ vật hoặc địa điểm (khi không diễn tả hành động xảy ra <em>tại</em> địa điểm đó).</li><li>Sử dụng <em>where</em> khi mệnh đề quan hệ mô tả hành động xảy ra <em>tại</em> địa điểm đó (ví dụ: Da Nang, <em>where</em> I spent my childhood, is a beautiful city).</li></ul>",
+      "explanation": "<p>Chủ điểm ngữ ph&aacute;p cần vận dụng: <strong>Mệnh đề quan hệ kh&ocirc;ng x&aacute;c định</strong> được sử dụng để cung cấp th&ocirc;ng tin bổ sung về danh từ đứng trước m&agrave; kh&ocirc;ng l&agrave;m thay đổi &yacute; nghĩa cơ bản của c&acirc;u.</p>\n<p><span class=\"eq-highlight\">Cấu tr&uacute;c:</span> Danh từ, <strong>which</strong> + V(s/es)/V(pt)/V-ing/V(pp) (nếu l&agrave; bị động) + ... hoặc Danh từ, <strong>who/whom/whose</strong> + S + V + ...</p>\n<p><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:</span></p>\n<p>C&acirc;u đ&atilde; cho c&oacute; hai dấu phẩy bao quanh chỗ trống v&agrave; mệnh đề theo sau (\"is famous for its international fireworks festival\"), cho thấy đ&acirc;y l&agrave; một mệnh đề quan hệ kh&ocirc;ng x&aacute;c định (non-defining relative clause). Trong mệnh đề quan hệ kh&ocirc;ng x&aacute;c định, ch&uacute;ng ta sử dụng đại từ quan hệ \"which\" để thay thế cho danh từ chỉ vật hoặc địa điểm (\"Da Nang\") khi n&oacute; đ&oacute;ng vai tr&ograve; chủ ngữ hoặc t&acirc;n ngữ trong mệnh đề quan hệ.</p>\n<p>Phương &aacute;n 1 \"where\" l&agrave; trạng từ quan hệ chỉ nơi chốn, d&ugrave;ng khi mệnh đề quan hệ diễn tả một h&agrave;nh động xảy ra tại địa điểm đ&oacute;, kh&ocirc;ng phải để m&ocirc; tả bản th&acirc;n địa điểm đ&oacute;. Phương &aacute;n 2 \"that\" kh&ocirc;ng được d&ugrave;ng trong mệnh đề quan hệ kh&ocirc;ng x&aacute;c định. Phương &aacute;n 3 \"what\" kh&ocirc;ng phải l&agrave; đại từ quan hệ v&agrave; kh&ocirc;ng ph&ugrave; hợp trong ngữ cảnh n&agrave;y.</p>\n<p><span class=\"eq-highlight\">Dịch:</span> Đ&agrave; Nẵng, <strong>nơi nổi tiếng</strong> với lễ hội ph&aacute;o hoa quốc tế, thu h&uacute;t h&agrave;ng ngh&igrave;n du kh&aacute;ch mỗi năm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 849956,
+      "questionNumber": 9,
+      "questionName": "7",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He is the scientist _____ research has changed the way we understand climate change.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1621701,
+          "label": "A",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 1621702,
+          "label": "B",
+          "text": "who",
+          "isCorrect": false
+        },
+        {
+          "id": 1621703,
+          "label": "C",
+          "text": "whose",
+          "isCorrect": true
+        },
+        {
+          "id": 1621704,
+          "label": "D",
+          "text": "whom",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1621703,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Xác định mối quan hệ giữa danh từ <em>\"the scientist\"</em> đứng trước chỗ trống và danh từ <em>\"research\"</em> đứng ngay sau chỗ trống.</p>\n<p>Xem xét chức năng của các đại từ quan hệ để chọn từ phù hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Đại từ quan hệ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Đại từ quan hệ dùng để nối hai mệnh đề, trong đó một mệnh đề là mệnh đề quan hệ, bổ nghĩa cho danh từ hoặc đại từ đứng trước nó (tiền ngữ).</p>\n<p style=\"text-align: justify;\"><strong>Một số cách dùng đại từ quan hệ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">whose + N:</span></strong> của ai/của cái gì (chỉ sở hữu, thay thế cho tính từ sở hữu hoặc 'of which')</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">who (S + V...):</span></strong> ai/người mà (thay thế cho chủ ngữ chỉ người)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">whom (S + V...):</span></strong> ai/người mà (thay thế cho tân ngữ chỉ người)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">that (S + V.../V...):</span></strong> cái mà/người mà (thay thế cho chủ ngữ hoặc tân ngữ chỉ người, vật)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, <em>\"the scientist\"</em> là tiền ngữ chỉ người. Sau chỗ trống là danh từ <em>\"research\"</em>. Mối quan hệ giữa <em>\"the scientist\"</em> và <em>\"research\"</em> là mối quan hệ sở hữu (nghiên cứu của nhà khoa học). Do đó, cần một đại từ quan hệ chỉ sở hữu để liên kết hai thành phần này.</p>\n<p style=\"text-align: justify;\">Phương án 3 <em>\"whose\"</em> là đại từ quan hệ sở hữu, phù hợp với cấu trúc <em>\"N (người/vật) + whose + N\"</em>. Các phương án còn lại không thể hiện mối quan hệ sở hữu và đều không đứng trực tiếp trước một danh từ để chỉ sở hữu.</p>",
+      "answerFeedbacks": {
+        "1621701": "Sai vì <em>\"that\"</em> không được dùng để chỉ mối quan hệ sở hữu giữa hai danh từ.",
+        "1621702": "Sai vì <em>\"who\"</em> là đại từ quan hệ đóng vai trò chủ ngữ, không đứng trước danh từ <em>\"research\"</em> để chỉ sở hữu.",
+        "1621703": "Đúng vì <em>\"whose\"</em> là đại từ quan hệ sở hữu, phù hợp để chỉ <em>\"research\"</em> thuộc về <em>\"the scientist\"</em>.",
+        "1621704": "Sai vì <em>\"whom\"</em> là đại từ quan hệ đóng vai trò tân ngữ, không đứng trước danh từ <em>\"research\"</em> để chỉ sở hữu."
+      },
+      "images": []
+    },
+    {
+      "id": 629244,
+      "questionNumber": 10,
+      "questionName": "29",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Mr. Vo Van Kiet, _____ was our former Prime Minister, was born in Vinh Long.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1210937,
+          "label": "A",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 1210938,
+          "label": "B",
+          "text": "whose",
+          "isCorrect": false
+        },
+        {
+          "id": 1210939,
+          "label": "C",
+          "text": "who",
+          "isCorrect": true
+        },
+        {
+          "id": 1210940,
+          "label": "D",
+          "text": "whom",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1210939,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Trước hết, hãy xác định danh từ <span style=\"text-align: justify;\">\"</span><em style=\"text-align: justify;\">Mr. Vo Van Kiet</em><span style=\"text-align: justify;\">\"</span> mà đại từ quan hệ cần bổ nghĩa là người hay vật.</p>\n<p>Tiếp theo, hãy xem xét vai trò ngữ pháp của chỗ trống trong mệnh đề quan hệ là chủ ngữ của động từ hay là tân ngữ? Trong câu này, chỗ trống đứng trước động từ \"was\" nên nó đóng vai trò chủ ngữ.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Đại từ quan hệ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Đại từ quan hệ dùng để nối hai mệnh đề, trong đó mệnh đề quan hệ bổ nghĩa cho danh từ hoặc cụm danh từ đứng trước nó. Chúng thay thế cho danh từ đã được nhắc đến ở mệnh đề chính, tránh lặp từ và làm cho câu mạch lạc hơn.</p>\n<p><strong>Một số đại từ quan hệ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong>who</strong>: thay thế cho danh từ chỉ người, đóng vai trò chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ (thường dùng làm chủ ngữ).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong>whom</strong>: thay thế cho danh từ chỉ người, đóng vai trò tân ngữ trong mệnh đề quan hệ.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong>whose</strong>: thay thế cho tính từ sở hữu hoặc sở hữu cách của danh từ chỉ người/vật, mang nghĩa \"của ai/của cái gì\".</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong>that</strong>: thay thế cho danh từ chỉ người, vật, hoặc cả người lẫn vật, đóng vai trò chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ (không dùng sau dấu phẩy).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu cần một đại từ quan hệ để nối mệnh đề chính \"<em>Mr. Vo Van Kiet... was born in Vinh Long</em>\" với mệnh đề quan hệ \"<em>_____ was our former Prime Minister</em>\". Chỗ trống cần điền là chủ ngữ của động từ \"<em>was</em>\" trong mệnh đề quan hệ, và nó thay thế cho \"<em>Mr. Vo Van Kiet</em>\" (danh từ chỉ người). Trong các phương án, <em>who</em> là đại từ quan hệ chỉ người, có thể đóng vai trò chủ ngữ, phù hợp với ngữ cảnh này.</p>\n<p style=\"text-align: justify;\">Phương án <em>that</em> sai vì không dùng sau dấu phẩy trong mệnh đề quan hệ không xác định, phương án <em>whose</em> sai vì nó chỉ sở hữu và cần một danh từ theo sau còn phương án <em>whom</em> sai vì nó đóng vai trò tân ngữ, trong khi chỗ trống cần một chủ ngữ.</p>",
+      "answerFeedbacks": {
+        "1210937": "Sai vì <em>that</em> không được dùng trong mệnh đề quan hệ không xác định (non-defining relative clause) có dấu phẩy.",
+        "1210938": "Sai vì <em>whose</em> là đại từ quan hệ chỉ sở hữu, cần một danh từ theo sau, trong khi chỗ trống là chủ ngữ của động từ \"was\".",
+        "1210939": "Đúng vì <em>who</em> là đại từ quan hệ chỉ người, có thể đóng vai trò chủ ngữ cho động từ \"was\" trong mệnh đề quan hệ bổ nghĩa cho \"Mr. Vo Van Kiet\".",
+        "1210940": "Sai vì <em>whom</em> là đại từ quan hệ chỉ người, nhưng nó đóng vai trò tân ngữ, trong khi chỗ trống cần một chủ ngữ."
+      },
+      "images": []
+    },
+    {
+      "id": 45994,
+      "questionNumber": 11,
+      "questionName": "Q15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Tom is <span style=\"text-decoration: underline;\">the kind</span> of person <span style=\"text-decoration: underline;\">to who</span> one <span style=\"text-decoration: underline;\">can talk</span> about <span style=\"text-decoration: underline;\">anything</span>. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 133696,
+          "label": "A",
+          "text": "the kind",
+          "isCorrect": false
+        },
+        {
+          "id": 133697,
+          "label": "B",
+          "text": "to who",
+          "isCorrect": true
+        },
+        {
+          "id": 133698,
+          "label": "C",
+          "text": "can talk",
+          "isCorrect": false
+        },
+        {
+          "id": 133699,
+          "label": "D",
+          "text": "anything",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 133697,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Đại từ quan hệ \"<strong>who</strong>\" thay thế cho danh từ chỉ người v&agrave; l&agrave;m chủ từ trong mệnh đề quan hệ, kh&ocirc;ng thể d&ugrave;ng giới từ trước đại từ \"<strong>who</strong>\".</p>\n<p>Đại từ quan hệ \"<strong>whom</strong>\" thay thế cho danh từ chỉ người v&agrave; l&agrave;m t&acirc;n ngữ trong mệnh đề quan hệ.</p>\n<p>Cấu tr&uacute;c:<strong> N (person) + whom + S + V</strong></p>\n<p>Lưu &yacute;: c&oacute; thể đưa giới từ trong mệnh đề quan hệ (nếu c&oacute;) l&ecirc;n trước \"<strong>whom</strong>\".</p>\n<p>Sửa: \"<strong>to who</strong>\" =&gt; \"<strong>to whom</strong>\"</p>\n<p>Dịch: Tom l&agrave; kiểu người m&agrave; ai cũng c&oacute; thể n&oacute;i chuyện c&ugrave;ng về bất k&igrave; chủ đề g&igrave;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 620717,
+      "questionNumber": 12,
+      "questionName": "11",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">The</span> woman <span style=\"text-decoration: underline;\">who</span> daughter I <span style=\"text-decoration: underline;\">saw</span> yesterday <span style=\"text-decoration: underline;\">is</span> a doctor.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1194570,
+          "label": "A",
+          "text": "The",
+          "isCorrect": false
+        },
+        {
+          "id": 1194571,
+          "label": "B",
+          "text": "who",
+          "isCorrect": true
+        },
+        {
+          "id": 1194572,
+          "label": "C",
+          "text": "saw",
+          "isCorrect": false
+        },
+        {
+          "id": 1194573,
+          "label": "D",
+          "text": "is",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1194571,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>who + V<span style=\"font-weight: 400;\">: thay thế cho danh từ chỉ người, l&agrave;m chủ ngữ trong mệnh đề quan hệ. =&gt; Kh&ocirc;ng đ&uacute;ng với ngữ ph&aacute;p v&agrave; nghĩa trong c&acirc;u.</span></strong></p>\n<p><strong>whose + N</strong><span style=\"font-weight: 400;\">: chỉ sự sở hữu cho danh từ \"<strong>The woman</strong>\", thay thế cho t&iacute;nh từ sở hữu hoặc h&igrave;nh thức</span><strong> &lsquo;s</strong><span style=\"font-weight: 400;\">.</span></p>\n<p>Sửa: \"<strong>who</strong>\" =&gt; \"<strong>whose</strong>\"</p>\n<p>Dịch: Người phụ nữ m&agrave; t&ocirc;i gặp con g&aacute;i của b&agrave; ấy v&agrave;o h&ocirc;m qua l&agrave; một b&aacute;c sĩ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 179237,
+      "questionNumber": 13,
+      "questionName": "Question 40:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><u>The</u> girl <u>sat</u> next to me on the plane <u>is</u> a very <u>well-known</u> Kpop singer.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 411407,
+          "label": "A",
+          "text": "The",
+          "isCorrect": false
+        },
+        {
+          "id": 411408,
+          "label": "B",
+          "text": "sat",
+          "isCorrect": true
+        },
+        {
+          "id": 411409,
+          "label": "C",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "id": 411410,
+          "label": "D",
+          "text": "well-known",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 411408,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Động từ to be \"<strong>is</strong>\" l&agrave; động từ ch&iacute;nh trong c&acirc;u, động từ \"<strong>sat</strong>\" l&agrave; động từ của mệnh đề quan hệ&nbsp;l&agrave;m r&otilde; chủ ngữ \"<strong>The girl</strong>\".</p>\n<p>Cần d&ugrave;ng đại từ quan hệ đứng trước động từ \"<strong>sat</strong>\".</p>\n<p><span style=\"font-weight: 400;\"><strong>who/that + V</strong>: thay thế cho danh từ chỉ người \"<strong>The girl</strong>\", l&agrave;m chủ ngữ trong mệnh đề quan hệ </span>=&gt; C&acirc;u đầy đủ với đại từ quan hệ \"<strong>who/that</strong>\" l&agrave; \"<strong>The girl who/that sat next to me...</strong>\".</p>\n<p>Sửa: \"<strong>sat</strong>\" =&gt; \"<strong>who sat</strong>\" hoặc \"<strong>that sat</strong>\"</p>\n<p>Dịch: C&ocirc; g&aacute;i m&agrave; đ&atilde; ngồi cạnh t&ocirc;i tr&ecirc;n m&aacute;y bay th&igrave; l&agrave; một ca sĩ H&agrave;n Quốc nổi tiếng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 181432,
+      "questionNumber": 14,
+      "questionName": "12",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Works <u>are written</u> by Vladimir Nabokov <u>often</u> contain heroes and heroines <u>who</u> <u>have lived</u> in many places.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 416226,
+          "label": "A",
+          "text": "are written",
+          "isCorrect": true
+        },
+        {
+          "id": 416227,
+          "label": "B",
+          "text": "often",
+          "isCorrect": false
+        },
+        {
+          "id": 416228,
+          "label": "C",
+          "text": "who",
+          "isCorrect": false
+        },
+        {
+          "id": 416229,
+          "label": "D",
+          "text": "have lived",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 416226,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Động từ \"<strong>contain</strong>\" l&agrave; động từ ch&iacute;nh trong c&acirc;u, cụm động từ \"<strong>are written</strong>\" l&agrave; động từ của mệnh đề quan hệ l&agrave;m r&otilde; chủ ngữ \"<strong>Works</strong>\".</p>\n<p>Cần d&ugrave;ng đại từ quan hệ đứng trước cụm động từ \"<strong>are written</strong>\".</p>\n<p><span style=\"font-weight: 400;\"><strong>which/that + V</strong>: thay thế cho danh từ kh&ocirc;ng chỉ người \"<strong>Works</strong>\", l&agrave;m chủ ngữ trong mệnh đề quan hệ</span></p>\n<p>Sửa: \"<strong>are written</strong>\" =&gt; \"<strong>which/that are written</strong>\"</p>\n<p>Dịch: Những t&aacute;c phẩm được viết bởi Vladimir Nabokov thường c&oacute; c&aacute;c nam anh h&ugrave;ng v&agrave; nữ anh h&ugrave;ng sống ở nhiều nơi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 300140,
+      "questionNumber": 15,
+      "questionName": "20",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Sam Son, <u>that</u> is <u>a</u> long beach, <u>attracts</u> <u>many</u> visitors every year.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 654368,
+          "label": "A",
+          "text": "that",
+          "isCorrect": true
+        },
+        {
+          "id": 654369,
+          "label": "B",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 654370,
+          "label": "C",
+          "text": "attracts",
+          "isCorrect": false
+        },
+        {
+          "id": 654371,
+          "label": "D",
+          "text": "many",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 654368,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>that + V</strong>:<strong><span style=\"font-weight: 400;\">&nbsp;thay thế cho </span><span style=\"font-weight: 400;\">danh từ <span class=\"fontstyle0\">kh&ocirc;ng chỉ người </span>làm chủ ngữ trong m&ecirc;̣nh đ&ecirc;̀ quan h&ecirc;̣</span><span style=\"font-weight: 400;\">, tuy nhi&ecirc;n kh&ocirc;ng d&ugrave;ng</span></strong><span style=\"font-weight: 400;\"> </span>\"<strong>that</strong>\"<strong><span style=\"font-weight: 400;\"> trong mệnh đề quan hệ kh&ocirc;ng x&aacute;c định (sau dấu phẩy) =&gt; Kh&ocirc;ng thể d&ugrave;ng trong trường hợp n&agrave;y.</span></strong></p>\n<p><strong>which + V</strong><span style=\"font-weight: 400;\">: thay thế danh từ kh&ocirc;ng chỉ người \"<strong>Sam Son</strong>\", đ&oacute;ng vai tr&ograve; chủ ngữ trong mệnh đề quan hệ.</span></p>\n<p>Sửa: \"<strong>that</strong>\" =&gt; \"<strong>which</strong>\"</p>\n<p>Dịch: Sầm Sơn, nơi l&agrave; một b&atilde;i biển d&agrave;i, thu h&uacute;t rất nhiều du kh&aacute;ch mỗi năm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 611351,
+      "questionNumber": 16,
+      "questionName": "43",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>The house belongs to my grandparents. It was built in 1975.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1177012,
+          "label": "A",
+          "text": "The house which it belongs to my grandparents was built in 1975.",
+          "isCorrect": false
+        },
+        {
+          "id": 1177013,
+          "label": "B",
+          "text": "The house who belongs to my grandparents was built in 1975.",
+          "isCorrect": false
+        },
+        {
+          "id": 1177014,
+          "label": "C",
+          "text": "The house which belongs to my grandparents was built in 1975.",
+          "isCorrect": true
+        },
+        {
+          "id": 1177015,
+          "label": "D",
+          "text": "The house what belongs to my grandparents was built in 1975.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1177014,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>which + V</strong><span style=\"font-weight: 400;\">: thay thế danh từ chỉ vật \"<strong>The house</strong>\", đ&oacute;ng vai tr&ograve; chủ ngữ trong mệnh đề quan hệ.</span></p>\n<p><span style=\"font-weight: 400;\">who + V: thay thế cho danh từ chỉ người, l&agrave;m chủ ngữ trong mệnh đề quan hệ</span></p>\n<p><span style=\"font-weight: 400;\">what + clause: kh&ocirc;ng thay thế cho danh từ n&agrave;o, v&agrave; kh&ocirc;ng c&oacute; danh từ n&agrave;o đứng trước n&oacute;, mệnh đề bắt đầu với \"what\" l&agrave;m chủ ngữ/ t&acirc;n ngữ trong c&acirc;u</span></p>\n<p>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:&nbsp;</p>\n<ul>\n<li><em>The house which <strong><span style=\"text-decoration: line-through;\">it</span></strong> belongs to my grandparents was built in 1975.</em></li>\n<li><em>The house <span style=\"text-decoration: line-through;\"><strong>who</strong></span> belongs to my grandparents was built in 1975.</em></li>\n<li><em>The house <span style=\"text-decoration: line-through;\"><strong>what</strong></span> belongs to my grandparents was built in 1975.</em></li>\n</ul>\n<p>Dịch: Ng&ocirc;i nh&agrave; thuộc sở hữu của &ocirc;ng b&agrave; t&ocirc;i. N&oacute; được x&acirc;y dựng v&agrave;o năm 1975.</p>\n<p>~ Ng&ocirc;i nh&agrave; m&agrave; thuộc sở hữu của &ocirc;ng b&agrave; t&ocirc;i được x&acirc;y dựng v&agrave;o năm 1975.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 51906,
+      "questionNumber": 17,
+      "questionName": "Question 29:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>The tree died so they cut it down.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 146439,
+          "label": "A",
+          "text": "The tree was cut down and then it died.",
+          "isCorrect": false
+        },
+        {
+          "id": 146440,
+          "label": "B",
+          "text": "The tree died after they cut it down.",
+          "isCorrect": false
+        },
+        {
+          "id": 146441,
+          "label": "C",
+          "text": "They cut down the tree that died.",
+          "isCorrect": true
+        },
+        {
+          "id": 146442,
+          "label": "D",
+          "text": "Because they cut down the tree, it died.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 146441,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Đại từ quan hệ \"<strong>that</strong>\" thay thế cho \"<strong>the tree</strong>\" l&agrave;m chủ ngữ trong mệnh đề quan hệ.</p>\n<p>Dịch: C&aacute;i c&acirc;y đ&oacute; <span style=\"color: #2dc26b;\"><strong>đ&atilde; chết</strong></span> n&ecirc;n họ đ&atilde; chặt n&oacute;.</p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong></span> C&acirc;y đ&atilde; bị chặt hạ v&agrave;<span style=\"color: #e03e2d;\"> sau đ&oacute;</span> chết.</p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong></span> C&acirc;y đ&atilde; chết <span style=\"color: #e03e2d;\">sau khi</span> họ chặt n&oacute;.</p>\n<p><span style=\"color: #2dc26b;\"><strong>✔</strong></span> Họ chặt <strong><span style=\"color: #2dc26b;\">c&aacute;i c&acirc;y m&agrave; đ&atilde; chết</span></strong> đ&oacute;.</p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong></span>&nbsp;<span style=\"color: #e03e2d;\">V&igrave; họ đ&atilde; chặt c&acirc;y</span>, n&oacute; chết.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 251640,
+      "questionNumber": 18,
+      "questionName": "3. sxc",
+      "questionType": "WordOrder",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</span></em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "Linh",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "my",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "yesterday.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "This is",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "whom",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "saw",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "mother",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 252363,
+      "questionNumber": 19,
+      "questionName": "10. sxc",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (kéo từng từ/cụm từ về vị trí đúng để tạo thành câu hoàn chỉnh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "visit you",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "on summer holiday.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "in June",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "We’ll",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "when",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "are",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "the schools",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy bắt đầu bằng việc xác định chủ ngữ và động từ chính của câu (chúng tôi sẽ làm gì?). Sau đó, sắp xếp các cụm từ chỉ thời gian. Lưu ý rằng liên từ <strong>\"when\"</strong> dùng để bắt đầu một mệnh đề phụ mô tả thời điểm.",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 453612,
+      "questionNumber": 20,
+      "questionName": "4.6",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "I",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "from",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "borrowed",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "The book",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "yesterday",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "the library",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "very interesting.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 9",
+          "text": "which",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 559693,
+      "questionNumber": 21,
+      "questionName": "In 1963, we moved to Boston, where my grandparents lived.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "my grandparents",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "to Boston,",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "lived.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "In 1963,",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "we",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "moved",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "where",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 80218,
+      "questionNumber": 22,
+      "questionName": "Q24",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has a similar meaning to the first.</em></p>\n<p><strong>Jack Ma is a famous billionaire. He is the founder of Alibaba.&nbsp;</strong></p>\n<p><strong>=&gt; Jack Ma,&nbsp;</strong><strong><span class='fillblank-option'><input id='fbo-80218-0' class='ms fillblank-option-22' index='0' name='fbo-80218-0' type='text' size='33' autocomplete='off' data-testid='fillblank-input-80218-0' /></span></strong><strong>&nbsp;is a famous</strong><strong>&nbsp;billionaire.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "who is the founder of Alibaba,"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>who + V</strong>: thay thế cho danh từ chỉ người \"<strong>Jack Ma</strong>\", đ&oacute;ng vai tr&ograve; chủ ngữ trong mệnh đề quan hệ.</p>\n<p>\"<strong>Jack Ma</strong>\" l&agrave; danh từ chỉ t&ecirc;n ri&ecirc;ng do đ&oacute; đối tượng n&agrave;y đ&atilde; được x&aacute;c định. =&gt; D&ugrave;ng mệnh đề quan hệ kh&ocirc;ng x&aacute;c định.</p>\n<p>Dịch: Jack Ma l&agrave; một tỷ ph&uacute; nổi tiếng. &Ocirc;ng ấy l&agrave; người s&aacute;ng lập Alibaba.</p>\n<p>~ Jack Ma, người s&aacute;ng lập Alibaba, l&agrave; một tỷ ph&uacute; nổi tiếng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 621105,
+      "questionNumber": 23,
+      "questionName": "p5.2",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has a similar meaning to the first.</em></p>\n<p><strong>We stayed at a 20-storey hotel last summer.</strong></p>\n<p><strong>=&gt; The hotel <span class='fillblank-option'><input id='fbo-621105-0' class='ms fillblank-option-23' index='0' name='fbo-621105-0' type='text' size='17' autocomplete='off' data-testid='fillblank-input-621105-0' /></span> at last summer has 20 storeys.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "which we stayed",
+            "that we stayed",
+            "we stayed"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><b>Mệnh đề quan hệ xác định</b>: dùng để cung cấp thông tin cần thiết để xác định danh từ mà nó bổ nghĩa.</p>\n<p style=\"text-align: justify;\">Cấu trúc: <strong>N (chỉ vật) + which/that + S + V + ...</strong> hoặc<strong> N (chỉ vật) + (Ø) + S + V + ...</strong> (khi đại từ quan hệ là tân ngữ của động từ hoặc giới từ, ta có thể lược bỏ đại từ đi)</p>\n<p style=\"text-align: justify;\"><b>stay at </b>(phr.): ở tại (một địa điểm)</p>\n<p style=\"text-align: justify;\"><span style=\"color: #5fbd18; font-weight: 600;\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Câu gốc \"<strong>We stayed at a 20-storey hotel last summer.</strong>\" sử dụng tính từ ghép \"<strong>20-storey</strong>\" để mô tả khách sạn. Câu viết lại yêu cầu chuyển thông tin này thành cấu trúc \"<strong>has 20 storeys</strong>\" và sử dụng một mệnh đề quan hệ để mô tả \"<strong>The hotel</strong>\".</p>\n<p style=\"text-align: justify;\">Trong mệnh đề quan hệ cần điền vào chỗ trống, \"<strong>hotel</strong>\" là danh từ chỉ vật và là tân ngữ của giới từ \"<strong>at</strong>\" trong câu gốc (\"<strong>we stayed at the hotel</strong>\"). Vì vậy, chúng ta có thể sử dụng đại từ quan hệ \"<strong>which</strong>\" hoặc \"<strong>that</strong>\" để thay thế cho \"<strong>hotel</strong>\", và giới từ \"<strong>at</strong>\" sẽ được đặt ở cuối mệnh đề. Khi đại từ quan hệ đóng vai trò tân ngữ, nó cũng có thể được lược bỏ hoàn toàn. Do đó, cả ba phương án \"<strong>which we stayed</strong>\", \"<strong>that we stayed</strong>\" và \"<strong>we stayed</strong>\" đều đúng để hoàn thành mệnh đề quan hệ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 178079,
+      "questionNumber": 24,
+      "questionName": "2",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>I usually buy clothes from my cousin's shop. (WHERE)<br></strong></p>\n<p><strong>=&gt; My cousin owns .......... </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "My cousin owns the shop where I usually buy my clothes."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\"><strong>where + clause</strong>: thay thế cho từ chỉ địa điểm, nơi chốn \"<strong>the shop</strong>\", đ&oacute;ng vai tr&ograve; l&agrave; trạng ngữ trong c&acirc;u.&nbsp;</span></p>\n<p>Dịch: T&ocirc;i thường mua quần &aacute;o ở cửa h&agrave;ng của anh họ t&ocirc;i.</p>\n<p>~ Anh họ t&ocirc;i l&agrave; chủ cửa h&agrave;ng nơi m&agrave; t&ocirc;i thường mua quần &aacute;o.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 917061,
+      "questionNumber": 25,
+      "questionName": "whose",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Mr. Brown's team has lost the game. He looks very sad. (WHOSE)</strong></p>\n<p><strong>=&gt; Mr. Brown, ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Mr. Brown, whose team has lost the game, looks very sad."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\"><strong>whose + N</strong>: chỉ sự sở hữu cho danh từ \"<strong>team</strong>\", thay thế cho t&iacute;nh từ sở hữu hoặc sở hữu c&aacute;ch &lsquo;s.</span></p>\n<p>Dịch: Đội của &ocirc;ng Brown đ&atilde; thua tr&ograve; chơi. &Ocirc;ng ấy tr&ocirc;ng rất buồn.</p>\n<p>~ &Ocirc;ng Brown, người m&agrave; c&oacute; đội chơi thua, tr&ocirc;ng rất buồn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

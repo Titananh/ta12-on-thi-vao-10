@@ -1,0 +1,1774 @@
+{
+  "id": 5118,
+  "title": "Đề số 42 ôn luyện vào 10 môn Anh Sở Hà Nội ",
+  "year": 2024,
+  "categoryId": 170,
+  "categoryName": "Đề luyện thi vào 10 môn Anh Sở Hà Nội từ năm 2024 trở về trước",
+  "timeLimit": 60,
+  "totalPoint": 40,
+  "questionCount": 42,
+  "author": "Tổ GV Tiếng Anh - TA12",
+  "description": "",
+  "createdAt": "2026-09-24T14:50:47.509Z",
+  "questions": [
+    {
+      "id": 49196,
+      "questionNumber": 1,
+      "questionName": "Question 3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 141005,
+          "label": "A",
+          "text": "<p>c<span style=\"text-decoration: underline;\">o</span>llect</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 141006,
+          "label": "B",
+          "text": "<p>c<span style=\"text-decoration: underline;\">o</span>ncern</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 141007,
+          "label": "C",
+          "text": "<p>c<span style=\"text-decoration: underline;\">o</span>ncert</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 141008,
+          "label": "D",
+          "text": "<p>c<span style=\"text-decoration: underline;\">o</span>mbine</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 141007,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy chú ý đến trọng âm của từ. Nguyên âm ở âm tiết không mang trọng âm thường có xu hướng được phát âm thành âm /ə/ (âm lướt), trong khi nguyên âm ở âm tiết mang trọng âm sẽ giữ nguyên hoặc có cách phát âm khác.</p>",
+      "explanation": "<p>Phần được gạch chân trong từ <strong>c<u>o</u>ncert</strong> được phát âm là <strong>/ɒ/</strong>, trong các từ còn lại được phát âm là <strong>/ə/</strong>.<br /><br /></p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #fff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n        color: #1c581f;\n        font-size: 15px;\n    }\n\n    .vocab-table-sharp th, \n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        display: inline-block;\n        margin: 0 0.4rem 4px 0;\n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n        display: block;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">collect</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/kəˈlekt/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>thu thập, sưu tầm</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">concern</span></strong><span class=\"word-pos-sharp\">(v, n.)</span> <span class=\"word-ipa-sharp\">/kənˈsɜːrn/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>lo lắng, quan tâm; mối bận tâm</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">concert</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/ˈkɒnsərt/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>buổi hòa nhạc</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">combine</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/kəmˈbaɪn/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>kết hợp, phối hợp</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "141005": "<p>Phần gạch chân được phát âm là /ə/, giống chữ 'o' trong <em>\"today\"</em>.</p>",
+        "141006": "<p>Phần gạch chân được phát âm là /ə/, giống chữ 'o' trong <em>\"</em><em>today</em><em>\"</em>.</p>",
+        "141007": "Phần gạch chân được phát âm là /ɒ/, giống chữ 'o' trong <em>\"hot\"</em>.",
+        "141008": "<p>Phần gạch chân được phát âm là /ə/, giống chữ 'o' trong <em>\"</em><em>today</em><em>\"</em>.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 51933,
+      "questionNumber": 2,
+      "questionName": "Question 49:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 146521,
+          "label": "A",
+          "text": "describ<u>ed</u>",
+          "isCorrect": false
+        },
+        {
+          "id": 146522,
+          "label": "B",
+          "text": "damag<u>ed</u>",
+          "isCorrect": false
+        },
+        {
+          "id": 146523,
+          "label": "C",
+          "text": "memoriz<u>ed</u>",
+          "isCorrect": false
+        },
+        {
+          "id": 146524,
+          "label": "D",
+          "text": "celebrat<u>ed</u>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 146524,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Phần gạch ch&acirc;n trong từ \"<strong>celebrat<span style=\"text-decoration: underline;\">ed</span></strong>\"<strong> </strong>được ph&aacute;t &acirc;m l&agrave;<strong> /<span class=\"ipa dipa lpr-2 lpl-1\">ɪ</span>d/</strong>, trong các từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave;<strong> /d/</strong>.</p>\n<p><strong>celebrated (v.) <span class=\"separator\">/</span>ˈsɛləˌbreɪt<span class=\"ipa dipa lpr-2 lpl-1\">ɪd</span><span class=\"separator\">/</span></strong></p>\n<p>described (v.) /<span class=\"ipa dipa lpr-2 lpl-1\">dɪˈskraɪbd</span>/</p>\n<p>damaged (v.)&nbsp; /<span class=\"ipa dipa lpr-2 lpl-1\">ˈd&aelig;m.ɪdʒd</span>/</p>\n<p>memorized (v.) /<span class=\"ipa dipa lpr-2 lpl-1\">ˈmem.ə.raɪzd</span>/</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 161720,
+      "questionNumber": 3,
+      "questionName": "23",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 375191,
+          "label": "A",
+          "text": "introduce",
+          "isCorrect": false
+        },
+        {
+          "id": 375192,
+          "label": "B",
+          "text": "entertain",
+          "isCorrect": false
+        },
+        {
+          "id": 375193,
+          "label": "C",
+          "text": "successful",
+          "isCorrect": true
+        },
+        {
+          "id": 375194,
+          "label": "D",
+          "text": "overdue",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 375193,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ<strong> </strong>\"<strong>successful</strong>\" c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ 2, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m ch&iacute;nh rơi v&agrave;o &acirc;m tiết thứ 3.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19lhYAY8f54I%2FAJtBkDP%2BQMxTp%2BSTTEFhoCvlZKlB8uK%2FNnmfo1HFPqU0gZytE%2FnImceXn5M049wSB3puSL2vcc1C1DHqKu2o2MdPGVpldy8rM%2BGrmWx1b7gYu2MQHQym5sezp%2FAFTgIWHcqwxchCqIgRHJcw3npCwd3U9Q%2FYZzWw%2BxQXBf0T4sDz%2FzSOV3pJgI8FlqQkqB5sl02U4X8Uzx9Dy0NRUVgmBt5yhRQPGOKroUOupgGeDqwprnfrFAY2V4aYIxdiYFFOK2RZR9pJSNobucoPyVbrwV%2BwnvPa6Gn2gP7w1argcseZsdos%2BJ1AbOqFwWftZ4ylQ1daRcCcJ0iQZ9W3woz%2FhtST7ybofbp13eInPCVQLu\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<div id=\"eJOY__extension_root\" class=\"eJOY__extension_root_class\" style=\"all: unset;\"></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 16853,
+      "questionNumber": 4,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 55514,
+          "label": "A",
+          "text": "nation",
+          "isCorrect": false
+        },
+        {
+          "id": 55515,
+          "label": "B",
+          "text": "comic",
+          "isCorrect": false
+        },
+        {
+          "id": 55516,
+          "label": "C",
+          "text": "police",
+          "isCorrect": true
+        },
+        {
+          "id": 55517,
+          "label": "D",
+          "text": "tourist",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 55516,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ \"<strong>police</strong>\" c&oacute; trọng &acirc;m rơi rơi v&agrave;o &acirc;m tiết thứ 2, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19FY2T%2BVL9gly4PTirFS8lkAw6%2Fn%2FjDxIjCg%2FMuFNa9TZYM2UHJrWtvkbwX%2Blz7WjZ6iCnsb7xdN3v7JkBXRwk90eqDx1njJb7r%2BA500Rx%2BcoNsGgSqKmckknpVTseX%2FvfaCivE88CswKQif2ZS3Wbou76RkXRH5hpx8ytficxKP2jXYkPtbPvoMxq%2F5bxemrvNHIyOOWhB25QeonkSgcRhxvpNygr4OWVavCm5n3t7%2FuYKURjVBaI4QoCDbCM4t7lkKK1uI2KUQ1XAGpVNCMOvzy%2FiUNWtqySqlGJeYZzxdfc2uJyYdxavTGseMK3w6lZnZ9CZAt0tsFyfNjpv1Jtwm023cPOx%2Fk4tpi3hOr%2BrBIjgWRJ0tZMY\" width=\"100%\" height=\"315\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 141733,
+      "questionNumber": 5,
+      "questionName": "III - 4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction. </em></p>\n<p><strong>My father <span style=\"text-decoration: underline;\">has</span> <span style=\"text-decoration: underline;\">less</span> days <span style=\"text-decoration: underline;\">off</span> <span style=\"text-decoration: underline;\">than</span> Tim’s father.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 333703,
+          "label": "A",
+          "text": "has",
+          "isCorrect": false
+        },
+        {
+          "id": 333704,
+          "label": "B",
+          "text": "less",
+          "isCorrect": true
+        },
+        {
+          "id": 333705,
+          "label": "C",
+          "text": "off",
+          "isCorrect": false
+        },
+        {
+          "id": 333706,
+          "label": "D",
+          "text": "than",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 333704,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét sự hòa hợp giữa động từ <em>\"has\"</em> và chủ ngữ <em>\"My father\"</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra cách dùng lượng từ <em>\"less\"</em> với danh từ đếm được <em>\"days''</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đánh giá tính chính xác của cụm danh từ <em>\"days off\"</em> (ngày nghỉ).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra việc sử dụng liên từ <em>\"than\"</em> trong cấu trúc so sánh.</li>\n</ul>\n<p style=\"text-align: justify;\">Đối chiếu từng quy tắc trên với câu gốc để xác định phần nào cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Lượng từ và dạng so sánh hơn của chúng</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Lượng từ được dùng để chỉ số lượng hoặc khối lượng của danh từ mà chúng bổ nghĩa. Các lượng từ khác nhau được dùng với danh từ đếm được và không đếm được.</p>\n<p><strong>Một số lượng từ và dạng so sánh của chúng:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">few / fewer + N (đếm được số nhiều)</span></strong>: ít / ít hơn (dùng với danh từ đếm được số nhiều)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">little / less + N (không đếm được)</span></strong>: ít / ít hơn (dùng với danh từ không đếm được)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">many / more + N (đếm được số nhiều)</span></strong>: nhiều / nhiều hơn (dùng với danh từ đếm được số nhiều)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">much / more + N (không đếm được)</span></strong>: nhiều / nhiều hơn (dùng với danh từ không đếm được)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, từ <em>\"days\"</em> là danh từ đếm được số nhiều. Khi muốn diễn tả số lượng ít hơn với danh từ đếm được số nhiều, ta phải sử dụng lượng từ <em>\"fewer\"</em>. Lượng từ <em>\"less\"</em> chỉ được dùng với danh từ không đếm được.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>less</strong></em>\" =&gt; \"<em><strong>fewer</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "333703": "Động từ <em>\"has\"</em> được chia đúng thì hiện tại đơn và hợp với chủ ngữ số ít <em>\"My father\"</em>.",
+        "333704": "Lượng từ <em>\"less\"</em> được dùng sai vì <em>\"days\"</em> là danh từ đếm được số nhiều, cần dùng <em>\"fewer\"</em>.",
+        "333705": "Giới từ <em>\"off\"</em> trong cụm <em>\"days off\"</em> (ngày nghỉ) được dùng đúng ngữ cảnh.",
+        "333706": "Liên từ <em>\"than\"</em> được dùng đúng trong cấu trúc so sánh hơn."
+      },
+      "images": []
+    },
+    {
+      "id": 8891,
+      "questionNumber": 6,
+      "questionName": "Question 59.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><u>A friend can</u> <u>help</u> you solve problems and <u>to share</u> the grief times along with <u>the great times</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 27000,
+          "label": "A",
+          "text": "A friend",
+          "isCorrect": false
+        },
+        {
+          "id": 27001,
+          "label": "B",
+          "text": "help",
+          "isCorrect": false
+        },
+        {
+          "id": 27002,
+          "label": "C",
+          "text": "to share",
+          "isCorrect": true
+        },
+        {
+          "id": 27003,
+          "label": "D",
+          "text": "the great times",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 27002,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c song h&agrave;nh: c&aacute;c từ/ cụm từ/ mệnh đề li&ecirc;n kết với nhau trước v&agrave; sau \"<strong>and</strong>\" phải tương đồng với nhau về dạng thức, chức năng ....</p>\n<p>Trong c&acirc;u, trước \"<strong>and</strong>\" l&agrave;<strong>&nbsp;động từ nguy&ecirc;n thể kh&ocirc;ng </strong>\"<strong>to</strong>\" (trong cấu tr&uacute;c \"<strong>help sb do sth</strong>\").</p>\n<p>V&igrave; thế, cần sửa \"<strong>to share</strong>\" =&gt; \"<strong>share</strong>\"</p>\n<p>Dịch: Một người bạn c&oacute; thể gi&uacute;p bạn giải quyết c&aacute;c vấn đề v&agrave; chia sẻ những l&uacute;c đau buồn cũng như những khi vui sướng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 52150,
+      "questionNumber": 7,
+      "questionName": "Question 2:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>I <u>didn’t</u> enjoy the <u>food</u> at the party last night <u>because</u> it tasted <u>horribly</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 147159,
+          "label": "A",
+          "text": "didn’t",
+          "isCorrect": false
+        },
+        {
+          "id": 147160,
+          "label": "B",
+          "text": "food",
+          "isCorrect": false
+        },
+        {
+          "id": 147161,
+          "label": "C",
+          "text": "because",
+          "isCorrect": false
+        },
+        {
+          "id": 147162,
+          "label": "D",
+          "text": "horribly",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 147162,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xác định chức năng của trợ động từ <em>didn’t</em> trong câu phủ định quá khứ đơn.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét vai trò ngữ pháp và ý nghĩa của danh từ <em>food</em> trong câu.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra cách dùng của liên từ <em>because</em> để nối các mệnh đề và thể hiện quan hệ nguyên nhân – kết quả.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Nhận diện <em>taste</em> là loại động từ gì và từ loại nào (tính từ hay trạng từ) nên theo sau nó để bổ nghĩa cho chủ ngữ.</li>\n</ul>\nĐối chiếu các quy tắc này với câu gốc để xác định phần nào cần được sửa.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Tính từ (sau động từ nối)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Tính từ (adj.) thường đứng sau động từ nối và được dùng để mô tả đặc điểm, tính chất của danh từ hoặc chủ ngữ.</p>\n<p><strong>Một số động từ nối (linking verbs):</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong>be (am/is/are/was/were)</strong>: là, thì, ở</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong>become, get, grow, turn</strong>: trở nên, trở thành</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong>seem, appear</strong>: dường như</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong>look, sound, smell, taste, feel</strong>: trông có vẻ, nghe có vẻ, ngửi có mùi, nếm có vị, cảm thấy</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong>remain, stay</strong>: duy trì, giữ nguyên</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, động từ <em>tasted</em> là một động từ chỉ giác quan (linking verb) mô tả vị của chủ ngữ <em>it</em> (thức ăn). Sau các động từ chỉ trạng thái/động từ nối, chúng ta cần dùng một tính từ để bổ nghĩa cho chủ ngữ, không phải trạng từ. Do đó, <em>horribly</em> (trạng từ) là sai.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>horribly</strong></em>\" =&gt; \"<em><strong>horrible</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "147159": "<em>didn’t</em> là trợ động từ của thì quá khứ đơn, được dùng đúng để tạo câu phủ định trong quá khứ.",
+        "147160": "<em>food</em> là danh từ, được sử dụng đúng ngữ pháp và ngữ nghĩa trong câu.",
+        "147161": "<em>because</em> là liên từ chỉ nguyên nhân, được sử dụng đúng để nối hai mệnh đề và giải thích lý do.",
+        "147162": "Sau động từ chỉ trạng thái <em>taste</em>, cần dùng tính từ <em>horrible</em> để mô tả chủ ngữ, không dùng trạng từ <em>horribly</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 91386,
+      "questionNumber": 8,
+      "questionName": "Question 2:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Helen ____ her driving test five times so far without success, but she ____, yet.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 217447,
+          "label": "A",
+          "text": "takes/ isn't giving up",
+          "isCorrect": false
+        },
+        {
+          "id": 217448,
+          "label": "B",
+          "text": "has taken/ hasn't given up",
+          "isCorrect": true
+        },
+        {
+          "id": 217449,
+          "label": "C",
+          "text": "is taking/ doesn't give up",
+          "isCorrect": false
+        },
+        {
+          "id": 217450,
+          "label": "D",
+          "text": "took/ wasn't giving up",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 217448,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại ho&agrave;n th&agrave;nh: diễn tả một h&agrave;nh động trong qu&aacute; khứ v&agrave; vẫn c&ograve;n tiếp diễn ở hiện tại. Dấu hiệu nhận biết: \"<strong>five times</strong>\", \"<strong>yet</strong>\"</p>\n<p>Cấu tr&uacute;c:<strong> S + have/ has + V(pp)</strong></p>\n<p>Dịch: Helen đ&atilde; trượt b&agrave;i thi l&aacute;i xe của c&ocirc; ấy 5 lần rồi, nhưng c&ocirc; ấy vẫn chưa bỏ cuộc.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 51676,
+      "questionNumber": 9,
+      "questionName": "Question 30:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He keeps turning on all the electronic devices even when there is no one in the house. _____, the electricity bill goes up.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 146004,
+          "label": "A",
+          "text": "However",
+          "isCorrect": false
+        },
+        {
+          "id": 146005,
+          "label": "B",
+          "text": "Because",
+          "isCorrect": false
+        },
+        {
+          "id": 146006,
+          "label": "C",
+          "text": "Although",
+          "isCorrect": false
+        },
+        {
+          "id": 146007,
+          "label": "D",
+          "text": "Therefore",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 146007,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy xem xét mối quan hệ logic giữa hai vế, vế đầu tiên mô tả một hành động, và vế thứ hai là hậu quả của hành động đó.</p>\n<p>Bạn cần một trạng từ liên kết phù hợp để đứng sau dấu chấm và trước dấu phảy để chỉ mối quan hệ nguyên nhân kết quả.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"275\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FiHetj%2BUpdjmhlJHgFs0l34DmW9vBc5hNNXr3ACRsRx%2Fp%2FMs%2BlITjBDgwlTVxa4PQ25yN2R2Rvq1VxcjQOfE7hYaC2XzJozHSpy8LkZRoBHDFMk5PxSaYI1ixX3d0x5q914dq2TgwkAVfFSJE%2FsmCWxyjGM%2FqTlPqjJu3O%2FLOxeV6BAH1WuEUst8tlpolSyBrqU5A8enmXWMzT3hwFw4JoqwgyW2PrEWxipXnTfwgW3Qw%2FxJ7ytV9sjyP3SPAlyyMQajGJ1Km9SN3PESot2%2BGLKLDDtFqOvO0AHhZ1WZAfuqik%2FR8VQ34QKtVXRSHWgqjXA8hCgWz7466WVBv%2B4eI%2BgP2ilGhXVOtvbkfjrVG7q9d50OaJ5fFu\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Trạng từ liên kết</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Trạng từ liên kết được dùng để nối hai câu độc lập, thể hiện mối quan hệ logic giữa ý của câu trước và câu sau. Chúng đứng sau dấu chấm hoặc dấu chấm phẩy và thường theo sau bởi dấu phẩy.</p>\n<p><strong>Một số trạng từ liên kết và liên từ phụ thuộc:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Therefore, S + V + O.: </span></strong>Do đó, vì vậy (diễn đạt kết quả)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">However, S + V + O.: </span></strong>Tuy nhiên (diễn đạt sự tương phản)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Because S + V + O, S + V + O.: </span></strong>Bởi vì (liên từ phụ thuộc, nối mệnh đề phụ với mệnh đề chính)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Although S + V + O, S + V + O.: </span></strong>Mặc dù (liên từ phụ thuộc, nối mệnh đề phụ với mệnh đề chính)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu đầu tiên mô tả hành động \"He keeps turning on all the electronic devices even when there is no one in the house.\" (Anh ta cứ bật tất cả các thiết bị điện tử ngay cả khi không có ai ở nhà.), và câu thứ hai \"the electricity bill goes up.\" (hóa đơn tiền điện tăng lên) là kết quả của hành động đó. Vì vậy, ta cần một trạng từ liên kết thể hiện mối quan hệ nguyên nhân - kết quả.</p>\n<p style=\"text-align: justify;\">Phương án 4 <em>\"Therefore\"</em> (do đó, vì vậy) phù hợp nhất về nghĩa để diễn tả kết quả và đúng về cấu trúc ngữ pháp khi đứng sau dấu chấm và trước dấu phẩy để nối hai câu độc lập. Các phương án 2 <em>\"Because\"</em> và 3 <em>\"Although\"</em> là liên từ phụ thuộc, không thể đứng ở vị trí này để nối hai câu độc lập. Phương án 1 <em>\"However\"</em> diễn đạt sự tương phản, không phù hợp với ngữ cảnh.</p>",
+      "answerFeedbacks": {
+        "146004": "Sai vì <em>\"However\"</em> diễn đạt sự tương phản hoặc đối lập, không phù hợp với mối quan hệ nguyên nhân - kết quả giữa hai câu.",
+        "146005": "Sai vì <em>\"Because\"</em> là liên từ phụ thuộc, dùng để nối mệnh đề phụ với mệnh đề chính trong cùng một câu, không đứng sau dấu chấm và trước dấu phẩy để nối hai câu độc lập.",
+        "146006": "Sai vì <em>\"Although\"</em> là liên từ phụ thuộc, dùng để nối mệnh đề phụ với mệnh đề chính trong cùng một câu, không đứng sau dấu chấm và trước dấu phẩy để nối hai câu độc lập.",
+        "146007": "Đúng vì <em>\"Therefore\"</em> là trạng từ liên kết, thể hiện mối quan hệ nguyên nhân - kết quả (do đó, vì vậy) và phù hợp với cấu trúc đứng sau dấu chấm và trước dấu phẩy để nối hai câu độc lập."
+      },
+      "images": []
+    },
+    {
+      "id": 43844,
+      "questionNumber": 10,
+      "questionName": "Question 10",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Do we have to _____ all these new words? <b></b></b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 127169,
+          "label": "A",
+          "text": "memory",
+          "isCorrect": false
+        },
+        {
+          "id": 127170,
+          "label": "B",
+          "text": "memorize",
+          "isCorrect": true
+        },
+        {
+          "id": 127171,
+          "label": "C",
+          "text": "memorial",
+          "isCorrect": false
+        },
+        {
+          "id": 127172,
+          "label": "D",
+          "text": "memo",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 127170,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy chú ý đến cụm<em>\"have to _____\" </em>thường yêu cầu một từ loại cụ thể theo sau để hoàn thành ý nghĩa về một hành động cần phải thực hiện.</p>\n<p>Bạn cần tìm một từ diễn tả hành động \"ghi nhớ\" hoặc \"học thuộc\" trong các lựa chọn.</p>",
+      "explanation": "<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Giải nghĩa từ vựng:</span> </p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.5rem 0.8rem;\n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        margin-right: 0.4rem;\n        display: inline-block;\n        margin-bottom: 10px; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555555;\n        display: block; \n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">memory</span></strong><span class=\"word-pos-sharp\">(n.)</span><br /><span class=\"word-ipa-sharp\">/ˈmeməri/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>khả năng ghi nhớ, trí nhớ</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">memorize</span></strong><span class=\"word-pos-sharp\">(v.)</span><br /><span class=\"word-ipa-sharp\">/ˈmeməraɪz/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>ghi nhớ, học thuộc lòng</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">memorial</span></strong><span class=\"word-pos-sharp\">(n., adj.)</span><br /><span class=\"word-ipa-sharp\">/məˈmɔːriəl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>đài tưởng niệm, vật kỷ niệm; (thuộc) kỷ niệm</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">memo</span></strong><span class=\"word-pos-sharp\">(n.)</span><br /><span class=\"word-ipa-sharp\">/ˈmeməʊ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>bản ghi nhớ, thông báo nội bộ</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br /><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span><span style=\"color: #454545; font-weight: 400;\"> Trong câu hỏi, cụm từ <em>\"have to\"</em> được theo sau bởi một động từ nguyên mẫu (bare infinitive) để diễn tả sự cần thiết hoặc nghĩa vụ. Vì vậy, vị trí cần điền phải là một động từ. Trong các lựa chọn, <em><strong>memorize</strong> </em>là động từ duy nhất phù hợp cả về ngữ pháp và ý nghĩa, có nghĩa là \"học thuộc lòng\" các từ mới.</span></span></p>",
+      "answerFeedbacks": {
+        "127169": "Phương án này sai vì <em>\"memory\"</em> là danh từ, không phù hợp để điền vào vị trí động từ sau <em>\"have to\"</em>.",
+        "127170": "Phương án này đúng vì <em>\"memorize\"</em> là động từ nguyên mẫu, phù hợp với cấu trúc <em>\"have to + V (nguyên mẫu)\"</em> và mang nghĩa là học thuộc lòng các từ mới.",
+        "127171": "Phương án này sai vì <em>\"memorial\"</em> là danh từ hoặc tính từ, không thể đứng ở vị trí động từ trong câu.",
+        "127172": "Phương án này sai vì <em>\"memo\"</em> là danh từ, không thể điền vào vị trí động từ sau <em>\"have to\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 18182,
+      "questionNumber": 11,
+      "questionName": "B.I.2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The film was _____ boring that she went home early.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 58192,
+          "label": "A",
+          "text": "too",
+          "isCorrect": false
+        },
+        {
+          "id": 58193,
+          "label": "B",
+          "text": "so",
+          "isCorrect": true
+        },
+        {
+          "id": 58194,
+          "label": "C",
+          "text": "such",
+          "isCorrect": false
+        },
+        {
+          "id": 58195,
+          "label": "D",
+          "text": "very",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 58193,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so ... that: <strong>S + to be + so + adj. + that + S ​+ V</strong>:<strong> </strong>qu&aacute;&hellip; đến nỗi m&agrave;&hellip;</span></p>\n<p>Dịch: Bộ phim n&agrave;y qu&aacute; nh&agrave;m ch&aacute;n đến nỗi m&agrave; c&ocirc; ấy đ&atilde; về nh&agrave; sớm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 48941,
+      "questionNumber": 12,
+      "questionName": "Question 14: ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>No one in my class is _____ beautiful _____ her.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 140426,
+          "label": "A",
+          "text": "as/as",
+          "isCorrect": true
+        },
+        {
+          "id": 140427,
+          "label": "B",
+          "text": "more/as",
+          "isCorrect": false
+        },
+        {
+          "id": 140428,
+          "label": "C",
+          "text": "as/than",
+          "isCorrect": false
+        },
+        {
+          "id": 140429,
+          "label": "D",
+          "text": "the/more",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 140426,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh ngang bằng: <strong>S + V + as + adj./adv. + as + Noun/Pronoun/S + V</strong></span></p>\n<p>Dịch: Kh&ocirc;ng ai trong lớp t&ocirc;i đẹp bằng c&ocirc; ấy.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 150798,
+      "questionNumber": 13,
+      "questionName": "16",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Robots are used ______ dangerous jobs in places where people cannot safely work.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 353182,
+          "label": "A",
+          "text": "do",
+          "isCorrect": false
+        },
+        {
+          "id": 353183,
+          "label": "B",
+          "text": "to do",
+          "isCorrect": true
+        },
+        {
+          "id": 353184,
+          "label": "C",
+          "text": "doing",
+          "isCorrect": false
+        },
+        {
+          "id": 353185,
+          "label": "D",
+          "text": "to doing",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 353183,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Xác định ý nghĩa của câu <em>\"Robots are used ______ dangerous jobs...\"</em> có nghĩa là robot được sử dụng <strong>với mục đích</strong> gì.</p>\n<p>Khi động từ <em>\"use\"</em> được sử dụng ở dạng bị động <em>\"be used\"</em> và diễn tả mục đích (<em>\"để làm gì\"</em>), chúng thường được theo sau bởi dạng động từ nào?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc chỉ mục đích với động từ nguyên thể</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả mục đích hoặc lý do của một hành động, thường trả lời cho câu hỏi \"để làm gì?\".</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + be used + to V(inf) + O: được sử dụng để làm gì</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, ngữ cảnh chỉ ra rằng robot được sử dụng với mục đích thực hiện các công việc nguy hiểm. Để diễn tả mục đích, chúng ta sử dụng cấu trúc <em>\"be used + to V(inf)\"</em>.</p>\n<p style=\"text-align: justify;\">Phương án <em>\"to do\"</em> là dạng động từ nguyên thể có <em>\"to\"</em> phù hợp với cấu trúc này, diễn đạt đúng mục đích sử dụng robot. Các phương án khác không đúng cấu trúc hoặc mang ý nghĩa khác biệt.</p>",
+      "answerFeedbacks": {
+        "353182": "Sai vì sau <em>\"be used\"</em> để chỉ mục đích, động từ phải ở dạng nguyên thể có <em>\"to\"</em> (<em>to-infinitive</em>).",
+        "353183": "Đúng vì <em>\"be used + to V(inf)\"</em> là cấu trúc chính xác để diễn tả mục đích (được dùng để làm gì).",
+        "353184": "Sai vì <em>\"be used to V-ing\"</em> có nghĩa là <em>\"quen với việc gì\"</em>, không phù hợp với ngữ cảnh robot được dùng để thực hiện công việc.",
+        "353185": "Sai vì đây là sự kết hợp không đúng ngữ pháp; không có cấu trúc <em>\"to doing\"</em> sau <em>\"be used\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 59964,
+      "questionNumber": 14,
+      "questionName": "Question 6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I wish the entrance examination _____ easier.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 161668,
+          "label": "A",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "id": 161669,
+          "label": "B",
+          "text": "are",
+          "isCorrect": false
+        },
+        {
+          "id": 161670,
+          "label": "C",
+          "text": "were",
+          "isCorrect": true
+        },
+        {
+          "id": 161671,
+          "label": "D",
+          "text": "can be",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 161670,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;u ước ở hiện tại: <strong>S + wish(es) + (that) + S + V(pt)</strong></p>\n<p>Lưu &yacute;: Động từ <strong>be</strong> được sử dụng ở dạng giải định c&aacute;ch, tức l&agrave; ta chia <strong>be =</strong> <strong>were </strong>với tất cả c&aacute;c chủ ngữ.</p>\n<p>Dịch: T&ocirc;i ước rằng kỳ thi tuyển sinh dễ d&agrave;ng hơn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 117224,
+      "questionNumber": 15,
+      "questionName": "Question 1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If you _____ a wallet in the street, what would you do with it? </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 278890,
+          "label": "A",
+          "text": "found",
+          "isCorrect": true
+        },
+        {
+          "id": 278891,
+          "label": "B",
+          "text": "have found",
+          "isCorrect": false
+        },
+        {
+          "id": 278892,
+          "label": "C",
+          "text": "find",
+          "isCorrect": false
+        },
+        {
+          "id": 278893,
+          "label": "D",
+          "text": "had found",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 278890,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;u điều kiện loại 2 diễn tả một giả thiết kh&ocirc;ng c&oacute; thực ở hiện tại.</p>\n<p>Cấu tr&uacute;c:&nbsp;<strong>If + S1 + V(pt), S2 + would/could + V(inf) + ...</strong></p>\n<p>Dịch: Nếu bạn nhặt được một chiếc v&iacute; tr&ecirc;n đường, bạn sẽ l&agrave;m g&igrave; với n&oacute;?&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 51298,
+      "questionNumber": 16,
+      "questionName": "Question 13:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>You should give up _____ or you will die of cancer.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 145139,
+          "label": "A",
+          "text": "smoke",
+          "isCorrect": false
+        },
+        {
+          "id": 145140,
+          "label": "B",
+          "text": "to smoke",
+          "isCorrect": false
+        },
+        {
+          "id": 145141,
+          "label": "C",
+          "text": "smoking",
+          "isCorrect": true
+        },
+        {
+          "id": 145142,
+          "label": "D",
+          "text": "smoked",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 145141,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Động từ <em>give up</em> có nghĩa là \"từ bỏ\" hoặc \"ngừng làm gì\". Khi <em>give up</em> được dùng với một hành động khác, hành động đó cần ở dạng <em>nào?</em></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ theo sau bởi V-ing</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả hành động hoặc trạng thái theo sau động từ theo nhiều cách khác nhau, ở đây là chủ ngữ ngừng, từ bỏ, hoặc tránh làm.</p>\n<p style=\"text-align: justify;\"><strong>Một số động từ theo sau bởi V-ing:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">give up + V-ing:</span></strong> từ bỏ làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">enjoy + V-ing:</span></strong> thích thú làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">finish + V-ing:</span></strong> hoàn thành việc gì</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu hỏi, cụm động từ \"<em>give up</em>\" có nghĩa là \"từ bỏ\" và cần được theo sau bởi một động từ ở dạng V-ing (gerund) để chỉ hành động bị từ bỏ. Vì vậy, \"<em>smoking</em>\" là dạng đúng để điền vào chỗ trống, hoàn thành câu theo cấu trúc ngữ pháp chính xác. Các phương án còn lại đều là các dạng không phù hợp để theo sau ''<em>give up</em>''.</p>",
+      "answerFeedbacks": {
+        "145139": "Sai vì động từ \"give up\" phải theo sau bởi V-ing, không phải động từ nguyên thể.",
+        "145140": "Sai vì động từ \"give up\" phải theo sau bởi V-ing, không phải dạng to-V.",
+        "145141": "Đúng vì \"give up\" là một cụm động từ (phrasal verb) được theo sau bởi một gerund (V-ing) để chỉ hành động bị từ bỏ.",
+        "145142": "Sai vì động từ \"give up\" phải theo sau bởi V-ing, không phải dạng quá khứ đơn hay quá khứ phân từ."
+      },
+      "images": []
+    },
+    {
+      "id": 19534,
+      "questionNumber": 17,
+      "questionName": "Q20",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>- \"Can I carry these suitcases into the room for you?\" </strong></p>\n<p><strong>- \"_____\"</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 61377,
+          "label": "A",
+          "text": "<p>You can't, I think!</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 61378,
+          "label": "B",
+          "text": "<p>No, you can't.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 61379,
+          "label": "C",
+          "text": "<p>Yes, you can.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 61380,
+          "label": "D",
+          "text": "<p>Can you? That's very kind.</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 61380,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Câu hỏi yêu cầu bạn chọn lời đáp phù hợp cho một lời đề nghị giúp đỡ (<i>\"Can I carry these suitcases into the room for you?\"</i>).</p>\n<p>Hãy xem xét cách thể hiện sự chấp nhận hoặc từ chối một cách lịch sự và tự nhiên trong tiếng Anh.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời đầu tiên là một lời đề nghị giúp đỡ lịch sự.</p>\n<p style=\"text-align: justify;\">Phương án 4, <i>\"Can you? That's very kind.\"</i>, là câu trả lời phù hợp nhất vì nó không chỉ chấp nhận lời đề nghị mà còn thể hiện sự ngạc nhiên tích cực và lòng biết ơn, làm cho cuộc hội thoại trở nên tự nhiên và lịch sự.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2 và 3 không phù hợp với ngữ cảnh vì chúng thiếu đi sự lịch sự cần thiết khi chấp nhận hoặc từ chối một lời đề nghị giúp đỡ, khiến đoạn hội thoại trở nên cụt ngủn hoặc thô lỗ.</p>",
+      "answerFeedbacks": {
+        "61377": "<p>Câu trả lời này trực tiếp từ chối lời đề nghị một cách thiếu lịch sự và có thể gây hiểu lầm về khả năng của người đề nghị.</p>",
+        "61378": "<p>Câu trả lời này từ chối lời đề nghị một cách thẳng thừng và thô lỗ, không phù hợp với tình huống giao tiếp lịch sự.</p>",
+        "61379": "<p>Câu trả lời này chấp nhận lời đề nghị nhưng nghe cụt ngủn và không thể hiện sự cảm kích, làm cho cuộc trò chuyện thiếu tự nhiên.</p>",
+        "61380": "<p>Câu trả lời này chấp nhận lời đề nghị một cách lịch sự và thể hiện rõ sự biết ơn, là phản hồi tự nhiên và phù hợp nhất trong ngữ cảnh này.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 141708,
+      "questionNumber": 18,
+      "questionName": "20",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Peter: \"I’ve passed my driving test.\"</strong></p>\n<p><strong>Amy: \"_____\"</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 333634,
+          "label": "A",
+          "text": "<p>That’s a good idea.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 333635,
+          "label": "B",
+          "text": "<p>Congratulations!</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 333636,
+          "label": "C",
+          "text": "<p>It’s nice of you to say so.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 333637,
+          "label": "D",
+          "text": "<p>Do you?</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 333635,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Học sinh cần xác định mục đích giao tiếp của lời nói cần đáp lại. Câu \"<em>I’ve passed my driving test.</em>\" là một thông báo tin vui.</p>\n<p>Hãy tìm câu đáp thể hiện sự chúc mừng hoặc chia sẻ niềm vui.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lòi của Peter \"<em>I’ve passed my driving test.</em>\" (Tôi đã đỗ bài thi lái xe.) là một thông báo về tin vui hoặc thành công. Để đáp lại một tin vui như vậy, cần một lời chúc mừng hoặc động viên.</p>\n<p style=\"text-align: justify;\">Phương án 2, \"<em>Congratulations!</em>\" (Chúc mừng!), là lời đáp phù hợp nhất vì nó thể hiện sự chia sẻ niềm vui và chúc mừng thành công của người nói.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 3 và 4 đều không phù hợp với ngữ cảnh vì chúng được dùng trong các tình huống giao tiếp khác.</p>",
+      "answerFeedbacks": {
+        "333634": "<p>Cụm từ này dùng để đồng tình với một ý kiến hoặc đề xuất, không phù hợp để chúc mừng.</p>",
+        "333635": "<p>Đây là lời chúc mừng phổ biến và phù hợp khi ai đó đạt được thành công hoặc vượt qua một kỳ thi.</p>",
+        "333636": "<p>Cụm từ này dùng để đáp lại lời khen hoặc lời cảm ơn, không phù hợp để chúc mừng.</p>",
+        "333637": "<p>Cụm từ này dùng để thể hiện sự ngạc nhiên hoặc xác nhận thông tin, không phù hợp trong ngữ cảnh chúc mừng.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 113892,
+      "questionNumber": 19,
+      "questionName": "well-off",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>She was brought up in a <u>well-off</u> family. She can't understand the problems we are facing.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 271764,
+          "label": "A",
+          "text": "poor",
+          "isCorrect": false
+        },
+        {
+          "id": 271765,
+          "label": "B",
+          "text": "wealthy",
+          "isCorrect": true
+        },
+        {
+          "id": 271766,
+          "label": "C",
+          "text": "broke",
+          "isCorrect": false
+        },
+        {
+          "id": 271767,
+          "label": "D",
+          "text": "kind",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 271765,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2F7wSFrGF41QuDHYACV8sWP8p8qGR5qAU81FcXus9fupf0aDB8aXuS3bbTDEK0Np%2Bn4g6DeK9ml7EHzuUfZc%2BYUS9JLUU%2FyrHBB6tJNdhMK68NmigpRA6TkVXSq9hW7EWWoHqaIHLipI2yTwUWWSOPNk1yKUnovrq0BUnA0LT0uDtazGmVSvFbtjvE%2BLVRr5%2FFm1qDFptTN5l%2Bt4vV1yDPuNcY9i1FR523F3htwM6UcziUirHdlUccDNQodIvBKtMBCCHj8fquMXIf62eP9kOzXgcR5p6mXdooXWCh6lG9h0cQ0QaWryE1SUmGfhg2EiIjuSjfLJ2qaSVdqgLDNrHSGcKgJd2MkAm89QgztRwCH%2Fma5As%2BBN4Fz\" width=\"380\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: C&ocirc; ấy được nu&ocirc;i dưỡng trong một gia đ&igrave;nh gi&agrave;u c&oacute;. C&ocirc; ấy kh&ocirc;ng thể hiểu được những vấn đề ch&uacute;ng ta đang phải đối mặt.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 108420,
+      "questionNumber": 20,
+      "questionName": "with flying colors",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) which is CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>He passed his exams <u>with flying colors<u>.</u></u></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 257215,
+          "label": "A",
+          "text": "badly",
+          "isCorrect": false
+        },
+        {
+          "id": 257216,
+          "label": "B",
+          "text": "successfully",
+          "isCorrect": true
+        },
+        {
+          "id": 257217,
+          "label": "C",
+          "text": "difficulty",
+          "isCorrect": false
+        },
+        {
+          "id": 257218,
+          "label": "D",
+          "text": "easily",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 257216,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>(to pass&hellip;)</strong> <strong>with flying colors: </strong>(đỗ&hellip;) với th&agrave;nh t&iacute;ch tốt ~ <strong>successfully</strong> (adv.): một c&aacute;ch th&agrave;nh c&ocirc;ng</p>\n<p>badly (adv.): một c&aacute;ch tồi tệ</p>\n<p>difficulty (n.): sự kh&oacute; khăn</p>\n<p>easily (adv.): một c&aacute;ch dễ d&agrave;ng</p>\n<p>Dịch: Anh ấy ấy đ&atilde; vượt qua c&aacute;c c&aacute;c k&igrave; thi với th&agrave;nh t&iacute;ch tốt.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 62842,
+      "questionNumber": 21,
+      "questionName": "Question 27:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Choose the word(s) OPPOSITE in meaning to the underlined word(s).</span></em></p>\n<p><strong>Many people are <u>destroying</u> large areas of tropical rainforests.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 168740,
+          "label": "A",
+          "text": "cutting",
+          "isCorrect": false
+        },
+        {
+          "id": 168741,
+          "label": "B",
+          "text": "damaging",
+          "isCorrect": false
+        },
+        {
+          "id": 168742,
+          "label": "C",
+          "text": "raising",
+          "isCorrect": false
+        },
+        {
+          "id": 168743,
+          "label": "D",
+          "text": "protecting",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 168743,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px; height: 360px;\"><iframe id=\"embed-frame-40A85\" style=\"border: none;\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2FF1LDa%2FpSFgpVSHqzJUg5SzellVxtWmd0kWBCi%2F2yTat1ESspWvbZdA45KRM66Blxy4Fl6yER7rAbvGrPmaU%2BVUItePbKoKcAvom8kDSSjZtkOHglOPs21uIw93fmrSm5ZBAtHOL%2Fh4Nrwvy5kGxvvtrSfARGxBU2zgnq5pZfIPh6E65iCHoEL5GUC86%2FDcPxJLSux8gqdbLEc2bDnJ8%2BFL3BZu%2FewUEyebhpFTWeduZ33BbkU7XC6kdmP9q3NaJx8heVU5nLMNPuXvYyiE7HKqM2ccl6Q%2BMFqvxRdAjTmF%2BeRZLynu8YOrYihdGnZWz17wsDsZVrU3an3Wo315EaDvelnH3OklNs4V%2FMQJEeLSTqlpe5mQIW5zS9%2Bt3RXbHoDfI84cZA7wJi7cSLFf5OPJl%2FDKKb7a8ljwEiMUEkNQ087pDiuRJ51\" width=\"100%\" height=\"360\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Nhiều người đang ph&aacute; hủy nhiều khu vực rừng mưa nhiệt đới rộng lớn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 46000,
+      "questionNumber": 22,
+      "questionName": "Q 21",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong><u>Fresh</u> water is very important to live because no one can live without it.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 133721,
+          "label": "A",
+          "text": "Clean",
+          "isCorrect": false
+        },
+        {
+          "id": 133722,
+          "label": "B",
+          "text": "Drinkable",
+          "isCorrect": false
+        },
+        {
+          "id": 133723,
+          "label": "C",
+          "text": "Polluted",
+          "isCorrect": true
+        },
+        {
+          "id": 133724,
+          "label": "D",
+          "text": "Running",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 133723,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2Bxm%2FsbaxKYQyAMv1Cc76IuYKsuBL%2FumfcI4%2FwO70xR%2F01yYzjZz9v2NgUjYftRxBL%2FsVmdhhJfYIobqX6vA5e06POGaCuYhqbdE8Bo0dafxDcY%2BeeJ16VcJf50Xekx9CbYlBiSxaPuQ1yLtBG8ItKOn16nVqBD9qZ1mR%2BR7G%2FdLyC7eupRn67%2Fc4UBnDCFKV6eo%2BpXYgqyiP6MH2lQXTtSgym5fwo3vuyvXdn9EF8AMb0AcpnibIbSPZtIagUXvGtj8%2F9wTdksKNxMhHvL96JEgwLDr7dL7vubxZP9J5WsSj8uWdW%2F6xYPekrVnWcd1RCvaMpCmEpzysRAvXk%2B4%2FIOwUBlemgzGpsFLByaKRG%2FeDkVH2AnA0v%2F\" width=\"100%\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Nước sạch rất quan trọng bởi v&igrave; kh&ocirc;ng ai c&oacute; thể sống m&agrave; kh&ocirc;ng c&oacute; n&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 34594,
+      "questionNumber": 23,
+      "questionName": "VIII",
+      "questionType": "Description",
+      "questionText": "<p><strong>Read the text and choose the best answer to fill in the blanks.</strong></p>\n<p>There&rsquo;s much more water than land on the (23) _____ of the earth. The seas and oceans cover nearly (24) _____ of the whole world and only one-fifth of it is land. If you traveled over the earth in different directions, you would have to spend much more of your time moving on the water than on roads or railways. We sometimes forget that for every mile of land there are four miles of water.</p>\n<p>There&rsquo;s so (25) _____ water on the surface of our earth that we (26) _____ to use two words to describe. We use the word SEAS to describe those parts of water surface which are only a few hundreds of miles wide, the word OCEANS to describe the huge areas of water (27) _____ are thousands of miles wide and very deep.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 34595,
+      "questionNumber": 24,
+      "questionName": "Question 23:  ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the correct answer for (23).</strong></p>",
+      "passageText": "<p><strong>Read the text and choose the best answer to fill in the blanks.</strong></p>\n<p>There&rsquo;s much more water than land on the (23) _____ of the earth. The seas and oceans cover nearly (24) _____ of the whole world and only one-fifth of it is land. If you traveled over the earth in different directions, you would have to spend much more of your time moving on the water than on roads or railways. We sometimes forget that for every mile of land there are four miles of water.</p>\n<p>There&rsquo;s so (25) _____ water on the surface of our earth that we (26) _____ to use two words to describe. We use the word SEAS to describe those parts of water surface which are only a few hundreds of miles wide, the word OCEANS to describe the huge areas of water (27) _____ are thousands of miles wide and very deep.</p>",
+      "parentQuestionId": 34594,
+      "choices": [
+        {
+          "id": 106843,
+          "label": "A",
+          "text": "surface",
+          "isCorrect": true
+        },
+        {
+          "id": 106844,
+          "label": "B",
+          "text": "outer",
+          "isCorrect": false
+        },
+        {
+          "id": 106845,
+          "label": "C",
+          "text": "outside",
+          "isCorrect": false
+        },
+        {
+          "id": 106858,
+          "label": "D",
+          "text": "cover",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 106843,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>surface </strong>(n.): bề mặt</p>\n<p>outer (n.): v&ograve;ng ngo&agrave;i c&ugrave;ng</p>\n<p>outside (n.): bề ngo&agrave;i, b&ecirc;n ngo&agrave;i</p>\n<p>cover (n.): vỏ, vỏ bọc, b&igrave;a</p>\n<p>\"There&rsquo;s much more water than land on the <strong><u>surface</u> </strong>of the earth.\"</p>\n<p>C&oacute; nhiều nước hơn đất tr&ecirc;n <strong><span style=\"text-decoration: underline;\">bề mặt</span></strong> tr&aacute;i đất.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 34596,
+      "questionNumber": 25,
+      "questionName": "Question 24:  ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the correct answer for (24).</strong></p>",
+      "passageText": "<p><strong>Read the text and choose the best answer to fill in the blanks.</strong></p>\n<p>There&rsquo;s much more water than land on the (23) _____ of the earth. The seas and oceans cover nearly (24) _____ of the whole world and only one-fifth of it is land. If you traveled over the earth in different directions, you would have to spend much more of your time moving on the water than on roads or railways. We sometimes forget that for every mile of land there are four miles of water.</p>\n<p>There&rsquo;s so (25) _____ water on the surface of our earth that we (26) _____ to use two words to describe. We use the word SEAS to describe those parts of water surface which are only a few hundreds of miles wide, the word OCEANS to describe the huge areas of water (27) _____ are thousands of miles wide and very deep.</p>",
+      "parentQuestionId": 34594,
+      "choices": [
+        {
+          "id": 106846,
+          "label": "A",
+          "text": "fourth-five",
+          "isCorrect": false
+        },
+        {
+          "id": 106847,
+          "label": "B",
+          "text": "four fifth",
+          "isCorrect": false
+        },
+        {
+          "id": 106848,
+          "label": "C",
+          "text": "four-fifths",
+          "isCorrect": true
+        },
+        {
+          "id": 106859,
+          "label": "D",
+          "text": "four-five",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 106848,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&aacute;ch đọc ph&acirc;n số:</p>\n<p>- Tử số đọc theo số đếm one, two, three, four, five&hellip;.</p>\n<p>-&nbsp; Mẫu số:&nbsp;C&oacute; hai trường hợp:</p>\n<p>+ Nếu tử số l&agrave; số c&oacute; một chữ số v&agrave; mẫu số l&agrave; số c&oacute; 2 chữ số trở xuống</p>\n<p>=&gt; mẫu số d&ugrave;ng số thứ tự (nếu tử số lớn hơn 1 th&igrave; th&ecirc;m \"<strong>-s</strong>\" v&agrave;o mẫu số)</p>\n<p><strong>4/5: four-fifths</strong></p>\n<p>+ Nếu tử số l&agrave; số hai chữ số trở l&ecirc;n hoặc mẫu số l&agrave; số c&oacute; 3 chữ số trở l&ecirc;n th&igrave; mẫu số sẽ được viết từng chữ một v&agrave; d&ugrave;ng số đếm, giữa tử số v&agrave; mẫu số c&oacute; chữ \"<strong>over</strong>\".</p>\n<p>- 3/462 = three <strong>over </strong>four six two</p>\n<p>- 22/16 : twenty-two <strong>over </strong>one six (tử số c&oacute; 2 chữ số)</p>\n<p>\"The seas and oceans cover nearly <strong><span style=\"text-decoration: underline;\">four-fifths</span></strong> of the whole world and only one-fifth of its island.\"</p>\n<p>Biến v&agrave; đại dương che phủ gần <strong>4/5</strong> to&agrave;n bộ Tr&aacute;i đất v&agrave; chỉ 1/5 đảo của n&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 34597,
+      "questionNumber": 26,
+      "questionName": "Question 25: ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the correct answer for (25).</strong></p>",
+      "passageText": "<p><strong>Read the text and choose the best answer to fill in the blanks.</strong></p>\n<p>There&rsquo;s much more water than land on the (23) _____ of the earth. The seas and oceans cover nearly (24) _____ of the whole world and only one-fifth of it is land. If you traveled over the earth in different directions, you would have to spend much more of your time moving on the water than on roads or railways. We sometimes forget that for every mile of land there are four miles of water.</p>\n<p>There&rsquo;s so (25) _____ water on the surface of our earth that we (26) _____ to use two words to describe. We use the word SEAS to describe those parts of water surface which are only a few hundreds of miles wide, the word OCEANS to describe the huge areas of water (27) _____ are thousands of miles wide and very deep.</p>",
+      "parentQuestionId": 34594,
+      "choices": [
+        {
+          "id": 106849,
+          "label": "A",
+          "text": "much",
+          "isCorrect": true
+        },
+        {
+          "id": 106850,
+          "label": "B",
+          "text": "few",
+          "isCorrect": false
+        },
+        {
+          "id": 106851,
+          "label": "C",
+          "text": "too",
+          "isCorrect": false
+        },
+        {
+          "id": 106860,
+          "label": "D",
+          "text": "many",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 106849,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>much</strong>: nhiều - d&ugrave;ng với danh từ kh&ocirc;ng đếm được</p>\n<p><strong>water: danh từ kh&ocirc;ng đếm được</strong></p>\n<p>too: qu&aacute; - đứng trước t&iacute;nh từ/trạng từ</p>\n<p>few: v&agrave;i - d&ugrave;ng với danh từ đếm được</p>\n<p>many: nhiều -&nbsp;d&ugrave;ng với danh từ đếm được</p>\n<p>\"There&rsquo;s so <strong><span style=\"text-decoration: underline;\">much</span> </strong>water on the surface of our earth ...\"</p>\n<p>C&oacute; rất <strong><span style=\"text-decoration: underline;\">nhiều</span></strong> nước tr&ecirc;n bề mặt Tr&aacute;i đất ...</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 34598,
+      "questionNumber": 27,
+      "questionName": "Question 26:  ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the correct answer for (26).</strong></p>",
+      "passageText": "<p><strong>Read the text and choose the best answer to fill in the blanks.</strong></p>\n<p>There&rsquo;s much more water than land on the (23) _____ of the earth. The seas and oceans cover nearly (24) _____ of the whole world and only one-fifth of it is land. If you traveled over the earth in different directions, you would have to spend much more of your time moving on the water than on roads or railways. We sometimes forget that for every mile of land there are four miles of water.</p>\n<p>There&rsquo;s so (25) _____ water on the surface of our earth that we (26) _____ to use two words to describe. We use the word SEAS to describe those parts of water surface which are only a few hundreds of miles wide, the word OCEANS to describe the huge areas of water (27) _____ are thousands of miles wide and very deep.</p>",
+      "parentQuestionId": 34594,
+      "choices": [
+        {
+          "id": 106852,
+          "label": "A",
+          "text": "should",
+          "isCorrect": false
+        },
+        {
+          "id": 106853,
+          "label": "B",
+          "text": "have",
+          "isCorrect": true
+        },
+        {
+          "id": 106854,
+          "label": "C",
+          "text": "would",
+          "isCorrect": false
+        },
+        {
+          "id": 106861,
+          "label": "D",
+          "text": "must",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 106853,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Động từ khuyết thiếu<strong>: </strong></p>\n<p><strong>- have to + V(inf)</strong>: phải l&agrave;m g&igrave;</p>\n<p>- should/ would/ must + V(inf)</p>\n<p>\"... we <strong><span style=\"text-decoration: underline;\">have to</span></strong> use two words to describe.\"</p>\n<p>... ch&uacute;ng ta <strong><span style=\"text-decoration: underline;\">phải</span></strong> sử dụng 2 từ để mi&ecirc;u tả.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 34599,
+      "questionNumber": 28,
+      "questionName": "Question 27:  ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the correct answer for (27)</strong></p>",
+      "passageText": "<p><strong>Read the text and choose the best answer to fill in the blanks.</strong></p>\n<p>There&rsquo;s much more water than land on the (23) _____ of the earth. The seas and oceans cover nearly (24) _____ of the whole world and only one-fifth of it is land. If you traveled over the earth in different directions, you would have to spend much more of your time moving on the water than on roads or railways. We sometimes forget that for every mile of land there are four miles of water.</p>\n<p>There&rsquo;s so (25) _____ water on the surface of our earth that we (26) _____ to use two words to describe. We use the word SEAS to describe those parts of water surface which are only a few hundreds of miles wide, the word OCEANS to describe the huge areas of water (27) _____ are thousands of miles wide and very deep.</p>",
+      "parentQuestionId": 34594,
+      "choices": [
+        {
+          "id": 106855,
+          "label": "A",
+          "text": "which",
+          "isCorrect": true
+        },
+        {
+          "id": 106856,
+          "label": "B",
+          "text": "where",
+          "isCorrect": false
+        },
+        {
+          "id": 106857,
+          "label": "C",
+          "text": "whose",
+          "isCorrect": false
+        },
+        {
+          "id": 106862,
+          "label": "D",
+          "text": "that’s",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 106855,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>which</strong>: c&aacute;i m&agrave; - d&ugrave;ng thay thế cho danh từ chỉ vật \"<strong>the huge areas of water</strong>\" (những v&ugrave;ng nước rộng lớn m&ecirc;nh m&ocirc;ng)</p>\n<p>where: nơi m&agrave;</p>\n<p>whose: người m&agrave; c&oacute;</p>\n<p>that's: c&aacute;i/người m&agrave; ...</p>\n<p>\"... the word OCEANS to describe the huge areas of water <strong><span style=\"text-decoration: underline;\">which</span> </strong>are thousands of miles wide and very deep.\"</p>\n<p>... từ OCEANS để m&ocirc; tả những khu vực rộng nước rộng lớn <strong><span style=\"text-decoration: underline;\">c&aacute;i m&agrave;</span></strong> rộng h&agrave;ng ngh&igrave;n dặm v&agrave; rất s&acirc;u.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 45475,
+      "questionNumber": 29,
+      "questionName": "Q28-32(247w)",
+      "questionType": "Description",
+      "questionText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">Humans have a long history of eating insects, and it turns out that they can be a very nutritious part of a person&#8217;s regular diet. <span class=\"answerhighlight q28\">Insects have a lot of protein, and they are often easier to catch than prey animals.</span> Therefore, it is no wonder that when our ancient ancestors saw some tasty worms or grubs wiggling on the ground, they made a quick snack of them.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">In Thailand, insects are a regular part of the street food that can be found.</span> <span class=\"answerhighlight q30\">The different insects that people snack on are crickets, grasshoppers, giant water bugs, and assorted worms.</span> <span class=\"answerhighlight q29\">They are often deep-fried and salted, so they have a crunchy texture that makes them a perfect snack food.</span> If you can get past the fact that you are eating a cricket, it will crunch in your mouth just like a corn chip!</p>\n<p style=\"text-align: justify;\">For a lot of people, however, it is difficult to get over the fear of eating insects. People tend to see insects as invaders, especially when they are crawling on the food that we are about to eat. Therefore, being able to eat insects without feeling disgusted is cultural. Some people cannot eat French cheese or stinky tofu because they weren&#8217;t brought up doing so. To many of us, insects fall right into that category, making it difficult to even try them. <span class=\"answerhighlight q32\">If given the chance, though, be courageous. Insects can be nutritious and tasty, so long as you can get over the &#8220;yuck&#8221; factor.</span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 45476,
+      "questionNumber": 30,
+      "questionName": "Q 28. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Which is the reason given for gathering and eating insects? <b></b></b>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">Humans have a long history of eating insects, and it turns out that they can be a very nutritious part of a person&#8217;s regular diet. <span class=\"answerhighlight q28\">Insects have a lot of protein, and they are often easier to catch than prey animals.</span> Therefore, it is no wonder that when our ancient ancestors saw some tasty worms or grubs wiggling on the ground, they made a quick snack of them.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">In Thailand, insects are a regular part of the street food that can be found.</span> <span class=\"answerhighlight q30\">The different insects that people snack on are crickets, grasshoppers, giant water bugs, and assorted worms.</span> <span class=\"answerhighlight q29\">They are often deep-fried and salted, so they have a crunchy texture that makes them a perfect snack food.</span> If you can get past the fact that you are eating a cricket, it will crunch in your mouth just like a corn chip!</p>\n<p style=\"text-align: justify;\">For a lot of people, however, it is difficult to get over the fear of eating insects. People tend to see insects as invaders, especially when they are crawling on the food that we are about to eat. Therefore, being able to eat insects without feeling disgusted is cultural. Some people cannot eat French cheese or stinky tofu because they weren&#8217;t brought up doing so. To many of us, insects fall right into that category, making it difficult to even try them. <span class=\"answerhighlight q32\">If given the chance, though, be courageous. Insects can be nutritious and tasty, so long as you can get over the &#8220;yuck&#8221; factor.</span></p>",
+      "parentQuestionId": 45475,
+      "choices": [
+        {
+          "id": 132095,
+          "label": "A",
+          "text": "They are very easy to find close to the home.",
+          "isCorrect": false
+        },
+        {
+          "id": 132096,
+          "label": "B",
+          "text": "They are more nutritious than most vegetables.",
+          "isCorrect": false
+        },
+        {
+          "id": 132097,
+          "label": "C",
+          "text": "They come in all shapes and sizes.",
+          "isCorrect": false
+        },
+        {
+          "id": 132098,
+          "label": "D",
+          "text": "They are easier to catch than other prey animals.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 132098,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&ocirc;n tr&ugrave;ng c&oacute; rất nhiều protein v&agrave; ch&uacute;ng thường dễ bắt hơn c&aacute;c con mồi kh&aacute;c.&nbsp;</p>\n<p>=&gt; L&yacute; do bắt v&agrave; ăn c&ocirc;n tr&ugrave;ng l&agrave; ch&uacute;ng thường dễ bắt hơn c&aacute;c con mồi kh&aacute;c.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 45477,
+      "questionNumber": 31,
+      "questionName": "Q 29. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Why are deep-fried insects considered a perfect snack food? <b></b></b>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">Humans have a long history of eating insects, and it turns out that they can be a very nutritious part of a person&#8217;s regular diet. <span class=\"answerhighlight q28\">Insects have a lot of protein, and they are often easier to catch than prey animals.</span> Therefore, it is no wonder that when our ancient ancestors saw some tasty worms or grubs wiggling on the ground, they made a quick snack of them.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">In Thailand, insects are a regular part of the street food that can be found.</span> <span class=\"answerhighlight q30\">The different insects that people snack on are crickets, grasshoppers, giant water bugs, and assorted worms.</span> <span class=\"answerhighlight q29\">They are often deep-fried and salted, so they have a crunchy texture that makes them a perfect snack food.</span> If you can get past the fact that you are eating a cricket, it will crunch in your mouth just like a corn chip!</p>\n<p style=\"text-align: justify;\">For a lot of people, however, it is difficult to get over the fear of eating insects. People tend to see insects as invaders, especially when they are crawling on the food that we are about to eat. Therefore, being able to eat insects without feeling disgusted is cultural. Some people cannot eat French cheese or stinky tofu because they weren&#8217;t brought up doing so. To many of us, insects fall right into that category, making it difficult to even try them. <span class=\"answerhighlight q32\">If given the chance, though, be courageous. Insects can be nutritious and tasty, so long as you can get over the &#8220;yuck&#8221; factor.</span></p>",
+      "parentQuestionId": 45475,
+      "choices": [
+        {
+          "id": 132099,
+          "label": "A",
+          "text": "Because they taste exactly like corn chips.",
+          "isCorrect": false
+        },
+        {
+          "id": 132100,
+          "label": "B",
+          "text": "Because they don’t fill you up.",
+          "isCorrect": false
+        },
+        {
+          "id": 132101,
+          "label": "C",
+          "text": "Because they have a crunchy texture.",
+          "isCorrect": true
+        },
+        {
+          "id": 132102,
+          "label": "D",
+          "text": "Because they are not expensive.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 132101,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Ch&uacute;ng thường được chi&ecirc;n gi&ograve;n v&agrave; ướp muối, v&igrave; vậy ch&uacute;ng c&oacute; kết cấu gi&ograve;n khiến ch&uacute;ng trở th&agrave;nh một m&oacute;n ăn nhẹ ho&agrave;n hảo.</p>\n<p>=&gt; C&ocirc;n tr&ugrave;ng chi&ecirc;n gi&ograve;n được coi l&agrave; m&oacute;n ăn vặt ho&agrave;n hảo v&igrave; ch&uacute;ng c&oacute; kết cấu gi&ograve;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 45478,
+      "questionNumber": 32,
+      "questionName": "Q 30. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Which insects are NOT mentioned in the passage? </strong></p>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">Humans have a long history of eating insects, and it turns out that they can be a very nutritious part of a person&#8217;s regular diet. <span class=\"answerhighlight q28\">Insects have a lot of protein, and they are often easier to catch than prey animals.</span> Therefore, it is no wonder that when our ancient ancestors saw some tasty worms or grubs wiggling on the ground, they made a quick snack of them.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">In Thailand, insects are a regular part of the street food that can be found.</span> <span class=\"answerhighlight q30\">The different insects that people snack on are crickets, grasshoppers, giant water bugs, and assorted worms.</span> <span class=\"answerhighlight q29\">They are often deep-fried and salted, so they have a crunchy texture that makes them a perfect snack food.</span> If you can get past the fact that you are eating a cricket, it will crunch in your mouth just like a corn chip!</p>\n<p style=\"text-align: justify;\">For a lot of people, however, it is difficult to get over the fear of eating insects. People tend to see insects as invaders, especially when they are crawling on the food that we are about to eat. Therefore, being able to eat insects without feeling disgusted is cultural. Some people cannot eat French cheese or stinky tofu because they weren&#8217;t brought up doing so. To many of us, insects fall right into that category, making it difficult to even try them. <span class=\"answerhighlight q32\">If given the chance, though, be courageous. Insects can be nutritious and tasty, so long as you can get over the &#8220;yuck&#8221; factor.</span></p>",
+      "parentQuestionId": 45475,
+      "choices": [
+        {
+          "id": 132103,
+          "label": "A",
+          "text": "Water bugs",
+          "isCorrect": false
+        },
+        {
+          "id": 132104,
+          "label": "B",
+          "text": "Grasshoppers",
+          "isCorrect": false
+        },
+        {
+          "id": 132105,
+          "label": "C",
+          "text": "Beetles",
+          "isCorrect": true
+        },
+        {
+          "id": 132106,
+          "label": "D",
+          "text": "Crickets",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 132105,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&aacute;c loại c&ocirc;n tr&ugrave;ng kh&aacute;c nhau m&agrave; mọi người d&ugrave;ng để ăn vặt l&agrave; dế, ch&acirc;u chấu, bọ nước khổng lồ v&agrave; c&aacute;c loại s&acirc;u.</p>\n<p>=&gt; Bọ c&aacute;nh cứng kh&ocirc;ng được nhắc tới trong b&agrave;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 45479,
+      "questionNumber": 33,
+      "questionName": "Q 31. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Where are insects a regular part of the street food? <b></b></b>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">Humans have a long history of eating insects, and it turns out that they can be a very nutritious part of a person&#8217;s regular diet. <span class=\"answerhighlight q28\">Insects have a lot of protein, and they are often easier to catch than prey animals.</span> Therefore, it is no wonder that when our ancient ancestors saw some tasty worms or grubs wiggling on the ground, they made a quick snack of them.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">In Thailand, insects are a regular part of the street food that can be found.</span> <span class=\"answerhighlight q30\">The different insects that people snack on are crickets, grasshoppers, giant water bugs, and assorted worms.</span> <span class=\"answerhighlight q29\">They are often deep-fried and salted, so they have a crunchy texture that makes them a perfect snack food.</span> If you can get past the fact that you are eating a cricket, it will crunch in your mouth just like a corn chip!</p>\n<p style=\"text-align: justify;\">For a lot of people, however, it is difficult to get over the fear of eating insects. People tend to see insects as invaders, especially when they are crawling on the food that we are about to eat. Therefore, being able to eat insects without feeling disgusted is cultural. Some people cannot eat French cheese or stinky tofu because they weren&#8217;t brought up doing so. To many of us, insects fall right into that category, making it difficult to even try them. <span class=\"answerhighlight q32\">If given the chance, though, be courageous. Insects can be nutritious and tasty, so long as you can get over the &#8220;yuck&#8221; factor.</span></p>",
+      "parentQuestionId": 45475,
+      "choices": [
+        {
+          "id": 132107,
+          "label": "A",
+          "text": "France",
+          "isCorrect": false
+        },
+        {
+          "id": 132108,
+          "label": "B",
+          "text": "Thailand",
+          "isCorrect": true
+        },
+        {
+          "id": 132109,
+          "label": "C",
+          "text": "Britain",
+          "isCorrect": false
+        },
+        {
+          "id": 132110,
+          "label": "D",
+          "text": "Vietnam",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 132108,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Ở Th&aacute;i Lan, c&ocirc;n tr&ugrave;ng l&agrave; một m&oacute;n ăn đường phố phổ biến.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 172759,
+      "questionNumber": 34,
+      "questionName": "qmain",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Which one best describes the main idea of the passage?</strong></p>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">Humans have a long history of eating insects, and it turns out that they can be a very nutritious part of a person&#8217;s regular diet. <span class=\"answerhighlight q28\">Insects have a lot of protein, and they are often easier to catch than prey animals.</span> Therefore, it is no wonder that when our ancient ancestors saw some tasty worms or grubs wiggling on the ground, they made a quick snack of them.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">In Thailand, insects are a regular part of the street food that can be found.</span> <span class=\"answerhighlight q30\">The different insects that people snack on are crickets, grasshoppers, giant water bugs, and assorted worms.</span> <span class=\"answerhighlight q29\">They are often deep-fried and salted, so they have a crunchy texture that makes them a perfect snack food.</span> If you can get past the fact that you are eating a cricket, it will crunch in your mouth just like a corn chip!</p>\n<p style=\"text-align: justify;\">For a lot of people, however, it is difficult to get over the fear of eating insects. People tend to see insects as invaders, especially when they are crawling on the food that we are about to eat. Therefore, being able to eat insects without feeling disgusted is cultural. Some people cannot eat French cheese or stinky tofu because they weren&#8217;t brought up doing so. To many of us, insects fall right into that category, making it difficult to even try them. <span class=\"answerhighlight q32\">If given the chance, though, be courageous. Insects can be nutritious and tasty, so long as you can get over the &#8220;yuck&#8221; factor.</span></p>",
+      "parentQuestionId": 45475,
+      "choices": [
+        {
+          "id": 397943,
+          "label": "A",
+          "text": "The fear of eating insects",
+          "isCorrect": false
+        },
+        {
+          "id": 397944,
+          "label": "B",
+          "text": "The eating of insects",
+          "isCorrect": true
+        },
+        {
+          "id": 397945,
+          "label": "C",
+          "text": "Eating insect - Thailand unique fast-food",
+          "isCorrect": false
+        },
+        {
+          "id": 397946,
+          "label": "D",
+          "text": "Nutrition of insect",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 397944,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>&Yacute; ch&iacute;nh của c&aacute;c đoạn trong b&agrave;i:&nbsp;</p>\n<p>- Đoạn 1 n&oacute;i về việc ăn c&ocirc;n tr&ugrave;ng đ&atilde; c&oacute; từ l&acirc;u v&agrave; tại sao tổ ti&ecirc;n ch&uacute;ng ta lại ăn ch&uacute;ng.&nbsp;</p>\n<p>- Đoạn 2 n&oacute;i về một số loại c&ocirc;n tr&ugrave;ng m&agrave; con người ăn v&agrave; c&aacute;ch ch&uacute;ng được chế biến.</p>\n<p>- Đoạn 3 n&oacute;i về việc nhiều người cảm thấy rất kh&oacute; khăn để thử ăn c&ocirc;n tr&ugrave;ng.&nbsp;</p>\n<p>=&gt; B&agrave;i viết n&oacute;i về việc ăn c&ocirc;n tr&ugrave;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 176565,
+      "questionNumber": 35,
+      "questionName": "Question 23:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>My brother is taller than any student in his class.</strong></p>\n<div style=\"position: absolute; left: -99px; top: -12px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 405048,
+          "label": "A",
+          "text": "My brother is the taller student in his class.",
+          "isCorrect": false
+        },
+        {
+          "id": 405049,
+          "label": "B",
+          "text": "My brother is the tallest student in his class.",
+          "isCorrect": true
+        },
+        {
+          "id": 405050,
+          "label": "C",
+          "text": "My brother is the most tall student in his class.",
+          "isCorrect": false
+        },
+        {
+          "id": 405051,
+          "label": "D",
+          "text": "My brother is the most tallest student in his class.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 405049,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;́u trúc so s&aacute;nh nhất với t&iacute;nh từ ngắn: <span style=\"font-weight: 400;\"><strong>S + to be + the + adj. + est + Noun/Pronoun.</strong></span></p>\n<p>Dịch: Em trai t&ocirc;i cao hơn bất kỳ học sinh n&agrave;o trong lớp.</p>\n<p>~ Em trai t&ocirc;i l&agrave; học sinh cao nhất trong lớp.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 226395,
+      "questionNumber": 36,
+      "questionName": "600-Reported Speech-Part I",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is closest in meaning to the following sentence.</em></p>\n<p><strong>Melanie said, &#8220;Where have you bought these shoes?&#8221;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 507736,
+          "label": "A",
+          "text": "Melanie asked me where I had bought those shoes.",
+          "isCorrect": true
+        },
+        {
+          "id": 507737,
+          "label": "B",
+          "text": "Melanie asked me where had I bought those shoes.",
+          "isCorrect": false
+        },
+        {
+          "id": 507738,
+          "label": "C",
+          "text": "Melanie asked me where did I buy those shoes.",
+          "isCorrect": false
+        },
+        {
+          "id": 507739,
+          "label": "D",
+          "text": "Melanie asked me where I bought those shoes.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 507736,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của dạng c&acirc;u hỏi với Wh-word: <strong>S + asked sb/wondered/wanted to know + wh-word + S + V(l&ugrave;i th&igrave;) </strong>(kh&ocirc;ng đảo tobe/ trợ động từ/ động từ khuyết thiếu l&ecirc;n trước chủ ngữ)</p>\n<p>L&ugrave;i th&igrave;: hiện tại ho&agrave;n th&agrave;nh =&gt; qu&aacute; khứ ho&agrave;n th&agrave;nh \"<strong>had bought</strong>\"</p>\n<p>Đổi đại từ: \"<strong>you</strong>\" =&gt; \"<strong>I</strong>\"</p>\n<p>Đổi t&iacute;nh từ chỉ định: \"<strong>these</strong>\" =&gt; \"<strong>those</strong>\"</p>\n<p>Dịch: Melanie n&oacute;i, \"Bạn đ&atilde; mua đ&ocirc;i gi&agrave;y n&agrave;y ở đ&acirc;u vậy?\"</p>\n<p>~ C&ocirc; ấy hỏi t&ocirc;i đ&atilde; mua đ&ocirc;i gi&agrave;y đ&oacute; ở đ&acirc;u.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 4381,
+      "questionNumber": 37,
+      "questionName": "Kết hợp câu They left their home early. They didn’t want to miss the first train.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines each pair of sentences.</em></p>\n<p><strong>They left their home early. They didn&#8217;t want to miss the first train.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 10072,
+          "label": "A",
+          "text": "They left their home early so as to not miss the first train.",
+          "isCorrect": false
+        },
+        {
+          "id": 10073,
+          "label": "B",
+          "text": "They left their home early for fear that they wouldn’t miss the first train.",
+          "isCorrect": false
+        },
+        {
+          "id": 10074,
+          "label": "C",
+          "text": "They left their home early so as not to miss the first train.",
+          "isCorrect": true
+        },
+        {
+          "id": 10075,
+          "label": "D",
+          "text": "They left their home early in order that not to miss the first train.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 10074,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>so as (not) to V(inf)</strong>: để (kh&ocirc;ng) l&agrave;m g&igrave;</p>\n<p>for fear that + clause: lo ngại về điều g&igrave; c&oacute; thể xảy ra&nbsp;</p>\n<p>in order that + clause: để m&agrave;</p>\n<p>C&aacute;c phương &aacute;n kh&aacute;c sai v&igrave;:</p>\n<ul>\n<li><em>They left their home early <span style=\"text-decoration: line-through;\"><strong>so as to not miss</strong></span> the first train.</em></li>\n<li><em>They left their home early for fear that they wouldn&rsquo;t miss the first train. (sai nghĩa)</em></li>\n<li><em>They left their home early <span style=\"text-decoration: line-through;\"><strong>in order that not to miss the first train</strong></span>.&nbsp;</em></li>\n</ul>\n<p>Dịch: Họ đ&atilde; rời nh&agrave; từ sớm. Họ kh&ocirc;ng muốn bị lỡ chuyến t&agrave;u đầu ti&ecirc;n.</p>\n<p>~ Họ đ&atilde; rời nh&agrave; từ sớm để kh&ocirc;ng lỡ chuyến t&agrave;u đầu ti&ecirc;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 36554,
+      "questionNumber": 38,
+      "questionName": "Question 33: ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>The last time she kissed me was 5 months ago.</strong></p>\n<div style=\"position: absolute; left: -137px; top: -12px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 111782,
+          "label": "A",
+          "text": "She hasn't kissed me for 5 months.",
+          "isCorrect": true
+        },
+        {
+          "id": 111783,
+          "label": "B",
+          "text": "She hasn’t kissed me since 5 months ago.",
+          "isCorrect": false
+        },
+        {
+          "id": 111784,
+          "label": "C",
+          "text": "It was 5 months ago since she kissed me.",
+          "isCorrect": false
+        },
+        {
+          "id": 111785,
+          "label": "D",
+          "text": "She last kissed me since 5 months ago.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 111782,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>The last time + S + V(pt) +&hellip;+ was + khoảng thời gian</strong><span style=\"font-weight: 400;\">: Lần cuối c&ugrave;ng ai đ&oacute; l&agrave;m g&igrave; l&agrave; khi n&agrave;o</span></p>\n<p><strong>~ S + has/have + (not) + V(pp) + ... + for + khoảng thời gian ...: </strong><span style=\"font-weight: 400;\">Ai đ&oacute; đ&atilde; kh&ocirc;ng l&agrave;m g&igrave; trong bao giờ</span></p>\n<p>Dịch: Lần cuối c&ugrave;ng c&ocirc; ấy h&ocirc;n t&ocirc;i l&agrave; 5 th&aacute;ng trước.</p>\n<p>~&nbsp;C&ocirc; ấy đ&atilde; kh&ocirc;ng h&ocirc;n t&ocirc;i 5 th&aacute;ng rồi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 392459,
+      "questionNumber": 39,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>Their car / break into / and / the radio / take.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 800703,
+          "label": "A",
+          "text": "Their car broke into and the radio took.",
+          "isCorrect": false
+        },
+        {
+          "id": 800704,
+          "label": "B",
+          "text": "Their car was breaking into and the radio was taking.",
+          "isCorrect": false
+        },
+        {
+          "id": 800705,
+          "label": "C",
+          "text": "Their car was broken into and the radio was taken.",
+          "isCorrect": true
+        },
+        {
+          "id": 800706,
+          "label": "D",
+          "text": "Their car broke into and the radio was taken.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 800705,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>their car</strong>\" v&agrave; \"<strong>the radio</strong>\" chịu t&aacute;c động của c&aacute;c h&agrave;nh động \"<strong>break into</strong>\"<strong> </strong>(đột nhập) v&agrave; \"<strong>take</strong>\" (lấy đi) =&gt; C&aacute;c động từ phải ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động th&igrave; qu&aacute; khứ đơn: <strong>S + was/were + V(pp) ...</strong></p>\n<p>C&aacute;c c&acirc;u c&ograve;n lại sai ngữ ph&aacute;p.</p>\n<p>Dịch: Xe của họ đ&atilde; bị đột nhập v&agrave; chiếc đ&agrave;i đ&atilde; bị lấy mất.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 392460,
+      "questionNumber": 40,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>spite / make / great efforts, / he / still / fail / win the race.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 800707,
+          "label": "A",
+          "text": "In spite of making great efforts, he still failed to win the race.",
+          "isCorrect": true
+        },
+        {
+          "id": 800708,
+          "label": "B",
+          "text": "In spite of he making great efforts, he still failed to win the race.",
+          "isCorrect": false
+        },
+        {
+          "id": 800709,
+          "label": "C",
+          "text": "In spite of the fact that making great efforts, he still failed to win the race.",
+          "isCorrect": false
+        },
+        {
+          "id": 800710,
+          "label": "D",
+          "text": "In spite of he made great efforts, he still failed to win the race.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 800707,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>In spite of + N/V-ing ~ In spite of + the fact that + S + V</strong>: mặc d&ugrave;...</p>\n<p>Dịch: Mặc d&ugrave; đ&atilde; nỗ lực rất nhiều nhưng anh ấy vẫn kh&ocirc;ng thể chiến thắng trong cuộc đua.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 392461,
+      "questionNumber": 41,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>It / be / difficult / him / quit / smoke.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 800711,
+          "label": "A",
+          "text": "It was very difficult for him to quitting to smoke.",
+          "isCorrect": false
+        },
+        {
+          "id": 800712,
+          "label": "B",
+          "text": "It was very difficult for him to quit smoking.",
+          "isCorrect": true
+        },
+        {
+          "id": 800713,
+          "label": "C",
+          "text": "It was very difficult with him to quit to smoke.",
+          "isCorrect": false
+        },
+        {
+          "id": 800714,
+          "label": "D",
+          "text": "It was very difficult for him quitting smoking.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 800712,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c với chủ ngữ giả \"<strong>It</strong>\":<strong> It + to be + adj. + for sb + to V(inf)</strong>: Việc ... th&igrave; như thế n&agrave;o</p>\n<p><strong>quit + V-ing</strong>: từ bỏ việc g&igrave;</p>\n<p>Dịch: Việc anh ấy bỏ thuốc l&aacute; l&agrave; rất kh&oacute; khăn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 392462,
+      "questionNumber": 42,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p>Choose the best sentence that can be made from the words given.</p>\n<p><strong>It / suggested / he / the chairman / of the meeting / Boston.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 800715,
+          "label": "A",
+          "text": "He was suggested that he would be the chairman of the meeting in Boston.",
+          "isCorrect": false
+        },
+        {
+          "id": 800716,
+          "label": "B",
+          "text": "It was suggested that he was the chairman of the meeting in Boston.",
+          "isCorrect": false
+        },
+        {
+          "id": 800717,
+          "label": "C",
+          "text": "It was suggested that he could be the chairman of the meeting in Boston.",
+          "isCorrect": false
+        },
+        {
+          "id": 800718,
+          "label": "D",
+          "text": "It was suggested that he be the chairman of the meeting in Boston.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 800718,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c bị động :<strong> It is/was + suggested + that + S2 + (should) + V2(inf) + ...</strong>: ... được đề nghị, đề xuất l&agrave;m g&igrave;; mọi người đề nghị/đề xuất</p>\n<p>Dịch: Mọi người đề xuất anh ta l&agrave;m chủ tọa cuộc họp ở Boston.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

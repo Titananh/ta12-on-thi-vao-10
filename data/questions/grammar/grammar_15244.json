@@ -1,0 +1,848 @@
+{
+  "quizId": 15244,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 5: Determiners (Từ hạn định) - All (of), most (of), some (of), none (of)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 895772,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>T&#7915; n&#224;o kh&#244;ng th&#7875; theo sau &quot;ALL&quot; m&#224; kh&#244;ng c&#243; &quot;OF&quot;?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1704130,
+          "label": "A",
+          "text": "whom",
+          "isCorrect": true
+        },
+        {
+          "id": 1704131,
+          "label": "B",
+          "text": "us",
+          "isCorrect": true
+        },
+        {
+          "id": 1704132,
+          "label": "C",
+          "text": "this",
+          "isCorrect": false
+        },
+        {
+          "id": 1704133,
+          "label": "D",
+          "text": "which",
+          "isCorrect": true
+        },
+        {
+          "id": 1704134,
+          "label": "E",
+          "text": "the",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1704130,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/597978_new_d9100e54.jpg\" alt=\"\" width=\"550\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 895781,
+      "questionNumber": 2,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ho&#224;n th&#224;nh c&#226;u b&#7857;ng &quot;most&quot; ho&#7863;c &quot;most of&quot;.</strong></p>\n<p>1. <span class='fillblank-option'><label>2.1</label><input id='fbo-895781-0' class='ms fillblank-option-2' index='0' name='fbo-895781-0' type='text' size='10' autocomplete='off' data-testid='fillblank-input-895781-0' /></span> &#273;&#432;&#7907;c s&#7917; d&#7909;ng tr&#432;&#7899;c m&#7841;o t&#7915;, &#273;&#7841;i t&#7915; ch&#7881; &#273;&#7883;nh, &#273;&#7841;i t&#7915; s&#7903; h&#7919;u ho&#7863;c &#273;&#7841;i t&#7915;.</p>\n<p>2. <span class='fillblank-option'><label>2.2</label><input id='fbo-895781-1' class='ms fillblank-option-2' index='1' name='fbo-895781-1' type='text' size='8' autocomplete='off' data-testid='fillblank-input-895781-1' /></span> &#273;&#432;&#7907;c s&#7917; d&#7909;ng khi KH&#212;NG c&#243; m&#7841;o t&#7915;, &#273;&#7841;i t&#7915; ch&#7881; &#273;&#7883;nh ho&#7863;c &#273;&#7841;i t&#7915; s&#7903; h&#7919;u.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Most of"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Most"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/895781_a4f7c221.jpg\" alt=\"\" width=\"550\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 903795,
+      "questionNumber": 3,
+      "questionName": "none of",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#7885;n c&#225;c c&#226;u s&#7917; d&#7909;ng KH&#212;NG &#272;&#218;NG &quot;none&quot; ho&#7863;c &quot;none of&quot;.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1716921,
+          "label": "A",
+          "text": "None of his friends knew about the surprise party.",
+          "isCorrect": false
+        },
+        {
+          "id": 1716922,
+          "label": "B",
+          "text": "None of the participants were not absent.",
+          "isCorrect": true
+        },
+        {
+          "id": 1716923,
+          "label": "C",
+          "text": "I have 3 siblings, but I have none of that are older than me.",
+          "isCorrect": true
+        },
+        {
+          "id": 1716924,
+          "label": "D",
+          "text": "I did all the work, and none of it was my fault.",
+          "isCorrect": false
+        },
+        {
+          "id": 1716925,
+          "label": "E",
+          "text": "None of answers were correct, but he still tried his best.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1716922,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/903795_new_83a6f7cc.jpg\" alt=\"\" width=\"600\" /></p>\n<p>C&aacute;c c&acirc;u sai ở:</p>\n<ul>\n<li><em>None of the participants were <span style=\"color: #e03e2d;\">not </span>absent.</em></li>\n<li><em>I have 3 siblings, but I have none <span style=\"color: #e03e2d;\">of</span> that are older than me.</em></li>\n<li><em>None of <span style=\"color: #e03e2d;\">answers</span> were correct, but he still tried his best.&nbsp;</em></li>\n</ul>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 63358,
+      "questionNumber": 4,
+      "questionName": "Question 5",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>_____ the students in my class enjoy taking part in social activities.<b></b></b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 169581,
+          "label": "A",
+          "text": "Most of",
+          "isCorrect": true
+        },
+        {
+          "id": 169582,
+          "label": "B",
+          "text": "Most",
+          "isCorrect": false
+        },
+        {
+          "id": 169583,
+          "label": "C",
+          "text": "Many",
+          "isCorrect": false
+        },
+        {
+          "id": 169584,
+          "label": "D",
+          "text": "The number of",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 169581,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy chú ý đến cụm danh từ sau chỗ trống <em>\"the students in my class\"</em> chứa định từ <em>\"the\"</em> và chỉ một nhóm cụ thể.</p>\n<p>Bạn cần chọn lượng từ nào phù hợp khi nói về \"hầu hết\" một nhóm cụ thể có định từ đi kèm?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Lượng từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Lượng từ được dùng để chỉ số lượng hoặc mức độ của danh từ mà chúng bổ nghĩa, giúp xác định danh từ đó theo một cách cụ thể về số lượng.</p>\n<p><strong>Một số cách sử dụng lượng từ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Most of + the/these/those/my/his... (determiner) + N (số nhiều)</span></strong>: hầu hết (trong một nhóm cụ thể)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Most + N (số nhiều)</span></strong>: hầu hết (nói chung)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Many + N (số nhiều)</span></strong>: nhiều (dùng với danh từ đếm được số nhiều)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">The number of + N (số nhiều) + V (số ít)</span></strong>: số lượng của (đi với động từ số ít)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm danh từ <em>\"the students in my class\"</em> là một danh từ số nhiều, cụ thể, có chứa định từ <em>\"the\"</em> và được bổ nghĩa bởi cụm giới từ chỉ rõ nhóm. Động từ <em>\"enjoy\"</em> đang ở dạng số nhiều. Vì vậy, cấu trúc <em>\"Most of + determiner + N (số nhiều)\"</em> là phù hợp nhất để chỉ \"hầu hết\" các học sinh trong một nhóm cụ thể và đảm bảo sự hòa hợp chủ vị.</p>\n<p style=\"text-align: justify;\">Phương án <em>\"Most\"</em> không có <em>\"of\"</em> thường dùng với danh từ chung, không có định từ đi kèm, phương án <em>\"Many\"</em> không đi trực tiếp với <em>\"the\"</em> trong cấu trúc này còn phương án <em>\"The number of\"</em> yêu cầu động từ số ít, không phù hợp với động từ <em>\"enjoy\"</em> số nhiều trong câu.</p>",
+      "answerFeedbacks": {
+        "169581": "Đúng vì <em>\"Most of\"</em> được dùng trước một định từ (determiner) như <em>\"the\"</em>, <em>\"these\"</em>, <em>\"my\"</em> và một danh từ số nhiều để chỉ một phần cụ thể của nhóm đó.",
+        "169582": "Sai vì <em>\"Most\"</em> (không có <em>\"of\"</em>) thường được dùng trực tiếp trước danh từ số nhiều không có định từ để nói về phần lớn nói chung, không phải một nhóm cụ thể.",
+        "169583": "Sai vì <em>\"Many\"</em> có thể dùng với danh từ số nhiều nhưng không đi trực tiếp với <em>\"the\"</em> trong cấu trúc này để chỉ \"nhiều trong số\". Để dùng <em>\"Many\"</em> với <em>\"the students\"</em>, cần dùng <em>\"Many of the students\"</em>.",
+        "169584": "Sai vì <em>\"The number of + N (số nhiều)\"</em> đòi hỏi động từ số ít, trong khi động từ <em>\"enjoy\"</em> trong câu là số nhiều."
+      },
+      "images": []
+    },
+    {
+      "id": 855649,
+      "questionNumber": 5,
+      "questionName": "new 1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ the people in our neighborhood volunteered to help clean the park last weekend.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1631139,
+          "label": "A",
+          "text": "Some",
+          "isCorrect": false
+        },
+        {
+          "id": 1631140,
+          "label": "B",
+          "text": "Some of",
+          "isCorrect": true
+        },
+        {
+          "id": 1631141,
+          "label": "C",
+          "text": "Much of",
+          "isCorrect": false
+        },
+        {
+          "id": 1631142,
+          "label": "D",
+          "text": "Most",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1631140,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn lượng từ phù hợp, hãy xem xét danh từ theo sau nó. Trong câu này, \"<em>the people in our neighborhood</em>\" là một nhóm người cụ thể, đã xác định. </p>\n<ul>\n<li>Khi lượng từ đứng trước danh từ đã xác định (có <em>the, these, those, my, your</em>...), cần có một giới từ cụ thể theo sau.</li>\n<li>Cũng cần cân nhắc danh từ đó là đếm được hay không đếm được để chọn lượng từ phù hợp.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Lượng từ và đại từ bất định với \"of\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để diễn đạt số lượng hoặc một phần của một nhóm người hoặc vật cụ thể đã được xác định trước.</p>\n<p><strong>Một số cách dùng lượng từ và đại từ bất định với 'of':</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Some of + the/these/those/my/your... + N (số nhiều)</span></strong>: một vài trong số (dùng với danh từ đếm được số nhiều đã xác định).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Much of + the/this/that/my/your... + N (không đếm được)</span></strong>: nhiều trong số (dùng với danh từ không đếm được đã xác định).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Most (of) + N (số nhiều/không đếm được)</span></strong>: hầu hết (có thể có \"of\" khi N được xác định, không có \"of\" khi N không xác định).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, chỗ trống cần điền đứng trước cụm danh từ đã xác định \"<em>the people in our neighborhood</em>\" (những người trong khu phố của chúng tôi). Cụm danh từ này là danh từ đếm được số nhiều và đã được xác định bởi mạo từ \"<em>the</em>\". Theo quy tắc, khi lượng từ đứng trước một danh từ đã xác định, cần sử dụng giới từ \"<em>of</em>\". Phương án \"<em>Some of</em>\" phù hợp về mặt ngữ pháp và ý nghĩa, chỉ một phần trong số những người đã được xác định.</p>\n<p style=\"text-align: justify;\">Phương án \"<em>Some</em>\" và \"<em>Most</em>\" (không có \"<em>of</em>\") không đúng cấu trúc khi đứng trước danh từ đã xác định. Phương án \"<em>Much of</em>\" sai vì \"<em>much</em>\" chỉ dùng với danh từ không đếm được, trong khi \"<em>people</em>\" là danh từ đếm được số nhiều.</p>",
+      "answerFeedbacks": {
+        "1631139": "Sai vì \"Some\" không đứng trực tiếp trước danh từ đã xác định \"<em>the people</em>\"; cần có \"of\" khi danh từ có mạo từ hoặc tính từ sở hữu.",
+        "1631140": "Đúng vì \"Some of\" được dùng trước một danh từ đếm được số nhiều đã xác định (<em>the people</em>) để chỉ một phần trong số đó.",
+        "1631141": "Sai vì \"much\" chỉ dùng với danh từ không đếm được, trong khi \"<em>people</em>\" là danh từ đếm được số nhiều.",
+        "1631142": "Sai vì \"Most\" không đứng trực tiếp trước danh từ đã xác định \"<em>the people</em>\"; cần có \"of\" khi danh từ có mạo từ hoặc tính từ sở hữu."
+      },
+      "images": []
+    },
+    {
+      "id": 900478,
+      "questionNumber": 6,
+      "questionName": "Question 12:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ her friends came to the party because it was raining heavily.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1711464,
+          "label": "A",
+          "text": "all of",
+          "isCorrect": false
+        },
+        {
+          "id": 1711465,
+          "label": "B",
+          "text": "neither of",
+          "isCorrect": false
+        },
+        {
+          "id": 1711466,
+          "label": "C",
+          "text": "none of",
+          "isCorrect": true
+        },
+        {
+          "id": 1711467,
+          "label": "D",
+          "text": "no of",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1711466,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn lượng từ phù hợp, hãy xem xét ý nghĩa của câu <em>\"because it was raining heavily\"</em> gợi ý một kết quả tiêu cực về số lượng người đến.</p>\n<p>Đồng thời, hãy chú ý đến đối tượng được nhắc đến là <em>\"her friends\"</em>, ngụ ý số lượng lớn hơn hai người. Hãy nhớ lại cách sử dụng các lượng từ như <em>'none of'</em>, <em>'neither of'</em> và <em>'all of'</em> để chỉ số lượng trong các ngữ cảnh khác nhau.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Lượng từ và cấu trúc đi kèm</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các lượng từ này được dùng để chỉ số lượng hoặc tỷ lệ của một danh từ hoặc một nhóm người/vật đã được xác định. Chúng giúp diễn đạt ý nghĩa về sự toàn bộ, một phần, hoặc không có.</p>\n<p><strong>Một số cấu trúc với lượng từ thường gặp:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">all of + the/these/those/my/her... + N(số nhiều)</span></strong> hoặc <strong><span style=\"color: #1c581f;\">all of + đại từ tân ngữ (us/them/you)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">neither of + the/these/those/my/her... + N(số nhiều)</span></strong> hoặc <strong><span style=\"color: #1c581f;\">neither of + đại từ tân ngữ (us/them/you)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">none of + the/these/those/my/her... + N(số nhiều)</span></strong> hoặc <strong><span style=\"color: #1c581f;\">none of + đại từ tân ngữ (us/them/you)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">no + N(số ít/số nhiều)</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Ngữ cảnh <em>\"because it was raining heavily\"</em> cho thấy số lượng người đến dự tiệc rất ít hoặc không có. Cụm <em>\"her friends\"</em> ngụ ý có nhiều hơn hai người bạn. Vì vậy, lượng từ phù hợp nhất để diễn đạt ý \"không ai trong số nhiều người\" là <em>\"none of\"</em>.</p>\n<p style=\"text-align: justify;\">Phương án <em>\"all of\"</em> mang nghĩa ngược lại, phương án <em>\"neither of\"</em> chỉ dùng cho hai đối tượng còn phương án <em>\"no of\"</em> sai cấu trúc ngữ pháp vì <em>\"no\"</em> thường đứng trực tiếp trước danh từ mà không có <em>\"of\"</em>.</p>",
+      "answerFeedbacks": {
+        "1711464": "Sai vì <em>\"all of\"</em> mang nghĩa \"tất cả\", trái ngược với ngữ cảnh <em>\"it was raining heavily\"</em> (trời mưa to).",
+        "1711465": "Sai vì <em>\"neither of\"</em> dùng để chỉ \"không ai/cái nào trong số hai đối tượng\", không phù hợp với ngữ cảnh <em>\"her friends\"</em> (ngụ ý nhiều hơn hai người).",
+        "1711466": "Đúng vì <em>\"none of\"</em> có nghĩa là \"không ai/cái nào trong số nhiều đối tượng\" và phù hợp với ngữ cảnh trời mưa to nên không có người bạn nào đến dự tiệc.",
+        "1711467": "Sai vì <em>\"no\"</em> không đi kèm với <em>\"of\"</em> khi đứng trước danh từ; cấu trúc đúng là <em>\"no + N\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 855655,
+      "questionNumber": 7,
+      "questionName": "new 2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The principal said that _____ the teachers in our school supported the new learning program.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1631143,
+          "label": "A",
+          "text": "most",
+          "isCorrect": false
+        },
+        {
+          "id": 1631144,
+          "label": "B",
+          "text": "much",
+          "isCorrect": false
+        },
+        {
+          "id": 1631145,
+          "label": "C",
+          "text": "all of",
+          "isCorrect": true
+        },
+        {
+          "id": 1631146,
+          "label": "D",
+          "text": "some",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1631145,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn lượng từ (quantifier) phù hợp, hãy xem xét các yếu tố sau:</p>\n<ul>\n<li>Xác định loại danh từ đứng sau chỗ trống <em>\"the teachers\"</em> là danh từ số nhiều, đếm được, và đã xác định (có mạo từ <em>\"the\"</em>).</li>\n<li>Cân nhắc ý nghĩa của cụm <em>\"supported the new learning program\"</em> ngụ ý mức độ đồng thuận của các giáo viên.</li>\n</ul>\n<p>Dựa vào loại danh từ và ý nghĩa muốn truyền tải, bạn sẽ tìm được lượng từ chính xác.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Lượng từ (Quantifiers)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Lượng từ được dùng để chỉ số lượng hoặc mức độ của danh từ mà chúng bổ nghĩa, cho biết danh từ đó là số ít hay số nhiều, đếm được hay không đếm được.</p>\n<p style=\"text-align: justify;\"><strong>Một số lượng từ phổ biến:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">all (of) + N (số nhiều đếm được/không đếm được):</span></strong> tất cả (khi nói về toàn bộ một nhóm hoặc một lượng).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">most (of) + N (số nhiều đếm được/không đếm được):</span></strong> hầu hết (khi nói về phần lớn một nhóm hoặc một lượng).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">much + N (không đếm được):</span></strong> nhiều (chỉ số lượng lớn danh từ không đếm được).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">some (of) + N (số nhiều đếm được/không đếm được):</span></strong> một vài/một ít (chỉ một phần không xác định của một nhóm hoặc một lượng).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu cần một lượng từ bổ nghĩa cho cụm danh từ <em>\"the teachers in our school\"</em> là danh từ số nhiều, đếm được và đã xác định (có <em>\"the\"</em>). Ngữ cảnh <em>\"supported the new learning program\"</em> gợi ý sự đồng lòng hoàn toàn của các giáo viên. Phương án 3 <em>\"all of\"</em> là phù hợp nhất vì <em>\"all of + the + N (số nhiều đếm được)\"</em> được dùng để chỉ toàn bộ một nhóm đã xác định, diễn đạt chính xác ý nghĩa \"tất cả các giáo viên đều ủng hộ\".</p>\n<p style=\"text-align: justify;\">Phương án 1 <em>\"most\"</em> và phương án 4 <em>\"some\"</em> có thể dùng với <em>\"of the teachers\"</em> nhưng nghĩa là \"hầu hết\" hoặc \"một vài/một số\", không thể hiện sự đồng thuận tuyệt đối như <em>\"all\"</em>. Phương án 2 <em>\"much\"</em> sai vì <em>\"teachers\"</em> là danh từ đếm được.</p>",
+      "answerFeedbacks": {
+        "1631143": "Sai vì <em>\"most\"</em> (hầu hết) có thể đứng trước danh từ không có <em>\"of\"</em> (<em>\"most teachers\"</em>) hoặc <em>\"most of the teachers\"</em>, nhưng nghĩa \"hầu hết\" không diễn tả sự đồng lòng hoàn toàn như ý câu cần.",
+        "1631144": "Sai vì <em>\"much\"</em> chỉ dùng với danh từ không đếm được, trong khi <em>\"teachers\"</em> là danh từ đếm được số nhiều.",
+        "1631145": "Đúng vì <em>\"all of\"</em> được dùng trước danh từ đếm được số nhiều đã xác định (<em>\"the teachers\"</em>) để chỉ toàn bộ thành viên trong một nhóm, phù hợp với ngữ cảnh \"tất cả các giáo viên đều ủng hộ\".",
+        "1631146": "Sai vì <em>\"some\"</em> (một vài/một số) có thể đứng trước danh từ không có <em>\"of\"</em> (<em>\"some teachers\"</em>) hoặc <em>\"some of the teachers\"</em>, nhưng nghĩa \"một phần\" không diễn đạt được ý \"tất cả\" như <em>\"all\"</em> trong ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 207310,
+      "questionNumber": 8,
+      "questionName": "51",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>There are hundreds of fruits in Vietnam and _____ of them grow in summer.<b></b></b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 468242,
+          "label": "A",
+          "text": "most",
+          "isCorrect": true
+        },
+        {
+          "id": 468243,
+          "label": "B",
+          "text": "almost",
+          "isCorrect": false
+        },
+        {
+          "id": 468244,
+          "label": "C",
+          "text": "mostly",
+          "isCorrect": false
+        },
+        {
+          "id": 468245,
+          "label": "D",
+          "text": "the most",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 468242,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đáp án đúng, hãy cân nhắc sự khác biệt giữa lượng từ và trạng từ trong tiếng Anh.</p>\n<ul style=\"padding-left: 30px;\">\n<li>Cụm \"<em>_____ of them</em>\" trong câu cho thấy bạn cần một từ đứng trước để chỉ số lượng hoặc một phần của nhóm \"<em>them</em>\" (tức là \"<em>fruits</em>\").</li>\n<li>Kiểm tra chức năng từ loại của mỗi phương án, <em>most</em> là lượng từ; <em>almost</em> và <em>mostly</em> là trạng từ; <em>the most</em> là dạng so sánh nhất.</li>\n</ul>\n<p>Hãy chọn từ phù hợp nhất với cấu trúc \"<em>_____ of + đại từ</em>\" để diễn đạt ý \"hầu hết\".</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Lượng từ và trạng từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Lượng từ được dùng để chỉ số lượng hoặc mức độ của danh từ, trong khi trạng từ bổ nghĩa cho động từ, tính từ hoặc trạng từ khác, mô tả cách thức, mức độ hoặc tần số.</p>\n<p><strong>Một số lượng từ và trạng từ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">most (lượng từ):</span></strong> hầu hết, đa số (dùng để chỉ phần lớn của một nhóm hoặc số lượng)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">almost (trạng từ):</span></strong> hầu như, gần như (diễn tả sự gần đạt đến một trạng thái, hành động hoặc số lượng nào đó)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">mostly (trạng từ):</span></strong> chủ yếu, phần lớn (diễn tả điều gì đó đúng với phần lớn hoặc trong hầu hết các trường hợp)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, chỗ trống đứng trước cụm giới từ \"<em>of them</em>\", nơi \"<em>them</em>\" thay thế cho \"<em>hundreds of fruits</em>\". Cấu trúc \"<em>_____ of + đại từ/danh từ</em>\" yêu cầu một lượng từ để chỉ một phần của tổng thể. Trong các phương án, <em>most</em> là lượng từ duy nhất phù hợp với cấu trúc này để diễn tả \"hầu hết các loại trái cây\".</p>\n<p style=\"text-align: justify;\">Các phương án còn lại không phù hợp vì ''<em>almost''</em> là trạng từ, không thể đứng trực tiếp trước ''<em>of them''</em> để chỉ số lượng, mostly sẽ tạo thành cấu trúc không chính xác với cụm ''of them'', phương án ''<em>the most</em>'' là dạng so sánh nhất không phù hợp để chỉ một phần của tổng thể. </p>",
+      "answerFeedbacks": {
+        "468242": "Đúng vì <em>most</em> là lượng từ, dùng trong cấu trúc <em>most of + N/pronoun</em> để chỉ \"hầu hết\" một nhóm nào đó.",
+        "468243": "Sai vì <em>almost</em> là trạng từ, không thể đứng trực tiếp trước <em>of them</em> để chỉ số lượng.",
+        "468244": "<p>Sai vì <em>mostly</em> là trạng từ, mang nghĩa \"chủ yếu\" nhưng sẽ tạo thành cụm không chính xác.</p>",
+        "468245": "Sai vì <em>the most</em> là dạng so sánh nhất, cần có tính từ hoặc trạng từ đi kèm hoặc dùng để chỉ \"số lượng lớn nhất\" chứ không phải \"hầu hết\" trong ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 859975,
+      "questionNumber": 9,
+      "questionName": "new 8",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Principal: Did many students sign up for the art competition?</strong></p>\n<p><strong>Sara: Yes, _____ the students in our grade are participating.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1639463,
+          "label": "A",
+          "text": "many",
+          "isCorrect": false
+        },
+        {
+          "id": 1639464,
+          "label": "B",
+          "text": "most",
+          "isCorrect": false
+        },
+        {
+          "id": 1639465,
+          "label": "C",
+          "text": "most of",
+          "isCorrect": true
+        },
+        {
+          "id": 1639466,
+          "label": "D",
+          "text": "the number of",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1639465,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Chú ý đến cụm danh từ ngay sau chỗ trống là <em>\"the students in our grade\"</em>. Đây là một danh từ xác định (có mạo từ <em>\"the\"</em>).</p>\n<p>Hãy tìm ra phương án có thể đi với cụm danh từ xác định để <span style=\"text-align: justify;\">chỉ \"hầu hết các học sinh\".</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cách dùng các lượng từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các lượng từ được dùng để chỉ số lượng hoặc mức độ của danh từ mà chúng bổ nghĩa, có thể đi kèm hoặc không đi kèm giới từ \"<em>of</em>\" tùy thuộc vào loại danh từ (xác định hay không xác định).</p>\n<p style=\"text-align: justify;\"><strong>Một số lượng từ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">many + N(đếm được số nhiều):</span></strong> nhiều (chỉ số lượng lớn, thường dùng trong câu phủ định/nghi vấn)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">most + N(số nhiều/không đếm được):</span></strong> hầu hết (chỉ phần lớn của một tổng thể không xác định)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">most of + the/these/those/my/her... + N(số nhiều/không đếm được):</span></strong> hầu hết (chỉ phần lớn của một tổng thể xác định)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">the number of + N(đếm được số nhiều) + V(số ít):</span></strong> số lượng của... (chỉ một con số cụ thể)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, chỗ trống cần một lượng từ đi với cụm danh từ xác định \"<em>the students in our grade</em>\". Cấu trúc \"<em>most of + the + N</em>\" là phù hợp nhất để chỉ \"hầu hết các học sinh\" trong một nhóm cụ thể đã được xác định.</p>\n<p style=\"text-align: justify;\">Các phương án \"<em>many</em>\" và \"<em>most</em>\" không đi trực tiếp với danh từ xác định có \"<em>the</em>\" trong câu khẳng định. Phương án \"<em>the number of</em>\" sai về mặt ngữ pháp vì động từ theo sau phải chia số ít, trong khi động từ trong câu là \"<em>are participating</em>\" (số nhiều).</p>",
+      "answerFeedbacks": {
+        "1639463": "Sai vì \"many\" thường đi trực tiếp với danh từ đếm được số nhiều không xác định (<em>many students</em>) hoặc \"many of the + N\" với danh từ xác định.",
+        "1639464": "Sai vì \"most\" thường đi trực tiếp với danh từ không xác định (<em>most students</em>) hoặc đứng một mình như đại từ, không đi trực tiếp với danh từ xác định có \"the\" mà không có \"of\".",
+        "1639465": "Đúng vì \"most of\" được dùng trước các danh từ xác định (có <em>the, these, those, my, her...</em>) để chỉ phần lớn của một nhóm cụ thể.",
+        "1639466": "Sai vì cấu trúc \"the number of + N(số nhiều)\" yêu cầu động từ chia số ít, trong khi động từ trong câu là \"<em>are participating</em>\" (số nhiều)."
+      },
+      "images": []
+    },
+    {
+      "id": 34946,
+      "questionNumber": 10,
+      "questionName": "Question 16",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>All the boys in my class are good at cooking, but ____ is as good as girls.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 107733,
+          "label": "A",
+          "text": "either",
+          "isCorrect": false
+        },
+        {
+          "id": 107734,
+          "label": "B",
+          "text": "neither",
+          "isCorrect": false
+        },
+        {
+          "id": 107735,
+          "label": "C",
+          "text": "every",
+          "isCorrect": false
+        },
+        {
+          "id": 107736,
+          "label": "D",
+          "text": "none",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 107736,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Chú ý từ nối <em>\"but\"</em>: Nó chỉ ra sự đối lập giữa vế trước (<em>\"All the boys...\"</em>) và vế sau.</p>\n<ul>\n<li>Ý nghĩa đối lập: Nếu vế trước nói <em>\"All the boys are good at cooking\"</em>, thì vế sau cần một từ mang nghĩa phủ định, đối lập với \"all\", để hoàn thành ý \"không ai trong số họ giỏi bằng con gái\".</li>\n<li>Ngữ pháp: Chú ý vị trí chỗ trống là chủ ngữ của động từ <em>\"is\"</em> và các phương án có thể đứng một mình làm đại từ hay cần danh từ đi kèm.</li>\n</ul>\n<p>Dựa trên ý nghĩa đối lập, yêu cầu về ngữ pháp (đại từ chủ ngữ) và số lượng đối tượng, hãy chọn từ phù hợp nhất.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Đại từ và lượng từ chỉ số lượng</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các đại từ và lượng từ này được dùng để chỉ rõ số lượng hoặc phần của một nhóm người, vật, hoặc ý tưởng, đặc biệt khi so sánh hoặc đối lập các nhóm. Chúng giúp diễn đạt ý nghĩa về toàn bộ, một phần hay không có gì.</p>\n<p><strong>Một số đại từ và lượng từ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">none (of + N/pronoun)</span></strong>: không ai/cái gì trong số (dùng cho ba đối tượng trở lên, hoặc không xác định số lượng cụ thể, có thể dùng với động từ số ít hoặc số nhiều tùy ngữ cảnh).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">either (of + N/pronoun)</span></strong>: một trong hai (chỉ dùng cho hai đối tượng).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">neither (of + N/pronoun)</span></strong>: không ai/cái gì trong hai (chỉ dùng cho hai đối tượng).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">every + N (singular)</span></strong>: mỗi, mọi (luôn đi với danh từ số ít, không đứng một mình làm đại từ).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu gốc diễn tả sự đối lập rằng \"tất cả các chàng trai đều giỏi nấu ăn\" nhưng \"không ai\" trong số họ giỏi bằng các cô gái. Cần một đại từ mang nghĩa phủ định và chỉ số lượng lớn hơn hai, hoặc không xác định cụ thể.</p>\n<p style=\"text-align: justify;\">Phương án ''<em>none''</em> (không ai/không cái gì) là lựa chọn phù hợp nhất để hoàn thành ý nghĩa phủ định và đối lập trong câu, vì nó có thể thay thế cho danh từ số nhiều (boys) và diễn tả ý \"không một ai\" phù hợp với ngữ cảnh của câu.</p>",
+      "answerFeedbacks": {
+        "107733": "Sai vì <em>either</em> chỉ dùng để chỉ \"một trong hai\" đối tượng, trong khi ngữ cảnh câu không giới hạn số lượng con trai là hai.",
+        "107734": "Sai vì <em>neither</em> chỉ dùng để chỉ \"không ai trong hai\" đối tượng, trong khi ngữ cảnh câu không giới hạn số lượng con trai là hai.",
+        "107735": "Sai vì <em>every</em> là một lượng từ và luôn cần một danh từ số ít đi kèm (ví dụ: <em>every boy</em>), không thể đứng một mình làm đại từ chủ ngữ trong câu này.",
+        "107736": "Đúng vì <em>none</em> có nghĩa là \"không một ai/cái gì\" trong một nhóm lớn hơn hai hoặc không xác định, phù hợp với ngữ cảnh đối lập \"All... but none...\" và có thể đứng một mình làm đại từ chủ ngữ."
+      },
+      "images": []
+    },
+    {
+      "id": 206736,
+      "questionNumber": 11,
+      "questionName": "10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>It was <u>disappointing</u> that <u>almost</u> of the guests <u>left</u> the wedding <u>too</u> early.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 467266,
+          "label": "A",
+          "text": "disappointing",
+          "isCorrect": false
+        },
+        {
+          "id": 467267,
+          "label": "B",
+          "text": "almost",
+          "isCorrect": true
+        },
+        {
+          "id": 467268,
+          "label": "C",
+          "text": "left",
+          "isCorrect": false
+        },
+        {
+          "id": 467269,
+          "label": "D",
+          "text": "too",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 467267,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>almost + N (đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u/kh&ocirc;ng đ&ecirc;́m được)</strong>: hầu hết, phần lớn =&gt; Kh&ocirc;ng đúng ngữ pháp c&acirc;u.</p>\n<p>~ <strong>most of + the + N (đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u/kh&ocirc;ng đ&ecirc;́m được)</strong>: hầu hết, phần lớn</p>\n<p>Sửa: \"<strong>almost</strong>\" =&gt; \"<strong>most</strong>\"</p>\n<p>Dịch: Đ&aacute;ng thất vọng l&agrave; hầu hết kh&aacute;ch mời đều rời khỏi đ&aacute;m cưới qu&aacute; sớm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 855656,
+      "questionNumber": 12,
+      "questionName": "new 3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">Some of</span> my friends love going to the gym, but <span style=\"text-decoration: underline;\">most</span>&nbsp;them prefer <span style=\"text-decoration: underline;\">to stay</span> home and watch TV <span style=\"text-decoration: underline;\">instead</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1631147,
+          "label": "A",
+          "text": "Some of",
+          "isCorrect": false
+        },
+        {
+          "id": 1631148,
+          "label": "B",
+          "text": "most",
+          "isCorrect": true
+        },
+        {
+          "id": 1631149,
+          "label": "C",
+          "text": "to stay",
+          "isCorrect": false
+        },
+        {
+          "id": 1631150,
+          "label": "D",
+          "text": "instead",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1631148,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>most + N (đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u/kh&ocirc;ng đ&ecirc;́m được)</strong>: h&acirc;̀u h&ecirc;́t =&gt; Kh&ocirc;ng đúng ngữ pháp c&acirc;u.</p>\n<p>~ <strong>most of + pronoun</strong>: h&acirc;̀u h&ecirc;́t</p>\n<p>Sửa: \"<strong>most</strong>\" =&gt; \"<strong>most of</strong>\"</p>\n<p>Dịch: Một vài người bạn của t&ocirc;i th&iacute;ch đến ph&ograve;ng tập thể dục, nhưng hầu hết lại th&iacute;ch ở nh&agrave; v&agrave; xem TV.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 855660,
+      "questionNumber": 13,
+      "questionName": "new 4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>None <span style=\"text-decoration: underline;\">of</span> the students <span style=\"text-decoration: underline;\">didn&#8217;t complete</span> <span style=\"text-decoration: underline;\">their</span> assignments <span style=\"text-decoration: underline;\">on time</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1631156,
+          "label": "A",
+          "text": "of",
+          "isCorrect": false
+        },
+        {
+          "id": 1631157,
+          "label": "B",
+          "text": "didn’t complete",
+          "isCorrect": true
+        },
+        {
+          "id": 1631158,
+          "label": "C",
+          "text": "their",
+          "isCorrect": false
+        },
+        {
+          "id": 1631159,
+          "label": "D",
+          "text": "on time",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1631157,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>none of + the/tính từ sở hữu/tính từ chỉ định + N (đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u/kh&ocirc;ng đ&ecirc;́m được)</strong>: kh&ocirc;ng ai/cái gì cả =&gt; C&acirc;u mang tính phủ định n&ecirc;n kh&ocirc;ng th&ecirc;̉ dùng dạng phủ định cho c&acirc;u này.</p>\n<p><strong>fail to do sth</strong>: kh&ocirc;ng l&agrave;m được điều g&igrave;</p>\n<p>Sửa: \"<strong>didn't complete</strong>\" =&gt; \"<strong>completed</strong>\" hoặc \"<strong>failed to complete</strong>\"</p>\n<p>Dịch: Kh&ocirc;ng c&oacute; học sinh n&agrave;o ho&agrave;n th&agrave;nh b&agrave;i tập đ&uacute;ng hạn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 855663,
+      "questionNumber": 14,
+      "questionName": "new 7",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">Some</span> my sister's friends <span style=\"text-decoration: underline;\">have</span> their <span style=\"text-decoration: underline;\">own</span> bicycles <span style=\"text-decoration: underline;\">that</span> they ride to school every day.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1631168,
+          "label": "A",
+          "text": "Some",
+          "isCorrect": true
+        },
+        {
+          "id": 1631169,
+          "label": "B",
+          "text": "have",
+          "isCorrect": false
+        },
+        {
+          "id": 1631170,
+          "label": "C",
+          "text": "own",
+          "isCorrect": false
+        },
+        {
+          "id": 1631171,
+          "label": "D",
+          "text": "that",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1631168,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>some + N (đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u/kh&ocirc;ng đ&ecirc;́m được)</strong>: m&ocirc;̣t s&ocirc;́; m&ocirc;̣t vài =&gt; Kh&ocirc;ng đúng ngữ pháp của c&acirc;u.</p>\n<p><strong>some of + the/tính từ sở hữu/tính từ chỉ định + (đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u/kh&ocirc;ng đ&ecirc;́m được)</strong>: m&ocirc;̣t s&ocirc;́; m&ocirc;̣t vài</p>\n<p>Sửa: \"<strong>Some</strong>\" =&gt; \"<strong>Some of</strong>\"</p>\n<p>Dịch: Một số người bạn của chị g&aacute;i t&ocirc;i c&oacute; xe đạp ri&ecirc;ng mà họ dùng để đi học mỗi ng&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 855661,
+      "questionNumber": 15,
+      "questionName": "new 5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Every student in the class finished their homework on time.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1631160,
+          "label": "A",
+          "text": "Most the students in the class completed their homework late.",
+          "isCorrect": false
+        },
+        {
+          "id": 1631161,
+          "label": "B",
+          "text": "Some of the students in the class finished their homework late.",
+          "isCorrect": false
+        },
+        {
+          "id": 1631162,
+          "label": "C",
+          "text": "All the students in the class completes their homework on time.",
+          "isCorrect": false
+        },
+        {
+          "id": 1631163,
+          "label": "D",
+          "text": "All of the students in the class finished their homework on time.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1631163,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>every + N (đ&ecirc;́m được s&ocirc;́ ít)</strong>: m&ocirc;̃i, mọi ~<strong> all (of) + the + N (kh&ocirc;ng đ&ecirc;́m được/đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u)</strong>: t&acirc;́t cả, toàn b&ocirc;̣</p>\n<p>most + of + N (kh&ocirc;ng đ&ecirc;́m được/đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u): h&acirc;̀u h&ecirc;́t</p>\n<p>some of + the + N (kh&ocirc;ng đ&ecirc;́m được/đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u): m&ocirc;̣t s&ocirc;́; m&ocirc;̣t vài</p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em><span style=\"text-decoration: line-through;\"><strong>Most the</strong></span> students in the class completed their homework <span style=\"text-decoration: line-through;\"><strong>late</strong></span>. (sai cấu tr&uacute;c với \"most\" v&agrave; sai cả về nghĩa)</em></li>\n<li><em><span style=\"text-decoration: line-through;\"><strong>Some of the student</strong><strong>s</strong></span> in the class finished their homework <span style=\"text-decoration: line-through;\"><strong>late</strong></span>. (sai nghĩa)</em></li>\n<li><em>All the students in the class <span style=\"text-decoration: line-through;\"><strong>completes</strong></span> their homework on time. (sai th&igrave; của c&acirc;u)</em></li>\n</ul>\n<p>Dịch: Mọi học sinh trong lớp đều ho&agrave;n th&agrave;nh b&agrave;i tập về nh&agrave; đ&uacute;ng hạn.</p>\n<p>~ Tất cả học sinh trong lớp đều ho&agrave;n th&agrave;nh b&agrave;i tập về nh&agrave; đ&uacute;ng hạn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 855664,
+      "questionNumber": 16,
+      "questionName": "new 8",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>A few participants at the event were excited about the new activities.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1631172,
+          "label": "A",
+          "text": "Some of the participants at the event were excited about the new activities.",
+          "isCorrect": true
+        },
+        {
+          "id": 1631173,
+          "label": "B",
+          "text": "Some the participants at the event were excited about the new activities.",
+          "isCorrect": false
+        },
+        {
+          "id": 1631174,
+          "label": "C",
+          "text": "Many of the participants at the event were excited about the new activities.",
+          "isCorrect": false
+        },
+        {
+          "id": 1631175,
+          "label": "D",
+          "text": "All the participants at the event were excited about the new activities.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1631172,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>some of + the/tính từ sở hữu/tính từ chỉ định + N (đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u/kh&ocirc;ng đ&ecirc;́m được)</strong> ~ some + N (đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u/kh&ocirc;ng đ&ecirc;́m được): m&ocirc;̣t s&ocirc;́; m&ocirc;̣t vài</p>\n<p>Dịch: Một số người tham dự sự kiện tỏ ra h&agrave;o hứng với c&aacute;c hoạt động mới.</p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em><span style=\"text-decoration: line-through;\"><strong>Some the participants</strong></span> at the event were excited about the new activities.</em></li>\n<li><em><span style=\"text-decoration: line-through;\"><strong>Many of the participants</strong></span> at the event were excited about the new activities. (sai nghĩa vì chỉ có m&ocirc;̣t s&ocirc;́ người tỏ ra hào hứng, kh&ocirc;ng phải nhi&ecirc;̀u)</em></li>\n<li><em><span style=\"text-decoration: line-through;\"><strong>All the participants</strong></span> at the event were excited about the new activities. (sai nghĩa vì kh&ocirc;ng phải t&acirc;́t cả mọi người đ&ecirc;̀u hào hứng)</em></li>\n</ul>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 900491,
+      "questionNumber": 17,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Read this advertisement for some new flats.</strong></p>\n<p style=\"text-align: justify;\">Hartley House is an old manor house that has been converted into thirty one-bedroom and two-bedroom flats. All the flats have a fitted kitchen, bathroom, and large living room. Ten of them have a separate dining room. Twenty-five of the flats have a view of the sea, and fifteen have a private balcony. All thirty flats are still for sale. Ring us now for more details.</p>\n<p style=\"text-align: justify;\"><strong>Then complete the text using the words in the box.</strong></p>\n<table style=\"border-collapse: collapse; width: 100%; border-color: #2dc26b; border-style: dashed; height: 18px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 99.6947%; height: 18px; text-align: center;\"><strong>all of them | most of them | some of them (x2) | none of them</strong></td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: justify;\"><br>The flats are modern. <em>(0) ...All of them...</em> have a fitted kitchen. From <span class='fillblank-option'><label>17.1</label><input id='fbo-900491-0' class='ms fillblank-option-17' index='0' name='fbo-900491-0' type='text' size='15' autocomplete='off' data-testid='fillblank-input-900491-0' /></span>, you can see the sea. <span class='fillblank-option'><label>17.2</label><input id='fbo-900491-1' class='ms fillblank-option-17' index='1' name='fbo-900491-1' type='text' size='14' autocomplete='off' data-testid='fillblank-input-900491-1' /></span> have a private balcony. <span class='fillblank-option'><label>17.3</label><input id='fbo-900491-2' class='ms fillblank-option-17' index='2' name='fbo-900491-2' type='text' size='14' autocomplete='off' data-testid='fillblank-input-900491-2' /></span> have a large living room. There's also a dining room in <span class='fillblank-option'><label>17.4</label><input id='fbo-900491-3' class='ms fillblank-option-17' index='3' name='fbo-900491-3' type='text' size='13' autocomplete='off' data-testid='fillblank-input-900491-3' /></span>. <span class='fillblank-option'><label>17.5</label><input id='fbo-900491-4' class='ms fillblank-option-17' index='4' name='fbo-900491-4' type='text' size='13' autocomplete='off' data-testid='fillblank-input-900491-4' /></span> has been sold yet.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "most of them"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Some of them"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "All of them"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "some of them"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "None of them"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Th&ocirc;ng tin trong đoạn quảng c&aacute;o: \"<em>Hartley House is an old manor house that has been converted into thirty one-bedroom and two-bedroom flats. [...] Twenty-five of the flats have a view of the sea [...].</em>\"(Hartley House l&agrave; một dinh thự cổ đ&atilde; được cải tạo th&agrave;nh ba mươi căn hộ, bao gồm loại một ph&ograve;ng ngủ v&agrave; hai ph&ograve;ng ngủ. [...] Hai mươi lăm căn hộ c&oacute; tầm nh&igrave;n ra biển [...].)&nbsp;</p>\n<p><strong>most of N/Pron.</strong>: phần lớn (25/30 căn)</p>\n<p>2. Th&ocirc;ng tin trong đoạn quảng c&aacute;o: \"<em>[...] fifteen have a private balcony.</em>\" ([...] mười lăm căn c&oacute; ban c&ocirc;ng ri&ecirc;ng.)</p>\n<p><strong>some of N/Pron.</strong>: một v&agrave;i</p>\n<p>3. Th&ocirc;ng tin trong đoạn quảng c&aacute;o: \"<em>All the flats have a fitted kitchen, bathroom, and large living room.</em>\" (Tất cả c&aacute;c căn hộ đều c&oacute; bếp, ph&ograve;ng tắm v&agrave; ph&ograve;ng kh&aacute;ch rộng r&atilde;i.)</p>\n<p><strong>all of N/Pron.</strong>: tất cả</p>\n<p>4. Th&ocirc;ng tin trong đoạn quảng c&aacute;o: \"<em>Ten of them have a separate dining room.</em>\" (Mười căn trong số đ&oacute; c&oacute; ph&ograve;ng ăn ri&ecirc;ng.)</p>\n<p><strong>some of N/Pron.</strong>: một v&agrave;i (10/30 căn)</p>\n<p>5. Th&ocirc;ng tin trong đoạn quảng c&aacute;o: \"<em>All thirty flats are still for sale.</em>\" (Cả ba mươi căn hộ vẫn đang được rao b&aacute;n.)</p>\n<p><strong>none of N/Pron.</strong>: kh&ocirc;ng ai/c&aacute;i n&agrave;o</p>\n<p>Dịch: C&aacute;c căn hộ đều hiện đại, tất cả đều được trang bị bếp đầy đủ tiện nghi. Từ hầu hết c&aacute;c căn, bạn c&oacute; thể nh&igrave;n ra biển. Một số căn c&ograve;n c&oacute; ban c&ocirc;ng ri&ecirc;ng. Tất cả c&aacute;c căn hộ đều c&oacute; ph&ograve;ng kh&aacute;ch rộng r&atilde;i. Ngo&agrave;i ra, một số căn c&ograve;n được thiết kế th&ecirc;m ph&ograve;ng ăn. Hiện tại, kh&ocirc;ng c&oacute; căn n&agrave;o đ&atilde; b&aacute;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 855665,
+      "questionNumber": 18,
+      "questionName": "đục lỗ",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the passage and choose the correct answer for each blank.</strong></p>\n<p style=\"text-align: justify;\">In a classroom discussion, the teacher asked how many students liked different subjects. <strong><span class='fillblank-option'><label>18.1</label><select class='ms fillblank-option-18' index='0' name='fbo-855665-0' data-testid='fillblank-select-855665-0'><option value='' data-testid='fillblank-option-empty-855665-0'></option><option value=\"Some\" data-testid='fillblank-option-855665-0-Some'>Some</option><option value=\"Many\" data-testid='fillblank-option-855665-0-Many'>Many</option><option value=\"Most\" data-testid='fillblank-option-855665-0-Most'>Most</option><option value=\"All\" data-testid='fillblank-option-855665-0-All'>All</option></select></span></strong> the students said they enjoyed science, and <strong><span class='fillblank-option'><label>18.2</label><select class='ms fillblank-option-18' index='1' name='fbo-855665-1' data-testid='fillblank-select-855665-1'><option value='' data-testid='fillblank-option-empty-855665-1'></option><option value=\"some\" data-testid='fillblank-option-855665-1-some'>some</option><option value=\"none\" data-testid='fillblank-option-855665-1-none'>none</option><option value=\"some of\" data-testid='fillblank-option-855665-1-some of'>some of</option><option value=\"much of\" data-testid='fillblank-option-855665-1-much of'>much of</option></select></span></strong> them preferred history. A few students mentioned that they liked both subjects. The teacher noticed that <strong><span class='fillblank-option'><label>18.3</label><select class='ms fillblank-option-18' index='2' name='fbo-855665-2' data-testid='fillblank-select-855665-2'><option value='' data-testid='fillblank-option-empty-855665-2'></option><option value=\"most of\" data-testid='fillblank-option-855665-2-most of'>most of</option><option value=\"most\" data-testid='fillblank-option-855665-2-most'>most</option><option value=\"much\" data-testid='fillblank-option-855665-2-much'>much</option><option value=\"none of\" data-testid='fillblank-option-855665-2-none of'>none of</option></select></span></strong> the students didn't like maths because they found <strong><span class='fillblank-option'><label>18.4</label><select class='ms fillblank-option-18' index='3' name='fbo-855665-3' data-testid='fillblank-select-855665-3'><option value='' data-testid='fillblank-option-empty-855665-3'></option><option value=\"most of\" data-testid='fillblank-option-855665-3-most of'>most of</option><option value=\"most\" data-testid='fillblank-option-855665-3-most'>most</option><option value=\"none\" data-testid='fillblank-option-855665-3-none'>none</option><option value=\"much\" data-testid='fillblank-option-855665-3-much'>much</option></select></span></strong> math problems challenging. Therefore, the teacher decided to offer extra help in maths to ensure that <strong><span class='fillblank-option'><label>18.5</label><select class='ms fillblank-option-18' index='4' name='fbo-855665-4' data-testid='fillblank-select-855665-4'><option value='' data-testid='fillblank-option-empty-855665-4'></option><option value=\"none\" data-testid='fillblank-option-855665-4-none'>none</option><option value=\"most of\" data-testid='fillblank-option-855665-4-most of'>most of</option><option value=\"all\" data-testid='fillblank-option-855665-4-all'>all</option><option value=\"some of\" data-testid='fillblank-option-855665-4-some of'>some of</option></select></span></strong> would fall behind.&nbsp;</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "All"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "some of"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "most of"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "most"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "none"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. <strong>all (of) + the/tính từ sở hữu/tính từ chỉ định + N (đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u/kh&ocirc;ng đ&ecirc;́m được)</strong>: t&acirc;́t cả; toàn b&ocirc;̣</p>\n<p>2. <strong>some of + pronoun</strong>: m&ocirc;̣t s&ocirc;́; m&ocirc;̣t vài</p>\n<p>3. <strong>most of + the/tính từ sở hữu/tính từ chỉ định + N (đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u/kh&ocirc;ng đ&ecirc;́m được)</strong>: h&acirc;̀u h&ecirc;́t; ph&acirc;̀n lớn</p>\n<p>4. <strong>most + N (đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u/kh&ocirc;ng đ&ecirc;́m được)</strong>: h&acirc;̀u h&ecirc;́t; ph&acirc;̀n lớn</p>\n<p>5. <strong>none</strong> (pron.): kh&ocirc;ng ... (kh&ocirc;ng có danh từ theo sau)</p>\n<p>Dịch:</p>\n<p>Trong một cuộc thảo luận tr&ecirc;n lớp, gi&aacute;o vi&ecirc;n đ&atilde; hỏi c&oacute; bao nhi&ecirc;u học sinh th&iacute;ch c&aacute;c m&ocirc;n học kh&aacute;c nhau. Tất cả học sinh đều n&oacute;i rằng c&aacute;c em th&iacute;ch khoa học, v&agrave; một số em th&iacute;ch lịch sử. Một số học sinh n&oacute;i rằng c&aacute;c em th&iacute;ch cả hai m&ocirc;n.</p>\n<p>Gi&aacute;o vi&ecirc;n nhận thấy rằng hầu hết học sinh kh&ocirc;ng th&iacute;ch to&aacute;n v&igrave; c&aacute;c em thấy hầu hết c&aacute;c b&agrave;i to&aacute;n đều kh&oacute;. Do đ&oacute;, gi&aacute;o vi&ecirc;n quyết định giúp các em th&ecirc;m về to&aacute;n để đảm bảo kh&ocirc;ng c&oacute; em n&agrave;o bị tụt lại ph&iacute;a sau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 219651,
+      "questionNumber": 19,
+      "questionName": "Reactivate (P.12)",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence using the word given so that it has&nbsp;the same meaning to the first.</em></p>\n<p><strong>Nearly all the students managed to pass their final exams. (OF)</strong></p>\n<p><strong>=&gt; Most .......... in passing their final exams.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Most of the students succeeded in passing their final exams."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>most of + the/tính từ sở hữu/tính từ chỉ định + N (đếm được số nhiều/kh&ocirc;ng đếm được)</strong>: hầu hết</p>\n<p><strong>manage to V(inf) </strong>~<strong> succeed in + V-ing</strong>: th&agrave;nh c&ocirc;ng l&agrave;m g&igrave;</p>\n<p>Dịch:&nbsp;Hầu như tất cả c&aacute;c sinh vi&ecirc;n đều vượt qua kỳ thi cuối kỳ.</p>\n<p>~ Hầu hết c&aacute;c sinh vi&ecirc;n đều vượt qua kỳ thi cuối kỳ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 900488,
+      "questionNumber": 20,
+      "questionName": "Reactivate (P.12)",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence using the word given so that it has&nbsp;the same meaning to the first.</em></p>\n<p><strong>Not all the books on the shelf belong to me. (OF)&nbsp;</strong></p>\n<p><strong>=&gt; Some .......... not belong to me.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Some of the books on the shelf do not belong to me."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>some of + the/tính từ sở hữu/tính từ chỉ định + N (đếm được số nhiều/kh&ocirc;ng đếm được)</strong>: một v&agrave;i</p>\n<p>Dịch: Kh&ocirc;ng phải tất cả s&aacute;ch tr&ecirc;n kệ đều thuộc về t&ocirc;i.</p>\n<p>~ Một số s&aacute;ch tr&ecirc;n kệ kh&ocirc;ng thuộc về t&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

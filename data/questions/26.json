@@ -1,0 +1,452 @@
+[
+  {
+    "id": "70_1",
+    "questionName": "Question 1",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_1_1",
+        "text": "great",
+        "html": "gr<u>ea</u>t"
+      },
+      {
+        "id": "70_1_2",
+        "text": "meat",
+        "html": "m<u>ea</u>t"
+      },
+      {
+        "id": "70_1_3",
+        "text": "beach",
+        "html": "b<u>ea</u>ch"
+      },
+      {
+        "id": "70_1_4",
+        "text": "team",
+        "html": "t<u>ea</u>m"
+      }
+    ],
+    "correctChoiceId": "70_1_1",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"great\"</strong> được phát âm là <strong>/eɪ/</strong>, các từ còn lại phát âm là <strong>/iː/</strong>.</p><ul><li><strong>great</strong> /ɡreɪt/</li><li><strong>meat</strong> /miːt/</li><li><strong>beach</strong> /biːtʃ/</li><li><strong>team</strong> /tiːm/</li></ul>",
+    "ruleTip": "Nhóm từ đặc biệt 'great', 'break', 'steak' có 'ea' phát âm là /eɪ/, khác với 'ea' thường phát âm là /iː/."
+  },
+  {
+    "id": "70_2",
+    "questionName": "Question 2",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_2_2",
+        "text": "moon",
+        "html": "m<u>oo</u>n"
+      },
+      {
+        "id": "70_2_3",
+        "text": "food",
+        "html": "f<u>oo</u>d"
+      },
+      {
+        "id": "70_2_4",
+        "text": "noon",
+        "html": "n<u>oo</u>n"
+      },
+      {
+        "id": "70_2_1",
+        "text": "blood",
+        "html": "bl<u>oo</u>d"
+      }
+    ],
+    "correctChoiceId": "70_2_1",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"blood\"</strong> được phát âm là <strong>/ʌ/</strong>, các từ còn lại phát âm là <strong>/uː/</strong>.</p><ul><li><strong>blood</strong> /blʌd/</li><li><strong>moon</strong> /muːn/</li><li><strong>food</strong> /fuːd/</li><li><strong>noon</strong> /nuːn/</li></ul>",
+    "ruleTip": "'blood' và 'flood' là hai từ đặc biệt có 'oo' phát âm là /ʌ/, trong khi hầu hết các từ 'oo' còn lại phát âm là /uː/ hoặc /ʊ/."
+  },
+  {
+    "id": "70_3",
+    "questionName": "Question 3",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_3_2",
+        "text": "bus",
+        "html": "b<u>u</u>s"
+      },
+      {
+        "id": "70_3_1",
+        "text": "busy",
+        "html": "b<u>u</u>sy"
+      },
+      {
+        "id": "70_3_3",
+        "text": "sun",
+        "html": "s<u>u</u>n"
+      },
+      {
+        "id": "70_3_4",
+        "text": "cup",
+        "html": "c<u>u</u>p"
+      }
+    ],
+    "correctChoiceId": "70_3_1",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"busy\"</strong> được phát âm là <strong>/ɪ/</strong>, các từ còn lại phát âm là <strong>/ʌ/</strong>.</p><ul><li><strong>busy</strong> /ˈbɪzi/</li><li><strong>bus</strong> /bʌs/</li><li><strong>sun</strong> /sʌn/</li><li><strong>cup</strong> /kʌp/</li></ul>",
+    "ruleTip": "Chữ 'u' trong 'busy' phát âm là /ɪ/ (/ˈbɪzi/), trong khi 'bus', 'sun', 'cup' phát âm là /ʌ/."
+  },
+  {
+    "id": "70_4",
+    "questionName": "Question 4",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_4_1",
+        "text": "head",
+        "html": "h<u>ea</u>d"
+      },
+      {
+        "id": "70_4_2",
+        "text": "bread",
+        "html": "br<u>ea</u>d"
+      },
+      {
+        "id": "70_4_3",
+        "text": "heavy",
+        "html": "h<u>ea</u>vy"
+      },
+      {
+        "id": "70_4_4",
+        "text": "clean",
+        "html": "cl<u>ea</u>n"
+      }
+    ],
+    "correctChoiceId": "70_4_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"clean\"</strong> được phát âm là <strong>/iː/</strong>, các từ còn lại phát âm là <strong>/e/</strong>.</p><ul><li><strong>clean</strong> /kliːn/</li><li><strong>head</strong> /hed/</li><li><strong>bread</strong> /bred/</li><li><strong>heavy</strong> /ˈhevi/</li></ul>",
+    "ruleTip": "'clean' có 'ea' phát âm là /iː/, trong khi 'head', 'bread', 'heavy' có 'ea' phát âm là /e/."
+  },
+  {
+    "id": "70_5",
+    "questionName": "Question 5",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_5_1",
+        "text": "mind",
+        "html": "m<u>i</u>nd"
+      },
+      {
+        "id": "70_5_2",
+        "text": "find",
+        "html": "f<u>i</u>nd"
+      },
+      {
+        "id": "70_5_4",
+        "text": "live",
+        "html": "l<u>i</u>ve"
+      },
+      {
+        "id": "70_5_3",
+        "text": "drive",
+        "html": "dr<u>i</u>ve"
+      }
+    ],
+    "correctChoiceId": "70_5_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"live\"</strong> được phát âm là <strong>/ɪ/</strong>, các từ còn lại phát âm là <strong>/aɪ/</strong>.</p><ul><li><strong>live</strong> /lɪv/ (động từ)</li><li><strong>mind</strong> /maɪnd/</li><li><strong>find</strong> /faɪnd/</li><li><strong>drive</strong> /draɪv/</li></ul>",
+    "ruleTip": "Động từ 'live' phát âm là /lɪv/ (nguyên âm ngắn /ɪ/), trong khi 'mind', 'find', 'drive' có nguyên âm đôi /aɪ/."
+  },
+  {
+    "id": "70_6",
+    "questionName": "Question 6",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_6_1",
+        "text": "cow",
+        "html": "c<u>ow</u>"
+      },
+      {
+        "id": "70_6_4",
+        "text": "slow",
+        "html": "sl<u>ow</u>"
+      },
+      {
+        "id": "70_6_2",
+        "text": "how",
+        "html": "h<u>ow</u>"
+      },
+      {
+        "id": "70_6_3",
+        "text": "now",
+        "html": "n<u>ow</u>"
+      }
+    ],
+    "correctChoiceId": "70_6_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"slow\"</strong> được phát âm là <strong>/əʊ/</strong>, các từ còn lại phát âm là <strong>/aʊ/</strong>.</p><ul><li><strong>slow</strong> /sləʊ/</li><li><strong>cow</strong> /kaʊ/</li><li><strong>how</strong> /haʊ/</li><li><strong>now</strong> /naʊ/</li></ul>",
+    "ruleTip": "'slow' có 'ow' phát âm là /əʊ/, trong khi 'cow', 'how', 'now' có 'ow' phát âm là /aʊ/."
+  },
+  {
+    "id": "70_7",
+    "questionName": "Question 7",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_7_1",
+        "text": "bed",
+        "html": "b<u>e</u>d"
+      },
+      {
+        "id": "70_7_2",
+        "text": "send",
+        "html": "s<u>e</u>nd"
+      },
+      {
+        "id": "70_7_3",
+        "text": "pencil",
+        "html": "p<u>e</u>ncil"
+      },
+      {
+        "id": "70_7_4",
+        "text": "scene",
+        "html": "sc<u>e</u>ne"
+      }
+    ],
+    "correctChoiceId": "70_7_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"scene\"</strong> được phát âm là <strong>/iː/</strong>, các từ còn lại phát âm là <strong>/e/</strong>.</p><ul><li><strong>scene</strong> /siːn/</li><li><strong>bed</strong> /bed/</li><li><strong>send</strong> /send/</li><li><strong>pencil</strong> /ˈpensl/</li></ul>",
+    "ruleTip": "'scene' phát âm là /siːn/ (nguyên âm dài /iː/), còn 'bed', 'send', 'pencil' phát âm là /e/."
+  },
+  {
+    "id": "70_8",
+    "questionName": "Question 8",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_8_1",
+        "text": "book",
+        "html": "b<u>oo</u>k"
+      },
+      {
+        "id": "70_8_4",
+        "text": "boot",
+        "html": "b<u>oo</u>t"
+      },
+      {
+        "id": "70_8_2",
+        "text": "look",
+        "html": "l<u>oo</u>k"
+      },
+      {
+        "id": "70_8_3",
+        "text": "foot",
+        "html": "f<u>oo</u>t"
+      }
+    ],
+    "correctChoiceId": "70_8_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"boot\"</strong> được phát âm là <strong>/uː/</strong>, các từ còn lại phát âm là <strong>/ʊ/</strong>.</p><ul><li><strong>boot</strong> /buːt/</li><li><strong>book</strong> /bʊk/</li><li><strong>look</strong> /lʊk/</li><li><strong>foot</strong> /fʊt/</li></ul>",
+    "ruleTip": "'boot' có 'oo' phát âm là âm dài /uː/, trong khi 'book', 'look', 'foot' có 'oo' phát âm là âm ngắn /ʊ/."
+  },
+  {
+    "id": "70_9",
+    "questionName": "Question 9",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_9_4",
+        "text": "father",
+        "html": "f<u>a</u>ther"
+      },
+      {
+        "id": "70_9_1",
+        "text": "cat",
+        "html": "c<u>a</u>t"
+      },
+      {
+        "id": "70_9_2",
+        "text": "hat",
+        "html": "h<u>a</u>t"
+      },
+      {
+        "id": "70_9_3",
+        "text": "dad",
+        "html": "d<u>a</u>d"
+      }
+    ],
+    "correctChoiceId": "70_9_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"father\"</strong> được phát âm là <strong>/ɑː/</strong>, các từ còn lại phát âm là <strong>/æ/</strong>.</p><ul><li><strong>father</strong> /ˈfɑːðə/</li><li><strong>cat</strong> /kæt/</li><li><strong>hat</strong> /hæt/</li><li><strong>dad</strong> /dæd/</li></ul>",
+    "ruleTip": "'father' có 'a' phát âm là /ɑː/ (/ˈfɑːðə/), các từ 'cat', 'hat', 'dad' có 'a' phát âm là /æ/."
+  },
+  {
+    "id": "70_10",
+    "questionName": "Question 10",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_10_1",
+        "text": "come",
+        "html": "c<u>o</u>me"
+      },
+      {
+        "id": "70_10_4",
+        "text": "home",
+        "html": "h<u>o</u>me"
+      },
+      {
+        "id": "70_10_2",
+        "text": "love",
+        "html": "l<u>o</u>ve"
+      },
+      {
+        "id": "70_10_3",
+        "text": "mother",
+        "html": "m<u>o</u>ther"
+      }
+    ],
+    "correctChoiceId": "70_10_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"home\"</strong> được phát âm là <strong>/əʊ/</strong>, các từ còn lại phát âm là <strong>/ʌ/</strong>.</p><ul><li><strong>home</strong> /həʊm/</li><li><strong>come</strong> /kʌm/</li><li><strong>love</strong> /lʌv/</li><li><strong>mother</strong> /ˈmʌðə/</li></ul>",
+    "ruleTip": "'home' phát âm là /həʊm/ (nguyên âm đôi /əʊ/), còn 'come', 'love', 'mother' có 'o' phát âm là /ʌ/."
+  },
+  {
+    "id": "70_11",
+    "questionName": "Question 11",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_11_1",
+        "text": "plane",
+        "html": "pl<u>a</u>ne"
+      },
+      {
+        "id": "70_11_2",
+        "text": "date",
+        "html": "d<u>a</u>te"
+      },
+      {
+        "id": "70_11_4",
+        "text": "hat",
+        "html": "h<u>a</u>t"
+      },
+      {
+        "id": "70_11_3",
+        "text": "make",
+        "html": "m<u>a</u>ke"
+      }
+    ],
+    "correctChoiceId": "70_11_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"hat\"</strong> được phát âm là <strong>/æ/</strong>, các từ còn lại phát âm là <strong>/eɪ/</strong>.</p><ul><li><strong>hat</strong> /hæt/</li><li><strong>plane</strong> /pleɪn/</li><li><strong>date</strong> /deɪt/</li><li><strong>make</strong> /meɪk/</li></ul>",
+    "ruleTip": "'hat' có 'a' phát âm là /æ/, trong khi 'plane', 'date', 'make' có 'a' phát âm là /eɪ/."
+  },
+  {
+    "id": "70_12",
+    "questionName": "Question 12",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_12_1",
+        "text": "hear",
+        "html": "h<u>ear</u>"
+      },
+      {
+        "id": "70_12_2",
+        "text": "clear",
+        "html": "cl<u>ear</u>"
+      },
+      {
+        "id": "70_12_4",
+        "text": "bear",
+        "html": "b<u>ear</u>"
+      },
+      {
+        "id": "70_12_3",
+        "text": "near",
+        "html": "n<u>ear</u>"
+      }
+    ],
+    "correctChoiceId": "70_12_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"bear\"</strong> được phát âm là <strong>/eə/</strong>, các từ còn lại phát âm là <strong>/ɪə/</strong>.</p><ul><li><strong>bear</strong> /beə/</li><li><strong>hear</strong> /hɪə/</li><li><strong>clear</strong> /klɪə/</li><li><strong>near</strong> /nɪə/</li></ul>",
+    "ruleTip": "'bear' có 'ear' phát âm là /eə/, trong khi 'hear', 'clear', 'near' phát âm là /ɪə/."
+  },
+  {
+    "id": "70_13",
+    "questionName": "Question 13",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_13_2",
+        "text": "thought",
+        "html": "th<u>ought</u>"
+      },
+      {
+        "id": "70_13_3",
+        "text": "bought",
+        "html": "b<u>ought</u>"
+      },
+      {
+        "id": "70_13_1",
+        "text": "though",
+        "html": "th<u>ough</u>"
+      },
+      {
+        "id": "70_13_4",
+        "text": "fought",
+        "html": "f<u>ought</u>"
+      }
+    ],
+    "correctChoiceId": "70_13_1",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"though\"</strong> được phát âm là <strong>/əʊ/</strong>, các từ còn lại phát âm là <strong>/ɔː/</strong>.</p><ul><li><strong>though</strong> /ðəʊ/</li><li><strong>thought</strong> /θɔːt/</li><li><strong>bought</strong> /bɔːt/</li><li><strong>fought</strong> /fɔːt/</li></ul>",
+    "ruleTip": "'though' phát âm là /ðəʊ/ (/əʊ/), trong khi 'thought', 'bought', 'fought' có 'ough/ought' phát âm là /ɔː/."
+  },
+  {
+    "id": "70_14",
+    "questionName": "Question 14",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_14_4",
+        "text": "country",
+        "html": "c<u>ou</u>ntry"
+      },
+      {
+        "id": "70_14_1",
+        "text": "sound",
+        "html": "s<u>ou</u>nd"
+      },
+      {
+        "id": "70_14_2",
+        "text": "cloud",
+        "html": "cl<u>ou</u>d"
+      },
+      {
+        "id": "70_14_3",
+        "text": "house",
+        "html": "h<u>ou</u>se"
+      }
+    ],
+    "correctChoiceId": "70_14_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"country\"</strong> được phát âm là <strong>/ʌ/</strong>, các từ còn lại phát âm là <strong>/aʊ/</strong>.</p><ul><li><strong>country</strong> /ˈkʌntri/</li><li><strong>sound</strong> /saʊnd/</li><li><strong>cloud</strong> /klaʊd/</li><li><strong>house</strong> /haʊs/</li></ul>",
+    "ruleTip": "'country' có 'ou' phát âm là /ʌ/ (/ˈkʌntri/), trong khi 'sound', 'cloud', 'house' phát âm là /aʊ/."
+  },
+  {
+    "id": "70_15",
+    "questionName": "Question 15",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "70_15_1",
+        "text": "hit",
+        "html": "h<u>i</u>t"
+      },
+      {
+        "id": "70_15_2",
+        "text": "sit",
+        "html": "s<u>i</u>t"
+      },
+      {
+        "id": "70_15_3",
+        "text": "kid",
+        "html": "k<u>i</u>d"
+      },
+      {
+        "id": "70_15_4",
+        "text": "bike",
+        "html": "b<u>i</u>ke"
+      }
+    ],
+    "correctChoiceId": "70_15_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"bike\"</strong> được phát âm là <strong>/aɪ/</strong>, các từ còn lại phát âm là <strong>/ɪ/</strong>.</p><ul><li><strong>bike</strong> /baɪk/</li><li><strong>hit</strong> /hɪt/</li><li><strong>sit</strong> /sɪt/</li><li><strong>kid</strong> /kɪd/</li></ul>",
+    "ruleTip": "'bike' có 'i' phát âm là /aɪ/, trong khi 'hit', 'sit', 'kid' có 'i' phát âm là /ɪ/."
+  }
+]

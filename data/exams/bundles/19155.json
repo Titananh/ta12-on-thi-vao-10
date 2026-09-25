@@ -1,0 +1,1411 @@
+{
+  "id": 19155,
+  "title": "Đề thi thử Tiếng Anh vào 10 xã Vân Đình năm 2026 (Lần 2)",
+  "year": 2026,
+  "categoryId": 1489,
+  "categoryName": "Đề thi thử vào 10 môn Anh của các đơn vị GD tại Hà Nội",
+  "timeLimit": 60,
+  "totalPoint": 40,
+  "questionCount": 31,
+  "author": "Tổ GV Tiếng Anh - TA12",
+  "description": "",
+  "createdAt": "2026-09-24T14:47:05.663Z",
+  "questions": [
+    {
+      "id": 1201584,
+      "questionNumber": 1,
+      "questionName": "Chọn câu đồng nghĩa",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>&quot;Why don't we spend more time playing outdoors?&quot; the students said.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2324887,
+          "label": "A",
+          "text": "<p>I don't think we should spend more time playing outdoors.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324888,
+          "label": "B",
+          "text": "<p>The students suggested spending more time playing outdoors.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2324889,
+          "label": "C",
+          "text": "<p>Spending more time playing outdoors is a must.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324890,
+          "label": "D",
+          "text": "<p>The students suggested spending more time to play outdoors.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2324888,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>C&acirc;u gốc \"<strong>Why don't we...?</strong>\" d&ugrave;ng để đưa ra lời gợi &yacute;, đề nghị. Động từ tường thuật n&agrave;o ph&ugrave; hợp với chức năng đ&oacute;? H&atilde;y ch&uacute; &yacute; cấu tr&uacute;c theo sau động từ tường thuật đ&oacute; v&agrave; cấu tr&uacute;c \"<strong>spend time...</strong>\".</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan:&nbsp;</span></p>\n<p style=\"text-align: justify;\"><strong>Why don't we + V(inf)...?:</strong> Tại sao ch&uacute;ng ta kh&ocirc;ng ...? (d&ugrave;ng để đưa ra lời gợi &yacute;, đề nghị)</p>\n<p style=\"text-align: justify;\"><strong>suggest + V-ing:</strong> gợi &yacute; l&agrave;m g&igrave;&nbsp;</p>\n<p style=\"text-align: justify;\"><strong>spend time + V-ing:</strong> d&agrave;nh thời gian l&agrave;m g&igrave;</p>\n<p style=\"text-align: justify;\">&rarr;&nbsp;Phương &aacute;n 2 \"<strong>The students <span class=\"eq-highlight\" style=\"color: #5fbd18;\">suggested spending more time playing outdoors</span>.</strong>\" l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:&nbsp;</span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<strong><span style=\"color: #ff0000;\">I don't think we should</span> spend more time playing outdoors.</strong>\" sai v&igrave; n&oacute; diễn tả sự phản đối, tr&aacute;i ngược với &yacute; nghĩa gợi &yacute; của c&acirc;u gốc.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 \"<strong>Spending more time playing outdoors is <span style=\"color: #ff0000;\">a must</span>.</strong>\" sai v&igrave; cụm từ \"a must\" diễn tả sự bắt buộc, mạnh hơn nhiều so với một lời gợi &yacute;.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<strong>The students suggested spending more time <span style=\"color: #ff0000;\">to play</span> outdoors.</strong>\" sai v&igrave; cấu tr&uacute;c đ&uacute;ng l&agrave; \"spend time V-ing\".</li>\n</ul>",
+      "answerFeedbacks": {
+        "2324887": "Phương án này diễn đạt một ý kiến phủ định, hoàn toàn trái ngược với ý nghĩa gợi ý của câu gốc.",
+        "2324888": "Cấu trúc <em>\"suggest + V-ing\"</em> được dùng để diễn tả một lời gợi ý, đúng với ý nghĩa của câu gốc.",
+        "2324889": "Việc sử dụng cụm từ <em>\"a must\"</em> diễn tả một sự bắt buộc mạnh mẽ, khác với ý nghĩa gợi ý nhẹ nhàng của câu gốc.",
+        "2324890": "Cấu trúc đúng phải là <em>\"spend time + V-ing\"</em>, không phải <em>\"spend time + to-infinitive\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 1201587,
+      "questionNumber": 2,
+      "questionName": "Chọn câu đồng nghĩa",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>I speak enough German for holidays.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2324895,
+          "label": "A",
+          "text": "<p>I get by in German for holidays.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2324896,
+          "label": "B",
+          "text": "<p>I get by German for holidays.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324897,
+          "label": "C",
+          "text": "<p>I get over German for holidays.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324898,
+          "label": "D",
+          "text": "<p>I picked up a few German for holidays.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2324895,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để diễn tả việc biết một ng&ocirc;n ngữ ở mức đủ d&ugrave;ng cho một mục đ&iacute;ch cụ thể, ch&uacute;ng ta thường d&ugrave;ng một cụm động từ c&oacute; nghĩa l&agrave; \"biết đủ c&aacute;i g&igrave; trong một t&igrave;nh huống\". H&atilde;y ch&uacute; &yacute; đến giới từ đi k&egrave;m với cụm động từ đ&oacute;.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan:&nbsp;</span></p>\n<p style=\"text-align: justify;\"><strong>get by in something</strong> (phr.v.): biết đủ (một ng&ocirc;n ngữ, kỹ năng, ...) để sử dụng</p>\n<p style=\"text-align: justify;\"><strong>get over something</strong> (phr.v.): vượt qua, b&igrave;nh phục (sau c&uacute; sốc, bệnh tật).</p>\n<p style=\"text-align: justify;\"><strong>pick something up</strong> (phr.v.): học lỏm, học được một kỹ năng hay th&ocirc;ng tin mới một c&aacute;ch kh&ocirc;ng ch&iacute;nh thức.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">&rarr;</span>&nbsp;Phương &aacute;n 1 \"<strong>I <span class=\"eq-highlight\" style=\"color: #5fbd18;\">get by in</span> German for holidays.</strong>\" l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:&nbsp;</span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 \"<strong>I get by <span style=\"color: #ff0000;\">German</span> for holidays.</strong>\" sai v&igrave; thiếu giới từ \"in\" sau \"get by\" khi đi với một ng&ocirc;n ngữ.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 \"<strong>I <span style=\"color: #ff0000;\">get over</span> German for holidays.</strong>\" sai v&igrave; cụm động từ \"get over\" (vượt qua, b&igrave;nh phục) kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<strong>I picked up <span style=\"color: #ff0000;\">a few German</span> for holidays.</strong>\" sai v&igrave; cấu tr&uacute;c \"a few\" phải đi với danh từ đếm được số nhiều, trong khi \"German\" (tiếng Đức) l&agrave; danh từ kh&ocirc;ng đếm được.</li>\n</ul>",
+      "answerFeedbacks": {
+        "2324895": "<p>Cụm động từ <em>\"get by in a language\"</em> c&oacute; nghĩa l&agrave; biết đủ một ng&ocirc;n ngữ để giao tiếp, tương đồng với <em>\"speak enough a language\"</em>.</p>",
+        "2324896": "<p>Cụm động từ <em>\"get by\"</em> khi đi với một ng&ocirc;n ngữ cần c&oacute; giới từ <em>\"in\"</em>.</p>",
+        "2324897": "<p>Cụm động từ <em>\"get over\"</em> c&oacute; nghĩa l&agrave; \"vượt qua, b&igrave;nh phục sau một c&uacute; sốc hoặc bệnh tật\", kh&ocirc;ng ph&ugrave; hợp về nghĩa.</p>",
+        "2324898": "<p>Cụm từ <em>\"a few German\"</em> kh&ocirc;ng đ&uacute;ng ngữ ph&aacute;p; phải l&agrave; <em>\"a few words of German\"</em> hoặc <em>\"a little German\"</em>.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201589,
+      "questionNumber": 3,
+      "questionName": "Viết câu từ gợi ý",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>I / wish / fluent English / study / abroad.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2324903,
+          "label": "A",
+          "text": "<p>I wish I am fluent in English to study abroad.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324904,
+          "label": "B",
+          "text": "<p>I wish I were fluent in English to study abroad.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2324905,
+          "label": "C",
+          "text": "<p>I wish and am fluent in English to study abroad.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324906,
+          "label": "D",
+          "text": "<p>I wish I were fluent at English to study abroad.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2324904,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến cấu tr&uacute;c của c&acirc;u ước ở hiện tại:&nbsp;<span style=\"font-weight: 600; text-align: justify;\">S + wish(es) + S + V(pt)</span></p>\n<p>Ngo&agrave;i ra, h&atilde;y xem x&eacute;t giới từ n&agrave;o thường đi k&egrave;m với t&iacute;nh từ \"<strong>fluent</strong>\" khi n&oacute;i về việc th&ocirc;ng thạo một ng&ocirc;n ngữ.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan:&nbsp;</span></p>\n<p style=\"text-align: justify;\">C&acirc;u ước ở hiện tại d&ugrave;ng để diễn tả một mong muốn, một giả định kh&ocirc;ng c&oacute; thật hoặc tr&aacute;i ngược với thực tế ở hiện tại. Cấu tr&uacute;c: <span style=\"font-weight: 600;\">S + wish(es) + S + V(pt)</span></p>\n<p style=\"text-align: justify;\"><strong>fluent in something (adj.)</strong>: th&ocirc;ng thạo, tr&ocirc;i chảy (về một ng&ocirc;n ngữ).</p>\n<p style=\"text-align: justify;\"><strong>to + V(inf)</strong>: để l&agrave;m g&igrave; (d&ugrave;ng để chỉ mục đ&iacute;ch)</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">&rarr;</span>&nbsp;Phương &aacute;n 2 \"<strong>I wish I <span class=\"eq-highlight\" style=\"color: #5fbd18;\">were</span> fluent <span class=\"eq-highlight\" style=\"color: #5fbd18;\">in</span> English to study abroad.</strong>\" l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:&nbsp;</span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<strong>I wish I <span style=\"color: #ff0000;\">am</span> fluent in English to study abroad.</strong>\" sai v&igrave; với c&acirc;u ước ở hiện tại mệnh đề sau \"wish\" phải d&ugrave;ng động từ ở dạng qu&aacute; khứ đơn.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 \"<strong>I <span style=\"color: #ff0000;\">wish and am</span> fluent in English to study abroad.</strong>\" sai v&igrave; cấu tr&uacute;c ngữ ph&aacute;p kh&ocirc;ng hợp l&yacute;.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<strong>I wish I were fluent <span style=\"color: #ff0000;\">at</span> English to study abroad.</strong>\" sai v&igrave; giới từ đi với \"fluent\" khi n&oacute;i về việc th&ocirc;ng thạo một ng&ocirc;n ngữ phải l&agrave; \"in\".</li>\n</ul>",
+      "answerFeedbacks": {
+        "2324903": "<p>Động từ trong mệnh đề sau <em>\"wish\"</em> phải ở th&igrave; qu&aacute; khứ đơn, thể hiện điều ước kh&ocirc;ng c&oacute; thật ở hiện tại.</p>",
+        "2324904": "<p>C&acirc;u n&agrave;y sử dụng đ&uacute;ng cấu tr&uacute;c c&acirc;u ước ở hiện tại với động từ <em>\"were\"</em> v&agrave; giới từ <em>\"in\"</em> đi với t&iacute;nh từ <em>\"fluent\"</em>.</p>",
+        "2324905": "<p>Cụm <em>\"wish and am\"</em> kh&ocirc;ng đ&uacute;ng ngữ ph&aacute;p v&agrave; kh&ocirc;ng truyền tải đ&uacute;ng &yacute; nghĩa của c&acirc;u.</p>",
+        "2324906": "<p>Giới từ ch&iacute;nh x&aacute;c đi với t&iacute;nh từ <em>\"fluent\"</em> khi n&oacute;i về việc th&ocirc;ng thạo một ng&ocirc;n ngữ phải l&agrave; \"<em>in\"</em>, kh&ocirc;ng phải <em>\"at\"</em>.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201591,
+      "questionNumber": 4,
+      "questionName": "Viết câu từ gợi ý",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>Nurse / person / look after / patients.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2324911,
+          "label": "A",
+          "text": "<p>A person who is a nurse looks after patients.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324912,
+          "label": "B",
+          "text": "<p>A person is a nurse who looks after patients.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324913,
+          "label": "C",
+          "text": "<p>A nurse who is a person looks after patients.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324914,
+          "label": "D",
+          "text": "<p>A nurse is a person who looks after patients.</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2324914,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y x&aacute;c định đ&acirc;u l&agrave; chủ thể cần được định nghĩa (\"<strong>nurse</strong>\") v&agrave; mệnh đề quan hệ (bắt đầu bằng \"<strong>who</strong>\") n&ecirc;n bổ nghĩa cho danh từ n&agrave;o để tạo th&agrave;nh một định nghĩa hợp l&yacute; nhất.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan:&nbsp;</span></p>\n<p style=\"text-align: justify;\">Th&igrave; hiện tại đơn d&ugrave;ng để diễn tả một sự thật, một định nghĩa. Cấu tr&uacute;c ở dạng khẳng định: <span style=\"font-weight: 600;\">S + V(s/es)</span>.</p>\n<p style=\"text-align: justify;\">Đại từ quan hệ<strong> \"who\" </strong>đứng sau danh từ chỉ người để cung cấp th&ocirc;ng tin cần thiết nhằm x&aacute;c định danh từ đ&oacute;.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">&rarr;</span>&nbsp;Phương &aacute;n 4 \"<strong>A nurse <span class=\"eq-highlight\" style=\"color: #5fbd18;\">is a person who looks after patients</span>.</strong>\" l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:&nbsp;</span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<strong>A person who is a nurse looks after patients.</strong>\" sai v&igrave; cấu tr&uacute;c n&agrave;y kh&ocirc;ng tự nhi&ecirc;n v&agrave; kh&ocirc;ng phải l&agrave; c&aacute;ch định nghĩa th&ocirc;ng thường cho một danh từ; thay v&igrave; định nghĩa \"y t&aacute;\", c&acirc;u n&agrave;y lại định nghĩa \"một người m&agrave; l&agrave; y t&aacute;\".</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 \"<strong>A person is a nurse <span style=\"color: #ff0000;\">who looks after patients</span>.</strong>\" sai v&igrave; mệnh đề quan hệ \"who looks after patients\" đặt ở vị tr&iacute; n&agrave;y khiến c&acirc;u trở n&ecirc;n kh&oacute; hiểu, dường như đang n&oacute;i về một người cụ thể chứ kh&ocirc;ng phải một định nghĩa chung.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 \"<strong>A nurse <span style=\"color: #ff0000;\">who is a person</span> looks after patients.</strong>\" sai v&igrave; mệnh đề quan hệ \"who is a person\" thừa th&atilde;i v&agrave; kh&ocirc;ng hợp l&yacute; về mặt logic, v&igrave; hiển nhi&ecirc;n y t&aacute; l&agrave; người.</li>\n</ul>",
+      "answerFeedbacks": {
+        "2324911": "<p>C&acirc;u n&agrave;y tuy đ&uacute;ng ngữ ph&aacute;p nhưng kh&ocirc;ng phải l&agrave; c&aacute;ch diễn đạt tự nhi&ecirc;n v&agrave; trực tiếp nhất để định nghĩa một y t&aacute;.</p>",
+        "2324912": "<p>Cấu tr&uacute;c c&acirc;u n&agrave;y kh&ocirc;ng hợp l&yacute; v&igrave; mệnh đề quan hệ <em>\"who looks after patients\"</em> được đặt ở vị tr&iacute; g&acirc;y kh&oacute; hiểu về mặt &yacute; nghĩa.</p>",
+        "2324913": "<p>C&acirc;u n&agrave;y sai về mặt logic v&igrave; mệnh đề quan hệ <em>\"who is a person\"</em> l&agrave; thừa th&atilde;i v&agrave; kh&ocirc;ng cần thiết.</p>",
+        "2324914": "<p>C&acirc;u n&agrave;y đ&uacute;ng ngữ ph&aacute;p v&agrave; logic, sử dụng mệnh đề quan hệ <em>\"who looks after patients\"</em> để định nghĩa <em>\"a person\"</em>, tạo th&agrave;nh một c&acirc;u định nghĩa ho&agrave;n chỉnh cho <em>\"A nurse\"</em>.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201593,
+      "questionNumber": 5,
+      "questionName": "Hiểu biển báo",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What does the sign say?</strong></p>\n<p><img src=\"/images/exams/img_1_1201593_1_cafe1de9.png\" width=\"300\"></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2324919,
+          "label": "A",
+          "text": "<p>Drinking alcohol is not safe when you are driving a car or other vehicles.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324920,
+          "label": "B",
+          "text": "<p>You can drive a car if you drink only a little alcohol and feel okay.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324921,
+          "label": "C",
+          "text": "<p>It is good to drink water while driving so you stay awake and safe.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324922,
+          "label": "D",
+          "text": "<p>You should only drive if you have not had any alcohol to drink.</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2324922,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y đọc kỹ th&ocirc;ng điệp tr&ecirc;n biển b&aacute;o: \"<strong>DON'T DRINK AND DRIVE</strong>\" (Kh&ocirc;ng được uống rượu bia v&agrave; l&aacute;i xe) v&agrave; chọn phương &aacute;n diễn đạt ch&iacute;nh x&aacute;c nhất lệnh cấm n&agrave;y.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Nội dung biển b&aacute;o: </span></p>\n<p style=\"text-align: justify;\"><em>Biển hiệu cấm uống rượu khi l&aacute;i xe, với h&igrave;nh ảnh chai rượu, ly rượu v&agrave; &ocirc; t&ocirc; bị gạch ch&eacute;o trong v&ograve;ng tr&ograve;n đỏ, c&ugrave;ng d&ograve;ng chữ \"DON'T DRINK AND DRIVE\" (Đừng uống rượu v&agrave; l&aacute;i xe).</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Biển b&aacute;o <em>\"DON'T DRINK AND DRIVE\"</em> đưa ra lệnh cấm trực tiếp việc uống rượu v&agrave; điều khiển phương tiện. Phương &aacute;n 4 diễn đạt ch&iacute;nh x&aacute;c lệnh cấm n&agrave;y, nhấn mạnh rằng bạn chỉ n&ecirc;n l&aacute;i xe khi chưa uống bất kỳ loại đồ uống c&oacute; cồn n&agrave;o.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>Don't drink and drive</strong> (expr.): Kh&ocirc;ng được uống rượu bia v&agrave; l&aacute;i xe (lệnh cấm)</p>\n<p style=\"text-align: justify;\"><strong>not safe</strong> (phr.): kh&ocirc;ng an to&agrave;n</p>\n<p style=\"text-align: justify;\"><strong>vehicles</strong> (pl. n.): phương tiện (xe cộ)</p>\n<p style=\"text-align: justify;\"><strong>feel okay</strong> (expr.): cảm thấy ổn/khỏe</p>\n<p style=\"text-align: justify;\"><strong>stay awake</strong> (expr.): giữ tỉnh t&aacute;o</p>\n<p style=\"text-align: justify;\"><strong>have not had any alcohol to drink</strong> (expr.): chưa uống bất kỳ đồ uống c&oacute; cồn n&agrave;o</p>",
+      "answerFeedbacks": {
+        "2324919": "Phương án này giải thích lý do tại sao không nên uống rượu khi lái xe, chứ không trực tiếp diễn đạt nội dung cấm của biển báo.",
+        "2324920": "Phương án này sai vì biển báo cấm hoàn toàn việc uống rượu khi lái xe, không cho phép uống dù chỉ một chút.",
+        "2324921": "Phương án này không liên quan đến nội dung chính của biển báo, vốn tập trung vào việc cấm uống rượu khi lái xe.",
+        "2324922": "Phương án này diễn đạt trực tiếp lệnh cấm của biển báo <em>\"DON'T DRINK AND DRIVE\"</em>, yêu cầu người lái xe không được uống bất kỳ loại đồ uống có cồn nào."
+      },
+      "images": [
+        "/images/exams/img_1_1201593_1_cafe1de9.png"
+      ]
+    },
+    {
+      "id": 1201595,
+      "questionNumber": 6,
+      "questionName": "Hiểu thông báo",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What does the notice say?</strong></p>\n<style>\n    .container-option-2 {\n        background-color: #f7fdf6;\n        background-color: #e5f6e3; \n        border: 0.10rem solid #ceedca;\n        border-left: 0.5rem solid #57aa19;\n        border-radius: 0.8rem;\n        padding: 1rem 1.5rem;\n        display: grid;\n        grid-template-columns: 1fr;\n        gap: 0.5rem;\n        transition: border-color 0.3s ease, border-left-color 0.3s ease;\n        cursor: default;\n        max-width: 400px;\n    }\n\n    .container-option-2:hover {\n        border-color: #add93f;\n        border-left-color: #5fbd18;\n    }\n\n    .header-2 {\n        color: #5fbd18;\n        font-weight: 600;\n        margin: 0;\n        padding-bottom: 0.3rem;\n        width: fit-content;\n    }\n\n    .content-2 {\n        color: #1c581f;\n        line-height: 1.5;\n        margin-top: 0.5rem;\n    }\n\n    .content-2 strong {\n        color: #57aa19;\n    }\n</style>\n<div class=\"container-option-2\">\n<div class=\"content-2\">\n<div class=\"content-2\">Bring a notebook and a pen to the workshop.</div>\n<div class=\"content-2\">You will need them to take notes.</div>\n</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2324927,
+          "label": "A",
+          "text": "<p>Bring a notebook and a pen because they are useful for you.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324928,
+          "label": "B",
+          "text": "<p>Bring a notebook and a pen in case you need to write down something</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2324929,
+          "label": "C",
+          "text": "<p>Don't bring a notebook and a pen to the workshop because they will give you there.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324930,
+          "label": "D",
+          "text": "<p>Buy a notebook and a pen and bring them to the workshop.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2324928,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến l&yacute; do \"<strong>You will need them to take notes</strong>\" được đưa ra trong th&ocirc;ng b&aacute;o. Phương &aacute;n n&agrave;o diễn đạt đ&uacute;ng nhất mục đ&iacute;ch n&agrave;y?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Nội dung th&ocirc;ng b&aacute;o: </span></p>\n<p style=\"text-align: justify;\"><em>H&atilde;y mang theo một cuốn sổ v&agrave; một c&acirc;y b&uacute;t đến buổi hội thảo. Bạn sẽ cần ch&uacute;ng để ghi ch&eacute;p.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Th&ocirc;ng b&aacute;o y&ecirc;u cầu người tham dự mang theo sổ v&agrave; b&uacute;t v&igrave; mục đ&iacute;ch \"<strong>to take notes</strong>\" (để ghi ch&eacute;p).</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 2 diễn đạt lại mục đ&iacute;ch n&agrave;y một c&aacute;ch ch&iacute;nh x&aacute;c bằng c&aacute;ch sử dụng cụm từ \"<strong>in case you need to write down something</strong>\" (ph&ograve;ng khi bạn cần viết g&igrave; đ&oacute;).</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>in case</strong> (conj.): trong trường hợp, ph&ograve;ng khi</p>\n<p style=\"text-align: justify;\"><strong>take notes</strong> (expr.): ghi ch&eacute;p, ghi ch&uacute;</p>\n<p style=\"text-align: justify;\"><strong>workshop</strong> (n.): hội thảo</p>",
+      "answerFeedbacks": {
+        "2324927": "Phương án này đúng về việc mang đồ dùng nhưng không diễn đạt chính xác lý do được nêu trong thông báo.",
+        "2324928": "Thông báo nói <em>\"You will need them to take notes\"</em>, và cụm từ <em>\"in case you need to write down something\"</em> diễn đạt lại mục đích này một cách chính xác.",
+        "2324929": "<p>Phương &aacute;n n&agrave;y ho&agrave;n to&agrave;n tr&aacute;i ngược với th&ocirc;ng b&aacute;o, v&igrave; th&ocirc;ng b&aacute;o y&ecirc;u cầu mang theo đồ d&ugrave;ng chứ kh&ocirc;ng n&oacute;i sẽ được cung cấp.</p>",
+        "2324930": "<p>Th&ocirc;ng b&aacute;o chỉ y&ecirc;u cầu mang theo đồ d&ugrave;ng m&agrave; kh&ocirc;ng đề cập đến việc phải mua ch&uacute;ng.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201597,
+      "questionNumber": 7,
+      "questionName": "Đọc hiểu đoạn văn",
+      "questionType": "Description",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read and choose the correct answers.</strong></p>\n<p style=\"text-align: justify;\">I was born in Ha Noi, the capital of Viet Nam. Ha Noi is famous for its natural beauty, with lots of rivers and lakes. There are many historical places to visit in Ha Noi. The Literature Temple (Van Mieu Quoc Tu Giam) is the country's first-ever historical university. Teenagers often come here to pray for high results in their upcoming examinations. As Viet Nam is a Buddhism-oriented nation, its capital has also been the centre of Buddhism for centuries. In Ha Noi alone, there are about 600 temples and pagodas. It also has a big church in the city centre, a <strong>popular</strong> place for the few Christians living here. With a population of nearly eight million, the city is quite crowded. However, the public transportation is not adequate, so visitors find it hard to safely cross the roads. The city is packed with universities and enterprises, making it the top destination for higher education students and labour workers. Many people from <strong>rural </strong>areas reside in Ha Noi so that they can get well-paid jobs. This makes the city become more crowded than ever before.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Đọc kỹ đoạn văn để hiểu nội dung chính và các chi tiết được đề cập.</p>",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 1201603,
+      "questionNumber": 8,
+      "questionName": "Ý chính của đoạn văn",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What is the passage about?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read and choose the correct answers.</strong></p>\n<p style=\"text-align: justify;\">I was born in Ha Noi, the capital of Viet Nam. Ha Noi is famous for its natural beauty, with lots of rivers and lakes. There are many historical places to visit in Ha Noi. The Literature Temple (Van Mieu Quoc Tu Giam) is the country's first-ever historical university. Teenagers often come here to pray for high results in their upcoming examinations. As Viet Nam is a Buddhism-oriented nation, its capital has also been the centre of Buddhism for centuries. In Ha Noi alone, there are about 600 temples and pagodas. It also has a big church in the city centre, a <strong>popular</strong> place for the few Christians living here. With a population of nearly eight million, the city is quite crowded. However, the public transportation is not adequate, so visitors find it hard to safely cross the roads. The city is packed with universities and enterprises, making it the top destination for higher education students and labour workers. Many people from <strong>rural </strong>areas reside in Ha Noi so that they can get well-paid jobs. This makes the city become more crowded than ever before.</p>",
+      "parentQuestionId": 1201597,
+      "choices": [
+        {
+          "id": 2324951,
+          "label": "A",
+          "text": "<p>A city</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2324952,
+          "label": "B",
+          "text": "<p>Changes in a city</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324953,
+          "label": "C",
+          "text": "<p>A city in the past</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324954,
+          "label": "D",
+          "text": "<p>Life in the countryside</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2324951,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Đọc lướt toàn bộ bài đọc và tự hỏi: \"Tác giả đang nói về chủ đề chung nào xuyên suốt các câu văn?\". Chủ đề này bao quát tất cả các chi tiết như địa danh, dân số, và giao thông.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi y&ecirc;u cầu nhận biết chủ đề ch&iacute;nh của cả b&agrave;i đọc. Để trả lời, học sinh cần đọc to&agrave;n bộ văn bản, tổng hợp c&aacute;c th&ocirc;ng tin chi tiết để x&aacute;c định nội dung bao qu&aacute;t nhất.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc bắt đầu bằng việc giới thiệu về H&agrave; Nội: <strong>[[I was born in Ha Noi, the capital of Viet Nam.]]</strong> (<em>T&ocirc;i được sinh ra ở H&agrave; Nội, thủ đ&ocirc; của Việt Nam.</em>). Sau đ&oacute;, b&agrave;i đọc m&ocirc; tả nhiều kh&iacute;a cạnh kh&aacute;c nhau của th&agrave;nh phố n&agrave;y như vẻ đẹp tự nhi&ecirc;n, c&aacute;c địa danh lịch sử, t&ocirc;n gi&aacute;o, d&acirc;n số, giao th&ocirc;ng v&agrave; vai tr&ograve; l&agrave; trung t&acirc;m gi&aacute;o dục, kinh tế. Tất cả c&aacute;c chi tiết n&agrave;y đều d&ugrave;ng để m&ocirc; tả về một th&agrave;nh phố.</p>\n<p style=\"text-align: justify;\">Do đ&oacute;, phương &aacute;n 1 l&agrave; đ&aacute;p &aacute;n ch&iacute;nh x&aacute;c nhất. C&aacute;c phương &aacute;n c&ograve;n lại chỉ đề cập đến những kh&iacute;a cạnh nhỏ (phương &aacute;n 2, 3) hoặc th&ocirc;ng tin kh&ocirc;ng phải trọng t&acirc;m của b&agrave;i đọc (phương &aacute;n 4).</p>",
+      "answerFeedbacks": {
+        "2324951": "Toàn bộ bài đọc mô tả các khía cạnh khác nhau của Hà Nội, từ vẻ đẹp tự nhiên, các địa danh lịch sử, dân số cho đến tình hình giao thông, nên chủ đề chính là về một thành phố.",
+        "2324952": "<p>Đ&acirc;y l&agrave; th&ocirc;ng tin qu&aacute; hẹp v&igrave; b&agrave;i đọc chỉ đề cập đến việc th&agrave;nh phố ng&agrave;y c&agrave;ng đ&ocirc;ng đ&uacute;c hơn ở cuối b&agrave;i chứ kh&ocirc;ng tập trung v&agrave;o những thay đổi.</p>",
+        "2324953": "<p>Đ&acirc;y l&agrave; th&ocirc;ng tin sai v&igrave; b&agrave;i đọc m&ocirc; tả cả những đặc điểm trong qu&aacute; khứ lẫn hiện tại của th&agrave;nh phố chứ kh&ocirc;ng chỉ tập trung v&agrave;o qu&aacute; khứ.</p>",
+        "2324954": "Đây là thông tin sai vì bài đọc chỉ nhắc đến vùng nông thôn (<em>\"rural areas\"</em>) như là nơi người dân di cư đến thành phố chứ không mô tả cuộc sống ở đó."
+      },
+      "images": []
+    },
+    {
+      "id": 1201609,
+      "questionNumber": 9,
+      "questionName": "Từ đồng nghĩa",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &quot;popular&quot; is CLOSEST in meaning to _____.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read and choose the correct answers.</strong></p>\n<p style=\"text-align: justify;\">I was born in Ha Noi, the capital of Viet Nam. Ha Noi is famous for its natural beauty, with lots of rivers and lakes. There are many historical places to visit in Ha Noi. The Literature Temple (Van Mieu Quoc Tu Giam) is the country's first-ever historical university. Teenagers often come here to pray for high results in their upcoming examinations. As Viet Nam is a Buddhism-oriented nation, its capital has also been the centre of Buddhism for centuries. In Ha Noi alone, there are about 600 temples and pagodas. It also has a big church in the city centre, a <strong>popular</strong> place for the few Christians living here. With a population of nearly eight million, the city is quite crowded. However, the public transportation is not adequate, so visitors find it hard to safely cross the roads. The city is packed with universities and enterprises, making it the top destination for higher education students and labour workers. Many people from <strong>rural </strong>areas reside in Ha Noi so that they can get well-paid jobs. This makes the city become more crowded than ever before.</p>",
+      "parentQuestionId": 1201597,
+      "choices": [
+        {
+          "id": 2324971,
+          "label": "A",
+          "text": "<p>interesting</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324972,
+          "label": "B",
+          "text": "<p>well-known</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2324973,
+          "label": "C",
+          "text": "<p>unique</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324974,
+          "label": "D",
+          "text": "<p>quiet</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2324972,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Hãy đọc kỹ câu văn chứa từ <strong>\"popular\"</strong>: <em>\"...a popular place for the few Christians living here.\"</em>. Từ \"popular\" ở đây có nghĩa là gì khi nó mô tả một địa điểm dành cho một nhóm người cụ thể?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng đọc v&agrave; đo&aacute;n nghĩa của từ trong ngữ cảnh. Để trả lời đ&uacute;ng, học sinh cần dựa v&agrave;o c&aacute;c từ v&agrave; cụm từ xung quanh từ \"popular\" để suy luận ra &yacute; nghĩa ph&ugrave; hợp nhất.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Trong b&agrave;i đọc, từ \"<strong>popular</strong>\" được d&ugrave;ng để mi&ecirc;u tả nh&agrave; thờ lớn: <strong>[[It also has a big church in the city centre, a popular place for the few Christians living here.]]</strong> (<em>N&oacute; cũng c&oacute; một nh&agrave; thờ lớn ở trung t&acirc;m th&agrave;nh phố, một nơi phổ biến cho số &iacute;t những người theo đạo Thi&ecirc;n Ch&uacute;a sống ở đ&acirc;y.</em>). \"<strong>Popular</strong>\" ở đ&acirc;y c&oacute; nghĩa l&agrave; một nơi được nhiều người trong một nh&oacute;m cụ thể (những người theo đạo Thi&ecirc;n Ch&uacute;a) biết đến v&agrave; thường xuy&ecirc;n lui tới. Do đ&oacute;, \"<strong>well-known</strong>\" (nổi tiếng, được biết đến rộng r&atilde;i) l&agrave; từ đồng nghĩa ph&ugrave; hợp nhất.</p>",
+      "answerFeedbacks": {
+        "2324971": "<p>Phương &aacute;n n&agrave;y sai v&igrave; <em>\"interesting\"</em> (th&uacute; vị) kh&ocirc;ng diễn tả được &yacute; nghĩa \"được nhiều người biết đến v&agrave; lui tới\" của từ <em>\"popular\"</em> trong ngữ cảnh n&agrave;y.</p>",
+        "2324972": "<p>Phương &aacute;n n&agrave;y đ&uacute;ng v&igrave; trong ngữ cảnh của b&agrave;i đọc, <em>\"popular\"</em> m&ocirc; tả một nơi được nhiều người trong một nh&oacute;m cụ thể biết đến v&agrave; lui tới, tương đương với <em>\"well-known\"</em> (nổi tiếng).</p>",
+        "2324973": "<p>Phương &aacute;n n&agrave;y sai v&igrave; <em>\"unique\" </em>(độc đ&aacute;o, duy nhất) mang &yacute; nghĩa tr&aacute;i ngược với <em>\"popular\"</em>, vốn chỉ sự phổ biến.</p>",
+        "2324974": "<p>Phương &aacute;n n&agrave;y sai v&igrave; một nơi <em>\"popular\"</em> (phổ biến) thường đ&ocirc;ng đ&uacute;c v&agrave; n&aacute;o nhiệt, tr&aacute;i ngược với <em>\"quiet\"</em> (y&ecirc;n tĩnh).</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201615,
+      "questionNumber": 10,
+      "questionName": "Chi tiết trong đoạn văn",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Teenagers often visit The Literature Temple because _____.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read and choose the correct answers.</strong></p>\n<p style=\"text-align: justify;\">I was born in Ha Noi, the capital of Viet Nam. Ha Noi is famous for its natural beauty, with lots of rivers and lakes. There are many historical places to visit in Ha Noi. The Literature Temple (Van Mieu Quoc Tu Giam) is the country's first-ever historical university. Teenagers often come here to pray for high results in their upcoming examinations. As Viet Nam is a Buddhism-oriented nation, its capital has also been the centre of Buddhism for centuries. In Ha Noi alone, there are about 600 temples and pagodas. It also has a big church in the city centre, a <strong>popular</strong> place for the few Christians living here. With a population of nearly eight million, the city is quite crowded. However, the public transportation is not adequate, so visitors find it hard to safely cross the roads. The city is packed with universities and enterprises, making it the top destination for higher education students and labour workers. Many people from <strong>rural </strong>areas reside in Ha Noi so that they can get well-paid jobs. This makes the city become more crowded than ever before.</p>",
+      "parentQuestionId": 1201597,
+      "choices": [
+        {
+          "id": 2324988,
+          "label": "A",
+          "text": "<p>it is the country's first-ever historical university</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324994,
+          "label": "B",
+          "text": "<p>they want to pray for high results in their upcoming examinations</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325000,
+          "label": "C",
+          "text": "<p>it is famous for its natural beauty</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325006,
+          "label": "D",
+          "text": "<p>it is packed with universities and enterprises, making it the top destination for higher education students</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2324994,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy đọc kỹ đoạn văn, tìm câu có chứa từ khóa <strong>“The Literature Temple”</strong> và <strong>“teenagers”</strong> để xác định lý do họ đến thăm nơi này.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng đọc t&igrave;m th&ocirc;ng tin cụ thể. Để trả lời, học sinh cần x&aacute;c định vị tr&iacute; th&ocirc;ng tin về Văn Miếu - Quốc Tử Gi&aacute;m v&agrave; l&yacute; do tại sao thanh thiếu ni&ecirc;n đến đ&acirc;y.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Trong b&agrave;i đọc c&oacute; c&acirc;u: <strong>[[Teenagers often come here to pray for high results in their upcoming examinations.]]</strong> (<em>Thanh thiếu ni&ecirc;n thường đến đ&acirc;y để cầu nguyện cho kết quả cao trong c&aacute;c kỳ thi sắp tới của họ.</em>). Th&ocirc;ng tin n&agrave;y ho&agrave;n to&agrave;n tr&ugrave;ng khớp với phương &aacute;n 2.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 tuy cũng l&agrave; một th&ocirc;ng tin đ&uacute;ng về Văn Miếu được nhắc đến trong b&agrave;i đọc (<strong>[[The Literature Temple (Van Mieu Quoc Tu Giam) is the country's first-ever historical university.]]</strong> (<em>Văn Miếu - Quốc Tử Gi&aacute;m l&agrave; trường đại học lịch sử đầu ti&ecirc;n của đất nước.</em>)), nhưng đ&acirc;y l&agrave; lời giới thiệu về địa danh n&agrave;y, kh&ocirc;ng phải l&agrave; l&yacute; do tại sao thanh thiếu ni&ecirc;n đến thăm.</p>",
+      "answerFeedbacks": {
+        "2324988": "Đây là thông tin đúng về Văn Miếu nhưng không phải là lý do tại sao thanh thiếu niên đến thăm nơi này.",
+        "2324994": "Bài đọc nêu rõ <em>\"Teenagers often come here to pray for high results in their upcoming examinations\"</em>.",
+        "2325000": "<p>B&agrave;i đọc n&oacute;i H&agrave; Nội nổi tiếng v&igrave; vẻ đẹp tự nhi&ecirc;n, kh&ocirc;ng phải về Văn Miếu.</p>",
+        "2325006": "Thông tin này mô tả thành phố Hà Nội nói chung, không phải là lý do để đến thăm Văn Miếu."
+      },
+      "images": []
+    },
+    {
+      "id": 1201623,
+      "questionNumber": 11,
+      "questionName": "Chi tiết trong đoạn văn",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What is the most popular religion in Ha Noi?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read and choose the correct answers.</strong></p>\n<p style=\"text-align: justify;\">I was born in Ha Noi, the capital of Viet Nam. Ha Noi is famous for its natural beauty, with lots of rivers and lakes. There are many historical places to visit in Ha Noi. The Literature Temple (Van Mieu Quoc Tu Giam) is the country's first-ever historical university. Teenagers often come here to pray for high results in their upcoming examinations. As Viet Nam is a Buddhism-oriented nation, its capital has also been the centre of Buddhism for centuries. In Ha Noi alone, there are about 600 temples and pagodas. It also has a big church in the city centre, a <strong>popular</strong> place for the few Christians living here. With a population of nearly eight million, the city is quite crowded. However, the public transportation is not adequate, so visitors find it hard to safely cross the roads. The city is packed with universities and enterprises, making it the top destination for higher education students and labour workers. Many people from <strong>rural </strong>areas reside in Ha Noi so that they can get well-paid jobs. This makes the city become more crowded than ever before.</p>",
+      "parentQuestionId": 1201597,
+      "choices": [
+        {
+          "id": 2325035,
+          "label": "A",
+          "text": "<p>Buddhism</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325036,
+          "label": "B",
+          "text": "<p>Christianity</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325037,
+          "label": "C",
+          "text": "<p>Islam</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325038,
+          "label": "D",
+          "text": "<p>both A and B</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325035,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy đọc kỹ đoạn văn. Chú ý đến những cụm từ mô tả mức độ phổ biến của Phật giáo (Buddhism) và Thiên Chúa giáo (Christianity) ở Hà Nội để so sánh.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>Để trả lời c&acirc;u hỏi n&agrave;y, học sinh cần đọc v&agrave; suy luận từ c&aacute;c chi tiết trong b&agrave;i đọc để x&aacute;c định t&ocirc;n gi&aacute;o phổ biến nhất ở H&agrave; Nội.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc cung cấp nhiều dẫn chứng cho thấy Phật gi&aacute;o l&agrave; t&ocirc;n gi&aacute;o phổ biến nhất. Cụ thể, b&agrave;i đọc n&ecirc;u rằng <strong>[[As Viet Nam is a Buddhism-oriented nation, its capital has also been the centre of Buddhism for centuries]]</strong> (<em>V&igrave; Việt Nam l&agrave; một quốc gia theo định hướng Phật gi&aacute;o, thủ đ&ocirc; cũng l&agrave; trung t&acirc;m của Phật gi&aacute;o trong nhiều thế kỷ</em>) v&agrave; <strong>[[In Ha Noi alone, there are about 600 temples and pagodas]]</strong> (<em>Chỉ ri&ecirc;ng ở H&agrave; Nội đ&atilde; c&oacute; khoảng 600 ng&ocirc;i đền v&agrave; ch&ugrave;a</em>). Ngược lại, đối với Thi&ecirc;n Ch&uacute;a gi&aacute;o, b&agrave;i đọc chỉ đề cập đến một nh&agrave; thờ lớn d&agrave;nh cho <strong>[[the few Christians living here]]</strong> (<em>số &iacute;t những người theo đạo Thi&ecirc;n Ch&uacute;a sống ở đ&acirc;y). </em>Từ \"few\" (số &iacute;t) cho thấy số lượng t&iacute;n đồ Thi&ecirc;n Ch&uacute;a gi&aacute;o kh&ocirc;ng nhiều bằng Phật gi&aacute;o. Do đ&oacute;, phương &aacute;n 1 l&agrave; đ&aacute;p &aacute;n ch&iacute;nh x&aacute;c.</p>",
+      "answerFeedbacks": {
+        "2325035": "<p>B&agrave;i đọc cho biết Việt Nam l&agrave; một quốc gia theo định hướng Phật gi&aacute;o v&agrave; chỉ ri&ecirc;ng H&agrave; Nội đ&atilde; c&oacute; khoảng 600 ng&ocirc;i đền, ch&ugrave;a.</p>",
+        "2325036": "<p>Th&ocirc;ng tin n&agrave;y sai v&igrave; b&agrave;i đọc chỉ đề cập đến \"<em>a few Christians</em>\" (<em>số &iacute;t người theo đạo Thi&ecirc;n Ch&uacute;a</em>) sống ở đ&acirc;y.</p>",
+        "2325037": "Thông tin này không được đề cập trong bài đọc.",
+        "2325038": "Phương án này sai vì bài đọc cung cấp bằng chứng cho thấy Phật giáo phổ biến hơn nhiều so với Thiên Chúa giáo."
+      },
+      "images": []
+    },
+    {
+      "id": 1201634,
+      "questionNumber": 12,
+      "questionName": "Chi tiết trong đoạn văn",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Why has the city become more crowded than ever before?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read and choose the correct answers.</strong></p>\n<p style=\"text-align: justify;\">I was born in Ha Noi, the capital of Viet Nam. Ha Noi is famous for its natural beauty, with lots of rivers and lakes. There are many historical places to visit in Ha Noi. The Literature Temple (Van Mieu Quoc Tu Giam) is the country's first-ever historical university. Teenagers often come here to pray for high results in their upcoming examinations. As Viet Nam is a Buddhism-oriented nation, its capital has also been the centre of Buddhism for centuries. In Ha Noi alone, there are about 600 temples and pagodas. It also has a big church in the city centre, a <strong>popular</strong> place for the few Christians living here. With a population of nearly eight million, the city is quite crowded. However, the public transportation is not adequate, so visitors find it hard to safely cross the roads. The city is packed with universities and enterprises, making it the top destination for higher education students and labour workers. Many people from <strong>rural </strong>areas reside in Ha Noi so that they can get well-paid jobs. This makes the city become more crowded than ever before.</p>",
+      "parentQuestionId": 1201597,
+      "choices": [
+        {
+          "id": 2325075,
+          "label": "A",
+          "text": "<p>Hanoi is the top destination for higher education students and labour workers.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325076,
+          "label": "B",
+          "text": "<p>There are some popular places for the few Christians living here.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325077,
+          "label": "C",
+          "text": "<p>Many people from rural areas reside in Ha Noi to get well-paid jobs.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325078,
+          "label": "D",
+          "text": "<p>Hanoi has also been the centre of Buddhism for centuries.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325077,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy đọc kỹ hai câu cuối cùng của bài đọc. Tác giả đã nêu rõ nguyên nhân trực tiếp khiến thành phố trở nên đông đúc hơn.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>Để trả lời c&acirc;u hỏi n&agrave;y, học sinh cần t&igrave;m v&agrave; hiểu th&ocirc;ng tin cụ thể c&oacute; trong văn bản để x&aacute;c định nguy&ecirc;n nh&acirc;n của một sự việc.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>C&acirc;u hỏi y&ecirc;u cầu t&igrave;m ra l&yacute; do tại sao th&agrave;nh phố trở n&ecirc;n đ&ocirc;ng đ&uacute;c hơn bao giờ hết. B&agrave;i đọc c&oacute; n&ecirc;u r&otilde; nguy&ecirc;n nh&acirc;n ở c&acirc;u cuối c&ugrave;ng: [[<strong>Many people from rural areas reside in Ha Noi so that they can get well-paid jobs. This makes the city become more crowded than ever before.</strong>]] (<em>Nhiều người từ c&aacute;c v&ugrave;ng n&ocirc;ng th&ocirc;n đến sống ở H&agrave; Nội để c&oacute; thể c&oacute; được c&ocirc;ng việc trả lương cao. Điều n&agrave;y l&agrave;m cho th&agrave;nh phố trở n&ecirc;n đ&ocirc;ng đ&uacute;c hơn bao giờ hết.</em>). Như vậy, việc người d&acirc;n từ n&ocirc;ng th&ocirc;n chuyển đến th&agrave;nh phố để t&igrave;m việc lương cao l&agrave; nguy&ecirc;n nh&acirc;n trực tiếp, tương ứng với phương &aacute;n 3.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 cũng l&agrave; một th&ocirc;ng tin đ&uacute;ng theo b&agrave;i đọc nhưng n&oacute; chỉ l&agrave; một &yacute; kh&aacute;i qu&aacute;t, trong khi phương &aacute;n 3 l&agrave; lời giải th&iacute;ch cụ thể v&agrave; trực tiếp hơn cho c&acirc;u hỏi.</p>",
+      "answerFeedbacks": {
+        "2325075": "Đây là thông tin có trong bài đọc nhưng là một ý chung chung, không phải là lý do trực tiếp được nêu để giải thích cho việc thành phố trở nên đông đúc hơn bao giờ hết.",
+        "2325076": "Thông tin này không liên quan đến lý do tại sao thành phố trở nên đông đúc hơn.",
+        "2325077": "<p>B&agrave;i đọc n&ecirc;u r&otilde; rằng ch&iacute;nh việc nhiều người từ n&ocirc;ng th&ocirc;n đến H&agrave; Nội để t&igrave;m việc l&agrave;m lương cao đ&atilde; khiến th&agrave;nh phố đ&ocirc;ng đ&uacute;c hơn bao giờ hết.</p>",
+        "2325078": "Thông tin này là một sự thật về lịch sử tôn giáo của thành phố và không giải thích cho sự gia tăng dân số gần đây."
+      },
+      "images": []
+    },
+    {
+      "id": 1201644,
+      "questionNumber": 13,
+      "questionName": "Từ trái nghĩa",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &quot;rural&quot; is OPPOSITE in meaning to _____.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read and choose the correct answers.</strong></p>\n<p style=\"text-align: justify;\">I was born in Ha Noi, the capital of Viet Nam. Ha Noi is famous for its natural beauty, with lots of rivers and lakes. There are many historical places to visit in Ha Noi. The Literature Temple (Van Mieu Quoc Tu Giam) is the country's first-ever historical university. Teenagers often come here to pray for high results in their upcoming examinations. As Viet Nam is a Buddhism-oriented nation, its capital has also been the centre of Buddhism for centuries. In Ha Noi alone, there are about 600 temples and pagodas. It also has a big church in the city centre, a <strong>popular</strong> place for the few Christians living here. With a population of nearly eight million, the city is quite crowded. However, the public transportation is not adequate, so visitors find it hard to safely cross the roads. The city is packed with universities and enterprises, making it the top destination for higher education students and labour workers. Many people from <strong>rural </strong>areas reside in Ha Noi so that they can get well-paid jobs. This makes the city become more crowded than ever before.</p>",
+      "parentQuestionId": 1201597,
+      "choices": [
+        {
+          "id": 2325099,
+          "label": "A",
+          "text": "<p>urban</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325100,
+          "label": "B",
+          "text": "<p>countryside</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325101,
+          "label": "C",
+          "text": "<p>simple</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325102,
+          "label": "D",
+          "text": "<p>outskirts</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325099,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Đọc kỹ c&acirc;u cuối c&ugrave;ng của b&agrave;i đọc. T&aacute;c giả đang n&oacute;i về những người từ khu vực <strong>\"rural\"</strong> chuyển đến đ&acirc;u để l&agrave;m việc? H&atilde;y t&igrave;m một từ c&oacute; nghĩa <em>tr&aacute;i ngược</em> với khu vực đ&oacute;, v&agrave; cẩn thận đừng nhầm lẫn với từ c&oacute; nghĩa tương tự.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>Để trả lời c&acirc;u hỏi n&agrave;y, học sinh cần x&aacute;c định nghĩa của từ \"rural\" dựa v&agrave;o ngữ cảnh của b&agrave;i đọc v&agrave; kiến thức từ vựng sẵn c&oacute;, sau đ&oacute; t&igrave;m từ c&oacute; nghĩa tr&aacute;i ngược trong c&aacute;c phương &aacute;n đ&atilde; cho.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>C&acirc;u hỏi y&ecirc;u cầu t&igrave;m từ TR&Aacute;I NGHĨA với từ \"<strong>rural</strong>\". Trong b&agrave;i đọc, c&acirc;u cuối c&oacute; chứa từ n&agrave;y: <strong>[[Many people from rural areas reside in Ha Noi so that they can get well-paid jobs.]]</strong> (<em>Nhiều người từ c&aacute;c v&ugrave;ng n&ocirc;ng th&ocirc;n đến cư tr&uacute; tại H&agrave; Nội để c&oacute; được những c&ocirc;ng việc trả lương cao.</em>). Ngữ cảnh cho thấy người ta di chuyển từ khu vực \"<strong>rural</strong>\" đến H&agrave; Nội, một th&agrave;nh phố lớn. Điều n&agrave;y ngụ &yacute; \"<strong>rural</strong>\" chỉ những v&ugrave;ng kh&ocirc;ng phải th&agrave;nh phố, tức l&agrave; \"n&ocirc;ng th&ocirc;n\". Từ tr&aacute;i nghĩa với \"n&ocirc;ng th&ocirc;n\" l&agrave; \"th&agrave;nh thị\".</p>\n<p style=\"text-align: justify;\">Trong c&aacute;c phương &aacute;n, phương &aacute;n 1 \"<strong>urban</strong>\" c&oacute; nghĩa l&agrave; \"thuộc về th&agrave;nh thị\", do đ&oacute; đ&acirc;y l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>\n<p style=\"text-align: justify;\">Học sinh c&oacute; thể dễ nhầm lẫn với phương &aacute;n 2 \"countryside\" v&igrave; n&oacute; cũng c&oacute; nghĩa l&agrave; \"n&ocirc;ng th&ocirc;n\", nhưng đ&acirc;y l&agrave; từ đồng nghĩa chứ kh&ocirc;ng phải tr&aacute;i nghĩa.</p>",
+      "answerFeedbacks": {
+        "2325099": "<p>Từ <em>\"urban\"</em> c&oacute; nghĩa l&agrave; \"thuộc về th&agrave;nh thị\", l&agrave; từ tr&aacute;i nghĩa trực tiếp với <em>\"rural\"</em> c&oacute; nghĩa l&agrave; \"thuộc về n&ocirc;ng th&ocirc;n\".</p>",
+        "2325100": "<p>Đ&acirc;y l&agrave; một từ đồng nghĩa với <em>\"rural\"</em>, trong khi c&acirc;u hỏi y&ecirc;u cầu t&igrave;m từ tr&aacute;i nghĩa.</p>",
+        "2325101": "<p>Từ n&agrave;y c&oacute; nghĩa l&agrave; \"đơn giản\" v&agrave; kh&ocirc;ng phải l&agrave; từ tr&aacute;i nghĩa trực tiếp của <em>\"rural\"</em>, mặc d&ugrave; cuộc sống ở n&ocirc;ng th&ocirc;n c&oacute; thể được mi&ecirc;u tả l&agrave; đơn giản.</p>",
+        "2325102": "<p>Từ n&agrave;y c&oacute; nghĩa l&agrave; \"v&ugrave;ng ngoại &ocirc;\", l&agrave; khu vực r&igrave;a của một th&agrave;nh phố, chứ kh&ocirc;ng phải từ tr&aacute;i nghĩa với \"n&ocirc;ng th&ocirc;n\".</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1205140,
+      "questionNumber": 14,
+      "questionName": "13-16",
+      "questionType": "FillBlank",
+      "questionText": "<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><span style=\"font-weight: 600;\">Four phrases/sentences have been removed from the text below. Choose the correct answer to complete the text. Write only the letter A-D in each blank.</span></p>\n<table style=\"border-collapse: collapse; width: 100%; border-color: #5fbd18;\" border=\"1\" cellspacing=\"10\" cellpadding=\"10\">\n<tbody>\n<tr>\n<td style=\"width: 100%;\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\"><strong>A.</strong> too much stress can be dangerous</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\"><strong>B. </strong>You will feel more relaxed if you spend some time in nature</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\"><strong>C.</strong> is important for teens</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\">D. To make it easier, keep your smartphone away from your bed</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\"><br>Stress is a normal part of teens' life; however, <span class='fillblank-option'><label>13.1</label><input id='fbo-1205140-0' class='ms fillblank-option-13' index='0' name='fbo-1205140-0' type='text' size='4' autocomplete='off' data-testid='fillblank-input-1205140-0' /></span>. When you face stress, use some of these strategies to manage it.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\">&#9830; Getting a good night's sleep: Teens need eight to ten hours of sleep a day, so get enough sleep. <span class='fillblank-option'><label>13.2</label><input id='fbo-1205140-1' class='ms fillblank-option-13' index='1' name='fbo-1205140-1' type='text' size='2' autocomplete='off' data-testid='fillblank-input-1205140-1' /></span>.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\">&#9830; Doing exercise: Doing enough physical exercise <span class='fillblank-option'><label>13.3</label><input id='fbo-1205140-2' class='ms fillblank-option-13' index='2' name='fbo-1205140-2' type='text' size='4' autocomplete='off' data-testid='fillblank-input-1205140-2' /></span>. You should exercise for at least 60 minutes a day.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\">&#9830; Talking it out: Talk about your stress to an adult. This person can be your teacher, parent, or someone you trust.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\">&#9830; Writing about it: You can reduce your stress by writing down your problems. You can also write about times you felt good and soon you will start to feel better.</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\">&#9830; Going outside: <span class='fillblank-option'><label>13.4</label><input id='fbo-1205140-3' class='ms fillblank-option-13' index='3' name='fbo-1205140-3' type='text' size='2' autocomplete='off' data-testid='fillblank-input-1205140-3' /></span>. Places with green trees and fresh air will make you feel better.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "A"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "D"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "C"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "B"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"line-height: 1.4; margin-bottom: 20px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span style=\"background-color: #299b83; color: #ffffff; padding: 0 4px;\">.1</span></strong> <strong> Chọn <span style=\"color: #5fbd18;\">A.</span> too much stress can be dangerous</strong></div>\n<div style=\"background-color: #f9f9f9; padding: 15px; text-align: justify; border-radius: 8px;\">Vị tr&iacute; trống thứ nhất cần một mệnh đề để ho&agrave;n th&agrave;nh c&acirc;u, đứng sau trạng từ li&ecirc;n kết chỉ sự đối lập \"<strong>however</strong>\" (tuy nhi&ecirc;n). Vế trước n&ecirc;u rằng \"căng thẳng l&agrave; một phần b&igrave;nh thường trong cuộc sống của thanh thiếu ni&ecirc;n\" (<strong>[[Stress is a normal part of teens' life]]</strong>) n&ecirc;n vế sau cần đưa ra một &yacute; tưởng tr&aacute;i ngược. Phương &aacute;n A, \"qu&aacute; nhiều căng thẳng c&oacute; thể g&acirc;y nguy hiểm\", tạo ra sự tương phản hợp l&yacute; v&agrave; dẫn dắt v&agrave;o nội dung của b&agrave;i đọc một c&aacute;ch logic.</div>\n</div>\n<div style=\"line-height: 1.4; margin-bottom: 20px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span style=\"background-color: #299b83; color: #ffffff; padding: 0 4px;\">.2</span></strong> <strong> Chọn <span style=\"color: #5fbd18;\">D.</span> To make it easier, keep your smartphone away from your bed</strong></div>\n<div style=\"background-color: #f9f9f9; padding: 15px; text-align: justify; border-radius: 8px;\">Chỗ trống n&agrave;y nằm trong phần n&oacute;i về việc ngủ đủ giấc (<strong>[[Getting a good night's sleep]]</strong>) v&agrave; l&agrave; một c&acirc;u v&igrave; nằm giữa hai dấu chấm. C&acirc;u trước đ&oacute; khuy&ecirc;n rằng \"thanh thiếu ni&ecirc;n cần ngủ từ t&aacute;m đến mười tiếng mỗi ng&agrave;y, v&igrave; vậy h&atilde;y ngủ đủ giấc\" (<strong>[[Teens need eight to ten hours of sleep a day, so get enough sleep]]</strong>). Phương &aacute;n D đưa ra một lời khuy&ecirc;n cụ thể để gi&uacute;p việc ngủ trở n&ecirc;n dễ d&agrave;ng hơn, đ&oacute; l&agrave; để điện thoại th&ocirc;ng minh xa giường. Đ&acirc;y l&agrave; một chi tiết bổ sung hợp l&yacute; cho chủ đề đang được đề cập.</div>\n</div>\n<div style=\"line-height: 1.4; margin-bottom: 20px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span style=\"background-color: #299b83; color: #ffffff; padding: 0 4px;\">.3</span></strong> <strong> Chọn <span style=\"color: #5fbd18;\">C.</span> is important for teens</strong></div>\n<div style=\"background-color: #f9f9f9; padding: 15px; text-align: justify; border-radius: 8px;\">Chỗ trống n&agrave;y cần một vị ngữ để ho&agrave;n th&agrave;nh c&acirc;u c&oacute; chủ ngữ l&agrave; \"Việc tập thể dục đủ\" (<strong>[[Doing enough physical exercise]]</strong>). Phương &aacute;n C, \"l&agrave; điều quan trọng đối với thanh thiếu ni&ecirc;n\", kết hợp ho&agrave;n hảo với chủ ngữ để tạo th&agrave;nh một c&acirc;u c&oacute; nghĩa, khẳng định tầm quan trọng của việc tập thể dục. C&acirc;u tiếp theo, \"Bạn n&ecirc;n tập thể dục &iacute;t nhất 60 ph&uacute;t mỗi ng&agrave;y\" (<strong>[[You should exercise for at least 60 minutes a day]]</strong>), củng cố th&ecirc;m cho &yacute; tưởng n&agrave;y.</div>\n</div>\n<div style=\"line-height: 1.4; margin-bottom: 20px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span style=\"background-color: #299b83; color: #ffffff; padding: 0 4px;\">.4</span></strong> <strong> Chọn <span style=\"color: #5fbd18;\">B.</span> You will feel more relaxed if you spend sometime in nature</strong></div>\n<div style=\"background-color: #f9f9f9; padding: 15px; text-align: justify; border-radius: 8px;\">Đoạn n&agrave;y n&oacute;i về lợi &iacute;ch của việc ra ngo&agrave;i trời (<strong>[[Going outside]]</strong>). C&acirc;u theo sau chỗ trống giải th&iacute;ch rằng \"Những nơi c&oacute; c&acirc;y xanh v&agrave; kh&ocirc;ng kh&iacute; trong l&agrave;nh sẽ gi&uacute;p bạn cảm thấy tốt hơn\" (<strong>[[Places with green trees and fresh air will make you feel better]]</strong>). Phương &aacute;n B, \"Bạn sẽ cảm thấy thư gi&atilde;n hơn nếu d&agrave;nh ch&uacute;t thời gian h&ograve;a m&igrave;nh v&agrave;o thi&ecirc;n nhi&ecirc;n\", giới thiệu trực tiếp lợi &iacute;ch n&agrave;y v&agrave; c&oacute; sự li&ecirc;n kết chặt chẽ về mặt &yacute; nghĩa với c&acirc;u giải th&iacute;ch ph&iacute;a sau.</div>\n</div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 1201681,
+      "questionNumber": 15,
+      "questionName": "Phát âm",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined bold part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325235,
+          "label": "A",
+          "text": "<p>bil<span style=\"text-decoration: underline;\"><strong>i</strong></span>ngual</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325236,
+          "label": "B",
+          "text": "<p>establ<span style=\"text-decoration: underline;\"><strong>i</strong></span>sh</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325237,
+          "label": "C",
+          "text": "<p>off<span style=\"text-decoration: underline;\"><strong>i</strong></span>cial</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325238,
+          "label": "D",
+          "text": "<p>var<span style=\"text-decoration: underline;\"><strong>i</strong></span>ety</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2325238,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Chữ \"<strong>i</strong>\" thường c&oacute; 2 c&aacute;ch ph&aacute;t &acirc;m phổ biến nhất cần ph&acirc;n biệt trong b&agrave;i n&agrave;y l&agrave; &acirc;m <strong>/ɪ/</strong> v&agrave; <strong>/aɪ/</strong>:</p>\n<ul>\n<li>&Acirc;m <strong>/aɪ/</strong>: Thường xuất hiện trong &acirc;m tiết mở (kh&ocirc;ng bị chặn bởi phụ &acirc;m ở cuối), nằm trong c&aacute;c tiền tố (như bi-, tri-...), hoặc đứng trước một số đu&ocirc;i nhất định (như đu&ocirc;i \"-ety\").</li>\n<li>&Acirc;m<strong> /ɪ/</strong>: Thường xuất hiện trong c&aacute;c &acirc;m tiết kh&eacute;p (bị kẹp giữa c&aacute;c phụ &acirc;m, v&iacute; dụ: -ish, -cial) hoặc trong c&aacute;c &acirc;m tiết kh&ocirc;ng mang trọng &acirc;m.</li>\n</ul>",
+      "explanation": "<p>Phần in đậm gạch ch&acirc;n trong từ \"var<strong><u>i</u></strong>ety\" được ph&aacute;t &acirc;m l&agrave; <strong>/aɪ/</strong>, trong khi ở c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/ɪ/</strong>.</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n        font-style: italic;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">bilingual</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/baɪˈlɪŋɡwəl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>hai thứ tiếng</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">establish</span></strong><span class=\"word-pos-sharp\">(v.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ɪˈst&aelig;blɪʃ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>th&agrave;nh lập, thiết lập</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">official</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/əˈfɪʃəl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>ch&iacute;nh thức</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">variety</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/vəˈraɪəti/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sự đa dạng, nhiều loại</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "2325235": "Phần gạch chân trong từ <em>\"bilingual\"</em> được phát âm là /ɪ/.",
+        "2325236": "Phần gạch chân trong từ <em>\"establish\"</em> được phát âm là /ɪ/.",
+        "2325237": "Phần gạch chân trong từ <em>\"official\"</em> được phát âm là /ɪ/.",
+        "2325238": "Phần gạch chân trong từ <em>\"variety\"</em> được phát âm là /aɪ/, khác với các từ còn lại."
+      },
+      "images": []
+    },
+    {
+      "id": 1201689,
+      "questionNumber": 16,
+      "questionName": "Phát âm",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><span style=\"font-weight: 600;\">Choose the word which has the underlined part pronounced differently from the others.</span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325259,
+          "label": "A",
+          "text": "<p><span style=\"text-decoration: underline;\">ch</span>emistry</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325261,
+          "label": "B",
+          "text": "<p>ex<span style=\"text-decoration: underline;\">ch</span>ange</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325263,
+          "label": "C",
+          "text": "<p>tou<span style=\"text-decoration: underline;\">ch</span>ing</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325265,
+          "label": "D",
+          "text": "<p><span style=\"text-decoration: underline;\">ch</span>eerful</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325259,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Cụm \"<strong>ch</strong>\" c&oacute; thể được ph&aacute;t &acirc;m l&agrave;<strong> </strong><strong>/k/ </strong>hoặc <strong>/tʃ/</strong>:</p>\n<ul>\n<li>&Acirc;m<strong> /k/</strong>: Cực kỳ phổ biến đối với c&aacute;c từ c&oacute; nguồn gốc Hy Lạp, thường l&agrave; những từ vựng thuộc nh&oacute;m chủ đề học thuật, khoa học, y tế, kỹ thuật, trường học (VD: school, stomach, mechanic, architect...).</li>\n<li>&Acirc;m <strong>/tʃ/</strong>: L&agrave; c&aacute;ch đọc phổ biến nhất, &aacute;p dụng cho đa số c&aacute;c từ vựng chỉ h&agrave;nh động, cảm x&uacute;c hoặc đồ vật th&ocirc;ng thường trong đời sống h&agrave;ng ng&agrave;y.</li>\n</ul>",
+      "explanation": "<p>Phần được gạch ch&acirc;n trong từ \"<b><u>ch</u>emistry</b>\" được ph&aacute;t &acirc;m l&agrave;<strong> /k/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave;<strong> /tʃ/</strong>.</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n        font-style: italic;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">chemistry</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈkem.ɪ.stri/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>h&oacute;a học</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">exchange</span></strong><span class=\"word-pos-sharp\">(v.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ɪksˈtʃeɪndʒ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>trao đổi</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">touching</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈtʌtʃ.ɪŋ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>g&acirc;y x&uacute;c động, cảm động</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">cheerful</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈtʃɪr.fəl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>vui vẻ, phấn khởi</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "2325259": "Phần gạch chân <em>\"ch\"</em> trong từ này được phát âm là /k/.",
+        "2325261": "Phần gạch chân <em>\"ch\"</em> trong từ này được phát âm là /tʃ/.",
+        "2325263": "Phần gạch chân <em>\"ch\"</em> trong từ này được phát âm là /tʃ/.",
+        "2325265": "Phần gạch chân <em>\"ch\"</em> trong từ này được phát âm là /tʃ/."
+      },
+      "images": []
+    },
+    {
+      "id": 1201696,
+      "questionNumber": 17,
+      "questionName": "Trọng âm",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325304,
+          "label": "A",
+          "text": "<p>provide</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325307,
+          "label": "B",
+          "text": "<p>pursue</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325309,
+          "label": "C",
+          "text": "<p>succeed</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325310,
+          "label": "D",
+          "text": "<p>broaden</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2325310,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy xem xét quy tắc trọng âm cho các động từ có hai âm tiết. Nhiều động từ hai âm tiết có trọng âm rơi vào âm tiết thứ hai. Ngoài ra, hãy lưu ý các từ có hậu tố như <i>\"-en\"</i>, vì các hậu tố này thường không làm thay đổi vị trí trọng âm chính của từ gốc và bản thân chúng không mang trọng âm.</p>",
+      "explanation": "<p>Từ <strong>broaden</strong> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ hai.</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n        font-style: italic;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">provide</span></strong><span class=\"word-pos-sharp\">(v.)</span></td>\n<td><span class=\"word-ipa-sharp\">/prəˈvaɪd/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>cung cấp</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">pursue</span></strong><span class=\"word-pos-sharp\">(v.)</span></td>\n<td><span class=\"word-ipa-sharp\">/pəˈsjuː/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>theo đuổi</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">succeed</span></strong><span class=\"word-pos-sharp\">(v.)</span></td>\n<td><span class=\"word-ipa-sharp\">/səkˈsiːd/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>th&agrave;nh c&ocirc;ng</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">broaden</span></strong><span class=\"word-pos-sharp\">(v.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈbrɔː.dən/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>mở rộng</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "2325304": "<p>Từ này có trọng âm rơi vào âm tiết thứ hai /prəˈvaɪd/. Với các động từ hai âm tiết, trọng âm thường rơi vào âm tiết thứ hai.</p>",
+        "2325307": "<p>Từ này có trọng âm rơi vào âm tiết thứ hai /pəˈsjuː/. Với các động từ hai âm tiết, trọng âm thường rơi vào âm tiết thứ hai.</p>",
+        "2325309": "<p>Từ này có trọng âm rơi vào âm tiết thứ hai /səkˈsiːd/. Với các động từ hai âm tiết, trọng âm thường rơi vào âm tiết thứ hai. </p>",
+        "2325310": "<p>Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈbrɔː.dən/. Từ này được hình thành bằng cách thêm hậu tố <em>\"-en\" </em>vào tính từ <em>\"broad\"</em>, và hậu tố <em>\"-en\" </em>không nhận trọng âm. </p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201709,
+      "questionNumber": 18,
+      "questionName": "Trọng âm",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325344,
+          "label": "A",
+          "text": "<p>essential</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325347,
+          "label": "B",
+          "text": "<p>digital</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325349,
+          "label": "C",
+          "text": "<p>generous</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325350,
+          "label": "D",
+          "text": "<p>talented</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325344,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Trong tiếng Anh, vị trí trọng âm thường phụ thuộc vào cấu trúc từ và hậu tố. Hãy chú ý đến các hậu tố như <em>-ial</em>, <em>-al</em>, <em>-ous</em>, <em>-ed</em> vì chúng thường có quy tắc trọng âm riêng biệt. Ví dụ, hậu tố <em>-ial</em> thường kéo trọng âm về âm tiết ngay trước nó.",
+      "explanation": "<p>Từ <strong>essential</strong> có trọng âm rơi vào âm tiết thứ hai, các từ còn lại có trọng âm rơi vào âm tiết thứ nhất.<br /><br /></p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #fff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n        color: #1c581f;\n        font-size: 15px;\n    }\n\n    .vocab-table-sharp th, \n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        display: inline-block;\n        margin: 0 0.4rem 4px 0;\n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n        display: block;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Giải thích</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">essential</span></strong><span class=\"word-pos-sharp\">(adj.)</span> <span class=\"word-ipa-sharp\">/ɪˈsenʃl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>cần thiết, thiết yếu</em><br />Trọng âm rơi vào âm tiết thứ hai, theo quy tắc trọng âm thường rơi vào âm tiết ngay trước hậu tố <em>-ial</em>.</span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">digital</span></strong><span class=\"word-pos-sharp\">(adj.)</span> <span class=\"word-ipa-sharp\">/ˈdɪdʒɪtl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>kỹ thuật số</em><br />Trọng âm rơi vào âm tiết thứ nhất. Đối với các tính từ ba âm tiết kết thúc bằng <em>-al</em>, trọng âm thường rơi vào âm tiết đầu tiên.</span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">generous</span></strong><span class=\"word-pos-sharp\">(adj.)</span> <span class=\"word-ipa-sharp\">/ˈdʒenərəs/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>hào phóng, rộng lượng</em><br />Trọng âm rơi vào âm tiết thứ nhất. Các tính từ ba âm tiết kết thúc bằng <em>-ous</em> thường có trọng âm ở âm tiết đầu tiên.</span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">talented</span></strong><span class=\"word-pos-sharp\">(adj.)</span> <span class=\"word-ipa-sharp\">/ˈtæləntɪd/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>có tài năng</em><br />Trọng âm rơi vào âm tiết thứ nhất. Các tính từ có hậu tố <em>-ed</em> thường giữ nguyên vị trí trọng âm của từ gốc (<em>talent</em> /ˈtælənt/) hoặc rơi vào âm tiết đầu tiên nếu là từ có nhiều âm tiết.</span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "2325344": "Từ này có trọng âm rơi vào âm tiết thứ hai /ɪˈsenʃl/, theo quy tắc trọng âm thường rơi vào âm tiết ngay trước hậu tố <em>-ial</em>.",
+        "2325347": "Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈdɪdʒɪtl/, vì là tính từ ba âm tiết kết thúc bằng <em>-al</em>, trọng âm thường rơi vào âm tiết đầu tiên.",
+        "2325349": "Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈdʒenərəs/, theo quy tắc các tính từ ba âm tiết kết thúc bằng <em>-ous</em> thường có trọng âm ở âm tiết đầu tiên.",
+        "2325350": "Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈtæləntɪd/, theo quy tắc trọng âm của tính từ có hậu tố <em>-ed</em> thường giữ nguyên vị trí trọng âm của từ gốc hoặc rơi vào âm tiết đầu tiên nếu là từ có nhiều âm tiết."
+      },
+      "images": []
+    },
+    {
+      "id": 1201718,
+      "questionNumber": 19,
+      "questionName": "Chọn từ vựng điền vào chỗ trống",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>When you _____ a word in the dictionary, remember to learn its pronunciation.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325375,
+          "label": "A",
+          "text": "<p>pick up</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325376,
+          "label": "B",
+          "text": "<p>give up</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325377,
+          "label": "C",
+          "text": "<p>look up</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325378,
+          "label": "D",
+          "text": "<p>bring up</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325377,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Hãy xem xét ngữ cảnh của câu. Cụm từ \"a word in the dictionary\" gợi ý rằng bạn đang thực hiện hành động gì với một từ trong từ điển. Nghĩa của từ cần điền phải phù hợp với hành động tìm kiếm thông tin trong từ điển.</p>\n<p>Tham khảo các câu sau để đoán hiểu nghĩa của các phương án lựa chọn:</p>\n<ul>\n<li><em>She went to <strong>pick up</strong> her children from school.</em></li>\n<li><em>Don't <strong>give up</strong> on your dreams.</em></li>\n<li><em>I need to <strong>look up</strong> the meaning of this word.</em></li>\n<li><em>He decided to <strong>bring up</strong> the issue at the meeting.</em></li>\n</ul>",
+      "explanation": "<p><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span> </p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #fff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n        color: #1c581f;\n        font-size: 15px;\n    }\n\n    .vocab-table-sharp th, \n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        display: inline-block;\n        margin: 0 0.4rem 4px 0;\n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n        display: block;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">pick up</span></strong><span class=\"word-pos-sharp\">(phr.v.)</span> <span class=\"word-ipa-sharp\">/pɪk ʌp/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>nhặt lên; học được một cách tự nhiên</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">give up</span></strong><span class=\"word-pos-sharp\">(phr.v.)</span> <span class=\"word-ipa-sharp\">/ɡɪv ʌp/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>từ bỏ, bỏ cuộc</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">look up</span></strong><span class=\"word-pos-sharp\">(phr.v.)</span> <span class=\"word-ipa-sharp\">/lʊk ʌp/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>tìm kiếm thông tin (trong sách, từ điển); tra cứu</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">bring up</span></strong><span class=\"word-pos-sharp\">(phr.v.)</span> <span class=\"word-ipa-sharp\">/brɪŋ ʌp/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>đề cập đến; nuôi dạy</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span><span style=\"text-align: justify;\"> </span><span style=\"text-align: justify;\">Trong câu hỏi, cụm từ \"<strong>a word in the dictionary</strong>\" là manh mối quan trọng cho thấy hành động cần điền vào chỗ trống là \"tra từ điển\". Trong số các lựa chọn, chỉ có cụm động từ \"<strong>look up</strong>\" mang nghĩa \"tìm kiếm thông tin trong sách tham khảo hoặc từ điển\", hoàn toàn phù hợp với ngữ cảnh này. </span></p>\n<p style=\"text-align: justify;\"><span style=\"text-align: justify;\">Các cụm động từ khác không diễn tả hành động liên quan đến việc sử dụng từ điển.</span></p>",
+      "answerFeedbacks": {
+        "2325375": "Sai vì <em>\"pick up\"</em> thường có nghĩa là nhặt một vật gì đó lên hoặc học được điều gì đó một cách tự nhiên, không phù hợp với ngữ cảnh tra từ điển.",
+        "2325376": "Sai vì <em>\"give up\"</em> có nghĩa là từ bỏ hoặc ngừng làm gì đó, không liên quan đến việc tìm kiếm từ trong từ điển.",
+        "2325377": "Đúng vì <em>\"look up\"</em> là cụm động từ có nghĩa là tìm kiếm thông tin trong sách tham khảo hoặc tra từ điển, hoàn toàn phù hợp với hành động được nhắc đến trong câu.",
+        "2325378": "Sai vì <em>\"bring up\"</em> có nghĩa là đề cập đến một chủ đề hoặc nuôi dạy một đứa trẻ, không đúng với hành động tra từ điển."
+      },
+      "images": []
+    },
+    {
+      "id": 1201727,
+      "questionNumber": 20,
+      "questionName": "Chọn từ ngữ pháp điền vào chỗ trống",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The professor suggested Jenny _____ a multimedia presentation on different varieties of English.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325395,
+          "label": "A",
+          "text": "<p>give</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325396,
+          "label": "B",
+          "text": "<p>gives</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325397,
+          "label": "C",
+          "text": "<p>gave</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325398,
+          "label": "D",
+          "text": "<p>giving</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325395,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Ta c&oacute; cấu tr&uacute;c c&acirc;u giả định với \"<strong>suggest</strong>\": <strong>S1 + suggest + (that) + S2 + (should) + V(inf)</strong></p>\n<p>Vậy động từ theo sau chủ ngữ \"<strong>Jenny</strong>\" sẽ ở dạng n&agrave;o?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thể giả định với \"suggest\"</span>.</p>\n<ul style=\"margin: 0; padding-left: 20px;\">\n<li><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span> Diễn tả một đề nghị hoặc gợi &yacute;.</li>\n<li style=\"margin-top: 10px;\"><strong>Cấu tr&uacute;c:</strong></li>\n</ul>\n<p style=\"margin-top: 5px; margin-left: 20px;\"><span style=\"font-weight: 600; text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\">S1 + suggest + (that) + S2 + (should) + V(inf)</span></span></span></p>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u n&agrave;y sử dụng cấu tr&uacute;c giả định sau động từ \"<strong>suggest</strong>\", y&ecirc;u cầu động từ theo sau chủ ngữ \"<strong>Jenny</strong>\" phải ở dạng nguy&ecirc;n mẫu kh&ocirc;ng \"to\", do đ&oacute; \"<strong>give</strong>\" l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>",
+      "answerFeedbacks": {
+        "2325395": "<p>Đ&acirc;y l&agrave; dạng động từ nguy&ecirc;n mẫu, ph&ugrave; hợp với cấu tr&uacute;c giả định sau <em>\"suggest\"</em>.</p>",
+        "2325396": "<p>Động từ ở th&igrave; hiện tại đơn th&ecirc;m đu&ocirc;i <em>\"s\"</em> kh&ocirc;ng đ&uacute;ng với cấu tr&uacute;c giả định sau <em>\"suggest\"</em>.</p>",
+        "2325397": "Động từ ở thì quá khứ đơn không đúng với cấu trúc giả định sau <em>\"suggest\"</em>.",
+        "2325398": "<p>Dạng danh động từ kh&ocirc;ng đ&uacute;ng với cấu tr&uacute;c giả định <em>\"S + suggest + (that) + S + V(inf)\"</em>.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201732,
+      "questionNumber": 21,
+      "questionName": "Chọn từ ngữ pháp điền vào chỗ trống",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If I had more time, I _____ a Business English course.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325427,
+          "label": "A",
+          "text": "<p>take</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325428,
+          "label": "B",
+          "text": "<p>took</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325429,
+          "label": "C",
+          "text": "<p>will take</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325430,
+          "label": "D",
+          "text": "<p>would take</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2325430,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến th&igrave; của động từ trong mệnh đề \"<strong>If</strong>\": \"<strong>had</strong>\" l&agrave; th&igrave; g&igrave;? Từ đ&oacute;, bạn sẽ biết được cấu tr&uacute;c của mệnh đề ch&iacute;nh trong c&acirc;u điều kiện loại 2.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u điều kiện loại 2</span>.</p>\n<ul style=\"margin: 0; padding-left: 20px;\">\n<li><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span> Diễn tả một h&agrave;nh động hoặc sự việc kh&ocirc;ng c&oacute; thật ở hiện tại hoặc tương lai.</li>\n<li style=\"margin-top: 10px;\"><strong>Cấu tr&uacute;c:</strong></li>\n</ul>\n<p style=\"margin-top: 5px; margin-left: 20px;\"><span style=\"font-weight: 600; text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\">If + S + V(pt), S + would/could/might + V(inf)</span></span></span></p>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u đề b&agrave;i c&oacute; mệnh đề \"<strong>If I had more time</strong>\" sử dụng th&igrave; qu&aacute; khứ đơn <strong>\"had\"</strong>, đ&acirc;y l&agrave; dấu hiệu của c&acirc;u điều kiện loại 2. Do đ&oacute;, mệnh đề ch&iacute;nh cần sử dụng cấu tr&uacute;c \"<strong>would + V(inf)</strong>\". Phương &aacute;n&nbsp;\"<strong>would take</strong>\" ph&ugrave; hợp với cấu tr&uacute;c n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "2325427": "<p>Phương &aacute;n n&agrave;y kh&ocirc;ng đ&uacute;ng v&igrave; động từ nguy&ecirc;n mẫu kh&ocirc;ng ph&ugrave; hợp với cấu tr&uacute;c mệnh đề ch&iacute;nh của c&acirc;u điều kiện loại 2 khi mệnh đề <em>\"If\"</em> ở th&igrave; qu&aacute; khứ đơn.</p>",
+        "2325428": "Phương án này không đúng vì động từ ở thì quá khứ đơn không phù hợp với cấu trúc mệnh đề chính của câu điều kiện loại 2.",
+        "2325429": "<p>Phương &aacute;n n&agrave;y kh&ocirc;ng đ&uacute;ng v&igrave; <em>\"will + V(inf)\"</em> được d&ugrave;ng trong mệnh đề ch&iacute;nh của c&acirc;u điều kiện loại 1, kh&ocirc;ng phải loại 2.</p>",
+        "2325430": "Mệnh đề <em>\"If\"</em> sử dụng thì quá khứ đơn (<em>\"had\"</em>), nên mệnh đề chính phải dùng cấu trúc <em>\"would + V(inf)\"</em> để tạo thành câu điều kiện loại 2."
+      },
+      "images": []
+    },
+    {
+      "id": 1201741,
+      "questionNumber": 22,
+      "questionName": "Chọn từ ngữ pháp điền vào chỗ trống",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Mum _____ us for dinner while we _____ board game last night.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325463,
+          "label": "A",
+          "text": "<p>called - were playing</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325464,
+          "label": "B",
+          "text": "<p>was calling - were playing</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325465,
+          "label": "C",
+          "text": "<p>was calling - played</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325466,
+          "label": "D",
+          "text": "<p>called - played</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325463,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y xem x&eacute;t li&ecirc;n từ \"<strong>while</strong>\" trong c&acirc;u. Từ n&agrave;y thường d&ugrave;ng để diễn tả mối quan hệ giữa hai h&agrave;nh động trong qu&aacute; khứ: một h&agrave;nh động đang diễn ra th&igrave; một h&agrave;nh động kh&aacute;c xen v&agrave;o.&nbsp;&nbsp;</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Qu&aacute; khứ đơn v&agrave; Qu&aacute; khứ tiếp diễn với \"while\"</span>.</p>\n<ul style=\"margin: 0; padding-left: 20px;\">\n<li><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span>&nbsp;Diễn tả một h&agrave;nh động đang xảy ra trong qu&aacute; khứ (Qu&aacute; khứ tiếp diễn) th&igrave; một h&agrave;nh động kh&aacute;c xen v&agrave;o hoặc xảy ra đột ngột (Qu&aacute; khứ đơn).</li>\n<li style=\"margin-top: 10px; margin-bottom: 10px;\"><strong>Cấu tr&uacute;c:</strong></li>\n</ul>\n<p style=\"margin-top: 5px; margin-left: 20px;\"><span style=\"font-weight: 600; text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\">S + V(pt) + while + S + was/were + V-ing</span></span></span></p>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, li&ecirc;n từ \"<strong>while</strong>\" chỉ ra rằng một h&agrave;nh động đang diễn ra th&igrave; h&agrave;nh động kia xen v&agrave;o trong qu&aacute; khứ.</p>\n<p style=\"text-align: justify;\">H&agrave;nh động \"<strong>we were playing board game</strong>\" (ch&uacute;ng t&ocirc;i đang chơi cờ) l&agrave; một h&agrave;nh động d&agrave;i, đang diễn ra n&ecirc;n d&ugrave;ng th&igrave; Qu&aacute; khứ tiếp diễn \"<strong>were playing</strong>\".</p>\n<p style=\"text-align: justify;\">H&agrave;nh động \"<strong>Mum called us for dinner</strong>\" (mẹ gọi ch&uacute;ng t&ocirc;i ăn tối) l&agrave; h&agrave;nh động ngắn, đột ngột xen v&agrave;o, n&ecirc;n d&ugrave;ng th&igrave; Qu&aacute; khứ đơn \"<strong>called</strong>\".</p>\n<p>Phương &aacute;n 2 (<em>\"was calling - were playing\"</em>) sai v&igrave; <em>\"was calling\"</em> kh&ocirc;ng ph&ugrave; hợp để diễn tả một h&agrave;nh động đột ngột xen ngang một h&agrave;nh động kh&aacute;c đang diễn ra.</p>\n<p>Phương &aacute;n 3 (<em>\"was calling - played\"</em>) sai v&igrave; <em>\"was calling\"</em> kh&ocirc;ng ph&ugrave; hợp để diễn tả h&agrave;nh động đột ngột xảy ra v&agrave; \"played\" kh&ocirc;ng diễn tả h&agrave;nh động đang diễn ra trong qu&aacute; khứ.</p>\n<p>Phương &aacute;n 4 (<em>\"called - played\"</em>) sai v&igrave; <em>\"played\"</em> kh&ocirc;ng diễn tả h&agrave;nh động đang diễn ra tại một thời điểm x&aacute;c định trong qu&aacute; khứ.</p>",
+      "answerFeedbacks": {
+        "2325463": "Hành động <em>\"called\"</em> (gọi) là hành động ngắn, xen vào trong quá khứ nên dùng thì Quá khứ đơn; hành động <em>\"were playing\"</em> (đang chơi) là hành động dài, đang diễn ra nên dùng thì Quá khứ tiếp diễn.",
+        "2325464": "<p><em>\"Was calling\"</em> kh&ocirc;ng ph&ugrave; hợp để diễn tả h&agrave;nh động đột ngột xen v&agrave;o một h&agrave;nh động kh&aacute;c đang diễn ra.</p>",
+        "2325465": "<p><em>\"Was calling\"</em> kh&ocirc;ng ph&ugrave; hợp để diễn tả h&agrave;nh động đột ngột, v&agrave; <em>\"played\"</em> kh&ocirc;ng diễn tả h&agrave;nh động đang diễn ra tại thời điểm x&aacute;c định trong qu&aacute; khứ.</p>",
+        "2325466": "<em>\"Played\"</em> ở thì Quá khứ đơn không diễn tả được hành động đang diễn ra khi hành động khác xen vào."
+      },
+      "images": []
+    },
+    {
+      "id": 1201751,
+      "questionNumber": 23,
+      "questionName": "Chọn từ ngữ pháp điền vào chỗ trống",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The festival _____ celebrates cultural diversity attracts many visitors.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325499,
+          "label": "A",
+          "text": "<p>who</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325500,
+          "label": "B",
+          "text": "<p>which</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325501,
+          "label": "C",
+          "text": "<p>whose</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325502,
+          "label": "D",
+          "text": "<p>where</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325500,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y x&aacute;c định loại danh từ m&agrave; mệnh đề quan hệ đang bổ nghĩa (người, sự việc, sự vật, nơi chốn, sở hữu) v&agrave; vai tr&ograve; của đại từ quan hệ trong mệnh đề đ&oacute; (chủ ngữ, t&acirc;n ngữ, sở hữu).</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Đại từ quan hệ \"which\"</span></p>\n<ul style=\"margin: 0; padding-left: 20px;\">\n<li><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span> Đứng sau danh từ kh&ocirc;ng chỉ người, đ&oacute;ng vai tr&ograve; l&agrave;m chủ ngữ hoặc t&acirc;n ngữ trong mệnh đề quan hệ.</li>\n<li style=\"margin-top: 10px;\"><span style=\"text-align: justify; font-weight: 600;\">Cấu tr&uacute;c:&nbsp;</span><span style=\"font-weight: 600; text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\">N (kh&ocirc;ng chỉ người) + which + V...</span></span></span></li>\n</ul>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u cần một đại từ quan hệ để bổ nghĩa cho danh từ kh&ocirc;ng chỉ người \"<strong>The festival</strong>\" v&agrave; l&agrave;m chủ ngữ cho động từ \"<strong>celebrates</strong>\" trong mệnh đề quan hệ, n&ecirc;n phương &aacute;n \"<strong>which</strong>\" l&agrave; ph&ugrave; hợp.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n kh&aacute;c kh&ocirc;ng ph&ugrave; hợp:</p>\n<ul>\n<li style=\"text-align: justify;\">\"who\" thay thế cho danh từ chỉ người, đ&oacute;ng vai tr&ograve; chủ ngữ trong mệnh đề quan hệ</li>\n<li style=\"text-align: justify;\">\"whose\"&nbsp;<span style=\"text-align: start;\">d&ugrave;ng để chỉ sự sở hữu v&agrave; cần theo sau bởi một danh từ</span></li>\n<li style=\"text-align: justify;\">\"where\" thay thế cho danh từ chỉ nơi chốn, đ&oacute;ng vai tr&ograve; trạng ngữ trong mệnh đề quan hệ&nbsp;</li>\n</ul>",
+      "answerFeedbacks": {
+        "2325499": "<p>Đại từ quan hệ <em>\"who\"</em> d&ugrave;ng để thay thế cho danh từ chỉ người, kh&ocirc;ng phải danh từ chỉ sự việc như <em>\"the festival\"</em>.</p>",
+        "2325500": "<p>Đại từ quan hệ <em>\"which\"</em> d&ugrave;ng để thay thế cho danh từ kh&ocirc;ng chỉ người (<em>\"the festival\"</em>) v&agrave; đ&oacute;ng vai tr&ograve; l&agrave;m chủ ngữ cho mệnh đề quan hệ <em>\"celebrates cultural diversity\"</em>.</p>",
+        "2325501": "<p>Đại từ quan hệ <em>\"whose\"</em> d&ugrave;ng để chỉ sự sở hữu v&agrave; cần theo sau bởi một danh từ, kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh n&agrave;y.</p>",
+        "2325502": "<p>Trạng từ quan hệ <em>\"where\"</em> d&ugrave;ng để chỉ nơi chốn, kh&ocirc;ng ph&ugrave; hợp để thay thế cho danh từ kh&ocirc;ng chỉ người <em>\"the festival\"</em> v&agrave; l&agrave;m chủ ngữ cho động từ <em>\"celebrates\"</em>.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201761,
+      "questionNumber": 24,
+      "questionName": "Hoàn thành hội thoại",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Tim: Good luck with your entrance exam into high school! </strong></p>\n<p><strong>Ann: _____</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325540,
+          "label": "A",
+          "text": "<p>You are right.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325542,
+          "label": "B",
+          "text": "<p>What nonsense!</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325544,
+          "label": "C",
+          "text": "<p>I hope so.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325546,
+          "label": "D",
+          "text": "<p>Thanks so much. I'll try my best.</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2325546,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Cần chọn lời đ&aacute;p lại ph&ugrave; hợp khi nhận được lời ch&uacute;c may mắn: <strong><em>\"Good luck\"</em></strong>. H&atilde;y nghĩ xem bạn thường n&oacute;i g&igrave; khi ai đ&oacute; ch&uacute;c bạn may mắn hoặc cổ vũ bạn.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Tim ch&uacute;c Ann may mắn với k&igrave; thi. Đ&aacute;p lại lời ch&uacute;c may mắn, c&aacute;ch n&oacute;i lịch sự v&agrave; ph&ugrave; hợp nhất l&agrave; cảm ơn v&agrave; thể hiện sự quyết t&acirc;m. Phương &aacute;n 4, \"<strong>Thanks so much. I'll try my best.</strong>\" (<em>Cảm ơn rất nhiều. Tớ sẽ cố gắng hết sức.</em>) thể hiện sự tr&acirc;n trọng lời ch&uacute;c v&agrave; &yacute; ch&iacute; nỗ lực. C&aacute;c phương &aacute;n c&ograve;n lại kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh lời ch&uacute;c.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>Good luck with (something)</strong> (expr.): Ch&uacute;c may mắn với (điều g&igrave; đ&oacute;)</p>\n<p style=\"text-align: justify;\"><strong>entrance exam</strong> (phr.): k&igrave; thi tuyển sinh</p>\n<p style=\"text-align: justify;\"><strong>What nonsense!</strong> (expr.): Thật v&ocirc; l&yacute;! / Thật nhảm nh&iacute;!</p>\n<p style=\"text-align: justify;\"><strong>I hope so.</strong> (expr.): T&ocirc;i hy vọng l&agrave; vậy.</p>",
+      "answerFeedbacks": {
+        "2325540": "Phản hồi này không phù hợp vì Ann không khẳng định điều gì mà Tim nói là đúng.",
+        "2325542": "Cụm từ này thể hiện sự tức giận hoặc khó chịu, không phù hợp để đáp lại lời chúc may mắn.",
+        "2325544": "Phản hồi này có thể dùng khi ai đó nói điều gì đó bạn hy vọng sẽ xảy ra, nhưng không phải là lời đáp trực tiếp cho lời chúc may mắn.",
+        "2325546": "Đây là cách đáp lại lời chúc may mắn một cách lịch sự và phù hợp, thể hiện sự cảm ơn và quyết tâm."
+      },
+      "images": []
+    },
+    {
+      "id": 1201771,
+      "questionNumber": 25,
+      "questionName": "Chọn từ vựng điền vào chỗ trống",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ is the language that you first learn to speak at home.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325575,
+          "label": "A",
+          "text": "<p>First language</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325576,
+          "label": "B",
+          "text": "<p>Global language</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325577,
+          "label": "C",
+          "text": "<p>Common language</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325578,
+          "label": "D",
+          "text": "<p>Official language</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325575,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến cụm từ \"<strong>first learn to speak at home</strong>\" trong c&acirc;u hỏi, n&oacute; m&ocirc; tả loại ng&ocirc;n ngữ n&agrave;o một c&aacute;ch ch&iacute;nh x&aacute;c nhất?</p>\n<p>Tham khảo c&aacute;c c&acirc;u sau để đo&aacute;n hiểu nghĩa của c&aacute;c phương &aacute;n lựa chọn:</p>\n<ul>\n<li><em>Although she lives in the US, her <strong>first language</strong> is Spanish.</em></li>\n<li><em>English is often considered a <strong>global language</strong> because it is spoken by people all over the world.</em></li>\n<li><em>In the multicultural city, English served as the <strong>common language</strong> for people from different backgrounds to communicate.</em></li>\n<li><em>French is an <strong>official language</strong> in Canada, along with English.</em></li>\n</ul>",
+      "explanation": "<p><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span>&nbsp;</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">first language</span></strong><span class=\"word-pos-sharp\">(phr.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˌfɜːst ˈl&aelig;ŋɡwɪdʒ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>ng&ocirc;n ngữ mẹ đẻ, ng&ocirc;n ngữ thứ nhất</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">global language</span></strong><span class=\"word-pos-sharp\">(phr.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈɡləʊbl ˈl&aelig;ŋɡwɪdʒ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>ng&ocirc;n ngữ to&agrave;n cầu</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">common language</span></strong><span class=\"word-pos-sharp\">(phr.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈkɒmən ˈl&aelig;ŋɡwɪdʒ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>ng&ocirc;n ngữ chung</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">official language</span></strong><span class=\"word-pos-sharp\">(phr.)</span></td>\n<td><span class=\"word-ipa-sharp\">/əˈfɪʃl ˈl&aelig;ŋɡwɪdʒ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>ng&ocirc;n ngữ ch&iacute;nh thức</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Ph&acirc;n t&iacute;ch:</span><span style=\"text-align: justify;\"> </span></p>\n<p style=\"text-align: justify;\"><span style=\"text-align: justify;\">Dựa v&agrave;o định nghĩa trong c&acirc;u \"<strong>the language that you first learn to speak at home</strong>\" <em>(ng&ocirc;n ngữ bạn học n&oacute;i đầu ti&ecirc;n ở nh&agrave;)</em>, cụm từ ph&ugrave; hợp nhất l&agrave; \"<strong>First language</strong>\". </span></p>\n<p style=\"text-align: justify;\"><span style=\"text-align: justify;\">C&aacute;c phương &aacute;n c&ograve;n lại&nbsp;đều kh&ocirc;ng mang &yacute; nghĩa l&agrave; ng&ocirc;n ngữ đầu ti&ecirc;n một người học.</span></p>",
+      "answerFeedbacks": {
+        "2325575": "Đây là cụm từ chính xác để chỉ ngôn ngữ đầu tiên một người học nói, thường là từ khi còn nhỏ ở nhà.",
+        "2325576": "Đây là ngôn ngữ được sử dụng rộng rãi trên toàn thế giới cho giao tiếp quốc tế, không phải là ngôn ngữ mẹ đẻ của một người.",
+        "2325577": "Đây là ngôn ngữ được nhiều người trong một khu vực hoặc cộng đồng cụ thể sử dụng, nhưng không nhất thiết là ngôn ngữ đầu tiên họ học.",
+        "2325578": "Đây là ngôn ngữ được chính phủ một quốc gia công nhận và sử dụng trong các văn bản chính thức, không phải lúc nào cũng là ngôn ngữ đầu tiên người dân học."
+      },
+      "images": []
+    },
+    {
+      "id": 1201783,
+      "questionNumber": 26,
+      "questionName": "Chọn từ ngữ pháp điền vào chỗ trống",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I can speak _____ words of Chinese, but I can't write them.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325599,
+          "label": "A",
+          "text": "<p>few</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325600,
+          "label": "B",
+          "text": "<p>a few</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325601,
+          "label": "C",
+          "text": "<p>little</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325602,
+          "label": "D",
+          "text": "<p>a little</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325600,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y xem x&eacute;t danh từ đếm được số nhiều \"<strong>words</strong>\". Sau đ&oacute;, suy nghĩ về sự kh&aacute;c biệt giữa \"<strong>few</strong>\" v&agrave; \"<strong>a few</strong>\" về sắc th&aacute;i nghĩa (t&iacute;ch cực hay ti&ecirc;u cực) để chọn từ ph&ugrave; hợp với ngữ cảnh c&acirc;u.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Từ định lượng \"a few\", \"few\", \"a little\", \"little\"</span>.</p>\n<ul style=\"margin: 0; padding-left: 20px;\">\n<li><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span>&nbsp;C&aacute;c từ n&agrave;y d&ugrave;ng để chỉ số lượng hoặc mức độ của danh từ, ph&acirc;n biệt giữa danh từ đếm được v&agrave; kh&ocirc;ng đếm được, v&agrave; giữa &yacute; nghĩa t&iacute;ch cực/ti&ecirc;u cực.</li>\n<li style=\"margin-top: 10px;\"><strong>Cấu tr&uacute;c:</strong></li>\n</ul>\n<p style=\"margin-top: 5px; margin-left: 20px;\"><span style=\"font-weight: 600; text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\">few + N (đếm được số nhiều): một v&agrave;i, một &iacute;t (kh&ocirc;ng đủ d&ugrave;ng)</span></span></span></p>\n<p style=\"margin-top: 5px; margin-left: 20px;\"><span style=\"font-weight: 600; text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\"><span style=\"color: #1c581f;\"><b>a few + N (đếm được số nhiều): một v&agrave;i, một &iacute;t (đủ d&ugrave;ng)</b></span></span></span></span></p>\n<p style=\"margin-top: 5px; margin-left: 20px;\"><span style=\"font-weight: 600; text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\">little + N (kh&ocirc;ng đếm được): một &iacute;t (kh&ocirc;ng đủ d&ugrave;ng)</span></span></span></p>\n<p style=\"margin-top: 5px; margin-left: 20px;\"><span style=\"font-weight: 600; text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\"><span style=\"color: #1c581f;\"><b>a little&nbsp; + N (kh&ocirc;ng đếm được): một &iacute;t (đủ d&ugrave;ng)</b></span></span></span></span></p>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, \"<strong>words</strong>\" l&agrave; danh từ đếm được số nhiều, v&igrave; vậy ch&uacute;ng ta loại bỏ \"little\" v&agrave; \"a little\".</p>\n<p style=\"text-align: justify;\">Giữa hai phương &aacute;n c&ograve;n lại, \"<strong>a few</strong>\" mang &yacute; nghĩa t&iacute;ch cực (\"một v&agrave;i, một &iacute;t\"), ph&ugrave; hợp với ngữ cảnh \"t&ocirc;i c&oacute; thể n&oacute;i được một v&agrave;i từ tiếng Trung, nhưng t&ocirc;i kh&ocirc;ng thể viết ch&uacute;ng\". \"Few\" mang &yacute; nghĩa ti&ecirc;u cực (\"rất &iacute;t, hầu như kh&ocirc;ng c&oacute;\"), kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "2325599": "<p><em>&ldquo;Few&rdquo;</em> kh&ocirc;ng ph&ugrave; hợp v&igrave; n&oacute; mang &yacute; nghĩa ti&ecirc;u cực, \"rất &iacute;t, hầu như kh&ocirc;ng c&oacute;\", tr&aacute;i ngược với &yacute; muốn diễn đạt l&agrave; c&oacute; thể n&oacute;i được một số từ.</p>",
+        "2325600": "<p><em>&ldquo;A few&rdquo;</em> l&agrave; đ&aacute;p &aacute;n đ&uacute;ng v&igrave; n&oacute; d&ugrave;ng với danh từ đếm được số nhiều <em>\"words\"</em> v&agrave; mang &yacute; nghĩa t&iacute;ch cực \"một v&agrave;i, một &iacute;t đủ d&ugrave;ng\", ph&ugrave; hợp với ngữ cảnh c&oacute; thể n&oacute;i nhưng kh&ocirc;ng viết được.</p>",
+        "2325601": "<p><em>&ldquo;Little&rdquo;</em> kh&ocirc;ng ph&ugrave; hợp v&igrave; n&oacute; d&ugrave;ng với danh từ kh&ocirc;ng đếm được v&agrave; mang &yacute; nghĩa ti&ecirc;u cực \"rất &iacute;t, hầu như kh&ocirc;ng c&oacute;\".</p>",
+        "2325602": "<p><em>&ldquo;A little&rdquo;</em> kh&ocirc;ng ph&ugrave; hợp v&igrave; n&oacute; d&ugrave;ng với danh từ kh&ocirc;ng đếm được.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1205145,
+      "questionNumber": 27,
+      "questionName": "29-30 đục lỗ 1",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the following announcement and choose the best answer for each blank.</strong></p>\n<p style=\"text-align: justify;\">Whether you're travelling to the islands or the mountains of Thailand, you're likely to spend at least one night <span class='fillblank-option'><label>26.1</label><select class='ms fillblank-option-26' index='0' name='fbo-1205145-0' data-testid='fillblank-select-1205145-0'><option value='' data-testid='fillblank-option-empty-1205145-0'></option><option value=\"on\" data-testid='fillblank-option-1205145-0-on'>on</option><option value=\"at\" data-testid='fillblank-option-1205145-0-at'>at</option><option value=\"of\" data-testid='fillblank-option-1205145-0-of'>of</option><option value=\"in\" data-testid='fillblank-option-1205145-0-in'>in</option></select></span> its capital city on the way. Bangkok might be noisy and polluted, <span class='fillblank-option'><label>26.2</label><select class='ms fillblank-option-26' index='1' name='fbo-1205145-1' data-testid='fillblank-select-1205145-1'><option value='' data-testid='fillblank-option-empty-1205145-1'></option><option value=\"and\" data-testid='fillblank-option-1205145-1-and'>and</option><option value=\"so\" data-testid='fillblank-option-1205145-1-so'>so</option><option value=\"or\" data-testid='fillblank-option-1205145-1-or'>or</option><option value=\"but\" data-testid='fillblank-option-1205145-1-but'>but</option></select></span> it's also an exciting city with <span class='fillblank-option'><label>26.3</label><select class='ms fillblank-option-26' index='2' name='fbo-1205145-2' data-testid='fillblank-select-1205145-2'><option value='' data-testid='fillblank-option-empty-1205145-2'></option><option value=\"most\" data-testid='fillblank-option-1205145-2-most'>most</option><option value=\"a great deal of\" data-testid='fillblank-option-1205145-2-a great deal of'>a great deal of</option><option value=\"a few\" data-testid='fillblank-option-1205145-2-a few'>a few</option><option value=\"plenty of\" data-testid='fillblank-option-1205145-2-plenty of'>plenty of</option></select></span> things to see and do. Why not make it a <span class='fillblank-option'><label>26.4</label><select class='ms fillblank-option-26' index='3' name='fbo-1205145-3' data-testid='fillblank-select-1205145-3'><option value='' data-testid='fillblank-option-empty-1205145-3'></option><option value=\"more long\" data-testid='fillblank-option-1205145-3-more long'>more long</option><option value=\"longer\" data-testid='fillblank-option-1205145-3-longer'>longer</option><option value=\"length\" data-testid='fillblank-option-1205145-3-length'>length</option><option value=\"lengthen\" data-testid='fillblank-option-1205145-3-lengthen'>lengthen</option></select></span> stay?</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "in"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "but"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "plenty of"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "longer"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.1</strong> Ta d&ugrave;ng giới từ \"<strong>in</strong>\" trước t&ecirc;n của c&aacute;c địa điểm lớn như th&agrave;nh phố, quốc gia. Cụm \"<strong>capital city</strong>\" mang nghĩa \"th&agrave;nh phố thủ đ&ocirc;\".\n<ul>\n<li><b>in</b> (prep.): trong, ở (d&ugrave;ng cho th&agrave;nh phố, quốc gia, khu vực lớn)</li>\n<li>on (prep.): tr&ecirc;n (d&ugrave;ng cho bề mặt)</li>\n<li>at (prep.): tại (d&ugrave;ng cho một địa điểm cụ thể, một điểm)</li>\n<li>of (prep.): của (d&ugrave;ng để chỉ sự sở hữu)</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.2</strong> Vế trước m&ocirc; tả mặt ti&ecirc;u cực của Bangkok (\"<strong>noisy and polluted</strong>\" - ồn &agrave;o v&agrave; &ocirc; nhiễm), c&ograve;n vế sau n&oacute;i về mặt t&iacute;ch cực (\"<strong>an exciting city</strong>\" - một th&agrave;nh phố th&uacute; vị). Do đ&oacute;, ta cần một li&ecirc;n từ chỉ sự tương phản, đối lập.\n<ul>\n<li><b>but</b> (conj.): nhưng (d&ugrave;ng để nối hai mệnh đề, &yacute; tưởng tr&aacute;i ngược nhau)</li>\n<li>and (conj.): v&agrave; (d&ugrave;ng để th&ecirc;m th&ocirc;ng tin)</li>\n<li>so (conj.): v&igrave; vậy (d&ugrave;ng để chỉ kết quả)</li>\n<li>or (conj.): hoặc (d&ugrave;ng để đưa ra lựa chọn)</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.3</strong> Cụm từ \"<strong>an exciting city</strong>\" (một th&agrave;nh phố th&uacute; vị) gợi &yacute; rằng c&oacute; rất nhiều thứ để l&agrave;m. Ta cần một lượng từ mang nghĩa \"nhiều\" v&agrave; c&oacute; thể đi với danh từ đếm được số nhiều (\"<strong>things</strong>\").\n<ul>\n<li><b>plenty of</b> (quan.): nhiều (d&ugrave;ng với danh từ đếm được v&agrave; kh&ocirc;ng đếm được)</li>\n<li>a few (quan.): một v&agrave;i (d&ugrave;ng với danh từ đếm được)</li>\n<li>a great deal of (quan.): nhiều (d&ugrave;ng với danh từ kh&ocirc;ng đếm được)</li>\n<li>most (det.): hầu hết, đa số - kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh của c&acirc;u mang &yacute; t&iacute;ch cực m&ocirc; tả sự đa dạng của th&agrave;nh phố</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.4</strong> Chỗ trống đứng sau mạo từ \"<strong>a</strong>\" v&agrave; đứng trước danh từ \"<strong>stay</strong>\", do đ&oacute; ta cần một t&iacute;nh từ. Cấu tr&uacute;c \"<strong>make it a ... stay</strong>\" gợi &yacute; việc so s&aacute;nh với một chuyến đi ngắn hơn, v&igrave; vậy ta d&ugrave;ng t&iacute;nh từ ở dạng so s&aacute;nh hơn.\n<ul>\n<li><b>longer</b> (adj.): d&agrave;i hơn (dạng so s&aacute;nh hơn của t&iacute;nh từ ngắn \"<strong>long</strong>\")</li>\n<li>lengthen (v.): k&eacute;o d&agrave;i</li>\n<li>length (n.): độ d&agrave;i</li>\n<li>more long - đ&acirc;y l&agrave; c&aacute;ch viết sai v&igrave; \"long\" l&agrave; t&iacute;nh từ ngắn n&ecirc;n kh&ocirc;ng đi với \"more\"</li>\n</ul>\n</div>\n</div>\n</div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 1205150,
+      "questionNumber": 28,
+      "questionName": "33-34",
+      "questionType": "Description",
+      "questionText": "<p><strong>Read and do the following tasks.&nbsp;</strong></p>\n<p>English is currently the most popular foreign language in Viet Nam. ______</p>\n<p><strong>a.</strong> Firstly, English is widely used in Viet Nam for international business and tourism.</p>\n<p><strong>b.</strong> In addition, many schools in Viet Nam teach English as a second language from an early age.</p>\n<p><strong>c.</strong> For instance, English is often used in popular tourist destinations, such as Hanoi and Ho Chi Minh City.</p>\n<p><strong>d. </strong>Moreover, English proficiency helps Vietnamese people connect with the global community and access international resources.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 1205151,
+      "questionNumber": 29,
+      "questionName": "33",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><b>Choose the best way to rearrange the following sentences in order to make a meaningful paragraph.</b></p>",
+      "passageText": "<p><strong>Read and do the following tasks.&nbsp;</strong></p>\n<p>English is currently the most popular foreign language in Viet Nam. ______</p>\n<p><strong>a.</strong> Firstly, English is widely used in Viet Nam for international business and tourism.</p>\n<p><strong>b.</strong> In addition, many schools in Viet Nam teach English as a second language from an early age.</p>\n<p><strong>c.</strong> For instance, English is often used in popular tourist destinations, such as Hanoi and Ho Chi Minh City.</p>\n<p><strong>d. </strong>Moreover, English proficiency helps Vietnamese people connect with the global community and access international resources.</p>",
+      "parentQuestionId": 1205150,
+      "choices": [
+        {
+          "id": 2330440,
+          "label": "A",
+          "text": "<p>a-c-b-d</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2330441,
+          "label": "B",
+          "text": "<p>a-b-c-d</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2330442,
+          "label": "C",
+          "text": "<p>a-d-b-c</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2330443,
+          "label": "D",
+          "text": "<p>a-b-d-c</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2330440,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến c&aacute;c trạng từ ở đầu mỗi c&acirc;u. Cụm \"<strong>For instance</strong>\" c&oacute; nghĩa l&agrave; \"v&iacute; dụ\". Một c&acirc;u v&iacute; dụ n&ecirc;n được đặt ngay sau &yacute; ch&iacute;nh m&agrave; n&oacute; đang minh họa. H&atilde;y x&aacute;c định xem c&acirc;u <strong>(c)</strong> đang minh họa cho c&acirc;u n&agrave;o.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span></p>\n<ul>\n<li>C&acirc;u chủ đề đ&atilde; cho l&agrave;: \"<strong>English is currently the most popular foreign language in Viet Nam.</strong>\" Đoạn văn cần giải th&iacute;ch l&yacute; do tại sao.</li>\n<li>C&acirc;u <strong>(a)</strong> sử dụng trạng từ <strong>\"Firstly\"</strong> để giới thiệu l&yacute; do đầu ti&ecirc;n (kinh doanh v&agrave; du lịch), đ&acirc;y l&agrave; một khởi đầu hợp l&yacute;.</li>\n<li>C&acirc;u <strong>(c)</strong> bắt đầu bằng <strong>\"For instance</strong>\" (V&iacute; dụ) v&agrave; n&oacute;i về c&aacute;c địa điểm du lịch, đ&acirc;y l&agrave; v&iacute; dụ cụ thể cho &yacute; \"tourism\" trong c&acirc;u <strong>(a)</strong>. Do đ&oacute;, c&acirc;u <strong>(c)</strong> phải đi ngay sau c&acirc;u <strong>(a)</strong>.</li>\n<li>C&acirc;u <strong>(b)</strong> v&agrave; <strong>(d)</strong> sử dụng c&aacute;c trạng từ <strong>\"In addition\"</strong> (Ngo&agrave;i ra) v&agrave; <strong>\"Moreover\"</strong> (Hơn nữa) để bổ sung th&ecirc;m c&aacute;c l&yacute; do kh&aacute;c (về gi&aacute;o dục v&agrave; kết nối to&agrave;n cầu). Thứ tự <strong>b-d</strong> l&agrave; một c&aacute;ch sắp xếp hợp l&yacute; để kết th&uacute;c đoạn văn.</li>\n</ul>\n<p><strong>&rarr; </strong>Thứ tự logic để tạo th&agrave;nh một đoạn văn ho&agrave;n chỉnh l&agrave;:<strong> a-c-b-d</strong></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>international business</strong> (n.phr.): kinh doanh quốc tế</p>\n<p style=\"text-align: justify;\"><strong>proficiency</strong> (n.): sự th&agrave;nh thạo</p>\n<p style=\"text-align: justify;\"><strong>connect with</strong> (phr.): kết nối với</p>\n<p style=\"text-align: justify;\"><strong>global community</strong> (n.phr.): cộng đồng to&agrave;n cầu</p>\n<p style=\"text-align: justify;\"><strong>access international resources</strong> (phr.): tiếp cận c&aacute;c nguồn t&agrave;i nguy&ecirc;n quốc tế</p>",
+      "answerFeedbacks": {
+        "2330440": "<p>Đ&uacute;ng. Tr&igrave;nh tự n&agrave;y rất logic: n&ecirc;u l&yacute; do đầu ti&ecirc;n (a), đưa ra v&iacute; dụ cụ thể cho l&yacute; do đ&oacute; (c), sau đ&oacute; bổ sung c&aacute;c l&yacute; do kh&aacute;c (b) v&agrave; (d) bằng c&aacute;c trạng từ<em>&nbsp;\"In addition\" </em>v&agrave;<em> \"Moreover\"</em>.</p>",
+        "2330441": "<p>Sai. C&acirc;u (c) l&agrave; v&iacute; dụ minh họa cho &yacute; <em>\"tourism\"</em> trong c&acirc;u (a), v&igrave; vậy n&oacute; n&ecirc;n đi ngay sau c&acirc;u (a) để đảm bảo t&iacute;nh li&ecirc;n kết.</p>",
+        "2330442": "Sai. Câu (c) là một ví dụ cụ thể cho câu (a). Việc đặt nó ở cuối cùng sau các ý bổ sung (d) và (b) làm cho đoạn văn mất logic.",
+        "2330443": "Sai. Trình tự này không hợp lý vì câu (c), một ví dụ cho câu (a), bị tách rời khỏi ý chính mà nó minh họa."
+      },
+      "images": []
+    },
+    {
+      "id": 1205152,
+      "questionNumber": 30,
+      "questionName": "34",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the sentence that can end the text most appropriately.</strong></p>",
+      "passageText": "<p><strong>Read and do the following tasks.&nbsp;</strong></p>\n<p>English is currently the most popular foreign language in Viet Nam. ______</p>\n<p><strong>a.</strong> Firstly, English is widely used in Viet Nam for international business and tourism.</p>\n<p><strong>b.</strong> In addition, many schools in Viet Nam teach English as a second language from an early age.</p>\n<p><strong>c.</strong> For instance, English is often used in popular tourist destinations, such as Hanoi and Ho Chi Minh City.</p>\n<p><strong>d. </strong>Moreover, English proficiency helps Vietnamese people connect with the global community and access international resources.</p>",
+      "parentQuestionId": 1205150,
+      "choices": [
+        {
+          "id": 2330444,
+          "label": "A",
+          "text": "<p>Therefore, learning English can provide valuable opportunities for students and professionals in Viet Nam.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2330445,
+          "label": "B",
+          "text": "<p>To begin with, English is spoken all over the world in different ways.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2330446,
+          "label": "C",
+          "text": "<p>Furthermore, English is taught as a second language in many countries.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2330447,
+          "label": "D",
+          "text": "<p>Also, it is used in international business and travel.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2330444,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y đọc kỹ c&aacute;c l&yacute; do được liệt k&ecirc; trong b&agrave;i v&agrave; suy nghĩ về một c&acirc;u c&oacute; thể t&oacute;m tắt tất cả những lợi &iacute;ch đ&oacute;. Một c&acirc;u kết luận thường bắt đầu bằng một từ chỉ kết quả như \"<strong>Therefore</strong>\" (Do đ&oacute;) v&agrave; kh&ocirc;ng lặp lại một &yacute; cụ thể đ&atilde; c&oacute;.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kĩ năng nhận diện c&acirc;u kết luận ph&ugrave; hợp cho một đoạn văn. Để trả lời, học sinh cần đọc v&agrave; tổng hợp c&aacute;c l&iacute; do được đưa ra trong b&agrave;i để chọn một c&acirc;u t&oacute;m lược lại &yacute; nghĩa v&agrave; hệ quả của c&aacute;c l&iacute; do đ&oacute;.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc liệt k&ecirc; một loạt c&aacute;c l&yacute; do tại sao tiếng Anh lại phổ biến ở Việt Nam: được sử dụng trong kinh doanh v&agrave; du lịch, được dạy trong trường học, v&agrave; gi&uacute;p kết nối với cộng đồng to&agrave;n cầu. Một c&acirc;u kết luận ph&ugrave; hợp cần phải t&oacute;m tắt hoặc suy ra kết quả từ những l&yacute; do n&agrave;y.</p>\n<p style=\"text-align: justify;\">X&eacute;t c&aacute;c lựa chọn:</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #49c015;\">✔ </span></strong>Phương &aacute;n 1 đ&uacute;ng v&igrave; n&oacute; sử dụng trạng từ li&ecirc;n kết chỉ kết quả \"<strong>Therefore</strong>\" (Do đ&oacute;) v&agrave; đưa ra một kết luận hợp l&yacute; (\"<strong>learning English can provide valuable opportunities</strong>\" - <em>học tiếng Anh c&oacute; thể mang lại những cơ hội qu&yacute; gi&aacute;</em>) dựa tr&ecirc;n tất cả c&aacute;c luận điểm đ&atilde; tr&igrave;nh b&agrave;y trước đ&oacute;.</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Phương &aacute;n 2 sai v&igrave; cụm từ \"To begin with\" (Đầu ti&ecirc;n l&agrave;) d&ugrave;ng để giới thiệu luận điểm đầu ti&ecirc;n, kh&ocirc;ng phải để kết luận.</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Phương &aacute;n 3 sai v&igrave; n&oacute; mở rộng phạm vi ra \"many countries\" (nhiều quốc gia), trong khi b&agrave;i đọc chỉ tập trung v&agrave;o bối cảnh tại Việt Nam.</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Phương &aacute;n 4 sai v&igrave; n&oacute; chỉ lặp lại &yacute; đầu ti&ecirc;n đ&atilde; được đề cập trong b&agrave;i \"Firstly, English is widely used in Viet Nam for international business and tourism.\" (<em>Thứ nhất, tiếng Anh được sử dụng rộng r&atilde;i ở Việt Nam cho kinh doanh quốc tế v&agrave; du lịch.</em>)), chứ kh&ocirc;ng phải l&agrave; một c&acirc;u kết luận tổng hợp.</p>",
+      "answerFeedbacks": {
+        "2330444": "<p>Phương &aacute;n n&agrave;y sử dụng trạng từ li&ecirc;n kết <em>\"Therefore\"</em> để đưa ra một kết luận hợp l&yacute;, tổng hợp lại c&aacute;c lợi &iacute;ch của việc học tiếng Anh đ&atilde; được liệt k&ecirc; trong b&agrave;i đọc.</p>",
+        "2330445": "<p>Cụm từ <em>\"To begin with\"</em> d&ugrave;ng để bắt đầu một chuỗi lập luận, kh&ocirc;ng phải để kết th&uacute;c, v&agrave; nội dung về <em>\"different ways\"</em> kh&ocirc;ng li&ecirc;n quan đến b&agrave;i đọc.</p>",
+        "2330446": "<p>B&agrave;i đọc tập trung v&agrave;o Việt Nam, trong khi phương &aacute;n n&agrave;y lại chuyển chủ đề sang <em>\"many countries\"</em>, l&agrave;m cho n&oacute; kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh.</p>",
+        "2330447": "Phương án này lặp lại một ý đã được nêu ở đầu bài đọc về việc sử dụng tiếng Anh trong kinh doanh và du lịch, thay vì đưa ra một kết luận tổng quát."
+      },
+      "images": []
+    },
+    {
+      "id": 1205153,
+      "questionNumber": 31,
+      "questionName": "35-40",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the best answer for each blank.</strong></p>\n<p style=\"text-align: justify;\">English is the most important language in the world today. A very large <span class='fillblank-option'><label>29.1</label><select class='ms fillblank-option-29' index='0' name='fbo-1205153-0' data-testid='fillblank-select-1205153-0'><option value='' data-testid='fillblank-option-empty-1205153-0'></option><option value=\"number\" data-testid='fillblank-option-1205153-0-number'>number</option><option value=\"few\" data-testid='fillblank-option-1205153-0-few'>few</option><option value=\"amount\" data-testid='fillblank-option-1205153-0-amount'>amount</option><option value=\"deal\" data-testid='fillblank-option-1205153-0-deal'>deal</option></select></span> of people understand and use English in many countries of the world.</p>\n<p style=\"text-align: justify;\">Indeed English is a very useful language. If we <span class='fillblank-option'><label>29.2</label><select class='ms fillblank-option-29' index='1' name='fbo-1205153-1' data-testid='fillblank-select-1205153-1'><option value='' data-testid='fillblank-option-empty-1205153-1'></option><option value=\"whisper\" data-testid='fillblank-option-1205153-1-whisper'>whisper</option><option value=\"tell\" data-testid='fillblank-option-1205153-1-tell'>tell</option><option value=\"speak\" data-testid='fillblank-option-1205153-1-speak'>speak</option><option value=\"say\" data-testid='fillblank-option-1205153-1-say'>say</option></select></span> English we can go to any place or country we like. We shall not find it hard to let people understand <span class='fillblank-option'><label>29.3</label><select class='ms fillblank-option-29' index='2' name='fbo-1205153-2' data-testid='fillblank-select-1205153-2'><option value='' data-testid='fillblank-option-empty-1205153-2'></option><option value=\"how\" data-testid='fillblank-option-1205153-2-how'>how</option><option value=\"who\" data-testid='fillblank-option-1205153-2-who'>who</option><option value=\"why\" data-testid='fillblank-option-1205153-2-why'>why</option><option value=\"what\" data-testid='fillblank-option-1205153-2-what'>what</option></select></span> we want to say.</p>\n<p style=\"text-align: justify;\">English also helps us to learn all kinds of subjects. Hundreds of books are published <span class='fillblank-option'><label>29.4</label><select class='ms fillblank-option-29' index='3' name='fbo-1205153-3' data-testid='fillblank-select-1205153-3'><option value='' data-testid='fillblank-option-empty-1205153-3'></option><option value=\"in\" data-testid='fillblank-option-1205153-3-in'>in</option><option value=\"at\" data-testid='fillblank-option-1205153-3-at'>at</option><option value=\"under\" data-testid='fillblank-option-1205153-3-under'>under</option><option value=\"on\" data-testid='fillblank-option-1205153-3-on'>on</option></select></span> English every day in many countries to teach people many useful things. The English language has, therefore, helped to spread ideas and knowledge to all the corners of the world. There is no subject that cannot be taught in English.</p>\n<p style=\"text-align: justify;\">As English is used so much everywhere in the world, it has helped to make the countries in the world <span class='fillblank-option'><label>29.5</label><select class='ms fillblank-option-29' index='4' name='fbo-1205153-4' data-testid='fillblank-select-1205153-4'><option value='' data-testid='fillblank-option-empty-1205153-4'></option><option value=\"more friendlier\" data-testid='fillblank-option-1205153-4-more friendlier'>more friendlier</option><option value=\"more friends\" data-testid='fillblank-option-1205153-4-more friends'>more friends</option><option value=\"more friendly\" data-testid='fillblank-option-1205153-4-more friendly'>more friendly</option><option value=\"more friend\" data-testid='fillblank-option-1205153-4-more friend'>more friend</option></select></span>. The leaders of the world use English to understand one another. The English language has also helped to spread better understanding and friendship among countries of the world. Lastly, a person who knows English is respected by people.</p>\n<p style=\"text-align: justify;\">It is for all these <span class='fillblank-option'><label>29.6</label><select class='ms fillblank-option-29' index='5' name='fbo-1205153-5' data-testid='fillblank-select-1205153-5'><option value='' data-testid='fillblank-option-empty-1205153-5'></option><option value=\"causes\" data-testid='fillblank-option-1205153-5-causes'>causes</option><option value=\"effects\" data-testid='fillblank-option-1205153-5-effects'>effects</option><option value=\"reasons\" data-testid='fillblank-option-1205153-5-reasons'>reasons</option><option value=\"results\" data-testid='fillblank-option-1205153-5-results'>results</option></select></span> that I want to learn English.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "number"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "speak"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "what"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "in"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "more friendly"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "reasons"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.1</strong> Cụm từ \"<strong>a large number of</strong>\" được d&ugrave;ng với danh từ đếm được số nhiều để chỉ một số lượng lớn. Trong c&acirc;u n&agrave;y, \"<strong>people</strong>\" l&agrave; danh từ đếm được số nhiều.\n<ul>\n<li><span style=\"font-weight: 600;\">a number of </span>+ N (đếm được số nhiều): số, số lượng</li>\n<li>few + N (đếm được số nhiều): một v&agrave;i, một &iacute;t&nbsp;</li>\n<li>a deal of + N (kh&ocirc;ng đếm được): lượng</li>\n<li>an amount of N (kh&ocirc;ng đếm được): lượng</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.2</strong> Để diễn tả khả năng n&oacute;i hoặc sử dụng một ng&ocirc;n ngữ, ta d&ugrave;ng động từ \"<strong>speak</strong>\".&nbsp;\n<ul>\n<li><strong>speak </strong>(v.): n&oacute;i (một ng&ocirc;n ngữ)</li>\n<li>tell (v.): kể, bảo (tell a story, tell someone something)</li>\n<li>say (v.): n&oacute;i (say something)</li>\n<li>whisper (v.): th&igrave; thầm</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.3</strong> Chỗ trống cần một từ để giới thiệu mệnh đề danh từ l&agrave;m t&acirc;n ngữ cho động từ \"<strong>understand</strong>\". \"<strong>What</strong>\" (c&aacute;i g&igrave;, điều g&igrave;) l&agrave; lựa chọn ph&ugrave; hợp nhất về nghĩa, tạo th&agrave;nh cụm \"<strong>understand what we want to say</strong>\" (hiểu điều ch&uacute;ng t&ocirc;i muốn n&oacute;i).\n<ul>\n<li><strong>what </strong>(pron.): c&aacute;i g&igrave;, điều g&igrave;</li>\n<li>how (adv.): như thế n&agrave;o</li>\n<li>why (adv.): tại sao</li>\n<li>who (pron.): ai</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.4</strong> Giới từ \"<strong>in</strong>\" được d&ugrave;ng để chỉ ng&ocirc;n ngữ được sử dụng trong s&aacute;ch, phim, t&agrave;i liệu,... Cụm từ \"<strong>published in English</strong>\" c&oacute; nghĩa l&agrave; \"được xuất bản bằng tiếng Anh\".\n<ul>\n<li><strong>in </strong>(prep.): trong, bằng (ng&ocirc;n ngữ)</li>\n<li>on (prep.): tr&ecirc;n</li>\n<li>under (prep.): dưới</li>\n<li>at (prep.): tại</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.5</strong> Cấu tr&uacute;c: <strong>make something + adj </strong>(khiến c&aacute;i g&igrave; như thế n&agrave;o). Ở đ&acirc;y ta cần t&iacute;nh từ ở dạng so s&aacute;nh hơn.</div>\n<div style=\"margin-bottom: 0px; text-align: justify;\">&nbsp;</div>\n<div style=\"margin-bottom: 0px; text-align: justify;\">\"<strong>Friendly</strong>\" l&agrave; t&iacute;nh từ hai &acirc;m tiết kết th&uacute;c bằng \"<strong>-y</strong>\", c&oacute; thể d&ugrave;ng \"<strong>friendlier</strong>\" hoặc \"<strong>more friendly</strong>\".</div>\n<div style=\"margin-bottom: 0px; text-align: justify;\">&nbsp;</div>\n<div style=\"margin-bottom: 0px; text-align: justify;\">\"More friendlier\" l&agrave; lỗi so s&aacute;nh k&eacute;p (d&ugrave;ng cả \"more\" v&agrave; đu&ocirc;i \"-er\"). \"Friend\" v&agrave; \"friends\" l&agrave; danh từ, kh&ocirc;ng ph&ugrave; hợp với cấu tr&uacute;c \"make something + adj\".</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.6</strong> Đoạn văn đ&atilde; liệt k&ecirc; c&aacute;c lợi &iacute;ch của việc học tiếng Anh, v&agrave; c&acirc;u cuối c&ugrave;ng tổng kết rằng đ&oacute; l&agrave; những l&yacute; do để người viết muốn học.&nbsp;\n<ul>\n<li><strong>reason </strong>(n.): l&yacute; do</li>\n<li>cause (n.): nguy&ecirc;n nh&acirc;n (thường g&acirc;y ra một kết quả trực tiếp)</li>\n<li>effect (n.): ảnh hưởng, t&aacute;c động</li>\n<li>result (n.): kết quả</li>\n</ul>\n</div>\n</div>\n</div>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

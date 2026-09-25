@@ -1,0 +1,27 @@
+{
+  "topicId": 128,
+  "topicName": "Các thì hiện tại",
+  "englishName": "Present Tenses: Simple, Continuous, Perfect",
+  "rules": [
+    {
+      "rule": "Thì Hiện tại đơn: Thói quen, chân lý, lịch trình cố định của tàu xe/lịch học.",
+      "formula": "S + V(s/es) / S + do/does not + V-inf / Do/Does + S + V-inf?",
+      "examples": "The train leaves at 7:00 AM tomorrow. / She often reads books."
+    },
+    {
+      "rule": "Thì Hiện tại tiếp diễn: Hành động đang xảy ra tại thời điểm nói hoặc kế hoạch tương lai gần.",
+      "formula": "S + am/is/are + V-ing",
+      "examples": "Listen! Someone is singing. / We are flying to Da Nang tonight."
+    },
+    {
+      "rule": "Lưu ý Động từ chỉ trạng thái (Stative Verbs): Không dùng ở thì tiếp diễn.",
+      "formula": "know, believe, understand, like, love, want, belong, feel, seem",
+      "examples": "I understand the lesson now (KHÔNG dùng: I am understanding)."
+    },
+    {
+      "rule": "Thì Hiện tại hoàn thành: Bắt đầu trong quá khứ kéo dài đến hiện tại, hoặc vừa mới xảy ra.",
+      "formula": "S + have/has + V3/ed (Dấu hiệu: since, for, already, yet, just, ever, never)",
+      "examples": "They have lived here for 10 years. / Have you finished your homework yet?"
+    }
+  ]
+}

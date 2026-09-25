@@ -1,0 +1,679 @@
+{
+  "quizId": 16200,
+  "title": "Ôn luyện Từ vựng thi vào 10 số 41: City life (Set 2)",
+  "totalQuestions": 16,
+  "questions": [
+    {
+      "id": 904914,
+      "questionNumber": 1,
+      "questionName": "bus line, rush hour, public transport, hygiene",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Drag and drop to complete the sentences.</strong></p>\n<p>1. The new <strong><span class='fillblank-option'><label>1.1</label><input id='fbo-904914-0' class='ms fillblank-option-1' index='0' name='fbo-904914-0' type='text' size='9' autocomplete='off' data-testid='fillblank-input-904914-0' /></span> </strong>connects the city center to the suburb.</p>\n<p>2. People often struggle with long waits during <strong><span class='fillblank-option'><label>1.2</label><input id='fbo-904914-1' class='ms fillblank-option-1' index='1' name='fbo-904914-1' type='text' size='11' autocomplete='off' data-testid='fillblank-input-904914-1' /></span></strong> in the city.</p>\n<p>3. Many people prefer <strong><span class='fillblank-option'><label>1.3</label><input id='fbo-904914-2' class='ms fillblank-option-1' index='2' name='fbo-904914-2' type='text' size='20' autocomplete='off' data-testid='fillblank-input-904914-2' /></span></strong> because it reduces traffic and pollution in the city.</p>\n<p>4. <strong><span class='fillblank-option'><label>1.4</label><input id='fbo-904914-3' class='ms fillblank-option-1' index='3' name='fbo-904914-3' type='text' size='10' autocomplete='off' data-testid='fillblank-input-904914-3' /></span></strong> in public places is essential to keep the city clean and healthy.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1735423,
+          "label": "A",
+          "text": "rush hour",
+          "isCorrect": false
+        },
+        {
+          "id": 1735424,
+          "label": "B",
+          "text": "public transport",
+          "isCorrect": false
+        },
+        {
+          "id": 1735422,
+          "label": "C",
+          "text": "bus line",
+          "isCorrect": false
+        },
+        {
+          "id": 1735425,
+          "label": "D",
+          "text": "Hygiene",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "bus line"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "rush hour"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "public transport"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "Hygiene"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe id=\"embed-frame-D3318\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FGUmR7hAlIUap0CSjn6XeUeGuvJDTmq9O4RufFglWNTnqT%2BoY2sLNs2PRXl4me7ncsnqCP3RM4uqMNxOA7Y2mrBAtRbF1RxjanizH3sxoKeZDZvVbX0HiA2DLHYJJHIv9C710W1wPDqiFKbvSYIkYxqGgSnD022j%2BEUdYZRDVlVZ85CnKiNiyF4jR0ozu12NSR49bkG8EprC1WCrgHeAucowFlvfiJaXV9gIpb19WPKXaJoWjhmqLSdWb%2BCfpZpVjp7TKVosBIs3SolQ6WPs6pOKCgu%2F3nu2zKQJRcwNLGJtQmOAApanX%2BHjvy6Myk3TIsLv%2Bgdym2AUVm1PjBzmHA145rkl%2FaLWKTBjjaWvbb1Bof2GnhtoJI\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch:&nbsp;</p>\n<p>1. Tuy&ecirc;́n xe buýt mới kết nối trung t&acirc;m th&agrave;nh phố với v&ugrave;ng ngoại &ocirc;.</p>\n<p>2. Mọi người thường phải vật lộn với thời gian chờ đợi l&acirc;u trong giờ cao điểm ở th&agrave;nh phố.</p>\n<p>3. Nhiều người th&iacute;ch phương tiện giao th&ocirc;ng c&ocirc;ng cộng v&igrave; n&oacute; l&agrave;m giảm lưu lượng giao th&ocirc;ng v&agrave; &ocirc; nhiễm trong th&agrave;nh phố.</p>\n<p>4. Vệ sinh ở những nơi c&ocirc;ng cộng l&agrave; điều cần thiết để giữ cho th&agrave;nh phố sạch sẽ v&agrave; l&agrave;nh mạnh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 904993,
+      "questionNumber": 2,
+      "questionName": "get stuck",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ stuck in the street due to traffic congestion is the thing people dislike when living in the city.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1718768,
+          "label": "A",
+          "text": "Coming",
+          "isCorrect": false
+        },
+        {
+          "id": 1718769,
+          "label": "B",
+          "text": "Holding",
+          "isCorrect": false
+        },
+        {
+          "id": 1718770,
+          "label": "C",
+          "text": "Having",
+          "isCorrect": false
+        },
+        {
+          "id": 1718771,
+          "label": "D",
+          "text": "Getting",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1718771,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 265px;\"><iframe id=\"F6044A21\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19e%2Bxf43p%2BRboWaWH%2FYO4U3C5x1cRp8OkIkvvQQbjC4JCyLFf%2FIl9%2BodLoidn4%2BXjMXBzsLa7ce0MzijBThhD6XQr6i%2Fgz4oAB4LpKBCBZ6aQGT2S6eFBzl1v152gO7HNrheAEnJAlq4hyOmWCsz8gcFOQBfR9k0IwbwmVRQ20B%2FbPY6E%2BjpVeCn8zvAVW0gWV%2FnwhkYOkcpBBMdPJIBs4aIEDxRBvtsHWe1H8FdhXLa8B5gXYNgreSKj7SpU1OHgVta0qIkc50QNOm3CT6zneqX5lh91xsooF3ryFOBH4RiukEeN3iX83u\" width=\"100%\" height=\"160\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Bị kẹt tr&ecirc;n đường v&igrave; tắc đường l&agrave; điều m&agrave; mọi người kh&ocirc;ng th&iacute;ch khi sống ở th&agrave;nh phố.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 904994,
+      "questionNumber": 3,
+      "questionName": "traffic rules",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Many car drivers don't obey _____ when travelling in the city, so they indirectly put those around them in danger.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1718772,
+          "label": "A",
+          "text": "common practices",
+          "isCorrect": false
+        },
+        {
+          "id": 1718773,
+          "label": "B",
+          "text": "traffic rules",
+          "isCorrect": true
+        },
+        {
+          "id": 1718774,
+          "label": "C",
+          "text": "public amenities",
+          "isCorrect": false
+        },
+        {
+          "id": 1718775,
+          "label": "D",
+          "text": "table manners",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1718773,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"46557756\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18AOyCxJtK4pNk%2B0LT9tVwR0Ycabww%2BKoyRCbhmc434UmTnYpS9NVKec12y%2F1Dze9mwjmOnMCHaJf1wgHV2lTZVjH6bLfwip85W257bgbnWxL%2Fkm%2Bqgv8gB3C47LQ0Rpn9NpSFeYZiKBQoPXa90t0AFmsk9cO7bVGJOQPCeZpxQN8Hp3nnQp6t%2FH1upfwgXpVd%2BhlpHubh36N1wDJfuINtVt30VkX3KpzUfBdaI3yhKcKv2EmE1mfvy%2B8zr3jOrWqEHX4HYSwpMh3Y2Gcv7fc3tGIvXeg%2FB3tOkpNbJeeqJ4b2hCC30%2BH9KV0yK5ZLqDkVG4012nxUJLyqE%2FVf%2FAddoTX%2FOS%2BTMjniiPW2yfoOVxAvOQFgKZskzbfpxtiZeGZ2l%2FaNNlbeh1dgX7YI5Z7qzhCughWnsWFLFmw8Hm3fLwOgycKD50Ogl\" width=\"100%\" height=\"385\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Nhiều người l&aacute;i xe kh&ocirc;ng tu&acirc;n thủ luật lệ giao th&ocirc;ng khi di chuyển trong th&agrave;nh phố, gi&aacute;n tiếp g&acirc;y nguy hiểm cho những người xung quanh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 904995,
+      "questionNumber": 4,
+      "questionName": "pick up ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Jane: Can you _____ me up from the school, Dad?</strong></p>\n<p><strong>Dad: Of course! But the traffic is terrible, so I'll be late.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1718776,
+          "label": "A",
+          "text": "make",
+          "isCorrect": false
+        },
+        {
+          "id": 1718777,
+          "label": "B",
+          "text": "turn",
+          "isCorrect": false
+        },
+        {
+          "id": 1718778,
+          "label": "C",
+          "text": "pick",
+          "isCorrect": true
+        },
+        {
+          "id": 1718779,
+          "label": "D",
+          "text": "hold",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1718778,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"E0FEC244\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX19ofSR0Tvt8TJ%2Bdf4xqqn9%2BIUh8milNOKSMoV6SNWNntU3gJw%2BzCdjQ7nRkR3npyfMO3cAhncTck3tnW3ygAPEBsVr4fVaMgP98Ry3Y%2Bv0OVvhWULG1%2FzlIMlBw4vfknWijAgWcH6OqJnIAtiel3pQAIQ%2BU2tVlnQ9RkcojNSoijVw4tI1hFgElOVOFXu9lgMMzAi6unfi1MZYXSXVB8Q%2BkQGGlBWa1YlgaPYQ7xxeKsHdbvcI8OOHXz5nZ1rO7Utxu6Hqb2oF%2BS3yYoRBKhgDfVOdWyCf0OdMXhf1%2Fn91p2kPfpC4k66lWCNg%2FXlMCBPrL5hhUrDaWAkPVBK7OmZrDsK8KIxzIRwrQkHlGkFqt2iNaF3GtHrDqg72OqMS7KPiI1dmF22W3PUGmDQzz8nOAVilQI3NOFVkTeeRWbkGD2NTMPUq%2BkGu6BAg46F8S9hnvz5D0yYg3Y3RO%2F1gggEb7WTPjnz9B30U%3D\" width=\"100%\" height=\"365\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch:</p>\n<p>Jane: Bố c&oacute; thể đ&oacute;n con ở trường kh&ocirc;ng ạ?</p>\n<p>Bố: Tất nhi&ecirc;n rồi! Nhưng giao th&ocirc;ng tệ qu&aacute;, n&ecirc;n b&ocirc;́ sẽ đến muộn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 904996,
+      "questionNumber": 5,
+      "questionName": "packed",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The bus is often _____ in the morning with people who head to work.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1718780,
+          "label": "A",
+          "text": "packed",
+          "isCorrect": true
+        },
+        {
+          "id": 1718781,
+          "label": "B",
+          "text": "convenient",
+          "isCorrect": false
+        },
+        {
+          "id": 1718782,
+          "label": "C",
+          "text": "involved",
+          "isCorrect": false
+        },
+        {
+          "id": 1718783,
+          "label": "D",
+          "text": "satisfying",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1718780,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"2FA18427\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19lKIxjdhQi09l5vjdTHbNmfLYCj%2B0E4NLFJPX4FseSNVd9s3%2F7daNkqtVNSrO29NfWFqCTM9KP5Hgeoqfi%2BFLBSx1L2VLO9nxb3%2BMtQVljd2iyUSyICBXT8gyC88%2F9c9jnQ7dfYPN0klC2oDIa4xQAbfYoqKNixx6XjU7ayzKDtS76slOKdjG8EFf6wRYUSOZuHyO4qyz4runJRTcs4lrS%2F9sFKBhfKvHtbwQQ91vmR%2BjbAA4KSWDzpdbyMf8ykdQQprJiZuFZth1Wl5NcyNfu5Jo9LgQw69cxvY2xaah7BGHyKyWWvDjEhJCPNQtevoAp27ETPxXblYbhw9fixItpshO7WEt10RTTRbrBWcfHMyV9go5oh5lnlk5TNOZ9MDUo7ezPRpfyRQ%3D%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Xe bu&yacute;t vào bu&ocirc;̉i sáng thường ch&acirc;̣t kín người đi l&agrave;m.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 904997,
+      "questionNumber": 6,
+      "questionName": "downtown",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Many people enjoy staying _____ because it is easy for them to travel within the city.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1718784,
+          "label": "A",
+          "text": "inside",
+          "isCorrect": false
+        },
+        {
+          "id": 1718785,
+          "label": "B",
+          "text": "abroad",
+          "isCorrect": false
+        },
+        {
+          "id": 1718786,
+          "label": "C",
+          "text": "outdoors",
+          "isCorrect": false
+        },
+        {
+          "id": 1718787,
+          "label": "D",
+          "text": "downtown",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1718787,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"52348EBE\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2B0VM5g7FQkSzwk74tCerm%2Fi3uRqrEhRXZqfEIk0GHfqWyp3jIjJ%2F9FYZBGipLSSapcVpCnr6iaYmMcA%2F91obezBSkvWjcCxk38uMKxbhYN32oHiEI67EkXNy6RTyooKLQo2%2Fl%2F1KcIqld5ourGl%2BuUPyEDUbNyxbm3yAp19SsblkPyO9e%2BGiEY3cq4pTMH5y1kJQm6JIUrNss8UiCYsu8n1LrIO8sgV8KBDlKEVhr382WlOv6EnzqX3ID%2FDZGTQ07GNvb%2F4VHsJ7779rvLp2Wd3oU43thJbNSoKd4ST02zAVFuUlRT%2BNlH02vJYlzx%2F%2F%2BtPvFA6sGxQUz292jRAXY3F%2FlPmESDN3tOb5yfnESrX%2BxUYLtHiKbn\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Nhiều người th&iacute;ch ở trung t&acirc;m th&agrave;nh phố v&igrave; họ c&oacute; thể dễ d&agrave;ng di chuyển trong th&agrave;nh phố.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 904998,
+      "questionNumber": 7,
+      "questionName": "means",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The city has different _____ of public transport, like buses, trains, and bicycles.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1718788,
+          "label": "A",
+          "text": "means",
+          "isCorrect": true
+        },
+        {
+          "id": 1718789,
+          "label": "B",
+          "text": "routes",
+          "isCorrect": false
+        },
+        {
+          "id": 1718790,
+          "label": "C",
+          "text": "kits",
+          "isCorrect": false
+        },
+        {
+          "id": 1718791,
+          "label": "D",
+          "text": "sessions",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1718788,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"B2164D8F\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19R06PpI3nbTWhsM%2Bldixx9nCYpSMGjGeSzitk4b07%2BPlpUFCNaCxuALKcgcBrahJyIIJlhEzAzkUIOzbU%2FJZp1x%2BiF62ZqyajoQgZ%2FzGm6aRBxRv%2BqNNjDqDptXrsDXFvGU6qrHWQ0TDM1h0H0ERXfEeLRJTcSPrhxlm%2BpvzLH1b9JaFoPw5strGje70eBAsihhNui1SNeawkN0dsButGNyvN%2FVszOmNkO%2FNo3sIQ6zp4amX5YprtY1SYD01H2F9PNmCQcb%2BUvL3l7xGpKqxdJUOE%2FwKEX57k8%2BUJROWkaaizWEFRaDm7PeffehBqy8rvATyjECJvwngduwuTNd5nh%2BjJ6kWsiMhTtha6wjCMtfD8txtMNTSJCLWoib12e1a0jhMqIw5JM8bC12EN6oKgy0BP0NBZp%2F50%3D\" width=\"100%\" height=\"385\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Th&agrave;nh phố c&oacute; nhiều phương tiện giao th&ocirc;ng c&ocirc;ng cộng kh&aacute;c nhau như xe bu&yacute;t, t&agrave;u hỏa v&agrave; xe đạp.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 904999,
+      "questionNumber": 8,
+      "questionName": "come down with something",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>In the busy city, many people _____ respiratory diseases due to air pollution.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1718792,
+          "label": "A",
+          "text": "come off",
+          "isCorrect": false
+        },
+        {
+          "id": 1718793,
+          "label": "B",
+          "text": "come across",
+          "isCorrect": false
+        },
+        {
+          "id": 1718794,
+          "label": "C",
+          "text": "come down with",
+          "isCorrect": true
+        },
+        {
+          "id": 1718795,
+          "label": "D",
+          "text": "come up with",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1718794,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đ&aacute;p &aacute;n đ&uacute;ng, h&atilde;y xem x&eacute;t ngữ cảnh của c&acirc;u l&agrave; \"nhiều người _____ c&aacute;c bệnh về đường h&ocirc; hấp do &ocirc; nhiễm kh&ocirc;ng kh&iacute;\". Nghĩa của từ cần điền phải l&agrave; \"mắc bệnh\".</p>\n<p>Tham khảo c&aacute;c c&acirc;u sau để đo&aacute;n hiểu nghĩa của c&aacute;c phương &aacute;n lựa chọn:</p>\n<ul>\n<li><em>The event didn't <strong>come off</strong> as planned.</em></li>\n<li><em>I <strong>came across</strong> an old photo album while cleaning.</em></li>\n<li><em>She <strong>came down with</strong> a bad cold last week.</em></li>\n<li><em>Can you <strong>come up with</strong> a solution to this problem?</em></li>\n</ul>",
+      "explanation": "<p><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span>&nbsp;</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.5rem 0.8rem;\n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        margin-right: 0.4rem;\n        display: inline-block;\n        margin-bottom: 10px; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555555;\n        display: block; \n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">come off</span></strong><span class=\"word-pos-sharp\">(phr.v.)</span><br /><span class=\"word-ipa-sharp\">/kʌm ɒf/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>xảy ra, th&agrave;nh c&ocirc;ng; bị t&aacute;ch ra khỏi</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">come across</span></strong><span class=\"word-pos-sharp\">(phr.v.)</span><br /><span class=\"word-ipa-sharp\">/kʌm əˈkrɒs/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>t&igrave;nh cờ gặp; được hiểu theo một c&aacute;ch n&agrave;o đ&oacute;</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">come down with</span></strong><span class=\"word-pos-sharp\">(phr.v.)</span><br /><span class=\"word-ipa-sharp\">/kʌm daʊn wɪ&eth;/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>mắc bệnh, bị ốm</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">come up with</span></strong><span class=\"word-pos-sharp\">(phr.v.)</span><br /><span class=\"word-ipa-sharp\">/kʌm ʌp wɪ&eth;/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>nghĩ ra, đưa ra (&yacute; tưởng, giải ph&aacute;p)</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Ph&acirc;n t&iacute;ch:</span><span style=\"text-align: justify;\"> </span><span style=\"text-align: justify;\">C&acirc;u hỏi đề cập đến việc nhiều người \"mắc c&aacute;c bệnh về đường h&ocirc; hấp\" do &ocirc; nhiễm kh&ocirc;ng kh&iacute;. Do đ&oacute;, ch&uacute;ng ta cần một cụm động từ mang nghĩa \"mắc bệnh\". Trong số c&aacute;c lựa chọn, chỉ c&oacute; cụm động từ \"<strong>come down with</strong>\" c&oacute; nghĩa l&agrave; \"mắc bệnh\", ph&ugrave; hợp ho&agrave;n to&agrave;n với ngữ cảnh của c&acirc;u. C&aacute;c cụm động từ kh&aacute;c c&oacute; nghĩa kh&ocirc;ng li&ecirc;n quan.</span></p>",
+      "answerFeedbacks": {
+        "1718792": "Cụm động từ <em>\"come off\"</em> có nghĩa là xảy ra, thành công, hoặc bị tách ra khỏi cái gì đó, không phù hợp với ngữ cảnh \"mắc bệnh\".",
+        "1718793": "Cụm động từ <em>\"come across\"</em> có nghĩa là tình cờ gặp hoặc được hiểu theo một cách nào đó, không diễn tả việc mắc bệnh.",
+        "1718794": "Cụm động từ <em>\"come down with\"</em> có nghĩa là mắc phải một căn bệnh nào đó, hoàn toàn phù hợp với ngữ cảnh \"mắc các bệnh về đường hô hấp\".",
+        "1718795": "Cụm động từ <em>\"come up with\"</em> có nghĩa là nghĩ ra một ý tưởng, kế hoạch hoặc giải pháp, không liên quan đến việc mắc bệnh."
+      },
+      "images": []
+    },
+    {
+      "id": 904955,
+      "questionNumber": 9,
+      "questionName": "ugly",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>For many people, the closely packed buildings make the city look <span style=\"text-decoration: underline;\">ugly</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1718702,
+          "label": "A",
+          "text": "tall",
+          "isCorrect": false
+        },
+        {
+          "id": 1718703,
+          "label": "B",
+          "text": "beautiful",
+          "isCorrect": true
+        },
+        {
+          "id": 1718704,
+          "label": "C",
+          "text": "modern",
+          "isCorrect": false
+        },
+        {
+          "id": 1718705,
+          "label": "D",
+          "text": "new",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1718703,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"1297E4FC\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX19fXNvUYRDbUqd5Y%2FAZHIBrPXiFlC67kzaZh3JIVGXoQt%2BNBW4FoyMgjmzxx1Cp5BIfYhlgshHBo1GnryxkMrMaCWvNgwU44rYc%2FjyrTQDKK2ia%2Ff1NJ2NuVgLKbBCLoqcR6yGeJyiNEr9C6qkkIw54RbLFJ%2Fo1x%2F7I5CSBHtMHyZPdFsn0hclOV8OyjgseExOMphW3mj3F3IAxHQFSYHe5wRk9KyVNqsC36RhwHFdZ5vx4TjWIqdRDkpVa%2B4DZB0KreUVQ9FeA9VE4BKLY6rnbgPVJG4f%2BZwqEvnDQPhlWpOfCcCnKxMCuS1d5hJutnf2h%2B1niMvwdG93W1uYi14l51sg0xtaHCABVw9A1ocWik6xpg6Az9%2BAyuN%2FdeR5Oo%2BHJcWjWPtTHshGg3EeQn34L3T8z%2Fbu4gsw%3D\" width=\"100%\" height=\"365\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Với nhiều người, những t&ograve;a nh&agrave; san s&aacute;t nhau khiến th&agrave;nh phố tr&ocirc;ng xấu x&iacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 904958,
+      "questionNumber": 10,
+      "questionName": "expensive",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>Living in the city can be <span style=\"text-decoration: underline;\">expensive</span>, especially when rent prices are so high.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1718706,
+          "label": "A",
+          "text": "cheap",
+          "isCorrect": true
+        },
+        {
+          "id": 1718707,
+          "label": "B",
+          "text": "comfortable",
+          "isCorrect": false
+        },
+        {
+          "id": 1718708,
+          "label": "C",
+          "text": "busy",
+          "isCorrect": false
+        },
+        {
+          "id": 1718709,
+          "label": "D",
+          "text": "boring",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1718706,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"9A2265C5\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2BBlXVQAx5FY1Trxz1bHnzDv5Qe%2BS5i1YdyXsN9ywzp8ZIirrcuO42x1cvPUaZCeown3kKiiu5wjYhB8bqr%2F9DLd3%2FHfPnKgyCPyK48w2dFFVjHXmLcNrT46wCfryqg1UWrEbg0eiufmJw%2Fj1g%2BwIE8R9o8KPtuyKP8cC0h6%2Fa%2F2QDvT7w4v%2F%2FouL0fsrSYnWJu4QDrPjml0YBePGMoqgPED%2BEuymp5naJCuVGSf6TArupy5vl6c9p2XdafUSRcrbLNiXMnDwjKw02Jt1x%2FFfoJtD5BUhe6a8dkVKDxTE%2BuPeJFMhMXGBv619vhScyEz2s3hRtASoaZ5Ix6FW57eWkCxcLrVj78qDPHyoGmHGzxCnVFAkaET%2FoAEnTUP9A1daUj%2FIVHYJXXzZPfHuXQdUE0yrWG2hSJLX%2BLPYKIvA9EATc7EpcZyg0m\" width=\"100%\" height=\"365\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Sống ở th&agrave;nh phố c&oacute; thể rất tốn k&eacute;m, đặc biệt l&agrave; khi gi&aacute; thu&ecirc; nh&agrave; rất cao.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905043,
+      "questionNumber": 11,
+      "questionName": "unreliable",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>Some taxi companies in the city are <span style=\"text-decoration: underline;\">unreliable</span> and often charge more than expected.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1718853,
+          "label": "A",
+          "text": "cruel",
+          "isCorrect": false
+        },
+        {
+          "id": 1718854,
+          "label": "B",
+          "text": "hospitable",
+          "isCorrect": false
+        },
+        {
+          "id": 1718855,
+          "label": "C",
+          "text": "independent",
+          "isCorrect": false
+        },
+        {
+          "id": 1718856,
+          "label": "D",
+          "text": "trustworthy",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1718856,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"0323A767\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX19WDHQeno3raySYuLMTy9R%2FmTJFUTVapwYt4nwoW6EBU0SdgCDJXT7S8NujLCCei%2F0fCHh4TwOOn%2B%2B9QuPwd4MrrYe5V%2Bo6QUT%2FO0I%2BodB7fUkrq4I4UjsrWBB8FYHdYhCOOhOaJINcbqm8nmiZQoPJLcDkYGbr2M93jowGqkVqeBQb7syttlqGkoWk%2FbbI8YvkqXM888N9xxxry94lJmFmY5jY9BL4C1g7zNlaXKdf9%2BUNrbYuGQC4B320ruER62GQH%2Beu9WzHBRi5zRXrtg4hZ8n8nJX39e1C6ZeCufvznW0Y7VtSW20H%2FlUfxbKCbdaT0BBgBDWSMG2QfTD8%2Bp6VOjsJnnfo5XZS2OjVQoxOb31jZulhSCLU4ZYi%2F4uBPKzh6lIn3lys0e2YM89foPS%2BhGWhRVyswvwtQFXVH643oNLh6ozxZrQl52A6T8IP9UWFiNNdJMnFpNlY%2FvLk%2B3noJ7t7M6VmnhE%3D\" width=\"100%\" height=\"385\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Một số c&ocirc;ng ty taxi trong th&agrave;nh phố kh&ocirc;ng đ&aacute;ng tin cậy v&agrave; thường t&iacute;nh ph&iacute; cao hơn mức bình thường.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905044,
+      "questionNumber": 12,
+      "questionName": "dangerous",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>The streets in the city can be <span style=\"text-decoration: underline;\">dangerous</span> at night, especially in quiet areas.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1718857,
+          "label": "A",
+          "text": "lively",
+          "isCorrect": false
+        },
+        {
+          "id": 1718858,
+          "label": "B",
+          "text": "polluted",
+          "isCorrect": false
+        },
+        {
+          "id": 1718859,
+          "label": "C",
+          "text": "safe",
+          "isCorrect": true
+        },
+        {
+          "id": 1718860,
+          "label": "D",
+          "text": "clean",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1718859,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"FF45F895\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2F%2Bk2EZOCo258zpfO%2B6vovQLw0qN9W3mXa%2FhB2H40N8eYGuahRWWAwZDNpzuhF8UVBLSjISqByN7IcXDdTEpwQBf%2F0pOKyMmy6Ernh55zL8RQTjiDz0vo24vOx%2BwHUUjZjuZS%2F8gUAF31Ioh6tyoN0iCX3Wws3i4HtdPQ8EJLEg7EdtPQWT2u5GS6eVjHA99yerMpbHfFSxr0ETUXA1Ex7ZywYs9TLXvqyWpOQ1jDk1iSzEFhLEGv1YEFvpBgdqaEuYR4TN9Wroxo8qMPgm%2F4MYG5%2FORKezX8czDWomZos8neJ8ragGqwzQEwBgzMqDId7Wbd05bSGi1ImS3V7rXdGUhS%2FtDAx8CJIpT5Yt7z9yq%2BrDGdvi99NZreGnwuy16DIoBMbgz6pUVov%2Fp%2BDpU9XflIaJB1iizZNtfl2%2BXRPVN7f5Cf68MiwF%2FyBdLg9uFiJmhyN7vJEdBw%3D%3D\" width=\"100%\" height=\"385\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Đường phố trong th&agrave;nh phố c&oacute; thể nguy hiểm v&agrave;o ban đ&ecirc;m, đặc biệt l&agrave; ở những khu vực vắng vẻ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905050,
+      "questionNumber": 13,
+      "questionName": "congestion",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentence by changing the form of the word in capitals.</em></p>\n<p><strong><span class='fillblank-option'><input id='fbo-905050-0' class='ms fillblank-option-13' index='0' name='fbo-905050-0' type='text' size='13' autocomplete='off' data-testid='fillblank-input-905050-0' /></span> in the city makes it difficult to travel during rush hours. (CONGEST)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Congestion"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại c&acirc;̀n đi&ecirc;̀n: danh từ, đứng trước đ&ocirc;̣ng từ \"<strong>makes</strong>\", đóng vai trò là chủ ngữ trong c&acirc;u.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"FC914406\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2Bw0PQ89s%2FkQWWSH%2BzDbpmaYRtL%2FljIKDmmtaXpr063t%2FyMv%2BtOSl4bNL1kZOx4ooijAwglEfHnsOrDZ08dCfn8L0GWmvdL0jr5V9o7PCR271zCtlsjNQzPTy3gJbSWh6n3%2FEzn%2F3rDT3YQ06Fb%2FnWN5vxBRU4254C8QauWsHdDA0V49bW76%2F68AmzCq0%2BEWY8RbpDPvVVyCvQ0nhv4BNhXZoZQfxnEvLki%2BkcRoW6vlN4Xxl2duKcLC3EI8F%2BzJmhmabsMUxj7Lzuii9n7zS5cZb0wY2pJprdRlk%2F%2BAYk6Gbp%2Bt5zK1lgVgNl0OOn4H44htS%2FmZ3VCR0qZpwrxByQOKL32prZqTx6Vtl%2F5C5qobdXz%2B50B%2BQlp%2FtyEJSbZMP2KoXn1ZNz5eQ%3D%3D\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Sự tắc nghẽn giao th&ocirc;ng trong th&agrave;nh phố khiến việc di chuyển v&agrave;o giờ cao điểm trở n&ecirc;n kh&oacute; khăn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905056,
+      "questionNumber": 14,
+      "questionName": "arrival",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentence by changing the form of the word in capitals.</em></p>\n<p><strong>The <span class='fillblank-option'><input id='fbo-905056-0' class='ms fillblank-option-14' index='0' name='fbo-905056-0' type='text' size='10' autocomplete='off' data-testid='fillblank-input-905056-0' /></span> of new residents in the city has increased the demand for housing. (ARRIVE)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "arrival"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại c&acirc;̀n đi&ecirc;̀n: danh từ, theo sau mạo từ \"the\" trong c&acirc;́u trúc \"<strong>the N + of + N</strong>\" (cái gì của cái gì).</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"29AC7946\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FD3qGEA9q09ujOBZI%2BHzqwur4p50FdlSKnfw61m9OK5bvZ6qhyMyqA05PlGEcIwq41AFr0d05sYr%2FvyX4FVeL0yopVRQcXDvrant55T87TK39Je2QSjnP3Y%2F9k8uk6rIdhiKeR%2BCgaYGkgCCwOSXmqKjiuNOw1fcs2Rgmv7BFiwYK5qAJ3QAuPQUf%2FgdKKZO8aRI3MbVq%2F0FlhWXCtbktyqO1UO8%2BcSXQT6aesZ8cnFkGLXYoWT7p24%2FYN2AFZcI2iNIgo5N9d%2BBlGBBqDoy9SJJgfIH24x3FPqrtz%2FzUPMUjGj9ZHOrL6\" width=\"100%\" height=\"160\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Sự xuất hiện của cư d&acirc;n mới trong th&agrave;nh phố đ&atilde; l&agrave;m tăng nhu cầu về nh&agrave; ở.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905071,
+      "questionNumber": 15,
+      "questionName": "sky train, the underground, traffic light, tram",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Write suitable words to complete the conversation.</strong></p>\n<p><strong><img src=\"/images/exams/set_2_-_city_life_a828992c.png\" alt width=\"500\"></strong></p>\n<p>Grace: How do you usually get to work?</p>\n<p>Jake: I usually take <strong><span class='fillblank-option'><label>15.1</label><input id='fbo-905071-0' class='ms fillblank-option-15' index='0' name='fbo-905071-0' type='text' size='17' autocomplete='off' data-testid='fillblank-input-905071-0' /></span></strong> because it&#8217;s fast and goes through tunnels below ground, so I don&#8217;t have to worry about traffic.</p>\n<p>Grace: Lucky you! I drive by car because I&#8217;m not close to any station. And I often get stuck in traffic, especially on the streets with a lot of <strong><span class='fillblank-option'><label>15.2</label><input id='fbo-905071-1' class='ms fillblank-option-15' index='1' name='fbo-905071-1' type='text' size='15' autocomplete='off' data-testid='fillblank-input-905071-1' /></span></strong>.</p>\n<p>Jake: Why don't you try another public transport?</p>\n<p>Grace: I&#8217;ve tried taking the <strong><span class='fillblank-option'><label>15.3</label><input id='fbo-905071-2' class='ms fillblank-option-15' index='2' name='fbo-905071-2' type='text' size='6' autocomplete='off' data-testid='fillblank-input-905071-2' /></span></strong> before, but it takes too long since I have to change lines several times.</p>\n<p>Jake: Well, I heard there will be a new <strong><span class='fillblank-option'><label>15.4</label><input id='fbo-905071-3' class='ms fillblank-option-15' index='3' name='fbo-905071-3' type='text' size='11' autocomplete='off' data-testid='fillblank-input-905071-3' /></span></strong> line that is close to your house. It builds above the streets so it might be faster. You should try it!</p>\n<p>Grace: Thanks! I&#8217;ll definitely try it once it&#8217;s available.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "the underground"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "traffic lights"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "tram"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "sky train"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"57D89FED\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19fR27mabj6w%2BEgDu1UfyczmFGFXHbcHzS4EIBmrSK77tLzv3waszdYxxyfWl6L4so38k%2FdNzPlNs%2BKgEdlDg0krrssnhevU6dhjCDAthhlottkwlWGwfr9%2BOv3cdA3ViO8050iD%2FkWX7ywsoqWA465D0OFQgl5pDujOIdsZv2cWsZMms8WqDB01Iim28vYRjIxrgwlmFKzfXuvn1VscmigVPyelt4zqUejz1V7BuBNRqJjzfymOBGZQHF3i8gyKOs40nF6lloeA5wMUB4%2FtSU751v155rUIEog2J9ivuNNCUwa80VvSAmRhdQsq3mM2U5anjghcaUFUW9WMs640Hohz9croXcdaFg44djIONZ6g%2BQzQHB6b5sf\" width=\"100%\" height=\"355\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch:&nbsp;</p>\n<p>Grace: Bạn thường đi l&agrave;m bằng c&aacute;ch n&agrave;o?</p>\n<p>Jake: T&ocirc;i thường đi <span style=\"text-decoration: underline;\">t&agrave;u điện ngầm</span> v&igrave; n&oacute; nhanh v&agrave; đi qua c&aacute;c đường hầm dưới l&ograve;ng đất, v&igrave; vậy t&ocirc;i kh&ocirc;ng phải lo lắng về giao th&ocirc;ng.</p>\n<p>Grace: Bạn thật may mắn! T&ocirc;i l&aacute;i xe v&igrave; t&ocirc;i kh&ocirc;ng ở gần bất kỳ nh&agrave; ga n&agrave;o. V&agrave; t&ocirc;i thường bị kẹt xe, đặc biệt l&agrave; tr&ecirc;n những con phố c&oacute; nhiều <span style=\"text-decoration: underline;\">đ&egrave;n giao th&ocirc;ng</span>.</p>\n<p>Jake: Tại sao bạn kh&ocirc;ng thử một phương tiện giao th&ocirc;ng c&ocirc;ng cộng kh&aacute;c?</p>\n<p>Grace: T&ocirc;i đ&atilde; thử đi <span style=\"text-decoration: underline;\">xe điện</span> trước đ&acirc;y, nhưng mất qu&aacute; nhiều thời gian v&igrave; t&ocirc;i phải đổi tuyến nhiều lần.</p>\n<p>Jake: &Agrave;, t&ocirc;i nghe n&oacute;i sẽ c&oacute; một tuyến <span style=\"text-decoration: underline;\">t&agrave;u điện tr&ecirc;n cao</span> mới gần nh&agrave; bạn. N&oacute; được x&acirc;y dựng ph&iacute;a tr&ecirc;n đường phố n&ecirc;n c&oacute; thể nhanh hơn. Bạn n&ecirc;n thử xem!</p>\n<p>Grace: Cảm ơn! T&ocirc;i chắc chắn sẽ thử khi có.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905076,
+      "questionNumber": 16,
+      "questionName": "đoạn văn",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the option that best fits each blank.</strong></p>\n<p style=\"text-align: justify;\">City life can be exciting but also challenging. One of the biggest problems is <strong><span class='fillblank-option'><label>16.1</label><select class='ms fillblank-option-16' index='0' name='fbo-905076-0' data-testid='fillblank-select-905076-0'><option value='' data-testid='fillblank-option-empty-905076-0'></option><option value=\"adventure\" data-testid='fillblank-option-905076-0-adventure'>adventure</option><option value=\"congestion\" data-testid='fillblank-option-905076-0-congestion'>congestion</option><option value=\"pollution\" data-testid='fillblank-option-905076-0-pollution'>pollution</option><option value=\"entertainment\" data-testid='fillblank-option-905076-0-entertainment'>entertainment</option></select></span></strong>. The streets are very crowded with many vehicles, so it is hard for people to get around. Although <strong><span class='fillblank-option'><label>16.2</label><select class='ms fillblank-option-16' index='1' name='fbo-905076-1' data-testid='fillblank-select-905076-1'><option value='' data-testid='fillblank-option-empty-905076-1'></option><option value=\"global warming\" data-testid='fillblank-option-905076-1-global warming'>global warming</option><option value=\"community service\" data-testid='fillblank-option-905076-1-community service'>community service</option><option value=\"public transport\" data-testid='fillblank-option-905076-1-public transport'>public transport</option><option value=\"social media\" data-testid='fillblank-option-905076-1-social media'>social media</option></select></span></strong>&nbsp;is a convenient option, there are still delays in the rush hour. I often rely on the<strong> </strong>bus line&nbsp;near my home, but sometimes it is late, especially in the morning. Another issue in the city is <strong><span class='fillblank-option'><label>16.3</label><select class='ms fillblank-option-16' index='2' name='fbo-905076-2' data-testid='fillblank-select-905076-2'><option value='' data-testid='fillblank-option-empty-905076-2'></option><option value=\"hygiene\" data-testid='fillblank-option-905076-2-hygiene'>hygiene</option><option value=\"fragrance\" data-testid='fillblank-option-905076-2-fragrance'>fragrance</option><option value=\"cost\" data-testid='fillblank-option-905076-2-cost'>cost</option><option value=\"population\" data-testid='fillblank-option-905076-2-population'>population</option></select></span></strong>. The water and air are polluted. Public places can sometimes be dirty. Some areas even look <strong><span class='fillblank-option'><label>16.4</label><select class='ms fillblank-option-16' index='3' name='fbo-905076-3' data-testid='fillblank-select-905076-3'><option value='' data-testid='fillblank-option-empty-905076-3'></option><option value=\"cozy\" data-testid='fillblank-option-905076-3-cozy'>cozy</option><option value=\"attractive\" data-testid='fillblank-option-905076-3-attractive'>attractive</option><option value=\"ugly\" data-testid='fillblank-option-905076-3-ugly'>ugly</option><option value=\"scary\" data-testid='fillblank-option-905076-3-scary'>scary</option></select></span></strong>, with old buildings and a lack of green space. Living in the city can also be <strong><span class='fillblank-option'><label>16.5</label><select class='ms fillblank-option-16' index='4' name='fbo-905076-4' data-testid='fillblank-select-905076-4'><option value='' data-testid='fillblank-option-empty-905076-4'></option><option value=\"habitable\" data-testid='fillblank-option-905076-4-habitable'>habitable</option><option value=\"expensive\" data-testid='fillblank-option-905076-4-expensive'>expensive</option><option value=\"affordable\" data-testid='fillblank-option-905076-4-affordable'>affordable</option><option value=\"economical\" data-testid='fillblank-option-905076-4-economical'>economical</option></select></span></strong>, with high prices for housing and everyday goods. However, living in the city also means having easy access to many shops, restaurants, and services, which can make life more convenient. Despite the challenges, city life offers many opportunities and excitement for those who enjoy it.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "congestion"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "public transport"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "hygiene"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "ugly"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "expensive"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. <strong>congestion</strong> (n.): sự tắc nghẽn giao th&ocirc;ng</p>\n<p>entertainment (n.): sự giải trí</p>\n<p>pollution (n.): sự &ocirc; nhi&ecirc;̃m</p>\n<p>adventure (n.): sự phi&ecirc;u lưu</p>\n<p>Dịch: Một trong những vấn đề lớn nhất l&agrave; sự tắc nghẽn giao th&ocirc;ng. Đường phố rất đ&ocirc;ng đ&uacute;c với nhiều phương tiện, v&igrave; vậy mọi người kh&oacute; c&oacute; thể di chuyển.</p>\n<p>2. <strong>public transport </strong>(n.): phương ti&ecirc;̣n giao th&ocirc;ng c&ocirc;ng c&ocirc;̣ng</p>\n<p>social media (n.): truy&ecirc;̀n th&ocirc;ng mạng xã h&ocirc;̣i</p>\n<p>community service (n.): dịch vụ c&ocirc;̣ng đ&ocirc;̀ng</p>\n<p>global warming (n.): sự nóng l&ecirc;n toàn c&acirc;̀u</p>\n<p>Dịch: Mặc d&ugrave; phương tiện giao th&ocirc;ng c&ocirc;ng cộng l&agrave; lựa chọn thuận tiện nhưng vẫn c&oacute; sự chậm trễ v&agrave;o giờ cao điểm.</p>\n<p>3. <strong>hygiene</strong> (n.): sự v&ecirc;̣ sinh</p>\n<p>population (n.): d&acirc;n s&ocirc;́</p>\n<p>fragrance (n.): mùi hương, hương thơm</p>\n<p>cost (n.): chi phí</p>\n<p>Dịch: Một vấn đề kh&aacute;c trong th&agrave;nh phố l&agrave; vệ sinh. Nước v&agrave; kh&ocirc;ng kh&iacute; bị &ocirc; nhiễm. Những nơi c&ocirc;ng cộng đ&ocirc;i khi c&oacute; thể bẩn.</p>\n<p>4. <strong>ugly</strong> (adj.): x&acirc;́u xí</p>\n<p>attractive (adj.): h&acirc;́p d&acirc;̃n</p>\n<p>scary (adj.): đáng sợ</p>\n<p>cozy (adj.): &acirc;́m cúng</p>\n<p>Dịch: Một số khu vực thậm ch&iacute; c&ograve;n tr&ocirc;ng xấu x&iacute;, với những t&ograve;a nh&agrave; cũ v&agrave; thiếu kh&ocirc;ng gian xanh.</p>\n<p>5. <strong>expensive</strong> (adj.): đắt đỏ</p>\n<p>affordable (adj.): có th&ecirc;̉ chi trả được, ở mức hợp lý</p>\n<p>habitable (adj.): có th&ecirc;̉ ở được</p>\n<p>economical (adj.): ti&ecirc;́t ki&ecirc;̣m</p>\n<p>Dịch: Sống ở th&agrave;nh phố cũng c&oacute; thể tốn k&eacute;m v&igrave; gi&aacute; nh&agrave; ở v&agrave; h&agrave;ng h&oacute;a h&agrave;ng ng&agrave;y đều cao.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

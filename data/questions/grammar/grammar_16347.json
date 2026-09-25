@@ -1,0 +1,1276 @@
+{
+  "quizId": 16347,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 46: Other comparative structures (Các cấu trúc so sánh khác)",
+  "totalQuestions": 31,
+  "questions": [
+    {
+      "id": 906100,
+      "questionNumber": 1,
+      "questionName": "2",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Trong so s&#225;nh kh&#225;c nhau, t&#237;nh t&#7915; &quot;different&quot; c&#243; th&#7875; &#273;&#432;&#7907;c theo sau b&#7903;i _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1720513,
+          "label": "A",
+          "text": "to",
+          "isCorrect": true
+        },
+        {
+          "id": 1720514,
+          "label": "B",
+          "text": "at",
+          "isCorrect": false
+        },
+        {
+          "id": 1720515,
+          "label": "C",
+          "text": "than",
+          "isCorrect": true
+        },
+        {
+          "id": 1720516,
+          "label": "D",
+          "text": "from",
+          "isCorrect": true
+        },
+        {
+          "id": 1720517,
+          "label": "E",
+          "text": "on",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1720513,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/5_-_Copy_4_05cece7a.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 906094,
+      "questionNumber": 2,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ho&#224;n th&#224;nh c&#225;c c&#226;u.</strong></p>\n<p>1. <span class='fillblank-option'><label>2.1</label><input id='fbo-906094-0' class='ms fillblank-option-2' index='0' name='fbo-906094-0' type='text' size='12' autocomplete='off' data-testid='fillblank-input-906094-0' /></span> &#273;&#432;&#7907;c d&#249;ng &#273;&#7875; n&#243;i r&#7857;ng khi m&#7897;t c&#225;i g&#236; &#273;&#243; t&#259;ng ho&#7863;c gi&#7843;m, n&#243; s&#7869; khi&#7871;n m&#7897;t c&#225;i kh&#225;c thay &#273;&#7893;i.</p>\n<p>2. <span class='fillblank-option'><label>2.2</label><input id='fbo-906094-1' class='ms fillblank-option-2' index='1' name='fbo-906094-1' type='text' size='17' autocomplete='off' data-testid='fillblank-input-906094-1' /></span> &#273;&#432;&#7907;c s&#7917; d&#7909;ng &#273;&#7875; th&#7875; hi&#7879;n s&#7921; t&#259;ng ho&#7863;c gi&#7843;m li&#234;n t&#7909;c.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1739080,
+          "label": "A",
+          "text": "So sánh lặp lại",
+          "isCorrect": false
+        },
+        {
+          "id": 1739079,
+          "label": "B",
+          "text": "So sánh kép",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "So sánh kép"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "So sánh lặp lại"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/6_-_Copy_5_998c11c0.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 906097,
+      "questionNumber": 3,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>X&#225;c &#273;&#7883;nh xem c&#225;c c&#226;u sau &#272;&#218;NG hay SAI?</strong></p>\n<p>1. Ch&#250;ng ta kh&#244;ng th&#7875; s&#7917; d&#7909;ng so s&#225;nh k&#233;p v&#224; so s&#225;nh l&#7863;p l&#7841;i v&#7899;i danh t&#7915;. <span class='fillblank-option'><label>3.1</label><select class='ms fillblank-option-3' index='0' name='fbo-906097-0' data-testid='fillblank-select-906097-0'><option value='' data-testid='fillblank-option-empty-906097-0'></option><option value=\"Sai\" data-testid='fillblank-option-906097-0-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-906097-0-Đúng'>Đúng</option></select></span></p>\n<p>2. So s&#225;nh k&#233;p c&#243; th&#7875; di&#7877;n &#273;&#7841;t c&#225;c c&#226;u l&#7879;nh &#7903; d&#7841;ng m&#7879;nh l&#7879;nh. <span class='fillblank-option'><label>3.2</label><select class='ms fillblank-option-3' index='1' name='fbo-906097-1' data-testid='fillblank-select-906097-1'><option value='' data-testid='fillblank-option-empty-906097-1'></option><option value=\"Đúng\" data-testid='fillblank-option-906097-1-Đúng'>Đúng</option><option value=\"Sai\" data-testid='fillblank-option-906097-1-Sai'>Sai</option></select></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Sai"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Đúng"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.7362%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/8_-_Copy_1_182ca8e1.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7362%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/Bai_46_Cac_cau_truc_so_sanh_khac__so_san_bdec5010.jpg\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 906101,
+      "questionNumber": 4,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>C&#226;u n&#224;o di&#7877;n t&#7843; s&#7921; so s&#225;nh v&#7873; hai th&#7913; gi&#7889;ng h&#7879;t?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1720518,
+          "label": "A",
+          "text": "My phone is the same as hers.",
+          "isCorrect": true
+        },
+        {
+          "id": 1720519,
+          "label": "B",
+          "text": "My phone is similar to hers.",
+          "isCorrect": false
+        },
+        {
+          "id": 1720520,
+          "label": "C",
+          "text": "My phone is like hers.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1720518,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/4_-_Copy_5_c193ee26.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 674724,
+      "questionNumber": 5,
+      "questionName": "Question 13",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Jack <span class=\"word\">doesn't</span>&nbsp;<span class=\"word\">have</span> <span class=\"word\">as</span> <span class=\"word\">many</span> toy<span class=\"word\">s _____ Bill does.&nbsp;</span></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1302616,
+          "label": "A",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 1302617,
+          "label": "B",
+          "text": "than",
+          "isCorrect": false
+        },
+        {
+          "id": 1302618,
+          "label": "C",
+          "text": "as",
+          "isCorrect": true
+        },
+        {
+          "id": 1302619,
+          "label": "D",
+          "text": "to",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1302618,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng ngang bằng với \"<strong>many</strong>\":<strong> S + V + not + so/as + many + N (đếm được số nhiều) + as + O/Pronoun/S + V.</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Jack kh&ocirc;ng c&oacute; nhiều đồ chơi bằng Bill.&nbsp;</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 13281,
+      "questionNumber": 6,
+      "questionName": "Question 17.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Please cut my hair _____ the hair in this magazine.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 44185,
+          "label": "A",
+          "text": "the same length as",
+          "isCorrect": true
+        },
+        {
+          "id": 44186,
+          "label": "B",
+          "text": "the same length like",
+          "isCorrect": false
+        },
+        {
+          "id": 44187,
+          "label": "C",
+          "text": "the same long like",
+          "isCorrect": false
+        },
+        {
+          "id": 44188,
+          "label": "D",
+          "text": "the same long as",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 44185,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để hoàn thành câu này, hãy xem xét các yếu tố sau:</p>\n<ul>\n<li>Câu cần diễn tả việc cắt tóc <em>giống</em> một kiểu mẫu.</li>\n<li>Cấu trúc so sánh sự giống nhau thường dùng <em>\"the same...as\"</em>.</li>\n<li>Sau <em>\"the same\"</em> cần là một danh từ để chỉ đặc điểm được so sánh. </li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc so sánh bằng với tính từ và danh từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả sự tương đồng hoặc giống nhau giữa hai người, vật, hoặc sự việc về một thuộc tính hoặc đặc điểm cụ thể.</p>\n<p><strong>Một số cấu trúc so sánh bằng:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">as + adj. / adv. + as:</span></strong> ngang bằng về tính chất/mức độ</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">the same + N + as:</span></strong> giống nhau về danh từ (kích thước, chiều dài, màu sắc, v.v.)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu cần một cấu trúc so sánh sự giống nhau về độ dài của tóc. Cấu trúc <em>\"the same + N + as\"</em> là lựa chọn phù hợp nhất để diễn tả sự tương đồng này. Phương án 1, <em>\"the same length as\"</em>, sử dụng đúng danh từ <em>\"length\"</em> (chiều dài) sau <em>\"the same\"</em> và dùng <em>\"as\"</em> để hoàn thành cấu trúc so sánh, phù hợp với ngữ cảnh của câu.</p>",
+      "answerFeedbacks": {
+        "44185": "Đúng vì <em>\"the same + N + as\"</em> là cấu trúc đúng để diễn tả sự giống nhau về một đặc điểm danh từ.",
+        "44186": "Sai vì <em>\"like\"</em> không được dùng sau <em>\"the same + N\"</em> trong cấu trúc so sánh bằng.",
+        "44187": "Sai vì <em>\"long\"</em> là tính từ, không thể dùng trực tiếp sau <em>\"the same\"</em> để so sánh danh từ, và <em>\"like\"</em> cũng sai.",
+        "44188": "Sai vì <em>\"long\"</em> là tính từ, cần danh từ <em>\"length\"</em> để hoàn thành cấu trúc <em>\"the same + N + as\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 60491,
+      "questionNumber": 7,
+      "questionName": "Question 14:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>His choice of future career is quite similar _____ mine.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 162585,
+          "label": "A",
+          "text": "<p>with</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 162586,
+          "label": "B",
+          "text": "<p>at</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 162587,
+          "label": "C",
+          "text": "<p>for</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 162588,
+          "label": "D",
+          "text": "to",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 162588,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Đây là một câu hỏi kiểm tra cụm từ cố định. Hãy nhớ lại giới từ nào thường đi kèm với tính từ <em>\"similar\"</em> để diễn tả ý \"tương tự với\" hoặc \"giống với\".</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cụm tính từ + giới từ cố định</span>.</p><blockquote style=\"margin-left: 0px; padding-left: 18px;\"><p style=\"text-align: justify;\">Cụm từ <em><b>similar to</b></em> có nghĩa là \"tương tự với\" hoặc \"giống với\", dùng để diễn tả sự giống nhau giữa hai hoặc nhiều đối tượng, sự vật, hoặc ý tưởng.</p></blockquote><p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p><p style=\"text-align: justify;\">Trong câu, từ khóa là tính từ \"similar\" đứng trước chỗ trống. Để diễn tả ý \"tương tự với\" hay \"giống với\" một điều gì đó, tiếng Anh sử dụng cụm giới từ cố định <em>\"similar to\"</em>. Do đó, giới từ \"to\" là lựa chọn phù hợp nhất để hoàn thành câu này.</p><p style=\"text-align: justify;\">Các giới từ khác như \"with\", \"at\", \"for\" không tạo thành cụm từ cố định mang nghĩa tương đồng khi đi kèm với \"similar\" và do đó không phù hợp với ngữ cảnh của câu.</p>",
+      "answerFeedbacks": {
+        "162585": "<p>Sai vì \"similar with\" không phải là cụm tính từ + giới từ cố định đúng trong tiếng Anh để diễn tả sự tương đồng.</p>",
+        "162586": "<p>Sai vì \"similar at\" không phải là cụm tính từ + giới từ cố định đúng trong tiếng Anh.</p>",
+        "162587": "<p>Sai vì \"similar for\" không phải là cụm tính từ + giới từ cố định đúng trong tiếng Anh.</p>",
+        "162588": "Đúng vì <em>\"similar to\"</em> là cụm tính từ + giới từ cố định chính xác, có nghĩa là \"tương tự với\"."
+      },
+      "images": []
+    },
+    {
+      "id": 46079,
+      "questionNumber": 8,
+      "questionName": "Q 9.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I think life today is _____ comfortable than it was in the past. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 133952,
+          "label": "A",
+          "text": "about as",
+          "isCorrect": false
+        },
+        {
+          "id": 133953,
+          "label": "B",
+          "text": "a lot much",
+          "isCorrect": false
+        },
+        {
+          "id": 133954,
+          "label": "C",
+          "text": "more and more",
+          "isCorrect": true
+        },
+        {
+          "id": 133955,
+          "label": "D",
+          "text": "the more",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 133954,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh lặp (c&agrave;ng ng&agrave;y c&agrave;ng): <strong>S + V + more and more + adj./adv. + than + O/Pron.</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: T&ocirc;i nghĩ đời sống ng&agrave;y nay c&agrave;ng ng&agrave;y c&agrave;ng thoải m&aacute;i hơn so với trước đ&acirc;y.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 59239,
+      "questionNumber": 9,
+      "questionName": "Question 13:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The fewer bags you take, _____ trouble you will have on route.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 160457,
+          "label": "A",
+          "text": "the fewer",
+          "isCorrect": false
+        },
+        {
+          "id": 160458,
+          "label": "B",
+          "text": "the little",
+          "isCorrect": false
+        },
+        {
+          "id": 160459,
+          "label": "C",
+          "text": "the less",
+          "isCorrect": true
+        },
+        {
+          "id": 160460,
+          "label": "D",
+          "text": "the least",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 160459,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để tìm đáp án, hãy lưu ý đến cấu trúc so sánh kép <em>\"The + comparative..., the + comparative...\"</em>.\n<ul>\n<li>Xác định loại danh từ đứng sau chỗ trống: <em>\"trouble\"</em> là danh từ đếm được hay không đếm được?</li>\n<li>Sau đó, chọn dạng so sánh hơn của lượng từ phù hợp với loại danh từ này.</li>\n</ul>\n",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So sánh kép và lượng từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả mối quan hệ tỉ lệ thuận hoặc tỉ lệ nghịch giữa hai sự việc, hành động. Khi một sự việc thay đổi, sự việc kia cũng thay đổi theo.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: <span style=\"color: #1c581f;\">The + so sánh hơn (adj./adv.), the + so sánh hơn (adj./adv.)</span></strong></p>\n<p><strong>Một số cấu trúc với lượng từ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">few + N (đếm được số nhiều):</span></strong> một số, một vài (không đủ) (dạng so sánh hơn là <span style=\"color: #1c581f;\"><strong>fewer</strong></span>)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">little + N (không đếm được):</span></strong> một ít, một chút (không đủ) (dạng so sánh hơn là <span style=\"color: #1c581f;\"><strong>less</strong></span>)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu hỏi sử dụng cấu trúc so sánh kép <strong>\"The + so sánh hơn..., the + so sánh hơn...\"</strong>. Vế sau của câu có danh từ <strong>\"trouble\" </strong>là danh từ không đếm được. Do đó, cần sử dụng dạng so sánh hơn của lượng từ phù hợp với danh từ không đếm được, đó là <strong>\"less\" </strong>(so sánh hơn của <strong>\"little\"</strong>).</p>",
+      "answerFeedbacks": {
+        "160457": "Sai vì <em>\"fewer\"</em> được dùng với danh từ đếm được số nhiều, trong khi <em>\"trouble\"</em> là danh từ không đếm được.",
+        "160458": "<p>Sai vì <em>\"little\"</em> là dạng nguyên thể, không phải dạng so sánh hơn cần thiết cho cấu trúc so sánh kép.</p>",
+        "160459": "Đúng vì <em>\"less\"</em> là dạng so sánh hơn của <em>\"little\"</em> và được dùng với danh từ không đếm được như <em>\"trouble\"</em> trong cấu trúc so sánh kép.",
+        "160460": "Sai vì <em>\"least\"</em> là dạng so sánh nhất, không phù hợp với cấu trúc so sánh kép yêu cầu so sánh hơn."
+      },
+      "images": []
+    },
+    {
+      "id": 71085,
+      "questionNumber": 10,
+      "questionName": "Question 3:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>It&#8217;s important that parents treat all their children _____ way.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 184245,
+          "label": "A",
+          "text": "alike",
+          "isCorrect": false
+        },
+        {
+          "id": 184246,
+          "label": "B",
+          "text": "similar to",
+          "isCorrect": false
+        },
+        {
+          "id": 184247,
+          "label": "C",
+          "text": "the same",
+          "isCorrect": true
+        },
+        {
+          "id": 184248,
+          "label": "D",
+          "text": "identically",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 184247,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>the same + N </strong>: giống nhau, như nhau</p>\n<p>alike (adj.): giống nhau (lu&ocirc;n đứng một m&igrave;nh, theo sau hai danh từ hoặc danh từ số nhiều v&agrave; kh&ocirc;ng đứng trước một danh từ)</p>\n<p>similar to N/Pronoun: tương tự với... (kh&ocirc;ng ho&agrave;n to&agrave;n giống nhau)</p>\n<p>identical (adj.): giống hệt nhau =&gt; kh&ocirc;ng chọn v&igrave; thiếu mạo từ ở ph&iacute;a trước</p>\n<p>Dịch: Điều quan trọng l&agrave; cha mẹ phải đối xử với tất cả con c&aacute;i của họ như nhau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 35817,
+      "questionNumber": 11,
+      "questionName": "Question 49",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The more detailed your talk is, _____ for everyone to follow along.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 109754,
+          "label": "A",
+          "text": "the easy it will be",
+          "isCorrect": false
+        },
+        {
+          "id": 109755,
+          "label": "B",
+          "text": "the more easier it will be",
+          "isCorrect": false
+        },
+        {
+          "id": 109756,
+          "label": "C",
+          "text": "the easier it will",
+          "isCorrect": false
+        },
+        {
+          "id": 109757,
+          "label": "D",
+          "text": "the easier it will be",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 109757,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh k&eacute;p với t&iacute;nh từ/trạng từ (c&agrave;ng...c&agrave;ng): <strong>The + adj./adv. dạng so s&aacute;nh hơn + (N) + S + V, the + adj./adv. dạng so s&aacute;nh hơn + (N) + S2 + V2.</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: B&agrave;i n&oacute;i của bạn c&agrave;ng chi tiết th&igrave; mọi người sẽ c&agrave;ng dễ theo d&otilde;i.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 11840,
+      "questionNumber": 12,
+      "questionName": "Question 1084.",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>As she did so, her parents became _____.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 38797,
+          "label": "A",
+          "text": "the angriest",
+          "isCorrect": false
+        },
+        {
+          "id": 38798,
+          "label": "B",
+          "text": "the most angry",
+          "isCorrect": false
+        },
+        {
+          "id": 38799,
+          "label": "C",
+          "text": "the more angry",
+          "isCorrect": false
+        },
+        {
+          "id": 38800,
+          "label": "D",
+          "text": "angrier and angrier",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 38800,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh lặp (c&agrave;ng ng&agrave;y c&agrave;ng): <strong>S + V + adj./adv. so s&aacute;nh hơn + and + adj./adv. so s&aacute;nh hơn (+ O).</strong></span></p>\n<p><span style=\"font-weight: 400;\">\"<strong>angry</strong>\" l&agrave; t&iacute;nh từ kết th&uacute;c với <strong>-y</strong> n&ecirc;n chuyển sang dạng so s&aacute;nh hơn l&agrave; \"<strong>angrier</strong>\".</span></p>\n<p>Dịch: Bởi v&igrave; c&ocirc; ấy l&agrave;m thế, bố mẹ c&ocirc; c&agrave;ng trở n&ecirc;n tức giận.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 401913,
+      "questionNumber": 13,
+      "questionName": "grammar practice p39",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Complete the conversation. Use one word in each gap.</strong></p>\n<p>A: Look! We've got exactly the <span class='fillblank-option'><label>13.1</label><input id='fbo-401913-0' class='ms fillblank-option-13' index='0' name='fbo-401913-0' type='text' size='7' autocomplete='off' data-testid='fillblank-input-401913-0' /></span> trainers!</p>\n<p>B: Really? No! Mine are white here and yours are black.</p>\n<p>A: Oh, OK. Well, they're more or less the same. And your bag's very similar <span class='fillblank-option'><label>13.2</label><input id='fbo-401913-1' class='ms fillblank-option-13' index='1' name='fbo-401913-1' type='text' size='6' autocomplete='off' data-testid='fillblank-input-401913-1' /></span> mine. It's <span class='fillblank-option'><label>13.3</label><input id='fbo-401913-2' class='ms fillblank-option-13' index='2' name='fbo-401913-2' type='text' size='4' autocomplete='off' data-testid='fillblank-input-401913-2' /></span> same color and size.</p>\n<p>B: Yes, but mine hasn't got as <span class='fillblank-option'><label>13.4</label><input id='fbo-401913-3' class='ms fillblank-option-13' index='3' name='fbo-401913-3' type='text' size='8' autocomplete='off' data-testid='fillblank-input-401913-3' /></span> pockets as yours. Yours is nicer.</p>\n<p>A: Yours is nice too. And your glasses are nice. Are they new?</p>\n<p>B: Yes. They're slightly different <span class='fillblank-option'><label>13.5</label><input id='fbo-401913-4' class='ms fillblank-option-13' index='4' name='fbo-401913-4' type='text' size='6' autocomplete='off' data-testid='fillblank-input-401913-4' /></span> my old ones. They're the same <span class='fillblank-option'><label>13.6</label><input id='fbo-401913-5' class='ms fillblank-option-13' index='5' name='fbo-401913-5' type='text' size='5' autocomplete='off' data-testid='fillblank-input-401913-5' /></span> Lisa's.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "same"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "to"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "the"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "many"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "from",
+            "to",
+            "than"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "as"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1.<strong> the same + N</strong>: c&aacute;i g&igrave; giống</p>\n<p>2.<strong> to be similar to N/Pronoun</strong>: tương tự ...</p>\n<p>3.&nbsp;<strong> the same + N</strong>: c&aacute;i g&igrave; giống</p>\n<p>4. <strong>as many/much + N + as + N/Pronoun</strong>: nhiều ... như</p>\n<p>\"<strong>pockets</strong>\" là danh từ s&ocirc;́ nhi&ecirc;̀u n&ecirc;n dùng \"<strong>many</strong>\".</p>\n<p>5. <strong>to be different from/to/than + N/Pronoun</strong>: kh&aacute;c với ...</p>\n<p>6. <strong>the same as ...</strong>: giống với</p>\n<p>Dịch:&nbsp;</p>\n<p>A: Nh&igrave;n n&agrave;y! Ch&uacute;ng m&igrave;nh c&oacute; gi&agrave;y giống hệt nhau!</p>\n<p>B: Thật sao? Kh&ocirc;ng phải! Gi&agrave;y của tớ m&agrave;u trắng ở đ&acirc;y v&agrave; của cậu th&igrave; m&agrave;u đen.</p>\n<p>A: Ồ, được rồi. Thực ra th&igrave; ch&uacute;ng cũng tương tự nhau. V&agrave; t&uacute;i của cậu cũng rất giống t&uacute;i của tớ. N&oacute; c&ugrave;ng m&agrave;u v&agrave; k&iacute;ch cỡ.</p>\n<p>B: Phải, nhưng của tớ kh&ocirc;ng c&oacute; nhiều ngăn như của cậu. T&uacute;i của cậu đẹp hơn.</p>\n<p>A: T&uacute;i của cậu cũng đẹp m&agrave;. V&agrave; k&iacute;nh của cậu cũng đẹp. K&iacute;nh mới hả?</p>\n<p>B: Đ&uacute;ng. N&oacute; hơi kh&aacute;c k&iacute;nh cũ của tớ. N&oacute; giống k&iacute;nh của Lisa.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 45899,
+      "questionNumber": 14,
+      "questionName": "Q15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">The older</span> you <span style=\"text-decoration: underline;\">are</span>, <span style=\"text-decoration: underline;\">the worst</span> your <span style=\"text-decoration: underline;\">memory is</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 133394,
+          "label": "A",
+          "text": "The older",
+          "isCorrect": false
+        },
+        {
+          "id": 133395,
+          "label": "B",
+          "text": "are",
+          "isCorrect": false
+        },
+        {
+          "id": 133396,
+          "label": "C",
+          "text": "the worst",
+          "isCorrect": true
+        },
+        {
+          "id": 133397,
+          "label": "D",
+          "text": "memory is",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 133396,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh k&eacute;p (c&agrave;ng...c&agrave;ng) với t&iacute;nh từ: <strong>The + dạng so s&aacute;nh hơn của adj. + (N) + S + V, the + dạng so s&aacute;nh hơn của t&iacute;nh từ + (N) + S2 + V2.</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dạng so s&aacute;nh hơn của t&iacute;nh từ \"<strong>bad</strong>\" l&agrave; \"<strong>worse</strong>\".</span></p>\n<p><span style=\"font-weight: 400;\">Sửa: \"<strong>the worst</strong>\" =&gt; \"<strong>the worse</strong>\"</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: C&agrave;ng lớn tuổi th&igrave; tr&iacute; nhớ của bạn c&agrave;ng k&eacute;m.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 51474,
+      "questionNumber": 15,
+      "questionName": "Question 19:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>I <u>have never</u> seen as <u>many</u> expensive cars <u>than</u> the cars <u>in</u> that shopping center.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 145561,
+          "label": "A",
+          "text": "have never",
+          "isCorrect": false
+        },
+        {
+          "id": 145562,
+          "label": "B",
+          "text": "many",
+          "isCorrect": false
+        },
+        {
+          "id": 145563,
+          "label": "C",
+          "text": "than",
+          "isCorrect": true
+        },
+        {
+          "id": 145564,
+          "label": "D",
+          "text": "in",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 145563,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng ngang bằng:<strong> S + V + not + so/as + adj./adv. + as + Noun/Pronoun/S + V.</strong></span></p>\n<p><span style=\"font-weight: 400;\">Sửa: \"<strong>than</strong>\"<strong> </strong>=&gt; \"<strong>as</strong>\"</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: T&ocirc;i chưa bao giờ thấy nhiều &ocirc; t&ocirc; đắt tiền như những chiếc &ocirc; t&ocirc; ở trong trung t&acirc;m thương mại.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 784780,
+      "questionNumber": 16,
+      "questionName": "33",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The <u>more tired</u> <u>you are</u>, the <u>most difficult</u> it becomes <span style=\"text-decoration: underline;\">to concentrate</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1507485,
+          "label": "A",
+          "text": "more tired",
+          "isCorrect": false
+        },
+        {
+          "id": 1507486,
+          "label": "B",
+          "text": "you are",
+          "isCorrect": false
+        },
+        {
+          "id": 1507487,
+          "label": "C",
+          "text": "most difficult",
+          "isCorrect": true
+        },
+        {
+          "id": 1507488,
+          "label": "D",
+          "text": "to concentrate",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1507487,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét cấu trúc so sánh kép <em>\"the more... the more...\"</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đánh giá cách dùng tính từ hoặc trạng từ trong dạng so sánh hơn.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xác định xem <em>\"most difficult\"</em> có phải là dạng so sánh hơn của <em>\"difficult\"</em> không.</li>\n</ul>\n<p style=\"text-align: justify;\">Đối chiếu từng quy tắc với câu gốc để tìm ra phần cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So sánh kép</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả mối quan hệ tỉ lệ thuận hoặc tỉ lệ nghịch giữa hai sự việc, hành động.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">The + so sánh hơn (adj/adv) + S + V, the + so sánh hơn (adj/adv) + S + V.</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong cấu trúc so sánh kép \"<strong>The more... the more...</strong>\", cả hai vế đều phải sử dụng hình thức so sánh hơn. Trong câu, vế đầu tiên dùng \"<strong>the more tired</strong>\" là đúng, nhưng vế thứ hai lại dùng \"<strong>the most difficult</strong>\" thay vì \"<strong>the more difficult</strong>\", dẫn đến lỗi sai ở phương án 3.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<strong>most difficult</strong>\" =&gt; \"<strong>more difficult</strong>\"</p>",
+      "answerFeedbacks": {
+        "1507485": "Phần <em>\"more tired\"</em> là cách dùng so sánh hơn đúng cho tính từ <em>\"tired\"</em>, phù hợp với cấu trúc so sánh kép.",
+        "1507486": "Cụm <em>\"you are\"</em> là chủ ngữ và động từ của mệnh đề thứ nhất, hoàn toàn đúng ngữ pháp.",
+        "1507487": "Trong cấu trúc so sánh kép, cả hai vế đều phải sử dụng dạng so sánh hơn, nhưng ở đây lại dùng <em>\"most difficult\"</em> là dạng so sánh nhất.",
+        "1507488": "Động từ nguyên thể có <em>\"to\"</em> (<em>\"to concentrate\"</em>) là cách dùng đúng sau tính từ <em>\"difficult\"</em> trong ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 402004,
+      "questionNumber": 17,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The speech was <span style=\"text-decoration: underline;\">strikingly</span> similar <span style=\"text-decoration: underline;\">in</span> one given by <span style=\"text-decoration: underline;\">the</span> American president <span style=\"text-decoration: underline;\">earlier</span> this year.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 814714,
+          "label": "A",
+          "text": "strikingly",
+          "isCorrect": false
+        },
+        {
+          "id": 814715,
+          "label": "B",
+          "text": "in",
+          "isCorrect": true
+        },
+        {
+          "id": 814716,
+          "label": "C",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "id": 814717,
+          "label": "D",
+          "text": "earlier",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 814715,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>to be similar to N/Pronoun/S + V</strong>: tương tự với ...</p>\n<p>Sửa: \"<strong>in</strong>\" =&gt; \"<strong>to</strong>\"</p>\n<p>Dịch: B&agrave;i ph&aacute;t biểu n&agrave;y rất giống với b&agrave;i ph&aacute;t biểu của Tổng thống Mỹ hồi đầu năm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 803747,
+      "questionNumber": 18,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">The</span> weather <span style=\"text-decoration: underline;\">is becoming</span> <span style=\"text-decoration: underline;\">much</span> and more unpredictable <span style=\"text-decoration: underline;\">due to</span> climate change.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1542205,
+          "label": "A",
+          "text": "The",
+          "isCorrect": false
+        },
+        {
+          "id": 1542206,
+          "label": "B",
+          "text": "is becoming",
+          "isCorrect": false
+        },
+        {
+          "id": 1542207,
+          "label": "C",
+          "text": "much",
+          "isCorrect": true
+        },
+        {
+          "id": 1542208,
+          "label": "D",
+          "text": "due to",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1542207,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh lặp (c&agrave;ng ng&agrave;y c&agrave;ng): <strong>S + V + more and more + adj./adv.&nbsp;</strong></span></p>\n<p><span style=\"font-weight: 400;\">Sửa: \"<strong>much</strong>\" =&gt; \"<strong>more</strong>\"</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Thời tiết ng&agrave;y c&agrave;ng trở n&ecirc;n kh&oacute; lường hơn do biến đổi kh&iacute; hậu.<br /></span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 142217,
+      "questionNumber": 19,
+      "questionName": "9.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Her book is not the same as mine.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 335141,
+          "label": "A",
+          "text": "Her book isn’t the same like mine.",
+          "isCorrect": false
+        },
+        {
+          "id": 335198,
+          "label": "B",
+          "text": "Her book is not the same as my.",
+          "isCorrect": false
+        },
+        {
+          "id": 335199,
+          "label": "C",
+          "text": "Her book and my book are the same.",
+          "isCorrect": false
+        },
+        {
+          "id": 335200,
+          "label": "D",
+          "text": "Her book is different from mine.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 335200,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>be different from</strong>: kh&aacute;c với</p>\n<p>Đại từ sở hữu<strong>&nbsp;</strong>\"<strong>mine</strong>\" đứng sau giới từ v&agrave; thay thế cho cụm danh từ \"<strong>my book</strong>\".</p>\n<p>the same as + N ~ the same + N + as: giống với&nbsp;</p>\n<p>Phương &aacute;n 1, 2 sai về ngữ ph&aacute;p.</p>\n<p>Phương &aacute;n 3 sai về nghĩa.</p>\n<p>Dịch: Quyển s&aacute;ch của c&ocirc; ấy kh&ocirc;ng giống với quyển s&aacute;ch của t&ocirc;i.</p>\n<p>~ Quyển s&aacute;ch của c&ocirc; ấy kh&aacute;c với quyển s&aacute;ch của t&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 125062,
+      "questionNumber": 20,
+      "questionName": "47",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>It’s hard to concentrate when you're tired.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 293296,
+          "label": "A",
+          "text": "<p>Your being tiredness makes you unable to concentrate.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 293297,
+          "label": "B",
+          "text": "<p>You're possible to concentrate as a result of your being tired.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 293298,
+          "label": "C",
+          "text": "<p>Your tiredness leads to your incapable of concentration.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 293299,
+          "label": "D",
+          "text": "<p>The more tired you are, the harder it is to concentrate.</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 293299,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn được câu có nghĩa gần nhất, bạn cần xác định mối quan hệ nhân quả hoặc tỉ lệ giữa sự mệt mỏi và khả năng tập trung trong câu gốc. </p>\n<p>Hãy tìm phương án diễn đạt mối quan hệ này, đặc biệt là mối quan hệ tỉ lệ: <em>Càng mệt thì càng khó tập trung.</em></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>It's hard to V-inf</strong>: cấu trúc diễn tả sự khó khăn khi làm gì đó</p>\n<p style=\"text-align: justify;\"><strong>concentrate</strong> (v.): tập trung</p>\n<p style=\"text-align: justify;\"><strong>tired</strong> (adj.): mệt mỏi</p>\n<p style=\"text-align: justify;\">Cấu trúc so sánh kép diễn tả sự tương quan tỉ lệ giữa hai sự việc: <span style=\"font-weight: 600;\">the + so sánh hơn + S + V, the + so sánh hơn + S + V</span></p>\n<p style=\"text-align: justify;\"><strong>unable</strong> (adj.): không thể</p>\n<p style=\"text-align: justify;\"><strong>as a result of</strong> (phr.): kết quả của, do</p>\n<p style=\"text-align: justify;\"><strong>lead to</strong> (phr.v.): dẫn đến</p>\n<p style=\"text-align: justify;\"><strong>incapable</strong> (adj.): không có khả năng</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Phương án 4 đúng vì cấu trúc so sánh kép <strong>\"the + so sánh hơn + S + V, the + so sánh hơn + S + V\"</strong> diễn tả mối quan hệ tỉ lệ thuận giữa mức độ mệt mỏi và độ khó tập trung, phản ánh chính xác ý nghĩa của câu gốc <strong>\"It's hard to concentrate when you're tired.\".</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 1 sai vì cụm \"Your being tiredness\" dùng chưa chính xác, cần viết là \"Your tiredness\" hoặc \"Your being tired\".</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 2 sai vì cụm \"You're possible to concentrate\" dùng sai ngữ pháp, cần là \"It's possible for you to concentrate\" hoặc \"You can possibly concentrate\", và nghĩa của nó (có thể tập trung) trái ngược với câu gốc (khó tập trung).</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 3 sai vì cụm \"your incapable of concentration\" dùng sai ngữ pháp, cần là \"your incapability of concentration\" hoặc \"your being incapable of concentration\".</li>\n</ul>",
+      "answerFeedbacks": {
+        "293296": "<p>Sai vì cụm từ \"<em>Your being tiredness</em>\" không được sử dụng tự nhiên.</p>",
+        "293297": "<p>Sai vì nghĩa của câu (\"có thể tập trung\") trái ngược với câu gốc và cấu trúc \"<em>You're possible to concentrate</em>\" không đúng ngữ pháp.</p>",
+        "293298": "<p>Sai vì cụm từ \"<em>your incapable of concentration</em>\" không đúng ngữ pháp.</p>",
+        "293299": "<p>Đúng vì cấu trúc so sánh kép \"<em>The more... the harder...</em>\" diễn tả chính xác mối quan hệ tỉ lệ thuận giữa sự mệt mỏi và độ khó tập trung của câu gốc.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 782862,
+      "questionNumber": 21,
+      "questionName": "Question 48: ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p style=\"text-align: justify;\"><strong>If you get a better sleep, you can become less stressed.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1503781,
+          "label": "A",
+          "text": "The quality of your sleep is not good enough to relax.",
+          "isCorrect": false
+        },
+        {
+          "id": 1503782,
+          "label": "B",
+          "text": "You get stressed when you get a sleep.",
+          "isCorrect": false
+        },
+        {
+          "id": 1503783,
+          "label": "C",
+          "text": "The better your sleep is, the less stressed you are.",
+          "isCorrect": true
+        },
+        {
+          "id": 1503784,
+          "label": "D",
+          "text": "Even when you sleep well, you feel more stressed.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1503783,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"color: #000000; background-color: #fbeeb8;\"><strong>Kiến thức cần lưu &yacute;:</strong></span></p>\n<p><em><strong>Ngữ ph&aacute;p:</strong></em></p>\n<ul>\n<li><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh k&eacute;p với t&iacute;nh từ/trạng từ (c&agrave;ng...c&agrave;ng): <strong>The + adj./adv. dạng so s&aacute;nh hơn + (N) + S + V, the + adj./adv. dạng so s&aacute;nh hơn + (N) + S2 + V2.</strong></span></li>\n</ul>\n<hr />\n<p><span style=\"color: #000000; background-color: #fbeeb8;\"><strong>Dịch:</strong></span></p>\n<p><em>C&acirc;u gốc: <span class=\"fontstyle2\">Nếu bạn c&oacute; được <strong>một giấc ngủ ngon hơn</strong>, bạn c&oacute; thể <strong>bớt căng thẳng hơn.</strong></span></em></p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong></span> Chất lượng giấc ngủ của bạn kh&ocirc;ng đủ tốt để thư gi&atilde;n.</p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong></span> Bạn sẽ bị căng thẳng khi mất ngủ. (Kh&ocirc;ng c&oacute; &yacute; so s&aacute;nh)</p>\n<p><span style=\"color: #2dc26b;\"><strong>✔</strong></span> <span class=\"fontstyle2\">Giấc ngủ của bạn <strong>c&agrave;ng ngon</strong> th&igrave; bạn <strong>c&agrave;ng bớt căng thẳng</strong>.</span></p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong><span style=\"color: #000000;\"> Ngay cả khi bạn ngủ ngon, bạn vẫn cảm thấy căng thẳng hơn.</span></span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 250270,
+      "questionNumber": 22,
+      "questionName": "5.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).&nbsp;</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "from",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "British English.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "different",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "American English",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "significantly",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 446542,
+      "questionNumber": 23,
+      "questionName": "More and more companies are offering flexible work schedules for their staff.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "more",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "companies",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "flexible work schedules",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "More",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "are offering",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "for their staff.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 775538,
+      "questionNumber": 24,
+      "questionName": "2",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "the landscape",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "The",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "impressive",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "looks.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "larger",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "the glacier",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "more",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 9",
+          "text": "is,",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 189924,
+      "questionNumber": 25,
+      "questionName": "70:",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence, using the word given so that it has a similar meaning to the first sentence. Do NOT change the word given in brackets in any way.</em></p>\n<p><strong>I don&#8217;t have common interests with Chris. (FROM)</strong></p>\n<p><strong>=&gt; Chris's interests <span class='fillblank-option'><input id='fbo-189924-0' class='ms fillblank-option-25' index='0' name='fbo-189924-0' type='text' size='21' autocomplete='off' data-testid='fillblank-input-189924-0' /></span> mine.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "are different from"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>be different from sth</strong>: kh&aacute;c với c&aacute;i g&igrave;&nbsp;</p>\n<p>Chủ ngữ \"<strong>Chris's interests</strong>\" ở số nhiều n&ecirc;n động từ to be ph&iacute;a sau d&ugrave;ng l&agrave; \"<strong>are</strong>\".</p>\n<p>Dịch:&nbsp;T&ocirc;i kh&ocirc;ng c&oacute; chung sở th&iacute;ch với Chris.</p>\n<p>~ Sở th&iacute;ch của Chris kh&aacute;c với của t&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 640648,
+      "questionNumber": 26,
+      "questionName": "new",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence, using the word given so that it has a similar meaning to the first sentence. Do NOT change the word given in brackets in any way.</em></p>\n<p><strong>Your story is different from the facts. (LIKE)</strong></p>\n<p><strong>=&gt; Your story <span class='fillblank-option'><input id='fbo-640648-0' class='ms fillblank-option-26' index='0' name='fbo-640648-0' type='text' size='14' autocomplete='off' data-testid='fillblank-input-640648-0' /></span> the facts.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "is not like",
+            "isn't like",
+            "isn’t like"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>be + different from + sth</strong>: kh&aacute;c với c&aacute;i g&igrave;&nbsp;</p>\n<p><strong>be + (not) + like + sth</strong>: (kh&ocirc;ng) giống c&aacute;i g&igrave;</p>\n<p>Dich: C&acirc;u chuyện của bạn kh&aacute;c với sự thật.</p>\n<p>~ C&acirc;u chuyện của bạn kh&ocirc;ng giống sự thật.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 307001,
+      "questionNumber": 27,
+      "questionName": "FCE_Trainer - Use_of_English - T3P4 - P.114 - Câu1",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><em>Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.</em></p>\n<p style=\"text-align: justify;\"><strong><span class=\"word\">Travelling</span> <span class=\"word\">by</span> <span class=\"word\">car</span> <span class=\"word\">is</span> <span class=\"word\">becoming</span> <span class=\"word\">increasingly</span> <span class=\"word\">expensive. (GETTING)</span></strong></p>\n<p style=\"text-align: justify;\"><strong><span class=\"word\">=&gt; Travelling by car <span class='fillblank-option'><input id='fbo-307001-0' class='ms fillblank-option-27' index='0' name='fbo-307001-0' type='text' size='27' autocomplete='off' data-testid='fillblank-input-307001-0' /></span> expensive.</span></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "is getting more and more",
+            "is getting more"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh lặp (c&agrave;ng ng&agrave;y c&agrave;ng): <strong>S + V + more and more + adj./adv.&nbsp;</strong></span></p>\n<p>Dịch: Di chuyển bằng &ocirc; t&ocirc; ng&agrave;y c&agrave;ng trở n&ecirc;n đắt đỏ.</p>\n<p>~ Di chuyển bằng &ocirc; t&ocirc; ng&agrave;y c&agrave;ng đắt đỏ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 287378,
+      "questionNumber": 28,
+      "questionName": "fce 4 - t2 - câu 39",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><em>Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.</em></p>\n<p style=\"text-align: justify;\"><strong>There are fewer people in the gym class than there were last week. (AS)</strong></p>\n<p style=\"text-align: justify;\"><strong>=&gt; There <span class='fillblank-option'><input id='fbo-287378-0' class='ms fillblank-option-28' index='0' name='fbo-287378-0' type='text' size='17' autocomplete='off' data-testid='fillblank-input-287378-0' /></span> people in the gym class as there were last week.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "aren't as many",
+            "are not as many",
+            "aren’t as many"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng ngang bằng với danh từ:<strong> S + V + not + so/as + many/much/few/little + N + as + O/Pronoun/S + V.</strong></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\"><strong>few/little</strong> (adj.): &iacute;t &gt;&lt; <strong>many/much</strong> (adj.): nhiều</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">\"<strong>people</strong>\" l&agrave; danh từ đếm được số nhiều. =&gt; D&ugrave;ng \"<strong>many</strong>\" ở ph&iacute;a trước.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">Dịch: C&oacute; &iacute;t người trong lớp thể dục hơn so với tuần trước.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">~ Kh&ocirc;ng c&oacute; nhiều người trong lớp thể dục như tuần trước.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 25772,
+      "questionNumber": 29,
+      "questionName": "Question 14",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Combine the pair of the sentences using the word given so that it has the same meaning to the first. Do NOT change the word given in brackets in any way.</em></p>\n<p><strong>This road is busier. Also, it becomes more dangerous. (</strong><strong>BUSIER)</strong></p>\n<p><strong>=&gt; The <span class='fillblank-option'><input id='fbo-25772-0' class='ms fillblank-option-29' index='0' name='fbo-25772-0' type='text' size='48' autocomplete='off' data-testid='fillblank-input-25772-0' /></span> gets.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "busier this road is, the more dangerous it",
+            "busier this road gets, the more dangerous it",
+            "busier this road becomes, the more dangerous it"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh k&eacute;p với t&iacute;nh từ (c&agrave;ng...c&agrave;ng): <strong>The + adj. ở dạng so s&aacute;nh hơn + (N) + S1 + V1, the + adj. ở dạng so s&aacute;nh hơn + (N) + S2 + V2.</strong></span></p>\n<p>Dịch: Con đường n&agrave;y đ&ocirc;ng đ&uacute;c hơn. Ngo&agrave;i ra, n&oacute; c&ograve;n trở n&ecirc;n nguy hiểm hơn.</p>\n<p>~ Con đường c&agrave;ng đ&ocirc;ng đ&uacute;c th&igrave; n&oacute; c&agrave;ng trở n&ecirc;n nguy hiểm hơn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 81680,
+      "questionNumber": 30,
+      "questionName": "Q84",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.</em></p>\n<p><strong>A couple&#8217;s happiness depends on the frequency of communication. (</strong><span style=\"font-weight: 600;\">communicate</span><strong>)</strong></p>\n<p><strong>=&gt; The more <span class='fillblank-option'><input id='fbo-81680-0' class='ms fillblank-option-30' index='0' name='fbo-81680-0' type='text' size='39' autocomplete='off' data-testid='fillblank-input-81680-0' /></span> happier they are.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "frequently a couple communicate, the"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh k&eacute;p với t&iacute;nh từ/trạng từ (c&agrave;ng...c&agrave;ng): <strong>The + adj./adv. dạng so s&aacute;nh hơn + (N) + S + V, the + adj./adv. dạng so s&aacute;nh hơn + (N) + S2 + V2.</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Hạnh ph&uacute;c của 1 cặp đ&ocirc;i phụ thuộc v&agrave;o tần suất giao tiếp.</span></p>\n<p><span style=\"font-weight: 400;\">~ Một cặp đ&ocirc;i giao tiếp c&agrave;ng nhiều th&igrave; họ c&agrave;ng hạnh ph&uacute;c.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 163006,
+      "questionNumber": 31,
+      "questionName": "Câu 2",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete the second sentence so that it has </span><span style=\"font-weight: 400;\">the same meaning to the first.</span></em></p>\n<p><strong>She spent the same amount of money as I did buying her house. (AS)</strong></p>\n<p><strong>=&gt; She spent ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "She spent as much money as I did buying her house."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>the same + N + as + ...</strong>: c&aacute;i g&igrave; giống với ...</p>\n<p>Cấu tr&uacute;c: <strong>S + be/V + as + much + N (kh&ocirc;ng đếm được) + as + O</strong></p>\n<p>Dịch: C&ocirc; ấy đ&atilde; chi số tiền bằng t&ocirc;i để mua nh&agrave;.</p>\n<p>~ C&ocirc; &acirc;́y đã chi nhi&ecirc;̀u ti&ecirc;̀n như t&ocirc;i đ&ecirc;̉ mua nhà.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

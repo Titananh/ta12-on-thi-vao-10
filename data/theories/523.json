@@ -1,0 +1,27 @@
+{
+  "topicId": 91,
+  "topicName": "Cấu tạo từ (Word Formation)",
+  "englishName": "Word Formation & Parts of Speech",
+  "rules": [
+    {
+      "rule": "1. Vị trí và dấu hiệu của Danh từ (Nouns):",
+      "formula": "S + V | V + O | a/an/the + Adj + N | Giới từ + N | Tính từ sở hữu + N",
+      "examples": "decision, solution, improvement, environmentalist, fitness, patience."
+    },
+    {
+      "rule": "2. Vị trí và dấu hiệu của Tính từ (Adjectives):",
+      "formula": "Adj + N | S + be / linking verb (look, feel, seem, become) + Adj",
+      "examples": "careful, unsafe, recyclable, traditional, energetic, famous."
+    },
+    {
+      "rule": "3. Vị trí và dấu hiệu của Trạng từ (Adverbs):",
+      "formula": "V + Adv | Adv + V | Adv + Adj | Đứng đầu/cuối câu ngăn bởi dấu phẩy",
+      "examples": "attentively, rapidly, carefully, beautifully, fluently."
+    },
+    {
+      "rule": "4. Các tiền tố phủ định quan trọng thi vào 10:",
+      "formula": "un- (unsafe), dis- (disagree), im- (impossible), in- (inactive), ir- (irresponsible)",
+      "examples": "safe -> unsafe, agree -> disagree, possible -> impossible, regular -> irregular."
+    }
+  ]
+}

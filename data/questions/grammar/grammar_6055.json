@@ -1,0 +1,1284 @@
+{
+  "quizId": 6055,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 58: Expressing Purpose (Các cấu trúc chỉ mục đích)",
+  "totalQuestions": 32,
+  "questions": [
+    {
+      "id": 905810,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Ch&#7885;n &#273;&#225;p &#225;n &#273;&#250;ng &#273;&#7875; ho&#224;n th&#224;nh c&#226;u.&nbsp;</em></p>\n<p><strong>C&#225;c c&#7845;u tr&#250;c &quot;so as to/in order to/so that/in order that/...&quot; &#273;&#432;&#7907;c d&#249;ng &#273;&#7875; di&#7877;n t&#7843; <span class='fillblank-option'><input id='fbo-905810-0' class='ms fillblank-option-1' index='0' name='fbo-905810-0' type='text' size='14' autocomplete='off' data-testid='fillblank-input-905810-0' /></span> c&#7911;a m&#7897;t h&#224;nh &#273;&#7897;ng.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1739730,
+          "label": "A",
+          "text": "kết quả",
+          "isCorrect": false
+        },
+        {
+          "id": 1739729,
+          "label": "B",
+          "text": "mục đích",
+          "isCorrect": false
+        },
+        {
+          "id": 1739731,
+          "label": "C",
+          "text": "nguyên nhân",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "mục đích"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/3_-_Copy_49_d98308b9.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905779,
+      "questionNumber": 2,
+      "questionName": "1",
+      "questionType": "TrueFalse",
+      "questionText": "<p><em>Ph&#225;t bi&#7875;u sau l&#224; &#273;&#250;ng hay sai.&nbsp;</em></p>\n<p><strong><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">&#272;&#7875; t&#7841;o d&#7841;ng ph&#7911; &#273;&#7883;nh c&#7911;a &quot;</span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">so as to</span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">&quot; v&#224; &quot;</span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">in order to</span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">&quot;, ta th&#234;m &quot;</span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">not</span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">&quot; v&#224;o ph&#237;a sau &quot;</span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">to</span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">&quot;.</span></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1719980,
+          "label": "A",
+          "text": "True",
+          "isCorrect": false
+        },
+        {
+          "id": 1719981,
+          "label": "B",
+          "text": "False",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1719981,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/5_-_Copy_29_12d3ef9f.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905781,
+      "questionNumber": 3,
+      "questionName": "1",
+      "questionType": "TrueFalse",
+      "questionText": "<p><em>Ph&#225;t bi&#7875;u sau l&#224; &#273;&#250;ng hay sai.&nbsp;</em></p>\n<p><strong>&quot;in order that&quot; mang t&#237;nh trang tr&#7885;ng h&#417;n so v&#7899;i &quot;so that&quot;.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1719986,
+          "label": "A",
+          "text": "True",
+          "isCorrect": true
+        },
+        {
+          "id": 1719987,
+          "label": "B",
+          "text": "False",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1719986,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/6_-_Copy_23_b2fbbb6a.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 179083,
+      "questionNumber": 4,
+      "questionName": "Question 41:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Lots of people choose to buy houses in the suburbs _____ they can avoid the noise and pollution in the city.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 410989,
+          "label": "A",
+          "text": "when",
+          "isCorrect": false
+        },
+        {
+          "id": 410990,
+          "label": "B",
+          "text": "so as",
+          "isCorrect": false
+        },
+        {
+          "id": 410991,
+          "label": "C",
+          "text": "although",
+          "isCorrect": false
+        },
+        {
+          "id": 410992,
+          "label": "D",
+          "text": "so that",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 410992,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy xem xét ý nghĩa của hai mệnh đề <em>Lots of people choose to buy houses in the suburbs</em> và <em>they can avoid the noise and pollution in the city</em>. Mệnh đề thứ hai cho biết <strong>mục đích</strong> của hành động trong mệnh đề thứ nhất.</p>\n<p>Bạn cần tìm một liên từ hoặc cụm từ nối có nghĩa là \"để mà\" và có thể theo sau bởi một mệnh đề đầy đủ (chủ ngữ + vị ngữ).</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Liên từ và cụm từ nối thể hiện quan hệ giữa các mệnh đề</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các liên từ và cụm từ nối được sử dụng để liên kết các mệnh đề hoặc ý tưởng, thể hiện mối quan hệ về thời gian, mục đích, nhượng bộ, nguyên nhân, kết quả, v.v., giúp câu văn mạch lạc và rõ ràng hơn.</p>\n<p><strong>Một số liên từ và cụm từ nối:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">so that (conj.) + S + V:</span></strong> để mà (chỉ mục đích)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">when (conj.) + S + V:</span></strong> khi (chỉ thời gian)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">although (conj.) + S + V:</span></strong> mặc dù (chỉ sự nhượng bộ)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">so as to (prep. phrase) + V(inf):</span></strong> để mà (chỉ mục đích; không theo sau bởi mệnh đề hoàn chỉnh)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu trên diễn tả mối quan hệ mục đích rằng người ta mua nhà ở ngoại ô với mục đích là để tránh ồn ào và ô nhiễm. Trong các phương án, <em>so that</em> (phương án 4) là liên từ chỉ mục đích \"để mà\" và có thể theo sau bởi một mệnh đề hoàn chỉnh (<em>they can avoid...</em>), hoàn toàn phù hợp với ngữ cảnh.</p>\n<p style=\"text-align: justify;\">Các phương án ''<em>when</em>'' và ''<em>although</em>'' đều không phù hợp để chỉ mục đích, phương án ''<em>so as</em>'' cần đi kèm với to<em> V(inf)</em> chứ không phải một mệnh đề hoàn chỉnh.</p>",
+      "answerFeedbacks": {
+        "410989": "Sai vì <em>when</em> là liên từ chỉ thời gian, không diễn tả mối quan hệ mục đích trong câu.",
+        "410990": "Sai vì <em>so as</em> cần đi kèm với <em>to + V(inf)</em> (<em>so as to avoid</em>) và không thể trực tiếp nối hai mệnh đề hoàn chỉnh.",
+        "410991": "Sai vì <em>although</em> là liên từ chỉ sự nhượng bộ (mặc dù), không phù hợp để diễn tả mục đích của hành động.",
+        "410992": "Đúng vì <em>so that</em> là liên từ chỉ mục đích \"để mà\", phù hợp với ngữ cảnh người dân mua nhà ở ngoại ô với mục đích tránh ồn ào và ô nhiễm."
+      },
+      "images": []
+    },
+    {
+      "id": 162978,
+      "questionNumber": 5,
+      "questionName": "to v",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Lots of people come here _____ round the market. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 378286,
+          "label": "A",
+          "text": "to look",
+          "isCorrect": true
+        },
+        {
+          "id": 378287,
+          "label": "B",
+          "text": "look",
+          "isCorrect": false
+        },
+        {
+          "id": 378288,
+          "label": "C",
+          "text": "looking",
+          "isCorrect": false
+        },
+        {
+          "id": 378289,
+          "label": "D",
+          "text": "to looking",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 378286,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">H&atilde;y ch&uacute; &yacute; đến động từ <em data-start=\"82\" data-end=\"90\">\"come\"</em> v&agrave; phần sau chỗ trống <em data-start=\"113\" data-end=\"133\">\"round the market\"</em>. Chỗ trống cần diễn tả <strong data-start=\"157\" data-end=\"195\">mục đ&iacute;ch của h&agrave;nh động \"come here\"</strong>. H&atilde;y nhớ lại cấu tr&uacute;c thường d&ugrave;ng để diễn tả mục đ&iacute;ch, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ nguy&ecirc;n thể c&oacute; <em>to</em> chỉ mục đ&iacute;ch</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Được sử dụng để diễn đạt mục đ&iacute;ch của một h&agrave;nh động, trả lời cho c&acirc;u hỏi \"để l&agrave;m g&igrave;?\".</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: V (h&agrave;nh động ch&iacute;nh) + (O) + to + V(inf)</strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u \"<em>Lots of people come here _____ round the market.</em>\" diễn tả mục đ&iacute;ch của h&agrave;nh động \"come here\" (đến đ&acirc;y). Để diễn tả mục đ&iacute;ch trong tiếng Anh, ch&uacute;ng ta sử dụng động từ nguy&ecirc;n thể c&oacute; <em>to</em> (infinitive of purpose). Phương &aacute;n \"<em>to look</em>\" l&agrave; dạng động từ nguy&ecirc;n thể c&oacute; <em>to</em>, ph&ugrave; hợp để diễn tả mục đ&iacute;ch \"để ngắm/xem chợ\".</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 2 \"<em>look</em>\" (động từ nguy&ecirc;n thể kh&ocirc;ng <i>to</i>) v&agrave; phương &aacute;n 3 \"<em>looking</em>\" (dạng V-ing) kh&ocirc;ng được d&ugrave;ng để chỉ mục đ&iacute;ch trực tiếp sau động từ ch&iacute;nh trong trường hợp n&agrave;y. Phương &aacute;n 4 \"<em>to looking</em>\" sai v&igrave; sau <i>to</i> chỉ mục đ&iacute;ch phải l&agrave; động từ nguy&ecirc;n thể kh&ocirc;ng <i>to</i> (V-inf), kh&ocirc;ng phải V-ing.</p>",
+      "answerFeedbacks": {
+        "378286": "Đây là cấu trúc động từ nguyên thể có <em>to</em> dùng để chỉ mục đích \"để làm gì\".",
+        "378287": "Động từ nguyên thể không <em>to</em> không được dùng để chỉ mục đích trực tiếp sau động từ chính trong trường hợp này.",
+        "378288": "Dạng V-ing không được dùng để chỉ mục đích trực tiếp sau động từ chính trong trường hợp này.",
+        "378289": "Sau <em>to</em> chỉ mục đích phải là động từ nguyên thể không <em>to</em> (V-inf), không phải V-ing."
+      },
+      "images": []
+    },
+    {
+      "id": 35403,
+      "questionNumber": 6,
+      "questionName": "QIII.17",
+      "questionType": "MultipleChoice",
+      "questionText": "<p style=\"text-align: justify;\"><strong>You will spend at least 6 months working abroad _____ you can find out how things operate overseas.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 108574,
+          "label": "A",
+          "text": "because",
+          "isCorrect": false
+        },
+        {
+          "id": 108575,
+          "label": "B",
+          "text": "so that",
+          "isCorrect": true
+        },
+        {
+          "id": 108576,
+          "label": "C",
+          "text": "so as to",
+          "isCorrect": false
+        },
+        {
+          "id": 108577,
+          "label": "D",
+          "text": "as long as",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 108575,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn được đáp án đúng, bạn cần xác định mối quan hệ ngữ nghĩa giữa hai vế của câu. Vế thứ hai <em>\"you can find out how things operate overseas\"</em> là mục đích hay kết quả của hành động ở vế thứ nhất <em>\"You will spend at least 6 months working abroad\"</em>?<br /><br />Tham khảo các câu sau để đoán hiểu nghĩa của các phương án lựa chọn:<br /><ul><li><em>I stayed home <strong>because</strong> it was raining.</em></li><li><em>She studies hard <strong>so that</strong> she can pass the exam.</em></li><li><em>He ran fast <strong>so as to</strong> catch the bus.</em></li><li><em>You can borrow my car <strong>as long as</strong> you promise to drive carefully.</em></li></ul>",
+      "explanation": "<p><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span> </p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.5rem 0.8rem;\n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        margin-right: 0.4rem;\n        display: inline-block;\n        margin-bottom: 10px; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555555;\n        display: block; \n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">because</span></strong><span class=\"word-pos-sharp\">(conj.)</span><br /><span class=\"word-ipa-sharp\">/biˈkɔz/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>vì, bởi vì</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">so that</span></strong><span class=\"word-pos-sharp\">(conj.)</span><br /><span class=\"word-ipa-sharp\">/soʊ ðæt/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>để mà, để cho</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">so as to</span></strong><span class=\"word-pos-sharp\">(phr.)</span><br /><span class=\"word-ipa-sharp\">/soʊ æz tu/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>để mà, để làm gì</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">as long as</span></strong><span class=\"word-pos-sharp\">(conj.)</span><br /><span class=\"word-ipa-sharp\">/æz lɔŋ æz/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>miễn là, chừng nào mà</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span><span style=\"text-align: justify;\"> </span><span style=\"text-align: justify;\">Câu hỏi yêu cầu điền một liên từ hoặc cụm từ nối để diễn tả mục đích của hành động <strong>\"working abroad\"</strong> (làm việc ở nước ngoài). Mệnh đề theo sau chỗ trống là <strong>\"you can find out how things operate overseas\" </strong>(bạn có thể tìm hiểu cách mọi thứ vận hành ở nước ngoài) diễn tả kết quả hoặc mục tiêu của việc làm việc ở nước ngoài, do đó cần một liên từ chỉ mục đích theo sau bởi một mệnh đề. Do đó,<strong> \"so that\"</strong> là lựa chọn chính xác nhất vì nó là liên từ chỉ mục đích và được theo sau bởi một mệnh đề đầy đủ.</span></p>\n<p style=\"text-align: justify;\"><span style=\"text-align: justify;\">Các lựa chọn <em>\"because\"</em> và <em>\"as long as\"</em> không phù hợp về nghĩa vì chúng diễn tả lý do và điều kiện. Cụm từ <em>\"so as to\"</em> tuy chỉ mục đích nhưng lại theo sau bởi động từ nguyên mẫu, không phải một mệnh đề. </span></p>",
+      "answerFeedbacks": {
+        "108574": "<p>Sai vì <em>\"because\"</em> dùng để chỉ lý do, nguyên nhân của một hành động, trong khi ngữ cảnh câu này cần một cấu trúc chỉ mục đích.</p>",
+        "108575": "<p>Đúng vì<em> \"so that\"</em> là liên từ chỉ mục đích, theo sau là một mệnh đề đầy đủ (S + V), phù hợp với cả nghĩa và cấu trúc của câu.</p>",
+        "108576": "<p>Sai vì <em>\"so as to\"</em> cũng chỉ mục đích nhưng phải theo sau bởi động từ nguyên mẫu (V-inf), không phải một mệnh đề đầy đủ như <em>\"you can find out\"</em>.</p>",
+        "108577": "<p>Sai vì <em>\"as long as\"</em> là liên từ chỉ điều kiện (\"miễn là\"), không phù hợp với ngữ cảnh diễn tả mục đích của hành động.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 63442,
+      "questionNumber": 7,
+      "questionName": "Question 9",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We set off early _____ we wouldn't get stuck in the traffic.</strong></p>\n<div style=\"position: absolute; left: 469px; top: -12px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 169771,
+          "label": "A",
+          "text": "because",
+          "isCorrect": false
+        },
+        {
+          "id": 169772,
+          "label": "B",
+          "text": "so that",
+          "isCorrect": true
+        },
+        {
+          "id": 169773,
+          "label": "C",
+          "text": "although",
+          "isCorrect": false
+        },
+        {
+          "id": 169774,
+          "label": "D",
+          "text": "in case",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 169772,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Xem x&eacute;t mối quan hệ giữa hai mệnh đề ''<em data-start=\"147\" data-end=\"165\">We set off early''</em> v&agrave; ''<em data-start=\"169\" data-end=\"207\">we wouldn't get stuck in the traffic'' </em>cho thấy mệnh đề sau diễn tả <strong data-start=\"229\" data-end=\"241\">mục đ&iacute;ch</strong> của h&agrave;nh động ở mệnh đề trước. H&atilde;y nhớ lại c&aacute;c cấu tr&uacute;c với li&ecirc;n từ d&ugrave;ng để <strong data-start=\"306\" data-end=\"322\">chỉ mục đ&iacute;ch</strong>, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ v&agrave; cụm li&ecirc;n từ chỉ mục đ&iacute;ch, nguy&ecirc;n nh&acirc;n, nhượng bộ, dự ph&ograve;ng</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Li&ecirc;n từ v&agrave; cụm li&ecirc;n từ được d&ugrave;ng để nối hai mệnh đề, thể hiện mối quan hệ ngữ nghĩa giữa ch&uacute;ng như mục đ&iacute;ch, nguy&ecirc;n nh&acirc;n, sự nhượng bộ hoặc h&agrave;nh động dự ph&ograve;ng. Việc lựa chọn li&ecirc;n từ ph&ugrave; hợp phụ thuộc v&agrave;o &yacute; nghĩa m&agrave; người n&oacute;i/viết muốn truyền tải.</p>\n<p><strong>Một số cấu tr&uacute;c với li&ecirc;n từ/cụm li&ecirc;n từ:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">so that + S + can/could/would/will + V(inf)</span></strong>: để m&agrave;, để cho</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">because + S + V</span></strong>: bởi v&igrave;</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">although + S + V</span></strong>: mặc d&ugrave;</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">in case + S + V</span></strong>: ph&ograve;ng khi, trong trường hợp</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u diễn tả một h&agrave;nh động (khởi h&agrave;nh sớm) được thực hiện với một mục đ&iacute;ch r&otilde; r&agrave;ng l&agrave; tr&aacute;nh bị tắc đường. V&igrave; vậy, ch&uacute;ng ta cần một li&ecirc;n từ hoặc cụm li&ecirc;n từ chỉ mục đ&iacute;ch.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n ''<em>so that''</em> l&agrave; lựa chọn ph&ugrave; hợp nhất v&igrave; n&oacute; ch&iacute;nh x&aacute;c diễn tả mục đ&iacute;ch của h&agrave;nh động <em>\"set off early\"</em> (khởi h&agrave;nh sớm) l&agrave; <em>\"we wouldn't get stuck in the traffic\"</em> (để ch&uacute;ng t&ocirc;i kh&ocirc;ng bị tắc đường). C&aacute;c phương &aacute;n c&ograve;n lại:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 (<em>because</em>) d&ugrave;ng để chỉ nguy&ecirc;n nh&acirc;n, kh&ocirc;ng phải mục đ&iacute;ch, n&ecirc;n kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh c&acirc;u.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 (<em>although</em>) d&ugrave;ng để chỉ sự tương phản, nhượng bộ, cũng kh&ocirc;ng đ&uacute;ng với &yacute; nghĩa của c&acirc;u.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 (<em>in case</em>) d&ugrave;ng để chỉ một h&agrave;nh động dự ph&ograve;ng cho một khả năng c&oacute; thể xảy ra, kh&ocirc;ng diễn tả mục đ&iacute;ch ch&iacute;nh của việc khởi h&agrave;nh sớm.</li>\n</ul>",
+      "answerFeedbacks": {
+        "169771": "Sai vì <em>because</em> dùng để chỉ nguyên nhân, trong khi vế sau <em>\"we wouldn't get stuck in the traffic\"</em> là mục đích của hành động <em>\"set off early\"</em>.",
+        "169772": "Đúng vì <em>so that</em> dùng để chỉ mục đích, giải thích lý do tại sao hành động <em>\"We set off early\"</em> được thực hiện.",
+        "169773": "Sai vì <em>although</em> dùng để chỉ sự nhượng bộ, tương phản, không phù hợp với mối quan hệ mục đích trong câu.",
+        "169774": "Sai vì <em>in case</em> dùng để chỉ một hành động dự phòng cho một khả năng có thể xảy ra, không diễn tả mục đích chính của hành động <em>\"set off early\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 37382,
+      "questionNumber": 8,
+      "questionName": "Question 9.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>All people should join hands in protecting the environment _____ we can gain better health.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 114181,
+          "label": "A",
+          "text": "in order that",
+          "isCorrect": true
+        },
+        {
+          "id": 114182,
+          "label": "B",
+          "text": "when",
+          "isCorrect": false
+        },
+        {
+          "id": 114183,
+          "label": "C",
+          "text": "because",
+          "isCorrect": false
+        },
+        {
+          "id": 114184,
+          "label": "D",
+          "text": "even though",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 114181,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy xem xét mối quan hệ logic giữa hai mệnh đề <em>\"All people should join hands in protecting the environment\"</em> (hành động) và <em>\"we can gain better health\"</em> (điều mong muốn đạt được).</p>\n<p>Bạn cần một từ hoặc cụm từ nối diễn tả <em>mục đích</em> của hành động đầu tiên.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Các cấu trúc chỉ mục đích</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các cấu trúc này được sử dụng để diễn tả mục đích hoặc kết quả mong muốn của một hành động, giải thích tại sao một việc gì đó được thực hiện.</p>\n<p style=\"text-align: justify;\"><strong>Một số liên từ và cụm từ nối mệnh đề phụ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">in order that (conj.):</span></strong> để mà, với mục đích là (chỉ mục đích)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">when (conj.):</span></strong> khi (chỉ thời gian)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">because (conj.):</span></strong> bởi vì (chỉ nguyên nhân)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">even though (conj.):</span></strong> mặc dù, cho dù (chỉ sự nhượng bộ, đối lập)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu có hai mệnh đề <em>\"All people should join hands in protecting the environment\"</em> (hành động) và <em>\"we can gain better health\"</em> (mục đích/kết quả mong muốn). Mối quan hệ logic giữa hai mệnh đề là hành động được thực hiện để đạt được một mục đích cụ thể.</p>\n<p style=\"text-align: justify;\">Phương án <em>\"in order that\"</em>, mang nghĩa \"để mà\" hoặc \"với mục đích là\", là cụm từ nối duy nhất trong các lựa chọn diễn tả mục đích, do đó phù hợp nhất để hoàn thành câu. Các phương án còn lại diễn tả thời gian (<em>\"when\"</em>), nguyên nhân (<em>\"because\"</em>), hoặc sự nhượng bộ/đối lập (<em>\"even though\"</em>) và không phù hợp với ngữ cảnh.</p>",
+      "answerFeedbacks": {
+        "114181": "Đúng vì <em>\"in order that\"</em> là cụm từ nối chỉ mục đích, phù hợp với ý nghĩa \"để mà chúng ta có thể có sức khỏe tốt hơn\" trong câu.",
+        "114182": "Sai vì <em>\"when\"</em> là liên từ chỉ thời gian, không diễn tả mối quan hệ mục đích trong câu này.",
+        "114183": "Sai vì <em>\"because\"</em> là liên từ chỉ nguyên nhân, trong khi vế sau là kết quả mong muốn, không phải nguyên nhân của vế trước.",
+        "114184": "Sai vì <em>\"even though\"</em> là liên từ chỉ sự nhượng bộ/đối lập, không phù hợp với mối quan hệ mục đích trong câu."
+      },
+      "images": []
+    },
+    {
+      "id": 108699,
+      "questionNumber": 9,
+      "questionName": "Q8",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He telephoned _____ me to the party.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 258080,
+          "label": "A",
+          "text": "so to as invite",
+          "isCorrect": false
+        },
+        {
+          "id": 258081,
+          "label": "B",
+          "text": "to invite",
+          "isCorrect": true
+        },
+        {
+          "id": 258082,
+          "label": "C",
+          "text": "order in to invite",
+          "isCorrect": false
+        },
+        {
+          "id": 258083,
+          "label": "D",
+          "text": "so that to invite",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 258081,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; <strong data-start=\"48\" data-end=\"81\">th&agrave;nh phần đứng sau chỗ trống </strong>l&agrave; ''<em data-start=\"100\" data-end=\"117\">me to the party''</em>, kh&ocirc;ng phải một động từ nguy&ecirc;n thể hay một mệnh đề ho&agrave;n chỉnh. H&atilde;y nhớ lại cấu tr&uacute;c chỉ mục đ&iacute;ch ph&ugrave; hợp với dạng n&agrave;y, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n đ&uacute;ng.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&aacute;c cấu tr&uacute;c chỉ mục đ&iacute;ch</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c cấu tr&uacute;c n&agrave;y được sử dụng để diễn tả mục đ&iacute;ch hoặc l&yacute; do của một h&agrave;nh động, trả lời cho c&acirc;u hỏi \"Để l&agrave;m g&igrave;?\".</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">to + V(inf)</span>: d&ugrave;ng để diễn đạt mục đ&iacute;ch \"để l&agrave;m g&igrave;\". Đ&acirc;y l&agrave; cấu tr&uacute;c phổ biến nhất v&agrave; đơn giản nhất.</li>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">in order to + V(inf)</span>: để l&agrave;m g&igrave; (trang trọng hơn <em>to + V(inf)</em>).</li>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">so as to + V(inf)</span>: để l&agrave;m g&igrave; (tương tự <em>in order to + V(inf)</em>, thường d&ugrave;ng trong văn viết).</li>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">so that + S + V</span>: để (ai đ&oacute;) c&oacute; thể l&agrave;m g&igrave; (diễn tả mục đ&iacute;ch k&egrave;m chủ ngữ v&agrave; động từ ri&ecirc;ng).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u <em>\"He telephoned _____ me to the party.\"</em>, chỗ trống cần một cấu tr&uacute;c để chỉ mục đ&iacute;ch của h&agrave;nh động <em>\"telephoned\"</em> (gọi điện). Cấu tr&uacute;c <em>\"to + V(inf)\"</em> l&agrave; c&aacute;ch diễn đạt mục đ&iacute;ch phổ biến v&agrave; đ&uacute;ng ngữ ph&aacute;p nhất trong trường hợp n&agrave;y n&ecirc;n phương &aacute;n 2 l&agrave; ph&ugrave; hợp nhất.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 (<em>\"so to as invite\"</em>) v&agrave; phương &aacute;n 3 (<em>\"order in to invite\"</em>) l&agrave; c&aacute;c cấu tr&uacute;c sai, kh&ocirc;ng tồn tại trong tiếng Anh. Phương &aacute;n 4 (<em>\"so that to invite\"</em>) sai ngữ ph&aacute;p v&igrave; <em>\"so that\"</em> phải theo sau bởi một mệnh đề (S + V), kh&ocirc;ng phải bởi <em>\"to + V(inf)\"</em>.</p>",
+      "answerFeedbacks": {
+        "258080": "Cấu trúc <em>\"so to as invite\"</em> không đúng ngữ pháp trong tiếng Anh.",
+        "258081": "Cấu trúc <em>\"to + V(inf)\"</em> được dùng để diễn tả mục đích \"để làm gì\" và phù hợp với ngữ cảnh câu.",
+        "258082": "Cấu trúc <em>\"order in to invite\"</em> không đúng ngữ pháp trong tiếng Anh; cấu trúc đúng phải là <em>\"in order to + V(inf)\"</em>.",
+        "258083": "Cấu trúc <em>\"so that\"</em> phải theo sau bởi một mệnh đề (S + V), không phải bởi <em>\"to + V(inf)\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 227295,
+      "questionNumber": 10,
+      "questionName": "873-Linking Words-Part II",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>He works hard _____ to prove that he deserves to get a higher position.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 510222,
+          "label": "A",
+          "text": "therefore",
+          "isCorrect": false
+        },
+        {
+          "id": 510223,
+          "label": "B",
+          "text": "in order",
+          "isCorrect": true
+        },
+        {
+          "id": 510224,
+          "label": "C",
+          "text": "as",
+          "isCorrect": false
+        },
+        {
+          "id": 858799,
+          "label": "D",
+          "text": "so that",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 510223,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>in order to + V(inf)</strong>: để l&agrave;m g&igrave;</p>\n<p>therefore + clause: v&igrave; thế</p>\n<p>as + clause: bởi v&igrave;, khi</p>\n<p>so that + clause: để m&agrave;</p>\n<p>Dịch: Anh ấy l&agrave;m việc chăm chỉ để chứng minh rằng anh ấy xứng đ&aacute;ng c&oacute; được vị tr&iacute; cao hơn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 226335,
+      "questionNumber": 11,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I went to bed early _____ I wouldn't be tired in the morning.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 507496,
+          "label": "A",
+          "text": "so as",
+          "isCorrect": true
+        },
+        {
+          "id": 507497,
+          "label": "B",
+          "text": "in order",
+          "isCorrect": false
+        },
+        {
+          "id": 507498,
+          "label": "C",
+          "text": "so as to",
+          "isCorrect": false
+        },
+        {
+          "id": 507499,
+          "label": "D",
+          "text": "in order to",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 507496,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">H&atilde;y ch&uacute; &yacute; đến phần đứng sau chỗ trống: <em data-start=\"419\" data-end=\"457\">\"I wouldn't be tired in the morning\"</em>. Đ&acirc;y l&agrave; <strong data-start=\"466\" data-end=\"492\">một mệnh đề ho&agrave;n chỉnh</strong> (c&oacute; chủ ngữ v&agrave; động từ), kh&ocirc;ng phải một động từ nguy&ecirc;n mẫu. H&atilde;y nhớ lại cấu tr&uacute;c d&ugrave;ng để diễn tả <strong data-start=\"590\" data-end=\"602\">mục đ&iacute;ch</strong> khi theo sau l&agrave; <strong data-start=\"619\" data-end=\"634\">một mệnh đề</strong>, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu tr&uacute;c chỉ mục đ&iacute;ch</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> D&ugrave;ng để diễn tả mục đ&iacute;ch hoặc kết quả mong muốn của một h&agrave;nh động. C&aacute;c cấu tr&uacute;c n&agrave;y gi&uacute;p giải th&iacute;ch \"tại sao\" một h&agrave;nh động được thực hiện.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: H&agrave;nh động + Cấu tr&uacute;c chỉ mục đ&iacute;ch + Mục đ&iacute;ch</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">so as + S + Modal V. (can/could/will/would) + V(inf)</span></strong>: để (chỉ mục đ&iacute;ch cho mệnh đề c&oacute; chủ ngữ ri&ecirc;ng, thường d&ugrave;ng trong c&acirc;u phủ định hoặc với <em>would/could</em>).</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">so as to + V(inf)</span></strong>: để (chỉ mục đ&iacute;ch khi chủ ngữ của h&agrave;nh động v&agrave; mục đ&iacute;ch l&agrave; một).</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">in order to + V(inf)</span></strong>: để (chỉ mục đ&iacute;ch khi chủ ngữ của h&agrave;nh động v&agrave; mục đ&iacute;ch l&agrave; một, trang trọng hơn).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u \"I went to bed early _____ I wouldn't be tired in the morning.\", chỗ trống cần một li&ecirc;n từ hoặc cụm từ để nối một mệnh đề chỉ mục đ&iacute;ch (<em>I wouldn't be tired in the morning</em>) với mệnh đề ch&iacute;nh (<em>I went to bed early</em>). Mệnh đề sau chỗ trống c&oacute; cấu tr&uacute;c <em>S + Modal V. (wouldn't) + V(inf)</em>, n&ecirc;n ta cần một cấu tr&uacute;c chỉ mục đ&iacute;ch c&oacute; thể đi k&egrave;m với một mệnh đề.</p>\n<p style=\"text-align: justify;\">Trong c&aacute;c phương &aacute;n, chỉ c&oacute; \"so as\" l&agrave; c&oacute; thể đứng trước một mệnh đề chỉ mục đ&iacute;ch, tương tự như \"so that\". C&aacute;c phương &aacute;n c&ograve;n lại (\"in order\", \"so as to\", \"in order to\") kh&ocirc;ng ph&ugrave; hợp v&igrave; \"in order\" cần \"that\" để đi với mệnh đề, c&ograve;n \"so as to\" v&agrave; \"in order to\" phải đi với động từ nguy&ecirc;n thể.</p>",
+      "answerFeedbacks": {
+        "507496": "Đúng vì <em>so as</em> có thể dùng để giới thiệu mệnh đề chỉ mục đích, đặc biệt khi có <em>would/could</em> và thường trong câu phủ định, tương tự như <em>so that</em>.",
+        "507497": "Sai vì <em>in order</em> không đứng một mình trước một mệnh đề mà cần có <em>that</em> (thành <em>in order that</em>).",
+        "507498": "Sai vì <em>so as to</em> phải đi kèm với động từ nguyên thể (V(inf)), không phải một mệnh đề (S + V).",
+        "507499": "Sai vì <em>in order to</em> phải đi kèm với động từ nguyên thể (V(inf)), không phải một mệnh đề (S + V)."
+      },
+      "images": []
+    },
+    {
+      "id": 186276,
+      "questionNumber": 12,
+      "questionName": "44",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>He locked the doors _____ be disturbed when he was studying for his exams.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 426371,
+          "label": "A",
+          "text": "in order not",
+          "isCorrect": false
+        },
+        {
+          "id": 426372,
+          "label": "B",
+          "text": "in order that",
+          "isCorrect": false
+        },
+        {
+          "id": 426373,
+          "label": "C",
+          "text": "in order to",
+          "isCorrect": false
+        },
+        {
+          "id": 426374,
+          "label": "D",
+          "text": "in order not to",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 426374,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>in order (not) to V(inf)</strong>: để (kh&ocirc;ng) l&agrave;m g&igrave;</p>\n<p>in order that + clause: để m&agrave;</p>\n<p>Dịch: Anh ấy kh&oacute;a cửa để kh&ocirc;ng bị l&agrave;m phiền khi đang &ocirc;n tập cho kỳ thi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 741930,
+      "questionNumber": 13,
+      "questionName": "7",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>They brought snacks _____ they wouldn't get hungry during the trip.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1432986,
+          "label": "A",
+          "text": "since",
+          "isCorrect": false
+        },
+        {
+          "id": 1432987,
+          "label": "B",
+          "text": "so that",
+          "isCorrect": true
+        },
+        {
+          "id": 1432988,
+          "label": "C",
+          "text": "because",
+          "isCorrect": false
+        },
+        {
+          "id": 1432989,
+          "label": "D",
+          "text": "despite",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1432987,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Trong câu</span><span style=\"text-align: justify;\">, hành động </span><em style=\"text-align: justify;\">\"They brought snacks\"</em><span style=\"text-align: justify;\"> (Họ mang đồ ăn nhẹ) được thực hiện với mục đích là </span><em style=\"text-align: justify;\">\"they wouldn't get hungry during the trip\"</em><span style=\"text-align: justify;\"> (họ sẽ không bị đói trong suốt chuyến đi).</span></p>\n<p>Hãy xem xét lựa chọn nào thể hiện đúng mối quan hệ mục đích.</p>\n<p> </p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Các cấu trúc chỉ mục đích</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các cấu trúc này dùng để diễn tả mục đích hoặc kết quả mong muốn của một hành động. Chúng giúp người nói/viết giải thích tại sao một hành động được thực hiện.</p>\n<p><strong>Một số liên từ/giới từ chỉ mục đích, nguyên nhân, nhượng bộ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">so that + S + V (modal verb)</span></strong>: để mà (chỉ mục đích)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">since + S + V</span></strong>: vì (chỉ nguyên nhân, thường khi nguyên nhân đã biết)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">because + S + V</span></strong>: bởi vì (chỉ nguyên nhân, nhấn mạnh nguyên nhân)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">despite + N / V-ing</span></strong>: mặc dù (chỉ sự nhượng bộ, theo sau là cụm danh từ hoặc V-ing)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, hành động <em>\"They brought snacks\"</em> (Họ mang đồ ăn nhẹ) được thực hiện với mục đích là <em>\"they wouldn't get hungry during the trip\"</em> (họ sẽ không bị đói trong suốt chuyến đi). Liên từ <em>\"so that\"</em> (để mà) diễn tả đúng mối quan hệ mục đích này.</p>\n<p style=\"text-align: justify;\">Các phương án <em>\"since\"</em> và <em>\"because\"</em> chỉ nguyên nhân, không phù hợp vì việc không bị đói là kết quả, không phải nguyên nhân của việc mang đồ ăn còn phương án <em>\"despite\"</em> chỉ sự nhượng bộ, không diễn tả mục đích.</p>",
+      "answerFeedbacks": {
+        "1432986": "Sai vì <em>since</em> dùng để chỉ nguyên nhân, không phải mục đích, và việc không bị đói là kết quả chứ không phải nguyên nhân của việc mang đồ ăn.",
+        "1432987": "Đúng vì <em>so that</em> là liên từ chỉ mục đích, diễn tả lý do cho hành động \"brought snacks\" là để \"they wouldn't get hungry\".",
+        "1432988": "Sai vì <em>because</em> dùng để chỉ nguyên nhân, không phải mục đích, và việc không bị đói là kết quả chứ không phải nguyên nhân của việc mang đồ ăn.",
+        "1432989": "Sai vì <em>despite</em> là giới từ chỉ sự nhượng bộ, mang nghĩa \"mặc dù\", không phù hợp với ngữ cảnh diễn tả mục đích."
+      },
+      "images": []
+    },
+    {
+      "id": 760415,
+      "questionNumber": 14,
+      "questionName": "Question 24.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>They rushed into the burning house so as _____ the child.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1464580,
+          "label": "A",
+          "text": "to saving",
+          "isCorrect": false
+        },
+        {
+          "id": 1464581,
+          "label": "B",
+          "text": "that save",
+          "isCorrect": false
+        },
+        {
+          "id": 1464582,
+          "label": "C",
+          "text": "to save",
+          "isCorrect": true
+        },
+        {
+          "id": 1464583,
+          "label": "D",
+          "text": "saving",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1464582,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để diễn tả mục đích, Tiếng Anh có nhiều cấu trúc khác nhau. Hãy nhớ lại khi bạn sử dụng cụm từ \"<em>so as</em>\", động từ theo sau nó cần ở dạng nào?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Các cấu trúc chỉ mục đích</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để diễn tả mục đích hoặc ý định của hành động được nhắc đến trong mệnh đề chính.</p>\n<p style=\"text-align: justify;\"><strong>Một số cấu trúc chỉ mục đích phổ biến:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">To V(inf):</span></strong> để làm gì (dạng rút gọn, thông dụng)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">In order to V(inf):</span></strong> để làm gì (trang trọng hơn \"to V(inf)\")</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">So as to V(inf):</span></strong> để làm gì (tương tự \"in order to V(inf)\", thường dùng trong văn viết hoặc tình huống trang trọng)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">So that S + V:</span></strong> để (ai đó) có thể làm gì (diễn tả mục đích với một mệnh đề đầy đủ)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu này, cấu trúc \"<em>so as</em>\" được sử dụng để diễn tả mục đích của hành động \"<em>rushed into the burning house</em>\". Theo quy tắc ngữ pháp, sau \"<em>so as</em>\" để chỉ mục đích, chúng ta phải dùng \"<em>to</em>\" và động từ nguyên thể (V-inf). Do đó, \"<em>to save</em>\" là lựa chọn chính xác nhất để hoàn thành cụm \"<em>so as to save</em>\".</p>\n<p style=\"text-align: justify;\">Phương án 1 \"<em>to saving</em>\" sai vì động từ sau \"<em>to</em>\" trong cấu trúc này phải là nguyên thể, phương án 2 \"<em>that save</em>\" sai vì cấu trúc \"<em>so that</em>\" cần một mệnh đề đầy đủ (chủ ngữ + động từ), không phải chỉ động từ còn phương án 4 \"<em>saving</em>\" sai vì không phù hợp với cấu trúc \"<em>so as to V(inf)</em>\".</p>",
+      "answerFeedbacks": {
+        "1464580": "Sai vì sau \"so as to\" phải là động từ nguyên thể (V-inf), không phải danh động từ (V-ing).",
+        "1464581": "Sai vì cấu trúc \"so that\" cần một mệnh đề đầy đủ (S + V), không chỉ là động từ nguyên thể.",
+        "1464582": "Đúng vì cấu trúc \"so as to + V(inf)\" được dùng để diễn tả mục đích, phù hợp với ngữ cảnh câu.",
+        "1464583": "Sai vì động từ sau \"so as to\" phải ở dạng nguyên thể có \"to\", không phải dạng V-ing."
+      },
+      "images": []
+    },
+    {
+      "id": 4494,
+      "questionNumber": 15,
+      "questionName": "in order to saving",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">A</span> number of wildlife habitat reserves have been <span style=\"text-decoration: underline;\">established</span> in order to <span style=\"text-decoration: underline;\">saving</span> endangered <span style=\"text-decoration: underline;\">species</span> from extinction.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 10432,
+          "label": "A",
+          "text": "A",
+          "isCorrect": false
+        },
+        {
+          "id": 10433,
+          "label": "B",
+          "text": "established",
+          "isCorrect": false
+        },
+        {
+          "id": 10434,
+          "label": "C",
+          "text": "saving",
+          "isCorrect": true
+        },
+        {
+          "id": 10435,
+          "label": "D",
+          "text": "species",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 10434,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n  <li style=\"text-align: justify; margin-bottom: 3px;\">Cụm từ <em>\"A number of + N(plural)\"</em> thường đi với động từ số nhiều.</li>\n  <li style=\"text-align: justify; margin-bottom: 3px;\">Trong cấu trúc bị động, động từ chính luôn ở dạng quá khứ phân từ (V(pp)) sau <em>\"be\"</em>.</li>\n  <li style=\"text-align: justify; margin-bottom: 3px;\">Cấu trúc <em>\"in order to\"</em> được dùng để chỉ mục đích và phải theo sau bởi động từ nguyên mẫu không <em>\"to\"</em> (V-inf).</li>\n  <li style=\"text-align: justify; margin-bottom: 3px;\">Một số danh từ có dạng số ít và số nhiều giống nhau, ví dụ như <em>\"species\"</em>.</li>\n</ul>\nĐối chiếu các quy tắc trên với từng phần được gạch chân trong câu gốc để tìm ra lỗi sai.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc với \"in order to\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cách dùng:</span> Cấu trúc này được dùng để diễn tả mục đích của một hành động, giải thích lý do tại sao một việc được thực hiện.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cấu trúc: </span><span style=\"color: #1c581f; font-weight: 600;\">in order to + V(inf)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, cụm từ <em>\"in order to saving\"</em> được dùng để chỉ mục đích của việc thành lập các khu bảo tồn. Tuy nhiên, cấu trúc đúng của <em>\"in order to\"</em> phải là <em>\"in order to + V(inf)\"</em> (động từ nguyên mẫu không \"to\"). Do đó, động từ <em>\"saving\"</em> (danh động từ) là sai ngữ pháp và cần được sửa thành <em>\"save\"</em> (động từ nguyên mẫu).</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<strong>saving</strong>\" =&gt; \"<strong>save</strong>\"</p>",
+      "answerFeedbacks": {
+        "10432": "Cụm <em>\"A number of + N(plural) + V(plural)\"</em> (nhiều...) là cấu trúc đúng về hòa hợp chủ vị, do đó <em>\"A\"</em> không phải là lỗi sai.",
+        "10433": "Động từ <em>\"established\"</em> được dùng ở dạng quá khứ phân từ trong cấu trúc bị động <em>\"have been established\"</em> (đã được thành lập) là đúng ngữ pháp và phù hợp với ngữ cảnh.",
+        "10434": "Động từ <em>\"saving\"</em> là sai vì cấu trúc <em>\"in order to\"</em> phải theo sau bởi động từ nguyên mẫu không <em>\"to\"</em> (V-inf), không phải danh động từ (V-ing).",
+        "10435": "Danh từ <em>\"species\"</em> (loài) có dạng số ít và số nhiều giống nhau, việc sử dụng nó ở đây là chính xác và phù hợp với ngữ cảnh <em>\"endangered species\"</em> (các loài có nguy cơ tuyệt chủng)."
+      },
+      "images": []
+    },
+    {
+      "id": 755164,
+      "questionNumber": 16,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>I <span style=\"text-decoration: underline;\">write down</span> new words <span style=\"text-decoration: underline;\">during</span> lectures <span style=\"text-decoration: underline;\">so as to</span> I can <span style=\"text-decoration: underline;\">review</span> them later.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1456169,
+          "label": "A",
+          "text": "write down",
+          "isCorrect": false
+        },
+        {
+          "id": 1456170,
+          "label": "B",
+          "text": "during",
+          "isCorrect": false
+        },
+        {
+          "id": 1456171,
+          "label": "C",
+          "text": "so as to",
+          "isCorrect": true
+        },
+        {
+          "id": 1456172,
+          "label": "D",
+          "text": "review",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1456171,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>so as to + V(inf) </strong>~ <strong>so that + clause </strong>~ <strong>in order that + clause</strong>: để&nbsp;</p>\n<p>V&igrave; \"<strong>I can review them later</strong>\" l&agrave; một mệnh đề =&gt; kh&ocirc;ng thể đi với \"<strong>so as to</strong>\".</p>\n<p>Sửa: \"<strong>so as to</strong>\" =&gt; \"<strong>so that</strong>\" hoặc \"<strong>in order that</strong>\"</p>\n<p>Dịch: T&ocirc;i ghi ch&eacute;p c&aacute;c từ mới trong giờ học để c&oacute; thể xem lại sau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 263009,
+      "questionNumber": 17,
+      "questionName": "(*) Question 22",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span class=\"word\">He <span style=\"text-decoration: underline;\">gets up</span> early <span style=\"text-decoration: underline;\">in</span>&nbsp;order <span style=\"text-decoration: underline;\">reviewing</span> lessons <span style=\"text-decoration: underline;\">before</span> going to school. </span></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 585269,
+          "label": "A",
+          "text": "gets up",
+          "isCorrect": false
+        },
+        {
+          "id": 585270,
+          "label": "B",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 585271,
+          "label": "C",
+          "text": "reviewing",
+          "isCorrect": true
+        },
+        {
+          "id": 585272,
+          "label": "D",
+          "text": "before",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 585271,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>in order to + V(inf)</strong> ~<strong> in order that + clause</strong>: để l&agrave;m g&igrave;</p>\n<p>Sửa: \"<strong>reviewing</strong>\" =&gt; \"<strong>to review</strong>\" hoặc \"<strong>that he can review</strong>\"</p>\n<p>Dịch: Anh ấy dậy sớm để &ocirc;n b&agrave;i trước khi đi học.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 770426,
+      "questionNumber": 18,
+      "questionName": "14",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><u>Many</u> students learn English <u>to making</u> friends with people <u>around</u> the world and travel <u>easily</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1481689,
+          "label": "A",
+          "text": "Many",
+          "isCorrect": false
+        },
+        {
+          "id": 1481690,
+          "label": "B",
+          "text": "to making",
+          "isCorrect": true
+        },
+        {
+          "id": 1481691,
+          "label": "C",
+          "text": "around",
+          "isCorrect": false
+        },
+        {
+          "id": 1481692,
+          "label": "D",
+          "text": "easily",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1481690,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để t&igrave;m lỗi sai, h&atilde;y ch&uacute; &yacute; đến cấu tr&uacute;c ngữ ph&aacute;p sau <em>\"learn English\"</em>. Đặc biệt, h&atilde;y xem x&eacute;t c&aacute;ch thể hiện mục đ&iacute;ch trong tiếng Anh, sử dụng <em>to + V(inf)</em> hay <em>to + V-ing</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng:&nbsp;</span>Cấu tr&uacute;c chỉ mục đ&iacute;ch</span>.</p>\n<ul style=\"margin: 0; padding-left: 20px;\">\n<li><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span>&nbsp;Sử dụng động từ nguy&ecirc;n thể c&oacute; <em>to</em> để diễn tả mục đ&iacute;ch của h&agrave;nh động.</li>\n<li style=\"margin-top: 10px;\"><span style=\"text-align: justify; font-weight: 600;\">Cấu tr&uacute;c:&nbsp;</span><span style=\"font-weight: 600; text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\">S + V + to + V(inf)</span></span></span></li>\n</ul>\n<p style=\"text-align: justify; margin-top: 10px;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:</span> Lỗi sai nằm ở phương &aacute;n 2. Trong c&acirc;u n&agrave;y, cụm \"<strong>to making friends</strong>\" v&agrave; \"<strong>travel easily</strong>\" c&ugrave;ng chỉ mục đ&iacute;ch của việc học tiếng Anh, do đ&oacute; to phải đi k&egrave;m với động từ nguy&ecirc;n mẫu (V-inf).</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Sửa:</span> \"<strong>to making</strong>\" =&gt; \"<strong>to make</strong>\"</p>",
+      "answerFeedbacks": {
+        "1481689": "<p>Từ định lượng <em>\"Many\"</em> đứng trước danh từ đếm được số nhiều <em>\"students\"</em> l&agrave; đ&uacute;ng ngữ ph&aacute;p.</p>",
+        "1481690": "<p>Đ&acirc;y l&agrave; phần cần sửa. Cấu tr&uacute;c chỉ mục đ&iacute;ch \"<em>to + V(inf)\"</em> cần được sử dụng thay v&igrave; \"<em>to + V-ing\"</em>.</p>",
+        "1481691": "<p>Giới từ <em>\"around\"</em> đứng trước cụm danh từ <em>\"the world\"</em> để chỉ phạm vi l&agrave; đ&uacute;ng ngữ cảnh.</p>",
+        "1481692": "<p>Trạng từ <em>\"easily\"</em> bổ nghĩa cho động từ <em>\"travel\"</em> l&agrave; đ&uacute;ng ngữ ph&aacute;p.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 865926,
+      "questionNumber": 19,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.&nbsp;</em></p>\n<p><strong>People <span style=\"text-decoration: underline;\">should</span> eat a <span style=\"text-decoration: underline;\">balanced</span> diet and exercise <span style=\"text-decoration: underline;\">regularly</span> in order <span style=\"text-decoration: underline;\">to not get</span> sick.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1651030,
+          "label": "A",
+          "text": "should",
+          "isCorrect": false
+        },
+        {
+          "id": 1651031,
+          "label": "B",
+          "text": "balanced",
+          "isCorrect": false
+        },
+        {
+          "id": 1651032,
+          "label": "C",
+          "text": "regularly",
+          "isCorrect": false
+        },
+        {
+          "id": 1651033,
+          "label": "D",
+          "text": "to not get",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1651033,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>in order (not) to V(inf)</strong>: để (kh&ocirc;ng) l&agrave;m g&igrave;</p>\n<p>Sửa: \"<strong>to not get</strong>\" =&gt; \"<strong>not to get</strong>\"</p>\n<p>Dịch: Mọi người n&ecirc;n c&oacute; chế độ ăn uống c&acirc;n bằng v&agrave; tập thể dục thường xuy&ecirc;n để kh&ocirc;ng bị bệnh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 188993,
+      "questionNumber": 20,
+      "questionName": "9",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>The thief wore gloves so as to avoid leaving any fingerprints.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 432891,
+          "label": "A",
+          "text": "<p>The thief wore gloves so as to not leave any fingerprints.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 432892,
+          "label": "B",
+          "text": "<p>The thief wore gloves in order not to leave any fingerprints.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 432893,
+          "label": "C",
+          "text": "<p>The thief wore gloves so that not leave any fingerprints.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 432894,
+          "label": "D",
+          "text": "<p>The thief wore gloves in order to not leave any fingerprints.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 432892,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Phân tích cấu trúc chỉ mục đích trong câu gốc <em>\"so as to avoid leaving\"</em>. Cấu trúc này diễn tả mục đích phủ định. Khi tìm câu đồng nghĩa, hãy xem xét các cấu trúc chỉ mục đích tương đương và cách đặt trạng từ phủ định <em>\"not\"</em> sao cho đúng ngữ pháp.<br/><ul><li>Các cấu trúc chỉ mục đích phổ biến là <em>\"in order to + V(inf)\"</em> và <em>\"so as to + V(inf)\"</em>.</li><li>Khi muốn diễn tả mục đích phủ định, trạng từ <em>\"not\"</em> phải được đặt ngay sau <em>\"in order\"</em> hoặc <em>\"so as\"</em>, tức là <em>\"in order not to + V(inf)\"</em> và <em>\"so as not to + V(inf)\"</em>.</li><li>Lưu ý rằng <em>\"so that\"</em> luôn đi kèm với một mệnh đề (S + V), không phải động từ nguyên thể.</li></ul>Đối chiếu các quy tắc này với từng phương án lựa chọn để tìm ra câu có cấu trúc đúng và nghĩa tương đương.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>so as (not) to + V(inf) ~ in order (not) to + V(inf)</strong>: để (không) làm gì </p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><strong>~ so that + clause ~ in order that + clause:</strong> để ... </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">→</span> Phương án 2 \"<strong>The thief wore gloves <span class=\"eq-highlight\" style=\"color: #5fbd18;\">in order not to leave</span> any fingerprints.</strong>\" là đáp án đúng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương án 1 \"<strong>The thief wore gloves <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">so as to not leave</span></span> any fingerprints.</strong>\" sai vì cách đặt trạng từ phủ định \"not\" sai vị trí trong cấu trúc \"so as to\". Cấu trúc đúng phải là \"so as not to + V(inf)\".</li>\n<li style=\"text-align: justify;\">Phương án 3 \"<strong>The thief wore gloves <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">so that not leave</span></span> any fingerprints.</strong>\" sai vì sau \"so that\" phải là một mệnh đề (S + V), không phải là động từ nguyên thể.</li>\n<li style=\"text-align: justify;\">Phương án 4 \"<strong>The thief wore gloves <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">in order to not leave</span></span> any fingerprints.</strong>\" sai vì cách đặt trạng từ phủ định \"not\" sai vị trí trong cấu trúc \"in order to\". Cấu trúc đúng phải là \"in order not to + V(inf)\".</li>\n</ul>",
+      "answerFeedbacks": {
+        "432891": "<p>Sai vì cụm từ chỉ mục đích phủ định là \"so as not to + V(inf)\", không phải \"so as to not + V(inf)\".</p>",
+        "432892": "<p>Đúng vì cấu trúc \"in order not to + V(inf)\" diễn đạt mục đích phủ định một cách chính xác và đồng nghĩa với \"so as to avoid V-ing\".</p>",
+        "432893": "<p>Sai vì sau \"so that\" là một mệnh đề (S + V), không phải là động từ nguyên thể \"leave\".</p>",
+        "432894": "<p>Sai vì cụm từ chỉ mục đích phủ định là \"in order not to + V(inf)\", không phải \"in order to not + V(inf)\".</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 6100,
+      "questionNumber": 21,
+      "questionName": "Question 137.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>She raised her hand high so that she could attract her teacher’s attention.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 16085,
+          "label": "A",
+          "text": "<p>Because her teacher attracted her, she raised her hand high.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 16086,
+          "label": "B",
+          "text": "<p>To attract her teacher’s attention, she raised her hand high.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 16087,
+          "label": "C",
+          "text": "<p>Though she raised her hand high, she could not attract her teacher’s attention.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 16088,
+          "label": "D",
+          "text": "<p>She had such a high raising of hand that she failed to attract her teacher’s attention.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 16086,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Câu gốc đang diễn tả <em>mục đích</em> của hành động giơ tay là gì. Hãy tìm phương án diễn đạt chính xác mục đích này. Chú ý các cấu trúc dùng để chỉ mục đích trong tiếng Anh. Đừng nhầm lẫn giữa mục đích với nguyên nhân, sự tương phản hay kết quả.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\">Cấu trúc chỉ mục đích: <strong>so that + clause ~ to + V(inf)</strong></p>\n<p style=\"text-align: justify;\"><strong>attract</strong> (v.): thu hút</p>\n<p style=\"text-align: justify;\"><strong>attention</strong> (n.): sự chú ý</p>\n<p style=\"text-align: justify;\"><strong>attract someone’s attention</strong> (phr.): thu hút sự chú ý của ai đó</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Câu gốc sử dụng cấu trúc <strong>\"so that\"</strong> để diễn tả mục đích: \"cô ấy giơ tay cao <em>để</em> thu hút sự chú ý của giáo viên\".</p>\n<p style=\"text-align: justify;\">Phương án 2 sử dụng cấu trúc <strong>\"To + V(inf)\" </strong>cũng để diễn tả mục đích, và truyền tải đúng ý nghĩa của câu gốc.</p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 1 sử dụng \"Because\" diễn tả nguyên nhân, nhưng lại đảo ngược chủ thể của hành động \"attracted\" (giáo viên thu hút cô ấy), làm thay đổi hoàn toàn nghĩa.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 3 sử dụng \"Though\" diễn tả sự tương phản, đối lập, và kết quả \"could not attract\" cũng trái ngược với mục đích của câu gốc.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 4 sử dụng \"such a... that\" diễn tả kết quả, nhưng kết quả \"failed to attract\" lại trái ngược với mục đích của câu gốc. Ngoài ra, \"raising of hand\" là cách diễn đạt không tự nhiên bằng \"raised her hand\".</li>\n</ul>",
+      "answerFeedbacks": {
+        "16085": "<p>Sai vì câu này thay đổi chủ thể của hành động \"attracted\" và diễn tả mối quan hệ nguyên nhân-kết quả không đúng với ý nghĩa mục đích của câu gốc.</p>",
+        "16086": "<p>Đúng vì câu này sử dụng cấu trúc \"To + V(inf)\" để diễn tả mục đích, tương đương với cấu trúc \"so that\" trong câu gốc.</p>",
+        "16087": "<p>Sai vì câu này sử dụng liên từ \"Though\" để diễn tả sự tương phản và cho kết quả ngược lại (không thu hút được sự chú ý), khác với ý nghĩa mục đích của câu gốc.</p>",
+        "16088": "<p>Sai vì câu này diễn tả kết quả ngược lại (không thu hút được sự chú ý) và sử dụng cấu trúc \"such a... that\" không phù hợp để diễn đạt mục đích của hành động trong câu gốc.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 665696,
+      "questionNumber": 22,
+      "questionName": "6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>&nbsp;My sister and I decided to go to school early in order to avoid traffic jams.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1282715,
+          "label": "A",
+          "text": "My sister and I decided to go to school early or we can avoid traffic jams.",
+          "isCorrect": false
+        },
+        {
+          "id": 1282716,
+          "label": "B",
+          "text": "My sister and I decided going to school early so that to avoid traffic jams.",
+          "isCorrect": false
+        },
+        {
+          "id": 1282717,
+          "label": "C",
+          "text": "My sister and I decided to go to school early but we can avoid traffic jams.",
+          "isCorrect": false
+        },
+        {
+          "id": 1282718,
+          "label": "D",
+          "text": "My sister and I decided to go to school early so that we could avoid traffic jams.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1282718,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>in order to + V(inf)</strong> ~<strong> so that + clause</strong>: để l&agrave;m g&igrave;</p>\n<p>or + clause: hoặc l&agrave;</p>\n<p>but + clause: nhưng</p>\n<p>C&aacute;c phương &aacute;n kh&aacute;c sai v&igrave;:</p>\n<ul>\n<li><em>My sister and I decided to go to school early or we can avoid traffic jams. (sai nghĩa)</em></li>\n<li><em>My sister and I decided <span style=\"text-decoration: line-through;\"><strong>going</strong></span> to school early <span style=\"text-decoration: line-through;\"><strong>so that to avoid traffic jams</strong></span>.</em></li>\n<li><em>My sister and I decided to go to school early but we can avoid traffic jams. (sai nghĩa)</em></li>\n</ul>\n<p>Dịch: Chị g&aacute;i t&ocirc;i v&agrave; t&ocirc;i quyết định đi học sớm để tr&aacute;nh tắc đường.</p>\n<p>~ Chị g&aacute;i t&ocirc;i v&agrave; t&ocirc;i quyết định đi học sớm để ch&uacute;ng t&ocirc;i c&oacute; thể tr&aacute;nh tắc đường.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 770448,
+      "questionNumber": 23,
+      "questionName": "15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines each pair of sentences.</em></p>\n<p><strong>She practices speaking English every day. She wants to become fluent in English.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1481711,
+          "label": "A",
+          "text": "She practices speaking English every day to becoming fluent in English.",
+          "isCorrect": false
+        },
+        {
+          "id": 1481712,
+          "label": "B",
+          "text": "She practices speaking English every day to become fluent in English.",
+          "isCorrect": true
+        },
+        {
+          "id": 1481713,
+          "label": "C",
+          "text": "She practices speaking English every day of becoming fluent in English.",
+          "isCorrect": false
+        },
+        {
+          "id": 1481714,
+          "label": "D",
+          "text": "She practices speaking English every day becomed fluent in English.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1481712,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>to V(inf)</strong>: đ&ecirc;̉ làm gì</p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em>She practices speaking English every day to <span style=\"color: #000000;\"><strong><span style=\"text-decoration: line-through;\">becoming</span></strong></span> fluent in English.</em></li>\n<li><em>She practices speaking English every day <span style=\"color: #000000;\"><strong><span style=\"text-decoration: line-through;\">of becoming</span></strong></span> fluent in English.</em></li>\n<li><em>She practices speaking English every day <span style=\"color: #000000;\"><strong><span style=\"text-decoration: line-through;\">becomed</span></strong></span> fluent in English.</em></li>\n</ul>\n<p>Dịch: C&ocirc; ấy luyện n&oacute;i tiếng Anh mỗi ng&agrave;y. C&ocirc; ấy muốn n&oacute;i tiếng Anh lưu lo&aacute;t.</p>\n<p>~ C&ocirc; ấy luyện n&oacute;i tiếng Anh h&agrave;ng ng&agrave;y để c&oacute; thể n&oacute;i tiếng Anh lưu lo&aacute;t.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 137700,
+      "questionNumber": 24,
+      "questionName": "Question 206",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines each pair of sentences.</em></p>\n<p><strong>I lent him some money. I wanted him to continue his study at college.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 323263,
+          "label": "A",
+          "text": "I lent him some money so that to continue his study at college.",
+          "isCorrect": false
+        },
+        {
+          "id": 323264,
+          "label": "B",
+          "text": "I lent him some money for him continue his study at college.",
+          "isCorrect": false
+        },
+        {
+          "id": 323265,
+          "label": "C",
+          "text": "I lent him some money so as he will continue his study at college.",
+          "isCorrect": false
+        },
+        {
+          "id": 323266,
+          "label": "D",
+          "text": "I lent him some money in order that he could continue his study at college.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 323266,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>in order that + clause</strong> ~ so that + clause ~ so as + clause: để m&agrave;</p>\n<p>in order to + V(inf) ~ so as to + V(inf) ~ to + V(inf): để l&agrave;m g&igrave;&nbsp;</p>\n<p>C&aacute;c phương &aacute;n kh&aacute;c sai v&igrave;:</p>\n<ul>\n<li><em>I lent him some money <span style=\"text-decoration: line-through;\"><strong>so that to continue his study at college</strong></span>.</em></li>\n<li><em>I lent him some money <span style=\"text-decoration: line-through;\"><strong>for him continue</strong></span> his study at college.</em></li>\n<li><em>I lent him some money so as he <span style=\"text-decoration: line-through;\"><strong>will continue</strong></span> his study at college.</em></li>\n</ul>\n<p>Dịch: T&ocirc;i cho anh ấy mượn một &iacute;t tiền. T&ocirc;i muốn anh ấy tiếp tục học đại học.</p>\n<p>~ T&ocirc;i cho anh ấy mượn một &iacute;t tiền để anh ấy c&oacute; thể tiếp tục học đại học.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 4381,
+      "questionNumber": 25,
+      "questionName": "Kết hợp câu They left their home early. They didn’t want to miss the first train.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines each pair of sentences.</em></p>\n<p><strong>They left their home early. They didn&#8217;t want to miss the first train.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 10072,
+          "label": "A",
+          "text": "They left their home early so as to not miss the first train.",
+          "isCorrect": false
+        },
+        {
+          "id": 10073,
+          "label": "B",
+          "text": "They left their home early for fear that they wouldn’t miss the first train.",
+          "isCorrect": false
+        },
+        {
+          "id": 10074,
+          "label": "C",
+          "text": "They left their home early so as not to miss the first train.",
+          "isCorrect": true
+        },
+        {
+          "id": 10075,
+          "label": "D",
+          "text": "They left their home early in order that not to miss the first train.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 10074,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>so as (not) to V(inf)</strong>: để (kh&ocirc;ng) l&agrave;m g&igrave;</p>\n<p>for fear that + clause: lo ngại về điều g&igrave; c&oacute; thể xảy ra&nbsp;</p>\n<p>in order that + clause: để m&agrave;</p>\n<p>C&aacute;c phương &aacute;n kh&aacute;c sai v&igrave;:</p>\n<ul>\n<li><em>They left their home early <span style=\"text-decoration: line-through;\"><strong>so as to not miss</strong></span> the first train.</em></li>\n<li><em>They left their home early for fear that they wouldn&rsquo;t miss the first train. (sai nghĩa)</em></li>\n<li><em>They left their home early <span style=\"text-decoration: line-through;\"><strong>in order that not to miss the first train</strong></span>.&nbsp;</em></li>\n</ul>\n<p>Dịch: Họ đ&atilde; rời nh&agrave; từ sớm. Họ kh&ocirc;ng muốn bị lỡ chuyến t&agrave;u đầu ti&ecirc;n.</p>\n<p>~ Họ đ&atilde; rời nh&agrave; từ sớm để kh&ocirc;ng lỡ chuyến t&agrave;u đầu ti&ecirc;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 620748,
+      "questionNumber": 26,
+      "questionName": "16",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines each pair of sentences.</em></p>\n<p><strong>He lowered his voice. He didn't want anyone to hear what he was saying.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1194622,
+          "label": "A",
+          "text": "He lowered his voice so as to no one could hear what he was saying.",
+          "isCorrect": false
+        },
+        {
+          "id": 1194623,
+          "label": "B",
+          "text": "He lowered his voice so that no one could hear what he was saying.",
+          "isCorrect": true
+        },
+        {
+          "id": 1194624,
+          "label": "C",
+          "text": "He lowered his voice in order that he didn't want anyone to hear what he was saying.",
+          "isCorrect": false
+        },
+        {
+          "id": 1194625,
+          "label": "D",
+          "text": "He lowered his voice in order for everyone to hear what he was saying.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1194623,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>so that + clause</strong>: để m&agrave;</p>\n<p>so as to + V(inf) ~ in order to + V(inf): để l&agrave;m g&igrave;&nbsp;</p>\n<p>in order that + clause: để ...</p>\n<p>C&aacute;c phương &aacute;n kh&aacute;c sai v&igrave;:</p>\n<ul>\n<li><em>He lowered his voice <span style=\"text-decoration: line-through;\"><strong>so as to no one could hear what he was saying</strong></span>.</em></li>\n<li><em>He lowered his voice in order that he didn't want anyone to hear what he was saying. (sai nghĩa)</em></li>\n<li><em>He lowered his voice in order for everyone to hear what he was saying. (sai nghĩa)</em></li>\n</ul>\n<p>Dịch: Anh ấy đ&atilde; hạ thấp giọng. Anh ấy kh&ocirc;ng muốn ai nghe thấy những g&igrave; anh ấy đang n&oacute;i.</p>\n<p>~ Anh hạ thấp giọng để kh&ocirc;ng ai c&oacute; thể nghe thấy anh đang n&oacute;i g&igrave;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 454697,
+      "questionNumber": 27,
+      "questionName": "17",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines this pair of sentences.</em></p>\n<p><strong>She is learning computer programming. She wants to get a better job.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 912792,
+          "label": "A",
+          "text": "She is learning computer programming so that she can get a better job.",
+          "isCorrect": true
+        },
+        {
+          "id": 912793,
+          "label": "B",
+          "text": "She has got a better job because she is learning computer programming.",
+          "isCorrect": false
+        },
+        {
+          "id": 912794,
+          "label": "C",
+          "text": "To learn computer programming, she may be able to get a better job.",
+          "isCorrect": false
+        },
+        {
+          "id": 912795,
+          "label": "D",
+          "text": "She is learning computer programming, so she has got a better job.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 912792,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"background-color: #fbeeb8;\"><strong>Kiến thức cần lưu &yacute;:</strong></span></p>\n<p><em><strong>Ngữ ph&aacute;p:</strong></em></p>\n<ul>\n<li><strong>so that + clause</strong>: để l&agrave;m g&igrave;</li>\n<li><strong>because + clause</strong>: bởi v&igrave;&nbsp;</li>\n<li><strong>to + V(inf)</strong>: để l&agrave;m g&igrave;&nbsp;</li>\n<li><strong>be able + to V(inf)</strong>: c&oacute; thể l&agrave;m g&igrave;&nbsp;</li>\n<li><strong>so + clause</strong>: v&igrave; vậy&nbsp;</li>\n</ul>\n<hr />\n<p><span style=\"background-color: #fbeeb8;\"><strong>Dịch:</strong></span><strong>&nbsp;</strong></p>\n<p><em>C&acirc;u gốc: C&ocirc; ấy đang <strong>học lập tr&igrave;nh m&aacute;y t&iacute;nh</strong>. C&ocirc; ấy <strong>muốn</strong> <strong>c&oacute; một c&ocirc;ng việc tốt hơn</strong>.</em></p>\n<p><strong style=\"color: #2dc26b;\">✔ </strong><span style=\"color: #000000;\">C&ocirc; ấy đang <strong>học lập tr&igrave;nh m&aacute;y t&iacute;nh</strong> <strong>đ&ecirc;̉</strong> c&ocirc; &acirc;́y có th&ecirc;̉ <strong>có được c&ocirc;ng vi&ecirc;̣c t&ocirc;́t hơn</strong>.</span></p>\n<p><strong style=\"color: #e03e2d;\">✖</strong> C&ocirc; ấy đ&atilde; c&oacute; một c&ocirc;ng việc tốt hơn v&igrave; c&ocirc; ấy đang học lập tr&igrave;nh m&aacute;y t&iacute;nh.</p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong></span> Để học lập tr&igrave;nh m&aacute;y t&iacute;nh, c&ocirc; ấy c&oacute; thể c&oacute; được một c&ocirc;ng việc tốt hơn.</p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong> <span style=\"color: #000000;\">C&ocirc; ấy đang học lập tr&igrave;nh m&aacute;y t&iacute;nh, v&igrave; vậy c&ocirc; ấy đ&atilde; c&oacute; một c&ocirc;ng việc tốt hơn.</span></span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 153501,
+      "questionNumber": 28,
+      "questionName": "She studied hard.",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning as the first.</em></p>\n<p><strong>She studied hard, then she didn't fail the exam. </strong></p>\n<p><strong>=&gt; So as ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "So as not to fail the exam, she studied hard.",
+        "So as to pass the exam, she studied hard."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>so as (not) to + V(inf)</strong>: để (kh&ocirc;ng) l&agrave;m g&igrave;</p>\n<p>Dịch: C&ocirc; ấy đ&atilde; học chăm chỉ, sau đ&oacute; c&ocirc; ấy đ&atilde; kh&ocirc;ng trượt k&igrave; thi.</p>\n<p>~ Để kh&ocirc;ng trượt k&igrave; thi, c&ocirc; ấy đ&atilde; học chăm chỉ.</p>\n<p>~ Để qua k&igrave; thi, c&ocirc; ấy đ&atilde; học chăm chỉ.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 161858,
+      "questionNumber": 29,
+      "questionName": "He wanted to relax",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning as the first.</em></p>\n<p><strong>He wanted to relax, so he took up Yoga. </strong></p>\n<p><strong>=&gt; He took up Yoga in .........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "He took up Yoga in order to relax.",
+        "He took up Yoga in order that he could relax."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>in order to + V(inf) </strong>~<strong> in order that + clause</strong>: để l&agrave;m g&igrave;</p>\n<p>Dịch: Anh ấy muốn thư gi&atilde;n, n&ecirc;n anh ấy đ&atilde; đi tập Yoga.</p>\n<p>~ Anh ấy đ&atilde; đi tập Yoga để thư gi&atilde;n/để anh ấy c&oacute; thể thư gi&atilde;n.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 401350,
+      "questionNumber": 30,
+      "questionName": "Question 1",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>They talked in whispers because they didn't want me to overhear them.<br></strong></p>\n<p><strong>=&gt; They talked in whispers in order ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "They talked in whispers in order to prevent me from overhearing them.",
+        "They talked in whispers in order not to let me overhear them.",
+        "They talked in whispers in order that I couldn't overhear them."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>in order (not ) to V(inf)</strong>: để (kh&ocirc;ng) l&agrave;m g&igrave;</p>\n<p><strong>in order that + S + V</strong>: để ...</p>\n<p><strong>prevent sb from doing sth</strong>: cản trở, ngăn cản ai l&agrave;m g&igrave;</p>\n<p><strong>let sb do sth</strong>: để ai l&agrave;m g&igrave;&nbsp;</p>\n<p>Dịch: Họ n&oacute;i chuyện th&igrave; thầm v&igrave; họ kh&ocirc;ng muốn t&ocirc;i nghe l&eacute;n họ.</p>\n<p>~ Họ n&oacute;i chuyện th&igrave; thầm để ngăn t&ocirc;i nghe l&eacute;n họ.</p>\n<p>~ Họ n&oacute;i chuyện th&igrave; thầm để t&ocirc;i kh&ocirc;ng thể nghe l&eacute;n họ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 153377,
+      "questionNumber": 31,
+      "questionName": "5",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that has the same meaning to the first.</em></p>\n<p><strong>They have to try harder so that they can pass the final examination. </strong></p>\n<p><strong>=&gt; They have to try harder so as ............</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "They have to try harder so as to pass the final examination.",
+        "They have to try harder so as they can pass the final examination."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>so as to + V(inf) </strong>~<strong> so as + clause</strong>:&nbsp;để l&agrave;m g&igrave;</p>\n<p>Dịch: Họ phải cố gắng nhiều hơn để họ c&oacute; thể vượt qua kỳ thi cuối c&ugrave;ng.</p>\n<p>~ Họ phải cố gắng nhiều hơn để vượt qua kỳ thi cuối c&ugrave;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 159101,
+      "questionNumber": 32,
+      "questionName": "They wanted to apologize",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning as the first.</em></p>\n<p><strong>They wanted to apologize for their behavior, that's why they paid for dinner. </strong></p>\n<p><strong>=&gt; They paid for dinner in order ..........</strong></p>\n<div style=\"position: absolute; left: 448px; top: 68px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "They paid for dinner in order to apologize for their behavior.",
+        "They paid for dinner in order that they apologized for their behavior."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>in order to V(inf)</strong>: để l&agrave;m g&igrave;</p>\n<p><strong>in order that + clause</strong>: để m&agrave;</p>\n<p>Dịch: Họ muốn xin lỗi v&igrave; h&agrave;nh vi của m&igrave;nh, đ&oacute; l&agrave; l&yacute; do tại sao họ trả tiền cho bữa tối.</p>\n<p>~ Họ trả tiền cho bữa tối để (họ) xin lỗi về h&agrave;nh vi của m&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "topicId": 106,
+  "topicName": "Các cấu trúc so sánh",
+  "englishName": "Comparisons: Equal, Comparative, Superlative & Double",
+  "rules": [
+    {
+      "rule": "So sánh bằng (Equal comparison):",
+      "formula": "as + adj/adv + as // Phủ định: not as/so + adj/adv + as",
+      "examples": "He is as tall as his brother. / This car is not as expensive as that one."
+    },
+    {
+      "rule": "So sánh hơn (Comparative):",
+      "formula": "Ngắn: adj/adv-er + than // Dài: more + adj/adv + than // Bất quy tắc: good -> better, bad -> worse, far -> farther/further",
+      "examples": "She runs faster than me. / This book is more interesting than that one."
+    },
+    {
+      "rule": "So sánh nhất (Superlative):",
+      "formula": "Ngắn: the + adj/adv-est // Dài: the most + adj/adv // Bất quy tắc: good -> the best, bad -> the worst",
+      "examples": "Mount Everest is the highest mountain in the world."
+    },
+    {
+      "rule": "So sánh kép 'Càng... càng...' (Double Comparative):",
+      "formula": "The + comparative + S + V, the + comparative + S + V",
+      "examples": "The harder you work, the more successful you become."
+    },
+    {
+      "rule": "Từ bổ trợ nhấn mạnh trong so sánh hơn: MUCH, FAR, A LOT.",
+      "formula": "much / far + comparative (so sánh hơn)",
+      "examples": "Living in the city is much more expensive than living in the countryside."
+    }
+  ]
+}

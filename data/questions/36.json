@@ -1,0 +1,452 @@
+[
+  {
+    "id": "36_1",
+    "questionName": "Question 1",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word CLOSEST in meaning to the underlined word.</strong></p><p>Regular physical exercise is <u>essential</u> for maintaining a sharp mind and good health.</p>",
+    "choices": [
+      {
+        "id": "36_1_2",
+        "text": "optional",
+        "html": "optional"
+      },
+      {
+        "id": "36_1_3",
+        "text": "useless",
+        "html": "useless"
+      },
+      {
+        "id": "36_1_4",
+        "text": "harmful",
+        "html": "harmful"
+      },
+      {
+        "id": "36_1_1",
+        "text": "vital",
+        "html": "vital"
+      }
+    ],
+    "correctChoiceId": "36_1_1",
+    "explanation": "<p><strong>essential</strong> = vô cùng quan trọng, thiết yếu = <strong>vital</strong>.<br/>optional: tự chọn; useless: vô ích; harmful: có hại.</p>",
+    "ruleTip": "'essential' = 'vital' = 'crucial' = 'necessary' (thiết yếu, cực kỳ quan trọng)."
+  },
+  {
+    "id": "36_2",
+    "questionName": "Question 2",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word CLOSEST in meaning to the underlined word.</strong></p><p>Wearing protective helmets when riding motorbikes is <u>compulsory</u> for all citizens in Vietnam.</p>",
+    "choices": [
+      {
+        "id": "36_2_2",
+        "text": "voluntary",
+        "html": "voluntary"
+      },
+      {
+        "id": "36_2_1",
+        "text": "mandatory",
+        "html": "mandatory"
+      },
+      {
+        "id": "36_2_3",
+        "text": "forbidden",
+        "html": "forbidden"
+      },
+      {
+        "id": "36_2_4",
+        "text": "difficult",
+        "html": "difficult"
+      }
+    ],
+    "correctChoiceId": "36_2_1",
+    "explanation": "<p><strong>compulsory</strong> = bắt buộc theo luật = <strong>mandatory</strong>.<br/>voluntary: tự nguyện; forbidden: bị cấm.</p>",
+    "ruleTip": "'compulsory' = 'mandatory' = 'obligatory' (bắt buộc theo luật định)."
+  },
+  {
+    "id": "36_3",
+    "questionName": "Question 3",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word CLOSEST in meaning to the underlined word.</strong></p><p>Local communities must work closely together to <u>conserve</u> their historical ancient pagodas.</p>",
+    "choices": [
+      {
+        "id": "36_3_2",
+        "text": "destroy",
+        "html": "destroy"
+      },
+      {
+        "id": "36_3_3",
+        "text": "neglect",
+        "html": "neglect"
+      },
+      {
+        "id": "36_3_1",
+        "text": "protect",
+        "html": "protect"
+      },
+      {
+        "id": "36_3_4",
+        "text": "damage",
+        "html": "damage"
+      }
+    ],
+    "correctChoiceId": "36_3_1",
+    "explanation": "<p><strong>conserve</strong> = bảo tồn, bảo vệ = <strong>protect</strong> / preserve.<br/>destroy: phá hủy; neglect: phớt lờ, bỏ bê.</p>",
+    "ruleTip": "'conserve' = 'protect' = 'preserve' (bảo tồn, giữ gìn)."
+  },
+  {
+    "id": "36_4",
+    "questionName": "Question 4",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word CLOSEST in meaning to the underlined word.</strong></p><p>He grew up in a <u>wealthy</u> family with access to top international educational facilities.</p>",
+    "choices": [
+      {
+        "id": "36_4_2",
+        "text": "poor",
+        "html": "poor"
+      },
+      {
+        "id": "36_4_3",
+        "text": "broke",
+        "html": "broke"
+      },
+      {
+        "id": "36_4_4",
+        "text": "needy",
+        "html": "needy"
+      },
+      {
+        "id": "36_4_1",
+        "text": "rich",
+        "html": "rich"
+      }
+    ],
+    "correctChoiceId": "36_4_1",
+    "explanation": "<p><strong>wealthy</strong> = giàu có, thịnh vượng = <strong>rich</strong> / well-off.<br/>poor: nghèo; broke: cháy túi; needy: túng thiếu.</p>",
+    "ruleTip": "'wealthy' = 'rich' = 'well-off' = 'prosperous' (giàu có, khá giả)."
+  },
+  {
+    "id": "36_5",
+    "questionName": "Question 5",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word CLOSEST in meaning to the underlined word.</strong></p><p>Heavy flash floods caused catastrophic <u>damage</u> to the farmers' agricultural crops.</p>",
+    "choices": [
+      {
+        "id": "36_5_2",
+        "text": "benefit",
+        "html": "benefit"
+      },
+      {
+        "id": "36_5_3",
+        "text": "assistance",
+        "html": "assistance"
+      },
+      {
+        "id": "36_5_1",
+        "text": "harm",
+        "html": "harm"
+      },
+      {
+        "id": "36_5_4",
+        "text": "profit",
+        "html": "profit"
+      }
+    ],
+    "correctChoiceId": "36_5_1",
+    "explanation": "<p><strong>damage</strong> = thiệt hại, tổn hại = <strong>harm</strong> / destruction.<br/>benefit: lợi ích; assistance: sự giúp đỡ; profit: lợi nhuận.</p>",
+    "ruleTip": "'damage' = 'harm' = 'destruction' (sự tàn phá, thiệt hại)."
+  },
+  {
+    "id": "36_6",
+    "questionName": "Question 6",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word CLOSEST in meaning to the underlined word.</strong></p><p>Passing the entrance examination to specialized high schools is a <u>challenging</u> task.</p>",
+    "choices": [
+      {
+        "id": "36_6_1",
+        "text": "difficult",
+        "html": "difficult"
+      },
+      {
+        "id": "36_6_2",
+        "text": "effortless",
+        "html": "effortless"
+      },
+      {
+        "id": "36_6_3",
+        "text": "simple",
+        "html": "simple"
+      },
+      {
+        "id": "36_6_4",
+        "text": "smooth",
+        "html": "smooth"
+      }
+    ],
+    "correctChoiceId": "36_6_1",
+    "explanation": "<p><strong>challenging</strong> = đầy thách thức, khó khăn = <strong>difficult</strong> / demanding.<br/>effortless: dễ dàng không tốn sức; simple: đơn giản.</p>",
+    "ruleTip": "'challenging' = 'difficult' = 'tough' (đầy thử thách, khó khăn)."
+  },
+  {
+    "id": "36_7",
+    "questionName": "Question 7",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word CLOSEST in meaning to the underlined word.</strong></p><p>Hoi An ancient town is <u>famous</u> worldwide for its lantern-lit streets and unique wooden architecture.</p>",
+    "choices": [
+      {
+        "id": "36_7_2",
+        "text": "unknown",
+        "html": "unknown"
+      },
+      {
+        "id": "36_7_1",
+        "text": "well-known",
+        "html": "well-known"
+      },
+      {
+        "id": "36_7_3",
+        "text": "mysterious",
+        "html": "mysterious"
+      },
+      {
+        "id": "36_7_4",
+        "text": "ordinary",
+        "html": "ordinary"
+      }
+    ],
+    "correctChoiceId": "36_7_1",
+    "explanation": "<p><strong>famous</strong> = nổi tiếng khắp nơi = <strong>well-known</strong> / renowned.<br/>unknown: vô danh; ordinary: bình thường.</p>",
+    "ruleTip": "'famous' = 'well-known' = 'renowned' (nổi tiếng, được nhiều người biết đến)."
+  },
+  {
+    "id": "36_8",
+    "questionName": "Question 8",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word CLOSEST in meaning to the underlined word.</strong></p><p>The school has launched a campaign to <u>reduce</u> single-use plastic waste in the cafeteria.</p>",
+    "choices": [
+      {
+        "id": "36_8_1",
+        "text": "cut down",
+        "html": "cut down"
+      },
+      {
+        "id": "36_8_2",
+        "text": "increase",
+        "html": "increase"
+      },
+      {
+        "id": "36_8_3",
+        "text": "multiply",
+        "html": "multiply"
+      },
+      {
+        "id": "36_8_4",
+        "text": "expand",
+        "html": "expand"
+      }
+    ],
+    "correctChoiceId": "36_8_1",
+    "explanation": "<p><strong>reduce</strong> = cắt giảm, giảm thiểu = <strong>cut down</strong> / decrease.<br/>increase: tăng; multiply: nhân lên; expand: mở rộng.</p>",
+    "ruleTip": "'reduce' = 'cut down' = 'decrease' (cắt giảm, giảm bớt)."
+  },
+  {
+    "id": "36_9",
+    "questionName": "Question 9",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word OPPOSITE in meaning to the underlined word.</strong></p><p>Many <u>ancient</u> houses and temples in the city center are being renovated with great care.</p>",
+    "choices": [
+      {
+        "id": "36_9_2",
+        "text": "historical",
+        "html": "historical"
+      },
+      {
+        "id": "36_9_3",
+        "text": "aged",
+        "html": "aged"
+      },
+      {
+        "id": "36_9_1",
+        "text": "modern",
+        "html": "modern"
+      },
+      {
+        "id": "36_9_4",
+        "text": "traditional",
+        "html": "traditional"
+      }
+    ],
+    "correctChoiceId": "36_9_1",
+    "explanation": "<p><strong>ancient</strong> = cổ kính, lâu đời; trái nghĩa là <strong>modern</strong> (hiện đại, mới mẻ).</p>",
+    "ruleTip": "Cặp từ trái nghĩa: 'ancient' (cổ đại, cổ kính) >< 'modern' (hiện đại)."
+  },
+  {
+    "id": "36_10",
+    "questionName": "Question 10",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word OPPOSITE in meaning to the underlined word.</strong></p><p>The river flowing through our town has become heavily <u>polluted</u> due to industrial discharge.</p>",
+    "choices": [
+      {
+        "id": "36_10_2",
+        "text": "contaminated",
+        "html": "contaminated"
+      },
+      {
+        "id": "36_10_1",
+        "text": "clean",
+        "html": "clean"
+      },
+      {
+        "id": "36_10_3",
+        "text": "dirty",
+        "html": "dirty"
+      },
+      {
+        "id": "36_10_4",
+        "text": "toxic",
+        "html": "toxic"
+      }
+    ],
+    "correctChoiceId": "36_10_1",
+    "explanation": "<p><strong>polluted</strong> = bị ô nhiễm; trái nghĩa là <strong>clean</strong> (sạch sẽ, trong lành).</p>",
+    "ruleTip": "Cặp từ trái nghĩa: 'polluted' = 'contaminated' (ô nhiễm) >< 'clean' = 'pure' (trong sạch)."
+  },
+  {
+    "id": "36_11",
+    "questionName": "Question 11",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word OPPOSITE in meaning to the underlined word.</strong></p><p>The price of organic vegetables has <u>increased</u> sharply over the past few weeks.</p>",
+    "choices": [
+      {
+        "id": "36_11_2",
+        "text": "risen",
+        "html": "risen"
+      },
+      {
+        "id": "36_11_3",
+        "text": "climbed",
+        "html": "climbed"
+      },
+      {
+        "id": "36_11_1",
+        "text": "decreased",
+        "html": "decreased"
+      },
+      {
+        "id": "36_11_4",
+        "text": "grown",
+        "html": "grown"
+      }
+    ],
+    "correctChoiceId": "36_11_1",
+    "explanation": "<p><strong>increased</strong> = tăng lên; trái nghĩa là <strong>decreased</strong> (giảm xuống).</p>",
+    "ruleTip": "Cặp từ trái nghĩa: 'increase' = 'rise' (tăng) >< 'decrease' = 'drop' (giảm)."
+  },
+  {
+    "id": "36_12",
+    "questionName": "Question 12",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word OPPOSITE in meaning to the underlined word.</strong></p><p>Mr. Nam is a <u>generous</u> benefactor who regularly donates books and scholarships to poor pupils.</p>",
+    "choices": [
+      {
+        "id": "36_12_2",
+        "text": "kind",
+        "html": "kind"
+      },
+      {
+        "id": "36_12_3",
+        "text": "charitable",
+        "html": "charitable"
+      },
+      {
+        "id": "36_12_4",
+        "text": "helpful",
+        "html": "helpful"
+      },
+      {
+        "id": "36_12_1",
+        "text": "selfish",
+        "html": "selfish"
+      }
+    ],
+    "correctChoiceId": "36_12_1",
+    "explanation": "<p><strong>generous</strong> = hào phóng, rộng lượng; trái nghĩa là <strong>selfish</strong> (ích kỷ, keo kiệt) / stingy.</p>",
+    "ruleTip": "Cặp từ trái nghĩa: 'generous' (hào phóng) >< 'selfish' = 'mean' (ích kỷ, hẹp hòi)."
+  },
+  {
+    "id": "36_13",
+    "questionName": "Question 13",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word OPPOSITE in meaning to the underlined word.</strong></p><p>More and more young people are leaving <u>rural</u> villages to seek employment opportunities in Hanoi.</p>",
+    "choices": [
+      {
+        "id": "36_13_1",
+        "text": "urban",
+        "html": "urban"
+      },
+      {
+        "id": "36_13_2",
+        "text": "peaceful",
+        "html": "peaceful"
+      },
+      {
+        "id": "36_13_3",
+        "text": "agricultural",
+        "html": "agricultural"
+      },
+      {
+        "id": "36_13_4",
+        "text": "provincial",
+        "html": "provincial"
+      }
+    ],
+    "correctChoiceId": "36_13_1",
+    "explanation": "<p><strong>rural</strong> = thuộc nông thôn; trái nghĩa là <strong>urban</strong> (thuộc thành thị, đô thị).</p>",
+    "ruleTip": "Cặp từ trái nghĩa: 'rural' (nông thôn) >< 'urban' (thành thị)."
+  },
+  {
+    "id": "36_14",
+    "questionName": "Question 14",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word OPPOSITE in meaning to the underlined word.</strong></p><p>Our new teacher is very <u>strict</u> about homework deadlines and classroom discipline.</p>",
+    "choices": [
+      {
+        "id": "36_14_2",
+        "text": "harsh",
+        "html": "harsh"
+      },
+      {
+        "id": "36_14_1",
+        "text": "lenient",
+        "html": "lenient"
+      },
+      {
+        "id": "36_14_3",
+        "text": "firm",
+        "html": "firm"
+      },
+      {
+        "id": "36_14_4",
+        "text": "severe",
+        "html": "severe"
+      }
+    ],
+    "correctChoiceId": "36_14_1",
+    "explanation": "<p><strong>strict</strong> = nghiêm khắc; trái nghĩa là <strong>lenient</strong> (khoan dung, dễ tính).</p>",
+    "ruleTip": "Cặp từ trái nghĩa: 'strict' = 'severe' (nghiêm khắc) >< 'lenient' (khoan dung, dễ dãi)."
+  },
+  {
+    "id": "36_15",
+    "questionName": "Question 15",
+    "questionText": "<p><strong>Mark the letter A, B, C, or D to indicate the word OPPOSITE in meaning to the underlined word.</strong></p><p>They built a <u>temporary</u> wooden shelter while waiting for their new brick house to be constructed.</p>",
+    "choices": [
+      {
+        "id": "36_15_2",
+        "text": "short-term",
+        "html": "short-term"
+      },
+      {
+        "id": "36_15_3",
+        "text": "brief",
+        "html": "brief"
+      },
+      {
+        "id": "36_15_4",
+        "text": "momentary",
+        "html": "momentary"
+      },
+      {
+        "id": "36_15_1",
+        "text": "permanent",
+        "html": "permanent"
+      }
+    ],
+    "correctChoiceId": "36_15_1",
+    "explanation": "<p><strong>temporary</strong> = tạm thời; trái nghĩa là <strong>permanent</strong> (lâu dài, vĩnh viễn).</p>",
+    "ruleTip": "Cặp từ trái nghĩa: 'temporary' (tạm thời) >< 'permanent' (vĩnh cửu, lâu dài)."
+  }
+]

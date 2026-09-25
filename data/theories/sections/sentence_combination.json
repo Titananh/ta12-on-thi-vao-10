@@ -1,0 +1,17 @@
+{
+  "topicName": "Kết hợp câu (Sentence Combination)",
+  "englishName": "Sentence Combination",
+  "detail": "\n      <div class=\"theory-section space-y-4\">\n        <p class=\"font-medium text-slate-800\">Kết hợp hai câu đơn thành một câu phức hoặc câu ghép hợp lý về ngữ nghĩa và ngữ pháp:</p>\n        <ul class=\"list-disc pl-5 space-y-1.5 text-slate-700\">\n          <li><strong>Mệnh đề quan hệ (Relative Clauses):</strong> Thay thế danh từ lặp lại bằng đại từ quan hệ (who, which, whose). Chú ý dấu phẩy trong mệnh đề quan hệ không xác định.</li>\n          <li><strong>Câu điều kiện loại 2 & loại 3:</strong> Giả định trái với hiện tại (Loại 2: If + V2/ed, S + would V) hoặc trái với quá khứ (Loại 3: If + had V3, S + would have V3).</li>\n          <li><strong>Đảo ngữ điều kiện / So sánh kép:</strong> The more... the more...</li>\n        </ul>\n      </div>\n    ",
+  "rules": [
+    {
+      "sound": "Mệnh đề quan hệ",
+      "rule": "Nối 2 câu có chung thành phần chỉ người/vật bằng đại từ quan hệ",
+      "examples": "The boy is my brother. You met him yesterday. -> The boy whom you met..."
+    },
+    {
+      "sound": "Điều kiện trái thực tế",
+      "rule": "Tình huống ở hiện tại dùng If loại 2; tình huống ở quá khứ dùng If loại 3",
+      "examples": "I don't have money, so I can't buy it -> If I had money, I could buy it."
+    }
+  ]
+}

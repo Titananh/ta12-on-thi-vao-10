@@ -1,0 +1,17 @@
+{
+  "topicName": "Chức năng giao tiếp (Communicative Functions)",
+  "englishName": "Communicative Responses",
+  "detail": "\n      <div class=\"theory-section space-y-4\">\n        <p class=\"font-medium text-slate-800\">Các tình huống giao tiếp đời sống hàng ngày: Lời cảm ơn, xin lỗi, khen ngợi, mời mọc, xin phép, đồng ý/không đồng ý.</p>\n        <div class=\"overflow-x-auto my-2\">\n          <table class=\"w-full text-left border-collapse text-xs sm:text-sm border border-slate-200\">\n            <thead>\n              <tr class=\"bg-emerald-50 text-emerald-900 font-bold border-b border-slate-200\">\n                <th class=\"p-2 border-r border-slate-200\">Tình huống giao tiếp</th>\n                <th class=\"p-2\">Cách đáp lại lịch sự & chuẩn xác</th>\n              </tr>\n            </thead>\n            <tbody class=\"divide-y divide-slate-200 text-slate-700\">\n              <tr>\n                <td class=\"p-2 font-semibold text-emerald-800 border-r border-slate-200\">Khen ngợi (\"You look great today!\", \"Well done!\")</td>\n                <td class=\"p-2\">\"Thank you! / It's very kind of you to say so.\" (Cảm ơn, không khiêm tốn phủ nhận như tiếng Việt)</td>\n              </tr>\n              <tr>\n                <td class=\"p-2 font-semibold text-emerald-800 border-r border-slate-200\">Lời mời (\"Would you like to...?\")</td>\n                <td class=\"p-2\">\"Yes, I'd love to.\" / \"I'd love to, but I'm busy.\"</td>\n              </tr>\n              <tr>\n                <td class=\"p-2 font-semibold text-emerald-800 border-r border-slate-200\">Lời cảm ơn (\"Thank you so much!\")</td>\n                <td class=\"p-2\">\"You're welcome! / Not at all. / Don't mention it. / My pleasure.\"</td>\n              </tr>\n              <tr>\n                <td class=\"p-2 font-semibold text-emerald-800 border-r border-slate-200\">Đồng ý ý kiến (\"I think that...\")</td>\n                <td class=\"p-2\">\"I totally agree with you. / Exactly! / You can say that again.\"</td>\n              </tr>\n            </tbody>\n          </table>\n        </div>\n      </div>\n    ",
+  "rules": [
+    {
+      "sound": "Khen ngợi",
+      "rule": "Khi nhận lời khen ngợi hoặc chúc mừng, luôn đáp lại bằng lời cảm ơn lịch sự",
+      "examples": "It's nice of you to say so / Thank you"
+    },
+    {
+      "sound": "Đồng thuận",
+      "rule": "Diễn đạt đồng tình: 'I couldn't agree with you more' mang nghĩa 'Hoàn toàn đồng ý'",
+      "examples": "You can say that again / I totally agree"
+    }
+  ]
+}

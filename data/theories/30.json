@@ -1,0 +1,27 @@
+{
+  "topicId": 30,
+  "topicName": "Từ có 3 âm tiết",
+  "englishName": "3-syllable words stress",
+  "rules": [
+    {
+      "rule": "Quy tắc 1 (Trọng âm 1): Đa số danh từ và tính từ 3 âm tiết có âm tiết 2 và 3 chứa nguyên âm ngắn, hoặc tận cùng bằng -ous, -ful, -al, -y, -ent.",
+      "formula": "NOUN / ADJ + (-ous, -ful, -al, -y, -ent) ➔ TRỌNG ÂM 1",
+      "examples": "'family, 'animal, 'cinema, 'difficult, 'dangerous, 'beautiful, 'natural, 'generous, 'confident, 'hospital."
+    },
+    {
+      "rule": "Quy tắc 2 (Trọng âm 2): Trọng âm rơi vào âm tiết NGAY TRƯỚC các hậu tố: -tion, -sion, -ic, -ical, -ian, -ious, -ive.",
+      "formula": "STEM + (-tion / -sion / -ic / -ian / -ious / -ive) ➔ TRỌNG ÂM LIỀN TRƯỚC",
+      "examples": "po'llution, de'cision, fan'tastic, his'toric, mu'sician, de'licious, ex'pensive, at'tractive."
+    },
+    {
+      "rule": "Quy tắc 3 (Trọng âm 3): Trọng âm rơi vào CHÍNH các hậu tố: -ee, -eer, -ese, -ette, -ade.",
+      "formula": "STEM + (-ee / -eer / -ese / -ette / -ade) ➔ TRỌNG ÂM CHÍNH NÓ",
+      "examples": "refu'gee, volun'teer, engi'neer, Vietna'mese, Japa'nese, ciga'rette, lemon'ade."
+    },
+    {
+      "rule": "Quy tắc 4 (Động từ -ate, -ize, -fy): Động từ 3 âm tiết kết thúc bằng -ate, -ize, -fy có trọng âm dịch lùi 2 âm tiết (rơi vào âm tiết thứ 1).",
+      "formula": "VERB + (-ate / -ize / -fy) ➔ TRỌNG ÂM 1",
+      "examples": "'celebrate, 'organize, 'calculate, 'fascinate, 'satisfy."
+    }
+  ]
+}

@@ -1,0 +1,1037 @@
+{
+  "quizId": 6057,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 41: Expressing causes, reasons and results (Từ/cụm từ chỉ nguyên nhân, lí do và kết quả)",
+  "totalQuestions": 27,
+  "questions": [
+    {
+      "id": 904273,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>X&#225;c &#273;&#7883;nh c&#225;c c&#226;u sau &#272;&#218;NG hay SAI.</strong></p>\n<p>1. T&#7845;t c&#7843; c&#225;c li&#234;n t&#7915; bi&#7875;u th&#7883; nguy&#234;n nh&#226;n, l&#253; do v&#224; k&#7871;t qu&#7843; &#273;&#7873;u &#273;&#7913;ng &#7903; gi&#7919;a c&#226;u. <span class='fillblank-option'><label>1.1</label><select class='ms fillblank-option-1' index='0' name='fbo-904273-0' data-testid='fillblank-select-904273-0'><option value='' data-testid='fillblank-option-empty-904273-0'></option><option value=\"Sai\" data-testid='fillblank-option-904273-0-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-904273-0-Đúng'>Đúng</option></select></span></p>\n<p>2. D&#249;ng &quot;Because&quot; &#273;&#7875; nh&#7845;n m&#7841;nh nhi&#7873;u h&#417;n v&#224;o l&#253; do. <span class='fillblank-option'><label>1.2</label><select class='ms fillblank-option-1' index='1' name='fbo-904273-1' data-testid='fillblank-select-904273-1'><option value='' data-testid='fillblank-option-empty-904273-1'></option><option value=\"Đúng\" data-testid='fillblank-option-904273-1-Đúng'>Đúng</option><option value=\"Sai\" data-testid='fillblank-option-904273-1-Sai'>Sai</option></select></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Sai"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Đúng"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2dc26b; border-style: dashed; height: 18px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 49.7362%; height: 18px;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/4_-_Copy_3_672b392c.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7362%; height: 18px; text-align: center;\"><img src=\"/images/exams/Bai_41_Tucum_tu_chi_ly_do__nguyen_nhan___45942678.jpg\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 904282,
+      "questionNumber": 2,
+      "questionName": "3",
+      "questionType": "TrueFalse",
+      "questionText": "<p><em>X&#225;c &#273;&#7883;nh xem c&#226;u d&#432;&#7899;i &#273;&#226;y l&#224; &#273;&#250;ng hay sai.</em></p>\n<p><strong>&quot;because of&quot;, &quot;owing to&quot;, &quot;due to&quot;, &quot;as a result of&quot; c&#243; th&#7875; theo sau b&#7903;i m&#7897;t m&#7879;nh &#273;&#7873;, c&#7909;m danh t&#7915; v&#224; m&#7897;t danh &#273;&#7897;ng t&#7915;.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1717653,
+          "label": "A",
+          "text": "Đúng",
+          "isCorrect": false
+        },
+        {
+          "id": 1717654,
+          "label": "B",
+          "text": "Sai",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1717654,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/5_-_Copy_1_4969ad6d.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 904289,
+      "questionNumber": 3,
+      "questionName": "2",
+      "questionType": "Matching",
+      "questionText": "<p><strong>N&#7889;i c&#225;c t&#7915; &#7903; c&#7897;t 1 v&#7899;i m&#244; t&#7843; t&#432;&#417;ng &#7913;ng &#7903; c&#7897;t 2.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/9_-_Copy_1_e3b84289.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 904276,
+      "questionNumber": 4,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ch&#7885;n &#273;&#225;p &#225;n &#273;&#250;ng &#273;&#7875; ho&#224;n th&#224;nh c&#225;c c&#226;u sau.</strong></p>\n<p>1. <span class='fillblank-option'><label>4.1</label><select class='ms fillblank-option-4' index='0' name='fbo-904276-0' data-testid='fillblank-select-904276-0'><option value='' data-testid='fillblank-option-empty-904276-0'></option><option value=\"So\" data-testid='fillblank-option-904276-0-So'>So</option><option value=\"Because\" data-testid='fillblank-option-904276-0-Because'>Because</option></select></span> she hated cats, she was unhappy when her husband bought three.</p>\n<p>2. She was feeling unwell, <span class='fillblank-option'><label>4.2</label><select class='ms fillblank-option-4' index='1' name='fbo-904276-1' data-testid='fillblank-select-904276-1'><option value='' data-testid='fillblank-option-empty-904276-1'></option><option value=\"so\" data-testid='fillblank-option-904276-1-so'>so</option><option value=\"as\" data-testid='fillblank-option-904276-1-as'>as</option></select></span> I sent her some flowers to lift her spirits.</p>\n<p>3. They couldn&#8217;t deliver the parcel <span class='fillblank-option'><label>4.3</label><select class='ms fillblank-option-4' index='2' name='fbo-904276-2' data-testid='fillblank-select-904276-2'><option value='' data-testid='fillblank-option-empty-904276-2'></option><option value=\"since there no one to answer the door\" data-testid='fillblank-option-904276-2-since there no one to answer the door'>since there no one to answer the door</option><option value=\"since no one was there to answer the door\" data-testid='fillblank-option-904276-2-since no one was there to answer the door'>since no one was there to answer the door</option></select></span>.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Because"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "so"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "since no one was there to answer the door"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. <strong>because</strong> (conj.): v&igrave;</p>\n<p>so (conj.): vậy n&ecirc;n</p>\n<p>Dịch: V&igrave; c&ocirc; ấy gh&eacute;t m&egrave;o, c&ocirc; ấy kh&ocirc;ng vui khi chồng c&ocirc; ấy mua ba con.</p>\n<p>2.<strong> so</strong> (conj.): n&ecirc;n</p>\n<p>as (conj.): v&igrave;</p>\n<p>Dịch: C&ocirc; ấy cảm thấy kh&ocirc;ng khỏe, n&ecirc;n t&ocirc;i đ&atilde; gửi cho c&ocirc; ấy một &iacute;t hoa để l&agrave;m c&ocirc; ấy vui l&ecirc;n.</p>\n<p>3. <strong>since + clause</strong>: v&igrave;</p>\n<p>\"<strong>there no one to answer the door</strong>\" kh&ocirc;ng phải mệnh đề đ&uacute;ng v&igrave; sai về ngữ ph&aacute;p \"<strong>there + be + ...</strong>\".</p>\n<p>Dịch: Họ kh&ocirc;ng thể giao g&oacute;i h&agrave;ng v&igrave; kh&ocirc;ng c&oacute; ai ở nh&agrave; để mở cửa.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 60218,
+      "questionNumber": 5,
+      "questionName": "because",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We decided to leave early _____ the show was not interesting.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 162055,
+          "label": "A",
+          "text": "although",
+          "isCorrect": false
+        },
+        {
+          "id": 162056,
+          "label": "B",
+          "text": "because",
+          "isCorrect": true
+        },
+        {
+          "id": 162057,
+          "label": "C",
+          "text": "if",
+          "isCorrect": false
+        },
+        {
+          "id": 162058,
+          "label": "D",
+          "text": "so",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 162056,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y xem x&eacute;t mệnh đề <em>'the show was not interesting'</em> c&oacute; quan hệ &yacute; nghĩa như n&agrave;o (nguy&ecirc;n nh&acirc;n, kết quả hay đối lập) với <em>'We decided to leave early'&nbsp;</em>v&agrave; chọn ra li&ecirc;n từ ph&ugrave; hợp để diễn tả quan hệ đ&oacute;.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ chỉ quan hệ nguy&ecirc;n nh&acirc;n &ndash; kết quả v&agrave; nhượng bộ.</span></p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c li&ecirc;n từ n&agrave;y được d&ugrave;ng để kết nối hai mệnh đề, diễn tả mối quan hệ logic giữa ch&uacute;ng như nguy&ecirc;n nh&acirc;n, kết quả, hoặc sự đối lập/nhượng bộ.</p>\n<p style=\"text-align: justify;\"><strong>Một số li&ecirc;n từ:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>because (conj.):</strong> bởi v&igrave; (chỉ nguy&ecirc;n nh&acirc;n)</li>\n<li style=\"text-align: justify;\"><strong>although (conj.):</strong> mặc d&ugrave; (chỉ sự nhượng bộ/đối lập)</li>\n<li style=\"text-align: justify;\"><strong>if (conj.):</strong> nếu (chỉ điều kiện)</li>\n<li style=\"text-align: justify;\"><strong>so (conj. / adv.):</strong> v&igrave; vậy, do đ&oacute; (chỉ kết quả)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, mệnh đề <em>\"the show was not interesting\"</em> giải th&iacute;ch l&yacute; do cho h&agrave;nh động <em>\"We decided to leave early\"</em>. Do đ&oacute;, ta cần một li&ecirc;n từ diễn tả nguy&ecirc;n nh&acirc;n v&agrave; li&ecirc;n từ <em>\"because\"</em> ph&ugrave; hợp nhất để diễn tả mối quan hệ nguy&ecirc;n nh&acirc;n - kết quả n&agrave;y, cho biết việc chương tr&igrave;nh kh&ocirc;ng th&uacute; vị l&agrave; l&yacute; do ch&uacute;ng t&ocirc;i quyết định về sớm.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n kh&aacute;c kh&ocirc;ng ph&ugrave; hợp v&igrave; phương &aacute;n 1 \"<em>although</em>\" diễn tả sự tương phản, phương &aacute;n 3 \"<em>if</em>\" diễn tả điều kiện c&ograve;n phương &aacute;n 4 \"<em>so</em>\" diễn tả kết quả, nhưng trong c&acirc;u n&agrave;y, chỗ trống đứng trước nguy&ecirc;n nh&acirc;n chứ kh&ocirc;ng phải kết quả.</p>",
+      "answerFeedbacks": {
+        "162055": "Sai vì liên từ này dùng để diễn tả sự tương phản hoặc nhượng bộ, không phù hợp với mối quan hệ nguyên nhân - kết quả trong câu.",
+        "162056": "Đúng vì liên từ này dùng để diễn tả nguyên nhân hoặc lý do cho hành động <em>\"decided to leave early\"</em>.",
+        "162057": "Sai vì liên từ này dùng để diễn tả điều kiện, không phù hợp với mối quan hệ nguyên nhân - kết quả trong câu.",
+        "162058": "Sai vì liên từ này dùng để diễn tả kết quả, trong khi <em>\"the show was not interesting\"</em> là nguyên nhân, không phải kết quả của việc rời đi sớm."
+      },
+      "images": []
+    },
+    {
+      "id": 56872,
+      "questionNumber": 6,
+      "questionName": "Question 9",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Everyone felt tired and hungry, _____ they sat down and took a rest.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 154813,
+          "label": "A",
+          "text": "although",
+          "isCorrect": false
+        },
+        {
+          "id": 154814,
+          "label": "B",
+          "text": "but",
+          "isCorrect": false
+        },
+        {
+          "id": 154815,
+          "label": "C",
+          "text": "because",
+          "isCorrect": false
+        },
+        {
+          "id": 154816,
+          "label": "D",
+          "text": "so",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 154816,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y x&aacute;c định mối quan hệ logic giữa hai mệnh đề <em>\"Everyone felt tired and hungry\"</em> v&agrave; <em>\"they sat down and took a rest\"&nbsp;</em>nguy&ecirc;n nh&acirc;n, kết quả hay đối lập v&agrave; t&igrave;m ra li&ecirc;n từ ph&ugrave; hợp để diễn tả mối quan hệ đ&oacute;.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"275\" id=\"77DF5094\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX196oQpMVmXFFMic0qMIRw7zsP4GW4CWlDBOjKBeA5McFK7iJTR6mJ4BVSuVp%2Bg2eh%2B9IysGLMc7F85%2FEE88aCZZyWEy5oEnXepSvzRsu4Z0e0zSbza7GbeOIbs2oyhHOf%2F%2FAMEIA15iwfmYdRB2KHme3XRzyICzzCuPXdJct0LjxAQCBtaYDlglnG0jizzFIZTNS7CUEy3%2FRN3vRQJia%2F3uii%2FqHtIUcSvK14J2Xj4%2BaRchETKfB6VkMFxh9HaYbxMXeudCBoeIfDt9p0O6libDIIHzC8BOtJevBZs%2F8x5SqsA3c1cb7wD5HyFTgDv4M0I5u2OlEAE0nz0ct1uFXFGh%2FuDeB1Tlx1Y%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ chỉ mối quan hệ nguy&ecirc;n nh&acirc;n - kết quả v&agrave; đối lập</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c li&ecirc;n từ n&agrave;y được sử dụng để nối hai mệnh đề, diễn tả mối quan hệ logic về nguy&ecirc;n nh&acirc;n, kết quả, hoặc sự đối lập giữa c&aacute;c &yacute; tưởng.</p>\n<p style=\"text-align: justify;\"><strong>Một số li&ecirc;n từ phổ biến:</strong></p>\n<ul>\n<li><strong>because</strong>: bởi v&igrave;</li>\n<li><strong>so</strong>: v&igrave; vậy</li>\n<li><strong>although</strong>: mặc d&ugrave;</li>\n<li><strong>but</strong>: nhưng</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u gốc&nbsp;c&oacute; hai mệnh đề: <em>\"Everyone felt tired and hungry\"</em> (mọi người mệt v&agrave; đ&oacute;i) v&agrave; <em>\"they sat down and took a rest\"</em> (họ ngồi xuống v&agrave; nghỉ ngơi). Mối quan hệ giữa hai mệnh đề n&agrave;y l&agrave; nguy&ecirc;n nh&acirc;n &ndash; kết quả: v&igrave; mệt v&agrave; đ&oacute;i n&ecirc;n họ ngồi xuống nghỉ. Li&ecirc;n từ <em>\"so\"</em> (v&igrave; vậy) l&agrave; lựa chọn ph&ugrave; hợp nhất để diễn tả kết quả của h&agrave;nh động trước đ&oacute;.</p>\n<p style=\"text-align: justify;\">Li&ecirc;n từ <em>\"although\"</em> (mặc d&ugrave;) v&agrave; li&ecirc;n từ <em>\"but\"</em> d&ugrave;ng để diễn tả sự nhượng bộ, đối lập, đều kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh n&agrave;y c&ograve;n li&ecirc;n từ <em>\"because\"</em> (bởi v&igrave;) diễn tả nguy&ecirc;n nh&acirc;n, nhưng vị tr&iacute; v&agrave; &yacute; nghĩa của n&oacute; kh&ocirc;ng ph&ugrave; hợp với mối quan hệ nguy&ecirc;n nh&acirc;n-kết quả theo thứ tự n&agrave;y (kết quả đứng sau nguy&ecirc;n nh&acirc;n).</p>",
+      "answerFeedbacks": {
+        "154813": "Sai vì <em>\"although\"</em> diễn tả sự nhượng bộ hoặc đối lập, không phù hợp với mối quan hệ nguyên nhân - kết quả trong câu.",
+        "154814": "Sai vì <em>\"but\"</em> diễn tả sự tương phản hoặc đối lập, không phù hợp với mối quan hệ nguyên nhân - kết quả trong câu.",
+        "154815": "Sai vì <em>\"because\"</em> dùng để giới thiệu nguyên nhân (kết quả + because + nguyên nhân), trong khi ở đây mệnh đề nguyên nhân đứng trước và mệnh đề kết quả đứng sau, cần liên từ chỉ kết quả.",
+        "154816": "Đúng vì <em>\"so\"</em> là liên từ dùng để giới thiệu mệnh đề chỉ kết quả, phù hợp với ngữ cảnh hai mệnh đề trong câu: mệt và đói (nguyên nhân) dẫn đến việc ngồi xuống nghỉ (kết quả)."
+      },
+      "images": []
+    },
+    {
+      "id": 177347,
+      "questionNumber": 7,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>This hotel is near the airport, _____ a lot of business travellers stay there.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 406629,
+          "label": "A",
+          "text": "while",
+          "isCorrect": false
+        },
+        {
+          "id": 406630,
+          "label": "B",
+          "text": "because",
+          "isCorrect": false
+        },
+        {
+          "id": 406631,
+          "label": "C",
+          "text": "so",
+          "isCorrect": true
+        },
+        {
+          "id": 506072,
+          "label": "D",
+          "text": "but",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 406631,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">H&atilde;y xem x&eacute;t mối quan hệ logic giữa hai mệnh đề trong c&acirc;u: <em>\"This hotel is near the airport\"</em> v&agrave; <em>\"a lot of business travellers stay there\"</em>.</p>\n<p style=\"text-align: justify;\">Sau đ&oacute;, lựa chọn li&ecirc;n từ ph&ugrave; hợp với mối quan hệ đ&oacute; từ c&aacute;c phương &aacute;n: <em>\"because\"</em> (chỉ nguy&ecirc;n nh&acirc;n), <em>\"so\"</em> (chỉ kết quả), <em>\"but\"</em> (chỉ sự đối lập), <em>\"while\"</em> (chỉ thời gian hoặc đối lập).</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"275\" id=\"02F3995F\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX186%2BuJwDWtmWuYsm7BTg5VsNM4bdG0lpFVKDqgjGI95WVgC06h%2BtJ%2BMEwntAwW7QpG9DGSyVlS9b9F2LwDO1h5qCawW198H1kfAlQxNYzDjny6wIJ2jx12LnnJN1nE1aXEanCQrREETYEE8VcUMYtH3P5yNaI39u2s%2B%2BmJ7a0%2FeM03T0GqnoyB5QA%2BOLs3RgzDETSLt3ojfBoQyCj4g19LL1XqpMH6aG3p9GIJYR%2FptjRnzl7JmQ6XDUbUYLiGe4lPacpgA69bnTO877jis2n0XiCROHWT%2BpXhUH5KR4ONasH3ZHmQaqmnW7J9TBxGE66knfO8LqJuwlA%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ chỉ mối quan hệ nguy&ecirc;n nh&acirc;n - kết quả v&agrave; đối lập</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Li&ecirc;n từ được sử dụng để nối c&aacute;c từ, cụm từ hoặc mệnh đề, nhằm thể hiện mối quan hệ logic giữa ch&uacute;ng như nguy&ecirc;n nh&acirc;n, kết quả, sự tương phản hay thời gian.</p>\n<p style=\"text-align: justify;\"><strong>Một số li&ecirc;n từ:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">because:</span></strong> bởi v&igrave; (chỉ nguy&ecirc;n nh&acirc;n)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">so:</span></strong> v&igrave; vậy, do đ&oacute; (chỉ kết quả)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">but:</span></strong> nhưng (chỉ sự đối lập, tương phản)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">while:</span></strong> trong khi (chỉ thời gian hoặc sự đối lập đồng thời)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u <em>\"This hotel is near the airport\"</em> l&agrave; nguy&ecirc;n nh&acirc;n dẫn đến kết quả <em>\"a lot of business travellers stay there\"</em>. Do đ&oacute;, cần một li&ecirc;n từ chỉ kết quả để nối hai mệnh đề n&agrave;y. Li&ecirc;n từ <em>\"so\"</em> (v&igrave; vậy, do đ&oacute;) l&agrave; lựa chọn ph&ugrave; hợp nhất để diễn tả mối quan hệ n&agrave;y.</p>\n<p style=\"text-align: justify;\">C&aacute;c li&ecirc;n từ <em>\"while\"</em>, <em>\"because\"</em>, <em>\"but\"</em> kh&ocirc;ng ph&ugrave; hợp v&igrave; ch&uacute;ng diễn tả c&aacute;c mối quan hệ kh&aacute;c (thời gian/đối lập, nguy&ecirc;n nh&acirc;n, đối lập) hoặc vị tr&iacute; kh&ocirc;ng đ&uacute;ng trong cấu tr&uacute;c c&acirc;u n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "406629": "Liên từ <em>\"while\"</em> thường dùng để chỉ hai hành động xảy ra đồng thời hoặc để diễn tả sự tương phản, không phù hợp để chỉ kết quả.",
+        "406630": "Liên từ <em>\"because\"</em> dùng để giới thiệu mệnh đề chỉ lý do/nguyên nhân, trong khi chỗ trống này cần một liên từ chỉ kết quả.",
+        "406631": "Liên từ <em>\"so\"</em> dùng để giới thiệu mệnh đề chỉ kết quả, phù hợp với ngữ cảnh hai mệnh đề này.",
+        "506072": "Liên từ <em>\"but\"</em> dùng để chỉ sự đối lập hoặc tương phản, không phù hợp để chỉ mối quan hệ nguyên nhân - kết quả."
+      },
+      "images": []
+    },
+    {
+      "id": 37382,
+      "questionNumber": 8,
+      "questionName": "Question 9.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>All people should join hands in protecting the environment _____ we can gain better health.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 114181,
+          "label": "A",
+          "text": "in order that",
+          "isCorrect": true
+        },
+        {
+          "id": 114182,
+          "label": "B",
+          "text": "when",
+          "isCorrect": false
+        },
+        {
+          "id": 114183,
+          "label": "C",
+          "text": "because",
+          "isCorrect": false
+        },
+        {
+          "id": 114184,
+          "label": "D",
+          "text": "even though",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 114181,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy xem xét mối quan hệ logic giữa hai mệnh đề <em>\"All people should join hands in protecting the environment\"</em> (hành động) và <em>\"we can gain better health\"</em> (điều mong muốn đạt được).</p>\n<p>Bạn cần một từ hoặc cụm từ nối diễn tả <em>mục đích</em> của hành động đầu tiên.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Các cấu trúc chỉ mục đích</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các cấu trúc này được sử dụng để diễn tả mục đích hoặc kết quả mong muốn của một hành động, giải thích tại sao một việc gì đó được thực hiện.</p>\n<p style=\"text-align: justify;\"><strong>Một số liên từ và cụm từ nối mệnh đề phụ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">in order that (conj.):</span></strong> để mà, với mục đích là (chỉ mục đích)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">when (conj.):</span></strong> khi (chỉ thời gian)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">because (conj.):</span></strong> bởi vì (chỉ nguyên nhân)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">even though (conj.):</span></strong> mặc dù, cho dù (chỉ sự nhượng bộ, đối lập)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu có hai mệnh đề <em>\"All people should join hands in protecting the environment\"</em> (hành động) và <em>\"we can gain better health\"</em> (mục đích/kết quả mong muốn). Mối quan hệ logic giữa hai mệnh đề là hành động được thực hiện để đạt được một mục đích cụ thể.</p>\n<p style=\"text-align: justify;\">Phương án <em>\"in order that\"</em>, mang nghĩa \"để mà\" hoặc \"với mục đích là\", là cụm từ nối duy nhất trong các lựa chọn diễn tả mục đích, do đó phù hợp nhất để hoàn thành câu. Các phương án còn lại diễn tả thời gian (<em>\"when\"</em>), nguyên nhân (<em>\"because\"</em>), hoặc sự nhượng bộ/đối lập (<em>\"even though\"</em>) và không phù hợp với ngữ cảnh.</p>",
+      "answerFeedbacks": {
+        "114181": "Đúng vì <em>\"in order that\"</em> là cụm từ nối chỉ mục đích, phù hợp với ý nghĩa \"để mà chúng ta có thể có sức khỏe tốt hơn\" trong câu.",
+        "114182": "Sai vì <em>\"when\"</em> là liên từ chỉ thời gian, không diễn tả mối quan hệ mục đích trong câu này.",
+        "114183": "Sai vì <em>\"because\"</em> là liên từ chỉ nguyên nhân, trong khi vế sau là kết quả mong muốn, không phải nguyên nhân của vế trước.",
+        "114184": "Sai vì <em>\"even though\"</em> là liên từ chỉ sự nhượng bộ/đối lập, không phù hợp với mối quan hệ mục đích trong câu."
+      },
+      "images": []
+    },
+    {
+      "id": 173354,
+      "questionNumber": 9,
+      "questionName": "Question 21:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Many species of Hawaiian flowers have become endangered _____ the grazing of wild goat.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 399055,
+          "label": "A",
+          "text": "now that",
+          "isCorrect": false
+        },
+        {
+          "id": 399056,
+          "label": "B",
+          "text": "due to",
+          "isCorrect": true
+        },
+        {
+          "id": 399057,
+          "label": "C",
+          "text": "because",
+          "isCorrect": false
+        },
+        {
+          "id": 399058,
+          "label": "D",
+          "text": "despite",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 399056,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn từ điền v&agrave;o chỗ trống, h&atilde;y xem x&eacute;t hai yếu tố ch&iacute;nh:</p>\n<ul>\n<li>\n<p><strong>Cấu tr&uacute;c ngữ ph&aacute;p theo sau:</strong> Chỗ trống được theo sau bởi <em>\"the grazing of wild goat\"</em>, đ&acirc;y l&agrave; một cụm danh từ. Bạn cần x&aacute;c định xem phương &aacute;n n&agrave;o l&agrave; giới từ hoặc cụm giới từ để c&oacute; thể đứng trước cụm danh từ.</p>\n</li>\n<li>\n<p><strong>&Yacute; nghĩa của c&acirc;u:</strong> C&acirc;u đang diễn tả mối quan hệ nguy&ecirc;n nh&acirc;n - kết quả (hoa bị nguy hiểm <em>do</em> sự chăn thả của d&ecirc; hoang d&atilde;). H&atilde;y chọn từ/cụm từ c&oacute; &yacute; nghĩa chỉ nguy&ecirc;n nh&acirc;n ph&ugrave; hợp.</p>\n</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Từ/Cụm từ chỉ nguy&ecirc;n nh&acirc;n v&agrave; nhượng bộ</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c từ/cụm từ n&agrave;y được sử dụng để li&ecirc;n kết c&aacute;c mệnh đề hoặc cụm từ, diễn tả mối quan hệ về l&yacute; do, nguy&ecirc;n nh&acirc;n hoặc sự đối lập giữa c&aacute;c sự việc.</p>\n<p style=\"text-align: justify;\"><strong>Một số li&ecirc;n từ/cụm giới từ/giới từ với cấu tr&uacute;c đi k&egrave;m:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>because (conj.) + S + V:</strong> bởi v&igrave;</li>\n<li style=\"text-align: justify;\"><strong>now that (conj.) + S + V:</strong> bởi v&igrave;/b&acirc;y giờ th&igrave; (nhấn mạnh một t&igrave;nh huống mới)</li>\n<li style=\"text-align: justify;\"><strong>due to (prep. phrase) + N/V-ing:</strong> do/bởi v&igrave;</li>\n<li style=\"text-align: justify;\"><strong>despite (prep.) + N/V-ing:</strong> mặc d&ugrave;</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Chỗ trống trong c&acirc;u được theo sau bởi cụm danh từ <em>\"the grazing of wild goat\"</em>, diễn tả nguy&ecirc;n nh&acirc;n khiến hoa bị nguy hiểm. V&igrave; vậy, cần một từ hoặc cụm từ chỉ nguy&ecirc;n nh&acirc;n m&agrave; c&oacute; thể đứng trước một cụm danh từ.</p>\n<p style=\"text-align: justify;\">Trong c&aacute;c phương &aacute;n, <em>\"now that\"</em> v&agrave; <em>\"because\"</em> l&agrave; li&ecirc;n từ phụ thuộc, y&ecirc;u cầu theo sau l&agrave; một mệnh đề (S + V), kh&ocirc;ng ph&ugrave; hợp với cấu tr&uacute;c c&acirc;u. <em>\"Despite\"</em> l&agrave; giới từ c&oacute; thể theo sau bởi cụm danh từ, nhưng n&oacute; mang nghĩa nhượng bộ (mặc d&ugrave;), kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh nguy&ecirc;n nh&acirc;n. Chỉ c&oacute; <em>\"due to\"</em> l&agrave; cụm giới từ, mang nghĩa \"do/bởi v&igrave;\" v&agrave; được theo sau bởi cụm danh từ, ho&agrave;n to&agrave;n ph&ugrave; hợp với cả cấu tr&uacute;c v&agrave; &yacute; nghĩa của c&acirc;u.</p>",
+      "answerFeedbacks": {
+        "399055": "Phương án này sai vì <em>\"now that\"</em> là liên từ phụ thuộc, cần theo sau bởi một mệnh đề (chủ ngữ + động từ), không phải cụm danh từ.",
+        "399056": "Phương án này đúng vì <em>\"due to\"</em> là cụm giới từ, có nghĩa là \"do/bởi vì\" và được theo sau bởi một cụm danh từ (<em>\"the grazing of wild goat\"</em>), phù hợp với ngữ cảnh diễn tả nguyên nhân.",
+        "399057": "Phương án này sai vì <em>\"because\"</em> là liên từ phụ thuộc, cần theo sau bởi một mệnh đề (chủ ngữ + động từ), không phải cụm danh từ.",
+        "399058": "Phương án này sai vì <em>\"despite\"</em> là giới từ có thể theo sau bởi cụm danh từ, nhưng nó mang nghĩa \"mặc dù\" (diễn tả sự nhượng bộ), không phù hợp với ngữ cảnh nguyên nhân trong câu."
+      },
+      "images": []
+    },
+    {
+      "id": 16492,
+      "questionNumber": 10,
+      "questionName": "6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Thanh and Nga are going to Australia _____ learn English. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 54422,
+          "label": "A",
+          "text": "so as to",
+          "isCorrect": true
+        },
+        {
+          "id": 54423,
+          "label": "B",
+          "text": "so that",
+          "isCorrect": false
+        },
+        {
+          "id": 54424,
+          "label": "C",
+          "text": "so as",
+          "isCorrect": false
+        },
+        {
+          "id": 54425,
+          "label": "D",
+          "text": "in order that",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 54422,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\"><strong>so as to + V(inf) </strong></span>~ <span style=\"font-weight: 400;\">in order that + clause ~ so that + clause: để làm gì</span></p>\n<p>Dịch: Thanh v&agrave; Nga sẽ đến &Uacute;c để học tiếng Anh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 156587,
+      "questionNumber": 11,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>_____ get older, the games they play become increasingly complex.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 365425,
+          "label": "A",
+          "text": "For children to",
+          "isCorrect": false
+        },
+        {
+          "id": 365426,
+          "label": "B",
+          "text": "Children, when",
+          "isCorrect": false
+        },
+        {
+          "id": 365427,
+          "label": "C",
+          "text": "Although children",
+          "isCorrect": false
+        },
+        {
+          "id": 365428,
+          "label": "D",
+          "text": "As children",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 365428,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">H&atilde;y ch&uacute; &yacute; đến hai vế <em data-start=\"138\" data-end=\"157\">\"_____ get older\"</em> v&agrave; <em data-start=\"161\" data-end=\"212\">\"the games they play become increasingly complex\"</em>. C&acirc;u diễn tả <strong data-start=\"226\" data-end=\"263\">hai sự thay đổi diễn ra đồng thời v&agrave; c&oacute; sự tương quan (c&agrave;ng ... c&agrave;ng)</strong>. H&atilde;y nhớ lại từ nối d&ugrave;ng để diễn tả mối quan hệ n&agrave;y, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ phụ thuộc v&agrave; c&aacute;c cấu tr&uacute;c diễn đạt mối quan hệ giữa c&aacute;c mệnh đề/h&agrave;nh động</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c li&ecirc;n từ phụ thuộc v&agrave; cấu tr&uacute;c n&agrave;y được sử dụng để nối một mệnh đề phụ với một mệnh đề ch&iacute;nh, thể hiện mối quan hệ về thời gian, nguy&ecirc;n nh&acirc;n, mục đ&iacute;ch, sự nhượng bộ, điều kiện, v.v., gi&uacute;p c&acirc;u văn trở n&ecirc;n r&otilde; r&agrave;ng v&agrave; logic hơn.</p>\n<p style=\"text-align: justify;\"><strong>Một số Li&ecirc;n từ/Cụm từ nối:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>As + S + V:</strong> khi, trong khi (chỉ thời gian, hai h&agrave;nh động xảy ra đồng thời hoặc nhấn mạnh sự ph&aacute;t triển đồng thời (k&eacute;o theo) )</li>\n<li style=\"text-align: justify;\"><strong>When + S + V:</strong> khi (chỉ thời gian, một h&agrave;nh động xảy ra sau/c&ugrave;ng l&uacute;c với h&agrave;nh động kh&aacute;c).</li>\n<li style=\"text-align: justify;\"><strong>Although + S + V:</strong> mặc d&ugrave; (chỉ sự nhượng bộ, tương phản).</li>\n<li style=\"text-align: justify;\"><strong>For + N + to V:</strong> để (chỉ mục đ&iacute;ch cho danh từ/đại từ ph&iacute;a trước).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u cần một li&ecirc;n từ để thể hiện mối quan hệ đồng thời v&agrave; tương quan giữa hai h&agrave;nh động: <em>trẻ em lớn l&ecirc;n</em> v&agrave; <em>tr&ograve; chơi của ch&uacute;ng trở n&ecirc;n phức tạp hơn</em>. Li&ecirc;n từ <em>as</em> (phương &aacute;n 4) ph&ugrave; hợp nhất để diễn tả sự thay đổi song song hoặc mối quan hệ \"c&agrave;ng...c&agrave;ng\" trong ngữ cảnh n&agrave;y.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n c&ograve;n lại kh&ocirc;ng ph&ugrave; hợp: <em>For children to</em> (phương &aacute;n 1) chỉ mục đ&iacute;ch; <em>Children, when</em> (phương &aacute;n 2) sai cấu tr&uacute;c ngữ ph&aacute;p; <em>Although children</em> (phương &aacute;n 3) diễn tả sự nhượng bộ, kh&ocirc;ng đ&uacute;ng với &yacute; nghĩa của c&acirc;u.</p>",
+      "answerFeedbacks": {
+        "365425": "Cấu trúc <em>for + N + to V</em> diễn tả mục đích hoặc ý kiến, không phù hợp để diễn tả sự thay đổi đồng thời theo thời gian.",
+        "365426": "Cụm từ này không đúng ngữ pháp; cần một liên từ phụ thuộc đứng trước mệnh đề đầy đủ như <em>When children get older</em>.",
+        "365427": "Liên từ <em>although</em> diễn tả sự tương phản hoặc nhượng bộ, không phù hợp với ngữ cảnh hai hành động xảy ra đồng thời và có mối quan hệ nhân quả.",
+        "365428": "Liên từ <em>as</em> ở đây diễn tả hai hành động hoặc sự việc xảy ra đồng thời và có mối quan hệ tương quan, phù hợp với ý nghĩa \"càng...càng\" trong câu."
+      },
+      "images": []
+    },
+    {
+      "id": 227155,
+      "questionNumber": 12,
+      "questionName": "result",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Our flight was <span style=\"text-decoration: underline;\">delayed</span> as a(n) <span style=\"text-decoration: underline;\">outcome</span> <span style=\"text-decoration: underline;\">of</span> the <span style=\"text-decoration: underline;\">heavy</span> snowstorm.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 509899,
+          "label": "A",
+          "text": "delayed",
+          "isCorrect": false
+        },
+        {
+          "id": 509900,
+          "label": "B",
+          "text": "outcome",
+          "isCorrect": true
+        },
+        {
+          "id": 509901,
+          "label": "C",
+          "text": "of",
+          "isCorrect": false
+        },
+        {
+          "id": 509902,
+          "label": "D",
+          "text": "heavy",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 509900,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra xem từ <em>delayed</em> có phù hợp về mặt ngữ pháp và ngữ nghĩa khi mô tả trạng thái của chuyến bay không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xác định xem <em>as a(n) outcome of</em> có phải là một cụm từ cố định chính xác để diễn tả nguyên nhân hay không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Phân tích vai trò của giới từ <em>of</em> trong việc liên kết nguyên nhân <em>the heavy snowstorm</em> với cụm từ chỉ kết quả.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đánh giá xem tính từ <em>heavy</em> có thích hợp để miêu tả danh từ <em>snowstorm</em> về mặt ngữ nghĩa hay không.</li>\n</ul>\n<p style=\"text-align: justify;\">So sánh các quy tắc này với cách dùng trong câu gốc để xác định phần nào cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cụm từ cố định chỉ nguyên nhân, kết quả</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Để diễn đạt nguyên nhân hoặc lý do dẫn đến một sự việc, chúng ta sử dụng các cụm từ cố định như \"<em>as a result of</em>\" hoặc \"as a consequence of\".</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, cụm từ \"<em>as a(n) outcome of</em>\" được dùng để chỉ nguyên nhân của việc chuyến bay bị hoãn. Tuy nhiên, \"<em>outcome</em>\" không phải là từ đúng trong cụm từ cố định này. Cụm từ chính xác để diễn đạt ý \"do bởi\" hoặc \"là kết quả của\" là \"<em>as a result of</em>\" hoặc \"<em>as a consequence of</em>\".</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>outcome</strong></em>\" =&gt; \"<em><strong>result</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "509899": "Từ <em>delayed</em> (bị hoãn) là dạng quá khứ phân từ dùng như tính từ, mô tả trạng thái của chuyến bay và hoàn toàn đúng ngữ pháp, ngữ nghĩa trong câu.",
+        "509900": "Cụm từ đúng để diễn tả nguyên nhân, kết quả là <em>as a result of</em> hoặc <em>as a consequence of</em>, không phải <em>as an outcome of</em>.",
+        "509901": "Giới từ <em>of</em> được sử dụng đúng để liên kết cụm danh từ <em>a(n) outcome</em> với nguyên nhân <em>the heavy snowstorm</em>.",
+        "509902": "Từ <em>heavy</em> (dày đặc, lớn) là tính từ bổ nghĩa cho danh từ <em>snowstorm</em> (bão tuyết) và hoàn toàn đúng ngữ pháp, ngữ nghĩa trong câu."
+      },
+      "images": []
+    },
+    {
+      "id": 188077,
+      "questionNumber": 13,
+      "questionName": "7",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>She <u>worked</u> hard <u>so</u> everything would <u>be</u> ready <u>in</u> time.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 430730,
+          "label": "A",
+          "text": "worked",
+          "isCorrect": false
+        },
+        {
+          "id": 430731,
+          "label": "B",
+          "text": "so",
+          "isCorrect": true
+        },
+        {
+          "id": 430732,
+          "label": "C",
+          "text": "be",
+          "isCorrect": false
+        },
+        {
+          "id": 430733,
+          "label": "D",
+          "text": "in",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 430731,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>so </strong>(conj.): v&igrave; vậy =&gt; Kh&ocirc;ng ph&ugrave; hợp về nghĩa của c&acirc;u.</p>\n<p><strong>so that </strong>(conj.): để m&agrave; (chỉ mục đ&iacute;ch)</p>\n<p><strong>in order that </strong>(phr.): để m&agrave;</p>\n<p>Sửa:<strong> </strong>\"<strong>so</strong>\" =&gt; \"<strong>so that</strong>\" hoặc \"<strong>in order that</strong>\"</p>\n<p>Dịch: C&ocirc; ấy l&agrave;m việc chăm chỉ để mọi thứ sẵn s&agrave;ng kịp thời.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 170632,
+      "questionNumber": 14,
+      "questionName": "38",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><u>Because</u> the noise from the <u>construction</u> work, <u>the</u> children couldn't concentrate <u>on</u> their lessons.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 393796,
+          "label": "A",
+          "text": "Because",
+          "isCorrect": true
+        },
+        {
+          "id": 393797,
+          "label": "B",
+          "text": "construction",
+          "isCorrect": false
+        },
+        {
+          "id": 393798,
+          "label": "C",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "id": 393799,
+          "label": "D",
+          "text": "on",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 393796,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>because + clause</strong>&nbsp;~ <strong>because of + N/ V-ing:</strong> bởi v&igrave;</p>\n<p><strong>\"the noise</strong>\" (tiếng ồn) - cụm danh từ</p>\n<p>Sửa: \"<strong>because</strong>\" =&gt;\"<strong>because of</strong>\"</p>\n<p>Dịch: Bởi v&igrave; tiếng ồn từ c&ocirc;ng tr&igrave;nh x&acirc;y dựng, lũ trẻ kh&ocirc;ng thể tập trung v&agrave;o b&agrave;i học của ch&uacute;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 37034,
+      "questionNumber": 15,
+      "questionName": "Question 6: ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><u>Because</u> his sickness, <u>he</u> didn&#8217;t <u>take</u> part in the English competition <u>held</u> last Sunday.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 113095,
+          "label": "A",
+          "text": "Because",
+          "isCorrect": true
+        },
+        {
+          "id": 113096,
+          "label": "B",
+          "text": "he",
+          "isCorrect": false
+        },
+        {
+          "id": 113097,
+          "label": "C",
+          "text": "take",
+          "isCorrect": false
+        },
+        {
+          "id": 113098,
+          "label": "D",
+          "text": "held",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 113095,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>\"<strong>his sickness</strong>\" là cụm danh từ.</p>\n<p><strong>because + clause </strong>~ <strong>because of + N/N-phrase/V-ing</strong>: bởi v&igrave;</p>\n<p>Sửa: \"<strong>Because</strong>\" =&gt; \"<strong>Because of</strong>\"</p>\n<p>Dịch: V&igrave; bị ốm, anh ấy đ&atilde; kh&ocirc;ng tham gia cuộc thi tiếng Anh được tổ chức v&agrave;o Chủ nhật tuần trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 272043,
+      "questionNumber": 16,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>We <span style=\"text-decoration: underline;\">should</span> exercise <span style=\"text-decoration: underline;\">regularly</span> in order to <span style=\"text-decoration: underline;\">keeping</span> our bodies <span style=\"text-decoration: underline;\">in shape</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 602362,
+          "label": "A",
+          "text": "should",
+          "isCorrect": false
+        },
+        {
+          "id": 602363,
+          "label": "B",
+          "text": "regularly",
+          "isCorrect": false
+        },
+        {
+          "id": 602364,
+          "label": "C",
+          "text": "keeping",
+          "isCorrect": true
+        },
+        {
+          "id": 602365,
+          "label": "D",
+          "text": "in shape",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 602364,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c chỉ mục đ&iacute;ch: <strong>in order to + V(inf)</strong> (để l&agrave;m g&igrave;)</p>\n<p>Sửa: \"<strong>keeping</strong>\" =&gt; \"<strong>keep</strong>\"</p>\n<p>Dịch: Ch&uacute;ng ta n&ecirc;n tập thể dục thường xuy&ecirc;n để giữ g&igrave;n v&oacute;c d&aacute;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 12827,
+      "questionNumber": 17,
+      "questionName": "Question 46. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>David broke his leg and couldn&#8217;t play in the final.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 42466,
+          "label": "A",
+          "text": "David couldn’t play in the final due to his broken leg.",
+          "isCorrect": true
+        },
+        {
+          "id": 42467,
+          "label": "B",
+          "text": "If David hadn’t broken his leg, he could play in the final now.",
+          "isCorrect": false
+        },
+        {
+          "id": 42468,
+          "label": "C",
+          "text": "If David didn’t break his leg, he could play in the final.",
+          "isCorrect": false
+        },
+        {
+          "id": 42469,
+          "label": "D",
+          "text": "But for his broken leg, David couldn’t have played in the final.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 42466,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span class=\"fontstyle0\"><strong>due to + N/V-ing ~ because of + N/V-ing</strong>: bởi v&igrave;</span></p>\n<p><span class=\"fontstyle0\">but for + N: nếu kh&ocirc;ng c&oacute; .. th&igrave; =&gt; Phương &aacute;n 4 kh&ocirc;ng ph&ugrave; hợp về nghĩa.</span></p>\n<p>C&acirc;u điều kiện loại 3 diễn tả điều kiện kh&ocirc;ng c&oacute; thật trong qu&aacute; khứ.</p>\n<p>Cấu tr&uacute;c: If + S + had + V(pp), S + would/could&hellip;+ have + V(pp).</p>\n<p>Phương &aacute;n 2, 3 d&ugrave;ng sai cấu tr&uacute;c c&acirc;u điều kiện.</p>\n<p><span class=\"fontstyle0\">Dịch: David bị g&atilde;y ch&acirc;n v&agrave; đ&atilde; kh&ocirc;ng thể chơi trận chung kết. </span></p>\n<p><span class=\"fontstyle0\">~ David đ&atilde; kh&ocirc;ng thể chơi trận chung kết bởi c&aacute;i ch&acirc;n g&atilde;y.<br /></span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 627528,
+      "questionNumber": 18,
+      "questionName": "(*) 39",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>It was a fine day so we decided to go on a trip to the countryside.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1207505,
+          "label": "A",
+          "text": "Because it was a fine day, so we decided to go on a trip to the countryside.",
+          "isCorrect": false
+        },
+        {
+          "id": 1207506,
+          "label": "B",
+          "text": "Because it was a fine day, we decided to go on a trip to the countryside.",
+          "isCorrect": true
+        },
+        {
+          "id": 1207507,
+          "label": "C",
+          "text": "Despite it was a fine day, we decided to go on a trip to the countryside.",
+          "isCorrect": false
+        },
+        {
+          "id": 1207508,
+          "label": "D",
+          "text": "Although it was a fine day, we decided to go on a trip to the countryside.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1207506,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">because + clause</span>: bởi v&igrave;</p>\n<p style=\"text-align: justify;\">despite + N/N-phrase/V-ing ~ although + clause: mặc d&ugrave;</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n kh&aacute;c sai v&igrave;:</p>\n<ul>\n<li style=\"text-align: justify;\"><em>Because it was a fine day, <span style=\"text-decoration: line-through;\"><strong>so</strong></span> we decided to go on a trip to the countryside. </em></li>\n<li style=\"text-align: justify;\"><em><span style=\"text-decoration: line-through;\"><strong>Despite</strong></span> it was a fine day, we decided to go on a trip to the countryside.</em></li>\n<li style=\"text-align: justify;\"><em><span style=\"text-decoration: line-through;\"><strong>Although</strong></span> it was a fine day, we decided to go on a trip to the countryside. (\"although\" kh&ocirc;ng thể hiện đ&uacute;ng mối quan hệ nh&acirc;n quả trong c&acirc;u)</em></li>\n</ul>\n<p style=\"text-align: justify;\">Dịch: Đ&oacute; l&agrave; một ng&agrave;y đẹp trời n&ecirc;n ch&uacute;ng t&ocirc;i quyết định đi một chuyến đến v&ugrave;ng n&ocirc;ng th&ocirc;n.</p>\n<p style=\"text-align: justify;\">~ Bởi v&igrave; đ&oacute; l&agrave; một ng&agrave;y đẹp trời, ch&uacute;ng t&ocirc;i quyết định đi một chuyến đến v&ugrave;ng n&ocirc;ng th&ocirc;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 880418,
+      "questionNumber": 19,
+      "questionName": "câu sát gốc",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>He stayed at work late, so he could finish the report before the deadline.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1677251,
+          "label": "A",
+          "text": "He stayed at work late to finishing the report before the deadline.",
+          "isCorrect": false
+        },
+        {
+          "id": 1677252,
+          "label": "B",
+          "text": "He stayed at work late to finish the report before the deadline.",
+          "isCorrect": true
+        },
+        {
+          "id": 1677253,
+          "label": "C",
+          "text": "He stayed at work late finishing the report before the deadline.",
+          "isCorrect": false
+        },
+        {
+          "id": 1677254,
+          "label": "D",
+          "text": "He stayed at work late finish the report before the deadline.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1677252,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>to V(inf)</strong>: đ&ecirc;̉ làm gì</p>\n<p>Các phương án còn lại sai vì:&nbsp;</p>\n<ul>\n<li><em>He stayed at work late to <span style=\"text-decoration: line-through;\"><strong>finishing</strong></span> the report before the deadline.</em></li>\n<li><em>He stayed at work late <span style=\"text-decoration: line-through;\"><strong>finishing</strong></span> the report before the deadline.</em></li>\n<li><em>He stayed at work late <span style=\"text-decoration: line-through;\"><strong>finish</strong></span> the report before the deadline.</em></li>\n</ul>\n<p>Dịch: Anh ấy ở lại l&agrave;m việc muộn, do đó anh &acirc;́y c&oacute; thể ho&agrave;n th&agrave;nh b&aacute;o c&aacute;o trước thời hạn.</p>\n<p>~ Anh ấy ở lại l&agrave;m việc muộn để ho&agrave;n th&agrave;nh b&aacute;o c&aacute;o trước thời hạn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 12454,
+      "questionNumber": 20,
+      "questionName": "Question 48: ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Please arrive early because we want to be able to start our meeting early.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 41094,
+          "label": "A",
+          "text": "Please arrive early so that we can start our meeting early.",
+          "isCorrect": true
+        },
+        {
+          "id": 41095,
+          "label": "B",
+          "text": "Please arrive early so that we were able to start our meeting early.",
+          "isCorrect": false
+        },
+        {
+          "id": 41096,
+          "label": "C",
+          "text": "Please arrive so early that we could be able to start our meeting early.",
+          "isCorrect": false
+        },
+        {
+          "id": 41097,
+          "label": "D",
+          "text": "Please arrived early for us to be able to start our meeting early.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 41094,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>so that + S + V</strong>: để m&agrave; ...</p>\n<p>Mệnh đề \"<strong>we want to be able to start our meeting early</strong>\" ở th&igrave; hiện tại đơn n&ecirc;n mệnh đề sau \"<strong>so that</strong>\" phải chia ở th&igrave; hiện tại đơn.</p>\n<p><em><span class=\"tlid-translation translation\" lang=\"vi\"><span class=\"\" title=\"\">C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:&nbsp;</span></span></em></p>\n<ul>\n<li><em><span class=\"tlid-translation translation\" lang=\"vi\"><span class=\"\" title=\"\">Please arrive early so that we <span style=\"text-decoration: line-through;\"><strong>were</strong></span> able to start our meeting early.</span></span></em></li>\n<li><em><span class=\"tlid-translation translation\" lang=\"vi\"><span class=\"\" title=\"\">Please arrive so early that we <span style=\"text-decoration: line-through;\"><strong>could</strong></span> be able to start our meeting early.</span></span></em></li>\n<li><em><span class=\"tlid-translation translation\" lang=\"vi\"><span class=\"\" title=\"\">Please <span style=\"text-decoration: line-through;\"><strong>arrived</strong></span> early for us to be able to start our meeting early.</span></span></em></li>\n</ul>\n<p><span class=\"fontstyle0\">Dịch: Vui l&ograve;ng đến sớm v&igrave; ch&uacute;ng t&ocirc;i muốn c&oacute; thể bắt đầu cuộc họp sớm.</span></p>\n<p><span class=\"fontstyle0\">~ </span><span class=\"tlid-translation translation\" lang=\"vi\"><span class=\"\" title=\"\">Vui l&ograve;ng đến sớm để ch&uacute;ng t&ocirc;i c&oacute; thể bắt đầu cuộc họp sớm.</span></span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 227167,
+      "questionNumber": 21,
+      "questionName": "as a result of",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning as the first.</em></p>\n<p><strong>Many people lost their jobs due to the Covid-19 pandemic.</strong></p>\n<p><strong>=&gt; As a ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "As a result of the Covid-19 pandemic, many people lost their jobs.",
+        "As a result of the Covid-19 pandemic many people lost their jobs."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>as a result of sth </strong>~ <strong>due to + N-phrase/V-ing</strong>: bởi v&igrave;, do&nbsp;</p>\n<p>Dịch: Rất nhiều người đ&atilde; mất việc do đại dịch Covid-19.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 163639,
+      "questionNumber": 22,
+      "questionName": "a",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning as the first.</em></p>\n<p><strong>The singer became famous when he married a princess.&nbsp;</strong></p>\n<p><strong>=&gt; Because the singer ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Because the singer married a princess, he became famous."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>because + clause, clause:</strong> bởi v&igrave;</p>\n<p>Dịch: Nam ca sĩ đ&oacute; trở n&ecirc;n nổi tiếng khi anh ấy kết h&ocirc;n với một c&ocirc;ng ch&uacute;a.</p>\n<p>~ V&igrave; nam ca sĩ đ&oacute; kết h&ocirc;n với một c&ocirc;ng ch&uacute;a, anh ấy trở n&ecirc;n nổi tiếng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 149956,
+      "questionNumber": 23,
+      "questionName": "3",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning as the first.</em></p>\n<p><strong>He felt very miserable, so he looked for someone to share his life with.</strong></p>\n<p><strong>=&gt; He looked ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "He looked for someone to share his life with because he felt very miserable.",
+        "He looked for someone to share his life with because of his miserable feeling."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>because/since/as + clause </strong>~ <strong>because of + N/V-ing</strong>: bởi v&igrave;</p>\n<p>Dịch: Anh ấy cảm thấy rất đau khổ, v&igrave; vậy anh ấy đ&atilde; t&igrave;m một ai đ&oacute; để chia sẻ cuộc sống.</p>\n<p>~ Anh ấy đ&atilde; t&igrave;m một ai đ&oacute; để chia sẻ cuộc sống v&igrave; anh ấy cảm thấy rất đau khổ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 153501,
+      "questionNumber": 24,
+      "questionName": "She studied hard.",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning as the first.</em></p>\n<p><strong>She studied hard, then she didn't fail the exam. </strong></p>\n<p><strong>=&gt; So as ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "So as not to fail the exam, she studied hard.",
+        "So as to pass the exam, she studied hard."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>so as (not) to + V(inf)</strong>: để (kh&ocirc;ng) l&agrave;m g&igrave;</p>\n<p>Dịch: C&ocirc; ấy đ&atilde; học chăm chỉ, sau đ&oacute; c&ocirc; ấy đ&atilde; kh&ocirc;ng trượt k&igrave; thi.</p>\n<p>~ Để kh&ocirc;ng trượt k&igrave; thi, c&ocirc; ấy đ&atilde; học chăm chỉ.</p>\n<p>~ Để qua k&igrave; thi, c&ocirc; ấy đ&atilde; học chăm chỉ.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 904382,
+      "questionNumber": 25,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Drag and drop to complete the text.&nbsp;</strong></p>\n<p style=\"text-align: justify;\">Due<strong> <span class='fillblank-option'><label>25.1</label><input id='fbo-904382-0' class='ms fillblank-option-25' index='0' name='fbo-904382-0' type='text' size='6' autocomplete='off' data-testid='fillblank-input-904382-0' /></span></strong> the heavy rain, the outdoor concert had to be postponed.<strong> <span class='fillblank-option'><label>25.2</label><input id='fbo-904382-1' class='ms fillblank-option-25' index='1' name='fbo-904382-1' type='text' size='3' autocomplete='off' data-testid='fillblank-input-904382-1' /></span> </strong>a result of the bad weather, many people decided to leave early. The organizers had planned the event months in advance, but <strong><span class='fillblank-option'><label>25.3</label><input id='fbo-904382-2' class='ms fillblank-option-25' index='2' name='fbo-904382-2' type='text' size='12' autocomplete='off' data-testid='fillblank-input-904382-2' /></span></strong>&nbsp;unforeseen circumstances, they had no choice but to reschedule it. <strong><span class='fillblank-option'><label>25.4</label><input id='fbo-904382-3' class='ms fillblank-option-25' index='3' name='fbo-904382-3' type='text' size='9' autocomplete='off' data-testid='fillblank-input-904382-3' /></span></strong> the fact that the tickets were non-refundable, they promised to bring attendees on the new date more benefits. This decision was made <strong><span class='fillblank-option'><label>25.5</label><input id='fbo-904382-4' class='ms fillblank-option-25' index='4' name='fbo-904382-4' type='text' size='11' autocomplete='off' data-testid='fillblank-input-904382-4' /></span></strong> everyone would have the chance to enjoy the event under better conditions. <strong><span class='fillblank-option'><label>25.6</label><input id='fbo-904382-5' class='ms fillblank-option-25' index='5' name='fbo-904382-5' type='text' size='12' autocomplete='off' data-testid='fillblank-input-904382-5' /></span></strong>&nbsp;the situation was disappointing, the team acted quickly to minimize inconvenience. In the end,<strong> </strong>because of their prompt response, most attendees were satisfied with the solution.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1738807,
+          "label": "A",
+          "text": "because of",
+          "isCorrect": false
+        },
+        {
+          "id": 1738808,
+          "label": "B",
+          "text": "Owing to",
+          "isCorrect": false
+        },
+        {
+          "id": 1738810,
+          "label": "C",
+          "text": "Although",
+          "isCorrect": false
+        },
+        {
+          "id": 1738805,
+          "label": "D",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 1738806,
+          "label": "E",
+          "text": "As",
+          "isCorrect": false
+        },
+        {
+          "id": 1738809,
+          "label": "F",
+          "text": "so that",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "to"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "As"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "because of"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "Owing to"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "so that"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "Although"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. <strong>due to + N-phrase/V-ing</strong>: bởi v&igrave;, do</p>\n<p>2. <strong>as a result of sth</strong>: v&igrave; nguy&ecirc;n do g&igrave;</p>\n<p>3. <strong>because of + N-phrase/ V-ing</strong>: bởi v&igrave;&nbsp;</p>\n<p>4. <strong>owing to + N-phrase/ V-ing</strong>: bởi v&igrave;&nbsp;</p>\n<p>5.<strong> so that + clause</strong>: để m&agrave;</p>\n<p>6. <strong>although + clause</strong>: mặc d&ugrave;&nbsp;</p>\n<p>Dịch:&nbsp;</p>\n<p style=\"text-align: justify;\">Do cơn mưa lớn, buổi h&ograve;a nhạc ngo&agrave;i trời đ&atilde; phải ho&atilde;n lại. V&igrave; l&iacute; do thời tiết xấu, nhiều người quyết định rời đi sớm. Ban tổ chức đ&atilde; l&ecirc;n kế hoạch cho sự kiện từ nhiều th&aacute;ng trước, nhưng do t&igrave;nh huống kh&ocirc;ng lường trước n&agrave;y, họ kh&ocirc;ng c&oacute; sự lựa chọn n&agrave;o kh&aacute;c ngo&agrave;i việc l&ecirc;n lịch lại. Do v&eacute; kh&ocirc;ng được ho&agrave;n lại n&ecirc;n họ hứa sẽ mang đến cho những người tham dự v&agrave;o ng&agrave;y mới nhiều quyền lợi hơn. Quyết định n&agrave;y được đưa ra để mọi người c&oacute; cơ hội thưởng thức sự kiện trong điều kiện tốt hơn. Mặc d&ugrave; t&igrave;nh huống n&agrave;y thật đ&aacute;ng thất vọng, ban tổ chức đ&atilde; h&agrave;nh động nhanh ch&oacute;ng để giảm thiểu sự bất tiện. Cuối c&ugrave;ng, nhờ phản ứng nhanh ch&oacute;ng của họ, hầu hết người tham dự đều h&agrave;i l&ograve;ng với giải ph&aacute;p.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 280852,
+      "questionNumber": 26,
+      "questionName": "SBT 9 U1.B.5.3",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence using the word given so that it has&nbsp;the same meaning to the first.</em></p>\n<p><strong>We have to follow more than ten stages. We can make a simple conical hat. (SO THAT)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "We have to follow more than ten stages so that we can make a simple conical hat."
+      ],
+      "hint": "",
+      "explanation": "<p class=\"BodyText31\"><strong>so that</strong> (conj.): để m&agrave;</p>\n<p class=\"BodyText31\">Dịch: Ch&uacute;ng ta phải l&agrave;m theo hơn 10 bước. Ch&uacute;ng ta c&oacute; thể l&agrave;m một chiếc n&oacute;n l&aacute; đơn giản.</p>\n<p class=\"BodyText31\">~ Ch&uacute;ng ta phải l&agrave;m theo nhiều hơn 10 bước để c&oacute; thể l&agrave;m được một chiếc n&oacute;n l&aacute; đơn giản.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 280853,
+      "questionNumber": 27,
+      "questionName": "SBT 9 U1.B.5.4",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Make a complex sentence from each pair of sentences. Use the word provided in brackets and make any necessary changes.</em></p>\n<p><strong>Sinh paintings are special. They are burned after worship. (SINCE)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Sinh paintings are special since they are burned after worship.",
+        "Since they are burned after worship, Sinh paintings are special.",
+        "Since Sinh paintings are burned after worship, they are special."
+      ],
+      "hint": "",
+      "explanation": "<p class=\"BodyText31\"><strong>since</strong> (conj.): bởi v&igrave;</p>\n<p class=\"BodyText31\">Dịch: Tranh S&igrave;nh thật đặc biệt. Ch&uacute;ng được đốt đi sau khi thờ c&uacute;ng.</p>\n<p class=\"BodyText31\">~ Tranh S&igrave;nh rất đặc biệt bởi ch&uacute;ng được đốt đi sau khi thờ c&uacute;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

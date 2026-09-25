@@ -1,0 +1,1151 @@
+{
+  "quizId": 16149,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 37: Nouns/Verbs/Adjectives followed by preposition (Danh từ/Động từ/Tính từ + Giới từ)",
+  "totalQuestions": 32,
+  "questions": [
+    {
+      "id": 903082,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "TrueFalse",
+      "questionText": "<p><em>C&#226;u sau &#272;&#250;ng hay Sai.</em></p>\n<p><strong>M&#7897;t t&#237;nh t&#7915;, danh t&#7915; ho&#7863;c &#273;&#7897;ng t&#7915; ch&#7881; c&#243; th&#7875; &#273;i v&#7899;i m&#7897;t gi&#7899;i t&#7915;.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715804,
+          "label": "A",
+          "text": "Đúng",
+          "isCorrect": false
+        },
+        {
+          "id": 1715805,
+          "label": "B",
+          "text": "Sai",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1715805,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/8_431ff3df.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 903090,
+      "questionNumber": 2,
+      "questionName": "1",
+      "questionType": "TrueFalse",
+      "questionText": "<p><em>C&#226;u sau &#272;&#250;ng hay Sai.</em></p>\n<p><strong>M&#7897;t s&#7889; gi&#7899;i t&#7915; c&#243; th&#7875; &#273;i sau &#273;&#7897;ng t&#7915; ho&#7863;c &#273;&#7897;ng t&#7915; + t&#226;n ng&#7919;.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715825,
+          "label": "A",
+          "text": "Đúng",
+          "isCorrect": true
+        },
+        {
+          "id": 1715826,
+          "label": "B",
+          "text": "Sai",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1715825,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/7_a398a99a.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 903097,
+      "questionNumber": 3,
+      "questionName": "3",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>C&#225;ch d&#249;ng n&#224;o t&#432;&#417;ng &#432;&#769;ng v&#417;&#769;i c&#225;ch d&#249;ng &#273;&#250;ng c&#7911;a ph&#226;&#768;n in nghi&#234;ng trong m&#244;&#771;i c&#226;u?</strong></p>\n<p>1. American English is significantly <em><strong>different from</strong></em> British English. <span class='fillblank-option'><label>3.1</label><input id='fbo-903097-0' class='ms fillblank-option-3' index='0' name='fbo-903097-0' type='text' size='20' autocomplete='off' data-testid='fillblank-input-903097-0' /></span></p>\n<p>2. The company has achieved considerable <em><strong>success in</strong></em> this market. <span class='fillblank-option'><label>3.2</label><input id='fbo-903097-1' class='ms fillblank-option-3' index='1' name='fbo-903097-1' type='text' size='20' autocomplete='off' data-testid='fillblank-input-903097-1' /></span></p>\n<p>3. The meal <em><strong>consisted of</strong></em> a number of delicious Indian dishes. <span class='fillblank-option'><label>3.3</label><input id='fbo-903097-2' class='ms fillblank-option-3' index='2' name='fbo-903097-2' type='text' size='18' autocomplete='off' data-testid='fillblank-input-903097-2' /></span></p>\n<p>4. In his speech, he <em><strong>thanked everyone for</strong></em> their hard work. <span class='fillblank-option'><label>3.4</label><input id='fbo-903097-3' class='ms fillblank-option-3' index='3' name='fbo-903097-3' type='text' size='31' autocomplete='off' data-testid='fillblank-input-903097-3' /></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1738583,
+          "label": "A",
+          "text": "danh từ + giới từ",
+          "isCorrect": false
+        },
+        {
+          "id": 1738582,
+          "label": "B",
+          "text": "tính từ + giới từ",
+          "isCorrect": false
+        },
+        {
+          "id": 1738585,
+          "label": "C",
+          "text": "động từ + tân ngữ + giới từ",
+          "isCorrect": false
+        },
+        {
+          "id": 1738584,
+          "label": "D",
+          "text": "động từ + giới từ",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "tính từ + giới từ"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "danh từ + giới từ"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "động từ + giới từ"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "động từ + tân ngữ + giới từ"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. <strong>different (+ from)</strong> (adj.): kh&aacute;c (với)</p>\n<p>Dịch: Tiếng Anh Mỹ kh&aacute;c biệt đ&aacute;ng kể so với tiếng Anh Anh.</p>\n<p>2. <strong>success (+ in)</strong> (n.): th&agrave;nh c&ocirc;ng (trong việc g&igrave;)</p>\n<p>Dịch: C&ocirc;ng ty đ&atilde; đạt được th&agrave;nh c&ocirc;ng đ&aacute;ng kể trong thị trường n&agrave;y.</p>\n<p>3. <strong>consist (+ of) </strong>(v.): bao gồm&nbsp;</p>\n<p>Dịch: Bữa ăn bao gồm một số m&oacute;n ăn Ấn Độ ngon.</p>\n<p>4. <strong>thank (+ sb + for)</strong> (v.): cảm ơn (ai v&igrave;)</p>\n<p>\"<strong>everyone</strong>\" đ&oacute;ng vai tr&ograve; l&agrave;m t&acirc;n ngữ trong c&acirc;u.</p>\n<p>Dịch: Trong b&agrave;i ph&aacute;t biểu của m&igrave;nh, &ocirc;ng ấy cảm ơn mọi người v&igrave; đ&atilde; l&agrave;m việc chăm chỉ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 52195,
+      "questionNumber": 4,
+      "questionName": "Question 42:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He is not very good _____ mathematics and neither is his brother.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 147319,
+          "label": "A",
+          "text": "on",
+          "isCorrect": false
+        },
+        {
+          "id": 147320,
+          "label": "B",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 147321,
+          "label": "C",
+          "text": "at",
+          "isCorrect": true
+        },
+        {
+          "id": 147322,
+          "label": "D",
+          "text": "in",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 147321,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Đây là một câu hỏi kiểm tra cụm tính từ + giới từ cố định. Hãy nhớ lại rằng khi muốn diễn tả ai đó \"giỏi về\" hoặc \"có năng khiếu về\" một môn học, một kỹ năng hay một hoạt động, chúng ta thường dùng ''<em>good</em>'' với giới từ nào?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cụm tính từ + giới từ cố định</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Cụm tính từ cố định <em>good at</em> có nghĩa là \"giỏi về, có năng khiếu về\" một kỹ năng, môn học hoặc hoạt động nào đó.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, ngữ cảnh yêu cầu một giới từ đi kèm với tính từ <em>good</em> để diễn tả sự giỏi/kém về môn học <em>mathematics</em>. Cụm từ cố định chính xác để diễn đạt ý này là <em>good at</em>.</p>\n<p style=\"text-align: justify;\">Các giới từ <em>on, for, in</em> không phù hợp trong ngữ cảnh này. <em>Good for</em> thường mang nghĩa \"tốt cho\" (sức khỏe, lợi ích), còn <em>good in</em> ít phổ biến hơn và thường dùng trong các ngữ cảnh khác (ví dụ: <em>good in a crisis</em>).</p>",
+      "answerFeedbacks": {
+        "147319": "Sai vì giới từ <em>on</em> không kết hợp với tính từ <em>good</em> để diễn tả sự giỏi về một môn học hay kỹ năng.",
+        "147320": "Sai vì giới từ <em>for</em> khi đi với tính từ <em>good</em> thường mang nghĩa \"tốt cho (sức khỏe/lợi ích)\" hoặc \"phù hợp cho\".",
+        "147321": "Đúng vì cụm từ cố định <em>good at</em> được dùng để diễn tả việc giỏi, có năng khiếu hoặc thành thạo về một kỹ năng, môn học hoặc hoạt động nào đó.",
+        "147322": "Sai vì mặc dù <em>good in</em> có thể được dùng trong một số ngữ cảnh (ví dụ: giỏi trong một lĩnh vực cụ thể, giỏi trong một tình huống), nhưng <em>good at</em> là cách diễn đạt chuẩn và phổ biến nhất cho việc giỏi về một môn học."
+      },
+      "images": []
+    },
+    {
+      "id": 172831,
+      "questionNumber": 5,
+      "questionName": "Question 20:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Jenny reminds me _____ that famous actress we saw on television last night. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 398106,
+          "label": "A",
+          "text": "about",
+          "isCorrect": false
+        },
+        {
+          "id": 398107,
+          "label": "B",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 398108,
+          "label": "C",
+          "text": "of",
+          "isCorrect": true
+        },
+        {
+          "id": 398109,
+          "label": "D",
+          "text": "with",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 398108,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Đây là một câu hỏi về cụm động từ cố định (collocation) đi kèm với giới từ. Hãy nhớ rằng động từ \"<em>remind</em>\" có thể đi với nhiều giới từ khác nhau, mỗi giới từ mang một ý nghĩa riêng biệt.</p>\n<p>Câu hỏi này đang muốn diễn đạt ý \"gợi nhớ\" ai đó về một người khác.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cụm động từ + giới từ cố định</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Cụm động từ cố định <strong>remind someone of something/someone</strong> có nghĩa là \"gợi nhớ ai đó về điều gì/ai đó\". Cụm từ này được dùng khi một người hoặc vật làm ta nhớ đến một người hoặc vật khác.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Ngữ cảnh câu diễn đạt ý Jenny làm người nói \"gợi nhớ\" về nữ diễn viên. Để diễn tả ý \"gợi nhớ ai đó về điều gì/ai đó\", chúng ta sử dụng cấu trúc cố định <em>remind someone of something/someone</em>. Do đó, giới từ \"of\" là lựa chọn chính xác.</p>\n<p style=\"text-align: justify;\">Các giới từ khác như \"<em>about</em>\" hoặc \"<em>to</em>\" cũng có thể đi với động từ <em>remind</em> nhưng mang nghĩa khác, ''<em>remind someone about something''</em> (nhắc nhở ai đó về một sự kiện/thông tin) và ''<em>remind someone to do something''</em> (nhắc nhở ai đó làm gì). Giới từ \"<em>with</em>\" không tạo thành cụm cố định có nghĩa trong ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "398106": "Sai vì <em>remind someone about something</em> có nghĩa là \"nhắc nhở ai đó về một sự kiện hoặc thông tin\", không phải \"gợi nhớ\".",
+        "398107": "Sai vì <em>remind someone to do something</em> có nghĩa là \"nhắc nhở ai đó làm gì\", không phù hợp với ngữ cảnh gợi nhớ một người.",
+        "398108": "Đúng vì cấu trúc <em>remind someone of something/someone</em> có nghĩa là \"gợi nhớ ai đó về điều gì/ai đó\", phù hợp với ngữ cảnh câu.",
+        "398109": "Sai vì <em>remind with</em> không phải là cấu trúc giới từ cố định phổ biến với động từ <em>remind</em> để diễn đạt ý nghĩa \"gợi nhớ\"."
+      },
+      "images": []
+    },
+    {
+      "id": 63052,
+      "questionNumber": 6,
+      "questionName": "Question 8:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Phu Tho province is famous _____ Xoan Singing, Hung King Temple and Au Co Temple.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 169121,
+          "label": "A",
+          "text": "on",
+          "isCorrect": false
+        },
+        {
+          "id": 169122,
+          "label": "B",
+          "text": "of",
+          "isCorrect": false
+        },
+        {
+          "id": 169123,
+          "label": "C",
+          "text": "for",
+          "isCorrect": true
+        },
+        {
+          "id": 169124,
+          "label": "D",
+          "text": "off",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 169123,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>be famous for sth</strong>: nổi tiếng về c&aacute;i g&igrave;</p>\n<p>Dịch: Tỉnh Ph&uacute; Thọ nổi tiếng với H&aacute;t Xoan, Đền thờ Vua H&ugrave;ng v&agrave; Đền Mẫu &Acirc;u Cơ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 134821,
+      "questionNumber": 7,
+      "questionName": "Q31",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>John would like to specialize _____ computer science.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 317333,
+          "label": "A",
+          "text": "of",
+          "isCorrect": false
+        },
+        {
+          "id": 317334,
+          "label": "B",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 317335,
+          "label": "C",
+          "text": "in",
+          "isCorrect": true
+        },
+        {
+          "id": 317336,
+          "label": "D",
+          "text": "at",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 317335,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đ&uacute;ng giới từ, h&atilde;y nhớ rằng một số động từ kết hợp với giới từ cụ thể để tạo th&agrave;nh cụm từ cố định. Với động từ <em>\"specialize\"</em>, bạn cần t&igrave;m giới từ đi k&egrave;m để diễn đạt &yacute; nghĩa <em>\"chuy&ecirc;n về một lĩnh vực\".</em></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cụm động từ + giới từ cố định</span>.</p><blockquote style=\"margin-left: 0px;\"><p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Động từ <em>specialize</em> thường đi kèm với giới từ <em>in</em> để diễn tả việc ai đó tập trung vào hoặc trở thành chuyên gia trong một lĩnh vực cụ thể.</p></blockquote><p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p><p style=\"text-align: justify;\">Trong câu <em>\"John would like to specialize _____ computer science.\"</em>, động từ <em>specialize</em> cần một giới từ theo sau để chỉ lĩnh vực mà John muốn chuyên sâu. Cụm từ cố định <em>\"specialize in\"</em> (chuyên về, chuyên ngành) là lựa chọn chính xác nhất để hoàn thành ý nghĩa này.</p><p style=\"text-align: justify;\">Các giới từ <em>\"of\"</em>, <em>\"to\"</em>, <em>\"at\"</em> không tạo thành cụm từ cố định có nghĩa phù hợp với <em>specialize</em> trong ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "317333": "Giới từ <em>\"of\"</em> không tạo thành cụm từ cố định có nghĩa \"chuyên về một lĩnh vực\" với động từ <em>specialize</em>.",
+        "317334": "Giới từ <em>\"to\"</em> không được sử dụng với động từ <em>specialize</em> để chỉ lĩnh vực chuyên môn.",
+        "317335": "Giới từ <em>\"in\"</em> là đúng vì <em>\"specialize in\"</em> là cụm động từ cố định có nghĩa là \"chuyên về một lĩnh vực\".",
+        "317336": "Giới từ <em>\"at\"</em> không kết hợp với <em>specialize</em> để diễn đạt ý nghĩa chuyên môn trong một lĩnh vực."
+      },
+      "images": []
+    },
+    {
+      "id": 78945,
+      "questionNumber": 8,
+      "questionName": "Question 5:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Congratulations you _____ getting into the final!</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 195786,
+          "label": "A",
+          "text": "on",
+          "isCorrect": true
+        },
+        {
+          "id": 195787,
+          "label": "B",
+          "text": "with",
+          "isCorrect": false
+        },
+        {
+          "id": 195788,
+          "label": "C",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 195789,
+          "label": "D",
+          "text": "by",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 195786,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>congratulate sb on sth/V-ing</strong>: ch&uacute;c mừng ai về c&aacute;i g&igrave;</p>\n<p>Dịch: Xin ch&uacute;c mừng bạn đ&atilde; v&agrave;o chung kết!</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 11795,
+      "questionNumber": 9,
+      "questionName": "Question 1039.",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>It is of great importance to create a good impression ­_____ your interviewer.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 38617,
+          "label": "A",
+          "text": "on",
+          "isCorrect": true
+        },
+        {
+          "id": 38618,
+          "label": "B",
+          "text": "about",
+          "isCorrect": false
+        },
+        {
+          "id": 38619,
+          "label": "C",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 38620,
+          "label": "D",
+          "text": "at",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 38617,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Trong tiếng Anh, một số danh từ và động từ thường đi kèm với các giới từ cố định để tạo thành cụm từ có nghĩa cụ thể. Hãy nhớ lại giới từ nào được dùng với cấu trúc <em>'create/make an impression + adj. + someone'</em> để diễn đạt ý <em>'tạo ấn tượng với ai đó'</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cụm động từ cố định</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Cụm từ <em>\"create an impression on someone\"</em> có nghĩa là tạo ra một cảm nhận hoặc ảnh hưởng cụ thể trong tâm trí người khác. Cụm từ này thường được dùng khi nói về việc tạo ấn tượng ban đầu, đặc biệt trong các tình huống như phỏng vấn hoặc gặp gỡ quan trọng.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, ngữ cảnh yêu cầu một giới từ đi kèm với danh từ <em>\"impression\"</em> để chỉ đối tượng mà ấn tượng đó được tạo ra. Cụm động từ cố định chính xác để diễn đạt ý <em>\"tạo ấn tượng với ai đó\"</em> là <em>\"create an impression on someone\"</em>. Do đó, giới từ <em>\"on\"</em> là lựa chọn phù hợp nhất để hoàn thành câu.</p>\n<p style=\"text-align: justify;\">Các phương án khác đều không phù hợp để đi kèm với danh từ <em>\"impression\" </em>trong ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "38617": "Đúng vì <em>\"create an impression on someone\"</em> là cụm từ cố định có nghĩa là tạo ấn tượng với ai đó.",
+        "38618": "Sai vì <em>\"about\"</em> thường dùng để chỉ chủ đề hoặc nội dung (ví dụ: <em>\"talk about\"</em>), không dùng để chỉ đối tượng nhận ấn tượng.",
+        "38619": "Sai vì <em>\"for\"</em> thường chỉ mục đích hoặc lợi ích (ví dụ: <em>\"do something for someone\"</em>), không phù hợp trong ngữ cảnh này.",
+        "38620": "Sai vì <em>\"at\"</em> thường chỉ địa điểm hoặc thời điểm cụ thể (ví dụ: <em>\"look at\"</em>), không dùng với <em>\"impression\"</em> để chỉ người nhận ấn tượng."
+      },
+      "images": []
+    },
+    {
+      "id": 58898,
+      "questionNumber": 10,
+      "questionName": "Question 10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The brochure will supply more information _____ the available courses.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 159905,
+          "label": "A",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 159906,
+          "label": "B",
+          "text": "about",
+          "isCorrect": true
+        },
+        {
+          "id": 159907,
+          "label": "C",
+          "text": "of",
+          "isCorrect": false
+        },
+        {
+          "id": 159908,
+          "label": "D",
+          "text": "with",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 159906,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>information about sth</strong>: th&ocirc;ng tin về c&aacute;i g&igrave;</p>\n<p>Dịch: Tờ rơi sẽ cung cấp th&ecirc;m th&ocirc;ng tin về c&aacute;c kh&oacute;a học c&oacute; sẵn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 45809,
+      "questionNumber": 11,
+      "questionName": "Q15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">He</span> apologized <span style=\"text-decoration: underline;\">with</span> me <span style=\"text-decoration: underline;\">for</span> arriving <span style=\"text-decoration: underline;\">late</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 133110,
+          "label": "A",
+          "text": "He",
+          "isCorrect": false
+        },
+        {
+          "id": 133111,
+          "label": "B",
+          "text": "with",
+          "isCorrect": true
+        },
+        {
+          "id": 133112,
+          "label": "C",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 133113,
+          "label": "D",
+          "text": "late",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 133111,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>apologize + to sb + for sth/doing sth</strong>: xin lỗi ai v&igrave; điều g&igrave;</p>\n<p>Sửa: \"<strong>with</strong>\" =&gt; \"<strong>to</strong>\"</p>\n<p>Dịch: Anh ấy đ&atilde; xin lỗi t&ocirc;i v&igrave; đến muộn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 699307,
+      "questionNumber": 12,
+      "questionName": "Question 2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>You don't <span style=\"text-decoration: underline;\">need to</span> worry <span style=\"text-decoration: underline;\">of</span> the test; <span style=\"text-decoration: underline;\">it's</span> just a <span style=\"text-decoration: underline;\">practice</span> quiz.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1354264,
+          "label": "A",
+          "text": "need to",
+          "isCorrect": false
+        },
+        {
+          "id": 1354265,
+          "label": "B",
+          "text": "of",
+          "isCorrect": true
+        },
+        {
+          "id": 1354266,
+          "label": "C",
+          "text": "it's",
+          "isCorrect": false
+        },
+        {
+          "id": 1354267,
+          "label": "D",
+          "text": "practice",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1354265,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><strong>worry about sth</strong>: lo lắng về c&aacute;i g&igrave;</p>\n<p style=\"text-align: justify;\">Sửa: \"<strong>of</strong>\" =&gt; \"<strong>about</strong>\"&nbsp;</p>\n<p style=\"text-align: justify;\">Dịch: Bạn kh&ocirc;ng cần phải lo lắng về b&agrave;i kiểm tra; n&oacute; chỉ l&agrave; một b&agrave;i luyện tập th&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 179713,
+      "questionNumber": 13,
+      "questionName": "Question 17:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><u>Teenagers</u> nowadays <u>don&#8217;t</u> want to depend <u>in</u> their <u>parents</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 412743,
+          "label": "A",
+          "text": "Teenagers",
+          "isCorrect": false
+        },
+        {
+          "id": 412744,
+          "label": "B",
+          "text": "don’t",
+          "isCorrect": false
+        },
+        {
+          "id": 412745,
+          "label": "C",
+          "text": "in",
+          "isCorrect": true
+        },
+        {
+          "id": 412746,
+          "label": "D",
+          "text": "parents",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 412745,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>depend on sb/sth</strong>: phụ thuộc v&agrave;o ai/c&aacute;i g&igrave;</p>\n<p>Sửa: \"<strong>in</strong>\" =&gt; \"<strong>on</strong>\"</p>\n<p>Dịch: Thanh thiếu ni&ecirc;n ng&agrave;y nay kh&ocirc;ng muốn phụ thuộc v&agrave;o bố mẹ họ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 448863,
+      "questionNumber": 14,
+      "questionName": "Q19",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">Thick fog</span> in Hanoi <span style=\"text-decoration: underline;\">prevented</span> truck drivers <span style=\"text-decoration: underline;\">in</span> driving <span style=\"text-decoration: underline;\">safely</span> at night.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 899337,
+          "label": "A",
+          "text": "thick fog",
+          "isCorrect": false
+        },
+        {
+          "id": 899338,
+          "label": "B",
+          "text": "prevented",
+          "isCorrect": false
+        },
+        {
+          "id": 899339,
+          "label": "C",
+          "text": "in",
+          "isCorrect": true
+        },
+        {
+          "id": 899340,
+          "label": "D",
+          "text": "safely",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 899339,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>prevent sb from doing sth</strong>: ngăn, cản trở ai l&agrave;m g&igrave;</p>\n<p>Sửa: \"<strong>in</strong>\" =&gt; \"<strong>from</strong>\"</p>\n<p>Dịch: Sương m&ugrave; d&agrave;y đặc ở H&agrave; Nội đ&atilde; cản trở việc l&aacute;i xe an to&agrave;n v&agrave;o ban đ&ecirc;m của c&aacute;c t&agrave;i xế xe tải.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 43967,
+      "questionNumber": 15,
+      "questionName": "Question 12:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">Many students</span> <span style=\"text-decoration: underline;\">aren't</span> keen <span style=\"text-decoration: underline;\">about</span> <span style=\"text-decoration: underline;\">their study</span> at school.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 127546,
+          "label": "A",
+          "text": "Many students",
+          "isCorrect": false
+        },
+        {
+          "id": 127547,
+          "label": "B",
+          "text": "aren’t",
+          "isCorrect": false
+        },
+        {
+          "id": 127548,
+          "label": "C",
+          "text": "about",
+          "isCorrect": true
+        },
+        {
+          "id": 127549,
+          "label": "D",
+          "text": "their study",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 127548,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\"><li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra sự hòa hợp giữa chủ ngữ số nhiều <em>\"Many students\"</em> và động từ <em>\"aren't\"</em>.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Xác định cấu trúc của tính từ <em>\"keen\"</em> khi diễn tả sự yêu thích hoặc nhiệt tình.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Đảm bảo đại từ sở hữu <em>\"their\"</em> phù hợp với chủ ngữ <em>\"students\"</em>.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra danh từ <em>\"study\"</em> xem có được dùng đúng ngữ cảnh không.</li></ul><p style=\"text-align: justify;\">Đối chiếu từng quy tắc với câu gốc để tìm ra phần cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cụm tính từ + giới từ cố định</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> <em>\"Keen on something/doing something\"</em> là một cụm tính từ cố định diễn tả sự yêu thích, say mê, hoặc nhiệt tình đối với một điều gì đó hoặc một hoạt động nào đó.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, tính từ <em>\"keen\"</em> được dùng để diễn tả sự yêu thích, say mê. Theo quy tắc, tính từ <em>\"keen\"</em> phải đi với giới từ <em>\"on\"</em> để tạo thành cụm cố định <em>\"keen on\"</em>, chứ không phải <em>\"keen about\"</em>.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>about</strong></em>\" =&gt; \"<em><strong>on</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "127546": "Cụm danh từ <em>\"Many students\"</em> là chủ ngữ hợp lệ và đúng ngữ pháp trong câu.",
+        "127547": "Động từ <em>\"aren't\"</em> (are not) được chia đúng thì hiện tại đơn và hòa hợp với chủ ngữ số nhiều <em>\"Many students\"</em>.",
+        "127548": "Giới từ <em>\"about\"</em> được dùng sai sau tính từ <em>\"keen\"</em>; đúng phải là <em>\"on\"</em>.",
+        "127549": "Cụm danh từ <em>\"their study\"</em> là tân ngữ của giới từ và được dùng đúng ngữ pháp trong ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 668198,
+      "questionNumber": 16,
+      "questionName": "Question 43:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>My <span style=\"text-decoration: underline;\">little</span> brother is crazy <span style=\"text-decoration: underline;\">at</span> dinosaurs and can <span style=\"text-decoration: underline;\">name</span> <span style=\"text-decoration: underline;\">all</span> of them.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1287693,
+          "label": "A",
+          "text": "little",
+          "isCorrect": false
+        },
+        {
+          "id": 1287694,
+          "label": "B",
+          "text": "at",
+          "isCorrect": true
+        },
+        {
+          "id": 1287695,
+          "label": "C",
+          "text": "name",
+          "isCorrect": false
+        },
+        {
+          "id": 1287696,
+          "label": "D",
+          "text": "all",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1287694,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\"><li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét vai trò của tính từ <em>\"little\"</em> và liệu nó có phù hợp để bổ nghĩa cho danh từ <em>\"brother\"</em> không.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra giới từ đi kèm với tính từ <em>\"crazy\"</em> khi muốn diễn tả sự yêu thích, đam mê.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Đánh giá việc sử dụng động từ <em>\"name\"</em> trong ngữ cảnh <em>\"can name all of them\"</em>.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Nghiên cứu cách sử dụng lượng từ <em>\"all\"</em> khi muốn đề cập đến toàn bộ một nhóm đối tượng.</li></ul><p style=\"text-align: justify;\">Đối chiếu từng quy tắc với câu gốc để xác định phần nào cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cụm tính từ + giới từ cố định</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Cụm tính từ <em>\"crazy about\"</em> được dùng để diễn tả sự yêu thích, say mê mãnh liệt đối với một người, một vật, hoặc một hoạt động.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, cụm từ <em>\"crazy at dinosaurs\"</em> được dùng để diễn tả sự yêu thích khủng long. Tuy nhiên, giới từ <em>\"at\"</em> không đi với tính từ <em>\"crazy\"</em> trong ngữ cảnh này. Để diễn tả sự yêu thích, say mê, ta phải sử dụng giới từ <em>\"about\"</em> sau tính từ <em>\"crazy\"</em>.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>at</strong></em>\" =&gt; \"<em><strong>about</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "1287693": "Tính từ <em>\"little\"</em> (nhỏ bé, bé bỏng) bổ nghĩa cho danh từ <em>\"brother\"</em> là hoàn toàn chính xác về ngữ pháp và ngữ nghĩa.",
+        "1287694": "Giới từ <em>\"at\"</em> không đi với tính từ <em>\"crazy\"</em> để diễn tả sự yêu thích, say mê; cần dùng giới từ <em>\"about\"</em>.",
+        "1287695": "Động từ <em>\"name\"</em> (gọi tên) được sử dụng đúng ngữ pháp và ngữ nghĩa trong cấu trúc <em>\"can name all of them\"</em>.",
+        "1287696": "Đại từ <em>\"all\"</em> (tất cả) được dùng đúng để chỉ toàn bộ số lượng khủng long mà người em trai có thể gọi tên."
+      },
+      "images": []
+    },
+    {
+      "id": 43072,
+      "questionNumber": 17,
+      "questionName": "Question 34. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The taste <span style=\"text-decoration: underline;\">of</span> this fruit <span style=\"text-decoration: underline;\">is</span> similar <span style=\"text-decoration: underline;\">with</span> mango, but a little <span style=\"text-decoration: underline;\">sweeter</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 125487,
+          "label": "A",
+          "text": "of",
+          "isCorrect": false
+        },
+        {
+          "id": 125488,
+          "label": "B",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "id": 125489,
+          "label": "C",
+          "text": "with",
+          "isCorrect": true
+        },
+        {
+          "id": 125490,
+          "label": "D",
+          "text": "sweeter",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 125489,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>to be similar to sth</strong>: giống với c&aacute;i g&igrave;</p>\n<p>Sửa: \"<strong>with</strong>\" =&gt; \"<strong>to</strong>\"</p>\n<p>Dịch: Hương vị của loại tr&aacute;i c&acirc;y n&agrave;y giống với xo&agrave;i, nhưng ngọt hơn một ch&uacute;t.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 437561,
+      "questionNumber": 18,
+      "questionName": "43",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The <span style=\"text-decoration: underline;\">economy</span> of this country is based <span style=\"text-decoration: underline;\">to</span> a great extent <span style=\"text-decoration: underline;\">in its</span> forests, which cover 80 <span style=\"text-decoration: underline;\">percent of</span> its surface area.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 877577,
+          "label": "A",
+          "text": "Economy",
+          "isCorrect": false
+        },
+        {
+          "id": 877578,
+          "label": "B",
+          "text": "to",
+          "isCorrect": true
+        },
+        {
+          "id": 877579,
+          "label": "C",
+          "text": "in its",
+          "isCorrect": false
+        },
+        {
+          "id": 877580,
+          "label": "D",
+          "text": "percent of",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 877578,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>be based on sth</strong>: dựa tr&ecirc;n c&aacute;i g&igrave; đ&oacute;</p>\n<p>Sửa: \"<strong>to</strong>\" =&gt; \"<strong>on</strong>\"</p>\n<p>Dịch: Nền kinh tế của đất nước n&agrave;y chủ yếu dựa v&agrave;o c&aacute;c khu rừng, chiếm 80% diện t&iacute;ch bề mặt của n&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 53034,
+      "questionNumber": 19,
+      "questionName": "Question 4",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Fill in each space with a suitable preposition.</em></p>\n<p><strong>What aspect <span class='fillblank-option'><input id='fbo-53034-0' class='ms fillblank-option-19' index='0' name='fbo-53034-0' type='text' size='6' autocomplete='off' data-testid='fillblank-input-53034-0' /></span> learning English do you find difficult?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "of"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>aspect of sth</strong>: kh&iacute;a cạnh, phần của c&aacute;i g&igrave;</p>\n<p>Dịch: Bạn th&acirc;́y khía cạnh nào của vi&ecirc;̣c học ti&ecirc;́ng Anh là khó?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 52940,
+      "questionNumber": 20,
+      "questionName": "Question 2",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Fill in each space with a suitable preposition.</em></p>\n<p><strong>It&#8217;s very kind <span class='fillblank-option'><label>20.1</label><input id='fbo-52940-0' class='ms fillblank-option-20' index='0' name='fbo-52940-0' type='text' size='6' autocomplete='off' data-testid='fillblank-input-52940-0' /></span> you to help me <span class='fillblank-option'><label>20.2</label><input id='fbo-52940-1' class='ms fillblank-option-20' index='1' name='fbo-52940-1' type='text' size='6' autocomplete='off' data-testid='fillblank-input-52940-1' /></span> my homework.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "of"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "with"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>be kind of sb to do sth</strong>: ai đ&oacute; thật tốt khi l&agrave;m g&igrave;</p>\n<p><strong>help sb with sth</strong>: gi&uacute;p ai với việc g&igrave;</p>\n<p>Dịch: Bạn thật tốt khi gi&uacute;p t&ocirc;i với những b&agrave;i tập về nh&agrave; n&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 52975,
+      "questionNumber": 21,
+      "questionName": "Question 5",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Fill in each space with a suitable preposition.</em></p>\n<p><strong>We complained <span class='fillblank-option'><label>21.1</label><input id='fbo-52975-0' class='ms fillblank-option-21' index='0' name='fbo-52975-0' type='text' size='5' autocomplete='off' data-testid='fillblank-input-52975-0' /></span> the boss <span class='fillblank-option'><label>21.2</label><input id='fbo-52975-1' class='ms fillblank-option-21' index='1' name='fbo-52975-1' type='text' size='8' autocomplete='off' data-testid='fillblank-input-52975-1' /></span> the bad working conditions.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "with"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "about"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>complain with sb about sth</strong>: ph&agrave;n n&agrave;n với ai về điều g&igrave;</p>\n<p>Dịch: Ch&uacute;ng t&ocirc;i ph&agrave;n n&agrave;n với &ocirc;ng chủ về điều kiện l&agrave;m việc tồi tệ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 75646,
+      "questionNumber": 22,
+      "questionName": "Question 1",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Fill in each space with a suitable preposition.</em></p>\n<p><strong>The company is involved <span class='fillblank-option'><input id='fbo-75646-0' class='ms fillblank-option-22' index='0' name='fbo-75646-0' type='text' size='4' autocomplete='off' data-testid='fillblank-input-75646-0' /></span> producing eco-friendly products.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "in"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>be involved in sth/doing sth</strong>: tham gia v&agrave;o c&aacute;i g&igrave;, việc g&igrave;</p>\n<p>Dịch: C&ocirc;ng ty đang tham gia sản xuất c&aacute;c sản phẩm th&acirc;n thiện với m&ocirc;i trường.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 790814,
+      "questionNumber": 23,
+      "questionName": "64",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Fill in each space with a suitable preposition.</em></p>\n<p><strong>Health experts are warning us <span class='fillblank-option'><input id='fbo-790814-0' class='ms fillblank-option-23' index='0' name='fbo-790814-0' type='text' size='9' autocomplete='off' data-testid='fillblank-input-790814-0' /></span> using plastic containers to store food.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "against"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>warn sb against doing sth</strong> (phr.): cảnh b&aacute;o ai đ&oacute; kh&ocirc;ng n&ecirc;n l&agrave;m g&igrave;</p>\n<p>Dịch: C&aacute;c chuy&ecirc;n gia y tế đang cảnh b&aacute;o ch&uacute;ng ta kh&ocirc;ng n&ecirc;n sử dụng hộp nhựa để bảo quản thực phẩm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 74231,
+      "questionNumber": 24,
+      "questionName": "Question 7",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete each gap with the suitable preposition.</em></p>\n<p><strong>I often dream <span class='fillblank-option'><input id='fbo-74231-0' class='ms fillblank-option-24' index='0' name='fbo-74231-0' type='text' size='5' autocomplete='off' data-testid='fillblank-input-74231-0' /></span>&nbsp;travelling abroad.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "of"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>dream of sth</strong>: mơ về c&aacute;i g&igrave;&nbsp;</p>\n<p>Dịch: T&ocirc;i thường mơ ước được đi du lịch nước ngo&agrave;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 193949,
+      "questionNumber": 25,
+      "questionName": "Đoàn Thị Điểm - PT15 - 6",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete each gap with the suitable preposition.</em></p>\n<p><strong>What&#8217;s wrong <span class='fillblank-option'><label>25.1</label><input id='fbo-193949-0' class='ms fillblank-option-25' index='0' name='fbo-193949-0' type='text' size='8' autocomplete='off' data-testid='fillblank-input-193949-0' /></span> you? - I&#8217;ve got a pain <span class='fillblank-option'><label>25.2</label><input id='fbo-193949-1' class='ms fillblank-option-25' index='1' name='fbo-193949-1' type='text' size='4' autocomplete='off' data-testid='fillblank-input-193949-1' /></span> my back.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "with"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "in"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>wrong with sb</strong>: kh&ocirc;ng ổn với ai</p>\n<p><strong>have (got) a pain in sth</strong>: đau ở chỗ n&agrave;o</p>\n<p>Dịch: C&oacute; chuyện g&igrave; với bạn thế? - T&ocirc;i bị đau lưng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 146358,
+      "questionNumber": 26,
+      "questionName": "Question 29:",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete each gap with the suitable preposition.</em></p>\n<p><strong>The Internet provide access <span class='fillblank-option'><input id='fbo-146358-0' class='ms fillblank-option-26' index='0' name='fbo-146358-0' type='text' size='3' autocomplete='off' data-testid='fillblank-input-146358-0' /></span> an incredible amount of information.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "to"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>access to sth</strong>: sự tiếp cận tới c&aacute;i g&igrave;</p>\n<p>Dịch: Internet gi&uacute;p tiếp cận được với một lượng lớn th&ocirc;ng tin.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 74227,
+      "questionNumber": 27,
+      "questionName": "Question 5",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete each gap with a suitable preposition.</em></p>\n<p><strong>There is great demand <span class='fillblank-option'><input id='fbo-74227-0' class='ms fillblank-option-27' index='0' name='fbo-74227-0' type='text' size='7' autocomplete='off' data-testid='fillblank-input-74227-0' /></span>&nbsp;fresh products.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "for"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>demand for sth</strong>: nhu cầu cho/với c&aacute;i g&igrave;</p>\n<p>Dịch: C&oacute; nhu cầu lớn đối với c&aacute;c sản phẩm tươi sống.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 55732,
+      "questionNumber": 28,
+      "questionName": "Question 73:",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>He is proud of saving the child from the fierce dog.</strong></p>\n<p><strong>=&gt; He prides <span class='fillblank-option'><input id='fbo-55732-0' class='ms fillblank-option-28' index='0' name='fbo-55732-0' type='text' size='19' autocomplete='off' data-testid='fillblank-input-55732-0' /></span> the child from the fierce dog.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "himself on saving"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>to be proud of (doing) sth</strong> ~<strong> pride oneself on (doing) sth</strong>:<strong> </strong>tự h&agrave;o về bản th&acirc;n v&igrave; (l&agrave;m) việc g&igrave;</p>\n<p>Dịch: Anh ấy tự h&agrave;o về bản th&acirc;n khi đ&atilde; cứu đứa trẻ khỏi con ch&oacute; hung dữ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 55643,
+      "questionNumber": 29,
+      "questionName": "Question 68:",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has similar meaning to the first one, using the word in bracket. You must use between TWO and FIVE words, including the word given. Do not change the word given.</em></p>\n<p><strong>She has doubts about her ability. (CONFIDENCE)</strong></p>\n<p><strong>=&gt; She lacks <span class='fillblank-option'><input id='fbo-55643-0' class='ms fillblank-option-29' index='0' name='fbo-55643-0' type='text' size='19' autocomplete='off' data-testid='fillblank-input-55643-0' /></span> her own ability.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "confidence in all",
+            "confidence in"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>lack sth</strong>: thiếu c&aacute;i g&igrave;, kh&ocirc;ng c&oacute; đủ c&aacute;i g&igrave;</p>\n<p><strong>confidence in sth</strong>: tự tin về c&aacute;i g&igrave;</p>\n<p>Dịch: C&ocirc; ấy nghi ngờ về năng lực của m&igrave;nh.</p>\n<p>~ C&ocirc; ấy thiếu tự tin về năng lực của m&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 195932,
+      "questionNumber": 30,
+      "questionName": "Đoàn Thị Điểm - PT22 - 3",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence, using the word given so that it has a similar meaning to the first sentence. Do NOT change the word given in brackets in any way.</em></p>\n<p><strong>The museum was near the school. (FAR)</strong></p>\n<p><strong>=&gt; The school was <span class='fillblank-option'><input id='fbo-195932-0' class='ms fillblank-option-30' index='0' name='fbo-195932-0' type='text' size='16' autocomplete='off' data-testid='fillblank-input-195932-0' /></span> the museum.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "not far from"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>to be near somewhere</strong>: ở gần đ&acirc;u ~ <strong>to be not far from somewhere</strong>: kh&ocirc;ng xa đ&acirc;u&nbsp;</p>\n<p>Dịch: Viện bảo t&agrave;ng ở gần trường học.</p>\n<p>~ Trường học ở kh&ocirc;ng xa viện bảo t&agrave;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 78870,
+      "questionNumber": 31,
+      "questionName": "Question 5",
+      "questionType": "FillBlank",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete each second sentence using the word given, so that it has a similar meaning to the first sentence. Write between two and five words in each gap.</span></em></p>\n<p><strong>Snakes don't frighten Carol. (AFRAID)</strong></p>\n<p><strong>=&gt; Carol <span class='fillblank-option'><input id='fbo-78870-0' class='ms fillblank-option-31' index='0' name='fbo-78870-0' type='text' size='20' autocomplete='off' data-testid='fillblank-input-78870-0' /></span> snakes.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "isn't afraid of",
+            "is not afraid of",
+            "isn’t afraid of"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>frighten </strong>(v.): l&agrave;m hoảng sợ</p>\n<p><strong>be afraid of sth</strong>: sợ c&aacute;i g&igrave;&nbsp;</p>\n<p>Dịch:&nbsp;Rắn kh&ocirc;ng l&agrave;m Carol sợ.</p>\n<p>~ Carol kh&ocirc;ng sợ rắn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 903144,
+      "questionNumber": 32,
+      "questionName": "80",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has a similar meaning to the first sentence, using between TWO and SEVEN words including the word given.&nbsp;</em></p>\n<p><strong>She didn't like the young man asking her so many questions. (OBJECTED)</strong></p>\n<p><strong>=&gt; She <span class='fillblank-option'><input id='fbo-903144-0' class='ms fillblank-option-32' index='0' name='fbo-903144-0' type='text' size='13' autocomplete='off' data-testid='fillblank-input-903144-0' /></span> being asked so many questions.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "objected to"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>object to sth/V-ing</strong>: phản đối, kh&ocirc;ng th&iacute;ch việc l&agrave;m g&igrave;</p>\n<p>Dịch: C&ocirc; kh&ocirc;ng th&iacute;ch ch&agrave;ng trai trẻ đ&oacute; hỏi c&ocirc; nhiều c&acirc;u hỏi như vậy.</p>\n<p>~ C&ocirc; ấy kh&ocirc;ng th&iacute;ch bị hỏi nhiều c&acirc;u như vậy.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "160_1",
+    "questionName": "Question 1",
+    "questionText": "<p>\"I am learning French now,\" Peter said. -> Peter said that he ________ French then.</p>",
+    "choices": [
+      {
+        "id": "160_1_2",
+        "text": "is learning",
+        "html": "is learning"
+      },
+      {
+        "id": "160_1_3",
+        "text": "learned",
+        "html": "learned"
+      },
+      {
+        "id": "160_1_4",
+        "text": "had learned",
+        "html": "had learned"
+      },
+      {
+        "id": "160_1_1",
+        "text": "was learning",
+        "html": "was learning"
+      }
+    ],
+    "correctChoiceId": "160_1_1",
+    "explanation": "<p>Lùi thì trong câu gián tiếp: Hiện tại tiếp diễn (am learning) lùi thành Quá khứ tiếp diễn: <strong>was learning</strong>; trạng từ 'now' chuyển thành 'then'.</p>",
+    "ruleTip": "Lùi thì: am learning -> was learning; đổi trạng từ: now -> then."
+  },
+  {
+    "id": "160_2",
+    "questionName": "Question 2",
+    "questionText": "<p>\"Where are you going for your holiday?\" Mary asked me. -> Mary asked me ________ for my holiday.</p>",
+    "choices": [
+      {
+        "id": "160_2_2",
+        "text": "where was I going",
+        "html": "where was I going"
+      },
+      {
+        "id": "160_2_1",
+        "text": "where I was going",
+        "html": "where I was going"
+      },
+      {
+        "id": "160_2_3",
+        "text": "where I am going",
+        "html": "where I am going"
+      },
+      {
+        "id": "160_2_4",
+        "text": "where am I going",
+        "html": "where am I going"
+      }
+    ],
+    "correctChoiceId": "160_2_1",
+    "explanation": "<p>Trong câu hỏi gián tiếp: KHÔNG đảo ngữ, đưa về trật tự khẳng định: <strong>where + S + was going (where I was going)</strong>.</p>",
+    "ruleTip": "Câu hỏi gián tiếp: KHÔNG đảo ngữ, đưa về trật tự khẳng định (where + S + was going)."
+  },
+  {
+    "id": "160_3",
+    "questionName": "Question 3",
+    "questionText": "<p>\"Do you speak English?\" the tourist asked me. -> The tourist asked me if I ________ English.</p>",
+    "choices": [
+      {
+        "id": "160_3_2",
+        "text": "speak",
+        "html": "speak"
+      },
+      {
+        "id": "160_3_1",
+        "text": "spoke",
+        "html": "spoke"
+      },
+      {
+        "id": "160_3_3",
+        "text": "had spoken",
+        "html": "had spoken"
+      },
+      {
+        "id": "160_3_4",
+        "text": "was speaking",
+        "html": "was speaking"
+      }
+    ],
+    "correctChoiceId": "160_3_1",
+    "explanation": "<p>Câu hỏi Yes/No gián tiếp: dùng <strong>if / whether + S + V(lùi thì)</strong>. Hiện tại đơn 'speak' lùi thành Quá khứ đơn: <strong>spoke</strong>.</p>",
+    "ruleTip": "Câu hỏi Yes/No gián tiếp: dùng IF/WHETHER + S + V(lùi thì: spoke)."
+  },
+  {
+    "id": "160_4",
+    "questionName": "Question 4",
+    "questionText": "<p>\"Don't touch that bare wire!\" the electrician shouted. -> The electrician warned me ________ that bare wire.</p>",
+    "choices": [
+      {
+        "id": "160_4_1",
+        "text": "not to touch",
+        "html": "not to touch"
+      },
+      {
+        "id": "160_4_2",
+        "text": "to not touch",
+        "html": "to not touch"
+      },
+      {
+        "id": "160_4_3",
+        "text": "don't touch",
+        "html": "don't touch"
+      },
+      {
+        "id": "160_4_4",
+        "text": "not touching",
+        "html": "not touching"
+      }
+    ],
+    "correctChoiceId": "160_4_1",
+    "explanation": "<p>Câu mệnh lệnh phủ định gián tiếp: <strong>tell / ask / warn + O + NOT TO V-inf (not to touch)</strong>.</p>",
+    "ruleTip": "Câu mệnh lệnh phủ định gián tiếp: S + warned/told + O + NOT TO V-inf."
+  },
+  {
+    "id": "160_5",
+    "questionName": "Question 5",
+    "questionText": "<p>\"Why don't we go camping this weekend?\" Nam said. -> Nam suggested ________ camping that weekend.</p>",
+    "choices": [
+      {
+        "id": "160_5_2",
+        "text": "to go",
+        "html": "to go"
+      },
+      {
+        "id": "160_5_3",
+        "text": "should go",
+        "html": "should go"
+      },
+      {
+        "id": "160_5_4",
+        "text": "go",
+        "html": "go"
+      },
+      {
+        "id": "160_5_1",
+        "text": "going",
+        "html": "going"
+      }
+    ],
+    "correctChoiceId": "160_5_1",
+    "explanation": "<p>Tường thuật câu gợi ý với động từ suggest: <strong>suggest + V-ing (suggested going)</strong>.</p>",
+    "ruleTip": "Cấu trúc gợi ý: suggest + V-ing (Nam suggested going camping)."
+  },
+  {
+    "id": "160_6",
+    "questionName": "Question 6",
+    "questionText": "<p>The doctor suggested that he ________ smoking cigarettes immediately.</p>",
+    "choices": [
+      {
+        "id": "160_6_2",
+        "text": "stops",
+        "html": "stops"
+      },
+      {
+        "id": "160_6_3",
+        "text": "stopped",
+        "html": "stopped"
+      },
+      {
+        "id": "160_6_4",
+        "text": "to stop",
+        "html": "to stop"
+      },
+      {
+        "id": "160_6_1",
+        "text": "should stop",
+        "html": "should stop"
+      }
+    ],
+    "correctChoiceId": "160_6_1",
+    "explanation": "<p>Cấu trúc giả định với suggest: <strong>suggest that + S + (should) + V-inf (should stop)</strong>.</p>",
+    "ruleTip": "Cấu trúc: suggest that + S + (should) + V-inf."
+  },
+  {
+    "id": "160_7",
+    "questionName": "Question 7",
+    "questionText": "<p>\"Remember to lock the front door before leaving,\" Mom said. -> Mom reminded me ________ the front door.</p>",
+    "choices": [
+      {
+        "id": "160_7_2",
+        "text": "locking",
+        "html": "locking"
+      },
+      {
+        "id": "160_7_1",
+        "text": "to lock",
+        "html": "to lock"
+      },
+      {
+        "id": "160_7_3",
+        "text": "lock",
+        "html": "lock"
+      },
+      {
+        "id": "160_7_4",
+        "text": "locked",
+        "html": "locked"
+      }
+    ],
+    "correctChoiceId": "160_7_1",
+    "explanation": "<p>Cấu trúc nhắc nhở ai làm gì: <strong>remind sb + TO V-inf (to lock)</strong>.</p>",
+    "ruleTip": "'Remind sb to V': nhắc nhở ai làm gì."
+  },
+  {
+    "id": "160_8",
+    "questionName": "Question 8",
+    "questionText": "<p>\"I will visit my grandmother tomorrow,\" Minh said. -> Minh said that he ________ his grandmother the following day.</p>",
+    "choices": [
+      {
+        "id": "160_8_2",
+        "text": "will visit",
+        "html": "will visit"
+      },
+      {
+        "id": "160_8_3",
+        "text": "visited",
+        "html": "visited"
+      },
+      {
+        "id": "160_8_1",
+        "text": "would visit",
+        "html": "would visit"
+      },
+      {
+        "id": "160_8_4",
+        "text": "visits",
+        "html": "visits"
+      }
+    ],
+    "correctChoiceId": "160_8_1",
+    "explanation": "<p>Lùi thì: 'will visit' lùi thành <strong>would visit</strong>; 'tomorrow' đổi thành 'the following day'.</p>",
+    "ruleTip": "will -> would; my -> his; tomorrow -> the following day / the next day."
+  },
+  {
+    "id": "160_9",
+    "questionName": "Question 9",
+    "questionText": "<p>\"You must submit the assignment today,\" the teacher said. -> The teacher said that we ________ the assignment that day.</p>",
+    "choices": [
+      {
+        "id": "160_9_1",
+        "text": "had to submit",
+        "html": "had to submit"
+      },
+      {
+        "id": "160_9_2",
+        "text": "must submit",
+        "html": "must submit"
+      },
+      {
+        "id": "160_9_3",
+        "text": "would submit",
+        "html": "would submit"
+      },
+      {
+        "id": "160_9_4",
+        "text": "have to submit",
+        "html": "have to submit"
+      }
+    ],
+    "correctChoiceId": "160_9_1",
+    "explanation": "<p>Động từ 'must' khi lùi thì trong câu gián tiếp chuyển thành <strong>had to + V-inf (had to submit)</strong>; 'today' chuyển thành 'that day'.</p>",
+    "ruleTip": "must lùi thì thành 'had to'; today đổi thành 'that day'."
+  },
+  {
+    "id": "160_10",
+    "questionName": "Question 10",
+    "questionText": "<p>\"I'm sorry I broke your ceramic vase,\" Tim said to Lan. -> Tim apologized to Lan for ________ her ceramic vase.</p>",
+    "choices": [
+      {
+        "id": "160_10_1",
+        "text": "breaking",
+        "html": "breaking"
+      },
+      {
+        "id": "160_10_2",
+        "text": "to break",
+        "html": "to break"
+      },
+      {
+        "id": "160_10_3",
+        "text": "broke",
+        "html": "broke"
+      },
+      {
+        "id": "160_10_4",
+        "text": "break",
+        "html": "break"
+      }
+    ],
+    "correctChoiceId": "160_10_1",
+    "explanation": "<p>Cấu trúc xin lỗi ai về điều gì: <strong>apologize to sb for + V-ing (breaking)</strong>.</p>",
+    "ruleTip": "'Apologize to sb for + V-ing': xin lỗi ai vì đã làm gì."
+  },
+  {
+    "id": "160_11",
+    "questionName": "Question 11",
+    "questionText": "<p>\"Thank you for helping me with the project,\" Mai said to Nam. -> Mai thanked Nam for ________ her with the project.</p>",
+    "choices": [
+      {
+        "id": "160_11_2",
+        "text": "to help",
+        "html": "to help"
+      },
+      {
+        "id": "160_11_3",
+        "text": "helped",
+        "html": "helped"
+      },
+      {
+        "id": "160_11_4",
+        "text": "help",
+        "html": "help"
+      },
+      {
+        "id": "160_11_1",
+        "text": "helping",
+        "html": "helping"
+      }
+    ],
+    "correctChoiceId": "160_11_1",
+    "explanation": "<p>Cấu trúc cảm ơn ai vì đã làm gì: <strong>thank sb for + V-ing (helping)</strong>.</p>",
+    "ruleTip": "'Thank sb for + V-ing': cảm ơn ai vì việc gì."
+  },
+  {
+    "id": "160_12",
+    "questionName": "Question 12",
+    "questionText": "<p>\"Be careful or you will slip on the wet floor,\" he said. -> He warned me ________ on the wet floor.</p>",
+    "choices": [
+      {
+        "id": "160_12_2",
+        "text": "to slip",
+        "html": "to slip"
+      },
+      {
+        "id": "160_12_3",
+        "text": "not slipping",
+        "html": "not slipping"
+      },
+      {
+        "id": "160_12_1",
+        "text": "not to slip",
+        "html": "not to slip"
+      },
+      {
+        "id": "160_12_4",
+        "text": "don't slip",
+        "html": "don't slip"
+      }
+    ],
+    "correctChoiceId": "160_12_1",
+    "explanation": "<p>Cấu trúc cảnh báo ai không làm gì: <strong>warn sb NOT TO V-inf (not to slip)</strong>.</p>",
+    "ruleTip": "'Warn sb not to V': cảnh báo ai không làm gì."
+  },
+  {
+    "id": "160_13",
+    "questionName": "Question 13",
+    "questionText": "<p>Lan ________ me that she had passed the Grade 10 entrance examination.</p>",
+    "choices": [
+      {
+        "id": "160_13_2",
+        "text": "said",
+        "html": "said"
+      },
+      {
+        "id": "160_13_1",
+        "text": "told",
+        "html": "told"
+      },
+      {
+        "id": "160_13_3",
+        "text": "asked",
+        "html": "asked"
+      },
+      {
+        "id": "160_13_4",
+        "text": "spoke",
+        "html": "spoke"
+      }
+    ],
+    "correctChoiceId": "160_13_1",
+    "explanation": "<p>Khi có tân ngữ gián tiếp chỉ người ('me'), ta dùng động từ <strong>told (told me that...)</strong>. 'Said' đi với 'that' mà không có tân ngữ trực tiếp theo sau.</p>",
+    "ruleTip": "'Told + tân ngữ' (told me); 'Said that' (không có tân ngữ trực tiếp)."
+  },
+  {
+    "id": "160_14",
+    "questionName": "Question 14",
+    "questionText": "<p>\"Can you lend me your dictionary?\" she asked. -> She asked me if I ________ lend her my dictionary.</p>",
+    "choices": [
+      {
+        "id": "160_14_2",
+        "text": "can",
+        "html": "can"
+      },
+      {
+        "id": "160_14_3",
+        "text": "will",
+        "html": "will"
+      },
+      {
+        "id": "160_14_1",
+        "text": "could",
+        "html": "could"
+      },
+      {
+        "id": "160_14_4",
+        "text": "would",
+        "html": "would"
+      }
+    ],
+    "correctChoiceId": "160_14_1",
+    "explanation": "<p>Modal verb 'can' khi chuyển sang câu gián tiếp lùi thì thành <strong>could</strong>.</p>",
+    "ruleTip": "can lùi thì thành COULD trong câu hỏi gián tiếp."
+  },
+  {
+    "id": "160_15",
+    "questionName": "Question 15",
+    "questionText": "<p>\"You stole my bicycle!\" the boy shouted. -> The boy accused the man of ________ his bicycle.</p>",
+    "choices": [
+      {
+        "id": "160_15_1",
+        "text": "stealing",
+        "html": "stealing"
+      },
+      {
+        "id": "160_15_2",
+        "text": "to steal",
+        "html": "to steal"
+      },
+      {
+        "id": "160_15_3",
+        "text": "stolen",
+        "html": "stolen"
+      },
+      {
+        "id": "160_15_4",
+        "text": "steal",
+        "html": "steal"
+      }
+    ],
+    "correctChoiceId": "160_15_1",
+    "explanation": "<p>Cấu trúc buộc tội ai đã làm gì: <strong>accuse sb of + V-ing (stealing)</strong>.</p>",
+    "ruleTip": "'Accuse sb of + V-ing': buộc tội ai đã làm gì."
+  }
+]

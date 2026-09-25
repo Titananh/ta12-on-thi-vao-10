@@ -1,0 +1,777 @@
+{
+  "quizId": 16011,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 10: Possessions (Các cấu trúc chỉ sự sở hữu)",
+  "totalQuestions": 19,
+  "questions": [
+    {
+      "id": 896958,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Trong c&#7845;u tr&#250;c s&#7903; h&#7919;u c&#225;ch, t&#7915; CH&#7880; &#272;&#7888;I T&#431;&#7906;NG S&#7902; H&#7918;U c&#243; th&#7875; l&#224; t&#7915;/c&#7909;m t&#7915; ch&#7881; _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1705841,
+          "label": "A",
+          "text": "quốc gia",
+          "isCorrect": true
+        },
+        {
+          "id": 1705842,
+          "label": "B",
+          "text": "người",
+          "isCorrect": true
+        },
+        {
+          "id": 1705843,
+          "label": "C",
+          "text": "đồ vật",
+          "isCorrect": false
+        },
+        {
+          "id": 1705844,
+          "label": "D",
+          "text": "đại từ bất định chỉ vật",
+          "isCorrect": false
+        },
+        {
+          "id": 1705845,
+          "label": "E",
+          "text": "con vật",
+          "isCorrect": true
+        },
+        {
+          "id": 1724018,
+          "label": "F",
+          "text": "không gian, vị trí",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1705841,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/Bai_10_Cac_cau_truc_chi_su_so_huu__2__07263759.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 896957,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#7885;n c&#225;c c&#7909;m t&#7915; s&#7917; d&#7909;ng &#273;&#250;ng c&#7845;u tr&#250;c s&#7903; h&#7919;u v&#7899;i &quot;OF&quot;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1705836,
+          "label": "A",
+          "text": "the jeans of him",
+          "isCorrect": false
+        },
+        {
+          "id": 1705837,
+          "label": "B",
+          "text": "the trees of the forest",
+          "isCorrect": true
+        },
+        {
+          "id": 1705838,
+          "label": "C",
+          "text": "a close friend of yours",
+          "isCorrect": true
+        },
+        {
+          "id": 1705839,
+          "label": "D",
+          "text": "the result of the test",
+          "isCorrect": true
+        },
+        {
+          "id": 1705840,
+          "label": "E",
+          "text": "a friend of Mark",
+          "isCorrect": false
+        },
+        {
+          "id": 1705850,
+          "label": "F",
+          "text": "the support of parents",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1705837,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&aacute;c danh từ \"<strong>forest</strong>\", \"<strong>test</strong>\" l&agrave; danh từ chỉ vật v&ocirc; tri v&ocirc; gi&aacute;c. =&gt; D&ugrave;ng cấu tr&uacute;c sở hữu với \"<strong>of</strong>\":<strong> the N1 + of + N2&nbsp;</strong></p>\n<p>\"<strong>yours</strong>\" l&agrave; đại từ sở hữu. =&gt; D&ugrave;ng cấu tr&uacute;c sở hữu: <strong>N + of + Đại từ sở hữu</strong></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 115362,
+      "questionNumber": 3,
+      "questionName": "38",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>John's got dark hair, but _____ is fair.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 275251,
+          "label": "A",
+          "text": "his brother's hair",
+          "isCorrect": true
+        },
+        {
+          "id": 275252,
+          "label": "B",
+          "text": "his brother hairs",
+          "isCorrect": false
+        },
+        {
+          "id": 275253,
+          "label": "C",
+          "text": "his brother hair",
+          "isCorrect": false
+        },
+        {
+          "id": 275254,
+          "label": "D",
+          "text": "his brother hair's",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 275251,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dạng sở hữu c&aacute;ch ('s) được th&ecirc;m v&agrave;o sau danh từ \"<strong>brother</strong>\", để chỉ ra sự sở hữu của đối tượng n&agrave;y đối với danh từ \"<strong>hair</strong>\".</p>\n<p>Cấu tr&uacute;c: <strong>N1 + 's + N2 = the N2 of N1 (N2 của N1)</strong></p>\n<p>Dịch: John c&oacute; m&aacute;i t&oacute;c đen, nhưng t&oacute;c của anh trai anh ấy m&agrave;u v&agrave;ng s&aacute;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 133094,
+      "questionNumber": 4,
+      "questionName": "9. So huu cach",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Who are these people? - They are my _____ friends.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 312971,
+          "label": "A",
+          "text": "parents'",
+          "isCorrect": true
+        },
+        {
+          "id": 312972,
+          "label": "B",
+          "text": "parents's",
+          "isCorrect": false
+        },
+        {
+          "id": 312973,
+          "label": "C",
+          "text": "parents",
+          "isCorrect": false
+        },
+        {
+          "id": 1723946,
+          "label": "D",
+          "text": "parent'",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 312971,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dạng sở hữu c&aacute;ch ('s) được th&ecirc;m v&agrave;o sau danh từ thứ nhất, để chỉ ra sự sở hữu của n&oacute; đối với danh từ thứ 2.</p>\n<p>Cấu tr&uacute;c: <strong>N1 + 's + N2 = the N2 of N1 (N2 của N1)</strong></p>\n<p>V&igrave; \"<strong>parents</strong>\" l&agrave; danh từ l&agrave; số nhiều c&oacute;<strong>&nbsp;</strong>\"<strong>s</strong>\", ta sẽ chỉ th&ecirc;m dấu phẩy ph&iacute;a sau, kh&ocirc;ng th&ecirc;m \"<strong>s</strong>\".</p>\n<p>Dịch: Những người n&agrave;y l&agrave; ai? - Họ l&agrave; bạn của bố mẹ t&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 740573,
+      "questionNumber": 5,
+      "questionName": "13",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>It's _____ birthday tomorrow. I'm going to give her a present.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1430859,
+          "label": "A",
+          "text": "Jessie",
+          "isCorrect": false
+        },
+        {
+          "id": 1430860,
+          "label": "B",
+          "text": "Jessies",
+          "isCorrect": false
+        },
+        {
+          "id": 1430861,
+          "label": "C",
+          "text": "Jessie's",
+          "isCorrect": true
+        },
+        {
+          "id": 1430862,
+          "label": "D",
+          "text": "Jessies'",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1430861,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Trong câu này, <em>\"birthday\"</em> là danh từ cần được bổ nghĩa bởi một danh từ sở hữu. Từ <em>\"her\"</em> gợi ý rằng câu đang nói về một người nữ cụ thể, tên <em>\"Jessie\"</em> là một danh từ riêng số ít.</p>\n<p>Hãy nhớ lại quy tắc tạo sở hữu cách cho một danh từ số ít.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Sở hữu cách 's</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Sở hữu cách 's dùng để diễn đạt mối quan hệ sở hữu hoặc liên kết giữa người/vật sở hữu với người/vật bị sở hữu.</p>\n<p><strong>Một số cách dùng sở hữu cách 's:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Danh từ số ít (N-số ít) + 's</span></strong>: Dùng để chỉ sự sở hữu của một danh từ số ít.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Danh từ số nhiều kết thúc bằng 's' (N-s) + '</span></strong>: Dùng để chỉ sự sở hữu của một danh từ số nhiều đã có 's'.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Danh từ số nhiều không kết thúc bằng 's' (N-không-s) + 's</span></strong>: Dùng để chỉ sự sở hữu của một danh từ số nhiều không có 's'.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, từ <em>\"her\"</em> và ngữ cảnh cho thấy câu đang nói về sinh nhật của một người tên là Jessie. Để chỉ <em>\"sinh nhật của Jessie\"</em>, chúng ta cần sử dụng sở hữu cách của danh từ riêng số ít <em>\"Jessie\"</em>.</p>\n<p style=\"text-align: justify;\">Phương án ''<em>Jessie's''</em> là dạng sở hữu cách đúng của danh từ số ít, phù hợp với ngữ cảnh của câu. Các phương án còn lại đều là các dạng sở hữu cách không chính xác hoặc tên riêng không phù hợp để chỉ sự sở hữu.</p>",
+      "answerFeedbacks": {
+        "1430859": "Sai vì đây là danh từ riêng chỉ tên người, không phải dạng sở hữu để bổ nghĩa cho danh từ <em>\"birthday\"</em>.",
+        "1430860": "Sai vì đây là dạng số nhiều của tên <em>\"Jessie\"</em>, không phải dạng sở hữu.",
+        "1430861": "Đúng vì đây là dạng sở hữu cách của danh từ số ít <em>\"Jessie\"</em>, phù hợp để chỉ <em>\"sinh nhật của Jessie\"</em>.",
+        "1430862": "Sai vì đây là dạng sở hữu cách của danh từ số nhiều <em>\"Jessies\"</em>, không phù hợp khi ngữ cảnh chỉ một người là <em>\"Jessie\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 672414,
+      "questionNumber": 6,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>A relative of _____ is coming to stay with us next month.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1297982,
+          "label": "A",
+          "text": "we",
+          "isCorrect": false
+        },
+        {
+          "id": 1297983,
+          "label": "B",
+          "text": "our",
+          "isCorrect": false
+        },
+        {
+          "id": 1297984,
+          "label": "C",
+          "text": "us",
+          "isCorrect": false
+        },
+        {
+          "id": 1297985,
+          "label": "D",
+          "text": "ours",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1297985,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn đáp án đúng, hãy xem xét từ đứng trước chỗ trống là <em>\"of\"</em>. <br/><ul><li> Từ <em>\"of\"</em> thường được dùng để chỉ mối quan hệ sở hữu hoặc liên kết (ví dụ: <em>\"the cover of the book\"</em>).</li><li>Chỗ trống cần một từ có thể đứng một mình sau giới từ <em>\"of\"</em> và mang nghĩa sở hữu.</li><li>Hãy phân biệt giữa tính từ sở hữu (possessive adjectives) như <em>\"my, your, our\"</em> (luôn đi kèm với danh từ) và đại từ sở hữu (possessive pronouns) như <em>\"mine, yours, ours\"</em> (có thể đứng một mình và thay thế cho danh từ).</li></ul>Suy nghĩ xem loại từ nào phù hợp để hoàn thành cụm <em>\"A relative of _____\"</em>.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Đại từ sở hữu</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Đại từ sở hữu dùng để thay thế cho một danh từ hoặc cụm danh từ đã được nhắc đến hoặc ngụ ý trước đó, tránh lặp từ.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><strong><span style=\"color: #1c581f;\">Tính từ sở hữu + N = </span></strong><strong><span style=\"color: #1c581f;\">Đại từ sở hữu</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu \"<strong>A relative of _____ is coming to stay with us next month.</strong>\", chỗ trống đứng sau giới từ of và cần một từ chỉ sở hữu để hoàn thành cụm danh từ \"<strong>A relative of...</strong>\". Cụm này có nghĩa là \"một người thân <strong>của</strong>...\". Do đó, cần một đại từ sở hữu để thay thế cho một danh từ đã được ngụ ý.</p>\n<p style=\"text-align: justify;\">Phương án \"<strong>ours</strong>\" là đại từ sở hữu phù hợp nhất trong ngữ cảnh này, mang nghĩa \"cái của chúng tôi\" hoặc \"người thân của chúng tôi\", đứng sau giới từ \"<strong>of</strong>\" để chỉ mối quan hệ sở hữu.</p>\n<p style=\"text-align: justify;\">Các phương án khác không phù hợp về mặt ngữ pháp hoặc ý nghĩa.</p>",
+      "answerFeedbacks": {
+        "1297982": "Sai vì <em>we</em> là đại từ chủ ngữ, không đứng sau giới từ <em>of</em> để chỉ sở hữu.",
+        "1297983": "Sai vì <em>our</em> là tính từ sở hữu, cần một danh từ theo sau (ví dụ: <em>our relative</em>) chứ không đứng một mình sau giới từ <em>of</em>.",
+        "1297984": "Sai vì <em>us</em> là đại từ tân ngữ, tuy có thể đứng sau giới từ <em>of</em> nhưng không thể dùng để chỉ sở hữu trong ngữ cảnh này mà phải là <em>ours</em>.",
+        "1297985": "Đúng vì <em>ours</em> là đại từ sở hữu, thay thế cho <em>our relatives</em> và phù hợp đứng sau giới từ <em>of</em> để chỉ sở hữu."
+      },
+      "images": []
+    },
+    {
+      "id": 363479,
+      "questionNumber": 7,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Be <span style=\"text-decoration: underline;\">quick</span>! I don't want <span style=\"text-decoration: underline;\">to miss</span> the <span style=\"text-decoration: underline;\">beginning</span> <span style=\"text-decoration: underline;\">on</span> the show.</strong></p>\n<div style=\"position: absolute; left: 146px; top: -12.0104px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 758156,
+          "label": "A",
+          "text": "quick",
+          "isCorrect": false
+        },
+        {
+          "id": 758157,
+          "label": "B",
+          "text": "to miss",
+          "isCorrect": false
+        },
+        {
+          "id": 758158,
+          "label": "C",
+          "text": "beginning",
+          "isCorrect": false
+        },
+        {
+          "id": 758159,
+          "label": "D",
+          "text": "on",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 758159,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c chỉ sự sở hữu: <strong>the N1 + of + the N2</strong>: N1 của N2 (thường d&ugrave;ng với những từ: <em>side, top, bottom, back, front, end, beginning</em>)</p>\n<p>Sửa: \"<strong>on</strong>\" =&gt; \"<strong>of</strong>\"</p>\n<p>Dịch: Nhanh l&ecirc;n n&agrave;o! T&ocirc;i kh&ocirc;ng muốn bỏ lỡ phần đầu của chương tr&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 373012,
+      "questionNumber": 8,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>A friend of <span style=\"text-decoration: underline;\">me</span> told me <span style=\"text-decoration: underline;\">that</span> all of the <span style=\"text-decoration: underline;\">tickets</span> have <span style=\"text-decoration: underline;\">already</span> sold out.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 772821,
+          "label": "A",
+          "text": "me",
+          "isCorrect": true
+        },
+        {
+          "id": 772822,
+          "label": "B",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 772823,
+          "label": "C",
+          "text": "tickets",
+          "isCorrect": false
+        },
+        {
+          "id": 772824,
+          "label": "D",
+          "text": "already",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 772821,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c chỉ sự sở hữu: <strong>Cụm danh từ + OF + Đại từ sở hữu</strong></p>\n<p>Lưu &yacute;: d&ugrave;ng đại từ sở hữu sau giới từ \"<strong>of</strong>\", kh&ocirc;ng d&ugrave;ng đại từ l&agrave;m t&acirc;n ngữ.</p>\n<p>Sửa: \"<strong>me</strong>\" =&gt; \"<strong>mine</strong>\"</p>\n<p>Dịch: Một người bạn của t&ocirc;i n&oacute;i với t&ocirc;i rằng tất cả v&eacute; đ&atilde; được b&aacute;n hết.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 908254,
+      "questionNumber": 9,
+      "questionName": "Grammar Practice - Upper Intermediate - p.20",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Choose the correct answer in each sentence.</strong></p>\n<p>1. I heard <span class='fillblank-option'><label>9.1</label><select class='ms fillblank-option-9' index='0' name='fbo-908254-0' data-testid='fillblank-select-908254-0'><option value='' data-testid='fillblank-option-empty-908254-0'></option><option value=\"the news of yesterday\" data-testid='fillblank-option-908254-0-the news of yesterday'>the news of yesterday</option><option value=\"yesterday's news\" data-testid='fillblank-option-908254-0-yesterday's news'>yesterday's news</option></select></span> about the plane crash.</p>\n<p>2. I've only read <span class='fillblank-option'><label>9.2</label><select class='ms fillblank-option-9' index='1' name='fbo-908254-1' data-testid='fillblank-select-908254-1'><option value='' data-testid='fillblank-option-empty-908254-1'></option><option value=\"the first chapter of the book\" data-testid='fillblank-option-908254-1-the first chapter of the book'>the first chapter of the book</option><option value=\"the book's first chapter\" data-testid='fillblank-option-908254-1-the book's first chapter'>the book's first chapter</option></select></span> so far.</p>\n<p>3. Are you going to <span class='fillblank-option'><label>9.3</label><select class='ms fillblank-option-9' index='2' name='fbo-908254-2' data-testid='fillblank-select-908254-2'><option value='' data-testid='fillblank-option-empty-908254-2'></option><option value=\"Jane's and Mark's\" data-testid='fillblank-option-908254-2-Jane's and Mark's'>Jane's and Mark's</option><option value=\"Jane and Mark's\" data-testid='fillblank-option-908254-2-Jane and Mark's'>Jane and Mark's</option></select></span> wedding on Saturday? - Yes. They're friends of my parents'.</p>\n<p>4. Have you got <span class='fillblank-option'><label>9.4</label><select class='ms fillblank-option-9' index='3' name='fbo-908254-3' data-testid='fillblank-select-908254-3'><option value='' data-testid='fillblank-option-empty-908254-3'></option><option value=\"the front door's key\" data-testid='fillblank-option-908254-3-the front door's key'>the front door's key</option><option value=\"the key of the front door\" data-testid='fillblank-option-908254-3-the key of the front door'>the key of the front door</option></select></span> in your bag?</p>\n<p>5. I've got a toothache. I have to go to <span class='fillblank-option'><label>9.5</label><select class='ms fillblank-option-9' index='4' name='fbo-908254-4' data-testid='fillblank-select-908254-4'><option value='' data-testid='fillblank-option-empty-908254-4'></option><option value=\"the dentist's\" data-testid='fillblank-option-908254-4-the dentist's'>the dentist's</option><option value=\"the dentists'\" data-testid='fillblank-option-908254-4-the dentists''>the dentists'</option></select></span>.</p>\n<div style=\"position: absolute; left: 14px; top: 210px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "yesterday's news"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "the first chapter of the book"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "Jane and Mark's"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "the key of the front door"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "the dentist's"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>Sở hữu c&aacute;ch 's</strong> thường d&ugrave;ng để chỉ quan hệ sở hữu của người, nh&oacute;m người v&agrave; động vật.&nbsp;</p>\n<p>Cấu tr&uacute;c <strong>N + of + N</strong> thường d&ugrave;ng để chỉ quan hệ sở hữu của vật.</p>\n<p>Đặc biệt: Với danh từ chỉ thời gian, khi n&oacute;i đến quan hệ sở hữu lu&ocirc;n sử dụng dạng <strong>sở hữu c&aacute;ch 's</strong>.</p>\n<p>1. Ở đ&acirc;y chỉ sở hữu của danh từ chỉ thời gian \"<strong>yesterday</strong>\" =&gt; d&ugrave;ng sở hữu c&aacute;ch <strong>'s</strong>.</p>\n<p>Dịch: T&ocirc;i đ&atilde; nghe tin tức về vụ tai nạn m&aacute;y bay ng&agrave;y h&ocirc;m qua.</p>\n<p>2. Ở đ&acirc;y n&oacute;i đến quan hệ sở hữu giữa 2 vật l&agrave; \"<strong>the book</strong>\" v&agrave; \"<strong>first chapter</strong>\"<strong> </strong>=&gt; d&ugrave;ng cấu tr&uacute;c <strong>N + of + N</strong>.</p>\n<p>Dịch: Cho đến nay t&ocirc;i mới chỉ đọc chương đầu ti&ecirc;n của cuốn s&aacute;ch.</p>\n<p>3. Ở đ&acirc;y n&oacute;i đến quan hệ sở hữu của hai người l&agrave; Jane v&agrave; Mark với \"<strong>wedding</strong>\" =&gt; d&ugrave;ng sở hữu c&aacute;ch <strong>'s</strong> cho cả 2 người l&agrave; \"<strong>Jane and Mark's</strong>\".</p>\n<p>Dịch: Bạn c&oacute; dự đ&aacute;m cưới của Jane v&agrave; Mark v&agrave;o thứ Bảy kh&ocirc;ng? - C&oacute;. Họ l&agrave; bạn của bố mẹ t&ocirc;i.</p>\n<p>4. Ở đ&acirc;y n&oacute;i đến quan hệ sở hữu giữa 2 vật l&agrave; \"<strong>the front door</strong>\" v&agrave; \"<strong>the key</strong>\"<strong> </strong>=&gt; d&ugrave;ng cấu tr&uacute;c <strong>N + of + N</strong>.</p>\n<p>Dịch: Bạn c&oacute; ch&igrave;a kh&oacute;a cửa trước ở trong t&uacute;i kh&ocirc;ng?</p>\n<p>5. Ở đ&acirc;y n&oacute;i về quan hệ sở hữu giữa \"<strong>dentist</strong>\" v&agrave; nơi l&agrave;m việc của \"<strong>dentist</strong>\" n&ecirc;n ta c&oacute; thể lược bỏ danh từ sau sở hữu c&aacute;ch.</p>\n<p>Dạng đầy đủ: <strong>the dentist's shop</strong> =&gt; lược bỏ \"<strong>shop</strong>\" th&agrave;nh \"<strong>the dentist's</strong>\".</p>\n<p>Dịch: T&ocirc;i bị đau răng. T&ocirc;i phải đi đến ph&ograve;ng kh&aacute;m nha sĩ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 316442,
+      "questionNumber": 10,
+      "questionName": "Grammar Practice for Elementary Students 3rd-p.23",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Look at the family tree and read the text. &nbsp;Then, fill in each blank with the correct form of a word from the box. You need to change the word to its possessive form (e.g., <em>mother -&gt; mother's</em>).</strong></p>\n<table style=\"border-collapse: collapse; width: 100%; height: 18px; border-color: #2dc26b; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 100%; text-align: center; height: 18px;\"><strong>brother | cousins | father | Michael and Liz | mother | mother | parents</strong></td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\"><br><img src=\"/images/exams/unit12-12b_efca4bf5.png\" alt width=\"300\"></p>\n<p>Becky: <span class=\"word\">I've</span> <span class=\"word\">got</span> <span class=\"word\">two</span> <span class=\"word\">grandparents:</span> <span class=\"word\">Bill</span> <span class=\"word\">and</span> <span class=\"word\">Alice.</span> <span class=\"word\">They're</span> <span class=\"word\">my <span class='fillblank-option'><label>10.1</label><input id='fbo-316442-0' class='ms fillblank-option-10' index='0' name='fbo-316442-0' type='text' size='10' autocomplete='off' data-testid='fillblank-input-316442-0' /></span> parents. I've got an aunt and uncle. Uncle Michael is my <span class='fillblank-option'><label>10.2</label><input id='fbo-316442-1' class='ms fillblank-option-10' index='1' name='fbo-316442-1' type='text' size='9' autocomplete='off' data-testid='fillblank-input-316442-1' /></span> brother. And I've got two cousins: Phil and Ed. They are <span class='fillblank-option'><label>10.3</label><input id='fbo-316442-2' class='ms fillblank-option-10' index='2' name='fbo-316442-2' type='text' size='21' autocomplete='off' data-testid='fillblank-input-316442-2' /></span> children.</span></p>\n<p><span class=\"word\">Diane: I've got a husband and two daughters, and also two nephews. They're my <span class='fillblank-option'><label>10.4</label><input id='fbo-316442-3' class='ms fillblank-option-10' index='3' name='fbo-316442-3' type='text' size='11' autocomplete='off' data-testid='fillblank-input-316442-3' /></span> children. My <span class='fillblank-option'><label>10.5</label><input id='fbo-316442-4' class='ms fillblank-option-10' index='4' name='fbo-316442-4' type='text' size='11' autocomplete='off' data-testid='fillblank-input-316442-4' /></span> names are Bill and Alice.</span></p>\n<p><span class=\"word\">Phil and Ed: We've got two cousins: Becky and Lucy. Our <span class='fillblank-option'><label>10.6</label><input id='fbo-316442-5' class='ms fillblank-option-10' index='5' name='fbo-316442-5' type='text' size='9' autocomplete='off' data-testid='fillblank-input-316442-5' /></span> parents are Aunt Diane and Uncle David. Diane is our <span class='fillblank-option'><label>10.7</label><input id='fbo-316442-6' class='ms fillblank-option-10' index='6' name='fbo-316442-6' type='text' size='10' autocomplete='off' data-testid='fillblank-input-316442-6' /></span> sister.</span></p>\n<div style=\"position: absolute; left: 403px; top: 34px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "mother's",
+            "mother’s"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "mother's",
+            "mother’s"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "Michael and Liz's",
+            "Michael and Liz’s"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "brother's",
+            "brother’s"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "parents'",
+            "parents’"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "cousins'",
+            "cousins’"
+          ]
+        },
+        {
+          "index": 6,
+          "correctAnswers": [
+            "father's",
+            "father’s"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dạng sở hữu c&aacute;ch (<strong>'s</strong>) được th&ecirc;m v&agrave;o sau danh từ thứ nhất, để chỉ ra sự sở hữu của n&oacute; đối với danh từ thứ 2.</p>\n<p>Cấu tr&uacute;c: <strong>N1+ 's + N2</strong>&nbsp;= the N2 of N1 (N2 của N1)</p>\n<p>Lưu &yacute;: Với danh từ số nhiều v&agrave; c&oacute; \"<strong>s</strong>\" ở cuối c&acirc;u, chỉ cần th&ecirc;m dấu phẩy tr&ecirc;n để h&igrave;nh th&agrave;nh dạng sở hữu c&aacute;ch.</p>\n<p>Khi c&oacute; nhiều chủ sở hữu (v&iacute; dụ như nhiều người), nếu vật sở hữu thuộc về tất cả những người đ&oacute;, sở hữu c&aacute;ch chỉ được th&ecirc;m v&agrave;o danh từ cuối c&ugrave;ng trong chuỗi danh s&aacute;ch c&aacute;c chủ sở hữu.</p>\n<p data-start=\"0\" data-end=\"77\"><em>Dựa tr&ecirc;n sơ đồ gia đ&igrave;nh, đ&acirc;y l&agrave; mối quan hệ giữa c&aacute;c nh&acirc;n vật trong đoạn văn:</em></p>\n<ul data-start=\"79\" data-end=\"720\">\n<li data-start=\"79\" data-end=\"214\">\n<p data-start=\"81\" data-end=\"214\"><em>Becky v&agrave; Lucy l&agrave; hai chị em ruột, c&oacute; bố mẹ l&agrave; David v&agrave; Diane v&agrave; &ocirc;ng b&agrave; l&agrave; Bill v&agrave; Alice. </em></p>\n</li>\n<li data-start=\"79\" data-end=\"214\">\n<p data-start=\"81\" data-end=\"214\"><em>Michael v&agrave; Liz l&agrave; ch&uacute; v&agrave; d&igrave; của Becky v&agrave; Lucy. Hai người n&agrave;y c&oacute; hai người con l&agrave; Phil v&agrave; Ed n&ecirc;n Phil v&agrave; Ed l&agrave; em họ của Becky v&agrave; Lucy.</em></p>\n</li>\n</ul>\n<p>Dịch đoạn văn:&nbsp;</p>\n<p>Becky: T&ocirc;i c&oacute; hai &ocirc;ng b&agrave;: (t&ecirc;n l&agrave;) Bill v&agrave; Alice. Họ l&agrave; bố mẹ của mẹ t&ocirc;i. T&ocirc;i c&oacute; một người d&igrave; v&agrave; một người ch&uacute;. Ch&uacute; Michael l&agrave; em trai của mẹ t&ocirc;i. V&agrave; t&ocirc;i c&oacute; hai người em họ: Phil v&agrave; Ed. Họ l&agrave; con của ch&uacute; Michael v&agrave; d&igrave; Liz.</p>\n<p>Diane: T&ocirc;i c&oacute; chồng, hai con g&aacute;i v&agrave; hai ch&aacute;u trai. Ch&uacute;ng l&agrave; con của em trai t&ocirc;i. T&ecirc;n bố mẹ t&ocirc;i l&agrave; Bill v&agrave; Alice.</p>\n<p>Phil v&agrave; Ed: Ch&uacute;ng t&ocirc;i c&oacute; hai người chị họ: Becky v&agrave; Lucy. Cha mẹ chị họ của ch&uacute;ng t&ocirc;i l&agrave; b&aacute;c Diane v&agrave; b&aacute;c David. Diane l&agrave; chị g&aacute;i của bố ch&uacute;ng t&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 153092,
+      "questionNumber": 11,
+      "questionName": "10",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Phong has a sister. Her name is Nhung.</strong></p>\n<p><strong>=&gt; Nhung ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Nhung  is Phong’s sister."
+      ],
+      "hint": "",
+      "explanation": "<p>Dạng sở hữu c&aacute;ch ('s) được th&ecirc;m v&agrave;o sau danh từ thứ nhất, để chỉ ra sự sở hữu của n&oacute; đối với danh từ thứ 2 sau ('s).</p>\n<p>Cấu tr&uacute;c: <strong>N1 + 's + N2 = the N2 of N1 (N2 của N1)</strong></p>\n<p><em>Lưu &yacute;: Cấu tr&uacute;c sở hữu với \"of\" thường kh&ocirc;ng được d&ugrave;ng để chỉ sự sở hữu của người.</em></p>\n<p>Dịch: Phong c&oacute; 1 chị g&aacute;i. C&ocirc; ấy t&ecirc;n l&agrave; Nhung.</p>\n<p>~ Nhung l&agrave; chị g&aacute;i của Phong.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 908371,
+      "questionNumber": 12,
+      "questionName": "10",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>My English teacher is the owner of that house. </strong></p>\n<p><strong>=&gt; That is ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "That is my English teacher's house."
+      ],
+      "hint": "",
+      "explanation": "<p>Dạng sở hữu c&aacute;ch (<strong>'s)</strong> được th&ecirc;m v&agrave;o sau danh từ \"<strong>my English teacher</strong>\", để chỉ ra sự sở hữu của n&oacute; đối với danh từ \"<strong>house</strong>\".</p>\n<p>Cấu tr&uacute;c: <strong>N1 + 's + N2 = the N2 of N1 (N2 của N1)</strong></p>\n<p><em>Lưu &yacute;: Cấu tr&uacute;c sở hữu với \"of\" thường kh&ocirc;ng được d&ugrave;ng để chỉ sự sở hữu của người.</em></p>\n<p>Dịch: Gi&aacute;o vi&ecirc;n tiếng Anh của t&ocirc;i l&agrave; chủ sở hữu của ng&ocirc;i nh&agrave; đ&oacute;.</p>\n<p>~ Đ&oacute; l&agrave; ng&ocirc;i nh&agrave; của gi&aacute;o vi&ecirc;n tiếng Anh của t&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 40588,
+      "questionNumber": 13,
+      "questionName": "Q77",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>That motorbike belongs to Jasmine.</strong></p>\n<p><strong>=&gt; That <span class='fillblank-option'><input id='fbo-40588-0' class='ms fillblank-option-13' index='0' name='fbo-40588-0' type='text' size='14' autocomplete='off' data-testid='fillblank-input-40588-0' /></span> motorbike.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "is Jasmine's",
+            "is Jasmine’s"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dạng sở hữu c&aacute;ch (<strong>'s</strong>) được th&ecirc;m v&agrave;o sau \"<strong>Jasmine</strong>\", để chỉ ra sự sở hữu của đối tượng đối với danh từ thứ 2 sau <strong>'s</strong>.</p>\n<p>Cấu tr&uacute;c: <strong>N1+ 's + N2</strong>&nbsp;= the N2 of N1 (N2 của N1)</p>\n<p>Dịch:&nbsp;Chiếc xe m&aacute;y đ&oacute; thuộc về Jasmine.</p>\n<p>~ Đ&oacute; l&agrave; xe m&aacute;y của Jasmine.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 40580,
+      "questionNumber": 14,
+      "questionName": "Q73",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Mr. Minh has a son, Trung.</strong></p>\n<p><strong>=&gt; Mr. Minh is <span class='fillblank-option'><input id='fbo-40580-0' class='ms fillblank-option-14' index='0' name='fbo-40580-0' type='text' size='16' autocomplete='off' data-testid='fillblank-input-40580-0' /></span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Trung's father",
+            "Trung's dad"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dạng sở hữu c&aacute;ch ('s) được th&ecirc;m v&agrave;o sau danh từ thứ nhất, để chỉ ra sự sở hữu của n&oacute; đối với danh từ ph&iacute;a sau.</p>\n<p>Cấu tr&uacute;c: <strong>N1 + 's + N2 = the N2 of N1 (N2 của N1)</strong></p>\n<p>Dịch: &Ocirc;ng Minh c&oacute; một con trai, Trung.</p>\n<p>~ &Ocirc;ng Minh l&agrave; bố của Trung.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 896943,
+      "questionNumber": 15,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Use the correct possessives to complete the sentences. If two answers are possible, write the more likely one.</strong></p>\n<p>1. Where are the <span class='fillblank-option'><label>15.1</label><input id='fbo-896943-0' class='ms fillblank-option-15' index='0' name='fbo-896943-0' type='text' size='13' autocomplete='off' data-testid='fillblank-input-896943-0' /></span>? <em>(books/ boys)</em></p>\n<p>2.&nbsp;He climbed to the <span class='fillblank-option'><label>15.2</label><input id='fbo-896943-1' class='ms fillblank-option-15' index='1' name='fbo-896943-1' type='text' size='18' autocomplete='off' data-testid='fillblank-input-896943-1' /></span> to get the book. <em>(top/ stairs)</em></p>\n<p>3. She closed the <span class='fillblank-option'><label>15.3</label><input id='fbo-896943-2' class='ms fillblank-option-15' index='2' name='fbo-896943-2' type='text' size='13' autocomplete='off' data-testid='fillblank-input-896943-2' /></span>. <em>(door/ kitchen)</em></p>\n<p>4. The <span class='fillblank-option'><label>15.4</label><input id='fbo-896943-3' class='ms fillblank-option-15' index='3' name='fbo-896943-3' type='text' size='14' autocomplete='off' data-testid='fillblank-input-896943-3' /></span> were old and dirty. <em>(clothes/ men)</em></p>\n<p>5. This is Mike, my best friend. I like the <span class='fillblank-option'><label>15.5</label><input id='fbo-896943-4' class='ms fillblank-option-15' index='4' name='fbo-896943-4' type='text' size='22' autocomplete='off' data-testid='fillblank-input-896943-4' /></span>; it's very unique. <em>(color/ hair)</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "boys' books",
+            "boys’ books"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "top of the stairs"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "kitchen door"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "men's clothes",
+            "men’s clothes"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "color of his hair",
+            "colour of his hair"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dạng sở hữu c&aacute;ch (<strong>'s</strong>) được th&ecirc;m v&agrave;o sau danh từ thứ nhất, để chỉ ra sự sở hữu của n&oacute; đối với danh từ thứ 2.</p>\n<p>Cấu tr&uacute;c: <strong>N1 + 's + N2&nbsp;</strong>(N2 của N1) - thường d&ugrave;ng với N1 chỉ người, động vật, t&ecirc;n quốc gia</p>\n<p>Cấu tr&uacute;c chỉ sự sở hữu với \"<strong>OF</strong>\": <strong>the N1 + of + the N2</strong> (N1 của N2) - d&ugrave;ng khi <span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">N1</span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"> l&agrave; c&aacute;c từ </span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">chỉ vị tr&iacute; cụ thể</span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"> như </span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">side, top, bottom, back, end,... </span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">hoặc</span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">&nbsp;</span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">chỉ sự trừu tượng, v&ocirc; t&iacute;nh</span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">.</span></p>\n<p>Cấu tr&uacute;c chỉ sự sở hữu kh&ocirc;ng c&oacute; \"<strong>OF</strong>\": <strong>N1 + N2</strong> (N2 của N1) - d&ugrave;ng với N1 l&agrave; một v&agrave;i từ cụ thể chỉ địa điểm hoặc đồ vật</p>\n<p>Dịch:&nbsp;</p>\n<p>1. S&aacute;ch vở của c&aacute;c bạn nam đ&acirc;u?</p>\n<p>2. Anh ta leo l&ecirc;n đầu của cầu thang để lấy cuốn s&aacute;ch.</p>\n<p>3. C&ocirc; ấy đ&oacute;ng cửa (của ph&ograve;ng) bếp.</p>\n<p>4. Quần &aacute;o của những người đ&agrave;n &ocirc;ng đ&oacute; th&igrave; cũ v&agrave; bẩn.</p>\n<p>5. Đ&acirc;y l&agrave; Mike, bạn th&acirc;n của t&ocirc;i. T&ocirc;i th&iacute;ch m&agrave;u của t&oacute;c anh ấy; n&oacute; rất độc đ&aacute;o.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 316667,
+      "questionNumber": 16,
+      "questionName": "Grammar Practice for Elementary Students 3rd-p.24",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong><span class=\"word\">Complete</span> <span class=\"word\">the</span> <span class=\"word\">letter.</span> <span class=\"word\">Use</span> <span class=\"word\">the</span> <span class=\"word\">words</span> <span class=\"word\">in</span> <span class=\"word\">brackets</span> <span class=\"word\">and</span> &quot;<em>of the&quot;</em> <span class=\"word\">if</span> <span class=\"word\">necessary.</span> </strong></p>\n<p style=\"text-align: justify;\"><span class=\"word\">Hi Laura!</span></p>\n<p style=\"text-align: justify;\"><span class=\"word\">We're staying in an old house in the country and we're having a few problems! The <em>...<strong>bathroom light</strong>...</em><strong> </strong>(bathroom/ light) doesn't work and we can't shut the <span class='fillblank-option'><label>16.1</label><input id='fbo-316667-0' class='ms fillblank-option-16' index='0' name='fbo-316667-0' type='text' size='16' autocomplete='off' data-testid='fillblank-input-316667-0' /></span> (kitchen/ door). All the furniture's very old and the <span class='fillblank-option'><label>16.2</label><input id='fbo-316667-1' class='ms fillblank-option-16' index='1' name='fbo-316667-1' type='text' size='23' autocomplete='off' data-testid='fillblank-input-316667-1' /></span> (living room/ curtains) are a horrible colour. And there's an awful picture of a cat at the <span class='fillblank-option'><label>16.3</label><input id='fbo-316667-2' class='ms fillblank-option-16' index='2' name='fbo-316667-2' type='text' size='18' autocomplete='off' data-testid='fillblank-input-316667-2' /></span> (top/ stairs).</span></p>\n<p style=\"text-align: justify;\"><span class=\"word\">At the <span class='fillblank-option'><label>16.4</label><input id='fbo-316667-3' class='ms fillblank-option-16' index='3' name='fbo-316667-3' type='text' size='18' autocomplete='off' data-testid='fillblank-input-316667-3' /></span> (back/ house) there's a small garden. It's pretty and I can see it from my <span class='fillblank-option'><label>16.5</label><input id='fbo-316667-4' class='ms fillblank-option-16' index='4' name='fbo-316667-4' type='text' size='17' autocomplete='off' data-testid='fillblank-input-316667-4' /></span> (bedroom/ window). At the <span class='fillblank-option'><label>16.6</label><input id='fbo-316667-5' class='ms fillblank-option-16' index='5' name='fbo-316667-5' type='text' size='19' autocomplete='off' data-testid='fillblank-input-316667-5' /></span> (side/ house) is a little path to the river. The river's lovely and we walk along it every day. We don't want to stay in the house! See you soon.</span></p>\n<p style=\"text-align: justify;\"><span class=\"word\">Love,<br></span>Emily</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "kitchen door"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "living room curtains"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "top of the stairs"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "back of the house"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "bedroom window"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "side of the house"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c chỉ sự sở hữu: <strong>the N1 + of + the N2</strong>: N1 của N2 (với những từ: <em>side, top, bottom, back, front, end, beginning</em>)</p>\n<p>Cấu tr&uacute;c chỉ sự sở hữu kh&ocirc;ng cần d&ugrave;ng \"of\": <strong>N1 + N2</strong></p>\n<p>1.&nbsp;<strong>kitchen door</strong> (n.phr.): cửa nh&agrave; bếp</p>\n<p>Kh&ocirc;ng cần \"<strong>of the</strong>\" v&igrave; \"<strong>door</strong>\" l&agrave; một đồ vật cụ thể trong bếp.</p>\n<p>2.<strong> living room curtain</strong> (n.phr.): r&egrave;m ph&ograve;ng kh&aacute;ch</p>\n<p>Kh&ocirc;ng cần \"<strong>of the</strong>\" v&igrave; \"<strong>curtains</strong>\" l&agrave; một đồ vật cụ thể trong ph&ograve;ng kh&aacute;ch.</p>\n<p>3.&nbsp;Cần \"<strong>of the</strong>\" v&igrave; ch&uacute;ng ta đang chỉ một phần cụ thể của cầu thang. \"<strong>top</strong>\" đi k&egrave;m với \"<strong>of the</strong>\" để chỉ một phần cụ thể của đồ vật hoặc địa điểm.</p>\n<p><strong>the top of the stairs</strong> (n.phr.): đầu cầu thang</p>\n<p>4. Cần \"<strong>of the</strong>\" v&igrave; ch&uacute;ng ta đang chỉ một phần của ng&ocirc;i nh&agrave; (ph&iacute;a sau).</p>\n<p><strong>the back of the house</strong> (n.phr.): ph&iacute;a sau nh&agrave;</p>\n<p>5.<strong> bedroom window</strong> (n.phr.): cửa sổ ph&ograve;ng ngủ</p>\n<p>Kh&ocirc;ng cần \"<strong>of the</strong>\" v&igrave; đ&acirc;y l&agrave; một cửa sổ trong ph&ograve;ng ngủ, kh&ocirc;ng cần chỉ r&otilde; một phần n&agrave;o đ&oacute; cụ thể của cửa sổ.</p>\n<p>6. Cần \"<strong>of the</strong>\" để chỉ r&otilde; vị tr&iacute; cụ thể của ng&ocirc;i nh&agrave; (ph&iacute;a b&ecirc;n của ng&ocirc;i nh&agrave;).</p>\n<p><strong>the side of the house</strong> (n.phr.): mặt b&ecirc;n của ng&ocirc;i nh&agrave;</p>\n<p>Dịch:&nbsp;</p>\n<p>Xin ch&agrave;o Laura!</p>\n<p>Ch&uacute;ng t&ocirc;i đang ở trong một ng&ocirc;i nh&agrave; cũ ở n&ocirc;ng th&ocirc;n v&agrave; ch&uacute;ng t&ocirc;i đang gặp một v&agrave;i vấn đề! Đ&egrave;n ph&ograve;ng tắm kh&ocirc;ng hoạt động v&agrave; ch&uacute;ng t&ocirc;i kh&ocirc;ng thể đ&oacute;ng cửa bếp. Tất cả đồ đạc đều rất cũ v&agrave; r&egrave;m ph&ograve;ng kh&aacute;ch c&oacute; m&agrave;u rất kinh khủng. V&agrave; c&oacute; một bức tranh kinh khủng về một con m&egrave;o ở đầu cầu thang.</p>\n<p>Ph&iacute;a sau nh&agrave; c&oacute; một khu vườn nhỏ. N&oacute; rất đẹp v&agrave; t&ocirc;i c&oacute; thể nh&igrave;n thấy n&oacute; từ cửa sổ ph&ograve;ng ngủ của m&igrave;nh. B&ecirc;n h&ocirc;ng nh&agrave; c&oacute; một con đường nhỏ dẫn đến bờ s&ocirc;ng. Con s&ocirc;ng rất đẹp v&agrave; ch&uacute;ng t&ocirc;i đi bộ dọc theo đ&oacute; mỗi ng&agrave;y. Ch&uacute;ng t&ocirc;i kh&ocirc;ng muốn ở trong nh&agrave;! Hẹn gặp lại bạn sớm.</p>\n<p>Th&acirc;n &aacute;i,<br />Emily</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 897011,
+      "questionNumber": 17,
+      "questionName": "32",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence, using the word given so that it has a similar meaning to the first sentence. Do NOT change the word given in brackets in any way.</em></p>\n<p><strong>How tall was the 1960 tsunami in Chile? (HEIGHT)</strong></p>\n<p><strong>=&gt; What was <span class='fillblank-option'><input id='fbo-897011-0' class='ms fillblank-option-17' index='0' name='fbo-897011-0' type='text' size='17' autocomplete='off' data-testid='fillblank-input-897011-0' /></span> the 1960 tsunami in Chile?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "the height of"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>How tall + be + S?</strong>: Ai/C&aacute;i g&igrave; cao như n&agrave;o?</p>\n<p>~ <strong>What + be + the height + of + N?</strong>: Chiều cao của ai/c&aacute;i g&igrave; l&agrave; bao nhi&ecirc;u?</p>\n<p>Cấu tr&uacute;c chỉ sự sở hữu: <strong>the N1 + of + the N2</strong>: N1 của N2&nbsp;</p>\n<p>Dịch:&nbsp;S&oacute;ng thần năm 1960 ở Chile cao bao nhi&ecirc;u?</p>\n<p>~ Chiều cao của s&oacute;ng thần năm 1960 ở Chile l&agrave; bao nhi&ecirc;u?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 897013,
+      "questionNumber": 18,
+      "questionName": "3",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence, using the word given so that it has a similar meaning to the first sentence. Do NOT change the word given in brackets in any way.</em></p>\n<p><strong>What does your brother do? (JOB)</strong></p>\n<p><strong>=&gt; What is <span class='fillblank-option'><input id='fbo-897013-0' class='ms fillblank-option-18' index='0' name='fbo-897013-0' type='text' size='21' autocomplete='off' data-testid='fillblank-input-897013-0' /></span>?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "your brother's job",
+            "your brother’s job"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dạng sở hữu c&aacute;ch (<strong>'s</strong>) được th&ecirc;m v&agrave;o sau danh từ \"<strong>brother</strong>\", để chỉ ra sự sở hữu của n&oacute; đối với danh từ \"<strong>job</strong>\".</p>\n<p>Cấu tr&uacute;c: <strong>N1+ 's + N2</strong>&nbsp;= the N2 of N1 (N2 của N1)</p>\n<p>Cấu tr&uacute;c c&acirc;u hỏi nghề nghiệp: <strong>What + do/does + S + do?</strong>: Ai đ&oacute; l&agrave;m nghề g&igrave; ~ <strong>What + be + one's job?</strong>: C&ocirc;ng việc của ai l&agrave; g&igrave;?</p>\n<p>Dịch:&nbsp;Anh trai của bạn l&agrave;m nghề g&igrave;?</p>\n<p>~ Nghề của anh trai bạn l&agrave; g&igrave;?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 908303,
+      "questionNumber": 19,
+      "questionName": "Grammar Practice - Upper Intermediate - p.21",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Complete the sentences. Use one word from each box in each sentence. Use <em>'s</em> or <em>N + of + the N</em></strong></p>\n<table style=\"border-collapse: collapse; width: 100%; height: 33px; border-color: #2DC26B; border-style: dashed;\" border=\"1\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 50%; text-align: center; height: 33px;\"><strong>centre | daughter | front | top | back</strong></td>\n<td style=\"width: 50%; text-align: center; height: 33px;\"><strong>city | friends | page | queue | drawer</strong></td>\n</tr>\n</tbody>\n</table>\n<p><br><em><strong>Example: </strong>They waited for ages to get to the <strong>...front of the queue...</strong> but the performance was worth the wait.</em></p>\n<p>1. We invited our youngest <span class='fillblank-option'><label>19.1</label><input id='fbo-908303-0' class='ms fillblank-option-19' index='0' name='fbo-908303-0' type='text' size='21' autocomplete='off' data-testid='fillblank-input-908303-0' /></span> to the house for a children's party when she turned ten years old.</p>\n<p>2. Public transport will take you into the <span class='fillblank-option'><label>19.2</label><input id='fbo-908303-1' class='ms fillblank-option-19' index='1' name='fbo-908303-1' type='text' size='21' autocomplete='off' data-testid='fillblank-input-908303-1' /></span>, where you will find many shops and restaurants.</p>\n<p>3. Before you start the test, write your name at the <span class='fillblank-option'><label>19.3</label><input id='fbo-908303-2' class='ms fillblank-option-19' index='2' name='fbo-908303-2' type='text' size='16' autocomplete='off' data-testid='fillblank-input-908303-2' /></span>.</p>\n<p>4. I found some old photos at the <span class='fillblank-option'><label>19.4</label><input id='fbo-908303-3' class='ms fillblank-option-19' index='3' name='fbo-908303-3' type='text' size='20' autocomplete='off' data-testid='fillblank-input-908303-3' /></span>.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "daughter's friends"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "centre of the city",
+            "center of the city"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "top of the page"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "back of the drawer"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dạng sở hữu c&aacute;ch (<strong>'s</strong>) được th&ecirc;m v&agrave;o sau danh từ thứ nhất, để chỉ ra sự sở hữu của n&oacute; đối với danh từ thứ 2.</p>\n<p>Cấu tr&uacute;c: <strong>N1+ 's + N2</strong> = the N2 of N1 (N2 của N1)</p>\n<p>Cấu tr&uacute;c chỉ sự sở hữu: <strong>the N1 + of + the N2</strong>: N1 của N2 (thường d&ugrave;ng với những từ: <em>side, top, bottom, back, front, end, beginning</em>)</p>\n<p>Dịch:</p>\n<p>1. Ch&uacute;ng t&ocirc;i mời bạn b&egrave; của con g&aacute;i &uacute;t đến nh&agrave; dự tiệc d&agrave;nh cho trẻ em khi c&ocirc; b&eacute; tr&ograve;n mười tuổi.</p>\n<p>2. Phương tiện giao th&ocirc;ng c&ocirc;ng cộng sẽ đưa bạn v&agrave;o trung t&acirc;m th&agrave;nh phố, nơi bạn sẽ t&igrave;m thấy nhiều cửa h&agrave;ng v&agrave; nh&agrave; h&agrave;ng.</p>\n<p>3. Trước khi bạn bắt đầu l&agrave;m b&agrave;i kiểm tra, h&atilde;y viết t&ecirc;n của bạn ở đầu trang.</p>\n<p>4. T&ocirc;i t&igrave;m thấy một số bức ảnh cũ ở ph&iacute;a sau ngăn k&eacute;o.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

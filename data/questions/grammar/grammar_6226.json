@@ -1,0 +1,1478 @@
+{
+  "quizId": 6226,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 62: ... suggest .../ ... be suggested that ...",
+  "totalQuestions": 34,
+  "questions": [
+    {
+      "id": 904837,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "CheckBox",
+      "questionText": "<p><em>Ch&#7885;n c&#225;c ph&#432;&#417;ng &#225;n &#273;&#250;ng.</em></p>\n<p><strong>&#272;&#7897;ng t&#7915; &quot;suggest&quot; c&#243; th&#7875; s&#7917; d&#7909;ng c&#249;ng v&#7899;i m&#7897;t _____.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1718556,
+          "label": "A",
+          "text": "mệnh đề if",
+          "isCorrect": false
+        },
+        {
+          "id": 1718557,
+          "label": "B",
+          "text": "cụm danh từ",
+          "isCorrect": true
+        },
+        {
+          "id": 1718558,
+          "label": "C",
+          "text": "cụm giới từ",
+          "isCorrect": false
+        },
+        {
+          "id": 1718559,
+          "label": "D",
+          "text": "danh động từ (V-ing)",
+          "isCorrect": true
+        },
+        {
+          "id": 1718560,
+          "label": "E",
+          "text": "mệnh đề 'that'",
+          "isCorrect": true
+        },
+        {
+          "id": 1718561,
+          "label": "F",
+          "text": "động từ nguyên thể",
+          "isCorrect": false
+        },
+        {
+          "id": 1718562,
+          "label": "Opt 7",
+          "text": "từ để hỏi",
+          "isCorrect": true
+        },
+        {
+          "id": 1718563,
+          "label": "Opt 8",
+          "text": "cụm trạng từ",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1718557,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/3_-_Copy_48_74d07ba4.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 904846,
+      "questionNumber": 2,
+      "questionName": "1",
+      "questionType": "TrueFalse",
+      "questionText": "<p><strong>Khi s&#7917; d&#7909;ng c&#7845;u tr&#250;c &quot;suggest + m&#7879;nh &#273;&#7873; that&quot;, t&#7915; &quot;that&quot; c&#243; th&#7875; &#273;&#432;&#7907;c l&#432;&#7907;c b&#7887; trong m&#7897;t s&#7889; tr&#432;&#7901;ng h&#7907;p kh&#244;ng trang tr&#7885;ng.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1718578,
+          "label": "A",
+          "text": "True",
+          "isCorrect": true
+        },
+        {
+          "id": 1718579,
+          "label": "B",
+          "text": "False",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1718578,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/5_-_Copy_25_f30bedc8.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 904864,
+      "questionNumber": 3,
+      "questionName": "1",
+      "questionType": "TrueFalse",
+      "questionText": "<p><strong>Khi s&#7917; d&#7909;ng c&#7845;u tr&#250;c &quot;suggest + V-ing&quot;, ph&#7843;i ch&#7881; r&#245; ai s&#7869; th&#7921;c hi&#7879;n h&#224;nh &#273;&#7897;ng &#273;&#243;.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1718599,
+          "label": "A",
+          "text": "True",
+          "isCorrect": false
+        },
+        {
+          "id": 1718600,
+          "label": "B",
+          "text": "False",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1718600,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/6_-_Copy_21_cbff0aa5.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 15819,
+      "questionNumber": 4,
+      "questionName": "II.22",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The doctor suggested that Miss White _____ two aspirins per day.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 52956,
+          "label": "A",
+          "text": "to take",
+          "isCorrect": false
+        },
+        {
+          "id": 52957,
+          "label": "B",
+          "text": "taking",
+          "isCorrect": false
+        },
+        {
+          "id": 52958,
+          "label": "C",
+          "text": "should take",
+          "isCorrect": true
+        },
+        {
+          "id": 52959,
+          "label": "D",
+          "text": "takes",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 52958,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<div class=\"pointer-events-none -mt-px h-px translate-y-(--scroll-root-safe-area-inset-bottom)\" aria-hidden=\"true\">&nbsp;</div>\n<section class=\"text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-6a4c85ed-ac10-83ec-8a7e-a4f257c77362-71\" data-turn-id-container=\"request-6a4c85ed-ac10-83ec-8a7e-a4f257c77362-71\" data-testid=\"conversation-turn-1210\" data-turn=\"assistant\">\n<p class=\"PDq2pG_selectionAnchorContainer\" data-start=\"154\" data-end=\"363\" data-is-last-node=\"\" data-is-only-node=\"\">H&atilde;y ch&uacute; &yacute; đến động từ <em data-start=\"256\" data-end=\"269\">\"suggested\"</em> v&agrave; li&ecirc;n từ <em data-start=\"281\" data-end=\"289\">\"that\" </em>trong c&acirc;u.</p>\n<p class=\"PDq2pG_selectionAnchorContainer\" data-start=\"154\" data-end=\"363\" data-is-last-node=\"\" data-is-only-node=\"\">H&atilde;y nhớ lại cấu tr&uacute;c ngữ ph&aacute;p thường được d&ugrave;ng sau c&aacute;c động từ như <em data-start=\"63\" data-end=\"74\">\"suggest\"</em>, <em data-start=\"76\" data-end=\"89\">\"recommend\"</em> hoặc <em data-start=\"95\" data-end=\"105\">\"insist\"</em> khi theo sau l&agrave; mệnh đề bắt đầu bằng <em data-start=\"143\" data-end=\"151\">\"that\".</em></p>\n</section>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu tr&uacute;c mệnh đề \"that\" sau động từ chỉ sự đề nghị/y&ecirc;u cầu</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Diễn tả một đề nghị, y&ecirc;u cầu, hoặc &yacute; kiến quan trọng, thường l&agrave; về một h&agrave;nh động cần được thực hiện.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><span style=\"color: #1c581f; font-weight: 600;\">S1 + V (suggest, recommend, advise, insist, demand, request, order, propose, etc.) + that + S2 + (should) + V(inf)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u,&nbsp;động từ <em>\"suggested\"</em> đi k&egrave;m với li&ecirc;n từ <em>\"that\"</em> tạo th&agrave;nh cấu tr&uacute;c y&ecirc;u cầu động từ trong mệnh đề phụ phải ở dạng nguy&ecirc;n thể kh&ocirc;ng <em>\"to\"</em> (bare infinitive), c&oacute; thể c&oacute; hoặc kh&ocirc;ng c&oacute; <em>\"should\"</em>. Phương &aacute;n <em>\"should take\"</em> tu&acirc;n thủ đ&uacute;ng cấu tr&uacute;c n&agrave;y, diễn tả lời đề nghị của b&aacute;c sĩ một c&aacute;ch ch&iacute;nh x&aacute;c.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>to take</em>\" sai v&igrave; động từ sau \"<em>suggest that</em>\" kh&ocirc;ng đi với \"<em>to V</em>\".</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 \"<em>taking</em>\" sai v&igrave; V-ing chỉ d&ugrave;ng trực tiếp sau \"<em>suggest</em>\" khi kh&ocirc;ng c&oacute; mệnh đề \"<em>that</em>\".</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<em>takes</em>\" sai v&igrave; động từ trong mệnh đề giả định phải ở dạng nguy&ecirc;n thể, kh&ocirc;ng chia theo th&igrave; hay chủ ngữ.</li>\n</ul>",
+      "answerFeedbacks": {
+        "52956": "Sai vì sau <em>\"suggest that\"</em>, động từ trong mệnh đề phụ phải ở dạng nguyên thể không <em>\"to\"</em> (bare infinitive), có hoặc không có <em>\"should\"</em>.",
+        "52957": "Sai vì cấu trúc <em>\"suggest that\"</em> không theo sau bởi <em>V-ing</em>; <em>V-ing</em> chỉ dùng trực tiếp sau <em>\"suggest\"</em> khi không có mệnh đề <em>\"that\"</em> (ví dụ: <em>\"The doctor suggested taking two aspirins.\"</em>).",
+        "52958": "Đúng vì đây là cấu trúc chính xác sau <em>\"suggest that\"</em>, yêu cầu động từ nguyên thể không <em>\"to\"</em>, có thể kèm <em>\"should\"</em> để nhấn mạnh sự đề nghị.",
+        "52959": "Sai vì động từ trong mệnh đề <em>\"that\"</em> sau <em>\"suggest\"</em> phải ở dạng nguyên thể không <em>\"to\"</em>, không chia theo thì hay chủ ngữ."
+      },
+      "images": []
+    },
+    {
+      "id": 44107,
+      "questionNumber": 5,
+      "questionName": "Q 7.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>She suggested _____ money for the poor people in the region. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 127849,
+          "label": "A",
+          "text": "to save",
+          "isCorrect": false
+        },
+        {
+          "id": 127850,
+          "label": "B",
+          "text": "saved",
+          "isCorrect": false
+        },
+        {
+          "id": 127851,
+          "label": "C",
+          "text": "saving",
+          "isCorrect": true
+        },
+        {
+          "id": 127852,
+          "label": "D",
+          "text": "save",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 127851,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y nhớ lại động từ ''suggest'' thường đi với dạng động từ n&agrave;o để trực tiếp chỉ một h&agrave;nh động được đề xuất, gợi &yacute;.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ ''suggest'' theo sau bởi danh động từ (Gerund)</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Động từ \"suggest\" được d&ugrave;ng để đưa ra một &yacute; tưởng, một kế hoạch hoặc một lời khuy&ecirc;n về một h&agrave;nh động n&ecirc;n l&agrave;m. Khi h&agrave;nh động được đề xuất l&agrave; t&acirc;n ngữ trực tiếp của \"suggest\", n&oacute; phải ở dạng danh động từ.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: <span style=\"color: #1c581f;\">S + suggest + V-ing + O</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Theo quy tắc ngữ ph&aacute;p, động từ \"<em>suggest</em>\" (đề xuất) phải được theo sau bởi một danh động từ (V-ing) khi n&oacute; trực tiếp chỉ h&agrave;nh động được đề xuất. Do đ&oacute;, \"<em>saving</em>\" l&agrave; dạng đ&uacute;ng để ho&agrave;n th&agrave;nh c&acirc;u n&agrave;y.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>to save</em>\" v&agrave; phương &aacute;n 4 \"<em>save</em>\" l&agrave; c&aacute;c dạng nguy&ecirc;n thể của động từ, kh&ocirc;ng đ&uacute;ng cấu tr&uacute;c ngữ ph&aacute;p sau \"<em>suggest</em>\" trong trường hợp n&agrave;y. Phương &aacute;n 2 ''<em>saved</em>'' ở th&igrave; Qu&aacute; khứ đơn cũng kh&ocirc;ng được sử dụng với cấu tr&uacute;c n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "127849": "Sai vì động từ <em>\"suggest\"</em> không được theo sau bởi động từ nguyên thể có <em>\"to\"</em> (to-infinitive) khi chỉ hành động được đề xuất.",
+        "127850": "Sai vì <em>\"saved\"</em> là dạng quá khứ đơn hoặc quá khứ phân từ, không đúng cấu trúc ngữ pháp sau <em>\"suggest\"</em> trong ngữ cảnh này.",
+        "127851": "Đúng vì động từ <em>\"suggest\"</em> được theo sau bởi danh động từ (gerund) <em>\"V-ing\"</em> để chỉ một hành động được đề xuất.",
+        "127852": "Sai vì <em>\"save\"</em> là dạng nguyên thể của động từ, không đúng cấu trúc ngữ pháp sau <em>\"suggest\"</em> khi nó là tân ngữ trực tiếp."
+      },
+      "images": []
+    },
+    {
+      "id": 45325,
+      "questionNumber": 6,
+      "questionName": "Q 5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He suggested _____ that they should adopt a different way of bringing up their children.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 131655,
+          "label": "A",
+          "text": "parents",
+          "isCorrect": false
+        },
+        {
+          "id": 131656,
+          "label": "B",
+          "text": "for parents",
+          "isCorrect": false
+        },
+        {
+          "id": 131657,
+          "label": "C",
+          "text": "toward parents",
+          "isCorrect": false
+        },
+        {
+          "id": 131658,
+          "label": "D",
+          "text": "to parents",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 131658,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Trong câu, bạn thấy chỗ trống cần điền là người nhận đề xuất (<em>\"parents\"</em>) và sau đó là mệnh đề <em>\"that\"</em>.</p>\n<p>Hãy cân nhắc giới từ nào kết nối <em>\"suggest\"</em> với <em>\"parents\"</em> một cách chính xác trong cấu trúc này đề xuất một ý tưởng hoặc hành động cho một người cụ thể.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc với \"suggest\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn đạt việc đề xuất một ý tưởng, kế hoạch, hoặc hành động cho một người cụ thể.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">suggest + to + N(người) + that + S + (should) + V(inf)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu hỏi kiểm tra cấu trúc của động từ <em>\"suggest\"</em> khi theo sau là tân ngữ chỉ người (<em>\"parents\"</em>) và một mệnh đề <em>\"that\"</em>. Trong trường hợp này, cấu trúc đúng là <em>\"suggest to someone that...\"</em>, nghĩa là đề xuất điều gì đó cho ai đó. Do đó, giới từ <em>\"to\"</em> là lựa chọn phù hợp nhất.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều không phù hợp với cấu trúc này.</p>",
+      "answerFeedbacks": {
+        "131655": "Sai vì động từ <em>\"suggest\"</em> không trực tiếp nhận tân ngữ chỉ người mà không có giới từ khi theo sau là mệnh đề <em>\"that\"</em>.",
+        "131656": "Sai vì giới từ <em>\"for\"</em> không được sử dụng trong cấu trúc <em>\"suggest to someone that...\"</em>.",
+        "131657": "Sai vì giới từ <em>\"toward\"</em> thường chỉ hướng hoặc thái độ, không phù hợp với cấu trúc <em>\"suggest\"</em> trong ngữ cảnh này.",
+        "131658": "Đúng vì cấu trúc chính xác khi <em>\"suggest\"</em> đề xuất điều gì đó cho ai đó và theo sau là mệnh đề <em>\"that\"</em> là <em>\"suggest to someone that...\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 302849,
+      "questionNumber": 7,
+      "questionName": "5",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>We suggested _____ Nha Trang for our vacation, but then we changed our mind.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 659498,
+          "label": "A",
+          "text": "visited",
+          "isCorrect": false
+        },
+        {
+          "id": 659499,
+          "label": "B",
+          "text": "visit",
+          "isCorrect": false
+        },
+        {
+          "id": 659500,
+          "label": "C",
+          "text": "visiting",
+          "isCorrect": true
+        },
+        {
+          "id": 659501,
+          "label": "D",
+          "text": "to visit",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 659500,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đáp án đúng, hãy tập trung vào động từ <em>\"suggest\"</em>.</p>\n<p>Khi <em>\"suggest\"</em> được theo sau trực tiếp bởi một hành động để chỉ sự gợi ý hoặc đề xuất, nó thường đi với một dạng động từ cụ thể nào?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ theo sau bởi danh động từ (Gerund)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một hành động hoặc ý tưởng được đề xuất. Danh động từ (V-ing) được dùng như một danh từ, làm tân ngữ trực tiếp cho động từ \"suggest\".</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + suggest + V-ing + (O)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, động từ \"<em>suggest</em>\" được theo sau trực tiếp bởi một hành động được đề xuất. Theo quy tắc ngữ pháp, động từ \"<em>suggest</em>\" khi diễn tả việc đề xuất một hành động sẽ đi kèm với một danh động từ (V-ing).</p>\n<p style=\"text-align: justify;\">Phương án 3, <em>\"visiting\"</em>, là dạng danh động từ của động từ \"visit\", phù hợp với cấu trúc ngữ pháp \"<em>suggest + V-ing</em>\". Các phương án còn lại là các dạng động từ khác không phù hợp với cấu trúc này.</p>",
+      "answerFeedbacks": {
+        "659498": "Sai vì động từ \"suggest\" khi theo sau trực tiếp bởi một hành động cần dùng dạng V-ing, không phải thì quá khứ đơn.",
+        "659499": "Sai vì động từ \"suggest\" khi theo sau trực tiếp bởi một hành động cần dùng dạng V-ing, không phải dạng nguyên thể không \"to\".",
+        "659500": "Đúng vì động từ \"suggest\" khi theo sau trực tiếp bởi một hành động thường được sử dụng với danh động từ (V-ing).",
+        "659501": "Sai vì động từ \"suggest\" không đi kèm với động từ nguyên thể có \"to\" khi diễn tả một hành động được đề xuất."
+      },
+      "images": []
+    },
+    {
+      "id": 51675,
+      "questionNumber": 8,
+      "questionName": "Question 29:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I suggested that we _____ use banana leaves instead of paper or plastic bags to wrap food.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 146000,
+          "label": "A",
+          "text": "have to",
+          "isCorrect": false
+        },
+        {
+          "id": 146001,
+          "label": "B",
+          "text": "need to",
+          "isCorrect": false
+        },
+        {
+          "id": 146002,
+          "label": "C",
+          "text": "must",
+          "isCorrect": false
+        },
+        {
+          "id": 146003,
+          "label": "D",
+          "text": "should",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 146003,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y nhớ lại c&aacute;c động từ như <em>\"suggest\"</em>, <em>\"recommend\"</em>, <em>\"advise\"</em> thường được sử dụng với động từ khuyết thiếu n&agrave;o để đưa ra một đề xuất hoặc lời khuy&ecirc;n trong một mệnh đề <em>\"that\"</em>?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><b>Cấu tr&uacute;c \"suggest that\" với động từ khuyết thiếu \"should\"</b></span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Cấu tr&uacute;c n&agrave;y được sử dụng để đưa ra một lời đề nghị, gợi &yacute; hoặc lời khuy&ecirc;n về việc n&ecirc;n l&agrave;m g&igrave;. N&oacute; thể hiện một &yacute; kiến hoặc khuyến nghị, chứ kh&ocirc;ng phải một mệnh lệnh hay sự bắt buộc.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">S + suggest(ed) + that + S + (should) + V(nguy&ecirc;n thể)</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Động từ \"<em>suggested</em>\" (qu&aacute; khứ của \"<em>suggest</em>\") d&ugrave;ng để diễn tả một lời đề nghị hoặc gợi &yacute;. Trong ngữ cảnh n&agrave;y, \"<em>should</em>\" l&agrave; động từ khuyết thiếu ph&ugrave; hợp nhất để diễn tả lời khuy&ecirc;n hoặc đề xuất, do đ&oacute; n&oacute; ho&agrave;n to&agrave;n tương th&iacute;ch với cấu tr&uacute;c v&agrave; &yacute; nghĩa của c&acirc;u.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 (\"<em>have to</em>\"), phương &aacute;n 2 (\"<em>need to</em>\") v&agrave; phương &aacute;n 3 (\"<em>must</em>\") đều diễn tả sự bắt buộc, nghĩa vụ hoặc sự cần thiết mạnh mẽ, kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh gợi &yacute; nhẹ nh&agrave;ng của động từ \"suggested\" trong c&acirc;u.</p>",
+      "answerFeedbacks": {
+        "146000": "Sai vì <em>\"have to\"</em> diễn tả nghĩa vụ hoặc sự cần thiết mạnh mẽ, không phù hợp với sắc thái gợi ý sau <em>\"suggested that\"</em>.",
+        "146001": "Sai vì <em>\"need to\"</em> diễn tả sự cần thiết phải làm gì đó, không phải là lựa chọn đúng theo cấu trúc giả định sau <em>\"suggested that\"</em>.",
+        "146002": "Sai vì <em>\"must\"</em> diễn tả sự bắt buộc mạnh mẽ hoặc suy luận hợp lý, không phù hợp với ngữ cảnh gợi ý nhẹ nhàng của <em>\"suggested that\"</em>.",
+        "146003": "Đúng vì <em>\"should\"</em> diễn tả lời khuyên hoặc đề xuất, rất phù hợp với cấu trúc <em>\"suggested that + S + should + V(nguyên thể)\"</em> hoặc <em>\"S + V(nguyên thể)\"</em> trong tiếng Anh."
+      },
+      "images": []
+    },
+    {
+      "id": 177737,
+      "questionNumber": 9,
+      "questionName": "Question 21:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We suggest that the authorities _____ street children from following foreign tourists in the downtown.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 407630,
+          "label": "A",
+          "text": "should stop",
+          "isCorrect": true
+        },
+        {
+          "id": 407631,
+          "label": "B",
+          "text": "will stop",
+          "isCorrect": false
+        },
+        {
+          "id": 407632,
+          "label": "C",
+          "text": "stopped",
+          "isCorrect": false
+        },
+        {
+          "id": 407633,
+          "label": "D",
+          "text": "would stop",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 407630,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;́u trúc: <strong>S1 + suggest + (that) + S2 + (should) + V(inf)</strong>: đ&ecirc;̀ nghị (ai) làm gì</p>\n<p>Dịch: <span class=\"tlid-translation translation\" lang=\"vi\"><span class=\"\" title=\"\">Ch&uacute;ng t&ocirc;i đề nghị rằng ch&iacute;nh quyền n&ecirc;n ngăn trẻ em đường phố b&aacute;m theo kh&aacute;ch du lịch nước ngo&agrave;i tại trung t&acirc;m th&agrave;nh phố.</span></span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 448184,
+      "questionNumber": 10,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>At the meeting, the chairman suggested _____ funds for the victims of natural disasters.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 898127,
+          "label": "A",
+          "text": "to raise",
+          "isCorrect": false
+        },
+        {
+          "id": 898128,
+          "label": "B",
+          "text": "to raising",
+          "isCorrect": false
+        },
+        {
+          "id": 898129,
+          "label": "C",
+          "text": "raise",
+          "isCorrect": false
+        },
+        {
+          "id": 898130,
+          "label": "D",
+          "text": "raising",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 898130,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + suggest + V-ing + ...</strong>: đề nghị l&agrave;m g&igrave;&nbsp;</p>\n<p>Dịch: Tại cuộc họp, chủ tịch đề nghị g&acirc;y quỹ cho c&aacute;c nạn nh&acirc;n của những trận thi&ecirc;n tai.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 849957,
+      "questionNumber": 11,
+      "questionName": "7",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The coach suggested that the team _____ more focused during practice.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1621705,
+          "label": "A",
+          "text": "be",
+          "isCorrect": true
+        },
+        {
+          "id": 1621706,
+          "label": "B",
+          "text": "are",
+          "isCorrect": false
+        },
+        {
+          "id": 1621707,
+          "label": "C",
+          "text": "will be",
+          "isCorrect": false
+        },
+        {
+          "id": 1621708,
+          "label": "D",
+          "text": "being",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1621705,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Cần nhớ cấu trúc của thức giả định (subjunctive mood) sau các động từ như <em>suggest</em>, <em>recommend</em>, <em>demand</em>...</p>\n<p>Khi <em>suggest</em> được dùng để đưa ra một lời đề nghị hoặc ý kiến mang tính bắt buộc/quan trọng, mệnh đề <em>that</em> theo sau sẽ sử dụng động từ ở dạng nào?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thức giả định (Subjunctive Mood)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Thức giả định được dùng để diễn đạt mong muốn, yêu cầu, đề nghị, lời khuyên, hay sự cần thiết, thường xuất hiện trong mệnh đề <em>that</em> sau một số động từ, tính từ hoặc danh từ nhất định. Nó thể hiện một hành động chưa xảy ra hoặc không có thật, mang tính chất giả định hoặc bắt buộc.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S1 + V (suggest/recommend/demand/request/advise/insist/propose/...) + that + S2 + V(inf) ...</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, chúng ta có cấu trúc \"The coach <em>suggested that</em>...\". Động từ <em>suggest</em> (khi mang nghĩa đề nghị, gợi ý) yêu cầu động từ trong mệnh đề <em>that</em> theo sau phải ở dạng nguyên thể không <em>to</em> (V(inf)), bất kể chủ ngữ S2 là số ít hay số nhiều, hay thì của động từ chính.</p>\n<p style=\"text-align: justify;\">Với chủ ngữ S2 là \"<em>the team</em>\", động từ \"<em>to be</em>\" phải được giữ ở dạng nguyên thể là \"<em>be</em>\" để tuân thủ quy tắc của thức giả định. Các phương án khác như \"<em>are</em>\", \"<em>will be</em>\", \"<em>being</em>\" đều không phải dạng nguyên thể và không phù hợp với cấu trúc này.</p>",
+      "answerFeedbacks": {
+        "1621705": "Đúng vì sau động từ <em>suggest</em> trong cấu trúc giả định (subjunctive), động từ trong mệnh đề <em>that</em> phải ở dạng nguyên thể không <em>to</em> (V(inf)).",
+        "1621706": "Sai vì <em>are</em> là dạng chia theo thì hiện tại đơn, không phù hợp với cấu trúc thức giả định yêu cầu động từ nguyên thể.",
+        "1621707": "Sai vì <em>will be</em> là dạng thì tương lai, không được sử dụng trong cấu trúc thức giả định sau <em>suggest</em>.",
+        "1621708": "Sai vì <em>being</em> là dạng hiện tại phân từ (V-ing), không đúng với yêu cầu động từ nguyên thể trong thức giả định."
+      },
+      "images": []
+    },
+    {
+      "id": 206446,
+      "questionNumber": 12,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>His mother suggested he _____ to the theater instead of staying at home.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 466650,
+          "label": "A",
+          "text": "go",
+          "isCorrect": true
+        },
+        {
+          "id": 466651,
+          "label": "B",
+          "text": "gone",
+          "isCorrect": false
+        },
+        {
+          "id": 466652,
+          "label": "C",
+          "text": "goes",
+          "isCorrect": false
+        },
+        {
+          "id": 466653,
+          "label": "D",
+          "text": "went",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 466650,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn đáp án đúng, hãy chú ý đến động từ <em>\"suggested\"</em> và cấu trúc ngữ pháp theo sau nó khi diễn đạt một lời gợi ý.<ul><li>Khi <em>\"suggest\"</em> được dùng để đưa ra lời gợi ý trong một mệnh đề <em>\"that\"</em>, động từ trong mệnh đề <em>\"that\"</em> này phải ở dạng nguyên thể không <em>\"to\"</em> (bare infinitive).</li><li>Quy tắc này áp dụng bất kể chủ ngữ của mệnh đề <em>\"that\"</em> là gì (ví dụ: <em>\"he\"</em>, <em>\"she\"</em>, <em>\"it\"</em>, <em>\"I\"</em>, <em>\"you\"</em>, <em>\"we\"</em>, <em>\"they\"</em>).</li><li>Hãy tìm dạng động từ phù hợp với yêu cầu này.</li></ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span></span></p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cấu trúc: <span style=\"color: #1c581f;\">S1 + suggest + that + S2 + V(inf):</span></strong> gợi ý, đề xuất ai làm gì</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu này, động từ <em>\"suggested\"</em> ở mệnh đề chính (<em>\"His mother suggested\"</em>) yêu cầu động từ trong mệnh đề phụ (<em>\"he _____ to the theater\"</em>) phải ở dạng nguyên thể không <em>\"to\"</em>. Do đó, <em>\"go\"</em> là lựa chọn đúng.</p>",
+      "answerFeedbacks": {
+        "466650": "<p>Đúng vì trong cấu trúc <em>\"suggest + that + S + V(inf)\"</em>, động từ của mệnh đề phụ phải ở dạng nguyên thể không <em style=\"text-align: justify;\">\"to\"</em>, bất kể chủ ngữ và thì của động từ chính.</p>",
+        "466651": "<p>Sai vì <em>\"gone\"</em> là dạng quá khứ phân từ, không đúng với cấu trúc <em>\"suggest + that + S + V(inf)\".</em></p>",
+        "466652": "<p>Sai vì <em>\"goes\"</em> là dạng chia thì hiện tại đơn cho chủ ngữ số ít (he/she/it), không đúng với cấu trúc <em>\"suggest + that + S + V(inf)\".</em></p>",
+        "466653": "<p>Sai vì <em>\"went\"</em> là dạng quá khứ đơn của động từ <em>\"go\"</em>, không đúng với cấu trúc <em>\"suggest + that + S + V(inf)\".</em></p>"
+      },
+      "images": []
+    },
+    {
+      "id": 16711,
+      "questionNumber": 13,
+      "questionName": "7:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The environmentalists suggested _____ more trees to improve the city's landscape and the environment as well.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 55134,
+          "label": "A",
+          "text": "to plant",
+          "isCorrect": false
+        },
+        {
+          "id": 55135,
+          "label": "B",
+          "text": "planted",
+          "isCorrect": false
+        },
+        {
+          "id": 55136,
+          "label": "C",
+          "text": "planting",
+          "isCorrect": true
+        },
+        {
+          "id": 55137,
+          "label": "D",
+          "text": "plant",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 55136,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + suggest + V-ing + ...</strong>: đề nghị l&agrave;m g&igrave;&nbsp;</p>\n<p>Dịch:&nbsp;C&aacute;c nh&agrave; m&ocirc;i trường đề xuất trồng nhiều c&acirc;y hơn để cải thiện cảnh quan th&agrave;nh phố v&agrave; m&ocirc;i trường.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 43143,
+      "questionNumber": 14,
+      "questionName": "Question 12.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Analysts suggested the country _____ its infrastructure to get foreign investment.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 125641,
+          "label": "A",
+          "text": "improve",
+          "isCorrect": true
+        },
+        {
+          "id": 125642,
+          "label": "B",
+          "text": "to improve",
+          "isCorrect": false
+        },
+        {
+          "id": 125643,
+          "label": "C",
+          "text": "improves",
+          "isCorrect": false
+        },
+        {
+          "id": 125644,
+          "label": "D",
+          "text": "improving",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 125641,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy nhớ lại các cấu trúc phổ biến của động từ \"<em>suggest</em>\" khi đưa ra đề xuất.</p>\n<p>Cụ thể, sau các động từ như \"<em>suggest</em>\", \"<em>recommend</em>\", \"<em>insist</em>\" trong cấu trúc giả định, động từ theo sau chủ ngữ (trong mệnh đề \"<em>that</em>\" đã được lược bỏ) luôn ở dạng nào?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc giả định với động từ \"suggest\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Động từ \"suggest\" được dùng để đưa ra đề xuất, gợi ý về một hành động nên được thực hiện. Trong cấu trúc giả định, động từ theo sau chủ ngữ trong mệnh đề phụ (thường bắt đầu bằng \"that\", có thể được lược bỏ) luôn ở dạng nguyên thể không \"to\", không chia theo thì hay chủ ngữ.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S1 + suggest + (that) + S2 + V(inf) ...</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu trên sử dụng động từ \"<em>suggested</em>\" để đưa ra một đề xuất. Theo cấu trúc giả định sau \"<em>suggest</em>\", động từ theo sau chủ ngữ \"<em>the country</em>\" phải ở dạng nguyên thể không \"<em>to</em>\". Phương án 1 \"<em>improve</em>\" là dạng nguyên thể không \"<em>to</em>\", phù hợp với quy tắc này.</p>",
+      "answerFeedbacks": {
+        "125641": "Đúng vì động từ sau chủ ngữ trong cấu trúc giả định với \"suggest\" phải ở dạng nguyên thể không \"to\".",
+        "125642": "Sai vì cấu trúc giả định với \"suggest\" yêu cầu động từ nguyên thể không \"to\", không phải nguyên thể có \"to\".",
+        "125643": "Sai vì động từ trong cấu trúc giả định với \"suggest\" không được chia theo chủ ngữ hay thì, mà phải ở dạng nguyên thể không \"to\".",
+        "125644": "Sai vì dạng V-ing không được dùng trong cấu trúc giả định sau \"suggest\" khi có một chủ ngữ khác cho hành động được đề xuất."
+      },
+      "images": []
+    },
+    {
+      "id": 63505,
+      "questionNumber": 15,
+      "questionName": "Question 38:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>I suggest <u>to help</u> <u>elderly</u> <u>people</u> <u>with</u> their chores.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 169946,
+          "label": "A",
+          "text": "to help",
+          "isCorrect": true
+        },
+        {
+          "id": 169947,
+          "label": "B",
+          "text": "elderly",
+          "isCorrect": false
+        },
+        {
+          "id": 169948,
+          "label": "C",
+          "text": "people",
+          "isCorrect": false
+        },
+        {
+          "id": 169949,
+          "label": "D",
+          "text": "with",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 169946,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra dạng động từ theo sau <em>suggest</em> trong câu đã đúng chưa.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xác định từ loại và chức năng của <em>elderly</em> trong cụm <em>elderly people</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đánh giá vai trò ngữ pháp và ngữ nghĩa của <em>people</em> trong câu.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét việc sử dụng giới từ <em>with</em> trong cụm <em>with their chores </em>có phù hợp không.</li>\n</ul>\n<p>Đối chiếu từng quy tắc với câu gốc để tìm phần cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ theo sau bởi danh động từ (V-ing)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả hành động được đề xuất, gợi ý, hoặc hành động tiếp theo sau một động từ nhất định.</p>\n<p><strong>Một số động từ theo sau bởi V-ing:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">suggest + V-ing:</span></strong> gợi ý/đề xuất làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">admit + V-ing:</span></strong> thừa nhận làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">avoid + V-ing:</span></strong> tránh làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">deny + V-ing:</span></strong> phủ nhận làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">enjoy + V-ing:</span></strong> thích làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">finish + V-ing:</span></strong> hoàn thành làm gì</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, động từ <em>suggest</em> phải được theo sau bởi một danh động từ (V-ing) để diễn tả hành động được gợi ý. Do đó, phương án \"to help\" là không chính xác về mặt ngữ pháp.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>to help</strong></em>\" =&gt; \"<em><strong>helping</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "169946": "Động từ <em>suggest</em> phải được theo sau bởi một danh động từ (V-ing), không phải động từ nguyên thể có <em>to</em>.",
+        "169947": "Từ <em>elderly</em> là một tính từ bổ nghĩa cho danh từ <em>people</em> và được sử dụng đúng ngữ pháp trong ngữ cảnh này.",
+        "169948": "Danh từ <em>people</em> được sử dụng đúng ngữ pháp và ngữ nghĩa để chỉ đối tượng được giúp đỡ.",
+        "169949": "Giới từ <em>with</em> được sử dụng đúng để chỉ sự giúp đỡ liên quan đến <em>their chores</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 12074,
+      "questionNumber": 16,
+      "questionName": "studies ==> study",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>It was suggested that Pedro <span style=\"text-decoration: underline;\">studies</span> the material <span style=\"text-decoration: underline;\">more</span> thoroughly before <span style=\"text-decoration: underline;\">attempting</span> to <span style=\"text-decoration: underline;\">pass</span> the exam.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 39896,
+          "label": "A",
+          "text": "studies",
+          "isCorrect": true
+        },
+        {
+          "id": 39897,
+          "label": "B",
+          "text": "more",
+          "isCorrect": false
+        },
+        {
+          "id": 39898,
+          "label": "C",
+          "text": "attempting",
+          "isCorrect": false
+        },
+        {
+          "id": 39899,
+          "label": "D",
+          "text": "pass",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 39896,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Trong cấu trúc <em>\"It is suggested that S + V\"</em> (hoặc <em>\"S + suggest(s) that S + V\"</em>), động từ sau chủ ngữ trong mệnh đề <em>\"that\"</em> luôn ở dạng nguyên thể không <em>\"to\"</em> (base form).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Trạng từ <em>\"more\"</em> có thể dùng để bổ nghĩa cho các trạng từ khác, thường là để tạo thành dạng so sánh hơn của trạng từ đó.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Sau các giới từ như <em>\"before\"</em>, <em>\"after\"</em>, <em>\"by\"</em>, <em>\"for\"</em>, động từ đi kèm phải ở dạng <em>V-ing</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Động từ <em>\"attempt\"</em> khi đi với giới từ <em>\"to\"</em> thường theo sau bởi một động từ nguyên thể (<em>V(inf)</em>).</li>\n</ul>\n<p>Hãy đối chiếu từng quy tắc trên với các phần gạch chân trong câu gốc để tìm ra lỗi sai.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thức giả định (Subjunctive mood) trong mệnh đề \"that\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Thức giả định được dùng để diễn tả một đề xuất, yêu cầu, mong muốn, sự cần thiết, hoặc điều gì đó không có thật/không chắc chắn, thường xuất hiện trong các mệnh đề \"<em>that</em>\" sau một số động từ, tính từ hoặc danh từ nhất định.</p>\n<p style=\"text-align: justify;\"><strong>Một số động từ theo sau bởi thức giả định:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">suggest (that) + S + V(inf): </span></strong>đề nghị (rằng ai đó nên làm gì)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">recommend (that) + S + V(<span style=\"color: #454545;\"><span style=\"color: #1c581f;\">inf</span></span>): </span></strong>khuyên, giới thiệu (rằng ai đó nên làm gì)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">demand (that) + S + V(<span style=\"color: #454545;\"><span style=\"color: #1c581f;\">inf</span></span>): </span></strong>yêu cầu (rằng ai đó phải làm gì)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">insist (that) + S + V(<span style=\"color: #454545;\"><span style=\"color: #1c581f;\">inf</span></span>): </span></strong>khăng khăng (rằng ai đó phải làm gì)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">It is important/necessary/essential (that) + S + V(<span style=\"color: #454545;\"><span style=\"color: #1c581f;\">inf</span></span>): </span></strong>điều quan trọng/cần thiết/thiết yếu là (ai đó nên làm gì)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, cụm \"<em>It was suggested that...</em>\" yêu cầu động từ theo sau chủ ngữ trong mệnh đề \"<em>that</em>\" phải ở dạng nguyên thể không \"<em>to</em>\" (bare infinitive), bất kể chủ ngữ là số ít hay số nhiều. Động từ \"<em>studies</em>\" (chia theo ngôi thứ ba số ít) là sai ngữ pháp trong ngữ cảnh này.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<strong>studies</strong>\" =&gt; \"<strong>study</strong>\"</p>",
+      "answerFeedbacks": {
+        "39896": "Động từ <em>\"studies\"</em> không đúng dạng thức trong mệnh đề giả định theo sau <em>\"It was suggested that...\"</em>.",
+        "39897": "Trạng từ <em>\"more\"</em> đứng trước trạng từ <em>\"thoroughly\"</em> để bổ nghĩa cho mức độ, hoàn toàn chính xác.",
+        "39898": "Động từ <em>\"attempting\"</em> ở dạng V-ing sau giới từ <em>\"before\"</em> là đúng ngữ pháp.",
+        "39899": "Động từ <em>\"pass\"</em> ở dạng nguyên thể không <em>\"to\"</em> sau <em>\"attempting to\"</em> là chính xác."
+      },
+      "images": []
+    },
+    {
+      "id": 52067,
+      "questionNumber": 17,
+      "questionName": "Question 34:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>I would <u>strongly</u> suggest <u>that</u> your company <u>tells</u> your drivers <u>to clear up</u> all the trash before leaving.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 146917,
+          "label": "A",
+          "text": "strongly",
+          "isCorrect": false
+        },
+        {
+          "id": 146918,
+          "label": "B",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 146919,
+          "label": "C",
+          "text": "tells",
+          "isCorrect": true
+        },
+        {
+          "id": 146920,
+          "label": "D",
+          "text": "to clear up",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 146919,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét chức năng của trạng từ <em>\"strongly\"</em> khi nó bổ nghĩa cho một động từ.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Nhớ lại các cấu trúc phổ biến khi động từ <em>\"suggest\"</em> được theo sau bởi một mệnh đề bắt đầu bằng <em>\"that\"</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra dạng động từ chính xác cần dùng trong mệnh đề phụ sau cụm <em>\"suggest that S\"</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đánh giá cách dùng của cụm động từ nguyên thể <em>\"to clear up\"</em> trong ngữ cảnh này.</li>\n</ul>\nSo sánh các quy tắc này với câu gốc để xác định phần nào cần sửa.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thức giả định với động từ \"suggest\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Thức giả định với động từ <em>\"suggest\"</em> được dùng để diễn tả một lời đề nghị, gợi ý, hoặc yêu cầu rằng ai đó nên làm gì, mà không mang tính bắt buộc hay ra lệnh.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S1 + suggest(s) + that + S2 + V(nguyên thể không \"to\")</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, động từ <em>\"suggest\"</em> được dùng để đưa ra một lời đề nghị. Theo quy tắc ngữ pháp, động từ trong mệnh đề theo sau <em>\"suggest that\"</em> phải ở dạng nguyên thể không <em>\"to\"</em> (bare infinitive), bất kể chủ ngữ là số ít hay số nhiều. Do đó, <em>\"tells\"</em> là sai ngữ pháp.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>tells</strong></em>\" =&gt; \"<em><strong>tell</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "146917": "<em>\"strongly\"</em> là một trạng từ bổ nghĩa cho động từ <em>\"suggest\"</em>, cách dùng này hoàn toàn chính xác về ngữ pháp và ngữ nghĩa.",
+        "146918": "<em>\"that\"</em> là một liên từ dùng để giới thiệu mệnh đề danh ngữ sau động từ <em>\"suggest\"</em>, cách dùng này chính xác.",
+        "146919": "Động từ sau cấu trúc <em>\"suggest that S\"</em> phải ở dạng nguyên thể không <em>\"to\"</em> (thức giả định), do đó <em>\"tells\"</em> phải sửa thành <em>\"tell\"</em>.",
+        "146920": "Cụm động từ <em>\"to clear up\"</em> (dọn dẹp) được dùng chính xác để bổ nghĩa cho <em>\"drivers\"</em> trong ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 764931,
+      "questionNumber": 18,
+      "questionName": "(*)31",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">Her</span> doctor suggested that she <span style=\"text-decoration: underline;\">reduced</span> her working hours and <span style=\"text-decoration: underline;\">take</span> more <span style=\"text-decoration: underline;\">exercise</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1472122,
+          "label": "A",
+          "text": "Her",
+          "isCorrect": false
+        },
+        {
+          "id": 1472123,
+          "label": "B",
+          "text": "reduced",
+          "isCorrect": true
+        },
+        {
+          "id": 1472124,
+          "label": "C",
+          "text": "take",
+          "isCorrect": false
+        },
+        {
+          "id": 1472125,
+          "label": "D",
+          "text": "exercise",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1472123,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S1 + suggest + (that) + S2 + (should) + V(inf) + ...</strong>: đề xuất, đề nghị ai l&agrave;m g&igrave;&nbsp;</p>\n<p>Sửa: \"<strong>reduced</strong>\" =&gt; \"<strong>reduce</strong>\" hoặc \"<strong>should reduce</strong>\"</p>\n<p>Dịch: B&aacute;c sĩ của c&ocirc; ấy đề nghị c&ocirc; ấy giảm giờ l&agrave;m việc v&agrave; tập thể dục nhiều hơn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 187909,
+      "questionNumber": 19,
+      "questionName": "Question 39:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><span class=\"word\"><em>Choose the underlined part that needs correction.</em></span></p>\n<p><strong>Our <u>friends</u> suggested <u>to spend</u> the summer holiday on <span style=\"text-decoration: underline;\">an island</span> in <span style=\"text-decoration: underline;\">the</span> Pacific Ocean. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 430244,
+          "label": "A",
+          "text": "friends",
+          "isCorrect": false
+        },
+        {
+          "id": 430245,
+          "label": "B",
+          "text": "to spend",
+          "isCorrect": true
+        },
+        {
+          "id": 430246,
+          "label": "C",
+          "text": "an island",
+          "isCorrect": false
+        },
+        {
+          "id": 430247,
+          "label": "D",
+          "text": "the",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 430245,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + suggest + V-ing + ...</strong>: đề nghị l&agrave;m g&igrave;&nbsp;</p>\n<p>Sửa: \"<strong>to spend</strong>\" =&gt; \"<strong>spending</strong>\"</p>\n<p>Dịch: Bạn b&egrave; của ch&uacute;ng t&ocirc;i đề nghị d&agrave;nh kỳ nghỉ h&egrave; tr&ecirc;n một h&ograve;n đảo ở Th&aacute;i B&igrave;nh Dương.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 342136,
+      "questionNumber": 20,
+      "questionName": "13",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span data-sheets-value='{\"1\":2,\"2\":\"Choose the underlined part that needs correction.\"}' data-sheets-userformat='{\"2\":957,\"3\":{\"1\":0},\"5\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"6\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"7\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"8\":{\"1\":[{\"1\":2,\"2\":0,\"5\":[null,2,0]},{\"1\":0,\"2\":0,\"3\":3},{\"1\":1,\"2\":0,\"4\":1}]},\"10\":1,\"11\":4,\"12\":0}'>Choose the underlined part that needs correction.</span></em></p>\n<p><strong>They <u>suggested</u> that we <u>must</u> book <u>a</u> hotel <u>by</u> the Perfume River.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 725200,
+          "label": "A",
+          "text": "suggested",
+          "isCorrect": false
+        },
+        {
+          "id": 725201,
+          "label": "B",
+          "text": "must",
+          "isCorrect": true
+        },
+        {
+          "id": 729516,
+          "label": "C",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 729517,
+          "label": "D",
+          "text": "by",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 725201,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: </span><strong>S1 + suggest + (that) + S2 + (should) + V(inf) + ...</strong><span style=\"font-weight: 400;\">: (ai đ&oacute;) đề nghị, khuy&ecirc;n (ai) l&agrave;m g&igrave;</span></p>\n<p><span style=\"font-weight: 400;\">Sửa: \"<strong>must</strong>\" =&gt; \"<strong>should</strong>\" hoặc bỏ \"<strong>must</strong>\"</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Họ gợi &yacute; rằng ch&uacute;ng t&ocirc;i n&ecirc;n đặt một kh&aacute;ch sạn b&ecirc;n s&ocirc;ng Hương.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 622600,
+      "questionNumber": 21,
+      "questionName": "31",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>He suggested <span style=\"text-decoration: underline;\">that</span> we <span style=\"text-decoration: underline;\">must </span>make an important <span style=\"text-decoration: underline;\">decision</span> of our life <span style=\"text-decoration: underline;\">at</span> the age of eighteen.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1198347,
+          "label": "A",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 1198348,
+          "label": "B",
+          "text": "must",
+          "isCorrect": true
+        },
+        {
+          "id": 1198349,
+          "label": "C",
+          "text": "decision",
+          "isCorrect": false
+        },
+        {
+          "id": 1198350,
+          "label": "D",
+          "text": "at",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1198348,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: </span><strong>S1 + suggest + (that) + S2 + (should) + V(inf) + ...</strong><span style=\"font-weight: 400;\">: (ai đ&oacute;) đề nghị, khuy&ecirc;n (ai) l&agrave;m g&igrave;</span></p>\n<p><span style=\"font-weight: 400;\">Sửa: \"<strong>must</strong>\" =&gt; \"<strong>should</strong>\" hoặc bỏ \"<strong>must</strong>\"</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Anh ấy gợi &yacute; rằng ch&uacute;ng t&ocirc;i n&ecirc;n đưa ra một quyết định quan trọng của đời m&igrave;nh ở tuổi 18.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 891183,
+      "questionNumber": 22,
+      "questionName": "not smoking",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>He <span style=\"text-decoration: underline;\">suggested</span> not smoking or <span style=\"text-decoration: underline;\">to drink</span> alcohol <span style=\"text-decoration: underline;\">to</span> improve <span style=\"text-decoration: underline;\">overall well-being</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1696485,
+          "label": "A",
+          "text": "suggested",
+          "isCorrect": false
+        },
+        {
+          "id": 1696486,
+          "label": "B",
+          "text": "to drink",
+          "isCorrect": true
+        },
+        {
+          "id": 1696487,
+          "label": "C",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 1696488,
+          "label": "D",
+          "text": "overall well-being",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1696486,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c:<strong> suggest + (not) V-ing</strong>: khuy&ecirc;n (kh&ocirc;ng) l&agrave;m g&igrave;</p>\n<p>Li&ecirc;n từ \"<strong>or</strong>\" li&ecirc;n kết c&aacute;c th&agrave;nh phần tương đồng về dạng thức, chức năng.</p>\n<p>Trong c&acirc;u, trước \"<strong>or</strong>\" động từ ở dạng V-ing. =&gt; Sau \"<strong>or</strong>\" cũng phải ở dạng V-ing.&nbsp;</p>\n<p>Sửa: \"<strong>to drink</strong>\" =&gt; \"<strong>drinking</strong>\"</p>\n<p>Dịch: &Ocirc;ng ấy đề xuất kh&ocirc;ng n&ecirc;n h&uacute;t thuốc hoặc uống rượu để cải thiện sức khỏe tổng thể.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 238456,
+      "questionNumber": 23,
+      "questionName": "He suggested a link between class size and test results of seven-year-old children.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "test results of",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "a link",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "seven-year-old children.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "He suggested",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "between class size",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 891172,
+      "questionNumber": 24,
+      "questionName": "3. sxc",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "early tomorrow.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "wake up",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "so you",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "I suggest",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "too late",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "can",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "staying up",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "not",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 242336,
+      "questionNumber": 25,
+      "questionName": "Lori suggested to the teacher that we should take a ten-minute coffee break.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "coffee break.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "the teacher",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "should take",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "Lori suggested",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "a ten-minute",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "that we",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 287744,
+      "questionNumber": 26,
+      "questionName": "suggests",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "all these advice",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "follow",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "The government",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "immediately.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "suggests",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "people",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "should",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 153365,
+      "questionNumber": 27,
+      "questionName": "4",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "playing football",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "practice",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "Quang Hai suggests",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "we",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "every day.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "should",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 153399,
+      "questionNumber": 28,
+      "questionName": "6",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete the second sentence using the word given so that it has </span><span style=\"font-weight: 400;\">the same meaning to the first.</span></em></p>\n<p><strong>I think we should speak English in class. (SUGGEST)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "I suggest that we should speak English in class.",
+        "I suggest speaking English in class."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: </span><strong>S1 + suggest + (that) + S2 + (should) + V(inf) + ...</strong><span style=\"font-weight: 400;\">: (ai đ&oacute;) đề nghị, khuy&ecirc;n (ai) l&agrave;m g&igrave;</span></p>\n<p><span style=\"font-weight: 400;\">~ <strong>S + suggest + N/N-phrase/V-ing</strong>: đ&ecirc;̀ nghị, đề xuất c&aacute;i g&igrave;/l&agrave;m g&igrave;</span></p>\n<p>Dịch: T&ocirc;i nghĩ ch&uacute;ng ta n&ecirc;n n&oacute;i Tiếng Anh trong lớp.</p>\n<p>~ T&ocirc;i đề nghị ch&uacute;ng ta n&ecirc;n n&oacute;i Tiếng Anh trong lớp.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 171862,
+      "questionNumber": 29,
+      "questionName": "a",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence using the word given so that it has&nbsp;the same meaning to the first.</em></p>\n<p><strong>Shall we surf the net for the location of Ninh Binh Province? (SUGGEST)&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "I suggest surfing the net for the location of Ninh Binh Province.",
+        "I suggest that we should surf the net for the location of Ninh Binh Province."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: </span><strong>S1 + suggest + (that) + S2 + (should) + V(inf) + ...</strong><span style=\"font-weight: 400;\">: ai đ&oacute; đề nghị, khuy&ecirc;n ai (n&ecirc;n) l&agrave;m g&igrave;</span></p>\n<p><span style=\"font-weight: 400;\">~<strong style=\"font-weight: 400;\"> </strong><strong>S + suggest + N/N-phrase/V-ing</strong>: đề nghị, đề xuất l&agrave;m g&igrave;</span></p>\n<p>Dịch: Ch&uacute;ng ta sẽ t&igrave;m kiếm vị tr&iacute; của tỉnh Ninh B&igrave;nh tr&ecirc;n mạng chứ?</p>\n<p>~ T&ocirc;i đề nghị t&igrave;m kiếm vị tr&iacute; của tỉnh Ninh B&igrave;nh tr&ecirc;n mạng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 169249,
+      "questionNumber": 30,
+      "questionName": "1",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete the second sentence using the word given so that it has </span><span style=\"font-weight: 400;\">the same meaning to the first.</span></em></p>\n<p><strong>&quot;Why don't you meet to discuss how to develop the project?&quot; she said to us. (SUGGESTED)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "She suggested that we should meet to discuss how to develop the project."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S1 + suggest + (that) + S2 + (should) + V(inf) + ...</strong>: ai đ&oacute; đề xuất, đề nghị ai l&agrave;m g&igrave;&nbsp;</p>\n<p>Cấu tr&uacute;c: S + suggest + V-ing: đề xuất, đề nghị l&agrave;m g&igrave; =&gt; kh&ocirc;ng n&oacute;i cụ thể ai sẽ l&agrave;m h&agrave;nh động đ&oacute; n&ecirc;n sẽ mang nghĩa l&agrave; \"ch&uacute;ng ta\".</p>\n<p>Trong c&acirc;u, chủ thể thực hiện h&agrave;nh động l&agrave; \"you\" =&gt; chỉ c&oacute; thể sử dụng cấu tr&uacute;c \"<strong>suggest + that</strong>\".&nbsp;</p>\n<p>Dịch: \"Tại sao c&aacute;c bạn kh&ocirc;ng họp để thảo luận c&aacute;ch để ph&aacute;t triển dự &aacute;n?\" c&ocirc; ấy n&oacute;i với ch&uacute;ng t&ocirc;i.</p>\n<p>~ C&ocirc; ấy đề xuất ch&uacute;ng t&ocirc;i n&ecirc;n họp để thảo luận c&aacute;ch để ph&aacute;t triển dự &aacute;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 179765,
+      "questionNumber": 31,
+      "questionName": "54:",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>They suggested planting more trees to reduce global warming. </strong></p>\n<p><strong>=&gt; They suggested that more ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "They suggested that more trees should be planted to reduce global warming."
+      ],
+      "hint": "",
+      "explanation": "<p>C&acirc;́u trúc: <strong>S1 + suggest + (that) + S2 + (should) + V(inf)...</strong>: ai đó đ&ecirc;̀ xu&acirc;́t (ai) n&ecirc;n làm gì</p>\n<p>Chủ ngữ \"<strong>more trees</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>plant</strong>\". =&gt; Động từ phải ở dạng bị động.</p>\n<p>C&acirc;́u trúc bị đ&ocirc;̣ng với đ&ocirc;̣ng từ khuy&ecirc;́t thi&ecirc;́u \"<strong>should</strong>\": <strong>S + should + be + V(pp)</strong></p>\n<p><strong>to + V(inf)</strong> ~ <strong>in order to + V(inf)</strong> ~ <strong>so as to + V(inf)</strong>: để l&agrave;m g&igrave;&nbsp;</p>\n<p>Dịch: Họ đề nghị trồng nhiều c&acirc;y hơn để giảm sự n&oacute;ng l&ecirc;n to&agrave;n cầu.</p>\n<p>~ Họ đề xuất rằng nhiều c&acirc;y hơn n&ecirc;n được trồng để giảm sự n&oacute;ng l&ecirc;n to&agrave;n cầu.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 176682,
+      "questionNumber": 32,
+      "questionName": "33",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete the second sentence so that it has the same meaning to the first.</span></em></p>\n<p><strong>&quot;Why don't you clear up the garbage before leaving, Linh?&quot; said Mai.</strong></p>\n<p><strong>=&gt; Mai suggested that ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Mai suggested that Linh should clear up the garbage before leaving."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S1 + suggested + (that) + S1 + (should) + V(inf) + ...</strong>: ai đề xuất, gợi &yacute;, khuy&ecirc;n ai (n&ecirc;n) l&agrave;m g&igrave;</p>\n<p>Dịch: \"Sao bạn kh&ocirc;ng dọn dẹp r&aacute;c trước khi đi nhỉ, Linh?\" Mai n&oacute;i.</p>\n<p>~ Mai đ&ecirc;̀ nghị Linh dọn dẹp r&aacute;c trước khi rời đi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 177318,
+      "questionNumber": 33,
+      "questionName": "36",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>&quot;Let's go to Ngoc Son temple on New Year's Eve,&quot; Mai said.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 406543,
+          "label": "A",
+          "text": "Mai suggested that we went to Ngoc Son temple on New Year's Eve.",
+          "isCorrect": false
+        },
+        {
+          "id": 406544,
+          "label": "B",
+          "text": "Mai suggests going to Ngoc Son temple on New Year's Eve.",
+          "isCorrect": false
+        },
+        {
+          "id": 406545,
+          "label": "C",
+          "text": "Mai suggested going to Ngoc Son temple on New Year's Eve.",
+          "isCorrect": true
+        },
+        {
+          "id": 406546,
+          "label": "D",
+          "text": "Mai suggested go Ngoc Son temple on New Year's Eve.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 406545,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + suggest + V-ing</strong>: đề xuất l&agrave;m g&igrave;</p>\n<p>~ <strong>S1 + suggested + (that) + S2 + (should) + V(inf) + ...</strong>:<strong> <span style=\"font-weight: 400;\">ai đ&oacute; đề nghị, khuy&ecirc;n ai (n&ecirc;n) l&agrave;m g&igrave;</span></strong></p>\n<p>Động từ ở c&acirc;u tr&ecirc;n ở th&igrave; qu&aacute; khứ đơn \"<strong>said</strong>\" =&gt; động từ trong c&acirc;u biến đổi cũng phải chia ở th&igrave; qu&aacute; khứ đơn \"<strong>suggested</strong>\".&nbsp;</p>\n<p><span style=\"font-weight: 400;\">Các phương án còn lại sai vì:</span></p>\n<ul>\n<li><em>Mai suggested that we <span style=\"text-decoration: line-through;\"><strong>went</strong></span> to Ngoc Son temple on New Year's Eve.</em></li>\n<li><em>Mai <span style=\"text-decoration: line-through;\"><strong>suggests</strong></span> going to Ngoc Son temple on New Year's Eve.</em></li>\n<li><em>Mai suggested <span style=\"text-decoration: line-through;\"><strong>go</strong></span> Ngoc Son temple on New Year's Eve.</em></li>\n</ul>\n<p>Dịch: \"Ch&uacute;ng ta h&atilde;y đến đền Ngọc Sơn v&agrave;o đ&ecirc;m giao thừa nh&eacute;,\" Mai n&oacute;i.</p>\n<p>~ Mai đề xuất đi đền Ngọc Sơn v&agrave;o đ&ecirc;m giao thừa.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 228352,
+      "questionNumber": 34,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST meaning to the sentence given.</em></p>\n<p><strong>&quot;How about starting a book club at school?&quot; Kim said.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 512959,
+          "label": "A",
+          "text": "Kim suggested to start a book club at school.",
+          "isCorrect": false
+        },
+        {
+          "id": 512960,
+          "label": "B",
+          "text": "Kim suggests starting a book club at school.",
+          "isCorrect": false
+        },
+        {
+          "id": 512961,
+          "label": "C",
+          "text": "Kim suggested we started a book club at school.",
+          "isCorrect": false
+        },
+        {
+          "id": 512962,
+          "label": "D",
+          "text": "Kim suggested starting a book club at school.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 512962,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + suggest + V-ing + ...</strong>: đề nghị l&agrave;m g&igrave;&nbsp;</p>\n<p><span style=\"font-weight: 400;\">V&igrave; động từ tường thuật ở th&igrave; qu&aacute; khứ đơn \"<strong>said</strong>\". =&gt; Động từ \"<strong>suggest</strong>\" phải ở th&igrave; qu&aacute; khứ đơn.</span></p>\n<p><span style=\"font-weight: 400;\">Các phương án còn lại sai vì:</span></p>\n<ul>\n<li><em>Kim suggested <span style=\"text-decoration: line-through;\"><strong>to start</strong></span> a book club at school.</em></li>\n<li><em>Kim <span style=\"text-decoration: line-through;\"><strong>suggests</strong></span> starting a book club at school.</em></li>\n<li><em>Kim suggested we <span style=\"text-decoration: line-through;\"><strong>started</strong></span> a book club at school.</em></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Dịch: \"Th&agrave;nh lập một c&acirc;u lạc bộ s&aacute;ch ở trường th&igrave; sao?\" Kim n&oacute;i.</span></p>\n<p>~ Kim gợi &yacute; th&agrave;nh lập một c&acirc;u lạc bộ s&aacute;ch ở trường.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

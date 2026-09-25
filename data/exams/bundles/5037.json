@@ -1,0 +1,1590 @@
+{
+  "id": 5037,
+  "title": "Đề số 38 ôn luyện vào 10 môn Anh Sở Hà Nội ",
+  "year": 2024,
+  "categoryId": 170,
+  "categoryName": "Đề luyện thi vào 10 môn Anh Sở Hà Nội từ năm 2024 trở về trước",
+  "timeLimit": 60,
+  "totalPoint": 40,
+  "questionCount": 37,
+  "author": "Tổ GV Tiếng Anh - TA12",
+  "description": "",
+  "createdAt": "2026-09-24T14:50:37.490Z",
+  "questions": [
+    {
+      "id": 164670,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 381876,
+          "label": "A",
+          "text": "<p>f<span style=\"text-decoration: underline;\">oo</span>d</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 381877,
+          "label": "B",
+          "text": "<p>f<span style=\"text-decoration: underline;\">oo</span>t</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 381878,
+          "label": "C",
+          "text": "<p>p<span style=\"text-decoration: underline;\">oo</span>l</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 381879,
+          "label": "D",
+          "text": "<p>m<span style=\"text-decoration: underline;\">oo</span>n</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 381877,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Phần gạch ch&acirc;n trong từ \"<strong>foot</strong>\" được ph&aacute;t &acirc;m l&agrave; <strong>/ʊ/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/u:/</strong>.&nbsp;&nbsp;</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2F21gWNVin0sbsu5J269gQf%2Br%2FGMD%2BT8fMZw6r1meEAxyBAg2X1nc8kg0ob6CaulLLeeCS7bjmchC2lvY0N1dJR0qF5RKKCWquqWqMpLjsvgew6%2BA12sVyS%2BjBecPM09EJYrFXjE5NONdzVTyuNRO74R1%2Fn6PETdbNNLBf%2F8sC8bt%2Bv93flI0bzFtXmLUq3XRCtE99%2B6vTAJ%2FfRUPyOGy2fI9FXSSWk46RGKsH4ssou4MXZWsIoopnqTh54fY%2BhzvPPX%2BKM8EZmCrgGJ0vEM8JU3ZrYqhZ%2FHKUD9wa7R7pXMGV3p%2BhEE7ec7JweM5HCuc3Pu3ZpDF2szg%3D%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 164671,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 381880,
+          "label": "A",
+          "text": "<p>relieve<span style=\"text-decoration: underline;\">s</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 381881,
+          "label": "B",
+          "text": "<p>invent<span style=\"text-decoration: underline;\">s</span></p>",
+          "isCorrect": true
+        },
+        {
+          "id": 381882,
+          "label": "C",
+          "text": "<p>buy<span style=\"text-decoration: underline;\">s</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 381883,
+          "label": "D",
+          "text": "<p>deal<span style=\"text-decoration: underline;\">s</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 381881,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Phần gạch ch&acirc;n trong từ \"<strong>invent<span style=\"text-decoration: underline;\">s</span>\"</strong> được ph&aacute;t &acirc;m l&agrave;<strong> /s/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave;<strong> /z/</strong>.</p>\n<p><strong>invents (v.) /ɪnˈvents/</strong></p>\n<p>relieves (v.) /rɪˈliːvz/</p>\n<p>buys (v.) /baɪz/</p>\n<p>deals (v.) /di:lz/</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 164672,
+      "questionNumber": 3,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 381884,
+          "label": "A",
+          "text": "silver",
+          "isCorrect": false
+        },
+        {
+          "id": 381885,
+          "label": "B",
+          "text": "metal",
+          "isCorrect": false
+        },
+        {
+          "id": 381886,
+          "label": "C",
+          "text": "design",
+          "isCorrect": true
+        },
+        {
+          "id": 381912,
+          "label": "D",
+          "text": "money",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 381886,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ <strong>\"design\"</strong> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ 2, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BaD06CZGjcpmS39%2BjPZITIl%2BsjjBdT4XV67mWrt%2FREcFM8tdjh6yuqZJrJ%2FV%2F1vtnjtYGId09RxnaHix6IdfeEftqN%2FRwWDgtYWZaKM6oIANI%2BYNdYvzh%2FVIzpPOiUdfDeSoPO3NbTA%2FWT8hIoSyxXXTCZRT5ExKW6JVWzoApF6hypTi%2B6S%2F%2FoWlg8800tJnjzBkrOKB8m96WJy%2FdbI%2B8VQeC4zy6lAJkRWYmP1IufpbeofAThTb11nNVaL21SWSewNUiZV1bEZfjrQn7iPp8kk8xkqiBqK%2F%2BYgkhCgEq0UFNKiWAL2sCZL4ZYVHaIYhXpanpf8oj9xQ%3D%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 164673,
+      "questionNumber": 4,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 381887,
+          "label": "A",
+          "text": "pagoda",
+          "isCorrect": false
+        },
+        {
+          "id": 381888,
+          "label": "B",
+          "text": "material",
+          "isCorrect": false
+        },
+        {
+          "id": 381889,
+          "label": "C",
+          "text": "supermarket",
+          "isCorrect": true
+        },
+        {
+          "id": 381913,
+          "label": "D",
+          "text": "encourage",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 381889,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Từ </span>\"<strong>supermarket</strong>\"<span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m ch&iacute;nh rơi v&agrave;o &acirc;m tiết thứ nhất</span><span style=\"font-weight: 400;\">, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ</span> hai.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX198aa0y2emM5N7kbMbUS7lZfG72nfap4I%2FqA9bl%2BkrCiT9Os0RkJmzd8KTtzMO1x6F5Grgtor2F6%2BPU0as4OwNJ7AWDvENBxBkrLwHlFpUHuKZcsknnmMgaoVX3%2B7b2qk5hMT7tH5QJOse6hDhZuq8wcqG5mYfE1yAzNJ%2FE4BxAU%2FWSCmaq4T1q4reV7PMQzaw7mIA4F%2FYv84BPU9moZL%2BHS3nz5keTZaHcJXJg3TbPGsnrTsnA42EEt1s9F%2FM4IZ0CBAtTDndWJsMOZS18FZ%2F5Dx6FDfMI3qXO5PNxoqt%2BX0tuZEMUV1kQBG0HsXYkozdYY8YhmzoJ%2FM1BcPprfkXvND53ebETqnXbCOVn%2BpXGN4q6lnADSrsc\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 164674,
+      "questionNumber": 5,
+      "questionName": "5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I _____ a fashion magazine while I was waiting for the upcoming train.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 381890,
+          "label": "A",
+          "text": "buy",
+          "isCorrect": false
+        },
+        {
+          "id": 381891,
+          "label": "B",
+          "text": "bought",
+          "isCorrect": true
+        },
+        {
+          "id": 381892,
+          "label": "C",
+          "text": "would buy",
+          "isCorrect": false
+        },
+        {
+          "id": 381893,
+          "label": "D",
+          "text": "was buying",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 381891,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Khi diễn tả một h&agrave;nh động đang xảy ra th&igrave; h&agrave;nh động kh&aacute;c chen ngang trong qu&aacute; khứ, ta d&ugrave;ng </span><strong>th&igrave; qu&aacute; khứ tiếp diễn</strong><span style=\"font-weight: 400;\"> để chỉ h&agrave;nh động đang xảy ra trong qu&aacute; khứ (h&agrave;nh động \"<strong>wait</strong>\") v&agrave; d&ugrave;ng </span><strong>th&igrave; qu&aacute; khứ đơn</strong><span style=\"font-weight: 400;\"> để chỉ h&agrave;nh động hay sự việc chen v&agrave;o (h&agrave;nh động \"<strong>buy</strong>\").</span></p>\n<p>Cấu tr&uacute;c th&igrave; qu&aacute; khứ đơn: <strong>S + V(pt)</strong></p>\n<p>Dịch: T&ocirc;i mua một cuốn tạp ch&iacute; thời trang khi t&ocirc;i đang đợi t&agrave;u đến.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 141035,
+      "questionNumber": 6,
+      "questionName": "4 ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If the players train hard for the final, _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 332254,
+          "label": "A",
+          "text": "I'm sure they'll win",
+          "isCorrect": true
+        },
+        {
+          "id": 332255,
+          "label": "B",
+          "text": "I'm sure they win",
+          "isCorrect": false
+        },
+        {
+          "id": 341515,
+          "label": "C",
+          "text": "I'm sure they would win",
+          "isCorrect": false
+        },
+        {
+          "id": 341516,
+          "label": "D",
+          "text": "I'm sure they could win",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 332254,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;u điều kiện loại 1 diễn tả điều kiện c&oacute; thể xảy ra ở hiện tại hoặc tương lai.</p>\n<p>Cấu tr&uacute;c: <strong>If + S + V(s/es), S + will/can/may... + V(inf)&nbsp;</strong></p>\n<p>Dịch: Nếu c&aacute;c cầu thủ tập luyện chăm chỉ cho trận đấu, t&ocirc;i chắc chắn rằng họ sẽ thắng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 143480,
+      "questionNumber": 7,
+      "questionName": "6 ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Billy&#8217;s grandma _____ ride her motorbike even when she was 85 years old.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 337886,
+          "label": "A",
+          "text": "was used to",
+          "isCorrect": false
+        },
+        {
+          "id": 337887,
+          "label": "B",
+          "text": "got used to",
+          "isCorrect": false
+        },
+        {
+          "id": 337888,
+          "label": "C",
+          "text": "used to",
+          "isCorrect": true
+        },
+        {
+          "id": 364144,
+          "label": "D",
+          "text": "used",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 337888,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>used to + V(inf):</strong><span style=\"font-weight: 400;\"> đ&atilde; từng =&gt; </span><strong>th&oacute;i quen trong qu&aacute; khứ, giờ kh&ocirc;ng c&ograve;n nữa.</strong></p>\n<p>Dịch: B&agrave; của Billy đ&atilde; từng đi xe m&aacute;y ngay cả khi b&agrave; ấy đ&atilde; 85 tuổi.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 164675,
+      "questionNumber": 8,
+      "questionName": "6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Why don&#8217;t you start out early _____ you don&#8217;t have to hurry?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 381894,
+          "label": "A",
+          "text": "so that",
+          "isCorrect": true
+        },
+        {
+          "id": 381895,
+          "label": "B",
+          "text": "because",
+          "isCorrect": false
+        },
+        {
+          "id": 381896,
+          "label": "C",
+          "text": "though",
+          "isCorrect": false
+        },
+        {
+          "id": 381897,
+          "label": "D",
+          "text": "in order to",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 381894,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y xem x&eacute;t mối quan hệ &yacute; nghĩa giữa hai vế của c&acirc;u: <em>Why don't you start out early</em> v&agrave; <em>you don't have to hurry</em>. Vế sau diễn tả mục đ&iacute;ch hay kết quả của vế trước?<br />Sau khi x&aacute;c định được mối quan hệ, h&atilde;y nhớ lại c&aacute;c cấu tr&uacute;c tiếng Anh d&ugrave;ng để diễn tả mối quan hệ đ&oacute;.</p>\n<p>Đặc biệt ch&uacute; &yacute; đến cấu tr&uacute;c ngữ ph&aacute;p theo sau c&aacute;c li&ecirc;n từ/cụm từ n&agrave;y, sau đ&oacute; xem phần sau chỗ trống l&agrave; g&igrave; để chọn cấu tr&uacute;c ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&aacute;c cấu tr&uacute;c chỉ mục đ&iacute;ch</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c cấu tr&uacute;c n&agrave;y được sử dụng để diễn tả mục đ&iacute;ch hoặc kết quả mong muốn của một h&agrave;nh động, gi&uacute;p giải th&iacute;ch l&yacute; do tại sao một h&agrave;nh động được thực hiện.</p>\n<p style=\"text-align: justify;\"><strong>Một số cấu tr&uacute;c chỉ mục đ&iacute;ch:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">so that + S + V</span>: để m&agrave;, để cho</li>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">in order to + V(inf)</span>: để m&agrave;, để cho</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi y&ecirc;u cầu điền một từ/cụm từ nối hai mệnh đề, trong đ&oacute; mệnh đề thứ hai <em>\"you don't have to hurry\"</em> diễn tả mục đ&iacute;ch của h&agrave;nh động <em>\"start out early\"</em>. Do đ&oacute;, cần một cấu tr&uacute;c chỉ mục đ&iacute;ch.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1, <em>so that</em>, l&agrave; li&ecirc;n từ chỉ mục đ&iacute;ch, theo sau l&agrave; một mệnh đề (S + V), ho&agrave;n to&agrave;n ph&ugrave; hợp với cấu tr&uacute;c của phần sau chỗ trống (<em>you don't have to hurry</em>).</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 2, <em>because</em>, l&agrave; li&ecirc;n từ chỉ nguy&ecirc;n nh&acirc;n, kh&ocirc;ng ph&ugrave; hợp v&igrave; vế sau l&agrave; mục đ&iacute;ch chứ kh&ocirc;ng phải nguy&ecirc;n nh&acirc;n. Phương &aacute;n 3, <em>though</em>, l&agrave; li&ecirc;n từ chỉ sự nhượng bộ/tương phản, kh&ocirc;ng ph&ugrave; hợp với &yacute; nghĩa của c&acirc;u. Phương &aacute;n 4, <em>in order to</em>, l&agrave; cụm từ chỉ mục đ&iacute;ch nhưng phải theo sau bởi động từ nguy&ecirc;n thể (V(inf)), kh&ocirc;ng ph&ugrave; hợp khi chỗ trống được theo sau bởi một mệnh đề.</p>",
+      "answerFeedbacks": {
+        "381894": "Liên từ <em>so that</em> dùng để chỉ mục đích, theo sau là một mệnh đề (S + V), phù hợp với cấu trúc <em>you don't have to hurry</em>.",
+        "381895": "Liên từ <em>because</em> dùng để chỉ nguyên nhân, không phù hợp với ngữ cảnh câu này vốn đang diễn tả mục đích.",
+        "381896": "Liên từ <em>though</em> dùng để chỉ sự nhượng bộ hoặc tương phản, không phù hợp với ý nghĩa mục đích của câu.",
+        "381897": "Cụm từ <em>in order to</em> dùng để chỉ mục đích nhưng phải theo sau bởi động từ nguyên thể (V(inf)), không phù hợp khi theo sau là một mệnh đề <em>you don't have to hurry</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 145230,
+      "questionNumber": 9,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Baking bacon _____ the oven is a great way to get crispy, perfect bacon to serve with eggs.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 341558,
+          "label": "A",
+          "text": "in",
+          "isCorrect": true
+        },
+        {
+          "id": 341559,
+          "label": "B",
+          "text": "on",
+          "isCorrect": false
+        },
+        {
+          "id": 341560,
+          "label": "C",
+          "text": "by",
+          "isCorrect": false
+        },
+        {
+          "id": 381906,
+          "label": "D",
+          "text": "from",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 341558,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Bạn cần một giới từ để diễn tả vị trí của thịt xông khói khi nó được nướng. <em>\"The oven\"</em> là một không gian kín, có thể chứa vật bên trong.</p>\n<p>Hãy nhớ lại giới từ thường dùng để chỉ một vật đang ở <em>bên trong</em> một không gian hoặc vật chứa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Giới từ chỉ nơi chốn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Giới từ chỉ nơi chốn được sử dụng để diễn tả vị trí, địa điểm của người hoặc vật. Chúng giúp xác định mối quan hệ không gian giữa các đối tượng trong câu.</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Một số giới từ chỉ nơi chốn:</span></strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">in: </span></strong>trong, ở trong (dùng cho không gian ba chiều, bao quanh)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">on: </span></strong>trên, ở trên (dùng cho bề mặt)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">by: </span></strong>bên cạnh, gần (dùng cho vị trí lân cận)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">from: </span></strong>từ, từ đâu đó (dùng để chỉ điểm xuất phát)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, ngữ cảnh đề cập đến việc nướng thịt xông khói bên trong lò nướng. <em>\"The oven\"</em> là một không gian kín, có giới hạn ba chiều, do đó giới từ <em>\"in\"</em> (trong, ở trong) là lựa chọn phù hợp nhất để diễn tả vị trí này.</p>\n<p style=\"text-align: justify;\">Các giới từ khác không phù hợp vì <em>\"on\"</em> dùng cho bề mặt; <em>\"by\"</em> dùng để chỉ sự gần gũi, bên cạnh; còn <em>\"from\"</em> dùng để chỉ điểm xuất phát.</p>",
+      "answerFeedbacks": {
+        "341558": "Đúng vì <em>\"in\"</em> được dùng để chỉ vị trí bên trong một không gian kín như <em>\"the oven\"</em>.",
+        "341559": "Sai vì <em>\"on\"</em> dùng để chỉ vị trí trên bề mặt, không phù hợp với việc nướng thịt bên trong lò.",
+        "341560": "Sai vì <em>\"by\"</em> dùng để chỉ vị trí bên cạnh hoặc gần, không phải bên trong.",
+        "381906": "Sai vì <em>\"from\"</em> dùng để chỉ điểm xuất phát, không phải vị trí hiện tại của vật."
+      },
+      "images": []
+    },
+    {
+      "id": 164676,
+      "questionNumber": 10,
+      "questionName": "7",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ pieces of chocolate would you like?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 381898,
+          "label": "A",
+          "text": "How much",
+          "isCorrect": false
+        },
+        {
+          "id": 381899,
+          "label": "B",
+          "text": "How many",
+          "isCorrect": true
+        },
+        {
+          "id": 381900,
+          "label": "C",
+          "text": "How far",
+          "isCorrect": false
+        },
+        {
+          "id": 381901,
+          "label": "D",
+          "text": "How long",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 381899,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn từ hỏi phù hợp, bạn cần xác định loại danh từ đứng sau chỗ trống. <ul><li>Sử dụng <em>\"How much\"</em> với danh từ không đếm được (uncountable nouns).</li><li>Sử dụng <em>\"How many\"</em> với danh từ đếm được số nhiều (countable plural nouns).</li><li><em>\"How far\"</em> dùng để hỏi về khoảng cách (distance).</li><li><em>\"How long\"</em> dùng để hỏi về thời gian (duration).</li></ul> Hãy xem xét từ <em>\"pieces\"</em> trong câu hỏi thuộc loại danh từ nào.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&aacute;ch hỏi về số lượng, khoảng c&aacute;ch v&agrave; thời gian</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> D&ugrave;ng để đặt c&acirc;u hỏi về số lượng của sự vật, khoảng c&aacute;ch giữa c&aacute;c địa điểm hoặc thời lượng của một sự việc.</p>\n<p style=\"text-align: justify;\"><strong>Một số c&aacute;ch hỏi phổ biến:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>How much + N(kh&ocirc;ng đếm được):</strong> bao nhi&ecirc;u</li>\n<li style=\"text-align: justify;\"><strong>How many + N(đếm được số nhiều):</strong> bao nhi&ecirc;u</li>\n<li style=\"text-align: justify;\"><strong>How far + Aux.V + S + V(inf)...?:</strong> bao xa (hỏi về khoảng c&aacute;ch)</li>\n<li style=\"text-align: justify;\"><strong>How long + Aux.V + S + V(inf)...?: </strong>bao l&acirc;u (hỏi về thời gian)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u hỏi, từ <em>\"pieces\"</em> l&agrave; một danh từ đếm được số nhiều. Để hỏi về số lượng của danh từ đếm được, ch&uacute;ng ta cần sử dụng từ hỏi <em>\"How many\"</em>.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1, <em>\"How much\"</em>, được d&ugrave;ng với danh từ kh&ocirc;ng đếm được. Phương &aacute;n 3, <em>\"How far\"</em>, d&ugrave;ng để hỏi về khoảng c&aacute;ch. Phương &aacute;n 4, <em>\"How long\"</em>, d&ugrave;ng để hỏi về thời gian. Cả ba phương &aacute;n n&agrave;y đều kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh c&acirc;u hỏi về số lượng của danh từ đếm được.</p>",
+      "answerFeedbacks": {
+        "381898": "Dùng để hỏi về số lượng của danh từ không đếm được, không phù hợp với <em>\"pieces\"</em> là danh từ đếm được số nhiều.",
+        "381899": "Dùng để hỏi về số lượng của danh từ đếm được số nhiều, phù hợp với <em>\"pieces\"</em>.",
+        "381900": "Dùng để hỏi về khoảng cách, không phù hợp với ngữ cảnh hỏi về số lượng.",
+        "381901": "Dùng để hỏi về thời gian, không phù hợp với ngữ cảnh hỏi về số lượng."
+      },
+      "images": []
+    },
+    {
+      "id": 164679,
+      "questionNumber": 11,
+      "questionName": "8",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The English test was _____ than I thought it would be.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 381914,
+          "label": "A",
+          "text": "the easier",
+          "isCorrect": false
+        },
+        {
+          "id": 381915,
+          "label": "B",
+          "text": "more easy",
+          "isCorrect": false
+        },
+        {
+          "id": 381916,
+          "label": "C",
+          "text": "easiest",
+          "isCorrect": false
+        },
+        {
+          "id": 381917,
+          "label": "D",
+          "text": "easier",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 381917,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>V&igrave; t&iacute;nh từ \"<strong>easy</strong>\" kết th&uacute;c bằng <strong>-y</strong> n&ecirc;n được coi l&agrave; t&iacute;nh từ ngắn. =&gt; Bỏ <strong>-y</strong>, th&ecirc;m <strong>-i</strong> v&agrave; th&ecirc;m<strong> -er</strong> để tạo dạng so s&aacute;nh hơn.</p>\n<p>Cấu tr&uacute;c so s&aacute;nh hơn với t&iacute;nh từ ngắn: <strong>S + be + adj. + er + than + O/ S+ V</strong></p>\n<p>Dịch: B&agrave;i kiểm tra tiếng Anh dễ hơn những g&igrave; t&ocirc;i nghĩ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 164680,
+      "questionNumber": 12,
+      "questionName": "9",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If only I _____ in Paris next month.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 381918,
+          "label": "A",
+          "text": "could be",
+          "isCorrect": true
+        },
+        {
+          "id": 381919,
+          "label": "B",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "id": 381920,
+          "label": "C",
+          "text": "am",
+          "isCorrect": false
+        },
+        {
+          "id": 381921,
+          "label": "D",
+          "text": "will be",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 381918,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Cụm <em>\"If only\"</em> báo hiệu đây là một câu ước, còn <em>\"next month\"</em> chỉ ra thời điểm của ước muốn là trong tương lai.</p>\n<p>Bạn cần chọn dạng động từ phù hợp với cấu trúc câu ước cho tương lai.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu ước với \"If only\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả mong muốn, ước muốn về một điều không có thật hoặc khó có thể xảy ra ở hiện tại, quá khứ hoặc tương lai.</p>\n<p><strong><span style=\"color: #1c581f;\">Một số cấu trúc cụ thể:</span></strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">If only + S + V(quá khứ đơn):</span></strong> ước điều không có thật ở hiện tại.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">If only + S + had + V(pp):</span></strong> ước điều không có thật ở quá khứ.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">If only + S + would/could + V(nguyên mẫu):</span></strong> ước điều không có thật ở tương lai.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, dấu hiệu <em>\"If only\"</em> cho biết đây là một câu ước, và cụm từ <em>\"next month\"</em> chỉ rõ ước muốn này là về tương lai. Vì vậy, chúng ta cần áp dụng cấu trúc câu ước cho tương lai <em>\"If only + S + would/could + V(nguyên mẫu)\"</em>. Phương án <em>\"could be\"</em> là lựa chọn phù hợp nhất với cấu trúc này.</p>",
+      "answerFeedbacks": {
+        "381918": "Đúng vì <em>\"If only + S + could + V(inf)\"</em> là cấu trúc dùng để diễn tả ước muốn ở tương lai.",
+        "381919": "Sai vì <em>\"If only + S + V(quá khứ đơn)\"</em> diễn tả ước muốn ở hiện tại, không phù hợp với ngữ cảnh <em>\"next month\"</em>.",
+        "381920": "Sai vì <em>\"am\"</em> là thì hiện tại đơn, không dùng trong câu ước với <em>\"If only\"</em>.",
+        "381921": "Sai vì <em>\"will be\"</em> là thì tương lai đơn, không dùng trong câu ước với <em>\"If only\"</em> để diễn tả điều không có thật."
+      },
+      "images": []
+    },
+    {
+      "id": 164690,
+      "questionNumber": 13,
+      "questionName": "10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>A is _____ highest mark that a student can get in an examination.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 381954,
+          "label": "A",
+          "text": "the",
+          "isCorrect": true
+        },
+        {
+          "id": 381955,
+          "label": "B",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 381956,
+          "label": "C",
+          "text": "an",
+          "isCorrect": false
+        },
+        {
+          "id": 381957,
+          "label": "D",
+          "text": "no article",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 381954,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Khi bạn muốn n&oacute;i về một c&aacute;i g&igrave; đ&oacute; l&agrave; <strong>nhất</strong>, bạn cần d&ugrave;ng một mạo từ cụ thể trước t&iacute;nh từ đ&oacute;. Trong c&acirc;u <em>'A is _____ highest mark...'</em>, từ <em>'highest'</em> l&agrave; dạng so s&aacute;nh nhất của t&iacute;nh từ <em>'high'</em>. H&atilde;y nhớ lại quy tắc mạo từ đi k&egrave;m với t&iacute;nh từ so s&aacute;nh nhất.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ với t&iacute;nh từ so s&aacute;nh nhất</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Mạo từ được d&ugrave;ng để x&aacute;c định hoặc kh&ocirc;ng x&aacute;c định danh từ. Mạo từ \"the\" đặc biệt được d&ugrave;ng để chỉ sự độc nhất hoặc x&aacute;c định r&otilde; r&agrave;ng, thường đi k&egrave;m với t&iacute;nh từ so s&aacute;nh nhất để nhấn mạnh đối tượng l&agrave; duy nhất trong nh&oacute;m.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, cụm từ <em>\"highest mark\"</em> chứa t&iacute;nh từ <em>\"highest\"</em> l&agrave; dạng so s&aacute;nh nhất của <em>\"high\"</em>. Khi sử dụng t&iacute;nh từ so s&aacute;nh nhất, ta phải d&ugrave;ng mạo từ x&aacute;c định <em>\"the\"</em> trước n&oacute; để chỉ rằng đối tượng đ&oacute; l&agrave; độc nhất hoặc nổi bật nhất trong nh&oacute;m, do đ&oacute; phương &aacute;n 1 l&agrave; ph&ugrave; hợp nhất.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n 2 (<em>\"a\"</em>) v&agrave; 3 (<em>\"an\"</em>) được d&ugrave;ng với danh từ số &iacute;t đếm được kh&ocirc;ng x&aacute;c định v&agrave; kh&ocirc;ng d&ugrave;ng với t&iacute;nh từ so s&aacute;nh nhất. Phương &aacute;n 4 (<em>\"no article\"</em>) kh&ocirc;ng ph&ugrave; hợp v&igrave; <em>\"highest mark\"</em> l&agrave; một danh từ x&aacute;c định được bổ nghĩa bởi t&iacute;nh từ so s&aacute;nh nhất.</p>",
+      "answerFeedbacks": {
+        "381954": "Mạo từ \"the\" được dùng trước tính từ so sánh nhất (<em>superlative adjective</em>) để chỉ một đối tượng duy nhất hoặc nổi bật nhất.",
+        "381955": "Mạo từ \"a\" dùng trước danh từ số ít đếm được bắt đầu bằng phụ âm và không xác định, không dùng với tính từ so sánh nhất.",
+        "381956": "Mạo từ \"an\" dùng trước danh từ số ít đếm được bắt đầu bằng nguyên âm và không xác định, không dùng với tính từ so sánh nhất.",
+        "381957": "Không dùng mạo từ trong trường hợp này vì <em>\"highest mark\"</em> là một danh từ xác định được bổ nghĩa bởi tính từ so sánh nhất."
+      },
+      "images": []
+    },
+    {
+      "id": 156616,
+      "questionNumber": 14,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Mary and Susan are talking about a book they have just read.</em></p>\n<p><strong>Mary: \"The book is really interesting and it's hard to put it down.\"</strong></p>\n<p><strong>Susan: “_____”</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 365539,
+          "label": "A",
+          "text": "<p>I couldn't agree with you more.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 365540,
+          "label": "B",
+          "text": "<p>It's alright.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 365541,
+          "label": "C",
+          "text": "<p>Don't mention it.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 365542,
+          "label": "D",
+          "text": "<p>That's nice of you to say so.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 365539,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Mary n&oacute;i rằng cuốn s&aacute;ch rất hay v&agrave; <em>\"it's hard to put it down\"</em> (rất cuốn h&uacute;t). Susan cần đ&aacute;p lại b&agrave;y tỏ &yacute; kiến c&aacute; nh&acirc;n của m&igrave;nh, c&oacute; thể l&agrave; đồng &yacute; hoặc kh&ocirc;ng đồng &yacute;.</p>\n<p>H&atilde;y xem x&eacute;t từng phương &aacute;n v&agrave; lựa chọn c&acirc;u trả lời ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Mary bày tỏ cuốn sách rất thú vị và khó có thể đặt xuống (<em>\"The book is really interesting and it's hard to put it down.\"</em>). Điều này thể hiện sự yêu thích và đánh giá cao của cô ấy đối với cuốn sách. Susan có thể đồng ý hoặc không đồng ý.</p>\n<p style=\"text-align: justify;\">Phương án 1, <em>\"I couldn't agree with you more,\"</em> có nghĩa là <em>\"Tôi hoàn toàn đồng ý với bạn,\"</em> thể hiện sự đồng tình tuyệt đối và phù hợp với ngữ cảnh.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại không phù hợp vì chúng có chức năng giao tiếp khác hoặc mức độ đồng tình không khớp.</p>\n<p style=\"text-align: justify;\">Vì vậy, phương án 1 là phương án chính xác và phù hợp nhất.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>put sth down / put down sth</strong> (phr.v.): đặt (cái gì) xuống</p>\n<p style=\"text-align: justify;\"><strong>It's alright.</strong> (expr.): Không sao đâu / Được thôi.</p>\n<p style=\"text-align: justify;\"><strong>Don't mention it.</strong> (expr.): Không có gì. (đáp lại lời cảm ơn)</p>\n<p style=\"text-align: justify;\"><strong>That's nice of you to say so.</strong> (expr.): Bạn thật tốt khi nói vậy. (đáp lại lời khen)</p>",
+      "answerFeedbacks": {
+        "365539": "<p>Đây là cách diễn đạt sự đồng ý mạnh mẽ, hoàn toàn phù hợp với lời khen của Mary về cuốn sách.</p>",
+        "365540": "<p>C&acirc;u n&agrave;y thể hiện sự chấp nhận hoặc đ&aacute;nh gi&aacute; trung lập, kh&ocirc;ng ph&ugrave; hợp với việc Mary b&agrave;y tỏ cuốn s&aacute;ch rất hay.</p>",
+        "365541": "<p>C&acirc;u n&agrave;y d&ugrave;ng để đ&aacute;p lại lời cảm ơn, kh&ocirc;ng ph&ugrave; hợp trong ngữ cảnh n&agrave;y.</p>",
+        "365542": "<p>C&acirc;u n&agrave;y d&ugrave;ng để đ&aacute;p lại một lời khen d&agrave;nh cho bản th&acirc;n, kh&ocirc;ng ph&ugrave; hợp khi n&oacute;i về một cuốn s&aacute;ch.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 156637,
+      "questionNumber": 15,
+      "questionName": "23",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Mother: “How come you didn’t tell me that you would quit your job?”</strong></p>\n<p><strong>Lisa: “_____.”</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 365619,
+          "label": "A",
+          "text": "<p>I’d love to tell you now</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 365620,
+          "label": "B",
+          "text": "<p>Because I knew that you would make a fuss about it</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 365621,
+          "label": "C",
+          "text": "<p>I have no idea</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 365622,
+          "label": "D",
+          "text": "<p>Because I’m so bored with it</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 365620,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Mục đích giao tiếp của câu hỏi <em>\"How come you didn't tell me...?\"</em> là hỏi về lý do tại sao Lisa đã không nói về việc nghỉ việc.</p>\n<p>Hãy đối chiếu từng phương án xem phương án nào giải thích đúng cho hành động không nói của Lisa trong quá khứ, chứ không phải lý do cho hành động nghỉ việc hay một hành động khác.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời của mẹ là một câu hỏi yêu cầu Lisa giải thích lý do tại sao cô ấy đã không thông báo việc nghỉ việc.</p>\n<p style=\"text-align: justify;\">Phương án 2, <em>\"Because I knew that you would make a fuss about it\"</em> (Bởi vì con biết là mẹ sẽ làm ầm ĩ lên), giải thích trực tiếp nguyên nhân cho sự im lặng của Lisa, phù hợp với câu hỏi về việc <em>\"didn't tell\"</em> (không nói).</p>\n<p style=\"text-align: justify;\">Các phương án 1, 3, và 4 đều không đáp ứng đúng trọng tâm của câu hỏi.</p>",
+      "answerFeedbacks": {
+        "365619": "<p>Phương án này không giải thích lý do Lisa đã không nói trong quá khứ mà chỉ đề cập đến mong muốn nói ở hiện tại.</p>",
+        "365620": "<p>Đây là lời giải thích hợp lý nhất cho việc Lisa đã giữ im lặng về quyết định nghỉ việc, vì cô ấy dự đoán phản ứng tiêu cực từ mẹ.</p>",
+        "365621": "<p>Phương án này không hợp lý vì Lisa là người đưa ra quyết định không nói, nên cô ấy phải biết lý do.</p>",
+        "365622": "<p>Phương án này giải thích lý do Lisa nghỉ việc, chứ không phải lý do cô ấy không thông báo cho mẹ.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 144643,
+      "questionNumber": 16,
+      "questionName": "take care of",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word CLOSEST in meaning to the underlined word of the following question.</em></p>\n<p><strong>Could you <u>take care of</u> our children while I go away?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 340122,
+          "label": "A",
+          "text": "look like",
+          "isCorrect": false
+        },
+        {
+          "id": 340123,
+          "label": "B",
+          "text": "look after",
+          "isCorrect": true
+        },
+        {
+          "id": 340124,
+          "label": "C",
+          "text": "look for",
+          "isCorrect": false
+        },
+        {
+          "id": 340125,
+          "label": "D",
+          "text": "look at",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 340123,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>take care of</strong>: chăm s&oacute;c ~ <strong>look after</strong>: chăm s&oacute;c, chăm nom</p>\n<p>Dịch: Bạn c&oacute; thể chăm s&oacute;c lũ trẻ khi t&ocirc;i đi vắng được kh&ocirc;ng?</p>\n<p>look like: tr&ocirc;ng giống như&nbsp;</p>\n<p>look for: t&igrave;m kiếm</p>\n<p>look at: nh&igrave;n v&agrave;o</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 164708,
+      "questionNumber": 17,
+      "questionName": "aboard",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word CLOSEST in meaning to the underlined word of the following question.</em></p>\n<p><strong>You may have to pay taxes, even if you are living and working <span style=\"text-decoration: underline;\">abroad</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 382026,
+          "label": "A",
+          "text": "alone",
+          "isCorrect": false
+        },
+        {
+          "id": 382027,
+          "label": "B",
+          "text": "widely",
+          "isCorrect": false
+        },
+        {
+          "id": 382028,
+          "label": "C",
+          "text": "secretly",
+          "isCorrect": false
+        },
+        {
+          "id": 382029,
+          "label": "D",
+          "text": "overseas",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 382029,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>abroad</strong> (adv.): ở nước ngo&agrave;i = <strong>overseas</strong> (adv.): ở nước ngo&agrave;i</p>\n<p><strong>pay tax</strong>: đ&oacute;ng thuế</p>\n<p>alone (adv.): một m&igrave;nh</p>\n<p>widely (adv.): một c&aacute;ch rộng r&atilde;i</p>\n<p>secretly (adv.): một c&aacute;ch b&iacute; mật</p>\n<p>Dịch: Bạn c&oacute; thể phải đ&oacute;ng thuế, kể cả khi bạn đang sống v&agrave; l&agrave;m việc ở nước ngo&agrave;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 153101,
+      "questionNumber": 18,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>After a long time working incessantly, all my efforts ended in <u>failure</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 357593,
+          "label": "A",
+          "text": "breakdown",
+          "isCorrect": false
+        },
+        {
+          "id": 357594,
+          "label": "B",
+          "text": "loss",
+          "isCorrect": false
+        },
+        {
+          "id": 357595,
+          "label": "C",
+          "text": "success",
+          "isCorrect": true
+        },
+        {
+          "id": 357596,
+          "label": "D",
+          "text": "collapse",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 357595,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Nếu bạn làm việc chăm chỉ và cuối cùng đạt được mục tiêu của mình, bạn sẽ gọi đó là gì? Hãy tìm từ trái nghĩa với khái niệm đó.",
+      "explanation": "<p><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span> </p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #fff;\n        border: 1px solid #ceedca;\n        border-radius: 10px;\n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n        color: #1c581f;\n        font-size: 15px;\n    }\n\n    .vocab-table-sharp th,\n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5;\n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle;\n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        display: inline-block;\n        margin: 0 0.4rem 4px 0;\n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n        display: block;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">failure</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/ˈfeɪljər/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sự thất bại, sự không thành công</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">breakdown</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/ˈbreɪkdaʊn/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sự hỏng hóc, sự suy sụp (về tinh thần), sự đổ vỡ</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">loss</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/lɒs/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sự mất mát, thiệt hại</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">success</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/səkˈses/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sự thành công</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">collapse</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/kəˈlæps/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sự sụp đổ, sự đổ nát, sự suy sụp hoàn toàn</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span><span style=\"text-align: justify;\"> </span><span style=\"text-align: justify;\">Trong câu, <em>\"all my efforts ended in <u>failure</u>\"</em> có nghĩa là mọi nỗ lực đều không đạt được kết quả mong muốn. Từ cần tìm là từ trái nghĩa với <strong>failure</strong>, tức là sự thành công. <strong>Success</strong> là lựa chọn phù hợp nhất vì nó diễn tả kết quả đạt được mong muốn, đối lập hoàn toàn với sự thất bại. Các phương án <strong>breakdown</strong>, <strong>loss</strong> và <strong>collapse</strong> đều mang nghĩa tiêu cực nhưng không phải là từ trái nghĩa trực tiếp của <strong>failure</strong> trong ngữ cảnh này.</span></p>",
+      "answerFeedbacks": {
+        "357593": "<strong>breakdown</strong> thường chỉ sự hỏng hóc về máy móc hoặc suy sụp về tinh thần, không phải là từ trái nghĩa với sự thất bại của một nỗ lực.",
+        "357594": "<strong>loss</strong> diễn tả sự mất mát hoặc thiệt hại, không trực tiếp đối lập với việc đạt được thành công.",
+        "357595": "<strong>success</strong> là từ trái nghĩa chính xác với <strong>failure</strong>, chỉ việc đạt được kết quả mong muốn sau nỗ lực.",
+        "357596": "<strong>collapse</strong> mô tả sự sụp đổ hoặc suy sụp hoàn toàn, mang sắc thái mạnh hơn và không phải là từ trái nghĩa trực tiếp với <strong>failure</strong> trong ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 143178,
+      "questionNumber": 19,
+      "questionName": "16",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>The council has spent an <u>enormous</u> amount of money on this project.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 337180,
+          "label": "A",
+          "text": "tiny",
+          "isCorrect": true
+        },
+        {
+          "id": 337181,
+          "label": "B",
+          "text": "thin",
+          "isCorrect": false
+        },
+        {
+          "id": 337182,
+          "label": "C",
+          "text": "loose",
+          "isCorrect": false
+        },
+        {
+          "id": 337183,
+          "label": "D",
+          "text": "gigantic",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 337180,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 400px;\">\n<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2BVCIqSABLwdZHX8DsrNB3r%2FqL%2Bz73I4qhCi65AZOi%2BzSEY%2F2wk4Kc6La1YQ8V7V5Y0A8OYTiWxC6iXM%2BhVEILnegkzWTXLF7G55irqGOWlPyxT0hcfP8gDdmQfAgt%2F02uM3zvfllPOXZdmLcID4Ky8AfbO3KRP10UXJokft2%2BAYBQ%2BzZoUmyIB6kOal%2BcPNoqHHDGoMVPdcO8jRK7atScZpMWvZNEtVRc8FGClvUDqfc0uHt%2F%2FpIJkDVLXc4OZyhwB019w7J0y6%2Fn5wW6W9MxpqOmrYOqaAJ0aGS%2FMIPYzPy3xPCaLa0hl\" width=\"380\" height=\"390\" frameborder=\"0\"></iframe></div>\n</div>\n<p>Dịch: Hội đồng đ&atilde; chi một khoản tiền khổng lồ cho dự &aacute;n n&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 164696,
+      "questionNumber": 20,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He <span style=\"text-decoration: underline;\">turned</span> his head to <span style=\"text-decoration: underline;\">look at</span> her, moving <span style=\"text-decoration: underline;\">careful</span>&nbsp;to avoid <span style=\"text-decoration: underline;\">waking</span> her.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 381978,
+          "label": "A",
+          "text": "turned",
+          "isCorrect": false
+        },
+        {
+          "id": 381979,
+          "label": "B",
+          "text": "look at",
+          "isCorrect": false
+        },
+        {
+          "id": 381980,
+          "label": "C",
+          "text": "careful",
+          "isCorrect": true
+        },
+        {
+          "id": 381981,
+          "label": "D",
+          "text": "waking",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 381980,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cần một trạng từ để bổ nghĩa cho động từ \"move\", v&igrave; thế sửa \"careful\" =&gt; \"carefully\"</p>\n<p>Dịch: Anh ấy quay đầu lại nh&igrave;n c&ocirc;, di chuyển thật cẩn trọng để tr&aacute;nh đ&aacute;nh thức c&ocirc; ấy.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 164697,
+      "questionNumber": 21,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction. </em></p>\n<p><strong>Excuse me. <span style=\"text-decoration: underline;\">Would</span> you mind <span style=\"text-decoration: underline;\">put</span> <span style=\"text-decoration: underline;\">out</span> your cigarette? It's <span style=\"text-decoration: underline;\">non-smoking</span> area here.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 381982,
+          "label": "A",
+          "text": "would",
+          "isCorrect": false
+        },
+        {
+          "id": 381983,
+          "label": "B",
+          "text": "put",
+          "isCorrect": true
+        },
+        {
+          "id": 381984,
+          "label": "C",
+          "text": "out",
+          "isCorrect": false
+        },
+        {
+          "id": 381985,
+          "label": "D",
+          "text": "non-smoking",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 381983,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>Would you mind + Ving?</strong>: Bạn c&oacute; phiền l&agrave;m g&igrave; kh&ocirc;ng</p>\n<p>V&igrave; thế, sửa \"put\" =&gt; \"putting\"</p>\n<p><strong>put out</strong>: dập, tắt</p>\n<p>Dịch: Xin thứ lỗi? Bạn c&oacute; phiền dập tắt thuốc l&aacute; đi kh&ocirc;ng? Đ&acirc;y l&agrave; khu vực kh&ocirc;ng kh&oacute;i thuốc.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 117256,
+      "questionNumber": 22,
+      "questionName": "Q6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Tim and Tam <u>should be</u> encouraged <u>to discuss</u> analytically <u>with</u> the project that they <u>are given</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 279022,
+          "label": "A",
+          "text": "should be",
+          "isCorrect": false
+        },
+        {
+          "id": 279023,
+          "label": "B",
+          "text": "to discuss",
+          "isCorrect": false
+        },
+        {
+          "id": 279024,
+          "label": "C",
+          "text": "with",
+          "isCorrect": true
+        },
+        {
+          "id": 279025,
+          "label": "D",
+          "text": "are given",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 279024,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>discuss sth</strong>: thảo luận về vấn đề g&igrave;</p>\n<p>=&gt; Bỏ <strong>\"with\"</strong></p>\n<p>Dịch: Tim v&agrave; T&acirc;m n&ecirc;n được khuyến kh&iacute;ch để thảo luận ph&acirc;n t&iacute;ch <span style=\"text-decoration: underline;\">về</span> dự &aacute;n m&agrave; họ được đưa ra.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 117049,
+      "questionNumber": 23,
+      "questionName": "P4(203w)",
+      "questionType": "Description",
+      "questionText": "<p><strong>Read the following passage and choose the correct answer to each of the following questions.</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">The sea has always interested people. From it, they can get food, minerals, and treasures. For thousands of years, they sailed on the sea. But they could not go far beneath its surface. People want to explore deep into the sea. However, they are not fishes. Because people must breathe air, they cannot stay under the water&#8217;s surface for any length of time.<span class=\"answerhighlight qhealth\"> To explore deep water, men and women face even more dangers and problems</span>.<span class=\"answerhighlight qmain\"> <span class=\"answerhighlight qmix\">A diver who wants to stay underwater for more than a few minutes must breathe air or a special <strong>mixture</strong> of gases.</span><span class=\"answerhighlight qmain\"> <span class=\"answerhighlight qthey\">Divers can wear diving suits and have air pumped to <strong>them</strong> from above.</span></span></span> They can carry tanks of air on their back and breathe through a hose and a mouthpiece. Water weighs 800 times as much as air. <span class=\"answerhighlight qpressure\">Tons of water push against a diver deep in the sea. The diver&#8217;s body is under great pressure. </span>When divers are under great pressure, their blood takes in some of the gases they breathe. <span class=\"answerhighlight qquickly\"><span class=\"answerhighlight qbubbles\">As they rise too quickly,<span class=\"answerhighlight q5\"> the gases in their blood form bubbles</span>. </span></span><span class=\"answerhighlight qmain\"><span class=\"answerhighlight qquickly\"><span class=\"answerhighlight q1\"><span class=\"answerhighlight q4\">Divers then suffer from the bends</span></span></span><span class=\"answerhighlight q1\"><span class=\"answerhighlight q4\">.</span> The bends can cause divers to double up in pain.</span> Bends can even kill divers.&nbsp;</span></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 164753,
+      "questionNumber": 24,
+      "questionName": "main",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What is the passage mainly about?</strong></p>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the following questions.</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">The sea has always interested people. From it, they can get food, minerals, and treasures. For thousands of years, they sailed on the sea. But they could not go far beneath its surface. People want to explore deep into the sea. However, they are not fishes. Because people must breathe air, they cannot stay under the water&#8217;s surface for any length of time.<span class=\"answerhighlight qhealth\"> To explore deep water, men and women face even more dangers and problems</span>.<span class=\"answerhighlight qmain\"> <span class=\"answerhighlight qmix\">A diver who wants to stay underwater for more than a few minutes must breathe air or a special <strong>mixture</strong> of gases.</span><span class=\"answerhighlight qmain\"> <span class=\"answerhighlight qthey\">Divers can wear diving suits and have air pumped to <strong>them</strong> from above.</span></span></span> They can carry tanks of air on their back and breathe through a hose and a mouthpiece. Water weighs 800 times as much as air. <span class=\"answerhighlight qpressure\">Tons of water push against a diver deep in the sea. The diver&#8217;s body is under great pressure. </span>When divers are under great pressure, their blood takes in some of the gases they breathe. <span class=\"answerhighlight qquickly\"><span class=\"answerhighlight qbubbles\">As they rise too quickly,<span class=\"answerhighlight q5\"> the gases in their blood form bubbles</span>. </span></span><span class=\"answerhighlight qmain\"><span class=\"answerhighlight qquickly\"><span class=\"answerhighlight q1\"><span class=\"answerhighlight q4\">Divers then suffer from the bends</span></span></span><span class=\"answerhighlight q1\"><span class=\"answerhighlight q4\">.</span> The bends can cause divers to double up in pain.</span> Bends can even kill divers.&nbsp;</span></span></p>",
+      "parentQuestionId": 117049,
+      "choices": [
+        {
+          "id": 382109,
+          "label": "A",
+          "text": "the problems a diver faces in deep sea.",
+          "isCorrect": true
+        },
+        {
+          "id": 382110,
+          "label": "B",
+          "text": "special mixtures of gases in deep sea.",
+          "isCorrect": false
+        },
+        {
+          "id": 382111,
+          "label": "C",
+          "text": "a kind of illness that man suffers in the sea.",
+          "isCorrect": false
+        },
+        {
+          "id": 382112,
+          "label": "D",
+          "text": "air pressure under the surface of sea water.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 382109,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>- Tuy nhi&ecirc;n, ch&uacute;ng ta kh&ocirc;ng phải c&aacute;. V&igrave; con người cần kh&ocirc;ng kh&iacute; n&ecirc;n ch&uacute;ng ta kh&ocirc;ng thể ở dưới nước&nbsp; d&ugrave; chỉ trong một khoảng thời gian ngắn.</p>\n<p>- Thợ lặn phải chịu đựng bệnh giảm &aacute;p. Bệnh giảm &aacute;p khiến thợ lặn phải chịu gấp đ&ocirc;i đau đớn. Bệnh giảm &aacute;p n&agrave;y thậm ch&iacute; c&oacute; thể giết chết thợ lặn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 117051,
+      "questionNumber": 25,
+      "questionName": "Q2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The story does not say so, but it makes you think that _____.</strong></p>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the following questions.</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">The sea has always interested people. From it, they can get food, minerals, and treasures. For thousands of years, they sailed on the sea. But they could not go far beneath its surface. People want to explore deep into the sea. However, they are not fishes. Because people must breathe air, they cannot stay under the water&#8217;s surface for any length of time.<span class=\"answerhighlight qhealth\"> To explore deep water, men and women face even more dangers and problems</span>.<span class=\"answerhighlight qmain\"> <span class=\"answerhighlight qmix\">A diver who wants to stay underwater for more than a few minutes must breathe air or a special <strong>mixture</strong> of gases.</span><span class=\"answerhighlight qmain\"> <span class=\"answerhighlight qthey\">Divers can wear diving suits and have air pumped to <strong>them</strong> from above.</span></span></span> They can carry tanks of air on their back and breathe through a hose and a mouthpiece. Water weighs 800 times as much as air. <span class=\"answerhighlight qpressure\">Tons of water push against a diver deep in the sea. The diver&#8217;s body is under great pressure. </span>When divers are under great pressure, their blood takes in some of the gases they breathe. <span class=\"answerhighlight qquickly\"><span class=\"answerhighlight qbubbles\">As they rise too quickly,<span class=\"answerhighlight q5\"> the gases in their blood form bubbles</span>. </span></span><span class=\"answerhighlight qmain\"><span class=\"answerhighlight qquickly\"><span class=\"answerhighlight q1\"><span class=\"answerhighlight q4\">Divers then suffer from the bends</span></span></span><span class=\"answerhighlight q1\"><span class=\"answerhighlight q4\">.</span> The bends can cause divers to double up in pain.</span> Bends can even kill divers.&nbsp;</span></span></p>",
+      "parentQuestionId": 117049,
+      "choices": [
+        {
+          "id": 278480,
+          "label": "A",
+          "text": "deep-sea divers should be in good health",
+          "isCorrect": true
+        },
+        {
+          "id": 278481,
+          "label": "B",
+          "text": "diving under the water too quickly causes the bends",
+          "isCorrect": false
+        },
+        {
+          "id": 278482,
+          "label": "C",
+          "text": "Divers can wear diving suits to avoid the bends",
+          "isCorrect": false
+        },
+        {
+          "id": 278483,
+          "label": "D",
+          "text": "divers explore the deep seas only for treasure",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 278480,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">H&atilde;y t&igrave;m những chi tiết trong b&agrave;i m&ocirc; tả những kh&oacute; khăn v&agrave; nguy hiểm về mặt thể chất m&agrave; thợ lặn phải đối mặt. Từ những chi tiết đ&oacute;, h&atilde;y tự hỏi: một người như thế n&agrave;o mới c&oacute; thể chịu đựng v&agrave; l&agrave;m được c&ocirc;ng việc n&agrave;y?</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>Để trả lời c&acirc;u hỏi n&agrave;y, học sinh cần sử dụng kỹ năng suy luận (Inference). Kỹ năng n&agrave;y đ&ograve;i hỏi học sinh phải đọc v&agrave; hiểu c&aacute;c chi tiết được đưa ra trong b&agrave;i đọc, sau đ&oacute; kết nối ch&uacute;ng lại với nhau để r&uacute;t ra một kết luận logic, l&agrave; điều m&agrave; văn bản kh&ocirc;ng n&oacute;i thẳng ra nhưng c&oacute; ngụ &yacute;.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>C&acirc;u hỏi y&ecirc;u cầu bạn t&igrave;m ra điều m&agrave; c&acirc;u chuyện kh&ocirc;ng n&oacute;i trực tiếp, nhưng lại khiến bạn phải suy nghĩ đến. Điều n&agrave;y c&oacute; nghĩa l&agrave; bạn cần t&igrave;m một suy luận hợp l&yacute; dựa tr&ecirc;n c&aacute;c th&ocirc;ng tin được cung cấp trong to&agrave;n bộ b&agrave;i đọc.</p>\n<ul>\n<li style=\"text-align: justify;\">D&ugrave; văn bản c&oacute; thể kh&ocirc;ng n&oacute;i thẳng c&acirc;u \"thợ lặn biển s&acirc;u phải c&oacute; sức khỏe tốt\", nhưng những chi tiết về sự nguy hiểm, &aacute;p lực cực lớn dưới nước, v&agrave; nguy cơ mắc c&aacute;c bệnh nghi&ecirc;m trọng như \"the bends\" (bệnh giảm &aacute;p) đều ngụ &yacute; rằng đ&acirc;y l&agrave; một c&ocirc;ng việc đ&ograve;i hỏi thể chất rất cao. Do đ&oacute;, việc một người cần phải c&oacute; sức khỏe tốt để l&agrave;m c&ocirc;ng việc n&agrave;y l&agrave; một suy luận ho&agrave;n to&agrave;n hợp l&yacute;.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 l&agrave; một bẫy kiến thức. Bệnh giảm &aacute;p (\"the bends\") xảy ra khi thợ lặn đi l&ecirc;n mặt nước qu&aacute; nhanh, chứ kh&ocirc;ng phải khi lặn xuống qu&aacute; nhanh.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 kh&ocirc;ng được hỗ trợ bởi th&ocirc;ng tin trong b&agrave;i. Bộ đồ lặn c&oacute; nhiều chức năng nhưng b&agrave;i đọc kh&ocirc;ng đề cập đến việc n&oacute; c&oacute; thể gi&uacute;p tr&aacute;nh được bệnh giảm &aacute;p.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 sử dụng từ tuyệt đối \"only\" (chỉ), khiến n&oacute; trở n&ecirc;n sai. Thợ lặn kh&aacute;m ph&aacute; biển s&acirc;u v&igrave; nhiều l&yacute; do kh&aacute;c nhau như nghi&ecirc;n cứu khoa học, khảo cổ học dưới nước, hoặc cứu hộ, chứ kh&ocirc;ng chỉ v&igrave; kho b&aacute;u.</li>\n</ul>\n<p style=\"text-align: justify;\">V&igrave; vậy, suy luận hợp l&yacute; v&agrave; được hỗ trợ nhiều nhất từ c&aacute;c chi tiết trong b&agrave;i l&agrave; thợ lặn biển s&acirc;u cần phải c&oacute; sức khỏe tốt.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Dịch c&acirc;u hỏi:</span></p>\n<p style=\"text-align: justify;\"><strong>C&acirc;u chuyện kh&ocirc;ng n&oacute;i r&otilde;, nhưng n&oacute; khiến bạn nghĩ rằng _____.</strong></p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #49c015;\">✔ </span>thợ lặn biển s&acirc;u n&ecirc;n c&oacute; sức khỏe tốt</strong></p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖</span><span style=\"color: #e03e2d;\"> </span></strong>lặn xuống nước qu&aacute; nhanh g&acirc;y ra bệnh giảm &aacute;p</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖</span></strong><span style=\"color: #e03e2d;\"> </span>Thợ lặn c&oacute; thể mặc đồ lặn để tr&aacute;nh bệnh giảm &aacute;p</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖</span></strong><span style=\"color: #e03e2d;\"> </span>thợ lặn kh&aacute;m ph&aacute; biển s&acirc;u chỉ để t&igrave;m kho b&aacute;u</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 117053,
+      "questionNumber": 26,
+      "questionName": "Q4 ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Why do divers get the bends?</strong></p>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the following questions.</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">The sea has always interested people. From it, they can get food, minerals, and treasures. For thousands of years, they sailed on the sea. But they could not go far beneath its surface. People want to explore deep into the sea. However, they are not fishes. Because people must breathe air, they cannot stay under the water&#8217;s surface for any length of time.<span class=\"answerhighlight qhealth\"> To explore deep water, men and women face even more dangers and problems</span>.<span class=\"answerhighlight qmain\"> <span class=\"answerhighlight qmix\">A diver who wants to stay underwater for more than a few minutes must breathe air or a special <strong>mixture</strong> of gases.</span><span class=\"answerhighlight qmain\"> <span class=\"answerhighlight qthey\">Divers can wear diving suits and have air pumped to <strong>them</strong> from above.</span></span></span> They can carry tanks of air on their back and breathe through a hose and a mouthpiece. Water weighs 800 times as much as air. <span class=\"answerhighlight qpressure\">Tons of water push against a diver deep in the sea. The diver&#8217;s body is under great pressure. </span>When divers are under great pressure, their blood takes in some of the gases they breathe. <span class=\"answerhighlight qquickly\"><span class=\"answerhighlight qbubbles\">As they rise too quickly,<span class=\"answerhighlight q5\"> the gases in their blood form bubbles</span>. </span></span><span class=\"answerhighlight qmain\"><span class=\"answerhighlight qquickly\"><span class=\"answerhighlight q1\"><span class=\"answerhighlight q4\">Divers then suffer from the bends</span></span></span><span class=\"answerhighlight q1\"><span class=\"answerhighlight q4\">.</span> The bends can cause divers to double up in pain.</span> Bends can even kill divers.&nbsp;</span></span></p>",
+      "parentQuestionId": 117049,
+      "choices": [
+        {
+          "id": 278488,
+          "label": "A",
+          "text": "They come to the surface too quickly.",
+          "isCorrect": true
+        },
+        {
+          "id": 278489,
+          "label": "B",
+          "text": "They try to do exercises under the water.",
+          "isCorrect": false
+        },
+        {
+          "id": 278490,
+          "label": "C",
+          "text": "Their diving suits weigh too much.",
+          "isCorrect": false
+        },
+        {
+          "id": 278491,
+          "label": "D",
+          "text": "Their blood takes some of the gases they breathe.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 278488,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>&nbsp;\"As they rise too quickly, the gases in their blood form bubbles. Divers then suffer from the bends.\"</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 140141,
+      "questionNumber": 27,
+      "questionName": "divers reading vocab q.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &#8220;mixture&#8221; is closest in meaning to ______.</strong></p>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the following questions.</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">The sea has always interested people. From it, they can get food, minerals, and treasures. For thousands of years, they sailed on the sea. But they could not go far beneath its surface. People want to explore deep into the sea. However, they are not fishes. Because people must breathe air, they cannot stay under the water&#8217;s surface for any length of time.<span class=\"answerhighlight qhealth\"> To explore deep water, men and women face even more dangers and problems</span>.<span class=\"answerhighlight qmain\"> <span class=\"answerhighlight qmix\">A diver who wants to stay underwater for more than a few minutes must breathe air or a special <strong>mixture</strong> of gases.</span><span class=\"answerhighlight qmain\"> <span class=\"answerhighlight qthey\">Divers can wear diving suits and have air pumped to <strong>them</strong> from above.</span></span></span> They can carry tanks of air on their back and breathe through a hose and a mouthpiece. Water weighs 800 times as much as air. <span class=\"answerhighlight qpressure\">Tons of water push against a diver deep in the sea. The diver&#8217;s body is under great pressure. </span>When divers are under great pressure, their blood takes in some of the gases they breathe. <span class=\"answerhighlight qquickly\"><span class=\"answerhighlight qbubbles\">As they rise too quickly,<span class=\"answerhighlight q5\"> the gases in their blood form bubbles</span>. </span></span><span class=\"answerhighlight qmain\"><span class=\"answerhighlight qquickly\"><span class=\"answerhighlight q1\"><span class=\"answerhighlight q4\">Divers then suffer from the bends</span></span></span><span class=\"answerhighlight q1\"><span class=\"answerhighlight q4\">.</span> The bends can cause divers to double up in pain.</span> Bends can even kill divers.&nbsp;</span></span></p>",
+      "parentQuestionId": 117049,
+      "choices": [
+        {
+          "id": 329954,
+          "label": "A",
+          "text": "combination",
+          "isCorrect": true
+        },
+        {
+          "id": 329955,
+          "label": "B",
+          "text": "division",
+          "isCorrect": false
+        },
+        {
+          "id": 329956,
+          "label": "C",
+          "text": "component",
+          "isCorrect": false
+        },
+        {
+          "id": 329957,
+          "label": "D",
+          "text": "type",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 329954,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>mixture&nbsp;</strong>(n.): hỗn hợp ~ <strong>combination</strong> (n.): hợp chất, sự kết hợp</p>\n<p>division (n.): ph&acirc;n c&ocirc;ng</p>\n<p>component (n.): th&agrave;nh phần</p>\n<p>type (n.): loại</p>\n<p>\"A diver who wants to stay underwater for more than a few minutes must breathe air or a special <strong>mixture </strong>of gases.\"</p>\n<p>\"Một thợ lặn muốn ở dưới nước hơn một v&agrave;i ph&uacute;t phải h&iacute;t thở kh&ocirc;ng kh&iacute; hoặc một hỗn hợp kh&iacute; đặc biệt.\"</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 140142,
+      "questionNumber": 28,
+      "questionName": "divers reading reference q.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &#8220;them&#8221; refers to _____.</strong></p>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the following questions.</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">The sea has always interested people. From it, they can get food, minerals, and treasures. For thousands of years, they sailed on the sea. But they could not go far beneath its surface. People want to explore deep into the sea. However, they are not fishes. Because people must breathe air, they cannot stay under the water&#8217;s surface for any length of time.<span class=\"answerhighlight qhealth\"> To explore deep water, men and women face even more dangers and problems</span>.<span class=\"answerhighlight qmain\"> <span class=\"answerhighlight qmix\">A diver who wants to stay underwater for more than a few minutes must breathe air or a special <strong>mixture</strong> of gases.</span><span class=\"answerhighlight qmain\"> <span class=\"answerhighlight qthey\">Divers can wear diving suits and have air pumped to <strong>them</strong> from above.</span></span></span> They can carry tanks of air on their back and breathe through a hose and a mouthpiece. Water weighs 800 times as much as air. <span class=\"answerhighlight qpressure\">Tons of water push against a diver deep in the sea. The diver&#8217;s body is under great pressure. </span>When divers are under great pressure, their blood takes in some of the gases they breathe. <span class=\"answerhighlight qquickly\"><span class=\"answerhighlight qbubbles\">As they rise too quickly,<span class=\"answerhighlight q5\"> the gases in their blood form bubbles</span>. </span></span><span class=\"answerhighlight qmain\"><span class=\"answerhighlight qquickly\"><span class=\"answerhighlight q1\"><span class=\"answerhighlight q4\">Divers then suffer from the bends</span></span></span><span class=\"answerhighlight q1\"><span class=\"answerhighlight q4\">.</span> The bends can cause divers to double up in pain.</span> Bends can even kill divers.&nbsp;</span></span></p>",
+      "parentQuestionId": 117049,
+      "choices": [
+        {
+          "id": 329958,
+          "label": "A",
+          "text": "diving suits",
+          "isCorrect": false
+        },
+        {
+          "id": 329959,
+          "label": "B",
+          "text": "tanks of air",
+          "isCorrect": false
+        },
+        {
+          "id": 329960,
+          "label": "C",
+          "text": "undersea divers",
+          "isCorrect": true
+        },
+        {
+          "id": 329961,
+          "label": "D",
+          "text": "gases",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 329960,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>\"<strong>Divers </strong>can wear diving suits and have air pumped to&nbsp;<strong>them</strong> from above.\"</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 143395,
+      "questionNumber": 29,
+      "questionName": "3",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>HAPPY FAMILY?</strong></p>\n<p style=\"text-align: justify;\">My house must be the <span class='fillblank-option'><label>28.1</label><select class='ms fillblank-option-28' index='0' name='fbo-143395-0' data-testid='fillblank-select-143395-0'><option value='' data-testid='fillblank-option-empty-143395-0'></option><option value=\"noiser\" data-testid='fillblank-option-143395-0-noiser'>noiser</option><option value=\"noisiest\" data-testid='fillblank-option-143395-0-noisiest'>noisiest</option><option value=\"noisy\" data-testid='fillblank-option-143395-0-noisy'>noisy</option><option value=\"noise\" data-testid='fillblank-option-143395-0-noise'>noise</option></select></span> in the neighbourhood. We are always falling out about what we are going to watch on the television. My sister likes to see her favourite singers and actors talking about themselves so she prefers watching <span class='fillblank-option'><label>28.2</label><select class='ms fillblank-option-28' index='1' name='fbo-143395-1' data-testid='fillblank-select-143395-1'><option value='' data-testid='fillblank-option-empty-143395-1'></option><option value=\"soap\" data-testid='fillblank-option-143395-1-soap'>soap</option><option value=\"game\" data-testid='fillblank-option-143395-1-game'>game</option><option value=\"chat\" data-testid='fillblank-option-143395-1-chat'>chat</option><option value=\"reality\" data-testid='fillblank-option-143395-1-reality'>reality</option></select></span> shows. My brother doesn't like anything serious in life. He just wants to laugh all the time so he watches <span class='fillblank-option'><label>28.3</label><select class='ms fillblank-option-28' index='2' name='fbo-143395-2' data-testid='fillblank-select-143395-2'><option value='' data-testid='fillblank-option-empty-143395-2'></option><option value=\"sitcoms\" data-testid='fillblank-option-143395-2-sitcoms'>sitcoms</option><option value=\"reality show\" data-testid='fillblank-option-143395-2-reality show'>reality show</option><option value=\"documentaries\" data-testid='fillblank-option-143395-2-documentaries'>documentaries</option><option value=\"soap operas\" data-testid='fillblank-option-143395-2-soap operas'>soap operas</option></select></span>. My parents believe that TV should be educational so they say that we should watch documentaries. From the moment the television is turned on, everybody starts shouting. It's impossible to <span class='fillblank-option'><label>28.4</label><select class='ms fillblank-option-28' index='3' name='fbo-143395-3' data-testid='fillblank-select-143395-3'><option value='' data-testid='fillblank-option-empty-143395-3'></option><option value=\"give\" data-testid='fillblank-option-143395-3-give'>give</option><option value=\"find\" data-testid='fillblank-option-143395-3-find'>find</option><option value=\"do\" data-testid='fillblank-option-143395-3-do'>do</option><option value=\"make\" data-testid='fillblank-option-143395-3-make'>make</option></select></span> a solution we're all happy with. Sometimes, it makes me feel so depressed! However for the past month, this has all changed. This is because the whole family has been watching the holiday programmes. Now we are arguing about which holiday <span class='fillblank-option'><label>28.5</label><select class='ms fillblank-option-28' index='4' name='fbo-143395-4' data-testid='fillblank-select-143395-4'><option value='' data-testid='fillblank-option-empty-143395-4'></option><option value=\"destination\" data-testid='fillblank-option-143395-4-destination'>destination</option><option value=\"area\" data-testid='fillblank-option-143395-4-area'>area</option><option value=\"life\" data-testid='fillblank-option-143395-4-life'>life</option><option value=\"way\" data-testid='fillblank-option-143395-4-way'>way</option></select></span> we want to visit! We can't agree on anything. How can the same family have so many different personalities?</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "noisiest"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "chat"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "sitcoms"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "find"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "destination"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1.</p>\n<p>C&oacute; mạo từ từ \"the\" ở trước =&gt; so s&aacute;nh nhất</p>\n<p>Dịch: Gia đ&igrave;nh t&ocirc;i hẳn phải ồn &agrave;o nhất trong x&oacute;m.</p>\n<p>2.</p>\n<p><strong>chat shows</strong>: chương tr&igrave;nh tr&ograve; chuyện.</p>\n<p>Vế trước c&oacute; đề cập đến việc chị g&aacute;i th&iacute;ch xem ca sĩ v&agrave; diễn vi&ecirc;n n&oacute;i về bản th&acirc;n họ.&nbsp;</p>\n<p>3.</p>\n<p><strong>sitcoms</strong>: thể loại h&agrave;i kịch.</p>\n<p>Vế trước c&oacute; đề cập đến việc anh trai lu&ocirc;n muốn cười.&nbsp;</p>\n<p>4.</p>\n<p><strong>find a solution</strong>: t&igrave;m ra giải ph&aacute;p.</p>\n<p>5.</p>\n<p><strong>holiday destination</strong>: địa điểm du lịch.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 23714,
+      "questionNumber": 30,
+      "questionName": "Question 20",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is closest in meaning to the following sentence.</em></p>\n<p><strong>Robinson asked, &#8220;What are you going to do after graduating, Melissa?&#8221; </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 72818,
+          "label": "A",
+          "text": "Robinson asked Melissa what she is going to do after graduating.",
+          "isCorrect": false
+        },
+        {
+          "id": 72819,
+          "label": "B",
+          "text": "Robinson asked Melissa what you are going to do after graduating.",
+          "isCorrect": false
+        },
+        {
+          "id": 72820,
+          "label": "C",
+          "text": "Robinson asked Melissa what she was going to do after graduating.",
+          "isCorrect": true
+        },
+        {
+          "id": 72821,
+          "label": "D",
+          "text": "Robinson asked Melissa what you were going to do after graduating.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 72820,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của dạng c&acirc;u hỏi với Wh-word: <strong>S + asked sb/wondered/wanted to know + wh-word + S + V(l&ugrave;i th&igrave;) </strong>(kh&ocirc;ng đảo tobe/ trợ động từ/ động từ khuyết thiếu l&ecirc;n trước chủ ngữ)</p>\n<p>- Đổi đại từ: \"<strong>you</strong>\" =&gt; \"<strong>she</strong>\"&nbsp;</p>\n<p>- L&ugrave;i th&igrave;: \"<strong>are going to</strong>\" =&gt; \"<strong>was going to</strong>\".</p>\n<p>Dịch: Robinson hỏi: \"Bạn sẽ l&agrave;m g&igrave; sau khi tốt nghiệp, Melissa?\"</p>\n<p>~ Robinson hỏi Melissa rằng c&ocirc; ấy sẽ l&agrave;m g&igrave; sau khi tốt nghiệp.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 192967,
+      "questionNumber": 31,
+      "questionName": "22",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>She was so busy that she couldn&#8217;t answer the phone.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 441834,
+          "label": "A",
+          "text": "She was very busy that she couldn’t answer the phone.",
+          "isCorrect": false
+        },
+        {
+          "id": 441835,
+          "label": "B",
+          "text": "She was too busy to answer the phone.",
+          "isCorrect": true
+        },
+        {
+          "id": 441836,
+          "label": "C",
+          "text": "She was too busy not to answer the phone.",
+          "isCorrect": false
+        },
+        {
+          "id": 441837,
+          "label": "D",
+          "text": "She was very busy so that she couldn’t answer the phone.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 441835,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: </span><strong>S + to be + too + adj. + (for sb) + to V(inf)</strong><span style=\"font-weight: 400;\">: qu&aacute;... đến nỗi kh&ocirc;ng thể l&agrave;m được</span></p>\n<p>Dịch: C&ocirc; ấy qu&aacute; bận rộn đến nỗi c&ocirc; ấy kh&ocirc;ng thể nghe điện thoại.</p>\n<p>~ C&ocirc; ấy qu&aacute; bận rộn đến nỗi kh&ocirc;ng thể nghe điện thoại.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265555,
+      "questionNumber": 32,
+      "questionName": "36. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>I haven't tried this kind of food before.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589686,
+          "label": "A",
+          "text": "This is the first time I have tried this kind of food.",
+          "isCorrect": true
+        },
+        {
+          "id": 589687,
+          "label": "B",
+          "text": "It's a long time since I tried this kind of food.",
+          "isCorrect": false
+        },
+        {
+          "id": 589688,
+          "label": "C",
+          "text": "I have tried this kind of food many times.",
+          "isCorrect": false
+        },
+        {
+          "id": 589689,
+          "label": "D",
+          "text": "This is the first time I had tried this kind of food.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589686,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + have/has + not + V(pp) +&hellip;+ before</strong>: Ai đ&oacute; chưa từng l&agrave;m g&igrave; trước đ&oacute;</p>\n<p>~ <strong>It/This is the first time + S + have/has + (ever) + V(pp)</strong>: Đ&acirc;y l&agrave; lần đầu ti&ecirc;n ai đ&oacute; l&agrave;m g&igrave;</p>\n<p>Phương &aacute;n 2, 3 sai nghĩa; phương &aacute;n 4 sai ngữ ph&aacute;p.</p>\n<p>Dịch: Trước đ&acirc;y t&ocirc;i chưa từng ăn thử loại đồ ăn n&agrave;y.</p>\n<p>~ Đ&acirc;y l&agrave; lần đầu ti&ecirc;n t&ocirc;i ăn thử loại đồ ăn n&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 226627,
+      "questionNumber": 33,
+      "questionName": "759-Passive voice-Part II",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is closest in meaning to the following sentence.</em></p>\n<p><strong>The company is still constructing the building.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 508490,
+          "label": "A",
+          "text": "The building is still constructing.",
+          "isCorrect": false
+        },
+        {
+          "id": 508491,
+          "label": "B",
+          "text": "The building is still been constructing.",
+          "isCorrect": false
+        },
+        {
+          "id": 508492,
+          "label": "C",
+          "text": "The building is still being constructed.",
+          "isCorrect": true
+        },
+        {
+          "id": 508493,
+          "label": "D",
+          "text": "The building is still have being constructed.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 508492,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>The building</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>construct</strong>\". =&gt; Động từ phải ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động ở th&igrave; hiện tại tiếp diễn: <strong>S + is/am/are + being + V(pp) + (by O)</strong></p>\n<p>Dịch: C&ocirc;ng ty vẫn đang thi c&ocirc;ng t&ograve;a nh&agrave; đ&oacute;.</p>\n<p>~ T&ograve;a nh&agrave; đ&oacute; vẫn đang được thi c&ocirc;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 392393,
+      "questionNumber": 34,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>She / suggest / use / white text / black background.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 800540,
+          "label": "A",
+          "text": "She suggested to used white text on a black background.",
+          "isCorrect": false
+        },
+        {
+          "id": 800541,
+          "label": "B",
+          "text": "She suggested that using white text on a black background.",
+          "isCorrect": false
+        },
+        {
+          "id": 800542,
+          "label": "C",
+          "text": "She suggested to using white text on a black background.",
+          "isCorrect": false
+        },
+        {
+          "id": 800543,
+          "label": "D",
+          "text": "She suggested using white text on a black background.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 800543,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + suggest + V-ing + ...</strong>: đề nghị l&agrave;m g&igrave;&nbsp;</p>\n<p><strong>on + mặt phẳng</strong>: ở tr&ecirc;n ...</p>\n<p>Dịch: C&ocirc; ấy đề nghị sử dụng chữ trắng tr&ecirc;n nền đen.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 392396,
+      "questionNumber": 35,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>it / necessary / all of us / be / present / the meeting / this afternoon?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 800547,
+          "label": "A",
+          "text": "Is it necessary for all of us to being present at the meeting this afternoon?",
+          "isCorrect": false
+        },
+        {
+          "id": 800548,
+          "label": "B",
+          "text": "Is it necessary for all of us to be present at the meeting this afternoon?",
+          "isCorrect": true
+        },
+        {
+          "id": 800549,
+          "label": "C",
+          "text": "Is it necessary for all of us being present at the meeting this afternoon?",
+          "isCorrect": false
+        },
+        {
+          "id": 800550,
+          "label": "D",
+          "text": "Is it necessary to all of us be present at the meeting this afternoon?",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 800548,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>It + linking verb + adj. + (for/of sb) + to V(inf)</strong>: Ai đ&oacute; làm gì thì th&ecirc;́ nào</p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em>Is it necessary for all of us to <strong><span style=\"text-decoration: line-through; color: #000000;\">being</span></strong> present at the meeting this afternoon?</em></li>\n<li><em>Is it necessary for all of us <strong><span style=\"text-decoration: line-through; color: #000000;\">being</span></strong> present at the meeting this afternoon?</em></li>\n<li><em>Is it necessary <span style=\"text-decoration: line-through; color: #000000;\"><strong><span>to</span></strong></span> all of us <strong><span style=\"text-decoration: line-through;\">be</span></strong> present at the meeting this afternoon?</em></li>\n</ul>\n<p>Dịch: Tất cả ch&uacute;ng ta c&oacute; cần thiết phải c&oacute; mặt trong cuộc họp chiều nay kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 392400,
+      "questionNumber": 36,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>I / rather / get / taxi / wait / bus.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 800560,
+          "label": "A",
+          "text": "I would rather get a taxi to wait for the bus.",
+          "isCorrect": false
+        },
+        {
+          "id": 800561,
+          "label": "B",
+          "text": "I had rather get a taxi than wait for the bus.",
+          "isCorrect": false
+        },
+        {
+          "id": 800562,
+          "label": "C",
+          "text": "I would rather getting a taxi than waiting for the bus.",
+          "isCorrect": false
+        },
+        {
+          "id": 800563,
+          "label": "D",
+          "text": "I would rather get a taxi than wait for the bus.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 800563,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c &ldquo;<strong>would rather...than</strong>&rdquo;: <strong>S + would rather + V(inf) + than + V(inf)</strong>: th&iacute;ch l&agrave;m g&igrave; hơn l&agrave;m g&igrave;</p>\n<p>Dịch: T&ocirc;i th&agrave; bắt taxi c&ograve;n hơn đợi xe bu&yacute;t.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 285043,
+      "questionNumber": 37,
+      "questionName": "37. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Choose the best sentence that can be made from the words given.</span></em></p>\n<p><strong>I / hate / ask / my parents / pocket money.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 625826,
+          "label": "A",
+          "text": "I hate to ask my parents with pocket money.",
+          "isCorrect": false
+        },
+        {
+          "id": 625827,
+          "label": "B",
+          "text": "I hate to asking my parents for pocket money.",
+          "isCorrect": false
+        },
+        {
+          "id": 625828,
+          "label": "C",
+          "text": "I hate asking my parents for pocket money.",
+          "isCorrect": true
+        },
+        {
+          "id": 625829,
+          "label": "D",
+          "text": "I hate asking for my parents pocket money.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 625828,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>hate + V-ing</strong>: gh&eacute;t l&agrave;m g&igrave;</p>\n<p><strong>ask sb for sth</strong>: hỏi xin ai về c&aacute;i g&igrave;</p>\n<p>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:</p>\n<ul>\n<li><em>I hate to ask my parents <span style=\"text-decoration: line-through;\"><strong>with</strong></span> pocket money.</em></li>\n<li><em>I hate <span style=\"text-decoration: line-through;\"><strong>to asking</strong></span> my parents for pocket money.</em></li>\n<li><em>I hate asking <span style=\"text-decoration: line-through;\"><strong>for my parents pocket money</strong></span>.</em></li>\n</ul>\n<p>Dịch: T&ocirc;i gh&eacute;t việc phải hỏi xin bố mẹ t&ocirc;i tiền ti&ecirc;u vặt.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

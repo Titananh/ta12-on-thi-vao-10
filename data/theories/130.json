@@ -1,0 +1,32 @@
+{
+  "topicId": 130,
+  "topicName": "Các thì quá khứ",
+  "englishName": "Past Tenses: Simple, Continuous, Perfect & Used to",
+  "rules": [
+    {
+      "rule": "Thì Quá khứ đơn: Hành động đã xảy ra và kết thúc hoàn toàn trong quá khứ.",
+      "formula": "S + V2/ed / S + didn't + V-inf (Dấu hiệu: yesterday, ago, last week, in 1995)",
+      "examples": "I visited my grandparents yesterday. / Did you watch the match last night?"
+    },
+    {
+      "rule": "Thì Quá khứ tiếp diễn: Hành động đang xảy ra tại thời điểm xác định trong quá khứ.",
+      "formula": "S + was/were + V-ing (at 8 PM yesterday, at this time last year)",
+      "examples": "At 8 PM last night, I was doing my homework."
+    },
+    {
+      "rule": "Sự kết hợp giữa Quá khứ tiếp diễn và Quá khứ đơn với When / While:",
+      "formula": "When + S + V2/ed, S + was/were + V-ing // While + S + was/were + V-ing, S + V2/ed",
+      "examples": "When the phone rang, I was cooking dinner."
+    },
+    {
+      "rule": "Thì Quá khứ hoàn thành: Hành động xảy ra và hoàn thành TRƯỚC một hành động khác trong quá khứ.",
+      "formula": "Before / By the time + S + V2/ed, S + had + V3/ed // After + S + had + V3/ed, S + V2/ed",
+      "examples": "By the time we arrived at the cinema, the movie had already started."
+    },
+    {
+      "rule": "Cấu trúc Used to: Thói quen hoặc trạng thái trong quá khứ nay không còn nữa.",
+      "formula": "S + used to + V(nguyên thể) (Phân biệt: be/get used to + V-ing: quen với việc gì)",
+      "examples": "He used to smoke, but he gave it up last year."
+    }
+  ]
+}

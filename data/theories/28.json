@@ -1,0 +1,27 @@
+{
+  "topicId": 72,
+  "topicName": "Phụ âm & Âm câm",
+  "englishName": "Consonants and Silent Letters",
+  "rules": [
+    {
+      "sound": "/θ/ vs /ð/",
+      "rule": "Chữ 'th' phát âm là /θ/ (vô thanh) trong hầu hết danh từ, tính từ (think, thank, thick, month). Phát âm là /ð/ (hữu thanh) trong đại từ chỉ định và từ chức năng (this, that, these, there, they, with).",
+      "examples": "think /θɪŋk/ vs this /ðɪs/; breath /breθ/ (n.) vs breathe /briːð/ (v.)"
+    },
+    {
+      "sound": "/tʃ/ vs /k/ vs /ʃ/",
+      "rule": "Chữ 'ch' phát âm là /tʃ/ trong từ thuần Anh (chair, cheap, child). Phát âm là /k/ trong từ gốc Hy Lạp (school, chemistry, character, ache, stomach). Phát âm là /ʃ/ trong từ mượn tiếng Pháp (machine, chef, parachute).",
+      "examples": "church /tʃɜːtʃ/ vs school /skuːl/ vs machine /məˈʃiːn/"
+    },
+    {
+      "sound": "/s/ vs /k/",
+      "rule": "Chữ 'c' đứng trước 'e', 'i', 'y' phát âm là /s/ (city, cycle, pencil). Đứng trước 'a', 'o', 'u' hoặc phụ âm phát âm là /k/ (cat, cook, club).",
+      "examples": "city /ˈsɪti/, cinema /ˈsɪnəmə/ vs cat /kæt/, cup /kʌp/"
+    },
+    {
+      "sound": "Âm câm",
+      "rule": "Các phụ âm câm hay thi vào 10:\n1. 'k' câm trước 'n' (knife, know, knee, knock)\n2. 'b' câm sau 'm' ở cuối từ (climb, comb, lamb, bomb)\n3. 'w' câm trước 'r' (write, wrong, wrap)\n4. 'h' câm trong: hour, honest, honour\n5. 't' câm trong: listen, castle, whistle, Christmas\n6. 'l' câm trong: half, calm, talk, walk",
+      "examples": "knife /naɪf/, climb /klaɪm/, honest /ˈɒnɪst/, listen /ˈlɪsn/, half /hɑːf/"
+    }
+  ]
+}

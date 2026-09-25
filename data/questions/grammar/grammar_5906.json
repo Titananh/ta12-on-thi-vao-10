@@ -1,0 +1,1625 @@
+{
+  "quizId": 5906,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 67: Conditional sentences Type 0 and Type 1 (Câu điều kiện loại 0, câu điều kiện loại 1)",
+  "totalQuestions": 36,
+  "questions": [
+    {
+      "id": 902834,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Trong c&#226;u &#273;i&#7873;u ki&#7879;n, _____.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715420,
+          "label": "A",
+          "text": "mệnh đề \"if\" mô tả điều kiện, mệnh đề chính thể hiện kết quả",
+          "isCorrect": true
+        },
+        {
+          "id": 1715421,
+          "label": "B",
+          "text": "mệnh đề \"if\" thể hiện kết quả, mệnh đề chính diễn đạt điều kiện",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1715420,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/3_-_Copy_51_4e45ad20.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 902837,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Trong c&#226;u &#273;i&#7873;u ki&#7879;n, khi ch&#250;ng ta thay &#273;&#7893;i th&#7913; t&#7921; c&#7911;a c&#225;c m&#7879;nh &#273;&#7873;, ngh&#297;a c&#7911;a c&#226;u ____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715426,
+          "label": "A",
+          "text": "hoàn toàn thay đổi",
+          "isCorrect": false
+        },
+        {
+          "id": 1715427,
+          "label": "B",
+          "text": "vẫn giữ nguyên",
+          "isCorrect": true
+        },
+        {
+          "id": 1715428,
+          "label": "C",
+          "text": "chuyển thành trái ngược",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1715427,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/4_-_Copy_28_a3f75de9.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 902839,
+      "questionNumber": 3,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Ch&#250;ng ta th&#234;m m&#7897;t d&#7845;u ph&#7849;y gi&#7919;a hai m&#7879;nh &#273;&#7873; khi ____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715433,
+          "label": "A",
+          "text": "mệnh đề \"If\" bắt đầu câu",
+          "isCorrect": true
+        },
+        {
+          "id": 1715434,
+          "label": "B",
+          "text": "mệnh đề chính bắt đầu câu",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1715433,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/4_-_Copy_28_a3f75de9.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 902841,
+      "questionNumber": 4,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>C&#226;u &#273;i&#7873;u ki&#7879;n lo&#7841;i 0 &#273;&#432;&#7907;c s&#7917; d&#7909;ng &#273;&#7875; di&#7877;n t&#7843; _____.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715436,
+          "label": "A",
+          "text": "những điều thường thay đổi",
+          "isCorrect": false
+        },
+        {
+          "id": 1715437,
+          "label": "B",
+          "text": "dự đoán",
+          "isCorrect": false
+        },
+        {
+          "id": 1715438,
+          "label": "C",
+          "text": "những sự thật mang tính khoa học",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1715438,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/5_-_Copy_31_c2db5922.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 902844,
+      "questionNumber": 5,
+      "questionName": "6",
+      "questionType": "TrueFalse",
+      "questionText": "<p><strong>Ch&#250;ng ta c&#243; th&#7875; s&#7917; d&#7909;ng 'when' thay cho 'if' trong c&#226;u &#273;i&#7873;u ki&#7879;n lo&#7841;i 0.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715442,
+          "label": "A",
+          "text": "True",
+          "isCorrect": true
+        },
+        {
+          "id": 1715443,
+          "label": "B",
+          "text": "False",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1715442,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/5_-_Copy_31_c2db5922.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 902842,
+      "questionNumber": 6,
+      "questionName": "5",
+      "questionType": "TrueFalse",
+      "questionText": "<p><strong>Ch&#250;ng ta s&#7917; d&#7909;ng th&#236; t&#432;&#417;ng lai &#273;&#417;n trong c&#7843; c&#226;u &#273;i&#7873;u ki&#7879;n lo&#7841;i 0 v&#224; lo&#7841;i 1.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715439,
+          "label": "A",
+          "text": "True",
+          "isCorrect": false
+        },
+        {
+          "id": 1715440,
+          "label": "B",
+          "text": "False",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1715440,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 49.7293%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/5_-_Copy_31_c2db5922.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7293%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/6_-_Copy_26_9f97dc46.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>\n<p>=&gt; Chỉ d&ugrave;ng th&igrave; tương lai ở c&acirc;u điều kiện loại 1.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 219859,
+      "questionNumber": 7,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>When you pour oil on water, _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 492764,
+          "label": "A",
+          "text": "it floats",
+          "isCorrect": true
+        },
+        {
+          "id": 492765,
+          "label": "B",
+          "text": "it is floating",
+          "isCorrect": false
+        },
+        {
+          "id": 492766,
+          "label": "C",
+          "text": "it would float",
+          "isCorrect": false
+        },
+        {
+          "id": 492767,
+          "label": "D",
+          "text": "it floated",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 492764,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Ch&uacute; &yacute; đến mệnh đề <em data-start=\"114\" data-end=\"139\">\"When you pour oil on water\"</em> khi kết hợp với &yacute; nghĩa của cả c&acirc;u, đ&acirc;y l&agrave; dấu hiệu cho thấy c&acirc;u đang diễn tả một kết quả lu&ocirc;n đ&uacute;ng khi một điều kiện xảy ra (một quy luật/sự thật hiển nhi&ecirc;n).</p>\n<p>H&atilde;y nhớ lại th&igrave; của động từ trong cấu tr&uacute;c d&ugrave;ng để diễn tả trường hợp n&agrave;y, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u điều kiện loại 0</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&acirc;u điều kiện loại 0 d&ugrave;ng để diễn tả một sự thật hiển nhi&ecirc;n, một quy luật khoa học hoặc một th&oacute;i quen lu&ocirc;n đ&uacute;ng.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: <span style=\"color: #1c581f;\">When/If + S + V(s/es) (hiện tại đơn), S + V(s/es) (hiện tại đơn)</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u <em>\"When you pour oil on water, _____\"</em> diễn tả một sự thật khoa học, một quy luật vật l&yacute; hiển nhi&ecirc;n: dầu lu&ocirc;n nổi tr&ecirc;n nước. Do đ&oacute;, ch&uacute;ng ta cần sử dụng cấu tr&uacute;c c&acirc;u điều kiện loại 0, với cả hai mệnh đề đều ở th&igrave; hiện tại đơn. Phương &aacute;n 1 <em>\"it floats\"</em> (th&igrave; hiện tại đơn) l&agrave; lựa chọn ph&ugrave; hợp.</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 <em>\"it is floating\"</em> d&ugrave;ng th&igrave; hiện tại tiếp diễn, diễn tả h&agrave;nh động đang diễn ra tại thời điểm n&oacute;i, kh&ocirc;ng ph&ugrave; hợp để n&oacute;i về một sự thật lu&ocirc;n đ&uacute;ng.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 <em>\"it would float\"</em> sử dụng cấu tr&uacute;c của c&acirc;u điều kiện loại 2, d&ugrave;ng để diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại hoặc lời khuy&ecirc;n, kh&ocirc;ng d&ugrave;ng cho c&aacute;c quy luật khoa học.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 <em>''it floated''</em> l&agrave; th&igrave; qu&aacute; khứ đơn kh&ocirc;ng được d&ugrave;ng để diễn tả sự thật hiển nhi&ecirc;n như n&agrave;y.</li>\n</ul>",
+      "answerFeedbacks": {
+        "492764": "Đây là cấu trúc của câu điều kiện loại 0, diễn tả một sự thật hiển nhiên hoặc quy luật khoa học.",
+        "492765": "Thì hiện tại tiếp diễn diễn tả hành động đang diễn ra tại thời điểm nói, không phù hợp để diễn tả sự thật hiển nhiên.",
+        "492766": "Cấu trúc <em>would + V(inf)</em> thường dùng trong câu điều kiện loại 2 (diễn tả điều kiện không có thật ở hiện tại) hoặc thói quen trong quá khứ, không dùng cho sự thật khoa học.",
+        "492767": "Thì quá khứ đơn diễn tả hành động đã xảy ra và kết thúc trong quá khứ, không phù hợp để diễn tả một quy luật chung."
+      },
+      "images": []
+    },
+    {
+      "id": 457839,
+      "questionNumber": 8,
+      "questionName": "8",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If I _____ the dress before Sunday, I'll give it to my sister for her birthday. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 918592,
+          "label": "A",
+          "text": "finished",
+          "isCorrect": false
+        },
+        {
+          "id": 918593,
+          "label": "B",
+          "text": "will finish",
+          "isCorrect": false
+        },
+        {
+          "id": 918594,
+          "label": "C",
+          "text": "had finished",
+          "isCorrect": false
+        },
+        {
+          "id": 918595,
+          "label": "D",
+          "text": "finish",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 918595,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để hoàn thành câu điều kiện này, hãy xác định loại câu điều kiện dựa trên mệnh đề chính đã cho. Mệnh đề \"<em>I'll give it...</em>\" chứa <em>will + V(inf)</em>, đây là dấu hiệu của <strong>câu điều kiện loại 1</strong>.</p>\n<p>Với câu điều kiện loại 1, mệnh đề điều kiện (mệnh đề bắt đầu bằng \"<em>If</em>\") cần sử dụng thì <strong>hiện tại đơn</strong> (<em>Present Simple</em>).</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu điều kiện loại 1</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để diễn tả một hành động hoặc sự việc có thể xảy ra trong tương lai nếu một điều kiện nhất định được thỏa mãn.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(hiện tại đơn), S + will/can/may/might + V(nguyên thể)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, mệnh đề chính \"<em>I'll give it to my sister for her birthday</em>\" sử dụng thì tương lai đơn (<em>will give</em>), cho thấy đây là câu điều kiện loại 1. Theo quy tắc của câu điều kiện loại 1, mệnh đề điều kiện (mệnh đề chứa \"<em>If</em>\") phải sử dụng thì hiện tại đơn.</p>\n<p style=\"text-align: justify;\">Phương án \"<em>finish</em>\" là dạng thì hiện tại đơn của động từ \"<em>finish</em>\" phù hợp với chủ ngữ \"<em>I</em>\", do đó là đáp án đúng. Các phương án khác không phù hợp với cấu trúc ngữ pháp của câu điều kiện loại 1.</p>",
+      "answerFeedbacks": {
+        "918592": "Sai vì đây là thì quá khứ đơn, không phù hợp với mệnh đề điều kiện trong câu điều kiện loại 1 diễn tả khả năng ở tương lai.",
+        "918593": "Sai vì không dùng thì tương lai đơn trong mệnh đề \"if\" của câu điều kiện loại 1; mệnh đề \"if\" phải dùng thì hiện tại đơn.",
+        "918594": "Sai vì đây là thì quá khứ hoàn thành, được dùng trong câu điều kiện loại 3 để diễn tả điều kiện không có thật trong quá khứ.",
+        "918595": "Đúng vì mệnh đề \"if\" trong câu điều kiện loại 1 phải sử dụng thì hiện tại đơn để diễn tả một điều kiện có thể xảy ra trong tương lai."
+      },
+      "images": []
+    },
+    {
+      "id": 63321,
+      "questionNumber": 9,
+      "questionName": "Question 8",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If he _____ hard, he will fail the final exam.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 169520,
+          "label": "A",
+          "text": "works",
+          "isCorrect": false
+        },
+        {
+          "id": 169521,
+          "label": "B",
+          "text": "doesn't work",
+          "isCorrect": true
+        },
+        {
+          "id": 169522,
+          "label": "C",
+          "text": "didn't work",
+          "isCorrect": false
+        },
+        {
+          "id": 169523,
+          "label": "D",
+          "text": "worked",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 169521,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Ch&uacute; &yacute; mệnh đề ch&iacute;nh ''<em data-start=\"62\" data-end=\"91\">he will fail the final exam'' </em>gợi &yacute; một kết quả sẽ xảy ra khi c&oacute; điều kiện đ&aacute;p ứng v&agrave; l&agrave; dấu hiệu của <strong data-start=\"113\" data-end=\"137\">c&acirc;u điều kiện loại 1</strong>.</p>\n<p>H&atilde;y nhớ lại <strong data-start=\"151\" data-end=\"189\">th&igrave; của động từ trong mệnh đề <em data-start=\"183\" data-end=\"187\">if</em></strong>, rồi xem x&eacute;t ngữ cảnh để x&aacute;c định c&acirc;u cần diễn tả <strong data-start=\"240\" data-end=\"277\">điều kiện khẳng định hay phủ định</strong>, sau đ&oacute; đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u điều kiện loại 1</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Diễn tả một điều kiện c&oacute; thể xảy ra ở hiện tại hoặc tương lai v&agrave; kết quả c&oacute; thể xảy ra nếu điều kiện đ&oacute; được đ&aacute;p ứng.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(hiện tại đơn), S + will/can/may + V(nguy&ecirc;n thể)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u điều kiện, mệnh đề ch&iacute;nh \"<em>he will fail the final exam</em>\" sử dụng th&igrave; tương lai đơn, cho thấy đ&acirc;y l&agrave; c&acirc;u điều kiện loại 1. Theo quy tắc của c&acirc;u điều kiện loại 1, mệnh đề \"If\" phải sử dụng th&igrave; hiện tại đơn. X&eacute;t về nghĩa, việc \"trượt kỳ thi\" l&agrave; kết quả của việc \"kh&ocirc;ng l&agrave;m việc chăm chỉ\". V&igrave; vậy phương &aacute;n \"doesn't work\" (hiện tại đơn, phủ định, ph&ugrave; hợp với chủ ngữ \"he\") l&agrave; lựa chọn ch&iacute;nh x&aacute;c nhất.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n \"works\" (khẳng định) sai về nghĩa, trong khi \"<em>didn't work</em>\" v&agrave; \"<em>worked</em>\" (qu&aacute; khứ đơn) sai về th&igrave;.</p>",
+      "answerFeedbacks": {
+        "169520": "Sai vì nếu anh ấy làm việc chăm chỉ thì anh ấy sẽ không trượt kỳ thi cuối kỳ, không phù hợp với ngữ cảnh \"will fail\".",
+        "169521": "Đúng vì đây là thì hiện tại đơn, dạng phủ định, phù hợp với chủ ngữ \"he\" và ngữ cảnh câu điều kiện loại 1, diễn tả hành động \"không làm việc chăm chỉ\" dẫn đến kết quả \"sẽ trượt\".",
+        "169522": "Sai vì thì quá khứ đơn không được dùng trong mệnh đề \"If\" của câu điều kiện loại 1.",
+        "169523": "Sai vì thì quá khứ đơn không được dùng trong mệnh đề \"If\" của câu điều kiện loại 1 và sai nghĩa trong ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 428711,
+      "questionNumber": 10,
+      "questionName": "C37",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If pollution _____ on, the earth _____ a dangerous place to live on.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 859836,
+          "label": "A",
+          "text": "<p>would go / became</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 859837,
+          "label": "B",
+          "text": "<p>would go / would become</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 859838,
+          "label": "C",
+          "text": "goes / will become",
+          "isCorrect": true
+        },
+        {
+          "id": 859839,
+          "label": "D",
+          "text": "go / will become",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 859838,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Câu hỏi bắt đầu bằng <em>\"If\"</em> và diễn tả một điều kiện có khả năng xảy ra trong tương lai, gợi ý đây là câu điều kiện loại 1.</p>\n<ul>\n<li>Trong mệnh đề <em>If</em>, chủ ngữ <em>\"pollution\"</em> là danh từ số ít không đếm được. Hãy nhớ quy tắc hòa hợp chủ ngữ-động từ khi chia động từ ở thì hiện tại đơn.</li>\n<li>Trong mệnh đề chính, cấu trúc của câu điều kiện loại 1 yêu cầu động từ ở dạng nguyên thể sau <em>\"will\"</em>.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu điều kiện loại 1</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một sự việc có thật hoặc có khả năng xảy ra ở hiện tại hoặc tương lai, và kết quả của nó.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(hiện tại đơn), S + will/can/may + V(nguyên thể)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu hỏi diễn tả một điều kiện có thể xảy ra trong tương lai (\"<em>If pollution _____ on</em>\") và một kết quả có thể xảy ra trong tương lai (\"<em>the earth _____ a dangerous place to live on</em>\"). Đây là đặc điểm của câu điều kiện loại 1.</p>\n<p style=\"text-align: justify;\">Theo cấu trúc câu điều kiện loại 1, mệnh đề ''<em>If''</em> phải dùng thì hiện tại đơn. Vì chủ ngữ ''<em>pollution''</em> là danh từ số ít không đếm được, động từ ''<em>go''</em> phải chia là ''<em>goes''</em>. Mệnh đề chính phải dùng thì tương lai đơn, nên ''<em>become'' </em>cần chia thành ''<em>will become''</em>. Kết hợp lại phương án ''<em>goes / will become</em>'' là đáp án chính xác.</p>",
+      "answerFeedbacks": {
+        "859836": "<p>Sai vì cấu trúc này thuộc câu điều kiện loại 2, dùng để diễn tả điều kiện không có thật hoặc khó xảy ra ở hiện tại hoặc tương lai, không phù hợp với ngữ cảnh.</p>",
+        "859837": "<p>Sai vì đây không phải là cấu trúc của bất kỳ loại câu điều kiện nào trong tiếng Anh.</p>",
+        "859838": "Đúng vì đây là cấu trúc của câu điều kiện loại 1, diễn tả một điều kiện có thật hoặc có khả năng xảy ra ở hiện tại hoặc tương lai, đồng thời động từ <em>go</em> được chia đúng theo chủ ngữ số ít <em>pollution</em>.",
+        "859839": "Sai vì động từ <em>go</em> trong mệnh đề <em>If</em> không được chia đúng theo chủ ngữ số ít không đếm được <em>pollution</em> (phải là <em>goes</em>)."
+      },
+      "images": []
+    },
+    {
+      "id": 195723,
+      "questionNumber": 11,
+      "questionName": "Đoàn Thị Điểm - PT20 - 13",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>If the engine gets too hot, it _____ to smoke.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 447223,
+          "label": "A",
+          "text": "starts",
+          "isCorrect": true
+        },
+        {
+          "id": 447224,
+          "label": "B",
+          "text": "is starting",
+          "isCorrect": false
+        },
+        {
+          "id": 447225,
+          "label": "C",
+          "text": "would start",
+          "isCorrect": false
+        },
+        {
+          "id": 447226,
+          "label": "D",
+          "text": "will be started",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 447223,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>C&acirc;u hỏi n&agrave;y diễn tả một sự thật hiển nhi&ecirc;n về c&aacute;i g&igrave; sẽ xảy ra khi động cơ qu&aacute; n&oacute;ng. H&atilde;y nhớ lại cấu tr&uacute;c c&acirc;u điều kiện loại 0 d&ugrave;ng để diễn tả c&aacute;c sự thật v&agrave; quy luật.</p>\n<p>Mệnh đề điều kiện \"<em>If the engine gets too hot</em>\" đang sử dụng th&igrave; hiện tại đơn, vậy mệnh đề ch&iacute;nh sẽ d&ugrave;ng th&igrave; g&igrave; để ph&ugrave; hợp với cấu tr&uacute;c n&agrave;y?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u điều kiện loại 0</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&acirc;u điều kiện loại 0 d&ugrave;ng để diễn tả một sự thật hiển nhi&ecirc;n, một quy luật khoa học, hoặc một th&oacute;i quen lu&ocirc;n đ&uacute;ng khi điều kiện được thỏa m&atilde;n.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c:</strong> If + S + V(s/es), S + V(s/es)</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Mệnh đề điều kiện \"<em>If the engine gets too hot</em>\" sử dụng th&igrave; hiện tại đơn (\"<em>gets</em>\"), diễn tả một sự thật hiển nhi&ecirc;n hoặc một quy luật vật l&yacute; (động cơ qu&aacute; n&oacute;ng th&igrave; sẽ bốc kh&oacute;i). Để diễn tả sự thật hiển nhi&ecirc;n, ta sử dụng c&acirc;u điều kiện loại 0, với cả hai mệnh đề đều chia ở th&igrave; hiện tại đơn. Phương &aacute;n 1, \"<em>starts</em>\", d&ugrave;ng th&igrave; hiện tại đơn v&agrave; ph&ugrave; hợp với chủ ngữ \"<em>it</em>\" l&agrave; ph&ugrave; hợp nhất. C&aacute;c phương &aacute;n c&ograve;n lại đều sai v&igrave;:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 <em>\"is starting\"</em> l&agrave; th&igrave; hiện tại tiếp diễn v&agrave;&nbsp;phương &aacute;n 4 <em>\"will be started''</em> l&agrave; th&igrave; Tương lai đơn dạng bị động, kh&ocirc;ng ph&ugrave; hợp để diễn tả một sự thật hiển nhi&ecirc;n.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 <em>\"would start\"</em> thường được d&ugrave;ng trong c&acirc;u điều kiện loại 2 để diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại, kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh n&agrave;y.</li>\n</ul>",
+      "answerFeedbacks": {
+        "447223": "Thì hiện tại đơn \"starts\" phù hợp với cấu trúc câu điều kiện loại 0 để diễn tả một sự thật hiển nhiên.",
+        "447224": "Thì hiện tại tiếp diễn \"is starting\" không được dùng trong mệnh đề chính của câu điều kiện loại 0 để diễn tả sự thật hiển nhiên.",
+        "447225": "\"Would start\" thường được dùng trong câu điều kiện loại 2 để diễn tả điều kiện không có thật ở hiện tại, không phù hợp ở đây.",
+        "447226": "\"Will be started\" là thì tương lai đơn bị động, không phù hợp với cấu trúc câu điều kiện loại 0 và ý nghĩa chủ động của hành động."
+      },
+      "images": []
+    },
+    {
+      "id": 182348,
+      "questionNumber": 12,
+      "questionName": "10",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>If you do not learn seriously, _____ to understand the subject well.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 417914,
+          "label": "A",
+          "text": "you will never be able",
+          "isCorrect": true
+        },
+        {
+          "id": 417915,
+          "label": "B",
+          "text": "will you never be able",
+          "isCorrect": false
+        },
+        {
+          "id": 417916,
+          "label": "C",
+          "text": "never you will be able",
+          "isCorrect": false
+        },
+        {
+          "id": 417917,
+          "label": "D",
+          "text": "will never you be able",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 417914,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến mệnh đề <em data-start=\"181\" data-end=\"214\">\"If you do not learn seriously\"</em>. Đ&acirc;y l&agrave; dấu hiệu của <strong data-start=\"236\" data-end=\"260\">c&acirc;u điều kiện loại 1</strong>. H&atilde;y nhớ lại <strong data-start=\"550\" data-end=\"607\">cấu tr&uacute;c của mệnh đề ch&iacute;nh trong c&acirc;u điều kiện loại 1</strong> v&agrave; c&aacute;ch sắp xếp c&aacute;c th&agrave;nh phần trong c&acirc;u trần thuật, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u điều kiện loại 1 v&agrave; Trật tự từ trong c&acirc;u khẳng định/phủ định</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&acirc;u điều kiện loại 1 d&ugrave;ng để diễn tả một điều kiện c&oacute; thể xảy ra ở hiện tại hoặc tương lai v&agrave; kết quả c&oacute; thể xảy ra nếu điều kiện đ&oacute; được đ&aacute;p ứng. Mệnh đề ch&iacute;nh của c&acirc;u điều kiện loại 1 thường sử dụng th&igrave; tương lai đơn hoặc c&aacute;c động từ khuyết thiếu để chỉ kết quả.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V (hiện tại đơn), S + will/modal V. + V(inf)</span></p>\n<p style=\"text-align: justify;\"><strong>Trật tự từ trong c&acirc;u khẳng định/phủ định:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">S (chủ ngữ) + Aux.V (trợ động từ) / Modal V. (động từ khuyết thiếu) + (adv. phủ định) + V(inf) (động từ nguy&ecirc;n thể)</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u gốc l&agrave; một c&acirc;u điều kiện loại 1, với mệnh đề \"<em>if</em>\" ở th&igrave; hiện tại đơn (\"do not learn\"). Do đ&oacute;, mệnh đề ch&iacute;nh cần sử dụng th&igrave; tương lai đơn hoặc một động từ khuyết thiếu để chỉ kết quả. V&igrave; đ&acirc;y l&agrave; một c&acirc;u khẳng định/phủ định (c&oacute; \"<em>never</em>\") chứ kh&ocirc;ng phải c&acirc;u hỏi, trật tự từ chuẩn phải l&agrave; Chủ ngữ + Động từ khuyết thiếu + Trạng từ + Động từ ch&iacute;nh. Phương &aacute;n 1 \"you will never be able\" tu&acirc;n thủ đ&uacute;ng trật tự n&agrave;y v&agrave; l&agrave; đ&aacute;p &aacute;n ph&ugrave; hợp nhất.</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 \"will you never be able\" c&oacute; trật tự từ của một c&acirc;u hỏi (Modal V. + S + Adverb + V(inf)), kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh của mệnh đề ch&iacute;nh l&agrave; một c&acirc;u trần thuật.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 \"never you will be able\" đặt trạng từ \"never\" sai vị tr&iacute;, đứng trước chủ ngữ, trong khi trật tự đ&uacute;ng l&agrave; sau động từ khuyết thiếu v&agrave; trước động từ ch&iacute;nh.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"will never you be able\" đặt chủ ngữ ''you'' đằng sau trợ động từ cũng l&agrave; một phương &aacute;n sai trật tự.</li>\n</ul>",
+      "answerFeedbacks": {
+        "417914": "Đây là trật tự từ đúng của một câu khẳng định/phủ định trong tiếng Anh: Chủ ngữ + Động từ khuyết thiếu + Trạng từ + Động từ chính.",
+        "417915": "Trật tự <em>\"will you never be able\"</em> là của một câu hỏi, không phù hợp với ngữ cảnh của mệnh đề chính trong câu điều kiện loại 1 này.",
+        "417916": "Trạng từ <em>\"never\"</em> không đứng trước chủ ngữ trong câu khẳng định/phủ định thông thường.",
+        "417917": "Trật tự từ <em>\"will never you be able\"</em> không tuân theo bất kỳ cấu trúc ngữ pháp chuẩn nào của câu khẳng định hay câu hỏi."
+      },
+      "images": []
+    },
+    {
+      "id": 219857,
+      "questionNumber": 13,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If you mix red and white, _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 492756,
+          "label": "A",
+          "text": "you'll get pink",
+          "isCorrect": false
+        },
+        {
+          "id": 492757,
+          "label": "B",
+          "text": "you get pink",
+          "isCorrect": true
+        },
+        {
+          "id": 492758,
+          "label": "C",
+          "text": "you got pink",
+          "isCorrect": false
+        },
+        {
+          "id": 492759,
+          "label": "D",
+          "text": "you might get pink",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 492757,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Ch&uacute; &yacute; đến mệnh đề <em data-start=\"114\" data-end=\"139\">\"I<em style=\"text-align: justify;\">f you mix red and white</em>\"</em> khi kết hợp với &yacute; nghĩa của cả c&acirc;u, đ&acirc;y l&agrave; dấu hiệu cho thấy c&acirc;u đang diễn tả một kết quả lu&ocirc;n đ&uacute;ng khi một điều kiện xảy ra (một quy luật/sự thật hiển nhi&ecirc;n).</p>\n<p>H&atilde;y nhớ lại th&igrave; của động từ trong cấu tr&uacute;c d&ugrave;ng để diễn tả trường hợp n&agrave;y, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u điều kiện loại 0</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span> C&acirc;u điều kiện loại 0 được d&ugrave;ng để diễn tả một sự thật hiển nhi&ecirc;n, một quy luật khoa học hoặc một th&oacute;i quen lu&ocirc;n đ&uacute;ng.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cấu tr&uacute;c: <span style=\"color: #1c581f;\">If + S + V(s/es), S + V(s/es)</span></span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u tr&ecirc;n diễn tả một sự thật hiển nhi&ecirc;n, một quy luật khoa học rằng khi trộn m&agrave;u đỏ v&agrave; trắng, kết quả lu&ocirc;n l&agrave; m&agrave;u hồng. V&igrave; vậy, cần sử dụng c&acirc;u điều kiện loại 0 với cấu tr&uacute;c &ldquo;<em>If + S + V(hiện tại đơn), S + V(hiện tại đơn)</em>&rdquo;. Phương &aacute;n 2 &ldquo;<em>you get pink</em>&rdquo; l&agrave; lựa chọn duy nhất tu&acirc;n thủ cấu tr&uacute;c n&agrave;y.</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 &ldquo;<em>you&rsquo;ll get pink</em>&rdquo; l&agrave; c&acirc;u điều kiện loại 1, d&ugrave;ng cho khả năng xảy ra trong tương lai, kh&ocirc;ng phải sự thật hiển nhi&ecirc;n.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 &ldquo;<em>you got pink</em>&rdquo; d&ugrave;ng qu&aacute; khứ đơn, kh&ocirc;ng ph&ugrave; hợp.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 &ldquo;<em>you might get pink</em>&rdquo; diễn tả sự kh&ocirc;ng chắc chắn, kh&ocirc;ng đ&uacute;ng với ngữ cảnh.</li>\n</ul>",
+      "answerFeedbacks": {
+        "492756": "Sử dụng thì tương lai đơn <em>will get</em> trong mệnh đề chính là cấu trúc của câu điều kiện loại 1, diễn tả một khả năng có thể xảy ra trong tương lai, không phải một sự thật hiển nhiên.",
+        "492757": "Sử dụng thì hiện tại đơn <em>get</em> trong mệnh đề chính là cấu trúc của câu điều kiện loại 0, phù hợp để diễn tả một sự thật khoa học hoặc một quy luật luôn đúng.",
+        "492758": "Sử dụng thì quá khứ đơn <em>got</em> trong mệnh đề chính không phù hợp để diễn tả một sự thật luôn đúng ở hiện tại hoặc một quy luật chung.",
+        "492759": "Sử dụng <em>might get</em> diễn tả một khả năng thấp hoặc sự không chắc chắn, không phù hợp với một sự thật hiển nhiên hoặc quy luật luôn đúng."
+      },
+      "images": []
+    },
+    {
+      "id": 621930,
+      "questionNumber": 14,
+      "questionName": "38",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If you _____ the meaning of a new word, you can look it up in the dictionary.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1197027,
+          "label": "A",
+          "text": "don't know",
+          "isCorrect": true
+        },
+        {
+          "id": 1197028,
+          "label": "B",
+          "text": "didn't know",
+          "isCorrect": false
+        },
+        {
+          "id": 1197029,
+          "label": "C",
+          "text": "know",
+          "isCorrect": false
+        },
+        {
+          "id": 1197030,
+          "label": "D",
+          "text": "knew",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1197027,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đáp án đúng, bạn cần nắm vững cấu trúc của câu điều kiện loại 0 và loại 1.</p>\n<ul>\n<li>Mệnh đề chính <em>\"you can look it up\"</em> cho thấy đây là câu điều kiện diễn tả một sự thật hoặc một khả năng ở hiện tại/tương lai.</li>\n<li>Cả câu điều kiện loại 0 và loại 1 đều yêu cầu động từ ở mệnh đề <em>If</em> phải chia ở thì hiện tại đơn.</li>\n</ul>\n<p>Hãy cân nhắc thêm về mặt ngữ nghĩa rằng bạn sẽ tra từ điển khi bạn biết hay không biết nghĩa của từ?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu điều kiện</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Câu điều kiện được dùng để diễn tả một điều kiện hoặc giả thuyết và kết quả có thể xảy ra khi điều kiện đó được đáp ứng.</p>\n<p><strong>Một số cấu trúc câu điều kiện phổ biến:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Câu điều kiện loại 0: If + S + V(hiện tại đơn), S + V(hiện tại đơn)</span></strong>: dùng để diễn tả một sự thật hiển nhiên, một quy luật khoa học hoặc một thói quen.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Câu điều kiện loại 1: If + S + V(hiện tại đơn), S + will/can/may + V(nguyên thể)</span></strong>: dùng để diễn tả một điều kiện có thể xảy ra ở hiện tại hoặc tương lai và kết quả tương ứng.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Mệnh đề chính <em>\"you can look it up in the dictionary\"</em> sử dụng <em>\"can\"</em> + động từ nguyên thể, cho thấy đây là câu điều kiện loại 0 hoặc loại 1, cả hai đều yêu cầu thì hiện tại đơn ở mệnh đề <em>If</em>. Về mặt ngữ nghĩa, nếu bạn không biết nghĩa của một từ mới, bạn có thể tra từ điển. Do đó, phương án <em>\"don't know\"</em> (thì hiện tại đơn dạng phủ định) là phù hợp nhất.</p>\n<p style=\"text-align: justify;\">Các phương án ''<em>didn't know</em>'' và ''<em>knew</em>'' ở thì quá khứ đơn đều không phù hợp với cấu trúc này. Phương án ''<em>know</em>'' ở thì hiện tại đơn tuy đúng cấu trúc, nhưng về mặt ngữ nghĩa thì không phù hợp với ngữ cảnh khi cần tra từ điển.</p>",
+      "answerFeedbacks": {
+        "1197027": "Đúng vì cấu trúc câu điều kiện loại 0 hoặc 1 dùng thì hiện tại đơn ở mệnh đề <em>If</em> và <em>\"don't know\"</em> phù hợp với ngữ cảnh về mặt ngữ nghĩa.",
+        "1197028": "Sai vì thì quá khứ đơn <em>\"didn't know\"</em> không phù hợp với cấu trúc câu điều kiện loại 0 hoặc 1 diễn tả sự thật hoặc khả năng ở hiện tại/tương lai.",
+        "1197029": "Sai vì mặc dù <em>\"know\"</em> chia ở thì hiện tại đơn là đúng cấu trúc, nhưng về mặt ngữ nghĩa thì không phù hợp với ngữ cảnh khi cần tra từ điển.",
+        "1197030": "Sai vì thì quá khứ đơn <em>\"knew\"</em> không phù hợp với cấu trúc câu điều kiện loại 0 hoặc 1 diễn tả sự thật hoặc khả năng ở hiện tại/tương lai."
+      },
+      "images": []
+    },
+    {
+      "id": 177823,
+      "questionNumber": 15,
+      "questionName": "Question 25:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If you want to get good grades, you _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 407899,
+          "label": "A",
+          "text": "study hard",
+          "isCorrect": false
+        },
+        {
+          "id": 407900,
+          "label": "B",
+          "text": "don’t study hard",
+          "isCorrect": false
+        },
+        {
+          "id": 407901,
+          "label": "C",
+          "text": "cannot study hard",
+          "isCorrect": false
+        },
+        {
+          "id": 407902,
+          "label": "D",
+          "text": "must study hard",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 407902,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến mệnh đề <em data-start=\"149\" data-end=\"183\">\"If you want to get good grades\"</em>. Đ&acirc;y l&agrave; dấu hiệu của <strong data-start=\"205\" data-end=\"229\">c&acirc;u điều kiện loại 1 </strong>d&ugrave;ng <span style=\"text-align: justify;\">để diễn tả sự cần thiết, khả năng, hoặc lời khuy&ecirc;n.</span>&nbsp;H&atilde;y x&aacute;c định &yacute; nghĩa của mệnh đề ch&iacute;nh l&agrave; <strong data-start=\"273\" data-end=\"314\">sự cần thiết, lời khuy&ecirc;n hay khả năng</strong>, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u điều kiện loại 1 v&agrave; c&aacute;ch d&ugrave;ng động từ khuyết thiếu</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&acirc;u điều kiện loại 1 được d&ugrave;ng để diễn tả một điều kiện c&oacute; khả năng xảy ra trong hiện tại hoặc tương lai v&agrave; kết quả c&oacute; thể xảy ra nếu điều kiện đ&oacute; được đ&aacute;p ứng. Trong mệnh đề ch&iacute;nh, ngo&agrave;i việc sử dụng <em>will</em>, ch&uacute;ng ta c&oacute; thể d&ugrave;ng c&aacute;c động từ khuyết thiếu như <em>must</em>, <em>can</em>, <em>should</em> để diễn tả sự cần thiết, khả năng, hoặc lời khuy&ecirc;n.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(hiện tại đơn), S + V(tương lai đơn/Modal V. + V(nguy&ecirc;n thể))</span></p>\n<p style=\"text-align: justify;\"><strong>Một số c&aacute;ch diễn đạt trong mệnh đề ch&iacute;nh:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>S + must (Modal V.) + V(inf):</strong> diễn tả sự cần thiết, bắt buộc phải l&agrave;m g&igrave;.</li>\n<li style=\"text-align: justify;\"><strong>S + cannot (Modal V.) + V(inf):</strong> diễn tả sự kh&ocirc;ng thể l&agrave;m g&igrave;.</li>\n<li style=\"text-align: justify;\"><strong>S + V(hiện tại đơn):</strong> diễn tả một sự thật hiển nhi&ecirc;n, một th&oacute;i quen hoặc một lời hướng dẫn/mệnh lệnh trực tiếp.</li>\n<li style=\"text-align: justify;\"><strong>S + don't/doesn't + V(hiện tại đơn):</strong> diễn tả sự phủ định của h&agrave;nh động ở th&igrave; hiện tại đơn.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Dấu hiệu then chốt trong c&acirc;u l&agrave; mệnh đề điều kiện <em>\"If you want to get good grades\"</em>, diễn tả một mong muốn đạt được điểm cao. Để đạt được mục ti&ecirc;u n&agrave;y, h&agrave;nh động ở mệnh đề ch&iacute;nh phải l&agrave; một điều kiện cần thiết hoặc lời khuy&ecirc;n mạnh mẽ.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n <em>\"must study hard\"</em> diễn tả sự cần thiết, bắt buộc phải học h&agrave;nh chăm chỉ để đạt được điểm cao, ho&agrave;n to&agrave;n ph&ugrave; hợp với ngữ cảnh v&agrave; logic của c&acirc;u. C&aacute;c phương &aacute;n kh&aacute;c kh&ocirc;ng ph&ugrave; hợp về mặt &yacute; nghĩa hoặc kh&ocirc;ng truyền tải được mức độ cần thiết mạnh mẽ.</p>",
+      "answerFeedbacks": {
+        "407899": "Mặc dù ngữ pháp đúng ở thì hiện tại đơn, phương án này không diễn tả sự cần thiết hay lời khuyên mạnh mẽ để đạt được điểm cao như <em>\"must study hard\"</em>.",
+        "407900": "Phương án này sai vì nghĩa phủ định của nó hoàn toàn trái ngược với mục tiêu <em>\"get good grades\"</em> đã nêu trong mệnh đề điều kiện.",
+        "407901": "Phương án này sai vì <em>cannot</em> diễn tả sự không thể làm gì, không phù hợp với ngữ cảnh mong muốn đạt điểm cao.",
+        "407902": "Phương án này đúng vì <em>must</em> diễn tả sự cần thiết, bắt buộc phải làm để đạt được mục tiêu <em>\"get good grades\"</em>, hoàn toàn phù hợp với logic của câu điều kiện."
+      },
+      "images": []
+    },
+    {
+      "id": 219858,
+      "questionNumber": 16,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Does ice melt _____?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 492760,
+          "label": "A",
+          "text": "if it will be in the sun",
+          "isCorrect": false
+        },
+        {
+          "id": 492761,
+          "label": "B",
+          "text": "if it had been in the sun",
+          "isCorrect": false
+        },
+        {
+          "id": 492762,
+          "label": "C",
+          "text": "if it were in the sun",
+          "isCorrect": false
+        },
+        {
+          "id": 492763,
+          "label": "D",
+          "text": "if it is in the sun",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 492763,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Ch&uacute; &yacute; đến c&acirc;u hỏi <em style=\"text-align: justify;\">\"Does ice melt...?\" </em>v&agrave; kết hợp với &yacute; nghĩa của cả c&acirc;u cho thấy c&acirc;u đang hỏi về <strong data-start=\"417\" data-end=\"467\">một kết quả lu&ocirc;n đ&uacute;ng khi một điều kiện xảy ra</strong> (một quy luật/sự thật hiển nhi&ecirc;n). H&atilde;y nhớ lại th&igrave; của động từ trong cấu tr&uacute;c d&ugrave;ng để hỏi về trường hợp n&agrave;y, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u điều kiện loại 0 dạng nghi vấn.</span></p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&acirc;u điều kiện loại 0 dạng nghi vấn được d&ugrave;ng để hỏi về những sự thật hiển nhi&ecirc;n hoặc th&oacute;i quen. Trong đ&oacute; cả hai mệnh đề đều được chia ở th&igrave; Hiện tại đơn.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>[Từ để hỏi] + Trợ động từ + S + V (nguy&ecirc;n thể), If + S + V (hiện tại đơn)?</strong></li>\n<li style=\"text-align: justify;\"><span class=\"Yjhzub\" style=\"font-family: 'Google Sans', Arial, sans-serif; font-weight: bold; margin: 0px; border-bottom: 0px #eef0ff;\" data-sfc-root=\"ep\" data-sfc-cb=\"\" data-copy-service-computed-style=\"font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 16px; font-weight: 700; margin: 0px; text-decoration: none; border-bottom: 0px rgb(238, 240, 255);\">If + S + V (hiện tại đơn), [Từ để hỏi] + Trợ động từ + S + V (nguy&ecirc;n thể)?</span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi <em>\"Does ice melt...?\"</em> đề cập đến một sự thật hiển nhi&ecirc;n: nước đ&aacute; sẽ tan chảy khi tiếp x&uacute;c với &aacute;nh nắng mặt trời. Do đ&oacute;, ch&uacute;ng ta cần sử dụng c&acirc;u điều kiện loại 0, với cả hai mệnh đề đều ở th&igrave; hiện tại đơn v&agrave; phương &aacute;n 4 l&agrave; ph&ugrave; hợp nhất.</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 <em>(\"if it will be in the sun\")</em> sai v&igrave; mệnh đề chứa <em>\"if\"</em> (mệnh đề điều kiện) kh&ocirc;ng được d&ugrave;ng th&igrave; tương lai đơn <em>(will)</em>.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 <em>(\"if it had been in the sun\")</em> l&agrave; c&acirc;u điều kiện loại 3, diễn tả điều kh&ocirc;ng c&oacute; thật trong qu&aacute; khứ, kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh sự thật hiển nhi&ecirc;n.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 <em>(\"if it were in the sun\")</em> l&agrave; c&acirc;u điều kiện loại 2, diễn tả điều kh&ocirc;ng c&oacute; thật ở hiện tại hoặc tương lai, cũng kh&ocirc;ng ph&ugrave; hợp với sự thật hiển nhi&ecirc;n.</li>\n</ul>",
+      "answerFeedbacks": {
+        "492760": "Mệnh đề điều kiện <em>\"if it will be in the sun\"</em> sử dụng <em>will</em>, không đúng cấu trúc của câu điều kiện loại 0 hoặc loại 1.",
+        "492761": "Mệnh đề điều kiện <em>\"if it had been in the sun\"</em> sử dụng thì quá khứ hoàn thành, thuộc câu điều kiện loại 3, diễn tả điều không có thật trong quá khứ, không phù hợp với ngữ cảnh sự thật hiển nhiên.",
+        "492762": "Mệnh đề điều kiện <em>\"if it were in the sun\"</em> sử dụng thì quá khứ đơn giả định (were), thuộc câu điều kiện loại 2, diễn tả điều không có thật ở hiện tại, không phù hợp với sự thật hiển nhiên.",
+        "492763": "Mệnh đề điều kiện dùng thì hiện tại đơn <em>\"it is in the sun\"</em> phù hợp với câu điều kiện loại 0 để diễn tả sự thật hiển nhiên."
+      },
+      "images": []
+    },
+    {
+      "id": 834724,
+      "questionNumber": 17,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If he _____ a good impression during the interview, he won’t get the position.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1593028,
+          "label": "A",
+          "text": "<p>makes</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1593029,
+          "label": "B",
+          "text": "<p>doesn’t make</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1593030,
+          "label": "C",
+          "text": "will make",
+          "isCorrect": false
+        },
+        {
+          "id": 1593031,
+          "label": "D",
+          "text": "made",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1593029,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn đáp án đúng, hãy xem xét cấu trúc của câu điều kiện loại 1:<br/><ul><li>Mệnh đề chính <em>\"he won't get the position\"</em> cho thấy đây là câu điều kiện loại 1, sử dụng <em>will + V(inf)</em>.</li><li>Theo quy tắc, mệnh đề <em>if</em> trong câu điều kiện loại 1 phải sử dụng thì hiện tại đơn.</li><li>Ý nghĩa của câu là nếu anh ấy <strong>không</strong> tạo ấn tượng tốt, anh ấy sẽ không nhận được vị trí. Do đó, bạn cần một động từ ở thì hiện tại đơn và mang nghĩa phủ định.</li></ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu điều kiện loại 1</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một hành động hoặc sự việc có thể xảy ra ở hiện tại hoặc tương lai nếu một điều kiện nhất định được đáp ứng.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V (hiện tại đơn), S + will/can/may + V (nguyên thể)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, mệnh đề chính <em>\"he won’t get the position\"</em> sử dụng thì tương lai đơn dạng phủ định (<em>will not + V-inf</em>), đây là dấu hiệu của câu điều kiện loại 1. Theo cấu trúc câu điều kiện loại 1, mệnh đề <em>if</em> cần được chia ở thì hiện tại đơn. Đồng thời, dựa vào nghĩa của câu, nếu anh ấy <em>không tạo</em> ấn tượng tốt thì anh ấy sẽ không nhận được vị trí. Vì vậy, động từ cần điền phải ở thì hiện tại đơn và mang nghĩa phủ định.</p>\n<p style=\"text-align: justify;\">Phương án 2 (<em>doesn’t make</em>) là thì hiện tại đơn dạng phủ định, hoàn toàn phù hợp với cấu trúc và ngữ nghĩa của câu. Các phương án ''<em>made</em>'' và ''<em>will made</em>'' đều ở các thì không phù hợp để sử dụng trong mệnh đề <em>If </em>của câu điều kiện loại 1 còn phương án ''<em>makes</em>'' sẽ làm cho câu có nghĩa không hợp lí.</p>",
+      "answerFeedbacks": {
+        "1593028": "<p>Sai vì mặc dù đúng thì hiện tại đơn, nhưng nghĩa của câu sẽ trở nên vô lý (\"Nếu anh ấy tạo ấn tượng tốt, anh ấy sẽ không nhận được vị trí\").</p>",
+        "1593029": "<p>Đúng vì đây là thì hiện tại đơn dạng phủ định, phù hợp với mệnh đề điều kiện loại 1 và ý nghĩa phủ định cần thiết của câu.</p>",
+        "1593030": "Sai vì thì tương lai đơn không được sử dụng trong mệnh đề <em>if</em> của câu điều kiện loại 1.",
+        "1593031": "Sai vì thì quá khứ đơn không được sử dụng trong mệnh đề <em>if</em> của câu điều kiện loại 1 (nếu là câu điều kiện loại 2, mệnh đề chính sẽ là <em>\"would get\"</em>)."
+      },
+      "images": []
+    },
+    {
+      "id": 265288,
+      "questionNumber": 18,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If Rita forgets her homework, the teacher _____ her a low mark.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589061,
+          "label": "A",
+          "text": "will give",
+          "isCorrect": true
+        },
+        {
+          "id": 589062,
+          "label": "B",
+          "text": "would give",
+          "isCorrect": false
+        },
+        {
+          "id": 589063,
+          "label": "C",
+          "text": "gave",
+          "isCorrect": false
+        },
+        {
+          "id": 589064,
+          "label": "D",
+          "text": "has given",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589061,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 1 diễn tả điều kiện c&oacute; thể xảy ra ở hiện tại hoặc tương lai.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: <strong>If + S + V(s/es), S + will/can/&hellip; + V(inf)</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Nếu Rita qu&ecirc;n b&agrave;i tập về nh&agrave;, gi&aacute;o vi&ecirc;n sẽ cho c&ocirc; ấy điểm thấp.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 675145,
+      "questionNumber": 19,
+      "questionName": "6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If I'm not busy this weekend, I _____ the new museum in the city centre with you.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1303593,
+          "label": "A",
+          "text": "would have visited",
+          "isCorrect": false
+        },
+        {
+          "id": 1303594,
+          "label": "B",
+          "text": "would visit",
+          "isCorrect": false
+        },
+        {
+          "id": 1303595,
+          "label": "C",
+          "text": "visited",
+          "isCorrect": false
+        },
+        {
+          "id": 1303596,
+          "label": "D",
+          "text": "will visit",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1303596,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để tìm đáp án đúng, bạn cần xác định loại câu điều kiện phù hợp với ngữ cảnh:</p>\n<ul>\n<li>Chú ý vào mệnh đề điều kiện \"<em>If I'm not busy this weekend</em>\" sử dụng thì hiện tại đơn (\"<em>am not</em>\") và có cụm từ chỉ thời gian tương lai (\"<em>this weekend</em>\").</li>\n<li>Mệnh đề điều kiện ở thì hiện tại đơn diễn tả một khả năng có thật ở hiện tại hoặc tương lai thường đi với mệnh đề chính ở thì tương lai đơn.</li>\n</ul>\n<p>Hãy xem xét cấu trúc của các loại câu điều kiện để tìm ra sự kết hợp thì đúng giữa mệnh đề \"<em>if</em>\" và mệnh đề chính.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu điều kiện</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Câu điều kiện được dùng để diễn tả một hành động hoặc sự việc có thể xảy ra hoặc không xảy ra, tùy thuộc vào một điều kiện nhất định.</p>\n<p style=\"text-align: justify;\"><strong>Một số cấu trúc câu điều kiện:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Câu điều kiện loại 0: If + S + V(s/es), S + V(s/es)</span></strong>: Diễn tả sự thật hiển nhiên, thói quen.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Câu điều kiện loại 1: If + S + V(s/es), S + will/can/may + V(inf)</span></strong>: Diễn tả điều kiện có thể xảy ra ở hiện tại hoặc tương lai và kết quả có thể xảy ra.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Câu điều kiện loại 2: If + S + V(-ed/cột 2), S + would/could/might + V(inf)</span></strong>: Diễn tả điều kiện không có thật ở hiện tại hoặc tương lai.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Câu điều kiện loại 3: If + S + had + V(pp), S + would/could/might + have + V(pp)</span></strong>: Diễn tả điều kiện không có thật trong quá khứ.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Mệnh đề điều kiện là \"<em>If I'm not busy this weekend</em>\" sử dụng thì hiện tại đơn (\"<em>am not</em>\") và có trạng ngữ chỉ thời gian tương lai (\"<em>this weekend</em>\"). Đây là dấu hiệu của câu điều kiện loại 1, diễn tả một điều kiện có thể xảy ra trong tương lai và kết quả có thể xảy ra. Do đó, mệnh đề chính cần dùng thì tương lai đơn (<em>will + V(inf)</em>) và \"<em>will visit</em>\" là đáp án đúng. Các phương án còn lại đều không phù hợp để sử dụng trong mệnh đề chính của câu điều kiện loại 1.</p>",
+      "answerFeedbacks": {
+        "1303593": "Sai vì cấu trúc \"<em>would have visited</em>\" được dùng trong mệnh đề chính của câu điều kiện loại 3, diễn tả điều kiện không có thật trong quá khứ, không phù hợp với mệnh đề điều kiện ở thì hiện tại đơn và ngữ cảnh tương lai \"<em>this weekend</em>\".",
+        "1303594": "Sai vì cấu trúc \"<em>would visit</em>\" được dùng trong mệnh đề chính của câu điều kiện loại 2, diễn tả điều kiện không có thật ở hiện tại hoặc tương lai, trong khi mệnh đề điều kiện \"<em>If I'm not busy this weekend</em>\" diễn tả một điều kiện có thể xảy ra.",
+        "1303595": "Sai vì \"<em>visited</em>\" là thì quá khứ đơn, không phù hợp để diễn tả kết quả của một điều kiện có thể xảy ra trong tương lai theo cấu trúc câu điều kiện loại 1.",
+        "1303596": "Đúng vì cấu trúc \"<em>will visit</em>\" là thì tương lai đơn, phù hợp với mệnh đề chính của câu điều kiện loại 1 khi mệnh đề điều kiện ở thì hiện tại đơn (\"<em>If I'm not busy this weekend</em>\") diễn tả một điều kiện có thể xảy ra trong tương lai."
+      },
+      "images": []
+    },
+    {
+      "id": 286711,
+      "questionNumber": 20,
+      "questionName": "14",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>You _____ pay attention in class if you want to understand the lesson well.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 629170,
+          "label": "A",
+          "text": "could",
+          "isCorrect": false
+        },
+        {
+          "id": 629171,
+          "label": "B",
+          "text": "should",
+          "isCorrect": true
+        },
+        {
+          "id": 629172,
+          "label": "C",
+          "text": "might",
+          "isCorrect": false
+        },
+        {
+          "id": 629173,
+          "label": "D",
+          "text": "would",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 629171,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Cụm từ <em>\"if you want to understand the lesson well\"</em> đặt ra một điều kiện cho hành động chính. Hành động <em>\"pay attention in class\"</em> là một việc cần làm để đạt được điều kiện đó.</p>\n<p>Hãy nhớ lại động từ khuyết thiếu nào thường được dùng để đưa ra lời khuyên hoặc nói về điều gì đó cần thiết.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Trợ động từ khuyết thiếu</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Trợ động từ khuyết thiếu được sử dụng để diễn đạt khả năng, sự cho phép, nghĩa vụ, lời khuyên, sự cần thiết hoặc dự đoán. Chúng luôn đi kèm với động từ nguyên mẫu không \"to\".</p>\n<p><strong>Một số trợ động từ khuyết thiếu:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">could:</span></strong> diễn tả khả năng trong quá khứ, lời đề nghị lịch sự, hoặc khả năng không chắc chắn.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">should:</span></strong> diễn tả lời khuyên, sự khuyến nghị, nghĩa vụ nhẹ nhàng hoặc sự mong đợi.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">might:</span></strong> diễn tả khả năng có thể xảy ra nhưng không chắc chắn (thấp hơn <em>may</em>).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">would:</span></strong> diễn tả hành động giả định trong câu điều kiện, lời mời lịch sự, hoặc thói quen trong quá khứ.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu đề cập đến một điều kiện (\"if you want to understand the lesson well\") và yêu cầu một hành động cần thiết hoặc một lời khuyên (\"pay attention in class\") để đạt được điều kiện đó. Trợ động từ khuyết thiếu <em>should</em> là lựa chọn phù hợp nhất để đưa ra lời khuyên hoặc sự khuyến nghị mạnh mẽ trong ngữ cảnh này.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều không dùng để diễn đạt lời khuyên.</p>",
+      "answerFeedbacks": {
+        "629170": "Sai vì <em>could</em> diễn tả khả năng trong quá khứ hoặc một lời đề nghị, không phải lời khuyên hay sự cần thiết trong ngữ cảnh này.",
+        "629171": "Đúng vì <em>should</em> được dùng để đưa ra lời khuyên hoặc khuyến nghị, rất phù hợp với ngữ cảnh khuyên nhủ học sinh \"pay attention\" để \"understand the lesson well\".",
+        "629172": "Sai vì <em>might</em> diễn tả khả năng không chắc chắn, không phù hợp để đưa ra lời khuyên hoặc sự cần thiết.",
+        "629173": "Sai vì <em>would</em> thường dùng trong câu điều kiện giả định hoặc lời mời lịch sự, không phù hợp để đưa ra lời khuyên trực tiếp trong ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 144876,
+      "questionNumber": 21,
+      "questionName": "Question 10:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>I <u>will lend</u> you <u>this money</u> <u>if</u> you <u>will promise</u> to pay it back.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 340804,
+          "label": "A",
+          "text": "will lend",
+          "isCorrect": false
+        },
+        {
+          "id": 340805,
+          "label": "B",
+          "text": "this money",
+          "isCorrect": false
+        },
+        {
+          "id": 340806,
+          "label": "C",
+          "text": "if",
+          "isCorrect": false
+        },
+        {
+          "id": 340807,
+          "label": "D",
+          "text": "will promise",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 340807,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li data-pm-slice=\"1 1 []\">Xem xét cách sử dụng ''<em>will lend</em>'' trong mệnh đề chính của câu điều kiện.</li>\n<li>Cụm danh từ ''<em>this money''</em> có thể đóng vai trò tân ngữ trong câu không.</li>\n<li>Liên từ ''<em>if''</em> được dùng để mở đầu mệnh đề điều kiện đã hợp lí chưa.</li>\n<li>Xem xét việc sử dụng ''<em>will promise</em>'' trong mệnh đề <em>If </em>của câu điều kiện. </li>\n</ul>\n<p style=\"text-align: justify;\">Đối chiếu từng quy tắc này với câu gốc để xác định phần nào cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu điều kiện loại 1</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Câu điều kiện loại 1 dùng để diễn tả một hành động hoặc sự việc có thể xảy ra ở hiện tại hoặc tương lai nếu một điều kiện nhất định được đáp ứng.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(s/es) / V(inf), S + will/can/may/might + V(inf).</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Câu hỏi diễn tả một hành động có thể xảy ra trong tương lai (cho vay tiền) nếu một điều kiện được đáp ứng (hứa trả lại), đây là cấu trúc của câu điều kiện loại 1. Trong câu điều kiện loại 1, mệnh đề phụ bắt đầu bằng <em>\"if\"</em> phải sử dụng thì hiện tại đơn, không dùng <em>\"will\"</em>. Vì vậy, <em>\"will promise\"</em> là lỗi sai.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>will promise</strong></em>\" =&gt; \"<em><strong>promise</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "340804": "Mệnh đề chính của câu điều kiện loại 1 (<em>\"I will lend you this money\"</em>) sử dụng thì tương lai đơn là hoàn toàn chính xác.",
+        "340805": "<p>Cụm danh từ <em>\"this money\"</em> là tân ngữ hợp lý cho động từ <em>\"lend\"</em>.</p>",
+        "340806": "Liên từ <em>\"if\"</em> được sử dụng đúng để giới thiệu một mệnh đề điều kiện.",
+        "340807": "Trong câu điều kiện loại 1, mệnh đề phụ bắt đầu bằng <em>\"if\"</em> phải sử dụng thì hiện tại đơn, không dùng <em>\"will\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 16350,
+      "questionNumber": 22,
+      "questionName": "38",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em> Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">Unless</span> we burn garbage, the air will <span style=\"text-decoration: underline;\">be</span> badly polluted. <span style=\"text-decoration: underline;\">Therefore</span>, I think the best way <span style=\"text-decoration: underline;\">to reduce</span> trash is to reuse and recycle things.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 54105,
+          "label": "A",
+          "text": "Unless",
+          "isCorrect": true
+        },
+        {
+          "id": 54106,
+          "label": "B",
+          "text": "be",
+          "isCorrect": false
+        },
+        {
+          "id": 54107,
+          "label": "C",
+          "text": "Therefore",
+          "isCorrect": false
+        },
+        {
+          "id": 54108,
+          "label": "D",
+          "text": "to reduce",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 54105,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Liên từ <em>\"Unless\"</em> thiết lập mối quan hệ điều kiện như thế nào giữa việc đốt rác và tình trạng ô nhiễm không khí trong mệnh đề đầu tiên?</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Động từ <em>\"be\"</em> có được dùng đúng trong cấu trúc bị động thì tương lai đơn <em>\"will be badly polluted\"</em> không?</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Liên từ <em>\"Therefore\"</em> có thể hiện mối quan hệ nguyên nhân – kết quả hoặc kết luận hợp lý giữa hai câu văn không?</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Cấu trúc <em>\"to reduce\"</em> có đúng ngữ pháp khi diễn tả mục đích hoặc cách thức trong cụm <em>\"the best way to reduce trash\"</em> không?</li>\n</ul>\nHãy trả lời từng câu hỏi để xác định phần nào trong câu có vấn đề về ngữ nghĩa hoặc ngữ pháp.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu điều kiện loại 1 và các liên từ điều kiện</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Câu điều kiện loại 1 được sử dụng để diễn tả một hành động hoặc sự việc có thể xảy ra ở hiện tại hoặc tương lai, tùy thuộc vào một điều kiện có thật hoặc có khả năng xảy ra. Các liên từ điều kiện như \"<em>If</em>\" và \"<em>Unless</em>\" thiết lập mối quan hệ điều kiện giữa mệnh đề phụ và mệnh đề chính.</p>\n<p style=\"text-align: justify;\"><strong>Một số cấu trúc với liên từ điều kiện:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong>If + S + V(s/es), S + will/can/may + V(inf):</strong> <span style=\"font-weight: normal;\">Nếu... (diễn tả điều kiện có thể xảy ra)</span></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong>Unless + S + V(s/es), S + will/can/may + V(inf): </strong><span style=\"font-weight: normal;\">Trừ khi/Nếu... không (diễn tả điều kiện phủ định)</span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Câu đầu tiên sử dụng liên từ <em>\"Unless\"</em> có nghĩa là <em>\"if... not\"</em>. Do đó, câu này có nghĩa là <em>\"If we do not burn garbage, the air will be badly polluted.\"</em> Ý nghĩa này không hợp lý về mặt logic môi trường, vì nếu chúng ta không đốt rác thì không khí sẽ không bị ô nhiễm nặng.</p>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\">Để diễn tả mối quan hệ nhân quả hợp lý (<em>Nếu chúng ta đốt rác, không khí sẽ bị ô nhiễm nặng</em>), chúng ta cần dùng liên từ <em>\"If\"</em> thay vì <em>\"Unless\".</em></p>",
+      "answerFeedbacks": {
+        "54105": "Liên từ <em>\"Unless\"</em> (có nghĩa là <em>\"if... not\"</em>) tạo ra một mệnh đề điều kiện không hợp lý về mặt ngữ nghĩa trong ngữ cảnh này.",
+        "54106": "Động từ <em>\"be\"</em> được sử dụng đúng ngữ pháp trong cấu trúc thì tương lai đơn bị động <em>\"will be badly polluted\"</em>.",
+        "54107": "Liên từ <em>\"Therefore\"</em> được sử dụng hợp lý để nối hai câu, thể hiện mối quan hệ nhân quả hoặc kết luận logic.",
+        "54108": "Cấu trúc <em>\"to reduce\"</em> là một động từ nguyên thể có <em>\"to\"</em>, được dùng đúng trong cụm <em>\"the best way to reduce trash\"</em> (cách tốt nhất để làm gì)."
+      },
+      "images": []
+    },
+    {
+      "id": 219920,
+      "questionNumber": 23,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>If I <span style=\"text-decoration: underline;\">listen</span> to <span style=\"text-decoration: underline;\">loud</span> music, I <span style=\"text-decoration: underline;\">will always have</span> <span style=\"text-decoration: underline;\">a</span> headache.<br></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 493008,
+          "label": "A",
+          "text": "listen",
+          "isCorrect": false
+        },
+        {
+          "id": 493009,
+          "label": "B",
+          "text": "loud",
+          "isCorrect": false
+        },
+        {
+          "id": 493010,
+          "label": "C",
+          "text": "will always have",
+          "isCorrect": true
+        },
+        {
+          "id": 493011,
+          "label": "D",
+          "text": "a",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 493010,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xác định thì của động từ trong mệnh đề điều kiện <em>\"If I <u>listen</u> to loud music\"</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra xem <em>\"<u>loud</u>\"</em> có phải là từ loại phù hợp để bổ nghĩa cho danh từ <em>\"music\"</em> hay không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem lại cụm ''<em>will always have</em>'' có phù hợp với ngữ cảnh của câu điều kiện này không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét việc sử dụng mạo từ <em>\"<u>a</u>\"</em> trước danh từ <em>\"headache\"</em>.</li>\n</ul>\n<p style=\"text-align: justify;\">Đối chiếu từng quy tắc này với các phần gạch chân trong câu gốc để xác định lỗi sai.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu điều kiện loại 0</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Câu điều kiện loại 0 được dùng để diễn tả một sự thật hiển nhiên, một thói quen, hoặc một hành động luôn xảy ra khi điều kiện được đáp ứng.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(s/es), S + V(s/es)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Câu này diễn tả một sự thật luôn đúng hoặc một thói quen (luôn bị đau đầu nếu nghe nhạc lớn), được nhấn mạnh bởi trạng từ <em>\"always\"</em>. Do đó, đây là câu điều kiện loại 0, yêu cầu cả hai mệnh đề đều phải chia ở thì hiện tại đơn. Mệnh đề chính <em>\"I will always have a headache\"</em> đang dùng thì tương lai đơn là sai.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>will always have</strong></em>\" =&gt; \"<em><strong>always have</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "493008": "Mệnh đề <em>\"If I listen to loud music\"</em> sử dụng thì hiện tại đơn (<em>\"listen\"</em>) là đúng với cấu trúc câu điều kiện loại 0.",
+        "493009": "Tính từ <em>\"loud\"</em> bổ nghĩa cho danh từ <em>\"music\"</em> là đúng về mặt ngữ pháp và ngữ nghĩa.",
+        "493010": "Mệnh đề chính của câu điều kiện loại 0 phải chia ở thì hiện tại đơn, không phải thì tương lai đơn (<em>\"will always have\"</em>).",
+        "493011": "Mạo từ không xác định <em>\"a\"</em> được sử dụng đúng trước danh từ đếm được số ít <em>\"headache\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 253479,
+      "questionNumber": 24,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>She <span style=\"text-decoration: underline;\">will</span> regret it <span style=\"text-decoration: underline;\">if</span> she <span style=\"text-decoration: underline;\">won't</span> tell me <span style=\"text-decoration: underline;\">the</span> truth.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 567745,
+          "label": "A",
+          "text": "will",
+          "isCorrect": false
+        },
+        {
+          "id": 567746,
+          "label": "B",
+          "text": "if",
+          "isCorrect": false
+        },
+        {
+          "id": 567747,
+          "label": "C",
+          "text": "won't",
+          "isCorrect": true
+        },
+        {
+          "id": 567748,
+          "label": "D",
+          "text": "the",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 567747,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 1 diễn tả điều kiện c&oacute; thể xảy ra ở hiện tại hoặc tương lai.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: <strong>S + will/can/&hellip; + V(inf) + if + S + V(s/es)</strong></span></p>\n<p><span style=\"font-weight: 400;\">Sửa: \"<strong>won't</strong>\" =&gt; \"<strong>doesn't</strong>\"</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: C&ocirc; ấy sẽ hối hận nếu c&ocirc; ấy kh&ocirc;ng cho t&ocirc;i biết sự thật.&nbsp;</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 668997,
+      "questionNumber": 25,
+      "questionName": "u",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>If the <span style=\"text-decoration: underline;\">weather</span> is pleasant, we <span style=\"text-decoration: underline;\">would take</span> our bikes <span style=\"text-decoration: underline;\">for</span> a ride <span style=\"text-decoration: underline;\">around</span> the neighborhood.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1289625,
+          "label": "A",
+          "text": "weather",
+          "isCorrect": false
+        },
+        {
+          "id": 1289626,
+          "label": "B",
+          "text": "would take",
+          "isCorrect": true
+        },
+        {
+          "id": 1289627,
+          "label": "C",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 1289628,
+          "label": "D",
+          "text": "around",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1289626,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra xem từ <em>\"weather\"</em> có phù hợp về mặt ngữ pháp và ngữ nghĩa với vai trò chủ ngữ trong câu hay không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Nhớ lại cấu trúc của các loại câu điều kiện và cách sử dụng các thì trong mệnh đề <em>\"if\"</em> và mệnh đề chính.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét cách dùng giới từ <em>\"for\"</em> khi diễn tả mục đích hoặc khoảng thời gian.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đánh giá cách dùng giới từ <em>\"around\"</em> khi diễn tả vị trí hoặc phạm vi.</li>\n</ul>\n<p style=\"text-align: justify;\">Đối chiếu các quy tắc này với từng phần gạch chân trong câu để xác định lỗi sai.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu điều kiện loại 1</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Câu điều kiện loại 1 dùng để diễn tả một hành động hoặc sự việc có thể xảy ra ở hiện tại hoặc tương lai nếu một điều kiện nhất định được đáp ứng.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(s/es), S + will/can/may + V(inf)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, mệnh đề điều kiện <em>\"If the weather is pleasant\"</em> sử dụng thì hiện tại đơn (<em>\"is\"</em>), cho thấy đây là câu điều kiện loại 1. Do đó, mệnh đề chính cần dùng thì tương lai đơn với <em>\"will\"</em> hoặc một động từ khiếm khuyết tương đương (<em>can, may</em>) thay vì <em>\"would\"</em>.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>would take</strong></em>\" =&gt; \"<em><strong>will take</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "1289625": "Danh từ <em>\"weather\"</em> là chủ ngữ của mệnh đề <em>\"If the weather is pleasant\"</em> và được sử dụng đúng ngữ pháp.",
+        "1289626": "Mệnh đề điều kiện ở thì hiện tại đơn (<em>\"is pleasant\"</em>) yêu cầu mệnh đề chính phải ở thì tương lai đơn (<em>\"will take\"</em>), không phải <em>\"would take\"</em>.",
+        "1289627": "Giới từ <em>\"for\"</em> trong cụm <em>\"for a ride\"</em> được dùng đúng để chỉ mục đích của hành động <em>\"take our bikes\"</em>.",
+        "1289628": "Giới từ <em>\"around\"</em> trong cụm <em>\"around the neighborhood\"</em> được dùng đúng để chỉ phạm vi hoặc địa điểm của hành động."
+      },
+      "images": []
+    },
+    {
+      "id": 757649,
+      "questionNumber": 26,
+      "questionName": "new",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "your phone,",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "If you",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "can",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "new features.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "you",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "have access",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "update",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 793649,
+      "questionNumber": 27,
+      "questionName": "2",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "by fax,",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "deliver the goods",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "send your order",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "will",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "we",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "immediately.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "If you",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 436016,
+      "questionNumber": 28,
+      "questionName": "We'll be late for the film if we don't hurry up.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "We'll",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "we",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "the film",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "if",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "late",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "hurry up.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "don't",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 9",
+          "text": "be",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 787604,
+      "questionNumber": 29,
+      "questionName": "1",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "join us",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "finishes",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "can",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "for dinner.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "she",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "her work",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "If she",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "early,",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 786042,
+      "questionNumber": 30,
+      "questionName": "27",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (kéo từng từ/cụm từ về vị trí đúng để tạo thành câu hoàn chỉnh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "he",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "every day,",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "If",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "great musician.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "practices",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "he will",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "become",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 9",
+          "text": "the guitar",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Đây là một câu điều kiện diễn tả một sự việc có thể xảy ra trong tương lai. Hãy xác định mệnh đề điều kiện (bắt đầu bằng <strong>'If'</strong>) và mệnh đề chính (chỉ kết quả), sau đó sắp xếp các thành phần theo đúng cấu trúc ngữ pháp.",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 614431,
+      "questionNumber": 31,
+      "questionName": "2",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "you should",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "a policeman.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "ask",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "get lost",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "a city,",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "If you",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 880464,
+      "questionNumber": 32,
+      "questionName": "Students should always ask questions if they don’t understand the lesson.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "the lesson.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "ask questions",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "they",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "if",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "don’t understand",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "always",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "Students should",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 177067,
+      "questionNumber": 33,
+      "questionName": "34",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete the second sentence so that it has the same meaning to the first.</span></em></p>\n<p><strong>Practice speaking English every day, or you can't improve your English.</strong></p>\n<p><strong>=&gt; If .....</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "If you practice speaking English every day, you can improve your English.",
+        "If you don't practice speaking English every day, you can't improve your English."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 1 diễn tả điều kiện c&oacute; thể xảy ra ở hiện tại hoặc tương lai.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: <strong>If + S + V(s/es), S + will/can/&hellip; + V(inf)</strong></span></p>\n<p>Dịch: Luyện tập n&oacute;i tiếng Anh mỗi ng&agrave;y, hoặc bạn sẽ kh&ocirc;ng thể cải thiện tiếng Anh của m&igrave;nh.</p>\n<p>~ Nếu bạn luyện tập n&oacute;i tiếng Anh mỗi ng&agrave;y, bạn sẽ c&oacute; thể cải thiện tiếng Anh của m&igrave;nh.</p>\n<p>~ Nếu bạn kh&ocirc;ng luyện tập n&oacute;i tiếng Anh mỗi ng&agrave;y, bạn sẽ kh&ocirc;ng thể cải thiện tiếng Anh của m&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 399171,
+      "questionNumber": 34,
+      "questionName": "Q64",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>If you don&#8217;t try hard, you will not pass your final exam.<br></strong></p>\n<p><strong>=&gt; Unless ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Unless you try hard, you will not pass your final exam.",
+        "Unless you try hard, you will fail your final exam."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>unless</strong> ~<strong> if ... not ...</strong>: nếu kh&ocirc;ng</p>\n<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 1 diễn tả điều kiện c&oacute; thể xảy ra ở hiện tại hoặc tương lai.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: <strong>If + S + V(s/es), S + will/can/&hellip; + V(inf)</strong></span></p>\n<p>Dịch: Nếu bạn kh&ocirc;ng cố gắng, bạn sẽ kh&ocirc;ng vượt qua được kỳ thi cuối kỳ của m&igrave;nh.</p>\n<p>~ Nếu bạn kh&ocirc;ng cố gắng, bạn sẽ trượt kỳ thi cuối kỳ của m&igrave;nh.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 147994,
+      "questionNumber": 35,
+      "questionName": "Unless you get lots of exercises",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Unless you get lots of exercise, you might get fat. </strong></p>\n<p><strong>=&gt; If you don't ............</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "If you don't get lots of exercise, you might get fat."
+      ],
+      "hint": "",
+      "explanation": "<p>C&acirc;u điều kiện loại 1 diễn tả điều kiện c&oacute; thể xảy ra ở hiện tại hoặc tương lai.</p>\n<p>Cấu tr&uacute;c: <strong>If + S + V(s/es), S + will/can/may/... + V(inf)</strong></p>\n<p><strong>unless </strong>~<strong> if ... not ...</strong>: nếu kh&ocirc;ng</p>\n<p>Dịch: Nếu bạn kh&ocirc;ng tập thể dục nhiều, bạn c&oacute; thể bị thừa c&acirc;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 186411,
+      "questionNumber": 36,
+      "questionName": "a",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete the second sentence so that it has the same meaning to the first.</span></em></p>\n<p><strong>You should ride your bike carefully, or you may have an accident.</strong></p>\n<p><strong>=&gt; If you ........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "If you don't ride your bike carefully, you may have an accident.",
+        "If you ride your bike carelessly, you may have an accident.",
+        "If you ride your bike carefully, you may not have an accident."
+      ],
+      "hint": "",
+      "explanation": "<p>C&acirc;u điều kiện loại 1 diễn tả điều kiện c&oacute; thể xảy ra ở hiện tại hoặc tương lai.</p>\n<p>Cấu tr&uacute;c: <strong>If + S + V(s/es), S + will/can/may... + V(inf)</strong></p>\n<p>Dịch: Bạn n&ecirc;n đi xe đạp một c&aacute;ch cẩn thận, hoặc bạn c&oacute; thể bị tai nạn.</p>\n<p>~ Nếu bạn kh&ocirc;ng đi xe đạp một c&aacute;ch cẩn thận, bạn sẽ bị tai nạn.</p>\n<p>~ Nếu bạn đi xe đạp một c&aacute;ch cẩu thả, bạn sẽ bị tai nạn.</p>\n<p>~ Nếu bạn đi xe đạp một c&aacute;ch cẩn thận, bạn sẽ kh&ocirc;ng bị tai nạn.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

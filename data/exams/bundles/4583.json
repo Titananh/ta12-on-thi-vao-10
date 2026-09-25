@@ -1,0 +1,1553 @@
+{
+  "id": 4583,
+  "title": "Đề số 12 ôn luyện vào 10 môn Anh Sở Hà Nội ",
+  "year": 2024,
+  "categoryId": 170,
+  "categoryName": "Đề luyện thi vào 10 môn Anh Sở Hà Nội từ năm 2024 trở về trước",
+  "timeLimit": 60,
+  "totalPoint": 39,
+  "questionCount": 36,
+  "author": "Tổ GV Tiếng Anh - TA12",
+  "description": "",
+  "createdAt": "2026-09-24T14:49:32.409Z",
+  "questions": [
+    {
+      "id": 4528,
+      "questionNumber": 1,
+      "questionName": "ed pronunciation",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 10544,
+          "label": "A",
+          "text": "<p>wick<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": true
+        },
+        {
+          "id": 10545,
+          "label": "B",
+          "text": "<p>watch<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 10546,
+          "label": "C",
+          "text": "<p>stopp<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 10547,
+          "label": "D",
+          "text": "<p>cook<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 10544,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Phần gạch ch&acirc;n trong từ \"<strong>wick<span style=\"text-decoration: underline;\">ed</span></strong>\" được ph&aacute;t &acirc;m l&agrave; <strong>/ɪd/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/t/</strong>.</p>\n<p><strong>wicked (adj.) /ˈwɪkɪd/</strong></p>\n<p>watched (v.) /wɒtʃt/</p>\n<p>stopped (v.) /stɒpt/</p>\n<p>cooked (v.) /kʊkt/</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 37374,
+      "questionNumber": 2,
+      "questionName": "Question 1.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 114149,
+          "label": "A",
+          "text": "gr<u>a</u>te",
+          "isCorrect": false
+        },
+        {
+          "id": 114150,
+          "label": "B",
+          "text": "st<u>a</u>ple",
+          "isCorrect": false
+        },
+        {
+          "id": 114151,
+          "label": "C",
+          "text": "<p>don<span style=\"text-decoration: underline;\">a</span>te</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 114152,
+          "label": "D",
+          "text": "sh<u>a</u>llot",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 114152,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Phần gạch ch&acirc;n trong từ \"<strong>sh<u>a</u>llot</strong>\" được ph&aacute;t &acirc;m th&agrave;nh /<strong>ə</strong>/, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; /<strong>ei</strong>/.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BjTyhAkBtY6e2fAENtS9tByeCkPjXBi8ISPsVkKNI8NNurBHYJF9h%2BFX9EN6J%2Bhdx97pphNlnhqmEbwRgIawElzsO1HHnT4Dyje14KUvg758t98m0xbNca3HUzHRF4TkddUuttDSpBGE1IzvOQ4ZGM4S%2Fzd4DBw7r3%2BiUd9clAcm%2FyOi60MPvmUyzU8ttoHI1KforcGOBhcS3XYH%2BJIrUbdva31q9LW3YUQhmPfMzbjt3a8nrwmL8dy7p2FIi3YDMyxwELCuy4L3fOF2QbZgmxArkQSehdHGY7rtMLf%2FIDSyTS8Iihc1uIuT1KPMMPE7v%2FDE3wqLcvVZq%2BfTJB8xM78tMrg69rWRw%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 13105,
+      "questionNumber": 3,
+      "questionName": "Question 22: ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 43516,
+          "label": "A",
+          "text": "zoology",
+          "isCorrect": false
+        },
+        {
+          "id": 43517,
+          "label": "B",
+          "text": "conquest",
+          "isCorrect": true
+        },
+        {
+          "id": 43518,
+          "label": "C",
+          "text": "cement",
+          "isCorrect": false
+        },
+        {
+          "id": 43519,
+          "label": "D",
+          "text": "duet",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 43517,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span class=\"fontstyle2\">Chỉ từ \"<strong>conquest</strong>\" c&oacute; trọng &acirc;m ch&iacute;nh rơi v&agrave;o &acirc;m tiết thứ nhất, c&aacute;c từ c&ograve;n lại đều c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ hai.<br /></span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BfBH5BNFopb2oAyXPyZXJaIQp9XwnsvAZSO%2FWjf%2F8umCYtgCOP1%2FlosqwUTwmNJ7jDadmFIYO64KlWm8XfG4DfWQWlB4Y7DA9ReZ9AuFznf2yItZ%2BIWtKTyP0Mnp3CKVH8ONxKJW2AiUYDJB0EyeLQEktJMcQ3R3MxmvMrfNGqRiDicDWHa1VNmskZ8%2BnRNUBaxW1FWa8ugY9ho0g6dyJBM3yqB54uIT0JtjGGDDqh2zzlNIqH4wslXd0UIQ06EKlvrcMUrQ3ECQq4Dk25HkMdH%2BUmSQpeaCcRnek5Zv9UU%2FgR6aTQ269ckSzZTwjk6Ek9twUiNAoFrzcbyF7p4vyrlDBMfGYA%2BbI%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 15870,
+      "questionNumber": 4,
+      "questionName": "A.II.7",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 53149,
+          "label": "A",
+          "text": "Mexican",
+          "isCorrect": true
+        },
+        {
+          "id": 53150,
+          "label": "B",
+          "text": "Brazilian",
+          "isCorrect": false
+        },
+        {
+          "id": 53151,
+          "label": "C",
+          "text": "Malaysian",
+          "isCorrect": false
+        },
+        {
+          "id": 333373,
+          "label": "D",
+          "text": "American",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 53149,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div class=\"iv-container\">\n<p>Từ \"<strong>Mexican</strong>\" c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ hai.</p>\n<div class=\"iv-table\">\n<table style=\"width: 100%; height: 38.6667px;\">\n<thead>\n<tr class=\"iv-table-row\" style=\"height: 14.6667px;\">\n<th style=\"width: 34.8376%; text-align: left; height: 14.6667px;\">Từ</th>\n<th style=\"width: 32.0997%; text-align: left; height: 14.6667px;\">Phi&ecirc;n &acirc;m</th>\n<th style=\"width: 33.0438%; text-align: left; height: 14.6667px;\">Tiếng Việt</th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"iv-table-row\" style=\"height: 24px; background-color: #fff3cd;\">\n<td class=\"iv-vocab\" style=\"width: 34.8376%; height: 24px;\">Mexican <span class=\"iv-pos\">(adj.)</span></td>\n<td class=\"iv-pronunciation\" style=\"width: 32.0997%; text-align: left; height: 24px;\">/ˈmɛksɪkən/</td>\n<td class=\"iv-native-meaning\" style=\"width: 33.0438%; text-align: left; height: 24px;\"><em>thuộc Mexico, người Mexico</em></td>\n</tr>\n<tr class=\"iv-table-row\" style=\"height: 24px;\">\n<td class=\"iv-vocab\" style=\"width: 34.8376%; height: 24px;\">Brazilian <span class=\"iv-pos\">(adj.)</span></td>\n<td class=\"iv-pronunciation\" style=\"width: 32.0997%; text-align: left; height: 24px;\">/brəˈzɪliən/</td>\n<td class=\"iv-native-meaning\" style=\"width: 33.0438%; text-align: left; height: 24px;\"><em>thuộc Brazil, người Brazil</em></td>\n</tr>\n<tr class=\"iv-table-row\" style=\"height: 24px;\">\n<td class=\"iv-vocab\" style=\"width: 34.8376%; height: 24px;\">Malaysian <span class=\"iv-pos\">(adj.)</span></td>\n<td class=\"iv-pronunciation\" style=\"width: 32.0997%; text-align: left; height: 24px;\">/məˈleɪʒən/</td>\n<td class=\"iv-native-meaning\" style=\"width: 33.0438%; text-align: left; height: 24px;\"><em>thuộc Malaysia, người Malaysia</em></td>\n</tr>\n<tr class=\"iv-table-row\" style=\"height: 24px;\">\n<td class=\"iv-vocab\" style=\"width: 34.8376%; height: 24px;\">American <span class=\"iv-pos\">(adj.)</span></td>\n<td class=\"iv-pronunciation\" style=\"width: 32.0997%; text-align: left; height: 24px;\">/əˈmɛrɪkən/</td>\n<td class=\"iv-native-meaning\" style=\"width: 33.0438%; text-align: left; height: 24px;\"><em>thuộc Mỹ, người Mỹ</em></td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 33844,
+      "questionNumber": 5,
+      "questionName": "Question 18",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em><br><strong> I <u>don&#8217;t</u> approve of <u>leave</u> small <u>children</u> home <u>alone</u>. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 104106,
+          "label": "A",
+          "text": "don’t",
+          "isCorrect": false
+        },
+        {
+          "id": 104107,
+          "label": "B",
+          "text": "leave",
+          "isCorrect": true
+        },
+        {
+          "id": 104108,
+          "label": "C",
+          "text": "children",
+          "isCorrect": false
+        },
+        {
+          "id": 104109,
+          "label": "D",
+          "text": "alone",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 104107,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>approve of sth/ doing sth</strong>: chấp thuận việc g&igrave;</p>\n<p>=&gt; đổi \"<strong>leave</strong>\" th&agrave;nh \"<strong>leaving</strong>\".</p>\n<p>Dịch: T&ocirc;i kh&ocirc;ng đồng &yacute; để bọn trẻ ở nh&agrave; một m&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 108856,
+      "questionNumber": 6,
+      "questionName": "Q34",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><u>In spite of</u> the traffic jam, I <u>came</u> <u>home</u> late <u>last night</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 258667,
+          "label": "A",
+          "text": "In spite of",
+          "isCorrect": true
+        },
+        {
+          "id": 258668,
+          "label": "B",
+          "text": "came",
+          "isCorrect": false
+        },
+        {
+          "id": 258669,
+          "label": "C",
+          "text": "home",
+          "isCorrect": false
+        },
+        {
+          "id": 258670,
+          "label": "D",
+          "text": "last night",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 258667,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>In spite of + N/V-ing</strong>: Mặc d&ugrave; ... =&gt; Kh&ocirc;ng ph&ugrave; hợp với nghĩa của c&acirc;u</p>\n<p><strong>Because of + N/V-ing</strong>: Bởi v&igrave; ...<br /><br />Sửa: \"<strong>In spite of</strong>\" =&gt; \"<strong>Because of</strong>\"</p>\n<p>Dịch: V&igrave; bị tắc đường, t&ocirc;i đ&atilde; về nh&agrave; muộn tối h&ocirc;m qua.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 108714,
+      "questionNumber": 7,
+      "questionName": "Q29",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><u>Although</u> he is an <u>interested</u> man, we <u>don&#8217;t</u> like him <u>at all<u>.</u></u></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 258140,
+          "label": "A",
+          "text": "Although",
+          "isCorrect": false
+        },
+        {
+          "id": 258141,
+          "label": "B",
+          "text": "interested",
+          "isCorrect": true
+        },
+        {
+          "id": 258142,
+          "label": "C",
+          "text": "don’t",
+          "isCorrect": false
+        },
+        {
+          "id": 258143,
+          "label": "D",
+          "text": "at all",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 258141,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>T&iacute;nh từ đu&ocirc;i<strong> -ed</strong> được d&ugrave;ng để mi&ecirc;u tả ai cảm thấy như thế n&agrave;o. =&gt; T&iacute;nh từ \"<strong>interested</strong>\" ở đ&acirc;y kh&ocirc;ng ph&ugrave; hợp.</p>\n<p>T&iacute;nh từ đu&ocirc;i<strong> -ing</strong>&nbsp;được d&ugrave;ng để mi&ecirc;u tả ai, c&aacute;i g&igrave; mang lại cảm gi&aacute;c như thế n&agrave;o cho đối tượng kh&aacute;c.</p>\n<p>Sửa: \"<strong>interested</strong>\" =&gt; \"<strong>interesting</strong>\"</p>\n<p><span style=\"font-weight: 400;\">Dịch: D&ugrave; anh ấy l&agrave; một người đ&agrave;n &ocirc;ng th&uacute; vị, ch&uacute;ng t&ocirc;i kh&ocirc;ng th&iacute;ch anh ấy ch&uacute;t n&agrave;o.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 23438,
+      "questionNumber": 8,
+      "questionName": "Question 6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I went home early _____ I was not feeling well.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 71918,
+          "label": "A",
+          "text": "since",
+          "isCorrect": true
+        },
+        {
+          "id": 71919,
+          "label": "B",
+          "text": "because of",
+          "isCorrect": false
+        },
+        {
+          "id": 71920,
+          "label": "C",
+          "text": "despite",
+          "isCorrect": false
+        },
+        {
+          "id": 71921,
+          "label": "D",
+          "text": "although",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 71918,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để nối hai mệnh đề và diễn tả mối quan hệ nguyên nhân, bạn cần một liên từ phụ thuộc.</p>\n<ul>\n<li>Mệnh đề sau chỗ trống là \"<em>I was not feeling well</em>\" (chủ ngữ + động từ), nên bạn cần một từ có thể đứng trước một mệnh đề.</li>\n<li>Mối quan hệ giữa \"<em>I went home early</em>\" và \"<em>I was not feeling well</em>\" là mối quan hệ nguyên nhân – kết quả, tức là việc không khỏe là lý do về nhà sớm.</li>\n</ul>\n<p>Hãy xem xét nghĩa và cấu trúc của từng phương án để tìm từ phù hợp nhất.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Các từ nối chỉ nguyên nhân và sự nhượng bộ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các từ nối này được sử dụng để liên kết các mệnh đề hoặc cụm từ, thể hiện mối quan hệ nguyên nhân – kết quả hoặc sự đối lập giữa các ý trong câu.</p>\n<p><strong>Một số cấu trúc thường gặp:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">since (conj.) + S + V: </span></strong>bởi vì (chỉ nguyên nhân)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">because of (prep. phrase) + N/V-ing: </span></strong>bởi vì (chỉ nguyên nhân)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">despite (prep.) + N/V-ing: </span></strong>mặc dù (chỉ sự nhượng bộ)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">although (conj.) + S + V: </span></strong>mặc dù (chỉ sự nhượng bộ)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu có hai mệnh đề hoàn chỉnh là \"<em>I went home early</em>\" và \"<em>I was not feeling well</em>\". Mệnh đề thứ hai giải thích lý do cho mệnh đề thứ nhất, tức là mối quan hệ nguyên nhân – kết quả. Chỗ trống đứng trước một mệnh đề (S + V), do đó cần một liên từ phụ thuộc. Trong các phương án, <em>since</em> là liên từ phụ thuộc có nghĩa \"bởi vì\", phù hợp cả về ngữ pháp và ý nghĩa để nối hai mệnh đề này.</p>\n<p style=\"text-align: justify;\">Các phương án ''<em>because of''</em> và ''<em>despite''</em> là giới từ/cụm giới từ, yêu cầu theo sau bởi danh từ hoặc<em> V-ing</em>, không phù hợp với cấu trúc mệnh đề. Phương án ''<em>although''</em> là liên từ nhưng mang nghĩa \"mặc dù\", diễn tả sự nhượng bộ, không phù hợp với ngữ cảnh.</p>",
+      "answerFeedbacks": {
+        "71918": "Đúng vì <em>since</em> là liên từ phụ thuộc mang nghĩa \"bởi vì\", dùng để giới thiệu mệnh đề chỉ nguyên nhân và phù hợp với cấu trúc \"liên từ + mệnh đề (S + V)\".",
+        "71919": "Sai vì <em>because of</em> là cụm giới từ, phải theo sau bởi một danh từ hoặc cụm danh từ/V-ing, trong khi chỗ trống cần một từ nối với một mệnh đề (<em>I was not feeling well</em>).",
+        "71920": "Sai vì <em>despite</em> là giới từ, phải theo sau bởi một danh từ hoặc cụm danh từ/V-ing; ngoài ra, nghĩa \"mặc dù\" của nó không phù hợp để diễn đạt nguyên nhân trong câu.",
+        "71921": "Sai vì <em>although</em> là liên từ phụ thuộc nhưng mang nghĩa \"mặc dù\", dùng để diễn tả sự nhượng bộ/đối lập, không phù hợp để diễn tả nguyên nhân trong ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 54045,
+      "questionNumber": 9,
+      "questionName": "Question 29:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the correct answer.</em></p>\n<p><strong>When I called her, she _______ &nbsp;a bath.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 150527,
+          "label": "A",
+          "text": "had",
+          "isCorrect": false
+        },
+        {
+          "id": 150528,
+          "label": "B",
+          "text": "was having",
+          "isCorrect": true
+        },
+        {
+          "id": 150529,
+          "label": "C",
+          "text": "has",
+          "isCorrect": false
+        },
+        {
+          "id": 150530,
+          "label": "D",
+          "text": "is having",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 150528,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Động từ cần điền chia ở th&igrave;<em> Qu&aacute; khứ tiếp diễn</em>, mi&ecirc;u tả một h&agrave;nh động đang diễn ra trong qu&aacute; khứ th&igrave; c&oacute; một h&agrave;nh động xen v&agrave;o.</p>\n<p>Dịch: Khi t&ocirc;i gọi c&ocirc; ấy, c&ocirc; ấy đang tắm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 89550,
+      "questionNumber": 10,
+      "questionName": "Q6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>There are _____ biscuits in the packet. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 214371,
+          "label": "A",
+          "text": "a few",
+          "isCorrect": true
+        },
+        {
+          "id": 214372,
+          "label": "B",
+          "text": "a little",
+          "isCorrect": false
+        },
+        {
+          "id": 214373,
+          "label": "C",
+          "text": "a lot",
+          "isCorrect": false
+        },
+        {
+          "id": 333374,
+          "label": "D",
+          "text": "much",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 214371,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>a few + N đếm được số nhiều = a little + N kh&ocirc;ng đếm được</strong><span style=\"font-weight: 400;\">: một v&agrave;i, một &iacute;t</span></p>\n<p><span style=\"font-weight: 400;\">a lot of/ lots of + N đếm được số nhiều/ kh&ocirc;ng đếm được: nhiều</span></p>\n<p><span style=\"font-weight: 400;\">much + N kh&ocirc;ng đếm được: nhiều</span></p>\n<p>Danh từ <strong>\"biscuits\" </strong>l&agrave; danh từ đếm được số nhiều.</p>\n<p>Dịch: C&ograve;n một v&agrave;i c&aacute;i b&aacute;nh quy trong t&uacute;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 23847,
+      "questionNumber": 11,
+      "questionName": "Question 4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the correct answer.</em><br><strong>She&#8217;s always willing to help but she doesn't want _______ at home unless there is an emergency.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 73184,
+          "label": "A",
+          "text": "being called",
+          "isCorrect": false
+        },
+        {
+          "id": 73185,
+          "label": "B",
+          "text": "to be called ",
+          "isCorrect": true
+        },
+        {
+          "id": 73186,
+          "label": "C",
+          "text": "to have called",
+          "isCorrect": false
+        },
+        {
+          "id": 73187,
+          "label": "D",
+          "text": "having called",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 73185,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dịch: C&ocirc; ấy lu&ocirc;n sẵn s&agrave;ng gi&uacute;p đơc nhưng c&ocirc; ấy kh&ocirc;ng muốn <span style=\"text-decoration: underline;\">bị gọi điện</span> khi đang ở nh&agrave; trừ trường hợp khẩn cấp.</p>\n<p>Cấu tr&uacute;c:</p>\n<p><strong>(not) want + to be + V(pp)</strong>: (kh&ocirc;ng) muốn được/bị ...</p>\n<p>(not) want + to + V(inf): (kh&ocirc;ng) muốn l&agrave;m g&igrave;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 34954,
+      "questionNumber": 12,
+      "questionName": "Question 24",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Please move the chairs ____ the aisle. They're ____ my way.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 107765,
+          "label": "A",
+          "text": "away from/ on",
+          "isCorrect": false
+        },
+        {
+          "id": 107766,
+          "label": "B",
+          "text": "out of/ in",
+          "isCorrect": true
+        },
+        {
+          "id": 107767,
+          "label": "C",
+          "text": "under/ of",
+          "isCorrect": false
+        },
+        {
+          "id": 107768,
+          "label": "D",
+          "text": "from/ on",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 107766,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy nhớ lại các cụm giới từ thường dùng để diễn tả sự di chuyển ra khỏi một không gian.</p>\n<p>Đồng thời, hãy nhớ lại giới từ đi kèm với cụm ''<em>my way</em>'' tạo thành cụm từ cố định để chỉ sự cản trở lối đi.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cụm giới từ cố định</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Cụm giới từ <em>out of</em> (nghĩa là \"ra khỏi, bên ngoài\") được dùng để chỉ hành động di chuyển vật thể từ bên trong một không gian ra ngoài. Cụm giới từ <em>in one's way</em> (nghĩa là \"cản đường, gây vướng víu\") là một thành ngữ cố định để diễn tả sự vật hoặc người đang ngăn cản lối đi của ai đó.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Ngữ cảnh câu đầu tiên yêu cầu giới từ chỉ sự di chuyển ra khỏi một không gian (lối đi). <em>\"Out of\"</em> phù hợp nhất để diễn tả việc di chuyển ghế ra khỏi lối đi. Ngữ cảnh câu thứ hai cần một cụm giới từ cố định để diễn tả việc các chiếc ghế đang cản đường. <em>\"In my way\"</em> là cụm từ chính xác. Do đó, phương án 2 với cặp giới từ <em>out of/in</em> là lựa chọn đúng nhất.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều chứa ít nhất một từ không phù hợp với ngữ cảnh của hai vế câu.</p>",
+      "answerFeedbacks": {
+        "107765": "Sai vì \"away from\" không diễn tả việc di chuyển ra khỏi một không gian cụ thể như \"out of\" và \"on my way\" có nghĩa là \"đang trên đường đi\", không phải \"cản đường\".",
+        "107766": "Đúng vì \"out of\" diễn tả việc di chuyển ra khỏi một không gian và \"in my way\" là cụm giới từ cố định có nghĩa \"cản đường\".",
+        "107767": "Sai vì \"under the aisle\" không có nghĩa phù hợp và \"of my way\" không phải là cụm từ chính xác.",
+        "107768": "Sai vì \"from\" không diễn tả chính xác việc di chuyển ra khỏi một không gian như \"out of\" và \"on my way\" có nghĩa là \"đang trên đường đi\", không phải \"cản đường\"."
+      },
+      "images": []
+    },
+    {
+      "id": 49968,
+      "questionNumber": 13,
+      "questionName": "Question 9:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I went to the bookstore, but I couldn't find the book _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 142608,
+          "label": "A",
+          "text": "I needed",
+          "isCorrect": true
+        },
+        {
+          "id": 142609,
+          "label": "B",
+          "text": "I needed it",
+          "isCorrect": false
+        },
+        {
+          "id": 142610,
+          "label": "C",
+          "text": "that I needed it",
+          "isCorrect": false
+        },
+        {
+          "id": 142611,
+          "label": "D",
+          "text": "of which I needed",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 142608,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Khi sử dụng mệnh đề quan hệ để bổ nghĩa cho một danh từ, hãy xem xét vai trò của danh từ đó trong mệnh đề quan hệ (chủ ngữ hay tân ngữ) và khả năng lược bỏ đại từ quan hệ:</p>\n<ul>\n<li>Trong câu, cụm từ cần điền bổ nghĩa cho danh từ <em>\"the book\"</em>.</li>\n<li><em>\"The book\"</em> đóng vai trò là tân ngữ của động từ <em>\"needed\"</em> trong mệnh đề quan hệ (tức là <em>\"I needed the book\"</em>).</li>\n</ul>\n<p>Khi đại từ quan hệ làm tân ngữ, bạn có thể lược bỏ nó để câu văn ngắn gọn hơn.</p>\n<p style=\"text-align: justify;\"> </p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mệnh đề quan hệ rút gọn</span>.</p><blockquote style=\"margin-left: 0px; padding-left: 18px;\"><p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Mệnh đề quan hệ có thể được rút gọn để làm cho câu văn ngắn gọn và tự nhiên hơn. Một trong những cách rút gọn phổ biến là lược bỏ đại từ quan hệ khi nó đóng vai trò tân ngữ của động từ trong mệnh đề quan hệ.</p><p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">N (danh từ) + S (chủ ngữ) + V (động từ)</span></p></blockquote><p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p><p style=\"text-align: justify;\">Câu cần một mệnh đề quan hệ bổ nghĩa cho danh từ <em>\"the book\"</em>. Trong mệnh đề quan hệ, <em>\"the book\"</em> đóng vai trò tân ngữ của động từ <em>\"needed\"</em>. Khi đại từ quan hệ làm tân ngữ, nó có thể được lược bỏ hoàn toàn mà không làm mất đi nghĩa của câu.</p><p style=\"text-align: justify;\">Phương án 1 <em>\"I needed\"</em> là cấu trúc đúng và gọn gàng, trong đó đại từ quan hệ (ví dụ: <em>that</em> hoặc <em>which</em>) đã được lược bỏ. Các phương án 2 và 3 sai vì chứa đại từ <em>\"it\"</em> bị thừa sau động từ <em>\"needed\"</em>, do <em>\"the book\"</em> đã là tân ngữ. Phương án 4 <em>\"of which I needed\"</em> sai vì động từ <em>\"need\"</em> là ngoại động từ và không đi kèm giới từ <em>\"of\"</em> trong ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "142608": "Đúng vì đây là mệnh đề quan hệ rút gọn đúng ngữ pháp, trong đó đại từ quan hệ (<em>that/which</em>) làm tân ngữ đã được lược bỏ.",
+        "142609": "Sai vì đại từ <em>\"it\"</em> bị thừa, do <em>\"the book\"</em> đã là tân ngữ của động từ <em>\"needed\"</em> và sẽ được thay thế bằng đại từ quan hệ (ngầm hiểu) nếu không lược bỏ.",
+        "142610": "Sai vì đại từ <em>\"it\"</em> bị thừa, bởi <em>\"that\"</em> đã đóng vai trò tân ngữ thay thế cho <em>\"the book\"</em>.",
+        "142611": "Sai vì động từ <em>\"need\"</em> là ngoại động từ, không đi kèm giới từ <em>\"of\"</em> trong cấu trúc này."
+      },
+      "images": []
+    },
+    {
+      "id": 88666,
+      "questionNumber": 14,
+      "questionName": "Q8 ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the correct answer.</em></p>\n<p><strong>I used to ____ hard when I was a student.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 213110,
+          "label": "A",
+          "text": "work",
+          "isCorrect": true
+        },
+        {
+          "id": 213111,
+          "label": "B",
+          "text": "working",
+          "isCorrect": false
+        },
+        {
+          "id": 333375,
+          "label": "C",
+          "text": "be worked",
+          "isCorrect": false
+        },
+        {
+          "id": 333376,
+          "label": "D",
+          "text": "have worked",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 213110,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>used to V(inf.)</strong>: chỉ một th&oacute;i quen, một h&agrave;nh động thường xuy&ecirc;n xảy ra trong qu&aacute; khứ v&agrave; b&acirc;y giờ kh&ocirc;ng c&ograve;n nữa.</p>\n<p>Dịch: T&ocirc;i thường l&agrave;m việc chăm chỉ khi t&ocirc;i c&ograve;n l&agrave; một sinh vi&ecirc;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 83560,
+      "questionNumber": 15,
+      "questionName": "Question 55:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the correct answer.</em></p>\n<p><strong>Bob studied ______ in university.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 206308,
+          "label": "A",
+          "text": "Finance",
+          "isCorrect": true
+        },
+        {
+          "id": 206309,
+          "label": "B",
+          "text": "Financier",
+          "isCorrect": false
+        },
+        {
+          "id": 206310,
+          "label": "C",
+          "text": "Financial",
+          "isCorrect": false
+        },
+        {
+          "id": 333377,
+          "label": "D",
+          "text": "Financing",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 206308,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để hoàn thành câu <em>'Bob studied ______ in university'</em>, bạn cần một danh từ để chỉ một môn học hoặc một lĩnh vực nghiên cứu</p>\n<p>Hãy cân nhắc xem từ nào trong các lựa chọn phù hợp nhất với ý nghĩa này.</p>",
+      "explanation": "<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Giải nghĩa từ vựng:</span> </p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #fff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n        color: #1c581f;\n        font-size: 15px;\n    }\n\n    .vocab-table-sharp th, \n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        display: inline-block;\n        margin: 0 0.4rem 4px 0;\n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n        display: block;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">Finance</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/ˈfaɪnæns/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>lĩnh vực tài chính; tài chính</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">Financier</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/fɪnænˈsɪər/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>chuyên gia tài chính, nhà tài chính</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">Financial</span></strong><span class=\"word-pos-sharp\">(adj.)</span> <span class=\"word-ipa-sharp\">/faɪˈnænʃəl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>(thuộc) tài chính</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">Financing</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/ˈfaɪnænsɪŋ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>việc cấp vốn, sự tài trợ</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br /><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span><span style=\"color: #454545; font-weight: 400;\"> Chỗ trống trong câu cần một danh từ để làm tân ngữ trực tiếp cho động từ <em>\"studied\"</em>, chỉ môn học hoặc lĩnh vực mà Bob đã học ở trường đại học. Trong các lựa chọn, <em><strong>Finance</strong> </em>là danh từ phù hợp nhất để chỉ một lĩnh vực học thuật. Các phương án khác không phù hợp về từ loại hoặc ngữ nghĩa trong ngữ cảnh này.</span></span></p>",
+      "answerFeedbacks": {
+        "206308": "<em>\"Finance\"</em> là một danh từ chỉ lĩnh vực học tập, phù hợp để làm tân ngữ cho động từ <em>\"studied\"</em> trong ngữ cảnh <em>\"studied ______ in university\"</em>.",
+        "206309": "<em>\"Financier\"</em> là một danh từ chỉ người làm trong lĩnh vực tài chính, không phải là một môn học.",
+        "206310": "<em>\"Financial\"</em> là một tính từ, không thể làm tân ngữ trực tiếp cho động từ <em>\"studied\"</em>.",
+        "333377": "Mặc dù <em>\"financing\"</em> là một danh từ chỉ hành động cấp vốn, nhưng <em>\"Finance\"</em> là thuật ngữ chung và phổ biến hơn để chỉ một lĩnh vực học thuật ở trường đại học."
+      },
+      "images": []
+    },
+    {
+      "id": 48956,
+      "questionNumber": 16,
+      "questionName": "Question 29:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He learns English _____ than we do.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 140486,
+          "label": "A",
+          "text": "badly",
+          "isCorrect": false
+        },
+        {
+          "id": 140487,
+          "label": "B",
+          "text": "badlier",
+          "isCorrect": false
+        },
+        {
+          "id": 140488,
+          "label": "C",
+          "text": "more badly",
+          "isCorrect": false
+        },
+        {
+          "id": 140489,
+          "label": "D",
+          "text": "worse",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 140489,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>C&acirc;u hỏi c&oacute; từ <em>\"than\"</em> l&agrave; dấu hiệu của cấu tr&uacute;c so s&aacute;nh hơn.</p>\n<p>H&atilde;y nhớ lại dạng so s&aacute;nh hơn của trạng từ bất quy tắc \"<em>badly</em>\".</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So s&aacute;nh hơn của trạng từ</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> So s&aacute;nh hơn của trạng từ được d&ugrave;ng để so s&aacute;nh mức độ thực hiện h&agrave;nh động của hai chủ thể hoặc hai h&agrave;nh động kh&aacute;c nhau.</p>\n<p style=\"text-align: justify;\"><strong>Một số dạng so s&aacute;nh hơn của trạng từ:</strong></p>\n<ul>\n<li>Trạng từ ngắn (thường l&agrave; 1 &acirc;m tiết hoặc một số trạng từ 2 &acirc;m tiết kết th&uacute;c bằng -ly): <span style=\"color: #1c581f; font-weight: 600;\">adv. + -er</span></li>\n<li>Trạng từ d&agrave;i (2 &acirc;m tiết trở l&ecirc;n): <span style=\"color: #1c581f; font-weight: 600;\">more + adv.</span></li>\n<li>Trạng từ bất quy tắc: <span style=\"color: #1c581f; font-weight: 600;\">good/well &rarr; better; bad/badly &rarr; worse; far &rarr; farther/further; little &rarr; less; much &rarr; more.</span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u c&oacute; dấu hiệu so s&aacute;nh <em>\"than\"</em> v&agrave; cần một trạng từ để bổ nghĩa cho động từ <em>\"learns\"</em>. Trạng từ <em>\"badly\"</em> l&agrave; một trạng từ bất quy tắc, c&oacute; dạng so s&aacute;nh hơn l&agrave; <em>\"worse\"</em>.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>badly</em>\" l&agrave; dạng trạng từ nguy&ecirc;n mẫu, kh&ocirc;ng phải dạng so s&aacute;nh hơn n&ecirc;n kh&ocirc;ng thể d&ugrave;ng với \"<em>than</em>\". Phương &aacute;n 2 \"<em>badlier</em>\" v&agrave; phương &aacute;n 3 \"<em>more badly</em>\" l&agrave; c&aacute;ch tạo dạng so s&aacute;nh hơn sai cho trạng từ \"<em>badly</em>\".</p>",
+      "answerFeedbacks": {
+        "140486": "Sai vì <em>\"badly\"</em> là dạng trạng từ nguyên mẫu, không phải dạng so sánh hơn.",
+        "140487": "Sai vì <em>\"badly\"</em> là trạng từ bất quy tắc, không thêm <em>\"-lier\"</em> để tạo thành dạng so sánh hơn.",
+        "140488": "Sai vì <em>\"badly\"</em> là trạng từ bất quy tắc, không dùng <em>\"more\"</em> để tạo thành dạng so sánh hơn.",
+        "140489": "Đúng vì <em>\"worse\"</em> là dạng so sánh hơn của trạng từ <em>\"badly\"</em>, phù hợp với cấu trúc so sánh <em>\"than\"</em> trong câu."
+      },
+      "images": []
+    },
+    {
+      "id": 113853,
+      "questionNumber": 17,
+      "questionName": "Question 1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Christina and John are in the English evening class.</em></p>\n<p><strong>Christina: Why do you think most people learn English?</strong></p>\n<p><strong> John: _____</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 271617,
+          "label": "A",
+          "text": "<p>Very often it's to get a better job.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 271618,
+          "label": "B",
+          "text": "All of them are.",
+          "isCorrect": false
+        },
+        {
+          "id": 271619,
+          "label": "C",
+          "text": "Because I like it.",
+          "isCorrect": false
+        },
+        {
+          "id": 271620,
+          "label": "D",
+          "text": "<p>I heard it was very good.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 271617,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Câu hỏi của Christina \"<em>Why do you think most people learn English?</em>\" đang hỏi về lý do chung mà hầu hết mọi người học tiếng Anh.</p>\n<p>Hãy tìm phương án giải thích động cơ học tiếng Anh của <em>hầu hết mọi người</em>, chứ không phải của một cá nhân hay một nhận định chung chung.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời của Christina \"<em>Why do you think most people learn English?</em>\" là một câu hỏi yêu cầu John đưa ra lý do hoặc quan điểm về động cơ chung của nhiều người khi học tiếng Anh.</p>\n<p style=\"text-align: justify;\">Phương án 1 \"<em>Very often it's to get a better job.</em>\" đưa ra một lý do phổ biến và hợp lý, trực tiếp trả lời câu hỏi. Cụm từ \"<em>Very often</em>\" thể hiện đây là một quan điểm về số đông, phù hợp với \"<em>most people</em>\".</p>\n<p style=\"text-align: justify;\">Các phương án 2, 3, 4 đều không phù hợp với ngữ cảnh và mục đích giao tiếp của câu hỏi.</p>",
+      "answerFeedbacks": {
+        "271617": "<p>Đây là câu trả lời trực tiếp và hợp lý cho câu hỏi về lý do mọi người học tiếng Anh, đưa ra một lý do phổ biến.</p>",
+        "271618": "Phương án này không phù hợp vì không có đối tượng nào để tham chiếu với cụm từ \"<em>All of them</em>\" trong ngữ cảnh câu hỏi.",
+        "271619": "Phương án này trả lời cho lý do cá nhân của người nói, không phải lý do \"<em>most people</em>\" (hầu hết mọi người) học tiếng Anh như câu hỏi đã đặt ra.",
+        "271620": "<p>Phương án này không trả lời trực tiếp cho câu hỏi về lý do học tiếng Anh mà chỉ đưa ra một nhận định chung chung về tiếng Anh, không liên quan đến động cơ học tập.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 18187,
+      "questionNumber": 18,
+      "questionName": "B.I.7",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>- \"Would you like a cup of coffee?\"</strong></p>\n<p><strong>- \"_____ .\"</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 58212,
+          "label": "A",
+          "text": "<p>No. I don't like.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 58213,
+          "label": "B",
+          "text": "<p>Sorry, I don't like.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 58214,
+          "label": "C",
+          "text": "<p>No, please.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 58215,
+          "label": "D",
+          "text": "<p>Yes, please.</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 58215,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Lời thoại \"<em>Would you like a cup of coffee?</em>\" là một lời mời. Bạn cần chọn câu đáp lại để chấp nhận hoặc từ chối lời mời này một cách lịch sự.</p>\n<p>Hãy xem xét phương án nào thể hiện sự đồng ý hoặc từ chối một cách tự nhiên và lịch sự nhất trong tiếng Anh</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại đã cho \"<em>Would you like a cup of coffee?</em>\" là một lời mời lịch sự. Để chấp nhận lời mời này một cách tự nhiên và lịch sự, chúng ta cần một câu đáp thể hiện sự đồng ý kèm theo thái độ nhã nhặn.</p>\n<p style=\"text-align: justify;\">Phương án 4, \"<em>Yes, please</em>\", đáp ứng hoàn hảo yêu cầu này, thể hiện sự chấp nhận lời mời một cách lịch sự.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2 và 3 đều không phù hợp với ngữ cảnh giao tiếp này vì chúng không diễn đạt sự đồng ý một cách tự nhiên hoặc lịch sự.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>Would you like...?</strong> (expr.): Bạn có muốn...? (dùng để đưa ra lòi mòi hoặc đề nghị lịch sự)</p>",
+      "answerFeedbacks": {
+        "58212": "<p>Cụm từ <em>\"I don't like\"</em> không đủ lịch sự và tự nhiên khi từ chối lời mời.</p>",
+        "58213": "<p>Cụm từ <em>\"I don't like\"</em> không phù hợp để từ chối lời mời một cách lịch sự, và việc dùng <em>\"Sorry\"</em> cũng chưa đủ để làm cho câu trả lời tự nhiên.</p>",
+        "58214": "<p>Cụm từ <em>\"No, please\"</em> mang ý nghĩa trái ngược, không được dùng để từ chối lời mời một cách lịch sự và tự nhiên.</p>",
+        "58215": "<p>Đây là cách đáp lại lời mời một cách lịch sự và tự nhiên khi đồng ý.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 32886,
+      "questionNumber": 19,
+      "questionName": "Question 5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Instead of staying in the hotel all the time, we wanted to go out and be <u>adventurous</u>.</strong></p>\n<p><em><strong>The word which is opposite in meaning to the underlined word is _____.</strong></em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 102129,
+          "label": "A",
+          "text": "careful",
+          "isCorrect": true
+        },
+        {
+          "id": 102130,
+          "label": "B",
+          "text": "risky",
+          "isCorrect": false
+        },
+        {
+          "id": 102131,
+          "label": "C",
+          "text": "brave",
+          "isCorrect": false
+        },
+        {
+          "id": 102132,
+          "label": "D",
+          "text": "exciting",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 102129,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX18iaqNmNMu0XZ985mdETkQTz5qBk07PGca7IvLm0ALzKD7K2sZBgKFmHpvHJlzx0m9%2BeVAlHL6jaI03k9Ow%2BdsUd%2BjI66k3NyI35RvbtqteTOQqzGH0EYlqc9jXDQcpP1Y%2BG%2B3%2BDCkdhaQ1KETHpvRw6NCTCqx5BLMVs5TGsXtEs6L1d2akdaAL7OLkbqduIO%2FsDuokkTX%2BPc4L%2FFV0QmJIWTtZb7h29nSG%2Bvj%2F4rWebBUPWeS21Dm3DfqEtm%2F9j6JgRLI27Dc0iZLDrtV5Hmp1ACDCesnvt9n5%2BBAnhyUIoVyDcBuxTwFn7orxQHcKe4H%2BOIPO%2B7LqMNOwuLM6f7Y1z50dBBaLq4ug1HePf2uXcSgsL25HZeC7\" width=\"380\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Thay v&igrave; ở trong kh&aacute;ch sạn suốt ng&agrave;y, ch&uacute;ng t&ocirc;i muốn ra ngo&agrave;i v&agrave; <span style=\"text-decoration: underline;\">phi&ecirc;u lưu</span>.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 108424,
+      "questionNumber": 20,
+      "questionName": "Q10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) which is OPPOSITE in meaning to the underlined word(s).</em><br><strong>Nothing <span style=\"text-decoration: underline;\">concentrates the mind</span> better than the knowledge that you could die tomorrow.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 257231,
+          "label": "A",
+          "text": "makes no effort",
+          "isCorrect": false
+        },
+        {
+          "id": 257232,
+          "label": "B",
+          "text": "has no difficulty",
+          "isCorrect": false
+        },
+        {
+          "id": 257233,
+          "label": "C",
+          "text": "takes no notice of",
+          "isCorrect": true
+        },
+        {
+          "id": 257234,
+          "label": "D",
+          "text": "pays attention to",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 257233,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dịch: Kh&ocirc;ng c&oacute; g&igrave; <span style=\"text-decoration: underline;\">khiến bạn ch&uacute; &yacute;</span> hơn l&agrave; việc nhận ra rằng bạn c&oacute; thể chết v&agrave;o ng&agrave;y mai.</p>\n<p><strong>concentrate the mind </strong>(idm.): ch&uacute; &yacute;, ch&uacute; t&acirc;m &gt;&lt;&nbsp;<strong>take no notice of sth&nbsp;</strong>(idm.): kh&ocirc;ng ch&uacute; &yacute; &nbsp;tới ...</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 45174,
+      "questionNumber": 21,
+      "questionName": "forced",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>In some rural areas, women and girls are <u>forced</u> to do most of the housework.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 131294,
+          "label": "A",
+          "text": "invited",
+          "isCorrect": false
+        },
+        {
+          "id": 131295,
+          "label": "B",
+          "text": "encouraged",
+          "isCorrect": false
+        },
+        {
+          "id": 131296,
+          "label": "C",
+          "text": "made",
+          "isCorrect": true
+        },
+        {
+          "id": 131297,
+          "label": "D",
+          "text": "contributed",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 131296,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>force sb to do sth</strong> <strong>~ make sb do sth</strong>: buộc, &eacute;p buộc ai l&agrave;m g&igrave;</p>\n<p>invite sb to do sth: mời ai l&agrave;m g&igrave;</p>\n<p>encourage sb to do sth: khuyến kh&iacute;ch, cổ vũ ai l&agrave;m g&igrave;</p>\n<p>contribute to sth: đ&oacute;ng g&oacute;p v&agrave;o c&aacute;i g&igrave;</p>\n<p>Dịch: Ở một số v&ugrave;ng n&ocirc;ng th&ocirc;n, phụ nữ v&agrave; trẻ em g&aacute;i <span style=\"text-decoration: underline;\">bị buộc</span> phải l&agrave;m hầu hết c&aacute;c c&ocirc;ng việc nh&agrave;.</p>\n<div id=\"gtx-trans\" style=\"position: absolute; left: 255px; top: -12.0057px;\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 45419,
+      "questionNumber": 22,
+      "questionName": "tie the knot",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>Mary is planning to <u>tie the knot</u> with her German boyfriend next June. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 131923,
+          "label": "A",
+          "text": "get married",
+          "isCorrect": true
+        },
+        {
+          "id": 131924,
+          "label": "B",
+          "text": "say goodbye",
+          "isCorrect": false
+        },
+        {
+          "id": 131925,
+          "label": "C",
+          "text": "get together",
+          "isCorrect": false
+        },
+        {
+          "id": 131926,
+          "label": "D",
+          "text": "fall in love",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 131923,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>tie the knot with sb </strong>(idm.) ~ <strong>get married</strong>&nbsp;<strong>with sb </strong>(phr.): kết h&ocirc;n với ai</p>\n<p>say goodbye: ch&agrave;o tạm biệt, chia tay</p>\n<p>get together: hợp lại, họp lại</p>\n<p>fall in love: y&ecirc;u</p>\n<p>Dịch: Mary dự định kết h&ocirc;n với bạn trai người Đức v&agrave;o th&aacute;ng 6 tới.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 119675,
+      "questionNumber": 23,
+      "questionName": "Text 9",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Read and choose the best answer for each space.</strong></p>\n<p style=\"text-align: center;\"><strong>River deep, mountain high!</strong></p>\n<p><span style=\"font-weight: 400;\">From the top of the highest mountain to the bottom of the sea, the world is <span class='fillblank-option'><label>23.1</label><select class='ms fillblank-option-23' index='0' name='fbo-119675-0' data-testid='fillblank-select-119675-0'><option value='' data-testid='fillblank-option-empty-119675-0'></option><option value=\"all\" data-testid='fillblank-option-119675-0-all'>all</option><option value=\"full\" data-testid='fillblank-option-119675-0-full'>full</option><option value=\"most\" data-testid='fillblank-option-119675-0-most'>most</option><option value=\"some\" data-testid='fillblank-option-119675-0-some'>some</option></select></span> of extremes. Let's take a look at some of the most amazing ones.</span></p>\n<p><span style=\"font-weight: 400;\">With temperatures well beside freezing and very strong winds, a mountain top is an extreme place to be! The tallest mountain <span class='fillblank-option'><label>23.2</label><select class='ms fillblank-option-23' index='1' name='fbo-119675-1' data-testid='fillblank-select-119675-1'><option value='' data-testid='fillblank-option-empty-119675-1'></option><option value=\"on\" data-testid='fillblank-option-119675-1-on'>on</option><option value=\"in\" data-testid='fillblank-option-119675-1-in'>in</option><option value=\"at\" data-testid='fillblank-option-119675-1-at'>at</option><option value=\"of\" data-testid='fillblank-option-119675-1-of'>of</option></select></span> the planet is, of course, Mount Everest. Its peak rises 8.850 metres above sea level. Over the years, 1,200 people <span class='fillblank-option'><label>23.3</label><select class='ms fillblank-option-23' index='2' name='fbo-119675-2' data-testid='fillblank-select-119675-2'><option value='' data-testid='fillblank-option-empty-119675-2'></option><option value=\"are made\" data-testid='fillblank-option-119675-2-are made'>are made</option><option value=\"have made\" data-testid='fillblank-option-119675-2-have made'>have made</option><option value=\"making\" data-testid='fillblank-option-119675-2-making'>making</option><option value=\"to make\" data-testid='fillblank-option-119675-2-to make'>to make</option></select></span> the long, lonely climb to the top of Everest!</span></p>\n<p><span style=\"font-weight: 400;\">The Sahara Desert is in North Africa and is about the same size as the USA! With so much sun and very little rain, summer temperatures there are often over 32&#176; Celsius. The hottest temperature ever recorded on earth was in the Sahara <span class='fillblank-option'><label>23.4</label><select class='ms fillblank-option-23' index='3' name='fbo-119675-3' data-testid='fillblank-select-119675-3'><option value='' data-testid='fillblank-option-empty-119675-3'></option><option value=\"that\" data-testid='fillblank-option-119675-3-that'>that</option><option value=\"which\" data-testid='fillblank-option-119675-3-which'>which</option><option value=\"when\" data-testid='fillblank-option-119675-3-when'>when</option><option value=\"what\" data-testid='fillblank-option-119675-3-what'>what</option></select></span> the temperature reached 58&#176; Celsius!</span></p>\n<p><span style=\"font-weight: 400;\">The Amazon is one of the longest rivers in the world. It begins in the mountains of Peru, goes across South America and ends at the Atlantic Ocean. If you ever go on a <span class='fillblank-option'><label>23.5</label><select class='ms fillblank-option-23' index='4' name='fbo-119675-4' data-testid='fillblank-select-119675-4'><option value='' data-testid='fillblank-option-empty-119675-4'></option><option value=\"voyage\" data-testid='fillblank-option-119675-4-voyage'>voyage</option><option value=\"business\" data-testid='fillblank-option-119675-4-business'>business</option><option value=\"picnic\" data-testid='fillblank-option-119675-4-picnic'>picnic</option><option value=\"journey\" data-testid='fillblank-option-119675-4-journey'>journey</option></select></span> to the Amazon, be very careful! As well as the lovely pink dolphins, there are also some horrible creatures in the water, including flesh-eating piranha!</span></p>\n<p style=\"text-align: right;\"><em><span style=\"font-weight: 400;\">Adapted from Close-up B1 pre-intermediate student&#8217;s book</span></em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "full"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "on"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "have made"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "when"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "journey"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1.</p>\n<p><strong>full of sth</strong>: đầy, chứa đầy...</p>\n<p>\"<span style=\"font-weight: 400;\">From the top of the highest mountain to the bottom of the sea, the world is <span style=\"text-decoration: underline;\"><strong>full</strong></span><strong>&nbsp;</strong>of extremes.</span>\"</p>\n<p>\"Từ đỉnh n&uacute;i cao nhất đến đ&aacute;y biển, thế giới <span style=\"text-decoration: underline;\">đầy</span> những cực điểm</p>\n<p>2.</p>\n<p><strong>on</strong> the planet: tr&ecirc;n h&agrave;nh tinh</p>\n<p>\"<span style=\"font-weight: 400;\">The tallest mountain <strong><span style=\"text-decoration: underline;\">on</span></strong> the planet is, of course, Mount Everest.</span>\"</p>\n<p>\"Ngọn n&uacute;i cao nhất h&agrave;nh tinh dĩ nhi&ecirc;n l&agrave; đỉnh Everest.\"</p>\n<p>3.</p>\n<p>Động từ chia ở th&igrave; Hiện tại ho&agrave;n th&agrave;nh nhấn mạnh sự việc bắt đầu trong qu&aacute; khứ v&agrave; c&ograve;n tiếp tục ở hiện tại.</p>\n<p>\"...<span style=\"font-weight: 400;\"> 1,200 people <span style=\"text-decoration: underline;\"><strong>have made</strong></span><strong>&nbsp;</strong>the long, lonely climb to the top of Everest!</span>\"</p>\n<p>\"...1.200 người đ&atilde; thực hiện những chuyến leo d&agrave;i v&agrave; đơn độc l&ecirc;n đỉnh Everest.\"</p>\n<p><strong>make a climb</strong> (collocation): tr&egrave;o</p>\n<p>4.</p>\n<p>Đại từ quan hệ chỉ thời gian when:<strong>&nbsp;when + S + V</strong>: khi m&agrave;</p>\n<p>\"<span style=\"font-weight: 400;\">The hottest temperature ever recorded on earth was in the Sahara <span style=\"text-decoration: underline;\"><strong>when</strong></span> the temperature reached 58&deg; Celsius!</span>\"</p>\n<p>\"Nhiệt độ n&oacute;ng nhất từng được ghi nhận tr&ecirc;n tr&aacute;i đất l&agrave; ở Sahara <span style=\"text-decoration: underline;\">khi</span> nhiệt độ l&ecirc;n tới 58&deg;C!</p>\n<p>5.</p>\n<p>\"<span style=\"font-weight: 400;\">If you ever go on a <span style=\"text-decoration: underline;\"><strong>journey</strong></span> to the Amazon...</span>\"</p>\n<p>\"Nếu bạn thực hiện một <span style=\"text-decoration: underline;\">chuyến đi</span> đến Amazon...\"</p>\n<p><strong>go on a journey</strong>: c&oacute; một chuyến đi (d&agrave;i ng&agrave;y)</p>\n<p>picnic (n): đi d&atilde; ngoại</p>\n<p>voyage (n): chuyến đi d&agrave;i ng&agrave;y bằng đường biển</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 140671,
+      "questionNumber": 24,
+      "questionName": "Exercise 6(325w)",
+      "questionType": "Description",
+      "questionText": "<p><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">Peru's Inca Indians first grew potatoes in the Andes Mountains in about 200 BC. <span class=\"answerhighlight qthem\">Spanish conquistadors brought potatoes to Europe, and colonists brought <strong>them </strong>to America.</span> Potatoes are fourth on the list of the world's food staples - after wheat, corn, and rice. <span class=\"answerhighlight qconsume\">Today, Americans consume<strong> </strong>about 140 pounds of potatoes per person every year, while Europeans eat twice as many.</span></p>\n<p style=\"text-align: justify;\">One of our favorite ways to eat potatoes is in the form of potatoes chips. <span class=\"answerhighlight qbanquet\">While Benjamin Franklin was the American ambassador to France, he went to a <strong>banquet</strong> where potatoes were prepared in 20 different ways.</span> <span class=\"answerhighlight q5\">Thomas Jefferson, who succeeded Franklin as our French ambassador, brought the recipe for thick-cut, French fried potatoes to America. He served French fries to guests at the White House in 1802 and at his home, Monticello.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qnot\">A native American chef named George Crum created the first potato chips on August 24, 1853, at Moon Lake Lodge in Saratoga, New York</span>. <span class=\"answerhighlight qsliced\">He became angry when a diner complained that his French fries were too thick, so he <strong>sliced</strong> the potatoes as thinly as possible,</span> making them too thin and crisp to eat with a fork. The diner loved them, and potato chips were born. <span class=\"answerhighlight qnot\">In 1860, Chef Crum opened his own restaurant and offered a basket of potato chips on every table.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q2\">Joe &#8220;Spud&#8221; Murphy and Seamus Burke produced the world&#8217;s first seasoned crisps, cheese &amp; onion, and salt &amp; vinegar chips, in the 1950s in Ireland.</span> <span class=\"answerhighlight q4\">In the United Kingdom and Ireland, crisps are what we, in the United States, call potato chips, while their chips refer to our French fries.</span> <span class=\"answerhighlight q3\"><span class=\"answerhighlight qnot\">Ketchup-flavored chips are popular in the Middle East and Canada. Seaweed-Navored chips are popular in Asia, and chicken-flavored chips are popular in Mexico.</span> Other flavors from around the world include paprika, pickled onions, b&#233;arnaise, meat pie, chili crab, salmon teriyaki, borscht, Caesar salad, roasted sausage, firecracker lobster, roast ox, haggis and black pepper, olive, and spaghetti.</span></p>\n<p style=\"text-align: right;\"><em>(Adapted from https: //en.isicollective.com)</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 141698,
+      "questionNumber": 25,
+      "questionName": "potato chips main idea q.1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What is the main idea of the passage?</strong></p>",
+      "passageText": "<p><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">Peru's Inca Indians first grew potatoes in the Andes Mountains in about 200 BC. <span class=\"answerhighlight qthem\">Spanish conquistadors brought potatoes to Europe, and colonists brought <strong>them </strong>to America.</span> Potatoes are fourth on the list of the world's food staples - after wheat, corn, and rice. <span class=\"answerhighlight qconsume\">Today, Americans consume<strong> </strong>about 140 pounds of potatoes per person every year, while Europeans eat twice as many.</span></p>\n<p style=\"text-align: justify;\">One of our favorite ways to eat potatoes is in the form of potatoes chips. <span class=\"answerhighlight qbanquet\">While Benjamin Franklin was the American ambassador to France, he went to a <strong>banquet</strong> where potatoes were prepared in 20 different ways.</span> <span class=\"answerhighlight q5\">Thomas Jefferson, who succeeded Franklin as our French ambassador, brought the recipe for thick-cut, French fried potatoes to America. He served French fries to guests at the White House in 1802 and at his home, Monticello.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qnot\">A native American chef named George Crum created the first potato chips on August 24, 1853, at Moon Lake Lodge in Saratoga, New York</span>. <span class=\"answerhighlight qsliced\">He became angry when a diner complained that his French fries were too thick, so he <strong>sliced</strong> the potatoes as thinly as possible,</span> making them too thin and crisp to eat with a fork. The diner loved them, and potato chips were born. <span class=\"answerhighlight qnot\">In 1860, Chef Crum opened his own restaurant and offered a basket of potato chips on every table.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q2\">Joe &#8220;Spud&#8221; Murphy and Seamus Burke produced the world&#8217;s first seasoned crisps, cheese &amp; onion, and salt &amp; vinegar chips, in the 1950s in Ireland.</span> <span class=\"answerhighlight q4\">In the United Kingdom and Ireland, crisps are what we, in the United States, call potato chips, while their chips refer to our French fries.</span> <span class=\"answerhighlight q3\"><span class=\"answerhighlight qnot\">Ketchup-flavored chips are popular in the Middle East and Canada. Seaweed-Navored chips are popular in Asia, and chicken-flavored chips are popular in Mexico.</span> Other flavors from around the world include paprika, pickled onions, b&#233;arnaise, meat pie, chili crab, salmon teriyaki, borscht, Caesar salad, roasted sausage, firecracker lobster, roast ox, haggis and black pepper, olive, and spaghetti.</span></p>\n<p style=\"text-align: right;\"><em>(Adapted from https: //en.isicollective.com)</em></p>",
+      "parentQuestionId": 140671,
+      "choices": [
+        {
+          "id": 333595,
+          "label": "A",
+          "text": "France's ambassador Benjamin Franklin",
+          "isCorrect": false
+        },
+        {
+          "id": 333596,
+          "label": "B",
+          "text": "George Crum the chef",
+          "isCorrect": false
+        },
+        {
+          "id": 333597,
+          "label": "C",
+          "text": "History of potato chips",
+          "isCorrect": true
+        },
+        {
+          "id": 333598,
+          "label": "D",
+          "text": "Flavors of potato chips",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 333597,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>&Yacute; ch&iacute;nh của c&aacute;c đoạn trong b&agrave;i:</p>\n<p>- Đoạn 1 giới thiệu về việc khoai t&acirc;y được sử dụng l&agrave;m đồ ăn.</p>\n<p>- Đoạn 2, 3 đề cập đến xuất xứ của khoai t&acirc;y l&aacute;t mỏng.</p>\n<p>- Đoạn 4 n&oacute;i về c&aacute;c c&aacute;ch cải tiến m&oacute;n khoai t&acirc;y l&aacute;t mỏng.</p>\n<p>=&gt; Nội dung ch&iacute;nh của b&agrave;i viết n&oacute;i về lịch sử của khoai t&acirc;y l&aacute;t mỏng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 140672,
+      "questionNumber": 26,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &quot;them&quot; in paragraph 1 refers to _____.</strong></p>",
+      "passageText": "<p><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">Peru's Inca Indians first grew potatoes in the Andes Mountains in about 200 BC. <span class=\"answerhighlight qthem\">Spanish conquistadors brought potatoes to Europe, and colonists brought <strong>them </strong>to America.</span> Potatoes are fourth on the list of the world's food staples - after wheat, corn, and rice. <span class=\"answerhighlight qconsume\">Today, Americans consume<strong> </strong>about 140 pounds of potatoes per person every year, while Europeans eat twice as many.</span></p>\n<p style=\"text-align: justify;\">One of our favorite ways to eat potatoes is in the form of potatoes chips. <span class=\"answerhighlight qbanquet\">While Benjamin Franklin was the American ambassador to France, he went to a <strong>banquet</strong> where potatoes were prepared in 20 different ways.</span> <span class=\"answerhighlight q5\">Thomas Jefferson, who succeeded Franklin as our French ambassador, brought the recipe for thick-cut, French fried potatoes to America. He served French fries to guests at the White House in 1802 and at his home, Monticello.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qnot\">A native American chef named George Crum created the first potato chips on August 24, 1853, at Moon Lake Lodge in Saratoga, New York</span>. <span class=\"answerhighlight qsliced\">He became angry when a diner complained that his French fries were too thick, so he <strong>sliced</strong> the potatoes as thinly as possible,</span> making them too thin and crisp to eat with a fork. The diner loved them, and potato chips were born. <span class=\"answerhighlight qnot\">In 1860, Chef Crum opened his own restaurant and offered a basket of potato chips on every table.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q2\">Joe &#8220;Spud&#8221; Murphy and Seamus Burke produced the world&#8217;s first seasoned crisps, cheese &amp; onion, and salt &amp; vinegar chips, in the 1950s in Ireland.</span> <span class=\"answerhighlight q4\">In the United Kingdom and Ireland, crisps are what we, in the United States, call potato chips, while their chips refer to our French fries.</span> <span class=\"answerhighlight q3\"><span class=\"answerhighlight qnot\">Ketchup-flavored chips are popular in the Middle East and Canada. Seaweed-Navored chips are popular in Asia, and chicken-flavored chips are popular in Mexico.</span> Other flavors from around the world include paprika, pickled onions, b&#233;arnaise, meat pie, chili crab, salmon teriyaki, borscht, Caesar salad, roasted sausage, firecracker lobster, roast ox, haggis and black pepper, olive, and spaghetti.</span></p>\n<p style=\"text-align: right;\"><em>(Adapted from https: //en.isicollective.com)</em></p>",
+      "parentQuestionId": 140671,
+      "choices": [
+        {
+          "id": 331355,
+          "label": "A",
+          "text": "potatoes",
+          "isCorrect": true
+        },
+        {
+          "id": 331356,
+          "label": "B",
+          "text": "colonists",
+          "isCorrect": false
+        },
+        {
+          "id": 331357,
+          "label": "C",
+          "text": "conquistadors",
+          "isCorrect": false
+        },
+        {
+          "id": 331358,
+          "label": "D",
+          "text": "Indians",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 331355,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Những người chinh phục T&acirc;y Ban Nha đ&atilde; mang <strong>khoai t&acirc;y </strong>đến ch&acirc;u &Acirc;u, v&agrave; những người định cư đ&atilde; mang <strong>ch&uacute;ng </strong>đến Mỹ.</p>\n<p>=&gt; Từ \"<strong>them</strong>\" trong đoạn 1 thay thế cho \"<strong>potatoes</strong>\".</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 141716,
+      "questionNumber": 27,
+      "questionName": "potato chips vocab q.6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &#8220;banquet&#8221; in the second paragraph can be best replaced by the word ____.</strong></p>",
+      "passageText": "<p><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">Peru's Inca Indians first grew potatoes in the Andes Mountains in about 200 BC. <span class=\"answerhighlight qthem\">Spanish conquistadors brought potatoes to Europe, and colonists brought <strong>them </strong>to America.</span> Potatoes are fourth on the list of the world's food staples - after wheat, corn, and rice. <span class=\"answerhighlight qconsume\">Today, Americans consume<strong> </strong>about 140 pounds of potatoes per person every year, while Europeans eat twice as many.</span></p>\n<p style=\"text-align: justify;\">One of our favorite ways to eat potatoes is in the form of potatoes chips. <span class=\"answerhighlight qbanquet\">While Benjamin Franklin was the American ambassador to France, he went to a <strong>banquet</strong> where potatoes were prepared in 20 different ways.</span> <span class=\"answerhighlight q5\">Thomas Jefferson, who succeeded Franklin as our French ambassador, brought the recipe for thick-cut, French fried potatoes to America. He served French fries to guests at the White House in 1802 and at his home, Monticello.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qnot\">A native American chef named George Crum created the first potato chips on August 24, 1853, at Moon Lake Lodge in Saratoga, New York</span>. <span class=\"answerhighlight qsliced\">He became angry when a diner complained that his French fries were too thick, so he <strong>sliced</strong> the potatoes as thinly as possible,</span> making them too thin and crisp to eat with a fork. The diner loved them, and potato chips were born. <span class=\"answerhighlight qnot\">In 1860, Chef Crum opened his own restaurant and offered a basket of potato chips on every table.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q2\">Joe &#8220;Spud&#8221; Murphy and Seamus Burke produced the world&#8217;s first seasoned crisps, cheese &amp; onion, and salt &amp; vinegar chips, in the 1950s in Ireland.</span> <span class=\"answerhighlight q4\">In the United Kingdom and Ireland, crisps are what we, in the United States, call potato chips, while their chips refer to our French fries.</span> <span class=\"answerhighlight q3\"><span class=\"answerhighlight qnot\">Ketchup-flavored chips are popular in the Middle East and Canada. Seaweed-Navored chips are popular in Asia, and chicken-flavored chips are popular in Mexico.</span> Other flavors from around the world include paprika, pickled onions, b&#233;arnaise, meat pie, chili crab, salmon teriyaki, borscht, Caesar salad, roasted sausage, firecracker lobster, roast ox, haggis and black pepper, olive, and spaghetti.</span></p>\n<p style=\"text-align: right;\"><em>(Adapted from https: //en.isicollective.com)</em></p>",
+      "parentQuestionId": 140671,
+      "choices": [
+        {
+          "id": 333656,
+          "label": "A",
+          "text": "contest",
+          "isCorrect": false
+        },
+        {
+          "id": 333657,
+          "label": "B",
+          "text": "meal",
+          "isCorrect": true
+        },
+        {
+          "id": 333658,
+          "label": "C",
+          "text": "festival",
+          "isCorrect": false
+        },
+        {
+          "id": 333659,
+          "label": "D",
+          "text": "palace",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 333657,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>banquet&nbsp;</strong>(n.): bữa tiệc ~ <strong>meal</strong> (n.): bữa ăn</p>\n<p>contest (n.): cuộc thi</p>\n<p>festival (n.): lễ hội</p>\n<p>palace (n.): cung điện</p>\n<p>Dịch: Khi Benjamin Franklin l&agrave; đại sứ Mỹ tại Ph&aacute;p, &ocirc;ng đ&atilde; đi đến một <span style=\"text-decoration: underline;\">bữa tiệc</span> nơi khoai t&acirc;y được chế biến theo 20 c&aacute;ch kh&aacute;c nhau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 140674,
+      "questionNumber": 28,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Which of the following is a true statement?</strong></p>",
+      "passageText": "<p><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">Peru's Inca Indians first grew potatoes in the Andes Mountains in about 200 BC. <span class=\"answerhighlight qthem\">Spanish conquistadors brought potatoes to Europe, and colonists brought <strong>them </strong>to America.</span> Potatoes are fourth on the list of the world's food staples - after wheat, corn, and rice. <span class=\"answerhighlight qconsume\">Today, Americans consume<strong> </strong>about 140 pounds of potatoes per person every year, while Europeans eat twice as many.</span></p>\n<p style=\"text-align: justify;\">One of our favorite ways to eat potatoes is in the form of potatoes chips. <span class=\"answerhighlight qbanquet\">While Benjamin Franklin was the American ambassador to France, he went to a <strong>banquet</strong> where potatoes were prepared in 20 different ways.</span> <span class=\"answerhighlight q5\">Thomas Jefferson, who succeeded Franklin as our French ambassador, brought the recipe for thick-cut, French fried potatoes to America. He served French fries to guests at the White House in 1802 and at his home, Monticello.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qnot\">A native American chef named George Crum created the first potato chips on August 24, 1853, at Moon Lake Lodge in Saratoga, New York</span>. <span class=\"answerhighlight qsliced\">He became angry when a diner complained that his French fries were too thick, so he <strong>sliced</strong> the potatoes as thinly as possible,</span> making them too thin and crisp to eat with a fork. The diner loved them, and potato chips were born. <span class=\"answerhighlight qnot\">In 1860, Chef Crum opened his own restaurant and offered a basket of potato chips on every table.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q2\">Joe &#8220;Spud&#8221; Murphy and Seamus Burke produced the world&#8217;s first seasoned crisps, cheese &amp; onion, and salt &amp; vinegar chips, in the 1950s in Ireland.</span> <span class=\"answerhighlight q4\">In the United Kingdom and Ireland, crisps are what we, in the United States, call potato chips, while their chips refer to our French fries.</span> <span class=\"answerhighlight q3\"><span class=\"answerhighlight qnot\">Ketchup-flavored chips are popular in the Middle East and Canada. Seaweed-Navored chips are popular in Asia, and chicken-flavored chips are popular in Mexico.</span> Other flavors from around the world include paprika, pickled onions, b&#233;arnaise, meat pie, chili crab, salmon teriyaki, borscht, Caesar salad, roasted sausage, firecracker lobster, roast ox, haggis and black pepper, olive, and spaghetti.</span></p>\n<p style=\"text-align: right;\"><em>(Adapted from https: //en.isicollective.com)</em></p>",
+      "parentQuestionId": 140671,
+      "choices": [
+        {
+          "id": 331363,
+          "label": "A",
+          "text": "Different flavored potato chips are popular in different places.",
+          "isCorrect": true
+        },
+        {
+          "id": 331364,
+          "label": "B",
+          "text": "Potato chips are only popular in America.",
+          "isCorrect": false
+        },
+        {
+          "id": 331365,
+          "label": "C",
+          "text": "Ketchup-flavored potato chips are most popular in America.",
+          "isCorrect": false
+        },
+        {
+          "id": 331366,
+          "label": "D",
+          "text": "Potato chips are not really eaten very much in Asia.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 331363,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\">Khoai t&acirc;y chi&ecirc;n vị tương c&agrave; rất phổ biến ở Trung Đ&ocirc;ng v&agrave; Canada. Khoai t&acirc;y chi&ecirc;n vị rong biển phổ biến ở ch&acirc;u &Aacute; v&agrave; khoai t&acirc;y chi&ecirc;n vị g&agrave; phổ biến ở Mexico. C&aacute;c hương vị kh&aacute;c từ khắp nơi tr&ecirc;n thế giới bao gồm ớt bột, h&agrave;nh t&acirc;y ng&acirc;m, sốt b&eacute;arnaise, b&aacute;nh thịt, cua sốt ớt, teriyaki c&aacute; hồi, s&uacute;p borscht, salad Caesar, x&uacute;c x&iacute;ch nướng, t&ocirc;m h&ugrave;m, b&ograve; nướng, haggis v&agrave; ti&ecirc;u đen, &ocirc; liu v&agrave; m&igrave; ống.</p>\n<p>=&gt; Th&ocirc;ng tin đ&uacute;ng l&agrave; \"Khoai t&acirc;y chi&ecirc;n với hương vị kh&aacute;c nhau th&igrave; phổ biến ở c&aacute;c địa điểm kh&aacute;c nhau.\".</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 140675,
+      "questionNumber": 29,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Potato chips are called _____ in the United Kingdom.</strong></p>",
+      "passageText": "<p><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">Peru's Inca Indians first grew potatoes in the Andes Mountains in about 200 BC. <span class=\"answerhighlight qthem\">Spanish conquistadors brought potatoes to Europe, and colonists brought <strong>them </strong>to America.</span> Potatoes are fourth on the list of the world's food staples - after wheat, corn, and rice. <span class=\"answerhighlight qconsume\">Today, Americans consume<strong> </strong>about 140 pounds of potatoes per person every year, while Europeans eat twice as many.</span></p>\n<p style=\"text-align: justify;\">One of our favorite ways to eat potatoes is in the form of potatoes chips. <span class=\"answerhighlight qbanquet\">While Benjamin Franklin was the American ambassador to France, he went to a <strong>banquet</strong> where potatoes were prepared in 20 different ways.</span> <span class=\"answerhighlight q5\">Thomas Jefferson, who succeeded Franklin as our French ambassador, brought the recipe for thick-cut, French fried potatoes to America. He served French fries to guests at the White House in 1802 and at his home, Monticello.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qnot\">A native American chef named George Crum created the first potato chips on August 24, 1853, at Moon Lake Lodge in Saratoga, New York</span>. <span class=\"answerhighlight qsliced\">He became angry when a diner complained that his French fries were too thick, so he <strong>sliced</strong> the potatoes as thinly as possible,</span> making them too thin and crisp to eat with a fork. The diner loved them, and potato chips were born. <span class=\"answerhighlight qnot\">In 1860, Chef Crum opened his own restaurant and offered a basket of potato chips on every table.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q2\">Joe &#8220;Spud&#8221; Murphy and Seamus Burke produced the world&#8217;s first seasoned crisps, cheese &amp; onion, and salt &amp; vinegar chips, in the 1950s in Ireland.</span> <span class=\"answerhighlight q4\">In the United Kingdom and Ireland, crisps are what we, in the United States, call potato chips, while their chips refer to our French fries.</span> <span class=\"answerhighlight q3\"><span class=\"answerhighlight qnot\">Ketchup-flavored chips are popular in the Middle East and Canada. Seaweed-Navored chips are popular in Asia, and chicken-flavored chips are popular in Mexico.</span> Other flavors from around the world include paprika, pickled onions, b&#233;arnaise, meat pie, chili crab, salmon teriyaki, borscht, Caesar salad, roasted sausage, firecracker lobster, roast ox, haggis and black pepper, olive, and spaghetti.</span></p>\n<p style=\"text-align: right;\"><em>(Adapted from https: //en.isicollective.com)</em></p>",
+      "parentQuestionId": 140671,
+      "choices": [
+        {
+          "id": 331367,
+          "label": "A",
+          "text": "fries",
+          "isCorrect": false
+        },
+        {
+          "id": 331368,
+          "label": "B",
+          "text": "crisps",
+          "isCorrect": true
+        },
+        {
+          "id": 331369,
+          "label": "C",
+          "text": "lobsters",
+          "isCorrect": false
+        },
+        {
+          "id": 331370,
+          "label": "D",
+          "text": "potatoes",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 331368,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Ở Vương quốc Anh v&agrave; Ireland, \"crisps\" khoai t&acirc;y chi&ecirc;n gi&ograve;n l&agrave; thứ m&agrave; ch&uacute;ng t&ocirc;i, ở Hoa Kỳ, gọi l&agrave; \"chips\", trong khi \"chips\" của họ đề cập đến khoai t&acirc;y chi&ecirc;n kiểu Ph&aacute;p \"French fries\" của ch&uacute;ng t&ocirc;i.</p>\n<p>=&gt; Ở Anh, khoai t&acirc;y chi&ecirc;n gi&ograve;n l&aacute;t mỏng được gọi l&agrave; \"<strong>crisps</strong>\".</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 336255,
+      "questionNumber": 30,
+      "questionName": "Question 39:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>We / not write / each other / since / we / leave / school.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 714996,
+          "label": "A",
+          "text": "<p>We haven’t written to each other since we left school.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 714997,
+          "label": "B",
+          "text": "<p>We haven’t written to each other since we leave school.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 714998,
+          "label": "C",
+          "text": "<p>We haven’t written to each other since we have left school.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 714999,
+          "label": "D",
+          "text": "<p>We haven’t written each other since we leaved school.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 714996,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn được câu đúng, cần lưu ý các điểm ngữ pháp sau:\n<ul>\n<li>Xác định thì phù hợp cho hành động bắt đầu trong quá khứ và kéo dài đến hiện tại. Sử dụng thì <em style=\"font-weight: 600;\">Present Perfect</em> (Hiện tại hoàn thành) ở mệnh đề chính để diễn tả hành động này.</li>\n<li>Khi sử dụng liên từ <em style=\"font-weight: 600;\">\"since\"</em> để chỉ mốc thời gian bắt đầu của hành động, mệnh đề theo sau <em style=\"font-weight: 600;\">\"since\"</em> phải được chia ở thì <em style=\"font-weight: 600;\">Past Simple</em> (Quá khứ đơn).</li>\n<li>Kiểm tra dạng quá khứ phân từ của động từ <em style=\"font-weight: 600;\">\"write\"</em> và dạng quá khứ đơn của động từ <em style=\"font-weight: 600;\">\"leave\"</em>.</li>\n<li>Lưu ý đến giới từ cần thiết khi động từ <em style=\"font-weight: 600;\">\"write\"</em> đi với tân ngữ chỉ người như <em style=\"font-weight: 600;\">\"each other\"</em>.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\">Thì hiện tại hoàn thành được dùng để diễn tả hành động, sự việc đã xảy ra ở trong quá khứ và vẫn còn tiếp tục ở hiện tại. Dấu hiệu: \"<strong>since</strong>\".</p>\n<p style=\"text-align: justify;\">Cấu trúc với \"since\": <strong>S + have/has + (not) + V(pp) +…+ since + S + V(pt)</strong>: Ai đó đã (không) làm gì kể từ khi nào</p>\n<p style=\"text-align: justify;\">Dạng quá khứ của động từ \"<strong>leave</strong>\" là \"<strong>left</strong>\".</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">→</span> Phương án 1 \"<span style=\"font-weight: 600;\">We <span class=\"eq-highlight\" style=\"color: #5fbd18;\">haven’t written to</span> each other <span class=\"eq-highlight\" style=\"color: #5fbd18;\">since</span> we <span class=\"eq-highlight\" style=\"color: #5fbd18;\">left</span> school.</span>\" là đáp án đúng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương án 2 \"<span style=\"font-weight: 600;\">We haven’t written to each other since we <span style=\"color: #ff0000;\">leave</span> school.</span>\" sai vì mệnh đề sau <i><em>\"since\"</em></i> cần chia ở thì Quá khứ đơn, không phải Hiện tại đơn.</li>\n<li style=\"text-align: justify;\">Phương án 3 \"<span style=\"font-weight: 600;\">We haven’t written to each other since we <span style=\"color: #ff0000;\">have left</span> school.</span>\" sai vì mệnh đề sau <i><em>\"since\"</em></i> trong cấu trúc này cần chia ở thì Quá khứ đơn, không phải Hiện tại hoàn thành.</li>\n<li style=\"text-align: justify;\">Phương án 4 \"<span style=\"font-weight: 600;\">We haven’t written <span style=\"color: #ff0000;\">each other</span> since we <span style=\"color: #ff0000;\">leaved</span> school.</span>\" sai vì động từ <i><em>\"write\"</em></i> khi muốn nói <i><em>\"viết cho ai đó\"</em></i> cần có giới từ <i><em>\"to\"</em></i> (<i><em>\"write to each other\"</em></i>) và dạng quá khứ đơn của <i><em>\"leave\"</em></i> là <i><em>\"left\"</em></i>, không phải <i><em>\"leaved\"</em></i>.</li>\n</ul>",
+      "answerFeedbacks": {
+        "714996": "<p>Đúng vì câu sử dụng thì Hiện tại hoàn thành để diễn tả hành động bắt đầu trong quá khứ và kéo dài đến hiện tại, kết hợp với mệnh đề \"since\" dùng thì Quá khứ đơn và giới từ \"to\" đi kèm động từ \"write\".</p>",
+        "714997": "<p>Sai vì mệnh đề sau \"since\" cần dùng thì Quá khứ đơn, không phải Hiện tại đơn.</p>",
+        "714998": "<p>Sai vì mệnh đề sau \"since\" trong cấu trúc này cần dùng thì Quá khứ đơn, không phải Hiện tại hoàn thành.</p>",
+        "714999": "<p>Sai vì động từ \"write\" cần có giới từ \"to\" khi đi với \"each other\" và động từ \"leave\" ở thì Quá khứ đơn là \"left\", không phải \"leaved\".</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 9039,
+      "questionNumber": 31,
+      "questionName": "Question 207.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>building / destroy / 1480 / earthquake.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 27593,
+          "label": "A",
+          "text": "The building has destroyed since 1480 in an earthquake.",
+          "isCorrect": false
+        },
+        {
+          "id": 27594,
+          "label": "B",
+          "text": "The building destroyed in 1480 in an earthquake.",
+          "isCorrect": false
+        },
+        {
+          "id": 27595,
+          "label": "C",
+          "text": "The building was destroyed since 1480 in an earthquake",
+          "isCorrect": false
+        },
+        {
+          "id": 27596,
+          "label": "D",
+          "text": "The building was destroyed in 1480 in an earthquake.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 27596,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Đối tượng \"<strong>the building</strong>\" chịu t&aacute;c động của h&agrave;nh động \"<strong>destroy</strong>\". =&gt; Động từ ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động ở th&igrave; qu&aacute; khứ đơn: <strong>S + was/were + V(pp) ...</strong></p>\n<p><strong>in + năm</strong>: v&agrave;o năm ... (dấu hiệu của th&igrave; qu&aacute; khứ đơn)</p>\n<p>since + năm: từ năm bao nhi&ecirc;u (dấu hiệu của th&igrave; hiện tại ho&agrave;n th&agrave;nh)</p>\n<p>Dịch: T&ograve;a nh&agrave; đ&oacute; đ&atilde; bị ph&aacute; hủy v&agrave;o năm 1480 trong một trận động đất.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 391512,
+      "questionNumber": 32,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>doctor / suggest / he / stop / smoke / and / drink.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 798979,
+          "label": "A",
+          "text": "The doctor suggests that he would stop smoking and drinking.",
+          "isCorrect": false
+        },
+        {
+          "id": 798980,
+          "label": "B",
+          "text": "The doctor suggests that he should stop to smoke and drink.",
+          "isCorrect": false
+        },
+        {
+          "id": 798981,
+          "label": "C",
+          "text": "The doctor suggests that he should stop smoking and drinking.",
+          "isCorrect": true
+        },
+        {
+          "id": 798982,
+          "label": "D",
+          "text": "The doctor suggests that he will stop smoking and drinking.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 798981,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>stop + V-ing</strong>: dừng hẳn việc g&igrave; đ&oacute;</p>\n<p>stop + to V(inf): dừng để l&agrave;m g&igrave;</p>\n<p>Cấu tr&uacute;c: <strong>S1 + suggest + (that) + S2 + (should) + V(inf) + ...</strong>: (ai đ&oacute;) đề nghị, khuy&ecirc;n (ai) l&agrave;m g&igrave;</p>\n<p>Dịch: B&aacute;c sĩ khuy&ecirc;n anh ấy bỏ h&uacute;t thuốc v&agrave; uống rượu.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 391513,
+      "questionNumber": 33,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>The old man / bike / I / borrow / yesterday / work / this factory / now.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 798983,
+          "label": "A",
+          "text": "The old man which bike I borrowed yesterday is working in this factory now.",
+          "isCorrect": false
+        },
+        {
+          "id": 798984,
+          "label": "B",
+          "text": "The old man whose bike I borrowed it yesterday is working in this factory now.",
+          "isCorrect": false
+        },
+        {
+          "id": 798985,
+          "label": "C",
+          "text": "The old man that bike I borrowed yesterday is working in this factory now.",
+          "isCorrect": false
+        },
+        {
+          "id": 798986,
+          "label": "D",
+          "text": "The old man whose bike I borrowed yesterday is working in this factory now.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 798986,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Đại từ quan hệ \"<strong>whose</strong>\" chỉ sự sở hữu của đối tượng \"<strong>the old man</strong>\" với đối tượng \"<strong>bike</strong>\".</p>\n<p>Dịch: Người đ&agrave;n &ocirc;ng lớn tuổi m&agrave; c&oacute; chiếc xe đạp t&ocirc;i mượn h&ocirc;m qua đang l&agrave;m việc trong nh&agrave; m&aacute;y n&agrave;y.</p>\n<p><em>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:</em></p>\n<table style=\"border-collapse: collapse; width: 99.963%; height: 206.933px;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr style=\"height: 68.9778px;\">\n<td style=\"width: 55.0605%;\">\n<p><em>The old man <span style=\"text-decoration: line-through;\"><strong>which</strong></span> bike I borrowed yesterday is working in this factory now.</em></p>\n</td>\n<td style=\"width: 44.962%; height: 68.9778px;\">\n<p>Đại từ \"which\" l&agrave;m t&acirc;n ngữ hoặc chủ ngữ trong mệnh đề quan hệ. =&gt; Kh&ocirc;ng thể đứng trước danh từ \"bike\".</p>\n</td>\n</tr>\n<tr style=\"height: 68.9778px;\">\n<td style=\"width: 55.0605%;\">\n<p><em>The old man whose bike I borrowed <span style=\"text-decoration: line-through;\"><strong>it</strong></span> yesterday is working in this factory now.</em></p>\n</td>\n<td style=\"width: 44.962%; height: 68.9778px;\">\n<p>Danh từ \"bike\" ở sau \"whose\" làm t&acirc;n ngữ =&gt; Kh&ocirc;ng c&acirc;̀n dùng \"it\" làm t&acirc;n ngữ nữa.</p>\n</td>\n</tr>\n<tr style=\"height: 18.4889px;\">\n<td style=\"width: 55.0605%; height: 68.9778px;\">\n<p><em>The old man <span style=\"text-decoration: line-through;\"><strong>that</strong></span> bike I borrowed yesterday is working in this factory now.</em></p>\n</td>\n<td style=\"width: 44.962%; height: 68.9778px;\">\n<p>Đại từ \"that\" l&agrave;m t&acirc;n ngữ hoặc chủ ngữ trong mệnh đề quan hệ. =&gt; Kh&ocirc;ng thể đứng trước danh từ \"bike\".</p>\n</td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 51349,
+      "questionNumber": 34,
+      "questionName": "Question 48:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><i>Choose the sentence that is CLOSEST in meaning to the sentence given.</i></p>\n<p><strong>We do not need much furniture because the room is small.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 145279,
+          "label": "A",
+          "text": "<p>The smaller the room is, the less furniture we need.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 145288,
+          "label": "B",
+          "text": "The smaller the room, the fewer furniture we need.",
+          "isCorrect": false
+        },
+        {
+          "id": 145289,
+          "label": "C",
+          "text": "<p>The small room makes the furniture less and less.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 145290,
+          "label": "D",
+          "text": "<p>More furniture is needed for the small room.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 145279,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Cấu trúc so sánh kép \"The + comparative, the + comparative\" diễn tả sự thay đổi tỉ lệ thuận giữa hai sự việc.</li>\n<li>Câu gốc \"<em>We do not need much furniture because the room is small.</em>\" thể hiện mối quan hệ nguyên nhân – kết quả, khi một yếu tố (kích thước phòng) thay đổi, yếu tố kia (lượng đồ đạc cần) cũng thay đổi theo.</li>\n<li>Tìm phương án sử dụng cấu trúc so sánh kép \"The + comparative, the + comparative\" để diễn đạt mối quan hệ tỉ lệ thuận này.</li>\n<li>Cần chú ý đến việc sử dụng các từ chỉ định lượng như \"<em>much</em>\", \"<em>less</em>\", \"<em>fewer</em>\" với danh từ \"<em>furniture</em>\" (không đếm được).</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">So sánh kép:</span></p>\n<ul>\n<li style=\"text-align: justify;\">Cách dùng: Diễn tả hai sự việc/hiện tượng có mối quan hệ tương đồng về mức độ, một sự thay đổi kéo theo một sự thay đổi khác.</li>\n<li style=\"text-align: justify;\">Cấu trúc: <strong>The + comparative + S + V, the + comparative + S + V</strong>.</li>\n</ul>\n<p style=\"text-align: justify;\">\"<strong>furniture</strong>\" là danh từ không đếm được. =&gt; dùng \"<strong>less</strong>\" (dạng so sánh hơn của \"little\")</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">→</span> Phương án 1 \"<strong><span class=\"eq-highlight\" style=\"color: #5fbd18;\">The smaller the room is, the less furniture we need.</span></strong>\" là đáp án đúng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương án 2 \"<strong>The smaller the room, the <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">fewer</span></span> furniture we need.</strong>\" sai vì <em>furniture</em> là danh từ không đếm được, nên phải dùng <em>less</em> thay vì <em>fewer</em>.</li>\n<li style=\"text-align: justify;\">Phương án 3 \"<strong>The small room <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">makes the furniture less and less.</span></span></strong>\" sai vì câu này thay đổi nghĩa gốc, diễn tả căn phòng làm cho đồ đạc ngày càng ít đi, không phải là nhu cầu đồ đạc ít do phòng nhỏ.</li>\n<li style=\"text-align: justify;\">Phương án 4 \"<strong><span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">More furniture is needed for the small room.</span></span></strong>\" sai vì câu này diễn tả ý nghĩa trái ngược hoàn toàn với câu gốc.</li>\n</ul>",
+      "answerFeedbacks": {
+        "145279": "<p>Đúng vì cấu trúc so sánh kép \"The + so sánh hơn, the + so sánh hơn\" diễn tả mối quan hệ tỉ lệ thuận, tương ứng với ý nghĩa của câu gốc.</p>",
+        "145288": "Sai vì <em>furniture</em> là danh từ không đếm được nên phải dùng <em>less</em> thay vì <em>fewer</em>.",
+        "145289": "<p>Sai vì câu này thay đổi nghĩa gốc, diễn tả căn phòng làm cho đồ đạc ngày càng ít đi, không phải là nhu cầu đồ đạc ít do phòng nhỏ.</p>",
+        "145290": "<p>Sai vì câu này diễn tả ý nghĩa trái ngược hoàn toàn với câu gốc.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 299528,
+      "questionNumber": 35,
+      "questionName": "6. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence closest in meaning to the following sentence.</em></p>\n<p><strong>He smokes so much, perhaps, that's why he can't get rid of his cough.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 653304,
+          "label": "A",
+          "text": "If he smoked so much, he might be able to get rid of his cough.",
+          "isCorrect": false
+        },
+        {
+          "id": 653305,
+          "label": "B",
+          "text": "If he didn't smoke so much, he could get rid of his cough.",
+          "isCorrect": true
+        },
+        {
+          "id": 653306,
+          "label": "C",
+          "text": "If he smoked so much, he could get rid of his cough.",
+          "isCorrect": false
+        },
+        {
+          "id": 653307,
+          "label": "D",
+          "text": "If he doesn't smoke so much, he can get rid of his cough.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 653305,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> If + S + V(pt), S + would/could/should&hellip;+ V(inf).</strong></span></p>\n<p><span style=\"font-weight: 400;\">Đ&aacute;p &aacute;n thứ nhất v&agrave; thứ 3 kh&ocirc;ng ph&ugrave; hợp về nghĩa.</span></p>\n<p><span style=\"font-weight: 400;\">Đ&aacute;p &aacute;n thứ 4 kh&ocirc;ng đ&uacute;ng cấu tr&uacute;c.</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Anh ấy h&uacute;t thuốc rất nhiều, c&oacute; lẽ, đ&oacute; l&agrave; l&yacute; do tại sao anh ấy kh&ocirc;ng thể tho&aacute;t khỏi cơn ho của m&igrave;nh.</span></p>\n<p><span style=\"font-weight: 400;\">~ Nếu anh ấy kh&ocirc;ng h&uacute;t thuốc nhiều như vậy, anh ấy c&oacute; thể khỏi ho.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265558,
+      "questionNumber": 36,
+      "questionName": "39. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines this pair of sentences.</em></p>\n<p><strong>The weather was very hot. The boys continued playing football in the schoolyard.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589698,
+          "label": "A",
+          "text": "Because of the weather was hot, the boys continued playing football in the schoolyard.",
+          "isCorrect": false
+        },
+        {
+          "id": 589699,
+          "label": "B",
+          "text": "In spite of the hot weather, the boys continued playing football in the schoolyard.",
+          "isCorrect": true
+        },
+        {
+          "id": 589700,
+          "label": "C",
+          "text": "Because the hot weather, the boys continued playing football in the schoolyard.",
+          "isCorrect": false
+        },
+        {
+          "id": 589701,
+          "label": "D",
+          "text": "Despite the weather was hot, the boys continued playing football in the schoolyard.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589699,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>in spite of N/V-ing</strong> ~ despite + N/V-ing: mặc d&ugrave;</p>\n<p>because of + N/V-ing ~ because + clause: bởi v&igrave;</p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em>Because <span style=\"text-decoration: line-through;\"><strong>of</strong></span> the weather was hot, the boys continued playing football in the schoolyard.</em></li>\n<li><em><span style=\"text-decoration: line-through;\"><strong>Because</strong></span> the hot weather, the boys continued playing football in the schoolyard.</em></li>\n<li><em><span style=\"text-decoration: line-through;\"><strong>Despite</strong></span> the weather was hot, the boys continued playing football in the schoolyard.</em></li>\n</ul>\n<p>Dịch: Trời rất n&oacute;ng. C&aacute;c cậu b&eacute; tiếp tục chơi b&oacute;ng trong s&acirc;n trường.</p>\n<p>~ Bất chấp thời tiết nắng n&oacute;ng, c&aacute;c cậu b&eacute; vẫn tiếp tục chơi b&oacute;ng trong s&acirc;n trường.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "topicId": 127,
+  "topicName": "Câu điều kiện loại 2 và câu ước",
+  "englishName": "Second conditional and Wish sentences",
+  "rules": [
+    {
+      "rule": "Câu điều kiện loại 2: Diễn tả điều kiện không có thật hoặc trái ngược với thực tế ở hiện tại.",
+      "formula": "If + S + V(quá khứ đơn / were), S + would/could/might + V(nguyên thể)",
+      "examples": "If I had a million dollars, I would travel around the world."
+    },
+    {
+      "rule": "Động từ 'to be' trong mệnh đề If loại 2: Luôn dùng 'were' cho tất cả các ngôi.",
+      "formula": "If + I/he/she/it + were..., S + would + V-inf",
+      "examples": "If I were you, I would accept that scholarship."
+    },
+    {
+      "rule": "Câu ước với 'Wish' / 'If only' ở hiện tại (trái ngược với thực tế hiện tại):",
+      "formula": "S + wish(es) + (that) + S + V(quá khứ đơn / were)",
+      "examples": "I wish I were taller. / He wishes he had a new bicycle."
+    },
+    {
+      "rule": "Câu ước với 'Wish' ở tương lai (mong muốn thay đổi trong tương lai):",
+      "formula": "S + wish(es) + (that) + S + would/could + V(nguyên thể)",
+      "examples": "I wish it would stop raining soon."
+    }
+  ]
+}

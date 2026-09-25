@@ -1,0 +1,452 @@
+[
+  {
+    "id": "29_1",
+    "questionName": "Question 1",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_1_1",
+        "text": "teacher",
+        "html": "teacher"
+      },
+      {
+        "id": "29_1_2",
+        "text": "student",
+        "html": "student"
+      },
+      {
+        "id": "29_1_4",
+        "text": "police",
+        "html": "police"
+      },
+      {
+        "id": "29_1_3",
+        "text": "doctor",
+        "html": "doctor"
+      }
+    ],
+    "correctChoiceId": "29_1_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"police\"</strong> rơi vào âm tiết thứ <strong>2</strong> (/pəˈliːs/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>1</strong>.</p><ul><li><strong>police</strong> /pəˈliːs/ (âm tiết 2)</li><li><strong>teacher</strong> /ˈtiːtʃə/ (âm tiết 1)</li><li><strong>student</strong> /ˈstjuːdnt/ (âm tiết 1)</li><li><strong>doctor</strong> /ˈdɒktə/ (âm tiết 1)</li></ul>",
+    "ruleTip": "Hầu hết danh từ 2 âm tiết có trọng âm rơi vào âm tiết 1. Riêng từ 'police' là ngoại lệ rơi vào âm tiết 2."
+  },
+  {
+    "id": "29_2",
+    "questionName": "Question 2",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_2_1",
+        "text": "decide",
+        "html": "decide"
+      },
+      {
+        "id": "29_2_2",
+        "text": "agree",
+        "html": "agree"
+      },
+      {
+        "id": "29_2_3",
+        "text": "enjoy",
+        "html": "enjoy"
+      },
+      {
+        "id": "29_2_4",
+        "text": "listen",
+        "html": "listen"
+      }
+    ],
+    "correctChoiceId": "29_2_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"listen\"</strong> rơi vào âm tiết thứ <strong>1</strong> (/ˈlɪsn/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>2</strong>.</p><ul><li><strong>listen</strong> /ˈlɪsn/ (âm tiết 1)</li><li><strong>decide</strong> /dɪˈsaɪd/ (âm tiết 2)</li><li><strong>agree</strong> /əˈɡriː/ (âm tiết 2)</li><li><strong>enjoy</strong> /ɪnˈdʒɔɪ/ (âm tiết 2)</li></ul>",
+    "ruleTip": "Hầu hết động từ 2 âm tiết có trọng âm rơi vào âm tiết 2. Động từ tận cùng -en, -er như 'listen', 'enter' nhấn âm 1."
+  },
+  {
+    "id": "29_3",
+    "questionName": "Question 3",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_3_1",
+        "text": "happy",
+        "html": "happy"
+      },
+      {
+        "id": "29_3_4",
+        "text": "alone",
+        "html": "alone"
+      },
+      {
+        "id": "29_3_2",
+        "text": "clever",
+        "html": "clever"
+      },
+      {
+        "id": "29_3_3",
+        "text": "famous",
+        "html": "famous"
+      }
+    ],
+    "correctChoiceId": "29_3_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"alone\"</strong> rơi vào âm tiết thứ <strong>2</strong> (/əˈləʊn/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>1</strong>.</p><ul><li><strong>alone</strong> /əˈləʊn/ (âm tiết 2)</li><li><strong>happy</strong> /ˈhæpi/ (âm tiết 1)</li><li><strong>clever</strong> /ˈklevə/ (âm tiết 1)</li><li><strong>famous</strong> /ˈfeɪməs/ (âm tiết 1)</li></ul>",
+    "ruleTip": "Tính từ 2 âm tiết thường nhấn âm 1. Tính từ bắt đầu bằng tiền tố a- (alone, alive, asleep) nhấn âm 2."
+  },
+  {
+    "id": "29_4",
+    "questionName": "Question 4",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_4_4",
+        "text": "open",
+        "html": "open"
+      },
+      {
+        "id": "29_4_1",
+        "text": "arrive",
+        "html": "arrive"
+      },
+      {
+        "id": "29_4_2",
+        "text": "forget",
+        "html": "forget"
+      },
+      {
+        "id": "29_4_3",
+        "text": "return",
+        "html": "return"
+      }
+    ],
+    "correctChoiceId": "29_4_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"open\"</strong> rơi vào âm tiết thứ <strong>1</strong> (/ˈəʊpən/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>2</strong>.</p><ul><li><strong>open</strong> /ˈəʊpən/ (âm tiết 1)</li><li><strong>arrive</strong> /əˈraɪv/ (âm tiết 2)</li><li><strong>forget</strong> /fəˈɡet/ (âm tiết 2)</li><li><strong>return</strong> /rɪˈtɜːn/ (âm tiết 2)</li></ul>",
+    "ruleTip": "Động từ tận cùng bằng -en như 'open', 'happen', 'listen' có trọng âm rơi vào âm tiết 1."
+  },
+  {
+    "id": "29_5",
+    "questionName": "Question 5",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_5_1",
+        "text": "paper",
+        "html": "paper"
+      },
+      {
+        "id": "29_5_2",
+        "text": "village",
+        "html": "village"
+      },
+      {
+        "id": "29_5_3",
+        "text": "river",
+        "html": "river"
+      },
+      {
+        "id": "29_5_4",
+        "text": "machine",
+        "html": "machine"
+      }
+    ],
+    "correctChoiceId": "29_5_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"machine\"</strong> rơi vào âm tiết thứ <strong>2</strong> (/məˈʃiːn/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>1</strong>.</p><ul><li><strong>machine</strong> /məˈʃiːn/ (âm tiết 2)</li><li><strong>paper</strong> /ˈpeɪpə/ (âm tiết 1)</li><li><strong>village</strong> /ˈvɪlɪdʒ/ (âm tiết 1)</li><li><strong>river</strong> /ˈrɪvə/ (âm tiết 1)</li></ul>",
+    "ruleTip": "Danh từ mượn gốc Pháp như ma'chine /məˈʃiːn/ có trọng âm rơi vào âm tiết 2."
+  },
+  {
+    "id": "29_6",
+    "questionName": "Question 6",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_6_1",
+        "text": "relax",
+        "html": "relax"
+      },
+      {
+        "id": "29_6_2",
+        "text": "explain",
+        "html": "explain"
+      },
+      {
+        "id": "29_6_4",
+        "text": "visit",
+        "html": "visit"
+      },
+      {
+        "id": "29_6_3",
+        "text": "protect",
+        "html": "protect"
+      }
+    ],
+    "correctChoiceId": "29_6_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"visit\"</strong> rơi vào âm tiết thứ <strong>1</strong> (/ˈvɪzɪt/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>2</strong>.</p><ul><li><strong>visit</strong> /ˈvɪzɪt/ (âm tiết 1)</li><li><strong>relax</strong> /rɪˈlæks/ (âm tiết 2)</li><li><strong>explain</strong> /ɪkˈspleɪn/ (âm tiết 2)</li><li><strong>protect</strong> /prəˈtekt/ (âm tiết 2)</li></ul>",
+    "ruleTip": "Động từ 'visit' có trọng âm rơi vào âm tiết 1 (/ˈvɪzɪt/), các động từ 2 âm tiết thông thường nhấn âm 2."
+  },
+  {
+    "id": "29_7",
+    "questionName": "Question 7",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_7_1",
+        "text": "advice",
+        "html": "advice"
+      },
+      {
+        "id": "29_7_2",
+        "text": "mistake",
+        "html": "mistake"
+      },
+      {
+        "id": "29_7_3",
+        "text": "hotel",
+        "html": "hotel"
+      },
+      {
+        "id": "29_7_4",
+        "text": "table",
+        "html": "table"
+      }
+    ],
+    "correctChoiceId": "29_7_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"table\"</strong> rơi vào âm tiết thứ <strong>1</strong> (/ˈteɪbl/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>2</strong>.</p><ul><li><strong>table</strong> /ˈteɪbl/ (âm tiết 1)</li><li><strong>advice</strong> /ədˈvaɪs/ (âm tiết 2)</li><li><strong>mistake</strong> /mɪˈsteɪk/ (âm tiết 2)</li><li><strong>hotel</strong> /həʊˈtel/ (âm tiết 2)</li></ul>",
+    "ruleTip": "'table' nhấn âm 1. Ba từ 'advice', 'mistake', 'hotel' là ngoại lệ danh từ 2 âm tiết nhấn âm 2."
+  },
+  {
+    "id": "29_8",
+    "questionName": "Question 8",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_8_1",
+        "text": "borrow",
+        "html": "borrow"
+      },
+      {
+        "id": "29_8_4",
+        "text": "enjoy",
+        "html": "enjoy"
+      },
+      {
+        "id": "29_8_2",
+        "text": "follow",
+        "html": "follow"
+      },
+      {
+        "id": "29_8_3",
+        "text": "finish",
+        "html": "finish"
+      }
+    ],
+    "correctChoiceId": "29_8_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"enjoy\"</strong> rơi vào âm tiết thứ <strong>2</strong> (/ɪnˈdʒɔɪ/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>1</strong>.</p><ul><li><strong>enjoy</strong> /ɪnˈdʒɔɪ/ (âm tiết 2)</li><li><strong>borrow</strong> /ˈbɒrəʊ/ (âm tiết 1)</li><li><strong>follow</strong> /ˈfɒləʊ/ (âm tiết 1)</li><li><strong>finish</strong> /ˈfɪnɪʃ/ (âm tiết 1)</li></ul>",
+    "ruleTip": "Động từ tận cùng bằng -ow, -ish ('borrow', 'follow', 'finish') nhấn âm 1. 'enjoy' nhấn âm 2."
+  },
+  {
+    "id": "29_9",
+    "questionName": "Question 9",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_9_1",
+        "text": "narrow",
+        "html": "narrow"
+      },
+      {
+        "id": "29_9_4",
+        "text": "polite",
+        "html": "polite"
+      },
+      {
+        "id": "29_9_2",
+        "text": "heavy",
+        "html": "heavy"
+      },
+      {
+        "id": "29_9_3",
+        "text": "simple",
+        "html": "simple"
+      }
+    ],
+    "correctChoiceId": "29_9_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"polite\"</strong> rơi vào âm tiết thứ <strong>2</strong> (/pəˈlaɪt/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>1</strong>.</p><ul><li><strong>polite</strong> /pəˈlaɪt/ (âm tiết 2)</li><li><strong>narrow</strong> /ˈnærəʊ/ (âm tiết 1)</li><li><strong>heavy</strong> /ˈhevi/ (âm tiết 1)</li><li><strong>simple</strong> /ˈsɪmpl/ (âm tiết 1)</li></ul>",
+    "ruleTip": "Tính từ 2 âm tiết 'polite' nhấn âm 2 (/pəˈlaɪt/), các tính từ còn lại nhấn âm 1."
+  },
+  {
+    "id": "29_10",
+    "questionName": "Question 10",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_10_1",
+        "text": "answer",
+        "html": "answer"
+      },
+      {
+        "id": "29_10_2",
+        "text": "offer",
+        "html": "offer"
+      },
+      {
+        "id": "29_10_4",
+        "text": "succeed",
+        "html": "succeed"
+      },
+      {
+        "id": "29_10_3",
+        "text": "promise",
+        "html": "promise"
+      }
+    ],
+    "correctChoiceId": "29_10_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"succeed\"</strong> rơi vào âm tiết thứ <strong>2</strong> (/səkˈsiːd/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>1</strong>.</p><ul><li><strong>succeed</strong> /səkˈsiːd/ (âm tiết 2)</li><li><strong>answer</strong> /ˈɑːnsə/ (âm tiết 1)</li><li><strong>offer</strong> /ˈɒfə/ (âm tiết 1)</li><li><strong>promise</strong> /ˈprɒmɪs/ (âm tiết 1)</li></ul>",
+    "ruleTip": "'answer', 'offer', 'promise' là động từ 2 âm tiết nhấn âm 1. 'succeed' nhấn âm 2 (/səkˈsiːd/)."
+  },
+  {
+    "id": "29_11",
+    "questionName": "Question 11",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_11_4",
+        "text": "depend",
+        "html": "depend"
+      },
+      {
+        "id": "29_11_1",
+        "text": "traffic",
+        "html": "traffic"
+      },
+      {
+        "id": "29_11_2",
+        "text": "weather",
+        "html": "weather"
+      },
+      {
+        "id": "29_11_3",
+        "text": "summer",
+        "html": "summer"
+      }
+    ],
+    "correctChoiceId": "29_11_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"depend\"</strong> rơi vào âm tiết thứ <strong>2</strong> (/dɪˈpend/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>1</strong>.</p><ul><li><strong>depend</strong> /dɪˈpend/ (âm tiết 2)</li><li><strong>traffic</strong> /ˈtræfɪk/ (âm tiết 1)</li><li><strong>weather</strong> /ˈweðə/ (âm tiết 1)</li><li><strong>summer</strong> /ˈsʌmə/ (âm tiết 1)</li></ul>",
+    "ruleTip": "Động từ 'depend' có tiền tố de- nên trọng âm rơi vào âm 2. Ba danh từ còn lại nhấn âm 1."
+  },
+  {
+    "id": "29_12",
+    "questionName": "Question 12",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_12_1",
+        "text": "attract",
+        "html": "attract"
+      },
+      {
+        "id": "29_12_4",
+        "text": "morning",
+        "html": "morning"
+      },
+      {
+        "id": "29_12_2",
+        "text": "invite",
+        "html": "invite"
+      },
+      {
+        "id": "29_12_3",
+        "text": "attend",
+        "html": "attend"
+      }
+    ],
+    "correctChoiceId": "29_12_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"morning\"</strong> rơi vào âm tiết thứ <strong>1</strong> (/ˈmɔːnɪŋ/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>2</strong>.</p><ul><li><strong>morning</strong> /ˈmɔːnɪŋ/ (âm tiết 1)</li><li><strong>attract</strong> /əˈtrækt/ (âm tiết 2)</li><li><strong>invite</strong> /ɪnˈvaɪt/ (âm tiết 2)</li><li><strong>attend</strong> /əˈtend/ (âm tiết 2)</li></ul>",
+    "ruleTip": "'morning' là danh từ nhấn âm 1, ba từ còn lại là động từ 2 âm tiết nhấn âm 2."
+  },
+  {
+    "id": "29_13",
+    "questionName": "Question 13",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_13_1",
+        "text": "guitar",
+        "html": "guitar"
+      },
+      {
+        "id": "29_13_2",
+        "text": "canal",
+        "html": "canal"
+      },
+      {
+        "id": "29_13_4",
+        "text": "beauty",
+        "html": "beauty"
+      },
+      {
+        "id": "29_13_3",
+        "text": "police",
+        "html": "police"
+      }
+    ],
+    "correctChoiceId": "29_13_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"beauty\"</strong> rơi vào âm tiết thứ <strong>1</strong> (/ˈbjuːti/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>2</strong>.</p><ul><li><strong>beauty</strong> /ˈbjuːti/ (âm tiết 1)</li><li><strong>guitar</strong> /ɡɪˈtɑː/ (âm tiết 2)</li><li><strong>canal</strong> /kəˈnæl/ (âm tiết 2)</li><li><strong>police</strong> /pəˈliːs/ (âm tiết 2)</li></ul>",
+    "ruleTip": "'beauty' nhấn âm 1. Ba danh từ ngoại lệ 'guitar', 'canal', 'police' nhấn âm 2."
+  },
+  {
+    "id": "29_14",
+    "questionName": "Question 14",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_14_1",
+        "text": "healthy",
+        "html": "healthy"
+      },
+      {
+        "id": "29_14_2",
+        "text": "friendly",
+        "html": "friendly"
+      },
+      {
+        "id": "29_14_3",
+        "text": "lovely",
+        "html": "lovely"
+      },
+      {
+        "id": "29_14_4",
+        "text": "deny",
+        "html": "deny"
+      }
+    ],
+    "correctChoiceId": "29_14_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"deny\"</strong> rơi vào âm tiết thứ <strong>2</strong> (/dɪˈnaɪ/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>1</strong>.</p><ul><li><strong>deny</strong> /dɪˈnaɪ/ (âm tiết 2)</li><li><strong>healthy</strong> /ˈhelθi/ (âm tiết 1)</li><li><strong>friendly</strong> /ˈfrendli/ (âm tiết 1)</li><li><strong>lovely</strong> /ˈlʌvli/ (âm tiết 1)</li></ul>",
+    "ruleTip": "'deny' là động từ nhấn âm 2 (/dɪˈnaɪ/). Ba tính từ đuôi -y, -ly nhấn âm 1."
+  },
+  {
+    "id": "29_15",
+    "questionName": "Question 15",
+    "questionText": "<p><strong>Choose the word whose stress pattern is different from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "29_15_4",
+        "text": "damage",
+        "html": "damage"
+      },
+      {
+        "id": "29_15_1",
+        "text": "reduce",
+        "html": "reduce"
+      },
+      {
+        "id": "29_15_2",
+        "text": "provide",
+        "html": "provide"
+      },
+      {
+        "id": "29_15_3",
+        "text": "destroy",
+        "html": "destroy"
+      }
+    ],
+    "correctChoiceId": "29_15_4",
+    "explanation": "<p>Trọng âm của từ <strong>\"damage\"</strong> rơi vào âm tiết thứ <strong>1</strong> (/ˈdæmɪdʒ/), các từ còn lại có trọng âm rơi vào âm tiết thứ <strong>2</strong>.</p><ul><li><strong>damage</strong> /ˈdæmɪdʒ/ (âm tiết 1)</li><li><strong>reduce</strong> /rɪˈdjuːs/ (âm tiết 2)</li><li><strong>provide</strong> /prəˈvaɪd/ (âm tiết 2)</li><li><strong>destroy</strong> /dɪˈstrɔɪ/ (âm tiết 2)</li></ul>",
+    "ruleTip": "Động từ 'damage' có trọng âm rơi vào âm 1 (/ˈdæmɪdʒ/), các động từ 'reduce', 'provide', 'destroy' nhấn âm 2."
+  }
+]

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" width="160" height="48" fill="none">
+  <!-- Brand Icon: Graduation Cap & Book Badge -->
+  <g transform="translate(4, 4)">
+    <rect x="0" y="0" width="40" height="40" rx="10" fill="url(#gradBg)" />
+    <!-- Graduation Cap -->
+    <path d="M20 10 L33 16 L20 22 L7 16 Z" fill="#ffffff" />
+    <path d="M12 18.5 V25.5 C12 25.5 15.5 28.5 20 28.5 C24.5 28.5 28 25.5 28 25.5 V18.5" stroke="#ffffff" stroke-width="2" stroke-linecap="round" fill="none" />
+    <!-- Tassel -->
+    <path d="M30 17.5 V24 C30 25 31.5 25.5 32 25" stroke="#ffe082" stroke-width="1.8" stroke-linecap="round" fill="none" />
+    <circle cx="32" cy="26" r="1.5" fill="#ffe082" />
+  </g>
+
+  <!-- Typography: TA 12 -->
+  <text x="52" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="28" fill="#1c581f" letter-spacing="-0.5">TA</text>
+  <text x="94" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="28" fill="#e67e22" letter-spacing="-0.5">12</text>
+  
+  <!-- Subtle Dot Accent -->
+  <circle cx="132" cy="30" r="3" fill="#83c224" />
+
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="gradBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2e7d32" />
+      <stop offset="100%" stop-color="#1c581f" />
+    </linearGradient>
+  </defs>
+</svg>

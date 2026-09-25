@@ -1,0 +1,1306 @@
+{
+  "id": 15275,
+  "title": "Đề số 12 luyện thi vào 10 môn Anh Sở Hà Nội ",
+  "year": 2024,
+  "categoryId": 1263,
+  "categoryName": "Đề luyện thi vào 10 môn Anh Sở Hà Nội theo chương trình mới",
+  "timeLimit": 60,
+  "totalPoint": 40,
+  "questionCount": 31,
+  "author": "Tổ GV Tiếng Anh - TA12",
+  "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
+  "createdAt": "2026-09-24T14:48:09.711Z",
+  "questions": [
+    {
+      "id": 611275,
+      "questionNumber": 1,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1176810,
+          "label": "A",
+          "text": "<p>s<span style=\"text-decoration: underline;\">ch</span>ool</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1176811,
+          "label": "B",
+          "text": "<p><span style=\"text-decoration: underline;\">ch</span>ild</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1176812,
+          "label": "C",
+          "text": "<p><span style=\"text-decoration: underline;\">ch</span>eese</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1176813,
+          "label": "D",
+          "text": "<p><span style=\"text-decoration: underline;\">ch</span>urch</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1176810,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Phần gạch ch&acirc;n trong từ \"<strong>s<span style=\"text-decoration: underline;\">ch</span>ool</strong>\" được ph&aacute;t &acirc;m l&agrave; <strong>/<span class=\"ipa dipa lpr-2 lpl-1\">k</span>/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/<span class=\"ipa dipa lpr-2 lpl-1\">tʃ</span>/</strong>.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FHiWWuRfPhpYL9duysj%2Fkk%2FugeIg5tZTRLUQpQmwYq56y9lM25dxJ0qUl1H8UzUj7b5RDs2BwdCFSmbaQim%2F2XOZyF8SiriNjp1rD8qBL%2BHEpC1pn4eShfQtlrWlECbGaEQsap%2BhGFmXsSZ0KPBy0BqXOtCeF90ZLu1BWjsXd8pjDmqfYJlTAVz3OrjJm96hATuLRWphpbVRw%2BIR2jFZdACJwzx6JjJ2geujEWADXLC5yDG5R6yQdTrns6Twsq0RC7ArIPb7cCJBvhskzBAdNViBat6TA4fEB3UE2u63wMNlHO%2FuwIN0TQiT8Sl4vKWIc4rRwebiSjZNMPF6PTrHxJ4z3eq8iv1CY%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 296394,
+      "questionNumber": 2,
+      "questionName": "12",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Choose the word which has the underlined part pronounced differently from the others.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 646547,
+          "label": "A",
+          "text": "<p>s<u>a</u>nd</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 646548,
+          "label": "B",
+          "text": "sn<u>a</u>ck",
+          "isCorrect": false
+        },
+        {
+          "id": 646549,
+          "label": "C",
+          "text": "sp<u>a</u>m",
+          "isCorrect": false
+        },
+        {
+          "id": 646550,
+          "label": "D",
+          "text": "st<u>a</u>ge",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 646550,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Phần gạch ch&acirc;n trong từ \"<strong>st<span style=\"text-decoration: underline;\">a</span>ge</strong>\" được ph&aacute;t &acirc;m l&agrave; <strong>/</strong><span class=\"ipa dipa lpr-2 lpl-1\"><strong>eɪ/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave;<strong> /&aelig;/</strong>.</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX187TSAPekUNNA1f0afXy8zepl1WitCUVCR8y0ayk6pwHZbb5DXl3Zx6pjIuMBGGYJ9go7ASO0iGzBUlsAX%2B%2FAm97M43U3GT39Ssk2tTauBm9UUy1XtnCRAVZ5Bf5xN2d55Jh84I95IM1vvbpMsBxSOj1CkWOJbNjSGrARsi5KDsqaCMUudpeLqJzScge3eH9hI%2BmjvDJTvG462JmdmGg4NVVVu2rbwZdZeYLrcVHGX6dwKtuhJSII32syr1wH0wy%2BNnYr%2FEwwdE7eYXEboIceLKlL%2FleFcMwEtxK4ST0zUr5mYcYEdJqXHPv35Jqqe6A2qXhvd%2FrANHJA%3D%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 754108,
+      "questionNumber": 3,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1454237,
+          "label": "A",
+          "text": "pillow",
+          "isCorrect": false
+        },
+        {
+          "id": 1454238,
+          "label": "B",
+          "text": "device",
+          "isCorrect": true
+        },
+        {
+          "id": 1454239,
+          "label": "C",
+          "text": "highland",
+          "isCorrect": false
+        },
+        {
+          "id": 1454240,
+          "label": "D",
+          "text": "spacesuit",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1454238,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">Từ </span>\"<strong>device</strong>\"<span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ hai</span><span style=\"font-weight: 400;\">, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ</span> nhất.</p>\n<div style=\"width: 100%; max-width: 523px; text-align: justify;\"><iframe width=\"100%\" height=\"315\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19ZV9pbCuNvd4FKdOAO4Vi34Tr0SAdRoyMp4dLyXDOkxqOpYfWSrQOABw9JO0mMMBLcrbC7BV6sWBLGXLZaChk9%2BRFHoJap5H96gEHReqYOuM7BDtJrwcNXOc%2FRlt%2FViT0Cp2xnO8y65ZPsvlhl9nx7otni6SQVf4JnuSufJQxnNnr%2BZ2Nhc1iXj7A8n5Mse8eTMdhT7MREmepH2OgQAInvvBNynMKeLJyuZUeVyccQprHLPwXfa4eUFvyAIqg2hwcYd84dVqIiUzW6b9mdwycNkIl98SuDgwzc%2FPpugJmLOPY6KG5cO%2BXnVyY9jKrdROUfNCzgHRNbFLUKG4tfIcjKTl8Fiobv3M0%3D\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 667192,
+      "questionNumber": 4,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1285237,
+          "label": "A",
+          "text": "cinema",
+          "isCorrect": true
+        },
+        {
+          "id": 1285238,
+          "label": "B",
+          "text": "banana",
+          "isCorrect": false
+        },
+        {
+          "id": 1285239,
+          "label": "C",
+          "text": "computer",
+          "isCorrect": false
+        },
+        {
+          "id": 1285240,
+          "label": "D",
+          "text": "tomato",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1285237,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">Từ </span>\"<strong>cinema</strong>\"<span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất</span><span style=\"font-weight: 400;\">, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ</span> hai.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2Fnp0q1S%2Fi4fIgk170LGcF8rv9igKl4H19nWvfOTYRATmZkNa6%2B0y2Krn3dzrAGikq67INnj1V%2FK7%2BKVVB1mQffq2jDYXFZgTWVGniqEp2c0%2FrzaPgyhMD3zeqQ05UoP7S03eOZLE2OQvknLXuO2b6YwL1Pw8IMrDxqm7SqUREc4rCI13wQkmIk2dwkj1hofjITDZZ2WDj2%2B%2BK1NFOfKGReabCVRlrgnkInATCwi1fHwvFV6AbktBGI7%2FmnjbRFCGqV3b4GdmaRUBIsPWYbiDHAS6ymMMN%2FycexcLjTTUHM8KoLqTxVMjcWhWBEPwM0DFo3XnICKOPKEzAyviS1qpxs9ydOOtbvCMlhbEH4Cs1zugoisVAgnWdM\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 339553,
+      "questionNumber": 5,
+      "questionName": "25",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>She always takes part in social activities, _____?</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 720908,
+          "label": "A",
+          "text": "doesn't she",
+          "isCorrect": true
+        },
+        {
+          "id": 720909,
+          "label": "B",
+          "text": "does she not",
+          "isCorrect": false
+        },
+        {
+          "id": 720910,
+          "label": "C",
+          "text": "does not she",
+          "isCorrect": false
+        },
+        {
+          "id": 720911,
+          "label": "D",
+          "text": "does she",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 720908,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Mệnh đề ch&iacute;nh trong c&acirc;u được chia ở thể khẳng định của th&igrave; hiện tại đơn \"<strong>takes part in</strong>\". =&gt; Phần đu&ocirc;i ở thể phủ định \"<strong>doesn't she</strong>\" (lu&ocirc;n ở dạng vi&ecirc;́t tắt).</p>\n<p>Dịch: C&ocirc; ấy lu&ocirc;n tham gia c&aacute;c hoạt động x&atilde; hội, phải kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 421835,
+      "questionNumber": 6,
+      "questionName": "Q3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I ____ play football when I was young. I'm too old and fat to play now.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 844997,
+          "label": "A",
+          "text": "would use",
+          "isCorrect": false
+        },
+        {
+          "id": 844998,
+          "label": "B",
+          "text": "got used to",
+          "isCorrect": false
+        },
+        {
+          "id": 844999,
+          "label": "C",
+          "text": "used to",
+          "isCorrect": true
+        },
+        {
+          "id": 875412,
+          "label": "D",
+          "text": "was used to",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 844999,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>used to V(inf):</strong><span style=\"font-weight: 400;\"> đ&atilde; từng, thường l&agrave;m g&igrave; trong qu&aacute; khứ (th&oacute;i<strong> </strong></span>quen trong qu&aacute; khứ) =&gt;<strong> giờ kh&ocirc;ng c&ograve;n nữa.</strong></p>\n<p>be used to + V-ing/N: đ&atilde; quen với&nbsp;</p>\n<p>get used to + V-ing/N: dần quen với&nbsp;</p>\n<p>Dịch: T&ocirc;i thường chơi b&oacute;ng khi t&ocirc;i c&ograve;n nhỏ. B&acirc;y giờ t&ocirc;i qu&aacute; gi&agrave; v&agrave; b&eacute;o để chơi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 252108,
+      "questionNumber": 7,
+      "questionName": "1. htc",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>They had a/an _____ trip on holiday last week. All of them enjoyed it.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 564298,
+          "label": "A",
+          "text": "excited",
+          "isCorrect": false
+        },
+        {
+          "id": 564299,
+          "label": "B",
+          "text": "exciting",
+          "isCorrect": true
+        },
+        {
+          "id": 564300,
+          "label": "C",
+          "text": "boring",
+          "isCorrect": false
+        },
+        {
+          "id": 564301,
+          "label": "D",
+          "text": "bored",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 564299,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Trong c&acirc;u, \"<strong>trip</strong>\"<strong> </strong>đem lại cảm gi&aacute;c thích thú cho đối tượng \"<strong>They</strong>\". =&gt; dùng tính từ đu&ocirc;i <strong>-ing</strong>.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/DL847F348953F792E4?params=U2FsdGVkX19mrUQV2l7FSV6STEz0gkQWv%2BYnbbXN8nG57HIyH%2B0ra97iML59LcEQg55FrgJ9Zy3gg%2F07pyAl7t8PKqsdGLR003lCW%2FXR%2BHyFdLhtM%2B1WvGxzUFrpCvTdOMniSMG7PHxLI9FZcflro7xOQmIwb0GpKuLKql8%2F14Yl89SLWw%2FnzClz3um1%2Bo9RC5IwcPpvRxb5EfYRCq4dbi7C1NoRvZ2dnTkKErBhS8HBIwvtWYZ1ckCOe8sg5qaq86pmFG6BNSN0xPswNqKFZpbimUpPY7zVRAuRMjaSdgqhOpQ0RpIyTYMDH5z53SpWXzRtTSWxAxfdxRoMjo1L0%2FnRM%2BCmBTydEWQSJxqFfU7doumx1Kh7j6v28MeZkE0b2%2FVHRWwD%2Bzcw5Wyql00J52lqoR%2BiNqsjLl48AVhexy%2B8gSTmmDjK%2FAjsAbRjpoENeTQDea1Pf7rrpXsdYiXANNCETsUplFWBV%2F4JYUNgUQ3v28jSZv1rgIY%2B1CmLkvXmMoAYHUqGb8e%2BzwSAsyi8lRYRIB8AoN36ego9aBIVF026bbt1MVlr6CYI3a0cu5YkeCVFeZsCqbO%2F1ajjxn7fs0az4M8g7P%2FW5IWtKa9Os6GpgfgUELBK7kvyKOVnQvbBPL7ngFeYWf0ITI1bTzymWw%3D%3D\" width=\"100%\" height=\"315\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Họ đ&atilde; c&oacute; c&oacute; một chuyến đi đầy hứng th&uacute; trong kỳ nghỉ v&agrave;o tuần trước. Tất cả họ đều tận hưởng chuyến đi đ&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 436497,
+      "questionNumber": 8,
+      "questionName": "on",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>School elections will now take place _____ November the twenty-fifth.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 875216,
+          "label": "A",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 875217,
+          "label": "B",
+          "text": "on",
+          "isCorrect": true
+        },
+        {
+          "id": 875218,
+          "label": "C",
+          "text": "at",
+          "isCorrect": false
+        },
+        {
+          "id": 875219,
+          "label": "D",
+          "text": "since",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 875217,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến cụm <em data-start=\"18\" data-end=\"47\">\"November the twenty-fifth\"</em>. Đ&acirc;y l&agrave; dấu hiệu cho thấy c&acirc;u đang nhắc đến một ng&agrave;y cụ thể. H&atilde;y nhớ lại giới từ n&agrave;o thường đi với ng&agrave;y, th&aacute;ng v&agrave; ng&agrave;y cụ thể, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Giới từ chỉ thời gian</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Giới từ chỉ thời gian được sử dụng để chỉ ra thời điểm hoặc khoảng thời gian một sự việc diễn ra. Chúng ta chọn giới từ phù hợp dựa trên loại mốc thời gian được nhắc đến.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: <span style=\"color: #1c581f;\">on + ngày cụ thể (specific date):</span></strong> vào ngày...</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Dấu hiệu then chốt trong câu là cụm từ <em>\"November the twenty-fifth\"</em>, đây là một ngày cụ thể. Theo quy tắc, giới từ <em>\"on\"</em> được sử dụng để chỉ ngày cụ thể hoặc ngày trong tuần, do đó, <em>\"on\"</em> là phương án đúng.</p>\n<p style=\"text-align: justify;\">Phương án 1 <em>\"in\"</em> không phù hợp vì <em>\"in\"</em> dùng cho tháng, năm, mùa hoặc khoảng thời gian dài hơn, không dùng cho ngày cụ thể. Phương án 3 <em>\"at\"</em> không phù hợp vì <em>\"at\"</em> dùng cho thời điểm cụ thể trong ngày hoặc các dịp lễ, không dùng cho ngày cụ thể. Phương án 4 <em>\"since\"</em> không phù hợp vì <em>\"since\"</em> dùng để chỉ thời điểm bắt đầu của một hành động kéo dài đến hiện tại, thường đi với thì hiện tại hoàn thành.</p>",
+      "answerFeedbacks": {
+        "875216": "\"In\" dùng cho tháng, năm, mùa hoặc khoảng thời gian dài, không dùng cho ngày cụ thể.",
+        "875217": "\"On\" được dùng để chỉ các ngày cụ thể hoặc ngày trong tuần, như <em>\"November the twenty-fifth\"</em>.",
+        "875218": "\"At\" dùng để chỉ thời điểm cụ thể trong ngày hoặc các dịp lễ, không dùng cho ngày cụ thể.",
+        "875219": "\"Since\" dùng để chỉ thời điểm bắt đầu của một hành động kéo dài đến hiện tại, thường đi với thì hiện tại hoàn thành."
+      },
+      "images": []
+    },
+    {
+      "id": 31838,
+      "questionNumber": 9,
+      "questionName": "Question 10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>When I left school, I ______ my hair and ______ it short ever since. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 97761,
+          "label": "A",
+          "text": "had cut/wear",
+          "isCorrect": false
+        },
+        {
+          "id": 97762,
+          "label": "B",
+          "text": "cut/have worn\n",
+          "isCorrect": true
+        },
+        {
+          "id": 97763,
+          "label": "C",
+          "text": "have cut/wore",
+          "isCorrect": false
+        },
+        {
+          "id": 97764,
+          "label": "D",
+          "text": "was cutting/was wearing",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 97762,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy chú ý đến các dấu hiệu thời gian trong câu để xác định thì phù hợp cho mỗi động từ.</p>\n<ul>\n<li>Cụm <em>\"When I left school\"</em> chỉ một thời điểm cụ thể trong quá khứ, gợi ý một thì diễn tả hành động đã hoàn tất tại thời điểm đó.</li>\n<li>Cụm từ <em>\"ever since\"</em> cho biết hành động đó bắt đầu trong quá khứ và vẫn tiếp diễn hoặc có liên quan đến hiện tại.</li>\n</ul>\n<p>Kết hợp các dấu hiệu này để chọn cặp thì chính xác cho động từ <em>\"cut\"</em> và <em>\"wear\"</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Quá khứ đơn và Thì Hiện tại Hoàn thành</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Thì Quá khứ đơn dùng để diễn tả hành động, sự việc đã xảy ra và kết thúc hoàn toàn tại một thời điểm xác định trong quá khứ. Thì Hiện tại Hoàn thành dùng để diễn tả hành động, sự việc bắt đầu trong quá khứ và còn tiếp diễn đến hiện tại, hoặc có kết quả liên quan đến hiện tại.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong></p>\n<ul>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Thì Quá khứ đơn: S + V(-ed/cột 2)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Thì Hiện tại Hoàn thành: S + have/has + V(pp)</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Ngữ cảnh <em>\"When I left school\"</em> chỉ một thời điểm cụ thể trong quá khứ, yêu cầu động từ <em>\"cut\"</em> chia ở thì Quá khứ đơn. Cụm từ <em>\"ever since\"</em> (kể từ đó) cho thấy hành động <em>\"wear\"</em> (để tóc ngắn) bắt đầu từ quá khứ và tiếp diễn đến hiện tại, do đó cần chia ở thì Hiện tại Hoàn thành. Kết hợp lại phương án 2 <em>(cut/have worn)</em> là lựa chọn phù hợp nhất.</p>",
+      "answerFeedbacks": {
+        "97761": "Sai vì <em>had cut</em> (Quá khứ Hoàn thành) không dùng để diễn tả hành động đã kết thúc tại một thời điểm cụ thể trong quá khứ như <em>\"When I left school\"</em>, và <em>wear</em> (Hiện tại đơn) không phù hợp với hành động kéo dài đến hiện tại được chỉ ra bởi <em>\"ever since\"</em>.",
+        "97762": "Đúng vì <em>cut</em> (Quá khứ đơn) diễn tả hành động cắt tóc đã xảy ra và kết thúc tại thời điểm cụ thể trong quá khứ <em>\"When I left school\"</em>, và <em>have worn</em> (Hiện tại Hoàn thành) diễn tả hành động mặc/để tóc ngắn bắt đầu từ quá khứ và kéo dài đến hiện tại <em>\"ever since\"</em>.",
+        "97763": "Sai vì <em>have cut</em> (Hiện tại Hoàn thành) không dùng cho hành động đã kết thúc tại một thời điểm cụ thể trong quá khứ <em>\"When I left school\"</em>, và <em>wore</em> (Quá khứ đơn) không phù hợp với hành động kéo dài đến hiện tại được chỉ ra bởi <em>\"ever since\"</em>.",
+        "97764": "Sai vì <em>was cutting</em> và <em>was wearing</em> (Quá khứ tiếp diễn) dùng để diễn tả hành động đang diễn ra tại một thời điểm trong quá khứ, không phù hợp với việc cắt tóc đã hoàn thành hay việc để tóc ngắn kéo dài từ quá khứ đến hiện tại."
+      },
+      "images": []
+    },
+    {
+      "id": 322701,
+      "questionNumber": 10,
+      "questionName": "3-bit (.)ly/3ldvVOU",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I wish you ____ your stuff everywhere all the time. I'm tired of tidying up after you.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 692556,
+          "label": "A",
+          "text": "hadn’t left",
+          "isCorrect": false
+        },
+        {
+          "id": 692557,
+          "label": "B",
+          "text": "wouldn’t leave",
+          "isCorrect": true
+        },
+        {
+          "id": 692558,
+          "label": "C",
+          "text": "didn’t leave",
+          "isCorrect": false
+        },
+        {
+          "id": 875423,
+          "label": "D",
+          "text": "won't leave",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 692557,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đáp án đúng cho câu ước với \"<em>I wish</em>\", bạn cần xác định rõ điều bạn muốn ước là một sự thật ở hiện tại, một điều trong quá khứ, hay một thói quen gây khó chịu ở hiện tại mà bạn muốn thay đổi.</p>\n<ul>\n<li>Trong câu, các cụm từ như \"<em>all the time</em>\" và \"<em>I'm tired of tidying up after you</em>\" cho thấy người nói đang than phiền về một thói quen lặp đi lặp lại ở hiện tại của người khác.</li>\n<li>Khi bạn muốn người khác thay đổi một thói quen gây khó chịu ở hiện tại, bạn thường dùng cấu trúc nào với \"<em>I wish</em>''.</li>\n</ul>\n<p>Hãy xem xét các phương án còn lại để loại trừ những cấu trúc ước cho quá khứ hoặc những cấu trúc không phù hợp với ngữ pháp câu ước.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu ước với \"I wish\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả mong muốn, ước muốn về một điều gì đó không có thật ở hiện tại, trong quá khứ, hoặc một điều ước muốn thay đổi một thói quen/hành động ở hiện tại mà người nói không hài lòng.</p>\n<p style=\"text-align: justify;\"><strong>Một số cấu trúc phổ biến:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">S + wish(es) + S' + would/could + V(inf):</span></strong> <span style=\"color: #000000;\">Diễn tả mong muốn một hành động/thói quen ở hiện tại thay đổi trong tương lai (thường dùng để than phiền về thói quen của người khác).</span></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">S + wish(es) + S' + V(quá khứ đơn):</span></strong> <span style=\"color: #000000;\">Diễn tả mong muốn một điều không có thật ở hiện tại (trái với sự thật ở hiện tại).</span></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">S + wish(es) + S' + V(quá khứ hoàn thành):</span></strong> <span style=\"color: #000000;\">Diễn tả mong muốn một điều không có thật ở quá khứ (trái với sự thật ở quá khứ).</span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu hỏi thể hiện sự than phiền về một thói quen xấu lặp đi lặp lại ở hiện tại (\"<em>all the time</em>\") mà người nói muốn người khác thay đổi, được nhấn mạnh bởi cụm \"<em>I'm tired of tidying up after you</em>\". Để diễn tả mong muốn thay đổi một hành động hoặc thói quen gây khó chịu ở hiện tại, cấu trúc phù hợp nhất là <em>I wish + S + would + V(inf)</em>.</p>\n<p style=\"text-align: justify;\">Phương án \"<em>didn’t leave</em>\" mặc dù cũng liên quan đến hiện tại, nhưng cấu trúc <em>wish + S + V(quá khứ đơn)</em> thường dùng để ước một sự thật nào đó không đúng, chứ ít dùng để than phiền về thói quen của người khác, \"<em>wouldn't leave</em>\" thể hiện ý muốn thay đổi hành động của người khác mạnh mẽ hơn và phù hợp hơn với sắc thái than phiền.</p>",
+      "answerFeedbacks": {
+        "692556": "Sai vì cấu trúc <em>I wish + S + V(quá khứ hoàn thành)</em> dùng để ước một điều trái với sự thật trong quá khứ, không phù hợp với ngữ cảnh than phiền về thói quen hiện tại.",
+        "692557": "Đúng vì cấu trúc <em>I wish + S + would/could + V(nguyên thể)</em> dùng để diễn tả mong muốn một hành động hoặc thói quen gây khó chịu ở hiện tại thay đổi.",
+        "692558": "Sai vì cấu trúc <em>I wish + S + V(quá khứ đơn)</em> thường dùng để ước một điều không có thật ở hiện tại, nhưng không mạnh mẽ diễn tả sự than phiền về thói quen của người khác như <em>wouldn't leave</em>.",
+        "875423": "Sai vì <em>won't</em> là dạng phủ định của thì tương lai đơn, không được sử dụng trong mệnh đề sau <em>I wish</em> để diễn tả ước muốn."
+      },
+      "images": []
+    },
+    {
+      "id": 550345,
+      "questionNumber": 11,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p dir=\"ltr\"><strong>Thomas ate _____ in his lunch bag except for the carrot. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1073601,
+          "label": "A",
+          "text": "everything",
+          "isCorrect": true
+        },
+        {
+          "id": 1073602,
+          "label": "B",
+          "text": "anything",
+          "isCorrect": false
+        },
+        {
+          "id": 1073603,
+          "label": "C",
+          "text": "somebody",
+          "isCorrect": false
+        },
+        {
+          "id": 1073604,
+          "label": "D",
+          "text": "nothing",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1073601,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Ngữ cảnh câu có cụm từ </span><em style=\"text-align: justify;\">\"except for the carrot\"</em><span style=\"text-align: justify;\">, chỉ ra một ngoại lệ hàm ý rằng Thomas đã ăn TẤT CẢ mọi thứ TRỪ củ cà rốt. </span>Bạn cần một đại từ bất định mang nghĩa <em>\"tất cả mọi thứ\"</em> để phù hợp với ngữ cảnh có ngoại lệ này.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Đại từ bất định</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Đại từ bất định dùng để chỉ người hoặc vật không xác định hoặc không cụ thể. Chúng thường được dùng thay cho danh từ để tránh lặp lại hoặc khi không cần thiết phải nêu rõ đối tượng.</p>\n<p><strong>Một số Đại từ bất định:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">everything</span></strong>: mọi thứ (dùng để chỉ toàn bộ vật/sự việc, thường trong câu khẳng định, có thể dùng với ngoại lệ)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">anything</span></strong>: bất cứ thứ gì (thường dùng trong câu phủ định, nghi vấn hoặc câu khẳng định mang nghĩa điều kiện/khả năng)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">somebody</span></strong>: ai đó (chỉ người không xác định, thường dùng trong câu khẳng định hoặc câu hỏi đề nghị/yêu cầu)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">nothing</span></strong>: không gì cả (mang nghĩa phủ định, thường dùng trong câu khẳng định để tạo nghĩa phủ định cho cả câu)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Ngữ cảnh câu có cụm từ <em>\"except for the carrot\"</em>, chỉ ra một ngoại lệ. Điều này hàm ý Thomas đã ăn TẤT CẢ mọi thứ TRỪ củ cà rốt. Phương án <em>\"everything\"</em> (mọi thứ) là phù hợp nhất để diễn tả ý nghĩa này, cho biết toàn bộ các món đồ đã được ăn ngoại trừ cà rốt.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại không phù hợp về nghĩa hoặc ngữ pháp trong đó <em>\"anything\"</em> thường dùng trong câu phủ định/nghi vấn, <em>\"somebody\"</em> chỉ người còn <em>\"nothing\"</em> mang nghĩa phủ định hoàn toàn, mâu thuẫn với việc có một ngoại lệ.</p>",
+      "answerFeedbacks": {
+        "1073601": "Đúng vì <em>\"everything\"</em> mang nghĩa \"mọi thứ\" và kết hợp với <em>\"except for\"</em> để chỉ ra một ngoại lệ từ một tập hợp toàn bộ các vật.",
+        "1073602": "Sai vì <em>\"anything\"</em> thường dùng trong câu phủ định, nghi vấn hoặc câu khẳng định mang nghĩa điều kiện/khả năng, không phù hợp với ngữ cảnh khẳng định có ngoại lệ này.",
+        "1073603": "Sai vì <em>\"somebody\"</em> là đại từ bất định chỉ người, trong khi câu đang nói về đồ vật trong túi ăn trưa.",
+        "1073604": "Sai vì <em>\"nothing\"</em> mang nghĩa phủ định \"không gì cả\", nếu dùng sẽ mâu thuẫn với việc có một ngoại lệ <em>\"except for the carrot\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 435359,
+      "questionNumber": 12,
+      "questionName": "Q25",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>T<span class=\"word\">rang</span> <span class=\"word\">is</span> <span class=\"word\">asking</span> <span class=\"word\">Ngoc</span> <span class=\"word\">for</span> <span class=\"word\">something</span> <span class=\"word\">to</span> <span class=\"word\">eat.</span>&nbsp;</em></p>\n<p><strong><span class=\"word\">-</span> <span class=\"word\">Trang:</span> <span class=\"word\">&quot;Can</span> <span class=\"word\">I</span> <span class=\"word\">have</span> <span class=\"word\">some</span> <span class=\"word\">of</span> <span class=\"word\">your</span> <span class=\"word\">popcorn?&quot;</span>&nbsp;</strong></p>\n<p><strong><span class=\"word\">-</span> <span class=\"word\">Ngoc:</span> <span class=\"word\">&quot;</span>_____&quot;&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 872170,
+          "label": "A",
+          "text": "<p>Here you go.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 872171,
+          "label": "B",
+          "text": "<p>Same to you.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 872172,
+          "label": "C",
+          "text": "<p>Don't mention it.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 872173,
+          "label": "D",
+          "text": "<p>None of your business.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 872170,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>C&acirc;u hỏi n&agrave;y đang y&ecirc;u cầu bạn chọn lời đ&aacute;p ph&ugrave; hợp khi một người bạn đang hỏi xin đồ ăn. Lời thoại của Trang l&agrave; một lời y&ecirc;u cầu lịch sự: <em>\"Can I have some of your popcorn?\"</em>.</p>\n<p>H&atilde;y t&igrave;m một cụm từ để đ&aacute;p lại lời y&ecirc;u cầu đ&oacute; bằng c&aacute;ch đưa m&oacute;n đồ được hỏi v&agrave; xem x&eacute;t &yacute; nghĩa của từng phương &aacute;n để chọn c&acirc;u trả lời tự nhi&ecirc;n nhất trong t&igrave;nh huống n&agrave;y.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span></p>\n<p style=\"text-align: justify;\">Trang hỏi xin popcorn. Ngoc cần đưa popcorn cho Trang.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 <em>\"Here you go.\"</em> (Đ&acirc;y của bạn đ&acirc;y/Đ&acirc;y nh&eacute;) l&agrave; c&aacute;ch n&oacute;i tự nhi&ecirc;n khi đưa thứ g&igrave; đ&oacute; cho người kh&aacute;c.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n kh&aacute;c kh&ocirc;ng ph&ugrave; hợp v&igrave; <em>\"Same to you.\"</em> d&ugrave;ng để đ&aacute;p lại lời ch&uacute;c, <em>\"Don't mention it.\"</em> d&ugrave;ng để đ&aacute;p lại lời cảm ơn, c&ograve;n <em>\"None of your business.\"</em> l&agrave; c&aacute;ch n&oacute;i th&ocirc; lỗ.</p>\n<p style=\"text-align: justify;\">V&igrave; vậy, phương &aacute;n 1 l&agrave; phương &aacute;n ch&iacute;nh x&aacute;c v&agrave; ph&ugrave; hợp nhất.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>Can I have...?</strong> (expr.): T&ocirc;i c&oacute; thể c&oacute;... kh&ocirc;ng? (c&aacute;ch lịch sự để y&ecirc;u cầu một thứ g&igrave; đ&oacute;)</p>\n<p style=\"text-align: justify;\"><strong>Here you go.</strong> (expr.): Của bạn đ&acirc;y/Đ&acirc;y nh&eacute;. (c&aacute;ch n&oacute;i khi đưa thứ g&igrave; đ&oacute; cho người kh&aacute;c)</p>\n<p style=\"text-align: justify;\"><strong>Same to you.</strong> (expr.): Bạn cũng vậy nh&eacute;. (d&ugrave;ng để đ&aacute;p lại lời ch&uacute;c hoặc lời khen)</p>\n<p style=\"text-align: justify;\"><strong>Don't mention it.</strong> (expr.): Kh&ocirc;ng c&oacute; g&igrave;/Đừng bận t&acirc;m. (d&ugrave;ng để đ&aacute;p lại lời cảm ơn)</p>\n<p style=\"text-align: justify;\"><strong>None of your business.</strong> (expr.): Kh&ocirc;ng phải việc của bạn. (c&aacute;ch n&oacute;i th&ocirc; lỗ khi từ chối trả lời hoặc kh&ocirc;ng muốn người kh&aacute;c can thiệp)</p>",
+      "answerFeedbacks": {
+        "872170": "<p>Cụm từ này dùng để đưa một vật gì đó cho người khác khi họ yêu cầu, rất phù hợp với ngữ cảnh Trang xin popcorn.</p>",
+        "872171": "<p>Cụm từ này dùng để đáp lại một lời chúc hoặc lời khen tương tự, không phù hợp khi đưa đồ ăn.</p>",
+        "872172": "<p>Cụm từ n&agrave;y d&ugrave;ng để đ&aacute;p lại lời cảm ơn, mang &yacute; nghĩa <em>\"kh&ocirc;ng c&oacute; g&igrave;\"</em> hoặc <em>\"đừng bận t&acirc;m\",</em> kh&ocirc;ng ph&ugrave; hợp khi đưa đồ ăn.</p>",
+        "872173": "<p>Cụm từ n&agrave;y mang &yacute; nghĩa th&ocirc; lỗ <em>\"kh&ocirc;ng phải việc của bạn\"</em>, ho&agrave;n to&agrave;n kh&ocirc;ng ph&ugrave; hợp trong ngữ cảnh n&agrave;y.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 843371,
+      "questionNumber": 13,
+      "questionName": "thông báo 6 câu",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Read the following announcement and choose the best answer for each blank.</strong></p>\n<p><strong>Stay Safe and Smart on the Streets</strong></p>\n<p>1. Always use the crosswalk when crossing busy streets.</p>\n<p>2. Watch for cyclists and motorbikes while walking on the <strong><span class='fillblank-option'><label>13.1</label><select class='ms fillblank-option-13' index='0' name='fbo-843371-0' data-testid='fillblank-select-843371-0'><option value='' data-testid='fillblank-option-empty-843371-0'></option><option value=\"bank\" data-testid='fillblank-option-843371-0-bank'>bank</option><option value=\"edge\" data-testid='fillblank-option-843371-0-edge'>edge</option><option value=\"sidewalk\" data-testid='fillblank-option-843371-0-sidewalk'>sidewalk</option><option value=\"suburb\" data-testid='fillblank-option-843371-0-suburb'>suburb</option></select></span></strong>.</p>\n<p>3. Follow the traffic lights and wait for <strong><span class='fillblank-option'><label>13.2</label><select class='ms fillblank-option-13' index='1' name='fbo-843371-1' data-testid='fillblank-select-843371-1'><option value='' data-testid='fillblank-option-empty-843371-1'></option><option value=\"Ø (no article)\" data-testid='fillblank-option-843371-1-Ø (no article)'>Ø (no article)</option><option value=\"an\" data-testid='fillblank-option-843371-1-an'>an</option><option value=\"a\" data-testid='fillblank-option-843371-1-a'>a</option><option value=\"the\" data-testid='fillblank-option-843371-1-the'>the</option></select></span></strong>&nbsp;green signal.</p>\n<p>4. Remember <strong><span class='fillblank-option'><label>13.3</label><select class='ms fillblank-option-13' index='2' name='fbo-843371-2' data-testid='fillblank-select-843371-2'><option value='' data-testid='fillblank-option-empty-843371-2'></option><option value=\"looked\" data-testid='fillblank-option-843371-2-looked'>looked</option><option value=\"looking\" data-testid='fillblank-option-843371-2-looking'>looking</option><option value=\"looks\" data-testid='fillblank-option-843371-2-looks'>looks</option><option value=\"to look\" data-testid='fillblank-option-843371-2-to look'>to look</option></select></span></strong> both ways before crossing any street.</p>\n<p>5. Use pedestrian bridges in high-traffic areas for <strong><span class='fillblank-option'><label>13.4</label><select class='ms fillblank-option-13' index='3' name='fbo-843371-3' data-testid='fillblank-select-843371-3'><option value='' data-testid='fillblank-option-empty-843371-3'></option><option value=\"safer\" data-testid='fillblank-option-843371-3-safer'>safer</option><option value=\"unsafely\" data-testid='fillblank-option-843371-3-unsafely'>unsafely</option><option value=\"unsafe\" data-testid='fillblank-option-843371-3-unsafe'>unsafe</option><option value=\"safety\" data-testid='fillblank-option-843371-3-safety'>safety</option></select></span></strong> crossing.</p>\n<p>6. Avoid using your phone while walking near traffic.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "sidewalk"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "the"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "to look"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "safer"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>1.</strong> <strong>sidewalk </strong>(n.): vỉa hè</p>\n<p>bank (n.): bờ s&ocirc;ng</p>\n<p>edge (n.): rìa; cạnh</p>\n<p>suburb (n.): vùng ngoại &ocirc;</p>\n<p><strong>2.</strong> Mạo từ \"<strong>the</strong>\" được sử dụng trước cụm danh từ đ&atilde; x&aacute;c định \"<strong>green signal</strong>\" vì v&ecirc;́ đằng trước có nhắc đ&ecirc;́n \"<strong>the traffic lights</strong>\".</p>\n<p>Mạo từ \"a\" được sử dụng trước danh từ/cụm danh từ đếm được số &iacute;t, được nhắc tới lần đầu v&agrave; c&oacute; c&aacute;ch ph&aacute;t &acirc;m bắt đầu bằng một phụ &acirc;m.</p>\n<p>Mạo từ \"an\" được sử dụng trước danh từ/cụm danh từ đếm được số &iacute;t, được nhắc tới lần đầu v&agrave; c&oacute; c&aacute;ch ph&aacute;t &acirc;m bắt đầu bằng một nguy&ecirc;n &acirc;m.</p>\n<p><strong>3.</strong> <strong>remember + to V(inf)</strong>: nhớ phải làm vi&ecirc;̣c gì</p>\n<p>remember + V-ing: nhớ là đã làm gì =&gt; kh&ocirc;ng hợp nghĩa c&acirc;u</p>\n<p><strong>4.</strong> Từ loại c&acirc;̀n đi&ecirc;̀n: t&iacute;nh từ đứng trước và b&ocirc;̉ nghĩa cho danh động từ \"<strong>crossing</strong>\".</p>\n<p><strong>safe </strong>(adj.): an toàn (\"<strong>safer</strong>\" l&agrave; dạng so s&aacute;nh hơn)</p>\n<p>safety (n.): sự an to&agrave;n</p>\n<p>unsafe (adj.): kh&ocirc;ng an toàn</p>\n<p>unsafely (adv.): (m&ocirc;̣t cách) kh&ocirc;ng an toàn</p>\n<p><strong>👉 Dịch văn bản:</strong></p>\n<table style=\"border-collapse: collapse; width: 100%; border-color: #49c015; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 99.3799%;\">\n<p style=\"text-align: justify;\"><strong>Giữ An To&agrave;n v&agrave; Tỉnh T&aacute;o Khi Tham Gia Giao Th&ocirc;ng</strong></p>\n<p style=\"text-align: justify;\">1. Lu&ocirc;n đi qua đường tại vạch sang đường khi băng qua c&aacute;c con phố đ&ocirc;ng đ&uacute;c.</p>\n<p style=\"text-align: justify;\">2. Ch&uacute; &yacute; xe đạp v&agrave; xe m&aacute;y khi đi bộ tr&ecirc;n <strong>(1) <span style=\"text-decoration: underline;\">vỉa h&egrave;</span></strong>.</p>\n<p style=\"text-align: justify;\">3. Tu&acirc;n thủ đ&egrave;n giao th&ocirc;ng v&agrave; chờ <strong>(2) <span style=\"text-decoration: underline;\">t&iacute;n hiệu đ&egrave;n xanh</span></strong>.</p>\n<p style=\"text-align: justify;\">4. Nhớ <strong>(3) <span style=\"text-decoration: underline;\">nh&igrave;n</span></strong> cả hai hướng trước khi băng qua bất kỳ con đường n&agrave;o.</p>\n<p style=\"text-align: justify;\">5. Sử dụng cầu vượt d&agrave;nh cho người đi bộ tại c&aacute;c khu vực đ&ocirc;ng xe để sang đường <strong>(4) <span style=\"text-decoration: underline;\">an to&agrave;n hơn</span></strong>.</p>\n<p style=\"text-align: justify;\">6. Tr&aacute;nh sử dụng điện thoại khi đi bộ gần khu vực c&oacute; phương tiện giao th&ocirc;ng.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 843383,
+      "questionNumber": 14,
+      "questionName": "sắp xếp câu",
+      "questionType": "Description",
+      "questionText": "<p><em>Read and do the following tasks.</em></p>\n<p><strong>One night, Jake was home alone when he heard a strange noise that came from the attic. He tried to ignore it, but the noise grew louder. _____.</strong></p>\n<p><strong>a.</strong> His heart was racing as he opened the attic door.</p>\n<p><strong>b. </strong>After he gathered&nbsp;his courage, he grabbed a flashlight and slowly climbed the stairs.</p>\n<p><strong>c. </strong>To his surprise, he found an old, dusty window swinging in the wind.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 843384,
+      "questionNumber": 15,
+      "questionName": "1.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the best way to rearrange the following sentences in order to make a meaningful paragraph.</strong></p>",
+      "passageText": "<p><em>Read and do the following tasks.</em></p>\n<p><strong>One night, Jake was home alone when he heard a strange noise that came from the attic. He tried to ignore it, but the noise grew louder. _____.</strong></p>\n<p><strong>a.</strong> His heart was racing as he opened the attic door.</p>\n<p><strong>b. </strong>After he gathered&nbsp;his courage, he grabbed a flashlight and slowly climbed the stairs.</p>\n<p><strong>c. </strong>To his surprise, he found an old, dusty window swinging in the wind.</p>",
+      "parentQuestionId": 843383,
+      "choices": [
+        {
+          "id": 1608164,
+          "label": "A",
+          "text": "a - c - b",
+          "isCorrect": false
+        },
+        {
+          "id": 1608165,
+          "label": "B",
+          "text": "c - b - a",
+          "isCorrect": false
+        },
+        {
+          "id": 1608166,
+          "label": "C",
+          "text": "b - a - c",
+          "isCorrect": true
+        },
+        {
+          "id": 1608167,
+          "label": "D",
+          "text": "b - c - a",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1608166,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\">Dịch:</p>\n<p style=\"text-align: justify;\">Một đ&ecirc;m nọ, Jake ở nh&agrave; một m&igrave;nh khi nghe thấy tiếng động lạ ph&aacute;t ra từ g&aacute;c x&eacute;p. Anh &acirc;́y cố lờ n&oacute; đi, nhưng tiếng động ng&agrave;y một lớn hơn. <strong>(b)</strong> Lấy hết can đảm, anh &acirc;́y cầm đ&egrave;n pin v&agrave; từ từ đi l&ecirc;n cầu thang. <strong>(a)</strong> Tim anh &acirc;́y đập th&igrave;nh thịch khi anh &acirc;́y mở cửa g&aacute;c x&eacute;p.<strong> (c)</strong> Thật ngạc nhi&ecirc;n, anh &acirc;́y thấy một cánh cửa sổ cũ kỹ, b&aacute;m đầy bụi đang đung đưa trong gi&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 843385,
+      "questionNumber": 16,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the best sentence that can END the text most appropriately.</strong></p>",
+      "passageText": "<p><em>Read and do the following tasks.</em></p>\n<p><strong>One night, Jake was home alone when he heard a strange noise that came from the attic. He tried to ignore it, but the noise grew louder. _____.</strong></p>\n<p><strong>a.</strong> His heart was racing as he opened the attic door.</p>\n<p><strong>b. </strong>After he gathered&nbsp;his courage, he grabbed a flashlight and slowly climbed the stairs.</p>\n<p><strong>c. </strong>To his surprise, he found an old, dusty window swinging in the wind.</p>",
+      "parentQuestionId": 843383,
+      "choices": [
+        {
+          "id": 1608168,
+          "label": "A",
+          "text": "Thirdly, he saw the window, and he returned to his bed to continue sleeping.",
+          "isCorrect": false
+        },
+        {
+          "id": 1608169,
+          "label": "B",
+          "text": "At first, he felt much calmer and less afraid of being home alone.",
+          "isCorrect": false
+        },
+        {
+          "id": 1608170,
+          "label": "C",
+          "text": "Initially, Jake made sure to close the window carefully to avoid hearing the noise again.",
+          "isCorrect": false
+        },
+        {
+          "id": 1608171,
+          "label": "D",
+          "text": "Finally, he laughed when he realized that it was just the wind causing all the noise.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1608171,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>finally</strong> (adv.): cu&ocirc;́i cùng thì... =&gt; Phương &aacute;n 4 l&agrave; c&acirc;u kết ph&ugrave; hợp nhất cho c&acirc;u chuyện.</p>\n<p>thirdly (adv.): thứ ba</p>\n<p>at first (phr.) ~ initially (adv.): đ&acirc;̀u ti&ecirc;n; ban đ&acirc;̀u</p>\n<p>Dịch:&nbsp;</p>\n<p>Một đ&ecirc;m nọ, Jake ở nh&agrave; một m&igrave;nh khi nghe thấy tiếng động lạ ph&aacute;t ra từ g&aacute;c x&eacute;p. Anh &acirc;́y cố lờ n&oacute; đi, nhưng tiếng động ng&agrave;y một lớn hơn. <strong>(b)</strong> Lấy hết can đảm, anh &acirc;́y cầm đ&egrave;n pin v&agrave; từ từ đi l&ecirc;n cầu thang. <strong>(a)</strong> Tim anh &acirc;́y đập th&igrave;nh thịch khi anh &acirc;́y mở cửa g&aacute;c x&eacute;p.<strong> (c)</strong> Thật ngạc nhi&ecirc;n, anh &acirc;́y thấy một cánh cửa sổ cũ kỹ, b&aacute;m đầy bụi đang đung đưa trong gi&oacute;. Cuối c&ugrave;ng, anh ấy cười, nhận ra rằng chỉ là gi&oacute; g&acirc;y ra tiếng ồn đ&oacute; mà th&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 436544,
+      "questionNumber": 17,
+      "questionName": "5571 / 183353",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Read the text and choose the best answer to fill in the blanks.</strong></p>\n<p style=\"text-align: center;\"><strong><span class=\"word\">Becoming</span> <span class=\"word\">a</span> <span class=\"word\">costume</span> <span class=\"word\">designer</span></strong></p>\n<p style=\"text-align: justify;\">It is <strong><span class='fillblank-option'><label>16.1</label><select class='ms fillblank-option-16' index='0' name='fbo-436544-0' data-testid='fillblank-select-436544-0'><option value='' data-testid='fillblank-option-empty-436544-0'></option><option value=\"difficult to finding\" data-testid='fillblank-option-436544-0-difficult to finding'>difficult to finding</option><option value=\"difficult to find\" data-testid='fillblank-option-436544-0-difficult to find'>difficult to find</option><option value=\"difficult of finding\" data-testid='fillblank-option-436544-0-difficult of finding'>difficult of finding</option><option value=\"find difficult to\" data-testid='fillblank-option-436544-0-find difficult to'>find difficult to</option></select></span></strong> a job in costume design as it is very popular. But if you work hard and you are good at&nbsp;it, you will do well.</p>\n<p style=\"text-align: justify;\">Costume designers research, design and prepare costumes, not only for theatres <strong><span class='fillblank-option'><label>16.2</label><select class='ms fillblank-option-16' index='1' name='fbo-436544-1' data-testid='fillblank-select-436544-1'><option value='' data-testid='fillblank-option-empty-436544-1'></option><option value=\"if not\" data-testid='fillblank-option-436544-1-if not'>if not</option><option value=\"rather than\" data-testid='fillblank-option-436544-1-rather than'>rather than</option><option value=\"no sooner\" data-testid='fillblank-option-436544-1-no sooner'>no sooner</option><option value=\"but also\" data-testid='fillblank-option-436544-1-but also'>but also</option></select></span></strong> for film and TV productions. To be a costume designer, you have to be <strong><span class='fillblank-option'><label>16.3</label><select class='ms fillblank-option-16' index='2' name='fbo-436544-2' data-testid='fillblank-select-436544-2'><option value='' data-testid='fillblank-option-empty-436544-2'></option><option value=\"pleased\" data-testid='fillblank-option-436544-2-pleased'>pleased</option><option value=\"keen\" data-testid='fillblank-option-436544-2-keen'>keen</option><option value=\"interested\" data-testid='fillblank-option-436544-2-interested'>interested</option><option value=\"excited\" data-testid='fillblank-option-436544-2-excited'>excited</option></select></span></strong> on theatre, film and drama and have a knowledge of fashion and art. You will attend meetings with directors and managers to discuss the costumes and how much money <strong><span class='fillblank-option'><label>16.4</label><select class='ms fillblank-option-16' index='3' name='fbo-436544-3' data-testid='fillblank-select-436544-3'><option value='' data-testid='fillblank-option-empty-436544-3'></option><option value=\"will being spent\" data-testid='fillblank-option-436544-3-will being spent'>will being spent</option><option value=\"will be spent\" data-testid='fillblank-option-436544-3-will be spent'>will be spent</option><option value=\"will not spend\" data-testid='fillblank-option-436544-3-will not spend'>will not spend</option><option value=\"will spend\" data-testid='fillblank-option-436544-3-will spend'>will spend</option></select></span></strong> on them. You need&nbsp;to be able to draw and work hard <strong><span class='fillblank-option'><label>16.5</label><select class='ms fillblank-option-16' index='4' name='fbo-436544-4' data-testid='fillblank-select-436544-4'><option value='' data-testid='fillblank-option-empty-436544-4'></option><option value=\"because\" data-testid='fillblank-option-436544-4-because'>because</option><option value=\"so\" data-testid='fillblank-option-436544-4-so'>so</option><option value=\"however\" data-testid='fillblank-option-436544-4-however'>however</option><option value=\"but\" data-testid='fillblank-option-436544-4-but'>but</option></select></span></strong> costumes are often produced in a very short time.</p>\n<p style=\"text-align: justify;\">There are several ways of learning how <strong><span class='fillblank-option'><label>16.6</label><select class='ms fillblank-option-16' index='5' name='fbo-436544-5' data-testid='fillblank-select-436544-5'><option value='' data-testid='fillblank-option-empty-436544-5'></option><option value=\"to be the\" data-testid='fillblank-option-436544-5-to be the'>to be the</option><option value=\"being a\" data-testid='fillblank-option-436544-5-being a'>being a</option><option value=\"to be a\" data-testid='fillblank-option-436544-5-to be a'>to be a</option><option value=\"being the\" data-testid='fillblank-option-436544-5-being the'>being the</option></select></span></strong> costume designer. Some people get a job with a company and learn while they are working. Others do a course at an art school.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "difficult to find"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "but also"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "keen"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "will be spent"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "because"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "to be a"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: left;\"><strong>1.</strong> C&acirc;́u trúc: <strong>It + to be + adj. + (for sb) + to V(inf)</strong>: vi&ecirc;̣c làm gì thì th&ecirc;́ nào</p>\n<p style=\"text-align: left;\">difficult in (doing) sth: khó làm gì =&gt; trong bài dùng giới từ \"of\" n&ecirc;n kh&ocirc;ng đúng</p>\n<p style=\"text-align: left;\"><strong>2.</strong> <strong>not only ... but also ...</strong>: kh&ocirc;ng những ... mà còn ...</p>\n<p style=\"text-align: left;\">rather than (phr.): hơn là</p>\n<p style=\"text-align: left;\">if not (phr.): n&ecirc;́u kh&ocirc;ng</p>\n<p style=\"text-align: left;\">no sooner ... than ...: ngay sau khi ... thì ...</p>\n<p style=\"text-align: left;\"><strong>3.</strong> <strong>be keen on sth</strong>: th&iacute;ch, quan t&acirc;m, hứng th&uacute; với c&aacute;i g&igrave;</p>\n<p style=\"text-align: left;\">be interested in sth: th&iacute;ch th&uacute;, quan t&acirc;m tới c&aacute;i g&igrave;</p>\n<p style=\"text-align: left;\">be excited about/at sth: h&agrave;o hứng với c&aacute;i g&igrave;</p>\n<p style=\"text-align: left;\">be pleased with/at sth: h&agrave;i l&ograve;ng với c&aacute;i g&igrave;</p>\n<p style=\"text-align: justify;\"><strong>4.</strong> Dùng \"<strong>how much money</strong>\" ở đ&acirc;y đ&ecirc;̉ đ&ecirc;̀ c&acirc;̣p đ&ecirc;́n khoản ti&ecirc;̀n.</p>\n<p style=\"text-align: justify;\">Chủ ngữ \"<strong>how much money</strong>\" kh&ocirc;ng tự thực hi&ecirc;̣n hành đ&ocirc;̣ng \"<strong>spend</strong>\" =&gt; Đ&ocirc;̣ng từ phải ở dạng bị đ&ocirc;̣ng.</p>\n<p style=\"text-align: justify;\">C&acirc;́u trúc th&ecirc;̉ bị đ&ocirc;̣ng thì tương lai đơn: <strong>S + will + be + V(pp)&nbsp;</strong></p>\n<p style=\"text-align: justify;\"><strong>5.</strong> <strong>because</strong> (conj.): bởi v&igrave;</p>\n<p style=\"text-align: justify;\">although (conj.): mặc d&ugrave;</p>\n<p style=\"text-align: justify;\">but (conj.): nhưng</p>\n<p style=\"text-align: justify;\">so (conj.): v&igrave; thế</p>\n<p style=\"text-align: justify;\"><strong>6. how to V(inf)</strong>: cách làm gì</p>\n<p style=\"text-align: justify;\">Dùng mạo từ \"<strong>a</strong>\" trước cụm danh từ chưa xác định, được nhắc đ&ecirc;́n l&acirc;̀n đ&acirc;̀u trong c&acirc;u \"<strong>costume designer</strong>\".</p>\n<p><strong>👉 Dịch văn bản:</strong></p>\n<table style=\"border-collapse: collapse; width: 100%; border-color: #49c015; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 99.3799%;\">\n<p class=\"\" style=\"text-align: center;\" data-start=\"0\" data-end=\"33\"><strong>Trở th&agrave;nh nh&agrave; thiết kế trang phục</strong></p>\n<p class=\"\" style=\"text-align: justify;\" data-start=\"35\" data-end=\"204\"><strong>(1) <span style=\"text-decoration: underline;\">Rất kh&oacute;</span></strong> để t&igrave;m được việc l&agrave;m trong lĩnh vực thiết kế trang phục v&igrave; đ&acirc;y l&agrave; một ng&agrave;nh nghề rất được ưa chuộng. Nhưng nếu bạn chăm chỉ v&agrave; c&oacute; năng khiếu, bạn sẽ l&agrave;m tốt.</p>\n<p class=\"\" style=\"text-align: justify;\" data-start=\"206\" data-end=\"731\">C&aacute;c nh&agrave; thiết kế trang phục nghi&ecirc;n cứu, thiết kế v&agrave; chuẩn bị trang phục kh&ocirc;ng chỉ cho s&acirc;n khấu <strong>(2) <span style=\"text-decoration: underline;\">m&agrave; c&ograve;n</span></strong> cho c&aacute;c sản phẩm điện ảnh v&agrave; truyền h&igrave;nh. Để trở th&agrave;nh một nh&agrave; thiết kế trang phục, bạn cần <strong>(3) <span style=\"text-decoration: underline;\">y&ecirc;u th&iacute;ch</span></strong> s&acirc;n khấu, điện ảnh v&agrave; kịch, đồng thời c&oacute; kiến thức về thời trang v&agrave; nghệ thuật. Bạn sẽ tham gia c&aacute;c cuộc họp với đạo diễn v&agrave; quản l&yacute; để thảo luận về trang phục v&agrave; số tiền <strong>(4) <span style=\"text-decoration: underline;\">sẽ được chi</span></strong> cho ch&uacute;ng. Bạn cần c&oacute; khả năng vẽ v&agrave; l&agrave;m việc chăm chỉ <strong>(5) <span style=\"text-decoration: underline;\">v&igrave;</span></strong> trang phục thường phải được ho&agrave;n th&agrave;nh trong thời gian rất ngắn.</p>\n<p class=\"\" style=\"text-align: justify;\" data-start=\"733\" data-end=\"933\">C&oacute; nhiều c&aacute;ch để học <strong>(6) <span style=\"text-decoration: underline;\">trở th&agrave;nh</span></strong> một nh&agrave; thiết kế trang phục. Một số người xin việc tại một c&ocirc;ng ty v&agrave; học hỏi trong qu&aacute; tr&igrave;nh l&agrave;m việc. Những người kh&aacute;c theo học một kh&oacute;a học tại trường nghệ thuật.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 436524,
+      "questionNumber": 18,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>You can&#8217;t speak English, so we won&#8217;t offer you the job.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 875304,
+          "label": "A",
+          "text": "We will offer you the job if you can speak English.",
+          "isCorrect": false
+        },
+        {
+          "id": 875305,
+          "label": "B",
+          "text": "If you were able to speak English, we would offer you the job.",
+          "isCorrect": true
+        },
+        {
+          "id": 875306,
+          "label": "C",
+          "text": "We would offer you the job if you are able to speak English.",
+          "isCorrect": false
+        },
+        {
+          "id": 875307,
+          "label": "D",
+          "text": "If you had spoken English, we would have offered you the job.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 875305,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> If + S + V(pt), S + would/could/should&hellip; + V(inf)...</strong></span></p>\n<p><span style=\"font-weight: 400;\"><strong>be able to V(inf)</strong>: có th&ecirc;̉ làm gì (nói v&ecirc;̀ năng lực)</span></p>\n<p><span style=\"font-weight: 400;\">Các phương án còn lại sai vì:</span></p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">We <span style=\"text-decoration: line-through;\"><strong>will offer</strong></span> you the job if you <span style=\"text-decoration: line-through;\"><strong>can speak</strong></span> English. (Thực tế l&agrave; ở cuộc phỏng v&acirc;́n n&agrave;y c&ocirc;ng ty kh&ocirc;ng đề xuất cho đối tượng c&ocirc;ng vi&ecirc;̣c n&agrave;y =&gt; kh&ocirc;ng dùng c&acirc;u đi&ecirc;̀u ki&ecirc;̣n loại 1)</span></em></li>\n<li><em><span style=\"font-weight: 400;\">We would offer you the job if you <span style=\"text-decoration: line-through;\"><strong>are able to</strong></span> speak English.</span></em></li>\n<li><em><span style=\"font-weight: 400;\">If you <span style=\"text-decoration: line-through;\"><strong>had spoken</strong></span> English, we <span style=\"text-decoration: line-through;\"><strong>would have offered</strong></span> you the job.</span></em></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Dịch: Bạn kh&ocirc;ng thể n&oacute;i tiếng Anh, v&igrave; thế ch&uacute;ng t&ocirc;i sẽ kh&ocirc;ng nhận bạn v&agrave;o l&agrave;m.</span></p>\n<p><span style=\"font-weight: 400;\">~ Nếu bạn c&oacute; thể n&oacute;i tiếng Anh, ch&uacute;ng t&ocirc;i sẽ nhận bạn v&agrave;o l&agrave;m.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 843386,
+      "questionNumber": 19,
+      "questionName": "28.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>&quot;Can I have a day off tomorrow?&quot; asked Emma.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1608172,
+          "label": "A",
+          "text": "Emma asked if she could have a day off tomorrow.",
+          "isCorrect": false
+        },
+        {
+          "id": 1608173,
+          "label": "B",
+          "text": "Emma asked if she can have a day off the next day.",
+          "isCorrect": false
+        },
+        {
+          "id": 1608174,
+          "label": "C",
+          "text": "Emma asked if could she have a day off the next day.",
+          "isCorrect": false
+        },
+        {
+          "id": 1608175,
+          "label": "D",
+          "text": "Emma asked if she could have a day off the next day.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1608175,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của dạng c&acirc;u hỏi Yes/No: <strong>S + asked (sb)/wondered/wanted to know + if/whether + S + V(l&ugrave;i th&igrave;)&nbsp;</strong>(kh&ocirc;ng đảo trợ đ&ocirc;̣ng từ/ đ&ocirc;̣ng từ to be/ đ&ocirc;̣ng từ khuy&ecirc;́t thi&ecirc;́u l&ecirc;n trước chủ ngữ)</p>\n<p>L&ugrave;i th&igrave;: \"<strong>can</strong>\" =&gt; \"<strong>could</strong>\"</p>\n<p>Đổi đại từ: \"<strong>I</strong>\" =&gt; \"<strong>she</strong>\"</p>\n<p>Đổi trạng từ: \"<strong>tomorrow</strong>\" =&gt; \"<strong>the next day</strong>\"</p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em>Emma asked if she could have a day off <span style=\"text-decoration: line-through;\"><strong>tomorrow</strong></span>.</em></li>\n<li><em>Emma asked if she <span style=\"text-decoration: line-through;\"><strong>can</strong></span> have a day off the next day.</em></li>\n<li><em>Emma asked if <span style=\"text-decoration: line-through;\"><strong>could she have</strong></span> a day off the next day.</em></li>\n</ul>\n<p>Dịch: \"T&ocirc;i c&oacute; thể nghỉ phép ng&agrave;y mai kh&ocirc;ng?\" Emma hỏi.</p>\n<p>~ Emma hỏi liệu c&ocirc; ấy c&oacute; thể nghỉ phép ng&agrave;y mai kh&ocirc;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 658361,
+      "questionNumber": 20,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>Jack / suggest / buy / bike / brother / birthday.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1269693,
+          "label": "A",
+          "text": "Jack suggested buying a new bike for his brother on his birthday.",
+          "isCorrect": true
+        },
+        {
+          "id": 1269694,
+          "label": "B",
+          "text": "Jack suggested buy a new bike to his brother at his birthday.",
+          "isCorrect": false
+        },
+        {
+          "id": 1269696,
+          "label": "C",
+          "text": "Jack suggested to buy a new bike for his brother on his birthday.",
+          "isCorrect": false
+        },
+        {
+          "id": 1269699,
+          "label": "D",
+          "text": "Jack suggested buying a new bike to his brother on his birthday.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1269693,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + suggest + V-ing + ...</strong>: đ&ecirc;̀ nghị, đ&ecirc;̀ xu&acirc;́t l&agrave;m g&igrave;</p>\n<p><strong>buy sth for sb</strong>: mua g&igrave; cho ai đ&oacute;</p>\n<p><strong>on + ng&agrave;y</strong>: v&agrave;o ng&agrave;y ...</p>\n<p>Các phương án còn lại sai vì:&nbsp;</p>\n<ul>\n<li><em>Jack suggested <span style=\"text-decoration: line-through;\"><strong>buy</strong></span> a new bike <span style=\"text-decoration: line-through;\"><strong>to</strong></span> his brother <span style=\"text-decoration: line-through;\"><strong>at</strong></span> his birthday.</em></li>\n<li><em>Jack suggested <span style=\"text-decoration: line-through;\"><strong>to buy</strong></span> a new bike for his brother on his birthday.</em></li>\n<li><em>Jack suggested buying a new bike <span style=\"text-decoration: line-through;\"><strong>to</strong></span> his brother on his birthday.</em></li>\n</ul>\n<p>Dịch: Jack đ&atilde; gợi &yacute; mua một chiếc xe đạp mới cho em trai v&agrave;o ng&agrave;y sinh nhật của cậu ấy.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 194933,
+      "questionNumber": 21,
+      "questionName": "32 ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>Mary / going / work / America / after / she / graduate.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 445706,
+          "label": "A",
+          "text": "Mary is going to work for America after she graduate.",
+          "isCorrect": false
+        },
+        {
+          "id": 445707,
+          "label": "B",
+          "text": "Mary is going working for America after she graduates.",
+          "isCorrect": false
+        },
+        {
+          "id": 445708,
+          "label": "C",
+          "text": "Mary is going to work in America after she graduate.",
+          "isCorrect": false
+        },
+        {
+          "id": 445709,
+          "label": "D",
+          "text": "Mary is going to work in America after she graduates.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 445709,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c mệnh đề chỉ thời gian trong tương lai:<strong> </strong></p>\n<p><strong>When/Before/As soon as... + S + V(s/es), S + will + V(inf) / </strong><strong>be going to + V(inf)</strong></p>\n<p><strong>work in</strong>: l&agrave;m ở đ&acirc;u</p>\n<p><strong>work for</strong>: l&agrave;m cho ai hoặc c&ocirc;ng ty n&agrave;o</p>\n<p>Chủ ngữ <strong>\"she\" </strong>ở&nbsp;ng&ocirc;i thứ 3 số &iacute;t =&gt; động từ \"<strong>graduate</strong>\" chia ở dạng s&ocirc;́ ít (th&ecirc;m s/es).</p>\n<p>Các phương án khác sai vì:</p>\n<ul>\n<li><em>Mary is going to work <span style=\"text-decoration: line-through;\"><strong>for</strong></span> America after she <span style=\"text-decoration: line-through;\"><strong>graduate</strong></span>.</em></li>\n<li><em>Mary is going <strong><span style=\"text-decoration: line-through;\">working <strong>f</strong>or</span> </strong>America after she graduates.</em></li>\n<li><em>Mary is going to work in America after she <span style=\"text-decoration: line-through;\"><strong>graduate</strong></span>.</em></li>\n</ul>\n<p>Dịch: Mary sẽ l&agrave;m việc ở Mỹ sau khi tốt nghiệp.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 138350,
+      "questionNumber": 22,
+      "questionName": "bien bao 2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What does the sign say?</strong></p>\n<p><strong><img src=\"/images/exams/545px-Vietnam_road_sign_W224_svg_946e7b0f.png\" alt width=\"164\" height=\"144\"></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 324706,
+          "label": "A",
+          "text": "Pedestrians cross the road here.",
+          "isCorrect": true
+        },
+        {
+          "id": 324707,
+          "label": "B",
+          "text": "You mustn't drive here.",
+          "isCorrect": false
+        },
+        {
+          "id": 324708,
+          "label": "C",
+          "text": "This street is for pedestrians only.",
+          "isCorrect": false
+        },
+        {
+          "id": 324709,
+          "label": "D",
+          "text": "You mustn't walk here.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 324706,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dịch:&nbsp;</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #49c015;\">✔</span> Người đi bộ qua đường ở đ&acirc;y.</strong></p>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\"><strong>✖</strong></span> Bạn kh&ocirc;ng được l&aacute;i xe ở đ&acirc;y.</p>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\"><strong>✖</strong></span> Đường n&agrave;y chỉ d&agrave;nh cho người đi bộ.</p>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\"><strong>✖</strong></span> Bạn kh&ocirc;ng được đi bộ ở đ&acirc;y.</p>",
+      "answerFeedbacks": {},
+      "images": [
+        "/images/exams/545px-Vietnam_road_sign_W224_svg_946e7b0f.png"
+      ]
+    },
+    {
+      "id": 843396,
+      "questionNumber": 23,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What does the notice say?</strong></p>\n<p><strong><img src=\"/images/exams/114_PNG_137a4b32.png\" alt width=\"300\"></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1608196,
+          "label": "A",
+          "text": "After you use books, put them back on the shelves.",
+          "isCorrect": false
+        },
+        {
+          "id": 1608197,
+          "label": "B",
+          "text": "Leave books on the table when you finish using them.",
+          "isCorrect": true
+        },
+        {
+          "id": 1608198,
+          "label": "C",
+          "text": "If you find books on tables, take them to the librarian.",
+          "isCorrect": false
+        },
+        {
+          "id": 1608199,
+          "label": "D",
+          "text": "Put the books on the shelves near where you read them.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1608197,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dịch th&ocirc;ng báo:</p>\n<p><em>Những cuốn s&aacute;ch phải được để tr&ecirc;n b&agrave;n v&agrave; kh&ocirc;ng đặt chúng lại l&ecirc;n gi&aacute; s&aacute;ch.</em></p>\n<p>Dịch đ&aacute;p &aacute;n: H&atilde;y để những quyển s&aacute;ch tr&ecirc;n b&agrave;n khi bạn sử dụng xong.</p>\n<p>❌ Phương án 1: Sau khi sử dụng s&aacute;ch, h&atilde;y đặt s&aacute;ch lại l&ecirc;n giá sách.</p>\n<p>❌ Phương án 3: Nếu bạn t&igrave;m thấy s&aacute;ch tr&ecirc;n b&agrave;n, h&atilde;y mang ch&uacute;ng đến ch&ocirc;̃ thủ thư.</p>\n<p>❌ Phương án 4: Hãy đặt s&aacute;ch l&ecirc;n giá sách gần nơi bạn đọc.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 435743,
+      "questionNumber": 24,
+      "questionName": "https://www.nduoti.cn/html/qDetail/03/g0/201408/5so5g003339913.html(180w)",
+      "questionType": "Description",
+      "questionText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qtheir\">More American people take their troubles with <strong>them </strong>on holiday, according to a new survey.</span> <span class=\"answerhighlight q1\">Although 40 percent said that the main reason for going away is to escape pressure from work, almost all said they worry more than they do at home. Only four in every 100 said that they are happy and free of care.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qnot\"><span class=\"answerhighlight q2\">The most common worry is burglary, with four out of 10 worrying about their homes being broken into while they&#8217;re <strong>abroad</strong>.</span> More than a quarter fear they will feel crazy with some other noisy and rough holiday-makers and 22 percent worry they may be attacked or their possessions will be missing. One in five think the car may break down, and the same number worry about the chances of bad weather.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qincrease\">The survey also showed that the stay-at-home Americans are no more. Three out of every five want to have a holiday abroad, a great <strong>increase </strong>from the figures only three years ago.</span> The hotel holiday is still a winner, with about one-third of all Americans preferring to go on a self-catering holiday.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 435768,
+      "questionNumber": 25,
+      "questionName": "them",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &quot;them&quot; in paragraph 1 refers to _____.</strong></p>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qtheir\">More American people take their troubles with <strong>them </strong>on holiday, according to a new survey.</span> <span class=\"answerhighlight q1\">Although 40 percent said that the main reason for going away is to escape pressure from work, almost all said they worry more than they do at home. Only four in every 100 said that they are happy and free of care.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qnot\"><span class=\"answerhighlight q2\">The most common worry is burglary, with four out of 10 worrying about their homes being broken into while they&#8217;re <strong>abroad</strong>.</span> More than a quarter fear they will feel crazy with some other noisy and rough holiday-makers and 22 percent worry they may be attacked or their possessions will be missing. One in five think the car may break down, and the same number worry about the chances of bad weather.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qincrease\">The survey also showed that the stay-at-home Americans are no more. Three out of every five want to have a holiday abroad, a great <strong>increase </strong>from the figures only three years ago.</span> The hotel holiday is still a winner, with about one-third of all Americans preferring to go on a self-catering holiday.</p>",
+      "parentQuestionId": 435743,
+      "choices": [
+        {
+          "id": 873206,
+          "label": "A",
+          "text": "people",
+          "isCorrect": false
+        },
+        {
+          "id": 873207,
+          "label": "B",
+          "text": "Americans",
+          "isCorrect": true
+        },
+        {
+          "id": 873208,
+          "label": "C",
+          "text": "pressures",
+          "isCorrect": false
+        },
+        {
+          "id": 873209,
+          "label": "D",
+          "text": "reasons",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 873207,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"color: #49c015;\"><strong>C&acirc;u hỏi: </strong></span><em>Từ \"them\" trong đoạn 1 chỉ _____.</em></p>\n<ul>\n<li>Phương &aacute;n 1: người</li>\n<li>Phương &aacute;n 2: người Mỹ</li>\n<li>Phương &aacute;n 3: &aacute;p lực</li>\n<li>Phương &aacute;n 4: l&yacute; do</li>\n</ul>\n<p><span style=\"color: #49c015;\"><strong>Th&ocirc;ng tin trả lời:</strong></span></p>\n<p>Theo một cuộc khảo s&aacute;t mới, ng&agrave;y c&agrave;ng c&oacute; nhiều <strong>người Mỹ</strong> rước th&ecirc;m phiền muộn, lo lắng v&agrave;o <strong>họ</strong> khi đi nghỉ dưỡng.</p>\n<p>=&gt; Đại từ \"<strong>them</strong>\" n&oacute;i tới đối tượng \"<strong>Americans</strong>\".</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 436578,
+      "questionNumber": 26,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>According to the text, about ______ of people are more comfortable on holiday than at home.</strong></p>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qtheir\">More American people take their troubles with <strong>them </strong>on holiday, according to a new survey.</span> <span class=\"answerhighlight q1\">Although 40 percent said that the main reason for going away is to escape pressure from work, almost all said they worry more than they do at home. Only four in every 100 said that they are happy and free of care.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qnot\"><span class=\"answerhighlight q2\">The most common worry is burglary, with four out of 10 worrying about their homes being broken into while they&#8217;re <strong>abroad</strong>.</span> More than a quarter fear they will feel crazy with some other noisy and rough holiday-makers and 22 percent worry they may be attacked or their possessions will be missing. One in five think the car may break down, and the same number worry about the chances of bad weather.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qincrease\">The survey also showed that the stay-at-home Americans are no more. Three out of every five want to have a holiday abroad, a great <strong>increase </strong>from the figures only three years ago.</span> The hotel holiday is still a winner, with about one-third of all Americans preferring to go on a self-catering holiday.</p>",
+      "parentQuestionId": 435743,
+      "choices": [
+        {
+          "id": 875465,
+          "label": "A",
+          "text": "40%",
+          "isCorrect": false
+        },
+        {
+          "id": 875466,
+          "label": "B",
+          "text": "25%",
+          "isCorrect": false
+        },
+        {
+          "id": 875467,
+          "label": "C",
+          "text": "4%",
+          "isCorrect": true
+        },
+        {
+          "id": 875468,
+          "label": "D",
+          "text": "95%",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 875467,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>C&acirc;u hỏi:</strong></span> <em>Theo văn bản, c&oacute; khoảng ______ người cảm thấy thoải m&aacute;i hơn khi đi nghỉ so với ở nh&agrave;.</em></p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1: 40%</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2: 25%</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3: 4%</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4: 95%</li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>Th&ocirc;ng tin trả lời:</strong></span></p>\n<p style=\"text-align: justify;\">Mặc d&ugrave; 40% cho biết l&yacute; do ch&iacute;nh của việc đi xa l&agrave; để tho&aacute;t khỏi &aacute;p lực c&ocirc;ng việc, nhưng hầu hết tất cả đều cho biết họ lo lắng nhiều hơn l&agrave; ở nh&agrave;. Cứ 100 người th&igrave; chỉ c&oacute; 4 người n&oacute;i rằng họ hạnh ph&uacute;c v&agrave; kh&ocirc;ng cần phải lo lắng.</p>\n<p>=&gt; Chỉ c&oacute; 4% số người đi du lịch cảm thấy an t&acirc;m.</p>\n<p>=&gt; Theo văn bản, khoảng 4% mọi người cảm thấy thoải m&aacute;i hơn trong kỳ nghỉ so với khi họ ở nh&agrave;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 843382,
+      "questionNumber": 27,
+      "questionName": "trái nghĩa",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &quot;abroad&quot; in paragraph 2 is OPPOSITE in meaning to _____.</strong></p>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qtheir\">More American people take their troubles with <strong>them </strong>on holiday, according to a new survey.</span> <span class=\"answerhighlight q1\">Although 40 percent said that the main reason for going away is to escape pressure from work, almost all said they worry more than they do at home. Only four in every 100 said that they are happy and free of care.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qnot\"><span class=\"answerhighlight q2\">The most common worry is burglary, with four out of 10 worrying about their homes being broken into while they&#8217;re <strong>abroad</strong>.</span> More than a quarter fear they will feel crazy with some other noisy and rough holiday-makers and 22 percent worry they may be attacked or their possessions will be missing. One in five think the car may break down, and the same number worry about the chances of bad weather.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qincrease\">The survey also showed that the stay-at-home Americans are no more. Three out of every five want to have a holiday abroad, a great <strong>increase </strong>from the figures only three years ago.</span> The hotel holiday is still a winner, with about one-third of all Americans preferring to go on a self-catering holiday.</p>",
+      "parentQuestionId": 435743,
+      "choices": [
+        {
+          "id": 1608160,
+          "label": "A",
+          "text": "home",
+          "isCorrect": true
+        },
+        {
+          "id": 1608161,
+          "label": "B",
+          "text": "overseas",
+          "isCorrect": false
+        },
+        {
+          "id": 1608162,
+          "label": "C",
+          "text": "outside",
+          "isCorrect": false
+        },
+        {
+          "id": 1608163,
+          "label": "D",
+          "text": "outdoor",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1608160,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 450px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX18kTChxCha8Tl8GzLanx3AuYPRmg80%2FqhDj8%2Bf2D1vF8MrAx0%2FcfezUypCm3TKswtsOqDhhpyZ7lBAsFkTiahrfjaCEDpsmlOZgeJYWQVOIqeZz%2FFF2igmAUsWqjoqaj1WQUuhsvFwsAX5T7hylZ9UVKlmo7XjJUqzbNFM%2FuLRSh6VJh3hGUGrqNHTr1rh80UqItToWaXn2oaprsWcq1iUbEm5%2FL9Ry7W7QlRvTgbXz2XZ6zE%2FffnuFoa4coSNwOY4MeHs17Y2pEHJYqldtRNOgcF9b3tQ0rnIVI03RKeArqaUsAKEL4J63aPPWISHiXXhtjXvDyRu2J2sUwKqgm%2FFSe70n9rKucPeCOTVQ6R60dWqsME6hNvQtxTWm1juruT2eQrrumUcLVEIWYaYV3qX%2B0JPLnV6lNSY21nhnYuea18AhPbPXUWk94UgPDfhRlf00LFw5na7gvw%3D%3D\" width=\"100%\" height=\"380\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Mối lo ngại phổ biến nhất l&agrave; trộm cắp, khi bốn trong số 10 người lo lắng nh&agrave; của họ bị đột nhập khi họ kh&ocirc;ng ở nhà.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 435760,
+      "questionNumber": 28,
+      "questionName": "not",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Which of the following is NOT a common worry of American holiday-makers?</strong></p>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qtheir\">More American people take their troubles with <strong>them </strong>on holiday, according to a new survey.</span> <span class=\"answerhighlight q1\">Although 40 percent said that the main reason for going away is to escape pressure from work, almost all said they worry more than they do at home. Only four in every 100 said that they are happy and free of care.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qnot\"><span class=\"answerhighlight q2\">The most common worry is burglary, with four out of 10 worrying about their homes being broken into while they&#8217;re <strong>abroad</strong>.</span> More than a quarter fear they will feel crazy with some other noisy and rough holiday-makers and 22 percent worry they may be attacked or their possessions will be missing. One in five think the car may break down, and the same number worry about the chances of bad weather.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qincrease\">The survey also showed that the stay-at-home Americans are no more. Three out of every five want to have a holiday abroad, a great <strong>increase </strong>from the figures only three years ago.</span> The hotel holiday is still a winner, with about one-third of all Americans preferring to go on a self-catering holiday.</p>",
+      "parentQuestionId": 435743,
+      "choices": [
+        {
+          "id": 873174,
+          "label": "A",
+          "text": "Having their houses stolen",
+          "isCorrect": false
+        },
+        {
+          "id": 873175,
+          "label": "B",
+          "text": "Vehicle failures",
+          "isCorrect": false
+        },
+        {
+          "id": 873176,
+          "label": "C",
+          "text": "Lack of funds",
+          "isCorrect": true
+        },
+        {
+          "id": 873177,
+          "label": "D",
+          "text": "Getting annoyed by other travelers",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 873176,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>C&acirc;u hỏi:</strong></span> <em>C&acirc;u n&agrave;o sau đ&acirc;y KH&Ocirc;NG phải l&agrave; mối lo ngại phổ biến của du kh&aacute;ch Mỹ khi đi nghỉ?</em></p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1: nh&agrave; bị trộm</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2: sự cố xe cộ</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3: thiếu tiền</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4: bị l&agrave;m phiền bởi c&aacute;c kh&aacute;ch du lịch kh&aacute;c</li>\n</ul>\n<p><span style=\"color: #49c015;\"><strong>Th&ocirc;ng tin trả lời:</strong></span></p>\n<p style=\"text-align: justify;\">Nỗi lo phổ biến nhất l&agrave; trộm cắp, cứ 10 người th&igrave; c&oacute; 4 người lo lắng về <span style=\"text-decoration: underline;\">việc nh&agrave; cửa bị đột nhập</span> khi họ kh&ocirc;ng ở nhà. Hơn một phần tư lo sợ rằng họ sẽ <span style=\"text-decoration: underline;\">ph&aacute;t đi&ecirc;n với một số kh&aacute;ch du lịch ồn &agrave;o v&agrave; th&ocirc; bạo kh&aacute;c</span> v&agrave; 22% lo lắng rằng họ c&oacute; thể bị tấn c&ocirc;ng hoặc t&agrave;i sản của họ sẽ bị mất. 1/5 cho rằng <span style=\"text-decoration: underline;\">xe c&oacute; thể bị hỏng</span>, v&agrave; con số tương tự lo lắng về khả năng thời tiết xấu.</p>\n<p>=&gt; Điều KH&Ocirc;NG phải l&agrave; nỗi lo chung của những kh&aacute;ch du lịch Mỹ: thiếu tiền.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 435746,
+      "questionNumber": 29,
+      "questionName": "increase",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &#8220;increase&#8221; in paragraph 3 is CLOSEST in meaning to _____.</strong></p>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qtheir\">More American people take their troubles with <strong>them </strong>on holiday, according to a new survey.</span> <span class=\"answerhighlight q1\">Although 40 percent said that the main reason for going away is to escape pressure from work, almost all said they worry more than they do at home. Only four in every 100 said that they are happy and free of care.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qnot\"><span class=\"answerhighlight q2\">The most common worry is burglary, with four out of 10 worrying about their homes being broken into while they&#8217;re <strong>abroad</strong>.</span> More than a quarter fear they will feel crazy with some other noisy and rough holiday-makers and 22 percent worry they may be attacked or their possessions will be missing. One in five think the car may break down, and the same number worry about the chances of bad weather.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qincrease\">The survey also showed that the stay-at-home Americans are no more. Three out of every five want to have a holiday abroad, a great <strong>increase </strong>from the figures only three years ago.</span> The hotel holiday is still a winner, with about one-third of all Americans preferring to go on a self-catering holiday.</p>",
+      "parentQuestionId": 435743,
+      "choices": [
+        {
+          "id": 873122,
+          "label": "A",
+          "text": "rise",
+          "isCorrect": true
+        },
+        {
+          "id": 873123,
+          "label": "B",
+          "text": "decline",
+          "isCorrect": false
+        },
+        {
+          "id": 873124,
+          "label": "C",
+          "text": "number",
+          "isCorrect": false
+        },
+        {
+          "id": 873125,
+          "label": "D",
+          "text": "sum",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 873122,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 450px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX18uGTIKHz3Ca58ntSyU4REKtEoPHXKQ27TZe5Y037jo7EEy9ubVdgtAX47ckzaF4D3pvrwh6TVxVfmuLOyJZopF0C5TxLoXv1z8cEwnIAGwnE7dUOCaIxerdNQndUe1EX9bt8v6ws%2Ff5KQ29rnFaQPaqYnmmU%2F4pEyzca5a3VMEkwwXKxmdkbJMwp5YH3NKbGqSR1RfUb8C%2BRL8VpV4I%2Fnqk28rEh7A%2FET05gGFF6HdhG9d79HpWcyGulcuoKi%2B4uYxI0SQ8GETclkXD8%2BXJx10orfEexvYOQjegb6tZlkXrJ4k8VZ8TebKrdR1fOy1vzS66kzkc1Xok17BKjlaSQ8GO14SZ76N8qw8UHAd4heThHnL44VHU0dbFszy1ILbK8XK2vDAoPIWBEicbS7aE%2F71C%2Fx1VcV8jLo%3D\" width=\"100%\" height=\"380\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\">Dịch: Cuộc khảo s&aacute;t cũng cho thấy rằng kh&ocirc;ng c&ograve;n những người Mỹ ở nh&agrave; nữa. Cứ 5 người th&igrave; c&oacute; 3 người muốn đi nghỉ ở nước ngo&agrave;i, một con số tăng mạnh so với con số chỉ c&aacute;ch đ&acirc;y 3 năm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 435770,
+      "questionNumber": 30,
+      "questionName": "main",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What does the passage mainly discuss?</strong></p>",
+      "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qtheir\">More American people take their troubles with <strong>them </strong>on holiday, according to a new survey.</span> <span class=\"answerhighlight q1\">Although 40 percent said that the main reason for going away is to escape pressure from work, almost all said they worry more than they do at home. Only four in every 100 said that they are happy and free of care.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qnot\"><span class=\"answerhighlight q2\">The most common worry is burglary, with four out of 10 worrying about their homes being broken into while they&#8217;re <strong>abroad</strong>.</span> More than a quarter fear they will feel crazy with some other noisy and rough holiday-makers and 22 percent worry they may be attacked or their possessions will be missing. One in five think the car may break down, and the same number worry about the chances of bad weather.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight qincrease\">The survey also showed that the stay-at-home Americans are no more. Three out of every five want to have a holiday abroad, a great <strong>increase </strong>from the figures only three years ago.</span> The hotel holiday is still a winner, with about one-third of all Americans preferring to go on a self-catering holiday.</p>",
+      "parentQuestionId": 435743,
+      "choices": [
+        {
+          "id": 873214,
+          "label": "A",
+          "text": "Drawbacks of going on a holiday",
+          "isCorrect": false
+        },
+        {
+          "id": 873215,
+          "label": "B",
+          "text": "Carefree holidays for workers",
+          "isCorrect": false
+        },
+        {
+          "id": 873216,
+          "label": "C",
+          "text": "Traveling abroad in America",
+          "isCorrect": false
+        },
+        {
+          "id": 873217,
+          "label": "D",
+          "text": "Americans' concerns on holiday",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 873217,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"color: #49c015;\"><strong>C&acirc;u hỏi:</strong></span> <em>Văn bản chủ yếu n&oacute;i về điều g&igrave;?</em></p>\n<ul>\n<li>Phương &aacute;n 1: Nhược điểm của việc đi nghỉ</li>\n<li>Phương &aacute;n 2: Kỳ nghỉ thoải m&aacute;i cho người lao động</li>\n<li>Phương &aacute;n 3: Du lịch nước ngo&agrave;i tại Mỹ</li>\n<li>Phương &aacute;n 4: Những mối lo &acirc;u của người Mỹ khi đi nghỉ dưỡng</li>\n</ul>\n<p><span style=\"color: #49c015;\"><strong>Th&ocirc;ng tin trả lời:</strong></span></p>\n<p>&Yacute; ch&iacute;nh của c&aacute;c đoạn trong b&agrave;i:</p>\n<p>- Đoạn 1 giới thiệu về việc người Mỹ lo lắng khi đi nghỉ dưỡng.</p>\n<p>- Đoạn 2 đưa ra những mối lo lắng điển h&igrave;nh của người Mỹ khi đi nghỉ dưỡng.</p>\n<p>- Đoạn 3 n&oacute;i về xu hướng du lịch gần đ&acirc;y của người Mỹ (đi chơi thay v&igrave; ở nh&agrave;).</p>\n<p>=&gt; B&agrave;i viết n&oacute;i về những mối lo &acirc;u của người Mỹ khi đi nghỉ dưỡng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 843391,
+      "questionNumber": 31,
+      "questionName": "ghép câu",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Four phrases/sentences have been removed from the text below. Choose the correct answer to complete the text. Write only the letter A-D in each blank.</strong></p>\n<table style=\"border-collapse: collapse; width: 100%; height: 18px; border-color: #2DC26B; border-style: dotted;\" border=\"1\" cellspacing=\"10\" cellpadding=\"10\">\n<tbody>\n<tr>\n<td style=\"width: 99.6981%;\">\n<p><strong>A.</strong> English is used so much everywhere in the world.</p>\n<p><strong>B. </strong>spread better understanding and friendship among countries of the world</p>\n<p><strong>C.</strong> spread ideas and knowledge to all the corners of the world</p>\n<p><strong>D. </strong>If we know English, we can go to any place or country we like.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: justify;\"><br>English is the most important language in the world today. A very large number of people understand and use English in all parts of the world.</p>\n<p style=\"text-align: justify;\">Indeed, English is very useful language. <strong><span class='fillblank-option'><label>29.1</label><input id='fbo-843391-0' class='ms fillblank-option-29' index='0' name='fbo-843391-0' type='text' size='4' autocomplete='off' data-testid='fillblank-input-843391-0' /></span></strong> We shall not find it hard to make people understand what we wish to say. English also helps us to learn all kinds of subjects. Hundreds of books are written in English every day in all countries to teach people many useful things. The English language has therefore helped to <strong><span class='fillblank-option'><label>29.2</label><input id='fbo-843391-1' class='ms fillblank-option-29' index='1' name='fbo-843391-1' type='text' size='4' autocomplete='off' data-testid='fillblank-input-843391-1' /></span></strong>. There is no subject that cannot be learned in the English language.</p>\n<p style=\"text-align: justify;\"><strong><span class='fillblank-option'><label>29.3</label><input id='fbo-843391-2' class='ms fillblank-option-29' index='2' name='fbo-843391-2' type='text' size='4' autocomplete='off' data-testid='fillblank-input-843391-2' /></span></strong> Therefore, it has helped to make the countries of the world become more friendly with one another. The leaders of the world use English to understand one another. The English language has therefore also helped to <strong><span class='fillblank-option'><label>29.4</label><input id='fbo-843391-3' class='ms fillblank-option-29' index='3' name='fbo-843391-3' type='text' size='3' autocomplete='off' data-testid='fillblank-input-843391-3' /></span></strong>. Lastly, a person who knows English is respected by people. It is for all these reasons that I want to learn English.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "D"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "C"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "A"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "B"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Đoạn 2 đang nói v&ecirc;̀ tác dụng của ti&ecirc;́ng Anh trong vi&ecirc;̣c giao ti&ecirc;́p và học t&acirc;̣p.</p>\n<p>Cần điền một c&acirc;u ho&agrave;n chỉnh v&agrave;o chỗ trống (1) v&igrave; ph&iacute;a trước v&agrave; ph&iacute;a sau n&oacute; l&agrave; một c&acirc;u ho&agrave;n chỉnh.</p>\n<p>Dịch: Thật vậy, tiếng Anh l&agrave; ng&ocirc;n ngữ rất hữu &iacute;ch. <span style=\"text-decoration: underline;\">Nếu ch&uacute;ng ta biết tiếng Anh, ch&uacute;ng ta c&oacute; thể đến bất kỳ nơi n&agrave;o hoặc quốc gia n&agrave;o ch&uacute;ng ta th&iacute;ch.</span> Ch&uacute;ng ta sẽ kh&ocirc;ng thấy kh&oacute; khăn khi l&agrave;m cho mọi người hiểu những g&igrave; ch&uacute;ng ta muốn n&oacute;i.</p>\n<p>2. Cần điền một cụm từ v&agrave;o chỗ trống (2) v&igrave; ph&iacute;a trước n&oacute; l&agrave; th&ocirc;ng tin trong c&ugrave;ng một c&acirc;u (kh&ocirc;ng viết hoa).</p>\n<p>Dịch: Tiếng Anh cũng gi&uacute;p ch&uacute;ng ta học được nhiều m&ocirc;n học. H&agrave;ng trăm cuốn s&aacute;ch được viết bằng tiếng Anh mỗi ng&agrave;y ở mọi quốc gia để dạy cho mọi người nhiều điều bổ &iacute;ch. Do đ&oacute;, tiếng Anh đ&atilde; gi&uacute;p <span style=\"text-decoration: underline;\">truyền b&aacute; &yacute; tưởng v&agrave; kiến ​​thức đến mọi ng&oacute;c ng&aacute;ch tr&ecirc;n thế giới</span>. Kh&ocirc;ng c&oacute; m&ocirc;n học n&agrave;o kh&ocirc;ng thể học được bằng tiếng Anh.</p>\n<p>3. Đoạn 3 nói v&ecirc;̀ vi&ecirc;̣c ti&ecirc;́ng Anh giúp các qu&ocirc;́c gia h&ocirc;̣i nh&acirc;̣p và ngoại giao với nhau.</p>\n<p>Cần điền một c&acirc;u ho&agrave;n chỉnh v&agrave;o chỗ trống (3) v&igrave; ph&iacute;a sau n&oacute; l&agrave; một c&acirc;u ho&agrave;n chỉnh.</p>\n<p>Dịch: <span style=\"text-decoration: underline;\">Tiếng Anh được sử dụng rất nhiều ở khắp mọi nơi tr&ecirc;n thế giới.</span> Do đ&oacute;, n&oacute; đ&atilde; gi&uacute;p c&aacute;c quốc gia tr&ecirc;n thế giới trở n&ecirc;n th&acirc;n thiện hơn với nhau.</p>\n<p>4. Cần điền một cụm từ v&agrave;o chỗ trống (4) v&igrave; ph&iacute;a sau n&oacute; l&agrave; th&ocirc;ng tin trong c&ugrave;ng một c&acirc;u (kh&ocirc;ng viết hoa). <em>(Kh&ocirc;ng th&ecirc;̉ dùng c&acirc;u D ở ch&ocirc;̃ tr&ocirc;́ng này vì chủ ngữ \"we\" kh&ocirc;ng phù hợp trong văn cảnh)</em></p>\n<p>Dịch: C&aacute;c nh&agrave; l&atilde;nh đạo thế giới sử dụng tiếng Anh để hiểu nhau. Do đ&oacute;, tiếng Anh cũng gi&uacute;p <span style=\"text-decoration: underline;\">lan tỏa sự hiểu biết v&agrave; t&igrave;nh hữu nghị tốt hơn giữa c&aacute;c quốc gia tr&ecirc;n thế giới</span>. Cuối c&ugrave;ng, một người biết tiếng Anh được mọi người t&ocirc;n trọng. V&igrave; tất cả những l&yacute; do n&agrave;y m&agrave; t&ocirc;i muốn học tiếng Anh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

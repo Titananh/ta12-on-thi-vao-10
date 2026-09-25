@@ -1,0 +1,27 @@
+{
+  "topicId": 160,
+  "topicName": "Câu tường thuật",
+  "englishName": "Reported Speech",
+  "rules": [
+    {
+      "rule": "Quy tắc chung khi chuyển sang câu gián tiếp: Đổi ngôi, Lùi thì, Đổi trạng từ chỉ thời gian và nơi chốn.",
+      "formula": "HTĐ -> QKĐ // HTTD -> QKTD // QKĐ/HTHT -> QKHT // will -> would // can -> could // must -> had to",
+      "examples": "\"I am tired now,\" she said -> She said that she was tired then."
+    },
+    {
+      "rule": "Câu hỏi gián tiếp: Tuyệt đối KHÔNG đảo ngữ, đưa về trật tự khẳng định (S + V).",
+      "formula": "Yes/No: S + asked + (O) + IF / WHETHER + S + V(lùi thì) // Wh-: S + asked + (O) + Wh-word + S + V(lùi thì)",
+      "examples": "\"Do you like tea?\" -> He asked me if I liked tea. / \"Where do you live?\" -> She asked where I lived."
+    },
+    {
+      "rule": "Câu mệnh lệnh, yêu cầu gián tiếp:",
+      "formula": "S + told / asked + O + (not) TO V-inf",
+      "examples": "\"Please turn off the lights,\" the teacher said -> The teacher asked us to turn off the lights."
+    },
+    {
+      "rule": "Cấu trúc với động từ tường thuật đặc biệt SUGGEST:",
+      "formula": "suggest + V-ing // suggest that + S + (should) + V-inf",
+      "examples": "He suggested going for a walk. / The doctor suggested that she (should) take a rest."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "topicId": 68,
+  "topicName": "Đuôi \"ed\"",
+  "englishName": "\"ed\" ending",
+  "infographicImage": "/images/theories/duoi-ed.png",
+  "rules": [
+    {
+      "sound": "/ɪd/",
+      "rule": "Phát âm là /ɪd/ khi động từ kết thúc bằng âm /t/ hoặc /d/ (mẹo nhớ: 'tiền đô').",
+      "examples": "wanted /ˈwɒntɪd/, needed /ˈniːdɪd/, decided /dɪˈsaɪdɪd/, invited /ɪnˈvaɪtɪd/, painted /ˈpeɪntɪd/"
+    },
+    {
+      "sound": "/t/",
+      "rule": "Phát âm là /t/ khi động từ kết thúc bằng các âm vô thanh: /p/, /k/, /f/, /s/, /ʃ/ (sh), /tʃ/ (ch) (mẹo nhớ: 'phải kính phục sư phụ chất').",
+      "examples": "stopped /stɒpt/, looked /lʊkt/, laughed /lɑːft/, washed /wɒʃt/, watched /wɒtʃt/, missed /mɪst/, fixed /fɪkst/"
+    },
+    {
+      "sound": "/d/",
+      "rule": "Phát âm là /d/ khi động từ kết thúc bằng các âm hữu thanh còn lại (nguyên âm và các phụ âm hữu thanh /b, ɡ, v, z, m, n, ŋ, l, r, ð/).",
+      "examples": "played /pleɪd/, cleaned /kliːnd/, lived /lɪvd/, opened /ˈəʊpənd/, rained /reɪnd/, loved /lʌvd/"
+    },
+    {
+      "sound": "Đặc biệt",
+      "rule": "Một số tính từ kết thúc bằng '-ed' luôn phát âm là /ɪd/ bất kể âm tận cùng.",
+      "examples": "naked /ˈneɪkɪd/ (khỏa thân), wicked /ˈwɪkɪd/ (độc ác), crooked /ˈkrʊkɪd/ (cong queo), learned /ˈlɜːnɪd/ (uyên bác), blessed /ˈblesɪd/ (may mắn/thiêng liêng)"
+    }
+  ]
+}

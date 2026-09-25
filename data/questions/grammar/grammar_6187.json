@@ -1,0 +1,1043 @@
+{
+  "quizId": 6187,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 40: Expressing contrast (Từ/ Cụm từ chỉ sự tương phản)",
+  "totalQuestions": 26,
+  "questions": [
+    {
+      "id": 903744,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ho&#224;n th&#224;nh c&#225;c c&#226;u:</strong></p>\n<p>1. Ch&#250;ng ta <span class='fillblank-option'><label>1.1</label><select class='ms fillblank-option-1' index='0' name='fbo-903744-0' data-testid='fillblank-select-903744-0'><option value='' data-testid='fillblank-option-empty-903744-0'></option><option value=\"có thể\" data-testid='fillblank-option-903744-0-có thể'>có thể</option><option value=\"không thể\" data-testid='fillblank-option-903744-0-không thể'>không thể</option></select></span> thay &#273;&#7893;i th&#7913; t&#7921; c&#7911;a c&#225;c m&#7879;nh &#273;&#7873; v&#7899;i &quot;but&quot; ho&#7863;c &quot;yet&quot;.</p>\n<p>2. &quot;but&quot; v&#224; &quot;yet&quot; &#273;&#7913;ng <span class='fillblank-option'><label>1.2</label><select class='ms fillblank-option-1' index='1' name='fbo-903744-1' data-testid='fillblank-select-903744-1'><option value='' data-testid='fillblank-option-empty-903744-1'></option><option value=\"ở đầu\" data-testid='fillblank-option-903744-1-ở đầu'>ở đầu</option><option value=\"ở giữa\" data-testid='fillblank-option-903744-1-ở giữa'>ở giữa</option></select></span> c&#226;u.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "không thể"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "ở giữa"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/4_-_Copy_1_53825184.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 903749,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ho&#224;n th&#224;nh c&#225;c c&#226;u:</strong></p>\n<p>1. &quot;although&quot;, &quot;though&quot; v&#224; &quot;even though&quot; bi&#7875;u th&#7883; <span class='fillblank-option'><label>2.1</label><select class='ms fillblank-option-2' index='0' name='fbo-903749-0' data-testid='fillblank-select-903749-0'><option value='' data-testid='fillblank-option-empty-903749-0'></option><option value=\"ý nghĩa giống nhau\" data-testid='fillblank-option-903749-0-ý nghĩa giống nhau'>ý nghĩa giống nhau</option><option value=\"ý nghĩa khác nhau\" data-testid='fillblank-option-903749-0-ý nghĩa khác nhau'>ý nghĩa khác nhau</option></select></span>.</p>\n<p>2. <span class='fillblank-option'><label>2.2</label><select class='ms fillblank-option-2' index='1' name='fbo-903749-1' data-testid='fillblank-select-903749-1'><option value='' data-testid='fillblank-option-empty-903749-1'></option><option value=\"'though'\" data-testid='fillblank-option-903749-1-'though''>'though'</option><option value=\"'although'\" data-testid='fillblank-option-903749-1-'although''>'although'</option></select></span> th&#432;&#7901;ng d&#249;ng nhi&#7873;u h&#417;n trong n&#243;i, trong khi <span class='fillblank-option'><label>2.3</label><select class='ms fillblank-option-2' index='2' name='fbo-903749-2' data-testid='fillblank-select-903749-2'><option value='' data-testid='fillblank-option-empty-903749-2'></option><option value=\"'though'\" data-testid='fillblank-option-903749-2-'though''>'though'</option><option value=\"'although'\" data-testid='fillblank-option-903749-2-'although''>'although'</option></select></span> th&#432;&#7901;ng d&#249;ng nhi&#7873;u h&#417;n trong vi&#7871;t.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "ý nghĩa giống nhau"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "'though'"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "'although'"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/6_343fab82.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 903753,
+      "questionNumber": 3,
+      "questionName": "2",
+      "questionType": "Matching",
+      "questionText": "<p><strong>N&#7889;i t&#7915;/c&#7909;m t&#7915; v&#7899;i c&#225;ch d&#249;ng &#273;&#250;ng.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/9_081c7204.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 439128,
+      "questionNumber": 4,
+      "questionName": "5",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Complete the sentences with some expressions of contrast.</strong></p>\n<p>1. <span class='fillblank-option'><label>4.1</label><input id='fbo-439128-0' class='ms fillblank-option-4' index='0' name='fbo-439128-0' type='text' size='23' autocomplete='off' data-testid='fillblank-input-439128-0' /></span> that the sun has been shining all day, the snow has not yet melted.</p>\n<p>2. Much <span class='fillblank-option'><label>4.2</label><input id='fbo-439128-1' class='ms fillblank-option-4' index='1' name='fbo-439128-1' type='text' size='5' autocomplete='off' data-testid='fillblank-input-439128-1' /></span> I would like to stay, I really must go home.</p>\n<p>3. <span class='fillblank-option'><label>4.3</label><input id='fbo-439128-2' class='ms fillblank-option-4' index='2' name='fbo-439128-2' type='text' size='9' autocomplete='off' data-testid='fillblank-input-439128-2' /></span> his complaining, I think he actually enjoyed the day.</p>\n<p>4. I get 25 days holiday a year <span class='fillblank-option'><label>4.4</label><input id='fbo-439128-3' class='ms fillblank-option-4' index='3' name='fbo-439128-3' type='text' size='8' autocomplete='off' data-testid='fillblank-input-439128-3' /></span> she gets over 50.</p>\n<p>5. My husband likes classical music - I, on <span class='fillblank-option'><label>4.5</label><input id='fbo-439128-4' class='ms fillblank-option-4' index='4' name='fbo-439128-4' type='text' size='18' autocomplete='off' data-testid='fillblank-input-439128-4' /></span>, like all kinds.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1716893,
+          "label": "A",
+          "text": "while",
+          "isCorrect": false
+        },
+        {
+          "id": 1716892,
+          "label": "B",
+          "text": "For all",
+          "isCorrect": false
+        },
+        {
+          "id": 1716894,
+          "label": "C",
+          "text": "the other hand",
+          "isCorrect": false
+        },
+        {
+          "id": 1716891,
+          "label": "D",
+          "text": "as",
+          "isCorrect": false
+        },
+        {
+          "id": 1716890,
+          "label": "E",
+          "text": "In spite of the fact",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "In spite of the fact"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "as"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "For all"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "while"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "the other hand"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. <strong>in spite of the fact that + S + V</strong>: cho d&ugrave;</p>\n<p>Dịch: D&ugrave; trời nắng cả ng&agrave;y, tuyết vẫn chưa tan.</p>\n<p>2. <strong>much</strong> <strong>as </strong>(conj.): mặc d&ugrave;</p>\n<p>Dịch: D&ugrave; t&ocirc;i muốn ở lại, t&ocirc;i thực sự phải về rồi.</p>\n<p>3.<strong> for all + N</strong>: mặc cho</p>\n<p>Dịch: D&ugrave; c&oacute; ph&agrave;n n&agrave;n, t&ocirc;i nghĩ anh ấy thực ra rất th&iacute;ch ng&agrave;y h&ocirc;m nay.</p>\n<p>4. <strong>while</strong> (conj.): trong khi&nbsp;</p>\n<p>Dịch: T&ocirc;i c&oacute; 25 ng&agrave;y nghỉ một năm trong khi c&ocirc; ấy c&oacute; hơn 50 ng&agrave;y.</p>\n<p>5. <strong>on the other hand </strong>(phr.): mặt kh&aacute;c</p>\n<p>Dịch: Chồng t&ocirc;i th&iacute;ch nhạc cổ điển - mặt kh&aacute;c, t&ocirc;i th&iacute;ch tất cả c&aacute;c thể loại.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 44277,
+      "questionNumber": 5,
+      "questionName": "Q 11.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ Jane has an exam tomorrow, she is still watching TV.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 128363,
+          "label": "A",
+          "text": "Though",
+          "isCorrect": true
+        },
+        {
+          "id": 128364,
+          "label": "B",
+          "text": "However",
+          "isCorrect": false
+        },
+        {
+          "id": 128365,
+          "label": "C",
+          "text": "Therefore",
+          "isCorrect": false
+        },
+        {
+          "id": 128366,
+          "label": "D",
+          "text": "Even",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 128363,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Để chọn từ đ&uacute;ng, bạn cần xem x&eacute;t <strong>mối quan hệ ngữ nghĩa</strong> giữa hai mệnh đề (tương phản, kết quả, hay bổ sung) v&agrave; <strong>cấu tr&uacute;c ngữ ph&aacute;p</strong> m&agrave; từ đ&oacute; y&ecirc;u cầu. Cụ thể, h&atilde;y x&aacute;c định xem chỗ trống cần một <em>subordinating conjunction</em> (nối mệnh đề phụ với mệnh đề ch&iacute;nh) hay một <em>conjunctive adverb</em> (nối hai mệnh đề độc lập hoặc hai c&acirc;u).</p>\n<p style=\"text-align: justify;\">Trong c&acirc;u n&agrave;y, hai mệnh đề <em>\"Jane has an exam tomorrow\"</em> v&agrave; <em>\"she is still watching TV\"</em> thể hiện mối quan hệ g&igrave;? V&agrave; từ cần điền đứng trước một mệnh đề ho&agrave;n chỉnh (S + V) m&agrave; kh&ocirc;ng c&oacute; dấu c&acirc;u n&agrave;o ngăn c&aacute;ch.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 525px; height: 270px;\"><iframe width=\"100%\" height=\"270\" style=\"border: none;\" id=\"embed-frame-EE535\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FUFejdf5p9r9QIlmIgql4cs7j7%2FT7zQe5eu2vVKcWI0UPKeTcmz89e9EaA%2BFNCmLVoaML5ZJXToecQvuFeS3NM6jVmTeijwM9a2%2FUl2oxo7MKBG53kLyR6jRKYHsm5qWgMa2M9tGSqCwYhB5ZZqivJ0Cs7yOW6a9RazoP2Ez5ZU37lGjjdFu28ur4yqlZ%2BkOYmEEtyNuaCS3clgSFnutWh2O9jJyeckQftYmyah5rpYtN6kVFMed4pQ6DlsibphKCSsJyNWTkGkyJILCRKcpFL%2F5cCskyFUQJemN3RwcpuZgN%2Fvm1LlFcxxfifTzAhxC%2BF4LmgNMYR%2BsjIt3waDYX5HFEJSuNJjSv9WPDyS4OsdJLLC%2F5%2FH2YRf2daRsm%2FkTiOGQMLg6N%2F4Q%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ v&agrave; trạng từ li&ecirc;n kết chỉ sự tương phản, nhượng bộ v&agrave; kết quả.</span></p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c từ n&agrave;y được sử dụng để nối c&aacute;c c&acirc;u hoặc mệnh đề, thể hiện mối quan hệ logic giữa ch&uacute;ng như sự đối lập, nhượng bộ hoặc hệ quả. Việc lựa chọn từ ph&ugrave; hợp phụ thuộc v&agrave;o ngữ cảnh v&agrave; cấu tr&uacute;c ngữ ph&aacute;p theo sau.</p>\n<p style=\"text-align: justify;\"><strong>Một số cấu tr&uacute;c với li&ecirc;n từ v&agrave; trạng từ li&ecirc;n kết:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Though / Although / Even though + S + V, S + V:</span></strong> mặc d&ugrave;, d&ugrave; cho</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">However, S + V. (hoặc S + V; however, S + V.):</span></strong> tuy nhi&ecirc;n</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Therefore, S + V. (hoặc S + V; therefore, S + V.):</span></strong> do đ&oacute;, v&igrave; vậy</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi y&ecirc;u cầu điền một từ v&agrave;o chỗ trống để nối hai mệnh đề: <em>\"Jane has an exam tomorrow\"</em> v&agrave; <em>\"she is still watching TV\"</em>. Hai mệnh đề n&agrave;y thể hiện mối quan hệ tương phản hoặc nhượng bộ (c&oacute; b&agrave;i kiểm tra nhưng vẫn xem TV). Chỗ trống đứng đầu c&acirc;u, trước một mệnh đề ho&agrave;n chỉnh (S + V). Trong c&aacute;c phương &aacute;n, <em>\"Though\"</em> l&agrave; li&ecirc;n từ phụ thuộc ph&ugrave; hợp nhất để giới thiệu mệnh đề nhượng bộ, theo sau bởi một mệnh đề (S + V).</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n <em>\"However\"</em> v&agrave; <em>\"Therefore\"</em> l&agrave; trạng từ li&ecirc;n kết, cần đứng giữa hai c&acirc;u hoặc hai mệnh đề độc lập v&agrave; thường theo sau bởi dấu phẩy c&ograve;n <em>\"Even\"</em> l&agrave; trạng từ nhấn mạnh, kh&ocirc;ng c&oacute; chức năng nối mệnh đề.</p>",
+      "answerFeedbacks": {
+        "128363": "Đúng vì <em>Though</em> là liên từ phụ thuộc, theo sau là một mệnh đề (S + V) để diễn tả sự tương phản, phù hợp với ngữ cảnh câu.",
+        "128364": "Sai vì <em>However</em> là trạng từ liên kết, cần đứng giữa hai câu hoặc hai mệnh đề độc lập, thường theo sau bởi dấu phẩy, không đứng trực tiếp trước mệnh đề phụ thuộc.",
+        "128365": "Sai vì <em>Therefore</em> là trạng từ liên kết dùng để chỉ kết quả, không phải sự tương phản, và cũng không đứng trực tiếp trước mệnh đề phụ thuộc.",
+        "128366": "Sai vì <em>Even</em> là trạng từ nhấn mạnh, không có chức năng nối hai mệnh đề như một liên từ."
+      },
+      "images": []
+    },
+    {
+      "id": 78956,
+      "questionNumber": 6,
+      "questionName": "Question 16:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I passed the exam in spite of _____ no revision!</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 195830,
+          "label": "A",
+          "text": "doing",
+          "isCorrect": true
+        },
+        {
+          "id": 195831,
+          "label": "B",
+          "text": "I did",
+          "isCorrect": false
+        },
+        {
+          "id": 195832,
+          "label": "C",
+          "text": "to do",
+          "isCorrect": false
+        },
+        {
+          "id": 195833,
+          "label": "D",
+          "text": "I had done",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 195830,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y nhớ rằng sau cụm giới từ <em>\"in spite of\"</em> hoặc <em>\"despite\"</em>, ch&uacute;ng ta thường sử dụng một danh từ (noun) hoặc một danh động từ. Xem x&eacute;t c&aacute;c lựa chọn để t&igrave;m h&igrave;nh thức động từ ph&ugrave; hợp với cấu tr&uacute;c n&agrave;y.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><strong>Từ/Cụm từ chỉ sự tương phản, nhượng bộ</strong></span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c cụm từ n&agrave;y d&ugrave;ng để diễn tả sự tương phản giữa hai mệnh đề hoặc &yacute; tưởng, khi một h&agrave;nh động hoặc t&igrave;nh huống xảy ra bất chấp một yếu tố cản trở n&agrave;o đ&oacute;.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">In spite of / Despite</span><span style=\"color: #1c581f;\"> + Noun/V-ing</span></strong></li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Although / Though / Even though</span><span style=\"color: #1c581f;\"> + S +V</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u hỏi, cụm từ <em>\"in spite of\"</em> cần theo sau bởi một danh từ hoặc một động từ ở dạng V-ing (danh động từ). Phương &aacute;n \"<em>doing</em>\" l&agrave; dạng V-ing, ph&ugrave; hợp với cấu tr&uacute;c ngữ ph&aacute;p n&agrave;y.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n \"<em>I did</em>\" v&agrave; \"<em>I had done</em>\" l&agrave; c&aacute;c mệnh đề c&oacute; chủ ngữ v&agrave; động từ chia th&igrave;, kh&ocirc;ng thể đứng trực tiếp sau <em>\"in spite of\"</em>. Phương &aacute;n \"<em>to do</em>\" l&agrave; dạng động từ nguy&ecirc;n mẫu c&oacute; <em>\"to\"</em>, cũng kh&ocirc;ng ph&ugrave; hợp sau <em>\"in spite of\"</em>.</p>",
+      "answerFeedbacks": {
+        "195830": "Sau <em>\"in spite of\"</em>, động từ cần ở dạng V-ing (gerund) để tạo thành một cụm danh động từ.",
+        "195831": "Đây là một mệnh đề hoàn chỉnh (S + V) và không thể đứng trực tiếp sau giới từ kép <em>\"in spite of\"</em>.",
+        "195832": "Động từ nguyên mẫu có <em>\"to\"</em> (infinitive) không được sử dụng trực tiếp sau giới từ kép <em>\"in spite of\"</em>.",
+        "195833": "Đây là một mệnh đề hoàn chỉnh (S + V) ở thì quá khứ hoàn thành và không thể đứng trực tiếp sau giới từ kép <em>\"in spite of\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 4445,
+      "questionNumber": 7,
+      "questionName": "Much as",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ I love you, I can&#8217;t let you do whatever you like.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 10272,
+          "label": "A",
+          "text": "Whatever",
+          "isCorrect": false
+        },
+        {
+          "id": 10273,
+          "label": "B",
+          "text": "Whether",
+          "isCorrect": false
+        },
+        {
+          "id": 10274,
+          "label": "C",
+          "text": "Despite",
+          "isCorrect": false
+        },
+        {
+          "id": 10275,
+          "label": "D",
+          "text": "Much as",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 10275,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn từ/cụm từ th&iacute;ch hợp, h&atilde;y xem x&eacute;t cấu tr&uacute;c ngữ ph&aacute;p của phần theo sau chỗ trống <em>\"I love you\"</em> l&agrave; một mệnh đề gồm chủ ngữ (S) v&agrave; động từ (V).</p>\n<p>Bạn cần một li&ecirc;n từ hoặc cụm từ c&oacute; thể kết nối hai mệnh đề v&agrave; diễn tả mối quan hệ nhượng bộ (mặc d&ugrave;...). H&atilde;y nhớ lại c&aacute;ch sử dụng c&aacute;c cấu tr&uacute;c chỉ sự tương phản v&agrave; nhượng bộ v&agrave; t&igrave;m cụm từ trong c&aacute;c lựa chọn c&oacute; cấu tr&uacute;c ph&ugrave; hợp với <em>\"S + V\"</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ v&agrave; cụm từ chỉ sự tương phản, nhượng bộ</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c li&ecirc;n từ v&agrave; cụm từ n&agrave;y d&ugrave;ng để nối hai mệnh đề hoặc &yacute; tưởng c&oacute; nội dung đối lập hoặc nhượng bộ nhau, thường l&agrave; khi một &yacute; tưởng được chấp nhận nhưng một &yacute; tưởng kh&aacute;c vẫn đ&uacute;ng bất chấp &yacute; tưởng thứ nhất.</p>\n<p style=\"text-align: justify;\"><strong>Một số cấu tr&uacute;c phổ biến:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Much as + S + V:</strong> Mặc d&ugrave; rất...</li>\n<li style=\"text-align: justify;\"><strong>Despite / In spite of + N/V-ing:</strong> Mặc d&ugrave;...</li>\n<li style=\"text-align: justify;\"><strong>Although / Though / Even though + S + V:</strong> Mặc d&ugrave;...</li>\n<li style=\"text-align: justify;\"><strong>Whatever / No matter what + S + V:</strong> D&ugrave; bất cứ điều g&igrave;...</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p class=\"PDq2pG_selectionAnchorContainer\" data-start=\"38\" data-end=\"303\">C&acirc;u cần một từ/cụm từ nối hai mệnh đề <em data-start=\"76\" data-end=\"90\">\"I love you\"</em> v&agrave; <em data-start=\"94\" data-end=\"134\">\"I can't let you do whatever you like\"</em> để diễn tả sự nhượng bộ. Mệnh đề sau chỗ trống l&agrave; S + V, n&ecirc;n đ&aacute;p &aacute;n phải l&agrave; cụm từ c&oacute; thể theo sau bởi một mệnh đề. <em data-start=\"255\" data-end=\"266\">\"Much as\"</em> ph&ugrave; hợp v&igrave; c&oacute; nghĩa l&agrave; \"mặc d&ugrave; rất\".</p>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p data-start=\"308\" data-end=\"560\" data-is-last-node=\"\">Phương &aacute;n 1 <em data-start=\"321\" data-end=\"333\">\"Whatever\"</em> v&agrave; phương &aacute;n 2&nbsp;<em data-start=\"351\" data-end=\"362\">\"Whether\"</em> kh&ocirc;ng diễn tả quan hệ nhượng bộ trong ngữ cảnh n&agrave;y. Phương &aacute;n 3&nbsp;<em data-start=\"429\" data-end=\"440\">\"Despite\"</em>&nbsp;l&agrave; giới từ n&ecirc;n phải theo sau bởi danh từ, cụm danh từ hoặc V-ing, kh&ocirc;ng theo sau trực tiếp bởi mệnh đề <em data-start=\"545\" data-end=\"559\">\"I love you\"</em>.</p>",
+      "answerFeedbacks": {
+        "10272": "Sai vì <em>Whatever</em> không được dùng trong cấu trúc <em>\"Whatever + S + V\"</em> để diễn tả sự nhượng bộ khi <em>whatever</em> không làm chủ ngữ hoặc tân ngữ cho động từ <em>love</em>.",
+        "10273": "Sai vì <em>Whether</em> dùng để giới thiệu mệnh đề danh ngữ hoặc mệnh đề trạng ngữ chỉ sự lựa chọn/điều kiện, không phải để diễn tả sự nhượng bộ trong ngữ cảnh này.",
+        "10274": "Sai vì <em>Despite</em> là giới từ, phải theo sau bởi một danh từ, cụm danh từ hoặc V-ing, không thể theo sau bởi một mệnh đề <em>S + V</em> như <em>\"I love you\"</em>.",
+        "10275": "Đúng vì <em>Much as</em> là một cụm từ chỉ sự nhượng bộ, có nghĩa là \"mặc dù rất\" hoặc \"dù rất\", và theo sau bởi một mệnh đề <em>S + V</em>, phù hợp với ngữ pháp và ngữ nghĩa của câu."
+      },
+      "images": []
+    },
+    {
+      "id": 230550,
+      "questionNumber": 8,
+      "questionName": "1651-Conjunctions-Part III",
+      "questionType": "MultipleChoice",
+      "questionText": "<b> I tried to lift the table, _____ it was too heavy.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 518753,
+          "label": "A",
+          "text": "yet",
+          "isCorrect": true
+        },
+        {
+          "id": 518754,
+          "label": "B",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 518755,
+          "label": "C",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 533136,
+          "label": "D",
+          "text": "as",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 518753,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Để chọn liên từ phù hợp, hãy xem xét kỹ mối quan hệ ngữ nghĩa giữa hai mệnh đề <em>\"I tried to lift the table\"</em> và <em>\"it was too heavy\"</em>. Mối quan hệ này là gì? Là nguyên nhân – kết quả, hay sự đối lập, hay bổ sung thông tin?</p>\n<p style=\"text-align: justify;\">Hãy ôn lại cách dùng của các liên từ kết hợp (coordinating conjunctions) như <em>\"for\"</em>, <em>\"and\"</em>, <em>\"nor\"</em>, <em>\"but\"</em>, <em>\"or\"</em>, <em>\"yet\"</em>, <em>\"so\"</em> (thường được gọi tắt là FANBOYS) để biết chúng biểu thị mối quan hệ ngữ nghĩa nào (nguyên nhân, bổ sung, tương phản, kết quả...).</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ kết hợp</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Li&ecirc;n từ kết hợp d&ugrave;ng để nối hai từ, cụm từ, hoặc mệnh đề độc lập c&oacute; vai tr&ograve; ngữ ph&aacute;p tương đương nhau. Ch&uacute;ng thể hiện mối quan hệ ngữ nghĩa kh&aacute;c nhau như bổ sung, tương phản, nguy&ecirc;n nh&acirc;n, kết quả, lựa chọn, v.v.</p>\n<p style=\"text-align: justify;\"><strong>Một số li&ecirc;n từ kết hợp:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">yet (conj.):</span></strong> nhưng, tuy nhi&ecirc;n (chỉ sự tương phản, đối lập, bất ngờ so với điều đ&atilde; n&oacute;i trước đ&oacute;)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">so (conj.):</span></strong> v&igrave; vậy, do đ&oacute; (chỉ kết quả của h&agrave;nh động hoặc sự việc được n&ecirc;u ở mệnh đề trước)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">for (conj.):</span></strong> v&igrave;, bởi v&igrave; (chỉ l&yacute; do, nguy&ecirc;n nh&acirc;n của h&agrave;nh động hoặc sự việc được n&ecirc;u ở mệnh đề trước; thường trang trọng hơn \"because\")</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">as (conj.):</span></strong> v&igrave;, bởi v&igrave; (chỉ l&yacute; do, nguy&ecirc;n nh&acirc;n; thường yếu hơn \"because\" v&agrave; thường d&ugrave;ng khi l&yacute; do đ&atilde; r&otilde; r&agrave;ng hoặc &iacute;t quan trọng hơn h&agrave;nh động ch&iacute;nh)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u tr&ecirc;n c&oacute; hai mệnh đề độc lập, mệnh đề đầu ti&ecirc;n \"I tried to lift the table\" (T&ocirc;i đ&atilde; cố n&acirc;ng c&aacute;i b&agrave;n) diễn tả một h&agrave;nh động, v&agrave; mệnh đề thứ hai \"it was too heavy\" (n&oacute; qu&aacute; nặng) diễn tả l&yacute; do hoặc t&igrave;nh trạng g&acirc;y cản trở cho h&agrave;nh động đ&oacute;. Mối quan hệ giữa việc \"cố n&acirc;ng\" v&agrave; việc \"qu&aacute; nặng\" l&agrave; sự tương phản: d&ugrave; đ&atilde; cố gắng nhưng vẫn kh&ocirc;ng th&agrave;nh c&ocirc;ng v&igrave; vật cản. Li&ecirc;n từ <em>\"yet\"</em> l&agrave; lựa chọn ph&ugrave; hợp nhất để diễn tả sự đối lập n&agrave;y, mang nghĩa \"nhưng, tuy nhi&ecirc;n\".</p>\n<p style=\"text-align: justify;\">C&aacute;c li&ecirc;n từ <em>\"so\"</em> (v&igrave; vậy, do đ&oacute;), <em>\"for\"</em> (v&igrave;, bởi v&igrave;) v&agrave; <em>\"as\"</em> (v&igrave;, bởi v&igrave;) đều d&ugrave;ng để chỉ nguy&ecirc;n nh&acirc;n hoặc kết quả, nhưng kh&ocirc;ng diễn tả được mối quan hệ tương phản giữa hai h&agrave;nh động trong c&acirc;u.</p>",
+      "answerFeedbacks": {
+        "518753": "Liên từ <em>\"yet\"</em> (nhưng, tuy nhiên) thể hiện sự tương phản giữa việc cố gắng và kết quả không thành công do vật nặng, phù hợp với ngữ cảnh.",
+        "518754": "Liên từ <em>\"so\"</em> (vì vậy, do đó) chỉ kết quả, không phù hợp vì \"nó quá nặng\" không phải là kết quả của việc \"cố nâng cái bàn\".",
+        "518755": "Liên từ <em>\"for\"</em> (vì, bởi vì) chỉ lý do, nhưng không phù hợp vì \"nó quá nặng\" là lý do không thể nâng, không phải lý do của hành động \"cố gắng nâng\".",
+        "533136": "Liên từ <em>\"as\"</em> (vì, bởi vì) cũng chỉ lý do, nhưng không phù hợp với ngữ cảnh hai mệnh đề diễn tả sự tương phản."
+      },
+      "images": []
+    },
+    {
+      "id": 21272,
+      "questionNumber": 9,
+      "questionName": "Q8",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Solar energy is not widely used _____ it is friendly to the environment.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 66051,
+          "label": "A",
+          "text": "since",
+          "isCorrect": false
+        },
+        {
+          "id": 66052,
+          "label": "B",
+          "text": "although",
+          "isCorrect": true
+        },
+        {
+          "id": 66053,
+          "label": "C",
+          "text": "in spite of",
+          "isCorrect": false
+        },
+        {
+          "id": 66054,
+          "label": "D",
+          "text": "because of",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 66052,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đ&aacute;p &aacute;n đ&uacute;ng, bạn cần xem x&eacute;t hai yếu tố:</p>\n<ul>\n<li>Vế đầu ti&ecirc;n <em>\"Solar energy is not widely used\"</em> (năng lượng mặt trời kh&ocirc;ng được sử dụng rộng r&atilde;i) v&agrave; vế thứ hai <em>\"it is friendly to the environment\"</em> (n&oacute; th&acirc;n thiện với m&ocirc;i trường) đang diễn tả mối quan hệ g&igrave;?</li>\n<li>Cụm từ <em>\"it is friendly to the environment\"</em> l&agrave; một mệnh đề (S + V) hay một cụm danh từ/V-ing? Từ đ&oacute;, bạn sẽ biết cần điền một li&ecirc;n từ (<em>conj. + S + V</em>) hay một cụm giới từ (<em>prep. phrase + N/V-ing</em>).</li>\n</ul>\n<p>H&atilde;y đối chiếu hai yếu tố n&agrave;y với c&aacute;c phương &aacute;n để t&igrave;m ra từ ph&ugrave; hợp nhất.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ v&agrave; cụm giới từ chỉ quan hệ nhượng bộ v&agrave; nguy&ecirc;n nh&acirc;n</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c li&ecirc;n từ v&agrave; cụm giới từ n&agrave;y được sử dụng để nối hai mệnh đề hoặc một mệnh đề với một cụm danh từ/động từ V-ing, nhằm diễn tả mối quan hệ tương phản, nhượng bộ hoặc nguy&ecirc;n nh&acirc;n &ndash; kết quả giữa c&aacute;c &yacute; trong c&acirc;u.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>(Although/Though/Even though) + S + V: </strong><span style=\"font-weight: 400;\">mặc d&ugrave;, cho d&ugrave;</span></li>\n<li style=\"text-align: justify;\"><strong>(Despite/In spite of) + N/V-ing:</strong> <span style=\"font-weight: 400;\">mặc d&ugrave;, bất chấp</span></li>\n<li style=\"text-align: justify;\"><strong>(Because/Since/As) + S + V: </strong><span style=\"font-weight: 400;\">bởi v&igrave;, v&igrave;</span></li>\n<li style=\"text-align: justify;\"><strong>(Because of/Due to/Owing to) + N/V-ing:</strong> <span style=\"font-weight: 400;\">bởi v&igrave;, do</span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi diễn tả mối quan hệ tương phản giữa hai mệnh đề \"<em>Solar energy is not widely used</em>\" (năng lượng mặt trời kh&ocirc;ng được sử dụng rộng r&atilde;i) v&agrave; \"<em>it is friendly to the environment</em>\" (n&oacute; th&acirc;n thiện với m&ocirc;i trường). Chỗ trống cần điền một từ hoặc cụm từ chỉ sự nhượng bộ, v&agrave; theo sau n&oacute; l&agrave; một mệnh đề (S + V). Trong c&aacute;c phương &aacute;n chỉ c&oacute; <em>although</em> (\"mặc d&ugrave;\") l&agrave; li&ecirc;n từ chỉ sự nhượng bộ v&agrave; c&oacute; cấu tr&uacute;c ph&ugrave; hợp (theo sau bởi S + V). C&aacute;c phương &aacute;n c&ograve;n lại đều sai v&igrave;:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 (<em>since</em>) l&agrave; li&ecirc;n từ chỉ nguy&ecirc;n nh&acirc;n (\"v&igrave;\"), kh&ocirc;ng thể hiện được mối quan hệ tương phản giữa hai mệnh đề.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 (<em>in spite of</em>) l&agrave; cụm giới từ chỉ sự nhượng bộ, nhưng phải theo sau bởi một danh từ, cụm danh từ hoặc V-ing, kh&ocirc;ng thể theo sau bởi một mệnh đề (S + V).</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 (<em>because of</em>) l&agrave; cụm giới từ chỉ nguy&ecirc;n nh&acirc;n, kh&ocirc;ng ph&ugrave; hợp cả về nghĩa v&agrave; cấu tr&uacute;c ngữ ph&aacute;p.</li>\n</ul>\n<p style=\"text-align: justify;\">&nbsp;</p>",
+      "answerFeedbacks": {
+        "66051": "Sai vì <em>since</em> là liên từ chỉ nguyên nhân (\"vì\"), không phù hợp với mối quan hệ tương phản giữa hai mệnh đề trong câu.",
+        "66052": "Đúng vì <em>although</em> là liên từ chỉ sự nhượng bộ (\"mặc dù\"), phù hợp với mối quan hệ tương phản giữa hai mệnh đề và theo sau là một mệnh đề (S + V).",
+        "66053": "Sai vì <em>in spite of</em> là cụm giới từ chỉ sự nhượng bộ, phải theo sau bởi một danh từ, cụm danh từ hoặc V-ing, không phải một mệnh đề (S + V).",
+        "66054": "Sai vì <em>because of</em> là cụm giới từ chỉ nguyên nhân (\"bởi vì\") và phải theo sau bởi một danh từ, cụm danh từ hoặc V-ing, không phù hợp cả về nghĩa và cấu trúc."
+      },
+      "images": []
+    },
+    {
+      "id": 178502,
+      "questionNumber": 10,
+      "questionName": "Question 12:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Lan is very tired. _____, she has to finish her work before going to bed.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 409500,
+          "label": "A",
+          "text": "So",
+          "isCorrect": false
+        },
+        {
+          "id": 409501,
+          "label": "B",
+          "text": "Although",
+          "isCorrect": false
+        },
+        {
+          "id": 409502,
+          "label": "C",
+          "text": "However",
+          "isCorrect": true
+        },
+        {
+          "id": 409503,
+          "label": "D",
+          "text": "Therefore",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 409502,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX189TRxuSmMZJuMBGHpkKMnNj%2BONzZxoENOtWmE6Hu2yaGhYXlKLN0SE2CQ9%2F2IiEbiyDo4YQjeu9Ee4qYkbuP3bFl9N78ASF0AZpPPHd4gQFhuzHwUNNEyYryCnt7uhPmT2WbEt54qWd6jx7WkkJ86rbCOWDUT6kuFu6gSwpMoBzSVBYnGnOZPJsv8yF1Q12KbN2mvTT7jeW9oGSK%2FpWY8xhkrEVCGpshavSf1EcvQxZuU8yZQGLQEmnU%2BY19rGDoRRTKjXVCh4pd%2BmeKwd7H4%2F0m4YkaNiXBroO7YflV2D2BN46ckC9dqhsLSvksbpAVnwRxE4rtszUTXNAsAKm5Bgo3lCVKLbVtA%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Lan rất mệt. Tuy nhi&ecirc;n, c&ocirc; ấy phải ho&agrave;n th&agrave;nh c&ocirc;ng việc trước khi đi ngủ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 236886,
+      "questionNumber": 11,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ I sympathize with you, I can&#8217;t really do very much to help.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 533142,
+          "label": "A",
+          "text": "Because",
+          "isCorrect": false
+        },
+        {
+          "id": 533143,
+          "label": "B",
+          "text": "While",
+          "isCorrect": true
+        },
+        {
+          "id": 533144,
+          "label": "C",
+          "text": "But",
+          "isCorrect": false
+        },
+        {
+          "id": 533145,
+          "label": "D",
+          "text": "Despite",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 533143,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y xem x&eacute;t mối quan hệ &yacute; nghĩa giữa hai mệnh đề <em>'I sympathize with you'</em> v&agrave; <em>'I can&rsquo;t really do very much to help'</em>. Ch&uacute;ng c&oacute; mối quan hệ nguy&ecirc;n nh&acirc;n-kết quả hay tương phản?</p>\n<p>Sau đ&oacute;, h&atilde;y nhớ lại cấu tr&uacute;c ngữ ph&aacute;p của c&aacute;c từ nối như <em>'Because'</em>, <em>'While'</em>, <em>'But'</em>, v&agrave; <em>'Despite'</em> để x&aacute;c định từ n&agrave;o c&oacute; thể đứng đầu mệnh đề phụ v&agrave; truyền tải đ&uacute;ng &yacute; nghĩa đ&oacute;.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ v&agrave; giới từ chỉ sự tương phản/nhượng bộ.</span></p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c li&ecirc;n từ v&agrave; giới từ n&agrave;y được d&ugrave;ng để nối c&aacute;c mệnh đề hoặc cụm từ, diễn tả mối quan hệ nguy&ecirc;n nh&acirc;n &ndash; kết quả, thời gian, hoặc sự tương phản/nhượng bộ giữa c&aacute;c &yacute; trong c&acirc;u.</p>\n<p style=\"text-align: justify;\"><strong>Một số li&ecirc;n từ v&agrave; giới từ thường gặp:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Because (conj.):</span></strong> nguy&ecirc;n nh&acirc;n (đứng đầu mệnh đề phụ)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">While (conj.):</span></strong> trong khi, mặc d&ugrave; (thời gian hoặc tương phản/nhượng bộ, đứng đầu mệnh đề phụ)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">But (conj.):</span></strong> nhưng (tương phản, đứng giữa hai mệnh đề độc lập)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Despite (prep.):</span></strong> mặc d&ugrave;, bất chấp (đứng trước danh từ/cụm danh từ/V-ing)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u c&oacute; hai mệnh đề l&agrave; <em>\"I sympathize with you\"</em> v&agrave; <em>\"I can&rsquo;t really do very much to help\"</em>. Hai mệnh đề n&agrave;y diễn tả &yacute; tương phản: một b&ecirc;n l&agrave; sự th&ocirc;ng cảm, b&ecirc;n kia l&agrave; sự bất lực trong việc gi&uacute;p đỡ. V&igrave; vậy, cần một li&ecirc;n từ phụ thuộc đứng ở đầu mệnh đề phụ để diễn tả &yacute; nhượng bộ/tương phản.</p>\n<p style=\"text-align: justify;\">Trong c&aacute;c lựa chọn, <em>\"While\"</em> l&agrave; li&ecirc;n từ phụ thuộc duy nhất c&oacute; thể đứng đầu mệnh đề phụ để diễn tả &yacute; tương phản hoặc nhượng bộ (mặc d&ugrave;), ph&ugrave; hợp với cả ngữ ph&aacute;p v&agrave; &yacute; nghĩa của c&acirc;u.</p>",
+      "answerFeedbacks": {
+        "533142": "<em>Because</em> là liên từ phụ thuộc diễn tả nguyên nhân, không phù hợp với ý nghĩa tương phản của câu.",
+        "533143": "<em>While</em> là liên từ phụ thuộc, đứng đầu mệnh đề phụ để diễn tả sự tương phản hoặc nhượng bộ, phù hợp với ngữ cảnh \"mặc dù tôi thông cảm, tôi không giúp được nhiều\".",
+        "533144": "<em>But</em> là liên từ đẳng lập, thường đứng giữa hai mệnh đề độc lập và không đứng ở đầu câu/mệnh đề phụ để nối như thế này.",
+        "533145": "<em>Despite</em> là giới từ, phải theo sau bởi một danh từ, cụm danh từ hoặc V-ing, không thể đứng trước một mệnh đề (S+V) như <em>\"I sympathize with you\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 150174,
+      "questionNumber": 12,
+      "questionName": "Question 36:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ they get the letter tomorrow, you still won’t get a reply before the weekend.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 352061,
+          "label": "A",
+          "text": "Because",
+          "isCorrect": false
+        },
+        {
+          "id": 352062,
+          "label": "B",
+          "text": "Even if",
+          "isCorrect": true
+        },
+        {
+          "id": 352063,
+          "label": "C",
+          "text": "Unless",
+          "isCorrect": false
+        },
+        {
+          "id": 352064,
+          "label": "D",
+          "text": "However",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 352062,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đáp án đúng, bạn cần xác định mối quan hệ logic giữa hai mệnh đề \"<em>they get the letter tomorrow</em>\" và \"<em>you still won’t get a reply before the weekend</em>\".</p>\n<ul>\n<li>Mối quan hệ giữa hai mệnh đề này là gì? Có phải là nguyên nhân - kết quả, điều kiện, hay sự nhượng bộ?</li>\n<li>Hãy xem xét ý nghĩa của từng lựa chọn: <em>Because</em> (vì), <em>Even if</em> (ngay cả khi), <em>Unless</em> (trừ khi), <em>However</em> (tuy nhiên).</li>\n<li>Lưu ý rằng một số từ như <em>However</em> là trạng từ liên kết, có cấu trúc sử dụng khác với liên từ phụ thuộc.</li>\n</ul>\n<p>Hãy chọn từ nối phù hợp nhất để thể hiện ý nghĩa rằng kết quả ở mệnh đề thứ hai vẫn đúng bất kể điều kiện ở mệnh đề thứ nhất có xảy ra hay không.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe width=\"100%\" height=\"275\" style=\"border: none;\" id=\"embed-frame-FBC38\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18aJrwMbOJUuDyqyuuGPB9s0btvvlkD8moUY3mEcV7A9Zj3hnvVZ0nqDizbgk51orHklvh9bKp4GO%2FZIzq0BJD3iEQRxn5bpHUnNj23rniahrvXptGHHeJbL3zQmDekQnXNaIxKoHesV0MPVffT3AZhhm61eVmx0VLJXPHeQdfUuPyCut4obz6m3HohAN2g%2BUtcIykglw6O%2Fncbls7dlwS5mp29J1maYnQfIaUJRgirk9cdwNQVNhgdrElhLtwNIhCzOepq%2Bv3ZE2oMdQBxngmu7vMfy3B1cFrdCkAGlH3UX3Q6oMig%2FM8c22ok5tHcNaFNHteadv8NUE%2BLpq6YRMgfnHX86UNWB7ghalKLGzkppfTJg1QXSeL%2B\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Liên từ và trạng từ liên kết</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các từ này dùng để nối các mệnh đề hoặc câu, thiết lập mối quan hệ ý nghĩa (nguyên nhân, kết quả, tương phản, điều kiện, nhượng bộ, v.v.) giữa chúng.</p>\n<p><strong>Một số liên từ và trạng từ liên kết:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Because + S + V</span></strong>: bởi vì (diễn tả nguyên nhân)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Even if + S + V</span></strong>: ngay cả khi (diễn tả điều kiện giả định, nhượng bộ)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Unless + S + V</span></strong>: trừ khi, nếu không (diễn tả điều kiện phủ định)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">However, + S + V</span></strong>: tuy nhiên (diễn tả sự tương phản giữa hai câu hoặc hai ý)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu cần một liên từ thể hiện mối quan hệ nhượng bộ hoặc điều kiện giả định dù cho họ nhận được thư vào ngày mai thì bạn vẫn không nhận được hồi âm trước cuối tuần. Trong các lựa chọn, <em>Even if</em> diễn tả ý nghĩa này một cách chính xác nhất.</p>\n<p style=\"text-align: justify;\">Các phương án khác đều không phù hợp để diễn tả điều kiện giả định này.</p>",
+      "answerFeedbacks": {
+        "352061": "Sai vì <em>Because</em> diễn tả nguyên nhân, không phù hợp với ý nghĩa nhượng bộ/điều kiện giả định của câu.",
+        "352062": "Đúng vì <em>Even if</em> (ngay cả khi) diễn tả một điều kiện giả định, nhấn mạnh rằng kết quả ở mệnh đề chính vẫn không thay đổi dù điều kiện ở mệnh đề phụ có xảy ra.",
+        "352063": "Sai vì <em>Unless</em> diễn tả điều kiện phủ định (\"trừ khi\" hoặc \"nếu không\"), không phù hợp với ý nghĩa nhượng bộ của câu.",
+        "352064": "Sai vì <em>However</em> là trạng từ liên kết, thường đứng đầu câu thứ hai và theo sau bởi dấu phẩy để diễn tả sự tương phản giữa hai câu độc lập, không dùng để nối hai mệnh đề như liên từ phụ thuộc."
+      },
+      "images": []
+    },
+    {
+      "id": 652595,
+      "questionNumber": 13,
+      "questionName": "Complete Book 3 - p83",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The villagers were poor, _____ they were willing to share their food with the lost travellers.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1257197,
+          "label": "A",
+          "text": "yet",
+          "isCorrect": true
+        },
+        {
+          "id": 1257198,
+          "label": "B",
+          "text": "since",
+          "isCorrect": false
+        },
+        {
+          "id": 1257199,
+          "label": "C",
+          "text": "whereas",
+          "isCorrect": false
+        },
+        {
+          "id": 1257200,
+          "label": "D",
+          "text": "although",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1257197,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Cần xem xét loại mối quan hệ giữa hai mệnh đề <em>\"The villagers were poor\"</em> và <em>\"they were willing to share their food with the lost travellers\"</em>. Hai mệnh đề này thể hiện sự tương phản hay nguyên nhân – kết quả?</p>\n<p>Chú ý đến cấu trúc câu, đặc biệt là dấu phẩy (<em>,</em>) trước chỗ trống. Dấu phẩy này là manh mối quan trọng giúp phân biệt giữa liên từ kết hợp và liên từ phụ thuộc.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Liên từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Liên từ dùng để nối các từ, cụm từ hoặc mệnh đề, thiết lập mối quan hệ ngữ nghĩa giữa chúng như nguyên nhân – kết quả, đối lập – nhượng bộ, bổ sung thông tin.</p>\n<p><strong>Một số liên từ và cách dùng:</strong></p>\n<ul>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">yet:</span></strong> nhưng, tuy nhiên (nối hai mệnh đề độc lập, thể hiện sự đối lập hoặc kết quả bất ngờ, thường đi kèm dấu phẩy).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">since:</span></strong> vì, bởi vì (giới thiệu mệnh đề phụ thuộc chỉ nguyên nhân).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">whereas:</span></strong> trong khi đó, ngược lại (giới thiệu mệnh đề phụ thuộc, dùng để so sánh hai sự vật, sự việc, ý tưởng khác nhau và chỉ ra sự tương phản trực tiếp).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">although:</span></strong> mặc dù (giới thiệu mệnh đề phụ thuộc chỉ sự nhượng bộ, trái ngược với mệnh đề chính).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Hai vế câu \"<em>The villagers were poor</em>\" (Những người dân làng rất nghèo) và \"<em>they were willing to share their food with the lost travellers</em>\" (họ sẵn sàng chia sẻ đồ ăn với những lữ khách bị lạc đường) thể hiện mối quan hệ đối lập hoặc nhượng bộ (mặc dù nghèo nhưng vẫn hào phóng). Cấu trúc câu có dấu phẩy trước chỗ trống và nối hai mệnh đề độc lập hoàn chỉnh phù hợp với việc sử dụng liên từ kết hợp. Trong các phương án, <strong>yet</strong> là liên từ kết hợp duy nhất mang nghĩa đối lập, phù hợp với ngữ cảnh và cấu trúc câu.</p>\n<p style=\"text-align: justify;\">Các liên từ <em>since</em>, <em>whereas</em>, <em>although</em> đều là liên từ phụ thuộc và không phù hợp với cấu trúc câu đã cho hoặc ý nghĩa của câu.</p>",
+      "answerFeedbacks": {
+        "1257197": "Đúng vì <em>yet</em> là liên từ kết hợp, dùng để nối hai mệnh đề độc lập thể hiện sự đối lập, phù hợp với cả ngữ nghĩa \"mặc dù nghèo nhưng vẫn sẵn lòng chia sẻ\" và cấu trúc câu có dấu phẩy trước chỗ trống.",
+        "1257198": "Sai vì <em>since</em> là liên từ phụ thuộc chỉ nguyên nhân, không thể hiện mối quan hệ đối lập giữa hai mệnh đề trong câu.",
+        "1257199": "Sai vì <em>whereas</em> là liên từ phụ thuộc chỉ sự đối lập, nhưng thường dùng để so sánh trực tiếp hai đối tượng hoặc tình huống, và không phù hợp với cấu trúc \"mệnh đề, liên từ phụ thuộc mệnh đề\" như một liên từ kết hợp.",
+        "1257200": "Sai vì <em>although</em> là liên từ phụ thuộc chỉ sự nhượng bộ, nhưng không thể đứng sau dấu phẩy để nối hai mệnh đề độc lập theo cấu trúc này; đúng ra phải là \"<em>Although the villagers were poor, they were willing...</em>\" hoặc \"<em>The villagers were willing... although they were poor.</em>\"."
+      },
+      "images": []
+    },
+    {
+      "id": 89217,
+      "questionNumber": 14,
+      "questionName": "Q6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong> Golf is a very fun sport; _____, it's very expensive.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 213779,
+          "label": "A",
+          "text": "consequently",
+          "isCorrect": false
+        },
+        {
+          "id": 213780,
+          "label": "B",
+          "text": "otherwise",
+          "isCorrect": false
+        },
+        {
+          "id": 213781,
+          "label": "C",
+          "text": "on the other hand",
+          "isCorrect": true
+        },
+        {
+          "id": 213782,
+          "label": "D",
+          "text": "furthermore",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 213781,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Trong c&acirc;u, mệnh đề đầu ti&ecirc;n n&oacute;i về một kh&iacute;a cạnh t&iacute;ch cực của golf (<em>\"very fun sport\"</em>), trong khi mệnh đề thứ hai n&oacute;i về một kh&iacute;a cạnh ti&ecirc;u cực (<em>\"very expensive\"</em>). H&atilde;y x&aacute;c định trạng từ li&ecirc;n kết n&agrave;o ph&ugrave; hợp để thể hiện mối quan hệ đối lập n&agrave;y.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Trạng từ li&ecirc;n kết</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Trạng từ li&ecirc;n kết được d&ugrave;ng để nối hai mệnh đề độc lập hoặc hai c&acirc;u, thể hiện mối quan hệ logic giữa ch&uacute;ng như nguy&ecirc;n nh&acirc;n &ndash; kết quả, đối lập, bổ sung th&ocirc;ng tin, hay điều kiện. Ch&uacute;ng gi&uacute;p l&agrave;m cho văn bản mạch lạc v&agrave; r&otilde; r&agrave;ng hơn.</p>\n<p><strong>Một số trạng từ li&ecirc;n kết phổ biến:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">consequently (adv.):</span></strong> do đ&oacute;, v&igrave; vậy&nbsp;</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">otherwise (adv.):</span></strong> nếu kh&ocirc;ng th&igrave;</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">on the other hand (adv. phrase):</span></strong> mặt kh&aacute;c</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">furthermore (adv.):</span></strong> hơn nữa</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u đầu ti&ecirc;n <em>\"Golf is a very fun sport\"</em> n&oacute;i về một kh&iacute;a cạnh t&iacute;ch cực của m&ocirc;n golf, trong khi c&acirc;u thứ hai <em>\"it's very expensive\"</em> n&oacute;i về một kh&iacute;a cạnh ti&ecirc;u cực. Mối quan hệ giữa hai mệnh đề n&agrave;y l&agrave; sự đối lập, tương phản. Do đ&oacute;, cần một trạng từ li&ecirc;n kết mang &yacute; nghĩa đối lập để nối hai &yacute; tưởng n&agrave;y. Trong c&aacute;c lựa chọn, <em>\"on the other hand\"</em> (mặt kh&aacute;c) l&agrave; cụm trạng từ li&ecirc;n kết ph&ugrave; hợp nhất để thể hiện sự tương phản.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>consequently</em>\" (do đ&oacute;, kết quả l&agrave;) d&ugrave;ng để chỉ kết quả, phương &aacute;n 2 \"<em>otherwise</em>\" (nếu kh&ocirc;ng th&igrave;) d&ugrave;ng để chỉ điều kiện hoặc hậu quả nếu kh&ocirc;ng l&agrave;m điều g&igrave; đ&oacute; c&ograve;n phương &aacute;n 4 \"furthermore\" (hơn nữa) d&ugrave;ng để bổ sung th&ocirc;ng tin c&ugrave;ng chiều. C&aacute;c phương &aacute;n n&agrave;y đều kh&ocirc;ng thể hiện sự đối lập giữa hai mệnh đề.</p>",
+      "answerFeedbacks": {
+        "213779": "Không phù hợp vì <em>consequently</em> dùng để chỉ kết quả, trong khi hai mệnh đề thể hiện sự đối lập.",
+        "213780": "Không phù hợp vì <em>otherwise</em> dùng để chỉ điều kiện hoặc hậu quả nếu không làm điều gì đó.",
+        "213781": "Phù hợp vì <em>on the other hand</em> dùng để giới thiệu một ý tưởng đối lập hoặc tương phản với ý tưởng đã nêu trước đó.",
+        "213782": "Không phù hợp vì <em>furthermore</em> dùng để bổ sung thông tin cùng chiều, trong khi hai mệnh đề mang ý nghĩa trái ngược."
+      },
+      "images": []
+    },
+    {
+      "id": 89219,
+      "questionNumber": 15,
+      "questionName": "Q8",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I enjoy reading books in my free time; _____, my friend likes watching movies.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 213787,
+          "label": "A",
+          "text": "consequently",
+          "isCorrect": false
+        },
+        {
+          "id": 213788,
+          "label": "B",
+          "text": "otherwise",
+          "isCorrect": false
+        },
+        {
+          "id": 213789,
+          "label": "C",
+          "text": "on the other hand",
+          "isCorrect": true
+        },
+        {
+          "id": 213790,
+          "label": "D",
+          "text": "furthermore",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 213789,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy xem xét mối quan hệ logic giữa hai mệnh đề độc lập trong câu. Một bên là sở thích \"<em>reading books</em>\", một bên là sở thích \"<em>watching movies</em>\". Hai sở thích này khác nhau và thuộc về hai người khác nhau.</p>\n<p>Từ nối nào phù hợp nhất để thể hiện sự đối lập hoặc so sánh giữa hai ý tưởng này?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Trạng từ liên kết</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các trạng từ liên kết (conjunctive adverbs) được dùng để nối hai mệnh đề độc lập hoặc hai câu, thể hiện mối quan hệ logic giữa chúng như tương phản, bổ sung, kết quả, hoặc điều kiện.</p>\n<p style=\"text-align: justify;\"><strong>Một số Trạng từ liên kết:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">consequently (adv.):</span></strong> do đó, vì vậy (chỉ kết quả)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">otherwise (adv.):</span></strong> nếu không thì (chỉ điều kiện hoặc hậu quả thay thế)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">on the other hand (adv. phrase):</span></strong> mặt khác (chỉ sự tương phản)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">furthermore (adv.):</span></strong> hơn nữa, ngoài ra (chỉ sự bổ sung thông tin)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu có hai mệnh đề độc lập diễn tả hai sở thích khác nhau của hai người khác nhau là \"<em>I enjoy reading books in my free time</em>\" và \"<em>my friend likes watching movies</em>\". Mối quan hệ giữa hai mệnh đề này là tương phản hoặc đối lập.</p>\n<p style=\"text-align: justify;\">Trong các lựa chọn, \"<em>on the other hand</em>\" có nghĩa là \"mặt khác\", dùng để giới thiệu một ý kiến, sự thật hoặc tình huống đối lập với điều vừa được đề cập, hoàn toàn phù hợp để nối hai ý tưởng tương phản này.</p>\n<p style=\"text-align: justify;\">Các trạng từ liên kết còn lại không diễn tả mối quan hệ tương phản, \"<em>consequently</em>\" chỉ kết quả, \"<em>otherwise</em>\" chỉ điều kiện/hậu quả thay thế, và \"<em>furthermore</em>\" chỉ sự bổ sung.</p>",
+      "answerFeedbacks": {
+        "213787": "Sai vì <em>consequently</em> dùng để chỉ kết quả, trong khi hai mệnh đề trong câu thể hiện sự tương phản về sở thích.",
+        "213788": "Sai vì <em>otherwise</em> dùng để chỉ điều kiện hoặc hậu quả thay thế, không phù hợp với ngữ cảnh so sánh sở thích.",
+        "213789": "Đúng vì <em>on the other hand</em> có nghĩa là \"mặt khác\", dùng để giới thiệu một ý kiến hoặc sự thật đối lập, hoàn toàn phù hợp để so sánh sở thích khác nhau của hai người.",
+        "213790": "Sai vì <em>furthermore</em> dùng để bổ sung thêm thông tin, trong khi câu cần diễn đạt sự tương phản."
+      },
+      "images": []
+    },
+    {
+      "id": 322790,
+      "questionNumber": 16,
+      "questionName": "14-Test 1-Advanced Tests-p.118",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Western Scotland is wild and mountainous, _____ eastern Scotland is lush farmland. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 692706,
+          "label": "A",
+          "text": "despite",
+          "isCorrect": false
+        },
+        {
+          "id": 692707,
+          "label": "B",
+          "text": "whereas",
+          "isCorrect": true
+        },
+        {
+          "id": 692709,
+          "label": "C",
+          "text": "nevertheless",
+          "isCorrect": false
+        },
+        {
+          "id": 692710,
+          "label": "D",
+          "text": "therefore",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 692707,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn từ phù hợp, hãy xem xét mối quan hệ ngữ nghĩa giữa hai mệnh đề trong câu và cấu trúc ngữ pháp của chỗ trống.</p>\n<ul>\n<li>Hai vế <em>\"Western Scotland is wild and mountainous\"</em> và <em>\"eastern Scotland is lush farmland\"</em> đang thể hiện mối quan hệ gì? Là tương phản, nhượng bộ, hay kết quả?</li>\n<li>Sau chỗ trống là một mệnh đề hoàn chỉnh (S + V). Điều này gợi ý rằng từ cần điền phải là một liên từ hoặc trạng từ liên kết có khả năng nối hai mệnh đề.</li>\n</ul>\n<p>Đối chiếu cấu trúc và ý nghĩa của từng phương án để tìm từ diễn tả sự tương phản trực tiếp một cách chính xác nhất.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"315\" id=\"A73668AC\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18zbB%2BGkbD0EUh%2FcQ7pdpLfDsH2QurF%2FIXRQEXE9gSLvwENv%2B908tW0xgNUYi1mo1JGY%2B1%2BQMQoLOPDdvmwNLVu%2FAJZEQ9A2UtEJCn2vfr7AI3hQJRqWAESNSeszPWhjZYcSiwUu2%2FdzXRf7OcbHKaIC%2FLCiad2BJRyF7jGpZ7ob%2BQ5arpB25RBF7LaVTNWZU%2BniD%2BzjgCBVrDLgNU9ZtOtELFUtW%2B9VcQxNJ8h9Z9ecwd%2BWNVJ%2FuYurFz5hvQu8BPowsUzt5jt9fuKWqyTvhHFKOzUt4jfjgx%2BfH6xtyuF%2FrE7zVpn2r3LnbI0Ushmi1ms5ZT%2BCKeESlEsFnyo4ZDf1z5JSAke8ogDrvgb2ZQUycTZdh9OBEMi\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Các từ/cụm từ liên kết thể hiện quan hệ tương phản và nhượng bộ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các từ/cụm từ này được sử dụng để nối các mệnh đề hoặc câu, diễn đạt sự đối lập, trái ngược hoặc một điều gì đó xảy ra mặc dù có một điều kiện hoặc tình huống khác.</p>\n<p><strong>Một số từ/cụm từ liên kết phổ biến:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\"><em>Whereas</em> (conj.) + S + V, S + V:</span></strong> trong khi, trái lại (dùng để chỉ sự tương phản trực tiếp giữa hai sự vật, ý tưởng, hoặc sự thật).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\"><em>Despite</em> (prep.) + N/V-ing:</span></strong> mặc dù, bất chấp (theo sau là một danh từ hoặc cụm danh từ/V-ing).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\"><em>Nevertheless</em> (adv.) + S + V / S + V; nevertheless, S + V:</span></strong> tuy nhiên, mặc dù vậy (trạng từ liên kết, thường đứng sau dấu chấm phẩy hoặc chấm câu, theo sau là dấu phẩy).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\"><em>Therefore</em> (adv.) + S + V / S + V; therefore, S + V:</span></strong> do đó, vì vậy (trạng từ liên kết, chỉ kết quả).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu gốc diễn tả sự tương phản rõ rệt giữa hai vùng của Scotland là <em>\"Western Scotland is wild and mountainous\"</em> (phía Tây hoang dã và nhiều núi) và <em>\"eastern Scotland is lush farmland\"</em> (phía Đông là vùng đất nông nghiệp tươi tốt).</p>\n<p style=\"text-align: justify;\">Chỗ trống cần một từ nối hai mệnh đề độc lập, thể hiện sự đối lập trực tiếp về đặc điểm địa lý. Phương án 2, <em>\"whereas\"</em>, là một liên từ phụ thuộc dùng để chỉ sự tương phản trực tiếp giữa hai vế, phù hợp hoàn hảo với ngữ cảnh này. Các phương án khác đều không phù hợp để chỉ sự tương phản trực tiếp.</p>",
+      "answerFeedbacks": {
+        "692706": "Sai vì <em>\"despite\"</em> là giới từ, theo sau phải là danh từ/cụm danh từ hoặc V-ing, không thể nối hai mệnh đề độc lập như trong câu.",
+        "692707": "Đúng vì <em>\"whereas\"</em> là liên từ phụ thuộc, dùng để nối hai mệnh đề, diễn tả sự tương phản trực tiếp giữa hai ý tưởng hoặc sự thật.",
+        "692709": "Sai vì <em>\"nevertheless\"</em> là trạng từ liên kết, thường đứng sau dấu chấm phẩy hoặc dấu chấm để nối hai câu, hoặc được ngăn cách bằng dấu phẩy nếu đứng giữa câu, và thường diễn tả sự nhượng bộ (\"tuy nhiên\") chứ không phải sự tương phản trực tiếp.",
+        "692710": "Sai vì <em>\"therefore\"</em> là trạng từ liên kết, dùng để chỉ kết quả (\"do đó\"), không phù hợp với ngữ cảnh diễn tả sự tương phản trong câu."
+      },
+      "images": []
+    },
+    {
+      "id": 766255,
+      "questionNumber": 17,
+      "questionName": "28",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">Despite</span> the weather was bad, we <span style=\"text-decoration: underline;\">had</span> a joyful picnic <span style=\"text-decoration: underline;\">with</span> <span style=\"text-decoration: underline;\">our</span> friends this weekend.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1474382,
+          "label": "A",
+          "text": "Despite",
+          "isCorrect": true
+        },
+        {
+          "id": 1474383,
+          "label": "B",
+          "text": "had",
+          "isCorrect": false
+        },
+        {
+          "id": 1474384,
+          "label": "C",
+          "text": "with",
+          "isCorrect": false
+        },
+        {
+          "id": 1474385,
+          "label": "D",
+          "text": "our",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1474382,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>despite + N/N-phrase/V-ing</strong> ~<strong> though/although/even though + clause</strong>: mặc d&ugrave;&nbsp;</p>\n<p>Sửa: \"<strong>Despite</strong>\" =&gt; \"<strong>Though/Although/Even though</strong>\"</p>\n<p>Dịch: Mặc d&ugrave; thời tiết xấu, ch&uacute;ng t&ocirc;i đ&atilde; vẫn c&oacute; một chuyến d&atilde; ngoại vui vẻ c&ugrave;ng bạn b&egrave; cuối tuần n&agrave;y.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 615691,
+      "questionNumber": 18,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">The</span> movie received <span style=\"text-decoration: underline;\">many</span> bad reviews. <span style=\"text-decoration: underline;\">Although</span>, I still wanted to see <span style=\"text-decoration: underline;\">it</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1185490,
+          "label": "A",
+          "text": "The",
+          "isCorrect": false
+        },
+        {
+          "id": 1185491,
+          "label": "B",
+          "text": "many",
+          "isCorrect": false
+        },
+        {
+          "id": 1185492,
+          "label": "C",
+          "text": "Although",
+          "isCorrect": true
+        },
+        {
+          "id": 1185493,
+          "label": "D",
+          "text": "it",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1185492,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>although</strong> (conj.): mặc d&ugrave; (được d&ugrave;ng để nối 2 mệnh đề trong một c&acirc;u) =&gt; Kh&ocirc;ng ph&ugrave; hợp với ngữ ph&aacute;p của c&acirc;u.</p>\n<p><strong>however </strong>(adv.): tuy nhi&ecirc;n (được d&ugrave;ng để nối 2 c&acirc;u mang &yacute; nghĩa đối lập, đứng giữa dấu chấm c&acirc;u v&agrave; dấu phẩy hoặc giữa 2 dấu phẩy)</p>\n<p><strong>nevertheless</strong> (adv.): tuy nhi&ecirc;n</p>\n<p>Sửa: \"<strong>Although</strong>\" =&gt; \"<strong>However</strong>\" hoặc \"<strong>Nevertheless</strong>\"</p>\n<p>Dịch: Bộ phim nhận được nhiều đ&aacute;nh gi&aacute; kh&ocirc;ng tốt. Tuy nhi&ecirc;n, t&ocirc;i vẫn muốn xem n&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 16946,
+      "questionNumber": 19,
+      "questionName": "IV.5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Choose the underlined part that needs correction.</span></em></p>\n<p><strong>She's <span style=\"text-decoration: underline;\">fluent in</span> both English <span style=\"text-decoration: underline;\">and</span> French, <span style=\"text-decoration: underline;\">so</span> her Vietnamese <span style=\"text-decoration: underline;\">is rusty</span> even though her parents are Vietnamese.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 55748,
+          "label": "A",
+          "text": "fluent in",
+          "isCorrect": false
+        },
+        {
+          "id": 55749,
+          "label": "B",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "id": 55750,
+          "label": "C",
+          "text": "so",
+          "isCorrect": true
+        },
+        {
+          "id": 55751,
+          "label": "D",
+          "text": "is rusty",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 55750,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Cụm <em>\"fluent in\"</em> có diễn đạt đúng về việc thành thạo một ngôn ngữ không?</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Liên từ <em>\"and\"</em> có phù hợp để nối hai danh từ trong ngữ cảnh này không?</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Mối quan hệ logic giữa hai mệnh đề được nối bởi <em>\"so\"</em> là nguyên nhân-kết quả hay đối lập/bổ sung?</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Cụm từ <em>\"is rusty\"</em> có chính xác khi miêu tả trình độ ngôn ngữ bị mai một không?</li>\n</ul>\n<p>Trả lời từng câu hỏi trên để xác định phần nào trong câu cần được sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Liên từ kết hợp biểu thị quan hệ đối lập hoặc kết quả.</span></p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Liên từ kết hợp dùng để nối các từ, cụm từ hoặc mệnh đề độc lập có vai trò ngữ pháp tương đương. Chúng thể hiện mối quan hệ logic như bổ sung, lựa chọn, đối lập, nguyên nhân-kết quả.</p>\n<p style=\"text-align: justify;\"><strong>Một số liên từ kết hợp:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">and:</span></strong> và (bổ sung thông tin)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">but:</span></strong> nhưng (biểu thị sự đối lập, tương phản)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">so:</span></strong> vì vậy, do đó (biểu thị kết quả, hệ quả)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">yet:</span></strong> tuy nhiên, nhưng (biểu thị sự đối lập, tương phản, thường bất ngờ)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Câu sử dụng liên từ <em>\"so\"</em> (vì vậy) ngụ ý rằng ''<em>She's fluent in both English and French</em>'' là nguyên nhân trực tiếp khiến ''<em>her Vietnamese is rusty</em>''. Tuy nhiên, mối quan hệ logic phù hợp hơn ở đây là sự đối lập hoặc một yếu tố góp phần, không phải nguyên nhân-kết quả trực tiếp, đặc biệt khi có cụm <em>\"even though her parents are Vietnamese\"</em>. Do đó, cần thay thế <em>\"so\"</em> bằng một liên từ biểu thị sự đối lập như <em>\"but\"</em> hoặc <em>\"yet\"</em>.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>so</strong></em>\" =&gt; \"<em><strong>but</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "55748": "Cụm tính từ <em>\"fluent in\"</em> (thành thạo về cái gì) được dùng đúng ngữ pháp và ngữ cảnh.",
+        "55749": "Liên từ <em>\"and\"</em> được dùng đúng để nối hai danh từ tương đương <em>\"English\"</em> và <em>\"French\"</em>.",
+        "55750": "Liên từ <em>\"so\"</em> biểu thị kết quả không phù hợp với ngữ cảnh, vì sự thành thạo tiếng Anh và tiếng Pháp không phải là nguyên nhân trực tiếp dẫn đến việc tiếng Việt bị mai một, mà là một sự đối lập hoặc một yếu tố góp phần.",
+        "55751": "Cụm động từ <em>\"is rusty\"</em> được dùng đúng để diễn tả việc tiếng Việt bị mai một, không còn lưu loát."
+      },
+      "images": []
+    },
+    {
+      "id": 176564,
+      "questionNumber": 20,
+      "questionName": "Question 22:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Daisy arrived late, but she finished her work earlier than the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 405044,
+          "label": "A",
+          "text": "Daisy arrived late, so she finished her work earlier than the others.",
+          "isCorrect": false
+        },
+        {
+          "id": 405045,
+          "label": "B",
+          "text": "Daisy finished her work earlier than the others because she arrived late.",
+          "isCorrect": false
+        },
+        {
+          "id": 405046,
+          "label": "C",
+          "text": "Daisy finished her work earlier than the others although she arrived late.",
+          "isCorrect": true
+        },
+        {
+          "id": 405047,
+          "label": "D",
+          "text": "Though Daisy arrived late, but she finished her work earlier than the others.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 405046,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>although </strong>(conj.):&nbsp;mặc d&ugrave;</p>\n<p>so (conj.): vậy n&ecirc;n, v&igrave; vậy</p>\n<p>because (conj.): bởi v&igrave;</p>\n<p>\"though\" v&agrave; \"but\"<strong> </strong>c&ugrave;ng thể hiện mối quan hệ tương phản giữa hai mệnh đề v&agrave; kh&ocirc;ng c&ugrave;ng xuất hiện trong c&acirc;u.</p>\n<p>C&aacute;c phương &aacute;n kh&aacute;c sai v&igrave;:</p>\n<ul>\n<li><em>Daisy arrived late, <span style=\"text-decoration: line-through;\"><strong>so</strong></span> she finished her work earlier than the others. (d&ugrave;ng sai li&ecirc;n từ)</em></li>\n<li><em>Daisy finished her work earlier than the others <span style=\"text-decoration: line-through;\"><strong>because</strong></span> she arrived late. (d&ugrave;ng sai li&ecirc;n từ)</em></li>\n<li><em>Though Daisy arrived late, <span style=\"text-decoration: line-through;\"><strong>but</strong></span> she finished her work earlier than the others. (kh&ocirc;ng d&ugrave;ng 2 li&ecirc;n từ \"though\" v&agrave; \"but\" trong c&ugrave;ng c&acirc;u)</em></li>\n</ul>\n<p>Dịch: Daisy đến muộn, nhưng c&ocirc; đ&atilde; ho&agrave;n th&agrave;nh c&ocirc;ng việc sớm hơn những người kh&aacute;c.</p>\n<p>~ Daisy ho&agrave;n th&agrave;nh c&ocirc;ng việc sớm hơn những người kh&aacute;c mặc d&ugrave; c&ocirc; ấy đến muộn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 6129,
+      "questionNumber": 21,
+      "questionName": "Question 170. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>They decided to go for a picnic though it was very cold.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 16201,
+          "label": "A",
+          "text": "Because it was very cold, they decided to go for a picnic.",
+          "isCorrect": false
+        },
+        {
+          "id": 16202,
+          "label": "B",
+          "text": "However cold it was, they decided to go for a picnic.",
+          "isCorrect": true
+        },
+        {
+          "id": 16203,
+          "label": "C",
+          "text": "If it had been cold, they would not have gone for a picnic.",
+          "isCorrect": false
+        },
+        {
+          "id": 16204,
+          "label": "D",
+          "text": "It was very cold so they decided to go for a picnic.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 16202,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>although + clause</strong>: mặc d&ugrave;</p>\n<p><strong>however + clause</strong>: tuy nhi&ecirc;n</p>\n<p>because + clause: bởi v&igrave;</p>\n<p>if + clause: nếu</p>\n<p>so + clause: vậy n&ecirc;n</p>\n<p>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:</p>\n<ul>\n<li><em><span style=\"text-decoration: line-through;\"><strong>Because</strong></span> it was very cold, they decided to go for a picnic. (d&ugrave;ng sai li&ecirc;n từ)</em></li>\n<li><em><span style=\"text-decoration: line-through;\"><strong>If it had been cold</strong></span>, they would not have gone for a picnic. (việc trời lạnh l&agrave; một sự thật đ&atilde; diễn ra ở qu&aacute; khứ n&ecirc;n kh&ocirc;ng d&ugrave;ng c&acirc;u điều kiện loại 3)</em></li>\n<li><em>It was very cold <span style=\"text-decoration: line-through;\"><strong>so</strong></span> they decided to go for a picnic. (d&ugrave;ng sai li&ecirc;n từ)</em></li>\n</ul>\n<p>Dịch: Họ quyết định đi d&atilde; ngoại mặc d&ugrave; trời rất lạnh.</p>\n<p>~ Mặc d&ugrave; trời lạnh, họ quyết định đi d&atilde; ngoại.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 217034,
+      "questionNumber": 22,
+      "questionName": "Question 73:",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence using the word given so that it has the same meaning to the first.</em></p>\n<p><strong>Despite knowing the area well, I got lost. (EVEN)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "I got lost even though I knew the area well.",
+        "Even though I knew the area well, I got lost."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>even though + clause </strong>~ <strong>despite + N (phrase)/V-ing</strong>: mặc d&ugrave;</p>\n<p>Dịch: Mặc d&ugrave; t&ocirc;i biết r&otilde; khu vực n&agrave;y, t&ocirc;i vẫn bị lạc.</p>\n<p>~ T&ocirc;i đ&atilde; bị lạc mặc d&ugrave; t&ocirc;i biết r&otilde; khu vực n&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 322767,
+      "questionNumber": 23,
+      "questionName": "5-58b-Grammar practice upper inter 3rd-p.135",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence using the word given so that it has the same meaning to the first.</em></p>\n<p><strong>I'd like to eat out but I have to save money. (WHILE)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "While I'd like to eat out, I have to save money."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>but + clause</strong>: nhưng&nbsp;</p>\n<p><strong>while + clause</strong>: mặc d&ugrave;</p>\n<p>Dịch: T&ocirc;i muốn ăn ngo&agrave;i nhưng t&ocirc;i phải tiết kiệm tiền.</p>\n<p>~ Mặc d&ugrave; t&ocirc;i muốn ăn ngo&agrave;i, t&ocirc;i phải tiết kiệm tiền.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 197883,
+      "questionNumber": 24,
+      "questionName": "Question 75-76:",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence using the word given so that it has the same meaning to the first.</em></p>\n<p><strong>Although she was beautiful and intelligent, she didn't win the Miss World competition. (DESPITE)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Despite her beauty and intelligence, she didn't win the Miss World competition.",
+        "Despite the fact that she was beautiful and intelligent, she didn't win the Miss World competition.",
+        "Despite being beautiful and intelligent, she didn't win the Miss World competition."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>despite + V-ing/Noun </strong>~ <strong>despite the fact that + clause</strong>: mặc d&ugrave;</p>\n<p>Dịch: Mặc d&ugrave; th&ocirc;ng minh v&agrave; xinh đẹp, c&ocirc; ấy vẫn kh&ocirc;ng thắng cuộc thi Hoa hậu Thế giới.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 188842,
+      "questionNumber": 25,
+      "questionName": "Question 2",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete the second sentence so that it has the same meaning to the first.</span></em></p>\n<p><strong>Although he has an American name, he is in fact French. </strong></p>\n<p><strong>=&gt; Despite ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Despite having an American name, he is in fact French.",
+        "Despite the fact that he has an American name, he is in fact French.",
+        "Despite his American name, he is in fact French."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>although + clause</strong> ~ <strong>despite + N/V-ing</strong> ~ <strong>despite the fact that + clause</strong>: mặc d&ugrave;</p>\n<p>Dịch: Mặc d&ugrave; anh ấy c&oacute; t&ecirc;n Mỹ, thực tế anh ấy l&agrave; người Ph&aacute;p.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 182966,
+      "questionNumber": 26,
+      "questionName": "Question 72",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>In spite of his hard work, he couldn't earn enough money to afford a small house.</strong></p>\n<p><strong>=&gt; For all ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "For all his hard work , he couldn't earn enough money to afford a small house."
+      ],
+      "hint": "",
+      "explanation": "<p><strong> in spite of + N (phrase)/V-ing </strong>~ <strong>for all + N (phrase)</strong>:<span style=\"font-weight: 400;\"> mặc d&ugrave;, mặc cho</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Mặc d&ugrave; l&agrave;m việc chăm chỉ, anh ấy vẫn kh&ocirc;ng thể kiếm đủ tiền để mua một ng&ocirc;i nh&agrave; nhỏ.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

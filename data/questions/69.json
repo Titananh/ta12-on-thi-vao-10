@@ -1,0 +1,452 @@
+[
+  {
+    "id": "69_1",
+    "questionName": "Question 1",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_1_1",
+        "text": "books",
+        "html": "book<u>s</u>"
+      },
+      {
+        "id": "69_1_2",
+        "text": "cats",
+        "html": "cat<u>s</u>"
+      },
+      {
+        "id": "69_1_4",
+        "text": "maps",
+        "html": "map<u>s</u>"
+      },
+      {
+        "id": "69_1_3",
+        "text": "dogs",
+        "html": "dog<u>s</u>"
+      }
+    ],
+    "correctChoiceId": "69_1_3",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"dogs\"</strong> được phát âm là <strong>/z/</strong>, trong các từ còn lại được phát âm là <strong>/s/</strong>.</p><ul><li><strong>dogs</strong> /dɒɡz/ (âm /g/ hữu thanh)</li><li><strong>books</strong> /bʊks/</li><li><strong>cats</strong> /kæts/</li><li><strong>maps</strong> /mæps/</li></ul>",
+    "ruleTip": "Đuôi 's/es' sau âm vô thanh (/p/, /k/, /t/, /f/, /θ/) phát âm là /s/. Sau âm hữu thanh phát âm là /z/."
+  },
+  {
+    "id": "69_2",
+    "questionName": "Question 2",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_2_1",
+        "text": "watches",
+        "html": "watch<u>es</u>"
+      },
+      {
+        "id": "69_2_4",
+        "text": "apples",
+        "html": "apple<u>s</u>"
+      },
+      {
+        "id": "69_2_2",
+        "text": "boxes",
+        "html": "box<u>es</u>"
+      },
+      {
+        "id": "69_2_3",
+        "text": "buses",
+        "html": "bus<u>es</u>"
+      }
+    ],
+    "correctChoiceId": "69_2_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"apples\"</strong> được phát âm là <strong>/z/</strong>, các từ còn lại phát âm là <strong>/ɪz/</strong>.</p><ul><li><strong>apples</strong> /ˈæplz/</li><li><strong>watches</strong> /ˈwɒtʃɪz/</li><li><strong>boxes</strong> /ˈbɒksɪz/</li><li><strong>buses</strong> /ˈbʌsɪz/</li></ul>",
+    "ruleTip": "Đuôi 'es' sau các âm xuýt /s, z, ʃ, tʃ, dʒ, ʒ/ (ch, sh, x, s, ce, ge) đọc là /ɪz/."
+  },
+  {
+    "id": "69_3",
+    "questionName": "Question 3",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_3_4",
+        "text": "pens",
+        "html": "pen<u>s</u>"
+      },
+      {
+        "id": "69_3_1",
+        "text": "roofs",
+        "html": "roof<u>s</u>"
+      },
+      {
+        "id": "69_3_2",
+        "text": "cups",
+        "html": "cup<u>s</u>"
+      },
+      {
+        "id": "69_3_3",
+        "text": "banks",
+        "html": "bank<u>s</u>"
+      }
+    ],
+    "correctChoiceId": "69_3_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"pens\"</strong> được phát âm là <strong>/z/</strong>, các từ còn lại phát âm là <strong>/s/</strong>.</p><ul><li><strong>pens</strong> /penz/</li><li><strong>roofs</strong> /ruːfs/</li><li><strong>cups</strong> /kʌps/</li><li><strong>banks</strong> /bæŋks/</li></ul>",
+    "ruleTip": "Đuôi 's' sau âm /n/ hữu thanh đọc là /z/, sau /f, p, k/ vô thanh đọc là /s/."
+  },
+  {
+    "id": "69_4",
+    "questionName": "Question 4",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_4_1",
+        "text": "misses",
+        "html": "miss<u>es</u>"
+      },
+      {
+        "id": "69_4_4",
+        "text": "lives",
+        "html": "live<u>s</u>"
+      },
+      {
+        "id": "69_4_2",
+        "text": "changes",
+        "html": "chang<u>es</u>"
+      },
+      {
+        "id": "69_4_3",
+        "text": "washes",
+        "html": "wash<u>es</u>"
+      }
+    ],
+    "correctChoiceId": "69_4_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"lives\"</strong> được phát âm là <strong>/z/</strong>, các từ còn lại phát âm là <strong>/ɪz/</strong>.</p><ul><li><strong>lives</strong> /lɪvz/</li><li><strong>misses</strong> /ˈmɪsɪz/</li><li><strong>changes</strong> /ˈtʃeɪndʒɪz/</li><li><strong>washes</strong> /ˈwɒʃɪz/</li></ul>",
+    "ruleTip": "lives kết thúc bằng âm /v/ nên thêm -s đọc là /z/, các từ kia tận cùng là âm xuýt nên đọc là /ɪz/."
+  },
+  {
+    "id": "69_5",
+    "questionName": "Question 5",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_5_4",
+        "text": "stays",
+        "html": "stay<u>s</u>"
+      },
+      {
+        "id": "69_5_1",
+        "text": "laughs",
+        "html": "laugh<u>s</u>"
+      },
+      {
+        "id": "69_5_2",
+        "text": "coughs",
+        "html": "cough<u>s</u>"
+      },
+      {
+        "id": "69_5_3",
+        "text": "steps",
+        "html": "step<u>s</u>"
+      }
+    ],
+    "correctChoiceId": "69_5_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"stays\"</strong> được phát âm là <strong>/z/</strong>, các từ còn lại phát âm là <strong>/s/</strong>.</p><ul><li><strong>stays</strong> /steɪz/</li><li><strong>laughs</strong> /lɑːfs/</li><li><strong>coughs</strong> /kɒfs/</li><li><strong>steps</strong> /steps/</li></ul>",
+    "ruleTip": "Đuôi 's' sau nguyên âm đọc là /z/, sau âm vô thanh (/f/, /p/) đọc là /s/."
+  },
+  {
+    "id": "69_6",
+    "questionName": "Question 6",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_6_1",
+        "text": "stops",
+        "html": "stop<u>s</u>"
+      },
+      {
+        "id": "69_6_2",
+        "text": "looks",
+        "html": "look<u>s</u>"
+      },
+      {
+        "id": "69_6_3",
+        "text": "cleans",
+        "html": "clean<u>s</u>"
+      },
+      {
+        "id": "69_6_4",
+        "text": "visits",
+        "html": "visit<u>s</u>"
+      }
+    ],
+    "correctChoiceId": "69_6_3",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"cleans\"</strong> được phát âm là <strong>/z/</strong>, các từ còn lại phát âm là <strong>/s/</strong>.</p><ul><li><strong>cleans</strong> /kliːnz/</li><li><strong>stops</strong> /stɒps/</li><li><strong>looks</strong> /lʊks/</li><li><strong>visits</strong> /ˈvɪzɪts/</li></ul>",
+    "ruleTip": "cleans kết thúc bằng /n/ hữu thanh đọc là /z/, các từ còn lại tận cùng bằng âm vô thanh /p, k, t/ đọc là /s/."
+  },
+  {
+    "id": "69_7",
+    "questionName": "Question 7",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_7_4",
+        "text": "rides",
+        "html": "ride<u>s</u>"
+      },
+      {
+        "id": "69_7_1",
+        "text": "faces",
+        "html": "face<u>s</u>"
+      },
+      {
+        "id": "69_7_2",
+        "text": "places",
+        "html": "place<u>s</u>"
+      },
+      {
+        "id": "69_7_3",
+        "text": "horses",
+        "html": "horse<u>s</u>"
+      }
+    ],
+    "correctChoiceId": "69_7_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"rides\"</strong> được phát âm là <strong>/z/</strong>, các từ còn lại phát âm là <strong>/ɪz/</strong>.</p><ul><li><strong>rides</strong> /raɪdz/</li><li><strong>faces</strong> /ˈfeɪsɪz/</li><li><strong>places</strong> /ˈpleɪsɪz/</li><li><strong>horses</strong> /ˈhɔːsɪz/</li></ul>",
+    "ruleTip": "rides tận cùng là /d/ nên thêm -s phát âm là /z/, face, place, horse tận cùng là âm xuýt /s/ nên đọc là /ɪz/."
+  },
+  {
+    "id": "69_8",
+    "questionName": "Question 8",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_8_1",
+        "text": "laughs",
+        "html": "laugh<u>s</u>"
+      },
+      {
+        "id": "69_8_2",
+        "text": "hopes",
+        "html": "hope<u>s</u>"
+      },
+      {
+        "id": "69_8_3",
+        "text": "walks",
+        "html": "walk<u>s</u>"
+      },
+      {
+        "id": "69_8_4",
+        "text": "bags",
+        "html": "bag<u>s</u>"
+      }
+    ],
+    "correctChoiceId": "69_8_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"bags\"</strong> được phát âm là <strong>/z/</strong>, các từ còn lại phát âm là <strong>/s/</strong>.</p><ul><li><strong>bags</strong> /bæɡz/</li><li><strong>laughs</strong> /lɑːfs/</li><li><strong>hopes</strong> /həʊps/</li><li><strong>walks</strong> /wɔːks/</li></ul>",
+    "ruleTip": "laughs có 'gh' phát âm là /f/ (vô thanh) nên thêm -s đọc là /s/. 'bags' tận cùng là /g/ hữu thanh nên đọc là /z/."
+  },
+  {
+    "id": "69_9",
+    "questionName": "Question 9",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_9_2",
+        "text": "plates",
+        "html": "plate<u>s</u>"
+      },
+      {
+        "id": "69_9_3",
+        "text": "cups",
+        "html": "cup<u>s</u>"
+      },
+      {
+        "id": "69_9_1",
+        "text": "houses",
+        "html": "hous<u>es</u>"
+      },
+      {
+        "id": "69_9_4",
+        "text": "desks",
+        "html": "desk<u>s</u>"
+      }
+    ],
+    "correctChoiceId": "69_9_1",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"houses\"</strong> được phát âm là <strong>/ɪz/</strong>, các từ còn lại phát âm là <strong>/s/</strong>.</p><ul><li><strong>houses</strong> /ˈhaʊzɪz/</li><li><strong>plates</strong> /pleɪts/</li><li><strong>cups</strong> /kʌps/</li><li><strong>desks</strong> /desks/</li></ul>",
+    "ruleTip": "house /ˈhaʊs/ khi thêm -s đổi thành /ˈhaʊzɪz/ (/ɪz/), các từ còn lại tận cùng bằng /t, p, k/ đọc là /s/."
+  },
+  {
+    "id": "69_10",
+    "questionName": "Question 10",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_10_1",
+        "text": "dreams",
+        "html": "dream<u>s</u>"
+      },
+      {
+        "id": "69_10_3",
+        "text": "teaches",
+        "html": "teach<u>es</u>"
+      },
+      {
+        "id": "69_10_2",
+        "text": "songs",
+        "html": "song<u>s</u>"
+      },
+      {
+        "id": "69_10_4",
+        "text": "feels",
+        "html": "feel<u>s</u>"
+      }
+    ],
+    "correctChoiceId": "69_10_3",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"teaches\"</strong> được phát âm là <strong>/ɪz/</strong>, các từ còn lại phát âm là <strong>/z/</strong>.</p><ul><li><strong>teaches</strong> /ˈtiːtʃɪz/</li><li><strong>dreams</strong> /driːmz/</li><li><strong>songs</strong> /sɒŋz/</li><li><strong>feels</strong> /fiːlz/</li></ul>",
+    "ruleTip": "teach kết thúc bằng /tʃ/ nên thêm -es phát âm là /ɪz/, các từ còn lại kết thúc bằng phụ âm hữu thanh (/m, ŋ, l/) phát âm là /z/."
+  },
+  {
+    "id": "69_11",
+    "questionName": "Question 11",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_11_1",
+        "text": "matches",
+        "html": "match<u>es</u>"
+      },
+      {
+        "id": "69_11_2",
+        "text": "kisses",
+        "html": "kiss<u>es</u>"
+      },
+      {
+        "id": "69_11_4",
+        "text": "guides",
+        "html": "guide<u>s</u>"
+      },
+      {
+        "id": "69_11_3",
+        "text": "oranges",
+        "html": "orang<u>es</u>"
+      }
+    ],
+    "correctChoiceId": "69_11_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"guides\"</strong> được phát âm là <strong>/z/</strong>, các từ còn lại phát âm là <strong>/ɪz/</strong>.</p><ul><li><strong>guides</strong> /ɡaɪdz/</li><li><strong>matches</strong> /ˈmætʃɪz/</li><li><strong>kisses</strong> /ˈkɪsɪz/</li><li><strong>oranges</strong> /ˈɒrɪndʒɪz/</li></ul>",
+    "ruleTip": "guides tận cùng bằng /d/ nên đuôi -s phát âm là /z/, match (/tʃ/), kiss (/s/), orange (/dʒ/) tận cùng là âm xuýt nên phát âm là /ɪz/."
+  },
+  {
+    "id": "69_12",
+    "questionName": "Question 12",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_12_1",
+        "text": "breaths",
+        "html": "breath<u>s</u>"
+      },
+      {
+        "id": "69_12_2",
+        "text": "proofs",
+        "html": "proof<u>s</u>"
+      },
+      {
+        "id": "69_12_3",
+        "text": "laughs",
+        "html": "laugh<u>s</u>"
+      },
+      {
+        "id": "69_12_4",
+        "text": "days",
+        "html": "day<u>s</u>"
+      }
+    ],
+    "correctChoiceId": "69_12_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"days\"</strong> được phát âm là <strong>/z/</strong>, các từ còn lại phát âm là <strong>/s/</strong>.</p><ul><li><strong>days</strong> /deɪz/</li><li><strong>breaths</strong> /breθs/</li><li><strong>proofs</strong> /pruːfs/</li><li><strong>laughs</strong> /lɑːfs/</li></ul>",
+    "ruleTip": "breath (/θ/), proof (/f/), laugh (/f/) là âm vô thanh -> /s/. 'days' tận cùng là nguyên âm -> /z/."
+  },
+  {
+    "id": "69_13",
+    "questionName": "Question 13",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_13_4",
+        "text": "tables",
+        "html": "table<u>s</u>"
+      },
+      {
+        "id": "69_13_1",
+        "text": "fixes",
+        "html": "fix<u>es</u>"
+      },
+      {
+        "id": "69_13_2",
+        "text": "mixes",
+        "html": "mix<u>es</u>"
+      },
+      {
+        "id": "69_13_3",
+        "text": "prizes",
+        "html": "priz<u>es</u>"
+      }
+    ],
+    "correctChoiceId": "69_13_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"tables\"</strong> được phát âm là <strong>/z/</strong>, các từ còn lại phát âm là <strong>/ɪz/</strong>.</p><ul><li><strong>tables</strong> /ˈteɪblz/</li><li><strong>fixes</strong> /ˈfɪksɪz/</li><li><strong>mixes</strong> /ˈmɪksɪz/</li><li><strong>prizes</strong> /ˈpraɪzɪz/</li></ul>",
+    "ruleTip": "tables tận cùng bằng âm /l/ hữu thanh -> /z/, fixes, mixes, prizes tận cùng là /s, z/ -> /ɪz/."
+  },
+  {
+    "id": "69_14",
+    "questionName": "Question 14",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_14_1",
+        "text": "paints",
+        "html": "paint<u>s</u>"
+      },
+      {
+        "id": "69_14_2",
+        "text": "asks",
+        "html": "ask<u>s</u>"
+      },
+      {
+        "id": "69_14_4",
+        "text": "cooks",
+        "html": "cook<u>s</u>"
+      },
+      {
+        "id": "69_14_3",
+        "text": "reads",
+        "html": "read<u>s</u>"
+      }
+    ],
+    "correctChoiceId": "69_14_3",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"reads\"</strong> được phát âm là <strong>/z/</strong>, các từ còn lại phát âm là <strong>/s/</strong>.</p><ul><li><strong>reads</strong> /riːdz/</li><li><strong>paints</strong> /peɪnts/</li><li><strong>asks</strong> /ɑːsks/</li><li><strong>cooks</strong> /kʊks/</li></ul>",
+    "ruleTip": "reads tận cùng là /d/ hữu thanh -> /z/, paints (/t/), asks (/k/), cooks (/k/) tận cùng là âm vô thanh -> /s/."
+  },
+  {
+    "id": "69_15",
+    "questionName": "Question 15",
+    "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from that of the others.</strong></p>",
+    "choices": [
+      {
+        "id": "69_15_1",
+        "text": "bridges",
+        "html": "bridg<u>es</u>"
+      },
+      {
+        "id": "69_15_2",
+        "text": "dishes",
+        "html": "dish<u>es</u>"
+      },
+      {
+        "id": "69_15_4",
+        "text": "lakes",
+        "html": "lake<u>s</u>"
+      },
+      {
+        "id": "69_15_3",
+        "text": "judges",
+        "html": "judg<u>es</u>"
+      }
+    ],
+    "correctChoiceId": "69_15_4",
+    "explanation": "<p>Phần gạch chân trong từ <strong>\"lakes\"</strong> được phát âm là <strong>/s/</strong>, các từ còn lại phát âm là <strong>/ɪz/</strong>.</p><ul><li><strong>lakes</strong> /leɪks/</li><li><strong>bridges</strong> /ˈbrɪdʒɪz/</li><li><strong>dishes</strong> /ˈdɪʃɪz/</li><li><strong>judges</strong> /ˈdʒʌdʒɪz/</li></ul>",
+    "ruleTip": "lake kết thúc bằng /k/ nên thêm -s phát âm là /s/, bridge, dish, judge kết thúc bằng âm xuýt nên phát âm là /ɪz/."
+  }
+]

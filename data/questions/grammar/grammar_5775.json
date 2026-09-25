@@ -1,0 +1,999 @@
+{
+  "quizId": 5775,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 11: Present Simple tense (Thì hiện tại đơn)",
+  "totalQuestions": 23,
+  "questions": [
+    {
+      "id": 896002,
+      "questionNumber": 1,
+      "questionName": "a",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Vi&#7871;t ra c&#225;c t&#7915;/c&#7909;m t&#7915; l&#224; d&#7845;u hi&#7879;u nh&#7853;n bi&#7871;t c&#7911;a th&#236; hi&#7879;n t&#7841;i &#273;&#417;n trong c&#225;c c&#226;u sau.</strong></p>\n<p>Example: The buses go <span style=\"text-decoration: underline;\">every 10 minutes</span>. =&gt; <strong>every 10 minutes</strong></p>\n<p>1. Joseph buys a newspaper every Saturday. =&gt; <span class='fillblank-option'><label>1.1</label><input id='fbo-896002-0' class='ms fillblank-option-1' index='0' name='fbo-896002-0' type='text' size='18' autocomplete='off' data-testid='fillblank-input-896002-0' /></span></p>\n<p>2. Adam and Bella don't have to do homework on weekends. =&gt; <span class='fillblank-option'><label>1.2</label><input id='fbo-896002-1' class='ms fillblank-option-1' index='1' name='fbo-896002-1' type='text' size='12' autocomplete='off' data-testid='fillblank-input-896002-1' /></span></p>\n<p>3. People are often afraid of things they don't understand. =&gt; <span class='fillblank-option'><label>1.3</label><input id='fbo-896002-2' class='ms fillblank-option-1' index='2' name='fbo-896002-2' type='text' size='9' autocomplete='off' data-testid='fillblank-input-896002-2' /></span></p>\n<p>4. Children normally feel a lot of anxiety about their first day at school. =&gt; <span class='fillblank-option'><label>1.4</label><input id='fbo-896002-3' class='ms fillblank-option-1' index='3' name='fbo-896002-3' type='text' size='11' autocomplete='off' data-testid='fillblank-input-896002-3' /></span></p>\n<p>5. My mom helps me bake cookies three times a month. =&gt; <span class='fillblank-option'><label>1.5</label><input id='fbo-896002-4' class='ms fillblank-option-1' index='4' name='fbo-896002-4' type='text' size='20' autocomplete='off' data-testid='fillblank-input-896002-4' /></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "every Saturday"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "on weekends"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "often"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "normally"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "three times a month",
+            "3 times a month"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/1_-_Copy_2730_PNG_1bd6990b.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 896014,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#250;ng ta s&#7917; d&#7909;ng th&#236; hi&#7879;n t&#7841;i &#273;&#417;n &#273;&#7875; n&#243;i v&#7873;:&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1704438,
+          "label": "A",
+          "text": "những hành động, thói quen lặp đi lặp lại",
+          "isCorrect": true
+        },
+        {
+          "id": 1704439,
+          "label": "B",
+          "text": "những sự kiện tạm thời",
+          "isCorrect": false
+        },
+        {
+          "id": 1704440,
+          "label": "C",
+          "text": "trạng thái",
+          "isCorrect": true
+        },
+        {
+          "id": 1704441,
+          "label": "D",
+          "text": "sự thật hiển nhiên",
+          "isCorrect": true
+        },
+        {
+          "id": 1704442,
+          "label": "E",
+          "text": "những hành động trong quá khứ",
+          "isCorrect": false
+        },
+        {
+          "id": 1704443,
+          "label": "F",
+          "text": "những hành động được thiết lập theo thời gian biểu hoặc lịch trình",
+          "isCorrect": true
+        },
+        {
+          "id": 1704444,
+          "label": "Opt 7",
+          "text": "những tình huống cố định",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1704438,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 33.3594%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/1_-_Copy_2731_PNG_65729db6.png\" alt=\"\" width=\"400\" /></td>\n<td style=\"width: 33.3594%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/2_-_Copy_223_PNG_eb84d16d.png\" alt=\"\" width=\"400\" /></td>\n<td style=\"width: 33.3594%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/3_-_Copy_39_PNG_1feff3d3.png\" alt=\"\" width=\"400\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 896043,
+      "questionNumber": 3,
+      "questionName": "a",
+      "questionType": "Matching",
+      "questionText": "<p><strong>C&#225;ch s&#7917; d&#7909;ng c&#7911;a th&#236; hi&#7879;n t&#7841;i &#273;&#417;n trong m&#7895;i c&#226;u l&#224; g&#236;?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 33.3594%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/1_-_Copy_2731_PNG_65729db6.png\" alt=\"\" width=\"400\" /></td>\n<td style=\"width: 33.3594%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/2_-_Copy_223_PNG_eb84d16d.png\" alt=\"\" width=\"400\" /></td>\n<td style=\"width: 33.3594%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/3_-_Copy_39_PNG_1feff3d3.png\" alt=\"\" width=\"400\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 40539,
+      "questionNumber": 4,
+      "questionName": "Q47",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>The 203 bus (set off)</strong> <strong><span class='fillblank-option'><input id='fbo-40539-0' class='ms fillblank-option-4' index='0' name='fbo-40539-0' type='text' size='9' autocomplete='off' data-testid='fillblank-input-40539-0' /></span></strong> <strong>every fifteen minutes.</strong></p>\n<div style=\"position: absolute; left: -192px; top: -12px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "sets off"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại đơn được d&ugrave;ng để d<span style=\"font-weight: 400;\">iễn tả lịch tr&igrave;nh, thời gian biểu (cố định). Dấu hiệu: \"</span><strong>every fifteen minutes</strong>\".</p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + V(s/es)</strong></p>\n<p>Chủ ngữ trong c&acirc;u ở dạng số &iacute;t \"<strong>The 203 bus</strong>\". =&gt; Động từ chia ở dạng số &iacute;t (th&ecirc;m s/es).</p>\n<p>Dịch: Xe bu&yacute;t số 203 khởi h&agrave;nh mỗi mười lăm ph&uacute;t.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 63341,
+      "questionNumber": 5,
+      "questionName": "Question 1",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Viet Nam</strong><strong>&nbsp;(be)</strong><strong>&nbsp;<span class='fillblank-option'><input id='fbo-63341-0' class='ms fillblank-option-5' index='0' name='fbo-63341-0' type='text' size='5' autocomplete='off' data-testid='fillblank-input-63341-0' /></span> a country which exports a lot of rice.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "is"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại đơn được d&ugrave;ng để&nbsp;diễn tả một sự thật ở hiện tại.</p>\n<p>Cấu tr&uacute;c thể khẳng định với \"<strong>be</strong>\":<strong> S + is/am/are + ...</strong></p>\n<p>Chủ ngữ \"<strong>Viet Nam</strong>\" chỉ một đối tượng n&ecirc;n d&ugrave;ng động từ to be \"<strong>is</strong>\".<strong> </strong></p>\n<p>Dịch: Việt Nam l&agrave; một đất nước xuất khẩu nhiều gạo.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 179322,
+      "questionNumber": 6,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>My mom usually (do) <span class='fillblank-option'><input id='fbo-179322-0' class='ms fillblank-option-6' index='0' name='fbo-179322-0' type='text' size='7' autocomplete='off' data-testid='fillblank-input-179322-0' /></span> her shopping in our neighborhood, not in the town center.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "does"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Th&igrave; hiện tại đơn được d&ugrave;ng để d</span><span style=\"font-weight: 400;\">iễn tả th&oacute;i quen, h&agrave;nh động lặp đi lặp lại ở hiện tại. Dấu hiệu: \"<strong>usually</strong>\".</span></p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + V(s/es)...</strong></p>\n<p>Chủ ngữ l&agrave; \"<strong>she</strong>\" ở ng&ocirc;i thứ 3 số &iacute;t. =&gt; Động từ phải chia ở dạng số &iacute;t (th&ecirc;m s/es).</p>\n<p>Dịch: Mẹ t&ocirc;i thường mua sắm ở trong khu phố của ch&uacute;ng t&ocirc;i, kh&ocirc;ng phải ở trung t&acirc;m thị trấn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 68437,
+      "questionNumber": 7,
+      "questionName": "Question 2:",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>How much fruit <span class='fillblank-option'><label>2.1</label><input id='fbo-68437-0' class='ms fillblank-option-2' index='0' name='fbo-68437-0' type='text' size='7' autocomplete='off' data-testid='fillblank-input-68437-0' /></span> that farmer (produce) <span class='fillblank-option'><label>2.2</label><input id='fbo-68437-1' class='ms fillblank-option-2' index='1' name='fbo-68437-1' type='text' size='8' autocomplete='off' data-testid='fillblank-input-68437-1' /></span> every year?</strong><strong>&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "does"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "produce"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại đơn được d&ugrave;ng để n&oacute;i về một sự việc lặp đi lặp lại ở hiện tại. Dấu hiệu: \"<strong>every year</strong>\".</p>\n<p>Cấu tr&uacute;c thể nghi vấn: <strong>Wh-word + do/does + S + V(inf)?</strong></p>\n<p>Chủ ngữ \"<strong>that farmer</strong>\" ở dạng số &iacute;t n&ecirc;n d&ugrave;ng trợ động từ \"<strong>does</strong>\".&nbsp;</p>\n<p>Dịch: H&agrave;ng năm người n&ocirc;ng d&acirc;n đ&oacute; sản xuất được bao nhi&ecirc;u tr&aacute;i c&acirc;y?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 720027,
+      "questionNumber": 8,
+      "questionName": "Grammar Practice for Elementary Students 3rd-p.61",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>My sister (have) <span class='fillblank-option'><input id='fbo-720027-0' class='ms fillblank-option-1' index='0' name='fbo-720027-0' type='text' size='5' autocomplete='off' data-testid='fillblank-input-720027-0' /></span> deep brown eyes. They are so beautiful.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "has"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại đơn được d&ugrave;ng để diễn tả một sự thật ở hiện tại.&nbsp;</p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + V(s/es)</strong></p>\n<p>Chủ ngữ \"<strong>My sister</strong>\" chỉ một đối tượng n&ecirc;n động từ phải được chia ở dạng số &iacute;t (th&ecirc;m s/es).&nbsp;</p>\n<p>Dịch: Em g&aacute;i t&ocirc;i c&oacute; đ&ocirc;i mắt n&acirc;u s&acirc;u thẳm. Ch&uacute;ng rất đẹp.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 69635,
+      "questionNumber": 9,
+      "questionName": "Question 3",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Annually, the National Eisteddfod festival of Wales (take) <span class='fillblank-option'><input id='fbo-69635-0' class='ms fillblank-option-9' index='0' name='fbo-69635-0' type='text' size='7' autocomplete='off' data-testid='fillblank-input-69635-0' /></span> place for eight days at the start of August.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "takes"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại đơn được d&ugrave;ng để diễn tả h&agrave;nh động, sự việc xảy ra lặp đi lặp lại ở hiện tại. Dấu hiệu: \"<strong>Annually</strong>\".&nbsp;</p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + V(s/es)</strong></p>\n<p>Chủ ngữ \"<strong>the National Eisteddfod festival</strong>\" chỉ một đối tượng n&ecirc;n động từ phải được chia ở dạng số &iacute;t (th&ecirc;m s/es).</p>\n<p>Dịch: H&agrave;ng năm, lễ hội quốc gia Eisteddfod của xứ Wales diễn ra trong 8 ng&agrave;y bắt đầu từ th&aacute;ng 8.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 698069,
+      "questionNumber": 10,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Mrs. Alice _____ a bedtime story to her children every night.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1351161,
+          "label": "A",
+          "text": "<p>will read</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1351162,
+          "label": "B",
+          "text": "<p>read</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1351163,
+          "label": "C",
+          "text": "reads",
+          "isCorrect": true
+        },
+        {
+          "id": 1351164,
+          "label": "D",
+          "text": "<p>is reading</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1351163,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để điền động từ vào chỗ trống, bạn cần xác định thì của câu và đảm bảo sự hòa hợp chủ ngữ-động từ.</p>\n<ul>\n<li>Cụm từ <em>\"every night\"</em> chỉ một hành động diễn ra định kỳ, lặp đi lặp lại và là dấu hiệu của thì Hiện tại đơn.</li>\n<li>Chủ ngữ <em>\"Mrs. Alice\"</em> là danh từ số ít, tương ứng với ngôi thứ ba số ít.</li>\n</ul>\n<p>Dựa vào các dấu hiệu trên hãy tìm ra dạng động từ chính xác.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Hiện tại đơn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Thì Hiện tại đơn dùng để diễn tả thói quen, hành động lặp đi lặp lại hoặc sự thật hiển nhiên.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>S + V(s/es) (khi S là ngôi thứ ba số ít) </strong></li>\n<li style=\"text-align: justify;\"><strong> S + V(inf) (khi S là các ngôi còn lại)</strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm từ <em>\"every night\"</em> là dấu hiệu nhận biết của thì Hiện tại đơn, diễn tả một hành động lặp đi lặp lại. Chủ ngữ <em>\"Mrs. Alice\"</em> là danh từ số ít (ngôi thứ ba số ít), do đó động từ cần được chia ở dạng V(s/es). Phương án 3, <em>\"reads\"</em>, là dạng động từ ở thì Hiện tại đơn, chia theo ngôi thứ ba số ít, phù hợp với ngữ cảnh và quy tắc ngữ pháp của câu.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều là các dạng động từ không phù hợp để sử dụng ở thì Hiện tại đơn hoặc không hòa hợp với chủ ngữ <em>\"Mrs. Alice\".</em></p>",
+      "answerFeedbacks": {
+        "1351161": "<p>Sai vì thì Tương lai đơn không dùng để diễn tả thói quen hay hành động lặp đi lặp lại.</p>",
+        "1351162": "<p>Sai vì đây là dạng quá khứ đơn của động từ \"read\" hoặc dạng nguyên mẫu không chia, không phù hợp với chủ ngữ \"Mrs. Alice\" và trạng từ \"every night\" trong thì hiện tại đơn.</p>",
+        "1351163": "Đúng vì <em>\"reads\"</em> là dạng động từ thì Hiện tại đơn, hòa hợp với chủ ngữ ngôi thứ ba số ít <em>\"Mrs. Alice\"</em> và diễn tả hành động lặp lại theo dấu hiệu <em>\"every night\"</em>.",
+        "1351164": "<p>Sai vì thì Hiện tại tiếp diễn dùng để diễn tả hành động đang xảy ra tại thời điểm nói hoặc một sự việc tạm thời, không dùng cho thói quen lặp lại.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 41974,
+      "questionNumber": 11,
+      "questionName": "III. 13",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Leon never _____ about it, but he was once a world champion skier. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 122893,
+          "label": "A",
+          "text": "talks",
+          "isCorrect": true
+        },
+        {
+          "id": 122894,
+          "label": "B",
+          "text": "is talking",
+          "isCorrect": false
+        },
+        {
+          "id": 122895,
+          "label": "C",
+          "text": "was talking",
+          "isCorrect": false
+        },
+        {
+          "id": 122896,
+          "label": "D",
+          "text": "talk",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 122893,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Th&igrave; hiện tại đơn được d&ugrave;ng để d</span><span style=\"font-weight: 400;\">iễn tả th&oacute;i quen. Dấu hiệu: \"<strong>never</strong>\".</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c thể khẳng định:</span><strong>&nbsp;S + V(s/es)...</strong></p>\n<p>Chủ ngữ \"<strong>Leon</strong>\" chỉ một đối tượng n&ecirc;n động từ phải chia ở dạng số &iacute;t (th&ecirc;m s/es).&nbsp;&nbsp;</p>\n<p>Dịch: Leon kh&ocirc;ng bao giờ n&oacute;i về n&oacute;, nhưng anh ấy đ&atilde; từng l&agrave; một vận động vi&ecirc;n trượt tuyết v&ocirc; địch thế giới.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 740579,
+      "questionNumber": 12,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What housework _____ your family members do every day?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1431034,
+          "label": "A",
+          "text": "does",
+          "isCorrect": false
+        },
+        {
+          "id": 1431035,
+          "label": "B",
+          "text": "do",
+          "isCorrect": true
+        },
+        {
+          "id": 1431036,
+          "label": "C",
+          "text": "are",
+          "isCorrect": false
+        },
+        {
+          "id": 1431037,
+          "label": "D",
+          "text": "is",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1431035,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn trợ động từ đúng trong câu hỏi, bạn cần xác định:</p>\n<ul>\n<li>Dấu hiệu nhận biết từ <em>\"every day\"</em> gợi ý thì gì?</li>\n<li>Chủ ngữ <em>\"your family members\"</em> là danh từ số ít hay số nhiều?</li>\n<li>Quy tắc hòa hợp chủ vị <em>\"do\"</em> đi với chủ ngữ số nhiều (I, you, we, they) và <em>\"does\"</em> đi với chủ ngữ số ít (he, she, it).</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Hiện tại đơn: Câu hỏi với từ để hỏi</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Thì hiện tại đơn dược dùng để diễn tả hành động lặp đi lặp lại, thói quen, sự thật hiển nhiên hoặc lịch trình cố định.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">Wh-word + do/does + S + V(inf)?</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu hỏi có trạng từ chỉ tần suất <em>\"every day\"</em> cho thấy đây là thì Hiện tại đơn. Trong câu hỏi với <em>Wh-word</em>, trợ động từ <em>\"do/does\"</em> phải hòa hợp với chủ ngữ. Chủ ngữ <em>\"your family members\"</em> là danh từ số nhiều, do đó cần sử dụng trợ động từ <em>\"do\"</em>.</p>\n<p style=\"text-align: justify;\">Các phương án ''<em>are</em>'' và ''<em>is</em>'' là dạng của động từ <em>\"to be\"</em> không phù hợp để sử dụng trong câu hỏi thì Hiện tại đơn, phương án ''does'' không hòa hợp với chủ ngữ <em>\"your family members\".</em></p>",
+      "answerFeedbacks": {
+        "1431034": "Sai vì chủ ngữ <em>\"your family members\"</em> là danh từ số nhiều, cần trợ động từ <em>\"do\"</em>.",
+        "1431035": "Đúng vì <em>\"do\"</em> là trợ động từ phù hợp với chủ ngữ số nhiều <em>\"your family members\"</em> trong câu hỏi thì Hiện tại đơn.",
+        "1431036": "Sai vì <em>\"are\"</em> là dạng của động từ <em>\"to be\"</em>, không phải trợ động từ cho động từ chính <em>\"do\"</em> trong câu hỏi thì Hiện tại đơn.",
+        "1431037": "Sai vì <em>\"is\"</em> là dạng của động từ <em>\"to be\"</em> dành cho chủ ngữ số ít, không phù hợp với ngữ cảnh và động từ chính <em>\"do\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 123246,
+      "questionNumber": 13,
+      "questionName": "35",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Robert is so clumsy with words that whenever he _____ his mouth, he _____ somebody.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 290041,
+          "label": "A",
+          "text": "opens / insults",
+          "isCorrect": true
+        },
+        {
+          "id": 290042,
+          "label": "B",
+          "text": "opened / is insulted",
+          "isCorrect": false
+        },
+        {
+          "id": 290043,
+          "label": "C",
+          "text": "will open / has insulted",
+          "isCorrect": false
+        },
+        {
+          "id": 290044,
+          "label": "D",
+          "text": "will have opened / is insulting",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 290041,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Th&igrave; hiện tại đơn được d&ugrave;ng để d</span><span style=\"font-weight: 400;\">iễn tả th&oacute;i quen, h&agrave;nh động lặp đi lặp lại ở hiện tại.</span></p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + V(s/es)...</strong></p>\n<p>Chủ ngữ l&agrave; \"<strong>he</strong>\" ở ng&ocirc;i thứ 3 số &iacute;t n&ecirc;n động từ phải chia ở dạng số &iacute;t (th&ecirc;m s/es).</p>\n<p>Dịch: Robert rất vụng về với từ ngữ đến nỗi m&agrave; cứ khi n&agrave;o anh ấy n&oacute;i g&igrave; đ&oacute;, anh ấy đều x&uacute;c phạm người kh&aacute;c.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 704418,
+      "questionNumber": 14,
+      "questionName": "(*) Understanding and Using English Grammar - page 12",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Jack and his friends _____ hamburger for lunch every Tuesday.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1367073,
+          "label": "A",
+          "text": "eat",
+          "isCorrect": true
+        },
+        {
+          "id": 1367074,
+          "label": "B",
+          "text": "is eating",
+          "isCorrect": false
+        },
+        {
+          "id": 1367075,
+          "label": "C",
+          "text": "will eat",
+          "isCorrect": false
+        },
+        {
+          "id": 1367076,
+          "label": "D",
+          "text": "ate",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1367073,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn đáp án đúng, bạn cần xác định thì của câu dựa vào dấu hiệu thời gian. Cụm từ \"<em>every Tuesday</em>\" cho biết hành động này là một thói quen lặp đi lặp lại. Sau đó, hãy chú ý đến chủ ngữ \"<em>Jack and his friends</em>\" là số nhiều để chia động từ cho phù hợp với <strong>thì Hiện tại đơn</strong>.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Hiện tại đơn</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một thói quen, hành động lặp đi lặp lại hoặc sự thật hiển nhiên.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">S (N số nhiều/đại từ I, You, We, They) + V(inf) + O</span></strong></li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">S (N số ít/đại từ He, She, It) + V(s/es) + O</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm từ \"<em>every Tuesday</em>\" là dấu hiệu nhận biết của thì Hiện tại đơn, dùng để diễn tả một thói quen hoặc hành động lặp đi lặp lại. Chủ ngữ \"<em>Jack and his friends</em>\" là một danh từ số nhiều, do đó động từ theo sau phải ở dạng nguyên mẫu (<em>V-inf</em>).</p>\n<p style=\"text-align: justify;\">Phương án 1 \"<em>eat</em>\" là dạng động từ nguyên mẫu, phù hợp với chủ ngữ số nhiều và thì Hiện tại đơn. Các phương án còn lại không phù hợp với ngữ cảnh của câu vì \"<em>is eating</em>\" là thì Hiện tại tiếp diễn, \"<em>will eat</em>\" là thì Tương lai đơn còn \"<em>ate</em>\" là thì Quá khứ đơn.</p>",
+      "answerFeedbacks": {
+        "1367073": "Đây là dạng động từ nguyên mẫu phù hợp với chủ ngữ số nhiều \"Jack and his friends\" và dấu hiệu \"every Tuesday\" của thì Hiện tại đơn.",
+        "1367074": "Thì Hiện tại tiếp diễn dùng để diễn tả hành động đang diễn ra tại thời điểm nói, không phù hợp với ngữ cảnh chỉ thói quen lặp lại.",
+        "1367075": "Thì Tương lai đơn dùng để diễn tả hành động sẽ xảy ra trong tương lai, không phù hợp với ngữ cảnh chỉ thói quen lặp lại.",
+        "1367076": "Thì Quá khứ đơn dùng để diễn tả hành động đã xảy ra và kết thúc trong quá khứ, không phù hợp với ngữ cảnh chỉ thói quen lặp lại."
+      },
+      "images": []
+    },
+    {
+      "id": 147074,
+      "questionNumber": 15,
+      "questionName": "I have art",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "once a week",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "three",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "I",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "and English",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "times",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "Art",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "a week.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "have",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 147295,
+      "questionNumber": 16,
+      "questionName": "I write new words",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "their meanings",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "new words",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "always",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "learn",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "in sentences.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "write",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "I",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 855976,
+      "questionNumber": 17,
+      "questionName": "1",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "have",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "often",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "face-to-face conversations",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "with",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "Does Anna",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "her friends?",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 857398,
+      "questionNumber": 18,
+      "questionName": "1",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "music",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "to bed.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "always listen",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "go",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "before they",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "at",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "night",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 9",
+          "text": "My parents",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 869758,
+      "questionNumber": 19,
+      "questionName": "q",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "provides",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "constant power supply.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "Geothermal energy",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "clean",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "is",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 211003,
+      "questionNumber": 20,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Nowadays we <span style=\"text-decoration: underline;\">always</span>&nbsp;<u>found</u> people checking emails in a restaurant, <span style=\"text-decoration: underline;\">taking</span> a picture of the food <span style=\"text-decoration: underline;\">when</span> it arrives.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 475153,
+          "label": "A",
+          "text": "always",
+          "isCorrect": false
+        },
+        {
+          "id": 475154,
+          "label": "B",
+          "text": "found",
+          "isCorrect": true
+        },
+        {
+          "id": 475155,
+          "label": "C",
+          "text": "taking",
+          "isCorrect": false
+        },
+        {
+          "id": 475156,
+          "label": "D",
+          "text": "when",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 475154,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại đơn được d&ugrave;ng để diễn tả th&oacute;i quen, h&agrave;nh động lặp đi lặp lại hoặc sự việc c&oacute; t&iacute;nh l&acirc;u d&agrave;i ở hiện tại. Dấu hiệu: \"<strong>always</strong>\" v&agrave; \"<strong>nowadays</strong>\".</p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + V(s/es)</strong></p>\n<p>Chủ ngữ \"<strong>we</strong>\" l&agrave; ng&ocirc;i thứ nhất số nhiều =&gt; động từ \"<strong>find</strong>\" được chia ở dạng số nhiều (dạng nguy&ecirc;n thể).</p>\n<p>\"<strong>found</strong>\" l&agrave; dạng qu&aacute; khứ của động từ \"<strong>find</strong>\".&nbsp;</p>\n<p>Sửa: \"<strong>found</strong>\" =&gt; \"<strong>find</strong>\"</p>\n<p>Dịch: Ng&agrave;y nay, ch&uacute;ng ta lu&ocirc;n thấy mọi người kiểm tra email trong nh&agrave; h&agrave;ng, chụp ảnh m&oacute;n ăn khi n&oacute; được mang tới b&agrave;n.</p>\n<div id=\"eJOY__extension_root\" class=\"eJOY__extension_root_class\" style=\"all: unset;\"></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 211004,
+      "questionNumber": 21,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">Speak</span> slowly <span style=\"text-decoration: underline;\">to</span> Jim and Ann <span style=\"text-decoration: underline;\">because</span> they <span style=\"text-decoration: underline;\">didn't</span> speak English very well.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 475157,
+          "label": "A",
+          "text": "speak",
+          "isCorrect": false
+        },
+        {
+          "id": 475158,
+          "label": "B",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 475159,
+          "label": "C",
+          "text": "because",
+          "isCorrect": false
+        },
+        {
+          "id": 475160,
+          "label": "D",
+          "text": "didn't",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 475160,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại đơn được d&ugrave;ng để diễn tả một sự thật ở hiện tại.</p>\n<p>Cấu tr&uacute;c thể phủ định: <strong>S + do/does + not + V(inf)</strong></p>\n<p>Chủ ngữ \"<strong>they</strong>\" l&agrave; ng&ocirc;i thứ 3 số nhiều =&gt; d&ugrave;ng trợ động từ \"<strong>do</strong>\".</p>\n<p>Sửa: \"<strong>didn't</strong>\" =&gt; \"<strong>don't</strong>\" hoặc \"<strong>do not</strong>\"</p>\n<p>Dịch: H&atilde;y n&oacute;i tiếng Anh với Jim v&agrave; Ann thật chậm r&atilde;i v&igrave; họ n&oacute;i tiếng Anh kh&ocirc;ng tốt lắm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 627434,
+      "questionNumber": 22,
+      "questionName": "47",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Rice <span style=\"text-decoration: underline;\">play</span> a <span style=\"text-decoration: underline;\">central</span> part <span style=\"text-decoration: underline;\">in</span> Vietnamese people's <span style=\"text-decoration: underline;\">eating</span> habits.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1207241,
+          "label": "A",
+          "text": "play",
+          "isCorrect": true
+        },
+        {
+          "id": 1207242,
+          "label": "B",
+          "text": "central",
+          "isCorrect": false
+        },
+        {
+          "id": 1207243,
+          "label": "C",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 1207244,
+          "label": "D",
+          "text": "eating",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1207241,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Th&igrave; hiện tại đơn được d&ugrave;ng để d</span><span style=\"font-weight: 400;\">iễn tả một sự thật ở hiện tại.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c thể khẳng định: <strong>S + V(s/es)</strong></span></p>\n<p>Chủ ngữ \"<strong>Rice</strong>\" l&agrave; chủ ngữ số &iacute;t n&ecirc;n động từ \"<strong>play</strong>\" được chia ở dạng số &iacute;t (th&ecirc;m \"<strong>s</strong>\").</p>\n<p>Sửa: \"<strong>play</strong>\" =&gt; \"<strong>plays</strong>\"</p>\n<p>Dịch: Cơm đ&oacute;ng vai tr&ograve; trung t&acirc;m trong th&oacute;i quen ăn uống của người Việt Nam.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 763561,
+      "questionNumber": 23,
+      "questionName": "(*)1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Her brother <span style=\"text-decoration: underline;\">thinks</span> pop music <span style=\"text-decoration: underline;\">is</span> boring so he <span style=\"text-decoration: underline;\">don't</span> like this kind <span style=\"text-decoration: underline;\">of</span> music.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1470113,
+          "label": "A",
+          "text": "thinks",
+          "isCorrect": false
+        },
+        {
+          "id": 1470114,
+          "label": "B",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "id": 1470115,
+          "label": "C",
+          "text": "don't",
+          "isCorrect": true
+        },
+        {
+          "id": 1470116,
+          "label": "D",
+          "text": "of",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1470115,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Th&igrave; hiện tại đơn được d&ugrave;ng để diễn tả một sự thật ở hiện tại.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c thể phủ định: </span><strong>S + do/does + not + V(inf)</strong></p>\n<p>Chủ ngữ \"<strong>Her brother</strong>\" ở dạng số &iacute;t =&gt; d&ugrave;ng trợ động từ \"<strong>does</strong>\".</p>\n<p>Sửa: \"<strong>don't</strong>\" =&gt; \"<strong>doesn't</strong>\"</p>\n<p>Dịch: Anh trai c&ocirc; cho rằng nhạc pop nh&agrave;m ch&aacute;n n&ecirc;n anh ấy kh&ocirc;ng th&iacute;ch thể loại nhạc n&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

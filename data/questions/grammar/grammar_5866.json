@@ -1,0 +1,979 @@
+{
+  "quizId": 5866,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 18: Present perfect tense (Thì hiện tại hoàn thành)",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "id": 898236,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "Matching",
+      "questionText": "<p><strong>C&#225;ch d&#249;ng c&#7911;a th&#236; hi&#7879;n t&#7841;i ho&#224;n th&#224;nh trong c&#225;c c&#226;u sau l&#224; g&#236;?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 49.7293%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/7_-_Copy_10_27e5d3f5.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7293%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/8_-_Copy_9_b4cc1144.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 898237,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ho&#224;n th&#224;nh c&#226;u v&#7899;i SINCE v&#224; FOR.</strong></p>\n<p>1. I haven't seen John <span class='fillblank-option'><label>2.1</label><input id='fbo-898237-0' class='ms fillblank-option-2' index='0' name='fbo-898237-0' type='text' size='6' autocomplete='off' data-testid='fillblank-input-898237-0' /></span> Sunday. He's disappeared.</p>\n<p>2. I'm hungry. I haven't eaten anything <span class='fillblank-option'><label>2.2</label><input id='fbo-898237-1' class='ms fillblank-option-2' index='1' name='fbo-898237-1' type='text' size='5' autocomplete='off' data-testid='fillblank-input-898237-1' /></span> hours.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "since"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "for"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/10_-_Copy_14_6164f450.png\" alt=\"\" width=\"600\" /></p>\n<p>1.<strong> since + mốc thời gian</strong>: từ bao giờ</p>\n<p>\"<strong>Sunday</strong>\" l&agrave; mốc thời gian</p>\n<p>Dịch:&nbsp;T&ocirc;i đ&atilde; kh&ocirc;ng gặp John kể từ Chủ nhật. Anh ấy đ&atilde; biến mất.</p>\n<p>2.<strong> for + khoảng thời gian</strong>: trong bao l&acirc;u</p>\n<p>\"<strong>hours</strong>\" l&agrave; khoảng thời gian</p>\n<p>Dịch: T&ocirc;i đ&oacute;i. T&ocirc;i đ&atilde; kh&ocirc;ng ăn g&igrave; cả trong v&agrave;i giờ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 898240,
+      "questionNumber": 3,
+      "questionName": "3",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ho&#224;n th&#224;nh c&#226;u v&#7899;i NEVER v&#224; EVER.</strong></p>\n<p>1. This is the only time the children have <span class='fillblank-option'><label>3.1</label><input id='fbo-898240-0' class='ms fillblank-option-3' index='0' name='fbo-898240-0' type='text' size='8' autocomplete='off' data-testid='fillblank-input-898240-0' /></span>&nbsp;been to the theatre.</p>\n<p>2. He&#8217;s <span class='fillblank-option'><label>3.2</label><input id='fbo-898240-1' class='ms fillblank-option-3' index='1' name='fbo-898240-1' type='text' size='9' autocomplete='off' data-testid='fillblank-input-898240-1' /></span> heard of Michael Jackson. I can&#8217;t believe he doesn&#8217;t know the King of Pop!</p>\n<p>3. &nbsp;Have you <span class='fillblank-option'><label>3.3</label><input id='fbo-898240-2' class='ms fillblank-option-3' index='2' name='fbo-898240-2' type='text' size='7' autocomplete='off' data-testid='fillblank-input-898240-2' /></span> seen a tiger? - No, I've <span class='fillblank-option'><label>3.4</label><input id='fbo-898240-3' class='ms fillblank-option-3' index='3' name='fbo-898240-3' type='text' size='9' autocomplete='off' data-testid='fillblank-input-898240-3' /></span> seen a tiger before.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "ever"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "never"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "ever"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "never"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 49.7324%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/11_-_Copy_13_b48d8f4c.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7324%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/12_-_Copy_13_736b2851.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>\n<p><strong>ever </strong>(adv.): đ&atilde; từng &nbsp;</p>\n<p><strong>never </strong>(adv.):&nbsp;chưa từng, kh&ocirc;ng bao giờ</p>\n<p>Dịch:&nbsp;</p>\n<p>1. Đ&acirc;y l&agrave; lần duy nhất bọn trẻ từng đến rạp h&aacute;t.</p>\n<p>2.&nbsp;Anh ấy chưa từng nghe về Michael Jackson. T&ocirc;i kh&ocirc;ng thể tin được l&agrave; anh ấy kh&ocirc;ng biết \"Vua nhạc Pop\"!</p>\n<p>3. Bạn đ&atilde; từng thấy hổ chưa? - Kh&ocirc;ng, t&ocirc;i chưa bao giờ thấy hổ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 898249,
+      "questionNumber": 4,
+      "questionName": "4",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ho&#224;n th&#224;nh c&#226;u v&#7899;i ALREADY, YET v&#224; JUST.</strong></p>\n<p>1. Don't come in here with those dirty shoes! I have <span class='fillblank-option'><label>4.1</label><input id='fbo-898249-0' class='ms fillblank-option-4' index='0' name='fbo-898249-0' type='text' size='10' autocomplete='off' data-testid='fillblank-input-898249-0' /></span> cleaned this floor!</p>\n<p>2. I don't want to see &quot;Alien 9&quot; at the cinema again. I've <span class='fillblank-option'><label>4.2</label><input id='fbo-898249-1' class='ms fillblank-option-4' index='1' name='fbo-898249-1' type='text' size='9' autocomplete='off' data-testid='fillblank-input-898249-1' /></span>&nbsp;seen it twice.</p>\n<p>3. You didn't miss much. The play has only <span class='fillblank-option'><label>4.3</label><input id='fbo-898249-2' class='ms fillblank-option-4' index='2' name='fbo-898249-2' type='text' size='7' autocomplete='off' data-testid='fillblank-input-898249-2' /></span>&nbsp;started.</p>\n<p>4. &nbsp;They say Titanic is an interesting movie, but I haven't seen it <span class='fillblank-option'><label>4.4</label><input id='fbo-898249-3' class='ms fillblank-option-4' index='3' name='fbo-898249-3' type='text' size='7' autocomplete='off' data-testid='fillblank-input-898249-3' /></span>.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "just",
+            "already"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "already"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "just"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "yet"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/13_-_Copy_8_876a8c3f.png\" alt=\"\" width=\"600\" /></p>\n<p>Dấu hiệu của th&igrave; hiện tại ho&agrave;n th&agrave;nh: <strong>just/yet/already</strong></p>\n<p><strong>just</strong> (adv.): vừa mới (đứng giữa trợ động từ \"<em>have</em>\" v&agrave; động từ ch&iacute;nh <em>V(pp))</em></p>\n<p><strong>yet</strong> (adv.): chưa, c&ograve;n chưa (thường đứng cuối c&acirc;u hỏi/c&acirc;u phủ định)</p>\n<p><strong>already </strong>(adv.): rồi, đ&atilde; ... rồi (đứng giữa trợ động từ \"<em>have</em>\" v&agrave; động từ ch&iacute;nh <em>V(pp)</em>, hoặc đứng cuối c&acirc;u)</p>\n<p>Dịch:&nbsp;</p>\n<p>1.&nbsp;Đừng v&agrave;o đ&acirc;y với đ&ocirc;i gi&agrave;y bẩn đ&oacute;! T&ocirc;i vừa mới lau sạch s&agrave;n nh&agrave; rồi!</p>\n<p>2. T&ocirc;i kh&ocirc;ng muốn xem \"Alien 9\" ở rạp nữa. T&ocirc;i đ&atilde; xem n&oacute; hai lần rồi.</p>\n<p>3. Bạn kh&ocirc;ng bỏ lỡ g&igrave; nhiều đ&acirc;u. Vở kịch chỉ mới bắt đầu.</p>\n<p>4. Họ n&oacute;i Titanic l&agrave; một bộ phim th&uacute; vị, nhưng t&ocirc;i vẫn chưa xem n&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 898254,
+      "questionNumber": 5,
+      "questionName": "5",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#7885;n t&#7915;/c&#7909;m t&#7915; l&#224; d&#7845;u hi&#7879;u nh&#7853;n bi&#7871;t c&#7911;a th&#236; hi&#7879;n t&#7841;i ho&#224;n th&#224;nh.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1707848,
+          "label": "A",
+          "text": "up to now",
+          "isCorrect": true
+        },
+        {
+          "id": 1707849,
+          "label": "B",
+          "text": "last year",
+          "isCorrect": false
+        },
+        {
+          "id": 1707850,
+          "label": "C",
+          "text": "lately",
+          "isCorrect": true
+        },
+        {
+          "id": 1707851,
+          "label": "D",
+          "text": "so far",
+          "isCorrect": true
+        },
+        {
+          "id": 1707852,
+          "label": "E",
+          "text": "at 8 yesterday",
+          "isCorrect": false
+        },
+        {
+          "id": 1707853,
+          "label": "F",
+          "text": "until now",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1707848,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/9_-_Copy_10_f95bd096.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 898255,
+      "questionNumber": 6,
+      "questionName": "6",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Vi&#7871;t d&#7841;ng qu&#225; kh&#7913; ph&#226;n t&#7915; c&#7911;a c&#225;c &#273;&#7897;ng t&#7915; sau.&nbsp;</strong></p>\n<p>V&#237; d&#7909;:<strong> </strong>bake =&gt; baked</p>\n<p>1. teach =&gt; <span class='fillblank-option'><label>6.1</label><input id='fbo-898255-0' class='ms fillblank-option-6' index='0' name='fbo-898255-0' type='text' size='10' autocomplete='off' data-testid='fillblank-input-898255-0' /></span></p>\n<p>2. write =&gt; <span class='fillblank-option'><label>6.2</label><input id='fbo-898255-1' class='ms fillblank-option-6' index='1' name='fbo-898255-1' type='text' size='10' autocomplete='off' data-testid='fillblank-input-898255-1' /></span></p>\n<p>3. do =&gt; <span class='fillblank-option'><label>6.3</label><input id='fbo-898255-2' class='ms fillblank-option-6' index='2' name='fbo-898255-2' type='text' size='7' autocomplete='off' data-testid='fillblank-input-898255-2' /></span></p>\n<p>4. refer =&gt; <span class='fillblank-option'><label>6.4</label><input id='fbo-898255-3' class='ms fillblank-option-6' index='3' name='fbo-898255-3' type='text' size='9' autocomplete='off' data-testid='fillblank-input-898255-3' /></span></p>\n<p>5. hurt =&gt; <span class='fillblank-option'><label>6.5</label><input id='fbo-898255-4' class='ms fillblank-option-6' index='4' name='fbo-898255-4' type='text' size='8' autocomplete='off' data-testid='fillblank-input-898255-4' /></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "taught"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "written"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "done"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "referred"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "hurt"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 49.7354%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/5_-_Copy_15_86752691.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7354%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/6_-_Copy_12_b448bfda.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 51186,
+      "questionNumber": 7,
+      "questionName": "Question 7:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>She has been out of work _____ a long time.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 144919,
+          "label": "A",
+          "text": "during",
+          "isCorrect": false
+        },
+        {
+          "id": 144920,
+          "label": "B",
+          "text": "for",
+          "isCorrect": true
+        },
+        {
+          "id": 144921,
+          "label": "C",
+          "text": "since",
+          "isCorrect": false
+        },
+        {
+          "id": 144922,
+          "label": "D",
+          "text": "through",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 144920,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">H&atilde;y nhớ rằng giới từ <em>for</em> v&agrave; <em>since</em> thường được d&ugrave;ng với th&igrave; Hiện tại Ho&agrave;n th&agrave;nh. <em>For</em> được d&ugrave;ng để chỉ khoảng thời gian (duration), trong khi <em>since</em> được d&ugrave;ng để chỉ mốc thời gian (point in time).</p>\n<p style=\"text-align: justify;\">H&atilde;y x&aacute;c định xem \"<em>a long time</em>\" trong c&acirc;u được d&ugrave;ng để &aacute;m chỉ khoảng hay mốc thời gian.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Giới từ chỉ thời gian trong th&igrave; Hiện tại Ho&agrave;n th&agrave;nh</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c giới từ n&agrave;y được sử dụng để diễn tả khoảng thời gian hoặc điểm thời gian m&agrave; một h&agrave;nh động, sự việc đ&atilde; diễn ra v&agrave; k&eacute;o d&agrave;i đến hiện tại, thường đi k&egrave;m với th&igrave; Hiện tại Ho&agrave;n th&agrave;nh hoặc Hiện tại Ho&agrave;n th&agrave;nh Tiếp diễn.</p>\n<p style=\"text-align: justify;\"><strong>Một số giới từ chỉ thời gian phổ biến với th&igrave; Hiện tại Ho&agrave;n th&agrave;nh:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">for + khoảng thời gian</span></strong>: trong (khoảng thời gian) (diễn tả độ d&agrave;i của khoảng thời gian)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">since + mốc thời gian</span></strong>: kể từ khi (mốc thời gian) (diễn tả điểm bắt đầu của một h&agrave;nh động)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, động từ \"has been\" cho thấy đ&acirc;y l&agrave; th&igrave; hiện tại ho&agrave;n th&agrave;nh, diễn tả một h&agrave;nh động bắt đầu trong qu&aacute; khứ v&agrave; k&eacute;o d&agrave;i đến hiện tại. Cụm từ \"a long time\" l&agrave; một khoảng thời gian, do đ&oacute; ch&uacute;ng ta cần d&ugrave;ng giới từ \"for\" để chỉ độ d&agrave;i của khoảng thời gian n&agrave;y. C&aacute;c phương &aacute;n:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 \"<em>since</em>\" d&ugrave;ng để chỉ mốc thời gian bắt đầu của h&agrave;nh động, kh&ocirc;ng d&ugrave;ng với khoảng thời gian như \"<em>a long time</em>\".</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>during</em>\" thường chỉ một sự kiện hoặc khoảng thời gian m&agrave; một h&agrave;nh động xảy ra b&ecirc;n trong, kh&ocirc;ng diễn tả sự k&eacute;o d&agrave;i li&ecirc;n tục của h&agrave;nh động đến hiện tại.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<em>through</em>\" kh&ocirc;ng ph&ugrave; hợp trong ngữ cảnh n&agrave;y v&igrave; n&oacute; thường mang nghĩa \"xuy&ecirc;n qua\" hoặc \"ho&agrave;n th&agrave;nh một qu&aacute; tr&igrave;nh\".</li>\n</ul>",
+      "answerFeedbacks": {
+        "144919": "Sai vì <em>during</em> thường chỉ một sự kiện hoặc khoảng thời gian mà một hành động xảy ra trong đó, không kéo dài liên tục đến hiện tại như <em>for</em> với thì hiện tại hoàn thành.",
+        "144920": "Đúng vì <em>for</em> được dùng để chỉ độ dài của một khoảng thời gian, phù hợp với thì hiện tại hoàn thành và cụm từ <em>a long time</em>.",
+        "144921": "Sai vì <em>since</em> dùng để chỉ mốc thời gian bắt đầu của một hành động, sự việc kéo dài đến hiện tại, không dùng với khoảng thời gian như <em>a long time</em>.",
+        "144922": "Sai vì <em>through</em> thường có nghĩa \"xuyên qua\" hoặc \"hoàn thành\", không phù hợp để diễn tả khoảng thời gian kéo dài đến hiện tại trong ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 79000,
+      "questionNumber": 8,
+      "questionName": "Question 14:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>It’s only the second time I _____ a job interview.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 195936,
+          "label": "A",
+          "text": "<p>have</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 195937,
+          "label": "B",
+          "text": "<p>am having</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 195938,
+          "label": "C",
+          "text": "have had",
+          "isCorrect": true
+        },
+        {
+          "id": 195939,
+          "label": "D",
+          "text": "<p>have been having</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 195938,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Các cụm từ như <em>\"It's the first time\"</em>, <em>\"It's the second time\"</em>, hoặc <em>\"It's the only time\"</em> thường là dấu hiệu của thì Hiện tại hoàn thành để nói về kinh nghiệm hoặc số lần một sự việc đã xảy ra tính đến hiện tại.</p>\n<p>Hãy nhớ lại cấu trúc của thì Hiện tại Hoàn thành (Present Perfect) và cách nó được sử dụng để diễn tả trải nghiệm.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Hiện tại Hoàn thành</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một hành động hoặc sự kiện đã xảy ra trong quá khứ nhưng có liên quan đến hiện tại, hoặc diễn tả kinh nghiệm, trải nghiệm tính đến thời điểm hiện tại. Đặc biệt dùng với các cấu trúc chỉ số lần (<em>It's the first/second/last time...</em>).</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc thể khẳng định: <span style=\"color: #1c581f;\">S + have/has + V(pp)</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Cụm từ <em>\"It’s only the second time\"</em> là dấu hiệu đặc trưng của thì Hiện tại Hoàn thành, dùng để diễn tả kinh nghiệm hoặc số lần một hành động đã xảy ra tính đến thời điểm hiện tại. Do đó, phương án \"have had\" (have + V(pp) của động từ \"<em>have</em>\") là lựa chọn chính xác nhất, phù hợp với cấu trúc và ngữ cảnh của câu.</p>",
+      "answerFeedbacks": {
+        "195936": "<p>Thì hiện tại đơn \"have\" không phù hợp để diễn tả kinh nghiệm hoặc số lần một hành động đã xảy ra tính đến thời điểm hiện tại.</p>",
+        "195937": "<p>Thì hiện tại tiếp diễn \"am having\" diễn tả hành động đang diễn ra hoặc kế hoạch trong tương lai gần, không phù hợp với ngữ cảnh câu này.</p>",
+        "195938": "Thì hiện tại hoàn thành \"have had\" chính xác để diễn tả kinh nghiệm hoặc số lần một hành động đã xảy ra tính đến hiện tại, đặc biệt khi đi với cấu trúc <em>\"It's the second time\"</em>.",
+        "195939": "<p>Thì hiện tại hoàn thành tiếp diễn \"have been having\" nhấn mạnh hành động liên tục kéo dài từ quá khứ đến hiện tại, không phù hợp với hành động \"có một buổi phỏng vấn\" vốn thường có điểm kết thúc rõ ràng và được dùng để nói về số lần.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 215858,
+      "questionNumber": 9,
+      "questionName": "ever",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>&quot;The Little Prince&quot; is the most interesting novel that I have ______ read.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 485369,
+          "label": "A",
+          "text": "ever",
+          "isCorrect": true
+        },
+        {
+          "id": 485370,
+          "label": "B",
+          "text": "never",
+          "isCorrect": false
+        },
+        {
+          "id": 485371,
+          "label": "C",
+          "text": "already",
+          "isCorrect": false
+        },
+        {
+          "id": 485372,
+          "label": "D",
+          "text": "yet",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 485369,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y nhớ lại c&aacute;ch d&ugrave;ng của c&aacute;c trạng từ như <em>ever, never, already, yet</em> với th&igrave; Hiện tại Ho&agrave;n th&agrave;nh. Ch&uacute; &yacute; đến cấu tr&uacute;c so s&aacute;nh nhất <em>the most interesting novel</em> v&agrave; th&igrave; Hiện tại Ho&agrave;n th&agrave;nh <em>''I have ______ read''</em> trong c&acirc;u. Bạn cần một trạng từ để diễn tả kinh nghiệm \"từ trước đến nay\".</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Trạng từ trong th&igrave; Hiện tại Ho&agrave;n th&agrave;nh</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c trạng từ n&agrave;y được sử dụng với th&igrave; Hiện tại Ho&agrave;n th&agrave;nh để bổ sung &yacute; nghĩa về thời gian, tần suất hoặc kinh nghiệm cho h&agrave;nh động. Ch&uacute;ng gi&uacute;p diễn tả một h&agrave;nh động đ&atilde; xảy ra (hoặc chưa xảy ra) tại một thời điểm kh&ocirc;ng x&aacute;c định trong qu&aacute; khứ cho đến hiện tại.</p>\n<p style=\"text-align: justify;\"><strong>Một số trạng từ thường gặp:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">ever</span></strong>: đ&atilde; từng, bao giờ (d&ugrave;ng trong c&acirc;u hỏi, c&acirc;u phủ định, hoặc c&acirc;u so s&aacute;nh nhất/so s&aacute;nh hơn để hỏi/nhấn mạnh kinh nghiệm từ trước tới nay).</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">never</span></strong>: chưa từng bao giờ (diễn tả kinh nghiệm chưa từng xảy ra).</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">already</span></strong>: đ&atilde; rồi (diễn tả h&agrave;nh động đ&atilde; xảy ra trước thời điểm n&oacute;i hoặc trước dự kiến).</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">yet</span></strong>: chưa (d&ugrave;ng trong c&acirc;u phủ định v&agrave; c&acirc;u hỏi để diễn tả h&agrave;nh động chưa xảy ra nhưng được mong đợi).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u gốc c&oacute; cấu tr&uacute;c so s&aacute;nh nhất \"<em>the most interesting novel</em>\" v&agrave; th&igrave; Hiện tại Ho&agrave;n th&agrave;nh \"<em>I have ______ read</em>\". Trạng từ <em>ever </em>l&agrave; ph&ugrave; hợp nhất được d&ugrave;ng để nhấn mạnh đ&acirc;y l&agrave; trải nghiệm \"tuyệt vời nhất\" m&agrave; người n&oacute;i đ&atilde; c&oacute; \"từ trước đến nay\".</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n 2 <em>(\"never\")</em> mang nghĩa phủ định \"chưa từng bao giờ\", phương &aacute;n 3 (\"<em>already</em>\") thường d&ugrave;ng để chỉ một h&agrave;nh động đ&atilde; xảy ra sớm hơn mong đợi hoặc trước thời điểm n&oacute;i v&agrave; phương &aacute;n 4 (\"<em>yet</em>\") được d&ugrave;ng trong c&acirc;u hỏi hoặc c&acirc;u phủ định, mang nghĩa \"chưa\" đều kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "485369": "Trạng từ <em>ever</em> được dùng trong câu khẳng định với hình thức so sánh nhất để nhấn mạnh kinh nghiệm \"từ trước đến nay\".",
+        "485370": "Trạng từ <em>never</em> mang nghĩa phủ định \"chưa từng bao giờ\" và không phù hợp với ngữ cảnh đang nói về một trải nghiệm đã có.",
+        "485371": "Trạng từ <em>already</em> thường dùng để chỉ một hành động đã xảy ra sớm hơn mong đợi hoặc trước thời điểm nói, không dùng để bổ nghĩa cho so sánh nhất.",
+        "485372": "Trạng từ <em>yet</em> được dùng trong câu hỏi hoặc câu phủ định, mang nghĩa \"chưa\", không phù hợp với câu khẳng định này."
+      },
+      "images": []
+    },
+    {
+      "id": 766216,
+      "questionNumber": 10,
+      "questionName": "18",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We _____ for the English-speaking competition for more than three months.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1474313,
+          "label": "A",
+          "text": "are going to prepare",
+          "isCorrect": false
+        },
+        {
+          "id": 1474314,
+          "label": "B",
+          "text": "have prepared",
+          "isCorrect": true
+        },
+        {
+          "id": 1474315,
+          "label": "C",
+          "text": "will prepare",
+          "isCorrect": false
+        },
+        {
+          "id": 1474316,
+          "label": "D",
+          "text": "are preparing",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1474314,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Cụm từ <em>\"for more than three months\"</em> cho biết hành động <em>\"prepare\"</em> đã bắt đầu trong quá khứ và kéo dài đến hiện tại.</p>\n<p>Hãy nhớ lại cấu trúc của thì Hiện tại hoàn thành dùng để diễn tả hành động đã bắt đầu trong quá khứ và tiếp diễn đến hiện tại hoặc có kết quả ở hiện tại.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Hiện tại Hoàn thành</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả hành động bắt đầu trong quá khứ, kéo dài đến hiện tại và có thể tiếp tục trong tương lai, hoặc diễn tả kinh nghiệm, sự việc đã xảy ra mà không rõ thời gian cụ thể.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + have/has + V(pp)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu có cụm từ <em>\"for more than three months\"</em> là dấu hiệu nhận biết của thì hiện tại hoàn thành, chỉ khoảng thời gian hành động đã diễn ra và kéo dài đến hiện tại. Do đó, cần sử dụng thì Hiện tại Hoàn thành. Phương án 2 <em>\"have prepared\"</em> là dạng đúng của thì Hiện tại Hoàn thành, phù hợp với ngữ cảnh.</p>\n<p style=\"text-align: justify;\">Phương án 1 <em>\"are going to prepare\"</em> (thì tương lai gần) và phương án 3 <em>\"will prepare\"</em> (thì tương lai đơn) không phù hợp vì chúng diễn tả hành động sẽ xảy ra trong tương lai. Phương án 4 <em>\"are preparing\"</em> (thì hiện tại tiếp diễn) diễn tả hành động đang diễn ra tại thời điểm nói cũng không phù hợp.</p>",
+      "answerFeedbacks": {
+        "1474313": "Sai vì thì tương lai gần <em>\"are going to prepare\"</em> không phù hợp để diễn tả hành động đã kéo dài trong quá khứ đến hiện tại.",
+        "1474314": "Đúng vì thì hiện tại hoàn thành <em>\"have prepared\"</em> diễn tả hành động đã bắt đầu trong quá khứ và kéo dài đến hiện tại, phù hợp với dấu hiệu <em>\"for more than three months\"</em>.",
+        "1474315": "Sai vì thì tương lai đơn <em>\"will prepare\"</em> không phù hợp để diễn tả hành động đã kéo dài trong quá khứ đến hiện tại.",
+        "1474316": "Sai vì thì hiện tại tiếp diễn <em>\"are preparing\"</em> diễn tả hành động đang diễn ra tại thời điểm nói, không nhấn mạnh khoảng thời gian kéo dài từ quá khứ như <em>\"for more than three months\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 186254,
+      "questionNumber": 11,
+      "questionName": "19",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>I hope to pass all of my courses this term. So far my grades _____ pretty good.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 426283,
+          "label": "A",
+          "text": "had been",
+          "isCorrect": false
+        },
+        {
+          "id": 426284,
+          "label": "B",
+          "text": "will have been",
+          "isCorrect": false
+        },
+        {
+          "id": 426285,
+          "label": "C",
+          "text": "have been",
+          "isCorrect": true
+        },
+        {
+          "id": 426286,
+          "label": "D",
+          "text": "were",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 426285,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<div class=\"pointer-events-none -mt-px h-px translate-y-(--scroll-root-safe-area-inset-bottom)\" aria-hidden=\"true\">&nbsp;</div>\n<div class=\"pointer-events-none translate-y-(--scroll-root-safe-area-inset-bottom) R6Vx5W_threadScrollVars min-h-(--gutter-remaining-height,0px) group-data-stream-active/scroll-root:h-[calc(var(--thread-response-height)-16*var(--spacing))]\">&nbsp;</div>\n<section class=\"text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-6a4c85ed-ac10-83ec-8a7e-a4f257c77362-58\" data-turn-id-container=\"request-6a4c85ed-ac10-83ec-8a7e-a4f257c77362-58\" data-testid=\"conversation-turn-696\" data-turn=\"assistant\">\n<p class=\"PDq2pG_selectionAnchorContainer\" data-start=\"63\" data-end=\"342\" data-is-last-node=\"\">Ch&uacute; &yacute; đến cụm <em data-start=\"81\" data-end=\"91\">\"So far\"</em>&nbsp;cho thấy c&acirc;u đang diễn tả một t&igrave;nh huống k&eacute;o d&agrave;i hoặc c&oacute; kết quả t&iacute;nh đến thời điểm hiện tại v&agrave; l&agrave; dấu hiệu của th&igrave; Hiện tại ho&agrave;n th&agrave;nh.</p>\n<p class=\"PDq2pG_selectionAnchorContainer\" data-start=\"63\" data-end=\"342\" data-is-last-node=\"\">H&atilde;y nhớ lại th&igrave; thường d&ugrave;ng với dấu hiệu n&agrave;y v&agrave; c&aacute;ch chia động từ <em data-start=\"273\" data-end=\"277\">be</em> ở th&igrave; đ&oacute;, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>\n</section>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Th&igrave; Hiện tại Ho&agrave;n th&agrave;nh</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Diễn tả h&agrave;nh động bắt đầu trong qu&aacute; khứ v&agrave; c&ograve;n tiếp diễn đến hiện tại, hoặc h&agrave;nh động xảy ra trong qu&aacute; khứ nhưng kết quả c&ograve;n li&ecirc;n quan đến hiện tại. Thường đi k&egrave;m c&aacute;c trạng từ như <em>\"so far\"</em>, <em>\"up to now\"</em>, <em>\"yet\"</em>, <em>\"already\"</em>, <em>\"ever\"</em>, <em>\"never\"</em>, <em>\"since\"</em>, <em>\"for\"</em>.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Khẳng định: S + have/has + V3/ed</strong></li>\n<li style=\"text-align: justify;\"><strong>Phủ định: S + have/has + not + V3/ed</strong></li>\n<li style=\"text-align: justify;\"><strong><span class=\"Yjhzub\" style=\"font-family: 'Google Sans', Arial, sans-serif; margin: 0px; border-bottom: 0px #e6e8f0;\" data-sfc-root=\"ep\" data-sfc-cb=\"\" data-copy-service-computed-style=\"font-family: &quot;Google Sans&quot;, Arial, sans-serif; font-size: 16px; font-weight: 700; margin: 0px; text-decoration: none; border-bottom: 0px rgb(230, 232, 240);\">Nghi vấn: Have/Has<!--TgQPHd||[]--></span> + S + V3/ed?</strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi c&oacute; trạng từ <em>\"So far\"</em> (cho đến nay), chỉ một h&agrave;nh động hoặc trạng th&aacute;i bắt đầu trong qu&aacute; khứ v&agrave; vẫn tiếp diễn hoặc c&oacute; kết quả li&ecirc;n quan đến hiện tại. Trạng từ <em>\"So far\"</em> l&agrave; dấu hiệu nhận biết của th&igrave; Hiện tại Ho&agrave;n th&agrave;nh. V&igrave; vậy, phương &aacute;n \"<em>have been</em>\" l&agrave; dạng chia th&igrave; Hiện tại Ho&agrave;n th&agrave;nh của động từ \"<em>to be</em>\", ph&ugrave; hợp với ngữ cảnh n&agrave;y.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n \"<em>had been</em>\" (Qu&aacute; khứ Ho&agrave;n th&agrave;nh), \"<em>will have been</em>\" (Tương lai Ho&agrave;n th&agrave;nh) v&agrave; \"<em>were</em>\" (Qu&aacute; khứ Đơn) đều kh&ocirc;ng ph&ugrave; hợp v&igrave; ch&uacute;ng diễn tả c&aacute;c h&agrave;nh động đ&atilde; kết th&uacute;c trong qu&aacute; khứ hoặc sẽ kết th&uacute;c trong tương lai, kh&ocirc;ng c&oacute; sự li&ecirc;n quan trực tiếp đến hiện tại như trạng từ <em>\"So far\"</em> gợi &yacute;.</p>",
+      "answerFeedbacks": {
+        "426283": "Thì Quá khứ Hoàn thành diễn tả hành động xảy ra trước một hành động khác trong quá khứ, không phù hợp với dấu hiệu <em>\"So far\"</em> liên quan đến hiện tại.",
+        "426284": "Thì Tương lai Hoàn thành diễn tả hành động sẽ hoàn thành trước một thời điểm trong tương lai, không phù hợp với ngữ cảnh hiện tại.",
+        "426285": "Thì Hiện tại Hoàn thành diễn tả hành động bắt đầu trong quá khứ và tiếp diễn đến hiện tại, phù hợp với dấu hiệu <em>\"So far\"</em>.",
+        "426286": "Thì Quá khứ Đơn diễn tả hành động đã xảy ra và kết thúc hoàn toàn trong quá khứ, không có sự liên quan đến hiện tại như <em>\"So far\"</em> gợi ý."
+      },
+      "images": []
+    },
+    {
+      "id": 704406,
+      "questionNumber": 12,
+      "questionName": "(*) 1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Lisa and her family _____ their relatives in Canada for 2 years. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1367054,
+          "label": "A",
+          "text": "didn't visit",
+          "isCorrect": false
+        },
+        {
+          "id": 1367055,
+          "label": "B",
+          "text": "haven't visited",
+          "isCorrect": true
+        },
+        {
+          "id": 1367056,
+          "label": "C",
+          "text": "aren't visiting",
+          "isCorrect": false
+        },
+        {
+          "id": 1367057,
+          "label": "D",
+          "text": "<p>don't visit</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1367055,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đáp án đúng, hãy chú ý đến cụm từ chỉ thời gian <em>\"for 2 years\"</em> trong câu cho biết hành động đã bắt đầu trong quá khứ và kéo dài đến hiện tại và là dấu hiệu của thì <span style=\"text-align: justify;\">Hiện tại Hoàn thành.</span></p>\n<p><span style=\"text-align: justify;\">Hãy nhớ lại cấu trúc của thì này và đối chiếu với các phương án.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Hiện tại Hoàn thành</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả hành động bắt đầu trong quá khứ và kéo dài đến hiện tại, hoặc một hành động xảy ra trong quá khứ mà kết quả/kinh nghiệm còn liên quan đến hiện tại.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">Khẳng định: </span><span style=\"color: #1c581f; font-weight: 600;\">S + have/has + V(pp)</span></li>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">Phủ định:</span><span style=\"color: #1c581f; font-weight: 600;\"> </span><span style=\"color: #1c581f; font-weight: 600;\">S + have/has + not + V(pp)</span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm trạng từ thời gian <em>\"for 2 years\"</em> là dấu hiệu nhận biết thì Hiện tại Hoàn thành, diễn tả một hành động đã kéo dài suốt 2 năm tính đến thời điểm hiện tại. Do đó, động từ cần được chia ở thì Hiện tại Hoàn thành.</p>\n<p style=\"text-align: justify;\">Phương án 2, <em>\"haven't visited\"</em>, là dạng phủ định của thì Hiện tại Hoàn thành, phù hợp với ngữ cảnh và dấu hiệu thời gian trong câu. Các phương án còn lại là các dạng động từ không phù hợp để sử dụng ở thì này.</p>",
+      "answerFeedbacks": {
+        "1367054": "Sai vì thì Quá khứ đơn diễn tả hành động đã kết thúc trong quá khứ và không còn liên quan đến hiện tại, không phù hợp với khoảng thời gian <em>\"for 2 years\"</em> kéo dài đến hiện tại.",
+        "1367055": "Đúng vì thì Hiện tại Hoàn thành diễn tả hành động bắt đầu trong quá khứ và kéo dài đến hiện tại, phù hợp với cụm từ <em>\"for 2 years\"</em>.",
+        "1367056": "Sai vì thì Hiện tại Tiếp diễn diễn tả hành động đang diễn ra tại thời điểm nói hoặc một kế hoạch trong tương lai gần, không phù hợp với khoảng thời gian <em>\"for 2 years\"</em>.",
+        "1367057": "<p>Sai vì thì Hiện tại Đơn diễn tả thói quen, sự thật hiển nhiên, hoặc lịch trình, không phù hợp với hành động kéo dài trong 2 năm.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 459084,
+      "questionNumber": 13,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.&nbsp;</em></p>\n<p><strong>Maria (be) <span class='fillblank-option'><input id='fbo-459084-0' class='ms fillblank-option-13' index='0' name='fbo-459084-0' type='text' size='11' autocomplete='off' data-testid='fillblank-input-459084-0' /></span> a member of this fitness center for two years. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "has been"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại ho&agrave;n th&agrave;nh được d&ugrave;ng để mi&ecirc;u tả một việc bắt đầu trong qu&aacute; khứ v&agrave; vẫn c&ograve;n tiếp tục ở hiện tại. Dấu hiệu: \"<strong>for two years</strong>\".</p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + have/has + V(pp)</strong></p>\n<p>Dịch: Maria l&agrave; th&agrave;nh vi&ecirc;n của trung t&acirc;m thể dục n&agrave;y được hai năm rồi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 788042,
+      "questionNumber": 14,
+      "questionName": "Q1",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Climbing Mount Everest is the most challenging activity that I (ever/attempt) <span class='fillblank-option'><input id='fbo-788042-0' class='ms fillblank-option-14' index='0' name='fbo-788042-0' type='text' size='23' autocomplete='off' data-testid='fillblank-input-788042-0' /></span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "have ever attempted",
+            "'ve ever attempted",
+            "’ve ever attempted"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại ho&agrave;n th&agrave;nh được d&ugrave;ng để diễn tả trải nghiệm của ai đ&oacute; tới thời điểm hiện tại.&nbsp;</p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> S + be + the only/the + adj. dạng so s&aacute;nh nhất + N + (that) + S + have/has + (ever) + V(pp)</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Leo đỉnh Everest l&agrave; hoạt động thử th&aacute;ch nhất m&agrave; t&ocirc;i từng thử.<br /></span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 668731,
+      "questionNumber": 15,
+      "questionName": "(*) 6",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Sarah (learn) <span class='fillblank-option'><input id='fbo-668731-0' class='ms fillblank-option-15' index='0' name='fbo-668731-0' type='text' size='12' autocomplete='off' data-testid='fillblank-input-668731-0' /></span> to play tennis since she was 10 years old.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "has learnt",
+            "has learned"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại ho&agrave;n th&agrave;nh được d&ugrave;ng để diễn tả một việc bắt đầu trong qu&aacute; khứ v&agrave; vẫn c&ograve;n tiếp tục ở hiện tại. Dấu hiệu: \"<strong>since she was 10 years old</strong>\".&nbsp;</p>\n<p>Cấu tr&uacute;c ở thể khẳng định: <strong>S + have/has + V(pp)</strong></p>\n<p>Dịch: Sarah đ&atilde; học chơi quần vợt từ khi c&ocirc; ấy 10 tuổi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 327170,
+      "questionNumber": 16,
+      "questionName": "3",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Lam can't go to the cinema because he (not finish) <span class='fillblank-option'><input id='fbo-327170-0' class='ms fillblank-option-16' index='0' name='fbo-327170-0' type='text' size='17' autocomplete='off' data-testid='fillblank-input-327170-0' /></span>&nbsp;his homework yet.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "hasn't finished",
+            "has not finished",
+            "hasn’t finished",
+            "'s not finished",
+            "’s not finished"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại ho&agrave;n th&agrave;nh được d&ugrave;ng để diễn tả h&agrave;nh động xảy ra ở qu&aacute; khứ v&agrave; vẫn k&eacute;o d&agrave;i tới hiện tại. Dấu hiệu: \"<strong>yet</strong>\" (chưa, c&ograve;n chưa).</p>\n<p>Cấu tr&uacute;c: <strong>S + have/has + not + V(pp) +&hellip; + yet</strong></p>\n<p>Dịch: L&acirc;m kh&ocirc;ng thể đi xem phim v&igrave; cậu ấy chưa l&agrave;m xong b&agrave;i tập về nh&agrave;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 669012,
+      "questionNumber": 17,
+      "questionName": "new",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>She (never/eat) <span class='fillblank-option'><input id='fbo-669012-0' class='ms fillblank-option-1' index='0' name='fbo-669012-0' type='text' size='19' autocomplete='off' data-testid='fillblank-input-669012-0' /></span> Japanese food before.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "has never eaten",
+            "'s never eaten",
+            "’s never eaten"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại ho&agrave;n th&agrave;nh được d&ugrave;ng để diễn tả trải nghiệm của ai đ&oacute; t&iacute;nh đến thời điểm hiện tại.</p>\n<p>Cấu tr&uacute;c với \"<strong>never</strong>\": <strong>S + have/has + never + V(pp) + &hellip; + (before)</strong>: Ai đ&oacute; chưa từng l&agrave;m g&igrave; (trước đ&acirc;y)</p>\n<p>Dịch: C&ocirc; ấy chưa bao giờ ăn đồ Nhật trước đ&acirc;y.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 229282,
+      "questionNumber": 18,
+      "questionName": "5.",
+      "questionType": "FillBlank",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Give the correct form of the verb in the brackets.</span></em></p>\n<p><strong>In the evening, you should practise what you (just/learn) <span class='fillblank-option'><input id='fbo-229282-0' class='ms fillblank-option-18' index='0' name='fbo-229282-0' type='text' size='21' autocomplete='off' data-testid='fillblank-input-229282-0' /></span> during the day.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "have just learned",
+            "have just learnt",
+            "'ve just learned",
+            "’ve just learned",
+            "'ve just learnt",
+            "’ve just learnt"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại ho&agrave;n th&agrave;nh được d&ugrave;ng để nhấn mạnh đến sự việc m&agrave; kết quả của n&oacute; c&ograve;n lưu lại v&agrave; ảnh hưởng đến hiện tại. Dấu hiệu: \"<strong>just</strong>\".</p>\n<p><strong>just</strong> (adv.): vừa mới (đứng giữa trợ động từ \"<strong><em>have</em></strong>\" v&agrave; động từ ch&iacute;nh <em><strong>V(pp)</strong>)</em></p>\n<p>Cấu tr&uacute;c: <strong>S + have/has + just + V(pp)</strong></p>\n<p>Dịch: V&agrave;o buổi tối, bạn n&ecirc;n thực h&agrave;nh lại những g&igrave; bạn vừa mới học v&agrave;o ban ng&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 36466,
+      "questionNumber": 19,
+      "questionName": "Question 6:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>My <span style=\"text-decoration: underline;\">older</span> brother <span style=\"text-decoration: underline;\">has worked</span> in <span style=\"text-decoration: underline;\">a</span> bank <span style=\"text-decoration: underline;\">since</span> a long time.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 111487,
+          "label": "A",
+          "text": "older",
+          "isCorrect": false
+        },
+        {
+          "id": 111488,
+          "label": "B",
+          "text": "has worked",
+          "isCorrect": false
+        },
+        {
+          "id": 111489,
+          "label": "C",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 111490,
+          "label": "D",
+          "text": "since",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 111490,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li class=\"PDq2pG_selectionAnchorContainer\" data-start=\"0\" data-end=\"93\">Tính từ so sánh hơn <em data-start=\"20\" data-end=\"27\">older</em> được dùng để so sánh tuổi hoặc thứ tự lớn hơn giữa hai người/vật.</li>\n<li data-start=\"95\" data-end=\"222\">Thì hiện tại hoàn thành được dùng với <em data-start=\"133\" data-end=\"140\">since</em> để diễn tả một hành động bắt đầu trong quá khứ và vẫn còn liên quan đến hiện tại.</li>\n<li data-start=\"224\" data-end=\"322\">Mạo từ <em data-start=\"231\" data-end=\"234\">a</em> đứng trước danh từ đếm được số ít khi nói đến một người hoặc vật không xác định cụ thể.</li>\n<li data-start=\"324\" data-end=\"439\"><em data-start=\"324\" data-end=\"331\">Since</em> được dùng với một mốc thời gian hoặc thời điểm bắt đầu.</li>\n</ul>\n<p>Đối chiếu từng quy tắc trên với câu gốc để xác định phần nào cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Hiện tại Hoàn thành với giới từ chỉ thời gian \"since\" và \"for\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Thì Hiện tại Hoàn thành dùng để diễn tả hành động bắt đầu trong quá khứ và tiếp diễn đến hiện tại, hoặc một kinh nghiệm đã xảy ra trong quá khứ mà kết quả còn liên quan đến hiện tại. Các giới từ \"since\" và \"for\" thường được dùng để chỉ khoảng thời gian hoặc mốc thời gian của hành động.</p>\n<p style=\"text-align: justify;\"><strong>Một số giới từ chỉ thời gian phổ biến với Thì Hiện tại Hoàn thành:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">for + khoảng thời gian</span></strong>: diễn tả một khoảng thời gian kéo dài.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">since + mốc thời gian</span></strong>: diễn tả một điểm thời gian cụ thể mà hành động bắt đầu.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Câu sử dụng thì Hiện tại Hoàn thành <em>\"has worked\"</em> và cụm từ chỉ thời gian <em>\"a long time\"</em>. Vì <em>\"a long time\"</em> là một khoảng thời gian, không phải một mốc thời gian cụ thể, nên cần sử dụng giới từ <em>\"for\"</em> thay vì <em>\"since\"</em> để diễn tả khoảng thời gian hành động diễn ra.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>since</strong></em>\" =&gt; \"<em><strong>for</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "111487": "Đúng vì <em>\"older\"</em> là dạng so sánh hơn của tính từ <em>\"old\"</em>, phù hợp để so sánh tuổi giữa hai anh em.",
+        "111488": "Đúng vì <em>\"has worked\"</em> là thì Hiện tại Hoàn thành, diễn tả hành động bắt đầu trong quá khứ và tiếp diễn đến hiện tại, phù hợp với ngữ cảnh của câu.",
+        "111489": "Đúng vì <em>\"a\"</em> là mạo từ không xác định, được dùng trước danh từ số ít đếm được <em>\"bank\"</em>, phù hợp với quy tắc ngữ pháp.",
+        "111490": "Sai vì <em>\"since\"</em> được dùng với mốc thời gian cụ thể, trong khi <em>\"a long time\"</em> là một khoảng thời gian, cần dùng <em>\"for\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 627527,
+      "questionNumber": 20,
+      "questionName": "38",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">Recently</span>, we've <span style=\"text-decoration: underline;\">receive</span> a lot of questions <span style=\"text-decoration: underline;\">about</span> life <span style=\"text-decoration: underline;\">on</span> the moon.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1207501,
+          "label": "A",
+          "text": "Recently",
+          "isCorrect": false
+        },
+        {
+          "id": 1207502,
+          "label": "B",
+          "text": "receive",
+          "isCorrect": true
+        },
+        {
+          "id": 1207503,
+          "label": "C",
+          "text": "about",
+          "isCorrect": false
+        },
+        {
+          "id": 1207504,
+          "label": "D",
+          "text": "on",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1207502,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại ho&agrave;n th&agrave;nh được d&ugrave;ng để diễn tả một việc bắt đầu trong qu&aacute; khứ v&agrave; vẫn c&ograve;n tiếp tục ở hiện tại. Dấu hiệu: \"<strong>recently</strong>\".</p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + have/has + V(pp) +&hellip;</strong></p>\n<p>Sửa: \"<strong>receive</strong>\" =&gt; \"<strong>received</strong>\"</p>\n<p>Dịch: Gần đ&acirc;y, ch&uacute;ng t&ocirc;i đ&atilde; nhận được rất nhiều c&acirc;u hỏi về cuộc sống tr&ecirc;n mặt trăng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 147546,
+      "questionNumber": 21,
+      "questionName": "(*) Have you ever cried",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "ever",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "a movie?",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "during",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "Have",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "you",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "cried",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 147034,
+      "questionNumber": 22,
+      "questionName": "We haven't got",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "haven't",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "yet.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "We",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "any",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "got",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "information",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 787973,
+      "questionNumber": 23,
+      "questionName": "This is the most breathtaking view I've ever witnessed during my travels.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "breathtaking",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "the most",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "witnessed",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "during my travels.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "view",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "This is",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "I've ever",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 180601,
+      "questionNumber": 24,
+      "questionName": "65:",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Make a complete sentence using the given words. Change the form of the words or add other words if necessary.</em></p>\n<p><strong>We / know / how / use / smartphones / support / study / lately.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "We have known how to use smartphones to support our study lately."
+      ],
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại ho&agrave;n th&agrave;nh được d&ugrave;ng để diễn tả một việc bắt đầu trong qu&aacute; khứ v&agrave; vẫn c&ograve;n tiếp tục ở hiện tại. Dấu hiệu: \"<strong>lately</strong>\".<strong>&nbsp;</strong></p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + have/has + V(pp)</strong></p>\n<p><strong>how + to V(inf)</strong>: l&agrave;m g&igrave; như thế n&agrave;o</p>\n<p><strong>to + V(inf) </strong>~ <strong>in order to + V(inf)</strong> ~ <strong>so as to + V(inf)</strong>: để l&agrave;m g&igrave;&nbsp;</p>\n<p>Dịch: Gần đ&acirc;y ch&uacute;ng t&ocirc;i đ&atilde; biết c&aacute;ch sử dụng điện thoại th&ocirc;ng minh để hỗ trợ việc học tập.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 271565,
+      "questionNumber": 25,
+      "questionName": "a",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Make a complete sentence using the given words. Change the form of the words or add other words if necessary.</em></p>\n<p><strong>We / persuade / the school / build / another / swimming pool / since March.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "We’ve persuaded the school to build another swimming pool since March."
+      ],
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại ho&agrave;n th&agrave;nh để diễn tả&nbsp;một việc bắt đầu trong qu&aacute; khứ v&agrave; vẫn c&ograve;n tiếp tục ở hiện tại. Dấu hiệu: \"<strong>since March</strong>\".</p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + have/has + V(pp)</strong></p>\n<p><strong>persuade sb to do sth</strong>: thuyết phục ai l&agrave;m g&igrave;</p>\n<p>Dịch: Ch&uacute;ng t&ocirc;i thuyết phục nh&agrave; trường x&acirc;y th&ecirc;m một bể bơi nữa từ th&aacute;ng Ba.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

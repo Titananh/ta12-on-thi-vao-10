@@ -1,0 +1,893 @@
+{
+  "quizId": 16238,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 44: Comparatives and superlatives of adverbs (So sánh hơn và so sánh nhất của trạng từ)",
+  "totalQuestions": 22,
+  "questions": [
+    {
+      "id": 905267,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>D&#7841;ng so s&#225;nh h&#417;n ho&#7863;c so s&#225;nh nh&#7845;t c&#7911;a tr&#7841;ng t&#7915; n&#224;o l&#224; &#273;&#250;ng?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1719220,
+          "label": "A",
+          "text": "more further",
+          "isCorrect": false
+        },
+        {
+          "id": 1719221,
+          "label": "B",
+          "text": "sooner",
+          "isCorrect": true
+        },
+        {
+          "id": 1719222,
+          "label": "C",
+          "text": "the most worst",
+          "isCorrect": false
+        },
+        {
+          "id": 1719223,
+          "label": "D",
+          "text": "the best",
+          "isCorrect": true
+        },
+        {
+          "id": 1719224,
+          "label": "E",
+          "text": "more carelessly",
+          "isCorrect": true
+        },
+        {
+          "id": 1719225,
+          "label": "F",
+          "text": "the least calmly",
+          "isCorrect": true
+        },
+        {
+          "id": 1719226,
+          "label": "Opt 7",
+          "text": "less later",
+          "isCorrect": false
+        },
+        {
+          "id": 1719227,
+          "label": "Opt 8",
+          "text": "the more beautifully",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1719221,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/3_-_Copy_1_26903a58.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905270,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>X&#225;c &#273;&#7883;nh xem c&#225;c c&#226;u sau &#273;&#250;ng hay sai.</strong></p>\n<p>1. C&#243; th&#7875; s&#7917; d&#7909;ng &quot;then&quot; trong c&#7845;u tr&#250;c so s&#225;nh h&#417;n thay cho &quot;than&quot;. <span class='fillblank-option'><label>2.1</label><select class='ms fillblank-option-2' index='0' name='fbo-905270-0' data-testid='fillblank-select-905270-0'><option value='' data-testid='fillblank-option-empty-905270-0'></option><option value=\"Đúng\" data-testid='fillblank-option-905270-0-Đúng'>Đúng</option><option value=\"Sai\" data-testid='fillblank-option-905270-0-Sai'>Sai</option></select></span></p>\n<p>2. Sau t&#237;nh t&#7915; so s&#225;nh nh&#7845;t, ta lu&#244;n d&#249;ng &quot;of&quot; tr&#432;&#7899;c danh t&#7915; s&#7889; &#237;t ch&#7881; &#273;&#7883;a &#273;i&#7875;m ho&#7863;c nh&#243;m. <span class='fillblank-option'><label>2.2</label><select class='ms fillblank-option-2' index='1' name='fbo-905270-1' data-testid='fillblank-select-905270-1'><option value='' data-testid='fillblank-option-empty-905270-1'></option><option value=\"Sai\" data-testid='fillblank-option-905270-1-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-905270-1-Đúng'>Đúng</option></select></span></p>\n<p>3. Ch&#250;ng ta c&#243; th&#7875; s&#7917; d&#7909;ng &quot;than&quot; tr&#432;&#7899;c &#273;&#7841;i t&#7915; t&#226;n ng&#7919; trong c&#226;u so s&#225;nh. <span class='fillblank-option'><label>2.3</label><select class='ms fillblank-option-2' index='2' name='fbo-905270-2' data-testid='fillblank-select-905270-2'><option value='' data-testid='fillblank-option-empty-905270-2'></option><option value=\"Đúng\" data-testid='fillblank-option-905270-2-Đúng'>Đúng</option><option value=\"Sai\" data-testid='fillblank-option-905270-2-Sai'>Sai</option></select></span></p>\n<p>4. C&#225;c tr&#7841;ng t&#7915; c&#243; m&#7897;t &#226;m ti&#7871;t t&#7841;o d&#7841;ng so s&#225;nh h&#417;n v&#7899;i &quot;-er&quot; v&#224; so s&#225;nh nh&#7845;t v&#7899;i &quot;-est&quot;. <span class='fillblank-option'><label>2.4</label><select class='ms fillblank-option-2' index='3' name='fbo-905270-3' data-testid='fillblank-select-905270-3'><option value='' data-testid='fillblank-option-empty-905270-3'></option><option value=\"Sai\" data-testid='fillblank-option-905270-3-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-905270-3-Đúng'>Đúng</option></select></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Sai"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Sai"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "Đúng"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "Đúng"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.7362%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/6_-_Copy_3_dd0863c5.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7362%; text-align: center;\"><img src=\"/images/exams/Bai_44_So_sanh_hon_va_nhat_cua_trang_tu_68bfc5af.jpg\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 317927,
+      "questionNumber": 3,
+      "questionName": "Grammar Practice for Elementary Students 3rd-p.44",
+      "questionType": "FillBlank",
+      "questionText": "<p>1. <span class=\"word\">Philip reads maps <span class='fillblank-option'><label>3.1</label><input id='fbo-317927-0' class='ms fillblank-option-3' index='0' name='fbo-317927-0' type='text' size='18' autocomplete='off' data-testid='fillblank-input-317927-0' /></span>.</span></p>\n<p>2. <span class=\"word\">Robert</span> <span class=\"word\">reads</span> <span class=\"word\">maps <span class='fillblank-option'><label>3.2</label><input id='fbo-317927-1' class='ms fillblank-option-3' index='1' name='fbo-317927-1' type='text' size='17' autocomplete='off' data-testid='fillblank-input-317927-1' /></span> Jamie and Anna.&nbsp;</span></p>\n<p>3. <span class=\"word\">Jamie</span> <span class=\"word\">cooks <span class='fillblank-option'><label>3.3</label><input id='fbo-317927-2' class='ms fillblank-option-3' index='2' name='fbo-317927-2' type='text' size='15' autocomplete='off' data-testid='fillblank-input-317927-2' /></span> Philip and Nicole.&nbsp;</span></p>\n<p>4. <span class=\"word\">Anna</span> <span class=\"word\">cooks <span class='fillblank-option'><label>3.4</label><input id='fbo-317927-3' class='ms fillblank-option-3' index='3' name='fbo-317927-3' type='text' size='10' autocomplete='off' data-testid='fillblank-input-317927-3' /></span>.</span></p>\n<p>5. <span class=\"word\">Robert</span> <span class=\"word\">thinks <span class='fillblank-option'><label>3.5</label><input id='fbo-317927-4' class='ms fillblank-option-3' index='4' name='fbo-317927-4' type='text' size='13' autocomplete='off' data-testid='fillblank-input-317927-4' /></span> Nicole, Jamie, and Anna.&nbsp;</span></p>\n<p>6. <span class=\"word\">Philip</span> <span class=\"word\">thinks <span class='fillblank-option'><label>3.6</label><input id='fbo-317927-5' class='ms fillblank-option-3' index='5' name='fbo-317927-5' type='text' size='12' autocomplete='off' data-testid='fillblank-input-317927-5' /></span>.</span></p>\n<p>7. <span class=\"word\">Robert</span> <span class=\"word\">listens</span> <span class=\"word\">to</span> <span class=\"word\">people <span class='fillblank-option'><label>3.7</label><input id='fbo-317927-6' class='ms fillblank-option-3' index='6' name='fbo-317927-6' type='text' size='20' autocomplete='off' data-testid='fillblank-input-317927-6' /></span> Jamie, Anna, and Philip.&nbsp;</span></p>\n<p>8. <span class=\"word\">Nicole</span> <span class=\"word\">listens</span> <span class=\"word\">to</span> <span class=\"word\">people <span class='fillblank-option'><label>3.8</label><input id='fbo-317927-7' class='ms fillblank-option-3' index='7' name='fbo-317927-7' type='text' size='20' autocomplete='off' data-testid='fillblank-input-317927-7' /></span>.</span></p>\n<p>9. <span class=\"word\">Nicole</span> <span class=\"word\">decides</span> <span class=\"word\">things <span class='fillblank-option'><label>3.9</label><input id='fbo-317927-8' class='ms fillblank-option-3' index='8' name='fbo-317927-8' type='text' size='19' autocomplete='off' data-testid='fillblank-input-317927-8' /></span> Jamie, Anna, and Philip.&nbsp;</span></p>\n<p>10. <span class=\"word\">Robert</span> <span class=\"word\">decides</span> <span class=\"word\">things <span class='fillblank-option'><label>3.10</label><input id='fbo-317927-9' class='ms fillblank-option-3' index='9' name='fbo-317927-9' type='text' size='17' autocomplete='off' data-testid='fillblank-input-317927-9' /></span>.</span></p>\n<p>=&gt; <span class='fillblank-option'><label>3.11</label><input id='fbo-317927-10' class='ms fillblank-option-3' index='10' name='fbo-317927-10' type='text' size='10' autocomplete='off' data-testid='fillblank-input-317927-10' /></span> would be the best leader.</p>",
+      "passageText": null,
+      "parentQuestionId": 581298,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "the most easily"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "more easily than"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "better than"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "the best"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "faster than"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "the fastest"
+          ]
+        },
+        {
+          "index": 6,
+          "correctAnswers": [
+            "more carefully than"
+          ]
+        },
+        {
+          "index": 7,
+          "correctAnswers": [
+            "the most carefully"
+          ]
+        },
+        {
+          "index": 8,
+          "correctAnswers": [
+            "more calmly than"
+          ]
+        },
+        {
+          "index": 9,
+          "correctAnswers": [
+            "the most calmly"
+          ]
+        },
+        {
+          "index": 10,
+          "correctAnswers": [
+            "Robert"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Trong bảng, Philip l&agrave; người đọc bản đồ dễ d&agrave;ng nhất, n&ecirc;n d&ugrave;ng \"<strong>the most easily</strong>\" (so s&aacute;nh nhất của \"<strong>easily</strong>\").</p>\n<p>2. Trong c&acirc;u đang so s&aacute;nh về việc đọc bản đồ giữa Robert với Jamie v&agrave; Anna, n&ecirc;n d&ugrave;ng \"<strong>more easily than</strong>\" (so s&aacute;nh hơn của \"<strong>easily</strong>\").</p>\n<p>3. Trong c&acirc;u đang n&oacute;i về việc nấu ăn của Jamie so với Philip v&agrave; Nicole, d&ugrave;ng \"<strong>better than</strong>\" (so s&aacute;nh hơn của \"<strong>well</strong>\").</p>\n<p>4. Anna nấu ăn tốt nhất, d&ugrave;ng \"<strong>the best</strong>\" (so s&aacute;nh nhất của \"<strong>well</strong>\").</p>\n<p>5. Robert nghĩ nhanh hơn Nicole, Jamie v&agrave; Anna, d&ugrave;ng \"<strong>faster than</strong>\" (so s&aacute;nh hơn của \"<strong>fast</strong>\").</p>\n<p>6. Philip nghĩ nhanh nhất, d&ugrave;ng \"<strong>the fastest</strong>\" (so s&aacute;nh nhất của \"<strong>fast</strong>\").</p>\n<p>7. Robert nghe cẩn thận hơn, d&ugrave;ng \"<strong>more carefully than</strong>\" (so s&aacute;nh hơn của \"<strong>carefully</strong>\").</p>\n<p>8. Nicole nghe cẩn thận nhất, d&ugrave;ng \"<strong>the most carefully</strong>\" (so s&aacute;nh nhất của \"<strong>carefully</strong>\").</p>\n<p>9. Nicole quyết định b&igrave;nh tĩnh hơn, d&ugrave;ng \"<strong>more calmly than</strong>\" (so s&aacute;nh hơn của \"<strong>calmly</strong>\").</p>\n<p>10. Robert quyết định b&igrave;nh tĩnh nhất, d&ugrave;ng \"<strong>the most calmly</strong>\" (so s&aacute;nh nhất của \"<strong>calmly</strong>\").</p>\n<p>=&gt; Robert l&agrave; người l&atilde;nh đạo tốt nhất</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 786452,
+      "questionNumber": 4,
+      "questionName": "9",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>In recent years, she has appeared in public _____ frequently.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1510532,
+          "label": "A",
+          "text": "less",
+          "isCorrect": true
+        },
+        {
+          "id": 1510533,
+          "label": "B",
+          "text": "little",
+          "isCorrect": false
+        },
+        {
+          "id": 1510534,
+          "label": "C",
+          "text": "few",
+          "isCorrect": false
+        },
+        {
+          "id": 1510535,
+          "label": "D",
+          "text": "fewer",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1510532,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Xác định từ loại của từ <em>\"frequently\"</em> trong câu.</p>\n<p>Để diễn tả mức độ \"ít hơn\" của một trạng từ, bạn cần sử dụng cấu trúc so sánh kém của trạng từ đó.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So sánh hơn của trạng từ với ''<em>less</em>''</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để diễn tả một hành động, trạng thái xảy ra ở mức độ thấp hơn hoặc ít hơn so với một đối tượng hoặc thời điểm khác.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">less + adv</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, từ <em>\"frequently\"</em> là một trạng từ chỉ tần suất. Để diễn tả mức độ \"ít thường xuyên hơn\" (so sánh kém), chúng ta cần sử dụng cấu trúc so sánh hơn của trạng từ. Cấu trúc phù hợp là <em>\"less + trạng từ\"</em>, do đó \"<em>less frequently</em>\" là cách dùng đúng.</p>\n<p style=\"text-align: justify;\">Các phương án <em>\"little\"</em> và <em>\"few\"</em> là dạng nguyên thể, không phải so sánh hơn. Phương án <em>\"fewer\"</em> là so sánh hơn của <em>\"few\"</em>, dùng để chỉ số lượng cho danh từ đếm được, không dùng để bổ nghĩa cho trạng từ.</p>",
+      "answerFeedbacks": {
+        "1510532": "Đúng vì \"less\" là trạng từ so sánh hơn của \"little\" hoặc \"much\", được dùng để bổ nghĩa cho trạng từ \"frequently\" tạo thành cụm \"less frequently\" (ít thường xuyên hơn).",
+        "1510533": "Sai vì \"little\" là dạng nguyên thể, không phải so sánh hơn, và không dùng trực tiếp để bổ nghĩa cho trạng từ khác như \"frequently\" trong cấu trúc so sánh.",
+        "1510534": "Sai vì \"few\" là lượng từ dùng với danh từ đếm được số nhiều, không dùng để bổ nghĩa cho trạng từ.",
+        "1510535": "Sai vì \"fewer\" là dạng so sánh hơn của \"few\", dùng với danh từ đếm được số nhiều, không dùng để bổ nghĩa cho trạng từ."
+      },
+      "images": []
+    },
+    {
+      "id": 774958,
+      "questionNumber": 5,
+      "questionName": "17",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>In this morning's badminton match, the kids played _____ than they did yesterday.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1489153,
+          "label": "A",
+          "text": "worse",
+          "isCorrect": true
+        },
+        {
+          "id": 1489154,
+          "label": "B",
+          "text": "badder",
+          "isCorrect": false
+        },
+        {
+          "id": 1489155,
+          "label": "C",
+          "text": "bad",
+          "isCorrect": false
+        },
+        {
+          "id": 1489156,
+          "label": "D",
+          "text": "the worst",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1489153,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Câu có cụm <em>\"played ____ than\"</em> cho thấy bạn cần điền một trạng từ ở dạng so sánh hơn để bổ nghĩa cho động từ <em>\"played\"</em>.</p>\n<p>Hãy nhớ lại dạng so sánh hơn bất quy tắc của trạng từ <em>\"badly\"</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So sánh hơn và so sánh nhất của trạng từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để so sánh mức độ thực hiện hành động giữa hai đối tượng hoặc giữa một đối tượng với những đối tượng khác trong một nhóm.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong></p>\n<ul>\n<li style=\"text-align: justify;\">So sánh hơn: <strong>adv. + <em>-er</em> + than (trạng từ ngắn)</strong> HOẶC <strong>more + adv. + than (trạng từ dài)</strong></li>\n<li style=\"text-align: justify;\">So sánh nhất: <strong>the + adv. + <em>-est</em> (trạng từ ngắn)</strong> HOẶC <strong>the most + adv. (trạng từ dài)</strong></li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Một số trạng từ có dạng so sánh bất quy tắc:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">badly (adv.) → worse (so sánh hơn) → worst (so sánh nhất)</span></strong>: tệ hơn, tồi tệ nhất</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">well (adv.) → better (so sánh hơn) → best (so sánh nhất)</span></strong>: tốt hơn, tốt nhất</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">far (adv.) → farther/further (so sánh hơn) → farthest/furthest (so sánh nhất)</span></strong>: xa hơn, xa nhất</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">little (adv.) → less (so sánh hơn) → least (so sánh nhất)</span></strong>: ít hơn, ít nhất</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">much (adv.) → more (so sánh hơn) → most (so sánh nhất)</span></strong>: nhiều hơn, nhiều nhất</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu có dạng so sánh <em>\"_____ than they did yesterday\"</em>. Từ <em>\"played\"</em> là động từ, nên chỗ trống cần một trạng từ để bổ nghĩa cho hành động <em>\"played\"</em>. Cấu trúc <em>\"than\"</em> yêu cầu dạng so sánh hơn của trạng từ. Trạng từ <em>\"badly\"</em> (từ gốc khi dùng với động từ) có dạng so sánh hơn bất quy tắc là <em>\"worse\"</em>, phù hợp với ngữ cảnh và cấu trúc so sánh hơn.</p>\n<p style=\"text-align: justify;\">Phương án 2 <em>\"badder\"</em> là dạng so sánh sai ngữ pháp, phương án 3 <em>\"bad\"</em> là tính từ nguyên thể, không phải trạng từ và không ở dạng so sánh hơn còn phương án 4 <em>\"the worst\"</em> là dạng so sánh nhất, không phù hợp với cấu trúc so sánh hơn <em>\"than\"</em>.</p>",
+      "answerFeedbacks": {
+        "1489153": "Đúng vì <em>\"worse\"</em> là dạng so sánh hơn bất quy tắc của trạng từ <em>\"badly\"</em>, phù hợp với cấu trúc so sánh <em>\"than\"</em> và bổ nghĩa cho động từ <em>\"played\"</em>.",
+        "1489154": "Sai vì <em>\"badder\"</em> là dạng so sánh sai ngữ pháp; <em>\"bad\"</em> là tính từ bất quy tắc, dạng so sánh hơn của <em>\"bad\"</em> (tính từ) là <em>\"worse\"</em>.",
+        "1489155": "Sai vì <em>\"bad\"</em> là tính từ nguyên thể, không phải trạng từ và không ở dạng so sánh hơn để đi với <em>\"than\"</em>.",
+        "1489156": "Sai vì <em>\"the worst\"</em> là dạng so sánh nhất của tính từ <em>\"bad\"</em> hoặc trạng từ <em>\"badly\"</em>, không phù hợp với cấu trúc so sánh hơn <em>\"than\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 777901,
+      "questionNumber": 6,
+      "questionName": "10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Do you think flashcards can help us learn English _____?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1494460,
+          "label": "A",
+          "text": "more effectively",
+          "isCorrect": true
+        },
+        {
+          "id": 1494461,
+          "label": "B",
+          "text": "so effective",
+          "isCorrect": false
+        },
+        {
+          "id": 1494462,
+          "label": "C",
+          "text": "as effectively",
+          "isCorrect": false
+        },
+        {
+          "id": 1494463,
+          "label": "D",
+          "text": "more effective",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1494460,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để tìm đáp án đúng, hãy cân nhắc những điều sau:</p>\n<ul>\n<li>Xác định từ loại cần điền vào chỗ trống: Chỗ trống đứng sau động từ <em>\"learn\"</em>, vậy bạn cần một từ để bổ nghĩa cho hành động này. Từ loại nào thường bổ nghĩa cho động từ?</li>\n<li>Xem xét ý nghĩa của câu: Câu hỏi đang muốn hỏi về việc học tiếng Anh <em>\"hiệu quả hơn\"</em>, điều này gợi ý về một cấu trúc so sánh.</li>\n</ul>\n<p>Dựa trên từ loại và ý nghĩa so sánh, hãy chọn phương án có cấu trúc so sánh hơn của trạng từ phù hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So sánh hơn của trạng từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Trạng từ được dùng để bổ nghĩa cho động từ, tính từ hoặc một trạng từ khác, cho biết cách thức, mức độ, thời gian, hoặc nơi chốn của hành động. So sánh hơn của trạng từ dùng để so sánh hành động giữa hai đối tượng hoặc hai trạng thái.</p>\n<p style=\"text-align: justify;\"><strong>Các dạng so sánh hơn của trạng từ:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>S + V + more + adv. (trạng từ dài) + than...</strong></li>\n<li style=\"text-align: justify;\"><strong>S + V + adv.(-er) (trạng từ ngắn) + than...</strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Chỗ trống trong câu cần bổ nghĩa cho động từ <em>\"learn\"</em> (học), do đó cần một trạng từ. Phương án 1 <em>\"more effectively\"</em> là trạng từ ở dạng so sánh hơn, phù hợp với ngữ cảnh câu hỏi muốn so sánh hiệu quả học tập.</p>\n<p style=\"text-align: justify;\">Các phương án 2 (<em>\"so effective\"</em>) và 4 (<em>\"more effective\"</em>) chứa tính từ <em>\"effective\"</em> nên không thể bổ nghĩa cho động từ. Phương án 3 (<em>\"as effectively\"</em>) là so sánh bằng, không phù hợp với ý nghĩa so sánh hơn về hiệu quả mà câu hỏi muốn truyền tải.</p>",
+      "answerFeedbacks": {
+        "1494460": "Đúng vì <em>effectively</em> là trạng từ bổ nghĩa cho động từ <em>learn</em>, và cấu trúc so sánh hơn <em>more effectively</em> phù hợp với ngữ cảnh câu hỏi về việc cải thiện hiệu quả học tập.",
+        "1494461": "Sai vì <em>effective</em> là tính từ, không thể bổ nghĩa cho động từ <em>learn</em>.",
+        "1494462": "Sai vì <em>as effectively</em> là cấu trúc so sánh bằng, không phù hợp với ngữ cảnh muốn diễn đạt sự cải thiện hiệu quả.",
+        "1494463": "Sai vì <em>effective</em> là tính từ, không thể bổ nghĩa cho động từ <em>learn</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 251181,
+      "questionNumber": 7,
+      "questionName": "10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Jason jumped _____ of all the students in the class.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 562385,
+          "label": "A",
+          "text": "<p>the most highly</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 562386,
+          "label": "B",
+          "text": "the highest",
+          "isCorrect": true
+        },
+        {
+          "id": 562387,
+          "label": "C",
+          "text": "higher",
+          "isCorrect": false
+        },
+        {
+          "id": 562388,
+          "label": "D",
+          "text": "high",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 562386,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để điền vào chỗ trống, bạn cần xác định hai yếu tố:<ul><li>Câu có cụm từ <em>\"of all the students\"</em>, báo hiệu cần dùng hình thức so sánh nhất.</li><li>Động từ <em>\"jumped\"</em> cần một trạng từ để bổ nghĩa. Bạn cần phân biệt giữa trạng từ <em>\"high\"</em> (chỉ độ cao vật lý) và <em>\"highly\"</em> (chỉ mức độ, chất lượng) để chọn dạng so sánh nhất phù hợp.</li></ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So sánh nhất của trạng từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để so sánh một hành động, đặc điểm hoặc trạng thái của một chủ thể với tất cả các chủ thể khác trong một nhóm, nhấn mạnh tính nổi bật nhất của chủ thể đó.</p>\n<p style=\"text-align: justify;\"><strong>Một số dạng so sánh nhất của trạng từ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><span style=\"color: #1c581f;\">Trạng từ ngắn:</span><strong><span style=\"color: #1c581f;\"> the + adv. + -est</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><span style=\"color: #1c581f;\">Trạng từ dài: </span><strong><span style=\"color: #1c581f;\">the + most + adv.</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><span style=\"color: #1c581f;\">Trạng từ bất quy tắc:</span><strong><span style=\"color: #1c581f;\"> the + irregular adv. (superlative form)</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Cụm từ <em>\"of all the students in the class\"</em> là dấu hiệu nhận biết cấu trúc so sánh nhất. Động từ <em>\"jumped\"</em> cần một trạng từ để bổ nghĩa về mức độ cao. Trạng từ <em>\"high\"</em> (nghĩa là ở vị trí cao) có dạng so sánh nhất là <em>\"highest\"</em>, phù hợp với ngữ cảnh.</p>\n<p style=\"text-align: justify;\">Phương án <em>\"the most highly\"</em> sử dụng trạng từ <em>\"highly\"</em> (nghĩa là ở mức độ cao, rất) không phù hợp với hành động nhảy về mặt vật lý. Các phương án <em>\"higher\"</em> và <em>\"high\"</em> là dạng so sánh hơn và nguyên thể, không đáp ứng yêu cầu so sánh nhất của câu.</p>",
+      "answerFeedbacks": {
+        "562385": "<p>Sai vì trạng từ \"highly\" (nghĩa là ở mức độ cao, rất) không phù hợp với ngữ cảnh \"jumped\" (nhảy cao về mặt vật lý), và dạng so sánh nhất của nó là \"most highly\", không phải \"the most highly\" khi đứng sau động từ.</p>",
+        "562386": "Đúng vì <em>\"highest\"</em> là dạng so sánh nhất của trạng từ <em>\"high\"</em> (nghĩa là ở vị trí cao), phù hợp để bổ nghĩa cho động từ <em>\"jumped\"</em> và chỉ ra mức độ cao nhất trong số tất cả học sinh.",
+        "562387": "Sai vì <em>\"higher\"</em> là dạng so sánh hơn, không phù hợp với cụm từ <em>\"of all the students\"</em> yêu cầu so sánh nhất.",
+        "562388": "Sai vì <em>\"high\"</em> là dạng nguyên thể của trạng từ, không phù hợp với cụm từ <em>\"of all the students\"</em> yêu cầu so sánh nhất."
+      },
+      "images": []
+    },
+    {
+      "id": 87737,
+      "questionNumber": 8,
+      "questionName": "Q6",
+      "questionType": "FillBlank",
+      "questionText": "<p><em><span class=\"word\">Complete</span>&nbsp;<span class=\"word\">the</span>&nbsp;<span class=\"word\">sentence.</span>&nbsp;<span class=\"word\">Use</span>&nbsp;<span class=\"word\">the</span>&nbsp;<span class=\"word\">comparative</span>&nbsp;<span class=\"word\">or</span>&nbsp;<span class=\"word\">superlative.</span></em></p>\n<p><strong>They called us (late) <span class='fillblank-option'><input id='fbo-87737-0' class='ms fillblank-option-8' index='0' name='fbo-87737-0' type='text' size='7' autocomplete='off' data-testid='fillblank-input-87737-0' /></span> in the afternoon.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "later"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cần 1 trạng từ bổ nghĩa cho động từ \"<strong>call</strong>\".&nbsp;</p>\n<p>\"<strong>late</strong>\" vừa l&agrave; t&iacute;nh từ, vừa l&agrave; trạng từ. Trạng từ \"<strong>lately</strong>\" mang nghĩa l&agrave; gần đ&acirc;y, mới đ&acirc;y, kh&ocirc;ng ph&ugrave; hợp trong c&acirc;u.</p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh hơn với trạng từ ngắn: </span><strong>S + V + adv. + er + than + O</strong></p>\n<p><span style=\"font-weight: 400;\">Dịch: Họ gọi ch&uacute;ng t&ocirc;i muộn hơn v&agrave;o buổi chiều.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 353302,
+      "questionNumber": 9,
+      "questionName": "Longman Basic English Grammar 2th-p415",
+      "questionType": "FillBlank",
+      "questionText": "<p><em><span class=\"word\">Complete</span>&nbsp;<span class=\"word\">the</span>&nbsp;<span class=\"word\">sentence.</span>&nbsp;<span class=\"word\">Use</span>&nbsp;<span class=\"word\">the</span>&nbsp;<span class=\"word\">comparative</span>&nbsp;<span class=\"word\">or</span>&nbsp;<span class=\"word\">superlative.</span></em></p>\n<p><strong>Ken can write (well) <span class='fillblank-option'><input id='fbo-353302-0' class='ms fillblank-option-9' index='0' name='fbo-353302-0' type='text' size='11' autocomplete='off' data-testid='fillblank-input-353302-0' /></span> of all.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "the best"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh nhất với trạng từ d&agrave;i: <strong>S + V + the + dạng so s&aacute;nh nhất của trạng từ + ...</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dạng so s&aacute;nh nhất của \"<strong>well</strong>\" l&agrave; \"<strong>best</strong>\".</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Ken c&oacute; thể viết hay nhất.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 317902,
+      "questionNumber": 10,
+      "questionName": "Grammar Practice for Elementary Students 3rd-p.44",
+      "questionType": "FillBlank",
+      "questionText": "<p><em><span class=\"word\">Complete</span> <span class=\"word\">the</span> <span class=\"word\">sentence.</span> <span class=\"word\">Use</span> <span class=\"word\">the</span> <span class=\"word\">comparative</span> <span class=\"word\">or</span> <span class=\"word\">superlative.</span></em></p>\n<p><strong><span class=\"word\">Kim, Kate and Jo all sing well, but Kate sings (beautifully) <span class='fillblank-option'><input id='fbo-317902-0' class='ms fillblank-option-10' index='0' name='fbo-317902-0' type='text' size='24' autocomplete='off' data-testid='fillblank-input-317902-0' /></span>.</span></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "the most beautifully"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Dùng cấu tr&uacute;c so sánh nh&acirc;́t vì ngữ cảnh của c&acirc;u đang so sánh giữa m&ocirc;̣t nhóm 3 người.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh nhất với trạng từ d&agrave;i: <strong>S + V + the most + adv. + ...</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Kim, Kate v&agrave; Jo đều h&aacute;t rất hay, nhưng Kate h&aacute;t hay hơn cả.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 353292,
+      "questionNumber": 11,
+      "questionName": "Longman Basic English Grammar 2th-p414",
+      "questionType": "FillBlank",
+      "questionText": "<p><em><span class=\"word\">Complete</span>&nbsp;<span class=\"word\">the</span>&nbsp;<span class=\"word\">sentence.</span>&nbsp;<span class=\"word\">Use</span>&nbsp;<span class=\"word\">the</span>&nbsp;<span class=\"word\">comparative</span>&nbsp;<span class=\"word\">or</span>&nbsp;<span class=\"word\">superlative.</span></em></p>\n<p><strong>My brother works (hard) <span class='fillblank-option'><input id='fbo-353292-0' class='ms fillblank-option-11' index='0' name='fbo-353292-0' type='text' size='14' autocomplete='off' data-testid='fillblank-input-353292-0' /></span> of all.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "the hardest"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cần 1 trạng từ bổ nghĩa cho động từ \"<strong>works</strong>\".&nbsp;</p>\n<p>\"<strong>hard</strong>\" vừa l&agrave; t&iacute;nh từ, vừa l&agrave; trạng từ. Trạng từ \"<strong>hardly</strong>\" mang nghĩa l&agrave; gần như kh&ocirc;ng n&ecirc;n kh&ocirc;ng ph&ugrave; hợp với nghĩa trong c&acirc;u.</p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh hơn với trạng từ ngắn: </span><strong>S + V + adv. + er + than + O</strong></p>\n<p>Dịch: Anh trai t&ocirc;i l&agrave; người l&agrave;m việc chăm chỉ nhất.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 87749,
+      "questionNumber": 12,
+      "questionName": "Q12",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentence. Use the comparative or superlative.</em></p>\n<p><strong>She performed (badly) <span class='fillblank-option'><input id='fbo-87749-0' class='ms fillblank-option-12' index='0' name='fbo-87749-0' type='text' size='9' autocomplete='off' data-testid='fillblank-input-87749-0' /></span> than her teammates in the competition.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "worse"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Trong c&acirc;u c&oacute; \"<strong>than</strong>\" =&gt; sử dụng cấu tr&uacute;c so s&aacute;nh hơn của trạng từ.</p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh hơn với trạng từ: </span><strong>S + V + dạng so s&aacute;nh hơn của trạng từ + than + Noun/Pronoun/S + V</strong></p>\n<p><span style=\"font-weight: 400;\">Trạng từ \"<strong>badly</strong>\" c&oacute; dạng so s&aacute;nh hơn l&agrave; \"<strong>worse</strong>\".</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: C&ocirc; ấy thể hiện tệ hơn đồng đội của m&igrave;nh trong cuộc thi.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 87676,
+      "questionNumber": 13,
+      "questionName": "Q2",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentences. Use the comparative or superlative.</em></p>\n<p><strong>She can't stay (long) <span class='fillblank-option'><input id='fbo-87676-0' class='ms fillblank-option-13' index='0' name='fbo-87676-0' type='text' size='8' autocomplete='off' data-testid='fillblank-input-87676-0' /></span> than 30 minutes.</strong><strong>&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "longer"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại cần điền: trạng từ, bổ sung nghĩa cho động từ \"<strong>stay</strong>\".</p>\n<p>Trong c&acirc;u c&oacute; \"<strong>than</strong>\" n&ecirc;n sử dụng cấu tr&uacute;c so s&aacute;nh hơn với trạng từ.</p>\n<p><span style=\"font-weight: 400;\">\"<strong>long</strong>\" vừa l&agrave; t&iacute;nh từ, vừa l&agrave; trạng từ.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh hơn với trạng từ ngắn: <strong>S + V + adv. + er + than + O</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: C&ocirc; ấy kh&ocirc;ng thể ở lại l&acirc;u hơn 30 ph&uacute;t.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 251256,
+      "questionNumber": 14,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Michael <span style=\"text-decoration: underline;\">runs</span> the <span style=\"text-decoration: underline;\">most fast</span> <span style=\"text-decoration: underline;\">on</span> the <span style=\"text-decoration: underline;\">basketball team</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 562498,
+          "label": "A",
+          "text": "runs",
+          "isCorrect": false
+        },
+        {
+          "id": 562499,
+          "label": "B",
+          "text": "most fast",
+          "isCorrect": true
+        },
+        {
+          "id": 562500,
+          "label": "C",
+          "text": "on",
+          "isCorrect": false
+        },
+        {
+          "id": 562501,
+          "label": "D",
+          "text": "basketball team",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 562499,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>\"<strong>fast</strong>\" vừa l&agrave; t&iacute;nh từ vừa l&agrave; trạng từ v&agrave; dạng so s&aacute;nh nhất của trạng từ \"<strong>fast</strong>\" l&agrave; \"<strong>the fastest</strong>\".</p>\n<p>Sửa: \"<strong>most fast</strong>\" =&gt; \"<strong>fastest</strong>\"</p>\n<p>Dịch: Michael chạy nhanh nhất trong đội b&oacute;ng rổ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 409710,
+      "questionNumber": 15,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>If you <span style=\"text-decoration: underline;\">want to</span> pass <span style=\"text-decoration: underline;\">this exam</span>, you'll <span style=\"text-decoration: underline;\">have to</span> study <span style=\"text-decoration: underline;\">more hardly</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 825719,
+          "label": "A",
+          "text": "want to",
+          "isCorrect": false
+        },
+        {
+          "id": 825720,
+          "label": "B",
+          "text": "this exam",
+          "isCorrect": false
+        },
+        {
+          "id": 825721,
+          "label": "C",
+          "text": "have to",
+          "isCorrect": false
+        },
+        {
+          "id": 825722,
+          "label": "D",
+          "text": "more hardly",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 825722,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><strong>hardly </strong>(adv.): hầu như kh&ocirc;ng =&gt; Kh&ocirc;ng ph&ugrave; hợp với nghĩa c&acirc;u.</p>\n<p style=\"text-align: justify;\"><strong>hard </strong>(adv.): chăm chỉ =&gt; Dạng so s&aacute;nh hơn l&agrave; \"<strong>harder</strong>\".</p>\n<p style=\"text-align: justify;\">Sửa: \"<strong>more hardly</strong>\" =&gt; \"<strong>harder</strong>\"</p>\n<p style=\"text-align: justify;\">Dịch: Nếu bạn muốn vượt qua kỳ thi n&agrave;y, bạn sẽ phải học tập chăm chỉ hơn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 251257,
+      "questionNumber": 16,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">Of</span> all the family members, May <span style=\"text-decoration: underline;\">drives</span> the <span style=\"text-decoration: underline;\">more</span> carefully <span style=\"text-decoration: underline;\">in</span> the dark.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 562502,
+          "label": "A",
+          "text": "Of",
+          "isCorrect": false
+        },
+        {
+          "id": 562503,
+          "label": "B",
+          "text": "drives",
+          "isCorrect": false
+        },
+        {
+          "id": 562504,
+          "label": "C",
+          "text": "more",
+          "isCorrect": true
+        },
+        {
+          "id": 562505,
+          "label": "D",
+          "text": "in",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 562504,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh nhất với trạng từ: <strong>S + V + the most + adv. + ...</strong></span></p>\n<p><span style=\"font-weight: 400;\">Sửa: \"<strong>more</strong>\" =&gt; \"<strong>most</strong>\"</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Trong số tất cả c&aacute;c th&agrave;nh vi&ecirc;n trong gia đ&igrave;nh, May l&aacute;i xe cẩn thận nhất khi trời tối.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 775597,
+      "questionNumber": 17,
+      "questionName": "37",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "did",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "they",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "more",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "than",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "last year.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "frequently",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "traveled",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "We",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 540253,
+      "questionNumber": 18,
+      "questionName": "21",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "use them",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "of all",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "the most",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "fit",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "very often.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "my shoes",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "so I",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "comfortably",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 9",
+          "text": "My red shoes",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 773014,
+      "questionNumber": 19,
+      "questionName": "40",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>His colleague works less efficiently than he does.</strong></p>\n<p><strong>=&gt; He works <span class='fillblank-option'><input id='fbo-773014-0' class='ms fillblank-option-19' index='0' name='fbo-773014-0' type='text' size='24' autocomplete='off' data-testid='fillblank-input-773014-0' /></span> his colleague.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "more efficiently than"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh hơn với trạng từ d&agrave;i: <strong>S + V + more + adv. + than + Noun/Pronoun/S + V</strong></span></p>\n<p>Dịch:&nbsp;Đồng nghiệp của anh ấy l&agrave;m việc k&eacute;m hiệu quả hơn anh ấy.</p>\n<p>~ Anh ấy l&agrave;m việc hiệu quả hơn đồng nghiệp của m&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 401834,
+      "questionNumber": 20,
+      "questionName": "5",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence, using the word given so that it has a similar meaning to the first sentence. Do NOT change the word given in brackets in any way.</em></p>\n<p><strong>Everyone in our class behaves more maturely than Tim. (IMMATURELY)</strong></p>\n<p><strong>=&gt; Tim behaves <span class='fillblank-option'><input id='fbo-401834-0' class='ms fillblank-option-20' index='0' name='fbo-401834-0' type='text' size='21' autocomplete='off' data-testid='fillblank-input-401834-0' /></span> in our class.&nbsp;</strong></p>\n<div style=\"position: absolute; left: 516px; top: 22px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "the most immaturely"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Dùng cấu tr&uacute;c so sánh nh&acirc;́t vì ngữ cảnh của c&acirc;u viết lại đang so sánh giữa m&ocirc;̣t nhóm (<strong>in our class</strong>).</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh nhất với trạng từ: <strong>S + V + the most + adv. + ...</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Mọi người trong lớp ch&uacute;ng t&ocirc;i đều cư xử ch&iacute;n chắn hơn Tim.</span></p>\n<p><span style=\"font-weight: 400;\">~ Tim cư xử thiếu ch&iacute;n chắn nhất trong lớp t&ocirc;i.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 68087,
+      "questionNumber": 21,
+      "questionName": "Question 31:",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence, using the word given so that it has a similar meaning to the first sentence. Do NOT change the word given in brackets in any way.</em></p>\n<p><strong>A sport car goes faster than an ordinary car. (SLOWLY)</strong></p>\n<p><strong>=&gt; An ordinary car <span class='fillblank-option'><input id='fbo-68087-0' class='ms fillblank-option-21' index='0' name='fbo-68087-0' type='text' size='24' autocomplete='off' data-testid='fillblank-input-68087-0' /></span> a sport car.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "goes more slowly than"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh hơn với trạng từ d&agrave;i: <strong>S + V + more + adv. + than + Noun/Pronoun/S + V</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Xe thể thao chạy nhanh hơn một chiếc xe th&ocirc;ng thường.</span></p>\n<p><span style=\"font-weight: 400;\">~ Một chiếc xe th&ocirc;ng thường chạy chậm hơn xe thể thao.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 540261,
+      "questionNumber": 22,
+      "questionName": "24",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has a similar meaning to the first sentence, using the word given in brackets. Do not change the given word. You must use between TWO to FIVE words including the given word.</em></p>\n<p><strong>Reaching speeds of up to 70 mph, cheetahs run faster than any mammals. (OF)</strong></p>\n<p><strong>=&gt; Cheetahs run <span class='fillblank-option'><input id='fbo-540261-0' class='ms fillblank-option-22' index='0' name='fbo-540261-0' type='text' size='29' autocomplete='off' data-testid='fillblank-input-540261-0' /></span>, capable of reaching speeds of up to 70 mph.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "the fastest of [all|any] mammals"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>So sánh nhất của tính từ/trạng từ</strong>:</p>\n<ul>\n<li style=\"text-align: justify;\">Dùng để so sánh một đối tượng với tất cả các đối tượng khác trong một nhóm, nhấn mạnh đối tượng đó vượt trội nhất về một đặc điểm nào đó.</li>\n<li style=\"text-align: justify;\">Công thức: <strong>the + adj/adv-est</strong> hoặc<strong> the most + adj/adv</strong></li>\n</ul>\n<p style=\"text-align: justify;\"><strong>of/among all + N (đếm được số nhiều/ không đếm được)</strong>: trong tất cả...</p>\n<p style=\"text-align: justify;\"><strong>capable of doing something</strong>: có khả năng làm gì</p>\n<p style=\"text-align: justify;\"><span style=\"color: #5fbd18; font-weight: 600;\">Phân tích: </span></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 5px;\">Câu gốc \"Cheetahs run <em>faster than any mammals</em>\" sử dụng cấu trúc so sánh hơn để diễn tả báo chạy nhanh hơn bất kỳ động vật có vú nào. Yêu cầu viết lại câu sử dụng từ \"OF\" và giới hạn từ 2-5 từ, đồng thời phần đầu câu \"Cheetahs run\" và phần cuối \", capable of reaching speeds of up to 70 mph\" đã được cho sẵn, cho thấy chúng ta cần chuyển đổi cấu trúc so sánh hơn thành so sánh nhất.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Để diễn tả ý nghĩa \"nhanh nhất\", dùng dạng so sánh nhất của trạng từ \"fast\", là \"<strong>the fastest</strong>\".</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Để chỉ rõ nhóm mà báo là nhanh nhất trong số đó, và phải sử dụng giới từ \"OF\" đã cho, chúng ta có thể dùng các cụm từ như \"<strong>of all mammals</strong>\", \"<strong>of mammals</strong>\" hoặc \"<strong>of any mammals</strong>\".</li>\n</ul>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

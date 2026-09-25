@@ -1,0 +1,869 @@
+{
+  "quizId": 6165,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 48: Adjectives ending in -ED and -ING (Tính từ tận cùng bằng -ED và -ING)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 908481,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p data-start=\"0\" data-end=\"19\"><strong>Ho&#224;n th&#224;nh b&#224;i t&#7853;p.</strong></p>\n<p data-start=\"24\" data-end=\"118\">1. <span class='fillblank-option'><label>1.1</label><input id='fbo-908481-0' class='ms fillblank-option-1' index='0' name='fbo-908481-0' type='text' size='27' autocomplete='off' data-testid='fillblank-input-908481-0' /></span>&nbsp;cho ch&#250;ng ta bi&#7871;t c&#7843;m gi&#225;c c&#7911;a con ng&#432;&#7901;i v&#224; &#273;&#244;i khi l&#224; &#273;&#7897;ng v&#7853;t.</p>\n<p data-start=\"123\" data-end=\"240\" data-is-last-node>2. <span class='fillblank-option'><label>1.2</label><input id='fbo-908481-1' class='ms fillblank-option-1' index='1' name='fbo-908481-1' type='text' size='28' autocomplete='off' data-testid='fillblank-input-908481-1' /></span>&nbsp;mi&#234;u t&#7843; &#273;&#7863;c &#273;i&#7875;m c&#7911;a m&#7897;t ng&#432;&#7901;i, v&#7853;t ho&#7863;c t&#236;nh hu&#7889;ng, ho&#7863;c m&#244; t&#7843; y&#7871;u t&#7889; g&#226;y ra c&#7843;m x&#250;c.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1738812,
+          "label": "A",
+          "text": "Tính từ kết thúc bằng -ING",
+          "isCorrect": false
+        },
+        {
+          "id": 1738811,
+          "label": "B",
+          "text": "Tính từ kết thúc bằng -ED",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Tính từ kết thúc bằng -ED"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Tính từ kết thúc bằng -ING"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/Bai_48_Tinh_tu_tan_cung_bang_-ed_va_-ing_4a7ebf4a.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 908493,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>K&#233;o th&#7843; c&#225;c t&#237;nh t&#7915; &#273;u&#244;i &quot;-ing&quot; v&#224; &#273;u&#244;i &quot;-ed&quot; v&#224;o c&#225;c ch&#7895; tr&#7889;ng &#273;&#7875; ho&#224;n th&#224;nh c&#226;u.</strong></p>\n<p>1. The dark alley was <span class='fillblank-option'><label>2.1</label><input id='fbo-908493-0' class='ms fillblank-option-2' index='0' name='fbo-908493-0' type='text' size='12' autocomplete='off' data-testid='fillblank-input-908493-0' /></span> at night.</p>\n<p>2. The long hike up the mountain was very <span class='fillblank-option'><label>2.2</label><input id='fbo-908493-1' class='ms fillblank-option-2' index='1' name='fbo-908493-1' type='text' size='10' autocomplete='off' data-testid='fillblank-input-908493-1' /></span>.</p>\n<p>3. I was <span class='fillblank-option'><label>2.3</label><input id='fbo-908493-2' class='ms fillblank-option-2' index='2' name='fbo-908493-2' type='text' size='13' autocomplete='off' data-testid='fillblank-input-908493-2' /></span> to see her at the party.</p>\n<p>4. He was <span class='fillblank-option'><label>2.4</label><input id='fbo-908493-3' class='ms fillblank-option-2' index='3' name='fbo-908493-3' type='text' size='10' autocomplete='off' data-testid='fillblank-input-908493-3' /></span> about the concert this weekend.</p>\n<p>5. The doctor gave some <span class='fillblank-option'><label>2.5</label><input id='fbo-908493-4' class='ms fillblank-option-2' index='4' name='fbo-908493-4' type='text' size='10' autocomplete='off' data-testid='fillblank-input-908493-4' /></span> news about his condition.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1738939,
+          "label": "A",
+          "text": "frightening",
+          "isCorrect": false
+        },
+        {
+          "id": 1738942,
+          "label": "B",
+          "text": "excited",
+          "isCorrect": false
+        },
+        {
+          "id": 1738940,
+          "label": "C",
+          "text": "tiring",
+          "isCorrect": false
+        },
+        {
+          "id": 1738941,
+          "label": "D",
+          "text": "surprised",
+          "isCorrect": false
+        },
+        {
+          "id": 1738943,
+          "label": "E",
+          "text": "worrying",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "frightening"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "tiring"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "surprised"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "excited"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "worrying"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><iframe id=\"embed-frame-11261\" style=\"border: none;\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX18KmI00CXudXmTQIewRSP%2FWQsphQMUyVesEH3O19WXJD5StEEXJlbcZCAFRUQZ15aQzqObyNv22bATarpzcMeqbvfdufA7bha3GRx0aLXwYOCiqMmlf7JKVxbjUEX%2FEkJv%2BP%2F7o%2BA2N5otRSBhpNoHIKCKXTpljmQbrB5A7whlXN8MSgtd9vmd7ZjEJ%2F0Atf2BE0t9EdqHslAcBN6eVr0zZsDGo7JrTdb6OZvl0dG8lIgKNRN3ARn2TSbbHEPZwoTAg1OWawSY8XafA8FXI7imLR3ympIZ2Rp3JB2lwSpq7OFS9w2jI2yeFpPXThx31IvvugCPytL8E22vJFo4Go3v6Bl%2FcTKLzwXbITF4l%2FU1fzTYhyZRPovTGIBt%2FPW0Jz%2Bo4gIwuYCRfLg%3D%3D\" width=\"100%\" height=\"360\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></p>\n<p><strong>be excited + about + sth</strong>: h&agrave;o hứng, phần khởi về c&aacute;i g&igrave;</p>\n<p>Dịch:</p>\n<p>1. Con hẻm tối thật đ&aacute;ng sợ v&agrave;o ban đ&ecirc;m.</p>\n<p>2. Cuộc leo n&uacute;i d&agrave;i l&ecirc;n đỉnh thật mệt mỏi.</p>\n<p>3. T&ocirc;i đ&atilde; ngạc nhi&ecirc;n khi thấy c&ocirc; ấy ở bữa tiệc.</p>\n<p>4. Anh ấy rất h&agrave;o hứng về buổi h&ograve;a nhạc cuối tuần n&agrave;y.</p>\n<p>5. B&aacute;c sĩ đ&atilde; đưa ra một số tin tức đ&aacute;ng lo ngại về t&igrave;nh trạng của anh ấy.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 44283,
+      "questionNumber": 3,
+      "questionName": "Q 18.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We aren&#8217;t _____ that he came first.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 128391,
+          "label": "A",
+          "text": "surprising",
+          "isCorrect": false
+        },
+        {
+          "id": 128392,
+          "label": "B",
+          "text": "surprised",
+          "isCorrect": true
+        },
+        {
+          "id": 128393,
+          "label": "C",
+          "text": "surprisingly",
+          "isCorrect": false
+        },
+        {
+          "id": 128394,
+          "label": "D",
+          "text": "to be surprising",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 128392,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p class=\"PDq2pG_selectionAnchorContainer\" data-start=\"329\" data-end=\"342\">H&atilde;y nhớ rằng:</p>\n<ul data-start=\"347\" data-end=\"537\">\n<li data-section-id=\"zl1v20\" data-start=\"347\" data-end=\"435\">T&iacute;nh từ tận c&ugrave;ng bằng <strong data-start=\"371\" data-end=\"378\">-ed</strong> diễn tả cảm x&uacute;c của người hoặc vật <strong data-start=\"414\" data-end=\"426\">trải qua</strong> cảm x&uacute;c.</li>\n<li data-section-id=\"oenohh\" data-start=\"438\" data-end=\"535\">T&iacute;nh từ tận c&ugrave;ng bằng <strong data-start=\"462\" data-end=\"470\">-ing</strong> diễn tả đặc điểm của người, vật hoặc sự việc <strong data-start=\"516\" data-end=\"526\">g&acirc;y ra</strong> cảm x&uacute;c.</li>\n</ul>\n<p>&nbsp;</p>\n<p data-start=\"540\" data-end=\"736\">Dựa v&agrave;o ngữ cảnh của c&acirc;u <em data-start=\"570\" data-end=\"609\">\"We aren&rsquo;t _____ that he came first.\", </em>h&atilde;y&nbsp;x&aacute;c định xem chỗ trống đang diễn tả <strong data-start=\"649\" data-end=\"672\">cảm x&uacute;c của chủ ngữ</strong> hay <strong data-start=\"677\" data-end=\"701\">đặc điểm của sự việc</strong>. Từ đ&oacute;, chọn dạng t&iacute;nh từ ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"180\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18YUKKNaD1aLf1DAhnbZ%2FBRL2vMFNoEamAzLybZWN%2BcchafvlIscujOo%2BFzomgLHzv1buVJHZy11rTdjHjUQ2R5IgtARn8Ra%2BQYDMpn76sgkoevDYZaXKT%2FcHCuD2NMc7Gc%2BpYy4nNFONBtSKymiTyWRcSJDMROzHnEbnD6GyiDAUDczs0V7dQZ0b1sQ1FlU%2BJkKb0tRLWqkYVVlBRJ7MrE8rSmM21LrWaaVqPrEItiO0yYZXRRXwJ07hRTZEi3LeGYZZ8OZX904IXeqinhfrcykyXmtSG%2BRulBn7dwc4J8TeG6MslSdXWkvWHfwrzqw2XKCzC8d0ckgQ%3D%3D\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>T&iacute;nh từ v&agrave; trạng từ diễn tả cảm x&uacute;c</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c t&iacute;nh từ tận c&ugrave;ng bằng -ed v&agrave; -ing thường được d&ugrave;ng để diễn tả cảm x&uacute;c, trong đ&oacute; t&iacute;nh từ -ed m&ocirc; tả cảm x&uacute;c của người/vật bị t&aacute;c động, c&ograve;n t&iacute;nh từ -ing m&ocirc; tả bản chất g&acirc;y ra cảm x&uacute;c đ&oacute; của người/vật.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi c&oacute; chủ ngữ l&agrave; \"<em>We</em>\" (ch&uacute;ng t&ocirc;i) v&agrave; theo sau l&agrave; động từ \"<em>aren't</em>\" (dạng phủ định của <em>to be</em>). Ngữ cảnh y&ecirc;u cầu một t&iacute;nh từ để diễn tả cảm x&uacute;c của chủ ngữ l&agrave; người khi bị t&aacute;c động bởi sự việc \"he came first\". Do đ&oacute;, t&iacute;nh từ tận c&ugrave;ng bằng -ed l&agrave; <em>surprised</em> l&agrave; lựa chọn đ&uacute;ng nhất để m&ocirc; tả cảm x&uacute;c bị ngạc nhi&ecirc;n của chủ ngữ.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n <em>surprising</em> d&ugrave;ng để m&ocirc; tả bản chất g&acirc;y ngạc nhi&ecirc;n của sự việc, kh&ocirc;ng ph&ugrave; hợp với chủ ngữ l&agrave; người. Phương &aacute;n <em>surprisingly</em> l&agrave; trạng từ, kh&ocirc;ng thể đứng sau <em>to be</em> để l&agrave;m vị ngữ. Phương &aacute;n <em>to be surprising</em> l&agrave; một cụm động từ nguy&ecirc;n thể, kh&ocirc;ng đ&uacute;ng ngữ ph&aacute;p trong cấu tr&uacute;c n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "128391": "Sai vì <em>surprising</em> là tính từ mang nghĩa \"gây ngạc nhiên\", dùng để mô tả bản chất của sự việc hoặc người gây ra cảm xúc, không phải cảm xúc của chủ ngữ <em>We</em>.",
+        "128392": "Đúng vì <em>surprised</em> là tính từ mang nghĩa \"bị ngạc nhiên\", dùng để mô tả cảm xúc của chủ ngữ <em>We</em> (người) khi bị tác động bởi sự việc.",
+        "128393": "Sai vì <em>surprisingly</em> là trạng từ, không thể đứng sau động từ <em>to be</em> để làm vị ngữ mô tả cảm xúc của chủ ngữ.",
+        "128394": "Sai vì <em>to be surprising</em> là một cụm động từ nguyên thể, không phù hợp về mặt ngữ pháp để điền vào chỗ trống này sau <em>aren't</em> để diễn tả cảm xúc của chủ ngữ."
+      },
+      "images": []
+    },
+    {
+      "id": 25813,
+      "questionNumber": 4,
+      "questionName": "Question 7:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Many foreign tourists say that Ho Chi Minh City is _____ than Hanoi.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 79533,
+          "label": "A",
+          "text": "exciting",
+          "isCorrect": false
+        },
+        {
+          "id": 79534,
+          "label": "B",
+          "text": "more exciting",
+          "isCorrect": true
+        },
+        {
+          "id": 79535,
+          "label": "C",
+          "text": "excited",
+          "isCorrect": false
+        },
+        {
+          "id": 79536,
+          "label": "D",
+          "text": "more excited",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 79534,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Ch&uacute; &yacute; đến từ <em>\"than\"</em> trong c&acirc;u l&agrave; dấu hiệu của cấu tr&uacute;c so s&aacute;nh hơn.</p>\n<p style=\"text-align: justify;\">Sau đ&oacute;, h&atilde;y x&aacute;c định chủ ngữ của t&iacute;nh từ l&agrave; <em>\"Ho Chi Minh City\"</em> (một danh từ chỉ vật) để chọn dạng t&iacute;nh từ đu&ocirc;i <em>-ed</em> hay <em>-ing</em> ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 175px;\"><iframe width=\"100%\" height=\"175\" style=\"border: none;\" id=\"embed-frame-BE6F1\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19Lo%2ByHPGBYlYRlexUT%2BYwfksf6nMO6ODdsUhDt%2BTtsmHHO1lZsLOtB%2FFn1LQoGI%2FkQ7JWXl08B%2Bubse7VGptARqpqLAgVCh8Ye2IJ3NLHOAm34bA5ibQTQAu4OQQJsQcEbEoUGtV%2FNcfRdX2XxHxe5Xgrc0B8V3OcuGGGEn%2FElr3fLruMeh9nuxbr8YGWOZDr2Kw6o05rvf5aVuIuBg9SJznQcx2CuwAgG1kV6VF5dKvdp0A5kFOjft2vRJIatSlklQHE5xCiJBhEiYg%2BjnOYo64g8Ri3j6FoqrSWb1ALfL7p4uQ9JS3UJ\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So s&aacute;nh hơn k&eacute;m của t&iacute;nh từ v&agrave; t&iacute;nh từ đu&ocirc;i -ed/-ing</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> So s&aacute;nh hơn k&eacute;m d&ugrave;ng để diễn tả sự kh&aacute;c biệt về mức độ giữa hai hoặc nhiều đối tượng. T&iacute;nh từ đu&ocirc;i -ing d&ugrave;ng để m&ocirc; tả đặc điểm của sự vật, sự việc g&acirc;y ra cảm x&uacute;c. T&iacute;nh từ đu&ocirc;i -ed d&ugrave;ng để m&ocirc; tả cảm x&uacute;c của người hoặc vật trải qua cảm x&uacute;c đ&oacute;.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Một số quy tắc h&igrave;nh th&agrave;nh dạng so s&aacute;nh hơn của t&iacute;nh từ:</span></p>\n<ul>\n<li>T&iacute;nh từ ngắn (1 &acirc;m tiết):<span style=\"font-weight: 600;\"> adj. + -er</span></li>\n<li>T&iacute;nh từ d&agrave;i (2 &acirc;m tiết trở l&ecirc;n):<span style=\"font-weight: 600;\"> more + adj.</span></li>\n<li>T&iacute;nh từ bất quy tắc: C&oacute; dạng so s&aacute;nh hơn <span style=\"font-weight: 600;\">ri&ecirc;ng biệt</span> cần ghi nhớ (v&iacute; dụ: <em>good &rarr; better, bad &rarr; worse</em>).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, ch&uacute;ng ta c&oacute; dấu hiệu <em>\"than\"</em>, cho thấy c&acirc;u đang d&ugrave;ng cấu tr&uacute;c so s&aacute;nh hơn k&eacute;m. Chủ ngữ của mệnh đề l&agrave; <em>\"Ho Chi Minh City\"</em> (Th&agrave;nh phố Hồ Ch&iacute; Minh), l&agrave; một danh từ chỉ vật, n&ecirc;n cần một t&iacute;nh từ m&ocirc; tả bản chất của n&oacute; (g&acirc;y ra cảm gi&aacute;c g&igrave;), kh&ocirc;ng phải cảm x&uacute;c của n&oacute;. Do đ&oacute;, ta cần d&ugrave;ng t&iacute;nh từ đu&ocirc;i <em>-ing</em> ở dạng so s&aacute;nh hơn. Phương &aacute;n <em>\"more exciting\"</em> đ&aacute;p ứng cả hai y&ecirc;u cầu n&agrave;y.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>exciting</em>\" đ&uacute;ng về loại t&iacute;nh từ nhưng thiếu dạng so s&aacute;nh hơn. Phương &aacute;n 3 \"<em>excited</em>\" v&agrave; phương &aacute;n 4 \"<em>more excited</em>\" đều sai v&igrave; \"<em>Ho Chi Minh City</em>\" l&agrave; vật, kh&ocirc;ng thể \"cảm thấy h&agrave;o hứng\" (<em>excited</em>), m&agrave; phải l&agrave; \"g&acirc;y hứng th&uacute;\" (<em>exciting</em>).</p>",
+      "answerFeedbacks": {
+        "79533": "Sai vì câu có <em>\"than\"</em>, cần dạng so sánh hơn.",
+        "79534": "Đúng vì <em>\"Ho Chi Minh City\"</em> là chủ ngữ chỉ vật, cần tính từ đuôi <em>\"-ing\"</em> để mô tả bản chất của nó, và câu có <em>\"than\"</em> nên cần dạng so sánh hơn.",
+        "79535": "Sai vì <em>\"Ho Chi Minh City\"</em> là chủ ngữ chỉ vật, không thể có cảm xúc <em>\"excited\"</em> (hào hứng); ngoài ra, câu có <em>\"than\"</em>, cần dạng so sánh hơn.",
+        "79536": "Sai vì <em>\"Ho Chi Minh City\"</em> là chủ ngữ chỉ vật, không thể có cảm xúc <em>\"excited\"</em> (hào hứng)."
+      },
+      "images": []
+    },
+    {
+      "id": 17760,
+      "questionNumber": 5,
+      "questionName": "II.4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Our children felt _____ when Tet holiday was coming near.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 57452,
+          "label": "A",
+          "text": "excitement",
+          "isCorrect": false
+        },
+        {
+          "id": 57453,
+          "label": "B",
+          "text": "excited",
+          "isCorrect": true
+        },
+        {
+          "id": 57454,
+          "label": "C",
+          "text": "excitedly",
+          "isCorrect": false
+        },
+        {
+          "id": 57455,
+          "label": "D",
+          "text": "exciting",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 57453,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Xác định từ loại cần điền sau động từ liên kết <em>\"felt\"</em>.</li>\n<li>Phân biệt cách dùng của tính từ đuôi <em>-ed</em> và <em>-ing</em> khi mô tả cảm xúc của chủ ngữ là người.</li>\n</ul>\n<br/>Tham khảo các câu sau để đoán hiểu nghĩa của các phương án lựa chọn:\n<ul>\n<li><em>The news caused great <strong>excitement</strong> among the fans.</em></li>\n<li><em>I felt very <strong>excited</strong> about my birthday party.</em></li>\n<li><em>She spoke <strong>excitedly</strong> about her new project.</em></li>\n<li><em>The roller coaster ride was truly <strong>exciting</strong>!</em></li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"315\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2F1bk3gqY%2FuF4wbjVmxVyQ0r9gn0mnyxta%2BrBKU%2BroyJylYSggUCx7KwgNMeQe%2FW%2FhlYTw6f5Sdity5Vt9Ie4XQQU0i%2FDxxpBdApJK8e%2BFvJliMg9rlS0nd3WUXOE2ZMNEnsYrt9EncYXLAmgX1DyeEn8QP%2B0m%2FQ8tq6XhtF%2FcjK3oQ2zw6lAm86x%2B%2FdcNCJqcOBA8%2FXXL5A39oYmyanxdw2vAsf7rve7Ydk5R%2FVHqwtgbpXpgggzUbG2MoQUL5xYFQGE5tpSiAKsBcMrEA7PqgoubBEeO6eMLrCYkJ5X61P2KhdTKBpuiG4LQMr6YemmmCDoOu6i%2Ba6lobabdsJP2kf1t8MUmpVqiWHhgo1QfVQc%2Fjc3%2B8skhh\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Ph&acirc;n t&iacute;ch:</span> Trong c&acirc;u n&agrave;y, động từ \"felt\" l&agrave; một động từ li&ecirc;n kết, n&ecirc;n từ theo sau n&oacute; phải l&agrave; một t&iacute;nh từ để m&ocirc; tả trạng th&aacute;i hoặc cảm x&uacute;c của chủ ngữ \"Our children\". Cả \"excited\" v&agrave; \"exciting\" đều l&agrave; t&iacute;nh từ, nhưng \"<strong>excited</strong>\" (dạng V-ed) d&ugrave;ng để m&ocirc; tả cảm x&uacute;c của người hoặc vật trải nghiệm cảm x&uacute;c, trong khi \"exciting\" (dạng V-ing) d&ugrave;ng để m&ocirc; tả bản chất của thứ g&acirc;y ra cảm x&uacute;c. V&igrave; \"Our children\" l&agrave; người v&agrave; đang trải nghiệm cảm x&uacute;c, n&ecirc;n \"<strong>excited</strong>\" l&agrave; lựa chọn ch&iacute;nh x&aacute;c.</p>",
+      "answerFeedbacks": {
+        "57452": "Danh từ \"excitement\" không thể đứng sau động từ liên kết \"felt\" để mô tả cảm xúc của chủ ngữ.",
+        "57453": "Tính từ \"excited\" mô tả cảm xúc của chủ ngữ \"Our children\" (những đứa trẻ cảm thấy hào hứng), phù hợp với ngữ cảnh sau động từ liên kết \"felt\".",
+        "57454": "Trạng từ \"excitedly\" bổ nghĩa cho động từ hoặc tính từ khác, không thể đứng sau động từ liên kết \"felt\" để mô tả chủ ngữ.",
+        "57455": "Tính từ \"exciting\" mô tả bản chất của một sự việc hoặc thứ gì đó gây ra cảm xúc, không dùng để mô tả cảm xúc của chủ ngữ là người."
+      },
+      "images": []
+    },
+    {
+      "id": 177967,
+      "questionNumber": 6,
+      "questionName": "7",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>I'm really _____ today because I went to bed too late last night.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 408271,
+          "label": "A",
+          "text": "tired",
+          "isCorrect": true
+        },
+        {
+          "id": 408272,
+          "label": "B",
+          "text": "tiring",
+          "isCorrect": false
+        },
+        {
+          "id": 1272717,
+          "label": "C",
+          "text": "excited",
+          "isCorrect": false
+        },
+        {
+          "id": 1272718,
+          "label": "D",
+          "text": "exciting",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 408271,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Khi lựa chọn giữa tính từ kết thúc bằng <em>-ed</em> và <em>-ing</em>, bạn cần xác định xem tính từ đó diễn tả CẢM XÚC của chủ thể hay BẢN CHẤT/NGUYÊN NHÂN gây ra cảm xúc đó.</p>\n<ul>\n<li>Chủ ngữ là \"I\", là một người, do đó cần một tính từ diễn tả cảm xúc của người đó.</li>\n<li>Ngữ cảnh \"went to bed too late last night\" gợi ý một cảm xúc tiêu cực, mệt mỏi, không phải là một tính chất gây ra cảm xúc.</li>\n<li>Tính từ <em>-ed</em> thường dùng để mô tả cảm xúc của người hoặc vật.</li>\n<li>Tính từ <em>-ing</em> thường dùng để mô tả bản chất hoặc điều gì đó gây ra cảm xúc.</li>\n</ul>\n<p>Hãy xem xét chủ ngữ \"I\" và nguyên nhân \"went to bed too late last night\" để chọn tính từ phù hợp diễn tả trạng thái của \"I\".</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe width=\"100%\" height=\"315\" style=\"border: none;\" id=\"embed-frame-4E6AE\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18PI6YsXyzDLbzNH4Tb1F4twzg8WNMP%2F7upAfu497dnDeNJ02ra1ydy15di1Q1hupc6nVnwOGpaCB%2FY2s6SGpB1rNWlePoObop3q3ud4P%2Bj6I64wek6Ay8hvKZXKYFHRFA0OVsmVFO%2Bu8EEfgAjg6XtHO3gtURrJ117dPnHdYONkXehke9sutxOZXg3NBkN2lSG7eCucEOmLjaqtPPYCua%2FI48fihNu7ukhovC363Z1feePC49gKl6%2B8YmZBTfGmuKY3jIUNiH1upul05Lp9w%2FygDWII4NpqaYujMWTXyPcXymr00T2AMxzPRSK%2FRtP%2Bjw5LyV7aFLLgAaP4ZepC10HtjfFv5qPmKs%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Kiến thức cần vận dụng: </span>Tính từ tận cùng bằng -ed và -ing</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các tính từ này được hình thành từ động từ và dùng để diễn tả cảm xúc hoặc tính chất của sự vật, hiện tượng. Tính từ đuôi -ed thường diễn tả cảm xúc của chủ thể, trong khi tính từ đuôi -ing diễn tả bản chất hoặc nguyên nhân gây ra cảm xúc đó.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, chủ ngữ \"I\" là người đang trải qua một cảm xúc, và ngữ cảnh \"because I went to bed too late last night\" cho thấy nguyên nhân của cảm xúc đó là sự mệt mỏi. Do đó, cần một tính từ đuôi <em>-ed</em> để diễn tả cảm giác của chủ thể.</p>\n<p style=\"text-align: justify;\">Các phương án <em>tiring</em> và <em>exciting</em> là tính từ đuôi <em>-ing</em>, dùng để diễn tả bản chất hoặc nguyên nhân gây ra cảm xúc, không phù hợp với chủ ngữ \"I\".</p>\n<p style=\"text-align: justify;\">Phương án <em>excited</em> là tính từ đuôi <em>-ed</em> nhưng không phù hợp về mặt ngữ nghĩa.</p>",
+      "answerFeedbacks": {
+        "408271": "Đúng vì tính từ <em>tired</em> (mệt mỏi) diễn tả cảm giác của chủ thể \"I\" và phù hợp với ngữ cảnh \"went to bed too late last night\".",
+        "408272": "Sai vì tính từ <em>tiring</em> (gây mệt mỏi) dùng để diễn tả bản chất hoặc nguyên nhân gây ra cảm giác mệt mỏi, không phải cảm giác của chủ thể.",
+        "1272717": "Sai vì tính từ <em>excited</em> (hào hứng, phấn khích) diễn tả cảm giác của chủ thể nhưng không phù hợp với ngữ cảnh \"went to bed too late last night\".",
+        "1272718": "Sai vì tính từ <em>exciting</em> (thú vị, gây phấn khích) dùng để diễn tả bản chất hoặc nguyên nhân gây ra cảm giác phấn khích, không phải cảm giác của chủ thể, và không phù hợp với ngữ cảnh."
+      },
+      "images": []
+    },
+    {
+      "id": 179644,
+      "questionNumber": 7,
+      "questionName": "Question 14:",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>He thought the visit to the gallery was _____.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 412519,
+          "label": "A",
+          "text": "depressing",
+          "isCorrect": true
+        },
+        {
+          "id": 412520,
+          "label": "B",
+          "text": "depressed",
+          "isCorrect": false
+        },
+        {
+          "id": 412521,
+          "label": "C",
+          "text": "depress",
+          "isCorrect": false
+        },
+        {
+          "id": 412522,
+          "label": "D",
+          "text": "depression",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 412519,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn từ loại phù hợp, hãy xác định từ cần điền bổ nghĩa cho đối tượng nào và nó miêu tả <em>tính chất</em> hay <em>cảm xúc</em>. Chú ý sự khác biệt giữa tính từ kết thúc bằng \"-ing\" và \"-ed\".</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"315\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FMv3Rqsr3VrrngKmPbYDvXCmquxV2XFNvuyGuFJ1n%2FMwCsB0uhmC3o396v%2Fxqg5wyXVqb7h%2B5Jeb7ztU6X%2BxZwSU2B0fLqqLZTQRpHRcQL5BwC9VXPbrm2eJwibAFm%2BfoEM%2F1qbdG2jzZzXtkBQoHHa5QFSsFsx2VFRtZB60wx4phRbFLJagD0o4YBMMMMFb5If7grHlnrvfofFgqPjHaoK4xHx0IhNteo4NPH3u5SAE0fnyHiOSXX%2B%2BN9FBC7IznUqlHbcPf0SNSZ%2Fk377wPyGTFHgBMTHlezudg8h9Mo65os0MTOJaINz1hRtUk%2FHLT4U3oTSRjCdBwcjLtCo2rERfBXYtD0XZRXAocKW9ERBSTakJkNik4s\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống cần một tính từ đứng sau động từ to be \"<em>was</em>\" và bổ nghĩa cho chủ ngữ \"<em>the visit</em>\". Trong các phương án, depressing và <em>depressed</em> là hai tính từ. <em>Depressing</em> dùng để miêu tả tính chất của sự vật, sự việc gây ra cảm xúc, trong khi <em>depressed</em> dùng để miêu tả cảm xúc của người. Vì \"<em>the visit</em>\" là một sự việc, nên \"<strong><em>depressing</em></strong>\" là lựa chọn phù hợp nhất.</p>",
+      "answerFeedbacks": {
+        "412519": "Tính từ <em>depressing</em> được dùng để miêu tả một sự vật, sự việc hoặc trải nghiệm gây ra cảm giác chán nản, buồn bã, phù hợp để bổ nghĩa cho danh từ <em>visit</em>.",
+        "412520": "Tính từ <em>depressed</em> dùng để miêu tả cảm xúc của một người hoặc con vật, không dùng để miêu tả sự vật, sự việc.",
+        "412521": "<em>Depress</em> là động từ nguyên mẫu, không phù hợp để điền vào vị trí cần một tính từ bổ nghĩa cho danh từ.",
+        "412522": "<em>Depression</em> là danh từ, không phù hợp để điền vào vị trí cần một tính từ bổ nghĩa cho danh từ."
+      },
+      "images": []
+    },
+    {
+      "id": 202658,
+      "questionNumber": 8,
+      "questionName": "B1 EXAM BOOSTER",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I'm really _____ about what to do - can you help me make a decision?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 459089,
+          "label": "A",
+          "text": "confusing",
+          "isCorrect": false
+        },
+        {
+          "id": 459090,
+          "label": "B",
+          "text": "confused",
+          "isCorrect": true
+        },
+        {
+          "id": 471334,
+          "label": "C",
+          "text": "convinced",
+          "isCorrect": false
+        },
+        {
+          "id": 471335,
+          "label": "D",
+          "text": "convincing",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 459090,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Trong c&acirc;u, đối tượng<strong> </strong>\"<strong>I</strong>\"<strong> </strong>cảm thấy bối rối, băn khoăn. =&gt; D&ugrave;ng t&iacute;nh từ đu&ocirc;i \"<strong>ed</strong>\".</p>\n<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe id=\"embed-frame-4E6AE\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18p2PiYR4315nBbcxk7JEGQgod3iokB3rCopy6fkwi%2BR34qhvirHP5e9DKV906lglrFRcU6Bzu%2FMpdBchIU7UC7rqVKOBCmFXClUE8VhwWWzpNps9%2FdQAb%2FV2mQAnaWYLssUGmpCAyAi%2FoSpoE7%2FCZjBgCAdEnyFcBZnF8N%2BiiZOlpTKgwRpM%2BVYjMyB6ZfHjLnuE5IOrYy%2BtZ9y9HGp83I%2BAeLKXoU%2Fi1yDNCvvbPZfK8XhkNq%2FqYbMkrJ4%2BdAqFl%2FKYwn9HkxadAZt%2B2BMQTGw7CLzOTKVWpBCRshz765FlHMMEa336%2FLUe8JVA21KaTen0rFFJAcx%2B2%2BwkFZIKV7uy8x3FixthkTfUP6UzjJGOfnVWdEhagaJDSp0WNY1L%2B12LJDfNVhtA%3D%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>\"convinced\" kh&ocirc;ng ph&ugrave; hợp với nghĩa của c&acirc;u.</p>\n<p>Dịch: T&ocirc;i thực sự bối rối kh&ocirc;ng biết phải l&agrave;m g&igrave; - bạn c&oacute; thể gi&uacute;p t&ocirc;i đưa ra quyết định được kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 111722,
+      "questionNumber": 9,
+      "questionName": "Question 6:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>His alarm clock wouldn't stop ringing. He was _____. The sound was _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 266402,
+          "label": "A",
+          "text": "annoying / annoyed",
+          "isCorrect": false
+        },
+        {
+          "id": 266403,
+          "label": "B",
+          "text": "annoyed / annoyed",
+          "isCorrect": false
+        },
+        {
+          "id": 266404,
+          "label": "C",
+          "text": "annoyed / annoying",
+          "isCorrect": true
+        },
+        {
+          "id": 266405,
+          "label": "D",
+          "text": "annoying / annoying",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 266404,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">H&atilde;y nhớ quy tắc sử dụng t&iacute;nh từ kết th&uacute;c bằng -ed v&agrave; -ing:</p>\n<ul>\n<li style=\"text-align: justify;\">T&iacute;nh từ đu&ocirc;i <strong>-ed</strong> thường m&ocirc; tả <strong>cảm x&uacute;c</strong> của một người hoặc con vật.</li>\n<li style=\"text-align: justify;\">T&iacute;nh từ đu&ocirc;i <strong>-ing</strong> thường m&ocirc; tả <strong>t&iacute;nh chất</strong> của một sự vật, sự việc hoặc người g&acirc;y ra cảm x&uacute;c đ&oacute;.</li>\n</ul>\n<p>H&atilde;y x&aacute;c định hai chủ ngữ ''<em>He</em>\" v&agrave; ''<em>the sound</em>\" xem c&aacute;i n&agrave;o m&ocirc; tả <strong>cảm x&uacute;c</strong> v&agrave; c&aacute;i n&agrave;o m&ocirc; tả <strong>t&iacute;nh chất g&acirc;y ra cảm x&uacute;c</strong> đ&oacute; rồi t&igrave;m ra phương &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 150px;\"><iframe width=\"100%\" height=\"150\" style=\"border: none;\" id=\"embed-frame-BE6F1\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18zF6UpZOMomPriQ6dj40zt0sxq%2BGppN1jC5fH0ssTgVC1SgSRuWbsnggExVFj3VlmwnwS5apCY%2Biszy7hjpbxb9iejE9%2BeHO7gGWDBuTM1pCPRw2EInJvna2R5LXaRJcCmK9tnzCLY2SVZUK5B1zJn4KwUsRViPTYrWH6MnVcOE9VrK%2FDgL5BfJAX1sJXiYFDaj1SOJtJEZqFtF1xCjl8OOe%2BnpHwl2XtUMwxRv0tEz2vT9LlHhAH%2F0aBSLYLMGwTr5IApxAo6AHVab3EbCr88C5oktkC5%2FWZqPQujBGOY%2BhF4gqd3jkvcJfpBYC61LCSmPqaeUiTmYg%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>T&iacute;nh từ đu&ocirc;i -ed v&agrave; -ing.</span></p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong></p>\n<ul>\n<li style=\"text-align: justify;\">T&iacute;nh từ đu&ocirc;i <strong>-ed</strong> được d&ugrave;ng để diễn tả cảm x&uacute;c hoặc trạng th&aacute;i của người hoặc vật trải qua cảm x&uacute;c đ&oacute;.</li>\n<li style=\"text-align: justify;\">T&iacute;nh từ đu&ocirc;i<strong> -ing </strong>được d&ugrave;ng để m&ocirc; tả t&iacute;nh chất, đặc điểm của người, vật hoặc sự việc g&acirc;y ra cảm x&uacute;c đ&oacute;.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\"><b>1.</b> Ở chỗ trống thứ nhất, chủ ngữ l&agrave; \"<em>He</em>\" (anh ấy) l&agrave; người trải qua cảm x&uacute;c, n&ecirc;n ta cần một t&iacute;nh từ đu&ocirc;i -ed để diễn tả cảm x&uacute;c đ&oacute;. V&igrave; vậy, \"<em>annoyed</em>\" (cảm thấy kh&oacute; chịu) l&agrave; lựa chọn ph&ugrave; hợp.</p>\n<p style=\"text-align: justify;\"><b>2.</b> Ở chỗ trống thứ hai, chủ ngữ l&agrave; \"<em>The sound</em>\" (&acirc;m thanh) l&agrave; thứ g&acirc;y ra cảm x&uacute;c, n&ecirc;n ta cần một t&iacute;nh từ đu&ocirc;i -ing để m&ocirc; tả t&iacute;nh chất của n&oacute;. V&igrave; vậy, \"<em>annoying</em>\" (g&acirc;y kh&oacute; chịu) l&agrave; lựa chọn ph&ugrave; hợp. Kết hợp lại phương &aacute;n 3 l&agrave; đ&aacute;p &aacute;n ch&iacute;nh x&aacute;c.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 (<em>annoying / annoyed</em>) v&agrave; phương &aacute;n 4 (<em>annoying / annoying</em>) đều sai v&igrave; \"<em>annoying</em>\" d&ugrave;ng để m&ocirc; tả t&iacute;nh chất, kh&ocirc;ng d&ugrave;ng để diễn tả cảm x&uacute;c của người \"<em>He</em>\". Phương &aacute;n 2 (<em>annoyed / annoyed</em>) sai v&igrave; \"<em>annoyed</em>\" d&ugrave;ng để diễn tả cảm x&uacute;c, kh&ocirc;ng d&ugrave;ng để m&ocirc; tả t&iacute;nh chất của \"<em>The sound</em>\".</p>",
+      "answerFeedbacks": {
+        "266402": "Sai, vì <em>\"annoying\"</em> (gây khó chịu) không dùng để diễn tả cảm xúc của người <em>\"He\"</em>, và <em>\"annoyed\"</em> (cảm thấy khó chịu) không dùng để mô tả tính chất của <em>\"The sound\"</em>.",
+        "266403": "Sai, vì <em>\"annoyed\"</em> (cảm thấy khó chịu) không dùng để mô tả tính chất của <em>\"The sound\"</em>.",
+        "266404": "Đúng, vì <em>\"annoyed\"</em> diễn tả cảm xúc của người <em>\"He\"</em>, và <em>\"annoying\"</em> mô tả tính chất gây khó chịu của <em>\"The sound\"</em>.",
+        "266405": "Sai, vì <em>\"annoying\"</em> (gây khó chịu) không dùng để diễn tả cảm xúc của người <em>\"He\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 5989,
+      "questionNumber": 10,
+      "questionName": "Question 79.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>It is <u>really</u> sad <u>how many</u> people have the <u>misconception</u> that reading is <u>bored</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 15660,
+          "label": "A",
+          "text": "really",
+          "isCorrect": false
+        },
+        {
+          "id": 15661,
+          "label": "B",
+          "text": "how many",
+          "isCorrect": false
+        },
+        {
+          "id": 15662,
+          "label": "C",
+          "text": "misconception",
+          "isCorrect": false
+        },
+        {
+          "id": 15663,
+          "label": "D",
+          "text": "bored",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 15663,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Trạng từ thường được dùng để bổ nghĩa cho tính từ, diễn tả mức độ hoặc cường độ của tính từ đó.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Cụm từ <em>\"how many\"</em> được dùng trước danh từ đếm được số nhiều để hỏi về số lượng hoặc diễn tả mức độ nhiều.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Danh từ <em>N</em> có thể đứng sau mạo từ <em>\"the\"</em> và thường đóng vai trò làm chủ ngữ hoặc tân ngữ trong câu.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Tính từ tận cùng bằng <em>-ed</em> thường diễn tả cảm xúc của một chủ thể có khả năng cảm nhận, còn tính từ tận cùng bằng <em>-ing</em> diễn tả tính chất gây ra cảm xúc đó.</li>\n</ul>\n<p>Gợi ý đối chiếu từng quy tắc với câu gốc để xác định phần nào có vấn đề.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 150px;\"><iframe width=\"100%\" height=\"150\" style=\"border: none;\" id=\"embed-frame-BE6F1\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FI2e%2F4oYmQO7R9IXP8bUEXiaXws2UlT18H6QGDtsCwr296IYiwI9R82jKqm82T%2B53TJP8xWHGC96aSq4R0J7%2FvIevo4W5mcWIN5Bt9ATrIORQ%2FXcDEMYPAVmZ1uMywWynSyzCuWYjSrk%2B%2Ft%2B7VTZygYh37xok5e4TBcT1FnLZh%2BCCdmWIZF4Zdce9p2paN12vxTm8LdMDGf4Ausm7KKpxZDEqpdFR7i%2BFSWH6VYN5lZ8i%2FBbbUZRnPI7bgZHVVFyBpnr%2BtEPwygaBC1AWes6C%2B5CNhgzuYddZoD3%2Birkacgtd49aVwNw15keFduETh5TSSUre2Ul4G9g%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Tính từ tận cùng bằng -<em>ed </em>và -<em>ing</em></span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các tính từ tận cùng bằng -<em>ed </em>và -<em>ing </em>thường được hình thành từ động từ và dùng để mô tả cảm xúc hoặc nguyên nhân gây ra cảm xúc đó. Tính từ -ed mô tả cảm xúc của chủ thể, trong khi tính từ -ing mô tả tính chất của một người, vật, hoặc sự việc gây ra cảm xúc.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, <em>\"reading is bored\"</em> muốn diễn đạt rằng việc đọc sách gây ra cảm giác nhàm chán. <em>\"Reading\"</em> (việc đọc sách) là một hoạt động/sự vật, không phải chủ thể có thể cảm nhận cảm xúc. Để mô tả tính chất của một hoạt động gây ra cảm xúc, ta cần dùng tính từ tận cùng bằng <em>-ing</em>. Do đó, <em>\"bored\"</em> (cảm thấy buồn chán) là sai.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<strong>bored</strong>\" =&gt; \"<strong>boring</strong>\"</p>",
+      "answerFeedbacks": {
+        "15660": "Trạng từ <em>\"really\"</em> được dùng đúng để bổ nghĩa cho tính từ <em>\"sad\"</em>, diễn tả mức độ.",
+        "15661": "Cụm từ <em>\"how many\"</em> được dùng đúng để hỏi về số lượng đếm được của danh từ <em>\"people\"</em>.",
+        "15662": "Danh từ <em>\"misconception\"</em> (sự hiểu lầm) được dùng đúng ngữ cảnh và đúng cấu trúc sau mạo từ <em>\"the\"</em>.",
+        "15663": "Tính từ <em>\"bored\"</em> mô tả cảm xúc của một người hoặc vật có khả năng cảm nhận, nhưng ở đây <em>\"reading\"</em> là một hoạt động, cần tính từ <em>\"boring\"</em> để mô tả tính chất gây ra sự nhàm chán."
+      },
+      "images": []
+    },
+    {
+      "id": 181756,
+      "questionNumber": 11,
+      "questionName": "ed ing",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Jessie looked <span style=\"text-decoration: underline;\">so</span> <span style=\"text-decoration: underline;\">frightened</span> when she was <span style=\"text-decoration: underline;\">in</span> that white costume with <span style=\"text-decoration: underline;\">long black hair</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 416705,
+          "label": "A",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 416706,
+          "label": "B",
+          "text": "frightened",
+          "isCorrect": true
+        },
+        {
+          "id": 416707,
+          "label": "C",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 416708,
+          "label": "D",
+          "text": "long black hair",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 416706,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Trạng từ <em>so</em> thường dùng để bổ nghĩa cho tính từ hoặc trạng từ khác, thể hiện mức độ.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét tính từ đuôi -ed \"frightened\" có phù hợp với ngữ cảnh của câu không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Giới từ <em>in</em> có thể dùng để chỉ trạng thái mặc trang phục hoặc y phục.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xác định xem các tính từ và danh từ trong cụm <em>long black hair</em> có được sắp xếp đúng thứ tự hay không.</li>\n</ul>\n<p style=\"text-align: justify;\">Đối chiếu từng quy tắc trên với ngữ cảnh của câu gốc để tìm ra phần cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 150px;\"><iframe width=\"100%\" height=\"150\" style=\"border: none;\" id=\"embed-frame-BE6F1\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX185OjVMPy2iG4VNiH3W8x09tCn84iVzxJZahQEw3DE7qysnLbThFXedgvgEdHg0ggUqUtRdL7DUyEWXzsSvsudploazUy3RXOHcr%2F66r4T8PQyXCBHJMmml%2BBAKNiCwdarFreIhD00nJE2nBNXFwIm0O%2BmoUZdvboDo4OfEV%2BrJwSuM3KlcdGVYu8Xa7CBkDIeSQOJdN6FGwhrWyNBSDjAuaSHQWke6rgYeBbDV%2FkItm%2BJbFLKDDUwZbR2Tmls1f9euzDN9fZrtrf1E%2FZN2Mv4R%2FmlKk%2Bu0nMNlJQs%2Bd1mXhWKPrYByHHPJUEOPyUT0WHG%2BdN7AuT4HTw%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Tính từ tận cùng bằng -ed và -ing</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Tính từ tận cùng bằng <strong>-ed</strong> dùng để diễn tả cảm xúc của người hoặc vật trải qua cảm xúc đó. Tính từ tận cùng bằng <strong>-ing</strong> dùng để diễn tả tính chất của người, vật, hoặc sự việc gây ra cảm xúc đó.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, <em>Jessie</em> là chủ thể của hành động <em>looked</em> (trông như thế nào). Tuy nhiên, ngữ cảnh \"<em>when she was in that white costume with long black hair</em>\" ngụ ý rằng <em>Jessie</em> đang trông đáng sợ, gây ra cảm giác sợ hãi cho người khác, chứ không phải bản thân cô ấy cảm thấy sợ hãi. Do đó, cần sử dụng tính từ <em>frightening</em> để mô tả tính chất gây sợ hãi của <em>Jessie</em> trong trang phục đó, thay vì <em>frightened</em>.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>frightened</strong></em>\" =&gt; \"<em><strong>frightening</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "416705": "Trạng từ <em>so</em> được dùng để bổ nghĩa cho tính từ <em>frightened</em>, thể hiện mức độ, và cách dùng này hoàn toàn chính xác về mặt ngữ pháp.",
+        "416706": "Tính từ <em>frightened</em> mô tả cảm xúc \"sợ hãi\" của chủ thể, nhưng ngữ cảnh \"<em>she was in that white costume with long black hair</em>\" cho thấy <em>Jessie</em> đang trông đáng sợ, gây ra cảm giác sợ hãi cho người khác, chứ không phải bản thân cô ấy sợ hãi, do đó đây là lỗi sai.",
+        "416707": "Giới từ <em>in</em> được sử dụng chính xác để chỉ trạng thái \"mặc trang phục\" (<em>in that white costume</em>).",
+        "416708": "Cụm danh từ <em>long black hair</em> là một thành phần mô tả trang phục và không có lỗi ngữ pháp hay nghĩa."
+      },
+      "images": []
+    },
+    {
+      "id": 559104,
+      "questionNumber": 12,
+      "questionName": "(*) new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>My parents are <span style=\"text-decoration: underline;\">amazing</span> that I <span style=\"text-decoration: underline;\">won</span> <span style=\"text-decoration: underline;\">the first</span> prize in the English <span style=\"text-decoration: underline;\">speaking</span> contest.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1087519,
+          "label": "A",
+          "text": "amazing",
+          "isCorrect": true
+        },
+        {
+          "id": 1087520,
+          "label": "B",
+          "text": "won",
+          "isCorrect": false
+        },
+        {
+          "id": 1087521,
+          "label": "C",
+          "text": "the first",
+          "isCorrect": false
+        },
+        {
+          "id": 1087522,
+          "label": "D",
+          "text": "speaking",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1087519,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li data-pm-slice=\"1 1 []\">Xem xét chức năng của tính từ <em>amazing</em> khi mô tả cảm xúc của ''<em>My parents</em>''.</li>\n<li>Kiểm tra động từ ''<em>won</em>'' có phù hợp để nói về một sự việc đã xảy ra trong quá khứ không.</li>\n<li>Ghi nhớ cách dùng mạo từ xác định ''<em>the''</em> với số thứ tự (ví dụ <em>first</em>) khi xác định một vị trí hoặc giải thưởng cụ thể.</li>\n<li>Ghi nhớ cách hiện tại phân từ (ví dụ <em>speaking</em>) có thể đóng vai trò tính từ trong danh từ ghép để mô tả một loại cuộc thi.</li>\n</ul>\n<p style=\"text-align: justify;\">Hãy đối chiếu các quy tắc trên với câu gốc để xác định phần cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Tính từ tận cùng bằng -ed và -ing</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong></p>\n<ul>\n<li style=\"text-align: justify;\">Các tính từ tận cùng bằng <em><strong>-ed</strong></em> thường dùng để diễn tả cảm xúc, trạng thái của một người hoặc con vật (chủ thể bị tác động).</li>\n<li style=\"text-align: justify;\">Các tính từ tận cùng bằng <em><strong>-ing</strong></em> thường dùng để mô tả tính chất, đặc điểm của sự vật, sự việc hoặc người gây ra cảm xúc đó (chủ thể gây tác động).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Câu đang diễn tả cảm xúc của \"<em>My parents</em>\" (bố mẹ tôi) về việc \"tôi giành giải nhất\". Khi diễn tả cảm xúc của người, ta cần dùng tính từ tận cùng bằng <strong><em>-ed</em></strong>. Do đó, \"<em>amazing</em>\" (có nghĩa là <i>đáng kinh ngạc</i>, mô tả tính chất) cần được thay bằng \"<em>amazed</em>\" (có nghĩa là <i>kinh ngạc, ngạc nhiên</i>, diễn tả cảm xúc).</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>amazing</strong></em>\" =&gt; \"<em><strong>amazed</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "1087519": "Sai vì tính từ <em>amazing</em> dùng để mô tả tính chất của một sự vật, sự việc hoặc người gây ra cảm xúc, không phải để diễn tả cảm xúc của chủ thể.",
+        "1087520": "Đúng vì <em>won</em> là dạng quá khứ đơn của động từ <em>win</em>, phù hợp với hành động đã xảy ra trong quá khứ (\"I won the first prize\").",
+        "1087521": "Đúng vì <em>the first</em> là cách dùng chính xác của số thứ tự khi nói về giải thưởng (\"the first prize\").",
+        "1087522": "Đúng vì <em>speaking</em> là một phần của cụm danh từ ghép \"English speaking contest\", có nghĩa là cuộc thi nói tiếng Anh."
+      },
+      "images": []
+    },
+    {
+      "id": 49208,
+      "questionNumber": 13,
+      "questionName": "Question 6:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The film <u>on</u> television <u>made</u> us so <u>boring</u> that we went <u>to</u> bed early.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 141042,
+          "label": "A",
+          "text": "on",
+          "isCorrect": false
+        },
+        {
+          "id": 141043,
+          "label": "B",
+          "text": "made",
+          "isCorrect": false
+        },
+        {
+          "id": 141044,
+          "label": "C",
+          "text": "boring",
+          "isCorrect": true
+        },
+        {
+          "id": 141045,
+          "label": "D",
+          "text": "to",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 141044,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét giới từ <em>\"on\"</em> có phù hợp với ngữ cảnh <em>\"television\"</em> để chỉ phương tiện truyền thông không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đánh giá thì của động từ <em>\"made\"</em> và cấu trúc <em>\"make + O + adj.\"</em> có chính xác trong câu này không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra tính từ <em>\"boring\"</em> có đúng khi diễn tả cảm xúc của <em>\"us\"</em> (chúng tôi) hay không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xác định giới từ <em>\"to\"</em> có phù hợp để chỉ nơi chốn trong cụm <em>\"went to bed\"</em> không.</li>\n</ul>\n<p>Đối chiếu từng quy tắc này với câu gốc để xác định phần nào cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 150px;\"><iframe width=\"100%\" height=\"150\" style=\"border: none;\" id=\"embed-frame-BE6F1\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX193UbWJxzwbynk%2BZxhlasfjabcPU25TVAXx4lmOtKkbL3N0QJG6rd6KDgRmlC7%2FKvPOEFamwkZJT4Aq2vb3ZD7jx1fmD1%2FM%2B6s30iW%2Bi05ftdSx%2Fu%2BY15s7FYXPmtj56WAAgXPhwxw%2FMpOFF72hxPfEpWth%2FFNP9dfwHNXWZjnj4ThMM1j5NbVJnw3N6shipRXfhm4tByn%2FMfa1EOi324zHcZQ5S54unD3piCcpMCQM1N7j5WEShEu76ABns%2BEon4TOjpO4f%2BGSNLv%2BxX6CN9Dys%2FkF%2BRx51jL1BaLakb661UJiLEzNgEwU\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Tính từ tận cùng bằng -ed và -ing</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Tính từ tận cùng bằng -<strong><em>ing </em></strong>dùng để diễn tả bản chất hoặc nguyên nhân gây ra cảm xúc, trong khi tính từ tận cùng bằng -<strong><em>ed </em></strong>dùng để diễn tả cảm xúc hoặc trạng thái của một người hay vật bị tác động.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, cụm từ <em>\"made us so boring\"</em> cho thấy rằng <em>\"the film\"</em> (bộ phim) là nguyên nhân gây ra cảm xúc cho <em>\"us\"</em> (chúng tôi). Để diễn tả cảm xúc mà <em>\"chúng tôi\"</em> cảm thấy khi bị bộ phim tác động, chúng ta cần sử dụng tính từ tận cùng bằng -<strong><em>ed</em></strong>.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>boring</strong></em>\" =&gt; \"<em><strong>bored</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "141042": "Giới từ <em>\"on\"</em> được dùng chính xác trong cụm <em>\"on television\"</em> để chỉ phương tiện truyền thông.",
+        "141043": "Động từ <em>\"made\"</em> (quá khứ của <em>\"make\"</em>) được chia thì quá khứ đơn phù hợp với ngữ cảnh của câu và cấu trúc <em>\"make + O + adj.\"</em> là chính xác.",
+        "141044": "Tính từ <em>\"boring\"</em> dùng để diễn tả bản chất của vật hoặc người gây ra cảm xúc, nhưng ở đây cần diễn tả cảm xúc của chủ ngữ <em>\"us\"</em> (chúng tôi) bị tác động bởi bộ phim, nên phải dùng tính từ <em>\"bored\"</em>.",
+        "141045": "Giới từ <em>\"to\"</em> được dùng chính xác trong cụm <em>\"went to bed\"</em> để chỉ hướng di chuyển đến một địa điểm."
+      },
+      "images": []
+    },
+    {
+      "id": 177603,
+      "questionNumber": 14,
+      "questionName": "7",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Her <u>disappointed</u> exam results <u>are</u> <u>entirely</u> due to her <u>inattention</u> in class.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 407309,
+          "label": "A",
+          "text": "disappointed",
+          "isCorrect": true
+        },
+        {
+          "id": 407310,
+          "label": "B",
+          "text": "are",
+          "isCorrect": false
+        },
+        {
+          "id": 407311,
+          "label": "C",
+          "text": "entirely",
+          "isCorrect": false
+        },
+        {
+          "id": 407312,
+          "label": "D",
+          "text": "inattention",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 407309,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Trong c&acirc;u đang diễn tả đặc điểm của \"<strong><span class=\"word\">exam</span> </strong><span class=\"word\"><strong>results</strong>\" (kết quả thi) l&agrave; đem lại cảm gi&aacute;c thất vọng. =&gt; Cần sử dụng t&iacute;nh từ đu&ocirc;i <strong>-ing</strong>.</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 170px;\"><iframe id=\"embed-frame-BE6F1\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BUxy98%2F13UQJg%2F%2Fyylb5ZiCWj1joyDrcCyo3BcqFJoRL9tgDiBYqq3GrsCnezitH0dZTolDoSy3nIsUknitqjs1iF6SlVUiehFO2Ajt2jFVgW0igaKfOR8sxJv84yMbT2cgUpx3frIH4%2FNkpJXrbZBEaYkqbhOPYihTumQb%2FWA7kLqrlZ4Itu9tv2rSSJgb69wO3llrDG%2Bs0fOw0FeWultWF09YYIAP8sfaMrLD0iM%2BPcTYngJxYf0aFpUIx%2FsAoocFnbI6BhdEcl5oLLyDaHjuA2Nyonigm8k3LR864t9OdApwmzliyuFrA%2FniY3Iv6yqFh%2Fa9VAe0w%3D%3D\" width=\"100%\" height=\"170\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p><span class=\"word\">Sửa: \"<strong>disappointed</strong>\" =&gt; \"<strong>disappointing</strong>\"</span></p>\n<p><span class=\"word\">Dịch: Kết quả thi đ&aacute;ng thất vọng của c&ocirc; ấy ho&agrave;n to&agrave;n l&agrave; do sự kh&ocirc;ng tập trung của c&ocirc; ấy trong lớp.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 154694,
+      "questionNumber": 15,
+      "questionName": "1.",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentence by changing the form of the word in capitals.</em></p>\n<p><strong>English is an <span class='fillblank-option'><input id='fbo-154694-0' class='ms fillblank-option-15' index='0' name='fbo-154694-0' type='text' size='14' autocomplete='off' data-testid='fillblank-input-154694-0' /></span> and important subject. (INTEREST)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "interesting"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\"><strong style=\"font-weight: 400;\">X&aacute;c định từ loại cần điền: t&iacute;nh từ đu&ocirc;i <strong>-ing</strong> được d&ugrave;ng để mi&ecirc;u tả đối tượng \"</strong><strong>English</strong><strong style=\"font-weight: 400;\">\" mang lại cảm gi&aacute;c như thế n&agrave;o cho đối tượng kh&aacute;c.</strong></span></p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe id=\"embed-frame-4E6AE\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18MeqjdyAMddiJO5cbTflvZDDWipgMUFS%2FN6YWquMpUFURa5GCBl5A2STYsrJuy4EKWZQrV2Pwo19m%2BKS5Gyx4Y0pvPLQmIJ816ZsfoniMwJwJ3sKnyENe4kMSpCpC9ahVMjyaOHgxaYLKgyUr3ic05l%2FBXVE5dGh9ISkyppDfjhufr9jqEMJiRjnbZrY%2BflLfCI02GNa2vcdGvKbhc6tfYB%2BM9VWytdxe2qPGTN2Tc68aCQ5GvzbEbNnSWZ235bbtqOfK4yNmaYvQOfZESUdBnhvACEyL4MZxP0NhsSo8XraAXm26J1l4bsLPBD56B%2F34tMv5GwgnjZbptwlGSt8THeQqrsfeQdQlR9HunuHj452QZeXAcpCsJdh9fYGJ0kBVEWLW48GCamg%3D%3D\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Tiếng Anh l&agrave; một m&ocirc;n học th&uacute; vị v&agrave; quan trọng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 826455,
+      "questionNumber": 16,
+      "questionName": "fascinating",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentence by changing the form of the word in capitals.</em></p>\n<p><strong>The old woman told a <span class='fillblank-option'><input id='fbo-826455-0' class='ms fillblank-option-16' index='0' name='fbo-826455-0' type='text' size='15' autocomplete='off' data-testid='fillblank-input-826455-0' /></span> story about her life as a young adventurer. (FASCINATE)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "fascinating"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại cần điền: t&iacute;nh từ đu&ocirc;i <strong>-ing</strong>, đứng trước v&agrave; bổ sung nghĩa cho danh từ \"<strong>story</strong>\" v&agrave; để mi&ecirc;u tả n&oacute; mang lại cảm gi&aacute;c như thế n&agrave;o cho đối tượng kh&aacute;c.</p>\n<div style=\"width: 100%; max-width: 525px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18JJZRJobgX7TD1rO9zd3LNbAjlJflotICEAIAacAv%2FNwRJgG446Q6oXzV2B5hQ07IxdiFJ44CaQUwCeIdF%2FltBficDKAYd26W1NoachyKz3k16uKj18kGOFOZBmChGPhoYhCUMWXIDeglJi08SrRadyFh3ioZmvHXzEQzee2dBjUses%2BdSGALFrDk7QlMKRQGMjtnSIz6G5cpjyLSy5BLibKEzyC3ohWvZDZiA%2FIz%2BebsW2ijMnrINmTYcLIfU%2Bb%2F%2B4xlwUse6GzsCpa752EubnhyC39LAC2LsiJQZi44gQb8uHjyivJbYzifyIlJhoRqiC3seWOzW8ePtVkOL0Yk1KijEahr9CV7HjCW6kXlTKGdPriHcTzyS89sAHCOSdXglqeh3Wq5i4g%3D%3D\" width=\"100%\" height=\"305\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: B&agrave; l&atilde;o kể một c&acirc;u chuyện th&uacute; vị về cuộc đời của b&agrave; khi c&ograve;n l&agrave; một nh&agrave; th&aacute;m hiểm trẻ tuổi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 743986,
+      "questionNumber": 17,
+      "questionName": "(*)excited",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentence by changing the form of the word in capitals.</em></p>\n<p><strong>The children are <span class='fillblank-option'><input id='fbo-743986-0' class='ms fillblank-option-17' index='0' name='fbo-743986-0' type='text' size='11' autocomplete='off' data-testid='fillblank-input-743986-0' /></span> about the upcoming trip to the amusement park. (EXCITE)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "excited"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại cần điền: t&iacute;nh từ đu&ocirc;i <strong>-ed</strong>, đứng sau động từ to be \"<strong>are</strong>\" để mi&ecirc;u tả đối tượng \"<strong>The children</strong>\" cảm thấy như thế n&agrave;o.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FhwvhJMAi0KhKoWgZy15QDyXDieuheLQ45qTjeoAI5yVm2ZlDknUXQhXSjyJqEB4uW1wKyC31CbtK%2FCmz5ObRGjllHrlrxybzxfGmfMqv7XeFW74ovpddK9ynUMsdDY4X3Dec%2BXS7uoSmWq5LwC38Qqnv2TWZRPK130vhmIPFJosyUkkakhRJ9E0OAOiIMjvIaC3sxLkbGsvfRJWtr%2FcjI4qy5GGm689XddUPwxSWFhqyuEoF1vMjU%2B0zQPF0yxvhIykq%2FGAu9iNCyFT46F4CjyWCEWmMw46glV2tIvFC%2FAKg8I8ApD41LPpxc9a4fwNlUL7ifn8z7FY2OiL2VxxmFQ8dqt6%2BBE25asDJzjrS9WTcAR9W5thVm\" width=\"100%\" height=\"315\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: C&aacute;c em nhỏ rất h&agrave;o hứng với chuyến đi tới khu vui chơi sắp tới.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 908712,
+      "questionNumber": 18,
+      "questionName": "discourage (v.)",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentence by changing the form of the word in capitals.</em></p>\n<p><strong>The <span class='fillblank-option'><input id='fbo-908712-0' class='ms fillblank-option-18' index='0' name='fbo-908712-0' type='text' size='13' autocomplete='off' data-testid='fillblank-input-908712-0' /></span> results from the experiment made him rethink his approach. (DISCOURAGE)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "discouraging"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại cần điền: t&iacute;nh từ đu&ocirc;i <strong>-ing</strong>, đứng trước danh từ \"<strong>results</strong>\" để mi&ecirc;u tả n&oacute; c&oacute; đặc điểm g&igrave;, mang lại cảm gi&aacute;c như thế n&agrave;o cho đối tượng \"<strong>him</strong>\".</p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe id=\"embed-frame-4E6AE\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FuRsE5b9nK0BR2ZLtNMqdd3yafYWpq1S6XHTBUUhNRmgvoeAB5%2FSRphvrO9rlsmdQooRyRvU4Idtsfb3nJN6g2lE29a5bXqzx%2FwsoOPRoSto2AGj3VQtw%2FI60HwpRuTYB2DzbH2Go1nJegOU5y7JfiQhnSA5g0m3rl0W8NmZ2frQHzERWZEm9438ZzTrSMZFs1EHVHLYi7i98H5nk7cG3D6zhQF9fn%2F4hk%2FLqAZwwNIW75WoRZ34sD%2BeWxtSdG0%2FGE8flTW%2FfrwhEctsP%2BHMaaplnu9Vgn2jCYVe%2BlSJHTGgY9bRqrL0teHtCJSuzxZC%2BrECMgqWeZqTkZOyD5z7CRpwg0MnqECUcjqXq%2Bj5muQbbOzZlABveapyjLt3bLULP08szy2fXxXA%3D%3D\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Kết quả kh&ocirc;ng như mong đợi từ th&iacute; nghiệm đ&atilde; khiến anh ấy phải suy nghĩ lại c&aacute;ch tiếp cận của m&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 624211,
+      "questionNumber": 19,
+      "questionName": "amazing",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentence by changing the form of the word in capitals.</em></p>\n<p><strong>The fireworks display on New Year's Eve was truly <span class='fillblank-option'><input id='fbo-624211-0' class='ms fillblank-option-19' index='0' name='fbo-624211-0' type='text' size='10' autocomplete='off' data-testid='fillblank-input-624211-0' /></span>. (AMAZE)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "amazing"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại cần điền: t&iacute;nh từ đu&ocirc;i \"<strong>-ing</strong>\", theo sau động từ to be \"<strong>was</strong>\" để mi&ecirc;u tả \"<strong>the fireworks display</strong>\" mang lại cảm gi&aacute;c g&igrave; cho người kh&aacute;c.</p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe id=\"embed-frame-4E6AE\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FpwKtv66frXZiqAqVu10fBLkPy9UOiKz%2B8mnPm8ts3uFQ8%2FDDjqurUhgB7d4aQc5qSvNHklena1znKhQ6CDTRe4g3VkjqbKiBvVk81ZzhZA2ShTlrOnItcYtiP9ps34Eqwsu9bFGSVRgtYOmQKKePt%2FL5IrVFcJDWX5bIMzDHehcmZsyCosFFc4RLZO9GKiqIg%2BKasBjqWsLNIf4%2FbD8511IfqheFUW%2BAwSHayTmcdgpHt4dHWnQjk%2FTJTTKbubNjynVujJ17Hqy7tsYMa3VnOWFJoyTh2zm40AWv84mOwbGgLmngstJK19X2jYSXKypzcxVMZ1g4V1bwCV2kmV0Li%2FJabqZBEtY7uAoOcUNGRJgPxuzOwTJK%2B\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: M&agrave;n bắn ph&aacute;o hoa v&agrave;o đ&ecirc;m giao thừa thực sự đ&aacute;ng kinh ngạc.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 908502,
+      "questionNumber": 20,
+      "questionName": "Grammar Practice for Elementary Students 3rd-p.164",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Read the text. Choose the correct word from the box to fill in each blank. You don't need to use all words.</strong></p>\n<table style=\"border-collapse: collapse; width: 100%; height: 36px; border-color: #2DC26B; border-style: dashed;\" border=\"1\">\n<tbody>\n<tr style=\"height: 36px;\">\n<td style=\"width: 100%; text-align: center; height: 36px;\"><strong>exhausting | exhausted | frustrating | frustrated | pleasing | pleased | thrilling | thrilled | touching | touched</strong></td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: justify;\"><br>Last weekend, I went to an amusement park with my friends. The roller coaster ride was absolutely <strong data-start=\"303\" data-end=\"320\"><span class='fillblank-option'><label>20.1</label><input id='fbo-908502-0' class='ms fillblank-option-20' index='0' name='fbo-908502-0' type='text' size='11' autocomplete='off' data-testid='fillblank-input-908502-0' /></span></strong>. I was so <strong data-start=\"331\" data-end=\"347\"><span class='fillblank-option'><label>20.2</label><input id='fbo-908502-1' class='ms fillblank-option-20' index='1' name='fbo-908502-1' type='text' size='11' autocomplete='off' data-testid='fillblank-input-908502-1' /></span></strong> when we reached the top and the view was amazing. However, after a long day of walking around and waiting in lines, I felt completely <strong data-start=\"482\" data-end=\"499\"><span class='fillblank-option'><label>20.3</label><input id='fbo-908502-2' class='ms fillblank-option-20' index='2' name='fbo-908502-2' type='text' size='11' autocomplete='off' data-testid='fillblank-input-908502-2' /></span></strong>. It had been an <strong data-start=\"516\" data-end=\"534\"><span class='fillblank-option'><label>20.4</label><input id='fbo-908502-3' class='ms fillblank-option-20' index='3' name='fbo-908502-3' type='text' size='11' autocomplete='off' data-testid='fillblank-input-908502-3' /></span></strong> day, but totally worth it. One of the performances we watched was incredibly <strong data-start=\"612\" data-end=\"628\"><span class='fillblank-option'><label>20.5</label><input id='fbo-908502-4' class='ms fillblank-option-20' index='4' name='fbo-908502-4' type='text' size='9' autocomplete='off' data-testid='fillblank-input-908502-4' /></span></strong>. I was so <strong data-start=\"639\" data-end=\"654\"><span class='fillblank-option'><label>20.6</label><input id='fbo-908502-5' class='ms fillblank-option-20' index='5' name='fbo-908502-5' type='text' size='11' autocomplete='off' data-testid='fillblank-input-908502-5' /></span></strong> by the story that I almost cried. The day ended with a <strong data-start=\"710\" data-end=\"726\"><span class='fillblank-option'><label>20.7</label><input id='fbo-908502-6' class='ms fillblank-option-20' index='6' name='fbo-908502-6' type='text' size='11' autocomplete='off' data-testid='fillblank-input-908502-6' /></span></strong> meal at a local restaurant, and we were all <strong data-start=\"771\" data-end=\"786\"><span class='fillblank-option'><label>20.8</label><input id='fbo-908502-7' class='ms fillblank-option-20' index='7' name='fbo-908502-7' type='text' size='10' autocomplete='off' data-testid='fillblank-input-908502-7' /></span></strong> with the food and service.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "thrilling"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "thrilled"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "exhausted"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "exhausting"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "touching"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "touched"
+          ]
+        },
+        {
+          "index": 6,
+          "correctAnswers": [
+            "pleasing"
+          ]
+        },
+        {
+          "index": 7,
+          "correctAnswers": [
+            "pleased"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Trong c&acirc;u, \"<strong>the roller coaster ride</strong>\" mang lại cảm gi&aacute;c mạnh mẽ, kịch t&iacute;nh cho đối tượng \"<strong>I</strong>\". =&gt; D&ugrave;ng t&iacute;nh từ đu&ocirc;i \"<strong>-ing</strong>\".</p>\n<p><strong>thrilling</strong> (adj.): hồi hộp, ly kỳ, th&uacute; vị</p>\n<p>2. Trong c&acirc;u, đối tượng \"<strong>I</strong>\" cảm thấy phấn kh&iacute;ch. =&gt; D&ugrave;ng t&iacute;nh từ đu&ocirc;i \"<strong>-ed</strong>\".</p>\n<p><strong>thrilled</strong> (adj.): phấn kh&iacute;ch</p>\n<p>3. Trong c&acirc;u, đối tượng \"<strong>I</strong>\" cảm thấy kiệt sức. =&gt; D&ugrave;ng t&iacute;nh từ đu&ocirc;i \"<strong>-ed</strong>\".</p>\n<p><strong>exhausted</strong> (adj.): kiệt quệ, kiệt sức</p>\n<p>4. Trong c&acirc;u, \"<strong>day</strong>\" đang được mi&ecirc;u tả mang lại cảm gi&aacute;c mệt mỏi cho ai đ&oacute;. =&gt; D&ugrave;ng t&iacute;nh từ đu&ocirc;i \"<strong>-ing</strong>\".</p>\n<p><strong>exhausting</strong> (adj.): l&agrave;m kiệt sức</p>\n<p>5. Trong c&acirc;u, đối tượng \"<strong>One of the performances</strong>\" mang lại cảm gi&aacute;c x&uacute;c động cho người kh&aacute;c. =&gt; D&ugrave;ng t&iacute;nh từ đu&ocirc;i \"<strong>-ing</strong>\".</p>\n<p><strong>touching </strong>(adj.): l&agrave;m cảm động</p>\n<p>6. Trong c&acirc;u, đối tượng \"<strong>I</strong>\" bị cảm động (cảm x&uacute;c của \"<strong>I</strong>\"). =&gt; D&ugrave;ng t&iacute;nh từ đu&ocirc;i \"<strong>-ed</strong>\".</p>\n<p><strong>touched</strong> (adj.): cảm động, biết ơn</p>\n<p>7. Trong c&acirc;u, \"<strong>meal</strong>\" đang được mi&ecirc;u tả mang lại cảm gi&aacute;c dễ chịu, thoải m&aacute;i. =&gt; D&ugrave;ng t&iacute;nh từ đu&ocirc;i \"<strong>-ing</strong>\".</p>\n<p><strong>pleasing</strong> (adj.): dễ chịu, th&iacute;ch th&uacute;, l&agrave;m vừa l&ograve;ng</p>\n<p>8. Trong c&acirc;u, đối tượng \"<strong>We</strong>\" cảm thấy vui vẻ. =&gt; D&ugrave;ng t&iacute;nh từ đu&ocirc;i \"<strong>-ed</strong>\".</p>\n<p><strong>pleased</strong> (adj.): vui vẻ, h&agrave;i l&ograve;ng</p>\n<p>Dịch:&nbsp;</p>\n<p>Cuối tuần vừa rồi, t&ocirc;i đ&atilde; đi đến c&ocirc;ng vi&ecirc;n giải tr&iacute; c&ugrave;ng bạn b&egrave;. Chuyến t&agrave;u lượn si&ecirc;u tốc thật sự rất hồi hộp. T&ocirc;i đ&atilde; cảm thấy rất phấn kh&iacute;ch khi ch&uacute;ng t&ocirc;i đến đỉnh v&agrave; cảnh tượng thật tuyệt vời. Tuy nhi&ecirc;n, sau một ng&agrave;y d&agrave;i đi bộ v&agrave; xếp h&agrave;ng chờ đợi, t&ocirc;i cảm thấy ho&agrave;n to&agrave;n kiệt sức. Đ&oacute; l&agrave; một ng&agrave;y mệt mỏi, nhưng thật sự đ&aacute;ng gi&aacute;. Một trong những buổi biểu diễn m&agrave; ch&uacute;ng t&ocirc;i xem thật sự rất cảm động. T&ocirc;i đ&atilde; cảm thấy rất x&uacute;c động bởi c&acirc;u chuyện đến mức su&yacute;t kh&oacute;c. Ng&agrave;y h&ocirc;m đ&oacute; kết th&uacute;c với một bữa ăn vừa l&ograve;ng tại một nh&agrave; h&agrave;ng địa phương, v&agrave; ch&uacute;ng t&ocirc;i đều h&agrave;i l&ograve;ng với đồ ăn v&agrave; dịch vụ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

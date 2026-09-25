@@ -1,0 +1,1635 @@
+{
+  "id": 14325,
+  "title": "Đề thi thử Tiếng Anh vào 10 quận Hoàn Kiếm năm 2024",
+  "year": 2024,
+  "categoryId": 170,
+  "categoryName": "Đề luyện thi vào 10 môn Anh Sở Hà Nội từ năm 2024 trở về trước",
+  "timeLimit": 60,
+  "totalPoint": 40,
+  "questionCount": 37,
+  "author": "Tổ GV Tiếng Anh - TA12",
+  "description": "",
+  "createdAt": "2026-09-24T14:51:27.805Z",
+  "questions": [
+    {
+      "id": 767060,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Mike and his wife <span style=\"text-decoration: underline;\">wish</span> they <span style=\"text-decoration: underline;\">are</span> <span style=\"text-decoration: underline;\">on</span> holiday <span style=\"text-decoration: underline;\">in</span> Los Angeles now.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475836,
+          "label": "A",
+          "text": "wish",
+          "isCorrect": false
+        },
+        {
+          "id": 1475837,
+          "label": "B",
+          "text": "are",
+          "isCorrect": true
+        },
+        {
+          "id": 1475838,
+          "label": "C",
+          "text": "on",
+          "isCorrect": false
+        },
+        {
+          "id": 1475839,
+          "label": "D",
+          "text": "in",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1475837,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c </span>\"<strong>wish</strong>\"<span style=\"font-weight: 400;\"> thể hiện mong ước một điều g&igrave; đ&oacute; kh&ocirc;ng c&oacute; thật ở hiện tại hoặc giả định một điều tr&aacute;i ngược so với thực tế.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: </span><strong>S + wish(es) + (that) + S + V(pt)&nbsp;</strong></p>\n<p>Sửa: \"<strong>are</strong>\" =&gt; \"<strong>were</strong>\"</p>\n<p>Dịch: Mike v&agrave; vợ anh ấy ước g&igrave; b&acirc;y giờ họ đang đi nghỉ ở Los Angeles.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767061,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Pam has <span style=\"text-decoration: underline;\">some</span> friends <span style=\"text-decoration: underline;\">who</span> are <span style=\"text-decoration: underline;\">explorers</span>, <span style=\"text-decoration: underline;\">does</span> she?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475840,
+          "label": "A",
+          "text": "some",
+          "isCorrect": false
+        },
+        {
+          "id": 1475841,
+          "label": "B",
+          "text": "who",
+          "isCorrect": false
+        },
+        {
+          "id": 1475842,
+          "label": "C",
+          "text": "explorers",
+          "isCorrect": false
+        },
+        {
+          "id": 1475843,
+          "label": "D",
+          "text": "does",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1475843,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Mệnh đề ch&iacute;nh ở thể khẳng định ở th&igrave; hiện tại đơn. =&gt; Phần đu&ocirc;i ở thể phủ định: \"<strong>doesn't she</strong>\".</p>\n<p>Sửa: \"<strong>does</strong>\" =&gt; \"<strong>doesn't</strong>\"</p>\n<p>Dịch: Pam c&oacute; một v&agrave;i người bạn l&agrave; nh&agrave; th&aacute;m hiểm, phải kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767062,
+      "questionNumber": 3,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>The woman / come / shop / didn't speak / English.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475844,
+          "label": "A",
+          "text": "The woman whose came into the shop didn't speak English.",
+          "isCorrect": false
+        },
+        {
+          "id": 1475845,
+          "label": "B",
+          "text": "The woman whom came into the shop didn't speak English.",
+          "isCorrect": false
+        },
+        {
+          "id": 1475846,
+          "label": "C",
+          "text": "The woman that coming into the shop didn't speak English.",
+          "isCorrect": false
+        },
+        {
+          "id": 1475847,
+          "label": "D",
+          "text": "The woman who came into the shop didn't speak English.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1475847,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\"><strong>who/that + V</strong>: thay thế cho danh từ chỉ người \"<strong>The woman</strong>\", l&agrave;m chủ ngữ trong mệnh đề quan hệ.</span></p>\n<p><span style=\"font-weight: 400;\">whose + N: chỉ sự sở hữu cho danh từ, thay thế cho t&iacute;nh từ sở hữu hoặc sở hữu c&aacute;ch &lsquo;s.</span></p>\n<p><span style=\"font-weight: 400;\">whom + clause: thay thế cho danh từ chỉ người, l&agrave;m t&acirc;n ngữ trong mệnh đề.</span></p>\n<p><span style=\"font-weight: 400;\">C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:</span></p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">The woman <span style=\"text-decoration: line-through;\"><strong>whose</strong></span> came into the shop didn't speak English.</span></em></li>\n<li><em><span style=\"font-weight: 400;\">The woman <span style=\"text-decoration: line-through;\"><strong>whom</strong></span> came into the shop didn't speak English.</span></em></li>\n<li><em><span style=\"font-weight: 400;\">The woman that <span style=\"text-decoration: line-through;\"><strong>coming</strong></span> into the shop didn't speak English.</span></em></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Dịch: Người phụ nữ bước v&agrave;o cửa h&agrave;ng kh&ocirc;ng n&oacute;i được tiếng Anh.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767063,
+      "questionNumber": 4,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>This / be / delicious / cake / I / ever / eat.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475848,
+          "label": "A",
+          "text": "This is a most delicious cake that I ever eaten.",
+          "isCorrect": false
+        },
+        {
+          "id": 1475849,
+          "label": "B",
+          "text": "This is the more delicious cake I have ever eaten.",
+          "isCorrect": false
+        },
+        {
+          "id": 1475850,
+          "label": "C",
+          "text": "This is the most delicious cake I have ever eaten.",
+          "isCorrect": true
+        },
+        {
+          "id": 1475851,
+          "label": "D",
+          "text": "This is the most delicious cake I have ever eaten before.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1475850,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>This is + the + t&iacute;nh từ dạng so s&aacute;nh nhất + N + (that) + S + have/has + (ever) + V(pp)</strong>: Đ&acirc;y l&agrave; c&aacute;i ... nhất m&agrave; ai đ&oacute; từng l&agrave;m g&igrave;</p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em>This is <span style=\"text-decoration: line-through;\"><strong>a</strong></span> most delicious cake that I ever eaten.</em></li>\n<li><em>This is the <span style=\"text-decoration: line-through;\"><strong>more</strong></span> delicious cake I have ever eaten.</em></li>\n<li><em>This is the most delicious cake I have ever eaten <span style=\"text-decoration: line-through;\"><strong>before</strong></span>.</em></li>\n</ul>\n<p>Dịch: Đ&acirc;y l&agrave; chiếc b&aacute;nh ngon nhất m&agrave; t&ocirc;i từng ăn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767064,
+      "questionNumber": 5,
+      "questionName": "5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>I / very happy / see / my old friend.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475852,
+          "label": "A",
+          "text": "I was very happy to seeing my old friends.",
+          "isCorrect": false
+        },
+        {
+          "id": 1475853,
+          "label": "B",
+          "text": "I was very happy seeing my old friend.",
+          "isCorrect": false
+        },
+        {
+          "id": 1475854,
+          "label": "C",
+          "text": "I was very happy to see my old friend.",
+          "isCorrect": true
+        },
+        {
+          "id": 1475855,
+          "label": "D",
+          "text": "I was very happy that was my old friends.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1475854,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; qu&aacute; khứ đơn được d&ugrave;ng để diễn tả cảm x&uacute;c trạng th&aacute;i ở trong qu&aacute; khứ.&nbsp;</p>\n<p>Cấu tr&uacute;c của th&igrave; qu&aacute; khứ đơn với động từ to be: <strong>S + was/were + ...</strong></p>\n<p><strong>be happy to do sth</strong>: vui/hạnh ph&uacute;c khi được l&agrave;m g&igrave;</p>\n<p>Dịch: T&ocirc;i rất vui khi được gặp lại người bạn cũ của m&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767065,
+      "questionNumber": 6,
+      "questionName": "6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>She / very tired / because / stay up late / last night.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475856,
+          "label": "A",
+          "text": "She is very tired because staying up late last night.",
+          "isCorrect": false
+        },
+        {
+          "id": 1475857,
+          "label": "B",
+          "text": "She very tired because of staying up late last night.",
+          "isCorrect": false
+        },
+        {
+          "id": 1475858,
+          "label": "C",
+          "text": "She is very tired because she stayed up late last night.",
+          "isCorrect": true
+        },
+        {
+          "id": 1475859,
+          "label": "D",
+          "text": "She is very tired because of she stayed up late last night.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1475858,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại đơn được d&ugrave;ng để diễn tả trạng th&aacute;i, t&iacute;nh chất, cảm x&uacute;c ở hiện tại.</p>\n<p>Cấu tr&uacute;c của th&igrave; hiện tại đơn với động từ to be ở thể khẳng định: <strong>S + is/am/are + ...</strong></p>\n<p><strong>because + S + V </strong>~ <strong>because of + N/N-phrase/V-ing</strong>: bởi v&igrave;&nbsp;</p>\n<p>Th&igrave; qu&aacute; khứ đơn được d&ugrave;ng để diễn tả h&agrave;nh động, sự việc đ&atilde; xảy ra v&agrave; kết th&uacute;c ở trong qu&aacute; khứ. Dấu hiệu: \"<strong>last night</strong>\".</p>\n<p>Cấu tr&uacute;c của th&igrave; qu&aacute; khứ đơn ở thể khẳng định: <strong>S + V(pt)</strong></p>\n<p><em>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:&nbsp;</em></p>\n<ul>\n<li><em>She is very tired because <span style=\"text-decoration: line-through;\"><strong>staying up late</strong></span> last night.</em></li>\n<li><em><span style=\"text-decoration: line-through;\"><strong>She very tired</strong></span> because of staying up late last night.</em></li>\n<li><em>She is very tired because <span style=\"text-decoration: line-through;\"><strong>of</strong></span> she stayed up late last night.</em></li>\n</ul>\n<p>Dịch: C&ocirc; ấy rất mệt v&igrave; tối qua c&ocirc; ấy đ&atilde; thức khuya.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767066,
+      "questionNumber": 7,
+      "questionName": "7",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I _____ you as soon as I arrive in London. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475860,
+          "label": "A",
+          "text": "have phoned",
+          "isCorrect": false
+        },
+        {
+          "id": 1475861,
+          "label": "B",
+          "text": "will phone",
+          "isCorrect": true
+        },
+        {
+          "id": 1475862,
+          "label": "C",
+          "text": "am phoning",
+          "isCorrect": false
+        },
+        {
+          "id": 1475863,
+          "label": "D",
+          "text": "phoned",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1475861,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để hoàn thành câu này, bạn cần nắm vững quy tắc hòa hợp thì trong các mệnh đề chỉ thời gian trong tương lai.<br/><ul><li>Trong câu có \"<em>as soon as</em>\" (ngay khi), đây là một liên từ chỉ thời gian.</li><li>Mệnh đề đi kèm \"<em>as soon as</em>\" (\"<em>as soon as I arrive in London</em>\") đang sử dụng thì hiện tại đơn để diễn tả một hành động sẽ xảy ra trong tương lai.</li><li>Vậy, mệnh đề chính của câu phải sử dụng thì tương lai đơn.</li></ul>Hãy chọn phương án thể hiện hành động tương lai phù hợp.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mệnh đề chỉ thời gian trong tương lai</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một hành động sẽ xảy ra trong tương lai, phụ thuộc vào một hành động khác cũng sẽ xảy ra trong tương lai, được giới thiệu bằng các liên từ chỉ thời gian.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">S + will/be going to + V(inf) + Liên từ chỉ thời gian + S + V(hiện tại đơn/hiện tại hoàn thành)</span></li>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">Liên từ chỉ thời gian + S + V(hiện tại đơn/hiện tại hoàn thành) + , + S + will/be going to + V(inf)</span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu có liên từ chỉ thời gian \"<em>as soon as</em>\" và hành động trong mệnh đề phụ \"<em>I arrive in London</em>\" chia ở thì hiện tại đơn, diễn tả một hành động sẽ xảy ra trong tương lai. Theo quy tắc hòa hợp thì trong mệnh đề thời gian, mệnh đề chính phải chia ở thì tương lai đơn.</p>\n<p style=\"text-align: justify;\">Phương án \"<em>will phone</em>\" (thì tương lai đơn) phù hợp với quy tắc này. Các phương án khác (\"<em>have phoned</em>\", \"<em>am phoning</em>\", \"<em>phoned</em>\") không phù hợp vì chúng là thì hiện tại hoàn thành, hiện tại tiếp diễn và quá khứ đơn, không tuân thủ quy tắc hòa hợp thì cho hành động trong tương lai sau mệnh đề thời gian.</p>",
+      "answerFeedbacks": {
+        "1475860": "Sai vì thì hiện tại hoàn thành (present perfect) không dùng để diễn tả hành động sẽ xảy ra trong tương lai sau mệnh đề thời gian.",
+        "1475861": "Đúng vì thì tương lai đơn (future simple) được dùng trong mệnh đề chính để diễn tả hành động sẽ xảy ra trong tương lai, khi mệnh đề phụ chỉ thời gian dùng thì hiện tại đơn.",
+        "1475862": "Sai vì thì hiện tại tiếp diễn (present continuous) không dùng trong mệnh đề chính của cấu trúc mệnh đề thời gian tương lai này; nó thường dùng cho kế hoạch đã định hoặc sự việc đang diễn ra.",
+        "1475863": "Sai vì thì quá khứ đơn (past simple) không dùng để diễn tả hành động sẽ xảy ra trong tương lai."
+      },
+      "images": []
+    },
+    {
+      "id": 767067,
+      "questionNumber": 8,
+      "questionName": "8",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>She has bought _____ new bag which matches _____ dress she bought last week.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475864,
+          "label": "A",
+          "text": "a - the",
+          "isCorrect": true
+        },
+        {
+          "id": 1475865,
+          "label": "B",
+          "text": "the - a",
+          "isCorrect": false
+        },
+        {
+          "id": 1475866,
+          "label": "C",
+          "text": "a - an",
+          "isCorrect": false
+        },
+        {
+          "id": 1475867,
+          "label": "D",
+          "text": "the - the",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1475864,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để điền đúng mạo từ, hãy xem xét danh từ theo sau: nó là danh từ số ít đếm được, số nhiều, hay không đếm được?</p>\n<ul>\n<li>Khi <em>\"new bag\"</em> được nhắc đến lần đầu và là một trong số nhiều cái túi, bạn sẽ dùng mạo từ nào?</li>\n<li>Khi <em>\"dress\"</em> được xác định rõ ràng bởi cụm <em>\"she bought last week\"</em>, nó đã trở thành một vật cụ thể, không còn chung chung nữa. Mạo từ nào phù hợp cho trường hợp này?</li>\n</ul>\n<p>Lưu ý quy tắc dùng <em>\"a\"</em> và <em>\"an\"</em> dựa trên âm thanh của từ ngay sau mạo từ đó.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ xác định và mạo từ không xác định</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Mạo từ được dùng trước danh từ để xác định hoặc không xác định danh từ đó. Mạo từ không xác định (a/an) dùng khi nhắc đến một danh từ lần đầu hoặc danh từ chung chung. Mạo từ xác định (the) dùng khi danh từ đã được nhắc đến trước đó, hoặc khi danh từ đó là duy nhất, hoặc khi nó được xác định rõ ràng bởi ngữ cảnh hay một cụm từ đi kèm.</p>\n<p style=\"text-align: justify;\"><strong>Một số cách dùng cụ thể:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">A/An + N (số ít đếm được)</span></strong>: Một cái gì đó chung chung, hoặc được nhắc đến lần đầu. (Phụ thuộc vào âm đầu của danh từ theo sau: 'a' trước phụ âm, 'an' trước nguyên âm.)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">The + N</span></strong>: Danh từ đã được xác định, hoặc duy nhất trong ngữ cảnh.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong chỗ trống thứ nhất, danh từ <em>\"bag\"</em> được nhắc đến lần đầu và là một danh từ số ít đếm được, bắt đầu bằng phụ âm <em>\"n\"</em> của tính từ <em>\"new\"</em>, nên cần dùng mạo từ không xác định <em>\"a\"</em>.  Trong chỗ trống thứ hai, danh từ <em>\"dress\"</em> được xác định rõ ràng bởi mệnh đề quan hệ <em>\"she bought last week\"</em>, nên cần dùng mạo từ xác định <em>\"the\"</em>.</p>\n<p style=\"text-align: justify;\">Vì vậy, phương án 1 <em>\"a - the\"</em> là đáp án đúng, các phương án còn lại đều có ít nhất một vế sử dụng mạo từ không chính xác với các danh từ trong câu.</p>",
+      "answerFeedbacks": {
+        "1475864": "Đúng vì <em>\"a new bag\"</em> dùng mạo từ không xác định cho danh từ được nhắc đến lần đầu, và <em>\"the dress she bought last week\"</em> dùng mạo từ xác định cho danh từ đã được xác định rõ ràng.",
+        "1475865": "Sai vì <em>\"bag\"</em> được nhắc đến lần đầu nên cần mạo từ không xác định <em>\"a\"</em>, còn <em>\"dress\"</em> đã được xác định nên cần mạo từ xác định <em>\"the\"</em>.",
+        "1475866": "Sai vì danh từ <em>\"new bag\"</em> bắt đầu bằng phụ âm nên dùng <em>\"a\"</em>, và <em>\"dress\"</em> đã được xác định nên phải dùng <em>\"the\"</em> chứ không phải <em>\"an\"</em>.",
+        "1475867": "Sai vì <em>\"bag\"</em> được nhắc đến lần đầu nên cần mạo từ không xác định <em>\"a\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 767068,
+      "questionNumber": 9,
+      "questionName": "9",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I still remember _____ my wife for the first time. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475868,
+          "label": "A",
+          "text": "met",
+          "isCorrect": false
+        },
+        {
+          "id": 1475869,
+          "label": "B",
+          "text": "meeting",
+          "isCorrect": true
+        },
+        {
+          "id": 1475870,
+          "label": "C",
+          "text": "being met",
+          "isCorrect": false
+        },
+        {
+          "id": 1475871,
+          "label": "D",
+          "text": "to meet",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1475869,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn dạng động từ đúng sau <em>remember</em>, hãy xem xét hành động đó đã xảy ra hay chưa.</p>\n<ul>\n<li>Nếu bạn nhớ một việc đã làm trong quá khứ, hãy dùng ''<em>remember + V-ing</em>.''</li>\n<li>Nếu bạn nhớ để làm một việc gì đó trong tương lai (một nhiệm vụ hoặc một nghĩa vụ), hãy dùng ''<em>remember + to-V(inf)</em>.''</li>\n</ul>\n<p>Hãy dựa vào cụm <em>\"for the first time\" </em>để biết được ngữ cảnh của câu đang diễn tả ý nghĩa gì.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ theo sau bởi V-ing hoặc to-V(inf)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Chủ điểm này đề cập đến việc một số động từ trong tiếng Anh có thể được theo sau bởi một động từ ở dạng V-ing (gerund) hoặc to-V(inf) (to-infinitive), và sự lựa chọn giữa hai dạng này thường thay đổi ý nghĩa của câu.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + V + V-ing / to-V(inf)</span></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">remember + V-ing:</span></strong> nhớ lại một hành động đã xảy ra trong quá khứ.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">remember + to-V(inf):</span></strong> nhớ để làm một việc gì đó (hành động chưa xảy ra).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu hỏi diễn tả việc nhớ lại một sự kiện đã xảy ra trong quá khứ <em>\"gặp vợ lần đầu tiên\"</em>. Theo quy tắc, khi <em>remember</em> diễn tả việc nhớ lại một hành động đã xảy ra, động từ theo sau phải ở dạng V-ing. Do đó, <em>meeting</em> là lựa chọn phù hợp nhất.</p>\n<p style=\"text-align: justify;\">Các phương án khác không phù hợp vì ''<em>met''</em> không đúng cấu trúc, ''<em>being met''</em> là dạng bị động, không khớp với chủ ngữ ''<em>I'' </em>còn ''<em>to meet''</em> diễn tả việc nhớ để làm một hành động trong tương lai, không phải nhớ lại sự việc đã xảy ra.</p>",
+      "answerFeedbacks": {
+        "1475868": "Sai vì <em>met</em> là dạng quá khứ đơn của động từ, không thể đứng trực tiếp sau động từ <em>remember</em> để làm bổ ngữ cho nó.",
+        "1475869": "Đúng vì cấu trúc <em>remember + V-ing</em> được dùng để diễn tả việc nhớ lại một hành động đã xảy ra trong quá khứ, phù hợp với ngữ cảnh <em>\"gặp vợ lần đầu tiên\"</em>.",
+        "1475870": "Sai vì <em>being met</em> là dạng V-ing bị động, mang nghĩa \"được gặp\", không phù hợp với chủ ngữ <em>I</em> là người thực hiện hành động gặp.",
+        "1475871": "Sai vì cấu trúc <em>remember + to-V(inf)</em> được dùng để diễn tả việc nhớ để làm một hành động trong tương lai hoặc một nghĩa vụ, không phù hợp với việc nhớ lại một sự kiện đã xảy ra."
+      },
+      "images": []
+    },
+    {
+      "id": 767069,
+      "questionNumber": 10,
+      "questionName": "10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We _____ pick the flower in the park. It's forbidden.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475872,
+          "label": "A",
+          "text": "mustn't",
+          "isCorrect": true
+        },
+        {
+          "id": 1475873,
+          "label": "B",
+          "text": "don't have to",
+          "isCorrect": false
+        },
+        {
+          "id": 1475874,
+          "label": "C",
+          "text": "must",
+          "isCorrect": false
+        },
+        {
+          "id": 1475875,
+          "label": "D",
+          "text": "should",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1475872,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Tập trung vào ý nghĩa của câu: <em>\"It's forbidden\"</em> cho biết hành động này bị cấm.</p>\n<p>Hãy tìm động từ khuyết thiếu nào diễn tả ý nghĩa <strong>cấm đoán mạnh mẽ</strong>, tức là <strong>không được phép làm</strong>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ khuyết thiếu diễn đạt sự bắt buộc, cấm đoán và lời khuyên</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các động từ khuyết thiếu này được sử dụng để thể hiện mức độ cần thiết, sự cho phép, sự cấm đoán hoặc đưa ra lời khuyên về một hành động. Chúng luôn đi kèm với động từ nguyên thể không \"to\".</p>\n<p style=\"text-align: justify;\"><strong>Một số động từ khuyết thiếu và cách dùng:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">mustn't + V(inf)</span></strong>: không được phép</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">don't have to + V(inf)</span></strong>: không cần thiết phải làm</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">must + V(inf)</span></strong>: phải</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">should + V(inf)</span></strong>: nên</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu có cụm từ <em>\"It's forbidden\"</em> (Điều đó bị cấm) cho thấy hành động này không được phép. Trong các động từ khuyết thiếu được đưa ra, <em>\"mustn't\"</em> (must not) là động từ dùng để diễn tả sự cấm đoán mạnh mẽ, phù hợp với ngữ cảnh.</p>\n<p style=\"text-align: justify;\">Các phương án <em>\"don't have to\"</em> (không cần thiết), <em>\"must\"</em> (bắt buộc phải làm) và <em>\"should\"</em> (nên làm) đều không diễn tả ý cấm đoán.</p>",
+      "answerFeedbacks": {
+        "1475872": "Đúng vì <em>\"mustn't\"</em> (must not) được dùng để diễn tả sự cấm đoán, hoàn toàn phù hợp với ngữ cảnh <em>\"It's forbidden\"</em> (Điều đó bị cấm).",
+        "1475873": "Sai vì <em>\"don't have to\"</em> diễn tả sự không cần thiết phải làm gì, chứ không phải sự cấm đoán.",
+        "1475874": "Sai vì <em>\"must\"</em> diễn tả sự bắt buộc phải làm, trái ngược với ý cấm đoán trong câu.",
+        "1475875": "Sai vì <em>\"should\"</em> dùng để đưa ra lời khuyên, không diễn tả sự cấm đoán."
+      },
+      "images": []
+    },
+    {
+      "id": 767070,
+      "questionNumber": 11,
+      "questionName": "11",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If I _____ you, I _____ a larger house for my parents.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475876,
+          "label": "A",
+          "text": "were - would buy",
+          "isCorrect": true
+        },
+        {
+          "id": 1475877,
+          "label": "B",
+          "text": "was - will buy",
+          "isCorrect": false
+        },
+        {
+          "id": 1475878,
+          "label": "C",
+          "text": "am - will buy",
+          "isCorrect": false
+        },
+        {
+          "id": 1475879,
+          "label": "D",
+          "text": "am - would buy",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1475876,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để hoàn thành câu điều kiện này, bạn cần xác định loại câu điều kiện phù hợp với ngữ cảnh giả định, không có thật ở hiện tại. Hãy nhớ rằng:</p>\n<ul>\n<li>Cụm từ \"<em>If I... you</em>\" thường được dùng để đưa ra lời khuyên hoặc giả định về một điều không thể xảy ra ở hiện tại.</li>\n<li>Trong câu điều kiện loại 2, động từ ở mệnh đề <em>If</em> phải ở thì quá khứ đơn.</li>\n<li>Đặc biệt, với động từ <em>to be</em> trong mệnh đề <em>If</em> của câu điều kiện loại 2, chúng ta luôn dùng từ nào cho tất cả các chủ ngữ?</li>\n</ul>\n<p>Hãy đối chiếu các phương án với cấu trúc này để tìm ra đáp án đúng.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu điều kiện loại 2</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một hành động hoặc sự việc không có thật ở hiện tại hoặc tương lai, hoặc một giả định trái ngược với thực tế ở hiện tại, thường dùng để đưa ra lời khuyên hoặc mong muốn.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(-ed/cột 2), S + would/could/might + V(inf)</span></p>\n<p style=\"text-align: justify;\">Trong đó, với động từ <em>to be</em> trong mệnh đề <em>If</em>, luôn dùng <em>were</em> cho tất cả các chủ ngữ (kể cả <em>I, he, she, it</em>).</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu đã cho diễn tả một tình huống giả định, không có thật ở hiện tại (\"If I were you\" - nếu tôi là bạn, điều không thể xảy ra), do đó cần sử dụng cấu trúc của câu điều kiện loại 2. Cấu trúc này yêu cầu động từ ở mệnh đề <em>If</em> phải ở thì quá khứ đơn, và đặc biệt với động từ <em>to be</em>, ta dùng <em>were</em> cho tất cả các chủ ngữ. Mệnh đề chính sẽ dùng <em>would/could/might + V(inf)</em>. Vì vậy, sự kết hợp <em>were - would buy</em> là chính xác.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều chứa ít nhất một vế không chính xác với cấu trúc của câu điều kiện loại 2.</p>",
+      "answerFeedbacks": {
+        "1475876": "Đúng vì cấu trúc <em>If I were you</em> và <em>would buy</em> tuân thủ quy tắc của câu điều kiện loại 2, diễn tả một tình huống giả định trái ngược với thực tế ở hiện tại.",
+        "1475877": "Sai vì <em>was</em> không được dùng với chủ ngữ <em>I</em> trong mệnh đề điều kiện loại 2 khi diễn tả lời khuyên hoặc giả định, và <em>will buy</em> thuộc câu điều kiện loại 1.",
+        "1475878": "Sai vì <em>am</em> là thì hiện tại đơn, không dùng trong mệnh đề điều kiện loại 2, và <em>will buy</em> thuộc câu điều kiện loại 1.",
+        "1475879": "Sai vì <em>am</em> là thì hiện tại đơn, không dùng trong mệnh đề điều kiện loại 2."
+      },
+      "images": []
+    },
+    {
+      "id": 767071,
+      "questionNumber": 12,
+      "questionName": "12",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We teach our children to be _____ and always say &quot;please&quot; and &quot;thank you&quot;.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475880,
+          "label": "A",
+          "text": "impatient",
+          "isCorrect": false
+        },
+        {
+          "id": 1475881,
+          "label": "B",
+          "text": "careless",
+          "isCorrect": false
+        },
+        {
+          "id": 1475882,
+          "label": "C",
+          "text": "rude",
+          "isCorrect": false
+        },
+        {
+          "id": 1475883,
+          "label": "D",
+          "text": "polite",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1475883,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19tDrw0LCHvyeueqv1IQAxh26byujFpTQUuwPan0YleqjuZsFfyFRWhni1N6waL63sPDJemcrkyaga2LmWUbXIECYMqvtlrZVkVklwWgK6DkL6%2FT5Z%2FE01WG1MUGCgLiAV97dgE6wnlYSXVtnQgKeC31q8HclG9f%2FH1jQ%2Ftj5qEfTbJGrv4BMKRW44oXz2QPHDgEP7duqOOJbhuaW8WqAEgfju318bBzNRFEB4rhf6lmEkoTBSKi76uitREvmn0E%2FnXmNtPVPv6xPjFq8tjGzqkV98d0usQub8iA1Ry919GnZUBDqL%2BADStLyQl01IBRWbQaK%2Fa1EChc50TlWrDF8ww36MPODXiQnlbTwPF6QYhRVCGG%2FWydoHb\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Ch&uacute;ng t&ocirc;i dạy c&aacute;c con của m&igrave;nh phải lịch sự v&agrave; lu&ocirc;n n&oacute;i &ldquo;l&agrave;m ơn&rdquo; v&agrave; &ldquo;cảm ơn&rdquo;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767072,
+      "questionNumber": 13,
+      "questionName": "13",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The present _____ I got from my best friend was fantastic.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475884,
+          "label": "A",
+          "text": "when",
+          "isCorrect": false
+        },
+        {
+          "id": 1475885,
+          "label": "B",
+          "text": "who",
+          "isCorrect": false
+        },
+        {
+          "id": 1475886,
+          "label": "C",
+          "text": "which",
+          "isCorrect": true
+        },
+        {
+          "id": 1475887,
+          "label": "D",
+          "text": "whom",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1475886,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn đại từ/trạng từ quan hệ phù hợp, hãy xác định:\n<ul>\n<li>Danh từ đứng trước chỗ trống là gì và nó chỉ người, vật hay thời gian? Ở đây, <em>\"The present\"</em> chỉ vật.</li>\n<li>Chỗ trống đóng vai trò gì trong mệnh đề quan hệ theo sau (làm chủ ngữ, tân ngữ hay chỉ thời gian)? Với <em>\"I got from my best friend\"</em>, chỗ trống là tân ngữ của động từ <em>\"got\"</em>.</li>\n</ul>\nTừ đó, hãy chọn từ nối phù hợp với cả hai yếu tố trên.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Đại từ và trạng từ quan hệ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Đại từ và trạng từ quan hệ được dùng để giới thiệu mệnh đề quan hệ, cung cấp thêm thông tin về danh từ hoặc cụm danh từ đứng trước nó. Chúng giúp kết nối hai mệnh đề lại với nhau mà không cần lặp lại danh từ.</p>\n<p><strong>Một số đại từ/trạng từ quan hệ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">which</span></strong>: dùng cho vật/sự việc (thay thế cho chủ ngữ hoặc tân ngữ).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">who</span></strong>: dùng cho người (thay thế cho chủ ngữ).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">whom</span></strong>: dùng cho người (thay thế cho tân ngữ, thường trang trọng).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">when</span></strong>: dùng để chỉ thời gian.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, chỗ trống cần điền một đại từ quan hệ để bổ nghĩa cho danh từ <em>\"The present\"</em> (một vật) và đóng vai trò làm tân ngữ của động từ <em>\"got\"</em> trong mệnh đề quan hệ <em>\"I got from my best friend\"</em>. Vì vậy, <em>\"which\"</em> là lựa chọn phù hợp nhất.</p>\n<p style=\"text-align: justify;\">Các phương án <em>\"who\"</em> và <em>\"whom\"</em> chỉ dùng cho người, không phù hợp với danh từ <em>\"the present\"</em>. Phương án <em>\"when\"</em> là trạng từ quan hệ chỉ thời gian, không phù hợp với ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "1475884": "Sai vì <em>\"when\"</em> là trạng từ quan hệ chỉ thời gian, trong khi <em>\"the present\"</em> là danh từ chỉ vật.",
+        "1475885": "Sai vì <em>\"who\"</em> là đại từ quan hệ chỉ người làm chủ ngữ hoặc tân ngữ, trong khi <em>\"the present\"</em> là danh từ chỉ vật.",
+        "1475886": "Đúng vì <em>\"which\"</em> là đại từ quan hệ chỉ vật, có thể thay thế cho tân ngữ trong mệnh đề quan hệ <em>\"I got from my best friend\"</em>.",
+        "1475887": "Sai vì <em>\"whom\"</em> là đại từ quan hệ chỉ người làm tân ngữ, trong khi <em>\"the present\"</em> là danh từ chỉ vật."
+      },
+      "images": []
+    },
+    {
+      "id": 767073,
+      "questionNumber": 14,
+      "questionName": "14",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>You will see how meaningful the story is if you really _____ attention to it.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475888,
+          "label": "A",
+          "text": "pay",
+          "isCorrect": true
+        },
+        {
+          "id": 1475889,
+          "label": "B",
+          "text": "put",
+          "isCorrect": false
+        },
+        {
+          "id": 1475890,
+          "label": "C",
+          "text": "do",
+          "isCorrect": false
+        },
+        {
+          "id": 1475891,
+          "label": "D",
+          "text": "get",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1475888,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 265px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX187HeWRwiAmzy3tr7NraCM9RrvnRAzHaL4MhnI8pLbAZs2Wfr5mYUY%2FrbLr%2BEgjGRLFym1R8ritaMKu0dXIs9NrvsyJLWYlKjZrCFZ%2BEXWiKdjoOXf%2FBFLZCRaAGwibrAErQObnwUsDrtVMkVuKegYq2i6LiY%2FnkRTaPjWoAWzzszQekNOlyQ1oTtSntvWYOsscTX320%2FrJWnN90%2FjV86akirwE8JQGWnjBSIeux%2BWxwVItay6SX3ccekIMNfWHjdFlZpObyRQYrjo93LU%2FSnkZvwnsVvL1T9A1ejuADV1UGi9AGSabjsN%2B%2Fvwp0IkI63X4Vj52efdP2clzl%2FUKXZre%2FWm6d5uoPp0%3D\" width=\"100%\" height=\"185\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Bạn sẽ thấy c&acirc;u chuyện c&oacute; &yacute; nghĩa như thế n&agrave;o nếu bạn thực sự ch&uacute; &yacute; đến n&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767074,
+      "questionNumber": 15,
+      "questionName": "15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We don't have _____ milk left in the fridge. Could you go to the supermarket to buy _____?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475892,
+          "label": "A",
+          "text": "some - some",
+          "isCorrect": false
+        },
+        {
+          "id": 1475893,
+          "label": "B",
+          "text": "some - any",
+          "isCorrect": false
+        },
+        {
+          "id": 1475894,
+          "label": "C",
+          "text": "any - some",
+          "isCorrect": true
+        },
+        {
+          "id": 1475895,
+          "label": "D",
+          "text": "any - any",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1475894,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đáp án đúng, hãy nhớ lại quy tắc sử dụng <em>\"some\"</em> và <em>\"any\"</em> dựa trên loại câu:</p>\n<ul>\n<li>Trong câu phủ định (có <em>\"not\"</em>), chúng ta thường dùng từ định lượng nào?</li>\n<li>Trong câu hỏi là một lời đề nghị, lời mời hoặc yêu cầu lịch sự mà người nói mong đợi câu trả lời là <em>\"Yes\"</em>, thì chúng ta dùng <i>từ định lượng nào</i>?</li>\n</ul>\n<p>Áp dụng các quy tắc này vào từng chỗ trống trong câu để tìm ra cặp từ phù hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Từ định lượng \"<em>some</em>\" và \"<em>any</em>\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> \"<em>Some</em>\" và \"<em>any</em>\" là các từ định lượng được dùng để chỉ số lượng không xác định của danh từ đếm được số nhiều hoặc danh từ không đếm được. Cách dùng của chúng phụ thuộc vào loại câu (khẳng định, phủ định, nghi vấn).</p>\n<p style=\"text-align: justify;\"><strong>Một số cách dùng:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">some + N (đếm được số nhiều/không đếm được):</span></strong> một vài/một ít (Dùng trong câu khẳng định, hoặc câu hỏi lời mời/đề nghị/yêu cầu lịch sự khi biết chắc câu trả lời là \"có\")</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">any + N (đếm được số nhiều/không đếm được):</span></strong> bất cứ/một chút nào (Dùng trong câu phủ định và câu hỏi)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu đầu tiên <em>\"We don't have _____ milk left in the fridge.\"</em> là câu phủ định (có <em>\"don't\"</em>), nên cần điền <em>\"any\"</em>. Câu thứ hai <em>\"Could you go to the supermarket to buy _____?\"</em> là một câu hỏi mang tính đề nghị/yêu cầu lịch sự, người nói mong đợi câu trả lời khẳng định, vì vậy cần điền <em>\"some\"</em>. Do đó, phương án 3 (<em>any - some</em>) là đáp án chính xác.</p>\n<p style=\"text-align: justify;\">Các phương án 1 và 2 sai vì <em>\"some\"</em> không được dùng trong câu phủ định. Phương án 4 sai vì <em>\"any\"</em> không phù hợp trong câu hỏi mang tính đề nghị/yêu cầu lịch sự.</p>",
+      "answerFeedbacks": {
+        "1475892": "Sai vì <em>\"some\"</em> không dùng trong câu phủ định như <em>\"don't have\"</em>.",
+        "1475893": "Sai vì <em>\"some\"</em> không dùng trong câu phủ định như <em>\"don't have\"</em>.",
+        "1475894": "Đúng vì <em>\"any\"</em> dùng trong câu phủ định và <em>\"some\"</em> dùng trong câu hỏi đề nghị/yêu cầu lịch sự.",
+        "1475895": "Sai vì <em>\"any\"</em> không dùng trong câu hỏi đề nghị/yêu cầu lịch sự khi người nói mong đợi câu trả lời khẳng định."
+      },
+      "images": []
+    },
+    {
+      "id": 767075,
+      "questionNumber": 16,
+      "questionName": "16",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Does it snow _____ winter in your country?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475896,
+          "label": "A",
+          "text": "of",
+          "isCorrect": false
+        },
+        {
+          "id": 1475897,
+          "label": "B",
+          "text": "at",
+          "isCorrect": false
+        },
+        {
+          "id": 1475898,
+          "label": "C",
+          "text": "in",
+          "isCorrect": true
+        },
+        {
+          "id": 1475899,
+          "label": "D",
+          "text": "on",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1475898,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Bạn cần xác định loại khoảng thời gian mà từ <em>winter</em> biểu thị để chọn giới từ phù hợp.<ul><li>Sử dụng <em>in</em> cho các khoảng thời gian dài như mùa, tháng, năm.</li><li>Sử dụng <em>on</em> cho các ngày cụ thể.</li><li>Sử dụng <em>at</em> cho thời điểm chính xác hoặc các cụm từ cố định như <em>at night</em>.</li></ul>Hãy cân nhắc <em>winter</em> thuộc loại nào trong số này.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Giới từ chỉ thời gian</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Giới từ chỉ thời gian được dùng để xác định thời điểm, khoảng thời gian hoặc tần suất của một sự kiện.</p>\n<p style=\"text-align: justify;\"><strong>Một số cách dùng giới từ chỉ thời gian:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">in + mùa/tháng/năm/thập kỷ/thế kỷ:</span></strong> trong (chỉ khoảng thời gian dài hơn)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">on + ngày/ngày cụ thể:</span></strong> vào (chỉ ngày cụ thể)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">at + giờ/khoảng thời gian cụ thể trong ngày (night, noon, midnight)/lễ hội:</span></strong> vào (chỉ thời điểm chính xác hoặc dịp lễ)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu hỏi, <em>winter</em> là một mùa, biểu thị một khoảng thời gian dài. Theo quy tắc ngữ pháp, giới từ <em>in</em> được sử dụng với các mùa, tháng hoặc năm để chỉ khoảng thời gian.</p>\n<p style=\"text-align: justify;\">Các phương án <em>of</em>, <em>at</em>, <em>on</em> không phù hợp với ngữ cảnh này vì chúng có cách dùng khác trong việc chỉ thời gian.</p>",
+      "answerFeedbacks": {
+        "1475896": "Sai vì giới từ <em>of</em> không được sử dụng để chỉ thời gian trong ngữ cảnh này.",
+        "1475897": "Sai vì giới từ <em>at</em> thường dùng với thời điểm cụ thể (<em>at 3 o'clock</em>) hoặc một số cụm cố định (<em>at night</em>), không dùng với mùa.",
+        "1475898": "Đúng vì giới từ <em>in</em> được dùng để chỉ các khoảng thời gian dài như mùa, tháng, năm.",
+        "1475899": "Sai vì giới từ <em>on</em> thường dùng với ngày cụ thể (<em>on Monday</em>) hoặc ngày lễ (<em>on Christmas Day</em>), không dùng với mùa."
+      },
+      "images": []
+    },
+    {
+      "id": 767897,
+      "questionNumber": 17,
+      "questionName": "17-21",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the best answer for each blank.</strong></p>\n<p style=\"text-align: justify;\">For the past few decades, the roles of teachers have been changed because of the changes in schools. In the past, teachers <strong><span class='fillblank-option'><label>17.1</label><select class='ms fillblank-option-17' index='0' name='fbo-767897-0' data-testid='fillblank-select-767897-0'><option value='' data-testid='fillblank-option-empty-767897-0'></option><option value=\"use to be\" data-testid='fillblank-option-767897-0-use to be'>use to be</option><option value=\"used to being\" data-testid='fillblank-option-767897-0-used to being'>used to being</option><option value=\"were used to be\" data-testid='fillblank-option-767897-0-were used to be'>were used to be</option><option value=\"used to be\" data-testid='fillblank-option-767897-0-used to be'>used to be</option></select></span> </strong>the major source of knowledge. Nowadays, teachers show their students how to find useful materials and learn by&nbsp;<strong><span class='fillblank-option'><label>17.2</label><select class='ms fillblank-option-17' index='1' name='fbo-767897-1' data-testid='fillblank-select-767897-1'><option value='' data-testid='fillblank-option-empty-767897-1'></option><option value=\"themselves\" data-testid='fillblank-option-767897-1-themselves'>themselves</option><option value=\"their\" data-testid='fillblank-option-767897-1-their'>their</option><option value=\"they\" data-testid='fillblank-option-767897-1-they'>they</option><option value=\"theirselves\" data-testid='fillblank-option-767897-1-theirselves'>theirselves</option></select></span></strong>.</p>\n<p style=\"text-align: justify;\">Another&nbsp;<strong><span class='fillblank-option'><label>17.3</label><select class='ms fillblank-option-17' index='2' name='fbo-767897-2' data-testid='fillblank-select-767897-2'><option value='' data-testid='fillblank-option-empty-767897-2'></option><option value=\"difference\" data-testid='fillblank-option-767897-2-difference'>difference</option><option value=\"differ\" data-testid='fillblank-option-767897-2-differ'>differ</option><option value=\"differently\" data-testid='fillblank-option-767897-2-differently'>differently</option><option value=\"different\" data-testid='fillblank-option-767897-2-different'>different</option></select></span> </strong>between the past and present teachers is the technical skills to use computers and other devices in teaching. Instead of teaching with only chalk and board, they need to be technology experts in order to&nbsp;<strong><span class='fillblank-option'><label>17.4</label><select class='ms fillblank-option-17' index='3' name='fbo-767897-3' data-testid='fillblank-select-767897-3'><option value='' data-testid='fillblank-option-empty-767897-3'></option><option value=\"deliver\" data-testid='fillblank-option-767897-3-deliver'>deliver</option><option value=\"invent\" data-testid='fillblank-option-767897-3-invent'>invent</option><option value=\"discover\" data-testid='fillblank-option-767897-3-discover'>discover</option><option value=\"receive\" data-testid='fillblank-option-767897-3-receive'>receive</option></select></span></strong> effective lessons.</p>\n<p style=\"text-align: justify;\">One of the biggest challenges for teachers is that their role in school management has also changed. Teachers should be able to make informed decisions and cope&nbsp;<strong><span class='fillblank-option'><label>17.5</label><select class='ms fillblank-option-17' index='4' name='fbo-767897-4' data-testid='fillblank-select-767897-4'><option value='' data-testid='fillblank-option-empty-767897-4'></option><option value=\"for\" data-testid='fillblank-option-767897-4-for'>for</option><option value=\"against\" data-testid='fillblank-option-767897-4-against'>against</option><option value=\"to\" data-testid='fillblank-option-767897-4-to'>to</option><option value=\"with\" data-testid='fillblank-option-767897-4-with'>with</option></select></span></strong> stressful workload. At the same time, they need to work in teams, and cooperate with colleagues and parents in educating children.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "used to be"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "themselves"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "difference"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "deliver"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "with"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. <strong>used to V(inf):</strong><span style=\"font-weight: 400;\"> đ&atilde; từng, thường l&agrave;m g&igrave; trong qu&aacute; khứ (th&oacute;i<strong> </strong></span>quen trong qu&aacute; khứ) =&gt;<strong> giờ kh&ocirc;ng c&ograve;n nữa.</strong></p>\n<p>Dịch: Trước đ&acirc;y, gi&aacute;o vi&ecirc;n thường l&agrave; nguồn cung cấp kiến thức ch&iacute;nh.</p>\n<p>2. Cần điền một đại từ phản th&acirc;n diễn đạt chủ ngữ đồng thời l&agrave; t&aacute;c nh&acirc;n g&acirc;y ra h&agrave;nh động đ&oacute;.</p>\n<p><strong>by + đại từ phản th&acirc;n</strong>: một m&igrave;nh; tự l&agrave;m (kh&ocirc;ng c&oacute; sự gi&uacute;p đỡ)</p>\n<p><strong>themselves</strong>: ch&iacute;nh họ - đại từ phản th&acirc;n&nbsp;</p>\n<p>they: họ - đại từ l&agrave;m chủ ngữ&nbsp;</p>\n<p>their: của họ - t&iacute;nh từ sở hữu</p>\n<p>Kh&ocirc;ng c&oacute; \"theirselves\".</p>\n<p>Dịch: Ng&agrave;y nay, gi&aacute;o vi&ecirc;n hướng dẫn học sinh c&aacute;ch t&igrave;m t&agrave;i liệu hữu &iacute;ch v&agrave; tự học.</p>\n<p>3. Từ loại cần điền: danh từ, trong cấu tr&uacute;c \"<strong>another + N (đếm được số &iacute;t)</strong>\" (một ... kh&aacute;c).</p>\n<p><strong>difference</strong> (n.): sự kh&aacute;c nhau, sự kh&aacute;c biệt</p>\n<p>differ (v.): kh&aacute;c&nbsp;</p>\n<p>different (adj.): kh&aacute;c nhau</p>\n<p>differently (adv.): (một c&aacute;ch) kh&aacute;c biệt&nbsp;</p>\n<p>Dịch: Một điểm kh&aacute;c biệt kh&aacute;c giữa gi&aacute;o vi&ecirc;n xưa v&agrave; nay l&agrave; kỹ năng kỹ thuật sử dụng m&aacute;y t&iacute;nh v&agrave; c&aacute;c thiết bị kh&aacute;c trong giảng dạy.</p>\n<p>4. <strong>deliver</strong> (v.): truyền tải&nbsp;</p>\n<p>discover (v.): kh&aacute;m ph&aacute;&nbsp;</p>\n<p>invent (v.): ph&aacute;t minh</p>\n<p>receive (v.): nhận được</p>\n<p>Dịch: Thay v&igrave; chỉ dạy bằng phấn v&agrave; bảng, họ cần phải l&agrave; chuy&ecirc;n gia c&ocirc;ng nghệ để mang đến những b&agrave;i học hiệu quả.</p>\n<p>5. <strong>cope with sth/sb</strong>: đối ph&oacute; với ai/c&aacute;i g&igrave;</p>\n<p>Dịch: Gi&aacute;o vi&ecirc;n phải c&oacute; khả năng đưa ra quyết định s&aacute;ng suốt v&agrave; đối ph&oacute; với khối lượng c&ocirc;ng việc căng thẳng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767903,
+      "questionNumber": 18,
+      "questionName": "22",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span data-sheets-root=\"1\" data-sheets-value='{\"1\":2,\"2\":\"Choose the word(s) OPPOSITE in meaning to the underlined word(s).\"}' data-sheets-userformat='{\"2\":897,\"3\":{\"1\":0},\"10\":0,\"11\":4,\"12\":0}'>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</span></em></p>\n<p><strong>I really like Ha Noi because the local people are very kind and <span style=\"text-decoration: underline;\">hospitable</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1477557,
+          "label": "A",
+          "text": "helpful",
+          "isCorrect": false
+        },
+        {
+          "id": 1477558,
+          "label": "B",
+          "text": "welcoming",
+          "isCorrect": false
+        },
+        {
+          "id": 1477559,
+          "label": "C",
+          "text": "useless",
+          "isCorrect": false
+        },
+        {
+          "id": 1477560,
+          "label": "D",
+          "text": "unfriendly",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1477560,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Trong câu, từ <em>hospitable</em> được mô tả cùng với từ <em>kind</em>. Hai từ này có mối quan hệ như thế nào? Hãy nghĩ xem một người <em>kind</em> và <em>hospitable</em> sẽ cư xử ra sao với khách, và từ nào sẽ mô tả hành vi ngược lại.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 380px;\"><iframe width=\"100%\" height=\"370\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX18qg%2BUOk4IM6S1t93hA%2BcoujJ7Fjmn6L8X7mqb2a6AoH9K%2BiqVQL4bXs0QSQt07AWiGZZDuhPa3VBdQtmRIpmRWIrj6noYt0i0bD2I7s00aFRt1YbKsyhvHAnU4UHn7%2F%2Fi5CpyF8O3vCuEEZ53dmktyU6fXSu4F5AyaBG192poUa5LMtlbbFawfx9xXsP%2BwnQ77vAs5yJChdfrHv46VoiCi%2Bgl6dALQalg%2Bgj%2FeOQP6cny62wejPSWlg4LgWfCPrKNXaazs6e4G%2BwQYug9xUzcI2uq8GoTLskTyXQdppgWwEpf1Uwzk28BidgMCgzXFdYULRM4WC8PoTQ3XmVlUcshCa3DYY56d%2F9rZcukhhdrKbTHZNJF7CvHREXQHS4y752Jb0mjFOd2GE03QXkN82SGsY%2F63qoTMAkujK5qcY1HGGhsDnqT0mymjTyPSfrKKnIpXpV8uvb%2F74%2BmEaag0hXKCz7J2KVA%2F41sWyfSpfYA63dm7BOy%2B0MjF\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span><span style=\"text-align: justify;\"> </span><span style=\"text-align: justify;\">Từ <strong>hospitable</strong> trong ngữ cảnh câu này mô tả những người thân thiện và chào đón khách hoặc người lạ. Đáp án <strong>unfriendly</strong> là lựa chọn phù hợp nhất vì nó diễn tả tính cách đối lập hoàn toàn với sự hiếu khách. </span></p>\n<p style=\"text-align: justify;\"><span style=\"text-align: justify;\"><strong>helpful</strong> mô tả người sẵn lòng giúp đỡ, không phải là đối nghĩa của hiếu khách. <strong>welcoming</strong> là từ đồng nghĩa với hospitable, không phải trái nghĩa. <strong>useless</strong> mô tả ai đó hoặc cái gì đó không có giá trị hay mục đích, không liên quan đến tính cách hiếu khách.</span></p>",
+      "answerFeedbacks": {
+        "1477557": "Từ <em>helpful</em> có nghĩa là hữu ích hoặc sẵn lòng giúp đỡ, không phải là từ trái nghĩa của <em>hospitable</em>.",
+        "1477558": "Từ <em>welcoming</em> có nghĩa là chào đón hoặc thân thiện, là từ đồng nghĩa với <em>hospitable</em> chứ không phải trái nghĩa.",
+        "1477559": "Từ <em>useless</em> có nghĩa là vô dụng hoặc không có ích, không liên quan đến ý nghĩa của <em>hospitable</em>.",
+        "1477560": "Từ <em>unfriendly</em> có nghĩa là không thân thiện, đối lập với ý nghĩa của <em>hospitable</em> (hiếu khách, thân thiện)."
+      },
+      "images": []
+    },
+    {
+      "id": 767904,
+      "questionNumber": 19,
+      "questionName": "23",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span data-sheets-root=\"1\" data-sheets-value='{\"1\":2,\"2\":\"Choose the word(s) OPPOSITE in meaning to the underlined word(s).\"}' data-sheets-userformat='{\"2\":897,\"3\":{\"1\":0},\"10\":0,\"11\":4,\"12\":0}'>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</span></em></p>\n<p><strong>We should reduce the amount of electricity we use daily to <span style=\"text-decoration: underline;\">save</span> natural resources.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1477561,
+          "label": "A",
+          "text": "keep",
+          "isCorrect": false
+        },
+        {
+          "id": 1477562,
+          "label": "B",
+          "text": "earn",
+          "isCorrect": false
+        },
+        {
+          "id": 1477563,
+          "label": "C",
+          "text": "waste",
+          "isCorrect": true
+        },
+        {
+          "id": 1477564,
+          "label": "D",
+          "text": "use",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1477563,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX18EZ5XLIJKiMAyYfka0vm7FBP39lrV0OZID1kmTwKgVphrZGK7GR7irzpvPEE0%2FslqcMc6Fg6xZLbGHCpPQMOZdvltLPvUGneDVs22O24EnzBEJ%2FqmFeEQtRB0pmsoeySZnpx00SV%2F1FlCXE0h9rF1%2FayJv2jsycOHiOE8mjrV%2FlK6UJJm1mxJLqoTauyA5kxJVp%2FspputDF1y8ZhSF8nj25SJ82c5yv6A3pVPHw%2FH29ATarHL%2B4XFwjZoRx%2Bvn0ZRNhGVHhpOww5c7A8dDLEMd1CTcMJBjttO1KZ1MwpIcYODbIlmdkaBYxwgqhH5dcyky99FQyjBKf3t5CFM5AHXgjGJN2uMCOYUsDhmhIaqPLEBOnNCRzelGMqcriCUZo7Qrw6GCfIGQAqtkKCoSs%2BB9nhWLSmLKKIId82PPAx3jmGd2nTqceFKLCKWZ4zXvXrXrrqd35t%2BV3l4a9tYNB35N1H%2F%2B2aPUn%2F4%3D\" width=\"100%\" height=\"360\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Ch&uacute;ng ta n&ecirc;n giảm lượng điện sử dụng h&agrave;ng ng&agrave;y để tiết kiệm t&agrave;i nguy&ecirc;n thi&ecirc;n nhi&ecirc;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767905,
+      "questionNumber": 20,
+      "questionName": "24",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span data-sheets-root=\"1\" data-sheets-value='{\"1\":2,\"2\":\"Choose the word(s) CLOSEST in meaning to the underlined word(s).\"}' data-sheets-userformat='{\"2\":897,\"3\":{\"1\":0},\"10\":0,\"11\":4,\"12\":0}'>Choose the word(s) CLOSEST in meaning to the underlined word(s).</span></em></p>\n<p><strong>If you relax, you will <span style=\"text-decoration: underline;\">recover from</span> the illness more quickly.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1477565,
+          "label": "A",
+          "text": "look up",
+          "isCorrect": false
+        },
+        {
+          "id": 1477566,
+          "label": "B",
+          "text": "take over",
+          "isCorrect": false
+        },
+        {
+          "id": 1477567,
+          "label": "C",
+          "text": "get over",
+          "isCorrect": true
+        },
+        {
+          "id": 1477568,
+          "label": "D",
+          "text": "give up",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1477567,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2BRqDbaPnN3X7MeeD2mteNH81nEw3aaqsjztfATnpKOgv%2FvFkIBXxCB1uf8LvUurEMTJARfLqMTBZhv5JmIrybgeWrh%2BWIxYJpwFRQKTcv%2Fdc1uETda6JCw5LgopuGcPFSyBtjijx9oCCcPpxMMfoWGB7Y6KkiEfkDWh4mAasJ%2FpD9gEqcIFTpRiiB7JqbYRh0zZ1qyvKQZsPH8QtGAtVaVZtjchuawwCmEoShG3ZvoJMNZTck7ALt%2B%2BW8XXkjg2SgWER8v7vQGPkfhjepK6sXB6ndC6va58jvUvHxdc%2FNr2P2UAC%2FkU4u2cFIbT4dKDcY6Tr10d1pxJKPWM%2BdUoIZ6pSaMPyCqnkom%2Fa4ihpN6WuXgYVb7v7ZhaIr5pNqkozdbl1e5AWd14DAmguXK0jIN6J93zcgfUxqDf%2Bikjnov0EgR0L41KTjx0ROBvWg9nGDovVebX1QnJVAWtWa%2BSovNNSnayn7jcC7LRls%2FAVRLnOvEZHob4IJSLH83FGc3XHaQpe3DCQIF5d10aWxfEVDohwpO4YwlJa75wMMni9GQJuL181y7ofyfFuvu3MSYcO%2BiThgDluamk9fAJC%2FLEujBLPZHYc7DkKGeqGZ3%2FDF0OASIhuWpAz7IRD8pLh4wYfKoo3Pg5F8MZm2NxHrg4GflbrVsBBmmlis%3D\" width=\"100%\" height=\"460\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Nếu bạn thư gi&atilde;n, bạn sẽ khỏi bệnh nhanh hơn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767906,
+      "questionNumber": 21,
+      "questionName": "25",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span data-sheets-root=\"1\" data-sheets-value='{\"1\":2,\"2\":\"Choose the word(s) CLOSEST in meaning to the underlined word(s).\"}' data-sheets-userformat='{\"2\":897,\"3\":{\"1\":0},\"10\":0,\"11\":4,\"12\":0}'>Choose the word(s) CLOSEST in meaning to the underlined word(s).</span></em></p>\n<p><strong>I'm not <span style=\"text-decoration: underline;\">sure</span> whether I will pass the test this time. I have failed once before.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1477569,
+          "label": "A",
+          "text": "happy",
+          "isCorrect": false
+        },
+        {
+          "id": 1477570,
+          "label": "B",
+          "text": "hopeful",
+          "isCorrect": false
+        },
+        {
+          "id": 1477571,
+          "label": "C",
+          "text": "clear",
+          "isCorrect": false
+        },
+        {
+          "id": 1477572,
+          "label": "D",
+          "text": "certain",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1477572,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX19JdlbJ5xJTbpfhQ5CAvx2ZxJoD31dN79NUmk97F73ZBOjdoH%2BYAz4XS%2Bn0hiUABtda0USe6qeZnuQ89oR61%2FPhciBowmoCAozaPLOc9Aqh6MrCT3QBpWJ24C3o5a9U%2Fatk5vBcUpPOs5YlAFNBe1BJB4DN3xUmk37Q7ayfB%2Bn5p5J9JafeemkyZRY0VyADUsrTkACeyMeL8auNzvbrAGjeJJKD1R%2Bj%2Ff9faZduyCX%2FNtRH1463nR38GkDwtb2%2BHI6P7URBS8DIjV9SjqQpq4YECuZ42YqY9qpVjrY8Nwvo%2BQ9YxVMoGpBY5bphhXWU629Ony0r17WiQwVdt1cSYkfzh4ZvIWh1OaX6aNWpiAwCfTWEC86Gr%2Bi0tm0FUFIyupVmodZEB2Sz2pvkGiriq2p5KT%2BgNmS8SCoomGVMBnM9GKiaO6K1s07QlHjrrwoF4NEQrbFQcD1gg9wh01meGTzpf1G%2FHQlNUR1JMaLz9DiY7DSSQyV1SRXgk%2BlFlJz6QtklC9sc0EuTbEDUma1wkUPZ9Ez0320TLVlnWSrsAQLPcDmjTRwd6818sPW%2FgSFJIuPwSdJ%2Fh3qQrSd2gFHQ%2B2T%2BjTvCX9or%2FqU%3D\" width=\"100%\" height=\"360\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: T&ocirc;i kh&ocirc;ng chắc liệu t&ocirc;i c&oacute; vượt qua b&agrave;i kiểm tra lần n&agrave;y hay kh&ocirc;ng. T&ocirc;i đ&atilde; thất bại một lần rồi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767907,
+      "questionNumber": 22,
+      "questionName": "26",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span data-sheets-root=\"1\" data-sheets-value='{\"1\":2,\"2\":\"Choose the sentence that is CLOSEST in meaning to the sentence given.\"}' data-sheets-userformat='{\"2\":897,\"3\":{\"1\":0},\"10\":0,\"11\":4,\"12\":0}'>Choose the sentence that is CLOSEST in meaning to the sentence given.</span></em></p>\n<p><strong>\"How many children do you have?\" he asked the woman.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1477573,
+          "label": "A",
+          "text": "<p>He asked the woman how many children she had.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1477574,
+          "label": "B",
+          "text": "<p>He asked the woman how many children does she have.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477575,
+          "label": "C",
+          "text": "<p>He asked the woman she had how many children.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477576,
+          "label": "D",
+          "text": "<p>He asked the woman how many children did she have.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1477573,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul><li>Khi chuyển c&acircu hỏi trực tiếp sang câu hỏi gián tiếp, hãy nhớ hai quy tắc chính:</li><li>Thứ nhất, lùi thì của động từ trong câu hỏi trực tiếp. Nếu câu hỏi gốc ở thì hiện tại đơn như \"How many children do you have?\", động từ \"have\" phải lùi về thì quá khứ đơn.</li><li>Thứ hai, thay đổi trật tự từ của câu hỏi thành một câu khẳng định. Điều này có nghĩa là sau từ để hỏi (như \"how many children\"), cấu trúc phải là chủ ngữ + động từ (S + V), KHÔNG phải trợ động từ + chủ ngữ + động từ (Aux.V + S + V).</li><li>Kiểm tra xem phương án nào áp dụng đúng cả hai quy tắc này cho câu \"How many children do you have?\" khi được tường thuật lại bởi \"He asked the woman\".</li></ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\">Cấu trúc câu gián tiếp của dạng câu hỏi với Wh-word:<b> S + asked sb/wondered/wanted to know + wh-word + S + V(lùi thì) </b>(không đảo to be/ trợ động từ/ động từ khuyết thiếu lên trước chủ ngữ)</p>\n<ul>\n<li style=\"text-align: justify;\">Lùi thì: hiện tại đơn =&gt; quá khứ đơn (\"<strong>have</strong>\" =&gt; \"<strong>had</strong>\")</li>\n<li style=\"text-align: justify;\">Đổi đại từ: \"<strong>you</strong>\" =&gt; \"<strong>she</strong>\"</li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">→</span> Phương án 1 \"He asked the woman <span class=\"eq-highlight\" style=\"color: #5fbd18;\">how many children she had</span>.\" là đáp án đúng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương án 2 \"He asked the woman <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">how many children does she have</span></span>\" sai vì không lùi thì và giữ nguyên cấu trúc đảo ngữ của câu hỏi trực tiếp.</li>\n<li style=\"text-align: justify;\">Phương án 3 \"He asked the woman <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">she had how many children</span></span>\" sai vì sai trật tự từ, từ để hỏi \"how many children\" phải đứng ngay sau động từ tường thuật hoặc sau tân ngữ của động từ tường thuật, và trước chủ ngữ và động từ của mệnh đề gián tiếp.</li>\n<li style=\"text-align: justify;\">Phương án 4 \"He asked the woman <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">how many children did she have</span></span>\" sai vì vẫn giữ cấu trúc đảo ngữ của câu hỏi trực tiếp với trợ động từ \"did\" và không lùi thì đúng cách.</li>\n</ul>",
+      "answerFeedbacks": {
+        "1477573": "<p>Đúng vì đã lùi thì động từ từ hiện tại đơn sang quá khứ đơn (\"have\" thành \"had\") và thay đổi trật tự từ thành câu khẳng định (\"she had\" thay vì \"did she have\").</p>",
+        "1477574": "<p>Sai vì không lùi thì động từ (\"does she have\" vẫn ở hiện tại đơn) và giữ nguyên cấu trúc đảo ngữ của câu hỏi trực tiếp.</p>",
+        "1477575": "<p>Sai vì sai trật tự từ, từ để hỏi \"how many children\" phải đứng ngay sau động từ tường thuật hoặc sau tân ngữ của động từ tường thuật, và trước chủ ngữ và động từ của mệnh đề gián tiếp.</p>",
+        "1477576": "<p>Sai vì vẫn giữ cấu trúc đảo ngữ của câu hỏi trực tiếp với trợ động từ \"did\" và không lùi thì đúng cách.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 767908,
+      "questionNumber": 23,
+      "questionName": "27",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>I gave my daughter a new phone on her birthday.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1477577,
+          "label": "A",
+          "text": "My daughter had been given a new phone on her birthday.",
+          "isCorrect": false
+        },
+        {
+          "id": 1477578,
+          "label": "B",
+          "text": "My daughter gave me a new phone on her birthday.",
+          "isCorrect": false
+        },
+        {
+          "id": 1477579,
+          "label": "C",
+          "text": "My daughter was given a new phone on her birthday.",
+          "isCorrect": true
+        },
+        {
+          "id": 1477580,
+          "label": "D",
+          "text": "My daughter given a new phone on her birthday.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1477579,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>My daughter</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>give</strong>\". =&gt; Động từ phải ở dạng bị động.</p>\n<p>Cấu tr&uacute;c c&acirc;u bị động ở th&igrave; qu&aacute; khứ đơn: <strong>S + was/were + V(pp)</strong></p>\n<p>Phương &aacute;n 1 sai về th&igrave;.&nbsp;</p>\n<p>Phương &aacute;n 2 sai về nghĩa.</p>\n<p>Phương &aacute;n 3 sai ngữ ph&aacute;p.</p>\n<p>Dịch: T&ocirc;i đ&atilde; tặng con g&aacute;i m&igrave;nh một chiếc điện thoại mới v&agrave;o ng&agrave;y sinh nhật của n&oacute;.</p>\n<p>~ Con g&aacute;i t&ocirc;i đ&atilde; được tặng một chiếc điện thoại mới v&agrave;o ng&agrave;y sinh nhật.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767909,
+      "questionNumber": 24,
+      "questionName": "28",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>If my dad doesn't have to work tomorrow, he will take me to the zoo.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1477581,
+          "label": "A",
+          "text": "My dad won't have to work tomorrow unless he takes me to the zoo.",
+          "isCorrect": false
+        },
+        {
+          "id": 1477582,
+          "label": "B",
+          "text": "Unless my dad doesn't have to work tomorrow, he will take me to the zoo.",
+          "isCorrect": false
+        },
+        {
+          "id": 1477583,
+          "label": "C",
+          "text": "Unless my dad had to work tomorrow, he would take me to the zoo.",
+          "isCorrect": false
+        },
+        {
+          "id": 1477584,
+          "label": "D",
+          "text": "My dad will take me to the zoo tomorrow unless he has to work.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1477584,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>unless</strong> ~ <strong>if ... not</strong>: trừ khi, nếu kh&ocirc;ng</p>\n<p>C&aacute;c phương &aacute;n kh&aacute;c sai v&igrave;:</p>\n<ul>\n<li><em>My dad won't have to work tomorrow unless he takes me to the zoo. (sai nghĩa)</em></li>\n<li><em>Unless my dad <span style=\"text-decoration: line-through;\"><strong>doesn't</strong></span> have to work tomorrow, he will take me to the zoo.&nbsp;</em></li>\n<li><em>Unless my dad <span style=\"text-decoration: line-through;\"><strong>had to</strong></span> work tomorrow, he <span style=\"text-decoration: line-through;\"><strong>would</strong></span> take me to the zoo.</em></li>\n</ul>\n<p>Dịch: Nếu ng&agrave;y mai bố t&ocirc;i kh&ocirc;ng phải l&agrave;m việc th&igrave; &ocirc;ng ấy sẽ đưa t&ocirc;i đi sở th&uacute;.</p>\n<p>~ Ng&agrave;y mai bố t&ocirc;i sẽ đưa t&ocirc;i đi sở th&uacute; nếu &ocirc;ng ấy kh&ocirc;ng phải l&agrave;m việc.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767910,
+      "questionNumber": 25,
+      "questionName": "29",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>The blue dress is cheaper than the white one.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1477585,
+          "label": "A",
+          "text": "The blue dress and the white dress have the same price.",
+          "isCorrect": false
+        },
+        {
+          "id": 1477586,
+          "label": "B",
+          "text": "The blue dress is as cheap as the white one.",
+          "isCorrect": false
+        },
+        {
+          "id": 1477587,
+          "label": "C",
+          "text": "The white dress is not as cheap as the blue one.",
+          "isCorrect": true
+        },
+        {
+          "id": 1477588,
+          "label": "D",
+          "text": "The white dress is more cheap than the blue one.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1477587,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh hơn với t&iacute;nh từ ngắn: <strong>S + to be + adj. + er + than + Noun/Pronoun.</strong></span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng ngang bằng:<strong> S + V + not + so/as + adj./adv. + as + Noun/Pronoun/S + V.</strong></span></p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em>The blue dress and the white dress have the same price. (sai nghĩa)</em></li>\n<li><em>The blue dress is as cheap as the white one. (sai nghĩa)</em></li>\n<li><em>The white dress is <span style=\"text-decoration: line-through;\"><strong>more cheap</strong></span> than the blue one.</em></li>\n</ul>\n<p>Dịch: Chiếc v&aacute;y m&agrave;u xanh rẻ hơn chiếc v&aacute;y m&agrave;u trắng.</p>\n<p>~ Chiếc v&aacute;y m&agrave;u trắng kh&ocirc;ng rẻ bằng chiếc v&aacute;y m&agrave;u xanh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767911,
+      "questionNumber": 26,
+      "questionName": "30",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Lan: \"Peter and I are going to spend our honeymoon on Jeju island!\"</strong></p>\n<p><strong>Josh: \"_____\"</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1477589,
+          "label": "A",
+          "text": "Oh, thanks. Good luck!",
+          "isCorrect": false
+        },
+        {
+          "id": 1477590,
+          "label": "B",
+          "text": "It's fine for me.",
+          "isCorrect": false
+        },
+        {
+          "id": 1477591,
+          "label": "C",
+          "text": "<p>Oh, really? Have a nice holiday!</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1477592,
+          "label": "D",
+          "text": "Have you decided yet?",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1477591,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Hãy xác định mục đích giao tiếp của câu nói của Lan: đó là thông báo một tin vui về kế hoạch đi nghỉ tuần trăng mật.</p>\n<p style=\"text-align: justify;\">Sau đó, hãy tìm một lời đáp thể hiện sự ngạc nhiên, chúc mừng hoặc chia sẻ niềm vui.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lan thông báo rằng cô ấy và Peter sẽ đi nghỉ tuần trăng mật trên đảo Jeju, đây là một tin vui. Chức năng giao tiếp của lời đáp cần thể hiện sự ngạc nhiên, chúc mừng hoặc chia sẻ niềm vui.</p>\n<p style=\"text-align: justify;\">Phương án 3, <em>\"Oh, really? Have a nice holiday!\"</em>, thể hiện sự ngạc nhiên (<em>\"Oh, really?\"</em>) và lời chúc mừng/chúc tốt đẹp (<em>\"Have a nice holiday!\"</em>) rất phù hợp với ngữ cảnh một tin vui như vậy.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2 và 4 không phù hợp với ngữ cảnh thông báo tin vui này.</p>",
+      "answerFeedbacks": {
+        "1477589": "Cụm từ <em>\"Oh, thanks\"</em> không phù hợp vì đây là lời thông báo, không phải lời cảm ơn hay đề nghị giúp đỡ. Lời chúc <em>\"Good luck!\"</em> cũng không hợp ngữ cảnh.",
+        "1477590": "Câu <em>\"It's fine for me\"</em> dùng để đáp lại một lời đề nghị hoặc hỏi ý kiến, không phù hợp để đáp lại một tin vui.",
+        "1477591": "<p>Đây là lời đáp phù hợp nhất vì thể hiện sự ngạc nhiên và chúc mừng tin vui của Lan, đồng thời chúc một kỳ nghỉ tốt đẹp.</p>",
+        "1477592": "Câu hỏi <em>\"Have you decided yet?\"</em> không phù hợp vì Lan đã thông báo về kế hoạch rõ ràng, không còn ở giai đoạn quyết định."
+      },
+      "images": []
+    },
+    {
+      "id": 767912,
+      "questionNumber": 27,
+      "questionName": "31",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Trang: \"This football match is boring. I don't want to watch it anymore.\"</strong></p>\n<p><strong>Minh: \"_____\"</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1477593,
+          "label": "A",
+          "text": "<p>So do I.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477594,
+          "label": "B",
+          "text": "<p>Neither do I.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1477595,
+          "label": "C",
+          "text": "<p>I do too.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477596,
+          "label": "D",
+          "text": "<p>I do either.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1477594,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn lời đáp phù hợp, bạn cần xác định loại câu của Trang: <em>\"I don't want to watch it anymore.\"</em> là một phát biểu khẳng định hay phủ định.</p>\n<p>Sau đó, hãy xem xét các cấu trúc dùng để đồng tình. Cấu trúc nào dùng để đồng tình với câu phủ định?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của Trang là một phát biểu phủ định: <em>\"I don't want to watch it anymore.\"</em> (Tôi không muốn xem nó nữa.). Để đồng tình với một phát biểu phủ định, chúng ta sử dụng cấu trúc với \"Neither\" hoặc \"Nor\".</p>\n<p style=\"text-align: justify;\">Do đó, phương án 2 <em>\"Neither do I.\"</em> là lựa chọn phù hợp nhất.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 3 và 4 không phù hợp với ngữ cảnh vì chúng không được dùng để đồng tình với một phát biểu phủ định hoặc sai về mặt ngữ pháp.</p>",
+      "answerFeedbacks": {
+        "1477593": "<p>Cấu trúc <em>\"So do I\"</em> dùng để đồng tình với một phát biểu khẳng định.</p>",
+        "1477594": "<p>Cấu trúc <em>\"Neither do I\"</em> dùng để đồng tình với một phát biểu phủ định, phù hợp với câu nói của Trang.</p>",
+        "1477595": "<p>Cấu trúc<em> \"I do too\" </em>dùng để đồng tình với một phát biểu khẳng định.</p>",
+        "1477596": "<p>Cấu trúc<em> \"I do either\"</em> không đúng ngữ pháp để thể hiện sự đồng tình trong trường hợp này.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 767913,
+      "questionNumber": 28,
+      "questionName": "32",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1477597,
+          "label": "A",
+          "text": "<p>preserv<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477598,
+          "label": "B",
+          "text": "<p>borrow<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477599,
+          "label": "C",
+          "text": "<p>impress<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1477600,
+          "label": "D",
+          "text": "<p>amaz<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1477599,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Phần gạch ch&acirc;n trong từ \"<strong>impress<span style=\"text-decoration: underline;\">ed</span></strong>\" được ph&aacute;t &acirc;m l&agrave;<strong> /t/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/d/</strong>.&nbsp;&nbsp;</span></p>\n<p><strong>impressed (v.) /ɪmˈprest/</strong></p>\n<p><span style=\"font-weight: 400;\">preserved (v.) /prɪˈzɜːvd/</span></p>\n<p><span style=\"font-weight: 400;\">borrowed (v.) /ˈbɒrəʊd/</span></p>\n<p><span style=\"font-weight: 400;\">amazed (v.) /əˈmeɪzd/</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767914,
+      "questionNumber": 29,
+      "questionName": "33",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1477601,
+          "label": "A",
+          "text": "<p>thr<span style=\"text-decoration: underline;\">ew</span></p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1477602,
+          "label": "B",
+          "text": "<p>kn<span style=\"text-decoration: underline;\">ew</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477603,
+          "label": "C",
+          "text": "<p>ren<span style=\"text-decoration: underline;\">ew</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477604,
+          "label": "D",
+          "text": "<p>f<span style=\"text-decoration: underline;\">ew</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1477601,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Phần gạch ch&acirc;n trong từ \"<strong>thr<span style=\"text-decoration: underline;\">ew</span></strong>\" được ph&aacute;t &acirc;m l&agrave; <strong>/u:/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/juː/</strong>.&nbsp;&nbsp;</span></p>\n<p><strong>threw (v.) /&theta;ruː/</strong></p>\n<p><span style=\"font-weight: 400;\">knew (v.) /njuː/</span></p>\n<p><span style=\"font-weight: 400;\">renew (v.) /rɪˈnjuː/</span></p>\n<p><span style=\"font-weight: 400;\">few (det.) /fjuː/</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767915,
+      "questionNumber": 30,
+      "questionName": "34-38 (177w)",
+      "questionType": "Description",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q1\">Bamboo is an amazing plant. Do you know it is actually grass? In fact, giant bamboo is the largest member of the grass family.</span> <span class=\"answerhighlight q4\">Some types can grow an incredible 90 centimetres in just one day. Some bamboo plants can grow to over 30 metres tall, which is as tall as a gum tree.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q4\">You probably know that bamboo is the favourite food of pandas, but chimpanzees, gorillas and elephants eat it too.</span> <span class=\"answerhighlight q2\">Bamboo is also extremely <strong>useful</strong> to people.</span> <span class=\"answerhighlight q3\">It is a very valuable construction material because it is so strong.</span> <span class=\"answerhighlight q4\">In fact, whole houses can be built from bamboo.</span> In some parts of the world, bamboo is used as scaffolding (the frame used to support building work).</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">The range of things that can be made from bamboo is huge. Furniture, cooking utensils, and musical instruments can all be made from bamboo.</span> It can even be used to make bicycle frames and boats. Bamboo fibres can be used to produce a soft, cotton-like material for T-shirts and underwear. <span class=\"answerhighlight q4\">They also use bamboo fibres to make paper.</span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767916,
+      "questionNumber": 31,
+      "questionName": "34",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Bamboo is a type of _____.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q1\">Bamboo is an amazing plant. Do you know it is actually grass? In fact, giant bamboo is the largest member of the grass family.</span> <span class=\"answerhighlight q4\">Some types can grow an incredible 90 centimetres in just one day. Some bamboo plants can grow to over 30 metres tall, which is as tall as a gum tree.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q4\">You probably know that bamboo is the favourite food of pandas, but chimpanzees, gorillas and elephants eat it too.</span> <span class=\"answerhighlight q2\">Bamboo is also extremely <strong>useful</strong> to people.</span> <span class=\"answerhighlight q3\">It is a very valuable construction material because it is so strong.</span> <span class=\"answerhighlight q4\">In fact, whole houses can be built from bamboo.</span> In some parts of the world, bamboo is used as scaffolding (the frame used to support building work).</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">The range of things that can be made from bamboo is huge. Furniture, cooking utensils, and musical instruments can all be made from bamboo.</span> It can even be used to make bicycle frames and boats. Bamboo fibres can be used to produce a soft, cotton-like material for T-shirts and underwear. <span class=\"answerhighlight q4\">They also use bamboo fibres to make paper.</span></p>",
+      "parentQuestionId": 767915,
+      "choices": [
+        {
+          "id": 1477605,
+          "label": "A",
+          "text": "<p>herb</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477606,
+          "label": "B",
+          "text": "grass",
+          "isCorrect": true
+        },
+        {
+          "id": 1477607,
+          "label": "C",
+          "text": "<p>wood</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477608,
+          "label": "D",
+          "text": "<p>bush</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1477606,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy đọc kỹ <strong>câu thứ hai trong đoạn văn đầu tiên</strong> để tìm câu trả lời cho câu hỏi này.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span>Câu hỏi yêu cầu xác định tre thuộc loại thực vật nào. Bài đọc cung cấp thông tin rõ ràng ở ngay đoạn đầu tiên: [[<strong>Do you know it is actually grass?</strong>]] (<em>Bạn có biết nó thực chất là cỏ không?</em>). Dựa vào dẫn chứng này, ta có thể kết luận tre là một loại cỏ.</p>",
+      "answerFeedbacks": {
+        "1477605": "<p>Thông tin này không được đề cập trong bài đọc.</p>",
+        "1477606": "Bài đọc khẳng định rõ \"<em>Do you know it is actually grass?</em>\" (Bạn có biết nó thực chất là cỏ không?).",
+        "1477607": "<p>Thông tin này trái ngược với bài đọc vì bài đọc phân loại tre là một loại cỏ.</p>",
+        "1477608": "<p>Thông tin này không được đề cập trong bài đọc.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 767917,
+      "questionNumber": 32,
+      "questionName": "35",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word \"useful\" in paragraph 2 is CLOSEST in meaning to _____.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q1\">Bamboo is an amazing plant. Do you know it is actually grass? In fact, giant bamboo is the largest member of the grass family.</span> <span class=\"answerhighlight q4\">Some types can grow an incredible 90 centimetres in just one day. Some bamboo plants can grow to over 30 metres tall, which is as tall as a gum tree.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q4\">You probably know that bamboo is the favourite food of pandas, but chimpanzees, gorillas and elephants eat it too.</span> <span class=\"answerhighlight q2\">Bamboo is also extremely <strong>useful</strong> to people.</span> <span class=\"answerhighlight q3\">It is a very valuable construction material because it is so strong.</span> <span class=\"answerhighlight q4\">In fact, whole houses can be built from bamboo.</span> In some parts of the world, bamboo is used as scaffolding (the frame used to support building work).</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">The range of things that can be made from bamboo is huge. Furniture, cooking utensils, and musical instruments can all be made from bamboo.</span> It can even be used to make bicycle frames and boats. Bamboo fibres can be used to produce a soft, cotton-like material for T-shirts and underwear. <span class=\"answerhighlight q4\">They also use bamboo fibres to make paper.</span></p>",
+      "parentQuestionId": 767915,
+      "choices": [
+        {
+          "id": 1477609,
+          "label": "A",
+          "text": "peaceful",
+          "isCorrect": false
+        },
+        {
+          "id": 1477610,
+          "label": "B",
+          "text": "harmful",
+          "isCorrect": false
+        },
+        {
+          "id": 1477611,
+          "label": "C",
+          "text": "beautiful",
+          "isCorrect": false
+        },
+        {
+          "id": 1477612,
+          "label": "D",
+          "text": "helpful",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1477612,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy đọc kỹ câu chứa từ <strong>\"useful\"</strong> và các câu theo sau trong đoạn 2. Các câu này đưa ra ví dụ về việc tre được sử dụng để làm gì, từ đó giúp bạn hiểu được ý nghĩa của từ này.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span>Từ \"<strong>useful</strong>\" có nghĩa là hữu ích, có ích. Để hiểu rõ nghĩa của từ trong ngữ cảnh, ta xét câu chứa nó và các câu xung quanh: [[<strong>Bamboo is also extremely useful to people. It is a very valuable construction material because it is so strong.</strong>]] (<em>Tre cũng cực kỳ hữu ích đối với con người. Nó là một vật liệu xây dựng rất có giá trị vì nó rất bền chắc.</em>). Các câu tiếp theo liệt kê hàng loạt công dụng của tre như làm nhà, giàn giáo, đồ nội thất, v.v. Tất cả những điều này cho thấy tre \"giúp ích\" cho con người trong nhiều việc. Do đó, \"<strong>helpful</strong>\" (<em>có ích, giúp ích</em>) là từ đồng nghĩa và phù hợp nhất.</p>",
+      "answerFeedbacks": {
+        "1477609": "Phương án này sai vì ngữ cảnh của bài đọc đang nói về công dụng của cây tre, không liên quan đến sự yên bình.",
+        "1477610": "Phương án này sai vì \"harmful\" (có hại) là từ trái nghĩa với \"useful\" (hữu ích) và ngược lại với nội dung của bài đọc.",
+        "1477611": "Phương án này sai vì bài đọc nhấn mạnh tính ứng dụng và sự hữu ích của tre, không phải vẻ đẹp của nó.",
+        "1477612": "Phương án này đúng vì \"helpful\" (có ích, giúp ích) đồng nghĩa với \"useful\" (hữu ích) và phù hợp với ngữ cảnh khi bài đọc liệt kê các công dụng của tre đối với con người."
+      },
+      "images": []
+    },
+    {
+      "id": 767918,
+      "questionNumber": 33,
+      "questionName": "36",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>According to the passage, all of the following can be made from bamboo EXCEPT _____.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q1\">Bamboo is an amazing plant. Do you know it is actually grass? In fact, giant bamboo is the largest member of the grass family.</span> <span class=\"answerhighlight q4\">Some types can grow an incredible 90 centimetres in just one day. Some bamboo plants can grow to over 30 metres tall, which is as tall as a gum tree.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q4\">You probably know that bamboo is the favourite food of pandas, but chimpanzees, gorillas and elephants eat it too.</span> <span class=\"answerhighlight q2\">Bamboo is also extremely <strong>useful</strong> to people.</span> <span class=\"answerhighlight q3\">It is a very valuable construction material because it is so strong.</span> <span class=\"answerhighlight q4\">In fact, whole houses can be built from bamboo.</span> In some parts of the world, bamboo is used as scaffolding (the frame used to support building work).</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">The range of things that can be made from bamboo is huge. Furniture, cooking utensils, and musical instruments can all be made from bamboo.</span> It can even be used to make bicycle frames and boats. Bamboo fibres can be used to produce a soft, cotton-like material for T-shirts and underwear. <span class=\"answerhighlight q4\">They also use bamboo fibres to make paper.</span></p>",
+      "parentQuestionId": 767915,
+      "choices": [
+        {
+          "id": 1477613,
+          "label": "A",
+          "text": "musical instruments",
+          "isCorrect": false
+        },
+        {
+          "id": 1477614,
+          "label": "B",
+          "text": "construction materials",
+          "isCorrect": false
+        },
+        {
+          "id": 1477615,
+          "label": "C",
+          "text": "cooking utensils",
+          "isCorrect": false
+        },
+        {
+          "id": 1477616,
+          "label": "D",
+          "text": "<p>car frames</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1477616,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy đọc kỹ đoạn văn cuối cùng, nơi tác giả liệt kê hàng loạt sản phẩm làm từ tre. Câu hỏi yêu cầu bạn tìm ra thứ <strong>KHÔNG</strong> được nhắc đến trong bài.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span>Câu hỏi yêu cầu tìm ra vật dụng KHÔNG được làm từ tre theo thông tin trong bài đọc. Để trả lời, ta cần rà soát các thông tin được liệt kê trong bài. Đoạn 3 có nêu: <strong>[[Furniture, cooking utensils, and musical instruments can all be made from bamboo.]]</strong> (<em>Đồ nội thất, dụng cụ nấu ăn và nhạc cụ đều có thể được làm từ tre.</em>). Thông tin này giúp loại bỏ phương án 1 và 3. Đoạn 2 có viết: <strong>[[It is a very valuable construction material...]]</strong> (<em>Nó là một vật liệu xây dựng rất có giá trị...</em>). Thông tin này giúp loại bỏ phương án 2. Bài đọc có nhắc đến <strong>[[bicycle frames]]</strong> (<em>khung xe đạp</em>) nhưng không hề đề cập đến khung xe hơi (car frames). Vì vậy, phương án 4 là đáp án chính xác.</p>",
+      "answerFeedbacks": {
+        "1477613": "Phương án này sai vì bài đọc có đề cập đến việc tre được dùng để làm nhạc cụ trong câu \"<em>Furniture, cooking utensils, and musical instruments can all be made from bamboo.</em>\"",
+        "1477614": "Phương án này sai vì bài đọc có khẳng định tre là một vật liệu xây dựng giá trị trong câu \"<em>It is a very valuable construction material because it is so strong.</em>\"",
+        "1477615": "Phương án này sai vì bài đọc có đề cập đến việc tre được dùng để làm dụng cụ nấu ăn trong câu \"<em>Furniture, cooking utensils, and musical instruments can all be made from bamboo.</em>\"",
+        "1477616": "<p>Đây là đáp án đúng vì bài đọc không hề đề cập đến việc tre được dùng để làm khung xe hơi, mà chỉ nhắc đến khung xe đạp.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 767919,
+      "questionNumber": 34,
+      "questionName": "37",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>According to the passage, which of the following statements is true?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q1\">Bamboo is an amazing plant. Do you know it is actually grass? In fact, giant bamboo is the largest member of the grass family.</span> <span class=\"answerhighlight q4\">Some types can grow an incredible 90 centimetres in just one day. Some bamboo plants can grow to over 30 metres tall, which is as tall as a gum tree.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q4\">You probably know that bamboo is the favourite food of pandas, but chimpanzees, gorillas and elephants eat it too.</span> <span class=\"answerhighlight q2\">Bamboo is also extremely <strong>useful</strong> to people.</span> <span class=\"answerhighlight q3\">It is a very valuable construction material because it is so strong.</span> <span class=\"answerhighlight q4\">In fact, whole houses can be built from bamboo.</span> In some parts of the world, bamboo is used as scaffolding (the frame used to support building work).</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">The range of things that can be made from bamboo is huge. Furniture, cooking utensils, and musical instruments can all be made from bamboo.</span> It can even be used to make bicycle frames and boats. Bamboo fibres can be used to produce a soft, cotton-like material for T-shirts and underwear. <span class=\"answerhighlight q4\">They also use bamboo fibres to make paper.</span></p>",
+      "parentQuestionId": 767915,
+      "choices": [
+        {
+          "id": 1477617,
+          "label": "A",
+          "text": "<p>People never use bamboo fibres to make paper.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477618,
+          "label": "B",
+          "text": "<p>Only pandas eat bamboo.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477619,
+          "label": "C",
+          "text": "<p>A bamboo plant can't be over 30 metres tall.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477620,
+          "label": "D",
+          "text": "Bamboo can be used to build a house.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1477620,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy đọc lướt bài đọc để tìm các từ khóa có trong mỗi phương án trả lời (ví dụ: 'paper', 'pandas', '30 metres', 'house'). Sau đó, đọc kỹ câu chứa từ khóa đó để xác định xem phương án đưa ra là đúng hay sai so với thông tin trong bài.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span>Câu hỏi yêu cầu xác định phát biểu nào là đúng theo nội dung bài đọc.</p>\n<p style=\"text-align: justify;\">Ta cần xét từng phương án:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương án 1 sai vì câu cuối bài đọc có viết: <strong>[[They also use bamboo fibres to make paper.]]</strong> (<em>Họ cũng dùng sợi tre để làm giấy.</em>).</li>\n<li style=\"text-align: justify;\">Phương án 2 sai vì bài đọc có nêu: <strong>[[...but chimpanzees, gorillas and elephants eat it too.]]</strong> (<em>...nhưng tinh tinh, khỉ đột và voi cũng ăn nó.</em>).</li>\n<li style=\"text-align: justify;\">Phương án 3 sai vì đoạn 1 có thông tin: <strong>[[Some bamboo plants can grow to over 30 metres tall...]]</strong> (<em>Một số cây tre có thể cao tới hơn 30 mét...</em>).</li>\n<li style=\"text-align: justify;\">Phương án 4 là đáp án đúng vì bài đọc có thông tin: <strong>[[In fact, whole houses can be built from bamboo.]]</strong> (<em>Thực tế, cả một ngôi nhà có thể được xây dựng từ tre.</em>).</li>\n</ul>",
+      "answerFeedbacks": {
+        "1477617": "<p>Đây là thông tin sai vì bài đọc khẳng định rằng người ta có sử dụng sợi tre để làm giấy.</p>",
+        "1477618": "<p>Đây là thông tin sai vì bài đọc liệt kê thêm tinh tinh, khỉ đột và voi cũng ăn tre.</p>",
+        "1477619": "<p>Đây là thông tin sai vì bài đọc nêu rõ rằng một số cây tre có thể cao hơn 30 mét.</p>",
+        "1477620": "Đây là thông tin đúng, được xác nhận bởi câu \"<em>In fact, whole houses can be built from bamboo.</em>\" trong bài đọc."
+      },
+      "images": []
+    },
+    {
+      "id": 767920,
+      "questionNumber": 35,
+      "questionName": "38",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What is the main purpose of this passage?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q1\">Bamboo is an amazing plant. Do you know it is actually grass? In fact, giant bamboo is the largest member of the grass family.</span> <span class=\"answerhighlight q4\">Some types can grow an incredible 90 centimetres in just one day. Some bamboo plants can grow to over 30 metres tall, which is as tall as a gum tree.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q4\">You probably know that bamboo is the favourite food of pandas, but chimpanzees, gorillas and elephants eat it too.</span> <span class=\"answerhighlight q2\">Bamboo is also extremely <strong>useful</strong> to people.</span> <span class=\"answerhighlight q3\">It is a very valuable construction material because it is so strong.</span> <span class=\"answerhighlight q4\">In fact, whole houses can be built from bamboo.</span> In some parts of the world, bamboo is used as scaffolding (the frame used to support building work).</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">The range of things that can be made from bamboo is huge. Furniture, cooking utensils, and musical instruments can all be made from bamboo.</span> It can even be used to make bicycle frames and boats. Bamboo fibres can be used to produce a soft, cotton-like material for T-shirts and underwear. <span class=\"answerhighlight q4\">They also use bamboo fibres to make paper.</span></p>",
+      "parentQuestionId": 767915,
+      "choices": [
+        {
+          "id": 1477621,
+          "label": "A",
+          "text": "<p>To give interesting facts about bamboo and its uses</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1477622,
+          "label": "B",
+          "text": "<p>To encourage people to save bamboo trees</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477623,
+          "label": "C",
+          "text": "<p>To advise people to use bamboo more often</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1477624,
+          "label": "D",
+          "text": "To outline where bamboo is mainly grown",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1477621,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để xác định mục đích chính, hãy đọc lướt lại toàn bộ bài đọc và tự hỏi: Tác giả chủ yếu viết về điều gì? Bài đọc có đưa ra lời khuyên hay kêu gọi hành động không, hay chỉ đơn thuần cung cấp thông tin?",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span>Câu hỏi yêu cầu xác định mục đích chính của bài đọc. Toàn bộ bài đọc được viết nhằm cung cấp cho người đọc các thông tin thú vị về cây tre. Đoạn 1 giới thiệu những sự thật chung về tre, ví dụ: [[<strong>Do you know it is actually grass?</strong>]] (<em>Bạn có biết nó thực chất là cỏ không?</em>) và tốc độ phát triển của nó [[<strong>Some types can grow an incredible 90 centimetres in just one day.</strong>]] (<em>Một số loại có thể phát triển đáng kinh ngạc 90 cm chỉ trong một ngày.</em>). Các đoạn sau tập trung liệt kê rất nhiều công dụng của tre đối với con người, từ [[<strong>valuable construction material</strong>]] (<em>vật liệu xây dựng có giá trị</em>) đến làm đồ nội thất, nhạc cụ, quần áo và giấy. Vì vậy, mục đích chính của bài là cung cấp các sự thật thú vị và công dụng của tre, tương ứng với phương án 1.</p><p style=\"text-align: justify;\">Phương án 3 có thể gây nhầm lẫn. Mặc dù bài đọc nêu ra nhiều lợi ích của tre, nhưng tác giả chỉ đang liệt kê thông tin một cách khách quan chứ không dùng ngôn ngữ mang tính khuyên bảo hay kêu gọi mọi người nên sử dụng tre thường xuyên hơn. Do đó, mục đích \"khuyên\" (advise) là không chính xác.</p>",
+      "answerFeedbacks": {
+        "1477621": "<p>Đáp án này là đúng vì bài đọc trình bày nhiều thông tin thực tế về cây tre (là một loại cỏ, tốc độ phát triển) và liệt kê hàng loạt công dụng của nó (xây dựng, làm đồ gia dụng, quần áo, giấy).</p>",
+        "1477622": "<p>Phương án này sai vì bài đọc không hề đề cập đến việc cây tre đang gặp nguy hiểm hay cần được bảo tồn (Not Given).</p>",
+        "1477623": "<p>Phương án này sai vì giọng văn của tác giả mang tính thông tin, miêu tả chứ không phải khuyên nhủ hay thuyết phục người đọc.</p>",
+        "1477624": "Phương án này sai vì bài đọc chỉ nhắc đến <em>\"In some parts of the world\"</em> mà không hề cung cấp thông tin cụ thể về các khu vực trồng tre chủ yếu (Not Given)."
+      },
+      "images": []
+    },
+    {
+      "id": 767921,
+      "questionNumber": 36,
+      "questionName": "39",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1477625,
+          "label": "A",
+          "text": "modern",
+          "isCorrect": false
+        },
+        {
+          "id": 1477626,
+          "label": "B",
+          "text": "process",
+          "isCorrect": false
+        },
+        {
+          "id": 1477627,
+          "label": "C",
+          "text": "cloudy",
+          "isCorrect": false
+        },
+        {
+          "id": 1477628,
+          "label": "D",
+          "text": "unique",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1477628,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Từ </span>\"<strong>unique</strong>\"<span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ hai</span><span style=\"font-weight: 400;\">, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ</span> nhất.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX181aek6ERva6DxKyfooPk1B6CM3R2IW7Mnrf9rVdmMRcg0oN5AzdR9r6GP3P9nQKQWCmWa8zNEKG2OIJcVJH6iaW2IY9DD%2F%2BEVarswfAa3k73Ir%2FfA07pN%2FVOju4hKnfVrW82%2BH9r3ImsTXuDIEwxpwWypYiccsYzo1lEnxZVWqWZcRbT%2FjjiIT4ItEmGCnp%2F208NmO9Zka6sIcHnSE%2BMqkQ9%2FYlQ9kuKEqL3l0fEuT9a07L6ekIO%2Fx89DUBIN65XN2HLRmK%2B%2FPq6hO8SugHsAYbygkCyIfFll0gwnWsRruadHrkLIRDxYalavsMwMqRseFlrHPxl%2B5IaIZE9jMCQxLNQHiIlsSf7YUIxbwap%2F0WPe4AYGqi3S09xYFQMrWLLFeDxTw0sEBdOlr%2BmXdZOWCVwnOqmVZ%2FKhamsITlO%2BP4zZ6GQCtY5Jsh%2Bn2BudgNd0Hl4tkx1LeNgXKWXQdmEkmzfPp8gSbDQNaXXgM9K9vnePembcBEPY1eHrWOukcy%2FLB9AKtfYkbh%2BjNBBHJfqDXlOW%2Fv96gYee4rDTW04JVQxIPc4VhV%2BFtCxpXeX18AOC%2F7LIshCq9YP3sauw2LKId5bzQm7g0JXc%2BiK7kEfCLL2rQL2S6lA6SxcRR87cnwa%2BAgYoRY0%2Bzbw%3D%3D\" width=\"100%\" height=\"315\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 767922,
+      "questionNumber": 37,
+      "questionName": "40",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1477629,
+          "label": "A",
+          "text": "employee",
+          "isCorrect": false
+        },
+        {
+          "id": 1477630,
+          "label": "B",
+          "text": "understand",
+          "isCorrect": false
+        },
+        {
+          "id": 1477631,
+          "label": "C",
+          "text": "develop",
+          "isCorrect": true
+        },
+        {
+          "id": 1477632,
+          "label": "D",
+          "text": "volunteer",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1477631,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Từ </span>\"<strong>develop</strong>\"<span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ hai</span><span style=\"font-weight: 400;\">, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m ch&iacute;nh rơi v&agrave;o &acirc;m tiết thứ</span> ba.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2F4%2FJtukoyauXcQcfMABgJ22hY2m3DzpkJelStJeQKrIi%2FiOxYU5bNdMKaDHqQS5AkeHBl%2B1lxO8SR0CYd7Hh%2BONlHjlbQXPi0bBDTjlNvpGdlz%2BWNYD3nsHp6Pg%2Fog%2F8iz1PCNFcEmlVIKq11yh0bde0fms3nRZMiX3Qek1hVv%2F208t4GeR8USZXwhwEyEPuUsQtxCXv3boq5f3Cl%2F0O%2BHtCNmq%2B6ew7QqxTtHAHcSDu8P3ZkDGGfRlExmzbZzVIqvZh1aXHR98WDqeSw3Sntv0o0YuQ9ZvIHfW2tDD6sov85xSfmyk4G7boPqJgzkCobkqK4gJ0H%2BwkkjvyU5BTNTGwRYuMVhVkkfUQE6xMHs3%2Bm5BrA6%2Btl1t8vhnchrsVaHHTCbiA0Massc0xjnn7fW94fvcWC3gKNkdxliFR9PeMona11ytMPt\" width=\"100%\" height=\"315\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

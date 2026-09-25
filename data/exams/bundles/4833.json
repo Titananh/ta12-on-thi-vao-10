@@ -1,0 +1,1447 @@
+{
+  "id": 4833,
+  "title": "Đề số 30 ôn luyện vào 10 môn Anh Sở Hà Nội ",
+  "year": 2024,
+  "categoryId": 170,
+  "categoryName": "Đề luyện thi vào 10 môn Anh Sở Hà Nội từ năm 2024 trở về trước",
+  "timeLimit": 60,
+  "totalPoint": 36,
+  "questionCount": 33,
+  "author": "Tổ GV Tiếng Anh - TA12",
+  "description": "",
+  "createdAt": "2026-09-24T14:50:16.751Z",
+  "questions": [
+    {
+      "id": 44268,
+      "questionNumber": 1,
+      "questionName": "Q3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 128331,
+          "label": "A",
+          "text": "remov<u>es<u>",
+          "isCorrect": false
+        },
+        {
+          "id": 128332,
+          "label": "B",
+          "text": "admir<u>es<u>",
+          "isCorrect": false
+        },
+        {
+          "id": 128333,
+          "label": "C",
+          "text": "chang<u>es<u>",
+          "isCorrect": true
+        },
+        {
+          "id": 128334,
+          "label": "D",
+          "text": "<p>divid<span style=\"text-decoration: underline;\">es</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 128333,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy nhớ lại các quy tắc phát âm đuôi <em>\"-s\"</em> hoặc <em>\"-es\"</em> trong tiếng Anh. Đặc biệt chú ý đến âm cuối của động từ gốc trước khi thêm đuôi này để xác định cách phát âm chính xác. Âm cuối là các âm xuýt/xát (/s/, /z/, /ʃ/, /ʒ/, /tʃ/, /dʒ/) sẽ có cách phát âm đuôi <em>\"-es\"</em> khác với các âm hữu thanh hoặc vô thanh còn lại.",
+      "explanation": "<p>Phần được gạch chân trong từ <strong>\"chang<u>es</u>\"</strong> được phát âm là <strong>/ɪz/</strong>, trong các từ còn lại được phát âm là <strong>/z/</strong>.</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #fff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n        color: #1c581f;\n        font-size: 15px;\n    }\n\n    .vocab-table-sharp th, \n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        display: inline-block;\n        margin: 0 0.4rem 4px 0;\n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n        display: block;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">removes</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/rɪˈmuːvz/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>loại bỏ</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">admires</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/ədˈmaɪərz/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>ngưỡng mộ</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">changes</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/tʃeɪndʒɪz/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>thay đổi</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">divides</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/dɪˈvaɪdz/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>chia ra</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "128331": "Đuôi <em>\"-es\"</em> phát âm /z/ vì âm cuối của động từ gốc <em>\"remove\"</em> là /v/ – một âm hữu thanh.",
+        "128332": "Đuôi <em>\"-es\"</em> phát âm /z/ vì âm cuối của động từ gốc <em>\"admire\"</em> là /r/ – một âm hữu thanh.",
+        "128333": "Đuôi <em>\"-es\"</em> phát âm /iz/ vì âm cuối của động từ gốc <em>\"change\"</em> là /dʒ/ – một âm xát/tắc hữu thanh.",
+        "128334": "Đuôi <em>\"-es\"</em> phát âm /z/ vì âm cuối của động từ gốc <em>\"divide\"</em> là /d/ – một âm hữu thanh."
+      },
+      "images": []
+    },
+    {
+      "id": 68400,
+      "questionNumber": 2,
+      "questionName": "Question 9:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 179957,
+          "label": "A",
+          "text": "w<u>ea</u>k",
+          "isCorrect": false
+        },
+        {
+          "id": 179958,
+          "label": "B",
+          "text": "m<u>ea</u>t",
+          "isCorrect": false
+        },
+        {
+          "id": 179959,
+          "label": "C",
+          "text": "t<u>ea</u>",
+          "isCorrect": false
+        },
+        {
+          "id": 179960,
+          "label": "D",
+          "text": "ah<u>ea</u>d",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 179960,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Phần gạch ch&acirc;n trong từ \"<strong>ah<span style=\"text-decoration: underline;\">ea</span>d</strong>\" được ph&aacute;t &acirc;m l&agrave; <strong>/e/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/iː/</strong>.&nbsp;&nbsp;</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18ru%2BQ3yJxE2uo%2B7a9MSoSr1bczCYIiN6j8lOsVqeLrKyo5bv5KsMkfiutLeQlg7hOu2ZUBKpHQm75oFUxGtgz4e75NrqvVuyiZ4yzKnRGJb%2BWPKOI6F5cBqPOnZ%2FZWqR%2BSOY%2BFeGIbFB8oYgnbBqoLT%2Bc40iMoA0KCcqz4SWCiBzGFiJ63v3spNZ6Vcer%2F1M90O90wcMw%2FPvEkPvgeHYDSeXBD5SJGH8j48hxEN2W7azfbamTUYxeG5ytB71zVuuQN862YKWGFi4sQwncQJjS5NtCqtCw%2BkiRN7yTxU8Z446Ij32iFdiWtO2SYsZ%2BLIU1hq0OTT8LuHg%3D%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 16636,
+      "questionNumber": 3,
+      "questionName": "33",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 54941,
+          "label": "A",
+          "text": "study",
+          "isCorrect": true
+        },
+        {
+          "id": 54942,
+          "label": "B",
+          "text": "improve",
+          "isCorrect": false
+        },
+        {
+          "id": 54943,
+          "label": "C",
+          "text": "achieve",
+          "isCorrect": false
+        },
+        {
+          "id": 54944,
+          "label": "D",
+          "text": "succeed",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 54941,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Từ </span>\"<strong>study</strong>\"<span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất</span><span style=\"font-weight: 400;\">, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ</span> hai.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FL8TfgCGnRf1dJuOZ63l9aj5bOYZgiNR2hZOe7Qw3P%2BwrvXCfXP3B9A%2FNjwbEyCV%2BqgeU8uSC8w1IFP4b%2FTbd59KTQDZv2ZurEiD3nCNhBUjE4cNSLLqoGxGTO2Ix3zpBE6Ka%2B1hwUzQjxixXsEnYpmHo8kYqcOp0o5SLBdm9jt2WxOHZXjvEMoVoLVFX%2B%2BMDYoiau9yhPkS%2BprsHhtdPdJtL6fopDsf%2Bx1waybAxr1aZYsOQOp1HEbZWkfT1VKxZdLrQizWIiEzN33OYJyAntvE4i9mLzLYJz2oOqdKwos6Uwz9AIh2Ml0h4QRHN3HK0neUqQv4bMNg%3D%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 107188,
+      "questionNumber": 4,
+      "questionName": "Question 5:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 254084,
+          "label": "A",
+          "text": "religion",
+          "isCorrect": true
+        },
+        {
+          "id": 254085,
+          "label": "B",
+          "text": "separate",
+          "isCorrect": false
+        },
+        {
+          "id": 254086,
+          "label": "C",
+          "text": "decorate",
+          "isCorrect": false
+        },
+        {
+          "id": 254087,
+          "label": "D",
+          "text": "popular",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 254084,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chỉ từ<strong> \"religion\"</strong> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ 2, c&aacute;c từ c&ograve;n lại trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/DL45B189E216F81498?params=U2FsdGVkX1%2FaOHZKINmgvIGiFINGZHOqxE%2BKLFePBllLwMSWb8vIv1pubESGuxdfYTGwFnt%2FohvqLUfDRrElbyUKgvOyzZVaRePMJwBPl3Pi5OQ8Zte8LpWoh3NbjO0nDlhAxlaXnImW%2Frh5MTRRNCy9PPPmlWZCQhXJ53Armp%2FSLzkRl4%2B4hMQP4XuSTKiPrSKr6gXqEI2kemsMWe%2BkFk5M9J0OPr2fMzk9vJJpXIFDpy0SYgAJHYdSBUHOvp0dnsnU8198A6tzyIWw9iCBcbZcQRJaMiYSq56989tO%2FByI0TGDH2vedkbkg21z4FZbDkp7B4ToQMzMNSzlpxcL3oNYhCttBLv51sbwTJsIalBUKKltwLNfkOCfcl40E82euExmUBC3fjB3W06mtSb8rHD0ZaHSTRa7%2BAr1Ssob5c1R32braG2fbrktvSX%2FfmP%2BaILwqBVlCHHLtCUc9fhhHtyupkBYcJv1M1aRZCZpTrSKiz1OTGsC%2Bv%2FfDPARn84IF0m27FGcdLR5V6kHwl9ahIx8F38IRnzFNoKNKUxmjIk8oXjHBldNsA9B3aLa%2FViDqT8qOfl9eSmuSfYqE7GZIJtkcbYBfVbuCGc9C5u2FH6Itv%2FfV7YlWen6vPZkVxwx30oDKqn2w2mG3K654ONNLltrU1GZ41bQLm%2FbM6sez5L3BlND3jSPykTpCS7GHori3PPHp1dbUf4eVuqpARtIYfqxYFcgWnD2f7mQccRYlHc%3D\" width=\"523\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 33832,
+      "questionNumber": 5,
+      "questionName": "Question 6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Brian <u>really</u> has to <u>work</u> on <u>improve</u> his <u>vocabulary</u>. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 104058,
+          "label": "A",
+          "text": "really",
+          "isCorrect": false
+        },
+        {
+          "id": 104059,
+          "label": "B",
+          "text": "work",
+          "isCorrect": false
+        },
+        {
+          "id": 104060,
+          "label": "C",
+          "text": "improve",
+          "isCorrect": true
+        },
+        {
+          "id": 104061,
+          "label": "D",
+          "text": "vocabulary",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 104060,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>work on sth/doing sth</strong>: d&agrave;nh thời gian l&agrave;m việc g&igrave;</p>\n<p>=&gt; đổi <strong>\"improve\"</strong> th&agrave;nh <strong>\"improving\"</strong></p>\n<p>Dịch: Brian thực sự phải cố gắng cải thiện vốn từ vựng của m&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 108716,
+      "questionNumber": 6,
+      "questionName": "Q31",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>They prefer <u>to stay</u> <u>in</u> their <u>home</u> country <u>because</u> family ties.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 258148,
+          "label": "A",
+          "text": "to stay",
+          "isCorrect": false
+        },
+        {
+          "id": 258149,
+          "label": "B",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 258150,
+          "label": "C",
+          "text": "home",
+          "isCorrect": false
+        },
+        {
+          "id": 258151,
+          "label": "D",
+          "text": "because",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 258151,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>because + S +V + O ~ because of + N/ V-ing</strong>: bởi v&igrave;&hellip;</p>\n<p>Sửa \"<strong>because</strong>\" =&gt; \"<strong>because of</strong>\"</p>\n<p>Dịch: Họ muốn sống ở qu&ecirc; nh&agrave; v&igrave; mối li&ecirc;n kết với gia đ&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 108715,
+      "questionNumber": 7,
+      "questionName": "Q30",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>- <u>How far</u> did <u>it</u> take you <u>to get</u> to <u>the</u> airport yesterday? </strong></p>\n<p><strong>- One hour.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 258144,
+          "label": "A",
+          "text": "How far",
+          "isCorrect": true
+        },
+        {
+          "id": 258145,
+          "label": "B",
+          "text": "it",
+          "isCorrect": false
+        },
+        {
+          "id": 258146,
+          "label": "C",
+          "text": "to get",
+          "isCorrect": false
+        },
+        {
+          "id": 258147,
+          "label": "D",
+          "text": "the",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 258144,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem lại từ hỏi <em>\"How far\"</em> có phù hợp với câu trả lời ''<em>One hour</em>'' không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra chủ ngữ giả <em>\"it\"</em> trong cấu trúc diễn tả thời gian cần để làm một việc gì đó.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét dạng động từ theo sau cấu trúc <em>\"It takes someone time...\"</em> đã đúng chưa.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đánh giá việc sử dụng mạo từ <em>\"the\"</em> trước danh từ <em>\"airport\"</em>.</li>\n</ul>\n<p style=\"text-align: justify;\">Đối chiếu từng quy tắc trên với câu gốc để xác định phần nào cần được sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Các từ hỏi về khoảng cách và thời gian</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các từ hỏi \"How far\" và \"How long\" được dùng để hỏi về các khía cạnh khác nhau của một sự việc hoặc hành trình. \"How far\" dùng để hỏi về khoảng cách vật lý, còn \"How long\" dùng để hỏi về khoảng thời gian.</p>\n<p style=\"text-align: justify;\"><strong>Một số từ hỏi về khoảng cách và thời gian:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">How far</span></strong>: hỏi về khoảng cách</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">How long</span></strong>: hỏi về khoảng thời gian</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Câu trả lời \"<em>One hour</em>\" chỉ một khoảng thời gian. Để hỏi về khoảng thời gian, chúng ta cần sử dụng từ hỏi <em>\"How long\"</em> thay vì <em>\"How far\"</em>. Từ <em>\"How far\"</em> dùng để hỏi về khoảng cách.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>How far</strong></em>\" =&gt; \"<em><strong>How long</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "258144": "Sai vì <em>\"How far\"</em> dùng để hỏi về khoảng cách, trong khi câu trả lời <em>\"One hour\"</em> chỉ về thời gian.",
+        "258145": "Đúng vì <em>\"it\"</em> là chủ ngữ giả trong cấu trúc <em>\"It takes + O + time + to V\"</em> để diễn tả thời gian cần để làm gì đó.",
+        "258146": "Đúng vì <em>\"to get\"</em> là dạng động từ nguyên thể có <em>\"to\"</em>, phù hợp với cấu trúc <em>\"It takes + O + time + to V\"</em>.",
+        "258147": "Đúng vì <em>\"the\"</em> là mạo từ xác định đứng trước danh từ <em>\"airport\"</em> khi nói về một sân bay cụ thể hoặc đã được đề cập."
+      },
+      "images": []
+    },
+    {
+      "id": 139991,
+      "questionNumber": 8,
+      "questionName": "Q21",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>________ disappeared when I arrived at the airport. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 329474,
+          "label": "A",
+          "text": "My passport",
+          "isCorrect": true
+        },
+        {
+          "id": 329475,
+          "label": "B",
+          "text": "My passport that",
+          "isCorrect": false
+        },
+        {
+          "id": 329476,
+          "label": "C",
+          "text": "It was my passport",
+          "isCorrect": false
+        },
+        {
+          "id": 329477,
+          "label": "D",
+          "text": "It is my passport",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 329474,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>- C&acirc;u thiếu chủ ngữ trước động từ <strong>\"disappeared\"</strong></p>\n<p>C&aacute;c lựa chọn kh&aacute;c theo cấu tr&uacute;c c&acirc;u chẻ thiếu đại từ quan hệ l&agrave;m chủ ngữ hoặc kh&ocirc;ng ph&ugrave; hợp về th&igrave;.</p>\n<p>Dịch: Hộ chiếu của t&ocirc;i đ&atilde; biến mất khi t&ocirc;i đến s&acirc;n bay.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 139982,
+      "questionNumber": 9,
+      "questionName": "Q12",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>It was _____ the wet and windy day that I drove over the hill to Milland. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 329438,
+          "label": "A",
+          "text": "<p>in</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 329439,
+          "label": "B",
+          "text": "<p>on</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 329440,
+          "label": "C",
+          "text": "at",
+          "isCorrect": false
+        },
+        {
+          "id": 329441,
+          "label": "D",
+          "text": "<p>for</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 329439,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn giới từ đúng, hãy tập trung vào loại biểu thức thời gian trong câu. Đặc biệt, hãy chú ý đến từ khóa <em>\"day\"</em> trong cụm <em>\"the wet and windy day\"</em>.</p>\n<p>Bạn cần nhớ giới từ nào thường đi kèm với các từ chỉ ngày cụ thể.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Giới từ chỉ thời gian</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các giới từ chỉ thời gian được sử dụng để xác định thời điểm, khoảng thời gian hoặc tần suất của một sự kiện. Việc lựa chọn giới từ phụ thuộc vào loại thời gian được đề cập.</p>\n<p style=\"text-align: justify;\"><strong>Một số giới từ chỉ thời gian:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">on + day(s) / date(s)</span></strong>: vào (ngày/thứ/ngày cụ thể)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">in + month(s) / year(s) / season(s) / period of day (except 'night')</span></strong>: vào (tháng/năm/mùa/buổi trong ngày)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">at + specific time / night / weekend</span></strong>: vào (thời điểm cụ thể/đêm/cuối tuần)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">for + duration</span></strong>: trong (khoảng thời gian)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm từ <i>\"the wet and windy day\"</i> là một biểu thức chỉ một ngày cụ thể. Theo quy tắc ngữ pháp, giới từ \"<em>on</em>\" được dùng để chỉ các ngày cụ thể hoặc các cụm từ có chứa \"<em>day</em>\".</p>\n<p style=\"text-align: justify;\">Các giới từ khác như \"<em>in</em>\", \"<em>at</em>\", \"<em>for</em>\" không phù hợp với ngữ cảnh này vì chúng được dùng với các loại biểu thức thời gian khác nhau.</p>",
+      "answerFeedbacks": {
+        "329438": "<p>Sai vì giới từ \"in\" thường dùng với tháng, năm, mùa hoặc các khoảng thời gian dài hơn, không dùng với ngày cụ thể.</p>",
+        "329439": "<p>Đúng vì giới từ \"on\" được sử dụng với các ngày cụ thể, ngày trong tuần hoặc các cụm từ có chứa từ \"day\".</p>",
+        "329440": "Sai vì giới từ \"at\" thường dùng với thời điểm cụ thể (giờ), các dịp lễ hoặc cụm từ như <i>\"at night\"</i>, <i>\"at the weekend\"</i>.",
+        "329441": "<p>Sai vì giới từ \"for\" dùng để chỉ khoảng thời gian, không phải một ngày cụ thể.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 15811,
+      "questionNumber": 10,
+      "questionName": "II.14",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I wish I _____ what to do to help my mother now.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 52924,
+          "label": "A",
+          "text": "know",
+          "isCorrect": false
+        },
+        {
+          "id": 52925,
+          "label": "B",
+          "text": "will know",
+          "isCorrect": false
+        },
+        {
+          "id": 52926,
+          "label": "C",
+          "text": "knew",
+          "isCorrect": true
+        },
+        {
+          "id": 52927,
+          "label": "D",
+          "text": "<p>have known</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 52926,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để hoàn thành câu ước với <em>\"I wish\"</em>, hãy xem xét thời điểm mà điều ước đó diễn ra. Trong câu <em>\"I wish I _____ what to do to help my mother now.\"</em>, từ <em>\"now\"</em> là một dấu hiệu quan trọng. Với ước muốn cho hiện tại, động từ theo sau <em>\"I wish\"</em> cần được lùi về một thì so với hiện tại.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu ước với \"I wish\" (cho hiện tại)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả mong muốn hoặc hối tiếc về một điều không có thật hoặc không thể xảy ra ở hiện tại.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + wish(es) / If only + S + V(quá khứ đơn)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm từ <em>\"I wish\"</em> và trạng từ <em>\"now\"</em> cho thấy đây là một câu ước về điều không có thật ở hiện tại. Theo quy tắc, động từ sau <em>\"I wish\"</em> trong trường hợp này phải chia ở thì quá khứ đơn. Phương án <em>\"knew\"</em> là dạng quá khứ đơn của động từ <em>\"know\"</em>, hoàn toàn phù hợp với cấu trúc ngữ pháp cần thiết.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại là dạng dộng từ của các thì khác không phù hợp cho câu ước ở hiện tại.</p>",
+      "answerFeedbacks": {
+        "52924": "Sai vì thì hiện tại đơn không dùng sau <em>\"I wish\"</em> để diễn tả ước muốn ở hiện tại.",
+        "52925": "Sai vì <em>\"will\"</em> không dùng trực tiếp sau <em>\"I wish\"</em> để diễn tả ước muốn ở hiện tại hoặc tương lai.",
+        "52926": "Đúng vì đây là thì quá khứ đơn, phù hợp với cấu trúc câu ước cho hiện tại sau <em>\"I wish\"</em>.",
+        "52927": "<p>Sai vì thì hiện tại hoàn thành không dùng trong cấu trúc câu ước cho hiện tại hoặc quá khứ.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 155770,
+      "questionNumber": 11,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>“Shall I put the books on the floor?” - “No, I want to keep the _____.\"</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 363761,
+          "label": "A",
+          "text": "tidy room",
+          "isCorrect": false
+        },
+        {
+          "id": 363762,
+          "label": "B",
+          "text": "room tidily",
+          "isCorrect": false
+        },
+        {
+          "id": 363763,
+          "label": "C",
+          "text": "room is tidy",
+          "isCorrect": false
+        },
+        {
+          "id": 363764,
+          "label": "D",
+          "text": "room tidy",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 363764,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để diễn tả việc giữ cho một vật thể (tân ngữ) ở một trạng thái nào đó, chúng ta thường dùng cấu trúc <em>Verb + Object + Adjective</em>.</p>\n<p>Hãy xem xét động từ <em>'keep'</em> trong câu thường đi với một tân ngữ và một tính từ để mô tả trạng thái của tân ngữ đó. </p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc động từ + tân ngữ + tính từ</span>.</p><blockquote style=\"margin-left: 0px; padding-left: 18px;\"><p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả hành động của chủ ngữ làm cho tân ngữ ở một trạng thái hoặc tính chất nhất định.</p><p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + V + O + adj.</span></p><p><strong>Một số động từ theo sau bởi tân ngữ và tính từ:</strong></p><ul style=\"padding-left: 30px;\"><li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">keep / make / find / leave + O (danh từ/đại từ) + adj. (tính từ)</span></strong>: giữ/khiến/thấy/để cho ai/cái gì ở trạng thái nào đó.</li></ul></blockquote><p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p><p style=\"text-align: justify;\">Trong câu <em>\"I want to keep the _____\"</em>, động từ <em>\"keep\"</em> được sử dụng với tân ngữ <em>\"the room\"</em> và cần một tính từ để mô tả trạng thái của tân ngữ đó. Cấu trúc <em>\"keep + O + adj.\"</em> là phù hợp nhất để diễn tả việc giữ cho căn phòng gọn gàng.</p><p style=\"text-align: justify;\">Phương án 1 <em>\"tidy room\"</em> là một cụm danh từ, không phải cấu trúc đúng sau <em>\"keep the\"</em> để mô tả trạng thái. Phương án 2 <em>\"room tidily\"</em> sai vì <em>\"tidily\"</em> là trạng từ, không phải tính từ. Phương án 3 <em>\"room is tidy\"</em> là một mệnh đề hoàn chỉnh, không thể đứng trực tiếp sau <em>\"keep the\"</em>.</p>",
+      "answerFeedbacks": {
+        "363761": "Sai vì <em>\"tidy room\"</em> là một cụm danh từ (tính từ + danh từ) không phù hợp để mô tả trạng thái của tân ngữ <em>\"the room\"</em> sau động từ <em>\"keep\"</em> trong cấu trúc này.",
+        "363762": "Sai vì <em>\"tidily\"</em> là trạng từ, dùng để bổ nghĩa cho động từ hoặc tính từ, không thể dùng để mô tả trực tiếp trạng thái của tân ngữ <em>\"the room\"</em>.",
+        "363763": "Sai vì <em>\"room is tidy\"</em> là một mệnh đề hoàn chỉnh (chủ ngữ + động từ + tính từ), không thể đứng trực tiếp sau <em>\"keep the\"</em> để bổ nghĩa cho tân ngữ.",
+        "363764": "Đúng vì <em>\"tidy\"</em> là tính từ, phù hợp với cấu trúc <em>\"keep + O + adj.\"</em> để diễn tả việc giữ cho tân ngữ <em>\"the room\"</em> ở trạng thái gọn gàng."
+      },
+      "images": []
+    },
+    {
+      "id": 155771,
+      "questionNumber": 12,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Our former teacher couldn’t come to the party, ______ was a pity.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 363765,
+          "label": "A",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 363766,
+          "label": "B",
+          "text": "which",
+          "isCorrect": true
+        },
+        {
+          "id": 363767,
+          "label": "C",
+          "text": "what",
+          "isCorrect": false
+        },
+        {
+          "id": 363768,
+          "label": "D",
+          "text": "this",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 363766,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Trong câu, chỗ trống đứng sau dấu phẩy (</span><em style=\"text-align: justify;\">,</em><span style=\"text-align: justify;\">) và cần một từ để nối mệnh đề phía trước (</span><em style=\"text-align: justify;\">Our former teacher couldn’t come to the party</em><span style=\"text-align: justify;\">) với mệnh đề phía sau (</span><em style=\"text-align: justify;\">was a pity</em><span style=\"text-align: justify;\">), đồng thời thay thế cho toàn bộ sự việc ở mệnh đề trước.</span></p>\n<p>Hãy nhớ lại quy tắc sử dụng các đại từ quan hệ như <em>which</em> và <em>that</em> trong mệnh đề quan hệ không xác định, cũng như chức năng của <em>what</em> và <em>this</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Đại từ quan hệ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Đại từ quan hệ dùng để nối hai mệnh đề, giới thiệu mệnh đề quan hệ và thay thế cho một danh từ hoặc cả một mệnh đề đứng trước đó.</p>\n<p><strong>Một số đại từ quan hệ và từ có chức năng tương tự:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">which:</span></strong> dùng để thay thế cho danh từ chỉ vật hoặc toàn bộ mệnh đề đứng trước nó.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">that:</span></strong> dùng để thay thế cho danh từ chỉ người hoặc vật; không đứng sau dấu phẩy trong mệnh đề quan hệ không xác định.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">what:</span></strong> đại từ nghi vấn hoặc đại từ quan hệ mang nghĩa \"cái mà\", thường đứng đầu mệnh đề danh từ.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">this:</span></strong> đại từ chỉ định, không có chức năng nối mệnh đề như đại từ quan hệ.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, chỗ trống đứng sau dấu phẩy (<em>,</em>) và cần một từ để nối mệnh đề phía trước (<em>Our former teacher couldn’t come to the party</em>) với mệnh đề phía sau (<em>was a pity</em>), đồng thời thay thế cho toàn bộ sự việc ở mệnh đề trước.</p>\n<p style=\"text-align: justify;\">Trong các phương án chỉ có ''<em>which''</em> có thể đứng sau dấu phẩy và thay thế cho cả một mệnh đề để giới thiệu mệnh đề quan hệ không xác định. Các phương án khác không phù hợp về mặt ngữ pháp hoặc ngữ nghĩa trong ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "363765": "Sai vì đại từ quan hệ <em>that</em> không được dùng sau dấu phẩy trong mệnh đề quan hệ không xác định.",
+        "363766": "Đúng vì đại từ quan hệ <em>which</em> có thể đứng sau dấu phẩy và thay thế cho cả một mệnh đề hoặc một sự việc đã được nhắc đến ở mệnh đề trước đó.",
+        "363767": "Sai vì <em>what</em> thường giới thiệu mệnh đề danh từ với nghĩa \"cái gì/cái mà\" và không có chức năng nối mệnh đề quan hệ không xác định như trong ngữ cảnh này.",
+        "363768": "Sai vì <em>this</em> là đại từ chỉ định, không có chức năng nối mệnh đề hoặc giới thiệu mệnh đề quan hệ."
+      },
+      "images": []
+    },
+    {
+      "id": 155772,
+      "questionNumber": 13,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>His wife&rsquo;s death was a terrible shock and it took him a long time to ________ it.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 363769,
+          "label": "A",
+          "text": "get round",
+          "isCorrect": false
+        },
+        {
+          "id": 363770,
+          "label": "B",
+          "text": "come up",
+          "isCorrect": false
+        },
+        {
+          "id": 363771,
+          "label": "C",
+          "text": "go over",
+          "isCorrect": false
+        },
+        {
+          "id": 363772,
+          "label": "D",
+          "text": "get over",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 363772,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>get over</strong> (phr.V.): vượt qua</p>\n<p>Dịch: C&aacute;i chết của vợ anh l&agrave; một c&uacute; sốc khủng khiếp v&agrave; anh phải mất một thời gian d&agrave;i để vượt qua n&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 143482,
+      "questionNumber": 14,
+      "questionName": "8",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>My grandma refuses to ______ writing on the computer instead of her typewriter.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 337892,
+          "label": "A",
+          "text": "use to",
+          "isCorrect": false
+        },
+        {
+          "id": 337893,
+          "label": "B",
+          "text": "get used to",
+          "isCorrect": true
+        },
+        {
+          "id": 337894,
+          "label": "C",
+          "text": "used to",
+          "isCorrect": false
+        },
+        {
+          "id": 355463,
+          "label": "D",
+          "text": "be used to",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 337893,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn đáp án đúng, hãy xem xét kỹ cấu trúc và ý nghĩa của các cụm từ liên quan đến <em>\"used to\"</em>.<ul><li><em>\"used to + V(inf)\"</em> diễn tả thói quen trong quá khứ.</li><li><em>\"be used to + V-ing/N\"</em> diễn tả trạng thái đã quen với.</li><li><em>\"get used to + V-ing/N\"</em> diễn tả quá trình trở nên quen với.</li></ul>Hãy chú ý đến động từ <em>\"refuses to\"</em> và dạng của từ <em>\"writing\"</em> sau chỗ trống để xác định cấu trúc phù hợp nhất.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&aacute;c cấu tr&uacute;c với 'used to'.</span></p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c cấu tr&uacute;c n&agrave;y được d&ugrave;ng để diễn tả th&oacute;i quen, trạng th&aacute;i trong qu&aacute; khứ hoặc việc trở n&ecirc;n/đ&atilde; quen với một điều g&igrave; đ&oacute;.</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>used to + V(inf):</strong> diễn tả một th&oacute;i quen hoặc trạng th&aacute;i trong qu&aacute; khứ kh&ocirc;ng c&ograve;n tiếp diễn ở hiện tại.</li>\n<li style=\"text-align: justify;\"><strong>be used to + V-ing/N:</strong> diễn tả việc đ&atilde; quen với một điều g&igrave; đ&oacute;.</li>\n<li style=\"text-align: justify;\"><strong>get used to + V-ing/N:</strong> diễn tả việc đang trong qu&aacute; tr&igrave;nh hoặc đ&atilde; trở n&ecirc;n quen với một điều g&igrave; đ&oacute;.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi diễn tả việc b&agrave; của t&ocirc;i từ chối <em>trở n&ecirc;n quen với</em> việc viết tr&ecirc;n m&aacute;y t&iacute;nh. Từ <em>\"refuses to\"</em> gợi &yacute; một h&agrave;nh động hoặc qu&aacute; tr&igrave;nh m&agrave; chủ ngữ đang chống lại, v&agrave; theo sau l&agrave; <em>\"writing\"</em> (dạng V-ing). Cấu tr&uacute;c <em>\"get used to + V-ing\"</em> mang &yacute; nghĩa <em>\"trở n&ecirc;n quen với\"</em>, ho&agrave;n to&agrave;n ph&ugrave; hợp với ngữ cảnh n&agrave;y.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 \"use to\" sai ngữ ph&aacute;p v&igrave; thiếu 'd' v&agrave; kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh. Phương &aacute;n 3 \"used to\" cần theo sau l&agrave; động từ nguy&ecirc;n mẫu (V-inf) để diễn tả th&oacute;i quen trong qu&aacute; khứ. Phương &aacute;n 4 \"be used to\" diễn tả trạng th&aacute;i \"đ&atilde; quen với\", kh&ocirc;ng ph&ugrave; hợp với động từ \"refuses to\" (từ chối) ngụ &yacute; một qu&aacute; tr&igrave;nh l&agrave;m quen.</p>",
+      "answerFeedbacks": {
+        "337892": "Sai ngữ pháp vì thiếu 'd' trong cấu trúc <em>\"used to\"</em> hoặc không đúng với cấu trúc <em>\"get used to\"</em> hay <em>\"be used to\"</em> cần V-ing.",
+        "337893": "Đây là đáp án đúng vì cấu trúc <em>\"get used to + V-ing\"</em> (trở nên quen với) phù hợp với ngữ cảnh <em>\"refuses to\"</em> (từ chối làm quen với) và theo sau là <em>\"writing\"</em> (V-ing).",
+        "337894": "Sai vì <em>\"used to\"</em> cần theo sau là động từ nguyên mẫu (V-inf) để diễn tả thói quen trong quá khứ, không phù hợp với <em>\"writing\"</em> (V-ing) và nghĩa của câu.",
+        "355463": "Sai vì <em>\"be used to + V-ing\"</em> diễn tả trạng thái <em>\"đã quen với\"</em>, không phù hợp với động từ <em>\"refuses to\"</em> (từ chối) ngụ ý một quá trình làm quen."
+      },
+      "images": []
+    },
+    {
+      "id": 37225,
+      "questionNumber": 15,
+      "questionName": "Question 14.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>There’s bread, but I’m afraid there’s _____ milk.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 113700,
+          "label": "A",
+          "text": "some",
+          "isCorrect": false
+        },
+        {
+          "id": 113701,
+          "label": "B",
+          "text": "any",
+          "isCorrect": false
+        },
+        {
+          "id": 113702,
+          "label": "C",
+          "text": "no",
+          "isCorrect": true
+        },
+        {
+          "id": 113703,
+          "label": "D",
+          "text": "a lot",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 113702,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn lượng từ phù hợp, hãy xem xét các yếu tố sau:</p>\n<ul>\n<li>Từ nối <em>\"but\"</em> thường chỉ sự đối lập giữa hai vế câu.</li>\n<li>Cụm từ <em>\"I'm afraid\"</em> thể hiện sự tiếc nuối hoặc lo lắng, thường đi kèm với thông tin tiêu cực hoặc thiếu hụt.</li>\n<li>Danh từ <em>\"milk\"</em> là danh từ không đếm được.</li>\n</ul>\n<p>Dựa vào ngữ cảnh đối lập và ý thiếu hụt, bạn cần chọn lượng từ phù hợp nhất để diễn đạt ý \"không có\".</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Lượng từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Lượng từ được sử dụng để chỉ số lượng hoặc mức độ của danh từ mà chúng bổ nghĩa, thường đứng trước danh từ để xác định số lượng không cụ thể.</p>\n<p><strong>Một số lượng từ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">some + N (số nhiều đếm được/không đếm được)</span>:</strong> một vài/một ít (dùng trong câu khẳng định, câu hỏi đề nghị/lời mời)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">any + N (số nhiều đếm được/không đếm được)</span>:</strong> bất kỳ/một chút nào (dùng trong câu phủ định, câu hỏi nghi vấn)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">no + N (số nhiều đếm được/không đếm được)</span>:</strong> không có (dùng trong câu khẳng định nhưng mang nghĩa phủ định)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">a lot of + N (số nhiều đếm được/không đếm được)</span>:</strong> nhiều (dùng trong câu khẳng định, phủ định, nghi vấn)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, từ <em>\"but\"</em> cho thấy sự đối lập giữa hai vế câu. Vế sau <em>\"I'm afraid there's _____ milk\"</em> cần một lượng từ mang nghĩa phủ định để diễn tả sự thiếu hụt, phù hợp với cụm <em>\"I'm afraid\"</em>.</p>\n<p style=\"text-align: justify;\">Phương án <em>\"no\"</em> (không có) là lượng từ duy nhất mang nghĩa phủ định trực tiếp mà không cần động từ phủ định đi kèm, và phù hợp với danh từ không đếm được <em>\"milk\"</em>. Các lựa chọn khác như <em>\"some\"</em> và <em>\"a lot\"</em> mang nghĩa khẳng định, còn <em>\"any\"</em> cần đi với động từ phủ định (ví dụ: <em>\"there isn't any milk\"</em>).</p>",
+      "answerFeedbacks": {
+        "113700": "Sai vì <em>\"some\"</em> thường dùng trong câu khẳng định hoặc câu hỏi đề nghị/lời mời, không phù hợp với ngữ cảnh phủ định hoặc thiếu hụt ở đây.",
+        "113701": "Sai vì <em>\"any\"</em> dùng trong câu phủ định và câu hỏi nghi vấn, nhưng câu này đã có <em>\"there's\"</em> (khẳng định về mặt cấu trúc ngữ pháp) và cần một từ mang nghĩa phủ định trực tiếp.",
+        "113702": "Đúng vì <em>\"no\"</em> mang nghĩa phủ định, phù hợp với ngữ cảnh thể hiện sự thiếu hụt <em>\"I'm afraid there's no milk\"</em> (Tôi e là không có sữa), và đứng trước danh từ không đếm được <em>\"milk\"</em>.",
+        "113703": "Sai vì <em>\"a lot\"</em> (thường đi với <em>\"of\"</em> thành <em>\"a lot of\"</em>) mang nghĩa \"nhiều\", đối lập với ý thiếu hụt được gợi ý bởi <em>\"but I'm afraid\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 336172,
+      "questionNumber": 16,
+      "questionName": "Question 8: ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He suggested _____ together for safety, because the area was so dangerous.</strong></p>\n<div style=\"position: absolute; left: 315px; top: 34px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 714782,
+          "label": "A",
+          "text": "travelling",
+          "isCorrect": true
+        },
+        {
+          "id": 714783,
+          "label": "B",
+          "text": "to travel",
+          "isCorrect": false
+        },
+        {
+          "id": 714784,
+          "label": "C",
+          "text": "travel",
+          "isCorrect": false
+        },
+        {
+          "id": 714785,
+          "label": "D",
+          "text": "travels",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 714782,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + suggest + V-ing + ...</strong>: đề nghị l&agrave;m g&igrave;&nbsp;</p>\n<p>Dịch: Anh ấy đề nghị đi c&ugrave;ng nhau cho an to&agrave;n, v&igrave; khu vực n&agrave;y rất nguy hiểm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 12744,
+      "questionNumber": 17,
+      "questionName": "Q20:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>- &#8220;How well you are playing!&#8221;</strong></p>\n<p><strong>- &#8220; _____&#8221;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 42163,
+          "label": "A",
+          "text": "<p>Say it again. I like to hear your words.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 42164,
+          "label": "B",
+          "text": "<p>Many thanks! That’s a nice compliment.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 42165,
+          "label": "C",
+          "text": "<p>I don't think so. I am proud of myself!</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 42166,
+          "label": "D",
+          "text": "<p>Thank you too much!</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 42164,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>X&aacute;c định mục đ&iacute;ch giao tiếp của lời n&oacute;i <em>\"How well you are playing!\"</em> l&agrave; g&igrave;. Đ&acirc;y l&agrave; một lời khen ngợi.</p>\n<p>Sau đ&oacute;, h&atilde;y xem x&eacute;t từng phương &aacute;n để chọn c&acirc;u trả lời thể hiện sự lịch sự v&agrave; ph&ugrave; hợp nhất khi đ&aacute;p lại một lời khen.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span></p>\n<p style=\"text-align: justify;\">Lượt lời đầu ti&ecirc;n <em>\"How well you are playing!\"</em> l&agrave; một lời khen ngợi về khả năng chơi của người nghe.</p>\n<p style=\"text-align: justify;\">Để đ&aacute;p lại một lời khen, c&aacute;ch ph&ugrave; hợp nhất l&agrave; b&agrave;y tỏ l&ograve;ng biết ơn v&agrave; thừa nhận lời khen đ&oacute;, như trong phương &aacute;n 2 <em>\"Many thanks! That&rsquo;s a nice compliment.\"</em>.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n 1, 3 v&agrave; 4 kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh đ&aacute;p lại lời khen.</p>",
+      "answerFeedbacks": {
+        "42163": "<p>Cụm từ<em> \"Say it again\" </em>thường được d&ugrave;ng khi bạn kh&ocirc;ng nghe r&otilde; hoặc muốn người kh&aacute;c lặp lại điều g&igrave; đ&oacute;, kh&ocirc;ng ph&ugrave; hợp để đ&aacute;p lại lời khen.</p>",
+        "42164": "<p>Đây là cách đáp lại lời khen một cách lịch sự, thể hiện sự cảm ơn và thừa nhận lời khen.</p>",
+        "42165": "<p>Câu trả lời này mâu thuẫn: vế đầu phủ nhận lời khen, vế sau lại thể hiện sự tự hào, tạo thành một phản ứng không hợp lý.</p>",
+        "42166": "<p>Cụm từ <em>\"too much\"</em> kh&ocirc;ng được d&ugrave;ng để bổ nghĩa cho <em>\"Thank you\"</em> trong ngữ cảnh n&agrave;y; c&aacute;ch diễn đạt đ&uacute;ng phải l&agrave; <em>\"Thank you very much\"</em> hoặc <em>\"Thanks a lot\".</em></p>"
+      },
+      "images": []
+    },
+    {
+      "id": 4939,
+      "questionNumber": 18,
+      "questionName": "hội thoại “I’m sorry. I won’t be able to come.”",
+      "questionType": "MultipleChoice",
+      "questionText": "<p>- Tom: <strong>\"I’m sorry. I won’t be able to come.\"</strong></p>\n<p>- Jerry: <strong>\"______\"</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 11909,
+          "label": "A",
+          "text": "<p>Great!</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 11910,
+          "label": "B",
+          "text": "<p>Oh, that’s annoying!</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 11911,
+          "label": "C",
+          "text": "Sounds like fun!",
+          "isCorrect": false
+        },
+        {
+          "id": 11912,
+          "label": "D",
+          "text": "<p>Well, never mind!</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 11912,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Xác định mục đích giao tiếp của lời Tom nói: anh ấy đang xin lỗi và thông báo không thể tham gia.</p>\n<p>Hãy tìm phương án đáp lại thể hiện sự thông cảm, chấp nhận hoặc trấn an, không khiến người nói cảm thấy tồi tệ hơn.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Tom đang xin lỗi và thông báo rằng anh ấy sẽ không thể đến: <em>\"I’m sorry. I won’t be able to come.\"</em> (Tôi xin lỗi. Tôi sẽ không thể đến được.). Jerry cần đáp lại bằng cách thể hiện sự thông cảm, chấp nhận hoặc trấn an.</p>\n<p style=\"text-align: justify;\">Phương án 4, <em>\"Well, never mind!\"</em> (Thôi, đừng bận tâm!), là một cách diễn đạt phổ biến để nói rằng mọi việc đều ổn hoặc không cần lo lắng về lời xin lỗi, thể hiện sự chấp nhận và thông cảm.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2 và 3 không ph&amp;ù; hợp vì chúng thể hiện cảm xúc hoặc ý nghĩa không tương thích với lời xin lỗi và từ chối của Tom.</p>",
+      "answerFeedbacks": {
+        "11909": "<p>Phương án này không phù hợp vì nó diễn tả sự vui mừng, phấn khởi, trong khi Tom đang thông báo không thể tham gia hoạt động đó.</p>",
+        "11910": "<p>Phương án này thể hiện sự khó chịu, không phải là cách đáp lại lịch sự và thông cảm khi người khác xin lỗi vì không thể tham gia.</p>",
+        "11911": "<p>Phương án này không phù hợp vì nó diễn tả sự thích thú về một hoạt động, trong khi Tom đang thông báo không thể tham gia hoạt động đó.</p>",
+        "11912": "<p>Cụm từ <em>\"never mind\"</em> là một cách diễn đạt sự chấp nhận hoặc trấn an, có nghĩa là \"đừng bận tâm\" hoặc \"không sao đâu\", rất phù hợp để đáp lại lời xin lỗi.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 144623,
+      "questionNumber": 19,
+      "questionName": "join hands",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>We should <u>join hands</u> to protect our environment.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 340042,
+          "label": "A",
+          "text": "take-up",
+          "isCorrect": false
+        },
+        {
+          "id": 340043,
+          "label": "B",
+          "text": "put up",
+          "isCorrect": false
+        },
+        {
+          "id": 340044,
+          "label": "C",
+          "text": "work together",
+          "isCorrect": true
+        },
+        {
+          "id": 340045,
+          "label": "D",
+          "text": "make decisions",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 340044,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>join hands</strong>: hợp t&aacute;c ~ <strong>work together</strong>: l&agrave;m việc c&ugrave;ng nhau</p>\n<p>Dịch: Ch&uacute;ng ta n&ecirc;n c&ugrave;ng nhau bảo vệ m&ocirc;i trường.</p>\n<p>take up: chiếm (thời gian, c&ocirc;ng sức)</p>\n<p>put up: đề xuất</p>\n<p>make decisions: quyết định</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 144628,
+      "questionNumber": 20,
+      "questionName": "accurate",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>We hope to become more <u>accurate</u> in predicting earthquakes.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 340062,
+          "label": "A",
+          "text": "dangerous",
+          "isCorrect": false
+        },
+        {
+          "id": 340063,
+          "label": "B",
+          "text": "delicious",
+          "isCorrect": false
+        },
+        {
+          "id": 340064,
+          "label": "C",
+          "text": "nervous",
+          "isCorrect": false
+        },
+        {
+          "id": 340065,
+          "label": "D",
+          "text": "exact",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 340065,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2FTCtLkOdKYcxVwyuW4zxYcm99BPJqra6DD%2BMt6ZPO61YWd1aZd3V2nZ%2F%2BDQiMDFwlfh3OJ5dnipS1Y7MK%2BX1IVc2PGf6V7EvMJ4JeIMmvsXxS9GeCEHHkjNAn1nKhYE%2FU24qo2m9mJ%2FWakw3pEIlSdoT%2Fen5deMN6xvpBFlqddn4Sn4lC%2BvoLj0pvh7uC2s5HJexy005NB8z4EZJK5Mi7STS61TKO%2BL0QDbX%2FyHywF16Vgm2UONvG60gBTuw7Tv8%2BwWWquRxhgDUufB3QU2r1kULMZpG8t8IOZs7J6s7aDuLN%2Fqx4ilg02fjk%2FxeGviQg7RT3GnnnfQA%3D%3D\" width=\"380\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Ch&uacute;ng t&ocirc;i hy vọng c&oacute; thể dự đo&aacute;n ch&iacute;nh x&aacute;c hơn c&aacute;c trận động đất.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 143168,
+      "questionNumber": 21,
+      "questionName": "6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>Slang can be defined as a set of lexical, grammatical, and phonological regularities used in <u>informal</u> speech.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 337140,
+          "label": "A",
+          "text": "informative",
+          "isCorrect": false
+        },
+        {
+          "id": 337141,
+          "label": "B",
+          "text": "official",
+          "isCorrect": true
+        },
+        {
+          "id": 337142,
+          "label": "C",
+          "text": "situational",
+          "isCorrect": false
+        },
+        {
+          "id": 337143,
+          "label": "D",
+          "text": "casual",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 337141,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2FMd%2BXVRTB7ofdP70SGN%2BAKVgwDqjNp%2B1BjZyvlCd3S3s0x9d5yGmBu6AVxglyQieKTT25wo2f%2Ftzgtm75qb4zXTZr3E8ISBao2HLp2jQYlu72b7g%2BWV6r0llYRYuXBZJhjqK4VeB8HHydC29t%2B2%2BC0wSn6DrPvaBDZD9OM4XoEAgOE4kcDK%2BrtUGk6wMSx2kHtOZZy8ZsBoIf09c8kTkO5NKthL3svPZDEUPo6D1TYQyU%2BO6iNeUUMNezjrI0t3KG7JgVgj29lpdfUGqr5fiVuvO48E2Ie0m8zf66HpmoqYcAIEeTlXQp%2FF0RBHf5LOdjzA%2FIBqUDnXfLF1Bw0GLWRYPcA9DVT%2B%2FJ5bHieYZ7lwflFN%2BtPmezr\" width=\"380\" height=\"400\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Tiếng l&oacute;ng c&oacute; thể được định nghĩa l&agrave; tập hợp c&aacute;c từ vựng, ngữ ph&aacute;p v&agrave; ngữ &acirc;m được sử dụng trong b&agrave;i ph&aacute;t biểu kh&ocirc;ng ch&iacute;nh thức.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 143173,
+      "questionNumber": 22,
+      "questionName": "11",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>The only means of <u>access</u> to the station is through a dark subway.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 337160,
+          "label": "A",
+          "text": "arrival",
+          "isCorrect": false
+        },
+        {
+          "id": 337161,
+          "label": "B",
+          "text": "admission",
+          "isCorrect": false
+        },
+        {
+          "id": 337162,
+          "label": "C",
+          "text": "outlet",
+          "isCorrect": true
+        },
+        {
+          "id": 337163,
+          "label": "D",
+          "text": "output",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 337162,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2BtAVidWD5lTFqcxwUrC9lOeyoT9%2FVQEX2iKaiOnTcrJvG%2B8338SF3zP8ySmTAQS5qOtSPbz50mFn053oNUfkA4shV%2FMW5agCo7YW4Z46ml%2F6qxBxvL67o3VFMlPNrzdUug%2BttthWVrrlwi46J1W9%2BY5dlPHAG4PmvG8eE92CkkQKdKUek%2FPp1o05wGWW%2FA64qGcA6aPUZMHgvuDgTYUPH090kPYOexOBgPtqq9MyA7LxaUT0Pjv9CvrFGOWYYVR5njXZ62c618R6korXN921fR4JwliDqX%2BXkDW0Wi7VGGw%2FGMAY1uigBWaxWX3NJIDuehnLR%2BlFUniNW2xaBzYYyt8%2B035TMMaKQnK15UA0cpBQlQQmvR2j1%2FamwhYy3vIaK63GD%2FsVdcKVma2xFtHjG7bQkDWcYou8oK32BML70VF75OPjrZ633x\" width=\"100%\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Lối v&agrave;o duy nhất để đến trạm l&agrave; đi qua đường ngầm tối đen.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 155773,
+      "questionNumber": 23,
+      "questionName": "Des(166w)",
+      "questionType": "Description",
+      "questionText": "<p><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p>The bee, like the ant, is a social insect. <span class=\"answerhighlight q1\">Bees live in groups</span> in a hive, and <span class=\"answerhighlight q1\">every bee does certain work that helps the other members of the group</span>. In a beehive, there are three kinds of bees: the queen bee, the drones, and the workers. The worker bees go from flower to flower collecting nectar, or juice, which is composed mostly of sugar mixed with water. Bees draw this nectar into the honey sacks of their bodies, and <span class=\"answerhighlight q2\">enzymes in their bodies turn the nectar into honey</span>. <span class=\"answerhighlight q4\">This newly made honey <em><strong>oozes</strong></em>&nbsp;from the underside of the bees</span> and is stored in cells in the hive to be used as food during the winter months. Some people are in the honey business and keep hundreds of hives. <span class=\"answerhighlight q3\">Beekeepers remove honey from the hives and pack it in bottles or jars</span>. <span class=\"answerhighlight q5\">Honey usually appears as a clear golden-colored liquid, but this depends on the kind of flower from which the bees have taken the nectar.</span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 155777,
+      "questionNumber": 24,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word <em>&ldquo;oozes&rdquo;</em> in the passage mostly means____________ .</strong></p>",
+      "passageText": "<p><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p>The bee, like the ant, is a social insect. <span class=\"answerhighlight q1\">Bees live in groups</span> in a hive, and <span class=\"answerhighlight q1\">every bee does certain work that helps the other members of the group</span>. In a beehive, there are three kinds of bees: the queen bee, the drones, and the workers. The worker bees go from flower to flower collecting nectar, or juice, which is composed mostly of sugar mixed with water. Bees draw this nectar into the honey sacks of their bodies, and <span class=\"answerhighlight q2\">enzymes in their bodies turn the nectar into honey</span>. <span class=\"answerhighlight q4\">This newly made honey <em><strong>oozes</strong></em>&nbsp;from the underside of the bees</span> and is stored in cells in the hive to be used as food during the winter months. Some people are in the honey business and keep hundreds of hives. <span class=\"answerhighlight q3\">Beekeepers remove honey from the hives and pack it in bottles or jars</span>. <span class=\"answerhighlight q5\">Honey usually appears as a clear golden-colored liquid, but this depends on the kind of flower from which the bees have taken the nectar.</span></p>",
+      "parentQuestionId": 155773,
+      "choices": [
+        {
+          "id": 363785,
+          "label": "A",
+          "text": "shows clearly",
+          "isCorrect": false
+        },
+        {
+          "id": 363786,
+          "label": "B",
+          "text": "flows slowly",
+          "isCorrect": true
+        },
+        {
+          "id": 363787,
+          "label": "C",
+          "text": "is used",
+          "isCorrect": false
+        },
+        {
+          "id": 363788,
+          "label": "D",
+          "text": "is stored",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 363786,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>ooze</strong> (v.): rỉ ra, chảy ra chầm chậm</p>\n<p>~ <strong>flows slowly</strong></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 155785,
+      "questionNumber": 25,
+      "questionName": "Fill",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Read the text and choose the best answer to fill in the blanks.</strong></p>\n<p>&nbsp;The most dominant and reliable features of facial expressions provide a constant channel of communication. They can be shifty and evasive; convey hate, fear, and guilt; or <strong><span class='fillblank-option'><label>24.1</label><select class='ms fillblank-option-24' index='0' name='fbo-155785-0' data-testid='fillblank-select-155785-0'><option value='' data-testid='fillblank-option-empty-155785-0'></option><option value=\"replace\" data-testid='fillblank-option-155785-0-replace'>replace</option><option value=\"report\" data-testid='fillblank-option-155785-0-report'>report</option><option value=\"express\" data-testid='fillblank-option-155785-0-express'>express</option><option value=\"consider\" data-testid='fillblank-option-155785-0-consider'>consider</option></select></span></strong> confidence, love, and support.</p>\n<p>Referred to as &quot;mirrors of the soul&quot; our eyes serve as the major decisive factor in interpreting the spoken words. The eyes of the man converse as much as their tongues, with the advantage that the ocular dialect needs no dictionary, but it is understood all over the world. When the eyes say one thing, and the tongue another, a practiced man relies on eyes. Except <strong><span class='fillblank-option'><label>24.2</label><select class='ms fillblank-option-24' index='1' name='fbo-155785-1' data-testid='fillblank-select-155785-1'><option value='' data-testid='fillblank-option-empty-155785-1'></option><option value=\"for\" data-testid='fillblank-option-155785-1-for'>for</option><option value=\"in\" data-testid='fillblank-option-155785-1-in'>in</option><option value=\"with\" data-testid='fillblank-option-155785-1-with'>with</option><option value=\"of\" data-testid='fillblank-option-155785-1-of'>of</option></select></span></strong> extremely shy individuals, most people look for social acceptance by studying the eyes of others. Eyes also can <strong><span class='fillblank-option'><label>24.3</label><select class='ms fillblank-option-24' index='2' name='fbo-155785-2' data-testid='fillblank-select-155785-2'><option value='' data-testid='fillblank-option-empty-155785-2'></option><option value=\"inaccurate\" data-testid='fillblank-option-155785-2-inaccurate'>inaccurate</option><option value=\"accurate\" data-testid='fillblank-option-155785-2-accurate'>accurate</option><option value=\"accurately\" data-testid='fillblank-option-155785-2-accurately'>accurately</option><option value=\"accuracy\" data-testid='fillblank-option-155785-2-accuracy'>accuracy</option></select></span></strong> indicate a positive or a negative relationship. People tend to look longer and more often at the people whom they trust, respect and care about than at those whom they doubt or dislike. Normal eye dilation is not under the control of the individual. Personally, characteristics such as introversion and extroversion also influence eye behavior. Eye behavior seems <strong><span class='fillblank-option'><label>24.4</label><select class='ms fillblank-option-24' index='3' name='fbo-155785-3' data-testid='fillblank-select-155785-3'><option value='' data-testid='fillblank-option-empty-155785-3'></option><option value=\"being\" data-testid='fillblank-option-155785-3-being'>being</option><option value=\"to be\" data-testid='fillblank-option-155785-3-to be'>to be</option><option value=\"be\" data-testid='fillblank-option-155785-3-be'>be</option><option value=\"been\" data-testid='fillblank-option-155785-3-been'>been</option></select></span> </strong>particular importance and is generally used to indicate whether one is open to communication. This can be observed when a teacher asks the class a question: students who think they know the answer will generally look at the teacher, <strong><span class='fillblank-option'><label>24.5</label><select class='ms fillblank-option-24' index='4' name='fbo-155785-4' data-testid='fillblank-select-155785-4'><option value='' data-testid='fillblank-option-empty-155785-4'></option><option value=\"as\" data-testid='fillblank-option-155785-4-as'>as</option><option value=\"so\" data-testid='fillblank-option-155785-4-so'>so</option><option value=\"because\" data-testid='fillblank-option-155785-4-because'>because</option><option value=\"while\" data-testid='fillblank-option-155785-4-while'>while</option></select></span></strong> students who do not know the answer will usually try to avoid eye contact.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "express"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "for"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "accurately"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "to be"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "while"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. <strong>express</strong> (v.): thể hiện, bộc lộ</p>\n<p>Dịch: Họ c&oacute; thể l&agrave; người nh&uacute;t nh&aacute;t v&agrave; lảng tr&aacute;nh; truyền tải sự gh&eacute;t bỏ, sợ h&atilde;i v&agrave; cảm gi&aacute;c tội lỗi; hoặc b&agrave;y tỏ sự tự tin, t&igrave;nh y&ecirc;u v&agrave; sự ủng hộ.</p>\n<p>2. <strong>except for sth</strong>: trừ c&aacute;i g&igrave; ra</p>\n<p>Dịch: Ngoại trừ những c&aacute; nh&acirc;n cực kỳ nh&uacute;t nh&aacute;t, hầu hết mọi người t&igrave;m kiếm sự c&ocirc;ng nhận của x&atilde; hội bằng c&aacute;ch để &yacute; c&aacute;ch nh&igrave;n của người kh&aacute;c.</p>\n<p>3. <strong>accurately</strong> (adv.): một c&aacute;ch ch&iacute;nh x&aacute;c</p>\n<p>Trạng từ đứng trước động từ để bổ nghĩa cho động từ đ&oacute;.&nbsp;</p>\n<p>Dịch: &Aacute;nh mắt cũng c&oacute; thể chỉ ra ch&iacute;nh x&aacute;c mối quan hệ t&iacute;ch cực hoặc ti&ecirc;u cực.</p>\n<p>4. <strong>seem to V(inf)</strong>: dường như l&agrave;m việc g&igrave;</p>\n<p><strong>seem to be</strong>: dường như l&agrave; g&igrave;</p>\n<p>Dịch: Sự di chuyển của &aacute;nh mắt dường như đặc biệt quan trọng v&agrave; thường được d&ugrave;ng để chỉ ra liệu một người c&oacute; sẵn s&agrave;ng giao tiếp kh&ocirc;ng.</p>\n<p>5. <strong>while</strong> (conj.): trong khi</p>\n<p>Dịch: Những học sinh nghĩ rằng họ biết c&acirc;u trả lời thường sẽ nh&igrave;n v&agrave;o gi&aacute;o vi&ecirc;n, trong khi những học sinh kh&ocirc;ng biết c&acirc;u trả lời thường sẽ cố gắng tr&aacute;nh giao tiếp bằng mắt.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 392044,
+      "questionNumber": 26,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>the books / sell / at a lower price?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 800008,
+          "label": "A",
+          "text": "Are the books selling at a lower price?",
+          "isCorrect": false
+        },
+        {
+          "id": 800009,
+          "label": "B",
+          "text": "Are the books being sell at a lower price?",
+          "isCorrect": false
+        },
+        {
+          "id": 800010,
+          "label": "C",
+          "text": "Are the books being selling at a lower price?",
+          "isCorrect": false
+        },
+        {
+          "id": 800011,
+          "label": "D",
+          "text": "Are the books being sold at a lower price?",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 800011,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Chủ ngữ \"<strong>the books</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>sell</strong>\". =&gt; Động từ phải ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động ở th&igrave; hiện tại tiếp diễn: <strong>S + is/am/are + being + V(pp) + (by O)</strong></p>\n<p>Dịch: Những cuốn s&aacute;ch đ&oacute; đang được b&aacute;n với gi&aacute; thấp hơn &agrave;?<br /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 392045,
+      "questionNumber": 27,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>I / never / hear / the tram system / Hanoi</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 800012,
+          "label": "A",
+          "text": "<p>I have never heard about the tram system in Hanoi before.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 800013,
+          "label": "B",
+          "text": "<p>I never heard about the tram system at Hanoi before.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 800014,
+          "label": "C",
+          "text": "<p>I never have heard about the tram system in Hanoi before.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 800015,
+          "label": "D",
+          "text": "<p>I have never heard about the tram system before in Hanoi.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 800012,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Để diễn tả một kinh nghiệm chưa từng xảy ra cho đến thời điểm hiện tại, hãy sử dụng thì hiện tại hoàn thành với trợ động từ <em>have/has</em> và động từ ở dạng phân từ hai (V(pp)).</li>\n<li>Khi sử dụng trạng từ tần suất như <em>never</em> trong thì hiện tại hoàn thành, vị trí của nó là giữa trợ động từ (<em>have/has</em>) và động từ chính (V(pp)).</li>\n<li>Đối với địa điểm là một thành phố lớn như <em>Hanoi</em>, giới từ thích hợp nhất để chỉ nơi chốn là <em>in</em>.</li>\n<li>Trạng từ <em>before</em>, khi được dùng để chỉ một kinh nghiệm chung chung trong quá khứ với thì hiện tại hoàn thành, thường đứng ở cuối câu.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\">Thì Hiện tại hoàn thành:</p>\n<ul>\n<li style=\"text-align: justify;\">Cách dùng: Diễn tả một hành động xảy ra trong quá khứ nhưng còn liên quan đến hiện tại, hoặc một kinh nghiệm chưa từng xảy ra cho đến hiện tại. Thường dùng với trạng từ tần suất như <em>never</em>.</li>\n<li style=\"text-align: justify;\">Cấu trúc với \"never\": <strong>S + have/has + never + V(pp)</strong></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">in</span> (prep.): ở (dùng với thành phố, quốc gia)</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">before</span> (adv.): trước đó (thường đứng cuối câu trong thì hiện tại hoàn thành để nhấn mạnh kinh nghiệm chưa từng có)</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">→</span> Phương án 1 \"<span style=\"font-weight: 600;\">I <span class=\"eq-highlight\" style=\"color: #5fbd18;\">have never heard about</span> the tram system <span class=\"eq-highlight\" style=\"color: #5fbd18;\">in</span> Hanoi <span class=\"eq-highlight\" style=\"color: #5fbd18;\">before</span>.</span>\" là đáp án đúng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương án 2 \"<span style=\"font-weight: 600;\">I <span style=\"color: #ff0000;\">never heard</span> about the tram system <span style=\"color: #ff0000;\">at</span> Hanoi before.</span>\" sai vì \"never heard\" ở thì quá khứ đơn không diễn tả kinh nghiệm chưa từng có một cách tự nhiên như hiện tại hoàn thành, và giới từ \"at\" không dùng với thành phố lớn như \"Hanoi\".</li>\n<li style=\"text-align: justify;\">Phương án 3 \"<span style=\"font-weight: 600;\">I <span style=\"color: #ff0000;\">never have heard</span> about the tram system in Hanoi before.</span>\" sai vì vị trí của \"never\" không chính xác; \"never\" phải đứng giữa \"have\" và động từ phân từ hai (V(pp)) trong thì hiện tại hoàn thành.</li>\n<li style=\"text-align: justify;\">Phương án 4 \"<span style=\"font-weight: 600;\">I have never heard about the tram system <span style=\"color: #ff0000;\">before in Hanoi</span>.</span>\" sai vì trạng từ \"before\" thường đứng ở cuối câu khi chỉ thời gian chung chung cho kinh nghiệm trong thì hiện tại hoàn thành, sau cụm giới từ chỉ nơi chốn \"in Hanoi\".</li>\n</ul>",
+      "answerFeedbacks": {
+        "800012": "<p>Đúng vì câu này sử dụng thì hiện tại hoàn thành (have never heard) để diễn tả kinh nghiệm chưa từng có, với trạng từ \"never\" đặt đúng vị trí và giới từ \"in\" dùng chính xác cho địa điểm là thành phố.</p>",
+        "800013": "<p>Sai vì dùng thì quá khứ đơn (never heard) không phù hợp để diễn tả kinh nghiệm chưa từng có cho đến hiện tại, và giới từ \"at\" không dùng với thành phố lớn như Hanoi.</p>",
+        "800014": "<p>Sai vì trạng từ \"never\" đặt sai vị trí; nó phải đứng giữa trợ động từ \"have\" và động từ phân từ hai \"heard\" trong thì hiện tại hoàn thành.</p>",
+        "800015": "<p>Sai vì trạng từ \"before\" thường đứng ở cuối câu khi chỉ thời gian chung chung cho kinh nghiệm trong thì hiện tại hoàn thành, sau cụm giới từ chỉ nơi chốn \"in Hanoi\".</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 392046,
+      "questionNumber": 28,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>It / not / until / Shirley / eight / she / begin / read.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 800016,
+          "label": "A",
+          "text": "It is not until Shirley was eight when she began reading.",
+          "isCorrect": false
+        },
+        {
+          "id": 800017,
+          "label": "B",
+          "text": "It was not until Shirley was eight when she began reading.",
+          "isCorrect": false
+        },
+        {
+          "id": 800018,
+          "label": "C",
+          "text": "It was not until Shirley was eight that she began to read.",
+          "isCorrect": true
+        },
+        {
+          "id": 800019,
+          "label": "D",
+          "text": "It has not been until Shirley was eight that she began reading.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 800018,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Động từ được chia ở th&igrave; qu&aacute; khứ đơn (diễn tả sự việc đ&atilde; xảy ra v&agrave; kết th&uacute;c trong qu&aacute; khứ).</p>\n<p>Cấu tr&uacute;c: <strong>It + be + not until + S + V + that + Clause</strong>: M&atilde;i cho tới khi ...</p>\n<p><strong>begin + to V </strong>~ <strong>begin + V-ing</strong>: bắt đầu l&agrave;m g&igrave;</p>\n<p>Dịch: M&atilde;i cho đến khi Shirley l&ecirc;n t&aacute;m, c&ocirc; b&eacute; mới bắt đầu biết đọc.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 392052,
+      "questionNumber": 29,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>I / move / desk / order / sit by/ window.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 800040,
+          "label": "A",
+          "text": "I moved the desk in order that sitting by the window.",
+          "isCorrect": false
+        },
+        {
+          "id": 800041,
+          "label": "B",
+          "text": "I moved the desk in order that I could sit by the window.",
+          "isCorrect": true
+        },
+        {
+          "id": 800042,
+          "label": "C",
+          "text": "I moved the desk in order I could sit by the window.",
+          "isCorrect": false
+        },
+        {
+          "id": 800043,
+          "label": "D",
+          "text": "I moved the desk in order to I could sit by the window.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 800041,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c chỉ mục đ&iacute;ch: <strong>in order that + S + V</strong>: để m&agrave; ~ in order to + V(inf): để l&agrave;m g&igrave;</p>\n<p>Phương &aacute;n 1, 3, 4 sai ngữ ph&aacute;p.</p>\n<p>Dịch: T&ocirc;i di chuyển b&agrave;n để t&ocirc;i c&oacute; thể ngồi cạnh cửa sổ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 289452,
+      "questionNumber": 30,
+      "questionName": "I.10.1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Because of Covid-19 pandemic, we will have to cancel the trip to the mountain.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 633868,
+          "label": "A",
+          "text": "If there were no Covid-19 pandemic, we will not have to cancel the trip to the mountain.",
+          "isCorrect": false
+        },
+        {
+          "id": 633869,
+          "label": "B",
+          "text": "If there were no Covid-19 pandemic, we would not have to cancel the trip to the mountain.",
+          "isCorrect": true
+        },
+        {
+          "id": 633870,
+          "label": "C",
+          "text": "If there is no Covid-19 pandemic, we would not have to cancel the trip to the mountain.",
+          "isCorrect": false
+        },
+        {
+          "id": 633871,
+          "label": "D",
+          "text": "If there was no Covid-19 pandemic, we will have to cancel the trip to the mountain.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 633869,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại. (Trong mệnh đề IF, động từ to be c&oacute; thể l&agrave; <strong>\"were\"</strong> với mọi chủ ngữ.)</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> If + S + V(pt), S + would/could/should&hellip;+ V(inf)</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: V&igrave; đại dịch Covid-19, ch&uacute;ng t&ocirc;i sẽ phải hủy chuyến đi chơi tr&ecirc;n n&uacute;i.</span></p>\n<p><span style=\"font-weight: 400;\">~ Nếu kh&ocirc;ng c&oacute; đại dịch Covid-19, ch&uacute;ng t&ocirc;i sẽ kh&ocirc;ng phải hủy chuyến đi chơi tr&ecirc;n n&uacute;i.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 353577,
+      "questionNumber": 31,
+      "questionName": "17",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><i>Choose the sentence that is CLOSEST in meaning to the sentence given.</i></p>\n<p><strong>She is too young to see the horror film.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 742769,
+          "label": "A",
+          "text": "She is so young for her to see the horror film.",
+          "isCorrect": false
+        },
+        {
+          "id": 742770,
+          "label": "B",
+          "text": "She is so young that she can see the horror film.",
+          "isCorrect": false
+        },
+        {
+          "id": 742771,
+          "label": "C",
+          "text": "She is not old enough to see the horror film.",
+          "isCorrect": true
+        },
+        {
+          "id": 742772,
+          "label": "D",
+          "text": "She is so young for her seeing the horror film.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 742771,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul><li>Nhớ lại các cấu trúc diễn tả mức độ và kết quả, đặc biệt là cách dùng của <em>\"too...to\"</em> và <em>\"enough to\"</em>.</li><li>Cấu trúc <em>\"too + adjective + to-infinitive\"</em> (quá...đến nỗi không thể) và <em>\"not + adjective + enough + to-infinitive\"</em> (không đủ...để có thể) thường mang nghĩa tương đương nhau.</li><li>So sánh kỹ nghĩa của câu gốc <em>\"She is too young to see the horror film.\"</em> (cô ấy quá trẻ nên không thể xem phim) với các phương án, đặc biệt chú ý đến việc các cấu trúc <em>\"so...that\"</em> có thể mang nghĩa khẳng định hoặc phủ định tùy theo động từ theo sau.</li><li>Hãy tìm phương án diễn đạt cùng một kết quả phủ định là <em>\"không thể xem phim\"</em>.</li></ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">too + (adj.) + to + V(inf)</span> (phr.): quá...để không thể làm gì</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">not + (adj.) + enough + to + V(inf)</span> (phr.): không đủ...để làm gì</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">→</span> Phương án 3 \"<strong>She is <span style=\"color: #5fbd18;\">not old enough to</span> see the horror film.</strong>\" là đáp án đúng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương án 1 \"<strong><span style=\"color: #ff0000;\">She is so young for her to see</span> the horror film.</strong>\" sai vì cấu trúc \"so...for + O + to V\" không đúng ngữ pháp để diễn đạt ý \"quá...để không thể\".</li>\n<li style=\"text-align: justify;\">Phương án 2 \"<strong>She is so young that <span style=\"color: #ff0000;\">she can see</span> the horror film.</strong>\" sai vì cấu trúc \"so...that she can\" diễn đạt ý \"quá...đến nỗi có thể\", trái ngược hoàn toàn với nghĩa của câu gốc.</li>\n<li style=\"text-align: justify;\">Phương án 4 \"<strong><span style=\"color: #ff0000;\">She is so young for her seeing</span> the horror film.</strong>\" sai vì cấu trúc \"so...for + O + V-ing\" không đúng ngữ pháp để diễn đạt ý \"quá...để không thể\".</li>\n</ul>",
+      "answerFeedbacks": {
+        "742769": "Sai vì cấu trúc <em>\"so...for + O + to V\"</em> không đúng ngữ pháp để diễn đạt ý <em>\"quá...để không thể\"</em>.",
+        "742770": "Sai vì cấu trúc <em>\"so...that she can\"</em> diễn đạt ý <em>\"quá...đến nỗi có thể\"</em>, trái ngược với nghĩa của câu gốc.",
+        "742771": "Đúng vì cấu trúc <em>\"not + adj. + enough + to V\"</em> diễn đạt chính xác ý nghĩa <em>\"không đủ...để làm gì\"</em>, tương đương với <em>\"too + adj. + to V\"</em>.",
+        "742772": "Sai vì cấu trúc <em>\"so...for + O + V-ing\"</em> không đúng ngữ pháp để diễn đạt ý <em>\"quá...để không thể\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 342148,
+      "questionNumber": 32,
+      "questionName": "15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>\"Remember to write to your aunt,\" I said to Miss Linh.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 725214,
+          "label": "A",
+          "text": "I said to Miss Linh to remember to write to her.",
+          "isCorrect": false
+        },
+        {
+          "id": 725215,
+          "label": "B",
+          "text": "I said to Miss Linh remember to write to her aunt.",
+          "isCorrect": false
+        },
+        {
+          "id": 725216,
+          "label": "C",
+          "text": "I reminded Miss Linh to write to her aunt.",
+          "isCorrect": true
+        },
+        {
+          "id": 725217,
+          "label": "D",
+          "text": "I told Miss Linh remember to write to her aunt.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 725216,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Để chuyển một câu mệnh lệnh hoặc lời nhắc nhở từ trực tiếp sang gián tiếp, hãy xem xét các động từ tường thuật như <em>\"tell\"</em>, <em>\"ask\"</em>, <em>\"advise\"</em>, <em>\"remind\"</em>, v.v.</li>\n<li>Khi câu gốc là một lời nhắc nhở như <em>\"Remember to write to your aunt\"</em>, động từ <em>\"remind\"</em> thường là lựa chọn phù hợp nhất để diễn đạt ý nghĩa này.</li>\n<li>Chú ý đến cấu trúc ngữ pháp của các động từ tường thuật này. Đa số các động từ tường thuật mệnh lệnh/lời khuyên/nhắc nhở đều theo cấu trúc <em>\"động từ tường thuật + O + to V(inf)\"</em></li>\n<li>Kiểm tra xem các phương án có sử dụng đúng cấu trúc của động từ tường thuật hay không, đặc biệt là sự hiện diện của <em>\"to\"</em> trước động từ nguyên thể.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">remind (v.) + O + to V(inf)</span>: nhắc nhở ai đó làm gì</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">say (to + O) + that-clause</span> hoặc <span style=\"font-weight: 600;\">say + that-clause</span>: nói (với ai) rằng</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">tell + O + to V(inf)</span><span style=\"font-weight: 600;\">/</span><span style=\"font-weight: 600;\">that-clause</span>: bảo/nói với ai đó làm gì/rằng</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">→</span> Phương án 3 \"<span style=\"font-weight: 600;\">I <span class=\"eq-highlight\" style=\"color: #5fbd18;\">reminded</span> Miss Linh <span class=\"eq-highlight\" style=\"color: #5fbd18;\">to write</span> to her aunt.</span>\" là đáp án đúng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương án 1 \"<span style=\"font-weight: 600;\">I <span style=\"color: #ff0000;\">said to Miss Linh to remember</span> to write to her.</span>\" sai vì động từ <em>\"say\"</em> không đi trực tiếp với cấu trúc <em>\"to V\"</em> để tường thuật lời nhắc nhở hoặc mệnh lệnh; <em>\"to her\"</em> cũng không rõ ràng bằng <em>\"to her aunt\"</em>.</li>\n<li style=\"text-align: justify;\">Phương án 2 \"<span style=\"font-weight: 600;\">I <span style=\"color: #ff0000;\">said to Miss Linh remember</span> to write to her aunt.</span>\" sai vì đây là sự kết hợp không chính xác giữa câu trực tiếp và gián tiếp; động từ tường thuật <em>\"say\"</em> không được theo sau bởi mệnh lệnh trực tiếp trong câu gián tiếp.</li>\n<li style=\"text-align: justify;\">Phương án 4 \"<span style=\"font-weight: 600;\">I <span style=\"color: #ff0000;\">told Miss Linh remember</span> to write to her aunt.</span>\" sai vì động từ tường thuật <em>\"tell\"</em> khi diễn đạt lời nhắc nhở phải có cấu trúc <em>\"tell + O + to V(inf)\"</em>.</li>\n</ul>",
+      "answerFeedbacks": {
+        "725214": "Sai vì động từ <em>\"said\"</em> không được theo sau trực tiếp bởi tân ngữ và <em>\"to V(inf)\"</em> để tường thuật lời nhắc nhở; cấu trúc <em>\"say to O that S V\"</em> hoặc <em>\"tell O to V\"</em> mới đúng.",
+        "725215": "Sai vì cấu trúc <em>\"said to Miss Linh remember\"</em> là sự kết hợp không chính xác giữa câu trực tiếp và gián tiếp.",
+        "725216": "Đúng vì động từ <em>\"reminded\"</em> được dùng chính xác với cấu trúc <em>\"remind + O + to V(inf)\"</em> để tường thuật lời nhắc nhở, giữ nguyên nghĩa của câu gốc.",
+        "725217": "Sai vì động từ <em>\"told\"</em> khi tường thuật lời nhắc nhở phải theo cấu trúc <em>\"tell + O + to V(inf)\"</em>, không phải <em>\"tell + O + V(inf)\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 157417,
+      "questionNumber": 33,
+      "questionName": "so sánh bằng",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is closest in meaning to the following sentence.</em></p>\n<p><strong>She is more beautiful than any of the other girls in her class.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 367010,
+          "label": "A",
+          "text": "Any of the other girls in her class is more beautiful than her.",
+          "isCorrect": false
+        },
+        {
+          "id": 367011,
+          "label": "B",
+          "text": "No one in her class is as beautiful as her.",
+          "isCorrect": true
+        },
+        {
+          "id": 367012,
+          "label": "C",
+          "text": "She is as beautiful as any of the other girls in her class.",
+          "isCorrect": false
+        },
+        {
+          "id": 367013,
+          "label": "D",
+          "text": "No one in her class is less beautiful than her.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 367011,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh ngang bằng: <strong>S + be/V + as + adj./adv. + as + O/Pronoun/S + V</strong></span></p>\n<p>Dịch: C&ocirc; ấy xinh đẹp hơn bất kỳ c&ocirc; g&aacute;i n&agrave;o kh&aacute;c trong lớp.</p>\n<p>~ Kh&ocirc;ng ai trong lớp c&ocirc; ấy đẹp như c&ocirc; ấy.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

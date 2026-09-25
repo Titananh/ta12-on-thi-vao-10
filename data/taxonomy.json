@@ -1,0 +1,2384 @@
+{
+  "skills": [
+    {
+      "skillName": "Phonetics",
+      "seoName": "phonetics",
+      "topicCategories": [
+        {
+          "topicCategoryName": "Pronunciation",
+          "seoName": "pronunciation",
+          "topics": [
+            {
+              "topicName": "Đuôi \"ed\"",
+              "englishName": "\"ed\" ending",
+              "seoName": "duoi-ed",
+              "sortOrder": 1,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 530,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 68
+            },
+            {
+              "topicName": "Đuôi \"s\"/\"es\"",
+              "englishName": "\"s\"/\"es\" ending",
+              "seoName": "duoi-ses",
+              "sortOrder": 2,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 335,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 69
+            },
+            {
+              "topicName": "Nguyên âm đơn",
+              "englishName": "Monophthongs",
+              "seoName": "nguyen-am-don",
+              "sortOrder": 3,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 1522,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 26
+            },
+            {
+              "topicName": "Nguyên âm đôi",
+              "englishName": "Diphthongs",
+              "seoName": "nguyen-am-doi",
+              "sortOrder": 4,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 908,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 27
+            },
+            {
+              "topicName": "Phụ âm",
+              "englishName": "Consonants",
+              "seoName": "phu-am",
+              "sortOrder": 5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 949,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 28
+            },
+            {
+              "topicName": "Âm câm",
+              "englishName": "Silent letters",
+              "seoName": "am-cam",
+              "sortOrder": 10,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 199,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 581
+            }
+          ],
+          "sortOrder": 10,
+          "id": 24
+        },
+        {
+          "topicCategoryName": "Word stress",
+          "seoName": "word-stress",
+          "topics": [
+            {
+              "topicName": "Từ có 2 âm tiết",
+              "englishName": "2-syllable words stress",
+              "seoName": "tu-co-2-am-tiet",
+              "sortOrder": 1,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 1008,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 29
+            },
+            {
+              "topicName": "Từ có 3 âm tiết",
+              "englishName": "3-syllable words stress",
+              "seoName": "tu-co-3-am-tiet",
+              "sortOrder": 2,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 946,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 30
+            },
+            {
+              "topicName": "Từ có hơn 3 âm tiết",
+              "englishName": "more-than-3-syllable words stress",
+              "seoName": "tu-co-hon-3-am-tiet",
+              "sortOrder": 3,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 333,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 31
+            }
+          ],
+          "sortOrder": 20,
+          "id": 25
+        }
+      ],
+      "sortOrder": 0,
+      "id": 19
+    },
+    {
+      "skillName": "Vocabulary",
+      "seoName": "vocabulary",
+      "topicCategories": [
+        {
+          "topicCategoryName": "Common words & expressions",
+          "seoName": "common-words--expressions",
+          "topics": [
+            {
+              "topicName": "Danh từ thông dụng",
+              "englishName": "Frequently used nouns",
+              "seoName": "danh-tu-thong-dung",
+              "sortOrder": 1,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 7553,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 70
+            },
+            {
+              "topicName": "Động từ thông dụng",
+              "englishName": "Frequently used verbs",
+              "seoName": "dong-tu-thong-dung",
+              "sortOrder": 2,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 3553,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 71
+            },
+            {
+              "topicName": "Tính từ thông dụng",
+              "englishName": "Frequently used adjectives",
+              "seoName": "tinh-tu-thong-dung",
+              "sortOrder": 3,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 3366,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 72
+            },
+            {
+              "topicName": "Tính từ ghép thông dụng",
+              "englishName": "Common compound adjectives",
+              "seoName": "tinh-tu-ghep-thong-dung",
+              "sortOrder": 3,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 116,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 438
+            },
+            {
+              "topicName": "Trạng từ thông dụng",
+              "englishName": "Frequently used adverbs",
+              "seoName": "trang-tu-thong-dung",
+              "sortOrder": 4,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 580,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 163
+            },
+            {
+              "topicName": "Cụm động từ thông dụng",
+              "englishName": "Common phrasal verbs",
+              "seoName": "cum-dong-tu-thong-dung",
+              "sortOrder": 5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 2285,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 73
+            },
+            {
+              "topicName": "Các từ vựng đi theo cụm",
+              "englishName": "Common Collocations & Fixed Expressions",
+              "seoName": "cac-tu-vung-di-theo-cum",
+              "sortOrder": 6,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 2338,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 134
+            },
+            {
+              "topicName": "Thành ngữ thông dụng",
+              "englishName": "Common idioms",
+              "seoName": "thanh-ngu-thong-dung",
+              "sortOrder": 7,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 1038,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 74
+            },
+            {
+              "topicName": "Các cặp từ dễ nhầm lẫn",
+              "englishName": "Confusing words",
+              "seoName": "cac-cap-tu-de-nham-lan",
+              "sortOrder": 9,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 229,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 216
+            }
+          ],
+          "sortOrder": 10,
+          "id": 178
+        },
+        {
+          "topicCategoryName": "Vocabulary by Topics",
+          "seoName": "vocabulary-by-topics",
+          "topics": [
+            {
+              "topicName": "Tuổi niên thiếu",
+              "englishName": "Teens & Teenage",
+              "seoName": "tuoi-nien-thieu",
+              "sortOrder": 0,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 93,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1644
+            },
+            {
+              "topicName": "Mua sắm",
+              "englishName": "Shopping",
+              "seoName": "mua-sam",
+              "sortOrder": 10,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 364,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1662
+            },
+            {
+              "topicName": "Lối sống",
+              "englishName": "Different lifestyles",
+              "seoName": "loi-song",
+              "sortOrder": 10,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 119,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1658
+            },
+            {
+              "topicName": "Sự đa dạng của tiếng Anh trên thế giới",
+              "englishName": "World Englishes",
+              "seoName": "su-da-dang-cua-tieng-anh-tren-the-gioi",
+              "sortOrder": 20,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 31,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1676
+            },
+            {
+              "topicName": "Sở thích & Hoạt động khi rảnh rỗi",
+              "englishName": "Hobbies & Freetime activities",
+              "seoName": "so-thich--hoat-dong-khi-ranh-roi",
+              "sortOrder": 30,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 804,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1635
+            },
+            {
+              "topicName": "Thể thao & Trò chơi",
+              "englishName": "Sports & Games",
+              "seoName": "the-thao--tro-choi",
+              "sortOrder": 30,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 1022,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1640
+            },
+            {
+              "topicName": "Công việc & Sự nghiệp",
+              "englishName": "The world of work & Career",
+              "seoName": "cong-viec--su-nghiep",
+              "sortOrder": 40,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 295,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1655
+            },
+            {
+              "topicName": "Sống xanh & Bảo vệ môi trường",
+              "englishName": "Going green & Protecting environment",
+              "seoName": "song-xanh--bao-ve-moi-truong",
+              "sortOrder": 50,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 297,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1659
+            },
+            {
+              "topicName": "Thiên tai",
+              "englishName": "Natural disasters",
+              "seoName": "thien-tai",
+              "sortOrder": 50,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 73,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1656
+            },
+            {
+              "topicName": "Các vấn đề môi trường",
+              "englishName": "Environmental problems",
+              "seoName": "cac-van-de-moi-truong",
+              "sortOrder": 50,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 233,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1671
+            },
+            {
+              "topicName": "Hệ sinh thái & Thế giới tự nhiên",
+              "englishName": "The ecosystem & Natural world",
+              "seoName": "he-sinh-thai--the-gioi-tu-nhien",
+              "sortOrder": 50,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 821,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1688
+            },
+            {
+              "topicName": "Khoa học, Phát minh & Công nghệ",
+              "englishName": "Science, Inventions & Technology",
+              "seoName": "khoa-hoc-phat-minh--cong-nghe",
+              "sortOrder": 60,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 1438,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1660
+            },
+            {
+              "topicName": "Cuộc sống ở hành tinh khác",
+              "englishName": "Life on other planets",
+              "seoName": "cuoc-song-o-hanh-tinh-khac",
+              "sortOrder": 60,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 5,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1661
+            },
+            {
+              "topicName": "Thiết bị điện tử",
+              "englishName": "Electronic devices",
+              "seoName": "thiet-bi-dien-tu",
+              "sortOrder": 60,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 39,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1663
+            },
+            {
+              "topicName": "Cuộc sống trong tương lai",
+              "englishName": "Life in the future",
+              "seoName": "cuoc-song-trong-tuong-lai",
+              "sortOrder": 60,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 124,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1654
+            },
+            {
+              "topicName": "Cuộc sống nông thôn",
+              "englishName": "Life in the countryside",
+              "seoName": "cuoc-song-nong-thon",
+              "sortOrder": 70,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 26,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1664
+            },
+            {
+              "topicName": "Du lịch",
+              "englishName": "Tourism & Travelling",
+              "seoName": "du-lich",
+              "sortOrder": 70,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 1065,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1670
+            },
+            {
+              "topicName": "Kỳ quan & Địa danh nổi tiếng",
+              "englishName": "Famous wonders & places",
+              "seoName": "ky-quan--dia-danh-noi-tieng",
+              "sortOrder": 70,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 110,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1647
+            },
+            {
+              "topicName": "Cuộc sống ở thành phố & Đô thị hóa",
+              "englishName": "City life & Urbanization",
+              "seoName": "cuoc-song-o-thanh-pho--do-thi-hoa",
+              "sortOrder": 70,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 75,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1673
+            },
+            {
+              "topicName": "Các dân tộc Việt Nam",
+              "englishName": "Ethnic groups of Vietnam",
+              "seoName": "cac-dan-toc-viet-nam",
+              "sortOrder": 80,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 30,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1657
+            },
+            {
+              "topicName": "Phong tục & Truyền thống trên thế giới",
+              "englishName": "Customs & Traditions around the world",
+              "seoName": "phong-tuc--truyen-thong-tren-the-gioi",
+              "sortOrder": 80,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 6,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1649
+            },
+            {
+              "topicName": "Cộng đồng địa phương",
+              "englishName": "Local community",
+              "seoName": "cong-dong-dia-phuong",
+              "sortOrder": 80,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 14,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1645
+            },
+            {
+              "topicName": "Lối sống của người Việt: Xưa và Nay",
+              "englishName": "Vietnamese lifestyle: Then and Now",
+              "seoName": "loi-song-cua-nguoi-viet-xua-va-nay",
+              "sortOrder": 80,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 18,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1675
+            },
+            {
+              "topicName": "Lối sống lành mạnh",
+              "englishName": "Healthy living",
+              "seoName": "loi-song-lanh-manh",
+              "sortOrder": 96,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 23,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 1667
+            }
+          ],
+          "sortOrder": 50,
+          "id": 540
+        }
+      ],
+      "sortOrder": 9,
+      "id": 20
+    },
+    {
+      "skillName": "Grammar",
+      "seoName": "grammar",
+      "topicCategories": [
+        {
+          "topicCategoryName": "Nouns and Determiners",
+          "seoName": "nouns-and-determiners",
+          "topics": [
+            {
+              "topicName": "Danh từ đếm được và không đếm được",
+              "englishName": "Countable and uncountable nouns",
+              "seoName": "danh-tu-dem-duoc-va-khong-dem-duoc",
+              "sortOrder": 1,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 88,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 340
+            },
+            {
+              "topicName": "Danh từ số ít và số nhiều",
+              "englishName": "Singlular and plural nouns",
+              "seoName": "danh-tu-so-it-va-so-nhieu",
+              "sortOrder": 2,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 136,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 349
+            },
+            {
+              "topicName": "Từ định lượng some, any...",
+              "englishName": "Quantifiers some, any...",
+              "seoName": "tu-dinh-luong-some-any",
+              "sortOrder": 3,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 197,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 348
+            },
+            {
+              "topicName": "Cách đo đếm danh từ không đếm được",
+              "englishName": "Counting uncountable nouns",
+              "seoName": "cach-do-dem-danh-tu-khong-dem-duoc",
+              "sortOrder": 4,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 96,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 341
+            },
+            {
+              "topicName": "many, much, more",
+              "englishName": "many, much, more",
+              "seoName": "many-much-more",
+              "sortOrder": 5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 107,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 345
+            },
+            {
+              "topicName": "a lot of, lots of, many, much, few, a few, little, a little ",
+              "englishName": "Quantifiers: a lot of, lots of, many, much, few, a few, little, a little",
+              "seoName": "a-lot-of-lots-of-many-much-few-a-few-little-a-little",
+              "sortOrder": 6,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 408,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 334
+            },
+            {
+              "topicName": "All (of), most (of), some (of), none (of), no",
+              "englishName": "All (of), most (of), some (of), none (of)",
+              "seoName": "all-of-most-of-some-of-none-of-no",
+              "sortOrder": 7,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 84,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 335
+            },
+            {
+              "topicName": "each (of), every, each/ every one (of)",
+              "englishName": "each (of), every, each/ every one (of)",
+              "seoName": "each-of-every-each-every-one-of",
+              "sortOrder": 11,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 23,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 342
+            },
+            {
+              "topicName": "One, ones, another, other, the other, each other, one another",
+              "englishName": "One, ones, another, other, the other",
+              "seoName": "one-ones-another-other-the-other-each-other-one-another",
+              "sortOrder": 13,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 134,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 347
+            },
+            {
+              "topicName": "How much/how many",
+              "englishName": "How much/how many",
+              "seoName": "how-muchhow-many",
+              "sortOrder": 22,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 183,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 401
+            }
+          ],
+          "sortOrder": 10,
+          "id": 244
+        },
+        {
+          "topicCategoryName": "Pronouns and Possessives",
+          "seoName": "pronouns-and-possessives",
+          "topics": [
+            {
+              "topicName": "Tính từ sở hữu (my, your,...)",
+              "englishName": "Possessive adjectives (my, your,...)",
+              "seoName": "tinh-tu-so-huu-my-your",
+              "sortOrder": 2,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 234,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 367
+            },
+            {
+              "topicName": "Đại từ sở hữu (mine, yours,...)",
+              "englishName": "Possessive pronouns (mine, yours,...)",
+              "seoName": "dai-tu-so-huu-mine-yours",
+              "sortOrder": 3,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 183,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 535
+            },
+            {
+              "topicName": "Các dạng sở hữu khác",
+              "englishName": "Other possessive",
+              "seoName": "cac-dang-so-huu-khac",
+              "sortOrder": 6,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 100,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 369
+            },
+            {
+              "topicName": "Đại từ/Trạng từ quan hệ",
+              "englishName": "Relative Pronouns/Adverbs",
+              "seoName": "dai-tutrang-tu-quan-he",
+              "sortOrder": 11,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 897,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 551
+            }
+          ],
+          "sortOrder": 15,
+          "id": 247
+        },
+        {
+          "topicCategoryName": "Articles",
+          "seoName": "articles",
+          "topics": [
+            {
+              "topicName": "Mạo từ xác định và mạo từ không xác định (a/an/the)",
+              "englishName": "Definite and indefinite article",
+              "seoName": "mao-tu-xac-dinh-va-mao-tu-khong-xac-dinh-aanthe",
+              "sortOrder": 1,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 619,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 109
+            },
+            {
+              "topicName": "Mạo từ xác định và những trường hợp không dùng mạo từ",
+              "englishName": "Definite and zero article",
+              "seoName": "mao-tu-xac-dinh-va-nhung-truong-hop-khong-dung-mao-tu",
+              "sortOrder": 2,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 308,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 279
+            }
+          ],
+          "sortOrder": 20,
+          "id": 241
+        },
+        {
+          "topicCategoryName": "Linking words and structures",
+          "seoName": "linking-words-and-structures",
+          "topics": [
+            {
+              "topicName": "Liên từ tương quan (both...and, either...or,...)",
+              "englishName": "Correlative Conjunctions",
+              "seoName": "lien-tu-tuong-quan-bothand-eitheror",
+              "sortOrder": -5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 101,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 533
+            },
+            {
+              "topicName": "Liên từ kết hợp (and, or, but...)",
+              "englishName": "Coordinating Conjunctions",
+              "seoName": "lien-tu-ket-hop-and-or-but",
+              "sortOrder": -5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 525,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 132
+            },
+            {
+              "topicName": "Liên từ phụ thuộc (when, because, though...)",
+              "englishName": "Subordinating Conjunctions",
+              "seoName": "lien-tu-phu-thuoc-when-because-though",
+              "sortOrder": -5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 1070,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 399
+            },
+            {
+              "topicName": "Từ/Cụm từ chỉ sự tương phản, nhượng bộ (although, despite...)",
+              "englishName": "Expressing contrast, concession",
+              "seoName": "tucum-tu-chi-su-tuong-phan-nhuong-bo-although-despite",
+              "sortOrder": 0,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 843,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 218
+            },
+            {
+              "topicName": "Từ/Cụm từ chỉ lý do, nguyên nhân, mục đích, kết quả (because, so as to, so...)",
+              "englishName": "Expressing reason, cause, purpose, result",
+              "seoName": "tucum-tu-chi-ly-do-nguyen-nhan-muc-dich-ket-qua-because-so-as-to-so",
+              "sortOrder": 0,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 922,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 219
+            },
+            {
+              "topicName": "Từ/Cụm từ liên kết: unless, provided that, as long as, in case",
+              "englishName": "unless, provided that, as long as, in case",
+              "seoName": "tucum-tu-lien-ket-unless-provided-that-as-long-as-in-case",
+              "sortOrder": 50,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 277,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 395
+            }
+          ],
+          "sortOrder": 35,
+          "id": 260
+        },
+        {
+          "topicCategoryName": "Adjectives, Adverbs and Comparison",
+          "seoName": "adjectives-adverbs-and-comparison",
+          "topics": [
+            {
+              "topicName": "Trật tự của các tính từ",
+              "englishName": "Order of adjectives",
+              "seoName": "trat-tu-cua-cac-tinh-tu",
+              "sortOrder": 2,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 262,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 107
+            },
+            {
+              "topicName": "Tính từ tận cùng bằng -ed và -ing",
+              "englishName": "Adjectives ending in ‘-ed’ and ‘-ing’",
+              "seoName": "tinh-tu-tan-cung-bang--ed-va--ing",
+              "sortOrder": 4,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 279,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 229
+            },
+            {
+              "topicName": "Chức năng và vị trí của trạng từ",
+              "englishName": "Function and position of adverbs",
+              "seoName": "chuc-nang-va-vi-tri-cua-trang-tu",
+              "sortOrder": 6,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 87,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 270
+            },
+            {
+              "topicName": "Tính từ hay trạng từ",
+              "englishName": "Adjective or adverb",
+              "seoName": "tinh-tu-hay-trang-tu",
+              "sortOrder": 10,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 245,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 248
+            },
+            {
+              "topicName": "So sánh bằng/không bằng: as ... as, not as/so ... as",
+              "englishName": "Equal comparisons: as ... as, not as/so ... as",
+              "seoName": "so-sanh-bangkhong-bang-as--as-not-asso--as",
+              "sortOrder": 12,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 353,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 257
+            },
+            {
+              "topicName": "Các cấu trúc so sánh",
+              "englishName": "Comparative structures",
+              "seoName": "cac-cau-truc-so-sanh",
+              "sortOrder": 13,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 157,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 119
+            },
+            {
+              "topicName": "So sánh hơn kém của tính từ",
+              "englishName": "Comparative adjectives",
+              "seoName": "so-sanh-hon-kem-cua-tinh-tu",
+              "sortOrder": 13,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 561,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 261
+            },
+            {
+              "topicName": " So sánh hơn kém của trạng từ",
+              "englishName": "Comparative adverbs",
+              "seoName": "so-sanh-hon-kem-cua-trang-tu",
+              "sortOrder": 14,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 217,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 263
+            },
+            {
+              "topicName": "So sánh nhất của tính từ",
+              "englishName": "Superlative adjectives",
+              "seoName": "so-sanh-nhat-cua-tinh-tu",
+              "sortOrder": 16,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 423,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 273
+            },
+            {
+              "topicName": "So sánh nhất của trạng từ",
+              "englishName": "Superlative adverbs",
+              "seoName": "so-sanh-nhat-cua-trang-tu",
+              "sortOrder": 17,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 95,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 274
+            },
+            {
+              "topicName": "So sánh kép",
+              "englishName": "Double comparatives",
+              "seoName": "so-sanh-kep",
+              "sortOrder": 19,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 240,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 122
+            },
+            {
+              "topicName": "Trạng từ liên kết (however, therefore, accordingly...)",
+              "englishName": "Conjunctive adverbs",
+              "seoName": "trang-tu-lien-ket-however-therefore-accordingly",
+              "sortOrder": 28,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 171,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 294
+            }
+          ],
+          "sortOrder": 40,
+          "id": 240
+        },
+        {
+          "topicCategoryName": "Modal verbs",
+          "seoName": "modal-verbs",
+          "topics": [
+            {
+              "topicName": "Diễn đạt khả năng: động từ khuyết thiếu Can, Could và cụm từ Be able to",
+              "englishName": "Expressing Ability: Can, Could, and Be able to",
+              "seoName": "dien-dat-kha-nang-dong-tu-khuyet-thieu-can-could-va-cum-tu-be-able-to",
+              "sortOrder": 1,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 329,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 313
+            },
+            {
+              "topicName": "Diễn đạt lời khuyên và đề nghị: Should, Ought to, Had better",
+              "englishName": "Expressing Advice: Should, Ought to, Had better",
+              "seoName": "dien-dat-loi-khuyen-va-de-nghi-should-ought-to-had-better",
+              "sortOrder": 3,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 362,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 314
+            },
+            {
+              "topicName": "Động từ khuyết thiếu diễn đạt sự bắt buộc và sự cần thiết: Must và Have to",
+              "englishName": "Expressing Obligation & Necessity: Must and Have to",
+              "seoName": "dong-tu-khuyet-thieu-dien-dat-su-bat-buoc-va-su-can-thiet-must-va-have-to",
+              "sortOrder": 5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 210,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 317
+            },
+            {
+              "topicName": "Động từ khuyết thiếu diễn đạt sự bắt buộc và sự cần thiết: Need",
+              "englishName": "Expressing Obligation & Necessity: Need",
+              "seoName": "dong-tu-khuyet-thieu-dien-dat-su-bat-buoc-va-su-can-thiet-need",
+              "sortOrder": 6,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 130,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 318
+            },
+            {
+              "topicName": "Động từ khuyết thiếu diễn đạt khả năng và xác suất: May, Might, Could",
+              "englishName": "Expressing Possibility: May, Might, Could",
+              "seoName": "dong-tu-khuyet-thieu-dien-dat-kha-nang-va-xac-suat-may-might-could",
+              "sortOrder": 8,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 170,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 322
+            },
+            {
+              "topicName": "Động từ khuyết thiếu diễn đạt sự bắt buộc và cấm đoán: Must/Must not",
+              "englishName": "Expressing Obligation and Prohibition: Must/Must not",
+              "seoName": "dong-tu-khuyet-thieu-dien-dat-su-bat-buoc-va-cam-doan-mustmust-not",
+              "sortOrder": 10,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 206,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 324
+            }
+          ],
+          "sortOrder": 40,
+          "id": 243
+        },
+        {
+          "topicCategoryName": "Tenses",
+          "seoName": "tenses",
+          "topics": [
+            {
+              "topicName": "Thì Hiện tại đơn",
+              "englishName": "Present simple",
+              "seoName": "thi-hien-tai-don",
+              "sortOrder": 0,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 869,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 87
+            },
+            {
+              "topicName": "Thì Hiện tại tiếp diễn",
+              "englishName": "Present continuous",
+              "seoName": "thi-hien-tai-tiep-dien",
+              "sortOrder": 1,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 496,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 88
+            },
+            {
+              "topicName": "Used to",
+              "englishName": "Used to",
+              "seoName": "used-to",
+              "sortOrder": 4,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 262,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 436
+            },
+            {
+              "topicName": "Used to, would, get/be used to",
+              "englishName": "Used to, would, get/be used to",
+              "seoName": "used-to-would-getbe-used-to",
+              "sortOrder": 4,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 235,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 437
+            },
+            {
+              "topicName": "Thì Quá khứ đơn",
+              "englishName": "Past simple",
+              "seoName": "thi-qua-khu-don",
+              "sortOrder": 4,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 1053,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 91
+            },
+            {
+              "topicName": "Thì Quá khứ tiếp diễn với Quá khứ đơn",
+              "englishName": "Past continuous vs Past simple",
+              "seoName": "thi-qua-khu-tiep-dien-voi-qua-khu-don",
+              "sortOrder": 5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 514,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 414
+            },
+            {
+              "topicName": "Thì Quá khứ tiếp diễn",
+              "englishName": "Past continuous",
+              "seoName": "thi-qua-khu-tiep-dien",
+              "sortOrder": 5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 208,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 92
+            },
+            {
+              "topicName": "Thì Hiện tại Hoàn thành: Cấu tạo và cách dùng",
+              "englishName": "Present perfect: form and use",
+              "seoName": "thi-hien-tai-hoan-thanh-cau-tao-va-cach-dung",
+              "sortOrder": 5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 455,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 429
+            },
+            {
+              "topicName": "Thì Hiện tại Hoàn thành với Thì Quá khứ đơn",
+              "englishName": "Present perfect vs Past simple",
+              "seoName": "thi-hien-tai-hoan-thanh-voi-thi-qua-khu-don",
+              "sortOrder": 6,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 336,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 425
+            },
+            {
+              "topicName": "Thì Hiện tại Hoàn thành với \"ever, never\"",
+              "englishName": "Present perfect with ever, never",
+              "seoName": "thi-hien-tai-hoan-thanh-voi-ever-never",
+              "sortOrder": 6,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 232,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 426
+            },
+            {
+              "topicName": "Thì Hiện tại Hoàn thành với \"since, for\"",
+              "englishName": "Present perfect with for, since",
+              "seoName": "thi-hien-tai-hoan-thanh-voi-since-for",
+              "sortOrder": 6,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 359,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 427
+            },
+            {
+              "topicName": "Thì Tương lai đơn",
+              "englishName": "Future simple (will)",
+              "seoName": "thi-tuong-lai-don",
+              "sortOrder": 7,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 363,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 95
+            },
+            {
+              "topicName": "Những cách diễn đạt ý nghĩa tương lai khác",
+              "englishName": "Other ways of talking about the future",
+              "seoName": "nhung-cach-dien-dat-y-nghia-tuong-lai-khac",
+              "sortOrder": 7,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 29,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 413
+            },
+            {
+              "topicName": "Thì Quá khứ hoàn thành",
+              "englishName": "Past perfect",
+              "seoName": "thi-qua-khu-hoan-thanh",
+              "sortOrder": 9,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 155,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 93
+            }
+          ],
+          "sortOrder": 45,
+          "id": 22
+        },
+        {
+          "topicCategoryName": "Subject - Verb Agreement",
+          "seoName": "subject---verb-agreement",
+          "topics": [
+            {
+              "topicName": "Các quy tắc chung về hòa hợp chủ ngữ - động từ",
+              "englishName": "Subject - Verb Agreement",
+              "seoName": "cac-quy-tac-chung-ve-hoa-hop-chu-ngu---dong-tu",
+              "sortOrder": 1,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 581,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 100
+            },
+            {
+              "topicName": "Những trường hợp cần lưu ý về hòa hợp S-V",
+              "englishName": "Subject _ Verb Agreement Special cases",
+              "seoName": "nhung-truong-hop-can-luu-y-ve-hoa-hop-s-v",
+              "sortOrder": 2,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 199,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 101
+            }
+          ],
+          "sortOrder": 50,
+          "id": 23
+        },
+        {
+          "topicCategoryName": "The infinitive and the -ing form",
+          "seoName": "the-infinitive-and-the--ing-form",
+          "topics": [
+            {
+              "topicName": "Tính từ + to + V-infinitive",
+              "englishName": "Adjectives followed by to V-infinitives",
+              "seoName": "tinh-tu--to--v-infinitive",
+              "sortOrder": 8,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 262,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 380
+            },
+            {
+              "topicName": "Danh động từ",
+              "englishName": "Gerund as a noun",
+              "seoName": "danh-dong-tu",
+              "sortOrder": 10,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 390,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 137
+            },
+            {
+              "topicName": "Động từ theo sau bởi V-ing",
+              "englishName": "Verb + V-ing",
+              "seoName": "dong-tu-theo-sau-boi-v-ing",
+              "sortOrder": 20,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 509,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 566
+            },
+            {
+              "topicName": "Động từ theo sau bởi động từ nguyên thể",
+              "englishName": "Verb + to + V-infinitive",
+              "seoName": "dong-tu-theo-sau-boi-dong-tu-nguyen-the",
+              "sortOrder": 40,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 445,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 138
+            },
+            {
+              "topicName": "Động từ theo sau bởi V-ing hoặc to-V(inf)",
+              "englishName": "Verbs followed by V-ing form or to V-infinitive",
+              "seoName": "dong-tu-theo-sau-boi-v-ing-hoac-to-vinf",
+              "sortOrder": 50,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 360,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 139
+            },
+            {
+              "topicName": "Động từ theo sau bởi tân ngữ và động từ nguyên thể",
+              "englishName": "Verbs + Object + (to) V-infinitive",
+              "seoName": "dong-tu-theo-sau-boi-tan-ngu-va-dong-tu-nguyen-the",
+              "sortOrder": 60,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 429,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 396
+            },
+            {
+              "topicName": "Cấu trúc với V-ing",
+              "englishName": "Expressions with V-ing forms",
+              "seoName": "cau-truc-voi-v-ing",
+              "sortOrder": 70,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 554,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 386
+            },
+            {
+              "topicName": "Các cấu trúc với V-inf",
+              "englishName": "Expressions with V-inf",
+              "seoName": "cac-cau-truc-voi-v-inf",
+              "sortOrder": 80,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 379,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 567
+            }
+          ],
+          "sortOrder": 50,
+          "id": 264
+        },
+        {
+          "topicCategoryName": "Passive",
+          "seoName": "passive",
+          "topics": [
+            {
+              "topicName": "Thể bị động ở thì hiện tại đơn",
+              "englishName": "Present Simple Passive",
+              "seoName": "the-bi-dong-o-thi-hien-tai-don",
+              "sortOrder": 1,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 220,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 143
+            },
+            {
+              "topicName": "Thể bị động ở thì quá khứ đơn",
+              "englishName": "Past Simple Passive",
+              "seoName": "the-bi-dong-o-thi-qua-khu-don",
+              "sortOrder": 2,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 425,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 144
+            },
+            {
+              "topicName": "Thể bị động ở thì hiện tại hoàn thành",
+              "englishName": "Present Perfect Passive",
+              "seoName": "the-bi-dong-o-thi-hien-tai-hoan-thanh",
+              "sortOrder": 3,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 190,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 157
+            },
+            {
+              "topicName": "Thể bị động ở thì tương lai đơn",
+              "englishName": "Future Simple Passive",
+              "seoName": "the-bi-dong-o-thi-tuong-lai-don",
+              "sortOrder": 5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 170,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 208
+            },
+            {
+              "topicName": "Thể bị động với các thì tiếp diễn",
+              "englishName": "Passive Progressive Tenses",
+              "seoName": "the-bi-dong-voi-cac-thi-tiep-dien",
+              "sortOrder": 6,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 37,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 212
+            },
+            {
+              "topicName": "Thể bị động với động từ khuyết thiếu",
+              "englishName": "Modal Passive",
+              "seoName": "the-bi-dong-voi-dong-tu-khuyet-thieu",
+              "sortOrder": 7,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 96,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 211
+            },
+            {
+              "topicName": "Thể bị động với các cấu trúc đặc biệt",
+              "englishName": "Passive Voice: Special cases",
+              "seoName": "the-bi-dong-voi-cac-cau-truc-dac-biet",
+              "sortOrder": 9,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 297,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 210
+            },
+            {
+              "topicName": "Thể cầu khiến: have/get sth done",
+              "englishName": "The causative: have/ get something done",
+              "seoName": "the-cau-khien-haveget-sth-done",
+              "sortOrder": 34,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 160,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 116
+            }
+          ],
+          "sortOrder": 70,
+          "id": 112
+        },
+        {
+          "topicCategoryName": "Prepositions",
+          "seoName": "prepositions",
+          "topics": [
+            {
+              "topicName": "Giới từ chỉ nơi chốn",
+              "englishName": "Prepositions of place",
+              "seoName": "gioi-tu-chi-noi-chon",
+              "sortOrder": 10,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 570,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 352
+            },
+            {
+              "topicName": "Giới từ chỉ thời gian",
+              "englishName": "Prepositions of time, including in/on/at",
+              "seoName": "gioi-tu-chi-thoi-gian",
+              "sortOrder": 20,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 569,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 353
+            },
+            {
+              "topicName": "Giới từ thông dụng",
+              "englishName": "Prepositions, common",
+              "seoName": "gioi-tu-thong-dung",
+              "sortOrder": 30,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 538,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 354
+            },
+            {
+              "topicName": "Tính từ/Danh từ + Giới từ",
+              "englishName": "Adjective/Noun + Preposition",
+              "seoName": "tinh-tudanh-tu--gioi-tu",
+              "sortOrder": 40,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 742,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 355
+            },
+            {
+              "topicName": "Động từ + giới từ",
+              "englishName": "Verb (+O) + preposition",
+              "seoName": "dong-tu--gioi-tu",
+              "sortOrder": 50,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 628,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 362
+            }
+          ],
+          "sortOrder": 70,
+          "id": 246
+        },
+        {
+          "topicCategoryName": "Word formation",
+          "seoName": "word-formation",
+          "topics": [
+            {
+              "topicName": "Dùng đúng loại từ",
+              "englishName": "Word form",
+              "seoName": "dung-dung-loai-tu",
+              "sortOrder": 1,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 974,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 523
+            },
+            {
+              "topicName": "Thành lập động từ",
+              "englishName": "Forming Verbs",
+              "seoName": "thanh-lap-dong-tu",
+              "sortOrder": 4,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 289,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 530
+            },
+            {
+              "topicName": "Thành lập danh từ",
+              "englishName": "Forming nouns",
+              "seoName": "thanh-lap-danh-tu",
+              "sortOrder": 4,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 1236,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 440
+            },
+            {
+              "topicName": "Thành lập tính từ",
+              "englishName": "Forming Adjectives",
+              "seoName": "thanh-lap-tinh-tu",
+              "sortOrder": 5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 1038,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 439
+            },
+            {
+              "topicName": "Thành lập tính từ ghép",
+              "englishName": "Forming compound adjectives",
+              "seoName": "thanh-lap-tinh-tu-ghep",
+              "sortOrder": 6,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 82,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 569
+            },
+            {
+              "topicName": "Thành lập trạng từ",
+              "englishName": "Forming Adverbs",
+              "seoName": "thanh-lap-trang-tu",
+              "sortOrder": 6,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 319,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 529
+            },
+            {
+              "topicName": "Danh từ ghép",
+              "englishName": "Compound nouns",
+              "seoName": "danh-tu-ghep",
+              "sortOrder": 7,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 62,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 577
+            }
+          ],
+          "sortOrder": 75,
+          "id": 251
+        },
+        {
+          "topicCategoryName": "Basic sentence structures",
+          "seoName": "basic-sentence-structures",
+          "topics": [
+            {
+              "topicName": "Các cấu trúc câu đơn cơ bản và trật tự từ",
+              "englishName": "Basic sentence types and word order",
+              "seoName": "cac-cau-truc-cau-don-co-ban-va-trat-tu-tu",
+              "sortOrder": 1,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 256,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 383
+            },
+            {
+              "topicName": "Câu mệnh lệnh",
+              "englishName": "Imperatives",
+              "seoName": "cau-menh-lenh",
+              "sortOrder": 2,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 107,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 403
+            },
+            {
+              "topicName": "Câu hỏi với \"Wh-\"/How",
+              "englishName": "Wh-/How questions",
+              "seoName": "cau-hoi-voi-wh-how",
+              "sortOrder": 3,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 604,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 408
+            },
+            {
+              "topicName": "Câu hỏi đuôi với một số trường hợp đặc biệt",
+              "englishName": "Question tags: special cases",
+              "seoName": "cau-hoi-duoi-voi-mot-so-truong-hop-dac-biet",
+              "sortOrder": 6,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 174,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 172
+            },
+            {
+              "topicName": "Câu hỏi đuôi",
+              "englishName": "Tag Questions",
+              "seoName": "cau-hoi-duoi",
+              "sortOrder": 6,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 369,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 168
+            },
+            {
+              "topicName": "Cấu trúc song song",
+              "englishName": "Parallel structures",
+              "seoName": "cau-truc-song-song",
+              "sortOrder": 100,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 136,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 579
+            }
+          ],
+          "sortOrder": 79,
+          "id": 146
+        },
+        {
+          "topicCategoryName": "Conditionals",
+          "seoName": "conditionals",
+          "topics": [
+            {
+              "topicName": "Câu điều kiện loại 0, câu điều kiện loại 1",
+              "englishName": "Zero and first conditional",
+              "seoName": "cau-dieu-kien-loai-0-cau-dieu-kien-loai-1",
+              "sortOrder": 1,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 789,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 126
+            },
+            {
+              "topicName": "Câu điều kiện loại 2",
+              "englishName": "Second conditional",
+              "seoName": "cau-dieu-kien-loai-2",
+              "sortOrder": 2,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 559,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 127
+            },
+            {
+              "topicName": "Câu điều kiện hỗn hợp",
+              "englishName": "Mixed conditionals",
+              "seoName": "cau-dieu-kien-hon-hop",
+              "sortOrder": 4,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 101,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 209
+            },
+            {
+              "topicName": "Câu ước với \"I wish\", \"If only\"",
+              "englishName": "I wish, If only",
+              "seoName": "cau-uoc-voi-i-wish-if-only",
+              "sortOrder": 41,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 646,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 141
+            }
+          ],
+          "sortOrder": 90,
+          "id": 258
+        },
+        {
+          "topicCategoryName": "Clauses",
+          "seoName": "clauses",
+          "topics": [
+            {
+              "topicName": "Mệnh đề \"That\"",
+              "englishName": "\"That\" clause",
+              "seoName": "menh-de-that",
+              "sortOrder": 0,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 69,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 778
+            },
+            {
+              "topicName": "Mệnh đề quan hệ xác định",
+              "englishName": "Defining relative clause",
+              "seoName": "menh-de-quan-he-xac-dinh",
+              "sortOrder": 0,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 261,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 151
+            },
+            {
+              "topicName": "Mệnh đề quan hệ không xác định",
+              "englishName": "Non-defining relative clause",
+              "seoName": "menh-de-quan-he-khong-xac-dinh",
+              "sortOrder": 1,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 139,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 534
+            },
+            {
+              "topicName": "Mệnh đề quan hệ rút gọn",
+              "englishName": "Reduced Relative Clauses",
+              "seoName": "menh-de-quan-he-rut-gon",
+              "sortOrder": 2,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 195,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 152
+            },
+            {
+              "topicName": "Mệnh đề danh ngữ",
+              "englishName": "Noun clauses",
+              "seoName": "menh-de-danh-ngu",
+              "sortOrder": 4,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 116,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 155
+            },
+            {
+              "topicName": "Mệnh đề chỉ thời gian trong tương lai",
+              "englishName": "Future time clauses",
+              "seoName": "menh-de-chi-thoi-gian-trong-tuong-lai",
+              "sortOrder": 7,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 89,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 387
+            }
+          ],
+          "sortOrder": 95,
+          "id": 259
+        },
+        {
+          "topicCategoryName": "Reported Speech",
+          "seoName": "reported-speech",
+          "topics": [
+            {
+              "topicName": "Chuyển câu tường thuật từ trực tiếp sang gián tiếp: không thay đổi thì ",
+              "englishName": "Reported statements: no tense changes",
+              "seoName": "chuyen-cau-tuong-thuat-tu-truc-tiep-sang-gian-tiep-khong-thay-doi-thi",
+              "sortOrder": 1,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 40,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 376
+            },
+            {
+              "topicName": "Chuyển câu tường thuật từ trực tiếp sang gián tiếp: có thay đổi thì ",
+              "englishName": "Reported statements: tense changes",
+              "seoName": "chuyen-cau-tuong-thuat-tu-truc-tiep-sang-gian-tiep-co-thay-doi-thi",
+              "sortOrder": 2,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 437,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 114
+            },
+            {
+              "topicName": "Câu nghi vấn, đề nghị, mệnh lệnh ở dạng gián tiếp",
+              "englishName": "Reported questions, commands and requests",
+              "seoName": "cau-nghi-van-de-nghi-menh-lenh-o-dang-gian-tiep",
+              "sortOrder": 3,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 569,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 238
+            },
+            {
+              "topicName": "Động từ tường thuật",
+              "englishName": "Reporting verbs",
+              "seoName": "dong-tu-tuong-thuat",
+              "sortOrder": 4,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 269,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 378
+            },
+            {
+              "topicName": "Chuyển từ câu gián tiếp về câu trực tiếp",
+              "englishName": "Reported Speech to Direct Speech",
+              "seoName": "chuyen-tu-cau-gian-tiep-ve-cau-truc-tiep",
+              "sortOrder": 5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 52,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 525
+            }
+          ],
+          "sortOrder": 110,
+          "id": 237
+        },
+        {
+          "topicCategoryName": "Sentence Structures to Emphasize Ideas",
+          "seoName": "sentence-structures-to-emphasize-ideas",
+          "topics": [
+            {
+              "topicName": "Đảo ngữ với trạng từ/trạng ngữ phủ định (never, seldom, not until, not only, no sooner,...)",
+              "englishName": "Inversion after Negative or Limiting Adverbials",
+              "seoName": "dao-ngu-voi-trang-tutrang-ngu-phu-dinh-never-seldom-not-until-not-only-no-sooner",
+              "sortOrder": 10,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 184,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 161
+            },
+            {
+              "topicName": "Chủ ngữ giả",
+              "englishName": "Dummy subject",
+              "seoName": "chu-ngu-gia",
+              "sortOrder": 80,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 174,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 217
+            }
+          ],
+          "sortOrder": 129,
+          "id": 266
+        },
+        {
+          "topicCategoryName": "Other sentence and text structures",
+          "seoName": "other-sentence-and-text-structures",
+          "topics": [
+            {
+              "topicName": "Động từ theo sau bởi tân ngữ và tính từ",
+              "englishName": "make/find/drive/... + sb/sth + adj",
+              "seoName": "dong-tu-theo-sau-boi-tan-ngu-va-tinh-tu",
+              "sortOrder": 0,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 87,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 563
+            },
+            {
+              "topicName": "Các cấu trúc chỉ mục đích",
+              "englishName": "Expressing Purpose",
+              "seoName": "cac-cau-truc-chi-muc-dich",
+              "sortOrder": 7,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 438,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 394
+            },
+            {
+              "topicName": "Cấu trúc đồng tình: So, too, neither, either",
+              "englishName": "Avoid repetition: so, too, neither, either",
+              "seoName": "cau-truc-dong-tinh-so-too-neither-either",
+              "sortOrder": 10,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 81,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 382
+            },
+            {
+              "topicName": "too, enough",
+              "englishName": "too, enough",
+              "seoName": "too-enough",
+              "sortOrder": 21,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 379,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 276
+            },
+            {
+              "topicName": "so... that, such (a/an)... that",
+              "englishName": "so... that, such (a/an)... that",
+              "seoName": "so-that-such-aan-that",
+              "sortOrder": 22,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 496,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 160
+            },
+            {
+              "topicName": "... suggest ... /... be suggested that ...",
+              "englishName": "... suggest ... /... be suggested that ...",
+              "seoName": "-suggest---be-suggested-that-",
+              "sortOrder": 32,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 420,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 171
+            },
+            {
+              "topicName": "Cấu trúc với FIND",
+              "englishName": "Word partern with FIND",
+              "seoName": "cau-truc-voi-find",
+              "sortOrder": 33,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 67,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 553
+            },
+            {
+              "topicName": "Would like",
+              "englishName": "Would like + N/ to V(inf)",
+              "seoName": "would-like",
+              "sortOrder": 37,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 167,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 402
+            },
+            {
+              "topicName": "would rather/would sooner (... than ...)",
+              "englishName": "would rather/would sooner (... than ...)",
+              "seoName": "would-ratherwould-sooner--than-",
+              "sortOrder": 38,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 68,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 547
+            },
+            {
+              "topicName": "Cấu trúc \"hơn\": prefer, would prefer, would rather/would sooner",
+              "englishName": "prefer, would prefer, would rather/would sooner",
+              "seoName": "cau-truc-hon-prefer-would-prefer-would-ratherwould-sooner",
+              "sortOrder": 100,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 183,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 588
+            }
+          ],
+          "sortOrder": 130,
+          "id": 150
+        }
+      ],
+      "sortOrder": 10,
+      "id": 18
+    },
+    {
+      "skillName": "Reading",
+      "seoName": "reading",
+      "topicCategories": [
+        {
+          "topicCategoryName": "Reading for Details",
+          "seoName": "reading-for-details",
+          "topics": [
+            {
+              "topicName": "Đọc và đoán/hiểu nghĩa từ trong ngữ cảnh",
+              "englishName": "Understanding Contextual Vocabulary",
+              "seoName": "doc-va-doanhieu-nghia-tu-trong-ngu-canh",
+              "sortOrder": -5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 1537,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 67
+            },
+            {
+              "topicName": "Xác định quy chiếu ngay trước hoặc sau từ quy chiếu, ít hoặc không có yếu tố gây nhiễu",
+              "englishName": "Identifying Reference",
+              "seoName": "xac-dinh-quy-chieu-ngay-truoc-hoac-sau-tu-quy-chieu-it-hoac-khong-co-yeu-to-gay-nhieu",
+              "sortOrder": -4,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 783,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 66
+            },
+            {
+              "topicName": "Tìm thấy và hiểu thông tin cụ thể CÓ rõ ràng trong văn bản",
+              "englishName": "Locating Explicit Details",
+              "seoName": "tim-thay-va-hieu-thong-tin-cu-the-co-ro-rang-trong-van-ban",
+              "sortOrder": 0,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 3330,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 62
+            },
+            {
+              "topicName": "Nhận ra chi tiết/thông tin được diễn đạt khác",
+              "englishName": "Identifying Paraphrase",
+              "seoName": "nhan-ra-chi-tietthong-tin-duoc-dien-dat-khac",
+              "sortOrder": 5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 4897,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 510
+            },
+            {
+              "topicName": "Xác định thông tin cụ thể KHÔNG ĐÚNG hoặc KHÔNG được nói tới trong bài",
+              "englishName": "Identifying Negative & Not Given Details",
+              "seoName": "xac-dinh-thong-tin-cu-the-khong-dung-hoac-khong-duoc-noi-toi-trong-bai",
+              "sortOrder": 20,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 2171,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 63
+            }
+          ],
+          "sortOrder": 0,
+          "id": 56
+        },
+        {
+          "topicCategoryName": "Reading for Gist & Structure",
+          "seoName": "reading-for-gist--structure",
+          "topics": [
+            {
+              "topicName": "Xác định nội dung chính của cả văn bản",
+              "englishName": "Identifying Main idea of the passage",
+              "seoName": "xac-dinh-noi-dung-chinh-cua-ca-van-ban",
+              "sortOrder": 10,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 1427,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 58
+            }
+          ],
+          "sortOrder": 10,
+          "id": 55
+        },
+        {
+          "topicCategoryName": "Reading for Inference & Implication",
+          "seoName": "reading-for-inference--implication",
+          "topics": [
+            {
+              "topicName": "Suy luận thông tin không được nói trực tiếp và rút ra kết luận dựa trên bằng chứng văn bản",
+              "englishName": "Making Inferences & Drawing Conclusions",
+              "seoName": "suy-luan-thong-tin-khong-duoc-noi-truc-tiep-va-rut-ra-ket-luan-dua-tren-bang-chung-van-ban",
+              "sortOrder": 5,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 2326,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 516
+            }
+          ],
+          "sortOrder": 20,
+          "id": 545
+        },
+        {
+          "topicCategoryName": "Reading for Critical Analysis",
+          "seoName": "reading-for-critical-analysis",
+          "topics": [
+            {
+              "topicName": "Xác định mục đích viết và góc nhìn/lập trường tác giả",
+              "englishName": "Identifying Author's Purpose & Perspective",
+              "seoName": "xac-dinh-muc-dich-viet-va-goc-nhinlap-truong-tac-gia",
+              "sortOrder": 10,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 231,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 515
+            }
+          ],
+          "sortOrder": 30,
+          "id": 546
+        }
+      ],
+      "sortOrder": 11,
+      "id": 21
+    },
+    {
+      "skillName": "Speaking",
+      "seoName": "speaking",
+      "topicCategories": [
+        {
+          "topicCategoryName": "Communicative Functions",
+          "seoName": "communicative-functions",
+          "topics": [
+            {
+              "topicName": "Hỏi đường và chỉ dẫn phương hướng",
+              "englishName": "Asking for and giving directions",
+              "seoName": "hoi-duong-va-chi-dan-phuong-huong",
+              "sortOrder": 4,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 72,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 82
+            },
+            {
+              "topicName": "Bày tỏ lời cảm ơn và xin lỗi",
+              "englishName": "Thanking and Apologizing",
+              "seoName": "bay-to-loi-cam-on-va-xin-loi",
+              "sortOrder": 8,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 255,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 78
+            },
+            {
+              "topicName": "Đưa ra và đáp lại lời khen/chúc mừng",
+              "englishName": "Giving and responding to compliments/congratulations",
+              "seoName": "dua-ra-va-dap-lai-loi-khenchuc-mung",
+              "sortOrder": 9,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 235,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 79
+            },
+            {
+              "topicName": "Đưa ra lời khuyên",
+              "englishName": "Giving advice",
+              "seoName": "dua-ra-loi-khuyen",
+              "sortOrder": 10,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 40,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 282
+            },
+            {
+              "topicName": "Đưa ra gợi ý và lời đề nghị",
+              "englishName": "Making suggestions and offers",
+              "seoName": "dua-ra-goi-y-va-loi-de-nghi",
+              "sortOrder": 11,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 294,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 307
+            },
+            {
+              "topicName": "Đưa ra lời mời và phản hồi lời mời",
+              "englishName": "Making and responding to invitations",
+              "seoName": "dua-ra-loi-moi-va-phan-hoi-loi-moi",
+              "sortOrder": 12,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 165,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 301
+            },
+            {
+              "topicName": "Đưa ra và phản hồi yêu cầu",
+              "englishName": "Making and responding to requests",
+              "seoName": "dua-ra-va-phan-hoi-yeu-cau",
+              "sortOrder": 14,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 184,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 305
+            },
+            {
+              "topicName": "Bày tỏ quan điểm cá nhân",
+              "englishName": "Expressing opinions",
+              "seoName": "bay-to-quan-diem-ca-nhan",
+              "sortOrder": 27,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 147,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 296
+            },
+            {
+              "topicName": "Bày tỏ sự đồng tình/không đồng tình",
+              "englishName": "Expressing agreement/disagreement",
+              "seoName": "bay-to-su-dong-tinhkhong-dong-tinh",
+              "sortOrder": 28,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 223,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 295
+            },
+            {
+              "topicName": "Tình huống khác",
+              "englishName": "Others",
+              "seoName": "tinh-huong-khac",
+              "sortOrder": 500,
+              "score": 0,
+              "shortDescription": null,
+              "totalQuestions": 741,
+              "enableLinkAttemptTopic": false,
+              "subjectId": null,
+              "id": 84
+            }
+          ],
+          "sortOrder": 150,
+          "id": 242
+        }
+      ],
+      "sortOrder": 14,
+      "id": 247
+    }
+  ]
+}

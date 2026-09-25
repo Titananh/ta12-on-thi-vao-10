@@ -1,0 +1,733 @@
+{
+  "quizId": 6072,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 16: Past continuous tense (Thì quá khứ tiếp diễn)",
+  "totalQuestions": 17,
+  "questions": [
+    {
+      "id": 897695,
+      "questionNumber": 1,
+      "questionName": "2",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Nh&#7919;ng c&#225;i n&#224;o KH&#212;NG ph&#7843;i l&#224; c&#225;ch s&#7917; d&#7909;ng c&#7911;a th&#236; qu&#225; kh&#7913; ti&#7871;p di&#7877;n?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1706983,
+          "label": "A",
+          "text": "Một hành động đã hoàn thành trong quá khứ",
+          "isCorrect": true
+        },
+        {
+          "id": 1706984,
+          "label": "B",
+          "text": "Một sự kiện xảy ra tại một thời điểm cụ thể trong quá khứ",
+          "isCorrect": false
+        },
+        {
+          "id": 1706985,
+          "label": "C",
+          "text": "Một hành động đang xảy ra trong quá khứ thì bị gián đoạn",
+          "isCorrect": false
+        },
+        {
+          "id": 1706986,
+          "label": "D",
+          "text": "Trạng thái trong quá khứ",
+          "isCorrect": true
+        },
+        {
+          "id": 1706987,
+          "label": "E",
+          "text": "Hai hành động xảy ra đồng thời trong quá khứ",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1706983,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 49.7293%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/5_-_Copy_14_17b9ebe8.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7293%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/6_-_Copy_11_1cb25cba.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 897702,
+      "questionNumber": 2,
+      "questionName": "3",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Nh&#7919;ng t&#7915;/c&#7909;m t&#7915; sau c&#243; ph&#7843;i l&#224; d&#7845;u hi&#7879;u nh&#7853;n bi&#7871;t c&#7911;a th&#236; qu&#225; kh&#7913; ti&#7871;p di&#7877;n kh&#244;ng?</strong></p>\n<p><em>Example: yesterday =&gt; No</em></p>\n<p>1. at 6 a.m. yesterday =&gt; <span class='fillblank-option'><label>2.1</label><select class='ms fillblank-option-2' index='0' name='fbo-897702-0' data-testid='fillblank-select-897702-0'><option value='' data-testid='fillblank-option-empty-897702-0'></option><option value=\"No\" data-testid='fillblank-option-897702-0-No'>No</option><option value=\"Yes\" data-testid='fillblank-option-897702-0-Yes'>Yes</option></select></span></p>\n<p>2. since last summer =&gt; <span class='fillblank-option'><label>2.2</label><select class='ms fillblank-option-2' index='1' name='fbo-897702-1' data-testid='fillblank-select-897702-1'><option value='' data-testid='fillblank-option-empty-897702-1'></option><option value=\"Yes\" data-testid='fillblank-option-897702-1-Yes'>Yes</option><option value=\"No\" data-testid='fillblank-option-897702-1-No'>No</option></select></span></p>\n<p>3. at that time last month =&gt; <span class='fillblank-option'><label>2.3</label><select class='ms fillblank-option-2' index='2' name='fbo-897702-2' data-testid='fillblank-select-897702-2'><option value='' data-testid='fillblank-option-empty-897702-2'></option><option value=\"Yes\" data-testid='fillblank-option-897702-2-Yes'>Yes</option><option value=\"No\" data-testid='fillblank-option-897702-2-No'>No</option></select></span></p>\n<p>4. at that moment =&gt; <span class='fillblank-option'><label>2.4</label><select class='ms fillblank-option-2' index='3' name='fbo-897702-3' data-testid='fillblank-select-897702-3'><option value='' data-testid='fillblank-option-empty-897702-3'></option><option value=\"Yes\" data-testid='fillblank-option-897702-3-Yes'>Yes</option><option value=\"No\" data-testid='fillblank-option-897702-3-No'>No</option></select></span></p>\n<p>5. in the past 4 years =&gt; <span class='fillblank-option'><label>2.5</label><select class='ms fillblank-option-2' index='4' name='fbo-897702-4' data-testid='fillblank-select-897702-4'><option value='' data-testid='fillblank-option-empty-897702-4'></option><option value=\"Yes\" data-testid='fillblank-option-897702-4-Yes'>Yes</option><option value=\"No\" data-testid='fillblank-option-897702-4-No'>No</option></select></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Yes"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "No"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "Yes"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "Yes"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "No"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/7_-_Copy_9_987077fd.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 897709,
+      "questionNumber": 3,
+      "questionName": "4",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Vi&#7871;t d&#7841;ng ti&#7871;p di&#7877;n c&#7911;a c&#225;c &#273;&#7897;ng t&#7915; d&#432;&#7899;i &#273;&#226;y n&#7871;u c&#243; th&#7875;. N&#7871;u kh&#244;ng th&#7875;, vi&#7871;t X.</strong></p>\n<p><em>Example: <strong>study =&gt; studying</strong>&nbsp;; <strong>need =&gt; X</strong></em></p>\n<p>1. plan =&gt; <span class='fillblank-option'><label>3.1</label><input id='fbo-897709-0' class='ms fillblank-option-3' index='0' name='fbo-897709-0' type='text' size='10' autocomplete='off' data-testid='fillblank-input-897709-0' /></span></p>\n<p>2. move =&gt; <span class='fillblank-option'><label>3.2</label><input id='fbo-897709-1' class='ms fillblank-option-3' index='1' name='fbo-897709-1' type='text' size='9' autocomplete='off' data-testid='fillblank-input-897709-1' /></span></p>\n<p>3. understand =&gt; <span class='fillblank-option'><label>3.3</label><input id='fbo-897709-2' class='ms fillblank-option-3' index='2' name='fbo-897709-2' type='text' size='3' autocomplete='off' data-testid='fillblank-input-897709-2' /></span></p>\n<p>4. own =&gt; <span class='fillblank-option'><label>3.4</label><input id='fbo-897709-3' class='ms fillblank-option-3' index='3' name='fbo-897709-3' type='text' size='3' autocomplete='off' data-testid='fillblank-input-897709-3' /></span></p>\n<p>5. visit =&gt; <span class='fillblank-option'><label>3.5</label><input id='fbo-897709-4' class='ms fillblank-option-3' index='4' name='fbo-897709-4' type='text' size='10' autocomplete='off' data-testid='fillblank-input-897709-4' /></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "planning"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "moving"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "X"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "X"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "visiting"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/8_-_Copy_8_821d3a67.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 24465,
+      "questionNumber": 4,
+      "questionName": "Question 2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The sun _____ brightly when the adventurers set off from their cottage.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 75138,
+          "label": "A",
+          "text": "shined",
+          "isCorrect": false
+        },
+        {
+          "id": 75139,
+          "label": "B",
+          "text": "were shining",
+          "isCorrect": false
+        },
+        {
+          "id": 75140,
+          "label": "C",
+          "text": "was shining",
+          "isCorrect": true
+        },
+        {
+          "id": 75141,
+          "label": "D",
+          "text": "would shine",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 75140,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đ&uacute;ng th&igrave; của động từ, h&atilde;y x&aacute;c định mối quan hệ thời gian giữa hai h&agrave;nh động trong qu&aacute; khứ. Khi một h&agrave;nh động đang diễn ra (thường d&ugrave;ng Past Continuous) th&igrave; một h&agrave;nh động kh&aacute;c ngắn hơn xen v&agrave;o (thường d&ugrave;ng Past Simple).</p>\n<p>H&atilde;y ch&uacute; &yacute; đến li&ecirc;n từ <em>\"when\"</em> v&agrave; h&agrave;nh động <em>\"set off\"</em> đang được chia ở th&igrave; Past Simple. Lưu &yacute; trợ động từ được sử dụng với chủ ngữ ''The sun''.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Th&igrave; Qu&aacute; khứ tiếp diễn</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Diễn tả một h&agrave;nh động đang diễn ra tại một thời điểm cụ thể trong qu&aacute; khứ, hoặc một h&agrave;nh động đang diễn ra th&igrave; bị một h&agrave;nh động kh&aacute;c xen v&agrave;o.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + was/were + V-ing</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi diễn tả hai h&agrave;nh động trong qu&aacute; khứ <em>\"The sun _____ brightly\"</em> (mặt trời đang chiếu s&aacute;ng) v&agrave; <em>\"the adventurers set off\"</em> (những nh&agrave; th&aacute;m hiểm khởi h&agrave;nh). H&agrave;nh động <em>\"set off\"</em> l&agrave; một h&agrave;nh động ngắn, xảy ra v&agrave;o một thời điểm cụ thể, xen v&agrave;o h&agrave;nh động đang diễn ra l&agrave; <em>\"sun shining\"</em>. V&igrave; vậy, h&agrave;nh động đang diễn ra cần được chia ở th&igrave; Qu&aacute; khứ tiếp diễn.</p>\n<p style=\"text-align: justify;\">Chủ ngữ <em>\"The sun\"</em> l&agrave; danh từ số &iacute;t, n&ecirc;n ta phải d&ugrave;ng trợ động từ <em>\"was\"</em>. Kết hợp với động từ <em>\"shine\"</em> ở dạng V-ing l&agrave; <em>\"shining\"</em>, ta c&oacute; đ&aacute;p &aacute;n đ&uacute;ng l&agrave; <em>\"was shining\"</em>. C&aacute;c phương &aacute;n c&ograve;n lại:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>shined</em>\" l&agrave; một dạng qu&aacute; khứ đơn của \"<em>shine</em>\" kh&ocirc;ng ph&ugrave; hợp để diễn tả một h&agrave;nh động đang tiếp diễn bị gi&aacute;n đoạn.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 ''were shinning'' kh&ocirc;ng ph&ugrave; hợp v&igrave; were kh&ocirc;ng được d&ugrave;ng cho chủ ngữ số &iacute;t như ''<em>The sun</em>''.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<em>would shine</em>\" thường được d&ugrave;ng để diễn tả th&oacute;i quen trong qu&aacute; khứ hoặc trong c&acirc;u điều kiện, kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh h&agrave;nh động đang diễn ra bị gi&aacute;n đoạn.</li>\n</ul>",
+      "answerFeedbacks": {
+        "75138": "Sai vì thì Quá khứ đơn <em>\"shined\"</em> không phù hợp để diễn tả một hành động đang diễn ra khi hành động khác xen vào; dạng đúng của động từ <em>\"shine\"</em> ở quá khứ đơn thường là <em>\"shone\"</em>.",
+        "75139": "Sai vì chủ ngữ <em>\"The sun\"</em> là số ít, không đi với trợ động từ <em>\"were\"</em>.",
+        "75140": "Đúng vì thì Quá khứ tiếp diễn <em>\"was shining\"</em> (was + V-ing) diễn tả hành động <em>\"sun shining brightly\"</em> đang diễn ra thì bị hành động <em>\"adventurers set off\"</em> xen vào.",
+        "75141": "Sai vì <em>\"would shine\"</em> thường dùng để diễn tả thói quen trong quá khứ, dự đoán trong quá khứ hoặc trong câu điều kiện, không phù hợp với ngữ cảnh hành động đang diễn ra bị gián đoạn."
+      },
+      "images": []
+    },
+    {
+      "id": 24467,
+      "questionNumber": 5,
+      "questionName": "Question 4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>At eight o'clock yesterday evening, the plane _____ from Los Angeles to Sydney.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 75146,
+          "label": "A",
+          "text": "flew",
+          "isCorrect": false
+        },
+        {
+          "id": 75147,
+          "label": "B",
+          "text": "had flown",
+          "isCorrect": false
+        },
+        {
+          "id": 75148,
+          "label": "C",
+          "text": "has flown",
+          "isCorrect": false
+        },
+        {
+          "id": 75149,
+          "label": "D",
+          "text": "was flying",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 75149,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Cụm từ <em>\"At eight o'clock yesterday evening\"</em> cho biết một h&agrave;nh động đang diễn ra tại một thời điểm cụ thể trong qu&aacute; khứ. H&atilde;y nhớ lại cấu tr&uacute;c của th&igrave; Qu&aacute; khứ tiếp diễn để t&igrave;m ra phương &aacute;n đ&uacute;ng.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Th&igrave; qu&aacute; khứ tiếp diễn</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Th&igrave; qu&aacute; khứ tiếp diễn d&ugrave;ng để diễn tả một h&agrave;nh động đang xảy ra tại một thời điểm cụ thể trong qu&aacute; khứ.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + was/were + V-ing</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, cụm từ <em>\"At eight o'clock yesterday evening\"</em> chỉ r&otilde; một thời điểm cụ thể trong qu&aacute; khứ, cho thấy h&agrave;nh động <em>\"fly\"</em> đang diễn ra tại thời điểm đ&oacute;. Do đ&oacute;, th&igrave; qu&aacute; khứ tiếp diễn (Past Continuous) l&agrave; ph&ugrave; hợp nhất để diễn tả h&agrave;nh động n&agrave;y v&agrave; phương &aacute;n 4 ''<em>was flying</em>'' l&agrave; đ&aacute;p &aacute;n ch&iacute;nh x&aacute;c. C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 (\"<em>flew</em>\" - th&igrave; qu&aacute; khứ đơn) diễn tả h&agrave;nh động đ&atilde; ho&agrave;n th&agrave;nh trong qu&aacute; khứ m&agrave; kh&ocirc;ng nhấn mạnh sự tiếp diễn tại một thời điểm cụ thể.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 (\"<em>had flown</em>\" - th&igrave; qu&aacute; khứ ho&agrave;n th&agrave;nh) diễn tả h&agrave;nh động xảy ra trước một h&agrave;nh động kh&aacute;c trong qu&aacute; khứ.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 (\"<em>has flown</em>\" - th&igrave; hiện tại ho&agrave;n th&agrave;nh) diễn tả h&agrave;nh động xảy ra trong qu&aacute; khứ v&agrave; c&oacute; li&ecirc;n quan đến hiện tại.</li>\n</ul>",
+      "answerFeedbacks": {
+        "75146": "Sai vì thì quá khứ đơn (Past Simple) diễn tả hành động đã hoàn thành trong quá khứ mà không nhấn mạnh sự tiếp diễn tại một thời điểm cụ thể.",
+        "75147": "Sai vì thì quá khứ hoàn thành (Past Perfect) dùng để diễn tả hành động xảy ra trước một hành động khác trong quá khứ.",
+        "75148": "Sai vì thì hiện tại hoàn thành (Present Perfect) diễn tả hành động xảy ra trong quá khứ và có liên quan đến hiện tại, hoặc kéo dài đến hiện tại.",
+        "75149": "Đúng vì thì quá khứ tiếp diễn (Past Continuous) dùng để diễn tả một hành động đang diễn ra tại một thời điểm cụ thể trong quá khứ."
+      },
+      "images": []
+    },
+    {
+      "id": 24472,
+      "questionNumber": 6,
+      "questionName": "Question 9",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Cinderella was working hard while her step-sisters _____ fun at the ball.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 75166,
+          "label": "A",
+          "text": "had",
+          "isCorrect": false
+        },
+        {
+          "id": 75167,
+          "label": "B",
+          "text": "were having",
+          "isCorrect": true
+        },
+        {
+          "id": 75168,
+          "label": "C",
+          "text": "have had",
+          "isCorrect": false
+        },
+        {
+          "id": 75169,
+          "label": "D",
+          "text": "would have",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 75167,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Trong c&acirc;u, mệnh đề đầu ti&ecirc;n <em>\"Cinderella was working hard\"</em> đang ở th&igrave; Qu&aacute; khứ tiếp diễn. Bạn cần chọn th&igrave; ph&ugrave; hợp cho mệnh đề thứ hai để diễn tả h&agrave;nh động xảy ra song song với li&ecirc;n từ ''<em>while</em>''.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Th&igrave; Qu&aacute; khứ tiếp diễn</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Th&igrave; Qu&aacute; khứ tiếp diễn được d&ugrave;ng để diễn tả một h&agrave;nh động đang xảy ra tại một thời điểm x&aacute;c định trong qu&aacute; khứ, hoặc hai (hay nhiều hơn) h&agrave;nh động đang xảy ra đồng thời trong qu&aacute; khứ.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + was/were + V-ing</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi c&oacute; li&ecirc;n từ <em>\"while\"</em>, nối hai mệnh đề diễn tả hai h&agrave;nh động song song trong qu&aacute; khứ <em>\"Cinderella was working hard\"</em> (th&igrave; Qu&aacute; khứ tiếp diễn) v&agrave; <em>\"her step-sisters _____ fun at the ball.\"</em>. Li&ecirc;n từ <em>\"while\"</em> thường được d&ugrave;ng để nối hai h&agrave;nh động đang diễn ra đồng thời trong qu&aacute; khứ, do đ&oacute; cả hai mệnh đề đều d&ugrave;ng th&igrave; Qu&aacute; khứ tiếp diễn.</p>\n<p style=\"text-align: justify;\">V&igrave; h&agrave;nh động <em>\"were having fun\"</em> xảy ra đồng thời với <em>\"was working hard\"</em>, th&igrave; Qu&aacute; khứ tiếp diễn (were having) l&agrave; ph&ugrave; hợp nhất. C&aacute;c phương &aacute;n kh&aacute;c như <em>\"had\"</em> (Qu&aacute; khứ đơn), <em>\"have had\"</em> (Hiện tại ho&agrave;n th&agrave;nh), v&agrave; <em>\"would have\"</em> kh&ocirc;ng diễn tả h&agrave;nh động đang diễn ra song song trong qu&aacute; khứ.</p>",
+      "answerFeedbacks": {
+        "75166": "Sai vì thì Quá khứ đơn <em>\"had\"</em> diễn tả hành động đã hoàn tất trong quá khứ, không phù hợp để diễn tả hai hành động đang xảy ra song song.",
+        "75167": "Đúng vì thì Quá khứ tiếp diễn <em>\"were having\"</em> diễn tả hành động đang xảy ra đồng thời với hành động khác trong quá khứ, được nối bằng liên từ <em>\"while\"</em>.",
+        "75168": "Sai vì thì Hiện tại hoàn thành <em>\"have had\"</em> diễn tả hành động có liên quan đến hiện tại, không phù hợp với ngữ cảnh hai hành động diễn ra trong quá khứ.",
+        "75169": "Sai vì cấu trúc <em>\"would have\"</em> không được dùng để diễn tả hành động đang xảy ra đồng thời trong quá khứ như trong câu này."
+      },
+      "images": []
+    },
+    {
+      "id": 130122,
+      "questionNumber": 7,
+      "questionName": "Question 34",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>When Dad entered the room, the kids _____ for their test the following week.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 305971,
+          "label": "A",
+          "text": "were studied",
+          "isCorrect": false
+        },
+        {
+          "id": 305972,
+          "label": "B",
+          "text": "would study",
+          "isCorrect": false
+        },
+        {
+          "id": 305973,
+          "label": "C",
+          "text": "were studying",
+          "isCorrect": true
+        },
+        {
+          "id": 305974,
+          "label": "D",
+          "text": "had studied",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 305973,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn th&igrave; đ&uacute;ng cho chỗ trống, bạn cần xem x&eacute;t mối quan hệ thời gian giữa hai h&agrave;nh động trong c&acirc;u. Cụm từ <em>\"When Dad entered the room\"</em> cho biết một h&agrave;nh động đ&atilde; xảy ra trong qu&aacute; khứ.</p>\n<p>H&atilde;y nhớ lại quy tắc sử dụng th&igrave; Qu&aacute; khứ đơn v&agrave; Qu&aacute; khứ tiếp diễn khi một h&agrave;nh động đang diễn ra trong qu&aacute; khứ bị một h&agrave;nh động kh&aacute;c xen v&agrave;o.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng:&nbsp; </span>Sự phối hợp Th&igrave; Qu&aacute; khứ tiếp diễn v&agrave; Qu&aacute; khứ đơn với ''when''.</span></p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Th&igrave; Qu&aacute; khứ tiếp diễn d&ugrave;ng để diễn tả một h&agrave;nh động đang xảy ra tại một thời điểm cụ thể trong qu&aacute; khứ, hoặc một h&agrave;nh động đang diễn ra th&igrave; bị một h&agrave;nh động kh&aacute;c ngắn hơn xen v&agrave;o. H&agrave;nh động xen v&agrave;o thường d&ugrave;ng th&igrave; Qu&aacute; khứ đơn.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">When + S + V(-ed/cột 2),&nbsp;S + <em>was/were</em> + V-ing</span></li>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">S + <em>was/were</em> + V-ing + <em>when</em> + S + V(-ed/cột 2)</span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u n&agrave;y, h&agrave;nh động \"bố v&agrave;o ph&ograve;ng\" (<em>entered</em>) l&agrave; một h&agrave;nh động ngắn, đột ngột xen v&agrave;o khi h&agrave;nh động \"bọn trẻ đang học b&agrave;i\" (<em>studying</em>) đang diễn ra. V&igrave; vậy, ch&uacute;ng ta cần sử dụng th&igrave; Qu&aacute; khứ tiếp diễn cho h&agrave;nh động đang diễn ra v&agrave; phương &aacute;n 3 ''<em>were studying</em>'' l&agrave; ph&ugrave; hợp nhất. C&aacute;c phương &aacute;n c&ograve;n lại:</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>were studied</em>\" l&agrave; th&igrave; Qu&aacute; khứ đơn thể bị động, kh&ocirc;ng ph&ugrave; hợp v&igrave; \"<em>the kids</em>\" (bọn trẻ) l&agrave; chủ thể thực hiện h&agrave;nh động \"học b&agrave;i\", kh&ocirc;ng phải l&agrave; đối tượng bị t&aacute;c động.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 2 \"<em>would study</em>\" thường d&ugrave;ng để diễn tả th&oacute;i quen trong qu&aacute; khứ hoặc trong c&acirc;u điều kiện, kh&ocirc;ng diễn tả h&agrave;nh động đang diễn ra bị xen v&agrave;o.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 4 \"<em>had studied</em>\" l&agrave; th&igrave; Qu&aacute; khứ ho&agrave;n th&agrave;nh, d&ugrave;ng để diễn tả h&agrave;nh động đ&atilde; ho&agrave;n th&agrave;nh trước một h&agrave;nh động kh&aacute;c trong qu&aacute; khứ, kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh h&agrave;nh động đang diễn ra.</p>",
+      "answerFeedbacks": {
+        "305971": "Đây là thì Quá khứ đơn thể bị động, không phù hợp về nghĩa vì \"the kids\" là chủ thể thực hiện hành động \"study\".",
+        "305972": "\"Would study\" thường dùng để diễn tả thói quen trong quá khứ, dự định trong quá khứ, hoặc trong câu điều kiện, không phù hợp với hành động đang diễn ra bị xen vào.",
+        "305973": "\"Were studying\" (thì Quá khứ tiếp diễn) diễn tả hành động \"học bài\" của bọn trẻ đang diễn ra thì hành động \"bố vào phòng\" xen vào.",
+        "305974": "\"Had studied\" (thì Quá khứ hoàn thành) dùng để diễn tả một hành động đã hoàn thành trước một hành động khác trong quá khứ, không phù hợp với ngữ cảnh hành động đang diễn ra bị xen vào."
+      },
+      "images": []
+    },
+    {
+      "id": 11376,
+      "questionNumber": 8,
+      "questionName": "Question 620.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What _____ when the fire alarm _____ off?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 36941,
+          "label": "A",
+          "text": "are you doing / will go",
+          "isCorrect": false
+        },
+        {
+          "id": 36942,
+          "label": "B",
+          "text": "have you done / would go",
+          "isCorrect": false
+        },
+        {
+          "id": 36943,
+          "label": "C",
+          "text": "were you doing / went",
+          "isCorrect": true
+        },
+        {
+          "id": 36944,
+          "label": "D",
+          "text": "will you do / are going",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 36943,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Khi hai h&agrave;nh động xảy ra trong qu&aacute; khứ, một h&agrave;nh động d&agrave;i đang diễn ra th&igrave; một h&agrave;nh động ngắn đột ngột xen v&agrave;o, ch&uacute;ng ta thường sử dụng sự kết hợp giữa th&igrave; Qu&aacute; khứ đơn v&agrave; th&igrave; Qu&aacute; khứ tiếp diễn.</p>\n<p style=\"text-align: justify;\">Dựa v&agrave;o từ <em>\"when\" </em>trong c&acirc;u, h&atilde;y x&aacute;c định đ&acirc;u l&agrave; h&agrave;nh động đang diễn ra (thường l&agrave; h&agrave;nh động d&agrave;i) v&agrave; đ&acirc;u l&agrave; h&agrave;nh động xen v&agrave;o (thường l&agrave; h&agrave;nh động ngắn) để chia th&igrave; ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span></span><strong>Th&igrave; qu&aacute; khứ tiếp diễn v&agrave;&nbsp;Th&igrave; qu&aacute; khứ đơn.</strong></p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Th&igrave; qu&aacute; khứ tiếp diễn</strong> diễn tả một h&agrave;nh động đang xảy ra tại một thời điểm cụ thể trong qu&aacute; khứ.</li>\n<li style=\"text-align: justify;\"><strong>Th&igrave; qu&aacute; khứ đơn</strong> diễn tả một h&agrave;nh động ngắn, đột ngột xen v&agrave;o một h&agrave;nh động kh&aacute;c đang diễn ra trong qu&aacute; khứ.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Th&igrave; qu&aacute; khứ tiếp diễn (c&acirc;u hỏi với Wh-word): <span style=\"color: #1c581f;\">Wh-word + was/were + S + V-ing?</span></strong></li>\n<li style=\"text-align: justify;\"><strong>Th&igrave; qu&aacute; khứ đơn: <span style=\"color: #1c581f;\">S + V(-ed/cột 2)</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u n&agrave;y, h&agrave;nh động \"<em>what _____ you doing</em>\" (bạn đang l&agrave;m g&igrave;) l&agrave; h&agrave;nh động đang diễn ra trong qu&aacute; khứ, bị gi&aacute;n đoạn bởi h&agrave;nh động \"<em>the fire alarm _____ off</em>\" (chu&ocirc;ng b&aacute;o ch&aacute;y k&ecirc;u). Do đ&oacute;, ch&uacute;ng ta cần d&ugrave;ng th&igrave; Qu&aacute; khứ tiếp diễn cho h&agrave;nh động đang diễn ra v&agrave; th&igrave; Qu&aacute; khứ đơn cho h&agrave;nh động xen v&agrave;o. Phương &aacute;n \"<em>were you doing / went</em>\" l&agrave; lựa chọn ch&iacute;nh x&aacute;c nhất. C&aacute;c phương &aacute;n c&ograve;n lại kh&ocirc;ng ph&ugrave; hợp v&igrave;:</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 (\"<em>are you doing / will go</em>\") v&agrave; phương &aacute;n 4 (\"<em>will you do / are going</em>\") sử dụng th&igrave; hiện tại v&agrave; tương lai, kh&ocirc;ng đ&uacute;ng ngữ cảnh qu&aacute; khứ. Phương &aacute;n 2 (\"<em>have you done / would go</em>\") sử dụng th&igrave; hiện tại ho&agrave;n th&agrave;nh v&agrave; một dạng qu&aacute; khứ kh&ocirc;ng ph&ugrave; hợp để diễn tả sự gi&aacute;n đoạn n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "36941": "Sai vì thì hiện tại tiếp diễn (\"are you doing\") không phù hợp với hành động đang xảy ra trong quá khứ, và thì tương lai đơn (\"will go\") không phù hợp với hành động xen vào trong quá khứ.",
+        "36942": "Sai vì thì hiện tại hoàn thành (\"have you done\") không diễn tả hành động đang xảy ra trong quá khứ, và \"would go\" không dùng để diễn tả hành động xen vào trong quá khứ.",
+        "36943": "Đúng vì thì quá khứ tiếp diễn (\"were you doing\") diễn tả hành động đang xảy ra tại một thời điểm trong quá khứ, và thì quá khứ đơn (\"went\") diễn tả hành động khác xen vào.",
+        "36944": "Sai vì cả hai thì tương lai đơn (\"will you do\") và hiện tại tiếp diễn (\"are going\") đều không phù hợp để diễn tả hai hành động xen kẽ nhau trong quá khứ."
+      },
+      "images": []
+    },
+    {
+      "id": 69896,
+      "questionNumber": 9,
+      "questionName": "Question 6:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>At <u>breakfast</u> yesterday, I <span style=\"text-decoration: underline;\">watched</span> cartoons <u>and</u> my dad <u>was reading</u> a car magazine.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 182254,
+          "label": "A",
+          "text": "breakfast",
+          "isCorrect": false
+        },
+        {
+          "id": 182255,
+          "label": "B",
+          "text": "watched",
+          "isCorrect": true
+        },
+        {
+          "id": 182256,
+          "label": "C",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "id": 182257,
+          "label": "D",
+          "text": "was reading",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 182255,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\"><li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra xem giới từ <em>\"At\"</em> có thường đi với danh từ chỉ bữa ăn như <em>\"breakfast\"</em> để chỉ thời điểm không.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét cách chia thì của động từ <em>\"watched\"</em> khi nó diễn tả một hành động xảy ra đồng thời với một hành động khác đang diễn ra trong quá khứ.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Xác định chức năng của liên từ <em>\"and\"</em> trong việc nối hai mệnh đề và liệu nó có phù hợp để diễn tả hai hành động song song không.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra cách chia thì của động từ <em>\"was reading\"</em> và liệu nó có diễn tả một hành động đang diễn ra trong quá khứ đúng cách không.</li></ul>Đối chiếu từng quy tắc trên với ngữ cảnh của câu để xác định phần nào cần được sửa.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Quá khứ tiếp diễn và Thì Quá khứ đơn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Thì Quá khứ tiếp diễn dùng để diễn tả một hành động đang diễn ra tại một thời điểm cụ thể trong quá khứ, hoặc hai hay nhiều hành động đang diễn ra song song. Thì Quá khứ đơn dùng để diễn tả một hành động đã xảy ra và kết thúc trong quá khứ.</p>\n<p><strong>Một số cấu trúc:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hai hành động xảy ra đồng thời trong quá khứ: S1 + was/were + V1-ing + <em>and/while</em> + S2 + was/were + V2-ing</span></strong>: hai hành động cùng đang diễn ra song song.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Một hành động đang diễn ra thì bị một hành động khác xen vào: S1 + was/were + V1-ing + <em>when</em> + S2 + V2(-ed/cột 2)</span></strong>: hành động dài dùng Quá khứ tiếp diễn, hành động ngắn dùng Quá khứ đơn.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, cụm từ <em>\"yesterday\"</em> và việc hai hành động <em>\"I watched cartoons\"</em> và <em>\"my dad was reading a car magazine\"</em> được nối bằng <em>\"and\"</em> cho thấy chúng xảy ra đồng thời trong quá khứ. Vì hành động <em>\"my dad was reading\"</em> được chia ở thì Quá khứ tiếp diễn, hành động còn lại <em>\"I watched\"</em> cũng cần được chia ở thì Quá khứ tiếp diễn để thể hiện sự song song.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>watched</strong></em>\" =&gt; \"<em><strong>was watching</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "182254": "Từ <em>\"breakfast\"</em> (bữa sáng) là một danh từ đứng sau giới từ <em>\"At\"</em>, hoàn toàn đúng ngữ pháp và ngữ nghĩa trong câu.",
+        "182255": "Động từ <em>\"watched\"</em> ở thì Quá khứ đơn không phù hợp để diễn tả một hành động đang xảy ra song song với hành động khác ở thì Quá khứ tiếp diễn (<em>\"was reading\"</em>) trong cùng một thời điểm ở quá khứ.",
+        "182256": "Liên từ <em>\"and\"</em> được sử dụng chính xác để nối hai mệnh đề diễn tả hai hành động xảy ra đồng thời.",
+        "182257": "Động từ <em>\"was reading\"</em> ở thì Quá khứ tiếp diễn được dùng đúng để diễn tả một hành động đang diễn ra tại một thời điểm trong quá khứ."
+      },
+      "images": []
+    },
+    {
+      "id": 60265,
+      "questionNumber": 10,
+      "questionName": "Question 1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">When</span> the phone rang, we <span style=\"text-decoration: underline;\">had</span> our dinner <span style=\"text-decoration: underline;\">with</span> <span style=\"text-decoration: underline;\">The </span><span style=\"text-decoration: underline;\">Smiths</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 162146,
+          "label": "A",
+          "text": "When",
+          "isCorrect": false
+        },
+        {
+          "id": 162147,
+          "label": "B",
+          "text": "had",
+          "isCorrect": true
+        },
+        {
+          "id": 162148,
+          "label": "C",
+          "text": "with",
+          "isCorrect": false
+        },
+        {
+          "id": 162149,
+          "label": "D",
+          "text": "The Smiths",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 162147,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét vai trò của liên từ <em>\"When\"</em> khi giới thiệu một hành động đã xảy ra trong quá khứ.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đánh giá thì của động từ ''<em>had</em>'' trong mệnh đề chính có phù hợp để sử dụng cho một hành động đang diễn ra trong quá khứ không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra giới từ <em>\"with\"</em> có phù hợp để diễn tả việc cùng làm gì đó với người khác không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đảm bảo cách dùng mạo từ và hình thức số nhiều của danh từ riêng <em>\"The Smiths\"</em> để chỉ một gia đình là chính xác.</li>\n</ul>\n<p>Đối chiếu từng quy tắc này với câu gốc để tìm ra phần cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Quá khứ tiếp diễn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Thì Quá khứ tiếp diễn dùng để diễn tả một hành động đang diễn ra tại một thời điểm cụ thể trong quá khứ, hoặc một hành động đang diễn ra thì bị một hành động khác xen vào.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">S + was/were + V-ing (hành động đang diễn ra) + when + S + V(-ed/cột 2) (hành động xen vào)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">While + S + was/were + V-ing (hành động đang diễn ra), S + V(-ed/cột 2) (hành động xen vào)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">When + </span></strong><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">S + V(-ed/cột 2) (hành động xen vào), </span></span><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">S + was/were + V-ing (hành động đang diễn ra)</span></span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, hành động <em>\"the phone rang\"</em> (quá khứ đơn) là hành động đột ngột xen vào, trong khi hành động <em>\"we had our dinner\"</em> là hành động đang diễn ra. Theo quy tắc ngữ pháp, hành động đang diễn ra tại thời điểm bị xen vào phải được chia ở thì Quá khứ tiếp diễn. Do đó, <em>\"had\"</em> cần được sửa thành <em>\"were having\"</em>.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>had</strong></em>\" =&gt; \"<em><strong>were having</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "162146": "Liên từ <em>\"When\"</em> được dùng chính xác để nối hai hành động trong quá khứ, một hành động đang diễn ra và một hành động xen vào.",
+        "162147": "Động từ <em>\"had\"</em> chia ở thì quá khứ đơn là sai, vì hành động \"ăn tối\" đang diễn ra thì bị hành động \"điện thoại reo\" xen vào.",
+        "162148": "Giới từ <em>\"with\"</em> được sử dụng đúng để chỉ việc ăn tối cùng với ai đó.",
+        "162149": "Cụm danh từ <em>\"The Smiths\"</em> được dùng đúng để chỉ gia đình nhà Smith."
+      },
+      "images": []
+    },
+    {
+      "id": 178377,
+      "questionNumber": 11,
+      "questionName": "Question 48:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>When she <u>came to</u> my house, I <u>lied</u> in bed and <u>listening</u> <u>to</u> music.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 409298,
+          "label": "A",
+          "text": "came to",
+          "isCorrect": false
+        },
+        {
+          "id": 409299,
+          "label": "B",
+          "text": "lied",
+          "isCorrect": true
+        },
+        {
+          "id": 409300,
+          "label": "C",
+          "text": "listening",
+          "isCorrect": false
+        },
+        {
+          "id": 409301,
+          "label": "D",
+          "text": "to",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 409299,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét cách thì Quá khứ đơn được sử dụng để diễn tả hành động đã hoàn thành trong quá khứ với phần <em>came to</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra động từ <em>lie</em> ở dạng quá khứ, cũng như việc sử dụng thì của nó đã đúng chưa.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đánh giá cấu trúc song song của các động từ khi diễn tả nhiều hành động cùng lúc trong quá khứ tiếp diễn với phần <em>listening</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra giới từ đi kèm với động từ <em>listen</em> với phần <em>to</em>.</li>\n</ul>\n<p>Đối chiếu từng quy tắc này với câu gốc để xác định phần nào có lỗi sai.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Sự phối hợp thì Quá khứ tiếp diễn và Quá khứ đơn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cách dùng:</span> Diễn tả hai hành động xảy ra trong quá khứ, một hành động đang diễn ra thì một hành động khác xen vào.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Một só cấu trúc:</span></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">When + S + V(-ed/cột 2) + O (Quá khứ đơn), S + was/were + V-ing + O (Quá khứ tiếp diễn).</span></span></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">S + was/were + V-ing + O (Quá khứ tiếp diễn) + when + S + V(-ed/cột 2) + O (Quá khứ đơn).</span></span></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">While + S + was/were + V-ing + O (Quá khứ tiếp diễn), S + V(-ed/cột 2) + O (Quá khứ đơn).</span></span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, vế \"When she <em>came to</em> my house\" sử dụng thì Quá khứ đơn, diễn tả một hành động đã xảy ra trong quá khứ. Vế sau \"I <em>lied</em> in bed and <em>listening</em> to music\" mô tả hai hành động đang diễn ra song song tại thời điểm hành động \"<em>she came</em>\" xảy ra. Do đó, các hành động ở vế sau cần được chia ở thì Quá khứ tiếp diễn. Từ \"lied\" là dạng quá khứ của \"lie\" (nói dối) và không phù hợp với ngữ cảnh và cần sửa thành \"<em>was lying</em>\".</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<strong>lied</strong>\" =&gt; \"<strong>was lying</strong>\"</p>",
+      "answerFeedbacks": {
+        "409298": "Động từ <em>came to</em> ở thì Quá khứ đơn là chính xác để diễn tả một hành động đã xảy ra và kết thúc trong quá khứ, phù hợp với ngữ cảnh của mệnh đề \"When she <em>came to</em> my house\".",
+        "409299": "Động từ <em>lied</em> là dạng quá khứ của <em>lie</em> (nói dối); trong ngữ cảnh \"in bed and listening to music\", động từ cần dùng là <em>lie</em> (nằm), với dạng quá khứ tiếp diễn là <em>was lying</em> để diễn tả hành động đang diễn ra.",
+        "409300": "Dạng <em>listening</em> là một V-ing và cần có trợ động từ <em>was/were</em> phía trước để tạo thành thì Quá khứ tiếp diễn, đồng thời đảm bảo cấu trúc song song với <em>was lying</em> (nếu sửa <em>lied</em>).",
+        "409301": "Giới từ <em>to</em> trong cụm <em>listening to music</em> là chính xác và không có lỗi sai."
+      },
+      "images": []
+    },
+    {
+      "id": 306984,
+      "questionNumber": 12,
+      "questionName": "Oxford Grammar Practice. Pg20",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Trevor and Laura (watch) <span class='fillblank-option'><input id='fbo-306984-0' class='ms fillblank-option-12' index='0' name='fbo-306984-0' type='text' size='15' autocomplete='off' data-testid='fillblank-input-306984-0' /></span> the television at this time yesterday.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "were watching"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; qu&aacute; khứ tiếp diễn được d&ugrave;ng để diễn tả một h&agrave;nh động, sự việc đang xảy ra tại một thời điểm cụ thể trong qu&aacute; khứ. Dấu hiệu: \"<strong>at this time yesterday</strong>\".</p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + was/were + V-ing...</strong></p>\n<p>Chủ ngữ \"<strong>Trevor and Laura</strong>\" chỉ hai đối tượng (số nhiều) n&ecirc;n d&ugrave;ng động từ to be \"<strong>were</strong>\".&nbsp;</p>\n<p>Dịch: Trevor v&agrave; Laura đang xem tivi v&agrave;o giờ n&agrave;y ng&agrave;y h&ocirc;m qua.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 621103,
+      "questionNumber": 13,
+      "questionName": "28",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Your father and you (play) <span class='fillblank-option'><input id='fbo-621103-0' class='ms fillblank-option-13' index='0' name='fbo-621103-0' type='text' size='14' autocomplete='off' data-testid='fillblank-input-621103-0' /></span> badminton while your mother was preparing for dinner.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "were playing"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Th&igrave; qu&aacute; khứ tiếp diễn được d&ugrave;ng để diễn tả hai h&agrave;nh động đang xảy ra song song trong qu&aacute; khứ. </span><span style=\"font-weight: 400;\">Dấu hiệu: mệnh đề ph&iacute;a sau \"<strong>while</strong>\" được chia ở th&igrave; qu&aacute; khứ tiếp diễn.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c thể khẳng định: </span><span style=\"font-weight: 400;\"><strong>S + was/were + V-ing ...</strong></span></p>\n<p><span style=\"font-weight: 400;\">Chủ ngữ \"<strong>Your father and you</strong>\" chỉ hai đối tượng (số nhiều) n&ecirc;n động từ to be ph&iacute;a sau cũng được d&ugrave;ng ở số nhiều l&agrave; \"<strong>were</strong>\".</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Cha của bạn v&agrave; bạn đang chơi cầu l&ocirc;ng trong khi mẹ bạn đang chuẩn bị cho bữa tối.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 677011,
+      "questionNumber": 14,
+      "questionName": "9",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>I (play) <span class='fillblank-option'><input id='fbo-677011-0' class='ms fillblank-option-14' index='0' name='fbo-677011-0' type='text' size='15' autocomplete='off' data-testid='fillblank-input-677011-0' /></span> basketball with my friends </strong><strong>at 5:00 p.m. yesterday.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "was playing"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Th&igrave; qu&aacute; khứ tiếp diễn được d&ugrave;ng để diễn tả một h&agrave;nh động đang xảy ra ở một thời điểm cụ thể trong qu&aacute; khứ. Dấu hiệu: \"<strong>at 5:00 p.m. </strong><strong>yesterday</strong>\".</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c thể khẳng định: <strong>S + was/were + V-ing ...</strong></span></p>\n<p><span style=\"font-weight: 400;\">Chủ ngữ l&agrave; đại từ \"<strong>I</strong>\" chỉ một đối tượng n&ecirc;n d&ugrave;ng động từ to be \"<strong>was</strong>\".&nbsp;</span></p>\n<p>Dịch: T&ocirc;i đang chơi b&oacute;ng rổ với c&aacute;c bạn của t&ocirc;i v&agrave;o l&uacute;c 5 giờ chiều ng&agrave;y h&ocirc;m qua.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 829760,
+      "questionNumber": 15,
+      "questionName": "4",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>David: (you / work) <span class='fillblank-option'><input id='fbo-829760-0' class='ms fillblank-option-15' index='0' name='fbo-829760-0' type='text' size='20' autocomplete='off' data-testid='fillblank-input-829760-0' /></span> out at the gym at seven o'clock this morning?</strong></p>\n<p><strong>Ben: No. I was still at home.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Were you working"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><strong>Th&igrave; Qu&aacute; khứ tiếp diễn</strong></span></p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Th&igrave; Qu&aacute; khứ tiếp diễn d&ugrave;ng để diễn tả một h&agrave;nh động đang xảy ra tại một thời điểm cụ thể trong qu&aacute; khứ.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">(+) S + was/were + V-ing</span></strong></li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">(-) S + wasn't/weren't + V-ing</span></strong></li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">(?) Was/Were + S + V-ing...?</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u n&agrave;y, David đang hỏi Ben về một h&agrave;nh động (\"work out\") c&oacute; đang diễn ra tại một thời điểm cụ thể trong qu&aacute; khứ (\"at seven o'clock this morning\") hay kh&ocirc;ng. Do đ&oacute;, ta cần d&ugrave;ng th&igrave; Qu&aacute; khứ tiếp diễn ở dạng c&acirc;u hỏi. Với chủ ngữ l&agrave; \"you\", trợ động từ ph&ugrave; hợp l&agrave; \"Were\" v&agrave; động từ ch&iacute;nh \"work\" chuyển th&agrave;nh \"working\". V&igrave; vậy, đ&aacute;p &aacute;n ch&iacute;nh x&aacute;c l&agrave; \"<strong>Were you working</strong>\".</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 385422,
+      "questionNumber": 16,
+      "questionName": "7",
+      "questionType": "WordOrder",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</span></em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "I was attending",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "last year,",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "At this time",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "an English course.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 196115,
+      "questionNumber": 17,
+      "questionName": "Đoàn Thị Điểm - PT24 - 6",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "doing",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "her mother",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "lunch?",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "was making",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "What",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "she",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "while",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "was",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    }
+  ]
+}

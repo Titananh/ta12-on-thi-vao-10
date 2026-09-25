@@ -1,0 +1,32 @@
+{
+  "topicId": 168,
+  "topicName": "Câu hỏi đuôi",
+  "englishName": "Tag Questions",
+  "rules": [
+    {
+      "rule": "Nguyên tắc chung: Mệnh đề khẳng định đi với đuôi phủ định; Mệnh đề phủ định đi với đuôi khẳng định.",
+      "formula": "S + V(khẳng định), trợ động từ(phủ định) + đại từ? // S + V(phủ định), trợ động từ(khẳng định) + đại từ?",
+      "examples": "She is a teacher, isn't she? / They don't like spicy food, do they?"
+    },
+    {
+      "rule": "Trường hợp đặc biệt với 'I am' và 'Let's':",
+      "formula": "I am... -> aren't I? // Let's + V... -> shall we?",
+      "examples": "I am late for the meeting, aren't I? / Let's go swimming, shall we?"
+    },
+    {
+      "rule": "Câu mệnh lệnh:",
+      "formula": "V / Don't + V... -> will you?",
+      "examples": "Open the door, will you? / Don't make noise, will you?"
+    },
+    {
+      "rule": "Mệnh đề chứa từ bán phủ định (never, seldom, hardly, rarely, little, few):",
+      "formula": "Mệnh đề được coi là PHỦ ĐỊNH -> Đuôi phải ở dạng KHẲNG ĐỊNH.",
+      "examples": "He never goes to school late, does he? / She can hardly hear, can she?"
+    },
+    {
+      "rule": "Chủ ngữ là đại từ bất định:",
+      "formula": "everyone, somebody, nobody, no one -> dùng 'THEY' ở đuôi // everything, nothing, something -> dùng 'IT' ở đuôi",
+      "examples": "Nobody called me, did they? / Nothing was stolen, was it?"
+    }
+  ]
+}

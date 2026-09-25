@@ -1,0 +1,578 @@
+{
+  "quizId": 16581,
+  "title": "Ôn luyện Từ vựng thi vào 10 số 69: Electronic devices (Set 3)",
+  "totalQuestions": 14,
+  "questions": [
+    {
+      "id": 910820,
+      "questionNumber": 1,
+      "questionName": "medical, virtual, excellent, robotic",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Drag and drop to complete the sentences.</strong></p>\n<p>1. The <strong><span class='fillblank-option'><label>1.1</label><input id='fbo-910820-0' class='ms fillblank-option-1' index='0' name='fbo-910820-0' type='text' size='9' autocomplete='off' data-testid='fillblank-input-910820-0' /></span> </strong>device helps doctors monitor patient health in real-time using advanced technology.</p>\n<p>2. The<strong> <span class='fillblank-option'><label>1.2</label><input id='fbo-910820-1' class='ms fillblank-option-1' index='1' name='fbo-910820-1' type='text' size='8' autocomplete='off' data-testid='fillblank-input-910820-1' /></span> </strong>classroom allows students to attend lessons from home using their computers or tablets.</p>\n<p>3. This smartphone has an <strong><span class='fillblank-option'><label>1.3</label><input id='fbo-910820-2' class='ms fillblank-option-1' index='2' name='fbo-910820-2' type='text' size='10' autocomplete='off' data-testid='fillblank-input-910820-2' /></span></strong> camera for taking clear and sharp pictures anytime.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1737330,
+          "label": "A",
+          "text": "virtual",
+          "isCorrect": false
+        },
+        {
+          "id": 1737331,
+          "label": "B",
+          "text": "excellent",
+          "isCorrect": false
+        },
+        {
+          "id": 1737329,
+          "label": "C",
+          "text": "medical",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "medical"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "virtual"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "excellent"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 265px; height: 365px;\"><iframe id=\"embed-frame-917AB\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BgoVWmRFi3h1d9KqSOE4G1CfEEX400%2B6vGL6iW7CSoAGYRFvxCh6Utuqq4Wjl85%2Fqo6%2Bcl%2FgJ%2FC4QWpJfAEJTDpcJ8oHUYjIJBQVZ%2BLTDYNCNPyXYuLBC%2FEbpl9AzqZik2z52MuEFbFbQt6D9PFESkFWHuYzWulqGaD%2FclGeeJZ4lUb9Nbqnp8qL546MqrcTLJhQN8K2rNstosOlpWKNyBIxL5kfV3cFF04znxylLmmUeVi7O3IxxeSpf4LrILFsCvJt%2F0%2BluEZX9HEmBP8EC1txvsSlXQaTo%2FtloaSzt1uIbZGfPJxp02ESbWSZhISDFUfL9TJCDZaA%3D%3D\" width=\"100%\" height=\"365\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch:&nbsp;</p>\n<p>1. Thiết bị y tế gi&uacute;p b&aacute;c sĩ theo d&otilde;i sức khỏe bệnh nh&acirc;n theo thời gian thực bằng c&ocirc;ng nghệ ti&ecirc;n tiến.</p>\n<p>2. Lớp học ảo cho ph&eacute;p học sinh tham gia b&agrave;i học tại nh&agrave; bằng m&aacute;y t&iacute;nh hoặc m&aacute;y t&iacute;nh bảng.</p>\n<p>3. Chiếc điện thoại th&ocirc;ng minh n&agrave;y c&oacute; camera tuyệt vời để chụp ảnh r&otilde; n&eacute;t mọi l&uacute;c.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910845,
+      "questionNumber": 2,
+      "questionName": "pattern",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The _____ on the circuit board helps engineers understand how to assemble the electronic device.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1728441,
+          "label": "A",
+          "text": "trace",
+          "isCorrect": false
+        },
+        {
+          "id": 1728442,
+          "label": "B",
+          "text": "map",
+          "isCorrect": false
+        },
+        {
+          "id": 1728443,
+          "label": "C",
+          "text": "signature",
+          "isCorrect": false
+        },
+        {
+          "id": 1728444,
+          "label": "D",
+          "text": "pattern",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1728444,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe id=\"embed-frame-D3318\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19wyKUIXI8DIeDV0m6oFE2qsSLnc3gnqmzqCMGpaVybCMyJMGjHp4LvRb8qWHuIVEe1%2Frfod9LPPWnAB3rKAKYTnlg8uCbMXrnpIhRuPLZL%2BBGJ47zdBPbnVHXGxPmvHyfnOuHsGH88uSVJOWAwSkL7Lt8WYgpfNRRMwvvEPlTkcfNt2oCXI5rThm1nMuU%2FlTLXVD2DPjWI4jIJrQ4q2Z1d1F6nUpLkrfnwSU%2FOp%2Fx9djf6SbqvJBe9uyFZyUKLRs33Cr0Pu2nEnPl2hDaLhXA0knlizXHqbE4rD9MFzlNl9RZ7gMaBwfWFZ%2BhjhSojKXIEL5%2Fch9rq69dq8h7qvPHZmW59ZZBeSXs%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Bản vẽ m&acirc;̃u tr&ecirc;n bảng mạch gi&uacute;p kỹ sư hiểu c&aacute;ch lắp r&aacute;p thiết bị điện tử.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910846,
+      "questionNumber": 3,
+      "questionName": "break down",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Lily: My phone isn&#8217;t working properly. It keeps freezing.</strong></p>\n<p><strong>Nancy: It might be that the software is causing it to _____ down. Try restarting it.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1728445,
+          "label": "A",
+          "text": "take",
+          "isCorrect": false
+        },
+        {
+          "id": 1728446,
+          "label": "B",
+          "text": "break",
+          "isCorrect": true
+        },
+        {
+          "id": 1728447,
+          "label": "C",
+          "text": "put",
+          "isCorrect": false
+        },
+        {
+          "id": 1728448,
+          "label": "D",
+          "text": "hold",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1728446,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px; height: 410px;\"><iframe id=\"embed-frame-D3318\" style=\"border: none;\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2FnzpW9lxmpnSyVvtpyQjLFbBpNi1JeQ1%2FBWHUNO6x8tN4OKol8MAwrpUeGwNPv7KxCjLtAydNVRRKeSixTKgdS29t1Y9RFD6ilkExJM6XoIXlv7SvRG3Z%2F34D5GHhS175qMk%2BCTsyZoPndGALkpgV%2Fiq%2ByJ6Li4nVkyMD6lYloDy3tXiTab7aSU93JOrSuNqDdH%2BdjoJyxIPA3dzEkJB812Gc8xWgAfODD0r%2FheMowK3Jb1lXeEczat8COVm3hx50PHtoMcDJMgYFm2xeFC2qG64HgfVwXk58THHHNxpgvYqYtyadPVPURuFZ8svEh61%2Be5w6%2Bpk4aJs0y8hicWIE%2BDYAGNiGfSwNvuDB60bf6p0TE%2BZ7yJFOX0kur8ZvchyI60JxUCpWPPh9wXeoWyiCRH3gPidX5KbjToUVSsQdDK0bG%2FImOiCXL88cqnybcbIjN3NROXNbpP38UqPS%2FF9SMSpOYmIsX3hZvfFcGJ20JHybkZhP4PNuq\" width=\"100%\" height=\"410\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch:&nbsp;</p>\n<p>Lily: Điện thoại của tớ kh&ocirc;ng hoạt động b&igrave;nh thường. N&oacute; cứ bị treo m&atilde;i.</p>\n<p>Nancy: C&oacute; thể l&agrave; do phần mềm khiến n&oacute; bị hỏng. Cậu thử khởi động lại xem sao.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910847,
+      "questionNumber": 4,
+      "questionName": "temperature",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The smartwatch tracks your _____ to help you monitor your health throughout the day.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1728449,
+          "label": "A",
+          "text": "spending",
+          "isCorrect": false
+        },
+        {
+          "id": 1728450,
+          "label": "B",
+          "text": "location",
+          "isCorrect": false
+        },
+        {
+          "id": 1728451,
+          "label": "C",
+          "text": "temperature",
+          "isCorrect": true
+        },
+        {
+          "id": 1728452,
+          "label": "D",
+          "text": "transportation",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1728451,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe id=\"embed-frame-D3318\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BVbp4ToEEsmLRLtC0H9ijtyZ1a9sYok8%2B5N9IYnmtZI6m0PKFJ7gyMxC4bvEpYzr5IPpMCgQ1W3re1B7DFcw35TX0Ql0sk%2Baio6NFUoK%2B1Tu3I8SYMO%2F9QcRZt1%2BAvMneGV5r5C%2Bpzc6PCAWlW7AQFhMv%2FMmFfla16sklS46scKyJ1FvW3inTqmFHyeK58JJJSDJAf1KHmq%2BD24FWkb3E5%2BmwcR9yq7MOCLA%2FKytYsfNltggPgBTulxiAlmjGTA7QkasU71xe8aHnRI6XnmX1taLYY27BAVdNmjhn9TVT4txOxcFKGT%2BWSHav0uiuaCQypmHaEb8OrAlQHefkUK99EIZMzJZW3TOn8Z4aJjQ0LDJ949U83BJkWX3WSqJzVzIuTvgk06aZ8Qw%3D%3D\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Đồng hồ th&ocirc;ng minh theo d&otilde;i nhiệt độ của bạn để gi&uacute;p bạn theo d&otilde;i sức khỏe suốt cả ng&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910848,
+      "questionNumber": 5,
+      "questionName": "block out sth",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>You can _____ out unwanted noise by using noise-canceling headphones during your workout.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1728453,
+          "label": "A",
+          "text": "burn",
+          "isCorrect": false
+        },
+        {
+          "id": 1728454,
+          "label": "B",
+          "text": "block",
+          "isCorrect": true
+        },
+        {
+          "id": 1728455,
+          "label": "C",
+          "text": "go",
+          "isCorrect": false
+        },
+        {
+          "id": 1728456,
+          "label": "D",
+          "text": "make",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1728454,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px; height: 350px;\"><iframe id=\"embed-frame-D3318\" style=\"border: none;\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX19Rzm%2FbI5jeJf9dE6FoS9DWZBYIUpnWJf093x8u0CxMDab9RdLjEih8GNm9fvqtTPUDUB4vey3hOpshFUiT%2BCXxMSbTGImyySEZ4HN7PTnUvO5yJf13Ng4UhGypkCy8PJEnJsLAv%2Fin3MYixnuout7oHU0rJPYA17t0kUua%2BX0pRrbge1M%2BZ0bdqL%2FXTOk3jLBbYmvlZhhhCeJUzN9TEePl6sl4Susl7pf7MByHiRlh4rUFHSzs%2BdRjGjoE3SWHRsEIl%2BsCP7yXRLSsSsT17CogYNJwMefmFN0u8YmtUJWQHEHFpx6iDGg3tybuYorv7%2F2sNHdVkPPzxXN%2BPDVn1OwUXWPw5b22Rhh%2BDijNbu1QBh%2FxPiC5Y5QS%2FoJkgTYZdcivMyLWw9hNgDnkEYdSGm9e57ZHlxoKAq8%3D\" width=\"100%\" height=\"350\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Bạn c&oacute; thể ngăn tiếng ồn kh&ocirc;ng mong muốn bằng c&aacute;ch sử dụng tai nghe chống ồn trong khi tập luyện.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910849,
+      "questionNumber": 6,
+      "questionName": "live-stream",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>During the Covid-19 pandemic, teachers _____ their lessons to help students learn from home effectively.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1728457,
+          "label": "A",
+          "text": "deleted",
+          "isCorrect": false
+        },
+        {
+          "id": 1728458,
+          "label": "B",
+          "text": "browsed",
+          "isCorrect": false
+        },
+        {
+          "id": 1728459,
+          "label": "C",
+          "text": "live-streamed",
+          "isCorrect": true
+        },
+        {
+          "id": 1728460,
+          "label": "D",
+          "text": "predicted",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1728459,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe id=\"embed-frame-917AB\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18WxB2k09M9SXj0n%2BANkiuwGGM%2F4gspkxFhGIb3IrFHim3wUDkeXLCHLIHYA%2F8Nz3CWUgQ%2BNoPUzKmFPdqFYWb%2FMv5CseXMXkSkR3nMz5kWOw%2BAstTnbd8T7fZzeQ477zojGEgLf5fZv3hkTjsGc%2FAkL6eIC%2BIEzfwkjnZmCatY1l6Y%2BgmFB%2B1pW2QyXTQ0Zxwk7h%2FlSflQMeTeQSpKILz%2FUb9od9hb%2BE4rPyez8WRQNeh3ph3CYhewrGp4buLvwEFUWcGVTQSA5QbS2S8GEwjs752JYyei4Jq6NnhS8AdvYC8Af74jVHCxC2uMLeXD9HK6KRM30jgrOQhaYuCTul3M2SfL%2F%2Br8t9CucleInS98kSw5giqzsV2P\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Trong đại dịch Covid-19, gi&aacute;o vi&ecirc;n đ&atilde; ph&aacute;t trực tiếp b&agrave;i học để gi&uacute;p học sinh học ở nh&agrave; hiệu quả.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910854,
+      "questionNumber": 7,
+      "questionName": "Advise",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Jane: Can you _____ me on which smartphone to buy? I need a new one.</strong></p>\n<p><strong>Nancy: Sure! I think you should get the one with the high-resolution camera for taking clear and sharp photos.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1728477,
+          "label": "A",
+          "text": "question",
+          "isCorrect": false
+        },
+        {
+          "id": 1728478,
+          "label": "B",
+          "text": "advise",
+          "isCorrect": true
+        },
+        {
+          "id": 1728479,
+          "label": "C",
+          "text": "allow",
+          "isCorrect": false
+        },
+        {
+          "id": 1728480,
+          "label": "D",
+          "text": "warn",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1728478,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe id=\"embed-frame-D3318\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18IDC4GohvinPTt3kQ1MHufnlDQ%2B7ZD%2BNsyyFyMdh38p818r26EL4TxlrlgmBV18%2B4GcPQuImncgPPqVPOydWPuysoJo9k2r2qcNKy2zDTvEjO7wNwNtg%2BSTJJcTEfitEvyK3icxUuxZC7ro2HIeNUmQr7yh2nZIT4%2FOKCYcLMFQcgVyyBsDr%2FGFC3AellDt2k1sQScBMn%2BoWvNSPNhAcR5Q0djYzoxd%2B4W9BbWezwuao60aHEZf7Ca8099fO2GdhUDYEVbpaE7aaLBqshTViZAlQpHSNUHoL4H9kuwqHtrI7ivB8%2BClPGe4Qw0YHEpPAzcNRSSgqYfxBdRLmU6qrBt318M0xWDAq0fNKJfr8sptDOvN1pzF1MC\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch:&nbsp;</p>\n<p>Jane: Bạn c&oacute; thể cho t&ocirc;i lời khuy&ecirc;n n&ecirc;n mua điện thoại th&ocirc;ng minh n&agrave;o kh&ocirc;ng? T&ocirc;i cần một chiếc mới.</p>\n<p>Nancy: Chắc chắn rồi! T&ocirc;i nghĩ bạn n&ecirc;n mua đi&ecirc;̣n thoại c&oacute; camera độ ph&acirc;n giải cao để chụp ảnh r&otilde; n&eacute;t.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910850,
+      "questionNumber": 8,
+      "questionName": "recommend",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Mia: I&#8217;m looking for a good laptop. Which one do you think I should buy?</strong></p>\n<p><strong>Peter: I _____ the one with the long battery life and a fast processor.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1728461,
+          "label": "A",
+          "text": "dislike",
+          "isCorrect": false
+        },
+        {
+          "id": 1728462,
+          "label": "B",
+          "text": "release",
+          "isCorrect": false
+        },
+        {
+          "id": 1728463,
+          "label": "C",
+          "text": "recommend",
+          "isCorrect": true
+        },
+        {
+          "id": 1728464,
+          "label": "D",
+          "text": "charge",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1728463,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe id=\"embed-frame-D3318\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BUJfsWL9FWX7iz%2F%2Bpo9qO%2FqNsU02JFZIRliGeQLax6Z1AiFcowuCPgAN71BM3MYamSpVyuyw0mt%2FG9HpuSzxBKj%2FFV0ykZ4w%2F0ZFZ58yFwl54%2BYguMl0fClDjbAYLpQp5Vc%2BrtyQib0MbdrEs5H21IjnHjcjCuxkrUtudXfzGm0xdXNgba07L7HLt%2F8GJTa03z%2FBGlt4J40ET8TtE1y8DpsiZ%2Fu%2FuR35AMY%2F%2FV0fjb7nOZFVCyjDADQoFNkshY1xVPp3ORh3iPQYDOuWtMuUYtyMALiWpEp3T%2BZHfHzCXaDr0ZszRzQ6ZGS6tBnn%2FsMkU5kV9aqyLowBiy9%2BacGHIE5JgEO8t%2B63BPFeqVxAEdH7UX5VM7rFO8\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch:&nbsp;</p>\n<p>Mia: T&ocirc;i đang t&igrave;m một chiếc m&aacute;y t&iacute;nh x&aacute;ch tay tốt. Bạn nghĩ t&ocirc;i n&ecirc;n mua loại n&agrave;o?</p>\n<p>Peter: T&ocirc;i gợi ý bạn n&ecirc;n mua loại c&oacute; thời lượng pin d&agrave;i v&agrave; bộ xử l&yacute; nhanh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910852,
+      "questionNumber": 9,
+      "questionName": "track",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The app _____ your heart rate and breathing during exercise to ensure you're working at the right intensity.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1728469,
+          "label": "A",
+          "text": "tracks",
+          "isCorrect": true
+        },
+        {
+          "id": 1728470,
+          "label": "B",
+          "text": "disturbs",
+          "isCorrect": false
+        },
+        {
+          "id": 1728471,
+          "label": "C",
+          "text": "stops",
+          "isCorrect": false
+        },
+        {
+          "id": 1728472,
+          "label": "D",
+          "text": "fixes",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1728469,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe id=\"embed-frame-917AB\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19BxEy4lSN2JMbFUidflJvXjUvz%2BA8w56C8CH5n5jGVERjXHMWhrdMd0E3yRR1BgyyRzQIK8pmFeB2kZCp2%2FXMlsmZFc12rQPDHQNst8IVUfbes2rVrMS0cJYUa41AinQnuVi%2BkvVji2ERGrHDe5BQEYkvXM9m9Pob%2B716%2F1REicixHYTO3XUcwzVl8cEj28Geki5rtDuHYhP1wxCFooLHInwGYs9GFjBZlSGN8b61tcLQTiA%2F92ILauawVS%2FHpApLv87eKd7Vkoz72begoxs2UE%2BsE5ItznIaEvgk%2F5AI%2B7thVyyLXDItCASC5O33%2BTLoOmWmOCcv%2BcS7AGnBKN5KcHHP2AyK2uqw%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Ứng dụng theo d&otilde;i nhịp tim v&agrave; nhịp thở của bạn trong khi tập thể dục để đảm bảo bạn đang tập luyện ở cường độ ph&ugrave; hợp.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910853,
+      "questionNumber": 10,
+      "questionName": "display",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>David: What do you like most about your laptop?</strong></p>\n<p><strong>Marry: I love the wide screen and high quality. It _____ everything clearly and sharply!</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1728473,
+          "label": "A",
+          "text": "folds",
+          "isCorrect": false
+        },
+        {
+          "id": 1728474,
+          "label": "B",
+          "text": "displays",
+          "isCorrect": true
+        },
+        {
+          "id": 1728475,
+          "label": "C",
+          "text": "tears",
+          "isCorrect": false
+        },
+        {
+          "id": 1728476,
+          "label": "D",
+          "text": "wraps",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1728474,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe id=\"embed-frame-D3318\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FThEP8aLXqjlBpWSCXf%2BqTsjGhdfj4KQEvLW6tz09yD9kfOHLIaNmAU9BNEBYTXieTIwtgin93iIHENndFY1aYjnlASYs%2Bqhod2K1c3ftgCgzre7CVDi3jxgOMxEpbZGwp8WNKEi2OLJaU3qrFWXV182V0ATOtWN%2Fz4S14wFAFogFiQ39yyE95%2B7KDVdbfiogZs1dTKo7p%2FAh1e8%2BqzYoLMvQ4yDJ9iq9bXigbvAhwLeVWTfLEdvAFeP7LvWX6B9Ri24YMQSIbxuIoTb4yXoQhsoe1Dpo55QCJ1HPv5PI5KoBWp8dvZprvHpi1rKTO%2Bd%2Bknh%2BE54Ox5Miuk16G9Qd1Qg75XyD%2FEHqP2SJBSa%2FkSje%2FaEgDAaeu\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch:&nbsp;</p>\n<p>David: Bạn th&iacute;ch nhất điều g&igrave; ở m&aacute;y t&iacute;nh x&aacute;ch tay của m&igrave;nh?</p>\n<p>Marry: T&ocirc;i th&iacute;ch m&agrave;n h&igrave;nh rộng v&agrave; chất lượng cao. N&oacute; hiển thị mọi thứ r&otilde; r&agrave;ng v&agrave; sắc n&eacute;t!</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910933,
+      "questionNumber": 11,
+      "questionName": "interactive",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentence by changing the form of the word in capitals.</em></p>\n<p><strong>Teachers can use electronic devices to provide <span class='fillblank-option'><input id='fbo-910933-0' class='ms fillblank-option-11' index='0' name='fbo-910933-0' type='text' size='15' autocomplete='off' data-testid='fillblank-input-910933-0' /></span> lessons for students. (INTERACT)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "interactive"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại c&acirc;̀n đi&ecirc;̀n: tính từ, đứng trước và b&ocirc;̉ sung ý nghĩa cho danh từ \"<strong>lessons</strong>\".</p>\n<div style=\"width: 100%; max-width: 523px; height: 355px;\"><iframe id=\"embed-frame-D3318\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BHrXaF5MaafUt7wZ1fWLwgwrdVh23wbMifqI1Ja4dHiqTluEgBabkfuJyptgShkevMKE5IYFHPtH1qLC7Jfn3LsHwaqO7s1OSvLSt2Guy2z9tfW5wPTx2tfzTSbFhGemZYm9dNwC3G0E8l7wif0qZTj1YTi%2BGCTqQbThPecY1bAYksuvkW5Zjv76NaFGO5TlkcyEbSuJIDPxy9mUp1u9%2BFSno2hFo4NdXLtF%2BHE%2Bs0smPw6SuoBgx3J8wRqZ8xOXFIpU6UYrlXGJ5CbY9yWB4pbRR9YM8DVbAdHr%2FFyfA7Ap6xaMrs%2FoX%2F8%2Fr8F2PawrOkKwJCuhzsX0J%2FbqiUB5S53Kfi5Lc7Ar4OFh4rEc08s%2Fq36SpR468S32XES9HsmVNw4RbTucApyZNvlXxDPijiB2u9VjIxTc8%3D\" width=\"100%\" height=\"355\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Gi&aacute;o vi&ecirc;n c&oacute; thể sử dụng thiết bị điện tử để cung cấp b&agrave;i học tương t&aacute;c cho học sinh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910936,
+      "questionNumber": 12,
+      "questionName": "harmful",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentence by changing the form of the word in capitals.</em></p>\n<p><strong>Spending too much time on electronic devices can be <span class='fillblank-option'><input id='fbo-910936-0' class='ms fillblank-option-12' index='0' name='fbo-910936-0' type='text' size='10' autocomplete='off' data-testid='fillblank-input-910936-0' /></span> to your eyes. (HARM)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "harmful"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Từ loại cần điền:</span> <strong>tính từ</strong>, theo sau động từ \"<strong>be</strong>\" bổ nghĩa cho chủ ngữ, mô tả tính chất của việc dành quá nhiều thời gian cho thiết bị điện tử.</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.4rem 0.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        vertical-align: top; \n        font-size: 14px;\n    }\n    \n    .vocab-table-sharp td:first-child {\n        border-right: 1px solid #ceedca;\n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .word-en-sharp {\n        margin-right: 0.4rem;\n        font-size: 14px; \n    }\n\n    .word-pos-sharp {\n        color: #5fbd18; \n        margin-right: 0.4rem;\n    }\n    \n    .word-pron-sharp {\n        color: #333333;\n    }\n\n    .example-sharp {\n        margin-top: 6px;\n        color: #555555;\n        line-height: 1.4;\n    }\n\n    .eq-highlight {\n        font-weight: bold;\n    }\n\n    .meaning-en-sharp {\n        margin-bottom: 8px;\n        color: #222222;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<tbody>\n<tr>\n<td style=\"width: 50%;\">\n<div style=\"margin-bottom: 8px;\"><strong><span class=\"word-en-sharp\">harm</span></strong><span class=\"word-pos-sharp\">(n., v.)</span><span class=\"word-pron-sharp\">/hɑːrm/</span></div>\n<div class=\"example-sharp\">The accident caused serious <span class=\"eq-highlight\">harm</span> to his leg.</div>\n</td>\n<td style=\"width: 50%;\">\n<div class=\"meaning-en-sharp\">physical or mental damage or injury; to damage or injure someone or something</div>\n<div><span style=\"color: #7e8c8d;\"><em>sự tổn hại, sự thiệt hại; làm hại, gây hại</em></span></div>\n</td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td style=\"width: 50%;\">\n<div style=\"margin-bottom: 8px;\"><strong><span class=\"word-en-sharp\">harmful</span></strong><span class=\"word-pos-sharp\">(adj.)</span><span class=\"word-pron-sharp\">/ˈhɑːrmfəl/</span></div>\n<div class=\"example-sharp\">Exposure to the sun's UV rays can be <span class=\"eq-highlight\">harmful</span>.</div>\n</td>\n<td style=\"width: 50%;\">\n<div class=\"meaning-en-sharp\">causing or likely to cause harm</div>\n<div><span style=\"color: #7e8c8d;\"><em>có hại, gây hại</em></span></div>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n<details style=\"margin-top: 10px;\">\n<summary style=\"cursor: pointer; color: #5fbd18; font-weight: bold; padding: 5px 0;\">Xem thêm các từ cùng gốc khác</summary>\n<div class=\"vocab-table-sharp-wrapper\" style=\"margin-top: 5px;\">\n<table class=\"vocab-table-sharp\" style=\"height: 172px;\">\n<tbody>\n<tr style=\"height: 43px;\">\n<td style=\"width: 703px; height: 43px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span class=\"word-en-sharp\">harmfully</span></strong><span class=\"word-pos-sharp\">(adv.)</span><span class=\"word-pron-sharp\">/ˈhɑːrmfəli/</span></div>\n<div class=\"example-sharp\">The chemicals were <span class=\"eq-highlight\">harmfully</span> released into the environment.</div>\n</td>\n<td style=\"width: 703px; height: 43px;\">\n<div class=\"meaning-en-sharp\">in a way that causes harm</div>\n<div><span style=\"color: #7e8c8d;\"><em>một cách có hại, gây hại</em></span></div>\n</td>\n</tr>\n<tr style=\"height: 43px;\">\n<td style=\"width: 703px; height: 43px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span class=\"word-en-sharp\">harmless</span></strong><span class=\"word-pos-sharp\">(adj.)</span><span class=\"word-pron-sharp\">/ˈhɑːrmləs/</span></div>\n<div class=\"example-sharp\">The snake was completely <span class=\"eq-highlight\">harmless</span>.</div>\n</td>\n<td style=\"width: 703px; height: 43px;\">\n<div class=\"meaning-en-sharp\">not causing any harm or injury</div>\n<div><span style=\"color: #7e8c8d;\"><em>vô hại, không gây hại</em></span></div>\n</td>\n</tr>\n<tr style=\"height: 43px;\">\n<td style=\"width: 703px; height: 43px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span class=\"word-en-sharp\">harmlessly</span></strong><span class=\"word-pos-sharp\">(adv.)</span><span class=\"word-pron-sharp\">/ˈhɑːrmləsli/</span></div>\n<div class=\"example-sharp\">The child played <span class=\"eq-highlight\">harmlessly</span> with the toy.</div>\n</td>\n<td style=\"width: 703px; height: 43px;\">\n<div class=\"meaning-en-sharp\">in a way that causes no harm</div>\n<div><span style=\"color: #7e8c8d;\"><em>một cách vô hại, không gây hại</em></span></div>\n</td>\n</tr>\n<tr style=\"height: 43px;\">\n<td style=\"width: 703px; height: 43px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span class=\"word-en-sharp\">unharmed</span></strong><span class=\"word-pos-sharp\">(adj.)</span><span class=\"word-pron-sharp\">/ʌnˈhɑːrmd/</span></div>\n<div class=\"example-sharp\">Despite the crash, he walked away <span class=\"eq-highlight\">unharmed</span>.</div>\n</td>\n<td style=\"width: 703px; height: 43px;\">\n<div class=\"meaning-en-sharp\">not hurt or damaged</div>\n<div><span style=\"color: #7e8c8d;\"><em>không bị tổn hại, không bị thương</em></span></div>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</details>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910830,
+      "questionNumber": 13,
+      "questionName": "e-reader, smartwatch, cardboard, window shade",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Write suitable words to complete the conversation.</strong></p>\n<p><img src=\"/images/exams/set_3_-_electronic_devices_8e0ed607.png\" alt width=\"500\"></p>\n<p>Sarah: Hey, Tom! I saw a <strong><span class='fillblank-option'><label>13.1</label><input id='fbo-910830-0' class='ms fillblank-option-13' index='0' name='fbo-910830-0' type='text' size='13' autocomplete='off' data-testid='fillblank-input-910830-0' /></span></strong> box at the entrance this morning. Is that yours?</p>\n<p>Tom: Hi, Sarah! It's mine. It&#8217;s the <strong><span class='fillblank-option'><label>13.2</label><input id='fbo-910830-1' class='ms fillblank-option-13' index='1' name='fbo-910830-1' type='text' size='10' autocomplete='off' data-testid='fillblank-input-910830-1' /></span></strong> I bought two days ago.</p>\n<p>Sarah: Wow, it's great! Where did you get it? I&#8217;ve been thinking about buying one.</p>\n<p>Tom: I ordered it online. It was a great deal. It can connect to my phone.</p>\n<p>Sarah: That&#8217;s cool! So, you can control it with your phone?</p>\n<p>Tom: Yes, exactly. I can also use my phone to control other things, like closing the <strong><span class='fillblank-option'><label>13.3</label><input id='fbo-910830-2' class='ms fillblank-option-13' index='2' name='fbo-910830-2' type='text' size='16' autocomplete='off' data-testid='fillblank-input-910830-2' /></span></strong> without touching it.</p>\n<p>Sarah: That sounds amazing! I don't know if our phones can work that way.</p>\n<p>Tom: The technology is developing every day. Now you can even use a <strong><span class='fillblank-option'><label>13.4</label><input id='fbo-910830-3' class='ms fillblank-option-13' index='3' name='fbo-910830-3' type='text' size='14' autocomplete='off' data-testid='fillblank-input-910830-3' /></span></strong> to control things without the phone.</p>\n<p>Sarah: Really? I need to get one.&nbsp;</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "cardboard"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "e-reader"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "window shade"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "smartwatch"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe id=\"embed-frame-D3318\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX199BRqDvpLJmYC6d1TuRdnGD0qOBKmrNrF1hrrwXqMhqFzaXcq1OvnsUI8FLQqcstfaRQfNYRcAYQJsvdv1nI6POWqJrHBnjdNIBZZjAG%2B3QA6GIW1%2BeuvnIysHQDhHDFzX83oCT%2FjmwZmCjqoDjpguUtO2VEFcaASRg8LbrLUBBRvmS3tVCHin7QG4En1UjjpOkCbpchTvRrEmEaGl9OJo4Kgu4%2Bkz6%2FVDfldtw8A1NbwMvggLkfXjF6dTEBtDq4Z0IITIau2C%2Bt6Gsa%2BbOrVyD%2F6iMTFuF4ZCsBnOKQH6HTgl%2BdEbG3Xu8h9GbWJwUt0ZBQJ0p9EN2LM46FwbJspcy9hKNyEQIl8%3D\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch:&nbsp;</p>\n<p>Sarah: N&agrave;y, Tom! S&aacute;ng nay tớ thấy một hộp <span style=\"text-decoration: underline;\">b&igrave;a cứng</span>&nbsp;ở cửa ra v&agrave;o. Đ&oacute; l&agrave; của cậu &agrave;?</p>\n<p>Tom: Ch&agrave;o, Sarah! Đ&uacute;ng rồi, đ&oacute; l&agrave; của tớ. Đ&oacute; l&agrave; <span style=\"text-decoration: underline;\">m&aacute;y đọc s&aacute;ch điện tử</span> tớ mua hai ng&agrave;y trước.</p>\n<p>Sarah: Wow, tuyệt qu&aacute;! Cậu mua n&oacute; ở đ&acirc;u vậy? Tớ cũng đang nghĩ đến việc mua một c&aacute;i đấy.</p>\n<p>Tom: Tớ đặt mua n&oacute; tr&ecirc;n mạng. Gi&aacute; hời lắm.&nbsp;N&oacute; c&oacute; thể kết nối với điện thoại của tớ.</p>\n<p>Sarah: Thật th&uacute; vị! Vậy l&agrave; cậu c&oacute; thể điều khiển n&oacute; bằng điện thoại &agrave;?</p>\n<p>Tom: Đ&uacute;ng vậy. Đ&uacute;ng vậy. Tớ cũng c&oacute; thể d&ugrave;ng điện thoại để điều khiển những thứ kh&aacute;c, như đ&oacute;ng <span style=\"text-decoration: underline;\">r&egrave;m cửa</span> m&agrave; kh&ocirc;ng cần chạm v&agrave;o n&oacute;.</p>\n<p>Sarah: Nghe tuyệt qu&aacute;! Tớ kh&ocirc;ng biết điện thoại của ch&uacute;ng ta c&oacute; thể hoạt động theo c&aacute;ch đ&oacute; đ&acirc;́y.</p>\n<p>Tom: C&ocirc;ng nghệ đang ph&aacute;t triển từng ng&agrave;y. Giờ đ&acirc;y cậu thậm ch&iacute; c&oacute; thể d&ugrave;ng <span style=\"text-decoration: underline;\">đồng hồ th&ocirc;ng minh</span> để điều khiển mọi thứ m&agrave; kh&ocirc;ng cần điện thoại.</p>\n<p>Sarah: Thật sao? Tớ phải mua một c&aacute;i mới được.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 910835,
+      "questionNumber": 14,
+      "questionName": "health problem, strain, posture, suggest, lead to something",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\" data-start=\"0\" data-end=\"300\"><strong>Read the following passage and choose the option that best fits each blank.</strong></p>\n<p style=\"text-align: justify;\" data-start=\"0\" data-end=\"300\">Using electronic devices for long periods can cause various <strong><span class='fillblank-option'><label>14.1</label><select class='ms fillblank-option-14' index='0' name='fbo-910835-0' data-testid='fillblank-select-910835-0'><option value='' data-testid='fillblank-option-empty-910835-0'></option><option value=\"communication\" data-testid='fillblank-option-910835-0-communication'>communication</option><option value=\"technology\" data-testid='fillblank-option-910835-0-technology'>technology</option><option value=\"health\" data-testid='fillblank-option-910835-0-health'>health</option><option value=\"management\" data-testid='fillblank-option-910835-0-management'>management</option></select></span></strong> problems. One issue is <strong><span class='fillblank-option'><label>14.2</label><select class='ms fillblank-option-14' index='1' name='fbo-910835-1' data-testid='fillblank-select-910835-1'><option value='' data-testid='fillblank-option-empty-910835-1'></option><option value=\"stress\" data-testid='fillblank-option-910835-1-stress'>stress</option><option value=\"fever\" data-testid='fillblank-option-910835-1-fever'>fever</option><option value=\"stomachache\" data-testid='fillblank-option-910835-1-stomachache'>stomachache</option><option value=\"strain\" data-testid='fillblank-option-910835-1-strain'>strain</option></select></span></strong>, which happens when a muscle is overused and gets injured. Poor <strong><span class='fillblank-option'><label>14.3</label><select class='ms fillblank-option-14' index='2' name='fbo-910835-2' data-testid='fillblank-select-910835-2'><option value='' data-testid='fillblank-option-empty-910835-2'></option><option value=\"schedule\" data-testid='fillblank-option-910835-2-schedule'>schedule</option><option value=\"costume\" data-testid='fillblank-option-910835-2-costume'>costume</option><option value=\"posture\" data-testid='fillblank-option-910835-2-posture'>posture</option><option value=\"gesture\" data-testid='fillblank-option-910835-2-gesture'>gesture</option></select></span></strong>&nbsp;while using these devices can make the problem worse. If you sit incorrectly, you might feel pain in your neck or back.</p>\n<p style=\"text-align: justify;\" data-start=\"302\" data-end=\"697\" data-is-last-node data-is-only-node>Doctors <strong><span class='fillblank-option'><label>14.4</label><select class='ms fillblank-option-14' index='3' name='fbo-910835-3' data-testid='fillblank-select-910835-3'><option value='' data-testid='fillblank-option-empty-910835-3'></option><option value=\"suggest\" data-testid='fillblank-option-910835-3-suggest'>suggest</option><option value=\"deny\" data-testid='fillblank-option-910835-3-deny'>deny</option><option value=\"quit\" data-testid='fillblank-option-910835-3-quit'>quit</option><option value=\"postpone\" data-testid='fillblank-option-910835-3-postpone'>postpone</option></select></span></strong> taking breaks every hour to avoid discomfort. They recommend standing up, stretching, and changing positions regularly. You should also sit with your shoulders back and your feet flat on the floor. Ignoring these tips can <strong><span class='fillblank-option'><label>14.5</label><select class='ms fillblank-option-14' index='4' name='fbo-910835-4' data-testid='fillblank-select-910835-4'><option value='' data-testid='fillblank-option-empty-910835-4'></option><option value=\"want\" data-testid='fillblank-option-910835-4-want'>want</option><option value=\"lead\" data-testid='fillblank-option-910835-4-lead'>lead</option><option value=\"hope\" data-testid='fillblank-option-910835-4-hope'>hope</option><option value=\"try\" data-testid='fillblank-option-910835-4-try'>try</option></select></span> </strong>to more serious issues over time, like chronic pain or muscle damage. It&#8217;s important to use devices mindfully to protect your body.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "health"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "strain"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "posture"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "suggest"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "lead"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1.<strong> health problem</strong> (n.): v&acirc;́n đ&ecirc;̀ sức khỏe</p>\n<p>technology (n.): c&ocirc;ng ngh&ecirc;̣</p>\n<p>communication (n.): sự giao ti&ecirc;́p</p>\n<p>management (n.): sự quản lý</p>\n<p>Dịch: Sử dụng thiết bị điện tử trong thời gian d&agrave;i c&oacute; thể g&acirc;y ra nhiều vấn đề sức khỏe.</p>\n<p>2.<strong> strain</strong> (n.): sự căng, mỏi cơ</p>\n<p>stress (n.): sự căng thẳng (v&ecirc;̀ t&acirc;m lý, tinh th&acirc;̀n)</p>\n<p>fever (n.): sự s&ocirc;́t</p>\n<p>stomachache (n.): sự đau bụng</p>\n<p>Dịch: Một vấn đề nữa l&agrave; căng cơ, t&igrave;nh trạng n&agrave;y xảy ra khi cơ bị sử dụng qu&aacute; mức v&agrave; bị thương.</p>\n<p>3. <strong>posture</strong> (n.): tư th&ecirc;́</p>\n<p>schedule (n.): lịch trình</p>\n<p>costume (n.): trang phục</p>\n<p>gesture (n.): cử chỉ</p>\n<p>Dịch: Tư thế kh&ocirc;ng tốt khi sử dụng c&aacute;c thiết bị n&agrave;y c&oacute; thể khiến vấn đề trở n&ecirc;n tồi tệ hơn.</p>\n<p>4.<strong> suggest </strong>(v.): đ&ecirc;̀ nghị, đ&ecirc;̀ xu&acirc;́t</p>\n<p>deny (v.): phủ nh&acirc;̣n</p>\n<p>postpone (v.): trì hoãn</p>\n<p>quit (v.): từ bỏ</p>\n<p>Dịch: C&aacute;c b&aacute;c sĩ khuy&ecirc;n bạn n&ecirc;n nghỉ ngơi sau mỗi giờ để tr&aacute;nh kh&oacute; chịu.</p>\n<p>5. <strong>lead to sth </strong>(phr.v.): d&acirc;̃n đ&ecirc;́n</p>\n<p>hope (v.): hy vọng</p>\n<p>want (v.): mu&ocirc;́n</p>\n<p>try (v.): c&ocirc;́ gắng</p>\n<p>Dịch: Việc bỏ qua những lời khuy&ecirc;n n&agrave;y c&oacute; thể dẫn đến những vấn đề nghi&ecirc;m trọng hơn theo thời gian, như đau m&atilde;n t&iacute;nh hoặc tổn thương cơ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

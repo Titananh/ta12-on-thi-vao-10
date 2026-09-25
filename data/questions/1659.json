@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1659_1",
+    "questionName": "Question 1",
+    "questionText": "<p>Solar and wind power are examples of ________ energy sources that do not emit harmful greenhouse gases.</p>",
+    "choices": [
+      {
+        "id": "1659_1_2",
+        "text": "non-renewable",
+        "html": "non-renewable"
+      },
+      {
+        "id": "1659_1_3",
+        "text": "exhaustible",
+        "html": "exhaustible"
+      },
+      {
+        "id": "1659_1_4",
+        "text": "polluted",
+        "html": "polluted"
+      },
+      {
+        "id": "1659_1_1",
+        "text": "renewable",
+        "html": "renewable"
+      }
+    ],
+    "correctChoiceId": "1659_1_1",
+    "explanation": "<p>Năng lượng mặt trời và gió là nguồn năng lượng tái tạo: <strong>renewable energy</strong>.</p>",
+    "ruleTip": "'renewable energy' = năng lượng tái tạo (>< non-renewable / fossil fuels)."
+  },
+  {
+    "id": "1659_2",
+    "questionName": "Question 2",
+    "questionText": "<p>Switching from private motorbikes to bicycles helps citizens reduce their carbon ________.</p>",
+    "choices": [
+      {
+        "id": "1659_2_1",
+        "text": "footprint",
+        "html": "footprint"
+      },
+      {
+        "id": "1659_2_2",
+        "text": "fingerprint",
+        "html": "fingerprint"
+      },
+      {
+        "id": "1659_2_3",
+        "text": "handprint",
+        "html": "handprint"
+      },
+      {
+        "id": "1659_2_4",
+        "text": "blueprint",
+        "html": "blueprint"
+      }
+    ],
+    "correctChoiceId": "1659_2_1",
+    "explanation": "<p>Thuật ngữ môi trường chính xác là <strong>carbon footprint</strong> (dấu chân carbon).</p>",
+    "ruleTip": "'carbon footprint' = lượng phát thải khí nhà kính cá nhân."
+  },
+  {
+    "id": "1659_3",
+    "questionName": "Question 3",
+    "questionText": "<p>Supermarkets should completely ban ________ plastic bags to protect our oceans from pollution.</p>",
+    "choices": [
+      {
+        "id": "1659_3_2",
+        "text": "reusable",
+        "html": "reusable"
+      },
+      {
+        "id": "1659_3_1",
+        "text": "single-use",
+        "html": "single-use"
+      },
+      {
+        "id": "1659_3_3",
+        "text": "sustainable",
+        "html": "sustainable"
+      },
+      {
+        "id": "1659_3_4",
+        "text": "washable",
+        "html": "washable"
+      }
+    ],
+    "correctChoiceId": "1659_3_1",
+    "explanation": "<p>Đồ nhựa dùng một lần gây ô nhiễm đại dương: <strong>single-use plastic</strong>.</p>",
+    "ruleTip": "'single-use' = dùng một lần rồi vứt bỏ; 'reusable' = tái sử dụng nhiều lần."
+  },
+  {
+    "id": "1659_4",
+    "questionName": "Question 4",
+    "questionText": "<p>Massive ________ in the Amazon rainforest has caused severe loss of global biodiversity.</p>",
+    "choices": [
+      {
+        "id": "1659_4_2",
+        "text": "afforestation",
+        "html": "afforestation"
+      },
+      {
+        "id": "1659_4_3",
+        "text": "plantation",
+        "html": "plantation"
+      },
+      {
+        "id": "1659_4_1",
+        "text": "deforestation",
+        "html": "deforestation"
+      },
+      {
+        "id": "1659_4_4",
+        "text": "gardening",
+        "html": "gardening"
+      }
+    ],
+    "correctChoiceId": "1659_4_1",
+    "explanation": "<p>Nạn phá rừng nhiệt đới quy mô lớn: <strong>deforestation</strong> làm suy giảm đa dạng sinh học.</p>",
+    "ruleTip": "'deforestation' = sự tàn phá rừng diện rộng."
+  },
+  {
+    "id": "1659_5",
+    "questionName": "Question 5",
+    "questionText": "<p>Excessive carbon dioxide in the atmosphere intensifies the greenhouse ________, warming the planet.</p>",
+    "choices": [
+      {
+        "id": "1659_5_1",
+        "text": "effect",
+        "html": "effect"
+      },
+      {
+        "id": "1659_5_2",
+        "text": "affect",
+        "html": "affect"
+      },
+      {
+        "id": "1659_5_3",
+        "text": "result",
+        "html": "result"
+      },
+      {
+        "id": "1659_5_4",
+        "text": "consequence",
+        "html": "consequence"
+      }
+    ],
+    "correctChoiceId": "1659_5_1",
+    "explanation": "<p>Thuật ngữ hiệu ứng nhà kính: <strong>greenhouse effect</strong> ('effect' là danh từ).</p>",
+    "ruleTip": "'greenhouse effect' = hiệu ứng nhà kính (phân biệt effect danh từ vs affect động từ)."
+  },
+  {
+    "id": "1659_6",
+    "questionName": "Question 6",
+    "questionText": "<p>Eco-friendly businesses are replacing polystyrene boxes with ________ food containers.</p>",
+    "choices": [
+      {
+        "id": "1659_6_2",
+        "text": "toxic",
+        "html": "toxic"
+      },
+      {
+        "id": "1659_6_3",
+        "text": "harmful",
+        "html": "harmful"
+      },
+      {
+        "id": "1659_6_1",
+        "text": "biodegradable",
+        "html": "biodegradable"
+      },
+      {
+        "id": "1659_6_4",
+        "text": "permanent",
+        "html": "permanent"
+      }
+    ],
+    "correctChoiceId": "1659_6_1",
+    "explanation": "<p>Hộp đựng thực phẩm tự phân hủy sinh học thân thiện với tự nhiên: <strong>biodegradable</strong>.</p>",
+    "ruleTip": "'biodegradable' = có thể bị vi sinh vật phân hủy tự nhiên trong đất."
+  },
+  {
+    "id": "1659_7",
+    "questionName": "Question 7",
+    "questionText": "<p>Hunting rare animals pushes many precious wildlife species to the verge of ________.</p>",
+    "choices": [
+      {
+        "id": "1659_7_1",
+        "text": "extinction",
+        "html": "extinction"
+      },
+      {
+        "id": "1659_7_2",
+        "text": "survival",
+        "html": "survival"
+      },
+      {
+        "id": "1659_7_3",
+        "text": "existence",
+        "html": "existence"
+      },
+      {
+        "id": "1659_7_4",
+        "text": "production",
+        "html": "production"
+      }
+    ],
+    "correctChoiceId": "1659_7_1",
+    "explanation": "<p>Cụm từ nguy cơ tuyệt chủng: <strong>on the verge of extinction</strong>.</p>",
+    "ruleTip": "'on the verge of extinction' = đứng trên bờ vực tuyệt chủng."
+  },
+  {
+    "id": "1659_8",
+    "questionName": "Question 8",
+    "questionText": "<p>Adopting an ________ lifestyle means minimizing waste, conserving water, and recycling materials.</p>",
+    "choices": [
+      {
+        "id": "1659_8_2",
+        "text": "energy-consuming",
+        "html": "energy-consuming"
+      },
+      {
+        "id": "1659_8_1",
+        "text": "eco-friendly",
+        "html": "eco-friendly"
+      },
+      {
+        "id": "1659_8_3",
+        "text": "industrialized",
+        "html": "industrialized"
+      },
+      {
+        "id": "1659_8_4",
+        "text": "extravagant",
+        "html": "extravagant"
+      }
+    ],
+    "correctChoiceId": "1659_8_1",
+    "explanation": "<p>Lối sống thân thiện với môi trường: <strong>eco-friendly lifestyle</strong>.</p>",
+    "ruleTip": "'eco-friendly' = environmentally friendly (thân thiện với sinh thái, môi trường)."
+  },
+  {
+    "id": "1659_9",
+    "questionName": "Question 9",
+    "questionText": "<p>Youth environmental clubs organize campaigns to ________ natural resources and protect wildlife.</p>",
+    "choices": [
+      {
+        "id": "1659_9_2",
+        "text": "consume",
+        "html": "consume"
+      },
+      {
+        "id": "1659_9_3",
+        "text": "destroy",
+        "html": "destroy"
+      },
+      {
+        "id": "1659_9_4",
+        "text": "deplete",
+        "html": "deplete"
+      },
+      {
+        "id": "1659_9_1",
+        "text": "conserve",
+        "html": "conserve"
+      }
+    ],
+    "correctChoiceId": "1659_9_1",
+    "explanation": "<p>Bảo tồn tài nguyên thiên nhiên: <strong>conserve natural resources</strong>.</p>",
+    "ruleTip": "'conserve' = protect from harm/depletion (bảo tồn, giữ gìn)."
+  },
+  {
+    "id": "1659_10",
+    "questionName": "Question 10",
+    "questionText": "<p>Installing rooftop ________ panels enables households to generate their own green electricity.</p>",
+    "choices": [
+      {
+        "id": "1659_10_2",
+        "text": "lunar",
+        "html": "lunar"
+      },
+      {
+        "id": "1659_10_1",
+        "text": "solar",
+        "html": "solar"
+      },
+      {
+        "id": "1659_10_3",
+        "text": "nuclear",
+        "html": "nuclear"
+      },
+      {
+        "id": "1659_10_4",
+        "text": "coal",
+        "html": "coal"
+      }
+    ],
+    "correctChoiceId": "1659_10_1",
+    "explanation": "<p>Pin năng lượng mặt trời lắp trên mái nhà: <strong>solar panels</strong>.</p>",
+    "ruleTip": "'solar panels' = tấm pin quang điện năng lượng mặt trời."
+  },
+  {
+    "id": "1659_11",
+    "questionName": "Question 11",
+    "questionText": "<p>During rush hour, air ________ levels in major metropolitan centers reach alarming peaks.</p>",
+    "choices": [
+      {
+        "id": "1659_11_2",
+        "text": "pollutant",
+        "html": "pollutant"
+      },
+      {
+        "id": "1659_11_3",
+        "text": "polluted",
+        "html": "polluted"
+      },
+      {
+        "id": "1659_11_4",
+        "text": "polluting",
+        "html": "polluting"
+      },
+      {
+        "id": "1659_11_1",
+        "text": "pollution",
+        "html": "pollution"
+      }
+    ],
+    "correctChoiceId": "1659_11_1",
+    "explanation": "<p>Cụm danh từ mức độ ô nhiễm không khí: <strong>air pollution levels</strong>.</p>",
+    "ruleTip": "'air pollution' = ô nhiễm không khí; 'pollutant' = chất gây ô nhiễm."
+  },
+  {
+    "id": "1659_12",
+    "questionName": "Question 12",
+    "questionText": "<p>Improper municipal solid waste ________ severely contaminates local groundwater supplies.</p>",
+    "choices": [
+      {
+        "id": "1659_12_2",
+        "text": "storage",
+        "html": "storage"
+      },
+      {
+        "id": "1659_12_3",
+        "text": "accumulation",
+        "html": "accumulation"
+      },
+      {
+        "id": "1659_12_4",
+        "text": "collection",
+        "html": "collection"
+      },
+      {
+        "id": "1659_12_1",
+        "text": "disposal",
+        "html": "disposal"
+      }
+    ],
+    "correctChoiceId": "1659_12_1",
+    "explanation": "<p>Việc xử lý rác thải rắn đô thị không đúng cách: <strong>waste disposal</strong>.</p>",
+    "ruleTip": "'waste disposal' = việc xử lý, tiêu hủy chất thải."
+  },
+  {
+    "id": "1659_13",
+    "questionName": "Question 13",
+    "questionText": "<p>Choosing energy-________ appliances helps families lower their monthly utility bills.</p>",
+    "choices": [
+      {
+        "id": "1659_13_1",
+        "text": "efficient",
+        "html": "efficient"
+      },
+      {
+        "id": "1659_13_2",
+        "text": "effective",
+        "html": "effective"
+      },
+      {
+        "id": "1659_13_3",
+        "text": "wasting",
+        "html": "wasting"
+      },
+      {
+        "id": "1659_13_4",
+        "text": "demanding",
+        "html": "demanding"
+      }
+    ],
+    "correctChoiceId": "1659_13_1",
+    "explanation": "<p>Thiết bị tiết kiệm năng lượng hiệu quả: <strong>energy-efficient appliances</strong>.</p>",
+    "ruleTip": "'energy-efficient' = tiết kiệm năng lượng, hiệu suất cao."
+  },
+  {
+    "id": "1659_14",
+    "questionName": "Question 14",
+    "questionText": "<p>Rising global temperatures have caused severe droughts, heatwaves, and ________ weather events.</p>",
+    "choices": [
+      {
+        "id": "1659_14_2",
+        "text": "mild",
+        "html": "mild"
+      },
+      {
+        "id": "1659_14_1",
+        "text": "extreme",
+        "html": "extreme"
+      },
+      {
+        "id": "1659_14_3",
+        "text": "pleasant",
+        "html": "pleasant"
+      },
+      {
+        "id": "1659_14_4",
+        "text": "temperate",
+        "html": "temperate"
+      }
+    ],
+    "correctChoiceId": "1659_14_1",
+    "explanation": "<p>Các hiện tượng thời tiết cực đoan do biến đổi khí hậu: <strong>extreme weather events</strong>.</p>",
+    "ruleTip": "'extreme weather' = thời tiết cực đoan (bão lũ dữ dội, hạn hán khốc liệt)."
+  },
+  {
+    "id": "1659_15",
+    "questionName": "Question 15",
+    "questionText": "<p>Large-scale tree-planting and ________ campaigns help absorb atmospheric carbon dioxide.</p>",
+    "choices": [
+      {
+        "id": "1659_15_2",
+        "text": "deforestation",
+        "html": "deforestation"
+      },
+      {
+        "id": "1659_15_3",
+        "text": "logging",
+        "html": "logging"
+      },
+      {
+        "id": "1659_15_1",
+        "text": "afforestation",
+        "html": "afforestation"
+      },
+      {
+        "id": "1659_15_4",
+        "text": "clearance",
+        "html": "clearance"
+      }
+    ],
+    "correctChoiceId": "1659_15_1",
+    "explanation": "<p>Chiến dịch trồng cây gây rừng phủ xanh đất trống: <strong>afforestation</strong> (sự gây rừng).</p>",
+    "ruleTip": "'afforestation' = sự trồng rừng mới (>< deforestation: nạn phá rừng)."
+  }
+]

@@ -1,0 +1,1093 @@
+{
+  "quizId": 15300,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 54: Reported questions, commands and requests (Câu nghi vấn, đề nghị, mệnh lệnh tường thuật)",
+  "totalQuestions": 28,
+  "questions": [
+    {
+      "id": 911820,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p data-start=\"0\" data-end=\"19\"><strong>Ho&#224;n th&#224;nh c&#225;c c&#226;u:</strong></p>\n<p data-start=\"24\" data-end=\"73\">1. M&#7879;nh &#273;&#7873; gi&#225;n ti&#7871;p c&#7911;a c&#226;u nghi v&#7845;n &#7903; d&#7841;ng <span class='fillblank-option'><label>1.1</label><select class='ms fillblank-option-1' index='0' name='fbo-911820-0' data-testid='fillblank-select-911820-0'><option value='' data-testid='fillblank-option-empty-911820-0'></option><option value=\"trần thuật\" data-testid='fillblank-option-911820-0-trần thuật'>trần thuật</option><option value=\"câu hỏi\" data-testid='fillblank-option-911820-0-câu hỏi'>câu hỏi</option></select></span>.</p>\n<p data-start=\"78\" data-end=\"190\">2. C&#225;c c&#226;u gi&#225;n ti&#7871;p c&#7911;a c&#226;u h&#7887;i &quot;<strong>yes-no</strong>&quot; bao g&#7891;m m&#7897;t m&#7879;nh &#273;&#7873; b&#7855;t &#273;&#7847;u b&#7857;ng &quot;if&quot; ho&#7863;c <span class='fillblank-option'><label>1.2</label><select class='ms fillblank-option-1' index='1' name='fbo-911820-1' data-testid='fillblank-select-911820-1'><option value='' data-testid='fillblank-option-empty-911820-1'></option><option value=\"'whether'\" data-testid='fillblank-option-911820-1-'whether''>'whether'</option><option value=\"'that'\" data-testid='fillblank-option-911820-1-'that''>'that'</option></select></span>.</p>\n<p data-start=\"195\" data-end=\"260\" data-is-last-node>3. Trong c&#226;u gi&#225;n ti&#7871;p, ch&#250;ng ta <span class='fillblank-option'><label>1.3</label><select class='ms fillblank-option-1' index='2' name='fbo-911820-2' data-testid='fillblank-select-911820-2'><option value='' data-testid='fillblank-option-empty-911820-2'></option><option value=\"có\" data-testid='fillblank-option-911820-2-có'>có</option><option value=\"không\" data-testid='fillblank-option-911820-2-không'>không</option></select></span> s&#7917; d&#7909;ng d&#7845;u ch&#7845;m h&#7887;i.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "trần thuật"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "'whether'"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "không"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/4_-_Copy_9_f07b9794.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 911824,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "TrueFalse",
+      "questionText": "<p><em>X&#225;c &#273;&#7883;nh xem ph&#225;t bi&#7875;u sau &#272;&#218;NG hay SAI.</em></p>\n<p><strong>&#272;&#7875; t&#432;&#7901;ng thu&#7853;t gi&#225;n ti&#7871;p c&#225;c m&#7879;nh l&#7879;nh v&#224; y&#234;u c&#7847;u, ta d&#249;ng c&#7845;u tr&#250;c v&#7899;i c&#225;c &#273;&#7897;ng t&#7915; theo sau b&#7903;i danh &#273;&#7897;ng t&#7915;.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1730379,
+          "label": "A",
+          "text": "Đúng",
+          "isCorrect": false
+        },
+        {
+          "id": 1730380,
+          "label": "B",
+          "text": "Sai",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1730380,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/6_-_Copy_8_14b130fb.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 911825,
+      "questionNumber": 3,
+      "questionName": "2",
+      "questionType": "TrueFalse",
+      "questionText": "<p><em>X&#225;c &#273;&#7883;nh xem ph&#225;t bi&#7875;u sau &#272;&#218;NG hay SAI.</em></p>\n<p><strong>Ta c&#243; th&#7875; th&#234;m &quot;NOT&quot; sau &quot;TO&quot; &#273;&#7875; t&#7841;o th&#224;nh m&#7879;nh &#273;&#7873; ph&#7911; &#273;&#7883;nh c&#7911;a cho c&#225;c c&#226;u gi&#225;n ti&#7871;p &#273;&#432;a ra m&#7879;nh l&#7879;nh, y&#234;u c&#7847;u ho&#7863;c ch&#7881; th&#7883;.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1730381,
+          "label": "A",
+          "text": "Đúng",
+          "isCorrect": false
+        },
+        {
+          "id": 1730382,
+          "label": "B",
+          "text": "Sai",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1730382,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/Bai_54_Cau_nghi_van___e_nghi__menh_lenh__727fc921.jpg\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 911828,
+      "questionNumber": 4,
+      "questionName": "3",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ho&#224;n th&#224;nh b&#7843;ng bi&#7871;n &#273;&#7893;i c&#225;c t&#7915; c&#7909;m t&#7915; t&#7915; c&#226;u tr&#7921;c ti&#7871;p sang gi&#225;n ti&#7871;p.</strong></p>\n<table style=\"border-collapse: collapse; width: 100.011%; border-color: #2dc26b; border-style: dashed; height: 133px;\" border=\"1\" cellspacing=\"10\" cellpadding=\"10\">\n<tbody>\n<tr style=\"height: 133px;\">\n<td style=\"width: 48.8637%; height: 133px;\">\n<p>1. at the moment =&gt; <span class='fillblank-option'><label>4.1</label><input id='fbo-911828-0' class='ms fillblank-option-4' index='0' name='fbo-911828-0' type='text' size='11' autocomplete='off' data-testid='fillblank-input-911828-0' /></span> moment</p>\n<p>2. ago =&gt; <span class='fillblank-option'><label>4.2</label><input id='fbo-911828-1' class='ms fillblank-option-4' index='1' name='fbo-911828-1' type='text' size='9' autocomplete='off' data-testid='fillblank-input-911828-1' /></span></p>\n<p>3. <span class='fillblank-option'><label>4.3</label><input id='fbo-911828-2' class='ms fillblank-option-4' index='2' name='fbo-911828-2' type='text' size='8' autocomplete='off' data-testid='fillblank-input-911828-2' /></span> =&gt; those</p>\n<p>4. last week =&gt; <span class='fillblank-option'><label>4.4</label><input id='fbo-911828-3' class='ms fillblank-option-4' index='3' name='fbo-911828-3' type='text' size='15' autocomplete='off' data-testid='fillblank-input-911828-3' /></span> week</p>\n</td>\n<td style=\"width: 51.1257%; height: 133px;\">\n<p>5. the day before yesterday =&gt; <span class='fillblank-option'><label>4.5</label><input id='fbo-911828-4' class='ms fillblank-option-4' index='4' name='fbo-911828-4' type='text' size='11' autocomplete='off' data-testid='fillblank-input-911828-4' /></span> before</p>\n<p>6. next month =&gt; <span class='fillblank-option'><label>4.6</label><input id='fbo-911828-5' class='ms fillblank-option-4' index='5' name='fbo-911828-5' type='text' size='17' autocomplete='off' data-testid='fillblank-input-911828-5' /></span> month</p>\n<p>7. tonight =&gt; <span class='fillblank-option'><label>4.7</label><input id='fbo-911828-6' class='ms fillblank-option-4' index='6' name='fbo-911828-6' type='text' size='12' autocomplete='off' data-testid='fillblank-input-911828-6' /></span></p>\n<p>8. <span class='fillblank-option'><label>4.8</label><input id='fbo-911828-7' class='ms fillblank-option-4' index='7' name='fbo-911828-7' type='text' size='5' autocomplete='off' data-testid='fillblank-input-911828-7' /></span> =&gt; could</p>\n</td>\n</tr>\n</tbody>\n</table>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "at that"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "before"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "these",
+            "those"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "the previous"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "two days",
+            "2 days"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "the following",
+            "the next"
+          ]
+        },
+        {
+          "index": 6,
+          "correctAnswers": [
+            "that night"
+          ]
+        },
+        {
+          "index": 7,
+          "correctAnswers": [
+            "can",
+            "may"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.7362%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/12_-_Copy_1_fa643d90.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7362%; text-align: center;\"><img src=\"/images/exams/13_-_Copy_1_1dc5a489.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 751182,
+      "questionNumber": 5,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>She _____ whether he bought the tickets online.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1449628,
+          "label": "A",
+          "text": "told me",
+          "isCorrect": false
+        },
+        {
+          "id": 1449629,
+          "label": "B",
+          "text": "said to me",
+          "isCorrect": false
+        },
+        {
+          "id": 1449630,
+          "label": "C",
+          "text": "wanted to know",
+          "isCorrect": true
+        },
+        {
+          "id": 1449631,
+          "label": "D",
+          "text": "questions me",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1449630,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Trong câu, cụm <em>\"whether he bought the tickets online\"</em> là một mệnh đề danh ngữ thể hiện một câu hỏi gián tiếp. Mệnh đề này bắt đầu bằng <em>\"whether\"</em>, cho thấy đây là câu hỏi gián tiếp dạng Yes/No.</p>\n<p>Hãy xem xét động từ nào trong các lựa chọn có thể đi cùng với <em>\"whether\"</em> để diễn đạt ý muốn biết hoặc hỏi một điều gì đó.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu hỏi gián tiếp (Reported questions)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để thuật lại một câu hỏi của người khác mà không dùng trực tiếp lời nói của họ, thường là câu hỏi dạng Yes/No.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + V (tường thuật) + (O) + từ để hỏi/<em>if/whether</em> + S + V (lùi thì).</span></p>\n<p style=\"text-align: justify;\"><strong>Một số động từ tường thuật:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">ask (O) + whether/if + S + V (lùi thì)</span></strong>: hỏi (ai đó) liệu...</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">wonder + whether/if + S + V (lùi thì)</span></strong>: tự hỏi liệu...</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">want to know + whether/if + S + V (lùi thì)</span></strong>: muốn biết liệu...</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">tell O + that + S + V (lùi thì)</span></strong>: nói với ai rằng... (dùng cho câu trần thuật)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">say (to O) + that + S + V (lùi thì)</span></strong>: nói (với ai) rằng... (dùng cho câu trần thuật)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Ngữ cảnh câu hỏi có mệnh đề <em>\"whether he bought the tickets online\"</em>, đây là cấu trúc của một câu hỏi gián tiếp dạng Yes/No. Vì vậy, cần một động từ tường thuật phù hợp để diễn đạt ý muốn biết hoặc hỏi về điều này. Phương án 3, <em>\"wanted to know\"</em>, phù hợp nhất vì nó có thể đi trực tiếp với mệnh đề <em>whether/if</em> để diễn đạt ý muốn biết.</p>\n<p style=\"text-align: justify;\">Các phương án 1 (<em>told me</em>) và 2 (<em>said to me</em>) thường được dùng để tường thuật câu trần thuật và đi với <em>that-clause</em>, không phù hợp với <em>whether-clause</em>. Phương án 4 (<em>questions me</em>) không dùng với cấu trúc <em>whether + S + V</em> trong ngữ cảnh này và thì của động từ cũng không phù hợp.</p>",
+      "answerFeedbacks": {
+        "1449628": "Sai vì <em>told</em> dùng để tường thuật câu trần thuật và thường đi với <em>that-clause</em>, không đi trực tiếp với <em>whether-clause</em>.",
+        "1449629": "Sai vì <em>said to me</em> dùng để tường thuật câu trần thuật và thường đi với <em>that-clause</em>, không đi trực tiếp với <em>whether-clause</em>.",
+        "1449630": "Đúng vì <em>wanted to know</em> là một động từ tường thuật phù hợp để diễn đạt ý muốn biết điều gì đó và có thể đi trực tiếp với <em>whether-clause</em>.",
+        "1449631": "Sai vì <em>questions</em> (trong thì hiện tại đơn) có nghĩa là chất vấn hoặc hỏi ai đó, nhưng không dùng với cấu trúc <em>whether + S + V</em> như trong câu này; ngoài ra thì của động từ không phù hợp với ngữ cảnh lùi thì."
+      },
+      "images": []
+    },
+    {
+      "id": 51918,
+      "questionNumber": 6,
+      "questionName": "Question 37:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Our teacher wanted to know what _____ in the next project.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 146472,
+          "label": "A",
+          "text": "<p>would we do</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 146473,
+          "label": "B",
+          "text": "<p>we would do</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 146474,
+          "label": "C",
+          "text": "<p>will we do</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 146475,
+          "label": "D",
+          "text": "<p>we will do</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 146473,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để hoàn thành câu này, hãy xem xét hai quy tắc chính của câu hỏi gián tiếp (reported questions):</p>\n<ul>\n<li>Khi chuyển từ câu hỏi trực tiếp sang gián tiếp, mệnh đề sau từ để hỏi (như <em>what</em>) phải có trật tự từ như một câu khẳng định (chủ ngữ + động từ), không đảo ngữ.</li>\n<li>Nếu động từ tường thuật (ví dụ: <em>wanted to know</em>) ở thì quá khứ, động từ trong mệnh đề gián tiếp thường phải lùi thì.</li>\n</ul>\n<p>Hãy áp dụng cả hai quy tắc này để tìm ra phương án đúng.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu hỏi gián tiếp</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn đạt lại một câu hỏi trực tiếp đã được hỏi trước đó mà không sử dụng dấu hỏi (?) và thường theo sau một động từ tường thuật như <em>ask</em>, <em>wonder</em>, <em>want to know</em>.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + asked (sb)/wondered/wanted to know + wh-word + S + V(lùi thì) </span>(không đảo trợ động từ/ động từ to be/ động từ khuyết thiếu lên trước chủ ngữ)</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu \"<em>Our teacher wanted to know</em>\" là dấu hiệu của câu tường thuật. Từ để hỏi \"<em>what</em>\" cho biết đây là một câu hỏi gián tiếp. Trong câu hỏi gián tiếp, mệnh đề sau từ để hỏi phải theo cấu trúc khẳng định (chủ ngữ trước động từ) và động từ cần được lùi thì để phù hợp với động từ tường thuật ở quá khứ (\"<em>wanted</em>\").</p>\n<p style=\"text-align: justify;\">Phương án 2 <em>\"we would do\" </em>với trật tự chủ ngữ + động từ (<em>we + would do</em>) và động từ \"<em>will</em>\" đã được lùi thì thành \"<em>would</em>\" là đáp án phù hợp nhất. Các phương án 1 và 3 đều là cấu trúc của câu hỏi trực tiếp không phù hợp với ngữ cảnh, phương án 4 có động từ ''<em>will</em>'' chưa được lùi thì nên cũng không phù hợp để sử dụng.</p>",
+      "answerFeedbacks": {
+        "146472": "<p>Sai vì trong câu hỏi gián tiếp, trật tự từ phải là chủ ngữ trước động từ (S + V), không đảo ngữ.</p>",
+        "146473": "<p>Đúng vì đây là cấu trúc khẳng định (S + V) và động từ đã được lùi thì từ \"will\" thành \"would\" phù hợp với động từ tường thuật \"wanted\" ở quá khứ.</p>",
+        "146474": "<p>Sai vì trong câu hỏi gián tiếp, trật tự từ phải là chủ ngữ trước động từ (S + V) và động từ \"will\" chưa được lùi thì.</p>",
+        "146475": "<p>Sai vì động từ \"will\" chưa được lùi thì thành \"would\" để phù hợp với động từ tường thuật \"wanted\" ở quá khứ.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 626381,
+      "questionNumber": 7,
+      "questionName": "6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Linh asked how long _____ to wait before the doctor could see her. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1205198,
+          "label": "A",
+          "text": "does she have",
+          "isCorrect": false
+        },
+        {
+          "id": 1205199,
+          "label": "B",
+          "text": "will she have",
+          "isCorrect": false
+        },
+        {
+          "id": 1205200,
+          "label": "C",
+          "text": "she would have",
+          "isCorrect": true
+        },
+        {
+          "id": 1205201,
+          "label": "D",
+          "text": "would she have",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1205200,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Khi tường thuật lại một câu hỏi, câu hỏi gián tiếp phải tuân theo hai quy tắc chính: lùi thì của động từ và thay đổi trật tự từ thành dạng câu khẳng định (chủ ngữ + động từ).</p>\n<ul>\n<li>Câu gốc bắt đầu với <em>\"Linh asked how long...\"</em>, cho thấy đây là một câu hỏi gián tiếp.</li>\n<li>Trong câu hỏi gián tiếp, sau từ để hỏi (như <em>how long</em>), chúng ta không đảo ngữ (không có <em>Aux.V + S + V</em>) mà phải theo trật tự của câu khẳng định (<em>S + V</em>).</li>\n<li>Động từ trong câu hỏi gián tiếp cũng cần lùi thì so với thì gốc của câu hỏi trực tiếp.</li>\n</ul>\n<p>Hãy xem xét phương án nào vừa có trật tự từ của câu khẳng định, vừa có động từ đã lùi thì phù hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu hỏi gián tiếp</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để tường thuật lại một câu hỏi trực tiếp mà không lặp lại chính xác lời nói. Khi chuyển sang câu gián tiếp, cấu trúc câu hỏi trực tiếp sẽ thay đổi thành dạng câu khẳng định và thường có sự lùi thì.</p>\n<p><strong>Một số cấu trúc phổ biến:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">S (người tường thuật) + asked + Wh-word + S (chủ ngữ) + V (lùi thì)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">S (người tường thuật) + asked + if/whether + S (chủ ngữ) + V (lùi thì)</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu trên là một câu hỏi gián tiếp. Trong câu hỏi gián tiếp, động từ phải lùi thì so với câu trực tiếp (ví dụ, <em>will</em> lùi thành <em>would</em>) và trật tự từ phải theo dạng câu khẳng định (chủ ngữ đứng trước động từ, không đảo ngữ). Phương án 3, \"<em>she would have</em>\", tuân thủ cả hai quy tắc này vì động từ <em>will have</em> đã lùi thì thành <em>would have</em> và trật tự từ là chủ ngữ (<em>she</em>) đứng trước động từ (<em>would have</em>).</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều không tuân thủ chính xác quy tắc lùi thì trong câu hỏi gián tiếp.</p>",
+      "answerFeedbacks": {
+        "1205198": "Sai vì đây là cấu trúc câu hỏi trực tiếp ở thì hiện tại đơn, không phù hợp với câu hỏi gián tiếp đã lùi thì.",
+        "1205199": "Sai vì đây là cấu trúc câu hỏi trực tiếp ở thì tương lai đơn, không phù hợp với câu hỏi gián tiếp đã lùi thì.",
+        "1205200": "Đúng vì đây là cấu trúc câu khẳng định với động từ đã lùi thì (từ \"will have\" thành \"would have\"), tuân thủ quy tắc của câu hỏi gián tiếp.",
+        "1205201": "Sai vì cấu trúc này có sự đảo ngữ của câu hỏi trực tiếp, trong khi câu hỏi gián tiếp phải theo trật tự chủ ngữ + động từ."
+      },
+      "images": []
+    },
+    {
+      "id": 653905,
+      "questionNumber": 8,
+      "questionName": "Complete Book 6 - p46",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Stella asked whether we _____ going to bring our bicycles over.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1260126,
+          "label": "A",
+          "text": "will",
+          "isCorrect": false
+        },
+        {
+          "id": 1260127,
+          "label": "B",
+          "text": "am",
+          "isCorrect": false
+        },
+        {
+          "id": 1260128,
+          "label": "C",
+          "text": "would",
+          "isCorrect": false
+        },
+        {
+          "id": 1260129,
+          "label": "D",
+          "text": "were",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1260129,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy chú ý đến động từ tường thuật <em>'asked'</em> trong câu và từ nối <em>'whether'</em> để xác định đây là dạng câu gián tiếp.</p>\n<ul>\n<li>Khi động từ tường thuật ở thì quá khứ, động từ trong mệnh đề được thuật lại thường phải lùi thì.</li>\n<li>Xem xét cụm <em>'_____ going to bring'</em> để suy luận dạng nguyên bản của câu hỏi trực tiếp.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu gián tiếp (Reported Speech)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để thuật lại lời nói, câu hỏi, yêu cầu hoặc mệnh lệnh của người khác mà không dùng đúng nguyên văn lời nói đó. Khi chuyển từ câu trực tiếp sang gián tiếp, thường có sự thay đổi về thì, đại từ, trạng từ chỉ thời gian và nơi chốn.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + V (reporting verb) + (that/if/whether/wh-word) + S + V (backshifted tense) + ...</span></p>\n<p><strong>Một số thay đổi thì và trợ động từ trong câu gián tiếp:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Trực tiếp: Hiện tại đơn (V/Vs/es) → Gián tiếp: Quá khứ đơn (V-ed/cột 2)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Trực tiếp: Hiện tại tiếp diễn (am/is/are + V-ing) → Gián tiếp: Quá khứ tiếp diễn (was/were + V-ing)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Trực tiếp: will → Gián tiếp: would</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Trực tiếp: can → Gián tiếp: could</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu trên là một câu hỏi gián tiếp. Động từ tường thuật <em>\"asked\"</em> ở thì quá khứ, do đó động từ trong mệnh đề được thuật lại cần phải lùi thì. Cụm <em>\"_____ going to bring\"</em> gợi ý rằng câu hỏi trực tiếp ban đầu có thể là <em>\"Are you going to bring...?\"</em>. Trong câu gián tiếp, <em>\"are\"</em> (hiện tại) sẽ lùi thì thành <strong><em>\"were\"</em></strong> (quá khứ) để phù hợp với chủ ngữ <em>\"we\"</em>.</p>\n<p style=\"text-align: justify;\">Các phương án khác không tuân thủ quy tắc lùi thì hoặc không phù hợp với cấu trúc ngữ pháp đã cho.</p>",
+      "answerFeedbacks": {
+        "1260126": "Sai vì <em>will</em> không lùi thì trong câu gián tiếp khi động từ tường thuật ở quá khứ và không phù hợp với cấu trúc <em>\"be going to\"</em>.",
+        "1260127": "Sai vì <em>am</em> không phù hợp với chủ ngữ <em>\"we\"</em> và không lùi thì trong câu gián tiếp.",
+        "1260128": "Sai vì <em>would</em> là dạng lùi thì của <em>will</em>, nhưng cấu trúc <em>\"_____ going to bring\"</em> yêu cầu dạng lùi thì của <em>\"be going to\"</em>, không phải <em>will</em>.",
+        "1260129": "Đúng vì <em>were</em> là dạng lùi thì của <em>are</em>, phù hợp với chủ ngữ <em>\"we\"</em> và cấu trúc <em>\"be going to\"</em> trong câu gián tiếp khi động từ tường thuật <em>\"asked\"</em> ở thì quá khứ."
+      },
+      "images": []
+    },
+    {
+      "id": 450325,
+      "questionNumber": 9,
+      "questionName": "18",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Lucy _____ me what kind of film I liked watching most.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 902578,
+          "label": "A",
+          "text": "told",
+          "isCorrect": false
+        },
+        {
+          "id": 902579,
+          "label": "B",
+          "text": "said",
+          "isCorrect": false
+        },
+        {
+          "id": 902580,
+          "label": "C",
+          "text": "asked",
+          "isCorrect": true
+        },
+        {
+          "id": 902581,
+          "label": "D",
+          "text": "spoke",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 902580,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>ask sb sth</strong>: hỏi ai c&aacute;i g&igrave;</p>\n<p>tell sb sth: kể với ai c&aacute;i g&igrave;</p>\n<p>say sth: n&oacute;i c&aacute;i g&igrave; (ch&uacute; trọng v&agrave;o th&ocirc;ng tin được n&oacute;i đến)</p>\n<p>speak to sb: n&oacute;i chuyện với ai, ph&aacute;t biểu</p>\n<p>Dịch: Lucy hỏi t&ocirc;i thể loại phim t&ocirc;i th&iacute;ch xem nhất l&agrave; g&igrave;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 773908,
+      "questionNumber": 10,
+      "questionName": "17",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He wondered how they _____ to complete the project so quickly. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1487190,
+          "label": "A",
+          "text": "managed",
+          "isCorrect": true
+        },
+        {
+          "id": 1487191,
+          "label": "B",
+          "text": "manage",
+          "isCorrect": false
+        },
+        {
+          "id": 1487192,
+          "label": "C",
+          "text": "will manage",
+          "isCorrect": false
+        },
+        {
+          "id": 1487193,
+          "label": "D",
+          "text": "are managing",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1487190,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Xác định đây là dạng câu hỏi gián tiếp (indirect question) với động từ tường thuật (reporting verb) <em>\"wondered\"</em> ở thì quá khứ.</li>\n<li>Khi động từ tường thuật ở thì quá khứ, động từ trong mệnh đề danh ngữ sau <em>\"how\"</em> phải tuân theo quy tắc lùi thì (sequence of tenses).</li>\n<li>Xem xét các lựa chọn thì của động từ <em>\"manage\"</em> để tìm ra thì phù hợp nhất với ngữ cảnh hành động đã hoàn thành trong quá khứ (gợi ý bởi <em>\"so quickly\"</em>) và quy tắc lùi thì.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Sự hòa hợp thì trong câu gián tiếp</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn đạt lại lời nói, câu hỏi, yêu cầu... của người khác mà không dùng đúng nguyên văn lời nói đó. Khi động từ tường thuật (reporting verb) ở thì quá khứ, động từ trong mệnh đề được tường thuật (reported clause) phải lùi thì (backshift).</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: S (chủ ngữ) + V (động từ tường thuật ở quá khứ) + Wh-word/if/whether + S (chủ ngữ) + V (động từ lùi thì)</strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu trên là một câu hỏi gián tiếp. Động từ tường thuật <em>\"wondered\"</em> đang ở thì quá khứ đơn, do đó động từ trong mệnh đề danh ngữ sau <em>\"how\"</em> phải lùi thì.</p>\n<p style=\"text-align: justify;\">Ngữ cảnh <em>\"so quickly\"</em> gợi ý hành động đã hoàn thành trong quá khứ, nên thì quá khứ đơn <em>\"managed\"</em> là lựa chọn phù hợp nhất theo quy tắc hòa hợp thì. Các phương án còn lại đều không phù hợp với quy tắc này.</p>",
+      "answerFeedbacks": {
+        "1487190": "Đúng vì động từ tường thuật <em>\"wondered\"</em> ở thì quá khứ, nên động từ trong mệnh đề danh ngữ phải lùi về thì quá khứ đơn để diễn tả hành động đã hoàn thành trong quá khứ.",
+        "1487191": "Sai vì thì hiện tại đơn <em>\"manage\"</em> không phù hợp với quy tắc hòa hợp thì khi động từ tường thuật ở quá khứ.",
+        "1487192": "Sai vì thì tương lai đơn <em>\"will manage\"</em> không phù hợp với quy tắc hòa hợp thì khi động từ tường thuật ở quá khứ và ngữ cảnh nói về một sự việc đã xảy ra.",
+        "1487193": "Sai vì thì hiện tại tiếp diễn <em>\"are managing\"</em> không phù hợp với quy tắc hòa hợp thì khi động từ tường thuật ở quá khứ."
+      },
+      "images": []
+    },
+    {
+      "id": 773906,
+      "questionNumber": 11,
+      "questionName": "17",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The travelers wondered if the hotel _____ free Wi-Fi.<br></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1487182,
+          "label": "A",
+          "text": "offered",
+          "isCorrect": true
+        },
+        {
+          "id": 1487183,
+          "label": "B",
+          "text": "offer",
+          "isCorrect": false
+        },
+        {
+          "id": 1487184,
+          "label": "C",
+          "text": "will offer",
+          "isCorrect": false
+        },
+        {
+          "id": 1487185,
+          "label": "D",
+          "text": "is offering",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1487182,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Nhận biết câu là dạng câu gián tiếp (reported speech) qua cụm từ <em>\"wondered if\"</em> với từ <em>\"wondered\"</em> đang ở thì quá khứ đơn.</li>\n<li>Khi động từ tường thuật ở quá khứ, động từ trong mệnh đề được tường thuật (mệnh đề sau <em>\"if\"</em>) cần phải <strong>lùi thì</strong> so với thì gốc của nó.</li>\n<li>Nếu câu hỏi trực tiếp ban đầu là ở thì hiện tại đơn thì khi chuyển sang gián tiếp, động từ cần lùi về thì quá khứ đơn.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Sự lùi thì trong câu gián tiếp (Reported Speech)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn đạt lại lời nói, câu hỏi hoặc yêu cầu của người khác một cách gián tiếp. Khi động từ tường thuật ở thì quá khứ, động từ trong mệnh đề được tường thuật thường phải lùi một thì so với thì gốc.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S (chủ ngữ) + V (động từ tường thuật ở quá khứ) + if/whether + S (chủ ngữ) + V (động từ đã lùi thì).</span></p>\n<p style=\"text-align: justify;\"><strong>Một số trường hợp lùi thì phổ biến:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại đơn (Present Simple) → Quá khứ đơn (Past Simple)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại tiếp diễn (Present Continuous) → Quá khứ tiếp diễn (Past Continuous)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại hoàn thành (Present Perfect) → Quá khứ hoàn thành (Past Perfect)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Quá khứ đơn (Past Simple) → Quá khứ hoàn thành (Past Perfect)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Will → Would</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Can → Could</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">May → Might</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu trên là một câu hỏi gián tiếp (reported question) với động từ tường thuật <em>\"wondered\"</em> ở thì quá khứ đơn. Theo quy tắc lùi thì trong câu gián tiếp, động từ trong mệnh đề được tường thuật (sau <em>\"if\"</em>) phải lùi một thì so với câu hỏi gốc. Nếu câu hỏi trực tiếp ban đầu là <em>\"Does the hotel offer free Wi-Fi?\"</em> (hiện tại đơn), thì khi chuyển sang gián tiếp, động từ <em>\"offer\"</em> cần lùi về thì quá khứ đơn là <em>\"offered\"</em>.</p>\n<p style=\"text-align: justify;\">Các phương án <em>\"offer\"</em>, <em>\"will offer\"</em> và <em>\"is offering\"</em> không tuân thủ quy tắc lùi thì cần thiết trong ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "1487182": "Đúng vì động từ tường thuật <em>\"wondered\"</em> ở thì quá khứ, nên động từ trong mệnh đề danh ngữ sau <em>\"if\"</em> cần lùi thì từ hiện tại đơn sang quá khứ đơn.",
+        "1487183": "Sai vì động từ <em>\"offer\"</em> ở dạng nguyên thể không phù hợp với quy tắc lùi thì khi động từ tường thuật ở quá khứ.",
+        "1487184": "Sai vì thì tương lai đơn <em>\"will offer\"</em> không tuân thủ quy tắc lùi thì trong câu gián tiếp; nếu câu gốc là tương lai, nó sẽ phải lùi thành <em>\"would offer\"</em>.",
+        "1487185": "Sai vì thì hiện tại tiếp diễn <em>\"is offering\"</em> không tuân thủ quy tắc lùi thì trong câu gián tiếp; nếu câu gốc là hiện tại tiếp diễn, nó sẽ phải lùi thành <em>\"was offering\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 15594,
+      "questionNumber": 12,
+      "questionName": "A.II",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Nam asked his friends <u>whether</u> they <u>can</u> give him <u>a hand</u> <u>with</u> his work.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 52412,
+          "label": "A",
+          "text": "whether",
+          "isCorrect": false
+        },
+        {
+          "id": 52413,
+          "label": "B",
+          "text": "can",
+          "isCorrect": true
+        },
+        {
+          "id": 52414,
+          "label": "C",
+          "text": "a hand",
+          "isCorrect": false
+        },
+        {
+          "id": 52415,
+          "label": "D",
+          "text": "with",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 52413,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của dạng c&acirc;u hỏi Yes/No: <strong>S + asked sb/wondered/wanted to know + if/whether + S + V(l&ugrave;i th&igrave;)</strong> (kh&ocirc;ng đảo to be/ trợ động từ/ động từ khuyết thiếu l&ecirc;n trước chủ ngữ)</p>\n<p>Lùi thì: động từ khuyết thiếu chỉ hi&ecirc;̣n tại =&gt; động từ khuyết thiếu chỉ quá khứ</p>\n<p>Sửa: \"<strong>can</strong>\" =&gt; \"<strong>could</strong>\"&nbsp;</p>\n<p>Dịch: Nam hỏi bạn b&egrave; xem họ c&oacute; thể gi&uacute;p anh ấy l&agrave;m việc kh&ocirc;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 622257,
+      "questionNumber": 13,
+      "questionName": "33",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Nanny <span style=\"text-decoration: underline;\">asked</span> me <span style=\"text-decoration: underline;\">why had I</span> not gone <span style=\"text-decoration: underline;\">to</span> New York the summer <span style=\"text-decoration: underline;\">before</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1197739,
+          "label": "A",
+          "text": "asked",
+          "isCorrect": false
+        },
+        {
+          "id": 1197740,
+          "label": "B",
+          "text": "<p>why had I</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1197741,
+          "label": "C",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 1197742,
+          "label": "D",
+          "text": "before",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1197740,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét các quy tắc chia thì và động từ tường thuật khi chuyển câu trực tiếp sang gián tiếp với động từ <em>\"asked\"</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Nhớ lại cấu trúc trật tự từ trong câu hỏi gián tiếp sau từ để hỏi <em>\"why\"</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra cách dùng giới từ chỉ hướng đi sau động từ <em>\"gone\"</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xác định cách dùng trạng từ chỉ thời gian trong câu tường thuật với <em>\"before\"</em>.</li>\n</ul>\nĐối chiếu các quy tắc này với câu gốc để xác định phần nào cần sửa.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu hỏi gián tiếp</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Trình bày lại câu hỏi trực tiếp dưới dạng một mệnh đề phụ trong câu trần thuật.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + asked sb/wondered/wanted to know + wh-word + S + V (lùi thì)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Động từ tường thuật \"asked\" và từ để hỏi \"why\" trong câu cho biết đây là câu hỏi gián tiếp. Trong câu hỏi gián tiếp, trật tự từ phải là chủ ngữ rồi đến động từ, không đảo vị trí chủ ngữ và trợ động từ như câu hỏi trực tiếp. Phương án 2 <em>\"why had I\"</em> cần đảo lại chủ ngữ <em>\"I\"</em> lên trước trợ động từ <em>\"had\"</em>.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<strong>why had I</strong>\" =&gt; \"<strong>why I had</strong>\"</p>",
+      "answerFeedbacks": {
+        "1197739": "Động từ <em>\"asked\"</em> được dùng đúng trong câu tường thuật để giới thiệu một câu hỏi.",
+        "1197740": "<p>Trong câu hỏi gián tiếp, trật tự từ phải là chủ ngữ rồi đến động từ, không đảo ngữ.</p>",
+        "1197741": "Giới từ <em>\"to\"</em> được dùng đúng sau động từ <em>\"gone\"</em> để chỉ địa điểm đến.",
+        "1197742": "Trạng từ <em>\"before\"</em> được dùng đúng để chỉ thời gian \"trước đó\" trong câu tường thuật."
+      },
+      "images": []
+    },
+    {
+      "id": 326246,
+      "questionNumber": 14,
+      "questionName": "40",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>My brother <u>said</u> me to <u>sit down</u> at <u>the</u> table <u>and</u> do my homework.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 699101,
+          "label": "A",
+          "text": "said",
+          "isCorrect": true
+        },
+        {
+          "id": 699102,
+          "label": "B",
+          "text": "sit down",
+          "isCorrect": false
+        },
+        {
+          "id": 699103,
+          "label": "C",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "id": 699104,
+          "label": "D",
+          "text": "and",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 699101,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cần sử dụng cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp với động từ tường thuật diễn tả y&ecirc;u cầu, đề nghị, mệnh lệnh.</p>\n<p><strong>say to sb + (that) + clause</strong>: n&oacute;i với với ai điều g&igrave; =&gt; Kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh của c&acirc;u.</p>\n<p><strong>say to do sth</strong>: bảo l&agrave;m g&igrave; =&gt; Kh&ocirc;ng thể d&ugrave;ng \"<strong>said</strong>\" trong trường hợp n&agrave;y.</p>\n<p><strong>tell sb to do sth</strong> ~ <strong>ask sb to do sth</strong>: bảo/y&ecirc;u cầu ai l&agrave;m g&igrave;</p>\n<p>Sửa: \"<strong>said</strong>\" =&gt; \"<strong>told</strong>\" hoặc \"<strong>asked</strong>\"</p>\n<p>Dịch: Anh trai t&ocirc;i bảo t&ocirc;i ngồi xuống b&agrave;n v&agrave; l&agrave;m b&agrave;i tập về nh&agrave;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 627529,
+      "questionNumber": 15,
+      "questionName": "40",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>&quot;When does your school vacation start?&quot; Hoa asked Lan.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1207509,
+          "label": "A",
+          "text": "Hoa asked Lan when her school vacation started.",
+          "isCorrect": true
+        },
+        {
+          "id": 1207510,
+          "label": "B",
+          "text": "Hoa asked Lan when them school vacation started.",
+          "isCorrect": false
+        },
+        {
+          "id": 1207511,
+          "label": "C",
+          "text": "Hoa asked Lan when did they school vacation start?",
+          "isCorrect": false
+        },
+        {
+          "id": 1207512,
+          "label": "D",
+          "text": "Hoa asked Lan when she school vacation start?",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1207509,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của dạng c&acirc;u hỏi với Wh-word: <strong>S + asked sb/wondered/wanted to know + wh-word + S + V(l&ugrave;i th&igrave;) </strong>(kh&ocirc;ng đảo to be/ trợ động từ/ động từ khuyết thiếu l&ecirc;n trước chủ ngữ)</p>\n<p>L&ugrave;i th&igrave;: hiện tại đơn =&gt; qu&aacute; khứ đơn (\"<strong>start</strong>\" =&gt; \"<strong>started</strong>\")</p>\n<p>Đổi t&iacute;nh từ sở hữu: \"<strong>your</strong>\"<strong> </strong>=&gt; \"<strong>her</strong>\"</p>\n<p><em>*<strong>Lưu &yacute;</strong>: C&acirc;u nghi v&acirc;́n tường thu&acirc;̣t kh&ocirc;ng c&oacute; dấu hỏi chấm ở cuối c&acirc;u.</em></p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em>Hoa asked Lan when <span style=\"text-decoration: line-through;\"><strong>them</strong></span> school vacation started.</em></li>\n<li><em>Hoa asked Lan when <strong><span style=\"text-decoration: line-through;\">did</span><span style=\"text-decoration: line-through;\"> they</span></strong> school vacation <span style=\"text-decoration: line-through;\"><strong>start</strong><strong>?</strong></span></em></li>\n<li><em>Hoa asked Lan when <span style=\"text-decoration: line-through;\"><strong>she</strong></span> school vacation <span style=\"text-decoration: line-through;\"><strong>start?</strong></span></em></li>\n</ul>\n<p>Dịch: Hoa hỏi Lan, \"Khi n&agrave;o kỳ nghỉ của trường bạn bắt đầu?\"</p>\n<p>~ Hoa hỏi Lan khi n&agrave;o kỳ nghỉ của trường c&ocirc; ấy bắt đầu.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 23708,
+      "questionNumber": 16,
+      "questionName": "Question 14",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>&#8220;How often do you take out the trash?&#8221; my new neighbor asked me. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 72794,
+          "label": "A",
+          "text": "My new neighbor wanted to know how often did I take out the trash.",
+          "isCorrect": false
+        },
+        {
+          "id": 72795,
+          "label": "B",
+          "text": "My new neighbor asked me how often I took out the trash.",
+          "isCorrect": true
+        },
+        {
+          "id": 72796,
+          "label": "C",
+          "text": "My new neighbor asked me how often you take out the trash.",
+          "isCorrect": false
+        },
+        {
+          "id": 72797,
+          "label": "D",
+          "text": "My new neighbor wanted to know how often I have taken out the trash.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 72795,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của dạng c&acirc;u hỏi với Wh-word: <strong>S + asked sb/wondered/wanted to know + wh-word + S + V(l&ugrave;i th&igrave;) </strong>(kh&ocirc;ng đảo to be/ trợ động từ/ động từ khuyết thiếu l&ecirc;n trước chủ ngữ)</p>\n<p>L&ugrave;i th&igrave;: hiện tại đơn =&gt; qu&aacute; khứ đơn (\"<strong>take</strong>\" =&gt; \"<strong>took</strong>\")</p>\n<p>Đổi đại từ: \"<strong>you</strong>\" =&gt; \"<strong>I</strong>\"</p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em>My new neighbor wanted to know how often <span style=\"text-decoration: line-through;\"><strong>did I take out</strong></span> the trash.</em></li>\n<li><em>My new neighbor asked me how often <span style=\"text-decoration: line-through;\"><strong>you take</strong></span> out the trash.</em></li>\n<li><em>My new neighbor wanted to know how often I <span style=\"text-decoration: line-through;\"><strong>have taken</strong></span> out the trash.</em></li>\n</ul>\n<p>Dịch: <span class=\"VIiyi\" lang=\"vi\"><span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"vi\" data-language-to-translate-into=\"en\" data-phrase-index=\"0\">&ldquo;Bạn thường xuy&ecirc;n đổ r&aacute;c như thế n&agrave;o?&rdquo; h&agrave;ng x&oacute;m mới của t&ocirc;i hỏi t&ocirc;i.</span></span></p>\n<p>~ H&agrave;ng x&oacute;m mới của t&ocirc;i hỏi t&ocirc;i thường xuy&ecirc;n đổ gi&aacute;c như thế n&agrave;o.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 125358,
+      "questionNumber": 17,
+      "questionName": "Q46: ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>&quot;Have you ever tried water skiing, Tom?&quot; she asked.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 294017,
+          "label": "A",
+          "text": "She asked Tom whether he had ever tried water skiing.",
+          "isCorrect": true
+        },
+        {
+          "id": 294018,
+          "label": "B",
+          "text": "She asked Tom whether he has ever tried water skiing.",
+          "isCorrect": false
+        },
+        {
+          "id": 294019,
+          "label": "C",
+          "text": "She asked Tom had he ever tried water skiing.",
+          "isCorrect": false
+        },
+        {
+          "id": 294020,
+          "label": "D",
+          "text": "She asked Tom if you had ever tried water skiing.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 294017,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật: <strong>S + asked sb/wondered/... + if/whether + S + V(l&ugrave;i th&igrave;)&nbsp;</strong>(kh&ocirc;ng đảo to be/ trợ đ&ocirc;̣ng từ/ đ&ocirc;̣ng từ khuy&ecirc;́t thi&ecirc;́u l&ecirc;n trước chủ ngữ)</p>\n<p>L&ugrave;i th&igrave;: hi&ecirc;̣n tại hoàn thành =&gt; qu&aacute; khứ ho&agrave;n th&agrave;nh (\"<strong>have ... ever tried</strong>\" =&gt; \"<strong>had ever tried</strong>\")</p>\n<p>Đ&ocirc;̉i đại từ: \"<strong>you</strong>\" =&gt; \"<strong>he</strong>\"</p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em>She asked Tom whether he <span style=\"text-decoration: line-through;\"><strong>has</strong></span> ever tried water skiing.</em></li>\n<li><em>She asked Tom <span style=\"text-decoration: line-through;\"><strong>had he ever tried</strong></span> water skiing.</em></li>\n<li><em>She asked Tom if <span style=\"text-decoration: line-through;\"><strong>you</strong></span> had ever tried water skiing.</em></li>\n</ul>\n<p>Dịch: \"Bạn đ&atilde; bao giờ thử chơi trượt nước chưa, Tom?\" c&ocirc; ấy hỏi.</p>\n<p>~ C&ocirc; ấy hỏi Tom rằng anh ấy đ&atilde; từng thử chơi trượt nước chưa.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 184038,
+      "questionNumber": 18,
+      "questionName": "9",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>&quot;Be careful or you may get lost and run out of money.&quot; She said.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 421662,
+          "label": "A",
+          "text": "She told me to be careful if I got lost and run out of the money.",
+          "isCorrect": false
+        },
+        {
+          "id": 421663,
+          "label": "B",
+          "text": "She warned me to be careful or I had to get lost and run out of money.",
+          "isCorrect": false
+        },
+        {
+          "id": 421664,
+          "label": "C",
+          "text": "She ordered me to be careful and I might get lost and run out of money.",
+          "isCorrect": false
+        },
+        {
+          "id": 421665,
+          "label": "D",
+          "text": "She advised me to be careful or I might get lost and run out of money.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 421665,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>advise sb to V(inf)</strong>: khuy&ecirc;n ai đ&oacute; l&agrave;m g&igrave;</p>\n<p>tell sb to V(inf): bảo ai l&agrave;m g&igrave;</p>\n<p>warn sb (not) to V(inf): cảnh b&aacute;o ai (kh&ocirc;ng) l&agrave;m g&igrave;</p>\n<p>order sb to V(inf): y&ecirc;u c&acirc;̀u ai l&agrave;m g&igrave;</p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em>She told me to be careful <span style=\"text-decoration: line-through;\"><strong>if</strong></span> I got lost and run out of the money. (sai nghĩa)</em></li>\n<li><em>She warned me to be careful or I <span style=\"text-decoration: line-through;\"><strong>had to</strong></span> get lost and run out of money. (sai nghĩa)</em></li>\n<li><em>She <span style=\"text-decoration: line-through;\"><strong>ordered</strong></span> me to be careful <span style=\"text-decoration: line-through;\"><strong>and</strong></span> I might get lost and run out of money. (sai nghĩa)</em></li>\n</ul>\n<p>Dịch: \"H&atilde;y cẩn thận hoặc bạn c&oacute; thể bị lạc v&agrave; hết tiền.\" c&ocirc; ấy n&oacute;i.</p>\n<p>~ C&ocirc; ấy khuy&ecirc;n t&ocirc;i n&ecirc;n cẩn thận hoặc l&agrave; t&ocirc;i c&oacute; thể bị lạc v&agrave; hết tiền.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 391453,
+      "questionNumber": 19,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>She / wonder / why / he / wear / sunglasses.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 798767,
+          "label": "A",
+          "text": "She wondered why is he wearing sunglasses.",
+          "isCorrect": false
+        },
+        {
+          "id": 798768,
+          "label": "B",
+          "text": "She wondered why he is wearing sunglasses.",
+          "isCorrect": false
+        },
+        {
+          "id": 798769,
+          "label": "C",
+          "text": "<p>She wondered why he was wearing sunglasses.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 798770,
+          "label": "D",
+          "text": "She wondered why was he wearing sunglasses.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 798769,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Cần nắm vững cách biến đổi câu hỏi trực tiếp thành câu hỏi gián tiếp, đặc biệt khi động từ tường thuật ở thì quá khứ.\n<ul>\n<li>Xác định cấu trúc của câu hỏi gián tiếp: Sau từ để hỏi (ví dụ: \"<em>why</em>\"), trật tự câu sẽ là chủ ngữ rồi đến động từ (S + V), không đảo ngữ như câu hỏi trực tiếp.</li>\n<li>Lưu ý sự hòa hợp thì (sequence of tenses): Nếu động từ tường thuật (ví dụ: \"<em>wonder</em>\" trong \"<em>She wondered</em>\") ở thì quá khứ, động từ trong mệnh đề gián tiếp theo sau cũng phải lùi về quá khứ tương ứng.</li>\n</ul>\nÁp dụng hai quy tắc trên để chọn câu có cấu trúc và thì chính xác nhất.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\">Cấu trúc câu gián tiếp của dạng câu hỏi với Wh-word: <strong>S + asked sb/wondered/wanted to know + wh-word + S + V(lùi thì) </strong>(không đảo to be/ trợ động từ/ động từ khuyết thiếu lên trước chủ ngữ)</p>\n<p style=\"text-align: justify;\">Lùi thì: hiện tại tiếp diễn =&gt; quá khứ tiếp diễn (\"<strong>is wearing</strong>\" =&gt; \"<strong>was wearing</strong>\")</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">→</span> Phương án 3 \"<strong>She wondered why <span class=\"eq-highlight\">he was</span> wearing sunglasses.</strong>\" là đáp án đúng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương án 1 \"<b>She wondered why <span style=\"color: #ff0000;\">is he</span> wearing sunglasses.</b>\" sai vì trong câu hỏi gián tiếp, mệnh đề sau từ để hỏi cần theo trật tự chủ ngữ + động từ, không đảo ngữ như câu hỏi trực tiếp.</li>\n<li style=\"text-align: justify;\">Phương án 2 \"<b>She wondered why he <span style=\"color: #ff0000;\">is</span> wearing sunglasses.</b>\" sai vì động từ tường thuật \"<i>wondered</i>\" ở thì quá khứ nên động từ trong mệnh đề danh ngữ phải lùi thì về quá khứ.</li>\n<li style=\"text-align: justify;\">Phương án 4 \"<b>She wondered why <span style=\"color: #ff0000;\">was he</span> wearing sunglasses.</b>\" sai vì tương tự phương án 1, mệnh đề sau từ để hỏi trong câu hỏi gián tiếp phải theo trật tự chủ ngữ + động từ, không đảo ngữ.</li>\n</ul>",
+      "answerFeedbacks": {
+        "798767": "Sai vì câu hỏi gián tiếp phải theo trật tự chủ ngữ + động từ, không đảo ngữ \"<em>is he</em>\".",
+        "798768": "Sai vì động từ tường thuật \"<em>wondered</em>\" ở thì quá khứ nên động từ trong mệnh đề danh ngữ phải lùi về thì quá khứ \"<em>was wearing</em>\".",
+        "798769": "<p>Đúng vì đây là cấu trúc câu hỏi gián tiếp với động từ tường thuật ở thì quá khứ, yêu cầu lùi thì và giữ trật tự chủ ngữ + động từ.</p>",
+        "798770": "Sai vì câu hỏi gián tiếp phải theo trật tự chủ ngữ + động từ, không đảo ngữ \"<em>was he</em>\"."
+      },
+      "images": []
+    },
+    {
+      "id": 857884,
+      "questionNumber": 20,
+      "questionName": "new 2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>He / want to know / if / you / enjoy / the new restaurant's food.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1635534,
+          "label": "A",
+          "text": "He wants to know if you enjoyed the new restaurant's food.",
+          "isCorrect": false
+        },
+        {
+          "id": 1635535,
+          "label": "B",
+          "text": "He wanted to know if you enjoyed the new restaurant's food.",
+          "isCorrect": true
+        },
+        {
+          "id": 1635536,
+          "label": "C",
+          "text": "He wanted to know if did you enjoy the new restaurant's food.",
+          "isCorrect": false
+        },
+        {
+          "id": 1635537,
+          "label": "D",
+          "text": "He wants to know if do you enjoy the new restaurant's food.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1635535,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;́u trúc c&acirc;u tường thu&acirc;̣t với c&acirc;u hỏi Yes/No: <strong>She + asked (sb)/wondered/wanted to know + if/whether + S + V(lùi thì)</strong> (kh&ocirc;ng đảo trợ đ&ocirc;̣ng từ/ đ&ocirc;̣ng từ to be/ đ&ocirc;̣ng từ khuy&ecirc;́t thi&ecirc;́u l&ecirc;n trước chủ ngữ)</p>\n<p>N&ecirc;́u đ&ocirc;̣ng từ tường thu&acirc;̣t chia ở thì hi&ecirc;̣n tại đơn =&gt; v&ecirc;́ sau kh&ocirc;ng lùi thì.</p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em>He <span style=\"text-decoration: line-through;\"><strong>wants</strong></span> to know if you <span style=\"text-decoration: line-through;\"><strong>enjoyed</strong></span> the new restaurant's food.</em></li>\n<li><em>He wanted to know if <span style=\"text-decoration: line-through;\"><strong>did you enjoy</strong></span> the new restaurant's food.</em></li>\n<li><em>He wants to know if <span style=\"text-decoration: line-through;\"><strong>do you enjoy</strong></span> the new restaurant's food.</em></li>\n</ul>\n<p>Dịch: Anh ấy muốn biết bạn c&oacute; th&iacute;ch đồ ăn của nh&agrave; h&agrave;ng mới kh&ocirc;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 285521,
+      "questionNumber": 21,
+      "questionName": "SBT 8-U12-B-6",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Choose the word(s) which correctly completes each sentence below.</strong></p>\n<p>1. He asked me which planet <strong><span class='fillblank-option'><label>21.1</label><select class='ms fillblank-option-21' index='0' name='fbo-285521-0' data-testid='fillblank-select-285521-0'><option value='' data-testid='fillblank-option-empty-285521-0'></option><option value=\"has been\" data-testid='fillblank-option-285521-0-has been'>has been</option><option value=\"was\" data-testid='fillblank-option-285521-0-was'>was</option></select></span></strong> the largest planet in the Solar System.</p>\n<p>2. The teacher asked James how many planets human beings <strong><span class='fillblank-option'><label>21.2</label><select class='ms fillblank-option-21' index='1' name='fbo-285521-1' data-testid='fillblank-select-285521-1'><option value='' data-testid='fillblank-option-empty-285521-1'></option><option value=\"had been\" data-testid='fillblank-option-285521-1-had been'>had been</option><option value=\"has been\" data-testid='fillblank-option-285521-1-has been'>has been</option></select></span></strong> to.</p>\n<p>3. Mark asked his friend when the last UFO sighting <strong><span class='fillblank-option'><label>21.3</label><select class='ms fillblank-option-21' index='2' name='fbo-285521-2' data-testid='fillblank-select-285521-2'><option value='' data-testid='fillblank-option-empty-285521-2'></option><option value=\"is\" data-testid='fillblank-option-285521-2-is'>is</option><option value=\"had been\" data-testid='fillblank-option-285521-2-had been'>had been</option></select></span></strong> reported.</p>\n<p>4. He asked me if there <strong><span class='fillblank-option'><label>21.4</label><select class='ms fillblank-option-21' index='3' name='fbo-285521-3' data-testid='fillblank-select-285521-3'><option value='' data-testid='fillblank-option-empty-285521-3'></option><option value=\"is\" data-testid='fillblank-option-285521-3-is'>is</option><option value=\"was\" data-testid='fillblank-option-285521-3-was'>was</option></select></span></strong> rain on the Moon.</p>\n<p>5. The students wondered when human beings <strong><span class='fillblank-option'><label>21.5</label><select class='ms fillblank-option-21' index='4' name='fbo-285521-4' data-testid='fillblank-select-285521-4'><option value='' data-testid='fillblank-option-empty-285521-4'></option><option value=\"will\" data-testid='fillblank-option-285521-4-will'>will</option><option value=\"would\" data-testid='fillblank-option-285521-4-would'>would</option></select></span></strong> be able to walk on the surface of Pluto.</p>\n<p>6. The boy asked the astronauts what they <strong><span class='fillblank-option'><label>21.6</label><select class='ms fillblank-option-21' index='5' name='fbo-285521-5' data-testid='fillblank-select-285521-5'><option value='' data-testid='fillblank-option-empty-285521-5'></option><option value=\"eat\" data-testid='fillblank-option-285521-5-eat'>eat</option><option value=\"ate\" data-testid='fillblank-option-285521-5-ate'>ate</option></select></span></strong> when they were on missions in space.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "was"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "had been"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "had been"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "was"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "would"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "ate"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của dạng c&acirc;u hỏi với Wh-word: <strong>S + asked sb/wondered/wanted to know/... + wh-word + S + V(l&ugrave;i th&igrave;)&nbsp;</strong>(kh&ocirc;ng đảo to be/ trợ đ&ocirc;̣ng từ/ đ&ocirc;̣ng từ khuy&ecirc;́t thi&ecirc;́u l&ecirc;n trước chủ ngữ)</p>\n<p>Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của dạng c&acirc;u hỏi Yes/No: <strong>S + asked sb/wondered/wanted to know/... + if/whether + S + V(l&ugrave;i th&igrave;)&nbsp;</strong>(kh&ocirc;ng đảo to be/ trợ đ&ocirc;̣ng từ/ đ&ocirc;̣ng từ khuy&ecirc;́t thi&ecirc;́u l&ecirc;n trước chủ ngữ)</p>\n<p>1. C&acirc;u trực tiếp động từ phải được chia ở th&igrave; hiện tại đơn (diễn tả một sự thật ở hiện tại).</p>\n<p>L&ugrave;i th&igrave;: hiện tại đơn =&gt; qu&aacute; khứ đơn (\"<strong>is</strong>\" =&gt; \"<strong>was</strong>\")</p>\n<p>Dịch: Anh ấy hỏi t&ocirc;i h&agrave;nh tinh n&agrave;o lớn nhất trong Hệ Mặt trời.</p>\n<p>2. Trong c&acirc;u trực tiếp, động từ được được d&ugrave;ng ở hiện tại ho&agrave;n th&agrave;nh l&agrave; \"<strong>has been</strong>\" (diễn tả trải nghiệm t&iacute;nh tới hiện tại).</p>\n<p>L&ugrave;i th&igrave;: hiện tại ho&agrave;n th&agrave;nh =&gt; qu&aacute; khứ ho&agrave;n th&agrave;nh (\"<strong>has been</strong>\" =&gt; \"<strong>had been</strong>\")</p>\n<p>Dịch: Gi&aacute;o vi&ecirc;n hỏi James con người đ&atilde; đến bao nhi&ecirc;u h&agrave;nh tinh.</p>\n<p>3. Trong c&acirc;u trực tiếp, động từ được chia ở th&igrave; qu&aacute; khứ đơn với dấu hiệu l&agrave; \"<strong>the last</strong>\" (diễn tả sự kiện đ&atilde; xảy ra trong qu&aacute; khứ).</p>\n<p>L&ugrave;i th&igrave;: qu&aacute; khứ đơn =&gt; qu&aacute; khứ ho&agrave;n th&agrave;nh (\"<strong>was</strong>\" =&gt; \"<strong>had been</strong>\")</p>\n<p>Dịch: Mark đ&atilde; hỏi bạn của m&igrave;nh rằng lần cuối c&ugrave;ng (ai đ&oacute;) nh&igrave;n thấy vật thể bay lạ được ghi lại l&agrave; khi n&agrave;o.&nbsp;</p>\n<p>4. Trong c&acirc;u trực tiếp, động từ chia ở th&igrave; hiện tại đơn (hỏi về một sự thật ở hiện tại).&nbsp;</p>\n<p>L&ugrave;i th&igrave;: hiện tại đơn =&gt; qu&aacute; khứ đơn (\"<strong>is</strong>\" =&gt; \"<strong>was</strong>\")</p>\n<p>Dịch: Anh ấy hỏi t&ocirc;i liệu c&oacute; mưa tr&ecirc;n Mặt trăng kh&ocirc;ng.</p>\n<p>5.&nbsp;Trong c&acirc;u trực tiếp, động từ chia ở th&igrave; tương lai đơn.&nbsp;</p>\n<p>L&ugrave;i th&igrave;: tương lai đơn =&gt; tương lai trong qu&aacute; khứ (\"<strong>will</strong>\" =&gt; \"<strong>would\"</strong>)</p>\n<p>Dịch: Học sinh tự hỏi khi n&agrave;o con người c&oacute; thể đi tr&ecirc;n bề mặt của sao Di&ecirc;m Vương.</p>\n<p>6.&nbsp;Trong c&acirc;u trực tiếp, động từ được chia ở th&igrave; hiện tại đơn (để n&oacute;i về sự thật ở hiện tại).&nbsp;</p>\n<p>L&ugrave;i th&igrave;: hiện tại đơn =&gt; qu&aacute; khứ đơn (\"<strong>eat</strong>\" =&gt; \"<strong>ate</strong>\")</p>\n<p>Dịch: Cậu b&eacute; hỏi c&aacute;c phi h&agrave;nh gia (rằng) họ đ&atilde; ăn g&igrave; khi đang l&agrave;m nhiệm vụ trong kh&ocirc;ng gian.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 826170,
+      "questionNumber": 22,
+      "questionName": "COMPACT FCE (P.75)",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><em>Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.</em></p>\n<p><strong>&quot;I'll stop paying your rent if you leave university,&quot; he said to his daughter. (THREATENED)</strong></p>\n<p><strong>=&gt; He <span class='fillblank-option'><input id='fbo-826170-0' class='ms fillblank-option-22' index='0' name='fbo-826170-0' type='text' size='28' autocomplete='off' data-testid='fillblank-input-826170-0' /></span></strong><strong> his daughter's rent if she left university.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "threatened to stop paying"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>threaten + to V(inf)</strong>: đe doạ sẽ l&agrave;m g&igrave;</p>\n<p>Dịch: &ldquo;Bố sẽ ngừng trả tiền thu&ecirc; nh&agrave; cho con nếu con bỏ học đại học,&rdquo; &ocirc;ng ấy n&oacute;i với con g&aacute;i.</p>\n<p>~ &Ocirc;ng ấy đe dọa sẽ ngừng trả tiền thu&ecirc; nh&agrave; cho con g&aacute;i m&igrave;nh nếu c&ocirc; ấy bỏ học đại học.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 346185,
+      "questionNumber": 23,
+      "questionName": "Complete_FCE - U9 - Reading&Use_of_English_Part4 (P.101)",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><em>Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.</em></p>\n<p style=\"text-align: justify;\"><strong><span class=\"word\">&quot;Don't</span> <span class=\"word\">forget</span> <span class=\"word\">to</span> <span class=\"word\">lock</span> <span class=\"word\">the</span> <span class=\"word\">front</span> <span class=\"word\">door,</span> <span class=\"word\">Karl,&quot;</span>&nbsp;<span class=\"word\">said</span> <span class=\"word\">his</span> <span class=\"word\">wife.</span> (REMINDED)</strong></p>\n<p style=\"text-align: justify;\"><strong>=&gt; <span class=\"word\">Karl's</span> <span class=\"word\">wife <span class='fillblank-option'><input id='fbo-346185-0' class='ms fillblank-option-23' index='0' name='fbo-346185-0' type='text' size='22' autocomplete='off' data-testid='fillblank-input-346185-0' /></span> the front door.</span></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "reminded him to lock"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>remind sb to do sth</strong>: nhắc nhở ai l&agrave;m g&igrave;</p>\n<p>Dịch: \"Đừng qu&ecirc;n kh&oacute;a cửa trước nh&eacute;, Karl,\" vợ anh ấy n&oacute;i.</p>\n<p>~ Vợ của Karl nhắc anh ấy kho&aacute; cửa trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 713249,
+      "questionNumber": 24,
+      "questionName": "chat",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>He said to me, &quot;Do not go into this abandoned building in town.</strong><strong>&quot;</strong></p>\n<p><strong>=&gt; He warned <span class='fillblank-option'><input id='fbo-713249-0' class='ms fillblank-option-24' index='0' name='fbo-713249-0' type='text' size='25' autocomplete='off' data-testid='fillblank-input-713249-0' /></span> abandoned building in town.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "me not to go into that"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của c&acirc;u mệnh lệnh, y&ecirc;u cầu, đề nghị: <strong>S + told/asked/warned ... + sb + (not) to V(inf)</strong></p>\n<p>Biến đổi t&iacute;nh từ chỉ định: \"<strong>this</strong>\" =&gt; \"<strong>that</strong>\"</p>\n<p>Dịch: Anh ấy n&oacute;i với t&ocirc;i: \"Đừng đi v&agrave;o t&ograve;a nh&agrave; bỏ hoang n&agrave;y trong thị trấn.\"</p>\n<p>~ Anh ấy đ&atilde; cảnh b&aacute;o t&ocirc;i kh&ocirc;ng được đi v&agrave;o t&ograve;a nh&agrave; bỏ hoang đ&oacute; trong thị trấn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 848138,
+      "questionNumber": 25,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>He asked me, &quot;Can you lend me your book for the weekend, please?&quot;.</strong></p>\n<p><strong>=&gt; He wanted <span class='fillblank-option'><input id='fbo-848138-0' class='ms fillblank-option-25' index='0' name='fbo-848138-0' type='text' size='39' autocomplete='off' data-testid='fillblank-input-848138-0' /></span> book for the weekend.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "to know if I could lend him my",
+            "to know whether I could lend him my"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của dạng c&acirc;u hỏi Yes/No: <strong>S + asked sb/wondered/wanted to know + if/whether + S + V(l&ugrave;i th&igrave;)</strong> (kh&ocirc;ng đảo to be/ trợ động từ/ động từ khuyết thiếu l&ecirc;n trước chủ ngữ)</p>\n<p>L&ugrave;i th&igrave;: \"<strong>can lend</strong>\" =&gt; \"<strong>could lend</strong>\"</p>\n<p>Đổi đại từ: \"<strong>you</strong>\" =&gt; \"<strong>I</strong>\"; \"<strong>me</strong>\" =&gt; \"<strong>him</strong>\"</p>\n<p>Đổi t&iacute;nh từ sở hữu: \"<strong>your</strong>\" =&gt; \"<strong>my</strong>\"</p>\n<p>Dịch:&nbsp;Cậu ấy hỏi t&ocirc;i, \"Cậu c&oacute; thể cho tớ mượn cuốn s&aacute;ch của cậu v&agrave;o cuối tuần được kh&ocirc;ng?\".</p>\n<p>~ Cậu ấy muốn biết liệu t&ocirc;i c&oacute; thể cho cậu ấy mượn cuốn s&aacute;ch của t&ocirc;i v&agrave;o cuối tuần kh&ocirc;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 646576,
+      "questionNumber": 26,
+      "questionName": "8",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>&quot;Please turn down the radio for me,&quot; said my father.</strong></p>\n<p><strong>=&gt; My father asked ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "My father asked me to turn down the radio for him."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của c&acirc;u mệnh lệnh, y&ecirc;u cầu, đề nghị:<strong> S + told/asked/... + sb + (not) + to V(inf)</strong></p>\n<p>Đổi đại từ: \"<strong>me</strong>\" =&gt; \"<strong>him</strong>\"</p>\n<p>Dịch: \"H&atilde;y vặn nhỏ radio xuống gi&uacute;p bố với,\" bố t&ocirc;i n&oacute;i.</p>\n<p>~ Bố t&ocirc;i nhờ t&ocirc;i vặn nhỏ radio xuống cho &ocirc;ng ấy.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 667335,
+      "questionNumber": 27,
+      "questionName": "1",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>&#8220;Are you going to Ho Chi Minh City next week?&#8221; Tom asked me.</strong></p>\n<p><strong>=&gt; Tom asked me ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Tom asked me if I was going to Ho Chi Minh City the next week."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của dạng c&acirc;u hỏi Yes/No: <strong>S + asked sb/wondered/wanted to know + if/whether + S + V(l&ugrave;i th&igrave;)</strong> (kh&ocirc;ng đảo to be/ trợ động từ/ động từ khuyết thiếu l&ecirc;n trước chủ ngữ)</p>\n<p>L&ugrave;i th&igrave;: th&igrave; hiện tại tiếp diễn =&gt; th&igrave; qu&aacute; khứ tiếp diễn (\"<strong>are going</strong>\" =&gt; \"<strong>was going</strong>\")</p>\n<p>Đổi t&acirc;n ngữ: \"<strong>you</strong>\" =&gt; \"<strong>I</strong>\"</p>\n<p>Đổi trạng từ: \"<strong>next week</strong>\" =&gt; \"<strong>the following week</strong>\" hoặc \"<strong>the next week</strong>\" hoặc \"<strong>the week after</strong>\"</p>\n<p>Dịch: &ldquo;Bạn sẽ đến Th&agrave;nh phố Hồ Ch&iacute; Minh v&agrave;o tuần tới phải kh&ocirc;ng?&rdquo; Tom hỏi t&ocirc;i.</p>\n<p>~ Tom hỏi t&ocirc;i c&oacute; phải t&ocirc;i sẽ đến Th&agrave;nh phố Hồ Ch&iacute; Minh v&agrave;o tuần tới kh&ocirc;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 238420,
+      "questionNumber": 28,
+      "questionName": "Q34",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>&#8220;Why do I have to conduct this research?&#8221; she asked me. </strong></p>\n<p><strong>=&gt; She asked me ..............</strong><br></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "She asked me why she had to conduct that research."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp của wh-question: </span><strong>S + asked (O)/wondered/wanted to know + wh-word + S + V(l&ugrave;i th&igrave;)&nbsp;</strong>(kh&ocirc;ng đảo trợ đ&ocirc;̣ng từ/ đ&ocirc;̣ng từ to be/ đ&ocirc;̣ng từ khuy&ecirc;́t thi&ecirc;́u l&ecirc;n trước chủ ngữ)</p>\n<p><span style=\"font-weight: 400;\">L&ugrave;i th&igrave;:</span> hiện tại đơn =&gt; qu&aacute; khứ đơn (\"<strong>have to</strong>\" =&gt; \"<strong>had to</strong>\")</p>\n<p><span style=\"font-weight: 400;\">Đổi đại từ: \"</span><strong>I</strong><span style=\"font-weight: 400;\">\" =&gt; \"</span><strong>she</strong><span style=\"font-weight: 400;\">\"</span></p>\n<p><span style=\"font-weight: 400;\">Đổi t&iacute;nh từ chỉ định: \"</span><strong>this</strong><span style=\"font-weight: 400;\">\" =&gt; \"</span><strong>that</strong><span style=\"font-weight: 400;\">\"</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: \"Tại sao t&ocirc;i phải thực hiện nghi&ecirc;n cứu n&agrave;y?\" c&ocirc; ấy hỏi t&ocirc;i.</span></p>\n<p><span style=\"font-weight: 400;\">~ C&ocirc; ấy hỏi t&ocirc;i tại sao c&ocirc; ấy phải thực hiện nghi&ecirc;n cứu đ&oacute;.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

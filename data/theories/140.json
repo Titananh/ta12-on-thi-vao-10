@@ -1,0 +1,27 @@
+{
+  "topicId": 140,
+  "topicName": "Thể bị động",
+  "englishName": "Passive Voice",
+  "rules": [
+    {
+      "rule": "Công thức chung của câu bị động: Tân ngữ chuyển thành Chủ ngữ, động từ biến thành BE + V3/ed.",
+      "formula": "S + be + V3/ed (+ by O)",
+      "examples": "A new school was built in this village last year."
+    },
+    {
+      "rule": "Bảng biến đổi bị động theo các thì:",
+      "formula": "HTĐ: am/is/are + V3 // QKĐ: was/were + V3 // HTTD: am/is/are + being + V3 // HTHHT: have/has + been + V3 // TLĐ: will be + V3 // Modals: can/must/should + be + V3",
+      "examples": "The bridge is being repaired. / Homework must be submitted on time."
+    },
+    {
+      "rule": "Thể nhờ vả, sai khiến (Causative Form):",
+      "formula": "Have sth done / Get sth done (Nhờ ai làm gì đó cho mình)",
+      "examples": "I had my car washed yesterday. (= Someone washed my car for me.)"
+    },
+    {
+      "rule": "Bị động với động từ chỉ quan điểm, ý kiến (People say/believe that S + V...):",
+      "formula": "Cách 1: It is said that + S + V... // Cách 2: S + is/are said + to V-inf (cùng thì) / to have V3/ed (trước thì)",
+      "examples": "It is reported that the storm has passed. / He is said to be a talented doctor."
+    }
+  ]
+}

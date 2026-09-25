@@ -1,0 +1,1403 @@
+{
+  "id": 1462,
+  "title": "Đề thi minh họa vào 10 môn Anh Sở Hà Nội năm 2019",
+  "year": 2019,
+  "categoryId": 1097,
+  "categoryName": "Đề thi chính thức/minh họa vào 10 môn Anh Sở Hà Nội qua các năm",
+  "timeLimit": 60,
+  "totalPoint": 40,
+  "questionCount": 37,
+  "author": "Tổ GV Tiếng Anh - TA12",
+  "description": "Đề thi tham khảo cho mùa thi vào 10 năm 2019, do Sở GD-ĐT  Hà Nội ban hành ngày 31/10/2018. GV của TiengAnhK12 đã giải thích đáp án chi tiết.",
+  "createdAt": "2026-09-24T14:46:44.482Z",
+  "questions": [
+    {
+      "id": 20964,
+      "questionNumber": 1,
+      "questionName": "Q1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65202,
+          "label": "A",
+          "text": "<p>admir<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": true
+        },
+        {
+          "id": 65203,
+          "label": "B",
+          "text": "<p>look<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 65204,
+          "label": "C",
+          "text": "<p>miss<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 65205,
+          "label": "D",
+          "text": "<p>hop<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65202,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y nhớ lại quy tắc ph&aacute;t &acirc;m đu&ocirc;i <em>\"-ed\"</em> của động từ trong th&igrave; qu&aacute; khứ đơn. C&aacute;ch ph&aacute;t &acirc;m n&agrave;y phụ thuộc v&agrave;o &acirc;m cuối của động từ gốc:</p>\n<ul>\n<li>nếu l&agrave; &acirc;m v&ocirc; thanh (trừ /t/), <em>\"-ed\"</em> sẽ được ph&aacute;t &acirc;m l&agrave; /t/;</li>\n<li>nếu l&agrave; &acirc;m hữu thanh (trừ /d/), <em>\"-ed\"</em> sẽ được ph&aacute;t &acirc;m l&agrave; /d/;</li>\n<li>nếu l&agrave; &acirc;m /t/ hoặc /d/, <em>\"-ed\"</em> sẽ được ph&aacute;t &acirc;m l&agrave; /ɪd/.</li>\n</ul>",
+      "explanation": "<p>Phần gạch ch&acirc;n trong từ \"<strong>admir<span style=\"text-decoration: underline;\">ed</span></strong>\" được ph&aacute;t &acirc;m l&agrave; <strong>/d/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/t/</strong>.&nbsp;&nbsp;</p>\n<p><strong>admired (v.) /ədˈmaɪərd/</strong></p>\n<p>looked (v.) /lʊkt/</p>\n<p>missed (v.) /mɪst/</p>\n<p>hoped (v.) /həʊpt/</p>",
+      "answerFeedbacks": {
+        "65202": "<p>&Acirc;m cuối của động từ gốc <em>\"admire\"</em> l&agrave; /r/, một &acirc;m hữu thanh, n&ecirc;n đu&ocirc;i <em>\"-ed\"</em> được ph&aacute;t &acirc;m l&agrave; /d/.</p>",
+        "65203": "<p>&Acirc;m cuối của động từ gốc <em>\"look\"</em> l&agrave; /k/, một &acirc;m v&ocirc; thanh, n&ecirc;n đu&ocirc;i <em>\"-ed\"</em> được ph&aacute;t &acirc;m l&agrave; /t/.</p>",
+        "65204": "<p>&Acirc;m cuối của động từ gốc <em>\"miss\"</em> l&agrave; /s/, một &acirc;m v&ocirc; thanh, n&ecirc;n đu&ocirc;i <em>\"-ed\"</em> được ph&aacute;t &acirc;m l&agrave; /t/.</p>",
+        "65205": "<p>&Acirc;m cuối của động từ gốc <em>\"hope\"</em> l&agrave; /p/, một &acirc;m v&ocirc; thanh, n&ecirc;n đu&ocirc;i <em>\"-ed\"</em> được ph&aacute;t &acirc;m l&agrave; /t/.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 20965,
+      "questionNumber": 2,
+      "questionName": "Q2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word whose underlined part is pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65206,
+          "label": "A",
+          "text": "<p>thr<span style=\"text-decoration: underline;\">ea</span>d</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 65207,
+          "label": "B",
+          "text": "<p>tr<span style=\"text-decoration: underline;\">ea</span>t</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 65208,
+          "label": "C",
+          "text": "<p>pl<span style=\"text-decoration: underline;\">ea</span>sure</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 65209,
+          "label": "D",
+          "text": "<p>d<span style=\"text-decoration: underline;\">ea</span>dline</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65207,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Phần gạch ch&acirc;n trong từ \"<strong>tr<span style=\"text-decoration: underline;\">ea</span>t</strong>\" được ph&aacute;t &acirc;m l&agrave; <strong>/i:/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/e/</strong>.&nbsp;&nbsp;</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FLCRmzsqIXXV%2BqL5PQxOIN5szeJeNaxS7xWU8OflAm%2F8JXpSSRep7%2BI%2FtV1zJiVITMMJdVuV%2BsFtRTu%2F0Yp1iIekLc%2FHDpj3gCWuzYe1Gd8yQbvYh3JEEz%2FKbAU5VB0GnrJ07krp7R5eXPD4eCTzBLqv9wLYgeGbCd4Rr1IKChIevbVkXDDGpndjPXMJMlH19yitN1grOIS1eILXyw0%2FkKlt1ylLXADcNAo9FkKRMP4wCmvZwv68K7Ly6KhKCWBLEJXvsAiboPMClMa1rjfL%2BIU8q1QsZjWnzkXSEM8a3Ri%2FvcRjWpaveKZT9wQtcegToo626Q8vgBbg%3D%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20966,
+      "questionNumber": 3,
+      "questionName": "Q3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65210,
+          "label": "A",
+          "text": "<p>disease</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 65211,
+          "label": "B",
+          "text": "<p>humour</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 65212,
+          "label": "C",
+          "text": "<p>cancer</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 65213,
+          "label": "D",
+          "text": "treatment",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65210,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Đối với các từ có hai âm tiết, quy tắc trọng âm phổ biến là trọng âm thường rơi vào âm tiết thứ nhất, đặc biệt là với danh từ. Tuy nhiên, nếu âm tiết thứ hai chứa nguyên âm dài hoặc nguyên âm đôi, trọng âm có thể rơi vào âm tiết thứ hai. Hãy xem xét kỹ các từ để xác định vị trí trọng âm dựa trên các quy tắc này.",
+      "explanation": "<p>Từ <strong>disease</strong> có trọng âm rơi vào âm tiết thứ hai, các từ còn lại có trọng âm rơi vào âm tiết thứ nhất.<br /><br /></p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #fff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n        color: #1c581f;\n        font-size: 15px;\n    }\n\n    .vocab-table-sharp th, \n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        display: inline-block;\n        margin: 0 0.4rem 4px 0;\n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n        display: block;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">disease</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/dɪˈziːz/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>bệnh, bệnh tật</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">humour</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/ˈhjuːmə/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sự hài hước, khiếu hài hước</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">cancer</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/ˈkænsə/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>bệnh ung thư</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">treatment</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/ˈtriːtmənt/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sự điều trị, cách điều trị</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "65210": "<p>Từ này có trọng âm rơi vào âm tiết thứ hai /dɪˈziːz/. Đối với nhiều danh từ hai âm tiết, nếu âm tiết thứ hai chứa nguyên âm dài hoặc nguyên âm đôi, trọng âm thường rơi vào âm tiết thứ hai.</p>",
+        "65211": "<p>Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈhjuːmə/. Hầu hết các danh từ hai âm tiết thường có trọng âm rơi vào âm tiết thứ nhất.</p>",
+        "65212": "<p>Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈkænsə/. Hầu hết các danh từ hai âm tiết thường có trọng âm rơi vào âm tiết thứ nhất.</p>",
+        "65213": "<p>Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈtriːtmənt/. Hầu hết các danh từ hai âm tiết thường có trọng âm rơi vào âm tiết thứ nhất. Ngoài ra, các từ có hậu tố <em>\"-ment\"</em> thường có trọng âm ở âm tiết gốc.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 20967,
+      "questionNumber": 4,
+      "questionName": "Q4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65214,
+          "label": "A",
+          "text": "<p>remember</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 65215,
+          "label": "B",
+          "text": "<p>company</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 65216,
+          "label": "C",
+          "text": "<p>technical</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 65217,
+          "label": "D",
+          "text": "<p>interview</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65214,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để xác định trọng âm, hãy chú ý đến loại từ (danh từ, động từ, tính từ) và số âm tiết. Thông thường, các danh từ và tính từ có ba âm tiết thường có trọng âm rơi vào âm tiết đầu tiên. Ngược lại, nhiều động từ có ba âm tiết thường có trọng âm rơi vào âm tiết thứ hai.",
+      "explanation": "<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #fff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n        color: #1c581f;\n        font-size: 15px;\n    }\n\n    .vocab-table-sharp th, \n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        display: inline-block;\n        margin: 0 0.4rem 4px 0;\n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n        display: block;\n    }\n</style>\n<p>Từ <b>remember</b> có trọng âm rơi vào âm tiết thứ hai, các từ còn lại có trọng âm rơi vào âm tiết thứ nhất.</p>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">remember</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/rɪˈmem.bər/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>nhớ, ghi nhớ</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">company</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/ˈkʌm.pə.ni/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>công ty</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">technical</span></strong><span class=\"word-pos-sharp\">(adj.)</span> <span class=\"word-ipa-sharp\">/ˈtek.nɪ.kəl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>thuộc về kỹ thuật</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">interview</span></strong><span class=\"word-pos-sharp\">(n/v.)</span> <span class=\"word-ipa-sharp\">/ˈɪn.tə.vjuː/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>cuộc phỏng vấn, phỏng vấn</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "65214": "<p>Từ này có trọng âm rơi vào âm tiết thứ hai /rɪˈmem.bər/. Các động từ có ba âm tiết thường có trọng âm rơi vào âm tiết thứ hai nếu âm tiết thứ ba chứa nguyên âm yếu hoặc kết thúc bằng một phụ âm.</p>",
+        "65215": "<p>Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈkʌm.pə.ni/. Các danh từ có ba âm tiết thường có trọng âm rơi vào âm tiết đầu tiên.</p>",
+        "65216": "<p>Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈtek.nɪ.kəl/. Các tính từ có ba âm tiết thường có trọng âm rơi vào âm tiết đầu tiên.</p>",
+        "65217": "<p>Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈɪn.tə.vjuː/. Nhiều danh từ và động từ có ba âm tiết thường có trọng âm rơi vào âm tiết đầu tiên.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 20969,
+      "questionNumber": 5,
+      "questionName": "Q5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>If we <span style=\"text-decoration: underline;\">will reduce</span> the speed of <span style=\"text-decoration: underline;\">population growth</span>, there will be <span style=\"text-decoration: underline;\">less</span> pressure <span style=\"text-decoration: underline;\">on</span> the Earth.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65218,
+          "label": "A",
+          "text": "will reduce",
+          "isCorrect": true
+        },
+        {
+          "id": 65219,
+          "label": "B",
+          "text": "population growth",
+          "isCorrect": false
+        },
+        {
+          "id": 65220,
+          "label": "C",
+          "text": "less",
+          "isCorrect": false
+        },
+        {
+          "id": 65221,
+          "label": "D",
+          "text": "on",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65218,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;u điều kiện loại 1 diễn tả điều kiện c&oacute; thể xảy ra ở hiện tại hoặc tương lai.</p>\n<p>Cấu tr&uacute;c: <strong>If + S + V(s/es), S + will/can/may... + V(inf)</strong></p>\n<p>Sửa: \"<strong>will reduce</strong>\" =&gt; \"<strong>reduce</strong>\"</p>\n<p>Dịch: Nếu ch&uacute;ng ta giảm tốc độ gia tăng d&acirc;n số, sẽ c&oacute; &iacute;t &aacute;p lực hơn đối với Tr&aacute;i đất.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20970,
+      "questionNumber": 6,
+      "questionName": "Q6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>After <span style=\"text-decoration: underline;\">living</span> in London <span style=\"text-decoration: underline;\">for</span> two months, my brother <span style=\"text-decoration: underline;\">got used</span> to <span style=\"text-decoration: underline;\">drive</span> on the left.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65222,
+          "label": "A",
+          "text": "living",
+          "isCorrect": false
+        },
+        {
+          "id": 65223,
+          "label": "B",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 65224,
+          "label": "C",
+          "text": "got used",
+          "isCorrect": false
+        },
+        {
+          "id": 65225,
+          "label": "D",
+          "text": "drive",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 65225,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét dạng động từ ''<em>V-ing</em>\" có phù hợp để theo sau ''<em>after</em>'' không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra các giới từ ''<em>for</em>'' có phù hợp để chỉ khoảng thời gian ''<em>two months</em>'' không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Nhớ lại cấu trúc của <em>\"get used to\"</em> và dạng động từ theo sau nó.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xác định dạng đúng của động từ khi đứng sau giới từ <em>\"to\"</em> trong cụm <em>\"get used to\"</em>.</li>\n</ul>\n<p style=\"text-align: justify;\">Đối chiếu các quy tắc trên với từng phần gạch chân trong câu để tìm ra lỗi sai.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span></span></p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p><span style=\"color: #1c581f;\"><strong>get used to + V-ing/N:</strong></span> trở nên quen với điều gì/làm việc gì</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, cụm từ <em>\"got used to\"</em> được sử dụng để diễn tả việc anh trai tôi đã trở nên quen với việc lái xe bên trái. Theo cấu trúc ngữ pháp, <em>\"get used to\"</em> phải được theo sau bởi một danh từ hoặc một động từ ở dạng V-ing. Do đó, <em>\"drive\"</em> là sai ngữ pháp.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>drive</strong></em>\" =&gt; \"<em><strong>driving</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "65222": "Cấu trúc <em>\"After + V-ing\"</em> là chính xác khi <em>\"living\"</em> đóng vai trò là danh động từ sau giới từ <em>\"After\"</em>, diễn tả hành động xảy ra trước hành động chính.",
+        "65223": "Giới từ <em>\"for\"</em> được dùng chính xác để chỉ khoảng thời gian <em>\"two months\"</em>.",
+        "65224": "Cụm động từ <em>\"got used to\"</em> là chính xác, diễn tả việc trở nên quen với điều gì đó trong quá khứ.",
+        "65225": "Động từ <em>\"drive\"</em> cần ở dạng V-ing (<em>\"driving\"</em>) khi đi sau cấu trúc <em>\"get used to\"</em> để diễn tả sự quen thuộc với một hành động."
+      },
+      "images": []
+    },
+    {
+      "id": 20971,
+      "questionNumber": 7,
+      "questionName": "Question 10.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>You <span style=\"text-decoration: underline;\">can</span> learn <span style=\"text-decoration: underline;\">a lot</span> <span style=\"text-decoration: underline;\">about</span> other countries by <span style=\"text-decoration: underline;\">watch</span> TV.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65226,
+          "label": "A",
+          "text": "can",
+          "isCorrect": false
+        },
+        {
+          "id": 65227,
+          "label": "B",
+          "text": "a lot",
+          "isCorrect": false
+        },
+        {
+          "id": 65228,
+          "label": "C",
+          "text": "about",
+          "isCorrect": false
+        },
+        {
+          "id": 65229,
+          "label": "D",
+          "text": "watch",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 65229,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Danh động từ (V-ing) giữ chức năng như một danh từ, đứng sau giới từ \"<strong>by</strong>\".</p>\n<p>Sửa: \"<strong>watch</strong>\" =&gt; \"<strong>watching</strong>\"</p>\n<p>Dịch: Bạn c&oacute; thể t&igrave;m hiểu rất nhiều về c&aacute;c quốc gia kh&aacute;c bằng c&aacute;ch xem TV.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20973,
+      "questionNumber": 8,
+      "questionName": "Q8",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We have lost touch since we _____ school three years ago.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65230,
+          "label": "A",
+          "text": "have left",
+          "isCorrect": false
+        },
+        {
+          "id": 65231,
+          "label": "B",
+          "text": "leave",
+          "isCorrect": false
+        },
+        {
+          "id": 65232,
+          "label": "C",
+          "text": "left",
+          "isCorrect": true
+        },
+        {
+          "id": 65233,
+          "label": "D",
+          "text": "had left",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65232,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Thì quá khứ đơn di&ecirc;̃n tả hành đ&ocirc;̣ng đã xảy ra và k&ecirc;́t thúc trong quá khứ. D&acirc;́u hi&ecirc;̣u: <strong>three years ago</strong></p>\n<p>Cấu tr&uacute;c: <strong>S + V(pt)</strong></p>\n<p>Dịch: Ch&uacute;ng t&ocirc;i đ&atilde; mất li&ecirc;n lạc kể từ khi ch&uacute;ng t&ocirc;i học xong 3 năm trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20974,
+      "questionNumber": 9,
+      "questionName": "Q9",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I like _____ books _____ my vocabulary.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65234,
+          "label": "A",
+          "text": "reading / to enrich",
+          "isCorrect": true
+        },
+        {
+          "id": 65235,
+          "label": "B",
+          "text": "read / to enrich",
+          "isCorrect": false
+        },
+        {
+          "id": 65236,
+          "label": "C",
+          "text": "reading / enriching",
+          "isCorrect": false
+        },
+        {
+          "id": 65237,
+          "label": "D",
+          "text": "to read / enrich",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65234,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><strong>like + V-ing/to V(inf)</strong>: th&iacute;ch l&agrave;m g&igrave;</p>\n<p style=\"text-align: justify;\"><strong>to + V(inf)</strong>: để l&agrave;m g&igrave; (chỉ mục đ&iacute;ch)</p>\n<p style=\"text-align: justify;\">Dịch: T&ocirc;i th&iacute;ch đọc s&aacute;ch để l&agrave;m gi&agrave;u vốn từ vựng của m&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20975,
+      "questionNumber": 10,
+      "questionName": "Q10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Louise played _____ basketball at the Boys' Club.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65238,
+          "label": "A",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 65239,
+          "label": "B",
+          "text": "an",
+          "isCorrect": false
+        },
+        {
+          "id": 65240,
+          "label": "C",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "id": 65241,
+          "label": "D",
+          "text": "Ø (no article)",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 65241,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Kh&ocirc;ng d&ugrave;ng mạo từ trước c&aacute;c từ chỉ m&ocirc;n thể thao.&nbsp;</p>\n<p>Dịch: Louise chơi b&oacute;ng rổ ở C&acirc;u lạc bộ Những ch&agrave;ng trai.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20976,
+      "questionNumber": 11,
+      "questionName": "Q11",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I don't feel well, but I don't know what's the matter ____ me.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65242,
+          "label": "A",
+          "text": "of",
+          "isCorrect": false
+        },
+        {
+          "id": 65243,
+          "label": "B",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 65244,
+          "label": "C",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 65245,
+          "label": "D",
+          "text": "with",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 65245,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>what's the matter + with sb: </strong>lý do cho v&acirc;́n đ&ecirc;̀ nào đó là gì</p>\n<p>Dịch: T&ocirc;i cảm thấy kh&ocirc;ng khỏe, nhưng t&ocirc;i kh&ocirc;ng biết lý do l&agrave; g&igrave;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20977,
+      "questionNumber": 12,
+      "questionName": "Q12",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Money can't buy true _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65246,
+          "label": "A",
+          "text": "happy",
+          "isCorrect": false
+        },
+        {
+          "id": 65247,
+          "label": "B",
+          "text": "unhappy",
+          "isCorrect": false
+        },
+        {
+          "id": 65248,
+          "label": "C",
+          "text": "happiness",
+          "isCorrect": true
+        },
+        {
+          "id": 65249,
+          "label": "D",
+          "text": "happily",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65248,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Vị trí cần điền đứng sau tính từ </span><em style=\"text-align: justify;\">\"true\"</em><span style=\"text-align: justify;\">. Trong tiếng Anh, tính từ thường được dùng để bổ nghĩa cho danh từ.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19OjD7RnxakzftBOwcCJ%2B77WnX%2BosjKdocqbBWSms36jo7hNxDnJVqCt5LE5F%2FVvB5nZAYCbkDz5%2FLOYKuAr2ma7EMvlwe7%2F1ZG%2FYUAbPrlEeaMd3ChPdyiiUPGpIJDG8%2F8X%2FWiniZyWVGdVzruOuTFPrbX5%2BrtAgKFfIpbq5op0FfmMqxjAwEOdPEM3DBJx0%2ByTadjBUMpNv6EI%2FPZ%2BPn2oUFkHEiypHxn4uC2bVhFCQSPQBYxIQLiET3KeLXUTGSZL8mtlgF6cruBfuE8nEZrp6kOuKmthgWVcT%2Bd9rCcwPHlhwzSpGa%2Frn4WCklY8Z27RHdXSEL4Ig81wwTSF0qeUpm38LEYzs2iIJh6o%2BlQhX6ffLLwlZmc\" width=\"100%\" height=\"315\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Vị trí cần điền đứng sau tính từ <em>\"true\"</em>. Trong tiếng Anh, tính từ thường dùng để bổ nghĩa cho danh từ. Do đó, từ cần điền vào chỗ trống phải là một danh từ để tạo thành cụm danh từ <em>\"true <strong>happiness</strong>\"</em> (hạnh phúc đích thực) làm tân ngữ cho động từ <em>\"buy\"</em>.</p>",
+      "answerFeedbacks": {
+        "65246": "Là một tính từ, không thể đứng sau tính từ \"true\" để tạo thành một cụm danh từ.",
+        "65247": "Là một tính từ, không phù hợp về mặt ngữ pháp để điền vào vị trí cần một danh từ.",
+        "65248": "Là một danh từ, phù hợp để đứng sau tính từ \"true\" và làm tân ngữ cho động từ \"buy\".",
+        "65249": "Là một trạng từ, không thể điền vào vị trí cần một danh từ."
+      },
+      "images": []
+    },
+    {
+      "id": 20978,
+      "questionNumber": 13,
+      "questionName": "Q13",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I want everybody to listen _____ to what I am going to say. It is very important.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65250,
+          "label": "A",
+          "text": "careful",
+          "isCorrect": false
+        },
+        {
+          "id": 65251,
+          "label": "B",
+          "text": "be careful",
+          "isCorrect": false
+        },
+        {
+          "id": 65252,
+          "label": "C",
+          "text": "carefully",
+          "isCorrect": true
+        },
+        {
+          "id": 65253,
+          "label": "D",
+          "text": "carelessly",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65252,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại c&acirc;̀n đi&ecirc;̀n: trạng từ, bổ sung nghĩa cho động từ \"<strong>listen</strong>\" đứng trước.</p>\n<div style=\"width: 100%; max-width: 265px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FJ438yx7zdcgeyasa0g3uoepPL06hhaSXefj85vt3dOs1Broaq89KbxDyv52V0Vdf1hl0M71FDVQLVu%2F5NNZiePHrn7JOfFloNcbKbYIFnhpUp5z5rbeRBYqjqdksinIBi9c2KUoUU9i1LCpYFMBRJzP%2FkSlKkDzGNKv8PJPy1sQVZW%2BP9P%2FJScdgchRXT%2FgTNBneQfigGjpXE8SDU1TvHwR%2BcgW%2F6UVKA0ksBADPoFFVFLNRhFliRBmhcvaCL3DSFo6hkH0BvYy9fALnWmLcFl84v0LUDiMmi9gm0GOhNI2TXApBgjhkUe4f9nKDK%2Fn4RjMM3oLNlSeLQefLfFuR8GucrliiCIOs%3D\" width=\"100%\" height=\"385\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: T&ocirc;i muốn mọi người lắng nghe một c&aacute;ch cẩn thận những điều t&ocirc;i sắp n&oacute;i. N&oacute; rất quan trọng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20979,
+      "questionNumber": 14,
+      "questionName": "Q14",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>____ the weather forecast, it will rain heavily later this morning.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65254,
+          "label": "A",
+          "text": "On account of",
+          "isCorrect": false
+        },
+        {
+          "id": 65255,
+          "label": "B",
+          "text": "According to",
+          "isCorrect": true
+        },
+        {
+          "id": 65256,
+          "label": "C",
+          "text": "Because of",
+          "isCorrect": false
+        },
+        {
+          "id": 65257,
+          "label": "D",
+          "text": "Due to",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65255,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BGHKLujGJ2Ckex4spRX3G9UyWETpMzGPUith8XK3DCcs1sk6a5H5uvNokJnSdBsqh%2BhahunNZWFsozbrIFZgaEHYKbfhnWqJPt%2FCstTYXuyX22JNpy001ZEwPkOja4yZGOASLzK48UsGoc5he%2FDF1yI7psymZscMfKSv%2BibE0nyxy3hJ%2BfZ2KyIeHto0d0I3SRS7sp%2B9Cs9vdZxh0byIB4YN9JI7%2BfIM0e9CP69EIfl8oro8n1LYEYr19MGTaCo%2BOpROxqez%2BVeuve0taR9BcioKXd3su4uKMr%2BAj%2FRXrzrKXXz7QHpnT1IPbcXft0N6xJcNH%2Boea0UYEv%2BOdcj4cpYBX5W0ILK5dsuHzVvh9MDgkRAbE35mdAu3kXqNIOBNtYqN0bR2Y3GMYFZJR81ITrwjyQLt5rRiy%2BM6VqntGIx5O1FEEG2QuS\" width=\"100%\" height=\"355\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Theo dự báo thời ti&ecirc;́t, sáng nay trời sẽ mưa to.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20980,
+      "questionNumber": 15,
+      "questionName": "Q15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I am familiar with that product. I don't know ____ times I've seen it advertised on TV.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65258,
+          "label": "A",
+          "text": "how many",
+          "isCorrect": true
+        },
+        {
+          "id": 65259,
+          "label": "B",
+          "text": "how often",
+          "isCorrect": false
+        },
+        {
+          "id": 65260,
+          "label": "C",
+          "text": "how much",
+          "isCorrect": false
+        },
+        {
+          "id": 65261,
+          "label": "D",
+          "text": "many often",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65258,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>times</strong> (pl.n): lần - (danh từ đếm được dạng số nhiều) =&gt; Sử dụng \"<strong>how many</strong>\" cho danh từ đ&ecirc;́m được.</p>\n<p>C&acirc;́u trúc: <strong>How many + N (đếm được số nhiều)...?</strong>: C&oacute; bao nhi&ecirc;u ...?</p>\n<p>Dịch:&nbsp;T&ocirc;i đ&atilde; quen với sản phẩm đ&oacute;. T&ocirc;i kh&ocirc;ng biết t&ocirc;i đ&atilde; thấy quảng c&aacute;o của n&oacute; bao nhi&ecirc;u lần tr&ecirc;n TV.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20981,
+      "questionNumber": 16,
+      "questionName": "Q16",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He lost the race because he _____ petrol on the last lap.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65262,
+          "label": "A",
+          "text": "got out of",
+          "isCorrect": false
+        },
+        {
+          "id": 65263,
+          "label": "B",
+          "text": "ran out of",
+          "isCorrect": true
+        },
+        {
+          "id": 65264,
+          "label": "C",
+          "text": "made out of",
+          "isCorrect": false
+        },
+        {
+          "id": 65265,
+          "label": "D",
+          "text": "put out of",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65263,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 450px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2FNRwuwNqoP5b%2B85ZFR0G25maLX5Tgjpex7HDXSsYBAExeFkzNbeVf3oDmccvU5BfPqM%2Buxl2PHkQ0XL2nQeYY5WVgeI4w72n0LniZMUsFbRMMcZwHgw8636uAwZ6crGbsYB%2F5Hq%2BdEPo9hzyf0g7esBOUQe3TSsMqKAqV9CFdm8x9Tt0E4TebCtZo7TMlnPssZJAzp5I7QzgaRRnbNEpDJb2Wx7GNOadNFE8ypLXN4zW4EmiwBhjZ4UttjnYlx%2BQR07EY3KyREap79d35Zuf3Vba4ojskT8cwT89vZNwbu1Y0tXzNyaB7K6dwRzUTfJ2JN676BoNPiYthduJydfOdiO%2BJM%2B4ilNJWEFNvUsagAAtstVX0LnrxAMXA1FHDDTmWSXPxcAbDOoQ%3D%3D\" width=\"100%\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>\"make out of\" và \"put out of\" kh&ocirc;ng t&ocirc;̀n tại.</p>\n<p>Dịch: Anh ta thua cuộc v&igrave; anh ta hết nhi&ecirc;n liệu ở v&ograve;ng đua cuối c&ugrave;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20983,
+      "questionNumber": 17,
+      "questionName": "Q17",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>John: \"How lovely your pets are!\"</strong></p>\n<p><strong>Peter: \"_____.\"</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65266,
+          "label": "A",
+          "text": "<p>I love them, too</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 65267,
+          "label": "B",
+          "text": "<p>Thank you, it's nice of you to say so</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 65268,
+          "label": "C",
+          "text": "<p>Can you say that again</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 65269,
+          "label": "D",
+          "text": "<p>Really? They are</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65267,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Lời thoại của John là một lời khen về thú cưng của Peter. Peter cần đáp lại lời khen đó một cách lịch sự và phù hợp.</p>\n<p>Hãy xem xét từng phương án và lựa chọn câu trả lời phù hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của John \"<em>How lovely your pets are!</em>\" (Thú cưng của bạn đáng yêu làm sao!) là một lời khen ngợi. Để đáp lại một lời khen, chúng ta cần bày tỏ sự cảm kích một cách lịch sự.</p>\n<p style=\"text-align: justify;\">Phương án 2, \"<em>Thank you, it's nice of you to say so</em>\" (Cảm ơn bạn, thật tốt bụng khi bạn nói vậy), là câu đáp phù hợp nhất vì nó thể hiện sự biết ơn và chấp nhận lời khen một cách trang trọng.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 3 và 4 đều không phù hợp trong ngữ cảnh này. Phương án 1 không đáp lại lời khen, phương án 3 thể hiện sự không nghe rõ, và phương án 4 thể hiện sự nghi ngờ hoặc ngạc nhiên không đúng lúc.</p>",
+      "answerFeedbacks": {
+        "65266": "<p>Lựa chọn này không phù hợp vì nó không đáp lại lời khen của John mà chỉ bày tỏ cảm xúc cá nhân của Peter về thú cưng của mình.</p>",
+        "65267": "<p>Đây là cách đáp lại lời khen một cách lịch sự và phù hợp trong tiếng Anh.</p>",
+        "65268": "<p>Lựa chọn này không phù hợp vì nó ngụ ý Peter không nghe rõ hoặc không hiểu lời nói của John, trong khi John đã nói rất rõ ràng.</p>",
+        "65269": "<p>Lựa chọn này không phù hợp vì nó thể hiện sự ngạc nhiên hoặc không tin vào lời khen, điều này có thể bị coi là thiếu lịch sự hoặc khó hiểu.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 20984,
+      "questionNumber": 18,
+      "questionName": "Q18",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>David: \"Thanks for your help, Mary.\"</strong></p>\n<p><strong>Mary: \"_____.\"</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65270,
+          "label": "A",
+          "text": "<p>With all my heart</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 65271,
+          "label": "B",
+          "text": "<p>It's my pleasure</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 65272,
+          "label": "C",
+          "text": "<p>Never mind me</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 65273,
+          "label": "D",
+          "text": "<p>Wish you</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65271,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Câu hỏi này đang hỏi về cách đáp lại một lời cảm ơn.</p>\n<p>Hãy tìm phương án phù hợp để trả lời khi ai đó cảm ơn bạn.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">David bày tỏ lòng biết ơn với Mary qua câu \"<em>Thanks for your help, Mary.</em>\" (Cảm ơn vì sự giúp đỡ của bạn, Mary.). Để đáp lại lời cảm ơn một cách lịch sự, Mary cần một câu thể hiện rằng việc giúp đỡ là niềm vui hoặc không có gì đáng kể.</p>\n<p style=\"text-align: justify;\">Phương án 2, \"<em>It's my pleasure</em>\" (Không có gì/Đó là niềm vinh hạnh của tôi), là cách đáp lại lời cảm ơn phổ biến và phù hợp nhất trong ngữ cảnh này.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 3 và 4 không phù hợp về mặt ngữ nghĩa và chức năng giao tiếp để đáp lại lời cảm ơn.</p>",
+      "answerFeedbacks": {
+        "65270": "<p>Câu này diễn tả sự chân thành, nhiệt huyết chứ không dùng để đáp lại lời cảm ơn.</p>",
+        "65271": "<p>Đây là cách đáp lại lời cảm ơn lịch sự và phổ biến, có nghĩa là <em>\"Đó là niềm vinh hạnh của tôi\"</em> hoặc <em>\"Không có gì\".</em></p>",
+        "65272": "<p>Câu này thường dùng để yêu cầu ai đó đừng bận tâm đến mình hoặc bỏ qua điều gì đó, không phù hợp để đáp lại lời cảm ơn.</p>",
+        "65273": "<p>Câu này chưa hoàn chỉnh và không có nghĩa trong ngữ cảnh đáp lại lời cảm ơn.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 20986,
+      "questionNumber": 19,
+      "questionName": "stay alive",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) which is CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>The lost hikers <span style=\"text-decoration: underline;\">stayed alive</span> by eating wild berries and drinking spring water.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65274,
+          "label": "A",
+          "text": "revived",
+          "isCorrect": false
+        },
+        {
+          "id": 65275,
+          "label": "B",
+          "text": "survived",
+          "isCorrect": true
+        },
+        {
+          "id": 65276,
+          "label": "C",
+          "text": "surprised",
+          "isCorrect": false
+        },
+        {
+          "id": 65277,
+          "label": "D",
+          "text": "lively",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65275,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>stay alive </strong>(phr.): sống s&oacute;t</p>\n<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2BDj8QNXCnkXesrdbAyjQD2WPmH%2Busm22sEPfw4l9ukD2m6K%2Bo1VZlk%2Fg9QFG6ECLBwC%2F08HOlYhUIfVmNzAIMR%2FB6drAfdyS9n5sKxG4hrVHlEqti%2BuPcFNtSSfhm0pTJVwUIDdh0v1sDq7wfh0QCZgK3vJpaKyMSLKjlVyl%2Bknjomo%2BLEmMUfhU9%2B%2BBp2i6bZa6dH3aJYhQ7%2F0XOECytbsf4sKGmL3%2FnulXoDzyuVpn1NgOK481GlTAfXyYSA3BHX9Le%2BNoVx31dYRKjCsunFVdI5b5IgVTgvado9rc99OrKQ7oQSlVvRBkgEI4mub8IGirVB%2F9NWxl%2BvxEDObjm7dQLmuUj7MKELce8k%2BHKAHDt5qQS%2BBfqKch0vX5DZynF7ShbnXAlskg%3D%3D\" width=\"100%\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Những người leo n&uacute;i bị lạc đ&atilde; sống s&oacute;t bằng c&aacute;ch ăn những quả d&acirc;u dại v&agrave; uống nước suối.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20987,
+      "questionNumber": 20,
+      "questionName": "take care of",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) which is CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>I am sorry I cannot go out with you now. I have to stay at home and <span style=\"text-decoration: underline;\">take care of</span> my younger brother.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65278,
+          "label": "A",
+          "text": "care on",
+          "isCorrect": false
+        },
+        {
+          "id": 65279,
+          "label": "B",
+          "text": "see off",
+          "isCorrect": false
+        },
+        {
+          "id": 65280,
+          "label": "C",
+          "text": "look after",
+          "isCorrect": true
+        },
+        {
+          "id": 65281,
+          "label": "D",
+          "text": "bear out",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65280,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 450px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2BXkyz2aq86OndzV3QEUt9vWsUXbvUyB578lHJNv0HbBVVZzz9aDYR6dtfmcRBnzTL9kBrm4NOcYjZeo2F3UaW1UUH6P21bBU8dv9xHI8Cled2fIZn9kN4zN6%2FLGH24%2FWqoFDPq%2Bbq865ifr0sGbvU995xj%2F950OGqGgCbhCsgHMwNydcre76Ws5MvUqDYuauf04AbGl8Lfx3UtBcsAI7lf9AFADHsl8S%2FC1uWdmmEakmi2TMYh9LBU%2F312V7kkviIluaIUrCKEojVHvnS1UpjnkcIXLsF0emlOGZBXg85klQFRtMiTMKdE0iFRfvSCn7jm0a8Bi8CiGEsAFXfj4mDxBf52zVFexoIdEnO34yXbS6Tf26i3wV7r9uVkGdZDzAZTed6P4EvKDLddntU7UGy0Rwelrt%2F9T5uE5ZoWCwG7lrt%2FxE0bAblU6e6xhzfJ5x2%2BeaUQVCw%2Bo4TLHeMl2B5zFEwp8qoYQtZtEWEXWLl4sV6dE4phqDaj94mspaPe7CfX23TqWNrkeQ%3D%3D\" width=\"100%\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>\"care on\" kh&ocirc;ng t&ocirc;̀n tại.</p>\n<p>Dịch: T&ocirc;i xin lỗi v&igrave; kh&ocirc;ng thể ra ngo&agrave;i với bạn b&acirc;y giờ. T&ocirc;i phải ở nh&agrave; tr&ocirc;ng em trai t&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20989,
+      "questionNumber": 21,
+      "questionName": "Q21",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>She had a <span style=\"text-decoration: underline;\">cozy</span> little apartment in Boston.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65282,
+          "label": "A",
+          "text": "uncomfortable",
+          "isCorrect": true
+        },
+        {
+          "id": 65283,
+          "label": "B",
+          "text": "warm",
+          "isCorrect": false
+        },
+        {
+          "id": 65284,
+          "label": "C",
+          "text": "necessary",
+          "isCorrect": false
+        },
+        {
+          "id": 65285,
+          "label": "D",
+          "text": "dirty",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65282,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX18lHk6HbZOMaluAlyHFpKHxdEiuMRMztLBVfjT9bwF6c9rqb%2FoUCRcM2VQDSQ1IMVEwM0Lbl41DEw5AyuX02%2BahcGvWsf%2FOdNyARKlzPF5923jGQbUIFeAsCR2UGd4va70%2FSfSGCluiKngJro5SFEwPOsMk34nclGNccCsM3gxF8HhtDVq8hGQTQB6Fs3ucYYyVtM%2BSWIEbhQ3%2Fux5kvVlI8gtVTQvRlJUU%2FYIunKuLEEUWujjALKpkq%2FmbAeuHBUJl6TKqEVCTXLcujxf40A5L6lZBV8Y0Qb8KAtc7bomSkCpkPAjaXitsY16lRZXVp3%2BwXtFO%2B4I68NP88fVJJMDwxEwopmu9ZY%2BFQAUN8K04y4go3GudWCtd\" width=\"380\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: C&ocirc; ấy c&oacute; một căn hộ nhỏ ấm c&uacute;ng ở Boston.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20990,
+      "questionNumber": 22,
+      "questionName": "Q22",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>We managed to get to school <span style=\"text-decoration: underline;\">in time</span> despite the heavy rain.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 65286,
+          "label": "A",
+          "text": "earlier than a particular moment",
+          "isCorrect": false
+        },
+        {
+          "id": 65287,
+          "label": "B",
+          "text": "later than expected",
+          "isCorrect": true
+        },
+        {
+          "id": 65288,
+          "label": "C",
+          "text": "early enough to do something",
+          "isCorrect": false
+        },
+        {
+          "id": 65289,
+          "label": "D",
+          "text": "as long as expected",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65287,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>in time</strong> (idm.): kịp giờ &gt;&lt; <strong>later than expected</strong>: muộn hơn mong muốn</p>\n<p>earlier than a particular moment: sớm hơn một khoảnh khắc cụ thể</p>\n<p>early enough to do something: đủ sớm để l&agrave;m gi đ&oacute;</p>\n<p>as long as expected: như dự kiến</p>\n<p>Dịch: Ch&uacute;ng t&ocirc;i cố gắng đến trường kịp giờ mặc d&ugrave; trời mưa to.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 808663,
+      "questionNumber": 23,
+      "questionName": "hoàn thành đoạn văn",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Read the passage and choose the correct word or phrase that best fits in each blank.</strong></p>\n<p style=\"text-align: justify;\">Maria Sklodowska was born in Warsaw, Poland, on 7th November, 1867. Her childhood was not <strong><span class='fillblank-option'><label>23.1</label><select class='ms fillblank-option-23' index='0' name='fbo-808663-0' data-testid='fillblank-select-808663-0'><option value='' data-testid='fillblank-option-empty-808663-0'></option><option value=\"an\" data-testid='fillblank-option-808663-0-an'>an</option><option value=\"∅\" data-testid='fillblank-option-808663-0-∅'>∅</option><option value=\"a\" data-testid='fillblank-option-808663-0-a'>a</option><option value=\"the\" data-testid='fillblank-option-808663-0-the'>the</option></select></span></strong> happy one. Her older sister died when she was nine and her mother passed away when she was eleven. Four years after the death of her mother, she left school. That was a difficult time, too. She couldn't go to university <strong><span class='fillblank-option'><label>23.2</label><select class='ms fillblank-option-23' index='1' name='fbo-808663-1' data-testid='fillblank-select-808663-1'><option value='' data-testid='fillblank-option-empty-808663-1'></option><option value=\"because\" data-testid='fillblank-option-808663-1-because'>because</option><option value=\"like\" data-testid='fillblank-option-808663-1-like'>like</option><option value=\"although\" data-testid='fillblank-option-808663-1-although'>although</option><option value=\"despite\" data-testid='fillblank-option-808663-1-despite'>despite</option></select></span></strong> universities in Poland were not open to women, so she taught herself.</p>\n<p style=\"text-align: justify;\">In 1891 Maria went to Paris to study Physics. She studied very well and got her degree in 1893. A year after she got degree in physics, she got a degree in maths, too. This was only a <strong><span class='fillblank-option'><label>23.3</label><select class='ms fillblank-option-23' index='2' name='fbo-808663-2' data-testid='fillblank-select-808663-2'><option value='' data-testid='fillblank-option-empty-808663-2'></option><option value=\"little\" data-testid='fillblank-option-808663-2-little'>little</option><option value=\"some\" data-testid='fillblank-option-808663-2-some'>some</option><option value=\"few\" data-testid='fillblank-option-808663-2-few'>few</option><option value=\"a few\" data-testid='fillblank-option-808663-2-a few'>a few</option></select></span></strong> weeks before she met a clever young man called Pierre Curie. They got married in 1895 and Maria became Marie Curie. The Curies had two daughters: Irene, born in 1897, and Eve, born in 1904. Before the <strong><span class='fillblank-option'><label>23.4</label><select class='ms fillblank-option-23' index='3' name='fbo-808663-3' data-testid='fillblank-select-808663-3'><option value='' data-testid='fillblank-option-empty-808663-3'></option><option value=\"born\" data-testid='fillblank-option-808663-3-born'>born</option><option value=\"birthday\" data-testid='fillblank-option-808663-3-birthday'>birthday</option><option value=\"bear\" data-testid='fillblank-option-808663-3-bear'>bear</option><option value=\"birth\" data-testid='fillblank-option-808663-3-birth'>birth</option></select></span></strong> of Irene, Marie started working with Pierre and together they discovered radium in 1898.</p>\n<p style=\"text-align: justify;\">In 1903, Marie and Pierre <strong><span class='fillblank-option'><label>23.5</label><select class='ms fillblank-option-23' index='4' name='fbo-808663-4' data-testid='fillblank-select-808663-4'><option value='' data-testid='fillblank-option-empty-808663-4'></option><option value=\"gave\" data-testid='fillblank-option-808663-4-gave'>gave</option><option value=\"won\" data-testid='fillblank-option-808663-4-won'>won</option><option value=\"made\" data-testid='fillblank-option-808663-4-made'>made</option><option value=\"took\" data-testid='fillblank-option-808663-4-took'>took</option></select></span></strong> the Nobel Prize for physics and they became very famous. Then, three years later, Pierre died and Marie's world changed forever.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "a"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "because"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "few"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "birth"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "won"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Danh từ \"<strong>childhood</strong>\" l&agrave; danh từ đếm được số &iacute;t, được nhắc tới lần đầu và c&oacute; ph&aacute;t &acirc;m bắt đầu bằng một phụ &acirc;m<strong> /ˈtʃaɪld.hʊd/</strong>. Do đ&oacute; cần sử dụng mạo từ <strong>a</strong>.</p>\n<p>Dịch: Maria Sklodowska sinh ra tại Warsaw, Ba Lan, v&agrave;o ng&agrave;y 7 th&aacute;ng 11 năm 1867. Tuổi thơ của b&agrave; kh&ocirc;ng mấy hạnh ph&uacute;c.</p>\n<p>2. <strong>because</strong> (conj.): bởi vì</p>\n<p>although (conj.): mặc dù</p>\n<p>like (conj.): giống, giống như</p>\n<p>despite (conj.): mặc dù</p>\n<p>Dịch: B&agrave; kh&ocirc;ng thể đi học đại học v&igrave; c&aacute;c trường đại học ở Ba Lan kh&ocirc;ng mở cửa cho phụ nữ, v&igrave; vậy b&agrave; đ&atilde; tự học.</p>\n<p>3. Danh từ \"<strong>weeks</strong>\" là danh từ đ&ecirc;́m được s&ocirc;́ nhi&ecirc;̀u, đằng trước danh từ có mạo từ \"<strong>a</strong>\" =&gt; chọn \"<strong>few</strong>\".</p>\n<p><strong>a few + N (s&ocirc;́ nhi&ecirc;̀u)</strong>: m&ocirc;̣t s&ocirc;́, m&ocirc;̣t vài</p>\n<p>a little + N (kh&ocirc;ng đ&ecirc;́m được): m&ocirc;̣t ít, m&ocirc;̣t chút</p>\n<p>some + N: m&ocirc;̣t s&ocirc;́; m&ocirc;̣t ít</p>\n<p>Dịch: Chỉ v&agrave;i tuần sau đ&oacute;, bà đ&atilde; gặp một ch&agrave;ng trai trẻ th&ocirc;ng minh t&ecirc;n l&agrave; Pierre Curie.</p>\n<p>4. Từ loại c&acirc;̀n đi&ecirc;̀n: danh từ, đằng sau mạo từ \"<strong>the</strong>\" và trước giới từ \"<strong>of</strong>\".</p>\n<p><strong>birth</strong> (n.): sự ra đời</p>\n<p>birthday (n.): ngày sinh nh&acirc;̣t</p>\n<p>born (v.): đã sinh ra</p>\n<p>bear (v.): sinh, đẻ</p>\n<p>Dịch: Trước khi Irene ch&agrave;o đời, Marie đ&atilde; bắt đầu l&agrave;m việc với Pierre v&agrave; họ cùng nhau ph&aacute;t hiện ra radium v&agrave;o năm 1898.</p>\n<p>5. <strong>win </strong>(v.): chi&ecirc;́n thắng =&gt; <strong>win a prize</strong>: giành giải thưởng</p>\n<p>give (v.): đưa, tặng</p>\n<p>take (v.): l&acirc;́y</p>\n<p>make (v.): tạo ra</p>\n<p>Dịch: Năm 1903, Marie v&agrave; Pierre đ&atilde; gi&agrave;nh giải Nobel Vật l&yacute; v&agrave; họ trở n&ecirc;n rất nổi tiếng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20997,
+      "questionNumber": 24,
+      "questionName": "reading(205w)",
+      "questionType": "Description",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">New York is called &#8220;the Big Apple&#8221;. Maybe it is not exactly like an apple, it&#8217;s certainly very big. <span class=\"answerhighlight q28\">There are too many people, that&#8217;s the problem. </span>The streets are always full of cars and trucks; you can never find a place to park.</p>\n<p style=\"text-align: justify;\">Travelling around is never easy in the city. <span class=\"answerhighlight qcab\">If you have enough money, you can take a taxi. New York cabs are yellow.</span> They look all the same. But the drivers are very different. Some were born and raised in New York, but many are newcomers to the United States.</p>\n<p style=\"text-align: justify;\">A few drive slowly, but most go very fast. Cab driving is a difficult job. It can be dangerous, too. <span class=\"answerhighlight qthief\">Thieves often try to steal the drivers&#8217; money. Drivers sometimes get hurt.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">If you don&#8217;t want to take a taxi, you can go by bus or you can take a <strong>subway</strong>.</span> <span class=\"answerhighlight q32\">The subway is quick and it&#8217;s cheap, but parts of it are old and dirty.</span> Lights don&#8217;t always work and there are often fires on the track. On some subway lines, there are new, clean, silver trains. But you can&#8217;t see the color of the old trains easily. There is too much dirt and too much graffiti, inside and outside.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20998,
+      "questionNumber": 25,
+      "questionName": "Q28",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What is the problem in New York?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">New York is called &#8220;the Big Apple&#8221;. Maybe it is not exactly like an apple, it&#8217;s certainly very big. <span class=\"answerhighlight q28\">There are too many people, that&#8217;s the problem. </span>The streets are always full of cars and trucks; you can never find a place to park.</p>\n<p style=\"text-align: justify;\">Travelling around is never easy in the city. <span class=\"answerhighlight qcab\">If you have enough money, you can take a taxi. New York cabs are yellow.</span> They look all the same. But the drivers are very different. Some were born and raised in New York, but many are newcomers to the United States.</p>\n<p style=\"text-align: justify;\">A few drive slowly, but most go very fast. Cab driving is a difficult job. It can be dangerous, too. <span class=\"answerhighlight qthief\">Thieves often try to steal the drivers&#8217; money. Drivers sometimes get hurt.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">If you don&#8217;t want to take a taxi, you can go by bus or you can take a <strong>subway</strong>.</span> <span class=\"answerhighlight q32\">The subway is quick and it&#8217;s cheap, but parts of it are old and dirty.</span> Lights don&#8217;t always work and there are often fires on the track. On some subway lines, there are new, clean, silver trains. But you can&#8217;t see the color of the old trains easily. There is too much dirt and too much graffiti, inside and outside.</p>",
+      "parentQuestionId": 20997,
+      "choices": [
+        {
+          "id": 65310,
+          "label": "A",
+          "text": "It has too many apples.",
+          "isCorrect": false
+        },
+        {
+          "id": 65311,
+          "label": "B",
+          "text": "It is too big.",
+          "isCorrect": false
+        },
+        {
+          "id": 65312,
+          "label": "C",
+          "text": "It looked like an apple.",
+          "isCorrect": false
+        },
+        {
+          "id": 65313,
+          "label": "D",
+          "text": "It is too crowded.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 65313,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&oacute; qu&aacute; nhiều người (ở New York), đ&oacute; l&agrave; vấn đề.</p>\n<p>=&gt; Vấn đề ở New York l&agrave; n&oacute; qu&aacute; đ&ocirc;ng đ&uacute;c.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 20999,
+      "questionNumber": 26,
+      "questionName": "Q29",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What does &quot;a cab&quot; mean?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">New York is called &#8220;the Big Apple&#8221;. Maybe it is not exactly like an apple, it&#8217;s certainly very big. <span class=\"answerhighlight q28\">There are too many people, that&#8217;s the problem. </span>The streets are always full of cars and trucks; you can never find a place to park.</p>\n<p style=\"text-align: justify;\">Travelling around is never easy in the city. <span class=\"answerhighlight qcab\">If you have enough money, you can take a taxi. New York cabs are yellow.</span> They look all the same. But the drivers are very different. Some were born and raised in New York, but many are newcomers to the United States.</p>\n<p style=\"text-align: justify;\">A few drive slowly, but most go very fast. Cab driving is a difficult job. It can be dangerous, too. <span class=\"answerhighlight qthief\">Thieves often try to steal the drivers&#8217; money. Drivers sometimes get hurt.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">If you don&#8217;t want to take a taxi, you can go by bus or you can take a <strong>subway</strong>.</span> <span class=\"answerhighlight q32\">The subway is quick and it&#8217;s cheap, but parts of it are old and dirty.</span> Lights don&#8217;t always work and there are often fires on the track. On some subway lines, there are new, clean, silver trains. But you can&#8217;t see the color of the old trains easily. There is too much dirt and too much graffiti, inside and outside.</p>",
+      "parentQuestionId": 20997,
+      "choices": [
+        {
+          "id": 65314,
+          "label": "A",
+          "text": "a truck",
+          "isCorrect": false
+        },
+        {
+          "id": 65315,
+          "label": "B",
+          "text": "a bus",
+          "isCorrect": false
+        },
+        {
+          "id": 65316,
+          "label": "C",
+          "text": "a taxi",
+          "isCorrect": true
+        },
+        {
+          "id": 65317,
+          "label": "D",
+          "text": "a plane",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65316,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Nếu bạn đủ tiền, bạn c&oacute; thể đi taxi. Xe taxi ở New York m&agrave;u v&agrave;ng.</p>\n<p>=&gt; \"<strong>cab</strong>\" c&oacute; nghĩa l&agrave; <strong>xe taxi</strong>.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 21000,
+      "questionNumber": 27,
+      "questionName": "Q30",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Cab drivers in New York ______.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">New York is called &#8220;the Big Apple&#8221;. Maybe it is not exactly like an apple, it&#8217;s certainly very big. <span class=\"answerhighlight q28\">There are too many people, that&#8217;s the problem. </span>The streets are always full of cars and trucks; you can never find a place to park.</p>\n<p style=\"text-align: justify;\">Travelling around is never easy in the city. <span class=\"answerhighlight qcab\">If you have enough money, you can take a taxi. New York cabs are yellow.</span> They look all the same. But the drivers are very different. Some were born and raised in New York, but many are newcomers to the United States.</p>\n<p style=\"text-align: justify;\">A few drive slowly, but most go very fast. Cab driving is a difficult job. It can be dangerous, too. <span class=\"answerhighlight qthief\">Thieves often try to steal the drivers&#8217; money. Drivers sometimes get hurt.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">If you don&#8217;t want to take a taxi, you can go by bus or you can take a <strong>subway</strong>.</span> <span class=\"answerhighlight q32\">The subway is quick and it&#8217;s cheap, but parts of it are old and dirty.</span> Lights don&#8217;t always work and there are often fires on the track. On some subway lines, there are new, clean, silver trains. But you can&#8217;t see the color of the old trains easily. There is too much dirt and too much graffiti, inside and outside.</p>",
+      "parentQuestionId": 20997,
+      "choices": [
+        {
+          "id": 65318,
+          "label": "A",
+          "text": "can be dangerous",
+          "isCorrect": false
+        },
+        {
+          "id": 65319,
+          "label": "B",
+          "text": "look the same",
+          "isCorrect": false
+        },
+        {
+          "id": 65320,
+          "label": "C",
+          "text": "can be attacked by thieves",
+          "isCorrect": true
+        },
+        {
+          "id": 65321,
+          "label": "D",
+          "text": "were all born in New York",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65320,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Những t&ecirc;n trộm thường cố gắng lấy trộm tiền của t&agrave;i xế. C&aacute;c t&agrave;i xế đ&ocirc;i khi bị thương.</p>\n<p>=&gt; T&agrave;i xế xe taxi ở New York c&oacute; thể bị tấn c&ocirc;ng bởi những t&ecirc;n trộm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 21001,
+      "questionNumber": 28,
+      "questionName": "Q31",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &quot;subway&quot; can best be replaced by ______.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">New York is called &#8220;the Big Apple&#8221;. Maybe it is not exactly like an apple, it&#8217;s certainly very big. <span class=\"answerhighlight q28\">There are too many people, that&#8217;s the problem. </span>The streets are always full of cars and trucks; you can never find a place to park.</p>\n<p style=\"text-align: justify;\">Travelling around is never easy in the city. <span class=\"answerhighlight qcab\">If you have enough money, you can take a taxi. New York cabs are yellow.</span> They look all the same. But the drivers are very different. Some were born and raised in New York, but many are newcomers to the United States.</p>\n<p style=\"text-align: justify;\">A few drive slowly, but most go very fast. Cab driving is a difficult job. It can be dangerous, too. <span class=\"answerhighlight qthief\">Thieves often try to steal the drivers&#8217; money. Drivers sometimes get hurt.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">If you don&#8217;t want to take a taxi, you can go by bus or you can take a <strong>subway</strong>.</span> <span class=\"answerhighlight q32\">The subway is quick and it&#8217;s cheap, but parts of it are old and dirty.</span> Lights don&#8217;t always work and there are often fires on the track. On some subway lines, there are new, clean, silver trains. But you can&#8217;t see the color of the old trains easily. There is too much dirt and too much graffiti, inside and outside.</p>",
+      "parentQuestionId": 20997,
+      "choices": [
+        {
+          "id": 65322,
+          "label": "A",
+          "text": "underground",
+          "isCorrect": true
+        },
+        {
+          "id": 65323,
+          "label": "B",
+          "text": "station",
+          "isCorrect": false
+        },
+        {
+          "id": 65324,
+          "label": "C",
+          "text": "light bulb",
+          "isCorrect": false
+        },
+        {
+          "id": 65325,
+          "label": "D",
+          "text": "platform",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65322,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>subway </strong>(n.) <strong>~</strong>&nbsp;<strong>underground </strong>(n.): t&agrave;u điện ngầm</p>\n<p>station (n.): nh&agrave; ga</p>\n<p>light bulb (n.): b&oacute;ng điện</p>\n<p>platform (n.): nh&agrave; ga&nbsp;</p>\n<p>Dịch: Nếu bạn kh&ocirc;ng muốn đi taxi, bạn c&oacute; thể đi bằng xe bu&yacute;t hoặc bạn c&oacute; thể đi t&agrave;u điện ngầm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 21002,
+      "questionNumber": 29,
+      "questionName": "Q32",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Subways in New York _____.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">New York is called &#8220;the Big Apple&#8221;. Maybe it is not exactly like an apple, it&#8217;s certainly very big. <span class=\"answerhighlight q28\">There are too many people, that&#8217;s the problem. </span>The streets are always full of cars and trucks; you can never find a place to park.</p>\n<p style=\"text-align: justify;\">Travelling around is never easy in the city. <span class=\"answerhighlight qcab\">If you have enough money, you can take a taxi. New York cabs are yellow.</span> They look all the same. But the drivers are very different. Some were born and raised in New York, but many are newcomers to the United States.</p>\n<p style=\"text-align: justify;\">A few drive slowly, but most go very fast. Cab driving is a difficult job. It can be dangerous, too. <span class=\"answerhighlight qthief\">Thieves often try to steal the drivers&#8217; money. Drivers sometimes get hurt.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">If you don&#8217;t want to take a taxi, you can go by bus or you can take a <strong>subway</strong>.</span> <span class=\"answerhighlight q32\">The subway is quick and it&#8217;s cheap, but parts of it are old and dirty.</span> Lights don&#8217;t always work and there are often fires on the track. On some subway lines, there are new, clean, silver trains. But you can&#8217;t see the color of the old trains easily. There is too much dirt and too much graffiti, inside and outside.</p>",
+      "parentQuestionId": 20997,
+      "choices": [
+        {
+          "id": 65326,
+          "label": "A",
+          "text": "have no lights",
+          "isCorrect": false
+        },
+        {
+          "id": 65327,
+          "label": "B",
+          "text": "are clothes",
+          "isCorrect": false
+        },
+        {
+          "id": 65328,
+          "label": "C",
+          "text": "are quick but dirty",
+          "isCorrect": true
+        },
+        {
+          "id": 65329,
+          "label": "D",
+          "text": "often cause fires",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 65328,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>T&agrave;u điện ngầm nhanh v&agrave; rẻ, nhưng c&aacute;c bộ phận của n&oacute; th&igrave; cũ v&agrave; bẩn.</p>\n<p>=&gt; T&agrave;u điện ngầm ở New York nhanh nhưng bẩn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 146213,
+      "questionNumber": 30,
+      "questionName": "4",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>I last met him 3 years ago. </strong></p>\n<p><strong>=&gt; I haven't ............</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "I haven't met him for 3 years."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + (last) + V(pt) + mốc/khoảng thời gian + ago</strong>: (Lần cuối) ai đ&oacute; l&agrave;m g&igrave; v&agrave;o l&uacute;c n&agrave;o &nbsp;</p>\n<p>~ <strong>S + have/ has + not + V(pp) +&hellip;+ since + S + V(pt)</strong>: Ai đ&oacute; đ&atilde; kh&ocirc;ng l&agrave;m g&igrave; kể từ khi n&agrave;o</p>\n<p>Dịch: L&acirc;̀n cu&ocirc;́i t&ocirc;i gặp anh &acirc;́y là vào 3 năm trước.</p>\n<p>~ Đã 3 năm r&ocirc;̀i t&ocirc;i kh&ocirc;ng gặp anh &acirc;́y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 146211,
+      "questionNumber": 31,
+      "questionName": "3",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>I don't have money and I can't buy that shirt. </strong></p>\n<p><strong>=&gt; If I ............</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "If I had money, I could buy that shirt."
+      ],
+      "hint": "",
+      "explanation": "<p>C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</p>\n<p>Cấu tr&uacute;c:<strong> If + S + V(pt), S + would/could/might/... + V(inf)&nbsp;</strong></p>\n<p>Dịch: T&ocirc;i kh&ocirc;ng c&oacute; tiền v&agrave; t&ocirc;i kh&ocirc;ng thể mua chiếc &aacute;o đ&oacute;.</p>\n<p>~ Nếu t&ocirc;i c&oacute; tiền, t&ocirc;i c&oacute; thể mua chiếc &aacute;o đ&oacute;.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 145799,
+      "questionNumber": 32,
+      "questionName": "advised",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>&quot;If I were you, I wouldn't buy this coat,&quot; she said. </strong></p>\n<p><strong>=&gt; She advised ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "She advised that I shouldn't buy that coat.",
+        "She advised me not to buy that coat."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u điều kiện loại 2 \"<strong>If I were you,...</strong>\": Nếu t&ocirc;i l&agrave; bạn... =&gt; Mang &yacute; khuy&ecirc;n bảo</p>\n<p>Cấu tr&uacute;c với <strong>\"advise\"</strong>: <strong>advise + sb + (not) + to + V + ... </strong></p>\n<p><strong>~ advise + that + S + (should) + (not) + V(inf) + ... </strong></p>\n<p><strong>~ advise + sb + against N/V-ing&nbsp;</strong></p>\n<p>Dịch: \"Nếu t&ocirc;i l&agrave; bạn, t&ocirc;i đ&atilde; kh&ocirc;ng mua chiếc &aacute;o kho&aacute;c đ&oacute;,\" c&ocirc; ấy n&oacute;i với t&ocirc;i.</p>\n<p>~ C&ocirc; ấy khuy&ecirc;n t&ocirc;i kh&ocirc;ng mua chiếc &aacute;o kho&aacute;c đ&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 147050,
+      "questionNumber": 33,
+      "questionName": "Nobody has invited her to the party.",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Nobody has invited her to the party. </strong></p>\n<p><strong>=&gt; She ............</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "She hasn't been invited to the party."
+      ],
+      "hint": "",
+      "explanation": "<p>C&acirc;u đề b&agrave;i c&oacute; \"<strong>nobody</strong>\" mang &yacute; phủ định. =&gt; C&acirc;u viết lại cũng phải thể hiện &yacute; phủ định.</p>\n<p>Chủ ngữ \"<strong>she</strong>\" bị t&aacute;c động bởi h&agrave;nh động \"<strong>invite</strong>\". =&gt; Động từ phải ở dạng bị động.</p>\n<p>Cấu tr&uacute;c bị động ở th&igrave; hiện tại ho&agrave;n th&agrave;nh: <strong>S + have/has + been + V(pp) + (by O)</strong></p>\n<p>Dịch: Kh&ocirc;ng ai mời c&ocirc; ấy đến bữa tiệc.</p>\n<p>~ C&ocirc; ấy đ&atilde; kh&ocirc;ng được mời đến bữa tiệc.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 146219,
+      "questionNumber": 34,
+      "questionName": "8",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has a similar meaning to the first one, using the word given in brackets.</em></p>\n<p><strong>The Smiths were given rooms in the hotel. Their house had been destroyed in the explosion. (WHOSE)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "The Smiths, whose house had been destroyed in the explosion, were given rooms in the hotel."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\"><strong>whose + N</strong>: chỉ sự sở hữu cho danh từ \"<strong>house</strong>\", thay thế cho t&iacute;nh từ sở hữu \"<strong>their</strong>\".</span></p>\n<p>\"<strong>The Smiths</strong>\" l&agrave; danh từ đ&atilde; x&aacute;c định. =&gt; Sử dụng mệnh đề quan hệ kh&ocirc;ng x&aacute;c định.</p>\n<p>Dịch: Gia đ&igrave;nh nh&agrave; Smith được cấp chỗ ở trong kh&aacute;ch sạn. Nh&agrave; của họ đ&atilde; bị ph&aacute; hủy trong vụ nổ.</p>\n<p>~ Gia đ&igrave;nh nh&agrave; Smith, những người m&agrave; c&oacute; nh&agrave; đ&atilde; bị ph&aacute; hủy trong vụ nổ, được cấp chỗ ở trong kh&aacute;ch sạn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 146091,
+      "questionNumber": 35,
+      "questionName": "The sun shone very brightly. Maria had to put on her sunglasses. (so)",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has a similar meaning to the first one, using the word given in brackets.</em></p>\n<p><strong>The sun shone very brightly. Maria had to put on her sunglasses. (SO)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "The sun shone very brightly, so Maria had to put on her sunglasses.",
+        "The sun shone so brightly that Maria had to put on her sunglasses."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so ... that: <strong>S + to be/V + so + adj./adv. + that + S ​+ V: </strong>qu&aacute;&hellip; đến nỗi m&agrave;&hellip;</span></p>\n<p><strong>so </strong>(conj.): v&igrave; thế</p>\n<p>Dịch: Mặt trời chiếu s&aacute;ng rất rực rỡ. Maria phải đeo k&iacute;nh r&acirc;m.</p>\n<p>~ Mặt trời chiếu s&aacute;ng qu&aacute;, v&igrave; thế Maria phải đeo k&iacute;nh r&acirc;m.</p>\n<p>~ Mặt trời s&aacute;ng ch&oacute;i đến nỗi Maria phải đeo k&iacute;nh r&acirc;m.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 146032,
+      "questionNumber": 36,
+      "questionName": "I do more exercises. I can remember more new words. (The)",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has a similar meaning to the first one, using the word given in brackets.</em></p>\n<p><strong>I do more exercises. I can remember more new words. (THE)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "The more exercises I do, the more new words I can remember."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh k&eacute;p kh&ocirc;ng d&ugrave;ng với t&iacute;nh từ/trạng từ (c&agrave;ng...c&agrave;ng):&nbsp;<strong>The + more/less/fewer + (N) + S + V, the + more/less/fewer + (N) + S2 + V2.</strong></span></p>\n<p>Dịch: T&ocirc;i l&agrave;m nhiều b&agrave;i tập hơn. T&ocirc;i c&oacute; thể nhớ nhiều từ mới hơn.</p>\n<p>~ T&ocirc;i c&agrave;ng l&agrave;m nhiều b&agrave;i tập, t&ocirc;i c&agrave;ng nhớ nhiều từ mới.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 147051,
+      "questionNumber": 37,
+      "questionName": "wish",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has a similar meaning to the first one, using the word given in brackets.</em></p>\n<p><strong>I regret now. I didn't invite her to my birthday party last week. (WISH)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "I wish that I had invited her to my birthday party last week."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c </span><strong>\"wish\"</strong><span style=\"font-weight: 400;\"> thể hiện những ước mu&ocirc;́n kh&ocirc;ng có th&acirc;̣t trong quá khứ, giả định m&ocirc;̣t đi&ecirc;̀u trái ngược với sự th&acirc;̣t trong quá khứ.</span></p>\n<p>Cấu tr&uacute;c: <strong>S + wish + S + had + V(pp) + O</strong></p>\n<p>Dịch: B&acirc;y giờ t&ocirc;i h&ocirc;́i h&acirc;̣n r&ocirc;̀i. T&ocirc;i đã kh&ocirc;ng mời c&ocirc; &acirc;́y tới dự bữa ti&ecirc;̣c sinh nh&acirc;̣t của mình vào tu&acirc;̀n trước.</p>\n<p>~ T&ocirc;i ước l&agrave; t&ocirc;i đ&atilde; mời c&ocirc; ấy đến bữa tiệc sinh nhật của m&igrave;nh tuần trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

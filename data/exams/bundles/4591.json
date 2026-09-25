@@ -1,0 +1,1600 @@
+{
+  "id": 4591,
+  "title": "Đề số 13 ôn luyện vào 10 môn Anh Sở Hà Nội ",
+  "year": 2024,
+  "categoryId": 170,
+  "categoryName": "Đề luyện thi vào 10 môn Anh Sở Hà Nội từ năm 2024 trở về trước",
+  "timeLimit": 60,
+  "totalPoint": 40,
+  "questionCount": 37,
+  "author": "Tổ GV Tiếng Anh - TA12",
+  "description": "",
+  "createdAt": "2026-09-24T14:49:34.976Z",
+  "questions": [
+    {
+      "id": 41193,
+      "questionNumber": 1,
+      "questionName": "Question 1.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 120612,
+          "label": "A",
+          "text": "pass<u>ed</u>",
+          "isCorrect": false
+        },
+        {
+          "id": 120613,
+          "label": "B",
+          "text": "watch<u>ed</u>",
+          "isCorrect": false
+        },
+        {
+          "id": 120614,
+          "label": "C",
+          "text": "play<u>ed</u>",
+          "isCorrect": true
+        },
+        {
+          "id": 120615,
+          "label": "D",
+          "text": "wash<u>ed</u>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 120614,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y nhớ lại quy tắc ph&aacute;t &acirc;m đu&ocirc;i <em>\"-ed\"</em> của động từ c&oacute; quy tắc, c&aacute;ch ph&aacute;t &acirc;m n&agrave;y phụ thuộc v&agrave;o &acirc;m cuối của động từ gốc.</p>\n<ul>\n<li>Nếu &acirc;m cuối l&agrave; &acirc;m v&ocirc; thanh (như trong <em>\"look\"</em>, <em>\"stop\"</em>), đu&ocirc;i <em>\"-ed\"</em> sẽ được ph&aacute;t &acirc;m l&agrave; /t/.</li>\n<li>Nếu &acirc;m cuối l&agrave; &acirc;m hữu thanh (như trong <em>\"love\"</em>, <em>\"call\"</em>), đu&ocirc;i <em>\"-ed\"</em> sẽ được ph&aacute;t &acirc;m l&agrave; /d/.</li>\n</ul>",
+      "explanation": "<p>Phần gạch ch&acirc;n trong từ \"<strong>play<span style=\"text-decoration: underline;\">ed</span></strong>\" được ph&aacute;t &acirc;m l&agrave; <strong>/d/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/t/</strong>.</p>\n<p><strong>played /pleɪd/ (v.): chơi&nbsp;</strong></p>\n<p>passed /pɑːst/ (v.): qua, vượt qua</p>\n<p>watched /wɒtʃt/ (v.): xem</p>\n<p>washed /wɒʃt/ (v.): rửa, giặt</p>",
+      "answerFeedbacks": {
+        "120612": "<p>&Acirc;m cuối của động từ gốc <em>\"pass\"</em> l&agrave; /s/ &ndash; một &acirc;m v&ocirc; thanh, n&ecirc;n đu&ocirc;i <em>\"-ed\"</em> ph&aacute;t &acirc;m l&agrave; /t/.</p>",
+        "120613": "<p>&Acirc;m cuối của động từ gốc <em>\"watch\"</em> l&agrave; /tʃ/ &ndash; một &acirc;m v&ocirc; thanh, n&ecirc;n đu&ocirc;i <em>\"-ed\"</em> ph&aacute;t &acirc;m l&agrave; /d/.</p>",
+        "120614": "<p>&Acirc;m cuối của động từ gốc <em>\"play\"</em> l&agrave; /eɪ/ &ndash; một &acirc;m hữu thanh, n&ecirc;n đu&ocirc;i <em>\"-ed\"</em> ph&aacute;t &acirc;m l&agrave; /t/.</p>",
+        "120615": "<p>&Acirc;m cuối của động từ gốc <em>\"wash\"</em> l&agrave; /ʃ/ &ndash; một &acirc;m v&ocirc; thanh, n&ecirc;n đu&ocirc;i <em>\"-ed\"</em> ph&aacute;t &acirc;m l&agrave; /d/.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 41194,
+      "questionNumber": 2,
+      "questionName": "Question 2.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 120616,
+          "label": "A",
+          "text": "pr<u>ou</u>d",
+          "isCorrect": false
+        },
+        {
+          "id": 120617,
+          "label": "B",
+          "text": "ab<u>ou</u>t",
+          "isCorrect": false
+        },
+        {
+          "id": 120618,
+          "label": "C",
+          "text": "ar<u>ou</u>nd",
+          "isCorrect": false
+        },
+        {
+          "id": 120619,
+          "label": "D",
+          "text": "w<u>ou</u>ld",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 120619,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>\"ou\"</strong> trong từ<strong> \"would\"</strong> được ph&aacute;t &acirc;m th&agrave;nh <strong>/ʊ/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/aʊ/</strong>.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BLVGU2diyUY%2FVe%2FFzF7z5GSY6WPri4LSG8BXR8pT3fuOWLPf3yuVD%2Fj1dFw8EpRkXvUKvX8xngkIcVjUm0c1xeMdu0lNIcK%2B%2Baia5a%2FQA%2BdY37PliYFj%2FJ0t8MJ3XeSPiF1KyH%2B87eb64gWcHOi2n9WX9Fp3Se5yaAdOE%2BsFvmDfgytPNZCCrJ6ZhftuG4xwGzDSmDNs1IbdQBl0S4Gc4QUQ7pcdtac7Kiowcxvtr7%2B%2FWs8LHdiCwqOF9egSnA8ikZnMGiUekUYf9LyD9V%2BWrd5clVDsAvyJk4GmqXNLBPm0sMHtBCqOxiycyz87S359Zf8c672DzI3bJTheXtIhbsG54X3H0zKN0%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 451109,
+      "questionNumber": 3,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 904827,
+          "label": "A",
+          "text": "garbage",
+          "isCorrect": false
+        },
+        {
+          "id": 904828,
+          "label": "B",
+          "text": "standard",
+          "isCorrect": false
+        },
+        {
+          "id": 904829,
+          "label": "C",
+          "text": "suggest",
+          "isCorrect": true
+        },
+        {
+          "id": 904830,
+          "label": "D",
+          "text": "lunar",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 904829,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Từ </span>\"<strong>suggest</strong>\"<span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ 2</span><span style=\"font-weight: 400;\">, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ</span> nhất.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18n56JNajCBchM0X6dqEVjBmDN2YoBjLEOLRpvnK%2B%2BtYoOQeQGdAbs272udZ%2BbSynXSHttqAsJR3AZQIUeIwOMs%2FvYyJLnlY5rMUZl5Ioq4vd9hoXG2nXgEWxU12YV%2FmijytPPAhJAjN44bcFpvKzgIxRNhcO81FLib1AEQ2VQJDIqn3A3pUH67QjtgH6Kj7u9gydOE%2Bi1Gr5sOdsjwa%2BoJ0P8v1RZ41WWQadL6oPF49zolGMq9g74jpMPYt7nanGmrSsIM2TrOE1Pxp%2FJzoM5gpMoScBmQ%2BHamsJP4cn8ghZtzXSBpaWVac2KVtyz5Zjgi2ARxr3xAi%2BqUimoIIBEyXft6icCiYww%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 284978,
+      "questionNumber": 4,
+      "questionName": "4 ",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Choose the word that differs from the rest in the position of the main stress.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 625663,
+          "label": "A",
+          "text": "media",
+          "isCorrect": false
+        },
+        {
+          "id": 625664,
+          "label": "B",
+          "text": "effect",
+          "isCorrect": true
+        },
+        {
+          "id": 625665,
+          "label": "C",
+          "text": "measure",
+          "isCorrect": false
+        },
+        {
+          "id": 625666,
+          "label": "D",
+          "text": "wonder",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 625664,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ \"<strong>effect</strong>\" c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ 2, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18R9%2FgTWBr6M%2BxboQi0yYfL0aXfQDewyTrNTBSv%2BTcmphUOeZvmLDXiaGBDXIeheMhhrugGJWvCVesgj7myGk%2F2UPrrksOW5SqaFXV751fTo4u61dIjL01ReQDOCPtmU0kqq8khjleHxN5ybZ%2Fj6yyhI77T8kqJC0h5lOPKz9s0DmNZkuC64hCc1Q0CvDF45t0MAed1v8p094ODWcfWtplYNaopHyUle6jZfDB94h856XP8jxtd%2B3%2BGmsWhu4W7Zkw5F%2FrUpyKNMOryZ4LaRiRf2bbJo1Rda9C7FotkNEqjLYEaBrRGa2wbASpe2nogneKQ2DOvhs8ESm69fBoZqrM%2FkBp2IWzb%2FJc%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 41246,
+      "questionNumber": 5,
+      "questionName": "Question 1.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><u>The</u> picture <u>was painting</u> <u>by</u> Michael <u>last year</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 120813,
+          "label": "A",
+          "text": "The",
+          "isCorrect": false
+        },
+        {
+          "id": 120814,
+          "label": "B",
+          "text": "<p>was painting</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 120815,
+          "label": "C",
+          "text": "by",
+          "isCorrect": false
+        },
+        {
+          "id": 120816,
+          "label": "D",
+          "text": "last year",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 120814,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra chức năng của mạo từ <em>\"The\"</em> trước danh từ.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét chủ ngữ <em>\"The picture\"</em> có tự thực hiện hành động <em>\"paint\"</em> hay không và cần chia động từ ở thể chủ động hay bị động ở thì nào.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xác định cách dùng của giới từ <em>\"by\"</em> trong câu bị động.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra vai trò của cụm trạng ngữ thời gian <em>\"last year\"</em> trong câu.</li>\n</ul>\n<p style=\"text-align: justify;\">Đối chiếu từng quy tắc trên với câu gốc để tìm ra phần cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thể bị động ở thì quá khứ đơn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một hành động xảy ra trong quá khứ mà chủ thể thực hiện hành động không được nhắc đến hoặc không quan trọng, thay vào đó, đối tượng chịu tác động của hành động được nhấn mạnh.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + was/were + V(pp) + (by O) + (adv. of time/place)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, chủ ngữ <em>\"The picture\"</em> (bức tranh) là vật, không thể tự thực hiện hành động <em>\"paint\"</em> (vẽ). Cụm <em>\"by Michael\"</em> chỉ tác nhân và <em>\"last year\"</em> chỉ thời gian trong quá khứ, cho thấy câu cần sử dụng thể bị động ở thì quá khứ đơn. Vì vậy, <em>\"was painting\"</em> (quá khứ tiếp diễn chủ động) là sai.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>was painting</strong></em>\" =&gt; \"<em><strong>was painted</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "120813": "<p>Mạo từ <em>\"The\"</em> được sử dụng đúng để chỉ vật đã xác định (<em>\"The picture\"</em>).</p>",
+        "120814": "<p>Đây là dạng thì quá khứ tiếp diễn chủ động, không phù hợp với chủ ngữ là vật và ngữ cảnh bị động của câu.</p>",
+        "120815": "Giới từ <em>\"by\"</em> được dùng chính xác để chỉ tác nhân thực hiện hành động trong câu bị động.",
+        "120816": "Cụm trạng ngữ chỉ thời gian <em>\"last year\"</em> được sử dụng đúng để xác định thời điểm hành động xảy ra trong quá khứ."
+      },
+      "images": []
+    },
+    {
+      "id": 41264,
+      "questionNumber": 6,
+      "questionName": "Question 19 ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Thank you <u>for</u> <u>looking up</u> <u>the children</u> while I was <u>out</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 120885,
+          "label": "A",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 120886,
+          "label": "B",
+          "text": "looking up",
+          "isCorrect": true
+        },
+        {
+          "id": 120887,
+          "label": "C",
+          "text": "the children",
+          "isCorrect": false
+        },
+        {
+          "id": 120888,
+          "label": "D",
+          "text": "out",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 120886,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>take care of = look after</strong> : chăm s&oacute;c, tr&ocirc;ng nom</p>\n<p>=&gt; đổi <strong>\"looking up\"</strong> th&agrave;nh <strong>\"looking after\"</strong></p>\n<p>Dịch: Cảm ơn v&igrave; đ&atilde; tr&ocirc;ng bọn trẻ khi t&ocirc;i ra ngo&agrave;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 117256,
+      "questionNumber": 7,
+      "questionName": "Q6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Tim and Tam <u>should be</u> encouraged <u>to discuss</u> analytically <u>with</u> the project that they <u>are given</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 279022,
+          "label": "A",
+          "text": "should be",
+          "isCorrect": false
+        },
+        {
+          "id": 279023,
+          "label": "B",
+          "text": "to discuss",
+          "isCorrect": false
+        },
+        {
+          "id": 279024,
+          "label": "C",
+          "text": "with",
+          "isCorrect": true
+        },
+        {
+          "id": 279025,
+          "label": "D",
+          "text": "are given",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 279024,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>discuss sth</strong>: thảo luận về vấn đề g&igrave;</p>\n<p>=&gt; Bỏ <strong>\"with\"</strong></p>\n<p>Dịch: Tim v&agrave; T&acirc;m n&ecirc;n được khuyến kh&iacute;ch để thảo luận ph&acirc;n t&iacute;ch <span style=\"text-decoration: underline;\">về</span> dự &aacute;n m&agrave; họ được đưa ra.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 118836,
+      "questionNumber": 8,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>- &quot;John's broken this plate.&quot; </strong></p>\n<p><strong>- &quot;_____&quot;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 281020,
+          "label": "A",
+          "text": "<p>That's very good.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 281021,
+          "label": "B",
+          "text": "<p>Here you are.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 281022,
+          "label": "C",
+          "text": "<p>It doesn't matter.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 283615,
+          "label": "D",
+          "text": "<p>How good it is!</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 281022,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Mục đ&iacute;ch giao tiếp của lời n&oacute;i \"<em>John's broken this plate.</em>\" l&agrave; th&ocirc;ng b&aacute;o về một sự cố nhỏ.</p>\n<p style=\"text-align: justify;\">H&atilde;y t&igrave;m một c&acirc;u đ&aacute;p thể hiện sự trấn an hoặc kh&ocirc;ng quan trọng h&oacute;a vấn đề n&agrave;y. Đối chiếu từng phương &aacute;n với mục đ&iacute;ch n&agrave;y để chọn c&acirc;u ph&ugrave; hợp nhất.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span></p>\n<p style=\"text-align: justify;\">Lượt lời đầu ti&ecirc;n l&agrave; lời th&ocirc;ng b&aacute;o về một sự cố nhỏ: \"<em>John's broken this plate.</em>\" (John đ&atilde; l&agrave;m vỡ c&aacute;i đĩa n&agrave;y rồi). Trong ngữ cảnh n&agrave;y, người n&oacute;i đang b&agrave;y tỏ sự hối lỗi hoặc th&ocirc;ng b&aacute;o một tin kh&ocirc;ng vui. V&igrave; vậy, lời đ&aacute;p cần thể hiện sự trấn an, kh&ocirc;ng quan trọng h&oacute;a vấn đề hoặc tha thứ.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 3, \"<em>It doesn't matter.</em>\" (Kh&ocirc;ng sao đ&acirc;u/Kh&ocirc;ng th&agrave;nh vấn đề), l&agrave; lời đ&aacute;p ph&ugrave; hợp nhất để trấn an người n&oacute;i.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n 1, 2 v&agrave; 4 đều kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh th&ocirc;ng b&aacute;o sự cố v&agrave; trấn an.</p>",
+      "answerFeedbacks": {
+        "281020": "<p>Không phù hợp vì đây là lời khen, không phải phản ứng với tin xấu.</p>",
+        "281021": "<p>Không phù hợp vì cụm từ này dùng khi đưa một vật gì đó cho ai.</p>",
+        "281022": "<p>Phù hợp vì đây là cách trấn an, thể hiện sự không quan trọng hóa vấn đề khi ai đó gây ra lỗi nhỏ.</p>",
+        "283615": "<p>Không phù hợp vì đây là lời cảm thán khen ngợi, không đúng ngữ cảnh.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 119243,
+      "questionNumber": 9,
+      "questionName": "48",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>\"What time did the meeting end?\" - \"_____.\"</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 281546,
+          "label": "A",
+          "text": "<p>In a minute</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 281547,
+          "label": "B",
+          "text": "<p>For half an hour</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 281548,
+          "label": "C",
+          "text": "<p>Just before lunch</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 332829,
+          "label": "D",
+          "text": "<p>Next time</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 281548,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Câu hỏi <em>\"What time...?\"</em> đang hỏi về thời điểm cụ thể mà một sự kiện đã kết thúc.</p>\n<p style=\"text-align: justify;\">Hãy xem xét các phương án trả lời và xác định phương án nào cung cấp thông tin về một mốc thời gian cụ thể trong quá khứ.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Câu hỏi <em>\"What time did the meeting end?\"</em> (Cuộc họp kết thúc lúc mấy giờ?) yêu cầu thông tin về thời điểm kết thúc của một sự việc đã xảy ra trong quá khứ.</p>\n<p style=\"text-align: justify;\">Phương án 3, <em>\"Just before lunch\"</em> (Ngay trước bữa trưa), cung cấp một mốc thời gian cụ thể trong quá khứ, hoàn toàn phù hợp để trả lời câu hỏi về thời điểm.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2 và 4 đều không phù hợp vì chúng không diễn tả đúng thời điểm kết thúc của sự kiện trong quá khứ.</p>",
+      "answerFeedbacks": {
+        "281546": "<p>Cụm từ này có nghĩa là <em>\"trong một phút nữa\"</em> hoặc <em>\"sắp sửa\"</em>, dùng để chỉ thời điểm trong tương lai, không phù hợp để trả lời câu hỏi về thời điểm một sự việc đã kết thúc trong quá khứ.</p>",
+        "281547": "<p>Cụm từ này có nghĩa là <em>\"trong nửa giờ\",</em> dùng để chỉ khoảng thời gian kéo dài, không phải thời điểm kết thúc của sự việc.</p>",
+        "281548": "<p>Cụm từ này chỉ một thời điểm cụ thể trong quá khứ, phù hợp để trả lời câu hỏi<em> \"What time...?\"</em> về thời điểm cuộc họp kết thúc.</p>",
+        "332829": "<p>Cụm từ này có nghĩa là <em>\"lần tới\"</em>, dùng để chỉ một thời điểm trong tương lai, không phù hợp để trả lời câu hỏi về thời điểm một sự việc đã kết thúc trong quá khứ.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 140626,
+      "questionNumber": 10,
+      "questionName": "Exercise 2(299w)",
+      "questionType": "Description",
+      "questionText": "<p><strong>Read the passage and choose the correct answer to each of the questions.</strong></p>\n<p><span class=\"answerhighlight q2\"><span class=\"answerhighlight q1\">The first thing to do when you have a trip abroad </span>is to check that your passport is valid</span>. <span class=\"answerhighlight q4\">Holders of out-of-date passports are not allowed to travel overseas. </span>Then you can prepare for your trip. If you don't know the language, you can have all kinds of problems communicating with local people. <span class=\"answerhighlight qtf4\">Buying a pocket dictionary can make a difference. You'll be able to order food, buy things in shops and ask for directions. It's worth getting one.</span> Also, there's nothing worse than arriving at your destination to find there are no hotels available. <span class=\"answerhighlight q3\">The obvious way to avoid this is to book in advance. <strong>This</strong> can save you money, too.</span> Another frustrating thing that can happen is to go somewhere and not know about important sightseeing places. <span class=\"answerhighlight q2\">Get a guide book before you leave</span> and make the most of your trip. It's a must.</p>\n<p><span class=\"answerhighlight q1\">Then, </span><span class=\"answerhighlight q2\"><span class=\"answerhighlight q1\">when you are ready to pack your clothes, make sure they are the right kind.</span> </span>It&#8217;s no good packing sweaters and coats for a hot country or T-shirts and shorts for a cold one. Check the local climate before you leave.</p>\n<p style=\"text-align: left;\">Also, <span class=\"answerhighlight q1\">be careful how much you pack in your bags</span>. <span class=\"answerhighlight qtf1\">It's easy to take too many clothes and then not have enough space for souvenirs. But make sure you pack <strong>essentials</strong>.</span> What about money? <span class=\"answerhighlight qtf3\">Well, it's a good idea to take some local currency with you but not too much. There are conveniently located cash machines (ATMs) in most big cities,</span> and it's usually cheaper to use them than change your cash in banks. Then you'll have more money to spend. When you are at your destination, other travelers often have great information they are happy to share. Find out what they have to say. It could enhance your traveling experience.</p>\n<p style=\"text-align: right;\"><em>(Adapted from Pearson Test of English General Skills)</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 140627,
+      "questionNumber": 11,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What is the passage mainly about?</strong></p>",
+      "passageText": "<p><strong>Read the passage and choose the correct answer to each of the questions.</strong></p>\n<p><span class=\"answerhighlight q2\"><span class=\"answerhighlight q1\">The first thing to do when you have a trip abroad </span>is to check that your passport is valid</span>. <span class=\"answerhighlight q4\">Holders of out-of-date passports are not allowed to travel overseas. </span>Then you can prepare for your trip. If you don't know the language, you can have all kinds of problems communicating with local people. <span class=\"answerhighlight qtf4\">Buying a pocket dictionary can make a difference. You'll be able to order food, buy things in shops and ask for directions. It's worth getting one.</span> Also, there's nothing worse than arriving at your destination to find there are no hotels available. <span class=\"answerhighlight q3\">The obvious way to avoid this is to book in advance. <strong>This</strong> can save you money, too.</span> Another frustrating thing that can happen is to go somewhere and not know about important sightseeing places. <span class=\"answerhighlight q2\">Get a guide book before you leave</span> and make the most of your trip. It's a must.</p>\n<p><span class=\"answerhighlight q1\">Then, </span><span class=\"answerhighlight q2\"><span class=\"answerhighlight q1\">when you are ready to pack your clothes, make sure they are the right kind.</span> </span>It&#8217;s no good packing sweaters and coats for a hot country or T-shirts and shorts for a cold one. Check the local climate before you leave.</p>\n<p style=\"text-align: left;\">Also, <span class=\"answerhighlight q1\">be careful how much you pack in your bags</span>. <span class=\"answerhighlight qtf1\">It's easy to take too many clothes and then not have enough space for souvenirs. But make sure you pack <strong>essentials</strong>.</span> What about money? <span class=\"answerhighlight qtf3\">Well, it's a good idea to take some local currency with you but not too much. There are conveniently located cash machines (ATMs) in most big cities,</span> and it's usually cheaper to use them than change your cash in banks. Then you'll have more money to spend. When you are at your destination, other travelers often have great information they are happy to share. Find out what they have to say. It could enhance your traveling experience.</p>\n<p style=\"text-align: right;\"><em>(Adapted from Pearson Test of English General Skills)</em></p>",
+      "parentQuestionId": 140626,
+      "choices": [
+        {
+          "id": 331207,
+          "label": "A",
+          "text": "Things to avoid when you go abroad",
+          "isCorrect": false
+        },
+        {
+          "id": 331208,
+          "label": "B",
+          "text": "Tips for Travelers Overseas",
+          "isCorrect": true
+        },
+        {
+          "id": 331209,
+          "label": "C",
+          "text": "The benefits of traveling",
+          "isCorrect": false
+        },
+        {
+          "id": 331210,
+          "label": "D",
+          "text": "How to find ATMs in big cities",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 331208,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>To&agrave;n b&agrave;i n&oacute;i về những điều n&ecirc;n l&agrave;m khi c&oacute; một chuyến du lịch nước ngo&agrave;i. = <strong>Tips for Travelers Overseas</strong> (Những lời khuy&ecirc;n cho những người đi du lịch nước ngo&agrave;i)</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 140628,
+      "questionNumber": 12,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>According to the passage, you should do all of the following before leaving EXCEPT _____.</strong></p>",
+      "passageText": "<p><strong>Read the passage and choose the correct answer to each of the questions.</strong></p>\n<p><span class=\"answerhighlight q2\"><span class=\"answerhighlight q1\">The first thing to do when you have a trip abroad </span>is to check that your passport is valid</span>. <span class=\"answerhighlight q4\">Holders of out-of-date passports are not allowed to travel overseas. </span>Then you can prepare for your trip. If you don't know the language, you can have all kinds of problems communicating with local people. <span class=\"answerhighlight qtf4\">Buying a pocket dictionary can make a difference. You'll be able to order food, buy things in shops and ask for directions. It's worth getting one.</span> Also, there's nothing worse than arriving at your destination to find there are no hotels available. <span class=\"answerhighlight q3\">The obvious way to avoid this is to book in advance. <strong>This</strong> can save you money, too.</span> Another frustrating thing that can happen is to go somewhere and not know about important sightseeing places. <span class=\"answerhighlight q2\">Get a guide book before you leave</span> and make the most of your trip. It's a must.</p>\n<p><span class=\"answerhighlight q1\">Then, </span><span class=\"answerhighlight q2\"><span class=\"answerhighlight q1\">when you are ready to pack your clothes, make sure they are the right kind.</span> </span>It&#8217;s no good packing sweaters and coats for a hot country or T-shirts and shorts for a cold one. Check the local climate before you leave.</p>\n<p style=\"text-align: left;\">Also, <span class=\"answerhighlight q1\">be careful how much you pack in your bags</span>. <span class=\"answerhighlight qtf1\">It's easy to take too many clothes and then not have enough space for souvenirs. But make sure you pack <strong>essentials</strong>.</span> What about money? <span class=\"answerhighlight qtf3\">Well, it's a good idea to take some local currency with you but not too much. There are conveniently located cash machines (ATMs) in most big cities,</span> and it's usually cheaper to use them than change your cash in banks. Then you'll have more money to spend. When you are at your destination, other travelers often have great information they are happy to share. Find out what they have to say. It could enhance your traveling experience.</p>\n<p style=\"text-align: right;\"><em>(Adapted from Pearson Test of English General Skills)</em></p>",
+      "parentQuestionId": 140626,
+      "choices": [
+        {
+          "id": 331211,
+          "label": "A",
+          "text": "taking money from an ATM",
+          "isCorrect": true
+        },
+        {
+          "id": 331212,
+          "label": "B",
+          "text": "making sure of the validity of your passport",
+          "isCorrect": false
+        },
+        {
+          "id": 331213,
+          "label": "C",
+          "text": "preparing suitable clothes",
+          "isCorrect": false
+        },
+        {
+          "id": 331214,
+          "label": "D",
+          "text": "getting a guide book",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 331211,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Những việc cần l&agrave;m trước khi đi du lịch nước ngo&agrave;i kh&ocirc;ng bao gồm việc r&uacute;t tiền từ c&acirc;y ATM.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 140629,
+      "questionNumber": 13,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &quot;This&quot; in paragraph 1 refers to _____.</strong></p>",
+      "passageText": "<p><strong>Read the passage and choose the correct answer to each of the questions.</strong></p>\n<p><span class=\"answerhighlight q2\"><span class=\"answerhighlight q1\">The first thing to do when you have a trip abroad </span>is to check that your passport is valid</span>. <span class=\"answerhighlight q4\">Holders of out-of-date passports are not allowed to travel overseas. </span>Then you can prepare for your trip. If you don't know the language, you can have all kinds of problems communicating with local people. <span class=\"answerhighlight qtf4\">Buying a pocket dictionary can make a difference. You'll be able to order food, buy things in shops and ask for directions. It's worth getting one.</span> Also, there's nothing worse than arriving at your destination to find there are no hotels available. <span class=\"answerhighlight q3\">The obvious way to avoid this is to book in advance. <strong>This</strong> can save you money, too.</span> Another frustrating thing that can happen is to go somewhere and not know about important sightseeing places. <span class=\"answerhighlight q2\">Get a guide book before you leave</span> and make the most of your trip. It's a must.</p>\n<p><span class=\"answerhighlight q1\">Then, </span><span class=\"answerhighlight q2\"><span class=\"answerhighlight q1\">when you are ready to pack your clothes, make sure they are the right kind.</span> </span>It&#8217;s no good packing sweaters and coats for a hot country or T-shirts and shorts for a cold one. Check the local climate before you leave.</p>\n<p style=\"text-align: left;\">Also, <span class=\"answerhighlight q1\">be careful how much you pack in your bags</span>. <span class=\"answerhighlight qtf1\">It's easy to take too many clothes and then not have enough space for souvenirs. But make sure you pack <strong>essentials</strong>.</span> What about money? <span class=\"answerhighlight qtf3\">Well, it's a good idea to take some local currency with you but not too much. There are conveniently located cash machines (ATMs) in most big cities,</span> and it's usually cheaper to use them than change your cash in banks. Then you'll have more money to spend. When you are at your destination, other travelers often have great information they are happy to share. Find out what they have to say. It could enhance your traveling experience.</p>\n<p style=\"text-align: right;\"><em>(Adapted from Pearson Test of English General Skills)</em></p>",
+      "parentQuestionId": 140626,
+      "choices": [
+        {
+          "id": 331215,
+          "label": "A",
+          "text": "finding are no hotels to stay at",
+          "isCorrect": false
+        },
+        {
+          "id": 331216,
+          "label": "B",
+          "text": "saving money",
+          "isCorrect": false
+        },
+        {
+          "id": 331217,
+          "label": "C",
+          "text": "booking in advance",
+          "isCorrect": true
+        },
+        {
+          "id": 331218,
+          "label": "D",
+          "text": "asking for directions",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 331217,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dịch: <em>\"The obvious way to avoid this is to book in advance. <strong>This</strong> can save you money, too\"&nbsp;</em>: C&aacute;ch r&otilde; r&agrave;ng để tr&aacute;nh điều n&agrave;y (hết ph&ograve;ng ở kh&aacute;ch sạn) l&agrave; đặt trước ph&ograve;ng. Điều n&agrave;y cũng c&oacute; thể gi&uacute;p bạn tiết kiệm tiền.</p>\n<p>=&gt; Ta thấy ở đ&acirc;y &ldquo;<strong>This</strong>&rdquo; được d&ugrave;ng để thay thế cho cụm &ldquo;<strong>book in advance</strong>&rdquo; trong c&acirc;u trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 140630,
+      "questionNumber": 14,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>According to the passage, holders of out-of-date passports _____.</strong></p>",
+      "passageText": "<p><strong>Read the passage and choose the correct answer to each of the questions.</strong></p>\n<p><span class=\"answerhighlight q2\"><span class=\"answerhighlight q1\">The first thing to do when you have a trip abroad </span>is to check that your passport is valid</span>. <span class=\"answerhighlight q4\">Holders of out-of-date passports are not allowed to travel overseas. </span>Then you can prepare for your trip. If you don't know the language, you can have all kinds of problems communicating with local people. <span class=\"answerhighlight qtf4\">Buying a pocket dictionary can make a difference. You'll be able to order food, buy things in shops and ask for directions. It's worth getting one.</span> Also, there's nothing worse than arriving at your destination to find there are no hotels available. <span class=\"answerhighlight q3\">The obvious way to avoid this is to book in advance. <strong>This</strong> can save you money, too.</span> Another frustrating thing that can happen is to go somewhere and not know about important sightseeing places. <span class=\"answerhighlight q2\">Get a guide book before you leave</span> and make the most of your trip. It's a must.</p>\n<p><span class=\"answerhighlight q1\">Then, </span><span class=\"answerhighlight q2\"><span class=\"answerhighlight q1\">when you are ready to pack your clothes, make sure they are the right kind.</span> </span>It&#8217;s no good packing sweaters and coats for a hot country or T-shirts and shorts for a cold one. Check the local climate before you leave.</p>\n<p style=\"text-align: left;\">Also, <span class=\"answerhighlight q1\">be careful how much you pack in your bags</span>. <span class=\"answerhighlight qtf1\">It's easy to take too many clothes and then not have enough space for souvenirs. But make sure you pack <strong>essentials</strong>.</span> What about money? <span class=\"answerhighlight qtf3\">Well, it's a good idea to take some local currency with you but not too much. There are conveniently located cash machines (ATMs) in most big cities,</span> and it's usually cheaper to use them than change your cash in banks. Then you'll have more money to spend. When you are at your destination, other travelers often have great information they are happy to share. Find out what they have to say. It could enhance your traveling experience.</p>\n<p style=\"text-align: right;\"><em>(Adapted from Pearson Test of English General Skills)</em></p>",
+      "parentQuestionId": 140626,
+      "choices": [
+        {
+          "id": 331219,
+          "label": "A",
+          "text": "have to show an ID instead when they travel",
+          "isCorrect": false
+        },
+        {
+          "id": 331220,
+          "label": "B",
+          "text": "cannot travel to other countries",
+          "isCorrect": true
+        },
+        {
+          "id": 331221,
+          "label": "C",
+          "text": "should ask for help from local people",
+          "isCorrect": false
+        },
+        {
+          "id": 331222,
+          "label": "D",
+          "text": "may have their passports renewed in any country.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 331220,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Những người mang hộ chiếu đ&atilde; hết hạn th&igrave; kh&ocirc;ng thể đi đến c&aacute;c nước kh&aacute;c.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 140631,
+      "questionNumber": 15,
+      "questionName": "5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &quot;essentials&quot; in paragraph 3 mostly means _____.</strong></p>",
+      "passageText": "<p><strong>Read the passage and choose the correct answer to each of the questions.</strong></p>\n<p><span class=\"answerhighlight q2\"><span class=\"answerhighlight q1\">The first thing to do when you have a trip abroad </span>is to check that your passport is valid</span>. <span class=\"answerhighlight q4\">Holders of out-of-date passports are not allowed to travel overseas. </span>Then you can prepare for your trip. If you don't know the language, you can have all kinds of problems communicating with local people. <span class=\"answerhighlight qtf4\">Buying a pocket dictionary can make a difference. You'll be able to order food, buy things in shops and ask for directions. It's worth getting one.</span> Also, there's nothing worse than arriving at your destination to find there are no hotels available. <span class=\"answerhighlight q3\">The obvious way to avoid this is to book in advance. <strong>This</strong> can save you money, too.</span> Another frustrating thing that can happen is to go somewhere and not know about important sightseeing places. <span class=\"answerhighlight q2\">Get a guide book before you leave</span> and make the most of your trip. It's a must.</p>\n<p><span class=\"answerhighlight q1\">Then, </span><span class=\"answerhighlight q2\"><span class=\"answerhighlight q1\">when you are ready to pack your clothes, make sure they are the right kind.</span> </span>It&#8217;s no good packing sweaters and coats for a hot country or T-shirts and shorts for a cold one. Check the local climate before you leave.</p>\n<p style=\"text-align: left;\">Also, <span class=\"answerhighlight q1\">be careful how much you pack in your bags</span>. <span class=\"answerhighlight qtf1\">It's easy to take too many clothes and then not have enough space for souvenirs. But make sure you pack <strong>essentials</strong>.</span> What about money? <span class=\"answerhighlight qtf3\">Well, it's a good idea to take some local currency with you but not too much. There are conveniently located cash machines (ATMs) in most big cities,</span> and it's usually cheaper to use them than change your cash in banks. Then you'll have more money to spend. When you are at your destination, other travelers often have great information they are happy to share. Find out what they have to say. It could enhance your traveling experience.</p>\n<p style=\"text-align: right;\"><em>(Adapted from Pearson Test of English General Skills)</em></p>",
+      "parentQuestionId": 140626,
+      "choices": [
+        {
+          "id": 331223,
+          "label": "A",
+          "text": "everything",
+          "isCorrect": false
+        },
+        {
+          "id": 331224,
+          "label": "B",
+          "text": "valuables",
+          "isCorrect": false
+        },
+        {
+          "id": 331225,
+          "label": "C",
+          "text": "necessities",
+          "isCorrect": true
+        },
+        {
+          "id": 331226,
+          "label": "D",
+          "text": "food",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 331225,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>\"<em>It's easy to take too many clothes and then not have enough space for souvenirs. But make sure you pack <strong><span style=\"text-decoration: underline;\">essentials</span></strong>.</em>\": Thật dễ để đem theo nhiều quần &aacute;o v&agrave; sau đ&oacute; kh&ocirc;ng c&oacute; đủ chỗ để chứa đồ lưu niệm. Nhưng h&atilde;y chắc chắn rằng bạn chỉ g&oacute;i g&eacute;m <span style=\"text-decoration: underline;\">những đồ d&ugrave;ng cần thiết</span>.</p>\n<p><strong>essentials</strong> (n): nhu yếu phẩm ~ <strong>necessities</strong>&nbsp;(n): những thứ cần thiết</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 108549,
+      "questionNumber": 16,
+      "questionName": "P2",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the passage and choose the correct word or phrase that best fits each of the numbered blanks.</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">Yellowstone National Park, the first US national park, was </span><span style=\"font-weight: 400;\"><strong><span class='fillblank-option'><label>15.1</label><select class='ms fillblank-option-15' index='0' name='fbo-108549-0' data-testid='fillblank-select-108549-0'><option value='' data-testid='fillblank-option-empty-108549-0'></option><option value=\"established\" data-testid='fillblank-option-108549-0-established'>established</option><option value=\"started\" data-testid='fillblank-option-108549-0-started'>started</option><option value=\"introduced\" data-testid='fillblank-option-108549-0-introduced'>introduced</option><option value=\"demolished\" data-testid='fillblank-option-108549-0-demolished'>demolished</option></select></span></strong> </span><span style=\"font-weight: 400;\">in 1872. It is one of the largest parks. It&nbsp;</span><strong><span class='fillblank-option'><label>15.2</label><select class='ms fillblank-option-15' index='1' name='fbo-108549-1' data-testid='fillblank-select-108549-1'><option value='' data-testid='fillblank-option-empty-108549-1'></option><option value=\"spreads\" data-testid='fillblank-option-108549-1-spreads'>spreads</option><option value=\"involves\" data-testid='fillblank-option-108549-1-involves'>involves</option><option value=\"contains\" data-testid='fillblank-option-108549-1-contains'>contains</option><option value=\"covers\" data-testid='fillblank-option-108549-1-covers'>covers</option></select></span></strong><span style=\"font-weight: 400;\"> about 3.500 square miles or 9.063 square kilometers in north-west Wyoming and parts of Idaho and Montana. It has many wild animals,&nbsp;</span><strong><span class='fillblank-option'><label>15.3</label><select class='ms fillblank-option-15' index='2' name='fbo-108549-2' data-testid='fillblank-select-108549-2'><option value='' data-testid='fillblank-option-empty-108549-2'></option><option value=\"collecting\" data-testid='fillblank-option-108549-2-collecting'>collecting</option><option value=\"including\" data-testid='fillblank-option-108549-2-including'>including</option><option value=\"consisting\" data-testid='fillblank-option-108549-2-consisting'>consisting</option><option value=\"adding\" data-testid='fillblank-option-108549-2-adding'>adding</option></select></span></strong><span style=\"font-weight: 400;\"> bears, buffalo, elk, deer, antelope, coyotes, and lynxes, and is famous</span> <span style=\"font-weight: 400;\">for</span> <span style=\"font-weight: 400;\">its fine scenery, hot springs and&nbsp;</span><strong><span class='fillblank-option'><label>15.4</label><select class='ms fillblank-option-15' index='3' name='fbo-108549-3' data-testid='fillblank-select-108549-3'><option value='' data-testid='fillblank-option-empty-108549-3'></option><option value=\"waves\" data-testid='fillblank-option-108549-3-waves'>waves</option><option value=\"chutes\" data-testid='fillblank-option-108549-3-chutes'>chutes</option><option value=\"waterfalls\" data-testid='fillblank-option-108549-3-waterfalls'>waterfalls</option><option value=\"geysers\" data-testid='fillblank-option-108549-3-geysers'>geysers</option></select></span></strong><span style=\"font-weight: 400;\"> (underground hot springs that shoot hot water or steam up into the air). There are about seventy geysers in the park. The most famous one named Old Faithful. The park is a popular tourist attraction. It has about three million&nbsp;</span><strong><span class='fillblank-option'><label>15.5</label><select class='ms fillblank-option-15' index='4' name='fbo-108549-4' data-testid='fillblank-select-108549-4'><option value='' data-testid='fillblank-option-empty-108549-4'></option><option value=\"migrants\" data-testid='fillblank-option-108549-4-migrants'>migrants</option><option value=\"trippers\" data-testid='fillblank-option-108549-4-trippers'>trippers</option><option value=\"visitors\" data-testid='fillblank-option-108549-4-visitors'>visitors</option><option value=\"foreigners\" data-testid='fillblank-option-108549-4-foreigners'>foreigners</option></select></span></strong><span style=\"font-weight: 400;\"> a year. It was made a World Heritage Site in 1978.</span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "established"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "covers"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "including"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "geysers"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "visitors"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">1.&nbsp;</span><span style=\"font-weight: 400;\"><strong>establish</strong> (v.): x&acirc;y dựng, th&agrave;nh lập</span></p>\n<p><span style=\"font-weight: 400;\">start (v.): bắt đầu</span></p>\n<p><span style=\"font-weight: 400;\">introduce (v.): giới thiệu</span></p>\n<p><span style=\"font-weight: 400;\">demolish (v.): ph&aacute; hủy</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Vườn quốc gia Yellowstone, vườn quốc gia đầu ti&ecirc;n của Hoa Kỳ, được th&agrave;nh lập v&agrave;o năm 1872.<br /></span></p>\n<p><span style=\"font-weight: 400;\">2. <strong>cover</strong> (v.): bao phủ, che phủ, giấu giếm</span></p>\n<p><span style=\"font-weight: 400;\">spread (v.): lan/ l&acirc;y lan</span></p>\n<p><span style=\"font-weight: 400;\">contain (v.): chứa đựng</span></p>\n<p><span style=\"font-weight: 400;\"> </span><span style=\"font-weight: 400;\">involve (v.): li&ecirc;n quan tới</span></p>\n<p>Dịch: N&oacute; bao phủ khoảng 3.500 dặm vu&ocirc;ng hoặc 9.063 km vu&ocirc;ng ở t&acirc;y bắc Wyoming v&agrave; một phần của Idaho v&agrave; Montana.</p>\n<p><span style=\"font-weight: 400;\">3. </span><span style=\"font-weight: 400;\"><strong>include</strong> (v.): bao gồm</span></p>\n<p><span style=\"font-weight: 400;\">add (v.): th&ecirc;m v&agrave;o, bổ sung</span></p>\n<p><span style=\"font-weight: 400;\">consist (of sth) (v.): bao gồm (thứ g&igrave;)</span></p>\n<p><span style=\"font-weight: 400;\">collect (v.): sưu tầm, thu thập</span></p>\n<p><span style=\"font-weight: 400;\">4. <strong>g</strong></span><span style=\"font-weight: 400;\"><strong>eyser</strong>&nbsp;(n.): mạch nước n&oacute;ng, mạch nước phun</span></p>\n<p><span style=\"font-weight: 400;\">waterfall (n.): th&aacute;c nước</span></p>\n<p><span style=\"font-weight: 400;\">chute (n.): đường trượt, dốc</span></p>\n<p><span style=\"font-weight: 400;\">wave (n.): s&oacute;ng</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Nơi đ&acirc;y c&oacute; nhiều lo&agrave;i động vật hoang d&atilde;, bao gồm gấu, tr&acirc;u, nai sừng tấm, hươu, linh dương, ch&oacute; s&oacute;i đồng cỏ v&agrave; linh mi&ecirc;u, đồng thời nổi tiếng với phong cảnh đẹp, suối nước n&oacute;ng v&agrave; mạch nước phun (suối nước n&oacute;ng ngầm bắn nước n&oacute;ng hoặc bốc hơi l&ecirc;n kh&ocirc;ng trung).</span></p>\n<p><span style=\"font-weight: 400;\">5. </span><span style=\"font-weight: 400;\"><strong>visitor </strong>(n.): kh&aacute;ch tham quan</span></p>\n<p><span style=\"font-weight: 400;\">migrant (n.): người nhập cư</span></p>\n<p><span style=\"font-weight: 400;\">foreigner (n.): kh&aacute;ch nước ngo&agrave;i</span></p>\n<p><span style=\"font-weight: 400;\">tripper (n.): người đi dạo chơi</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: N&oacute; c&oacute; khoảng ba triệu kh&aacute;ch tham quan mỗi năm.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 102804,
+      "questionNumber": 17,
+      "questionName": "Main",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He took a bus to the zoo and got off outside the _____ entrance.</strong> <input name=\"Question_ID1\" type=\"hidden\" value=\"117184\"></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 245749,
+          "label": "A",
+          "text": "high",
+          "isCorrect": false
+        },
+        {
+          "id": 245750,
+          "label": "B",
+          "text": "important",
+          "isCorrect": false
+        },
+        {
+          "id": 245752,
+          "label": "C",
+          "text": "main",
+          "isCorrect": true
+        },
+        {
+          "id": 279452,
+          "label": "D",
+          "text": "key",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 245752,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>main entrance</strong> (n.): cổng ch&iacute;nh, lối v&agrave;o ch&iacute;nh</p>\n<p>Dịch: Anh ấy bắt xe bu&yacute;t đến sở th&uacute; v&agrave; xuống xe ở ngo&agrave;i cổng ch&iacute;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 102868,
+      "questionNumber": 18,
+      "questionName": "helped",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>After dinner, Claudia _____ her parents wash up.</strong> <input name=\"Question_ID4\" type=\"hidden\" value=\"117312\"></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 245880,
+          "label": "A",
+          "text": "practised",
+          "isCorrect": false
+        },
+        {
+          "id": 245883,
+          "label": "B",
+          "text": "agreed",
+          "isCorrect": false
+        },
+        {
+          "id": 245886,
+          "label": "C",
+          "text": "helped",
+          "isCorrect": true
+        },
+        {
+          "id": 290562,
+          "label": "D",
+          "text": "allowed",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 245886,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>help sb do V</strong>: gi&uacute;p ai đ&oacute; l&agrave;m g&igrave;.&nbsp;</p>\n<p>practise + V-ing: thực h&agrave;nh l&agrave;m g&igrave;</p>\n<p>agree to do sth: đồng &yacute; l&agrave;m g&igrave;&nbsp;</p>\n<p>allow sb to do sth: cho ph&eacute;p ai l&agrave;m g&igrave;</p>\n<p>Dịch: Sau bữa tối, Claudia gi&uacute;p bố mẹ rửa ch&eacute;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 102881,
+      "questionNumber": 19,
+      "questionName": "homework",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Billy came to Sam's house and they did their geography _____ together.</strong><input name=\"Question_ID2\" type=\"hidden\" value=\"117351\"></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 245909,
+          "label": "A",
+          "text": "subject",
+          "isCorrect": false
+        },
+        {
+          "id": 245911,
+          "label": "B",
+          "text": "homework",
+          "isCorrect": true
+        },
+        {
+          "id": 245913,
+          "label": "C",
+          "text": "class",
+          "isCorrect": false
+        },
+        {
+          "id": 288902,
+          "label": "D",
+          "text": "lesson",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 245911,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 265px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18xpHSIMWY75EdeQbegS%2FrqxMeFgFyCm7L1gsJaQLtrh4CPcoX6Ch5DGb90l9%2Bwu8ukK%2FXDMkkgP09aiyQQQzzPpQjrXwuePMl6Avy5XNy9toZOYTfYT2ahoMINkf6afDW%2B3ZEnXUbimHJ324nAE1M3HEURLhQwihZ%2F3FDP1zTaYW7q34QEN%2BzWuD%2FaesUCoyoMpS1X5hBVl0Qw81ufhJbyEBwgCKlDKjsl8dIQebpvyR0pAUaJjikI%2FWc7CkX8S3G6mgXVejafNdFCegcPDxSFNaITS6VY%2FdSydXnS0YrStB%2FWkRpz9kJl\" width=\"100%\" height=\"160\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Billy đến nh&agrave; Sam v&agrave; họ c&ugrave;ng nhau l&agrave;m <span style=\"text-decoration: underline;\">b&agrave;i tập</span> địa l&yacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 64536,
+      "questionNumber": 20,
+      "questionName": "Question 174:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ the spring, I often go for a walk.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 171924,
+          "label": "A",
+          "text": "On",
+          "isCorrect": false
+        },
+        {
+          "id": 171925,
+          "label": "B",
+          "text": "At",
+          "isCorrect": false
+        },
+        {
+          "id": 171926,
+          "label": "C",
+          "text": "In",
+          "isCorrect": true
+        },
+        {
+          "id": 171927,
+          "label": "D",
+          "text": "For",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 171926,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Giới từ \"<strong>in</strong>\" đi với c&aacute;c từ chỉ m&ugrave;a.</p>\n<p>Dịch: V&agrave;o m&ugrave;a xu&acirc;n, t&ocirc;i thường đi dạo.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 64429,
+      "questionNumber": 21,
+      "questionName": "Question 113:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The little girl _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 171604,
+          "label": "A",
+          "text": "has a round black eyes",
+          "isCorrect": false
+        },
+        {
+          "id": 171605,
+          "label": "B",
+          "text": "has eyes round black",
+          "isCorrect": false
+        },
+        {
+          "id": 171606,
+          "label": "C",
+          "text": "is round black eyes",
+          "isCorrect": false
+        },
+        {
+          "id": 171607,
+          "label": "D",
+          "text": "has round black eyes",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 171607,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để ho&agrave;n th&agrave;nh c&acirc;u n&agrave;y, bạn cần x&aacute;c định đ&uacute;ng động từ để diễn tả sự sở hữu v&agrave; sắp xếp c&aacute;c t&iacute;nh từ theo đ&uacute;ng trật tự.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ chỉ sự sở hữu v&agrave; Trật tự t&iacute;nh từ.</span></p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong></p>\n<ul>\n<li style=\"text-align: justify;\">Động từ chỉ sự sở hữu d&ugrave;ng để diễn tả việc ai đ&oacute; hoặc vật g&igrave; đ&oacute; c&oacute; một đặc điểm hay sở hữu một thứ g&igrave; đ&oacute;.</li>\n<li style=\"text-align: justify;\">Trật tự t&iacute;nh từ l&agrave; quy tắc sắp xếp c&aacute;c t&iacute;nh từ khi ch&uacute;ng c&ugrave;ng bổ nghĩa cho một danh từ.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">S + has/have + Noun/Noun Phrase (chỉ sự sở hữu)</span></strong></li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Thứ tự t&iacute;nh từ: Opinion &gt; Size &gt; Age &gt; Shape &gt; Color &gt; Origin &gt; Material &gt; Purpose + Noun</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Động từ \"<em>has</em>\" được sử dụng để diễn tả sự sở hữu (c&ocirc; b&eacute; c&oacute; đ&ocirc;i mắt). C&aacute;c t&iacute;nh từ \"<em>round</em>\" (h&igrave;nh dạng) v&agrave; \"<em>black</em>\" (m&agrave;u sắc) được sắp xếp đ&uacute;ng trật tự trước danh từ số nhiều \"<em>eyes</em>\", do đ&oacute; phương &aacute;n 4 l&agrave; đ&aacute;p &aacute;n ch&iacute;nh x&aacute;c.</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 sai v&igrave; mạo từ \"<em>a</em>\" kh&ocirc;ng được d&ugrave;ng trước danh từ số nhiều \"<em>eyes</em>\".</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 sai v&igrave; t&iacute;nh từ bổ nghĩa cho danh từ phải đứng trước danh từ đ&oacute; v&agrave; theo đ&uacute;ng trật tự.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 sai v&igrave; động từ \"<em>is</em>\" kh&ocirc;ng d&ugrave;ng để diễn tả sự sở hữu, m&agrave; phải d&ugrave;ng động từ \"<em>has</em>\".</li>\n</ul>",
+      "answerFeedbacks": {
+        "171604": "Sai vì mạo từ <em>\"a\"</em> không được dùng trước danh từ số nhiều <em>\"eyes\"</em>.",
+        "171605": "Sai vì tính từ bổ nghĩa cho danh từ <em>\"eyes\"</em> phải đứng trước danh từ đó và theo đúng trật tự.",
+        "171606": "Sai vì động từ <em>\"is\"</em> không dùng để diễn tả sự sở hữu, mà phải dùng động từ <em>\"has\"</em>.",
+        "171607": "Đúng vì động từ <em>\"has\"</em> dùng để chỉ sự sở hữu và các tính từ <em>\"round\"</em> (hình dạng) và <em>\"black\"</em> (màu sắc) được sắp xếp đúng trật tự trước danh từ <em>\"eyes\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 64569,
+      "questionNumber": 22,
+      "questionName": "Question 201:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I divided the sweets _____ several boys.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 172052,
+          "label": "A",
+          "text": "during",
+          "isCorrect": false
+        },
+        {
+          "id": 172053,
+          "label": "B",
+          "text": "between",
+          "isCorrect": false
+        },
+        {
+          "id": 172054,
+          "label": "C",
+          "text": "into",
+          "isCorrect": false
+        },
+        {
+          "id": 172055,
+          "label": "D",
+          "text": "among",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 172055,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn giới từ đúng, hãy xem xét số lượng và tính chất của các đối tượng nhận sự phân chia.</p>\n<p>Khi chia cho một nhóm lớn hơn hai người/vật và không liệt kê cụ thể từng đối tượng (ví dụ: <em>\"several boys\"</em>), bạn sẽ dùng giới từ nào?</p>\n<p> </p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Giới từ chỉ sự phân chia và phân phối</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các giới từ <em>\"among\"</em>, <em>\"between\"</em> và <em>\"into\"</em> có thể được sử dụng để diễn tả sự phân chia hoặc phân phối, nhưng mỗi giới từ có sắc thái và ngữ cảnh sử dụng riêng biệt.</p>\n<p style=\"text-align: justify;\"><strong>Một số giới từ chỉ sự phân chia và phân phối:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">among (prep.):</span></strong> giữa (nhiều người/vật, từ ba trở lên, hoặc một nhóm không xác định rõ từng cá thể). Ví dụ: <em>divide something among the students.</em></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">between (prep.):</span></strong> giữa (hai người/vật, hoặc nhiều hơn nếu xác định rõ từng đối tượng). Ví dụ: <em>divide something between John and Mary.</em></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">into (prep.):</span></strong> vào trong, thành (dùng với <em>\"divide\"</em> để chỉ việc chia một vật thành các phần nhỏ hơn). Ví dụ: <em>divide a cake into three pieces.</em></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, ngữ cảnh là chia kẹo cho một nhóm <em>\"several boys\"</em> (nhiều cậu bé), ngụ ý một nhóm từ ba người trở lên và không xác định rõ từng cá thể. Giới từ phù hợp nhất để diễn tả sự phân chia cho một nhóm như vậy là <em>\"among\"</em>.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều không phù hợp khi kết hợp với ''<em>divide</em>'' vì ''<em>between</em>'' được dùng để diễn tả sự phân chia giữa hai người hoặc nhiều hơn nếu đối tượng được xác định rõ, phương án ''<em>into</em>'' được dùng để diễn tả việc chia một vật thành các phần nhỏ hơn còn ''<em>during</em>'' là giới từ chỉ khoảng thời gian hoàn toàn không liên quan. </p>",
+      "answerFeedbacks": {
+        "172052": "Sai vì <em>\"during\"</em> là giới từ chỉ khoảng thời gian, không diễn tả sự phân chia hay phân phối.",
+        "172053": "Sai vì <em>\"between\"</em> thường dùng để chỉ sự phân chia giữa hai đối tượng hoặc giữa các đối tượng được liệt kê cụ thể, trong khi <em>\"several boys\"</em> là một nhóm không xác định rõ ràng và lớn hơn hai.",
+        "172054": "Sai vì <em>\"into\"</em> thường dùng để chỉ sự chia thành các phần hoặc di chuyển vào trong, không phù hợp với việc phân phối cho nhiều người.",
+        "172055": "Đúng vì <em>\"among\"</em> được dùng để chỉ sự phân chia hoặc phân phối cho một nhóm từ ba người/vật trở lên, không xác định rõ từng cá thể, phù hợp với ngữ cảnh <em>\"several boys\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 64570,
+      "questionNumber": 23,
+      "questionName": "Question 202:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>These vegetables don’t taste _____ to us.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 172056,
+          "label": "A",
+          "text": "well",
+          "isCorrect": false
+        },
+        {
+          "id": 172057,
+          "label": "B",
+          "text": "freshly",
+          "isCorrect": false
+        },
+        {
+          "id": 172058,
+          "label": "C",
+          "text": "fresh",
+          "isCorrect": true
+        },
+        {
+          "id": 172059,
+          "label": "D",
+          "text": "deliciously",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 172058,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy chú ý đến động từ <em>'taste' </em>là một động từ tri giác và thường được theo sau bởi một từ loại cụ thể để mô tả chủ ngữ.</p>\n<p>Bạn cần một tính từ mô tả chất lượng hoặc trạng thái của <em>'These vegetables'</em>.</p>",
+      "explanation": "<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Giải nghĩa từ vựng:</span> </p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.5rem 0.8rem;\n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        margin-right: 0.4rem;\n        display: inline-block;\n        margin-bottom: 10px; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555555;\n        display: block; \n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">well</span></strong><span class=\"word-pos-sharp\">(adv.)</span><br /><span class=\"word-ipa-sharp\">/wel/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>tốt, giỏi (chỉ cách thức); (adj.) khỏe mạnh</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">freshly</span></strong><span class=\"word-pos-sharp\">(adv.)</span><br /><span class=\"word-ipa-sharp\">/'freʃli/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>một cách tươi mới, gần đây</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">fresh</span></strong><span class=\"word-pos-sharp\">(adj.)</span><br /><span class=\"word-ipa-sharp\">/freʃ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>tươi, mới</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">deliciously</span></strong><span class=\"word-pos-sharp\">(adv.)</span><br /><span class=\"word-ipa-sharp\">/dɪ'lɪʃəsli/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>một cách ngon lành, thơm ngon</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br /><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span><span style=\"color: #454545; font-weight: 400;\"> Trong câu, động từ <em>\"taste\"</em> là một động từ nối (linking verb). Động từ nối được theo sau bởi một tính từ để mô tả chủ ngữ, chứ không phải trạng từ. Ở đây, chúng ta cần một tính từ để mô tả hương vị của <em>\"These vegetables\"</em>, do đó <em><strong>fresh</strong> </em>là lựa chọn đúng.</span></span></p>",
+      "answerFeedbacks": {
+        "172056": "<em>\"Well\"</em> là một trạng từ, không phù hợp để bổ nghĩa cho chủ ngữ <em>\"vegetables\"</em> sau động từ nối <em>\"taste\"</em>.",
+        "172057": "<em>\"Freshly\"</em> là một trạng từ, có nghĩa là \"mới đây\", không phù hợp để mô tả hương vị của rau củ.",
+        "172058": "<em>\"Fresh\"</em> là một tính từ, phù hợp để mô tả hương vị của chủ ngữ <em>\"These vegetables\"</em> sau động từ nối <em>\"taste\"</em>.",
+        "172059": "<em>\"Deliciously\"</em> là một trạng từ, không phù hợp để mô tả hương vị của rau củ mà thay vào đó mô tả cách thức một hành động được thực hiện."
+      },
+      "images": []
+    },
+    {
+      "id": 64583,
+      "questionNumber": 24,
+      "questionName": "Question 215:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>There is _____ oil in this bottle. We should buy some more.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 172108,
+          "label": "A",
+          "text": "a few",
+          "isCorrect": false
+        },
+        {
+          "id": 172109,
+          "label": "B",
+          "text": "few",
+          "isCorrect": false
+        },
+        {
+          "id": 172110,
+          "label": "C",
+          "text": "little",
+          "isCorrect": true
+        },
+        {
+          "id": 172111,
+          "label": "D",
+          "text": "a little",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 172110,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn lượng từ đúng, hãy xem xét các yếu tố sau:</p>\n<ul>\n<li>Xác định loại danh từ của <em>\"oil\"</em> là đếm được hay không đếm được.</li>\n<li>Chú ý đến ý nghĩa của vế sau <em>\"We should buy some more\"</em> để xác định xem lượng từ cần mang sắc thái tích cực (đủ dùng) hay tiêu cực (không đủ dùng).</li>\n</ul>\n<p>Hãy nhớ lại cách dùng của <em>few/a few</em> (với danh từ đếm được) và <em>little/a little</em> (với danh từ không đếm được) để tìm ra lượng từ phù hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Lượng từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Lượng từ được dùng để chỉ số lượng hoặc khối lượng của danh từ mà chúng bổ nghĩa, giúp xác định danh từ đó có bao nhiêu hoặc bao nhiêu.</p>\n<p style=\"text-align: justify;\"><strong>Một số lượng từ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">few / a few + N (đếm được, số nhiều):</span></strong> ít (mang nghĩa tiêu cực, không đủ) / một vài (mang nghĩa tích cực, đủ dùng)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">little / a little + N (không đếm được):</span></strong> ít (mang nghĩa tiêu cực, không đủ) / một ít (mang nghĩa tích cực, đủ dùng)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, danh từ <em>\"oil\"</em> là danh từ không đếm được. Ngữ cảnh <em>\"We should buy some more\"</em> (Chúng ta nên mua thêm) chỉ ra rằng lượng dầu hiện có là rất ít, không đủ dùng và mang sắc thái tiêu cực. Do đó, lượng từ phù hợp nhất là <em>\"little\"</em>, mang nghĩa <em>\"rất ít, hầu như không có\"</em> và đi với danh từ không đếm được.</p>\n<p style=\"text-align: justify;\">Các phương án ''<em>few</em>'' và ''<em>a few</em>'' đều không được sử dụng với danh từ số ít, phương án ''<em>a little</em>'' mang sắc thái tích cực không phù hợp với ngữ cảnh cần mua thêm.</p>",
+      "answerFeedbacks": {
+        "172108": "Sai vì <em>a few</em> được dùng với danh từ đếm được số nhiều, trong khi <em>oil</em> là danh từ không đếm được.",
+        "172109": "Sai vì <em>few</em> được dùng với danh từ đếm được số nhiều, trong khi <em>oil</em> là danh từ không đếm được.",
+        "172110": "Đúng vì <em>little</em> được dùng với danh từ không đếm được và mang nghĩa \"rất ít, hầu như không có\", phù hợp với ngữ cảnh \"We should buy some more\".",
+        "172111": "Sai vì <em>a little</em> được dùng với danh từ không đếm được nhưng mang nghĩa \"một ít, đủ dùng\", không phù hợp với ngữ cảnh cần mua thêm."
+      },
+      "images": []
+    },
+    {
+      "id": 64679,
+      "questionNumber": 25,
+      "questionName": "Question 293:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>How _____ oranges would you like? - Six, please. And _____ tea.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 172439,
+          "label": "A",
+          "text": "much / some",
+          "isCorrect": false
+        },
+        {
+          "id": 172440,
+          "label": "B",
+          "text": "many / any",
+          "isCorrect": false
+        },
+        {
+          "id": 172441,
+          "label": "C",
+          "text": "much / any",
+          "isCorrect": false
+        },
+        {
+          "id": 172442,
+          "label": "D",
+          "text": "many / some",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 172442,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>\"<strong>oranges</strong>\" l&agrave; danh từ đếm được ở dạng số nhiều.</p>\n<p>Cấu tr&uacute;c: <strong>How many + N (đếm được số nhiều)...?</strong>: Bao nhi&ecirc;u...</p>\n<p><strong>some + N (đếm được số nhiều/ kh&ocirc;ng đếm được)</strong><span style=\"font-weight: 400;\">: một v&agrave;i, một &iacute;t (thường được d&ugrave;ng trong c&acirc;u khẳng định, y&ecirc;u cầu đề nghị)</span></p>\n<p><span style=\"font-weight: 400;\">much + N (kh&ocirc;ng đếm được): nhiều</span></p>\n<p><span style=\"font-weight: 400;\">any + N (đếm được số nhiều/kh&ocirc;ng đếm được): một v&agrave;i, ... n&agrave;o (thường được d&ugrave;ng trong c&acirc;u phủ định v&agrave; nghi vấn)</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Bạn muốn bao nhi&ecirc;u quả cam? - T&ocirc;i muốn 6 quả. V&agrave; 1 &iacute;t tr&agrave;.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 37393,
+      "questionNumber": 26,
+      "questionName": "evidence",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>There is no <u>evidence</u> at this time that acupuncture can treat cancer itself.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 114225,
+          "label": "A",
+          "text": "clue",
+          "isCorrect": false
+        },
+        {
+          "id": 114226,
+          "label": "B",
+          "text": "data",
+          "isCorrect": false
+        },
+        {
+          "id": 114227,
+          "label": "C",
+          "text": "proof",
+          "isCorrect": true
+        },
+        {
+          "id": 114228,
+          "label": "D",
+          "text": "sign",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 114227,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX18Uy6faap1%2Fr8sa%2BjiWQWL%2BZISKDTjqMQt2rffyRJgdZ8qNNB%2Bw%2BVd2PShm8gpGOAd5W%2F1U5FM9Y3aTaKtkJTc%2Fu5UFQ0JhgzZ2uw7Mhy0qnXxWpPQsG4i%2F9rF1nRdXgtOoiXimuTsCX8vTb4MEw05ksjx4vubIquydBXkDWfZJnp%2BVdA73Da4TmB4pckkR2C1bdFDHOBRsTJLw4%2BSZ6U28kuyRrC8WHxVl%2BvZQP0Oj%2F8uJ7NBBHmfK3xHXvNmCL1IcNBtA%2BgQHXRzw%2Bgla0%2F%2Fg3983svfU5ei3VzIDtXjC93j2n6O52dfxc6e4US4PG0Gf6Qly%2FnXTvHEU0dtm%2FtVYtb2Z5rUkrTjyAkfeV5zIbSFCLb8TgF4IB1wDyzrjzWbbw%2BxhbdY9XAaf%2BFGkAEjwKC5KEY9ZygxfyzKTxlAsvCYyFOZ8WUCR\" width=\"100%\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Cho tới b&acirc;y giờ vẫn chưa c&oacute; bằng chứng n&agrave;o chứng minh rằng ch&acirc;m cứu c&oacute; thể chữa khỏi ung thư.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 60561,
+      "questionNumber": 27,
+      "questionName": "occured",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>The coffee festival&nbsp;<span style=\"text-decoration: underline;\">occured</span> in March. Thus, we couldn't attend it on our trip last month.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 162825,
+          "label": "A",
+          "text": "took off",
+          "isCorrect": false
+        },
+        {
+          "id": 162826,
+          "label": "B",
+          "text": "happened",
+          "isCorrect": true
+        },
+        {
+          "id": 162827,
+          "label": "C",
+          "text": "held",
+          "isCorrect": false
+        },
+        {
+          "id": 162828,
+          "label": "D",
+          "text": "halted",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 162826,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 450px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX18fWi3IN9XuoxYhwNCtw1YgYTUrBfP2p9TKM%2FluJUxL9e7flfzv7%2FQibiRWyeAwS%2Bt9GGzUBdbccVBo2GC89v5wR5D9qBveDhYEckBEjswJugl2Uzds9OQlQ2syCAW1KI%2FBDY6zUHbwkDk32czF03NEx3E8EdPo8VsJhqqbAWutZvdl2DMMz1fm8cht8adOcEVr0tU0Rm8cgnO9AZFkmLs0cSrIT%2BtGqLzEsX4IhewhFVcLOSoxsTLCAgmflxRtWCFI2rHkCtCtGSrxmaRwleNZ1n%2F0affXCMAlPiRvLeiAJ1tBEnFgnHJ0VXkwZo%2FDlNzWK%2BO%2BgA7VWLsOksHEkaI8BA0i1iSZGV12KgL2fMwzKJ1qy8vfmBYlMFJCJjquzUu0AQDIINwq38LTcmeShIBJqBdAGN8zqVGtlS6TEW%2Fv2TC5hflH4Iqo\" width=\"100%\" height=\"380\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Lễ hội c&agrave; ph&ecirc; diễn ra v&agrave;o th&aacute;ng ba. V&igrave; vậy, ch&uacute;ng t&ocirc;i kh&ocirc;ng thể tham dự chuyến đi của ch&uacute;ng t&ocirc;i v&agrave;o th&aacute;ng trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 36532,
+      "questionNumber": 28,
+      "questionName": " Question 21: ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Choose the word(s) OPPOSITE in meaning to the underlined word(s).</span></em></p>\n<p><strong>The book classifies cheeses by <span style=\"text-decoration: underline;\">similarities</span> in flavour, rather than by ingredients.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 111727,
+          "label": "A",
+          "text": "comparisons",
+          "isCorrect": false
+        },
+        {
+          "id": 111728,
+          "label": "B",
+          "text": "differences",
+          "isCorrect": true
+        },
+        {
+          "id": 111729,
+          "label": "C",
+          "text": "distinctions",
+          "isCorrect": false
+        },
+        {
+          "id": 111730,
+          "label": "D",
+          "text": "fakes",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 111728,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2FfZc7oDYl2zFJlntfHZiN%2FrY4AgUJQSKJ1ca%2FDjyC0CMgAj51NQnYUQJXUPYtZXshYrXZJBPcsOn5DWjnIMA3mcLCQFfRSjHrzRMXwj0JAx4quIoy8CpS4j9JhSxHaNdiMJmwqK0ghMOp%2BSYfofHnt7qIOZGqfYFsUJoQFKILo9KuAG3LRaXkGJN3GY51Bdu8n6mnblAQVX5z53dI%2BJph8f3D1jNSxxfJjfI1lU306FPNftsz0qceioMzsBzE3QjLgxM7hOD6qUvymDMEFBys%2Fc6lcAxpn%2F1zq3%2FfOuxQEVguitGDnUrD6IO3jssyqQ%2FbTDaLZ5M9Ao%2BZt%2Fa4VO3YSmHUv0RdMOz%2FHp01b%2FYJGDRwbmxWRKZcDWgmiGuXAvPuvhvKIsZcyhvuvm9HSvS5Ky2v2B0zKL0sw%2BgZcDRp%2F3GK%2Fv58heySndnNPMwqEOxQLwlflCoAQNQ%3D%3D\" width=\"100%\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Cuốn s&aacute;ch ph&acirc;n loại c&aacute;c loại ph&ocirc; mai theo sự tương đồng về hương vị, hơn l&agrave; theo th&agrave;nh phần.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 133493,
+      "questionNumber": 29,
+      "questionName": "Question 35. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) which is OPPOSITE in meaning to the underlined word(s).</em><br><strong>It&#8217;s <u>discourteous</u> to ask Americans questions about their age, marriage or income.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 313914,
+          "label": "A",
+          "text": "impolite",
+          "isCorrect": false
+        },
+        {
+          "id": 313915,
+          "label": "B",
+          "text": "polite",
+          "isCorrect": true
+        },
+        {
+          "id": 313916,
+          "label": "C",
+          "text": "unacceptable",
+          "isCorrect": false
+        },
+        {
+          "id": 313917,
+          "label": "D",
+          "text": "rude",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 313915,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2F%2FDSQf1rO9LeUVtWbL1f48R%2FMh6LrFOhfh9eQBw3vQYQOikt6YHp%2FAaWygG77MnqVPzMUYhPKt9e5vI8zkI%2Fxy%2F5Mm%2BBuxKD9CbEgY5Jn4hsDXAIPxx3AvpImF%2FcA4oiSlrPjal52LlKQYRH76bevPDUf2NAzVi7PVqhYEkiof5FhZiTlZV81VZdpzxv41fTuzCfUjLfC9KyPSWw1ehnSm37jmd6wOFQoaRXodRiKuDIbKeaDPSS5DDAGLHyOxFHEpz2FCwtJQuhAbC9yQvpEraUNMKyvT5FGQjlu3Td5LUM5bohVP9NtNrQb30vnkJrNNzBHl1BwdznjE7%2FtneHLM%2BfSXcdqy37Y%3D\" width=\"380\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Việc hỏi người Mỹ về tuổi, h&ocirc;n nh&acirc;n hay thu nhập l&agrave; rất <span style=\"text-decoration: underline;\">bất lịch sự</span>.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 195257,
+      "questionNumber": 30,
+      "questionName": "32",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is closest in meaning to the following sentence.</em></p>\n<p><strong>No houses in this street are older than his house.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 446328,
+          "label": "A",
+          "text": "His house is the oldest house in this street.",
+          "isCorrect": true
+        },
+        {
+          "id": 446329,
+          "label": "B",
+          "text": "His house is oldest than other houses in this street.",
+          "isCorrect": false
+        },
+        {
+          "id": 446330,
+          "label": "C",
+          "text": "This house is the oldest house in this street.",
+          "isCorrect": false
+        },
+        {
+          "id": 446331,
+          "label": "D",
+          "text": "His house is not older than this house in the street.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 446328,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c so s&aacute;nh nhất với t&iacute;nh từ ngắn: <strong>S + to be + the + adj. + est + Noun/Pronoun</strong>.</p>\n<p>\"<strong>this house</strong>\" kh&ocirc;ng chỉ r&otilde; sự sở hữu của đối tượng \"<strong>he</strong>\" với ng&ocirc;i nh&agrave;. =&gt; loại phương &aacute;n 3.</p>\n<p>Dịch: Kh&ocirc;ng ng&ocirc;i nh&agrave; n&agrave;o tr&ecirc;n con đường n&agrave;y cổ hơn nh&agrave; của anh ấy.</p>\n<p>~ Nh&agrave; của anh ấy l&agrave; ng&ocirc;i nh&agrave; cổ nhất tr&ecirc;n con đường n&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 23700,
+      "questionNumber": 31,
+      "questionName": "Question 6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is closest in meaning to the following sentence.</em></p>\n<p><strong>Bobby asked me, &quot;Will you be at the party on Saturday?&quot;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 72762,
+          "label": "A",
+          "text": "Bobby wanted to know if he would be at the party on Saturday.",
+          "isCorrect": false
+        },
+        {
+          "id": 72763,
+          "label": "B",
+          "text": "Bobby asked me if I would be at the party on Saturday.",
+          "isCorrect": true
+        },
+        {
+          "id": 72764,
+          "label": "C",
+          "text": "Bobby wanted to know if I will be at the party on Saturday.",
+          "isCorrect": false
+        },
+        {
+          "id": 72765,
+          "label": "D",
+          "text": "Bobby wondered if he will be at the party on Saturday.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 72763,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u gi&aacute;n tiếp dạng c&acirc;u hỏi Yes/No: <strong>S + asked (sb)/wondered/wanted to know + if/whether + S + V(l&ugrave;i th&igrave;) + ...</strong></p>\n<p>Đổi đại từ: \"<strong>you</strong>\" =&gt; \"<strong>I</strong>\"&nbsp;</p>\n<p>L&ugrave;i th&igrave;: \"<strong>will</strong>\" =&gt; \"<strong>would</strong>\"</p>\n<p>Dịch: Bobby hỏi t&ocirc;i: \"Bạn sẽ đến bữa tiệc v&agrave;o thứ Bảy chứ?\"</p>\n<p>~ Bobby hỏi t&ocirc;i liệu t&ocirc;i c&oacute; đến bữa tiệc v&agrave;o thứ Bảy kh&ocirc;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 226640,
+      "questionNumber": 32,
+      "questionName": "772-Passive voice-Part II",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is closest in meaning to the following sentence.</em></p>\n<p><strong>Workers installed an air conditioning system at his house 4 days ago.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 508541,
+          "label": "A",
+          "text": "He installed his home air conditioning system 4 days ago.",
+          "isCorrect": false
+        },
+        {
+          "id": 508542,
+          "label": "B",
+          "text": "He had his home air conditioning system installed 4 days ago.",
+          "isCorrect": true
+        },
+        {
+          "id": 508543,
+          "label": "C",
+          "text": "He had his home air conditioning system been installed 4 days ago.",
+          "isCorrect": false
+        },
+        {
+          "id": 508544,
+          "label": "D",
+          "text": "He had his home air conditioning system had installed 4 days ago.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 508542,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c thể cầu khiến: <strong>have/get + sth + V(pp)</strong>: thu&ecirc;/nhờ ai l&agrave;m g&igrave; đ&oacute; cho m&igrave;nh</p>\n<p>Dịch:&nbsp;C&aacute;c c&ocirc;ng nh&acirc;n đ&atilde; lắp đặt hệ thống điều h&ograve;a tại nh&agrave; anh ấy v&agrave;o 4 ng&agrave;y trước.</p>\n<p>~ Anh ấy đ&atilde; thu&ecirc; người lắp đặt hệ thống điều h&ograve;a v&agrave;o 4 ng&agrave;y trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 12827,
+      "questionNumber": 33,
+      "questionName": "Question 46. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>David broke his leg and couldn&#8217;t play in the final.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 42466,
+          "label": "A",
+          "text": "David couldn’t play in the final due to his broken leg.",
+          "isCorrect": true
+        },
+        {
+          "id": 42467,
+          "label": "B",
+          "text": "If David hadn’t broken his leg, he could play in the final now.",
+          "isCorrect": false
+        },
+        {
+          "id": 42468,
+          "label": "C",
+          "text": "If David didn’t break his leg, he could play in the final.",
+          "isCorrect": false
+        },
+        {
+          "id": 42469,
+          "label": "D",
+          "text": "But for his broken leg, David couldn’t have played in the final.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 42466,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span class=\"fontstyle0\"><strong>due to + N/V-ing ~ because of + N/V-ing</strong>: bởi v&igrave;</span></p>\n<p><span class=\"fontstyle0\">but for + N: nếu kh&ocirc;ng c&oacute; .. th&igrave; =&gt; Phương &aacute;n 4 kh&ocirc;ng ph&ugrave; hợp về nghĩa.</span></p>\n<p>C&acirc;u điều kiện loại 3 diễn tả điều kiện kh&ocirc;ng c&oacute; thật trong qu&aacute; khứ.</p>\n<p>Cấu tr&uacute;c: If + S + had + V(pp), S + would/could&hellip;+ have + V(pp).</p>\n<p>Phương &aacute;n 2, 3 d&ugrave;ng sai cấu tr&uacute;c c&acirc;u điều kiện.</p>\n<p><span class=\"fontstyle0\">Dịch: David bị g&atilde;y ch&acirc;n v&agrave; đ&atilde; kh&ocirc;ng thể chơi trận chung kết. </span></p>\n<p><span class=\"fontstyle0\">~ David đ&atilde; kh&ocirc;ng thể chơi trận chung kết bởi c&aacute;i ch&acirc;n g&atilde;y.<br /></span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 278944,
+      "questionNumber": 34,
+      "questionName": "36. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>brother / wish / that / can speak / English / fluent / as / native speaker.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 614940,
+          "label": "A",
+          "text": "My brother wishes that he could speak English as fluent as a native speaker.",
+          "isCorrect": false
+        },
+        {
+          "id": 614941,
+          "label": "B",
+          "text": "My brother wishes that he could speak English as fluently as a native speaker.",
+          "isCorrect": true
+        },
+        {
+          "id": 614942,
+          "label": "C",
+          "text": "My brother wishes that he can speak English as fluent as a native speaker.",
+          "isCorrect": false
+        },
+        {
+          "id": 614943,
+          "label": "D",
+          "text": "My brother wishes that he can speak English as fluently as a native speaker.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 614941,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Trạng từ \"<strong>fluently</strong></span>\" bổ sung nghĩa cho động từ \"<strong>speak</strong>\".</p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c </span><strong>\"wish\"</strong><span style=\"font-weight: 400;\"> thể hiện mong ước một điều g&igrave; đ&oacute; kh&ocirc;ng c&oacute; thật ở hiện tại hoặc giả định một điều tr&aacute;i ngược so với thực tế.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: </span><strong>S + wish(es) + (that) + S + V(pt)&nbsp;</strong></p>\n<p>Dạng qu&aacute; khứ của động từ khuyết thiếu chỉ khả năng ở hiện tại ''<strong>can</strong>\" l&agrave; \"<strong>could</strong>\".</p>\n<p>Dịch: Anh trai t&ocirc;i ước anh ấy c&oacute; thể n&oacute;i tiếng Anh tr&ocirc;i chảy như người bản xứ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 9003,
+      "questionNumber": 35,
+      "questionName": "Question 171.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>The staff / help / me / send the money / very helpful and courteous.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 27449,
+          "label": "A",
+          "text": "The staff helped me to send the money were very helpful and courteous.",
+          "isCorrect": false
+        },
+        {
+          "id": 27450,
+          "label": "B",
+          "text": "The staff that helped me to send the money which were very helpful and courteous.",
+          "isCorrect": false
+        },
+        {
+          "id": 27451,
+          "label": "C",
+          "text": "The staff whom helped me to send the money they were very helpful and courteous.",
+          "isCorrect": false
+        },
+        {
+          "id": 27452,
+          "label": "D",
+          "text": "The staff that helped me to send the money were very helpful and courteous.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 27452,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\"><strong>that + V</strong>: thay thế danh từ chỉ người (<strong>the staff</strong>), đ&oacute;ng vai tr&ograve; chủ ngữ trong mệnh đề quan hệ.</span></p>\n<p><span style=\"font-weight: 400;\">whom + clause: thay thế cho danh từ chỉ người, l&agrave;m t&acirc;n ngữ trong mệnh đề.</span></p>\n<p><span style=\"font-weight: 400;\">which + V: thay thế danh từ chỉ vật, đ&oacute;ng vai tr&ograve; chủ ngữ trong mệnh đề quan hệ.</span></p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em><span style=\"text-decoration: line-through;\"><strong>The staff helped</strong></span> me to send the money were very helpful and courteous. (kh&ocirc;ng c&oacute; sự li&ecirc;n kết về mặt ngữ ph&aacute;p giữa động từ \"helped\" v&agrave; \"were\")</em></li>\n<li><em>The staff that helped me to send the money <span style=\"text-decoration: line-through;\"><strong>which</strong><strong> were very helpful and courteous</strong></span>.</em></li>\n<li><em>The staff <span style=\"text-decoration: line-through;\"><strong>whom</strong></span> helped me to send the money <span style=\"text-decoration: line-through;\"><strong>they</strong></span> were very helpful and courteous.</em></li>\n</ul>\n<p>Dịch: C&aacute;c nh&acirc;n vi&ecirc;n m&agrave; đ&atilde; gi&uacute;p t&ocirc;i gửi tiền th&igrave; rất nhiệt t&igrave;nh v&agrave; lịch sự.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 228401,
+      "questionNumber": 36,
+      "questionName": "destroyed",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>The city / destroyed / the storm / 2015.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 513145,
+          "label": "A",
+          "text": "The city was destroyed by the storm in 2015.",
+          "isCorrect": true
+        },
+        {
+          "id": 513146,
+          "label": "B",
+          "text": "The city has been destroyed by the storm in 2015.",
+          "isCorrect": false
+        },
+        {
+          "id": 513147,
+          "label": "C",
+          "text": "The city was destroying with the storm in 2015.",
+          "isCorrect": false
+        },
+        {
+          "id": 513148,
+          "label": "D",
+          "text": "The city had been destroying with the storm in 2015.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 513145,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Cần xác định chủ thể <em>The city</em> chịu tác động của hành động <em>destroyed</em>, cho thấy cần sử dụng thể bị động.</p>\n<p>Lưu ý mốc thời gian cụ thể <em>2015</em> yêu cầu thì quá khứ đơn, không phải thì hiện tại hoàn thành hay các thì tiếp diễn.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\">Thì quá khứ đơn được dùng để diễn tả hành động, sự việc đã xảy ra và kết thúc ở trong quá khứ (trong câu này có dấu hiệu nhận biết là mốc thời gian quá khứ - năm 2015). </p>\n<p style=\"text-align: justify;\">Chủ ngữ \"<strong>The city</strong>\" chịu tác động của hành động \"<strong>destroy</strong>\" nên cần dùng thể bị động. </p>\n<p style=\"text-align: justify;\">Cấu trúc câu bị động với thì quá khứ đơn: <strong>S + was/were + V(pp) + (by + O)</strong></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">in + năm</span>: vào năm ...</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">→</span> Phương án 1 \"<span style=\"font-weight: 600;\">The city <span class=\"eq-highlight\" style=\"color: #5fbd18;\">was destroyed by</span> the storm <span class=\"eq-highlight\" style=\"color: #5fbd18;\">in</span> 2015.</span>\" là đáp án đúng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương án 2 \"<span style=\"font-weight: 600;\">The city <span style=\"color: #ff0000;\">has been destroyed</span> by the storm in 2015.</span>\" sai vì thì hiện tại hoàn thành bị động không được dùng với mốc thời gian cụ thể trong quá khứ như <em>in 2015</em>.</li>\n<li style=\"text-align: justify;\">Phương án 3 \"<span style=\"font-weight: 600;\">The city <span style=\"color: #ff0000;\">was destroying with</span> the storm in 2015.</span>\" sai vì câu sử dụng thì quá khứ tiếp diễn ở thể chủ động không phù hợp với ngữ cảnh bị động và giới từ <em>with</em> không dùng để chỉ tác nhân.</li>\n<li style=\"text-align: justify;\">Phương án 4 \"<span style=\"font-weight: 600;\">The city <span style=\"color: #ff0000;\">had been destroying with</span> the storm in 2015.</span>\" sai vì thì quá khứ hoàn thành tiếp diễn ở thể chủ động không phù hợp với ngữ cảnh bị động và giới từ <em>with</em> không dùng để chỉ tác nhân.</li>\n</ul>",
+      "answerFeedbacks": {
+        "513145": "Đúng vì câu sử dụng thì quá khứ đơn ở thể bị động <em>was destroyed</em> và giới từ <em>by</em> để chỉ tác nhân, <em>in</em> để chỉ thời gian, phù hợp với ngữ cảnh.",
+        "513146": "Sai vì thì hiện tại hoàn thành bị động <em>has been destroyed</em> không được dùng với mốc thời gian cụ thể trong quá khứ như <em>in 2015</em>.",
+        "513147": "Sai vì câu sử dụng thì quá khứ tiếp diễn ở thể chủ động <em>was destroying</em> không phù hợp với ngữ cảnh bị động và giới từ <em>with</em> không dùng để chỉ tác nhân.",
+        "513148": "Sai vì thì quá khứ hoàn thành tiếp diễn ở thể chủ động <em>had been destroying</em> không phù hợp với ngữ cảnh bị động và giới từ <em>with</em> không dùng để chỉ tác nhân."
+      },
+      "images": []
+    },
+    {
+      "id": 391559,
+      "questionNumber": 37,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>It / be / first time / she / be / abroad.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 799089,
+          "label": "A",
+          "text": "<p>It was the first time that she's been ever abroad.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 799090,
+          "label": "B",
+          "text": "<p>It is the first time that she's ever been abroad.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 799091,
+          "label": "C",
+          "text": "<p>It is the first time that she's been ever abroad.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 799092,
+          "label": "D",
+          "text": "<p>It is a first time that she's ever been abroad.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 799090,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Xác định cấu trúc cố định để diễn tả \"đây là lần đầu tiên ai đó làm gì\", thường bắt đầu bằng <em>\"It is the first time\"</em>.</li>\n<li>Khi sử dụng cấu trúc <em>\"It is the first time\"</em>, hãy nhớ rằng mệnh đề theo sau thường sử dụng thì hiện tại hoàn thành để diễn tả kinh nghiệm tính đến thời điểm hiện tại.</li>\n<li>Chú &yacute vị tr&iacute của trạng từ <em>\"ever\"</em> trong câu với thì hiện tại hoàn thành.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\">Thì Hiện tại hoàn thành được dùng để diễn tả một hành động hoặc sự việc bắt đầu trong quá khứ và vẫn tiếp diễn đến hiện tại, hoặc một kinh nghiệm đã xảy ra trong quá khứ nhưng có liên quan đến hiện tại.</p>\n<p style=\"text-align: justify;\">Cấu trúc ở thể khẳng định: <strong>S + have/has + V(pp)</strong></p>\n<p style=\"text-align: justify;\"><b>It is the first time (that) S + have/has + (ever) + V(pp)</b>: Đó là lần đầu tiên (mà) ai đó (từng) làm gì</p>\n<p style=\"text-align: justify;\"><b>→</b> Phương án 2 \"<strong><span style=\"color: #5fbd18;\">It is the first time that she's ever been abroad.</span></strong>\" là đáp án đúng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương án 1 \"<strong><span style=\"color: #ff0000;\">It was</span> the first time that <span style=\"color: #ff0000;\">she's been ever abroad</span>.</strong>\" sai vì dùng thì quá khứ đơn \"was\" không phù hợp với thì hiện tại hoàn thành \"she's been\" trong cấu trúc \"It is the first time...\" và vị trí của trạng từ \"ever\" chưa đúng.</li>\n<li style=\"text-align: justify;\">Phương án 3 \"<strong>It is the first time that <span style=\"color: #ff0000;\">she's been ever abroad</span>.</strong>\" sai vì trạng từ \"ever\" phải đứng giữa trợ động từ \"has\" và động từ phân từ hai \"been\".</li>\n<li style=\"text-align: justify;\">Phương án 4 \"<strong>It is <span style=\"color: #ff0000;\">a first time</span> that she's ever been abroad.</strong>\" sai vì cụm \"first time\" trong cấu trúc này phải dùng mạo từ xác định \"the\" chứ không phải mạo từ không xác định \"a\".</li>\n</ul>",
+      "answerFeedbacks": {
+        "799089": "<p>Sai vì có sự không hòa hợp về thì (mệnh đề chính dùng \"was\" nhưng mệnh đề phụ dùng \"she's been\") và vị trí của trạng từ \"ever\" chưa đúng (phải là \"ever been\")</p>",
+        "799090": "<p>Đúng vì câu này sử dụng đúng cấu trúc \"It is the first time that S + has/have + ever + V(pp)\" và mạo từ \"the\" cho \"first time\".</p>",
+        "799091": "<p>Sai vì trạng từ \"ever\" phải đứng giữa trợ động từ \"has\" và động từ phân từ hai \"been\" trong thì hiện tại hoàn thành.</p>",
+        "799092": "<p>Sai vì cụm từ \"first time\" trong cấu trúc này phải dùng mạo từ xác định \"the\" chứ không phải mạo từ không xác định \"a\".</p>"
+      },
+      "images": []
+    }
+  ]
+}

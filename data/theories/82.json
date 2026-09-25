@@ -1,0 +1,22 @@
+{
+  "topicId": 82,
+  "topicName": "Đọc hiểu văn bản (Reading Comprehension)",
+  "englishName": "Reading Comprehension with Passages",
+  "rules": [
+    {
+      "rule": "1. 5 Dạng câu hỏi đọc hiểu trọng tâm thi vào 10:",
+      "formula": "Dạng 1: Main Idea / Best Title (Đọc câu đầu/cuối các đoạn) // Dạng 2: Factual Detail (Scanning từ khóa trong bài) // Dạng 3: Negative / NOT True / EXCEPT (Đối chiếu 4 phương án) // Dạng 4: Contextual Vocabulary (Đoán nghĩa qua ngữ cảnh) // Dạng 5: Reference / Pronoun (Đọc câu văn liền trước)",
+      "examples": "Nắm vững kỹ năng định vị từ khóa (keywords) để trả lời nhanh và chính xác."
+    },
+    {
+      "rule": "2. Kỹ thuật Skimming & Scanning:",
+      "formula": "Skimming: Đọc lướt 30-45 giây nắm bố cục và ý chính // Scanning: Dò tìm ngày tháng, con số, tên riêng, thuật ngữ kỹ thuật",
+      "examples": "Không cần dịch từng từ; hãy dựa vào câu chứa từ khóa để tìm đáp án."
+    },
+    {
+      "rule": "3. Mẹo xử lý câu hỏi từ vựng ngữ cảnh:",
+      "formula": "Đọc câu chứa từ gạch chân và câu liền trước/sau -> Xác định sắc thái tích cực hay tiêu cực -> Thay thế 4 phương án vào chỗ gạch chân",
+      "examples": "accessible = available, preserve = protect, abundant = plentiful."
+    }
+  ]
+}

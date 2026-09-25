@@ -1,0 +1,452 @@
+[
+  {
+    "id": "116_1",
+    "questionName": "Question 1",
+    "questionText": "<p>________ it was raining heavily, the students arrived at the exam hall on time.</p>",
+    "choices": [
+      {
+        "id": "116_1_2",
+        "text": "Despite",
+        "html": "Despite"
+      },
+      {
+        "id": "116_1_3",
+        "text": "Because",
+        "html": "Because"
+      },
+      {
+        "id": "116_1_4",
+        "text": "However",
+        "html": "However"
+      },
+      {
+        "id": "116_1_1",
+        "text": "Although",
+        "html": "Although"
+      }
+    ],
+    "correctChoiceId": "116_1_1",
+    "explanation": "<p>Đứng trước mệnh đề (S + V: 'it was raining heavily') chỉ sự tương phản: dùng liên từ <strong>Although</strong>.</p>",
+    "ruleTip": "'Although + Mệnh đề (S + V)': mặc dù."
+  },
+  {
+    "id": "116_2",
+    "questionName": "Question 2",
+    "questionText": "<p>________ the torrential rain, they thoroughly enjoyed their camping trip in Ba Vi.</p>",
+    "choices": [
+      {
+        "id": "116_2_1",
+        "text": "Despite",
+        "html": "Despite"
+      },
+      {
+        "id": "116_2_2",
+        "text": "Although",
+        "html": "Although"
+      },
+      {
+        "id": "116_2_3",
+        "text": "Even though",
+        "html": "Even though"
+      },
+      {
+        "id": "116_2_4",
+        "text": "Because",
+        "html": "Because"
+      }
+    ],
+    "correctChoiceId": "116_2_1",
+    "explanation": "<p>Đứng trước cụm danh từ ('the torrential rain'): dùng <strong>Despite</strong> hoặc 'In spite of' (không có of sau despite).</p>",
+    "ruleTip": "'Despite / In spite of + Cụm danh từ / V-ing' (không có of sau despite)."
+  },
+  {
+    "id": "116_3",
+    "questionName": "Question 3",
+    "questionText": "<p>We couldn't play our football match yesterday ________ the stormy weather.</p>",
+    "choices": [
+      {
+        "id": "116_3_2",
+        "text": "because",
+        "html": "because"
+      },
+      {
+        "id": "116_3_3",
+        "text": "since",
+        "html": "since"
+      },
+      {
+        "id": "116_3_1",
+        "text": "because of",
+        "html": "because of"
+      },
+      {
+        "id": "116_3_4",
+        "text": "as",
+        "html": "as"
+      }
+    ],
+    "correctChoiceId": "116_3_1",
+    "explanation": "<p>'The stormy weather' là cụm danh từ chỉ nguyên nhân: dùng <strong>because of</strong> ('because' phải đi với mệnh đề S + V).</p>",
+    "ruleTip": "'Because of + Cụm danh từ' (the bad weather); 'Because + Mệnh đề'."
+  },
+  {
+    "id": "116_4",
+    "questionName": "Question 4",
+    "questionText": "<p>The winter weather was ________ bitterly cold that we decided to stay indoors all day.</p>",
+    "choices": [
+      {
+        "id": "116_4_2",
+        "text": "such",
+        "html": "such"
+      },
+      {
+        "id": "116_4_3",
+        "text": "too",
+        "html": "too"
+      },
+      {
+        "id": "116_4_1",
+        "text": "so",
+        "html": "so"
+      },
+      {
+        "id": "116_4_4",
+        "text": "very",
+        "html": "very"
+      }
+    ],
+    "correctChoiceId": "116_4_1",
+    "explanation": "<p>Cấu trúc chỉ kết quả: <strong>so + adj + that (so bitterly cold that...)</strong> = quá lạnh đến nỗi mà.</p>",
+    "ruleTip": "Cấu trúc: 'so + tính từ + that' (quá... đến nỗi mà)."
+  },
+  {
+    "id": "116_5",
+    "questionName": "Question 5",
+    "questionText": "<p>It was ________ an interesting novel that I read it from cover to cover in one sitting.</p>",
+    "choices": [
+      {
+        "id": "116_5_2",
+        "text": "so",
+        "html": "so"
+      },
+      {
+        "id": "116_5_3",
+        "text": "too",
+        "html": "too"
+      },
+      {
+        "id": "116_5_4",
+        "text": "very",
+        "html": "very"
+      },
+      {
+        "id": "116_5_1",
+        "text": "such",
+        "html": "such"
+      }
+    ],
+    "correctChoiceId": "116_5_1",
+    "explanation": "<p>Cấu trúc chỉ kết quả: <strong>such + a/an + adj + Noun + that (such an interesting novel that...)</strong>.</p>",
+    "ruleTip": "Cấu trúc: 'such + a/an + tính từ + danh từ đếm được + that'."
+  },
+  {
+    "id": "116_6",
+    "questionName": "Question 6",
+    "questionText": "<p>She turned on the dim night light ________ her little daughter wouldn't be frightened in the dark.</p>",
+    "choices": [
+      {
+        "id": "116_6_2",
+        "text": "in order to",
+        "html": "in order to"
+      },
+      {
+        "id": "116_6_1",
+        "text": "so that",
+        "html": "so that"
+      },
+      {
+        "id": "116_6_3",
+        "text": "so as to",
+        "html": "so as to"
+      },
+      {
+        "id": "116_6_4",
+        "text": "because",
+        "html": "because"
+      }
+    ],
+    "correctChoiceId": "116_6_1",
+    "explanation": "<p>Đứng trước mệnh đề chỉ mục đích (her daughter wouldn't be...): dùng liên từ <strong>so that / in order that</strong>.</p>",
+    "ruleTip": "'So that / In order that + Mệnh đề' chỉ mục đích (để mà)."
+  },
+  {
+    "id": "116_7",
+    "questionName": "Question 7",
+    "questionText": "<p>Minh got up early at 5:00 AM ________ miss the school bus to the exam venue.</p>",
+    "choices": [
+      {
+        "id": "116_7_2",
+        "text": "in order to not",
+        "html": "in order to not"
+      },
+      {
+        "id": "116_7_1",
+        "text": "in order not to",
+        "html": "in order not to"
+      },
+      {
+        "id": "116_7_3",
+        "text": "so as to not",
+        "html": "so as to not"
+      },
+      {
+        "id": "116_7_4",
+        "text": "so that not",
+        "html": "so that not"
+      }
+    ],
+    "correctChoiceId": "116_7_1",
+    "explanation": "<p>Chỉ mục đích phủ định với động từ nguyên mẫu: <strong>in order not to / so as not to + V-inf (in order not to miss)</strong>.</p>",
+    "ruleTip": "Chỉ mục đích phủ định: 'in order not to / so as not to + V-inf' (để không bị)."
+  },
+  {
+    "id": "116_8",
+    "questionName": "Question 8",
+    "questionText": "<p>He studied very hard for the entrance exam. ________, he did not achieve the dream score he wished.</p>",
+    "choices": [
+      {
+        "id": "116_8_2",
+        "text": "Although",
+        "html": "Although"
+      },
+      {
+        "id": "116_8_3",
+        "text": "Therefore",
+        "html": "Therefore"
+      },
+      {
+        "id": "116_8_4",
+        "text": "Despite",
+        "html": "Despite"
+      },
+      {
+        "id": "116_8_1",
+        "text": "However",
+        "html": "However"
+      }
+    ],
+    "correctChoiceId": "116_8_1",
+    "explanation": "<p>Trạng từ liên kết đứng đầu câu sau dấu chấm và có dấu phẩy ngăn cách diễn tả ý tương phản: <strong>However,</strong>.</p>",
+    "ruleTip": "'However' đứng đầu câu sau dấu chấm và ngăn cách bởi dấu phẩy (; however, hoặc . However,)."
+  },
+  {
+    "id": "116_9",
+    "questionName": "Question 9",
+    "questionText": "<p>Although he was feeling sick, he still went to work. = In spite of ________ sick, he still went to work.</p>",
+    "choices": [
+      {
+        "id": "116_9_2",
+        "text": "be",
+        "html": "be"
+      },
+      {
+        "id": "116_9_3",
+        "text": "was",
+        "html": "was"
+      },
+      {
+        "id": "116_9_1",
+        "text": "being",
+        "html": "being"
+      },
+      {
+        "id": "116_9_4",
+        "text": "he was",
+        "html": "he was"
+      }
+    ],
+    "correctChoiceId": "116_9_1",
+    "explanation": "<p>Chuyển đổi từ 'Although + clause' sang 'In spite of + V-ing': động từ to be biến đổi thành <strong>being (being sick)</strong>.</p>",
+    "ruleTip": "'In spite of + V-ing' (being ill) thay cho mệnh đề 'Although he was ill'."
+  },
+  {
+    "id": "116_10",
+    "questionName": "Question 10",
+    "questionText": "<p>The main bridge was under repair; ________, all vehicles had to take a detour.</p>",
+    "choices": [
+      {
+        "id": "116_10_2",
+        "text": "however",
+        "html": "however"
+      },
+      {
+        "id": "116_10_3",
+        "text": "although",
+        "html": "although"
+      },
+      {
+        "id": "116_10_1",
+        "text": "therefore",
+        "html": "therefore"
+      },
+      {
+        "id": "116_10_4",
+        "text": "otherwise",
+        "html": "otherwise"
+      }
+    ],
+    "correctChoiceId": "116_10_1",
+    "explanation": "<p>Trạng từ nối chỉ kết quả hệ quả hợp lý (cây cầu bị hỏng; vì thế xe cộ phải đi đường vòng): <strong>therefore (vì vậy, do đó)</strong>.</p>",
+    "ruleTip": "'Therefore' chỉ kết quả: vì vậy, do đó."
+  },
+  {
+    "id": "116_11",
+    "questionName": "Question 11",
+    "questionText": "<p>________ Tom nor his close friends have visited that historical pagoda before.</p>",
+    "choices": [
+      {
+        "id": "116_11_1",
+        "text": "Neither",
+        "html": "Neither"
+      },
+      {
+        "id": "116_11_2",
+        "text": "Either",
+        "html": "Either"
+      },
+      {
+        "id": "116_11_3",
+        "text": "Both",
+        "html": "Both"
+      },
+      {
+        "id": "116_11_4",
+        "text": "Not only",
+        "html": "Not only"
+      }
+    ],
+    "correctChoiceId": "116_11_1",
+    "explanation": "<p>Cặp liên từ tương quan đi với 'nor': <strong>Neither... nor (cả hai đều không)</strong>.</p>",
+    "ruleTip": "Cặp liên từ tương quan: 'Neither... nor' (cả hai đều không)."
+  },
+  {
+    "id": "116_12",
+    "questionName": "Question 12",
+    "questionText": "<p>This learning software is ________ extremely user-friendly and very helpful for Grade 10 students.</p>",
+    "choices": [
+      {
+        "id": "116_12_1",
+        "text": "both",
+        "html": "both"
+      },
+      {
+        "id": "116_12_2",
+        "text": "either",
+        "html": "either"
+      },
+      {
+        "id": "116_12_3",
+        "text": "neither",
+        "html": "neither"
+      },
+      {
+        "id": "116_12_4",
+        "text": "not",
+        "html": "not"
+      }
+    ],
+    "correctChoiceId": "116_12_1",
+    "explanation": "<p>Cặp liên từ tương quan đi với 'and': <strong>Both... and (vừa... vừa...)</strong>.</p>",
+    "ruleTip": "Cặp liên từ tương quan: 'Both... and' (vừa... vừa...)."
+  },
+  {
+    "id": "116_13",
+    "questionName": "Question 13",
+    "questionText": "<p>She speaks ________ English fluently but also French with great confidence.</p>",
+    "choices": [
+      {
+        "id": "116_13_2",
+        "text": "both",
+        "html": "both"
+      },
+      {
+        "id": "116_13_1",
+        "text": "not only",
+        "html": "not only"
+      },
+      {
+        "id": "116_13_3",
+        "text": "either",
+        "html": "either"
+      },
+      {
+        "id": "116_13_4",
+        "text": "as well as",
+        "html": "as well as"
+      }
+    ],
+    "correctChoiceId": "116_13_1",
+    "explanation": "<p>Cặp liên từ song hành: <strong>not only... but also (không những... mà còn)</strong>.</p>",
+    "ruleTip": "Cặp liên từ: 'Not only... but also' (không những... mà còn)."
+  },
+  {
+    "id": "116_14",
+    "questionName": "Question 14",
+    "questionText": "<p>You can choose ________ the morning practice session or the afternoon mock test.</p>",
+    "choices": [
+      {
+        "id": "116_14_2",
+        "text": "neither",
+        "html": "neither"
+      },
+      {
+        "id": "116_14_3",
+        "text": "both",
+        "html": "both"
+      },
+      {
+        "id": "116_14_4",
+        "text": "not only",
+        "html": "not only"
+      },
+      {
+        "id": "116_14_1",
+        "text": "either",
+        "html": "either"
+      }
+    ],
+    "correctChoiceId": "116_14_1",
+    "explanation": "<p>Cặp liên từ lựa chọn 1 trong 2 đi với 'or': <strong>Either... or</strong>.</p>",
+    "ruleTip": "Cặp liên từ: 'Either... or' (hoặc cái này hoặc cái kia)."
+  },
+  {
+    "id": "116_15",
+    "questionName": "Question 15",
+    "questionText": "<p>It was getting dark outside, ________ we decided to take a taxi home instead of walking.</p>",
+    "choices": [
+      {
+        "id": "116_15_1",
+        "text": "so",
+        "html": "so"
+      },
+      {
+        "id": "116_15_2",
+        "text": "because",
+        "html": "because"
+      },
+      {
+        "id": "116_15_3",
+        "text": "although",
+        "html": "although"
+      },
+      {
+        "id": "116_15_4",
+        "text": "but",
+        "html": "but"
+      }
+    ],
+    "correctChoiceId": "116_15_1",
+    "explanation": "<p>Liên từ đứng sau dấu phẩy nối mệnh đề chỉ nguyên nhân với kết quả: <strong>so (cho nên, vì vậy)</strong>.</p>",
+    "ruleTip": "Liên từ 'so' đứng giữa câu sau dấu phẩy để nối mệnh đề chỉ kết quả."
+  }
+]

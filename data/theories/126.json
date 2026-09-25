@@ -1,0 +1,27 @@
+{
+  "topicId": 126,
+  "topicName": "Câu điều kiện loại 0, câu điều kiện loại 1",
+  "englishName": "Zero and first conditional",
+  "rules": [
+    {
+      "rule": "Câu điều kiện loại 0: Diễn tả chân lý, sự thật hiển nhiên hoặc quy luật tự nhiên.",
+      "formula": "If/When + S + V(hiện tại đơn), S + V(hiện tại đơn)",
+      "examples": "If you heat ice, it melts. / If water reaches 100°C, it boils."
+    },
+    {
+      "rule": "Câu điều kiện loại 1: Diễn tả sự việc có thể xảy ra ở hiện tại hoặc tương lai.",
+      "formula": "If + S + V(hiện tại đơn), S + will/can/may/must + V(nguyên thể)",
+      "examples": "If it rains tomorrow, we will stay at home."
+    },
+    {
+      "rule": "Cấu trúc tương đương UNLESS (Trừ phi, nếu... không):",
+      "formula": "Unless + S + V(khẳng định) = If + S + V(phủ định)",
+      "examples": "Unless you study hard, you will fail the exam. (= If you don't study hard...)"
+    },
+    {
+      "rule": "Đảo ngữ câu điều kiện loại 1 với Should:",
+      "formula": "Should + S + V(nguyên thể), S + will/can + V(nguyên thể)",
+      "examples": "Should you need any help, please call me."
+    }
+  ]
+}

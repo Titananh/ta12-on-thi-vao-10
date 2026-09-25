@@ -1,0 +1,22 @@
+{
+  "topicId": 80,
+  "topicName": "Gợi ý, lời đề nghị và lời mời",
+  "englishName": "Suggestions, Offers and Invitations",
+  "rules": [
+    {
+      "rule": "1. Đưa ra gợi ý (Suggestions) & Phản hồi:",
+      "formula": "Why don't we + V-inf? / Let's + V-inf / How about / What about + V-ing? / Shall we + V-inf?",
+      "examples": "Đồng ý: 'That's a great idea!' / 'Sounds good to me!' / 'That sounds like fun!'. Từ chối: 'I'd love to, but I have to study.'"
+    },
+    {
+      "rule": "2. Đưa ra lời đề nghị giúp đỡ (Offers) & Phản hồi:",
+      "formula": "Can/May I help you? / Shall I + V-inf? / Would you like me to + V-inf?",
+      "examples": "Đồng ý: 'Yes, please. That's very kind of you.' Từ chối: 'No, thank you. I can manage it myself.'"
+    },
+    {
+      "rule": "3. Đưa ra lời mời (Invitations) & Phản hồi:",
+      "formula": "Would you like to + V-inf? / Do you want to join us for...?",
+      "examples": "Đồng ý: 'Yes, I'd love to. Thank you!' / 'Sure, why not?'. Từ chối: 'I'd love to, but I'm afraid I have an appointment.'"
+    }
+  ]
+}

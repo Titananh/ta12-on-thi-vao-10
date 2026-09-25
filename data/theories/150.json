@@ -1,0 +1,27 @@
+{
+  "topicId": 150,
+  "topicName": "Giới từ chỉ thời gian, nơi chốn và cụm giới từ",
+  "englishName": "Prepositions of Time, Place & Common Dependent Prepositions",
+  "rules": [
+    {
+      "rule": "Giới từ chỉ thời gian: IN, ON, AT.",
+      "formula": "IN + năm/tháng/mùa/thế kỷ/buổi // ON + ngày trong tuần/ngày tháng cụ thể/ngày lễ có 'Day' // AT + giờ giấc/thời điểm chính xác/ban đêm",
+      "examples": "in 2026, in May, in the morning // on Monday, on July 15th, on Christmas Day // at 7:00, at noon, at night"
+    },
+    {
+      "rule": "Giới từ chỉ nơi chốn: IN, ON, AT.",
+      "formula": "IN + thành phố/quốc gia/không gian kín // ON + tên đường/tầng nhà/bề mặt/phương tiện công cộng // AT + số nhà/địa điểm cụ thể",
+      "examples": "in Hanoi, in Vietnam, in the room // on Tran Phu street, on the second floor, on the bus // at 25 Trang Tien street, at school"
+    },
+    {
+      "rule": "Cụm tính từ đi kèm giới từ thông dụng thi vào 10:",
+      "formula": "good/bad AT, interested IN, fond OF, keen ON, famous FOR, proud OF, tired OF, afraid OF, excited ABOUT",
+      "examples": "She is interested in reading books. / He is very proud of his daughter."
+    },
+    {
+      "rule": "Cụm động từ + giới từ đặc biệt:",
+      "formula": "look forward TO + V-ing, depend ON, congratulate sb ON sth, spend (time) ON",
+      "examples": "I am looking forward to seeing you. / Success depends on hard work."
+    }
+  ]
+}

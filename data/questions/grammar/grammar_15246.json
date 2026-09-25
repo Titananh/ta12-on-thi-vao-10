@@ -1,0 +1,865 @@
+{
+  "quizId": 15246,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 19: Present perfect and Past simple (Thì Hiện tại Hoàn thành với Thì Quá khứ đơn)",
+  "totalQuestions": 22,
+  "questions": [
+    {
+      "id": 899007,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#7885;n t&#7915;/c&#7909;m t&#7915; l&#224; d&#7845;u hi&#7879;u nh&#7853;n bi&#7871;t c&#7911;a th&#236; qu&#225; kh&#7913; &#273;&#417;n.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1709006,
+          "label": "A",
+          "text": "so far",
+          "isCorrect": false
+        },
+        {
+          "id": 1709007,
+          "label": "B",
+          "text": "five years ago",
+          "isCorrect": true
+        },
+        {
+          "id": 1709008,
+          "label": "C",
+          "text": "last summer",
+          "isCorrect": true
+        },
+        {
+          "id": 1709009,
+          "label": "D",
+          "text": "for ten months",
+          "isCorrect": false
+        },
+        {
+          "id": 1709010,
+          "label": "E",
+          "text": "yesterday",
+          "isCorrect": true
+        },
+        {
+          "id": 1709011,
+          "label": "F",
+          "text": "in the past",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1709007,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/Bai_14_Thi_qua_khu__on_64e2b955.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 899008,
+      "questionNumber": 2,
+      "questionName": "1",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#7885;n t&#7915;/c&#7909;m t&#7915; l&#224; d&#7845;u hi&#7879;u nh&#7853;n bi&#7871;t c&#7911;a th&#236; hi&#7879;n t&#7841;i ho&#224;n th&#224;nh.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1709012,
+          "label": "A",
+          "text": "now",
+          "isCorrect": false
+        },
+        {
+          "id": 1709013,
+          "label": "B",
+          "text": "since 1890",
+          "isCorrect": true
+        },
+        {
+          "id": 1709014,
+          "label": "C",
+          "text": "at the moment",
+          "isCorrect": false
+        },
+        {
+          "id": 1709015,
+          "label": "D",
+          "text": "for ten months",
+          "isCorrect": true
+        },
+        {
+          "id": 1709016,
+          "label": "E",
+          "text": "already",
+          "isCorrect": true
+        },
+        {
+          "id": 1709017,
+          "label": "F",
+          "text": "the day before",
+          "isCorrect": false
+        },
+        {
+          "id": 1709018,
+          "label": "Opt 7",
+          "text": "yet",
+          "isCorrect": true
+        },
+        {
+          "id": 1709019,
+          "label": "Opt 8",
+          "text": "ever",
+          "isCorrect": true
+        },
+        {
+          "id": 1709020,
+          "label": "Opt 9",
+          "text": "last weekend",
+          "isCorrect": false
+        },
+        {
+          "id": 1709021,
+          "label": "Opt 10",
+          "text": "at present",
+          "isCorrect": false
+        },
+        {
+          "id": 1709022,
+          "label": "Opt 11",
+          "text": "for a long time",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1709013,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/9_-_Copy_10_f95bd096.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 186244,
+      "questionNumber": 3,
+      "questionName": "5",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Their children _____ lots of new friends since they _____ to that town.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 426243,
+          "label": "A",
+          "text": "made / have been moving",
+          "isCorrect": false
+        },
+        {
+          "id": 426244,
+          "label": "B",
+          "text": "made / are moving",
+          "isCorrect": false
+        },
+        {
+          "id": 426245,
+          "label": "C",
+          "text": "have made / moved",
+          "isCorrect": true
+        },
+        {
+          "id": 426246,
+          "label": "D",
+          "text": "were making / have moved",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 426245,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Mệnh đề ch&iacute;nh nhấn mạnh một t&igrave;nh trạng bắt đầu trong qu&aacute; khứ v&agrave; k&eacute;o d&agrave;i đến hiện tại =&gt; sử dụng th&igrave; h</span>iện tại ho&agrave;n th&agrave;nh.</p>\n<p><span style=\"font-weight: 400;\">Mệnh đề trạng ngữ diễn tả một sự kiện xảy ra v&agrave; kết th&uacute;c trong qu&aacute; khứ =&gt; d&ugrave;ng th&igrave; q</span>u&aacute; khứ đơn.</p>\n<p>Cấu tr&uacute;c: <strong>S + have/has + (not) + V(pp) + since + S + V(pt)</strong></p>\n<p>Dịch: Con c&aacute;i của họ đ&atilde; c&oacute; rất nhiều bạn mới kể từ khi họ chuyển đến thị trấn đ&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 31833,
+      "questionNumber": 4,
+      "questionName": "Question 5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He _____ suntanned since I _____ him for the first time.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 97741,
+          "label": "A",
+          "text": "always looked / have met",
+          "isCorrect": false
+        },
+        {
+          "id": 97742,
+          "label": "B",
+          "text": "was always looking / was meeting",
+          "isCorrect": false
+        },
+        {
+          "id": 97743,
+          "label": "C",
+          "text": "always looked / met",
+          "isCorrect": false
+        },
+        {
+          "id": 97744,
+          "label": "D",
+          "text": "has always looked / met",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 97744,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Mệnh đề ch&iacute;nh nhấn mạnh một t&igrave;nh trạng được duy tr&igrave; từ trước đến nay, có trạng từ \"<strong>always</strong>\" (lu&ocirc;n lu&ocirc;n) =&gt; dùng th&igrave; hiện tại ho&agrave;n th&agrave;nh<em>.</em></p>\n<p>Mệnh đề trạng ngữ chỉ thời gian nhắc đến sự việc đ&atilde; xảy ra v&agrave; kết th&uacute;c trong qu&aacute; khứ =&gt; d&ugrave;ng<em> </em>th&igrave;<em> </em>qu&aacute; khứ đơn<em>.</em></p>\n<p>Cấu tr&uacute;c: <strong>S + have/has + V(pp) + since + S + V(pt)</strong></p>\n<p>Dịch: Anh ấy đ&atilde; lu&ocirc;n tr&ocirc;ng r&aacute;m nắng kể từ lần đầu t&ocirc;i gặp anh ấy.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 199286,
+      "questionNumber": 5,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Since I _____ him, I have never seen him so angry like that.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 453491,
+          "label": "A",
+          "text": "have known",
+          "isCorrect": false
+        },
+        {
+          "id": 453492,
+          "label": "B",
+          "text": "knew",
+          "isCorrect": true
+        },
+        {
+          "id": 453493,
+          "label": "C",
+          "text": "<p>know</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 453494,
+          "label": "D",
+          "text": "am knowing",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 453492,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Trong câu có <em>\"Since I _____ him, I have never seen him so angry like that.\"</em>, bạn cần chú ý đến cấu trúc <em>\"since\"</em> dùng để chỉ mốc thời gian bắt đầu của một hành động.<br/><ul><li>Khi mệnh đề chính sử dụng thì Hiện tại Hoàn thành (như <em>\"I have never seen him...\"</em>), mệnh đề phụ theo sau <em>\"since\"</em> thường diễn tả một sự kiện hoặc thời điểm cụ thể trong quá khứ làm mốc.</li><li>Hãy xem xét thì nào phù hợp nhất để diễn tả một hành động đã xảy ra và kết thúc ở một thời điểm trong quá khứ.</li></ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Hiện tại Hoàn thành và Thì Quá khứ đơn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Thì Hiện tại Hoàn thành diễn tả hành động bắt đầu trong quá khứ và kéo dài đến hiện tại hoặc có kết quả ở hiện tại. Thì Quá khứ đơn diễn tả hành động đã xảy ra và kết thúc hoàn toàn trong quá khứ tại một thời điểm xác định.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + have/has + V(pp) + since + S + V(pt)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Mệnh đề chính <strong>\"I have never seen him so angry like that\"</strong> của câu sử dụng thì Hiện tại Hoàn thành, diễn tả một hành động kéo dài từ quá khứ đến hiện tại. Liên từ <strong>\"since\" </strong>ở đây có nghĩa là \"kể từ khi\", dùng để chỉ mốc thời gian bắt đầu của hành động ở mệnh đề chính. Theo quy tắc ngữ pháp, mệnh đề theo sau <strong>\"since\" </strong>trong trường hợp này phải chia ở thì Quá khứ đơn để chỉ một thời điểm cụ thể trong quá khứ. Vì vậy, phương án 2, <strong>\"knew\"</strong>, là đáp án đúng.</p>",
+      "answerFeedbacks": {
+        "453491": "Sai vì thì Hiện tại Hoàn thành không được dùng trong mệnh đề trạng ngữ chỉ thời gian bắt đầu sau <em>\"since\"</em> khi mệnh đề chính cũng ở thì Hiện tại Hoàn thành.",
+        "453492": "Đúng vì mệnh đề theo sau <em>\"since\"</em> (khi <em>\"since\"</em> mang nghĩa \"kể từ khi\") phải dùng thì Quá khứ đơn để chỉ thời điểm bắt đầu của hành động ở mệnh đề chính.",
+        "453493": "<p>Sai vì thì Hiện tại đơn không phù hợp để diễn tả một hành động đã bắt đầu trong quá khứ làm mốc thời gian cho một hành động khác kéo dài đến hiện tại.</p>",
+        "453494": "Sai vì thì Hiện tại tiếp diễn không được dùng với động từ <em>\"know\"</em> (là một động từ chỉ trạng thái) và không phù hợp với cấu trúc thời gian của câu."
+      },
+      "images": []
+    },
+    {
+      "id": 31829,
+      "questionNumber": 6,
+      "questionName": "Question 1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I haven't had this much fun since I _____ a kid. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 97725,
+          "label": "A",
+          "text": "was",
+          "isCorrect": true
+        },
+        {
+          "id": 97726,
+          "label": "B",
+          "text": "have been",
+          "isCorrect": false
+        },
+        {
+          "id": 97727,
+          "label": "C",
+          "text": "am",
+          "isCorrect": false
+        },
+        {
+          "id": 97728,
+          "label": "D",
+          "text": "had been",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 97725,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Mệnh đề ch&iacute;nh nhấn mạnh một t&igrave;nh trạng được duy tr&igrave; từ trước đến nay&nbsp;=&gt; dùng th&igrave; hiện tại ho&agrave;n th&agrave;nh<em>.</em></p>\n<p>Mệnh đề trạng ngữ chỉ thời gian nhắc đến sự việc đ&atilde; xảy ra v&agrave; kết th&uacute;c trong qu&aacute; khứ =&gt; d&ugrave;ng<em> </em>th&igrave;<em> </em>qu&aacute; khứ đơn<em>.</em></p>\n<p>Cấu tr&uacute;c: <strong>S + have/has + not + V(pp) + since + S + V(pt)</strong>: Ai đ&oacute; đ&atilde; kh&ocirc;ng l&agrave;m g&igrave; kể từ khi n&agrave;o</p>\n<p>Dịch: T&ocirc;i chưa từng c&oacute; dịp vui nhiều thế n&agrave;y từ khi t&ocirc;i c&ograve;n l&agrave; một đứa trẻ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 186250,
+      "questionNumber": 7,
+      "questionName": "15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Martina _____ all of the questions correctly since she began this grammar course.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 426267,
+          "label": "A",
+          "text": "answers",
+          "isCorrect": false
+        },
+        {
+          "id": 426268,
+          "label": "B",
+          "text": "has answered",
+          "isCorrect": true
+        },
+        {
+          "id": 426269,
+          "label": "C",
+          "text": "answered",
+          "isCorrect": false
+        },
+        {
+          "id": 426270,
+          "label": "D",
+          "text": "is answering",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 426268,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Mệnh đề ch&iacute;nh diễn tả một h&agrave;nh động đ&atilde; bắt đầu từ qu&aacute; khứ v&agrave; vẫn k&eacute;o d&agrave;i đến hiện tại =&gt; d&ugrave;ng th&igrave; hiện tại ho&agrave;n th&agrave;nh.</p>\n<p>Mệnh đề chỉ thời gian diễn tả một sự kiện đ&atilde; xảy ra v&agrave; bắt đầu trong qu&aacute; khứ =&gt; d&ugrave;ng th&igrave; qu&aacute; khứ đơn.</p>\n<p>Cấu tr&uacute;c: <strong>S + have/has + V(pp) + since + S + V(pt)</strong>: Ai đ&oacute; đ&atilde; l&agrave;m g&igrave; từ khi n&agrave;o&nbsp;</p>\n<p>Dịch: Martina trả lời đ&uacute;ng tất cả c&aacute;c c&acirc;u hỏi từ khi c&ocirc; ấy bắt đầu kh&oacute;a học ngữ ph&aacute;p n&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 186513,
+      "questionNumber": 8,
+      "questionName": "21",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Her academic performance has greatly improved since she _____ her study methods.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 426893,
+          "label": "A",
+          "text": "would change",
+          "isCorrect": false
+        },
+        {
+          "id": 426894,
+          "label": "B",
+          "text": "changed",
+          "isCorrect": true
+        },
+        {
+          "id": 426895,
+          "label": "C",
+          "text": "was changing",
+          "isCorrect": false
+        },
+        {
+          "id": 426896,
+          "label": "D",
+          "text": "will change",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 426894,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại ho&agrave;n th&agrave;nh diễn tả h&agrave;nh động xảy ra trong qu&aacute; khứ, k&eacute;o d&agrave;i tới hiện tại c&oacute; thể tiếp tục trong tương lai.</p>\n<p><span style=\"font-weight: 400;\">Mệnh đề trạng ngữ (sau \"<strong>since</strong>\") diễn tả một sự kiện xảy ra v&agrave; kết th&uacute;c trong qu&aacute; khứ =&gt; d&ugrave;ng th&igrave; q</span>u&aacute; khứ đơn.</p>\n<p>Cấu tr&uacute;c: <strong>S + have/has + V(pp) + since + S + V(pt)</strong></p>\n<p>Dịch: <span class=\"tlid-translation translation\" lang=\"vi\"><span class=\"\" title=\"\">Kết quả học tập của c&ocirc; ấy đ&atilde; cải thiện rất nhiều kể từ khi c&ocirc; ấy thay đổi phương ph&aacute;p học tập.</span></span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 31831,
+      "questionNumber": 9,
+      "questionName": "Question 3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Jonny, I can't believe how much you _____ since the last time I _____ you. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 97733,
+          "label": "A",
+          "text": "changed/have seen",
+          "isCorrect": false
+        },
+        {
+          "id": 97734,
+          "label": "B",
+          "text": "have changed/saw",
+          "isCorrect": true
+        },
+        {
+          "id": 97735,
+          "label": "C",
+          "text": "are changing/saw",
+          "isCorrect": false
+        },
+        {
+          "id": 97736,
+          "label": "D",
+          "text": "changed/had seen",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 97734,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Mệnh đề ch&iacute;nh diễn tả trạng th&aacute;i thay đổi từ qu&aacute; khứ đến hiện tại =&gt; d&ugrave;ng th&igrave; hiện tại ho&agrave;n th&agrave;nh.&nbsp;</p>\n<p>Mệnh đề chỉ thời gian diễn tả sự kiện đ&atilde; xảy ra v&agrave; kết th&uacute;c trong qu&aacute; khứ =&gt; d&ugrave;ng th&igrave; qu&aacute; khứ đơn.&nbsp;</p>\n<p>Cấu tr&uacute;c: <strong>S + have/has + (not) + V(pp) + since + S + V(pt)</strong>: Ai đ&oacute; đ&atilde; (kh&ocirc;ng) l&agrave;m g&igrave; kể từ khi n&agrave;o</p>\n<p>Dịch: Jonny, t&ocirc;i kh&ocirc;ng thể tin được l&agrave; bạn đ&atilde; thay đổi nhiều như thế n&agrave;o kể từ lần cuối c&ugrave;ng t&ocirc;i gặp bạn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 798820,
+      "questionNumber": 10,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>He last attended an international conference on renewable energy ten months ago.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1534721,
+          "label": "A",
+          "text": "He has attended an international conference on renewable energy for ten months.",
+          "isCorrect": false
+        },
+        {
+          "id": 1534722,
+          "label": "B",
+          "text": "He hasn't attended any international conferences on renewable energy for ten months.",
+          "isCorrect": true
+        },
+        {
+          "id": 1534723,
+          "label": "C",
+          "text": "He started to attend an international conference on renewable energy ten months ago.",
+          "isCorrect": false
+        },
+        {
+          "id": 1534724,
+          "label": "D",
+          "text": "He didn't attend any international conferences on renewable energy ten months ago.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1534722,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> S + last + V(pt) + thời gian + ago</strong>: Lần cuối ai l&agrave;m g&igrave; v&agrave;o l&uacute;c n&agrave;o</span></p>\n<p>~ <strong>S + have/has + not + V(pp) + for + khoảng thời gian</strong>: Ai đ&oacute; đ&atilde; kh&ocirc;ng l&agrave;m g&igrave; trong bao l&acirc;u</p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em>He <span style=\"text-decoration: line-through;\"><strong>has attended</strong></span> an international conference on renewable energy for ten months. (sai nghĩa vì là kh&ocirc;ng tham dự h&ocirc;̣i thảo nào trong 10 tháng)</em></li>\n<li><em>He <span style=\"text-decoration: line-through;\"><strong>started to attend</strong></span> an international conference on renewable energy ten months ago. (sai nghĩa vì là kh&ocirc;ng tham dự h&ocirc;̣i thảo nào trong 10 tháng)</em></li>\n<li><em>He <span style=\"text-decoration: line-through;\"><strong>didn't attend</strong></span> any international conferences on renewable energy ten months ago. (sai nghĩa vì l&acirc;̀n cu&ocirc;́i cùng tham dự h&ocirc;̣i thảo là 10 tháng trước)</em></li>\n</ul>\n<p>Dịch: Lần cuối c&ugrave;ng anh ấy tham dự một hội nghị quốc tế về năng lượng t&aacute;i tạo l&agrave; mười th&aacute;ng trước.</p>\n<p>~ Anh ấy đ&atilde; kh&ocirc;ng tham dự bất kỳ hội nghị quốc tế n&agrave;o về năng lượng t&aacute;i tạo trong mười th&aacute;ng.</p>\n<div id=\"eJOY__extension_root\" class=\"eJOY__extension_root_class\" style=\"all: unset;\"></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 843756,
+      "questionNumber": 11,
+      "questionName": "2. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>He started learning English at this English center six years ago.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1608917,
+          "label": "A",
+          "text": "He has learned English at this English center since six years.",
+          "isCorrect": false
+        },
+        {
+          "id": 1608918,
+          "label": "B",
+          "text": "He has learned English at this English center for six years.",
+          "isCorrect": true
+        },
+        {
+          "id": 1608919,
+          "label": "C",
+          "text": "He learns English at this English center for six years.",
+          "isCorrect": false
+        },
+        {
+          "id": 1608920,
+          "label": "D",
+          "text": "He have learned English at this English center since six years.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1608918,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: <strong>S + started/began + V-ing/to V(inf) + khoảng thời gian + ago</strong>: Ai đ&oacute; đ&atilde; bắt đầu l&agrave;m g&igrave; v&agrave;o l&uacute;c n&agrave;o </span></p>\n<p><span style=\"font-weight: 400;\">~ <strong>S + has/have + V(pp) + for + khoảng thời gian</strong>: Ai đ&oacute; đ&atilde; l&agrave;m g&igrave; trong bao l&acirc;u&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Các phương án còn lại sai vì:</span></p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">He has learned English at this English center <span style=\"text-decoration: line-through;\"><strong>since</strong></span> six years.</span></em></li>\n<li><em><span style=\"font-weight: 400;\">He <span style=\"text-decoration: line-through;\"><strong>learns</strong></span> English at this English center for six years.</span></em></li>\n<li><em><span style=\"font-weight: 400;\">He <span style=\"text-decoration: line-through;\"><strong>have</strong></span> learned English at this English center <span style=\"text-decoration: line-through;\"><strong>since</strong></span> six years.</span></em></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Dịch: Anh ấy bắt đầu học tiếng Anh s&aacute;u năm trước.</span></p>\n<p><span style=\"font-weight: 400;\">~ Anh ấy đ&atilde; học tiếng Anh được s&aacute;u năm.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 300940,
+      "questionNumber": 12,
+      "questionName": "Câu 1: ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>The last time this boy met his classmates was a month ago.</strong></p>\n<div style=\"position: absolute; left: -171px; top: -12px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 655981,
+          "label": "A",
+          "text": "This boy hasn't met his classmates since a month.",
+          "isCorrect": false
+        },
+        {
+          "id": 655982,
+          "label": "B",
+          "text": "This boy hasn't met his classmates for a month.",
+          "isCorrect": true
+        },
+        {
+          "id": 655983,
+          "label": "C",
+          "text": "This boy didn't meet his classmates for a month.",
+          "isCorrect": false
+        },
+        {
+          "id": 655984,
+          "label": "D",
+          "text": "This boy didn't meet his classmates a month ago.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 655982,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: <strong>The last time + S + V(pt) + &hellip; + was + khoảng thời gian + ago</strong>: Lần cuối c&ugrave;ng ai đ&oacute; l&agrave;m g&igrave; l&agrave; khi n&agrave;o</span></p>\n<p><span style=\"font-weight: 400;\">~ <strong>S + have/has + not + V(pp) + &hellip; + for + khoảng thời gian</strong>: Ai đ&oacute; đ&atilde; kh&ocirc;ng l&agrave;m g&igrave; trong bao l&acirc;u</span></p>\n<p><span style=\"font-weight: 400;\">Các phương án còn lại sai vì:</span></p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">This boy hasn't met his classmates <span style=\"text-decoration: line-through;\"><strong>since a month</strong></span>.</span></em></li>\n<li><em><span style=\"font-weight: 400;\">This boy <span style=\"text-decoration: line-through;\"><strong>didn't meet</strong></span> his classmates for a month.</span></em></li>\n<li><em><span style=\"font-weight: 400;\">This boy didn't meet his classmates a month ago. (sai nghĩa)</span></em></li>\n</ul>\n<p>Dịch: Lần cuối c&ugrave;ng cậu b&eacute; n&agrave;y gặp bạn c&ugrave;ng lớp l&agrave; một th&aacute;ng trước.</p>\n<p>~ Cậu b&eacute; n&agrave;y đ&atilde; kh&ocirc;ng gặp bạn c&ugrave;ng lớp được một th&aacute;ng rồi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 571017,
+      "questionNumber": 13,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>He last cooked for the whole family five months ago.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1111205,
+          "label": "A",
+          "text": "He didn't cook for the whole family five months ago.",
+          "isCorrect": false
+        },
+        {
+          "id": 1111206,
+          "label": "B",
+          "text": "He has cooked for the whole family for five months.",
+          "isCorrect": false
+        },
+        {
+          "id": 1111207,
+          "label": "C",
+          "text": "He hasn't cooked for the whole family for five months.",
+          "isCorrect": true
+        },
+        {
+          "id": 1111208,
+          "label": "D",
+          "text": "He would cook for the whole family in five months.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1111207,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + last + V(pt) + thời gian + ago</strong>: Lần cuối ai đ&oacute; l&agrave;m g&igrave; v&agrave;o l&uacute;c n&agrave;o &nbsp;</p>\n<p>~ <strong>S + have/has + not + V(pp) +&hellip;+ for + khoảng thời gian</strong>: Ai đ&oacute; đ&atilde; kh&ocirc;ng l&agrave;m g&igrave; trong bao l&acirc;u</p>\n<p><span style=\"font-weight: 400;\">Các phương án còn lại sai vì:</span></p>\n<ul>\n<li><em>He didn't cook for the whole family five months ago. (sai nghĩa)</em></li>\n<li><em>He has cooked for the whole family for five months. (sai nghĩa)</em></li>\n<li><em><span style=\"font-weight: 400;\">He would cook for the whole family in five months. (sai nghĩa)</span></em></li>\n</ul>\n<p>Dịch: Lần cuối c&ugrave;ng anh ấy nấu ăn cho cả gia đ&igrave;nh l&agrave; 5 th&aacute;ng trước.</p>\n<p>~ Anh ấy đ&atilde; kh&ocirc;ng nấu ăn cho cả gia đ&igrave;nh được 5 th&aacute;ng rồi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 694880,
+      "questionNumber": 14,
+      "questionName": "(*)I.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Tim started playing for the school's basketball team 2 years ago.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1344756,
+          "label": "A",
+          "text": "Tim used to play for the school's basketball team 2 years ago.",
+          "isCorrect": false
+        },
+        {
+          "id": 1344757,
+          "label": "B",
+          "text": "Tim has played for the school's basketball team for 2 years.",
+          "isCorrect": true
+        },
+        {
+          "id": 1344758,
+          "label": "C",
+          "text": "Tim has not played for the school's basketball team for 2 years.",
+          "isCorrect": false
+        },
+        {
+          "id": 1344759,
+          "label": "D",
+          "text": "Tim played for the school's basketball team 2 years ago.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1344757,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"color: #000000; background-color: #fbeeb8;\"><strong>Kiến thức cần lưu &yacute;:</strong></span></p>\n<ul>\n<li><span style=\"font-weight: 400;\"><strong>S + started + V-ing/to V(inf) + khoảng thời gian + ago</strong>: Ai đ&oacute; đ&atilde; bắt đầu l&agrave;m g&igrave; v&agrave;o l&uacute;c n&agrave;o</span></li>\n<li><strong>S + have/has + V(pp) +&hellip;+ for + khoảng thời gian</strong>: Ai đ&oacute; đ&atilde; l&agrave;m g&igrave; khoảng bao l&acirc;u</li>\n</ul>\n<hr />\n<p><span style=\"color: #000000; background-color: #fbeeb8;\"><strong>Dịch:</strong></span></p>\n<p><em>C&acirc;u gốc: Tim <strong>đ&atilde; bắt đầu chơi</strong> cho đội b&oacute;ng rổ của trường <strong>c&aacute;ch đ&acirc;y 2 năm</strong>.</em></p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong></span>&nbsp;Tim đ&atilde; từng chơi cho đội b&oacute;ng rổ của trường 2 năm trước.</p>\n<p><span style=\"color: #2dc26b;\"><strong>✔</strong></span> Tim <strong>đ&atilde; chơi</strong> cho đội b&oacute;ng rổ của trường <strong>được 2 năm rồi</strong>.&nbsp;</p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong></span> Tim đ&atilde; kh&ocirc;ng chơi cho đội b&oacute;ng rổ của trường được 2 năm rồi.&nbsp;</p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong></span>&nbsp;Tim đ&atilde; chơi cho đội b&oacute;ng rổ của trường v&agrave;o 2 năm trước.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 681915,
+      "questionNumber": 15,
+      "questionName": "47",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first. Write NO MORE THAN THREE words.</em></p>\n<p><strong>He's been a member of the tennis club for two years.</strong></p>\n<p><strong>=> He started <span class='fillblank-option'><input id='fbo-681915-0' class='ms fillblank-option-15' index='0' name='fbo-681915-0' type='text' size='22' autocomplete='off' data-testid='fillblank-input-681915-0' /></span> club two years ago.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "joining the tennis"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>Present Perfect Simple (S + have/has + V(pp))</strong>: diễn tả hành động bắt đầu trong quá khứ và tiếp diễn đến hiện tại, thường đi với <strong>for + khoảng thời gian</strong> hoặc <strong>since + mốc thời gian</strong></p>\n<p style=\"text-align: justify;\"><strong>start + V-ing / to-V(inf)</strong>: bắt đầu làm gì</p>\n<p style=\"text-align: justify;\"><strong>be a member of (phr.)</strong>: là thành viên của (một tổ chức, câu lạc bộ)</p>\n<p style=\"text-align: justify;\"><strong>join (v.)</strong>: gia nhập, tham gia (một tổ chức, câu lạc bộ)</p>\n<p style=\"text-align: justify;\"><span style=\"color: #5fbd18; font-weight: 600;\">Phân tích:&nbsp;</span></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 5px;\">Câu gốc <em>\"He's been a member of the tennis club for two years.\"</em> sử dụng thì Hiện tại hoàn thành để diễn tả một trạng thái (là thành viên) bắt đầu trong quá khứ và kéo dài đến hiện tại, cùng với giới từ <strong>for</strong> chỉ khoảng thời gian.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Câu viết lại bắt đầu bằng <em>\"He started...\"</em> và kết thúc bằng <em>\"...two years ago.\"</em>, cho thấy sự chuyển đổi từ thì Hiện tại hoàn thành sang thì Quá khứ đơn, tập trung vào thời điểm bắt đầu hành động.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Để chuyển đổi <em>\"been a member of the tennis club\"</em> sang dạng động từ sau <strong>started</strong>, ta cần tìm một động từ có nghĩa tương đương với việc \"là thành viên của\". Động từ <strong>join</strong> (gia nhập) là phù hợp nhất, và có thể dùng ở dạng V-ing (<strong>joining</strong>) hoặc to-V(inf) (<strong>to join</strong>) sau <strong>start</strong>.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phần <em>\"the tennis\"</em> trong chỗ trống và <em>\"club\"</em> sau chỗ trống kết hợp lại thành cụm <em>\"the tennis club\"</em>, là tân ngữ của động từ <strong>join</strong>.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Do đó, chỗ trống cần điền là <em>\"joining the tennis\"</em> hoặc <em>\"to join the tennis\"</em> để hoàn thành câu <em>\"He started joining the tennis club two years ago.\"</em> hoặc <em>\"He started to join the tennis club two years ago.\"</em>, cả hai đều có nghĩa là \"Anh ấy bắt đầu tham gia câu lạc bộ quần vợt hai năm trước.\" và tuân thủ giới hạn \"NO MORE THAN THREE words\".</li>\n</ul>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 706136,
+      "questionNumber": 16,
+      "questionName": "60",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first. Write NO MORE THAN THREE words.</em></p>\n<p><strong>My father began working in this company five years ago.</strong></p>\n<p><strong>=&gt; My father <span class='fillblank-option'><input id='fbo-706136-0' class='ms fillblank-option-16' index='0' name='fbo-706136-0' type='text' size='18' autocomplete='off' data-testid='fillblank-input-706136-0' /></span> in this company for five years.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "has worked",
+            "has been working"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + started/began + V-ing/to V(inf) + khoảng thời gian + ago</strong>: Ai đ&oacute; đ&atilde; bắt đầu l&agrave;m g&igrave; v&agrave;o l&uacute;c n&agrave;o</p>\n<p>~ <strong>S</strong> <strong>+ has/have + V(pp) + for + khoảng thời gian</strong>: Ai đ&oacute; đ&atilde; l&agrave;m g&igrave; trong bao l&acirc;u</p>\n<p>Có th&ecirc;̉ dùng thì hi&ecirc;̣n tại hoàn thành ti&ecirc;́p di&ecirc;̃n đ&ecirc;̉ nh&acirc;́n mạnh sự ti&ecirc;́p di&ecirc;̃n của hành đ&ocirc;̣ng.</p>\n<p>C&acirc;́u trúc: <strong>S + has/have + been + V-ing</strong></p>\n<p>Dịch:&nbsp;Bố t&ocirc;i bắt đầu l&agrave;m việc ở c&ocirc;ng ty n&agrave;y 5 năm trước.</p>\n<p>~ Bố t&ocirc;i đ&atilde; l&agrave;m việc ở c&ocirc;ng ty n&agrave;y được 5 năm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 852790,
+      "questionNumber": 17,
+      "questionName": "Cam FCE 7 - USE OF ENGLISH - P2 - T3 (P.62)",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><em>Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.</em></p>\n<p style=\"text-align: justify;\"><strong>The company hasn't introduced any new product lines since January. (LAST)</strong></p>\n<p style=\"text-align: justify;\"><strong>=&gt; The </strong><strong><span class='fillblank-option'><input id='fbo-852790-0' class='ms fillblank-option-17' index='0' name='fbo-852790-0' type='text' size='25' autocomplete='off' data-testid='fillblank-input-852790-0' /></span> its new product line in January.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "company last introduced"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <span style=\"font-weight: 400;\"><strong>S + have/has + not + V(pp) + since + mốc thời gian</strong>: Ai đ&oacute; đ&atilde; kh&ocirc;ng l&agrave;m g&igrave; từ khi n&agrave;o</span></p>\n<p><span style=\"font-weight: 400;\">~ Cấu tr&uacute;c: <strong>S + last + V(pt) + thời gian</strong>: Lần cuối ai đ&oacute; l&agrave;m g&igrave; v&agrave;o lúc nào</span></p>\n<p>Dịch: C&ocirc;ng ty n&agrave;y chưa giới thiệu bất kỳ d&ograve;ng sản phẩm mới n&agrave;o kể từ th&aacute;ng 1.</p>\n<p>~ Lần cuối c&ugrave;ng c&ocirc;ng ty n&agrave;y giới thiệu d&ograve;ng sản phẩm mới l&agrave; v&agrave;o th&aacute;ng 1.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 23219,
+      "questionNumber": 18,
+      "questionName": "Q20",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.</em></p>\n<p><strong>I last drank champagne at my brother's wedding. (NOT)</strong></p>\n<p><strong>=&gt; I have <span class='fillblank-option'><input id='fbo-23219-0' class='ms fillblank-option-18' index='0' name='fbo-23219-0' type='text' size='30' autocomplete='off' data-testid='fillblank-input-23219-0' /></span> my brother's wedding.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "not drunk champagne since",
+            "not drunk any champagne since"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + last + V(pt) + thời gian</strong>: Lần cuối ai đ&oacute; l&agrave;m g&igrave; v&agrave;o l&uacute;c n&agrave;o &nbsp;</p>\n<p>~ <strong>S + have/has + not + V(pp) +&hellip;+ since + mốc thời gian</strong>: Ai đ&oacute; đ&atilde; kh&ocirc;ng l&agrave;m g&igrave; kể từ khi n&agrave;o</p>\n<p>Dịch:&nbsp;Lần cuối c&ugrave;ng t&ocirc;i uống rượu s&acirc;m panh l&agrave; ở đ&aacute;m cưới của anh trai t&ocirc;i.</p>\n<p>~ T&ocirc;i đ&atilde; kh&ocirc;ng uống rượu s&acirc;m panh kể từ đ&aacute;m cưới của anh trai t&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 619823,
+      "questionNumber": 19,
+      "questionName": "36",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>My sister started working as an English teacher ten years ago.</strong></p>\n<p><strong>=&gt; My sister has ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "My sister has worked as an English teacher for ten years.",
+        "My sister has been working as an English teacher for ten years."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + started/began + V-ing/to V(inf) + khoảng thời gian + ago</strong>: Ai đ&oacute; đ&atilde; bắt đầu l&agrave;m g&igrave; từ l&uacute;c n&agrave;o</p>\n<p>~ <strong>S + has/have + V(pp) + for + khoảng thời gian</strong>: Ai đ&oacute; đ&atilde; l&agrave;m g&igrave; trong bao l&acirc;u</p>\n<p>Có th&ecirc;̉ dùng thì hi&ecirc;̣n tại hoàn thành ti&ecirc;́p di&ecirc;̃n đ&ecirc;̉ nh&acirc;́n mạnh sự ti&ecirc;́p di&ecirc;̃n của hành đ&ocirc;̣ng.</p>\n<p>C&acirc;́u trúc: <strong>S + has/have + been + V-ing</strong></p>\n<p>Dịch: Chị t&ocirc;i đ&atilde; bắt đầu l&agrave;m gi&aacute;o vi&ecirc;n tiếng Anh mười năm trước.</p>\n<p>~ Chị t&ocirc;i đ&atilde; l&agrave;m gi&aacute;o vi&ecirc;n tiếng Anh trong mười năm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 648726,
+      "questionNumber": 20,
+      "questionName": "9",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>How long has it been since they built the house?</strong></p>\n<p><strong>=> When ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "When did they build the house?",
+        "When was the house built?"
+      ],
+      "hint": "<p>Để hỏi về một sự việc đ&atilde; xảy ra trong qu&aacute; khứ, ta c&oacute; thể d&ugrave;ng hai cấu tr&uacute;c hỏi tương đương: một cấu tr&uacute;c hỏi về&nbsp;<b>khoảng thời gian</b>&nbsp;đ&atilde; tr&ocirc;i qua kể từ khi sự việc xảy ra (d&ugrave;ng th&igrave; Hiện tại ho&agrave;n th&agrave;nh), v&agrave; một cấu tr&uacute;c hỏi về&nbsp;<b>thời điểm</b>&nbsp;cụ thể sự việc đ&oacute; xảy ra (d&ugrave;ng th&igrave; Qu&aacute; khứ đơn).</p>\n<p><b>Cấu tr&uacute;c 1:</b> How long has it been since + S + V(pt)?</p>\n<p><b>Cấu tr&uacute;c 2:</b>&nbsp;When + did + S + V(inf)?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<blockquote>\n<p style=\"text-align: left; margin-left: -10px;\"><strong>build (v.):</strong> x&acirc;y dựng</p>\n<p style=\"text-align: left; margin-left: -10px;\"><strong>Hỏi về khoảng thời gian với th&igrave; Hiện tại ho&agrave;n th&agrave;nh:</strong></p>\n<ul>\n<li style=\"text-align: left;\">Cấu tr&uacute;c: <strong>How long + has it been + since + S + V(qu&aacute; khứ đơn)?</strong></li>\n</ul>\n<p style=\"text-align: left; margin-left: -10px;\"><strong>Hỏi về thời điểm với th&igrave; Qu&aacute; khứ đơn:</strong></p>\n<ul>\n<li style=\"text-align: left;\">Cấu tr&uacute;c chủ động: <strong>When + did + S + V(nguy&ecirc;n thể)?</strong></li>\n<li style=\"text-align: left;\">Cấu tr&uacute;c bị động: <strong>When + was/were + S + V(ph&acirc;n từ II)?</strong></li>\n</ul>\n</blockquote>\n<p style=\"text-align: justify;\"><span style=\"color: #5fbd18; font-weight: 600;\"><br />Ph&acirc;n t&iacute;ch:&nbsp;</span></p>\n<ul>\n<li style=\"text-align: justify;\">C&acirc;u gốc \"<strong>How long has it been since they built the house?</strong>\" d&ugrave;ng th&igrave; Hiện tại ho&agrave;n th&agrave;nh để hỏi về <em>khoảng thời gian</em> đ&atilde; tr&ocirc;i qua kể từ khi ng&ocirc;i nh&agrave; được x&acirc;y cho đến nay.</li>\n<li style=\"text-align: justify;\">C&acirc;u viết lại bắt đầu bằng \"<strong>When</strong>\", l&agrave; từ để hỏi về <em>thời điểm</em> một h&agrave;nh động đ&atilde; xảy ra trong qu&aacute; khứ. Do đ&oacute;, ta cần chuyển c&acirc;u hỏi từ th&igrave; Hiện tại ho&agrave;n th&agrave;nh sang th&igrave; Qu&aacute; khứ đơn.</li>\n</ul>\n<p>-&gt; Để hỏi về thời điểm ng&ocirc;i nh&agrave; được x&acirc;y, ta d&ugrave;ng cấu tr&uacute;c c&acirc;u hỏi của th&igrave; Qu&aacute; khứ đơn:</p>\n<ul>\n<li>Dạng chủ động: <strong>When did they build the house?</strong> (Họ đ&atilde; x&acirc;y ng&ocirc;i nh&agrave; khi n&agrave;o?)</li>\n<li>Dạng bị động: <strong>When was the house built?</strong> (Ng&ocirc;i nh&agrave; được x&acirc;y khi n&agrave;o?)</li>\n</ul>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 874702,
+      "questionNumber": 21,
+      "questionName": "new",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Anna hasn&#8217;t visited her grandparents for two years.</strong></p>\n<p><strong>=&gt; The last time ...............</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "The last time Anna visited her grandparents was two years ago."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\"><strong>S + have/has + not + V(pp) +&hellip;+ since/for + mốc/khoảng thời gian</strong>: Ai đ&oacute; đ&atilde; kh&ocirc;ng l&agrave;m g&igrave; kể từ khi n&agrave;o</span></p>\n<p><span style=\"font-weight: 400;\">~<strong> The last time + S + V(pt) +&hellip;+ was + thời gian + ago</strong>: Lần cuối c&ugrave;ng ai đ&oacute; l&agrave;m g&igrave; l&agrave; khi n&agrave;o</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Anna đ&atilde; kh&ocirc;ng thăm &ocirc;ng b&agrave; của m&igrave;nh trong hai năm.</span></p>\n<p><span style=\"font-weight: 400;\">~ Lần cuối c&ugrave;ng Anna thăm &ocirc;ng b&agrave; của m&igrave;nh l&agrave; hai năm trước.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 855759,
+      "questionNumber": 22,
+      "questionName": "đục lỗ",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Read the passage and choose the correct answer for each blank.</strong></p>\n<p style=\"text-align: justify;\">Last month, I <strong><span class='fillblank-option'><label>22.1</label><select class='ms fillblank-option-22' index='0' name='fbo-855759-0' data-testid='fillblank-select-855759-0'><option value='' data-testid='fillblank-option-empty-855759-0'></option><option value=\"begin\" data-testid='fillblank-option-855759-0-begin'>begin</option><option value=\"was starting\" data-testid='fillblank-option-855759-0-was starting'>was starting</option><option value=\"started\" data-testid='fillblank-option-855759-0-started'>started</option><option value=\"start\" data-testid='fillblank-option-855759-0-start'>start</option></select></span></strong> a new fitness routine including running and yoga. I <strong><span class='fillblank-option'><label>22.2</label><select class='ms fillblank-option-22' index='1' name='fbo-855759-1' data-testid='fillblank-select-855759-1'><option value='' data-testid='fillblank-option-empty-855759-1'></option><option value=\"will begin\" data-testid='fillblank-option-855759-1-will begin'>will begin</option><option value=\"has begun\" data-testid='fillblank-option-855759-1-has begun'>has begun</option><option value=\"began\" data-testid='fillblank-option-855759-1-began'>began</option><option value=\"begin\" data-testid='fillblank-option-855759-1-begin'>begin</option></select></span></strong> running for about 30 minutes every day, which I found quite challenging at first. I did yoga 3 times a week, often in the mornings. Since I <strong><span class='fillblank-option'><label>22.3</label><select class='ms fillblank-option-22' index='2' name='fbo-855759-2' data-testid='fillblank-select-855759-2'><option value='' data-testid='fillblank-option-empty-855759-2'></option><option value=\"start\" data-testid='fillblank-option-855759-2-start'>start</option><option value=\"started\" data-testid='fillblank-option-855759-2-started'>started</option><option value=\"was starting\" data-testid='fillblank-option-855759-2-was starting'>was starting</option><option value=\"have started\" data-testid='fillblank-option-855759-2-have started'>have started</option></select></span></strong> this routine, I <strong><span class='fillblank-option'><label>22.4</label><select class='ms fillblank-option-22' index='3' name='fbo-855759-3' data-testid='fillblank-select-855759-3'><option value='' data-testid='fillblank-option-empty-855759-3'></option><option value=\"will feel\" data-testid='fillblank-option-855759-3-will feel'>will feel</option><option value=\"feel\" data-testid='fillblank-option-855759-3-feel'>feel</option><option value=\"felt\" data-testid='fillblank-option-855759-3-felt'>felt</option><option value=\"have felt\" data-testid='fillblank-option-855759-3-have felt'>have felt</option></select></span></strong> more active and healthier. The last time I<strong> <span class='fillblank-option'><label>22.5</label><select class='ms fillblank-option-22' index='4' name='fbo-855759-4' data-testid='fillblank-select-855759-4'><option value='' data-testid='fillblank-option-empty-855759-4'></option><option value=\"has skipping\" data-testid='fillblank-option-855759-4-has skipping'>has skipping</option><option value=\"skip\" data-testid='fillblank-option-855759-4-skip'>skip</option><option value=\"was skipping\" data-testid='fillblank-option-855759-4-was skipping'>was skipping</option><option value=\"skipped\" data-testid='fillblank-option-855759-4-skipped'>skipped</option></select></span></strong> a workout was last week because I was too tired. However, I am determined to keep going. How long <strong><span class='fillblank-option'><label>22.6</label><select class='ms fillblank-option-22' index='5' name='fbo-855759-5' data-testid='fillblank-select-855759-5'><option value='' data-testid='fillblank-option-empty-855759-5'></option><option value=\"hasn't you exercised\" data-testid='fillblank-option-855759-5-hasn't you exercised'>hasn't you exercised</option><option value=\"haven't you exercised\" data-testid='fillblank-option-855759-5-haven't you exercised'>haven't you exercised</option><option value=\"aren't you exercising\" data-testid='fillblank-option-855759-5-aren't you exercising'>aren't you exercising</option><option value=\"don't you exercise\" data-testid='fillblank-option-855759-5-don't you exercise'>don't you exercise</option></select></span></strong>? It&#8217;s important to stay fit and healthy!</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "started"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "began"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "started"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "have felt"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "skipped"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "haven't you exercised"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Dùng thì quá khứ đơn đ&ecirc;̉ di&ecirc;̃n tả hành đ&ocirc;̣ng đã xảy ra và k&ecirc;́t thúc trong quá khứ. D&acirc;́u hi&ecirc;̣u: \"<strong>last month</strong>\".</p>\n<p>C&acirc;́u trúc: <strong>S + V(pt)</strong></p>\n<p>Dịch: Th&aacute;ng trước, t&ocirc;i đ&atilde; bắt đầu một th&oacute;i quen tập thể dục mới bao gồm chạy bộ v&agrave; yoga.</p>\n<p>2. Dùng thì quá khứ đơn đ&ecirc;̉ di&ecirc;̃n tả th&oacute;i quen trong quá khứ.</p>\n<p>C&acirc;́u trúc: <strong>S + V(pt)</strong></p>\n<p>Dịch: T&ocirc;i bắt đầu chạy bộ khoảng 30 ph&uacute;t mỗi ng&agrave;y, vi&ecirc;̣c mà l&uacute;c đầu t&ocirc;i thấy kh&aacute; kh&oacute; khăn.</p>\n<p>3, 4. Dùng thì quá khứ đơn đ&ecirc;̉ di&ecirc;̃n tả hành đ&ocirc;̣ng xảy ra trong quá khứ và thì hi&ecirc;̣n tại hoàn thành đ&ecirc;̉ di&ecirc;̃n tả hành đ&ocirc;̣ng bắt đ&acirc;̀u trong quá khứ và v&acirc;̃n ti&ecirc;́p tục ở hi&ecirc;̣n tại.</p>\n<p>C&acirc;́u trúc: <strong>Since + S + V(pt), S + has/have + V(pp)</strong></p>\n<p>Dịch: Từ khi bắt đầu th&oacute;i quen n&agrave;y, t&ocirc;i cảm thấy năng động v&agrave; khỏe mạnh hơn.</p>\n<p>5. Dùng thì quá khứ đơn đ&ecirc;̉ di&ecirc;̃n tả hành đ&ocirc;̣ng đã xảy ra và k&ecirc;́t thúc trong quá khứ. D&acirc;́u hi&ecirc;̣u: \"<strong>The last time</strong>\".</p>\n<p>C&acirc;́u trúc: <strong>The last time + S + V(pt) +...+ was + thời gian</strong></p>\n<p>Dịch: Lần cuối c&ugrave;ng t&ocirc;i bỏ tập luyện l&agrave; tuần trước v&igrave; t&ocirc;i qu&aacute; mệt.</p>\n<p>6. Dùng thì hi&ecirc;̣n tại hoàn thành đ&ecirc;̉ hỏi v&ecirc;̀ trải nghi&ecirc;̣m.</p>\n<p>C&acirc;́u trúc th&ecirc;̉ nghi v&acirc;́n: <strong>(Wh-word) + have/has + not + S + V(pp)?</strong></p>\n<p>Dịch: Đã bao l&acirc;u r&ocirc;̀i bạn kh&ocirc;ng t&acirc;̣p th&ecirc;̉ dục?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,1186 @@
+{
+  "quizId": 5999,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 45: Comparison of equality (So sánh bằng/không bằng của tính từ và trạng từ)",
+  "totalQuestions": 29,
+  "questions": [
+    {
+      "id": 905512,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ho&#224;n th&#224;nh c&#226;u sau.</strong></p>\n<p>Trong so s&#225;nh <span class='fillblank-option'><input id='fbo-905512-0' class='ms fillblank-option-1' index='0' name='fbo-905512-0' type='text' size='19' autocomplete='off' data-testid='fillblank-input-905512-0' /></span>, ch&#250;ng ta c&#243; th&#7875; s&#7917; d&#7909;ng &quot;so ...as&quot; thay v&#236; &quot;as ...as&quot;.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1739042,
+          "label": "A",
+          "text": "ngang bằng",
+          "isCorrect": false
+        },
+        {
+          "id": 1739041,
+          "label": "B",
+          "text": "không ngang bằng",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "không ngang bằng"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/5_-_Copy_3_b3cac5d0.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 905517,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>X&#225;c &#273;&#7883;nh xem c&#225;c c&#226;u sau &#272;&#218;NG hay SAI.</strong></p>\n<p>1. Kh&#244;ng th&#7875; s&#7917; d&#7909;ng &#273;&#7841;i t&#7915; l&#224;m t&#226;n ng&#7919; theo sau &quot;as&quot; trong c&#225;c c&#226;u so s&#225;nh. <span class='fillblank-option'><label>2.1</label><select class='ms fillblank-option-2' index='0' name='fbo-905517-0' data-testid='fillblank-select-905517-0'><option value='' data-testid='fillblank-option-empty-905517-0'></option><option value=\"Đúng\" data-testid='fillblank-option-905517-0-Đúng'>Đúng</option><option value=\"Sai\" data-testid='fillblank-option-905517-0-Sai'>Sai</option></select></span></p>\n<p>2. C&#243; th&#7875; d&#249;ng danh t&#7915; ho&#7863;c c&#7909;m danh t&#7915; sau &quot;as&quot; trong c&#226;u so s&#225;nh. <span class='fillblank-option'><label>2.2</label><select class='ms fillblank-option-2' index='1' name='fbo-905517-1' data-testid='fillblank-select-905517-1'><option value='' data-testid='fillblank-option-empty-905517-1'></option><option value=\"Sai\" data-testid='fillblank-option-905517-1-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-905517-1-Đúng'>Đúng</option></select></span></p>\n<p>3. Sau &quot;as&quot; trong c&#225;c c&#226;u so s&#225;nh, b&#7841;n kh&#244;ng th&#7875; d&#249;ng &#273;&#7841;i t&#7915; s&#7903; h&#7919;u. <span class='fillblank-option'><label>2.3</label><select class='ms fillblank-option-2' index='2' name='fbo-905517-2' data-testid='fillblank-select-905517-2'><option value='' data-testid='fillblank-option-empty-905517-2'></option><option value=\"Sai\" data-testid='fillblank-option-905517-2-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-905517-2-Đúng'>Đúng</option></select></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Sai"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Đúng"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "Sai"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/Bai_45_So_sanh_bangkhong_bang_cua_tinh_t_595ae5ed.jpg\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 704434,
+      "questionNumber": 3,
+      "questionName": "(*) Question 15:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The fruit juice isn’t _____ expensive as the milk tea.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1367125,
+          "label": "A",
+          "text": "so",
+          "isCorrect": true
+        },
+        {
+          "id": 1367126,
+          "label": "B",
+          "text": "most",
+          "isCorrect": false
+        },
+        {
+          "id": 1367127,
+          "label": "C",
+          "text": "more",
+          "isCorrect": false
+        },
+        {
+          "id": 1367128,
+          "label": "D",
+          "text": "too",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1367125,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để hoàn thành câu so sánh không bằng <em>\"The fruit juice isn’t _____ expensive as the milk tea\"</em>, bạn cần chú ý đến các dấu hiệu ngữ pháp:</p>\n<ul>\n<li>Câu có dạng phủ định với <em>\"isn't\"</em>.</li>\n<li>Có từ <em>\"as\"</em> đứng sau chỗ trống và tính từ <em>\"expensive\"</em>.</li>\n</ul>\n<p>Hãy xem xét phương án nào phù hợp để điền vào chỗ trống, tạo thành cấu trúc so sánh không bằng chính xác.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So sánh bằng và so sánh không bằng</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả sự ngang bằng hoặc không ngang bằng về một tính chất, đặc điểm giữa hai đối tượng, sự vật, hiện tượng.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc:</strong> <strong>S + V + as + adj./adv. + as + N/pron.</strong></p>\n<p><strong>Một số cấu trúc so sánh không bằng:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">S + V + not as + adj./adv. + as + N/pron.</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">S + V + not so + adj./adv. + as + N/pron.</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, có từ <em>\"isn't\"</em> (phủ định) và <em>\"as\"</em> thứ hai, cho thấy đây là dấu hiệu của cấu trúc so sánh không bằng. Cấu trúc phù hợp là <em>\"not as/so + tính từ/trạng từ + as\"</em>. Phương án \"so\" hoàn thành cấu trúc <em>\"not so expensive as\"</em> một cách chính xác.</p>\n<p style=\"text-align: justify;\">Các phương án khác không phù hợp vì \"most\" dùng trong so sánh nhất, \"more\" dùng trong so sánh hơn, và \"too\" (quá) thường đứng trước tính từ/trạng từ nhưng không đi với \"as\" để tạo thành cấu trúc so sánh.</p>",
+      "answerFeedbacks": {
+        "1367125": "Đúng vì <em>\"so\"</em> là một phần của cấu trúc so sánh không bằng <em>\"not so + adj./adv. + as\"</em>, phù hợp với câu phủ định và tính từ <em>\"expensive\"</em>.",
+        "1367126": "Sai vì <em>\"most\"</em> được dùng trong cấu trúc so sánh nhất (the most + adj./adv.) và không phù hợp với cấu trúc <em>\"as...as\"</em>.",
+        "1367127": "Sai vì <em>\"more\"</em> được dùng trong cấu trúc so sánh hơn (more + adj./adv. + than) và không phù hợp với cấu trúc <em>\"as...as\"</em>.",
+        "1367128": "Sai vì <em>\"too\"</em> (quá) dùng để diễn tả mức độ vượt quá, không dùng trong cấu trúc so sánh <em>\"as...as\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 48939,
+      "questionNumber": 4,
+      "questionName": "Question 12:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I don&#8217;t work so hard _____ my father.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 140418,
+          "label": "A",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 140419,
+          "label": "B",
+          "text": "as",
+          "isCorrect": true
+        },
+        {
+          "id": 140420,
+          "label": "C",
+          "text": "than",
+          "isCorrect": false
+        },
+        {
+          "id": 140421,
+          "label": "D",
+          "text": "more",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 140419,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Trong c&acirc;u hỏi, bạn thấy cụm ''<em>don't work so hard''</em> gợi &yacute; đ&acirc;y l&agrave; cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng bằng. Bạn cần điền từ c&ograve;n thiếu để ho&agrave;n th&agrave;nh cấu tr&uacute;c n&agrave;y.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So s&aacute;nh bằng v&agrave; so s&aacute;nh kh&ocirc;ng bằng với ''as''.</span></p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Diễn tả sự tương đồng hoặc kh&aacute;c biệt về mức độ, t&iacute;nh chất của h&agrave;nh động hoặc đối tượng giữa hai chủ thể.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">S + V + as + adv./adj. + as + N/pronoun</span>: ngang bằng về mức độ</li>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">S + V + not as/so + adv./adj. + as + N/pronoun</span>: kh&ocirc;ng bằng về mức độ</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, cụm <em>\"don't work so hard\"</em> l&agrave; dấu hiệu của cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng bằng. Để ho&agrave;n th&agrave;nh cấu tr&uacute;c n&agrave;y, ta cần điền từ ''<em>as''</em> v&agrave;o chỗ trống, theo c&ocirc;ng thức ''<em>not so + adv./adj. + as</em>.''</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n ''<em>than''</em> v&agrave; ''<em>more''</em> d&ugrave;ng cho so s&aacute;nh hơn, kh&ocirc;ng ph&ugrave; hợp trong ngữ cảnh n&agrave;y. Phương &aacute;n ''<em>so''</em> đ&atilde; c&oacute; trong c&acirc;u, n&ecirc;n kh&ocirc;ng thể điền th&ecirc;m.</p>",
+      "answerFeedbacks": {
+        "140418": "Sai vì <em>so</em> đã được sử dụng trước tính từ/trạng từ <em>hard</em> trong cấu trúc so sánh không bằng <em>not so + adj./adv. + as</em>.",
+        "140419": "Đúng vì <em>as</em> hoàn thành cấu trúc so sánh không bằng <em>not so + adv./adj. + as</em>, diễn tả \"không bằng ai/cái gì về mức độ\".",
+        "140420": "Sai vì <em>than</em> được sử dụng trong cấu trúc so sánh hơn (comparative structure), không phải so sánh bằng/không bằng.",
+        "140421": "Sai vì <em>more</em> dùng cho so sánh hơn với tính từ/trạng từ dài hoặc để chỉ số lượng, không phù hợp với cấu trúc <em>not so hard _____</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 886146,
+      "questionNumber": 5,
+      "questionName": "5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>This math exercise _____ the one in the book, so it took me less time to complete.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1687252,
+          "label": "A",
+          "text": "isn’t as difficult so",
+          "isCorrect": false
+        },
+        {
+          "id": 1687253,
+          "label": "B",
+          "text": "isn’t as difficult as",
+          "isCorrect": true
+        },
+        {
+          "id": 1687254,
+          "label": "C",
+          "text": "is as difficult as",
+          "isCorrect": false
+        },
+        {
+          "id": 1687255,
+          "label": "D",
+          "text": "is more difficult than",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1687253,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Phân tích vế sau của câu \"<em>so it took me less time to complete</em>\" để xác định mối quan hệ so sánh giữa \"<em>This math exercise</em>\" và \"<em>the one in the book</em>\".</p>\n<ul>\n<li>Cụ thể, vế sau cho thấy bài tập này dễ hơn hoặc không khó bằng bài trong sách.</li>\n<li>Từ đó, hãy chọn phương án có cấu trúc so sánh diễn đạt ý nghĩa \"không bằng\" và đúng ngữ pháp.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So sánh bằng và so sánh không bằng</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để so sánh sự tương đồng hoặc khác biệt về mức độ của hai đối tượng, sự vật, hiện tượng.</p>\n<p><strong>Một số cấu trúc so sánh phổ biến:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">S + V + as + adj./adv. + as + N/pronoun:</span></strong> Diễn tả hai đối tượng có mức độ tương đương.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">S + V + not as/so + adj./adv. + as + N/pronoun:</span></strong> Diễn tả đối tượng thứ nhất không bằng đối tượng thứ hai về mức độ.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">S + V + more + adj./adv. + than + N/pronoun:</span></strong> Diễn tả đối tượng thứ nhất hơn đối tượng thứ hai về mức độ.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Vế sau của câu \"<em>so it took me less time to complete</em>\" cho biết bài tập này mất ít thời gian hơn để hoàn thành, ngụ ý rằng bài tập này không khó bằng hoặc dễ hơn bài trong sách. Vì vậy, cần điền một cấu trúc so sánh không bằng với tính từ \"<em>difficult</em>\" để phù hợp với ngữ cảnh này.</p>\n<p style=\"text-align: justify;\">Phương án ''<em>isn't as difficult as</em>'' với cấu trúc \"<em>not as + adj. + as</em>\" là lựa chọn chính xác về cả ngữ pháp và ý nghĩa. Các phương án còn lại đều là các cấu trúc so sánh không chính xác hoặc tạo ra nghĩa mâu thuẫn với ngữ cảnh của câu.</p>",
+      "answerFeedbacks": {
+        "1687252": "Sai vì cấu trúc so sánh không bằng cần \"<em>as</em>\" ở cả hai vế: \"<em>not as + adj./adv. + as</em>\".",
+        "1687253": "Đúng vì cấu trúc \"<em>not as + adj. + as</em>\" diễn tả sự không bằng về mức độ, phù hợp với ngữ cảnh bài tập dễ hơn nên làm mất ít thời gian hơn.",
+        "1687254": "Sai vì nghĩa của câu sẽ là bài tập khó ngang nhau, mâu thuẫn với vế sau \"<em>so it took me less time to complete</em>\".",
+        "1687255": "Sai vì nghĩa của câu sẽ là bài tập khó hơn, mâu thuẫn với vế sau \"<em>so it took me less time to complete</em>\"."
+      },
+      "images": []
+    },
+    {
+      "id": 165520,
+      "questionNumber": 6,
+      "questionName": "12",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>At school, David was _____ anyone else in his class.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 384231,
+          "label": "A",
+          "text": "as clever as",
+          "isCorrect": true
+        },
+        {
+          "id": 384232,
+          "label": "B",
+          "text": "as clever than",
+          "isCorrect": false
+        },
+        {
+          "id": 384233,
+          "label": "C",
+          "text": "cleverer as",
+          "isCorrect": false
+        },
+        {
+          "id": 384234,
+          "label": "D",
+          "text": "cleverest",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 384231,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Ch&uacute; &yacute; đến c&acirc;u <em data-start=\"61\" data-end=\"95\">\"David was_____ anyone else in his class\" </em>cho thấy&nbsp;dấu hiệu của <strong data-start=\"117\" data-end=\"141\">một cấu tr&uacute;c so s&aacute;nh</strong>. H&atilde;y nhớ lại từ đi k&egrave;m với từng dạng so s&aacute;nh, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp. Lưu &yacute;:</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Cấu tr&uacute;c so s&aacute;nh bằng</strong> l&agrave; \"as + adj./adv. + as\", nghĩa l&agrave; \"ngang bằng/như l&agrave;\".</li>\n<li style=\"text-align: justify;\"><strong>Cấu tr&uacute;c so s&aacute;nh hơn</strong> l&agrave; \"adj./adv.(-er) + than\" hoặc \"more + adj./adv. + than\", nghĩa l&agrave; \"hơn\".</li>\n<li style=\"text-align: justify;\"><strong>Cấu tr&uacute;c so s&aacute;nh nhất</strong> l&agrave; \"the + adj./adv.(-est)\" hoặc \"the most + adj./adv.\", nghĩa l&agrave; \"nhất\".</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So s&aacute;nh bằng với trạng từ hoặc t&iacute;nh từ</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> So s&aacute;nh bằng được d&ugrave;ng để diễn tả hai đối tượng hoặc sự vật c&oacute; mức độ ngang bằng, tương đương nhau về một đặc điểm hoặc t&iacute;nh chất n&agrave;o đ&oacute;.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: <span style=\"color: #1c581f;\">S1 + V + as + Adj/Adv + as + S2/O</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u n&agrave;y, ch&uacute;ng ta cần diễn tả rằng David th&ocirc;ng minh ngang bằng với bất kỳ ai kh&aacute;c trong lớp. Cấu tr&uacute;c so s&aacute;nh bằng <em>\"as + t&iacute;nh từ + as\"</em> (<em>as clever as</em>) l&agrave; lựa chọn ph&ugrave; hợp nhất để thể hiện sự ngang bằng n&agrave;y.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 2 (<em>as clever than</em>) v&agrave; phương &aacute;n 3 (<em>cleverer as</em>) đều sai cấu tr&uacute;c ngữ ph&aacute;p. Cấu tr&uacute;c so s&aacute;nh bằng phải l&agrave; <em>\"as...as\"</em>, trong khi cấu tr&uacute;c so s&aacute;nh hơn phải l&agrave; <em>\"t&iacute;nh từ/trạng từ đu&ocirc;i -er hoặc more + t&iacute;nh từ/trạng từ + than\"</em>. Phương &aacute;n 4 (<em>cleverest</em>) l&agrave; dạng so s&aacute;nh nhất, cần c&oacute; mạo từ <em>\"the\"</em> đi k&egrave;m (<em>the cleverest</em>) v&agrave; kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh so s&aacute;nh ngang bằng với <em>\"anyone else\"</em> trong trường hợp n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "384231": "Cấu trúc <em>\"as + tính từ/trạng từ + as\"</em> dùng để diễn tả hai đối tượng có mức độ ngang bằng về một đặc điểm.",
+        "384232": "Sai cấu trúc; <em>\"as\"</em> phải đi với <em>\"as\"</em> trong so sánh bằng, và <em>\"than\"</em> chỉ dùng trong so sánh hơn.",
+        "384233": "Sai cấu trúc; dạng so sánh hơn <em>\"cleverer\"</em> phải đi với <em>\"than\"</em>, không phải <em>\"as\"</em>.",
+        "384234": "Sai vì đây là dạng so sánh nhất, cần có mạo từ <em>\"the\"</em> và không phù hợp với ngữ cảnh <em>\"anyone else\"</em> để chỉ sự ngang bằng."
+      },
+      "images": []
+    },
+    {
+      "id": 41444,
+      "questionNumber": 7,
+      "questionName": "III.12",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Pam is _____ Cassy. They’re both the most polite students in our class. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 121282,
+          "label": "A",
+          "text": "more polite than",
+          "isCorrect": false
+        },
+        {
+          "id": 121283,
+          "label": "B",
+          "text": "most polite like",
+          "isCorrect": false
+        },
+        {
+          "id": 121284,
+          "label": "C",
+          "text": "as polite as",
+          "isCorrect": true
+        },
+        {
+          "id": 121285,
+          "label": "D",
+          "text": "<p>not politer than</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 121284,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Chú ý <em>\"They’re both the most polite students in our class\"</em> cung cấp thông tin quan trọng về mức độ lịch sự của cả hai. Khi hai đối tượng có mức độ tính chất ngang bằng, chúng ta sử dụng cấu trúc so sánh ngang bằng.</p>\n<p>Kiểm tra các phương án để chọn cấu trúc so sánh phù hợp với tính từ <em>\"polite\"</em> và nghĩa của câu.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So sánh ngang bằng và so sánh hơn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để diễn tả sự tương đồng hoặc khác biệt về mức độ của một tính chất hoặc đặc điểm giữa hai hoặc nhiều đối tượng.</p>\n<p><strong>Một số cấu trúc so sánh:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">So sánh ngang bằng: S1 + V + as + adj./adv. + as + S2 (hoặc O)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">So sánh không ngang bằng: S1 + V + not as/so + adj./adv. + as + S2 (hoặc O)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">So sánh hơn (với tính từ/trạng từ dài): S1 + V + more + adj./adv. + than + S2 (hoặc O)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">So sánh hơn (với tính từ/trạng từ ngắn): S1 + V + adj.-er/adv.-er + than + S2 (hoặc O)</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu thứ hai <em>\"They’re both the most polite students in our class\"</em> (Cả hai đều là những học sinh lịch sự nhất trong lớp) cho thấy Pam và Cassy có mức độ lịch sự ngang nhau. Do đó, cần điền một cấu trúc so sánh ngang bằng. Trong các phương án, <em>\"as polite as\"</em> là cấu trúc so sánh ngang bằng chính xác, phù hợp với ngữ cảnh của câu.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều là các cấu trúc so sánh không chính xác hoặc không phù hợp để sử dụng trong ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "121282": "<p>Sai vì cấu trúc so sánh hơn này không phù hợp với ngữ cảnh của câu đang so sánh hai người ngang bằng.</p>",
+        "121283": "<p>Sai vì cấu trúc so sánh này không đúng ngữ pháp; <em>\"most polite\"</em> là so sánh nhất, không dùng với <em>\"like\"</em> để so sánh hai người ngang bằng.</p>",
+        "121284": "<p>Đúng vì cấu trúc <em>\"as + adj./adv. + as\"</em> được dùng để diễn tả sự so sánh ngang bằng, phù hợp với ngữ cảnh <em>\"They’re both the most polite students in our class\"</em> (cả hai đều lịch sự nhất).</p>",
+        "121285": "<p>Sai vì <em>\"polite\"</em> là tính từ dài nên không dùng dạng <em>\"politer\"</em> mà phải dùng <em>\"more polite\"</em>. Hơn nữa cấu trúc so sánh này cũng không phù hợp để so sánh hai người ngang bằng.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 63502,
+      "questionNumber": 8,
+      "questionName": "Question 35:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>She speaks English _____ as her friend does.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 169934,
+          "label": "A",
+          "text": "as good",
+          "isCorrect": false
+        },
+        {
+          "id": 169935,
+          "label": "B",
+          "text": "as well",
+          "isCorrect": true
+        },
+        {
+          "id": 169936,
+          "label": "C",
+          "text": "better than",
+          "isCorrect": false
+        },
+        {
+          "id": 169937,
+          "label": "D",
+          "text": "so well",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 169935,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Trong c&acirc;u, từ cần điền bổ nghĩa cho động từ <em>\"speaks\"</em> v&agrave; nằm trong cấu tr&uacute;c so s&aacute;nh <em>\"as...as\"</em>.</p>\n<p style=\"text-align: justify;\">H&atilde;y x&aacute;c định đ&acirc;u l&agrave; trạng từ của <em>\"good\"</em> để điền v&agrave;o chỗ trống.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So s&aacute;nh bằng với t&iacute;nh từ v&agrave; trạng từ</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Diễn tả sự ngang bằng về mức độ hoặc t&iacute;nh chất giữa hai đối tượng hoặc h&agrave;nh động.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + V + as + adj./adv. + as + N/pronoun/clause</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, động từ <em>\"speaks\"</em> l&agrave; động từ thường, cần một trạng từ để bổ nghĩa cho h&agrave;nh động. Cấu tr&uacute;c <em>\"as...as\"</em> l&agrave; so s&aacute;nh bằng. V&igrave; vậy, cần điền trạng từ <em>\"well\"</em> v&agrave;o chỗ trống để tạo th&agrave;nh <em>\"as well as\"</em>. C&aacute;c phương &aacute;n c&ograve;n lại:</p>\n<ul>\n<li class=\"PDq2pG_selectionAnchorContainer\" data-start=\"95\" data-end=\"214\">Phương &aacute;n 1 (<em data-start=\"108\" data-end=\"117\">as good</em>) kh&ocirc;ng đ&uacute;ng v&igrave; <em data-start=\"133\" data-end=\"139\">good</em> l&agrave; t&iacute;nh từ kh&ocirc;ng thể bổ nghĩa cho động từ.</li>\n<li data-start=\"219\" data-end=\"353\">Phương &aacute;n 3 (<em data-start=\"232\" data-end=\"245\">better than</em>) kh&ocirc;ng ph&ugrave; hợp v&igrave; đ&acirc;y l&agrave; cấu tr&uacute;c so s&aacute;nh hơn, trong khi c&acirc;u y&ecirc;u cầu cấu tr&uacute;c so s&aacute;nh bằng (<em data-start=\"343\" data-end=\"352\">as...as)</em>.</li>\n<li data-start=\"358\" data-end=\"545\">Phương &aacute;n 4 (<em data-start=\"371\" data-end=\"380\">so well</em>) cũng kh&ocirc;ng đ&uacute;ng v&igrave; <em data-start=\"401\" data-end=\"408\">so...</em> thường được d&ugrave;ng trong cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng bằng ở c&acirc;u phủ định (<em data-start=\"476\" data-end=\"489\">not so...as</em>).</li>\n</ul>",
+      "answerFeedbacks": {
+        "169934": "<em>\"good\"</em> là tính từ, không thể bổ nghĩa cho động từ thường <em>\"speaks\"</em>.",
+        "169935": "<em>\"well\"</em> là trạng từ, bổ nghĩa cho động từ thường <em>\"speaks\"</em> và phù hợp với cấu trúc so sánh bằng <em>\"as...as\"</em>.",
+        "169936": "Đây là cấu trúc so sánh hơn, không phù hợp với cấu trúc <em>\"as her friend does\"</em> đang được sử dụng để so sánh bằng.",
+        "169937": "Cấu trúc <em>\"so + trạng từ + as\"</em> thường chỉ dùng trong câu phủ định (<em>\"not so...as\"</em>) để so sánh không bằng."
+      },
+      "images": []
+    },
+    {
+      "id": 195963,
+      "questionNumber": 9,
+      "questionName": "Đoàn Thị Điểm - PT24 - 4",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Recently, hotels have developed _____ restaurants.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 447775,
+          "label": "A",
+          "text": "as rapidly as",
+          "isCorrect": true
+        },
+        {
+          "id": 447776,
+          "label": "B",
+          "text": "so rapidly as",
+          "isCorrect": false
+        },
+        {
+          "id": 447777,
+          "label": "C",
+          "text": "as rapid as",
+          "isCorrect": false
+        },
+        {
+          "id": 447778,
+          "label": "D",
+          "text": "more rapid",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 447775,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Ch&uacute; &yacute; đến cụm <em data-start=\"619\" data-end=\"650\">\"hotels have developed _____ restaurants\"</em>. cho thấy c&acirc;u đang so s&aacute;nh sự ph&aacute;t triển của ''<em>hotels</em>'' v&agrave; ''<em>restaurants</em>''. H&atilde;y x&aacute;c định loại từ cần d&ugrave;ng để bổ nghĩa cho động từ <em data-start=\"755\" data-end=\"766\">developed</em>. Sau đ&oacute;, đối chiếu với c&aacute;c lựa chọn để t&igrave;m ra cấu tr&uacute;c so s&aacute;nh ph&ugrave; hợp nhất l&agrave;m đ&aacute;p &aacute;n.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So s&aacute;nh bằng v&agrave; Trạng từ</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> So s&aacute;nh bằng d&ugrave;ng để diễn tả sự ngang bằng về mức độ giữa hai đối tượng hoặc h&agrave;nh động. Trạng từ bổ nghĩa cho động từ, t&iacute;nh từ hoặc một trạng từ kh&aacute;c, thường mi&ecirc;u tả c&aacute;ch thức h&agrave;nh động diễn ra.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c:&nbsp;</strong><strong><span style=\"color: #1c581f;\">S + V + as + adv. + as + N/pronoun/clause</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, chỗ trống cần một trạng từ để bổ nghĩa cho động từ <em>\"developed\"</em> (ph&aacute;t triển) v&agrave; diễn tả sự ngang bằng về c&aacute;ch thức ph&aacute;t triển. Do đ&oacute;, cấu tr&uacute;c so s&aacute;nh bằng với trạng từ l&agrave; ph&ugrave; hợp nhất. Phương &aacute;n 1, <em>\"as rapidly as\"</em>, l&agrave; đ&aacute;p &aacute;n đ&uacute;ng v&igrave; <em>\"rapidly\"</em> l&agrave; trạng từ, bổ nghĩa cho động từ <em>\"developed\"</em>, v&agrave; tu&acirc;n thủ cấu tr&uacute;c <em>\"as + trạng từ + as\".</em></p>\n<p style=\"text-align: justify;\">Phương &aacute;n 2, <em>\"so rapidly as\"</em>, thường được d&ugrave;ng trong c&acirc;u phủ định (<em>\"not so...as\"</em>) để diễn tả so s&aacute;nh kh&ocirc;ng bằng, kh&ocirc;ng ph&ugrave; hợp với c&acirc;u khẳng định n&agrave;y.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 3, <em>\"as rapid as\"</em>, sai v&igrave; <em>\"rapid\"</em> l&agrave; t&iacute;nh từ, kh&ocirc;ng thể bổ nghĩa cho động từ <em>\"developed\"</em>; cần một trạng từ.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 4 <em>\"more rapid\"</em> l&agrave; cấu tr&uacute;c so s&aacute;nh hơn với t&iacute;nh từ, kh&ocirc;ng ph&ugrave; hợp để bổ nghĩa cho động từ v&agrave; kh&ocirc;ng diễn tả sự ngang bằng.</p>",
+      "answerFeedbacks": {
+        "447775": "Đây là cấu trúc so sánh bằng <em>\"as + trạng từ + as\"</em>, phù hợp để bổ nghĩa cho động từ <em>\"developed\"</em> và diễn tả sự ngang bằng.",
+        "447776": "Cấu trúc <em>\"so + trạng từ + as\"</em> thường được dùng trong câu phủ định (<em>\"not so...as\"</em>) để diễn tả so sánh không bằng.",
+        "447777": "Từ <em>\"rapid\"</em> là tính từ, không thể bổ nghĩa cho động từ <em>\"developed\"</em>; cần một trạng từ để miêu tả cách thức hành động.",
+        "447778": "Đây là cấu trúc so sánh hơn với tính từ (<em>\"more + adj.\"</em>) và không phù hợp với ngữ cảnh so sánh ngang bằng trong câu."
+      },
+      "images": []
+    },
+    {
+      "id": 859408,
+      "questionNumber": 10,
+      "questionName": "new 7",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Alfred: Do online exercises work for math practice?</strong></p>\n<p><strong>Alan: Yes, but I think they _____ solving problems on paper.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1638215,
+          "label": "A",
+          "text": "aren’t as effective as",
+          "isCorrect": true
+        },
+        {
+          "id": 1638216,
+          "label": "B",
+          "text": "are as effective as",
+          "isCorrect": false
+        },
+        {
+          "id": 1638217,
+          "label": "C",
+          "text": "aren't as effective so",
+          "isCorrect": false
+        },
+        {
+          "id": 1638218,
+          "label": "D",
+          "text": "are as effectively as",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1638215,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Câu của Alan bắt đầu bằng <em>\"Yes, but I think they...\"</em>. Từ <em>\"but\"</em> thường chỉ ra một sự đối lập hoặc khác biệt so với điều vừa được nhắc đến. Điều này gợi ý rằng hiệu quả của <em>\"online exercises\"</em> có thể không giống với <em>\"solving problems on paper\"</em>.</p>\n<p>Hãy nhớ lại cấu trúc so sánh bằng hoặc không bằng để diễn tả điều này và lưu ý sau <em>\"are\"</em>, chúng ta cần một tính từ (<em>\"effective\"</em>) hay một trạng từ (<em>\"effectively\"</em>) để bổ nghĩa cho chủ ngữ <em>\"they\"</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So sánh bằng và so sánh không bằng</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để so sánh sự tương đồng hoặc khác biệt về mức độ, tính chất giữa hai đối tượng, hành động, hoặc ý tưởng.</p>\n<p style=\"text-align: justify;\"><strong>Một số cấu trúc:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">not as + adj./adv. + as:</span></strong> không bằng (diễn tả sự kém hơn về mức độ, tính chất)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">as + adj./adv. + as:</span></strong> bằng (diễn tả sự tương đồng về mức độ, tính chất)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu nói của Alan, từ <em>\"but\"</em> báo hiệu một sự đối lập hoặc khác biệt so với ý trước đó. Do đó, cần sử dụng cấu trúc so sánh không bằng để diễn tả rằng bài tập online không hiệu quả bằng việc giải bài trên giấy. Động từ <em>\"are\"</em> là linking verb, theo sau nó cần một tính từ <em>\"effective\"</em> để bổ nghĩa cho chủ ngữ <em>\"they\"</em> (thay thế cho <em>\"online exercises\"</em>).</p>\n<p style=\"text-align: justify;\">Phương án 1 <em>\"aren’t as effective as\"</em> là lựa chọn phù hợp nhất vì nó sử dụng cấu trúc so sánh không bằng đúng (<em>\"not as + adj. + as\"</em>) và từ loại chính xác (tính từ <em>\"effective\"</em>). Các phương án còn lại là các cấu trúc so sánh không chính xác hoặc mang nghĩa không phù hợp với ngữ cảnh của câu.</p>",
+      "answerFeedbacks": {
+        "1638215": "Đúng vì cấu trúc so sánh không bằng <em>\"not as + adj. + as\"</em> phù hợp với ngữ cảnh <em>\"but\"</em> và <em>\"effective\"</em> là tính từ bổ nghĩa cho chủ ngữ <em>\"they\"</em>.",
+        "1638216": "Sai vì cấu trúc so sánh bằng <em>\"as + adj. + as\"</em> mâu thuẫn với từ <em>\"but\"</em> trong câu, vốn chỉ sự đối lập.",
+        "1638217": "Sai vì cấu trúc so sánh không bằng yêu cầu <em>\"as...as\"</em>, không phải <em>\"as...so\"</em>.",
+        "1638218": "Sai vì <em>\"effectively\"</em> là trạng từ, trong khi động từ <em>\"are\"</em> (linking verb) cần một tính từ <em>\"effective\"</em> để bổ nghĩa cho chủ ngữ <em>\"they\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 854581,
+      "questionNumber": 11,
+      "questionName": "1",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "JetScoot’s design.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "as",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "isn’t",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "The Speed Wheel’s design",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "modern",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "as",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 171660,
+      "questionNumber": 12,
+      "questionName": "My brother doesn't",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "drive",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "as",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "My brother doesn't",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "my father.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "fast",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "so",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 872029,
+      "questionNumber": 13,
+      "questionName": "1",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (kéo từng từ/cụm từ về vị trí đúng để tạo thành câu hoàn chỉnh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "as",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "The coffee shop",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "my office",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "as",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "quiet",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "the one downtown.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "near",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "isn’t",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n    <li>Xác định chủ ngữ của câu. Chủ ngữ này được bổ nghĩa bởi một cụm giới từ chỉ nơi chốn.</li>\n    <li>Tìm động từ chính và sắp xếp các thành phần còn lại theo cấu trúc so sánh ngang bằng <strong>as ... as</strong>.</li>\n</ul>",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 235581,
+      "questionNumber": 14,
+      "questionName": "These new shoes are not so comfortable as my old ones.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (kéo từng từ/cụm từ về vị trí đúng để tạo thành câu hoàn chỉnh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "These",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "my old ones.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "new shoes",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "comfortable",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "are",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "as",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "not",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Hãy bắt đầu bằng cách xác định chủ ngữ của câu (<em>These new shoes</em>).</li>\n<li>Sau đó, sắp xếp các từ còn lại để tạo thành cấu trúc so sánh ngang bằng ở dạng phủ định: <strong>S + be + not + so + adj. + as + ...</strong></li>\n</ul>",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 229446,
+      "questionNumber": 15,
+      "questionName": "1",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "it",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "five years ago.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "good as",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "is still",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "The team",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "as",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 283805,
+      "questionNumber": 16,
+      "questionName": "SBT 9 U4.B.6.8",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>He <span style=\"text-decoration: underline;\">thinks</span> that geometry <span style=\"text-decoration: underline;\">is</span> not as <span style=\"text-decoration: underline;\">difficult</span> <span style=\"text-decoration: underline;\">than</span> arithmetic.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 623468,
+          "label": "A",
+          "text": "thinks",
+          "isCorrect": false
+        },
+        {
+          "id": 623469,
+          "label": "B",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "id": 623470,
+          "label": "C",
+          "text": "difficult",
+          "isCorrect": false
+        },
+        {
+          "id": 623471,
+          "label": "D",
+          "text": "than",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 623471,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng ngang bằng:<strong> S + V + not + so/as + adj./adv. + as + Noun/Pronoun/S + V.</strong></span></p>\n<p><span style=\"font-weight: 400;\">Sửa: \"<strong>than</strong>\" =&gt; \"<strong>as</strong>\"</span></p>\n<p>Dịch: Anh ấy nghĩ rằng h&igrave;nh học kh&ocirc;ng kh&oacute; bằng số học.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 853162,
+      "questionNumber": 17,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The train fare <span style=\"text-decoration: underline;\">is</span> not as <span style=\"text-decoration: underline;\">cheaper</span> as the bus fare, <span style=\"text-decoration: underline;\">but</span> it&#8217;s still <span style=\"text-decoration: underline;\">reasonable</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1628411,
+          "label": "A",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "id": 1628412,
+          "label": "B",
+          "text": "cheaper",
+          "isCorrect": true
+        },
+        {
+          "id": 1628413,
+          "label": "C",
+          "text": "but",
+          "isCorrect": false
+        },
+        {
+          "id": 1628414,
+          "label": "D",
+          "text": "reasonable",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1628412,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng ngang bằng:<strong> S + V + not + so/as + adj./adv. + as + Noun/Pronoun/S + V.</strong></span></p>\n<p>\"<strong>cheaper</strong>\" l&agrave; dạng so s&aacute;nh hơn của t&iacute;nh từ \"<strong>cheap</strong>\". =&gt; Kh&ocirc;ng ph&ugrave; hợp với cấu tr&uacute;c của c&acirc;u.</p>\n<p>Sửa: \"<strong>cheaper</strong>\" =&gt; \"<strong>cheap</strong>\"</p>\n<p>Dịch: Gi&aacute; v&eacute; t&agrave;u kh&ocirc;ng rẻ bằng gi&aacute; v&eacute; xe bu&yacute;t, nhưng n&oacute; vẫn ở mức hợp l&yacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 194639,
+      "questionNumber": 18,
+      "questionName": "40 ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Thong is the most talkative boy in my class.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 445156,
+          "label": "A",
+          "text": "No one in my class is talkative than Thong.",
+          "isCorrect": false
+        },
+        {
+          "id": 445157,
+          "label": "B",
+          "text": "No one in my class more talkative than Thong.",
+          "isCorrect": false
+        },
+        {
+          "id": 445158,
+          "label": "C",
+          "text": "No one in my class is as talkative as Thong.",
+          "isCorrect": true
+        },
+        {
+          "id": 445159,
+          "label": "D",
+          "text": "No one in my class is as more talkative than Thong.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 445158,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh ngang bằng: <strong>S + V + as + adj./adv. + as + Noun/Pronoun/S + V</strong></span></p>\n<p>C&aacute;c phương &aacute;n c&ograve;n lại sai ngữ ph&aacute;p.</p>\n<p>Dịch: Th&ocirc;ng l&agrave; cậu b&eacute; n&oacute;i nhiều nhất lớp t&ocirc;i.</p>\n<p>~ Kh&ocirc;ng ai trong lớp t&ocirc;i n&oacute;i nhiều như Th&ocirc;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 25617,
+      "questionNumber": 19,
+      "questionName": "Question 4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Many people think modern life is better than life in the past.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 79102,
+          "label": "A",
+          "text": "Many people think life in the past was better than modern life.",
+          "isCorrect": false
+        },
+        {
+          "id": 79103,
+          "label": "B",
+          "text": "Many people think modern life is as good as life in the past.",
+          "isCorrect": false
+        },
+        {
+          "id": 79104,
+          "label": "C",
+          "text": "Many people think life in the past was not as well as modern life.",
+          "isCorrect": false
+        },
+        {
+          "id": 79105,
+          "label": "D",
+          "text": "Many people think life in the past was not as good as modern life.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 79105,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"color: #000000; background-color: #fbeeb8;\"><strong>Kiến thức cần lưu &yacute;:</strong></span></p>\n<ul>\n<li><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh hơn với t&iacute;nh từ: <strong>S + to be + dạng so s&aacute;nh hơn của t&iacute;nh từ + than + Noun/Pronoun.</strong></span></li>\n<li><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng ngang bằng: <strong>S + V + not + so/as + adj./adv. + as + O/ Pronoun/ S + V</strong></span></li>\n<li><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh ngang bằng:<strong> S + V + as + adj./adv. + as + O.</strong></span></li>\n</ul>\n<hr />\n<p><span style=\"color: #000000; background-color: #fbeeb8;\"><strong>Dịch:</strong></span></p>\n<p><em>C&acirc;u gốc:&nbsp;Nhiều người nghĩ rằng <span style=\"color: #000000;\"><strong>cuộc sống hiện đại tốt hơn</strong></span> cuộc sống trước đ&acirc;y.&nbsp;</em></p>\n<p><strong><span style=\"color: #e03e2d;\">✖</span> </strong>Nhiều người cho rằng <span style=\"color: #000000;\">cuộc sống trong qu&aacute; khứ tốt hơn</span> cuộc sống hiện đại.</p>\n<p><strong><span style=\"color: #e03e2d;\">✖</span> </strong>Nhiều người cho rằng <span style=\"color: #000000;\">cuộc sống hiện đại cũng tốt như</span> cuộc sống trong qu&aacute; khứ.</p>\n<p><strong><span style=\"color: #e03e2d;\">✖</span> </strong>Nhiều người cho rằng cuộc sống trong qu&aacute; khứ kh&ocirc;ng khỏe mạnh bằng cuộc sống hiện đại. (\"well\" khi l&agrave;m t&iacute;nh từ c&oacute; nghĩa l&agrave; khỏe mạnh)</p>\n<p><span style=\"color: #2dc26b;\"><strong>✔</strong></span> Nhiều người nghĩ rằng <span style=\"color: #000000;\"><strong>cuộc sống trong qu&aacute; khứ kh&ocirc;ng tốt bằng</strong></span> cuộc sống hiện đại.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 180201,
+      "questionNumber": 20,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>A supermarket is more convenient than a shopping center.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 413707,
+          "label": "A",
+          "text": "A shopping center is not as convenient as a supermarket.",
+          "isCorrect": true
+        },
+        {
+          "id": 413708,
+          "label": "B",
+          "text": "A shopping center is more convenient than a supermarket.",
+          "isCorrect": false
+        },
+        {
+          "id": 413709,
+          "label": "C",
+          "text": "A supermarket is not as convenient as a shopping center.",
+          "isCorrect": false
+        },
+        {
+          "id": 413710,
+          "label": "D",
+          "text": "A supermarket is as inconvenient as a shopping center.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 413707,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng ngang bằng:<strong> S + V + not + so/as + adj./adv. + as + O/Pronoun/S + V</strong></span></p>\n<p>Dịch: <strong><span style=\"color: #2dc26b;\">Một si&ecirc;u thị thuận tiện hơn</span></strong> một trung t&acirc;m mua sắm.</p>\n<p><span style=\"color: #2dc26b;\"><strong>✔</strong></span> Một trung t&acirc;m mua sắm <span style=\"color: #2dc26b;\"><strong>kh&ocirc;ng thuận tiện bằng</strong></span> si&ecirc;u thị.</p>\n<p><strong><span style=\"color: #e03e2d;\">✖</span> </strong>Trung t&acirc;m mua sắm <span style=\"color: #e03e2d;\">tiện lợi hơn</span> si&ecirc;u thị.</p>\n<p><strong><span style=\"color: #e03e2d;\">✖</span> </strong>Si&ecirc;u thị <span style=\"color: #e03e2d;\">kh&ocirc;ng tiện lợi bằng</span> trung t&acirc;m mua sắm.</p>\n<p><strong><span style=\"color: #e03e2d;\">✖</span> </strong>Si&ecirc;u thị <span style=\"color: #e03e2d;\">cũng bất tiện như</span> trung t&acirc;m mua sắm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 186643,
+      "questionNumber": 21,
+      "questionName": "Question 43:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Mary is more intelligent than her brother.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 427244,
+          "label": "A",
+          "text": "Mary isn’t as intelligent as her brother.",
+          "isCorrect": false
+        },
+        {
+          "id": 427245,
+          "label": "B",
+          "text": "Mary’s brother isn’t as intelligent as she is.",
+          "isCorrect": true
+        },
+        {
+          "id": 427246,
+          "label": "C",
+          "text": "Mary is less intelligent than her brother.",
+          "isCorrect": false
+        },
+        {
+          "id": 427247,
+          "label": "D",
+          "text": "Mary’s brother is more intelligent than she is.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 427245,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng ngang bằng:<strong> S + V + not + so/as + adj./adv. + as + O/Pronoun/S + V</strong></span></p>\n<p>Dịch: Mary<strong><span style=\"color: #2dc26b;\"> th&ocirc;ng minh hơn</span></strong> anh trai của c&ocirc; ấy.</p>\n<p><strong><span style=\"color: #e03e2d;\">✖</span> </strong><span style=\"color: #e03e2d;\">Mary kh&ocirc;ng th&ocirc;ng minh bằng</span> anh trai c&ocirc; ấy.</p>\n<p><span style=\"color: #2dc26b;\"><strong>✔</strong></span> Anh trai của Mary <strong><span style=\"color: #2dc26b;\">kh&ocirc;ng th&ocirc;ng minh bằng</span></strong> c&ocirc; ấy.</p>\n<p><strong><span style=\"color: #e03e2d;\">✖</span> </strong><span style=\"color: #e03e2d;\">Mary k&eacute;m th&ocirc;ng minh</span> hơn anh trai m&igrave;nh.</p>\n<p><strong><span style=\"color: #e03e2d;\">✖</span> </strong>Anh trai của Mary<span style=\"color: #e03e2d;\"> th&ocirc;ng minh hơn c&ocirc; ấy</span>.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 648721,
+      "questionNumber": 22,
+      "questionName": "(*) 6",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Apples are usually cheaper than oranges.</strong></p>\n<p><strong>=&gt; Apples are not ...........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Apples are not usually as expensive as oranges."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng ngang bằng:<strong> S + V + not + so/as + adj./adv. + as + Noun/Pronoun/S + V.</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: T&aacute;o thường rẻ hơn cam.</span></p>\n<p><span style=\"font-weight: 400;\">~ T&aacute;o thường kh&ocirc;ng đắt bằng cam.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 148030,
+      "questionNumber": 23,
+      "questionName": "This house is larger than their old house",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>This house is larger than their old house. </strong></p>\n<p><strong>=&gt; Their old house wasn't as ............</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Their old house wasn't as big as this house."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng ngang bằng: </span><strong>S + V + not + so/as + adj. + as + O/Pronoun/S + V</strong></p>\n<p><span style=\"font-weight: 400;\">Dịch: Ng&ocirc;i nh&agrave; n&agrave;y rộng hơn nh&agrave; cũ của của họ.</span></p>\n<p><span style=\"font-weight: 400;\">~ Nh&agrave; cũ của họ kh&ocirc;ng rộng như ng&ocirc;i nh&agrave; n&agrave;y.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 399734,
+      "questionNumber": 24,
+      "questionName": "Question 2",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>You&#8217;re the worst guitarist in the world.<br></strong></p>\n<p><strong>=&gt; No one in ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "No one in the world plays the guitar as badly as you.",
+        "No one in the world plays the guitar worse than you."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh ngang bằng: <strong>S + V + as + adj./adv. + as + Noun/Pronoun/S + V</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh hơn với trạng từ: <strong>S + V + dạng so s&aacute;nh hơn của trạng từ + than + Noun/Pronoun/S + V</strong></span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: 400;\">Trong c&acirc;u gốc d&ugrave;ng dạng so s&aacute;nh hơn của t&iacute;nh từ \"<strong>bad</strong>\". =&gt; C&acirc;u viết lại d&ugrave;ng trạng từ \"<strong>badly</strong>\".</span></p>\n<p style=\"text-align: left;\"><span style=\"font-weight: 400;\">Dạng so s&aacute;nh hơn của \"<strong>badly</strong>\" l&agrave; \"<strong>worse</strong>\".</span></p>\n<p style=\"text-align: left;\"><strong>play the guitar</strong> (phr.): chơi ghi ta</p>\n<p>Dịch: Bạn l&agrave; người chơi ghi ta tệ nhất tr&ecirc;n thế giới.</p>\n<p>~ Kh&ocirc;ng ai tr&ecirc;n thế giới chơi ghi ta tệ như bạn.</p>\n<p>~ Kh&ocirc;ng ai tr&ecirc;n thế giới n&agrave;y chơi ghi ta tệ hơn bạn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 400919,
+      "questionNumber": 25,
+      "questionName": "(*) Question 1",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Barbara cooks better than Mike does.<br></strong></p>\n<p><strong>=&gt; Mike doesn't ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Mike doesn't cook as well as Barbara does."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng ngang bằng:<strong> S + V + not + so/as + adj./adv. + as + Noun/Pronoun/S + V.</strong></span></p>\n<p>Dịch: Barbara nấu ăn ngon hơn Mike.</p>\n<p>~ Mike kh&ocirc;ng nấu ăn ngon như Barbara.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 153458,
+      "questionNumber": 26,
+      "questionName": "3",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Living in the countryside is more peaceful than living in the city.</strong></p>\n<p><strong> </strong><strong>=&gt; Living in the city isn't ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Living in the city isn't as peaceful as living in the countryside."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng ngang bằng:<strong> S + V + not + so/as + adj./adv. + as + Noun/Pronoun/S + V.</strong></span></p>\n<p>Dịch: Sống ở n&ocirc;ng th&ocirc;n y&ecirc;n b&igrave;nh hơn sống ở th&agrave;nh phố.</p>\n<p>~ Sống ở th&agrave;nh phố kh&ocirc;ng y&ecirc;n b&igrave;nh như sống ở n&ocirc;ng th&ocirc;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 73769,
+      "questionNumber": 27,
+      "questionName": "Q37",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence, using the word given so that it has a similar meaning to the first sentence. Do NOT change the word given in brackets in any way.</em></p>\n<p><strong>This book is very boring and so is that one. (AS) </strong></p>\n<p><strong>=&gt; This book <span class='fillblank-option'><input id='fbo-73769-0' class='ms fillblank-option-27' index='0' name='fbo-73769-0' type='text' size='18' autocomplete='off' data-testid='fillblank-input-73769-0' /></span> that one.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "is as boring as"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh ngang bằng: <strong>S + V + as + adj./adv. + as + Noun/Pronoun/S + V</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Quyển s&aacute;ch n&agrave;y rất ch&aacute;n v&agrave; quyển kia cũng thế.</span></p>\n<p><span style=\"font-weight: 400;\">~ Quyển s&aacute;ch n&agrave;y ch&aacute;n như quyển kia.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 812409,
+      "questionNumber": 28,
+      "questionName": "FCE_Result_StudentBook - U6 - Use_of_English (P.78)",
+      "questionType": "FillBlank",
+      "questionText": "<div class=\"parent-word\" style=\"text-align: justify;\" data-transform-scale-x=\"0.875643921533923\" data-canvas-width=\"265.8950702186667\">\n<p><em>Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.</em></p>\n<p><strong>The journey was better than I'd expected. (BAD)&nbsp;</strong></p>\n<p><strong>=&gt; The journey <span class='fillblank-option'><input id='fbo-812409-0' class='ms fillblank-option-28' index='0' name='fbo-812409-0' type='text' size='15' autocomplete='off' data-testid='fillblank-input-812409-0' /></span> as I'd expected.</strong></p>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "was not as bad",
+            "wasn't as bad",
+            "wasn’t as bad",
+            "was not so bad",
+            "wasn't so bad",
+            "wasn’t so bad"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh kh&ocirc;ng ngang bằng:<strong> S + V + not + so/as + adj./adv. + as + Noun/Pronoun/S + V.</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Chuyến đi n&agrave;y ổn hơn t&ocirc;i nghĩ.<br /></span></p>\n<p><span style=\"font-weight: 400;\">~ Chuyến đi n&agrave;y kh&ocirc;ng tệ như t&ocirc;i nghĩ.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 61742,
+      "questionNumber": 29,
+      "questionName": "Question",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between two and five words, including the word given.</em></p>\n<p><strong>Daniel thought the flight would be more expensive than it actually was. (NOT)</strong></p>\n<p><strong>=&gt; The flight <span class='fillblank-option'><input id='fbo-61742-0' class='ms fillblank-option-29' index='0' name='fbo-61742-0' type='text' size='24' autocomplete='off' data-testid='fillblank-input-61742-0' /></span> as Daniel thought it would be.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "was not [as|so] expensive"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span class=\"eq-highlight\">Từ vựng / Cấu tr&uacute;c li&ecirc;n quan:</span></p>\n<p>Cấu tr&uacute;c so s&aacute;nh bằng (dạng phủ định):&nbsp;<span style=\"font-weight: 600;\">S + V + not + as/so + adj./adv. + as + ...</span></p>\n<p><span class=\"eq-highlight\">Dịch:</span></p>\n<p>Daniel đ&atilde; nghĩ rằng chuyến bay sẽ đắt hơn so với thực tế.</p>\n<p>👉 Chuyến bay đ&atilde; kh&ocirc;ng đắt như Daniel đ&atilde; nghĩ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "126_1",
+    "questionName": "Question 1",
+    "questionText": "<p>If it rains this afternoon, we ________ the football match.</p>",
+    "choices": [
+      {
+        "id": "126_1_1",
+        "text": "cancel",
+        "html": "cancel"
+      },
+      {
+        "id": "126_1_3",
+        "text": "would cancel",
+        "html": "would cancel"
+      },
+      {
+        "id": "126_1_2",
+        "text": "will cancel",
+        "html": "will cancel"
+      },
+      {
+        "id": "126_1_4",
+        "text": "canceled",
+        "html": "canceled"
+      }
+    ],
+    "correctChoiceId": "126_1_2",
+    "explanation": "<p>Câu điều kiện loại 1 diễn tả sự việc có thể xảy ra ở hiện tại hoặc tương lai.<br/>Cấu trúc: <strong>If + S + V(hiện tại đơn), S + will/can + V-inf</strong>.<br/>Mệnh đề If là <em>'it rains'</em> nên mệnh đề chính dùng <strong>will cancel</strong>.</p>",
+    "ruleTip": "If 1: Mệnh đề If chia Hiện tại đơn, mệnh đề chính dùng Will/Can + V-inf."
+  },
+  {
+    "id": "126_2",
+    "questionName": "Question 2",
+    "questionText": "<p>Unless you study hard, you ________ the entrance examination.</p>",
+    "choices": [
+      {
+        "id": "126_2_2",
+        "text": "will pass",
+        "html": "will pass"
+      },
+      {
+        "id": "126_2_1",
+        "text": "won't pass",
+        "html": "won't pass"
+      },
+      {
+        "id": "126_2_3",
+        "text": "passed",
+        "html": "passed"
+      },
+      {
+        "id": "126_2_4",
+        "text": "would pass",
+        "html": "would pass"
+      }
+    ],
+    "correctChoiceId": "126_2_1",
+    "explanation": "<p><strong>Unless = If ... not</strong> (Trừ phi / Nếu không).<br/>'Unless you study hard, you won't pass...' = 'Nếu bạn không học chăm chỉ, bạn sẽ không đỗ kỳ thi tuyển sinh'.</p>",
+    "ruleTip": "Unless = If... not (Sau Unless luôn dùng mệnh đề khẳng định)."
+  },
+  {
+    "id": "126_3",
+    "questionName": "Question 3",
+    "questionText": "<p>If water ________ 100 degrees Celsius, it boils.</p>",
+    "choices": [
+      {
+        "id": "126_3_1",
+        "text": "reaches",
+        "html": "reaches"
+      },
+      {
+        "id": "126_3_2",
+        "text": "reach",
+        "html": "reach"
+      },
+      {
+        "id": "126_3_3",
+        "text": "will reach",
+        "html": "will reach"
+      },
+      {
+        "id": "126_3_4",
+        "text": "reached",
+        "html": "reached"
+      }
+    ],
+    "correctChoiceId": "126_3_1",
+    "explanation": "<p>Câu điều kiện loại 0 diễn tả chân lý, quy luật khoa học: Cả 2 vế đều chia thì Hiện tại đơn.<br/>Chủ ngữ 'water' không đếm được nên động từ thêm -es: <strong>reaches</strong>.</p>",
+    "ruleTip": "If 0 diễn tả chân lý, quy luật khoa học: Cả 2 vế đều chia Hiện tại đơn."
+  },
+  {
+    "id": "126_4",
+    "questionName": "Question 4",
+    "questionText": "<p>If she ________ by train, she will arrive earlier than by bus.</p>",
+    "choices": [
+      {
+        "id": "126_4_2",
+        "text": "travel",
+        "html": "travel"
+      },
+      {
+        "id": "126_4_1",
+        "text": "travels",
+        "html": "travels"
+      },
+      {
+        "id": "126_4_3",
+        "text": "will travel",
+        "html": "will travel"
+      },
+      {
+        "id": "126_4_4",
+        "text": "traveled",
+        "html": "traveled"
+      }
+    ],
+    "correctChoiceId": "126_4_1",
+    "explanation": "<p>Mệnh đề If của câu điều kiện loại 1 chia thì hiện tại đơn. Chủ ngữ 'she' số ít nên động từ chia thêm -s: <strong>travels</strong>.</p>",
+    "ruleTip": "Vế If loại 1: Chủ ngữ số ít (she/he/it) động từ chia thêm -s/-es."
+  },
+  {
+    "id": "126_5",
+    "questionName": "Question 5",
+    "questionText": "<p>If you see Lan at the library, ________ her this grammar book.</p>",
+    "choices": [
+      {
+        "id": "126_5_2",
+        "text": "will give",
+        "html": "will give"
+      },
+      {
+        "id": "126_5_3",
+        "text": "gave",
+        "html": "gave"
+      },
+      {
+        "id": "126_5_4",
+        "text": "giving",
+        "html": "giving"
+      },
+      {
+        "id": "126_5_1",
+        "text": "give",
+        "html": "give"
+      }
+    ],
+    "correctChoiceId": "126_5_1",
+    "explanation": "<p>Mệnh đề chính của câu điều kiện loại 1 có thể là một câu mệnh lệnh: <strong>V-inf (give)</strong>.</p>",
+    "ruleTip": "Câu mệnh lệnh ở vế chính loại 1: Dùng động từ nguyên mẫu không 'will'."
+  },
+  {
+    "id": "126_6",
+    "questionName": "Question 6",
+    "questionText": "<p>You can borrow my laptop as long as you ________ it carefully.</p>",
+    "choices": [
+      {
+        "id": "126_6_2",
+        "text": "will use",
+        "html": "will use"
+      },
+      {
+        "id": "126_6_1",
+        "text": "use",
+        "html": "use"
+      },
+      {
+        "id": "126_6_3",
+        "text": "used",
+        "html": "used"
+      },
+      {
+        "id": "126_6_4",
+        "text": "are using",
+        "html": "are using"
+      }
+    ],
+    "correctChoiceId": "126_6_1",
+    "explanation": "<p><strong>As long as</strong> (miễn là) đóng vai trò tương đương liên từ 'If' trong câu điều kiện loại 1, theo sau là mệnh đề thì hiện tại đơn: <strong>use</strong>.</p>",
+    "ruleTip": "As long as = Provided that = If (chia thì Hiện tại đơn)."
+  },
+  {
+    "id": "126_7",
+    "questionName": "Question 7",
+    "questionText": "<p>If you want to pass the entrance exam, you ________ revise your lessons thoroughly.</p>",
+    "choices": [
+      {
+        "id": "126_7_1",
+        "text": "must",
+        "html": "must"
+      },
+      {
+        "id": "126_7_2",
+        "text": "would",
+        "html": "would"
+      },
+      {
+        "id": "126_7_3",
+        "text": "had to",
+        "html": "had to"
+      },
+      {
+        "id": "126_7_4",
+        "text": "would have",
+        "html": "would have"
+      }
+    ],
+    "correctChoiceId": "126_7_1",
+    "explanation": "<p>Mệnh đề chính câu điều kiện loại 1 có thể dùng động từ khuyết thiếu diễn tả sự cần thiết: <strong>must + V-inf</strong>.</p>",
+    "ruleTip": "Vế chính loại 1 có thể dùng động từ khuyết thiếu: must/should/can + V-inf."
+  },
+  {
+    "id": "126_8",
+    "questionName": "Question 8",
+    "questionText": "<p>If we ________ now, we will be late for school.</p>",
+    "choices": [
+      {
+        "id": "126_8_2",
+        "text": "won't leave",
+        "html": "won't leave"
+      },
+      {
+        "id": "126_8_3",
+        "text": "didn't leave",
+        "html": "didn't leave"
+      },
+      {
+        "id": "126_8_1",
+        "text": "don't leave",
+        "html": "don't leave"
+      },
+      {
+        "id": "126_8_4",
+        "text": "not leave",
+        "html": "not leave"
+      }
+    ],
+    "correctChoiceId": "126_8_1",
+    "explanation": "<p>Phủ định ở mệnh đề If của câu điều kiện loại 1 với chủ ngữ 'we' dùng <strong>don't + V-inf (don't leave)</strong>.</p>",
+    "ruleTip": "Phủ định vế If loại 1 với chủ ngữ 'we/they/I/you': dùng don't + V-inf."
+  },
+  {
+    "id": "126_9",
+    "questionName": "Question 9",
+    "questionText": "<p>________ anyone call, please tell them I am in a meeting.</p>",
+    "choices": [
+      {
+        "id": "126_9_1",
+        "text": "Should",
+        "html": "Should"
+      },
+      {
+        "id": "126_9_2",
+        "text": "If",
+        "html": "If"
+      },
+      {
+        "id": "126_9_3",
+        "text": "Unless",
+        "html": "Unless"
+      },
+      {
+        "id": "126_9_4",
+        "text": "Were",
+        "html": "Were"
+      }
+    ],
+    "correctChoiceId": "126_9_1",
+    "explanation": "<p>Đảo ngữ câu điều kiện loại 1: <strong>Should + S + V-inf</strong> thay cho 'If + S + V(s/es)'. 'Should anyone call' = 'If anyone calls'.</p>",
+    "ruleTip": "Đảo ngữ If 1: Should + S + V-inf thay cho 'If + S + V'."
+  },
+  {
+    "id": "126_10",
+    "questionName": "Question 10",
+    "questionText": "<p>We will miss the train unless we ________ a taxi right away.</p>",
+    "choices": [
+      {
+        "id": "126_10_1",
+        "text": "take",
+        "html": "take"
+      },
+      {
+        "id": "126_10_2",
+        "text": "don't take",
+        "html": "don't take"
+      },
+      {
+        "id": "126_10_3",
+        "text": "will take",
+        "html": "will take"
+      },
+      {
+        "id": "126_10_4",
+        "text": "took",
+        "html": "took"
+      }
+    ],
+    "correctChoiceId": "126_10_1",
+    "explanation": "<p>Sau 'Unless' là mệnh đề khẳng định ở thì Hiện tại đơn: <strong>take</strong> (Chúng ta sẽ lỡ chuyến tàu trừ phi chúng ta bắt taxi ngay).</p>",
+    "ruleTip": "Sau Unless là mệnh đề khẳng định (không dùng don't/doesn't)."
+  },
+  {
+    "id": "126_11",
+    "questionName": "Question 11",
+    "questionText": "<p>If I drink coffee late at night, I ________ sleep well.</p>",
+    "choices": [
+      {
+        "id": "126_11_2",
+        "text": "could not",
+        "html": "could not"
+      },
+      {
+        "id": "126_11_1",
+        "text": "cannot",
+        "html": "cannot"
+      },
+      {
+        "id": "126_11_3",
+        "text": "would not",
+        "html": "would not"
+      },
+      {
+        "id": "126_11_4",
+        "text": "had not",
+        "html": "had not"
+      }
+    ],
+    "correctChoiceId": "126_11_1",
+    "explanation": "<p>Diễn tả sự thật hoặc thói quen của bản thân (If 0): vế chính dùng <strong>cannot + V-inf</strong>.</p>",
+    "ruleTip": "Sự thật thói quen cá nhân: Dùng Hiện tại đơn / can / cannot ở cả 2 vế."
+  },
+  {
+    "id": "126_12",
+    "questionName": "Question 12",
+    "questionText": "<p>Take an umbrella in case it ________ on your way back home.</p>",
+    "choices": [
+      {
+        "id": "126_12_2",
+        "text": "will rain",
+        "html": "will rain"
+      },
+      {
+        "id": "126_12_3",
+        "text": "rained",
+        "html": "rained"
+      },
+      {
+        "id": "126_12_4",
+        "text": "is raining",
+        "html": "is raining"
+      },
+      {
+        "id": "126_12_1",
+        "text": "rains",
+        "html": "rains"
+      }
+    ],
+    "correctChoiceId": "126_12_1",
+    "explanation": "<p>Sau <strong>'in case'</strong> (phòng khi) chia thì Hiện tại đơn diễn tả sự việc trong tương lai: <strong>rains</strong>.</p>",
+    "ruleTip": "Sau 'in case' (phòng khi) chia thì Hiện tại đơn mang nghĩa tương lai."
+  },
+  {
+    "id": "126_13",
+    "questionName": "Question 13",
+    "questionText": "<p>If the weather ________ fine tomorrow, our class will go for a picnic.</p>",
+    "choices": [
+      {
+        "id": "126_13_2",
+        "text": "will be",
+        "html": "will be"
+      },
+      {
+        "id": "126_13_3",
+        "text": "was",
+        "html": "was"
+      },
+      {
+        "id": "126_13_4",
+        "text": "were",
+        "html": "were"
+      },
+      {
+        "id": "126_13_1",
+        "text": "is",
+        "html": "is"
+      }
+    ],
+    "correctChoiceId": "126_13_1",
+    "explanation": "<p>Trong mệnh đề If loại 1, dù có trạng từ chỉ tương lai 'tomorrow' thì động từ to be vẫn chia thì Hiện tại đơn: <strong>is</strong> (tuyệt đối không dùng will be).</p>",
+    "ruleTip": "Mệnh đề If loại 1 dùng 'is/am/are', tuyệt đối KHÔNG dùng 'will be'."
+  },
+  {
+    "id": "126_14",
+    "questionName": "Question 14",
+    "questionText": "<p>You ________ allowed into the exam room if you forget your student ID card.</p>",
+    "choices": [
+      {
+        "id": "126_14_2",
+        "text": "wouldn't be",
+        "html": "wouldn't be"
+      },
+      {
+        "id": "126_14_3",
+        "text": "aren't",
+        "html": "aren't"
+      },
+      {
+        "id": "126_14_4",
+        "text": "weren't",
+        "html": "weren't"
+      },
+      {
+        "id": "126_14_1",
+        "text": "won't be",
+        "html": "won't be"
+      }
+    ],
+    "correctChoiceId": "126_14_1",
+    "explanation": "<p>Mệnh đề chính câu điều kiện loại 1 dạng bị động: <strong>won't be + V3/ed (allowed)</strong>.</p>",
+    "ruleTip": "Bị động vế chính loại 1: won't be + V3/ed."
+  },
+  {
+    "id": "126_15",
+    "questionName": "Question 15",
+    "questionText": "<p>\"If you don't water these flowers, they will die.\" means: \"________, they will die.\"</p>",
+    "choices": [
+      {
+        "id": "126_15_2",
+        "text": "Unless you don't water these flowers",
+        "html": "Unless you don't water these flowers"
+      },
+      {
+        "id": "126_15_3",
+        "text": "If you water these flowers",
+        "html": "If you water these flowers"
+      },
+      {
+        "id": "126_15_1",
+        "text": "Unless you water these flowers",
+        "html": "Unless you water these flowers"
+      },
+      {
+        "id": "126_15_4",
+        "text": "Unless you didn't water these flowers",
+        "html": "Unless you didn't water these flowers"
+      }
+    ],
+    "correctChoiceId": "126_15_1",
+    "explanation": "<p>Chuyển đổi câu điều kiện: <strong>If you don't water = Unless you water</strong>.</p>",
+    "ruleTip": "Chuyển đổi: If you don't water = Unless you water."
+  }
+]

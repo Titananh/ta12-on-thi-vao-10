@@ -1,0 +1,17 @@
+{
+  "topicName": "Trọng âm từ (Word Stress)",
+  "englishName": "Stress Rules",
+  "detail": "\n      <div class=\"theory-section space-y-4\">\n        <p class=\"font-medium text-slate-800\">Quy tắc đánh trọng âm từ 2 và 3 âm tiết thi vào lớp 10 Hà Nội:</p>\n        <h4 class=\"text-base font-bold text-emerald-800 border-b border-emerald-100 pb-1 mt-3\">1. Từ 2 âm tiết:</h4>\n        <ul class=\"list-disc pl-5 space-y-1 text-slate-700\">\n          <li><strong>Danh từ & Tính từ:</strong> Thường nhấn trọng âm ở <strong>âm tiết 1</strong>.<br><span class=\"text-xs text-slate-500 italic\">VD: 'student, 'table, 'happy, 'clever, 'famous.</span></li>\n          <li><strong>Động từ:</strong> Thường nhấn trọng âm ở <strong>âm tiết 2</strong>.<br><span class=\"text-xs text-slate-500 italic\">VD: re'lax, de'cide, re'ceive, for'get, a'gree.</span></li>\n          <li><em>Ngoại lệ:</em> ma'chine (N-2), 'visit (V-1), 'listen (V-1), 'happen (V-1).</li>\n        </ul>\n\n        <h4 class=\"text-base font-bold text-emerald-800 border-b border-emerald-100 pb-1 mt-3\">2. Hậu tố nhận trọng âm hoặc dịch chuyển trọng âm:</h4>\n        <ul class=\"list-disc pl-5 space-y-1 text-slate-700\">\n          <li>Trọng âm rơi vào <strong>âm tiết ngay trước</strong> các đuôi: <em>-tion, -sion, -ic, -ical, -ity, -logy</em>.<br><span class=\"text-xs text-slate-500 italic\">VD: pol'lution, de'cision, scien'tific, his'torical, a'bility.</span></li>\n          <li>Trọng âm rơi vào <strong>chính đuôi</strong>: <em>-ee, -eer, -ese, -ique</em>.<br><span class=\"text-xs text-slate-500 italic\">VD: emplo'yee, volun'teer, Vietna'mese, u'nique.</span></li>\n        </ul>\n      </div>\n    ",
+  "rules": [
+    {
+      "sound": "2 âm tiết",
+      "rule": "Danh từ & Tính từ 2 âm tiết trọng âm 1; Động từ 2 âm tiết trọng âm 2",
+      "examples": "'teacher, 'happy vs en'joy, a'gree"
+    },
+    {
+      "sound": "Hậu tố",
+      "rule": "Trọng âm rơi vào âm tiết đứng trước -tion, -sion, -ic, -ity",
+      "examples": "infor'mation, e'lectric, possi'bility"
+    }
+  ]
+}

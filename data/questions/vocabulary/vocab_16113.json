@@ -1,0 +1,686 @@
+{
+  "quizId": 16113,
+  "title": "Ôn luyện Từ vựng thi vào 10 số 24: Shopping (Set 3)",
+  "totalQuestions": 16,
+  "questions": [
+    {
+      "id": 901549,
+      "questionNumber": 1,
+      "questionName": "shopping list, service, shopaholic, schedule",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Drag and drop to complete the sentences.</strong></p>\n<p>1. I always make a <strong><span class='fillblank-option'><label>1.1</label><input id='fbo-901549-0' class='ms fillblank-option-1' index='0' name='fbo-901549-0' type='text' size='14' autocomplete='off' data-testid='fillblank-input-901549-0' /></span></strong> before going to the supermarket for groceries.</p>\n<p>2. My sister is a <strong><span class='fillblank-option'><label>1.2</label><input id='fbo-901549-1' class='ms fillblank-option-1' index='1' name='fbo-901549-1' type='text' size='14' autocomplete='off' data-testid='fillblank-input-901549-1' /></span></strong> who buys new clothes almost every weekend.</p>\n<p>3. The store manager created a <strong><span class='fillblank-option'><label>1.3</label><input id='fbo-901549-2' class='ms fillblank-option-1' index='2' name='fbo-901549-2' type='text' size='9' autocomplete='off' data-testid='fillblank-input-901549-2' /></span></strong> of all the sales and special events this month.</p>\n<p>4. The <strong><span class='fillblank-option'><label>1.4</label><input id='fbo-901549-3' class='ms fillblank-option-1' index='3' name='fbo-901549-3' type='text' size='8' autocomplete='off' data-testid='fillblank-input-901549-3' /></span></strong> at this shop is very good because the staff are always helpful.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1719082,
+          "label": "A",
+          "text": "shopping list",
+          "isCorrect": false
+        },
+        {
+          "id": 1719083,
+          "label": "B",
+          "text": "shopaholic",
+          "isCorrect": false
+        },
+        {
+          "id": 1719085,
+          "label": "C",
+          "text": "service",
+          "isCorrect": false
+        },
+        {
+          "id": 1719084,
+          "label": "D",
+          "text": "schedule",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "shopping list"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "shopaholic"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "schedule"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "service"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"4DFFF4A6\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19AZwlVboq0M4pzWQaC34v25v%2FoUmH3w%2BWuFToapAizHDg0TyXJJXIwfpKoTnZ9KGbcAK2FzQnKV4cmy9Eyfb6toICvjmFPwc3vA1baQplbTm4E7GeHGf9ZRuKd3txpy4ADCOQul%2BTElIQD2xNcnuliYl4D3QeacibWIj1wIXrtHT2yASxik1dsA197%2FPZlIHZCjznFDnlxsbwBo7q9GFKr8wG6iQms8S6wQl1ODqs%2BPDABo2vaZ6nxabDM2U5PziFh6sFjN2a%2BZzwm9659bFoL7NpIs9BAhUZ%2BM7U%2FQe2lzYIh7MxDsntcA7x64T8Lsr8GrEp%2FZrzshE7nFGQtNBSv%2FMSrgjEZUMM%3D\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch:</p>\n<p>1. T&ocirc;i lu&ocirc;n lập danh s&aacute;ch mua sắm trước khi đi si&ecirc;u thị mua đồ tạp h&oacute;a.</p>\n<p>2. Chị g&aacute;i t&ocirc;i l&agrave; một người nghiện mua sắm người mà mua quần &aacute;o mới hầu như v&agrave;o mỗi cuối tuần.</p>\n<p>3. Người quản l&yacute; cửa h&agrave;ng đ&atilde; lập lịch tr&igrave;nh cho tất cả c&aacute;c đợt giảm giá v&agrave; sự kiện đặc biệt trong th&aacute;ng n&agrave;y.</p>\n<p>4. Dịch vụ tại cửa h&agrave;ng n&agrave;y rất tốt v&igrave; nh&acirc;n vi&ecirc;n lu&ocirc;n nhiệt t&igrave;nh gi&uacute;p đỡ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 901554,
+      "questionNumber": 2,
+      "questionName": "mainly",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>This market <span style=\"text-decoration: underline;\">mainly</span> sells fresh fruits and vegetables from local farms every morning.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1713291,
+          "label": "A",
+          "text": "rarely",
+          "isCorrect": true
+        },
+        {
+          "id": 1713292,
+          "label": "B",
+          "text": "often",
+          "isCorrect": false
+        },
+        {
+          "id": 1713293,
+          "label": "C",
+          "text": "always",
+          "isCorrect": false
+        },
+        {
+          "id": 1713294,
+          "label": "D",
+          "text": "later",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1713291,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"F4672A79\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2Boyhw4t9o%2BEkGSmTTXssNsVb8686G%2F66pQE09h5mzZ78PV2HAVZ6HkgfUneNIPlcxK1JbIRdc45AgIgaK3PaK4Ob4PQTOJqFyK1ok5U7r0393dMM19grWd8RNJkoFHaPKOs2KfnPzPs7JdnDYq%2BQyRQBxG79rs7vuI52SO4fq5FOpIg%2B8B4DgswfSr1QGa1wMKb3DBEW6rd7G%2Bm%2BPrGtUEL5UVxZugNzINaqEzCGGpoAFUASl2OBBYEyPM0rHKaalNbVzFBG4S2%2FcnVqYwqVRam8CApI6pe%2FrM%2BExPZ2j7zGGnwHmL0X0imhCg%2BTsErm7hPN2M%2BaviLh2OYBfWsXipQ%2BQhKsiieSc5RkaJnutNX26VAGs8s9X6Fd7zSpSf5wkqMerMZfOTP%2BIm1ZCivC8TeTc5BX%2FarDg%3D\" width=\"100%\" height=\"360\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Chợ n&agrave;y chủ yếu b&aacute;n tr&aacute;i c&acirc;y v&agrave; rau quả tươi từ c&aacute;c trang trại địa phương v&agrave;o mỗi buổi s&aacute;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 901560,
+      "questionNumber": 3,
+      "questionName": "specific",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>The store offers discounts on <span style=\"text-decoration: underline;\">specific</span> items, like shoes and bags, during the weekend sale.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1713295,
+          "label": "A",
+          "text": "important",
+          "isCorrect": false
+        },
+        {
+          "id": 1713296,
+          "label": "B",
+          "text": "valuable",
+          "isCorrect": false
+        },
+        {
+          "id": 1713297,
+          "label": "C",
+          "text": "general",
+          "isCorrect": true
+        },
+        {
+          "id": 1713298,
+          "label": "D",
+          "text": "beautiful",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1713297,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"FA6A3529\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX19FJRdaVG8mQFJYqqn28p5YWJKEMrBxyRJLE4HDVn3RbmC6hJbI6E9pumqL4TLIBRH26T9U69QrapOJHJSK0%2F2lgE9FtAEovN0EeKIzgSr4rG6QGUw3AhcMo932r452OYP0z1j9od8SRnNV633HCapZcZxdDH0zi%2FFktXd4fAbcuUsNdE%2FFgQIMtTzmDOEBv9NLw1iW1gdXQSj%2Bd7w%2Fb0gnUuc%2ByqTzIL%2FRS%2FHTjCu76egKfpcSAwztABrZuzp2wnjSbKpcYpw0ZCMpcPw4hNmdbzqEYT%2BjbFRqVbYLa1ZLjTWlD%2FYqNO1U%2Faq8I60Gf1uHvUNS5yHRVgDh5iU28XSN7kP23401irZouaJqdW%2Fyu9xiOX%2FLABgxrgGSeO0bqHtQlz6XPConX7H0RciXCYzjbHE2j2qAIHY%2FgMlkn7KU4p7bjmbIF%2Fhk\" width=\"100%\" height=\"360\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Cửa h&agrave;ng giảm gi&aacute; một số mặt h&agrave;ng cụ thể như gi&agrave;y d&eacute;p v&agrave; t&uacute;i x&aacute;ch trong đợt giảm gi&aacute; cuối tuần.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 901564,
+      "questionNumber": 4,
+      "questionName": "outstanding",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>The shop received an award for its <span style=\"text-decoration: underline;\">outstanding</span> customer service and high-quality products.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1713301,
+          "label": "A",
+          "text": "well-known",
+          "isCorrect": false
+        },
+        {
+          "id": 1713302,
+          "label": "B",
+          "text": "ordinary",
+          "isCorrect": true
+        },
+        {
+          "id": 1713303,
+          "label": "C",
+          "text": "excellent",
+          "isCorrect": false
+        },
+        {
+          "id": 1713304,
+          "label": "D",
+          "text": "creative",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1713302,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe id=\"90EBD388\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2FEjPzNaCgqU%2Fzt5Ho7lR46y6YRcMNxiKch8Q66jrQmkcQKwVzKZ4qNf8TuntuJHnrIuQqYiMKMgFnNGKTP0O5iM%2FA90uWbfiGVde5E5r6HQOg%2FisZr6YGB2EOhh2brX06Z9mbI174zrh9li5fFEl2XouElmghnz1jqTGbMThGqYRz7xQIkpXR4jUDDymsgVFlVxLfxdQWu3gjNnjNraitSBS4EOTpijAu6qEOLSJvik7CaylBjzLCyeykeSLUx%2BG8LxC%2B4zcYwpLF2UgnU6E9JJSFAANdai6LsyaeUKj1XA15u1riVVaeXxpBMBiNoYE9o%2FYMNbmyHXawf0l5lvWUhjL4mt5ec%2BnQJS3o1YAp3q5qP4%2F%2F7Q3yevmahn%2FHrPN8FcyOx9xawKDuIxXr4cQEUYCDTk4i9dB27ordLtnE9poRTPHUhEQWQHc7T5pgobfHELAaoM3xnxg%3D%3D\" width=\"100%\" height=\"360\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Cửa h&agrave;ng đ&atilde; nhận được giải thưởng v&igrave; dịch vụ chăm s&oacute;c kh&aacute;ch h&agrave;ng xuất sắc v&agrave; sản phẩm chất lượng cao.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 901579,
+      "questionNumber": 5,
+      "questionName": "home-made",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I bought a jar of _____ jam from the farmers' market last weekend.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1713320,
+          "label": "A",
+          "text": "self-sufficient",
+          "isCorrect": false
+        },
+        {
+          "id": 1713321,
+          "label": "B",
+          "text": "soft-boiled",
+          "isCorrect": false
+        },
+        {
+          "id": 1713322,
+          "label": "C",
+          "text": "second-hand",
+          "isCorrect": false
+        },
+        {
+          "id": 1713323,
+          "label": "D",
+          "text": "home-made",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1713323,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"D2BEB64F\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FYSOA29AR8oeu%2Bdh9zCiT5O7bvkOVr40Y1ljk4x0WGDjdPlzMrNk6sSDIWUYCMKv3rf%2BS9Xt1%2FSYp06ZRAOevnGn6AJISSonEhK6qdyU0uG6KnjHb%2BAW2casyZ7LwdQIlaDML0AaEh3Q7ir8YcV6xDL1RjhILrpzFLjpnnykmTszc91rrgZrY0l0a1BYXAVvqg4mU5B5e%2FX91BebCcExFrebjhzXuFOSAwxFp3rr2azdMR2Y0GX9WsHLRnUsCuj7Qjgx0nJ74qhr2h5Zfo%2BrUzlIg%2BDra4wx89RLdaKKxRjmERU37%2FCMp%2FCgT%2Fim%2Fj0uZ0jHg81dtwnoLH1CaQIQeXCWmhD3li9g%2B0%2B2O0G0rnU0YyL6LoZOSNCtMfRyVsoaqbYQCjqPC4QQkpltUC24J%2FwiPcPC%2B4xOzy4aicYD2OuVKhEaIe3ntU\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Tính từ \"second-hand\" kh&ocirc;ng dùng cho đ&ocirc;̀ ăn, thực ph&acirc;̉m mà chỉ dùng cho v&acirc;̣t dụng.</p>\n<p>Dịch: T&ocirc;i đ&atilde; mua một lọ mứt tự l&agrave;m ở chợ n&ocirc;ng sản cu&ocirc;́i tu&acirc;̀n trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 901580,
+      "questionNumber": 6,
+      "questionName": "spicy",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The dish that she ate at the local fair was _____ because she added a lot of chilies to it.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1713324,
+          "label": "A",
+          "text": "spicy",
+          "isCorrect": true
+        },
+        {
+          "id": 1713325,
+          "label": "B",
+          "text": "sour",
+          "isCorrect": false
+        },
+        {
+          "id": 1713326,
+          "label": "C",
+          "text": "bitter",
+          "isCorrect": false
+        },
+        {
+          "id": 1713327,
+          "label": "D",
+          "text": "sweet",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1713324,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"2B0F2E50\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BtXuG%2FN1B4daZXadOd1gseAAKXDc1ofiGuyOGmVFoSZfbazxAGQRnFChbWqZq7hrzNFO%2F9sEu%2FkrL%2FZWwV3kK4rvMTdrWAodE532PaRJS6OVfyg1ekKrc%2BT1gNvbRmigka%2ByRCxFKldiTINgL7SFHjKimrg%2FGML3URwvxII2cWS75RctfkcoI3kT6e6ifP5Ey2dlSC6LltsLHac9UzVYJDF%2FgvzWIbzzJyJq6cc5gK0aCSIB9cEk4ttbnwexTgiY2%2FNWguF6BnaGMgP%2FJsZWs8FbYU37v%2BPv5e2SmaVpwKj%2B0LxQOPuECkpg3%2BCgmuVD6WproT3r3QrVkwP9p366jGyJr3%2FBhfsjA%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: M&oacute;n ăn m&agrave; c&ocirc; ấy ăn ở hội chợ địa phương rất cay v&igrave; c&ocirc; ấy cho rất nhiều ớt v&agrave;o đ&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 901581,
+      "questionNumber": 7,
+      "questionName": "episode",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The final _____ of the cooking show features tips on shopping for fresh ingredients.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1713328,
+          "label": "A",
+          "text": "chapter",
+          "isCorrect": false
+        },
+        {
+          "id": 1713329,
+          "label": "B",
+          "text": "series",
+          "isCorrect": false
+        },
+        {
+          "id": 1713330,
+          "label": "C",
+          "text": "episode",
+          "isCorrect": true
+        },
+        {
+          "id": 1713331,
+          "label": "D",
+          "text": "source",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1713330,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"E9FC9736\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FNFmANJJVw24g4KDQni22OlUdrhoisFpbG%2BiCyKllMHPP4v%2BSZ230vm57YO%2FU1pQQQBLRbgyTaDUYgOr31gDr%2BCTSxDgvtCb1BC9ciCEaX4rGU7jdx9NYoEe9IasoFFM4Bs2HqahMXSmjDIPTkr5A2JE1BkpVI51rhQTCgfBkNg%2Bzd42C4WiWE3h2ORaeHGh2ez%2FSv6LS2vRp9y7N0M1ca9sLer8osGu9qJ99LJMolLUqg3dwV%2FcDduCnuWjwW3N%2BsYq2D6iGRJJndjMLhcQLcMDQJhHK8OBWyJHOj1Wn5BnJZL0g%2FnFfrHxxGnsRogOeVQZE%2B70nT%2BEloDf5u7d1NmfgCbbPOkBWpIimZmOMBcNNoKr8WHve0\" width=\"100%\" height=\"355\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Tập cuối của chương tr&igrave;nh nấu ăn n&agrave;y sẽ chia sẻ những mẹo mua nguy&ecirc;n liệu tươi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 901582,
+      "questionNumber": 8,
+      "questionName": "expire",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>You should always check the date on food packages to make sure they don&#8217;t _____ soon.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1713332,
+          "label": "A",
+          "text": "burn",
+          "isCorrect": false
+        },
+        {
+          "id": 1713333,
+          "label": "B",
+          "text": "boil",
+          "isCorrect": false
+        },
+        {
+          "id": 1713334,
+          "label": "C",
+          "text": "overheat",
+          "isCorrect": false
+        },
+        {
+          "id": 1713335,
+          "label": "D",
+          "text": "expire",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1713335,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"0F2F18EF\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19%2BPREETxs3N%2B19Rlwdpvl%2Fjdo01cXz3vMSvsvSwqf1WyJlw12dep9LE2U%2Buf2N%2BzKTDtsIK%2B4Kfkwu4DYzMF6AMq6p3BXQsJ6wsGTzPm42mhHXq73bh9ZuCScIMGjfm6aUrux%2BfpZ2VCT0PLyoktxDoQDaaDw4%2FN%2BSeyPSl3iHXRNR%2BpYVLnt27Kd1RJhLk2EzoOZVPbF2OrvheNKz6yg9Y1PajBx34atozfynqFCe6bEgE30WpDzs4cCFqK6Xutt5qBUxWDjEY%2BKn7OVWs7Qmpuy31EquRwmOzr1eW3vLZclqpKIqKNkcEDJsljZ3GgqKod25PEAjCLA2bOgdzvVLpWgBs4O4iJk%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Bạn n&ecirc;n lu&ocirc;n lu&ocirc;n kiểm tra ng&agrave;y tr&ecirc;n bao b&igrave; thực phẩm để đảm bảo ch&uacute;ng kh&ocirc;ng hết hạn sớm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 901583,
+      "questionNumber": 9,
+      "questionName": "advertise",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The company plans to _____ its new collection of clothes in fashion magazines.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1713336,
+          "label": "A",
+          "text": "produce",
+          "isCorrect": false
+        },
+        {
+          "id": 1713337,
+          "label": "B",
+          "text": "advertise",
+          "isCorrect": true
+        },
+        {
+          "id": 1713338,
+          "label": "C",
+          "text": "recycle",
+          "isCorrect": false
+        },
+        {
+          "id": 1713339,
+          "label": "D",
+          "text": "transport",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1713337,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"A679B92C\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19v3C%2FPE7qOv3XscBaJQp4beFkmzOiMwbBUIcel0dbiIZ2Ag0AQzSh3WgO8ZHzBRxiMTzwpyA2vyFpX9iEifp1zv%2FM3D6NVrPwr5Bgsl%2F26va%2FbECSJ8pV7KTXG91l%2FzCscXjQELimfSeNXKb3uOW8YUKkWhWtcx9q0YnoxUdoF8GDpvOT%2FNu99wOHSiZAJp3y9KWSC7EQb92VtQL9z8UauJPynS6mCRFMitKi4KEWo%2FMlwOi2Nc9PGciOzVbU3R%2BWoeL%2Bweg67KrAZKYB6EMSMRltT8PXWWR%2FTNeuYEvRL3MQGxsBPxrAPdvU6DEEM8WkRHVycAIYL5OHio9sGNAZHsMXxh%2FjhXDY5e67Lp1bAT5VMLZd63ybq\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: C&ocirc;ng ty c&oacute; kế hoạch quảng c&aacute;o bộ sưu tập quần &aacute;o mới của m&igrave;nh tr&ecirc;n c&aacute;c tạp ch&iacute; thời trang.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 901584,
+      "questionNumber": 10,
+      "questionName": "yellowish",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The banana peel turns _____, which shows that it is getting ripe, so you should buy it and leave it for 2 days.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1713340,
+          "label": "A",
+          "text": "yellowish",
+          "isCorrect": true
+        },
+        {
+          "id": 1713341,
+          "label": "B",
+          "text": "green",
+          "isCorrect": false
+        },
+        {
+          "id": 1713342,
+          "label": "C",
+          "text": "red",
+          "isCorrect": false
+        },
+        {
+          "id": 1713343,
+          "label": "D",
+          "text": "pinkish",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1713340,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"08C2503D\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX191j8HRygf6IzEDAW63SFzY85gOrMrLF2qaLPaT8rSYNjBH2ooYIpQMfb0itmAeUBvICA7ZxzODVMYoingIjTpsJqcLhVUmHBGRN0eZg5hkzxa%2FYinsQv%2BwhYcJJusX4Xx1XtlD2uxtsmtmEeMmpCqjj2DRHqK1SoE0XdliJIF0uLlH5brGHRC60e3UOTHOp8orlIO8VrTv1IkNe7Kfxt9vy8B5OXpDVK2JgM27i3ScFuScAhPZxyZT6DmGGhN5h17wFsradNkrgyPKPZ3UFlKMYidcx91VhRdJyKsL%2FLVRKTlH5Z6vMy8g2%2B18%2BDcqPgn3eLOOH8hO%2BepB06UgcCtjPCz%2Bjicgbbg%3D\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Vỏ chuối chuyển sang m&agrave;u v&agrave;ng chứng tỏ chuối đ&atilde; ch&iacute;n, bạn n&ecirc;n mua về v&agrave; để th&ecirc;m 2 ng&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 901585,
+      "questionNumber": 11,
+      "questionName": "try on",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>You should _____ these jeans to see if they fit properly before you buy them.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1713344,
+          "label": "A",
+          "text": "take up",
+          "isCorrect": false
+        },
+        {
+          "id": 1713345,
+          "label": "B",
+          "text": "get off",
+          "isCorrect": false
+        },
+        {
+          "id": 1713346,
+          "label": "C",
+          "text": "look after",
+          "isCorrect": false
+        },
+        {
+          "id": 1713347,
+          "label": "D",
+          "text": "try on",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1713347,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Học sinh cần chú ý đến cụm từ \"<em>to see if they fit properly before you buy them</em>\" trong câu hỏi để xác định hành động cần điền là gì.</p>\n<p style=\"text-align: justify;\">Tham khảo các câu sau để đoán hiểu nghĩa của các phương án lựa chọn:</p>\n<ul>\n<li><em>I decided to <strong>take up</strong> painting as a hobby.</em></li>\n<li><em>Please <strong>get off</strong> the bus at the next stop.</em></li>\n<li><em>Can you <strong>look after</strong> my cat while I'm away?</em></li>\n<li><em>She wanted to <strong>try on</strong> the dress before buying it.</em></li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 380px;\"><iframe width=\"100%\" height=\"340\" id=\"417480EF\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX19y1eTw83kGBfqSjFUetij67UypyGF36PYOIrTyl4HScDIMXkWpC0KswhgCjV%2FTQpmgTb%2BFi5o4RLWFFtMpN9BS5ObfLEARWh9O%2FcQMYxM%2BIy%2BGIAD79NIjmQWV4mkQcDD8gKvwS5M2QYnahE1ihvB9PvcUw6dBzmWNb%2Fw97MjkTGADCtlA1WOeO2ooqGOkrva%2BfMYMkczc1FjHSvgvTX09g5IxXty3wlsXhKe4INNk0DjHmxwER37MZUOWvkfnOnINuAyyQ2cNw2IkrOIFGJs1QpjvjXNd6M0%2BHsCseh2LLqKG3FsJLF%2F2bYrrGcVWMEu%2Ba8VwWklmu5Yj53e%2BD9vx7n9u4SaKMeONoiGnbveQPXX27658S5JE9w1RfrU4ossTtit95UIKYt%2BJIgaXjzjO7de6waJqObit48iIApzA2ciENNwdp%2FB1\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span><span style=\"text-align: justify;\"> </span></p>\n<p style=\"text-align: justify;\"><span style=\"text-align: justify;\">Trong câu hỏi, cụm từ <strong>\"to see if they fit properly before you buy them\" </strong>cung cấp ngữ cảnh rõ ràng, chỉ ra rằng hành động cần điền là thử quần áo để kiểm tra độ vừa vặn trước khi mua. Cụm động từ <strong>\"try on\"</strong> mang nghĩa \"thử quần áo\" là lựa chọn duy nhất phù hợp với ngữ cảnh này. Các phương án còn lại đều có nghĩa không liên quan đến việc thử đồ.</span></p>",
+      "answerFeedbacks": {
+        "1713344": "<p>Sai vì <em><strong>take up</strong></em> có nghĩa là làm cho ngắn lại (quần áo), bắt đầu một sở thích hoặc chiếm không gian/thời gian, không phù hợp với ngữ cảnh thử quần áo để xem có vừa không.</p>",
+        "1713345": "<p>Sai vì <em><strong>get off</strong></em> thường có nghĩa là rời khỏi một nơi, xuống xe hoặc cởi quần áo ra, không phải là hành động thử quần áo.</p>",
+        "1713346": "<p>Sai vì <em><strong>look after</strong></em> có nghĩa là chăm sóc hoặc trông nom ai đó/cái gì đó, không liên quan đến việc thử quần áo.</p>",
+        "1713347": "<p>Đúng vì <em><strong>try on</strong></em> có nghĩa là mặc hoặc đi một món đồ quần áo/giày dép để kiểm tra xem nó có vừa vặn hoặc trông như thế nào, hoàn toàn phù hợp với ngữ cảnh của câu.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 906635,
+      "questionNumber": 12,
+      "questionName": "speciality shop",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We visited a _____ shop that only sells rare spices from around the world.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1721297,
+          "label": "A",
+          "text": "flower",
+          "isCorrect": false
+        },
+        {
+          "id": 1721298,
+          "label": "B",
+          "text": "speciality",
+          "isCorrect": true
+        },
+        {
+          "id": 1721299,
+          "label": "C",
+          "text": "coffee",
+          "isCorrect": false
+        },
+        {
+          "id": 1721300,
+          "label": "D",
+          "text": "jewelry",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1721298,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"ED802ABD\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2Fw2Ez1ukSzy%2FPHY%2FxcWBO7g7EroKkaxvrKWCHREskg%2Bgcz1nU3YVp9x1RBnDYGZFrAfTHjlFhJjQ%2Fj%2Fdw0%2FiEROGfQh5ggVsAejQ%2FsyL0G9G0QYTWJ9K8sUD6k0E06n0ujuWBnKuhi9RRBonRpUiJiVOvu46%2FqU6DtK%2FJe0TjbSmHy9FfHLzP6B5gf7RCERlksk%2FcMT6s44NwO9ucjUHo7YlGvWdrxc8%2FqBsqiBWFkqyEl4SQ91JFqyUfTQPeNtFrlw5OZV%2FTthRYQ96xRGktADGNKlAwmxDcIADMVh4eB0%2B6agk4roH5mQUmM%2Fb7jBl0A2UOLwcT2tqPPaZmk61B0SBVJaojPgCFWbMzTr4ynNs4U5B9XC1Yra0wXnJ%2BEb6luwLj9daFiTQ%3D%3D\" width=\"100%\" height=\"355\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Ch&uacute;ng t&ocirc;i gh&eacute; thăm một cửa h&agrave;ng bán đ&ocirc;̀ chuy&ecirc;n dụng mà chỉ b&aacute;n c&aacute;c loại gia vị qu&yacute; hiếm từ khắp nơi tr&ecirc;n thế giới.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 901565,
+      "questionNumber": 13,
+      "questionName": "assistant",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentence by changing the form of the word in capitals.</em></p>\n<p><strong>The <span class='fillblank-option'><input id='fbo-901565-0' class='ms fillblank-option-13' index='0' name='fbo-901565-0' type='text' size='12' autocomplete='off' data-testid='fillblank-input-901565-0' /></span> helped me choose a nice dress for my friend&#8217;s birthday. (ASSIST)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "assistant",
+            "assistants"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại c&acirc;̀n đi&ecirc;̀n: danh từ, theo sau mạo từ \"<strong>the</strong>\" và làm chủ ngữ đứng trước đ&ocirc;̣ng từ \"<strong>helped</strong>\".</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"80D378D4\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BMajkf0lYu%2FmzpzJwJuiX3jF6fOWF7RvzHdnWRfFBlDNE0pOsqHIp9WPG6AY9AcrZsm3OdO177v0bWwsfLy7dLNh8EIBbtqzXbrfzNll7hmU53M0nsFzckCUuct8kr2bV2a9GYZOsuvZv6jMeACEpPNB1ICfaVYHkSDfvN2Pfrsp52gTvl7eUTkZnz%2F8lO%2BLATpXPZHhcsUrQ5iHmSWxd9FTTpm64OAr7AKItsGzTAShTmeIpMBvHl4DWcS455EQ3MOYFXDRVjDIOc4U%2FlaU8mIZ7y%2FBslvz70CrRkRnRfTt%2Bi%2B7h8DG0enYzf837avDoegmAQrcQeTWdNT%2Fk4On2woPa1PLGPoBZoiKyHIOebcWiUjiVobJIj\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Nh&acirc;n vi&ecirc;n b&aacute;n h&agrave;ng đ&atilde; gi&uacute;p t&ocirc;i chọn một chiếc v&aacute;y đẹp cho sinh nhật của bạn t&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 901567,
+      "questionNumber": 14,
+      "questionName": "popularity",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the sentence by changing the form of the word in capitals.</em></p>\n<p><strong>This brand&#8217;s <span class='fillblank-option'><input id='fbo-901567-0' class='ms fillblank-option-14' index='0' name='fbo-901567-0' type='text' size='14' autocomplete='off' data-testid='fillblank-input-901567-0' /></span> increased after they started selling eco-friendly products at lower prices. (POPULAR)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "popularity"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại c&acirc;̀n đi&ecirc;̀n: danh từ, trong cấu tr&uacute;c sở hữu c&aacute;ch \"<strong>N's N</strong>\" (c&aacute;i g&igrave; của c&aacute;i g&igrave;) v&agrave; trước động từ \"<strong>increased</strong>\".</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"F1E0A155\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BmrZZG1n3KgQR8F%2BHee%2FaEtgmXAxWSR5B8mnU7%2FP1E5%2B5HyzUfErB1Hj24Ad2va%2FdHZ%2FzIE5eCSM6ejftGlI%2BAlCY%2B1xPIc4qOVcnBWlgf8hzuW9JmOHUfLq%2B81I4j4moEaULWpLHs71qheR%2B5Bp6cLlq5N53aePAgqiWoB3IQBTDWHvNGO28r5JCTFs3GeJK7oRGxFkvduL6gNG%2F4Z1bIyQ5HUai%2BmS5mU4LxZY8hx5CQOEWPG%2BuN7gGhWiAlnov7289YeKzvdQz9oy7DLlSHnVWbxeKqzkIJL54XQQWg7cCzPpq%2BgG31ykomfm0KGLUyMeKc0W1Pd3NH%2F4B6yIEVBAb10Ce%2BV%2BKbyA5HCm8%2BIoDhHOnnseTn\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Thương hiệu n&agrave;y ng&agrave;y c&agrave;ng được ưa chuộng sau khi họ bắt đầu b&aacute;n c&aacute;c sản phẩm th&acirc;n thiện với m&ocirc;i trường với gi&aacute; thấp hơn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 901544,
+      "questionNumber": 15,
+      "questionName": "price tag, backpack, supermarket, birthday cake",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Write suitable words to complete the conversation.</strong></p>\n<p><strong><img src=\"/images/exams/SET_3_-_SHOPPING_26a816fb.png\" alt width=\"500\"></strong></p>\n<p>Tom: Hey Lisa, did you buy a gift for Sarah?</p>\n<p>Lisa: Yes, I got her a nice <strong><span class='fillblank-option'><label>15.1</label><input id='fbo-901544-0' class='ms fillblank-option-15' index='0' name='fbo-901544-0' type='text' size='10' autocomplete='off' data-testid='fillblank-input-901544-0' /></span></strong>. She&#8217;ll love it for school!</p>\n<p>Tom: That&#8217;s a great idea. Was it expensive?</p>\n<p>Lisa: Not really. I checked the <strong><span class='fillblank-option'><label>15.2</label><input id='fbo-901544-1' class='ms fillblank-option-15' index='1' name='fbo-901544-1' type='text' size='13' autocomplete='off' data-testid='fillblank-input-901544-1' /></span></strong>, and it was on sale at the shop.</p>\n<p>Tom: Lucky you! I still need to buy the <strong><span class='fillblank-option'><label>15.3</label><input id='fbo-901544-2' class='ms fillblank-option-15' index='2' name='fbo-901544-2' type='text' size='15' autocomplete='off' data-testid='fillblank-input-901544-2' /></span></strong> for the party.</p>\n<p>Lisa: Oh, they have some delicious ones at the <strong><span class='fillblank-option'><label>15.4</label><input id='fbo-901544-3' class='ms fillblank-option-15' index='3' name='fbo-901544-3' type='text' size='12' autocomplete='off' data-testid='fillblank-input-901544-3' /></span></strong>. You should check there.</p>\n<p>Tom: Good idea. I&#8217;ll go after school. Thanks, Lisa!</p>\n<p>Lisa: No problem. See you at the party!</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "backpack"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "price tag"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "birthday cake"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "supermarket"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px;\"><iframe id=\"8A9DB862\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18bQQvH1hFFprZj1XDOXAWavtG9a3u9pwR37kAADJteTi%2Ff0wNxXQXrclOHui1opGzv9Zq9dr%2BB4BswYGsI1tOBblstHem9Y0PvmFgcLjy6epTKTsHas8JV6IdpvevnkxDeZ1uT2FrhAGcSMcSVjz1x3zHNeoDn6a%2Bo02AhL5CQNbwQL6FT2bDi4aPlIFw93%2BhINr6cGMAV0qycFlYPNiZfKlnKQaKymSsKn%2BZpeaJk0OJLZJat6KPxDGmGdX1blc8noUUa6Y0eIeXHBj%2FM0CZtHxpjlJ8F30Nc2GE1LJmelenhuDj6S79u2DehPWXCiyIKK3MHCdVgK22tVsl0h9O4B7sdpcDEeM8%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch:&nbsp;</p>\n<p>Tom: N&agrave;y Lisa, bạn đ&atilde; mua qu&agrave; cho Sarah chưa?</p>\n<p>Lisa: C&oacute;, m&igrave;nh đ&atilde; mua cho c&ocirc; ấy một chiếc <span style=\"text-decoration: underline;\">ba l&ocirc;</span> đẹp. C&ocirc; ấy sẽ th&iacute;ch n&oacute; khi đi học!</p>\n<p>Tom: Đ&oacute; l&agrave; một &yacute; tưởng tuyệt vời. N&oacute; c&oacute; đắt kh&ocirc;ng?</p>\n<p>Lisa: Kh&ocirc;ng đắt đ&acirc;u. M&igrave;nh đ&atilde; kiểm tra <span style=\"text-decoration: underline;\">nhãn gi&aacute;</span> v&agrave; n&oacute; đang được giảm giá tại cửa h&agrave;ng.</p>\n<p>Tom: Bạn thật may mắn! M&igrave;nh vẫn cần mua <span style=\"text-decoration: underline;\">b&aacute;nh sinh nhật</span> cho bữa tiệc.</p>\n<p>Lisa: Ồ, họ c&oacute; một vài cái ngon ở <span style=\"text-decoration: underline;\">si&ecirc;u thị</span>. Bạn n&ecirc;n kiểm tra ở đ&oacute;.</p>\n<p>Tom: &Yacute; tưởng hay đấy. M&igrave;nh sẽ đi sau giờ học. Cảm ơn, Lisa!</p>\n<p>Lisa: Kh&ocirc;ng có g&igrave;. Gặp lại bạn ở bữa tiệc nh&eacute;!</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 901602,
+      "questionNumber": 16,
+      "questionName": "đoạn văn",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the option that best fits each blank.</strong></p>\n<p style=\"text-align: justify;\">Shopping is much easier now with the rise of <strong><span class='fillblank-option'><label>16.1</label><select class='ms fillblank-option-16' index='0' name='fbo-901602-0' data-testid='fillblank-select-901602-0'><option value='' data-testid='fillblank-option-empty-901602-0'></option><option value=\"cheap\" data-testid='fillblank-option-901602-0-cheap'>cheap</option><option value=\"offline\" data-testid='fillblank-option-901602-0-offline'>offline</option><option value=\"online\" data-testid='fillblank-option-901602-0-online'>online</option><option value=\"crowded\" data-testid='fillblank-option-901602-0-crowded'>crowded</option></select></span></strong> shops, where people can order almost anything from their homes.&nbsp;Good customer <strong><span class='fillblank-option'><label>16.2</label><select class='ms fillblank-option-16' index='1' name='fbo-901602-1' data-testid='fillblank-select-901602-1'><option value='' data-testid='fillblank-option-empty-901602-1'></option><option value=\"service\" data-testid='fillblank-option-901602-1-service'>service</option><option value=\"behavior\" data-testid='fillblank-option-901602-1-behavior'>behavior</option><option value=\"loyalty\" data-testid='fillblank-option-901602-1-loyalty'>loyalty</option><option value=\"data\" data-testid='fillblank-option-901602-1-data'>data</option></select></span></strong>, such as fast delivery and clear return policies, makes online shopping very popular.</p>\n<p style=\"text-align: justify;\">For unique products, a <strong><span class='fillblank-option'><label>16.3</label><select class='ms fillblank-option-16' index='2' name='fbo-901602-2' data-testid='fillblank-select-901602-2'><option value='' data-testid='fillblank-option-empty-901602-2'></option><option value=\"convenient store\" data-testid='fillblank-option-901602-2-convenient store'>convenient store</option><option value=\"speciality shop\" data-testid='fillblank-option-901602-2-speciality shop'>speciality shop</option><option value=\"supermarket\" data-testid='fillblank-option-901602-2-supermarket'>supermarket</option><option value=\"discount shop\" data-testid='fillblank-option-901602-2-discount shop'>discount shop</option></select></span></strong> is a perfect place to explore. These shops focus on specific goods, like handmade jewelry or rare books, which attract customers looking for something special. Their <strong><span class='fillblank-option'><label>16.4</label><select class='ms fillblank-option-16' index='3' name='fbo-901602-3' data-testid='fillblank-select-901602-3'><option value='' data-testid='fillblank-option-empty-901602-3'></option><option value=\"popularity\" data-testid='fillblank-option-901602-3-popularity'>popularity</option><option value=\"responsibility\" data-testid='fillblank-option-901602-3-responsibility'>responsibility</option><option value=\"stress\" data-testid='fillblank-option-901602-3-stress'>stress</option><option value=\"atmosphere\" data-testid='fillblank-option-901602-3-atmosphere'>atmosphere</option></select></span></strong>&nbsp;has grown because they often sell items of excellent quality and unique designs.</p>\n<p style=\"text-align: justify;\">While shopping can be enjoyable, it&#8217;s important to manage spending wisely. Some people become <strong><span class='fillblank-option'><label>16.5</label><select class='ms fillblank-option-16' index='4' name='fbo-901602-4' data-testid='fillblank-select-901602-4'><option value='' data-testid='fillblank-option-empty-901602-4'></option><option value=\"experts\" data-testid='fillblank-option-901602-4-experts'>experts</option><option value=\"athletes\" data-testid='fillblank-option-901602-4-athletes'>athletes</option><option value=\"inventors\" data-testid='fillblank-option-901602-4-inventors'>inventors</option><option value=\"shopaholics\" data-testid='fillblank-option-901602-4-shopaholics'>shopaholics</option></select></span></strong> who buy too much and therefore have to deal with financial problems. Buyers should prepare a shopping <strong><span class='fillblank-option'><label>16.6</label><select class='ms fillblank-option-16' index='5' name='fbo-901602-5' data-testid='fillblank-select-901602-5'><option value='' data-testid='fillblank-option-empty-901602-5'></option><option value=\"system\" data-testid='fillblank-option-901602-5-system'>system</option><option value=\"program\" data-testid='fillblank-option-901602-5-program'>program</option><option value=\"list\" data-testid='fillblank-option-901602-5-list'>list</option><option value=\"bill\" data-testid='fillblank-option-901602-5-bill'>bill</option></select></span></strong> before visiting stores or shopping online to avoid overspending. Whether shopping online or in physical stores, being organized and choosing carefully can make the experience more enjoyable and efficient.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "online"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "service"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "speciality shop"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "popularity"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "shopaholics"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "list"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. <strong>online</strong> (adj.): trực tuy&ecirc;́n =&gt;<strong> online shop</strong> (phr.): cửa hàng trực tuy&ecirc;́n</p>\n<p>offline (adj.): ngoại tuy&ecirc;́n, trực ti&ecirc;́p</p>\n<p>cheap (adj.): rẻ</p>\n<p>crowded (adj.): đ&ocirc;ng đúc</p>\n<p>Dịch: Việc mua sắm hiện nay dễ d&agrave;ng hơn nhiều nhờ sự ra đời của c&aacute;c cửa h&agrave;ng trực tuyến, nơi mọi người c&oacute; thể đặt mua hầu hết mọi thứ ngay tại nh&agrave;.</p>\n<p>2.<strong> service</strong> (n.): dịch vụ</p>\n<p>loyalty (n.): sự trung thành</p>\n<p>data (n.): dữ li&ecirc;̣u</p>\n<p>behavior (n.): cách cư xử; hành vi</p>\n<p>Dịch: Dịch vụ chăm s&oacute;c kh&aacute;ch h&agrave;ng tốt, chẳng hạn như giao h&agrave;ng nhanh v&agrave; ch&iacute;nh s&aacute;ch đổi trả r&otilde; r&agrave;ng, khiến mua sắm trực tuyến trở n&ecirc;n rất phổ biến.</p>\n<p>3. <strong>speciality shop</strong> (phr.): cửa hàng bán đ&ocirc;̀ chuy&ecirc;n dụng</p>\n<p>convenient store (n.): cửa hàng ti&ecirc;̣n lợi</p>\n<p>supermarket (n.): si&ecirc;u thị</p>\n<p>discount shop (n.): cửa hàng giảm giá</p>\n<p>Dịch: Đối với những sản phẩm ri&ecirc;ng bi&ecirc;̣t, cửa h&agrave;ng chuy&ecirc;n dụng l&agrave; nơi l&yacute; tưởng để kh&aacute;m ph&aacute;.</p>\n<p>4. <strong>popularity</strong> (n.): sự ph&ocirc;̉ bi&ecirc;́n</p>\n<p>responsibility (n.): trách nhi&ecirc;̣m</p>\n<p>stress (n.): sự căng thẳng</p>\n<p>atmosphere (n.): b&acirc;̀u kh&ocirc;ng khí</p>\n<p>Dịch: Sự ph&ocirc;̉ bi&ecirc;́n của những cửa hàng này ng&agrave;y c&agrave;ng tăng v&igrave; họ thường b&aacute;n những mặt h&agrave;ng c&oacute; chất lượng tuyệt vời v&agrave; thiết kế độc đ&aacute;o.</p>\n<p>5. <strong>shopaholic</strong> (n.): người nghi&ecirc;̣n mua sắm</p>\n<p>expert (n.): chuy&ecirc;n gia</p>\n<p>athlete (n.): v&acirc;̣n đ&ocirc;̣ng vi&ecirc;n</p>\n<p>inventor (n.): nhà phát minh</p>\n<p>Dịch: Một số người trở th&agrave;nh người nghiện mua sắm, mua qu&aacute; nhiều v&agrave; do đ&oacute; gặp phải những v&acirc;́n đ&ecirc;̀ v&ecirc;̀ tài chính.</p>\n<p>6.&nbsp;<strong>list</strong> (n.): danh sách =&gt; <strong>shopping list</strong> (n.): danh sách mua sắm</p>\n<p>program (n.): chương trình</p>\n<p>system (n.): h&ecirc;̣ th&ocirc;́ng</p>\n<p>bill (n.): hóa đơn</p>\n<p>Dịch: Người mua n&ecirc;n chuẩn bị danh s&aacute;ch mua sắm trước khi đến cửa h&agrave;ng hoặc mua sắm trực tuyến để tr&aacute;nh chi ti&ecirc;u qu&aacute; mức.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

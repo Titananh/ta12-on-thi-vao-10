@@ -1,0 +1,452 @@
+[
+  {
+    "id": "78_1",
+    "questionName": "Question 1",
+    "questionText": "<p><strong>Mark:</strong> \"Thank you very much for helping me with the project!\"<br/><strong>Linda:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_1_1",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "78_1_2",
+        "text": "Yes, of course.",
+        "html": "Yes, of course."
+      },
+      {
+        "id": "78_1_3",
+        "text": "Never mind me.",
+        "html": "Never mind me."
+      },
+      {
+        "id": "78_1_4",
+        "text": "It's a pity.",
+        "html": "It's a pity."
+      }
+    ],
+    "correctChoiceId": "78_1_1",
+    "explanation": "<p>Để đáp lại lời cảm ơn (\"Thank you very much...\"), câu trả lời lịch sự và tự nhiên nhất là <strong>\"You're welcome.\"</strong> (Không có chi/ Rất sẵn lòng giúp bạn).</p>",
+    "ruleTip": "Đáp lại lời cảm ơn trang trọng/thông dụng: 'You're welcome.' (Không có chi)."
+  },
+  {
+    "id": "78_2",
+    "questionName": "Question 2",
+    "questionText": "<p><strong>Tom:</strong> \"Thanks a lot for giving me a ride home.\"<br/><strong>Peter:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_2_2",
+        "text": "You can do it.",
+        "html": "You can do it."
+      },
+      {
+        "id": "78_2_1",
+        "text": "My pleasure.",
+        "html": "My pleasure."
+      },
+      {
+        "id": "78_2_3",
+        "text": "I don't care.",
+        "html": "I don't care."
+      },
+      {
+        "id": "78_2_4",
+        "text": "Not at all me.",
+        "html": "Not at all me."
+      }
+    ],
+    "correctChoiceId": "78_2_1",
+    "explanation": "<p>Đáp lại lời cảm ơn khi giúp đỡ người khác: <strong>\"My pleasure.\"</strong> (Đó là niềm vui/vinh hạnh của tôi).</p>",
+    "ruleTip": "Đáp lại lời cảm ơn: 'My pleasure' hoặc 'It's my pleasure' (Niềm vinh hạnh của tôi)."
+  },
+  {
+    "id": "78_3",
+    "questionName": "Question 3",
+    "questionText": "<p><strong>Daisy:</strong> \"I'm extremely sorry for breaking your favourite mug.\"<br/><strong>Laura:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_3_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "78_3_1",
+        "text": "Never mind. It was an accident.",
+        "html": "Never mind. It was an accident."
+      },
+      {
+        "id": "78_3_3",
+        "text": "Don't mention it.",
+        "html": "Don't mention it."
+      },
+      {
+        "id": "78_3_4",
+        "text": "It's my pleasure.",
+        "html": "It's my pleasure."
+      }
+    ],
+    "correctChoiceId": "78_3_1",
+    "explanation": "<p>Đáp lại lời xin lỗi: dùng <strong>\"Never mind\"</strong> (Đừng bận tâm / Không sao đâu).</p>",
+    "ruleTip": "Đáp lại lời xin lỗi: 'Never mind' (Đừng bận tâm) hoặc 'That's all right'."
+  },
+  {
+    "id": "78_4",
+    "questionName": "Question 4",
+    "questionText": "<p><strong>Jane:</strong> \"Thank you for the delicious dinner!\"<br/><strong>Host:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_4_1",
+        "text": "Don't mention it. I'm glad you liked it.",
+        "html": "Don't mention it. I'm glad you liked it."
+      },
+      {
+        "id": "78_4_2",
+        "text": "That's all right.",
+        "html": "That's all right."
+      },
+      {
+        "id": "78_4_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "78_4_4",
+        "text": "It doesn't matter.",
+        "html": "It doesn't matter."
+      }
+    ],
+    "correctChoiceId": "78_4_1",
+    "explanation": "<p>Chủ nhà đáp lại lời cảm ơn bữa ăn: <strong>\"Don't mention it. I'm glad you liked it.\"</strong> (Không có chi. Rất vui vì bạn thích bữa ăn).</p>",
+    "ruleTip": "'Don't mention it' (Không có gì đâu) dùng để đáp lại lời cảm ơn một cách thân mật."
+  },
+  {
+    "id": "78_5",
+    "questionName": "Question 5",
+    "questionText": "<p><strong>Customer:</strong> \"Excuse me, I'm sorry to interrupt, but is this seat taken?\"<br/><strong>Person:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_5_2",
+        "text": "Yes, I do.",
+        "html": "Yes, I do."
+      },
+      {
+        "id": "78_5_3",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "78_5_4",
+        "text": "It's my duty.",
+        "html": "It's my duty."
+      },
+      {
+        "id": "78_5_1",
+        "text": "No, not at all. Please go ahead.",
+        "html": "No, not at all. Please go ahead."
+      }
+    ],
+    "correctChoiceId": "78_5_1",
+    "explanation": "<p>Trả lời câu hỏi xem chỗ ngồi đã có ai ngồi chưa: <strong>\"No, not at all. Please go ahead.\"</strong> (Không hề, xin mời bạn cứ ngồi).</p>",
+    "ruleTip": "'Not at all' (Hoàn toàn không) dùng để phản hồi lịch sự khi người khác xin phép hoặc hỏi xem có phiền không."
+  },
+  {
+    "id": "78_6",
+    "questionName": "Question 6",
+    "questionText": "<p><strong>Student:</strong> \"I apologize for handing in my homework late, sir.\"<br/><strong>Teacher:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_6_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "78_6_3",
+        "text": "Never mind you.",
+        "html": "Never mind you."
+      },
+      {
+        "id": "78_6_4",
+        "text": "Don't mention it.",
+        "html": "Don't mention it."
+      },
+      {
+        "id": "78_6_1",
+        "text": "That's all right, but try to be on time next time.",
+        "html": "That's all right, but try to be on time next time."
+      }
+    ],
+    "correctChoiceId": "78_6_1",
+    "explanation": "<p>Thầy giáo chấp nhận lời xin lỗi của học sinh: <strong>\"That's all right...\"</strong> (Không sao, nhưng lần sau nhớ nộp đúng giờ nhé).</p>",
+    "ruleTip": "Đáp lại lời xin lỗi: 'That's all right' (Không sao đâu)."
+  },
+  {
+    "id": "78_7",
+    "questionName": "Question 7",
+    "questionText": "<p><strong>Lan:</strong> \"Thank you so much for the lovely birthday gift!\"<br/><strong>Mai:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_7_1",
+        "text": "I'm glad you like it.",
+        "html": "I'm glad you like it."
+      },
+      {
+        "id": "78_7_2",
+        "text": "Not at all.",
+        "html": "Not at all."
+      },
+      {
+        "id": "78_7_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "78_7_4",
+        "text": "That's fine for you.",
+        "html": "That's fine for you."
+      }
+    ],
+    "correctChoiceId": "78_7_1",
+    "explanation": "<p>Khi bạn cảm ơn vì món quà, câu trả lời tự nhiên nhất là: <strong>\"I'm glad you like it.\"</strong> (Mình rất vui vì bạn thích nó).</p>",
+    "ruleTip": "Khi người khác cảm ơn vì món quà, câu trả lời tự nhiên nhất là 'I'm glad you like it'."
+  },
+  {
+    "id": "78_8",
+    "questionName": "Question 8",
+    "questionText": "<p><strong>John:</strong> \"Sorry, I stepped on your foot.\"<br/><strong>Mary:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_8_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "78_8_1",
+        "text": "Don't worry about it.",
+        "html": "Don't worry about it."
+      },
+      {
+        "id": "78_8_3",
+        "text": "It's very kind of you.",
+        "html": "It's very kind of you."
+      },
+      {
+        "id": "78_8_4",
+        "text": "Same to you.",
+        "html": "Same to you."
+      }
+    ],
+    "correctChoiceId": "78_8_1",
+    "explanation": "<p>Đáp lại lời xin lỗi về một va chạm nhẹ vô ý: <strong>\"Don't worry about it.\"</strong> (Không sao đâu, đừng bận tâm).</p>",
+    "ruleTip": "Đáp lại lời xin lỗi về sự cố nhỏ: 'Don't worry about it' (Đừng lo/ Không sao đâu)."
+  },
+  {
+    "id": "78_9",
+    "questionName": "Question 9",
+    "questionText": "<p><strong>Tourist:</strong> \"Thank you for showing me the way to the museum.\"<br/><strong>Local:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_9_1",
+        "text": "No problem. Have a nice trip!",
+        "html": "No problem. Have a nice trip!"
+      },
+      {
+        "id": "78_9_2",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "78_9_3",
+        "text": "That's all right.",
+        "html": "That's all right."
+      },
+      {
+        "id": "78_9_4",
+        "text": "It's a waste of time.",
+        "html": "It's a waste of time."
+      }
+    ],
+    "correctChoiceId": "78_9_1",
+    "explanation": "<p>Đáp lại lời cảm ơn khi chỉ đường: <strong>\"No problem. Have a nice trip!\"</strong> (Không có vấn đề gì. Chúc bạn có chuyến đi vui vẻ!).</p>",
+    "ruleTip": "'No problem' (Không vấn đề gì) rất phổ biến trong giao tiếp hiện đại để đáp lại lời cảm ơn."
+  },
+  {
+    "id": "78_10",
+    "questionName": "Question 10",
+    "questionText": "<p><strong>Guest:</strong> \"I must apologize for not being able to attend your party yesterday.\"<br/><strong>Host:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_10_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "78_10_3",
+        "text": "Don't mention it.",
+        "html": "Don't mention it."
+      },
+      {
+        "id": "78_10_1",
+        "text": "It doesn't matter. We missed you though.",
+        "html": "It doesn't matter. We missed you though."
+      },
+      {
+        "id": "78_10_4",
+        "text": "It's my pleasure.",
+        "html": "It's my pleasure."
+      }
+    ],
+    "correctChoiceId": "78_10_1",
+    "explanation": "<p>Đáp lại lời xin lỗi vì vắng mặt: <strong>\"It doesn't matter. We missed you though.\"</strong> (Không sao đâu. Dù vậy chúng mình vẫn rất nhớ bạn).</p>",
+    "ruleTip": "'It doesn't matter' (Không sao cả/ Không thành vấn đề) dùng để đáp lại lời xin lỗi."
+  },
+  {
+    "id": "78_11",
+    "questionName": "Question 11",
+    "questionText": "<p><strong>Passenger:</strong> \"Thank you for carrying my heavy suitcase up the stairs.\"<br/><strong>Boy:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_11_2",
+        "text": "Forget me.",
+        "html": "Forget me."
+      },
+      {
+        "id": "78_11_1",
+        "text": "Anytime! I'm happy to help.",
+        "html": "Anytime! I'm happy to help."
+      },
+      {
+        "id": "78_11_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "78_11_4",
+        "text": "It was so bad.",
+        "html": "It was so bad."
+      }
+    ],
+    "correctChoiceId": "78_11_1",
+    "explanation": "<p>Đáp lại lời cảm ơn khi giúp đỡ người khác: <strong>\"Anytime! I'm happy to help.\"</strong> (Bất cứ lúc nào! Em rất vui được giúp đỡ ạ).</p>",
+    "ruleTip": "'Anytime' (Bất cứ lúc nào / Rất sẵn lòng) là cách đáp lại lời cảm ơn thân thiện, sẵn sàng giúp đỡ."
+  },
+  {
+    "id": "78_12",
+    "questionName": "Question 12",
+    "questionText": "<p><strong>Driver:</strong> \"I'm terribly sorry for keeping you waiting so long.\"<br/><strong>Passenger:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_12_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "78_12_3",
+        "text": "My pleasure.",
+        "html": "My pleasure."
+      },
+      {
+        "id": "78_12_1",
+        "text": "That's OK. The traffic was terrible.",
+        "html": "That's OK. The traffic was terrible."
+      },
+      {
+        "id": "78_12_4",
+        "text": "No thanks.",
+        "html": "No thanks."
+      }
+    ],
+    "correctChoiceId": "78_12_1",
+    "explanation": "<p>Đáp lại lời xin lỗi vì để đợi lâu: <strong>\"That's OK. The traffic was terrible.\"</strong> (Không sao đâu. Giao thông hôm nay quả thật rất tệ).</p>",
+    "ruleTip": "'That's OK' (Không sao đâu) dùng để chấp nhận lời xin lỗi khi có lý do chính đáng."
+  },
+  {
+    "id": "78_13",
+    "questionName": "Question 13",
+    "questionText": "<p><strong>David:</strong> \"Thanks for your useful advice on my presentation.\"<br/><strong>Sarah:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_13_2",
+        "text": "That's all right.",
+        "html": "That's all right."
+      },
+      {
+        "id": "78_13_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "78_13_4",
+        "text": "Never thought of it.",
+        "html": "Never thought of it."
+      },
+      {
+        "id": "78_13_1",
+        "text": "You're very welcome.",
+        "html": "You're very welcome."
+      }
+    ],
+    "correctChoiceId": "78_13_1",
+    "explanation": "<p>Đáp lại lời cảm ơn trang trọng, chân thành: <strong>\"You're very welcome.\"</strong> (Bạn luôn luôn được chào đón / Rất sẵn lòng giúp bạn).</p>",
+    "ruleTip": "'You're very welcome' là biến thể nhấn mạnh lịch sự của 'You're welcome'."
+  },
+  {
+    "id": "78_14",
+    "questionName": "Question 14",
+    "questionText": "<p><strong>Huy:</strong> \"Sorry, I forgot to bring the book you lent me.\"<br/><strong>Phong:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_14_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "78_14_3",
+        "text": "My pleasure.",
+        "html": "My pleasure."
+      },
+      {
+        "id": "78_14_1",
+        "text": "Forget it. You can return it tomorrow.",
+        "html": "Forget it. You can return it tomorrow."
+      },
+      {
+        "id": "78_14_4",
+        "text": "Don't mention it.",
+        "html": "Don't mention it."
+      }
+    ],
+    "correctChoiceId": "78_14_1",
+    "explanation": "<p>Bạn bè đáp lại lời xin lỗi khi quên mang sách: <strong>\"Forget it. You can return it tomorrow.\"</strong> (Quên chuyện đó đi. Mai bạn trả mình cũng được).</p>",
+    "ruleTip": "'Forget it' (Quên chuyện đó đi / Không sao đâu) thể hiện sự thoải mái tha thứ giữa bạn bè thân thiết."
+  },
+  {
+    "id": "78_15",
+    "questionName": "Question 15",
+    "questionText": "<p><strong>Anna:</strong> \"It was so kind of you to look after my cat while I was away.\"<br/><strong>Neighbor:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "78_15_2",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "78_15_3",
+        "text": "That's bad.",
+        "html": "That's bad."
+      },
+      {
+        "id": "78_15_1",
+        "text": "It was the least I could do.",
+        "html": "It was the least I could do."
+      },
+      {
+        "id": "78_15_4",
+        "text": "Nothing to talk about.",
+        "html": "Nothing to talk about."
+      }
+    ],
+    "correctChoiceId": "78_15_1",
+    "explanation": "<p>Đáp lại lời cảm ơn khi giúp hàng xóm: <strong>\"It was the least I could do.\"</strong> (Đó là điều tối thiểu tôi có thể làm để giúp bạn mà).</p>",
+    "ruleTip": "'It was the least I could do' (Đó là điều tối thiểu tôi có thể làm) thể hiện sự nhiệt tình khi được cảm ơn."
+  }
+]

@@ -1,0 +1,1069 @@
+{
+  "quizId": 5779,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 3: Articles (Mạo từ)",
+  "totalQuestions": 22,
+  "questions": [
+    {
+      "id": 899488,
+      "questionNumber": 1,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Ch&#250;ng ta s&#7917; d&#7909;ng &quot;A/AN&quot; tr&#432;&#7899;c _____ &#273;&#7875; di&#7877;n t&#7843; s&#7889; l&#432;&#7907;ng _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1709861,
+          "label": "A",
+          "text": "danh từ đếm được số ít / hai",
+          "isCorrect": false
+        },
+        {
+          "id": 1709862,
+          "label": "B",
+          "text": "danh từ đếm được số nhiều / hai",
+          "isCorrect": false
+        },
+        {
+          "id": 1709863,
+          "label": "C",
+          "text": "danh từ đếm được số ít / một",
+          "isCorrect": true
+        },
+        {
+          "id": 1709864,
+          "label": "D",
+          "text": "danh từ không đếm được / một",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1709863,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/899488_c6f1f47f.png\" alt=\"\" width=\"450\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 899489,
+      "questionNumber": 2,
+      "questionName": "a",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ho&#224;n th&#224;nh c&#225;c c&#226;u sau.</strong></p>\n<p>1. M&#7841;o t&#7915; 'A' &#273;&#432;&#7907;c s&#7917; d&#7909;ng v&#7899;i m&#7897;t danh t&#7915; ho&#7863;c c&#7909;m danh t&#7915; c&#243; c&#225;ch ph&#225;t &#226;m b&#7855;t &#273;&#7847;u b&#7857;ng m&#7897;t <span class='fillblank-option'><label>2.1</label><input id='fbo-899489-0' class='ms fillblank-option-2' index='0' name='fbo-899489-0' type='text' size='10' autocomplete='off' data-testid='fillblank-input-899489-0' /></span>.</p>\n<p>2. M&#7841;o t&#7915; 'AN' &#273;&#432;&#7907;c s&#7917; d&#7909;ng v&#7899;i m&#7897;t danh t&#7915; ho&#7863;c c&#7909;m danh t&#7915; c&#243; c&#225;ch ph&#225;t &#226;m b&#7855;t &#273;&#7847;u b&#7857;ng m&#7897;t <span class='fillblank-option'><label>2.2</label><input id='fbo-899489-1' class='ms fillblank-option-2' index='1' name='fbo-899489-1' type='text' size='11' autocomplete='off' data-testid='fillblank-input-899489-1' /></span>.</p>\n<p>3. Ch&#250;ng ta n&#234;n n&#243;i: <em><span class='fillblank-option'><label>2.3</label><input id='fbo-899489-2' class='ms fillblank-option-2' index='2' name='fbo-899489-2' type='text' size='2' autocomplete='off' data-testid='fillblank-input-899489-2' /></span> happy family </em>v&#224;<em> <span class='fillblank-option'><label>2.4</label><input id='fbo-899489-3' class='ms fillblank-option-2' index='3' name='fbo-899489-3' type='text' size='4' autocomplete='off' data-testid='fillblank-input-899489-3' /></span> expensive car</em>.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1709883,
+          "label": "A",
+          "text": "phụ âm",
+          "isCorrect": false
+        },
+        {
+          "id": 1709886,
+          "label": "B",
+          "text": "an",
+          "isCorrect": false
+        },
+        {
+          "id": 1709885,
+          "label": "C",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 1709884,
+          "label": "D",
+          "text": "nguyên âm",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "phụ âm"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "nguyên âm"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "a"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "an"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/899489_49ee3fe0.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 898957,
+      "questionNumber": 3,
+      "questionName": "a",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#7885;n c&#226;u s&#7917; d&#7909;ng &#273;&#250;ng m&#7841;o t&#7915; THE.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1708939,
+          "label": "A",
+          "text": "I love the chocolate cake you made yesterday!",
+          "isCorrect": true
+        },
+        {
+          "id": 1708940,
+          "label": "B",
+          "text": "She visited the Europe last summer and loved it.",
+          "isCorrect": false
+        },
+        {
+          "id": 1708941,
+          "label": "C",
+          "text": "The dog that lives next door is very friendly.",
+          "isCorrect": true
+        },
+        {
+          "id": 1708942,
+          "label": "D",
+          "text": "She is learning to play the piano and the guitar at the same time.",
+          "isCorrect": true
+        },
+        {
+          "id": 1708943,
+          "label": "E",
+          "text": "I was born in the April, which is the fourth month of the year.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1708939,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Mạo từ \"<strong>the</strong>\" được d&ugrave;ng trước cụm danh từ \"<strong>chocolate cake</strong>\" đ&atilde; được x&aacute;c định bởi \"<strong>you made</strong>\" ph&iacute;a sau. =&gt; Mạo từ \"<strong>the</strong>\" ở đ&acirc;y được d&ugrave;ng đ&uacute;ng.</p>\n<p>Dịch: T&ocirc;i th&iacute;ch chiếc b&aacute;nh s&ocirc; c&ocirc; la bạn l&agrave;m h&ocirc;m qua!</p>\n<p>2. Kh&ocirc;ng d&ugrave;ng mạo từ \"<strong>the</strong>\" trước danh từ chỉ địa điểm l&agrave; t&ecirc;n ri&ecirc;ng cụ thể. =&gt; Mạo từ \"<strong>the</strong>\" ở đ&acirc;y được d&ugrave;ng kh&ocirc;ng đ&uacute;ng.</p>\n<p>Dịch: C&ocirc; ấy đ&atilde; đến thăm ch&acirc;u &Acirc;u v&agrave;o m&ugrave;a h&egrave; năm ngo&aacute;i v&agrave; rất th&iacute;ch nơi đ&oacute;.</p>\n<p>3. Mạo từ \"<strong>the</strong>\" được d&ugrave;ng trước danh từ \"<strong>dog</strong>\" đ&atilde; được x&aacute;c định bởi \"<strong>that lives next door</strong>\" ph&iacute;a sau. =&gt; Mạo từ \"<strong>the</strong>\" ở đ&acirc;y được d&ugrave;ng đ&uacute;ng.</p>\n<p>Dịch: Con ch&oacute; sống cạnh nh&agrave; rất th&acirc;n thiện.</p>\n<p>4. Mạo từ \"<strong>the</strong>\" được d&ugrave;ng trước danh từ chỉ nhạc cụ \"<strong>piano</strong>\" v&agrave; \"<strong>guitar</strong>\".=&gt; Mạo từ \"<strong>the</strong>\" ở đ&acirc;y được d&ugrave;ng đ&uacute;ng.</p>\n<p>Dịch: C&ocirc; ấy đang học chơi piano v&agrave; guitar c&ugrave;ng l&uacute;c.</p>\n<p>5. Kh&ocirc;ng d&ugrave;ng mạo từ \"<strong>the</strong>\" trước danh từ chỉ th&aacute;ng trong năm. =&gt; Mạo từ \"<strong>the</strong>\" ở đ&acirc;y được d&ugrave;ng kh&ocirc;ng đ&uacute;ng.</p>\n<p>Dịch: T&ocirc;i sinh v&agrave;o th&aacute;ng 4, tức l&agrave; th&aacute;ng thứ tư trong năm.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 155058,
+      "questionNumber": 4,
+      "questionName": "Câu 7:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Choose the underlined part that needs correction.</span></em></p>\n<p><strong>Mary <span style=\"text-decoration: underline;\">works as</span> a journalist for <span style=\"text-decoration: underline;\">an</span> magazine <span style=\"text-decoration: underline;\">that</span> specializes in <span style=\"text-decoration: underline;\">men’s clothes and footwear.</span> </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 361967,
+          "label": "A",
+          "text": "works as",
+          "isCorrect": false
+        },
+        {
+          "id": 361968,
+          "label": "B",
+          "text": "an",
+          "isCorrect": true
+        },
+        {
+          "id": 361969,
+          "label": "C",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 361970,
+          "label": "D",
+          "text": "men’s clothes and footwear",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 361968,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra cách dùng của cụm động từ <em>\"works as\"</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra quy tắc sử dụng mạo từ <em>\"a\"</em> trước danh từ.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét chức năng của đại từ quan hệ <em>\"that\"</em> trong mệnh đề quan hệ.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đánh giá sự phù hợp của cụm danh từ sở hữu <em>\"men’s clothes and footwear\"</em>.</li>\n</ul>\n<p style=\"text-align: justify;\">Đối chiếu từng quy tắc với câu gốc để xác định phần nào có vấn đề.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ không xác định</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cách dùng:</span> Mạo từ không xác định <em>a</em> và <em>an</em> được dùng để chỉ một người, một vật, hoặc một ý tưởng chung chung, không cụ thể. Chúng cũng được dùng khi nhắc đến một danh từ số ít, đếm được lần đầu tiên hoặc khi nói về nghề nghiệp.</p>\n<p><span style=\"font-weight: 600;\">Một số quy tắc:</span></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">a + N (bắt đầu bằng phụ âm hoặc âm phụ âm)</span></span>: dùng trước danh từ số ít, đếm được bắt đầu bằng phụ âm hoặc âm phụ âm (ví dụ: <em>a car, a university, a European</em>).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">an + N (bắt đầu bằng nguyên âm hoặc âm H câm)</span></span>: dùng trước danh từ số ít, đếm được bắt đầu bằng nguyên âm hoặc âm H câm (ví dụ: <em>an apple, an hour, an honest man</em>).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, từ <em>\"magazine\"</em> là một danh từ đếm được số ít, bắt đầu bằng phụ âm /m/. Theo quy tắc sử dụng mạo từ không xác định, <em>\"a\"</em> được dùng trước các danh từ bắt đầu bằng phụ âm, trong khi <em>\"an\"</em> được dùng trước các danh từ bắt đầu bằng nguyên âm hoặc âm \"h\" câm. Do <em>\"magazine\"</em> bắt đầu bằng phụ âm, mạo từ đúng phải là <em>\"a\"</em> chứ không phải <em>\"an\"</em>.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>an</strong></em>\" =&gt; \"<em><strong>a</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "361967": "Cụm động từ <em>\"work as\"</em> (làm việc với tư cách là) được sử dụng đúng ngữ pháp và ngữ nghĩa trong câu.",
+        "361968": "Mạo từ <em>\"an\"</em> được dùng sai vì từ <em>\"magazine\"</em> bắt đầu bằng một phụ âm, do đó cần dùng mạo từ <em>\"a\"</em>.",
+        "361969": "Đại từ quan hệ <em>\"that\"</em> được sử dụng chính xác để giới thiệu mệnh đề quan hệ bổ nghĩa cho danh từ <em>\"magazine\"</em>.",
+        "361970": "Cụm danh từ sở hữu <em>\"men’s clothes and footwear\"</em> được dùng đúng để chỉ quần áo và giày dép của nam giới."
+      },
+      "images": []
+    },
+    {
+      "id": 8861,
+      "questionNumber": 5,
+      "questionName": "Question 29.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Choose the underlined part that needs correction.</span></em></p>\n<p><strong><u>The tourism</u> is the activity <u>of travel</u> for the purpose of recreation and business, <u>and the provision</u> of services <u>for this activity</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 26880,
+          "label": "A",
+          "text": "The tourism",
+          "isCorrect": true
+        },
+        {
+          "id": 26881,
+          "label": "B",
+          "text": "of travel",
+          "isCorrect": false
+        },
+        {
+          "id": 26882,
+          "label": "C",
+          "text": "and the provision",
+          "isCorrect": false
+        },
+        {
+          "id": 26883,
+          "label": "D",
+          "text": "for this activity",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 26880,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để xác định lỗi sai, hãy xem xét các quy tắc ngữ pháp sau cho mỗi phần gạch chân:</p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Danh từ không đếm được dùng để chỉ khái niệm chung hoặc ý nghĩa tổng quát thường không đi kèm mạo từ \"<em>the</em>\".</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Sau giới từ, một danh từ hoặc V-ing thường được sử dụng. Danh từ \"<em>travel</em>\" có thể chỉ hành động di chuyển hoặc ngành du lịch.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Trong cấu trúc liệt kê song song, các thành phần được nối bằng \"<em>and</em>\" cần có cấu trúc ngữ pháp tương đồng, ví dụ như \"N and N\".</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Cụm giới từ \"<em>for + N</em>\" thường được dùng để chỉ mục đích hoặc đối tượng mà hành động/sự vật hướng tới.</li>\n</ul>\n<p>Đối chiếu từng quy tắc trên với cách dùng trong câu gốc để tìm ra phần cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ xác định và những trường hợp không dùng mạo từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Mạo từ xác định \"the\" được dùng để chỉ người hoặc vật cụ thể, đã được xác định hoặc duy nhất. Tuy nhiên, có những trường hợp danh từ không đi kèm mạo từ khi chúng chỉ khái niệm chung hoặc được sử dụng theo cách cụ thể.</p>\n<p style=\"text-align: justify;\"><strong>Một số trường hợp không dùng mạo từ \"the\":</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">N (không đếm được)</span></strong>: khi nói về khái niệm chung (ví dụ: <em>education, information, love, tourism</em>)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">N (số nhiều)</span></strong>: khi nói về khái niệm chung (ví dụ: <em>books, children, problems</em>)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, từ <em>\"tourism\"</em> là một danh từ không đếm được, đang được dùng để chỉ một khái niệm chung (hoạt động du lịch nói chung), không phải một hoạt động du lịch cụ thể nào. Theo quy tắc ngữ pháp, khi một danh từ không đếm được được sử dụng để chỉ một khái niệm chung, chúng ta không dùng mạo từ \"<em>the</em>\" phía trước. Do đó, việc sử dụng <em>\"The tourism\"</em> là sai.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<strong>The tourism</strong>\" =&gt; \"<strong>Tourism</strong>\"</p>",
+      "answerFeedbacks": {
+        "26880": "Sai vì danh từ không đếm được <em>\"tourism\"</em> khi chỉ khái niệm chung không đi kèm mạo từ \"the\".",
+        "26881": "Đúng ngữ pháp vì <em>\"travel\"</em> là danh từ trong cụm giới từ <em>\"of travel\"</em>, bổ nghĩa cho <em>\"activity\"</em>.",
+        "26882": "Đúng ngữ pháp vì <em>\"the provision\"</em> là một danh từ được dùng song song với <em>\"the activity\"</em>, cả hai đều là thành phần của một danh sách.",
+        "26883": "Đúng ngữ pháp vì <em>\"for this activity\"</em> là một cụm giới từ bổ nghĩa cho <em>\"provision of services\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 159952,
+      "questionNumber": 6,
+      "questionName": "the",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em><u><br></u></p>\n<p><strong><u>Japanese</u>&nbsp;initially&nbsp;<u>used</u>&nbsp;jeweled objects to&nbsp;<u>decorate</u>&nbsp;swords and ceremonial&nbsp;<u>items</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 371487,
+          "label": "A",
+          "text": "Japanese",
+          "isCorrect": true
+        },
+        {
+          "id": 371488,
+          "label": "B",
+          "text": "used",
+          "isCorrect": false
+        },
+        {
+          "id": 371489,
+          "label": "C",
+          "text": "decorate",
+          "isCorrect": false
+        },
+        {
+          "id": 371490,
+          "label": "D",
+          "text": "items",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 371487,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"font-weight: 400;\">Mạo từ \"<strong>the</strong>\" đứng trước t&iacute;nh từ chỉ quốc tịch để chỉ m&ocirc;̣t nh&oacute;m người cụ thể.</p>\n<p style=\"font-weight: 400;\">Sửa: \"<strong>Japanese</strong>\" =&gt; \"<strong>The Japanese</strong>\"</p>\n<p style=\"font-weight: 400;\">Dịch: Người Nhật thuở đầu đ&atilde; d&ugrave;ng đ&aacute; qu&yacute; để trang tr&iacute; cho c&aacute;c thanh gươm v&agrave; đồ c&uacute;ng lễ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 744064,
+      "questionNumber": 7,
+      "questionName": "6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>In _____ evening, we sometimes eat out with our friends.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1437057,
+          "label": "A",
+          "text": "an",
+          "isCorrect": false
+        },
+        {
+          "id": 1437058,
+          "label": "B",
+          "text": "the",
+          "isCorrect": true
+        },
+        {
+          "id": 1437059,
+          "label": "C",
+          "text": "Ø (no article)",
+          "isCorrect": false
+        },
+        {
+          "id": 1437060,
+          "label": "D",
+          "text": "a",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1437058,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để điền vào chỗ trống trong câu, bạn cần nhớ quy tắc sử dụng mạo từ với các buổi trong ngày.</p>\n<ul>\n<li>Hãy xem xét giới từ <em>\"In\"</em> đứng trước chỗ trống và danh từ <em>\"evening\"</em>.</li>\n<li>Các cụm từ chỉ buổi trong ngày thường đi kèm với mạo từ nào.</li>\n</ul>\n<p>Dựa vào quy tắc này, hãy chọn mạo từ phù hợp nhất từ các lựa chọn <em>\"a\"</em>, <em>\"an\"</em>, <em>\"the\"</em>, và <em>\"Ø\"</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ xác định và mạo từ không xác định</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Mạo từ được dùng trước danh từ để chỉ sự xác định hoặc không xác định của danh từ đó, <em>\"Ø\"</em> dùng khi không cần mạo từ.</p>\n<p><strong>Một số cách dùng mạo từ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">a/an (mạo từ không xác định) + N (danh từ số ít đếm được):</span></strong> diễn tả một đối tượng chung chung, chưa xác định hoặc được nhắc đến lần đầu. (dùng <em>\"an\"</em> trước danh từ bắt đầu bằng nguyên âm, <em>\"a\"</em> trước phụ âm)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">the (mạo từ xác định) + N (danh từ số ít/số nhiều/không đếm được):</span></strong> diễn tả một đối tượng cụ thể, đã được xác định hoặc duy nhất. (thường dùng với các buổi trong ngày như <em>in the morning/afternoon/evening</em>)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Ø (không mạo từ) + N:</span></strong> diễn tả đối tượng chung chung, không xác định; dùng với danh từ số nhiều, danh từ không đếm được, hoặc trong một số cụm từ cố định không dùng mạo từ. (không dùng mạo từ với buổi trong ngày khi đi kèm trạng từ chỉ thời gian như <em>at night, by day</em> hoặc khi nói về các bữa ăn như <em>have breakfast</em>)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, chỗ trống cần điền một mạo từ phù hợp với danh từ <em>\"evening\"</em> khi đi kèm với giới từ <em>\"in\"</em>. Các buổi trong ngày (morning, afternoon, evening) thường đi với mạo từ xác định <em>\"the\"</em> khi nói chung chung về thời điểm đó, tạo thành các cụm phổ biến <em>\"in the morning/afternoon/evening\"</em>.</p>\n<p style=\"text-align: justify;\">Phương án 2 (<em>\"the\"</em>) là đáp án đúng vì nó hoàn thành cụm từ <em>\"in the evening\"</em>, một cách diễn đạt chuẩn xác trong tiếng Anh. Các phương án còn lại không phù hợp vì <em>\"a/an\"</em> không dùng trong cụm từ này, và <em>\"Ø\"</em> cũng không đúng quy tắc ngữ pháp trong ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "1437057": "Sai vì <em>\"evening\"</em> là một danh từ được xác định trong cụm từ cố định <em>\"in the evening\"</em> và khi dùng mạo từ không xác định với từ bắt đầu bằng nguyên âm thì phải dùng <em>\"an\"</em> nhưng ngữ cảnh này không phù hợp.",
+        "1437058": "Đúng vì <em>\"the\"</em> được dùng với các buổi trong ngày như <em>\"in the morning\"</em>, <em>\"in the afternoon\"</em>, <em>\"in the evening\"</em> để chỉ một khoảng thời gian cụ thể hoặc chung chung.",
+        "1437059": "Sai vì cụm từ <em>\"in evening\"</em> không phải là một cụm từ cố định không dùng mạo từ; các buổi trong ngày khi dùng với giới từ <em>\"in\"</em> thường yêu cầu mạo từ <em>\"the\"</em>.",
+        "1437060": "Sai vì <em>\"evening\"</em> bắt đầu bằng nguyên âm nên nếu dùng mạo từ không xác định thì phải là <em>\"an\"</em>, và ngữ cảnh này cũng không yêu cầu mạo từ không xác định."
+      },
+      "images": []
+    },
+    {
+      "id": 864325,
+      "questionNumber": 8,
+      "questionName": "Q17",
+      "questionType": "MultipleChoice",
+      "questionText": "<p data-pm-slice=\"1 1 []\"><strong>My friend wants to be _____ scriptwriter, but I dream of working as _____ artist.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1647982,
+          "label": "A",
+          "text": "the - a",
+          "isCorrect": false
+        },
+        {
+          "id": 1647983,
+          "label": "B",
+          "text": "a - an",
+          "isCorrect": true
+        },
+        {
+          "id": 1647984,
+          "label": "C",
+          "text": "the - the",
+          "isCorrect": false
+        },
+        {
+          "id": 1647985,
+          "label": "D",
+          "text": "a - the",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1647983,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để điền mạo từ chính xác vào chỗ trống, hãy nhớ quy tắc sử dụng <em>\"a\"</em> và <em>\"an\"</em> khi nói về một nghề nghiệp chung chung lần đầu tiên. Cụ thể:</p>\n<ul>\n<li>Sử dụng <em>\"a\"</em> trước các danh từ số ít bắt đầu bằng một phụ âm.</li>\n<li>Sử dụng <em>\"an\"</em> trước các danh từ số ít bắt đầu bằng một nguyên âm.</li>\n</ul>\n<p>Hãy xác định xem <em>\"scriptwriter\"</em> và <em>\"artist\"</em> bắt đầu bằng âm gì để chọn cặp mạo từ phù hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ xác định và mạo từ không xác định</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Mạo từ được sử dụng để chỉ rõ danh từ mà chúng đi kèm là xác định hay không xác định, hoặc để chỉ số lượng một (đối với mạo từ không xác định).</p>\n<p style=\"text-align: justify;\"><strong>Một số cách dùng cụ thể:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">a + N (bắt đầu bằng phụ âm): </span></strong>một (dùng với danh từ số ít, chưa xác định, bắt đầu bằng phụ âm)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">an + N (bắt đầu bằng nguyên âm): </span></strong>một (dùng với danh từ số ít, chưa xác định, bắt đầu bằng nguyên âm)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">the + N: </span></strong>cái/những (dùng với danh từ đã được xác định hoặc duy nhất)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, <em>\"scriptwriter\"</em> và <em>\"artist\"</em> là các danh từ chỉ nghề nghiệp số ít, được nhắc đến lần đầu và chưa xác định cụ thể. Vì <em>\"scriptwriter\"</em> bắt đầu bằng một phụ âm, ta dùng mạo từ không xác định <em>\"a\"</em>. Ngược lại, <em>\"artist\"</em> bắt đầu bằng một nguyên âm, nên ta dùng mạo từ không xác định <em>\"an\"</em>.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều chứa mạo từ xác định <em>\"the\"</em> không phù hợp trong ngữ cảnh này vì <em>\"the\"</em> được dùng khi danh từ đã được xác định hoặc là duy nhất, điều không có trong câu.</p>",
+      "answerFeedbacks": {
+        "1647982": "Sai vì <em>\"the\"</em> không dùng để giới thiệu một nghề nghiệp chung chung lần đầu tiên.",
+        "1647983": "Đúng vì <em>\"a\"</em> được dùng trước danh từ số ít bắt đầu bằng phụ âm <em>\"scriptwriter\"</em>, và <em>\"an\"</em> được dùng trước danh từ số ít bắt đầu bằng nguyên âm <em>\"artist\"</em> để chỉ một nghề nghiệp không xác định.",
+        "1647984": "Sai vì <em>\"the\"</em> không dùng để giới thiệu một nghề nghiệp chung chung lần đầu tiên và không có ngữ cảnh cụ thể để xác định nghề nghiệp đó.",
+        "1647985": "Sai vì <em>\"the\"</em> không dùng trước danh từ <em>\"artist\"</em> khi nó chỉ một nghề nghiệp không xác định và bắt đầu bằng nguyên âm."
+      },
+      "images": []
+    },
+    {
+      "id": 132599,
+      "questionNumber": 9,
+      "questionName": "Q3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What did you have for _____ breakfast this morning?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 312108,
+          "label": "A",
+          "text": "Ø (no article)",
+          "isCorrect": true
+        },
+        {
+          "id": 312109,
+          "label": "B",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 312110,
+          "label": "C",
+          "text": "an",
+          "isCorrect": false
+        },
+        {
+          "id": 312111,
+          "label": "D",
+          "text": "the",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 312108,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Trong tiếng Anh, bạn c&oacute; nhớ quy tắc sử dụng mạo từ (<em>a, an, the</em>) hay kh&ocirc;ng sử dụng mạo từ (&Oslash;) trước t&ecirc;n c&aacute;c bữa ăn như <em>'breakfast'</em>, <em>'lunch'</em>, <em>'dinner'</em> kh&ocirc;ng?</p>\n<p>H&atilde;y xem x&eacute;t ngữ cảnh c&acirc;u hỏi&nbsp;để x&aacute;c định xem bữa s&aacute;ng ở đ&acirc;y c&oacute; được nhắc đến một c&aacute;ch chung chung hay cụ thể h&oacute;a bằng t&iacute;nh từ hoặc ngữ cảnh đặc biệt kh&ocirc;ng nh&eacute;.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ v&agrave; trường hợp kh&ocirc;ng d&ugrave;ng mạo từ</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>Một số c&aacute;ch d&ugrave;ng:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Mạo từ x&aacute;c định <em>the</em>: D&ugrave;ng trước danh từ đ&atilde; được x&aacute;c định hoặc duy nhất.</span></strong></li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Mạo từ kh&ocirc;ng x&aacute;c định <em>a/an</em>: D&ugrave;ng trước danh từ số &iacute;t, đếm được, chưa x&aacute;c định.</span></strong></li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">&Oslash; (kh&ocirc;ng mạo từ): D&ugrave;ng trong một số trường hợp cụ thể như trước t&ecirc;n bữa ăn, danh từ trừu tượng, danh từ số nhiều n&oacute;i chung.</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, từ <em>\"breakfast\"</em> được sử dụng như một t&ecirc;n bữa ăn n&oacute;i chung m&agrave; kh&ocirc;ng c&oacute; t&iacute;nh từ bổ nghĩa hay ngữ cảnh cụ thể h&oacute;a đặc biệt. Theo quy tắc ngữ ph&aacute;p tiếng Anh, ch&uacute;ng ta kh&ocirc;ng sử dụng mạo từ trước t&ecirc;n c&aacute;c bữa ăn khi n&oacute;i về ch&uacute;ng một c&aacute;ch chung chung hoặc như một hoạt động thường ng&agrave;y.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n <em>\"a\"</em>, <em>\"an\"</em>, v&agrave; <em>\"the\"</em> đều kh&ocirc;ng ph&ugrave; hợp v&igrave; ch&uacute;ng chỉ được sử dụng trong c&aacute;c trường hợp bữa ăn được m&ocirc; tả cụ thể bằng t&iacute;nh từ hoặc đ&atilde; được x&aacute;c định r&otilde; r&agrave;ng trong ngữ cảnh.</p>",
+      "answerFeedbacks": {
+        "312108": "Không dùng mạo từ trước tên các bữa ăn như <em>\"breakfast\"</em> khi nói về bữa ăn nói chung hoặc như một hoạt động thường ngày.",
+        "312109": "Sai vì không dùng mạo từ không xác định <em>\"a/an\"</em> trước tên bữa ăn khi nói về bữa ăn nói chung, trừ khi có tính từ mô tả bữa ăn.",
+        "312110": "Sai vì không dùng mạo từ không xác định <em>\"a/an\"</em> trước tên bữa ăn khi nói về bữa ăn nói chung, và <em>\"breakfast\"</em> bắt đầu bằng phụ âm nên nếu dùng thì phải là <em>\"a\"</em>.",
+        "312111": "Sai vì không dùng mạo từ xác định <em>\"the\"</em> trước tên bữa ăn khi nói về bữa ăn nói chung, trừ khi bữa ăn đó đã được xác định cụ thể trong ngữ cảnh."
+      },
+      "images": []
+    },
+    {
+      "id": 42459,
+      "questionNumber": 10,
+      "questionName": "Question 37",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>My brother has been playing _____ piano since he was a child.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 123943,
+          "label": "A",
+          "text": "the",
+          "isCorrect": true
+        },
+        {
+          "id": 123944,
+          "label": "B",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 123945,
+          "label": "C",
+          "text": "Ø (no article)",
+          "isCorrect": false
+        },
+        {
+          "id": 123946,
+          "label": "D",
+          "text": "an",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 123943,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y nhớ lại quy tắc sử dụng mạo từ khi n&oacute;i về việc chơi c&aacute;c loại nhạc cụ. Cụ thể, khi đề cập đến h&agrave;nh động chơi một nhạc cụ như <em>\"piano\"</em>, thường c&oacute; một mạo từ nhất định đi k&egrave;m với động từ <em>\"play\"</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Mạo từ được d&ugrave;ng để x&aacute;c định hoặc kh&ocirc;ng x&aacute;c định danh từ, cho biết danh từ đ&oacute; l&agrave; chung chung hay cụ thể, đ&atilde; được nhắc đến hay chưa.</p>\n<p><strong>Một số trường hợp sử dụng mạo từ:</strong></p>\n<ul>\n<li><strong>the + N (danh từ):</strong> d&ugrave;ng để chỉ người, vật, sự việc cụ thể, đ&atilde; được x&aacute;c định hoặc duy nhất. (VD: <em>the sun</em>, <em>the Eiffel Tower</em>, <em>the piano</em> (khi n&oacute;i về nhạc cụ)).</li>\n<li><strong>a/an + N (danh từ số &iacute;t đếm được):</strong> d&ugrave;ng để chỉ người, vật, sự việc chung chung, chưa x&aacute;c định. (<em>a book</em>, <em>an apple</em>).</li>\n<li><strong>&Oslash; + N (danh từ):</strong> kh&ocirc;ng d&ugrave;ng mạo từ trong một số trường hợp, v&iacute; dụ như trước t&ecirc;n ri&ecirc;ng, t&ecirc;n m&ocirc;n học, bữa ăn, hoặc khi n&oacute;i với &yacute; nghĩa chung chung. (VD: <em>play football</em>, <em>study English</em>).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u <em>\"My brother has been playing _____ piano since he was a child.\"</em>, chỗ trống cần điền mạo từ trước danh từ \"piano\" để chỉ việc chơi nhạc cụ. Quy tắc ngữ ph&aacute;p trong tiếng Anh l&agrave; sử dụng mạo từ x&aacute;c định \"the\" trước t&ecirc;n nhạc cụ khi diễn tả h&agrave;nh động chơi nhạc cụ (VD: <em>play the guitar, play the violin</em>).</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n \"a\", \"an\" (mạo từ kh&ocirc;ng x&aacute;c định) v&agrave; \"&Oslash;\" (kh&ocirc;ng mạo từ) đều kh&ocirc;ng ph&ugrave; hợp với quy tắc n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "123943": "Đúng vì khi nói về việc chơi một nhạc cụ cụ thể, ta dùng mạo từ xác định \"the\" trước tên nhạc cụ đó (<em>play the piano</em>).",
+        "123944": "Sai vì mạo từ không xác định \"a\" không được dùng trước tên nhạc cụ khi nói về hành động chơi nhạc cụ.",
+        "123945": "Sai vì quy tắc ngữ pháp yêu cầu dùng mạo từ \"the\" trước tên nhạc cụ khi diễn tả hành động chơi nhạc cụ.",
+        "123946": "Sai vì \"piano\" bắt đầu bằng phụ âm 'p' và mạo từ không xác định \"an\" không dùng trước tên nhạc cụ khi nói về hành động chơi nhạc cụ."
+      },
+      "images": []
+    },
+    {
+      "id": 200372,
+      "questionNumber": 11,
+      "questionName": "6",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Mrs. Lan went to _____ school to meet her son's teacher.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 455267,
+          "label": "A",
+          "text": "Ø (no article)",
+          "isCorrect": false
+        },
+        {
+          "id": 455268,
+          "label": "B",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 455269,
+          "label": "C",
+          "text": "an",
+          "isCorrect": false
+        },
+        {
+          "id": 455270,
+          "label": "D",
+          "text": "the",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 455270,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến cụm <em data-start=\"134\" data-end=\"184\">\"went to _____ school to meet her son's teacher\"</em>. H&atilde;y x&aacute;c định xem <em data-start=\"203\" data-end=\"211\">school</em> trong c&acirc;u đang được nhắc đến với nghĩa <strong data-start=\"251\" data-end=\"273\">địa điểm n&oacute;i chung</strong> hay <strong data-start=\"278\" data-end=\"304\">một ng&ocirc;i trường cụ thể</strong> m&agrave; b&agrave; Lan đến để gặp gi&aacute;o vi&ecirc;n của con.</p>\n<p>Sau đ&oacute;, nhớ lại quy tắc d&ugrave;ng mạo từ với <em data-start=\"385\" data-end=\"393\">school</em> trong từng trường hợp v&agrave; đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ</span></p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span> Mạo từ được sử dụng trước danh từ để chỉ r&otilde; danh từ đ&oacute; l&agrave; x&aacute;c định hay kh&ocirc;ng x&aacute;c định, hoặc để chỉ số lượng (một) của danh từ đếm được số &iacute;t. Ch&uacute;ng gi&uacute;p người nghe/đọc biết danh từ đang được nhắc đến c&oacute; phải l&agrave; duy nhất, đ&atilde; được biết đến, hay chỉ l&agrave; một đối tượng chung chung.</p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">A/An + N (danh từ đếm được số &iacute;t)</span>: </span>một (d&ugrave;ng khi danh từ được nhắc đến lần đầu, kh&ocirc;ng cụ thể, hoặc l&agrave; một trong số nhiều).</li>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">The + N</span>: </span>c&aacute;i/những c&aacute;i đ&oacute; (d&ugrave;ng khi danh từ đ&atilde; được nhắc đến, cụ thể, duy nhất, hoặc được x&aacute;c định bởi ngữ cảnh).</li>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">&Oslash; (no article) + N</span>: </span>kh&ocirc;ng d&ugrave;ng mạo từ (d&ugrave;ng với danh từ kh&ocirc;ng đếm được, danh từ số nhiều n&oacute;i chung, hoặc t&ecirc;n ri&ecirc;ng).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u <em>\"Mrs. Lan went to _____ school to meet her son's teacher.\"</em>, từ <em>\"school\"</em> được nhắc đến với mục đ&iacute;ch cụ thể l&agrave; <em>\"to meet her son's teacher\"</em>. Điều n&agrave;y chỉ ra rằng <em>\"school\"</em> kh&ocirc;ng phải l&agrave; một ng&ocirc;i trường bất kỳ, m&agrave; l&agrave; ng&ocirc;i trường cụ thể nơi con trai của c&ocirc; Lan đang học, tức l&agrave; một đối tượng x&aacute;c định m&agrave; cả người n&oacute;i v&agrave; người nghe đều hiểu.</p>\n<p style=\"text-align: justify;\">Khi một danh từ chỉ một đối tượng cụ thể, x&aacute;c định, ch&uacute;ng ta sử dụng mạo từ x&aacute;c định <em>\"the\"</em>. C&aacute;c phương &aacute;n <em>\"a\"</em>, <em>\"an\"</em> d&ugrave;ng cho danh từ kh&ocirc;ng x&aacute;c định, v&agrave; <em>\"&Oslash;\"</em> (kh&ocirc;ng mạo từ) d&ugrave;ng cho c&aacute;c trường hợp chung chung hoặc trong cụm cố định <em>\"go to school\"</em> (đi học), kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh cụ thể n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "455267": "Phương án này sai vì <em>\"school\"</em> ở đây chỉ một địa điểm cụ thể với mục đích rõ ràng, không phải nói chung chung về việc đi học.",
+        "455268": "Phương án này sai vì <em>\"school\"</em> đã được xác định là trường của con trai cô Lan, không phải một trường học bất kỳ chưa được xác định.",
+        "455269": "Phương án này sai vì <em>\"school\"</em> bắt đầu bằng phụ âm /s/, nên không dùng <em>\"an\"</em>. Hơn nữa, nó dùng cho danh từ không xác định.",
+        "455270": "Mạo từ xác định <em>\"the\"</em> được dùng để chỉ một danh từ cụ thể mà cả người nói và người nghe đều biết hoặc có thể suy ra từ ngữ cảnh."
+      },
+      "images": []
+    },
+    {
+      "id": 18072,
+      "questionNumber": 12,
+      "questionName": "B.I.28",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The local authorities are conducting _____ campaign to help _____ disabled.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 58014,
+          "label": "A",
+          "text": "a / the",
+          "isCorrect": true
+        },
+        {
+          "id": 58015,
+          "label": "B",
+          "text": "the / Ø (no article)",
+          "isCorrect": false
+        },
+        {
+          "id": 58016,
+          "label": "C",
+          "text": "Ø (no article) / Ø (no article)",
+          "isCorrect": false
+        },
+        {
+          "id": 58017,
+          "label": "D",
+          "text": "Ø (no article) / the",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 58014,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Trước hết, x&aacute;c định ''<em>campaign'' </em>l&agrave; danh từ <strong data-start=\"153\" data-end=\"171\">đếm được số &iacute;t</strong> v&agrave; đang được nhắc đến theo c&aacute;ch n&agrave;o. H&atilde;y nhớ lại quy tắc d&ugrave;ng <strong data-start=\"238\" data-end=\"248\">mạo từ</strong> với danh từ n&agrave;y.</p>\n<p style=\"text-align: justify;\">Sau đ&oacute; h&atilde;y nhớ lại một mạo từ cụ thể c&oacute; thể đi được với <strong>t&iacute;nh từ</strong> để chỉ một nh&oacute;m người c&oacute; đặc điểm đ&oacute;.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ trong tiếng Anh</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Mạo từ (articles) được d&ugrave;ng để x&aacute;c định hoặc kh&ocirc;ng x&aacute;c định danh từ, hoặc để chỉ danh từ chung, t&ugrave;y thuộc v&agrave;o ngữ cảnh v&agrave; t&iacute;nh chất của danh từ.</p>\n<p><strong>Một số quy tắc sử dụng mạo từ:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>a/an</strong>: d&ugrave;ng trước danh từ số &iacute;t đếm được, chỉ vật/người được nhắc đến lần đầu hoặc c&oacute; t&iacute;nh chất chung chung.</li>\n<li style=\"text-align: justify;\"><strong>the</strong>: d&ugrave;ng trước danh từ đ&atilde; được x&aacute;c định, duy nhất, hoặc đại diện cho một nh&oacute;m.</li>\n<li style=\"text-align: justify;\"><strong>Trường hợp kh&ocirc;ng d&ugrave;ng mạo từ <em>\"&Oslash;\"</em>:</strong> d&ugrave;ng trước danh từ số nhiều hoặc danh từ kh&ocirc;ng đếm được khi n&oacute;i về &yacute; nghĩa chung chung, hoặc trong một số cụm từ cố định.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Ở chỗ trống thứ nhất, <em>\"campaign\"</em> l&agrave; một danh từ số &iacute;t đếm được v&agrave; được nhắc đến lần đầu, mang &yacute; nghĩa chung chung (một chiến dịch bất kỳ), v&igrave; vậy cần d&ugrave;ng mạo từ kh&ocirc;ng x&aacute;c định <em>\"a\"</em>. Ở chỗ trống thứ hai, <em>\"disabled\"</em> l&agrave; một t&iacute;nh từ, khi đứng sau mạo từ <em>\"the\"</em>, n&oacute; tạo th&agrave;nh một danh từ tập hợp chỉ một nh&oacute;m người c&oacute; c&ugrave;ng đặc điểm, cụ thể ở đ&acirc;y l&agrave; <em>\"những người khuyết tật\"</em>. C&aacute;c phương &aacute;n c&ograve;n lại:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 (the / &Oslash; (no article)) sai v&igrave; \"<em>campaign</em>\" kh&ocirc;ng phải l&agrave; danh từ x&aacute;c định hay duy nhất n&ecirc;n kh&ocirc;ng d&ugrave;ng \"<em>the</em>\", v&agrave; \"<em>disabled</em>\" đứng một m&igrave;nh kh&ocirc;ng c&oacute; mạo từ sẽ kh&ocirc;ng thể l&agrave;m t&acirc;n ngữ chỉ nh&oacute;m người.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 (<em>&Oslash; (no article) / &Oslash; (no article)</em>) v&agrave; 4 (<em>&Oslash; (no article) / the</em>) sai ở chỗ trống thứ nhất v&igrave; \"<em>campaign</em>\" l&agrave; danh từ số &iacute;t đếm được n&ecirc;n bắt buộc phải c&oacute; mạo từ.</li>\n</ul>",
+      "answerFeedbacks": {
+        "58014": "Đúng vì <em>\"a campaign\"</em> dùng mạo từ không xác định cho một chiến dịch chung chung, và <em>\"the disabled\"</em> là cấu trúc cố định chỉ nhóm người khuyết tật.",
+        "58015": "Sai vì <em>\"campaign\"</em> ở đây là danh từ số ít đếm được, được nhắc đến lần đầu nên cần mạo từ không xác định; <em>\"disabled\"</em> đứng một mình không có mạo từ không thể làm tân ngữ chỉ nhóm người.",
+        "58016": "Sai vì <em>\"campaign\"</em> là danh từ số ít đếm được, cần mạo từ; <em>\"disabled\"</em> đứng một mình không có mạo từ không thể làm tân ngữ chỉ nhóm người.",
+        "58017": "Sai vì <em>\"campaign\"</em> là danh từ số ít đếm được, cần mạo từ."
+      },
+      "images": []
+    },
+    {
+      "id": 11308,
+      "questionNumber": 13,
+      "questionName": "Question 252.",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>The International Red Cross started over 135 years, inspired by _____ Swiss businessman, Jean Henri Dunant.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 36669,
+          "label": "A",
+          "text": "a",
+          "isCorrect": true
+        },
+        {
+          "id": 36670,
+          "label": "B",
+          "text": "an",
+          "isCorrect": false
+        },
+        {
+          "id": 36671,
+          "label": "C",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "id": 36672,
+          "label": "D",
+          "text": "Ø (no article)",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 36669,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">H&atilde;y xem x&eacute;t c&aacute;ch sử dụng mạo từ (articles) trong tiếng Anh, đặc biệt l&agrave; khi n&oacute; đứng trước một danh từ đếm được số &iacute;t (như <em>\"businessman\"</em>) v&agrave; được bổ nghĩa bởi một t&iacute;nh từ (như <em>\"Swiss\"</em>).</p>\n<p style=\"text-align: justify;\">Lưu &yacute; rằng <em>\"a\"</em> d&ugrave;ng trước &acirc;m phụ &acirc;m v&agrave; <em>\"an\"</em> d&ugrave;ng trước &acirc;m nguy&ecirc;n &acirc;m.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ x&aacute;c định v&agrave; mạo từ kh&ocirc;ng x&aacute;c định</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Mạo từ được d&ugrave;ng trước danh từ để chỉ r&otilde; danh từ đ&oacute; l&agrave; x&aacute;c định hay kh&ocirc;ng x&aacute;c định, hoặc để chỉ số lượng (một).</p>\n<p style=\"text-align: justify;\"><strong>Một số c&aacute;ch d&ugrave;ng:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>a/an + N (đếm được số &iacute;t)</strong>: d&ugrave;ng để chỉ một người/vật/sự việc chung chung, kh&ocirc;ng x&aacute;c định hoặc được nhắc đến lần đầu. (<em>\"a\" đứng trước phụ &acirc;m, \"an\" đứng trước nguy&ecirc;n &acirc;m hoặc &acirc;m \"h\" c&acirc;m</em>)</li>\n<li style=\"text-align: justify;\"><strong>the + N</strong>: d&ugrave;ng để chỉ một người/vật/sự việc cụ thể, x&aacute;c định, đ&atilde; được nhắc đến trước đ&oacute;, hoặc duy nhất.</li>\n<li style=\"text-align: justify;\"><strong>&Oslash; (no article) + N (danh từ ri&ecirc;ng)</strong>: thường kh&ocirc;ng d&ugrave;ng mạo từ trước t&ecirc;n ri&ecirc;ng của người, địa danh (trừ một số trường hợp đặc biệt).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, cụm <em>\"Swiss businessman\"</em> l&agrave; một danh từ đếm được số &iacute;t, được d&ugrave;ng để giới thiệu v&agrave; m&ocirc; tả &ocirc;ng <em>Jean Henri Dunant</em>. Khi giới thiệu một người bằng một danh từ chung (nghề nghiệp, quốc tịch) m&agrave; chưa được x&aacute;c định cụ thể trong ngữ cảnh, ch&uacute;ng ta sử dụng mạo từ kh&ocirc;ng x&aacute;c định. Từ <em>\"Swiss\"</em> bắt đầu bằng phụ &acirc;m <em>\"S\"</em>, v&igrave; vậy mạo từ <em>\"a\"</em> l&agrave; ph&ugrave; hợp nhất.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n <em>\"an\"</em> sai v&igrave; <em>\"Swiss\"</em> kh&ocirc;ng bắt đầu bằng nguy&ecirc;n &acirc;m. Phương &aacute;n <em>\"the\"</em> sai v&igrave; cụm <em>\"Swiss businessman\"</em> đang được d&ugrave;ng để giới thiệu, kh&ocirc;ng phải l&agrave; một người đ&atilde; được x&aacute;c định hay duy nhất trong bối cảnh n&agrave;y. Phương &aacute;n <em>\"&Oslash; (no article)\"</em> sai v&igrave; <em>\"businessman\"</em> l&agrave; danh từ đếm được số &iacute;t v&agrave; cần c&oacute; mạo từ.</p>",
+      "answerFeedbacks": {
+        "36669": "Đúng vì <em>\"a\"</em> được dùng trước danh từ đếm được số ít bắt đầu bằng phụ âm, dùng để giới thiệu một người cụ thể thông qua một mô tả chung chung.",
+        "36670": "Sai vì <em>\"an\"</em> chỉ dùng trước danh từ bắt đầu bằng nguyên âm hoặc âm \"h\" câm, trong khi <em>\"Swiss\"</em> bắt đầu bằng phụ âm.",
+        "36671": "Sai vì <em>\"the\"</em> được dùng khi danh từ đã được xác định hoặc là duy nhất, còn <em>\"a Swiss businessman\"</em> ở đây là một cách giới thiệu chung chung về nghề nghiệp của <em>Jean Henri Dunant</em>.",
+        "36672": "Sai vì <em>\"businessman\"</em> là danh từ đếm được số ít, không thể đứng một mình mà không có mạo từ hoặc từ hạn định."
+      },
+      "images": []
+    },
+    {
+      "id": 11184,
+      "questionNumber": 14,
+      "questionName": "Question 128.",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>_____ logo of the 22nd SEA Games is the stylization of Lac bird, the ancient bird pictured of the face of Ngoc Lu kettledrum, _____ most special and typical relic of the ancient Vietnamese culture.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 36173,
+          "label": "A",
+          "text": "A / the",
+          "isCorrect": false
+        },
+        {
+          "id": 36174,
+          "label": "B",
+          "text": "The / the",
+          "isCorrect": true
+        },
+        {
+          "id": 36175,
+          "label": "C",
+          "text": "Ø (no article) / Ø (no article)",
+          "isCorrect": false
+        },
+        {
+          "id": 36176,
+          "label": "D",
+          "text": "The / Ø (no article)",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 36174,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y xem x&eacute;t danh từ <em>\"logo\"</em> được l&agrave;m r&otilde; bằng cụm <em>\"of the 22nd SEA Games\"</em>, cho thấy đ&acirc;y l&agrave; một đối tượng cụ thể v&agrave; cụm <em>\"most special and typical relic\"</em> chứa một t&iacute;nh từ so s&aacute;nh nhất.</p>\n<p>H&atilde;y nhớ lại mạo từ n&agrave;o thường được sử dụng với danh từ cụ thể v&agrave; t&iacute;nh từ so s&aacute;nh nhất.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ x&aacute;c định (The) v&agrave; c&aacute;c trường hợp kh&ocirc;ng d&ugrave;ng mạo từ (Zero Article)</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Mạo từ x&aacute;c định \"the\" d&ugrave;ng để chỉ một đối tượng cụ thể, đ&atilde; được x&aacute;c định hoặc duy nhất trong ngữ cảnh. Kh&ocirc;ng d&ugrave;ng mạo từ khi danh từ mang nghĩa chung chung hoặc trong một số cụm từ cố định.</p>\n<p style=\"text-align: justify;\"><strong>Một số trường hợp:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">The + N (đ&atilde; x&aacute;c định/duy nhất): </span></strong>D&ugrave;ng cho danh từ đ&atilde; được nhắc đến, được l&agrave;m r&otilde; bằng một cụm giới từ (như <em>\"of the 22nd SEA Games\"</em>) hoặc mệnh đề quan hệ, hoặc l&agrave; duy nhất trong ngữ cảnh.</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">The + t&iacute;nh từ so s&aacute;nh nhất (superlative adjective) + N: </span></strong>Lu&ocirc;n d&ugrave;ng mạo từ \"the\" trước t&iacute;nh từ so s&aacute;nh nhất (như <em>\"most special and typical\"</em>).</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">&Oslash; (kh&ocirc;ng d&ugrave;ng mạo từ): </span></strong>Khi danh từ mang nghĩa chung chung, kh&aacute;i qu&aacute;t, hoặc trong một số cụm từ cố định.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong chỗ trống thứ nhất, cụm danh từ <em>\"logo of the 22nd SEA Games\"</em> chỉ một biểu tượng cụ thể, đ&atilde; được x&aacute;c định r&otilde; r&agrave;ng l&agrave; của <em>\"22nd SEA Games\"</em>, do đ&oacute; cần d&ugrave;ng mạo từ x&aacute;c định <em>\"the\"</em>. Trong chỗ trống thứ hai, cụm <em>\"most special and typical relic\"</em> chứa t&iacute;nh từ so s&aacute;nh nhất <em>\"most special and typical\"</em>, do đ&oacute; cũng cần d&ugrave;ng mạo từ x&aacute;c định <em>\"the\"</em>. C&aacute;c phương &aacute;n c&ograve;n lại đều kh&ocirc;ng đ&aacute;p ứng đủ điều kiện ph&ugrave; hợp cho hai chỗ trống.</p>",
+      "answerFeedbacks": {
+        "36173": "Sai vì <em>\"logo of the 22nd SEA Games\"</em> là danh từ cụ thể, đã xác định, không dùng mạo từ bất định <em>\"a\"</em>.",
+        "36174": "Đúng vì <em>\"logo of the 22nd SEA Games\"</em> là danh từ cụ thể, đã xác định cần <em>\"the\"</em>, và <em>\"most special and typical relic\"</em> là cụm danh từ với tính từ so sánh nhất cũng cần <em>\"the\"</em>.",
+        "36175": "Sai vì cả hai chỗ trống đều chỉ danh từ cụ thể hoặc danh từ đi với so sánh nhất, không phải danh từ mang nghĩa chung chung hay trong các cụm không dùng mạo từ.",
+        "36176": "Sai vì <em>\"most special and typical relic\"</em> là cụm danh từ với tính từ so sánh nhất, bắt buộc phải dùng mạo từ xác định <em>\"the\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 4928,
+      "questionNumber": 15,
+      "questionName": "mạo từ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>My neighbor is _____ photographer; let’s ask him for _____ advice about color film.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 11872,
+          "label": "A",
+          "text": "the / the",
+          "isCorrect": false
+        },
+        {
+          "id": 11873,
+          "label": "B",
+          "text": "the / an",
+          "isCorrect": false
+        },
+        {
+          "id": 11874,
+          "label": "C",
+          "text": "a / the",
+          "isCorrect": false
+        },
+        {
+          "id": 11875,
+          "label": "D",
+          "text": "a / Ø",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 11875,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Đối với chỗ trống đầu tiên, hãy xem xét <em>\"photographer\"</em> là danh từ đếm được hay không đếm được, số ít hay số nhiều, và nó đã được xác định cụ thể chưa để chọn <em>mạo từ phù hợp.</em></li>\n<li>Đối với chỗ trống thứ hai, <em>\"advice\"</em> là danh từ không đếm được. Hãy nhớ quy tắc dùng mạo từ với danh từ không đếm được khi nói về một khái niệm chung chung.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ (Articles)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Mạo từ là từ đứng trước danh từ để bổ nghĩa cho danh từ đó, chỉ rõ danh từ là đối tượng xác định hay không xác định. Có ba loại mạo từ: mạo từ không xác định (a/an), mạo từ xác định (the), và mạo từ rỗng (zero article - không dùng mạo từ).</p>\n<p><strong>Một số trường hợp dùng mạo từ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">a/an + N (số ít, đếm được):</span></strong> dùng trước danh từ số ít đếm được, chưa xác định, được nhắc đến lần đầu hoặc mang ý nghĩa chung chung. <em>\"a\"</em> đứng trước danh từ bắt đầu bằng phụ âm, <em>\"an\"</em> đứng trước danh từ bắt đầu bằng nguyên âm.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">the + N:</span></strong> dùng trước danh từ đã được xác định, được nhắc đến lần thứ hai, hoặc là duy nhất trong ngữ cảnh.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Ø (mạo từ rỗng) + N (không đếm được/số nhiều):</span></strong> dùng trước danh từ không đếm được hoặc danh từ số nhiều khi nói về nghĩa chung chung. Một số danh từ trừu tượng như <em>\"advice\"</em>, <em>\"information\"</em>, <em>\"knowledge\"</em> thường đi với mạo từ rỗng khi nói chung chung.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong chỗ trống đầu tiên, <em>\"photographer\"</em> là danh từ số ít đếm được, chưa được xác định cụ thể (người hàng xóm là một nhiếp ảnh gia bất kỳ). Vì <em>\"photographer\"</em> bắt đầu bằng phụ âm 'p', ta dùng mạo từ không xác định <em>\"a\"</em>.</p>\n<p style=\"text-align: justify;\">Trong chỗ trống thứ hai, <em>\"advice\"</em> là danh từ không đếm được. Trong ngữ cảnh này, <em>\"advice\"</em> được nhắc đến một cách chung chung, không phải là một lời khuyên cụ thể nào đã được xác định trước. Do đó, ta dùng mạo từ rỗng (Ø). Kết hợp lại, phương án chính xác là <em>\"a / Ø\".</em></p>",
+      "answerFeedbacks": {
+        "11872": "Sai vì <em>\"photographer\"</em> là danh từ số ít đếm được chưa xác định, và <em>\"advice\"</em> là danh từ không đếm được dùng với nghĩa chung chung, không cần mạo từ xác định <em>\"the\"</em>.",
+        "11873": "Sai vì <em>\"photographer\"</em> là danh từ số ít đếm được chưa xác định, và <em>\"advice\"</em> là danh từ không đếm được nên không thể dùng mạo từ không xác định <em>\"an\"</em>.",
+        "11874": "Sai vì <em>\"advice\"</em> là danh từ không đếm được được sử dụng với nghĩa chung chung, không cần mạo từ xác định <em>\"the\"</em>.",
+        "11875": "Đúng vì <em>\"photographer\"</em> là danh từ số ít đếm được chưa xác định nên dùng mạo từ <em>\"a\"</em>, và <em>\"advice\"</em> là danh từ không đếm được dùng với nghĩa chung chung nên dùng mạo từ rỗng <em>\"Ø\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 11085,
+      "questionNumber": 16,
+      "questionName": "Question 29.",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Education is recognized as _____ essential need for achieving equality in most walks of life.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 35777,
+          "label": "A",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 35778,
+          "label": "B",
+          "text": "an",
+          "isCorrect": true
+        },
+        {
+          "id": 35779,
+          "label": "C",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "id": 35780,
+          "label": "D",
+          "text": "Ø (no article)",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 35778,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y xem x&eacute;t từ đứng ngay sau chỗ trống l&agrave; <em>essential</em>&nbsp;bắt đầu bằng &acirc;m g&igrave;? Từ <em>need</em> l&agrave; danh từ đếm được hay kh&ocirc;ng đếm được, v&agrave; trong ngữ cảnh n&agrave;y, n&oacute; c&oacute; đang n&oacute;i về một c&aacute;i g&igrave; đ&oacute; cụ thể, đ&atilde; được x&aacute;c định hay kh&ocirc;ng?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ x&aacute;c định v&agrave; mạo từ kh&ocirc;ng x&aacute;c định</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Mạo từ được sử dụng để chỉ r&otilde; danh từ đang được nhắc đến l&agrave; x&aacute;c định hay kh&ocirc;ng x&aacute;c định, hoặc l&agrave; một th&agrave;nh vi&ecirc;n chung của một nh&oacute;m.</p>\n<p style=\"text-align: justify;\"><strong>Một số c&aacute;ch d&ugrave;ng mạo từ:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>a/an + N (đếm được, số &iacute;t):</strong> d&ugrave;ng trước danh từ đếm được số &iacute;t, chưa x&aacute;c định, lần đầu được nhắc đến hoặc mang nghĩa \"một\". (phụ thuộc v&agrave;o &acirc;m đầu của từ theo sau)</li>\n<li style=\"text-align: justify;\"><strong>the + N:</strong> d&ugrave;ng trước danh từ đ&atilde; được x&aacute;c định, được nhắc đến lần thứ hai, hoặc duy nhất.</li>\n<li style=\"text-align: justify;\"><strong>&Oslash; (no article) + N:</strong> d&ugrave;ng trước danh từ kh&ocirc;ng đếm được, danh từ số nhiều, hoặc danh từ ri&ecirc;ng khi n&oacute;i về một kh&aacute;i niệm chung.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, chỗ trống đứng trước cụm danh từ \"<em>essential need</em>\". Từ <em>essential</em> bắt đầu bằng một &acirc;m nguy&ecirc;n &acirc;m (/ɪˈsenʃəl/). Danh từ <em>need</em> l&agrave; danh từ đếm được số &iacute;t v&agrave; trong ngữ cảnh n&agrave;y, n&oacute; đang n&oacute;i về \"một nhu cầu thiết yếu\" n&oacute;i chung, chưa được x&aacute;c định cụ thể. Do đ&oacute;, cần sử dụng mạo từ kh&ocirc;ng x&aacute;c định <em>an</em>. C&aacute;c phương &aacute;n:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 (<em>a</em>) sai v&igrave; <em>essential</em> bắt đầu bằng &acirc;m nguy&ecirc;n &acirc;m.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 (<em>the</em>) sai v&igrave; <em>need</em> ở đ&acirc;y kh&ocirc;ng phải l&agrave; một nhu cầu cụ thể, đ&atilde; x&aacute;c định.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 (<em>&Oslash;</em>) sai v&igrave; <em>need</em> l&agrave; danh từ đếm được số &iacute;t n&ecirc;n cần c&oacute; mạo từ.</li>\n</ul>",
+      "answerFeedbacks": {
+        "35777": "Sai vì <em>essential</em> bắt đầu bằng một âm nguyên âm, nên cần dùng <em>an</em> thay vì <em>a</em>.",
+        "35778": "Đúng vì <em>essential</em> là một tính từ bắt đầu bằng âm nguyên âm, và <em>need</em> là danh từ đếm được số ít, chưa xác định trong ngữ cảnh này.",
+        "35779": "Sai vì <em>need</em> ở đây được nói đến một cách chung chung, không phải là một nhu cầu cụ thể, đã xác định.",
+        "35780": "Sai vì <em>need</em> là danh từ đếm được số ít nên cần có mạo từ đứng trước, không thể bỏ trống."
+      },
+      "images": []
+    },
+    {
+      "id": 177103,
+      "questionNumber": 17,
+      "questionName": "Question 5:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Christopher Columbus was _____ first person to discover America.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 406033,
+          "label": "A",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 406034,
+          "label": "B",
+          "text": "an",
+          "isCorrect": false
+        },
+        {
+          "id": 406035,
+          "label": "C",
+          "text": "the",
+          "isCorrect": true
+        },
+        {
+          "id": 406036,
+          "label": "D",
+          "text": "Ø (no article)",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 406035,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Dùng mạo từ \"<strong>the</strong>\" trước s&ocirc;́ thứ tự trong c&acirc;́u trúc:<strong> the + first/second/last... + N + (to V)</strong></p>\n<p>Dịch: Christopher Columbus l&agrave; người đầu ti&ecirc;n kh&aacute;m ph&aacute; ra nước Mỹ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 170624,
+      "questionNumber": 18,
+      "questionName": "30",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>The Titanic, a British steamer sank in _____ North Atlantic after hitting _____ iceberg.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 393765,
+          "label": "A",
+          "text": "Ø / Ø",
+          "isCorrect": false
+        },
+        {
+          "id": 393766,
+          "label": "B",
+          "text": "Ø / an",
+          "isCorrect": false
+        },
+        {
+          "id": 393767,
+          "label": "C",
+          "text": "a / an",
+          "isCorrect": false
+        },
+        {
+          "id": 393768,
+          "label": "D",
+          "text": "the / an",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 393768,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy xem xét danh từ đứng sau mỗi chỗ trống để xác định loại mạo từ phù hợp.</p>\n<ul>\n<li>Đối với <em>\"North Atlantic\"</em>, đây là tên riêng của một đại dương. Nhớ lại quy tắc sử dụng mạo từ với các tên địa lý như sông, biển, đại dương, dãy núi.</li>\n<li>Đối với <em>\"iceberg\"</em>, đây là một danh từ số ít đếm được và bắt đầu bằng nguyên âm. Hãy nghĩ đến khi nào dùng <em>\"a\"</em> và khi nào dùng <em>\"an\"</em> cho những danh từ như vậy.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Mạo từ (Articles)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Mạo từ là từ đứng trước danh từ để xác định hoặc không xác định danh từ đó. Có ba loại mạo từ chính trong tiếng Anh: mạo từ xác định (the), mạo từ không xác định (a/an), và mạo từ rỗng (zero article - Ø).</p>\n<p><strong>Một số cách dùng mạo từ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">a/an + N (số ít, đếm được):</span></strong> một (chỉ vật/người chưa xác định, lần đầu nhắc đến, hoặc mang nghĩa chung chung) (<em>\"a\" dùng trước danh từ bắt đầu bằng phụ âm; \"an\" dùng trước danh từ bắt đầu bằng nguyên âm hoặc âm \"h\" câm</em>)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">the + N (số ít/số nhiều, đếm được/không đếm được):</span></strong> chỉ vật/người đã xác định, đã được nhắc đến trước đó, hoặc là duy nhất/đặc biệt. (<em>\"the\" dùng trước danh từ đã được xác định rõ ràng hoặc là duy nhất trong ngữ cảnh</em>)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Ø + N:</span></strong> không dùng mạo từ (trước danh từ số nhiều/không đếm được mang nghĩa chung chung, tên riêng, địa danh cụ thể, hoặc một số cụm từ cố định) (<em>Không dùng mạo từ khi danh từ mang nghĩa chung chung hoặc là tên riêng</em>)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Tại vị trí trống thứ nhất, <em>\"North Atlantic\"</em> là tên riêng của một đại dương, và theo quy tắc, các tên địa lý như đại dương, biển, sông, dãy núi thường đi kèm với mạo từ <em>\"the\"</em>.</p>\n<p style=\"text-align: justify;\">Tại vị trí trống thứ hai, <em>\"iceberg\"</em> là một danh từ số ít đếm được, bắt đầu bằng nguyên âm <em>\"i\"</em>. Đây là lần đầu tiên <em>\"iceberg\"</em> được nhắc đến và không chỉ một tảng băng cụ thể đã được xác định trước, do đó cần sử dụng mạo từ không xác định <em>\"an\"</em>. Kết hợp lại, phương án ''<em>the / an</em>'' là đáp án chính xác.</p>",
+      "answerFeedbacks": {
+        "393765": "Sai vì <em>\"North Atlantic\"</em> cần mạo từ <em>\"the\"</em> và <em>\"iceberg\"</em> cần mạo từ <em>\"an\"</em> để xác định.",
+        "393766": "Sai vì <em>\"North Atlantic\"</em> là tên riêng của đại dương nên cần mạo từ <em>\"the\"</em>, không phải mạo từ rỗng.",
+        "393767": "Sai vì <em>\"North Atlantic\"</em> là tên riêng của đại dương nên cần mạo từ <em>\"the\"</em>, không phải <em>\"a\"</em>.",
+        "393768": "Đúng vì <em>\"the\"</em> dùng cho tên riêng của đại dương <em>\"North Atlantic\"</em> và <em>\"an\"</em> dùng cho danh từ số ít đếm được bắt đầu bằng nguyên âm <em>\"iceberg\"</em> khi lần đầu nhắc đến."
+      },
+      "images": []
+    },
+    {
+      "id": 350710,
+      "questionNumber": 19,
+      "questionName": "Basic Grammar in Use 4th-p135",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Choose the correct answers.</em></p>\n<p style=\"text-align: justify;\"><strong>Amanda is <span class='fillblank-option'><label>19.1</label><select class='ms fillblank-option-19' index='0' name='fbo-350710-0' data-testid='fillblank-select-350710-0'><option value='' data-testid='fillblank-option-empty-350710-0'></option><option value=\"an\" data-testid='fillblank-option-350710-0-an'>an</option><option value=\"a\" data-testid='fillblank-option-350710-0-a'>a</option><option value=\"the\" data-testid='fillblank-option-350710-0-the'>the</option></select></span> student. When she finishes school, she wants to be a journalist. She lives with two friends in <span class='fillblank-option'><label>19.2</label><select class='ms fillblank-option-19' index='1' name='fbo-350710-1' data-testid='fillblank-select-350710-1'><option value='' data-testid='fillblank-option-empty-350710-1'></option><option value=\"a\" data-testid='fillblank-option-350710-1-a'>a</option><option value=\"an\" data-testid='fillblank-option-350710-1-an'>an</option><option value=\"the\" data-testid='fillblank-option-350710-1-the'>the</option></select></span> apartment near the college where she is studying. <span class='fillblank-option'><label>19.3</label><select class='ms fillblank-option-19' index='2' name='fbo-350710-2' data-testid='fillblank-select-350710-2'><option value='' data-testid='fillblank-option-empty-350710-2'></option><option value=\"The\" data-testid='fillblank-option-350710-2-The'>The</option><option value=\"An\" data-testid='fillblank-option-350710-2-An'>An</option><option value=\"A\" data-testid='fillblank-option-350710-2-A'>A</option></select></span> apartment is small, but she likes it. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "a"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "an"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "The"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Mạo từ \"<strong>a</strong>\" được sử dụng trước danh từ \"<strong>student</strong>\" đếm được số &iacute;t, được nhắc tới lần đầu v&agrave; c&oacute; c&aacute;ch ph&aacute;t &acirc;m bắt đầu bằng một phụ &acirc;m<strong> /ˈstjuːdnt/</strong>.</p>\n<p>Mạo từ \"<strong>an</strong>\" được sử dụng trước danh từ \"<strong>apartment</strong>\" đếm được số &iacute;t, được nhắc tới lần đầu v&agrave; c&oacute; c&aacute;ch ph&aacute;t &acirc;m bắt đầu bằng một nguy&ecirc;n &acirc;m <strong>/əˈpɑːtmənt/</strong>.&nbsp;</p>\n<p>Mạo từ \"<strong>the</strong>\" được sử dụng trước danh từ \"<strong>apartment</strong>\" đ&atilde; x&aacute;c định ở c&acirc;u ph&iacute;a trước.</p>\n<p>Dịch: Amanda l&agrave; một sinh vi&ecirc;n. Khi học xong, c&ocirc; ấy muốn trở th&agrave;nh một nh&agrave; b&aacute;o. C&ocirc; ấy sống c&ugrave;ng hai người bạn trong một căn hộ gần trường đại học nơi c&ocirc; đang theo học. Căn hộ nhỏ nhưng c&ocirc; ấy th&iacute;ch n&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 281714,
+      "questionNumber": 20,
+      "questionName": "SBT 8 -U3-B-3",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Fill each blank with &quot;<em>a/an/the</em>&quot; to complete the following passage.</strong></p>\n<p style=\"text-align: justify;\">Y Moan was the greatest pop singer of the Ede ethnic group in Dak Lak Province. He was born in 1957 and died in 2010. He was called &#8216;<strong><span class='fillblank-option'><label>20.1</label><select class='ms fillblank-option-20' index='0' name='fbo-281714-0' data-testid='fillblank-select-281714-0'><option value='' data-testid='fillblank-option-empty-281714-0'></option><option value=\"the\" data-testid='fillblank-option-281714-0-the'>the</option><option value=\"an\" data-testid='fillblank-option-281714-0-an'>an</option><option value=\"a\" data-testid='fillblank-option-281714-0-a'>a</option></select></span></strong> singer of the great woods'. He is famous for singing songs about <strong><span class='fillblank-option'><label>20.2</label><select class='ms fillblank-option-20' index='1' name='fbo-281714-1' data-testid='fillblank-select-281714-1'><option value='' data-testid='fillblank-option-empty-281714-1'></option><option value=\"an\" data-testid='fillblank-option-281714-1-an'>an</option><option value=\"the\" data-testid='fillblank-option-281714-1-the'>the</option><option value=\"a\" data-testid='fillblank-option-281714-1-a'>a</option></select></span></strong> Central Highlands and the ethnic people there. In addition, he made <strong><span class='fillblank-option'><label>20.3</label><select class='ms fillblank-option-20' index='2' name='fbo-281714-2' data-testid='fillblank-select-281714-2'><option value='' data-testid='fillblank-option-empty-281714-2'></option><option value=\"an\" data-testid='fillblank-option-281714-2-an'>an</option><option value=\"a\" data-testid='fillblank-option-281714-2-a'>a</option><option value=\"the\" data-testid='fillblank-option-281714-2-the'>the</option></select></span></strong> important contribution, through his singing and his own songs, to making the Central Highlands well-known to millions of people both inside and outside <strong><span class='fillblank-option'><label>20.4</label><select class='ms fillblank-option-20' index='3' name='fbo-281714-3' data-testid='fillblank-select-281714-3'><option value='' data-testid='fillblank-option-empty-281714-3'></option><option value=\"the\" data-testid='fillblank-option-281714-3-the'>the</option><option value=\"an\" data-testid='fillblank-option-281714-3-an'>an</option><option value=\"a\" data-testid='fillblank-option-281714-3-a'>a</option></select></span></strong> country. He not only sang but also composed songs about the Central Highlands. He received a&nbsp;lot of prizes and awards for his achievements in music. In 2010 he was given the title &#8216;People's Artist&#8217;, <strong><span class='fillblank-option'><label>20.5</label><select class='ms fillblank-option-20' index='4' name='fbo-281714-4' data-testid='fillblank-select-281714-4'><option value='' data-testid='fillblank-option-empty-281714-4'></option><option value=\"the\" data-testid='fillblank-option-281714-4-the'>the</option><option value=\"a\" data-testid='fillblank-option-281714-4-a'>a</option><option value=\"an\" data-testid='fillblank-option-281714-4-an'>an</option></select></span></strong> highest honour by the State for artists.</p>\n<div style=\"position: absolute; left: 664px; top: 76px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "the"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "the"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "an"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "the"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "the"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Cần điền mạo từ \"<strong>the</strong>\" trong cấu tr&uacute;c: <strong>the N of N</strong> (c&aacute;i g&igrave; của c&aacute;i g&igrave;).</p>\n<p>Dịch: &Ocirc;ng ấy được mệnh danh l&agrave; &lsquo;Ca sĩ của rừng xanh&rsquo;.</p>\n<p>2. Cần điền mạo từ \"<strong>the</strong>\" trước danh từ ri&ecirc;ng chỉ v&ugrave;ng, miền \"<strong>Central Highlands</strong>\".</p>\n<p>Dịch: &Ocirc;ng ấy nổi tiếng v&igrave; h&aacute;t những b&agrave;i h&aacute;t về T&acirc;y Nguy&ecirc;n v&agrave; người d&acirc;n tộc nơi đ&acirc;y.</p>\n<p>3. Cần điền mạo từ \"<strong>an</strong>\" trước cụm danh từ \"<strong>important contribution</strong>\"&nbsp;đếm được số &iacute;t, chưa x&aacute;c định v&agrave; c&oacute; ph&aacute;t &acirc;m bắt đầu bằng một nguy&ecirc;n &acirc;m /<strong><span class=\"ipa dipa lpr-2 lpl-1\">ɪmˈpɔː.t<span class=\"sp dsp\">ə</span>nt</span></strong>/.</p>\n<p>4. \"<strong>country</strong>\" l&agrave; danh từ x&aacute;c định, n&oacute;i về Việt Nam. =&gt; D&ugrave;ng mạo từ \"<strong>the</strong>\".</p>\n<p>Dịch: B&ecirc;n cạnh đ&oacute;, &ocirc;ng ấy c&ograve;n c&oacute; những đ&oacute;ng g&oacute;p quan trọng, th&ocirc;ng qua tiếng h&aacute;t v&agrave; những b&agrave;i h&aacute;t của &ocirc;ng, khiến T&acirc;y Nguy&ecirc;n nổi tiếng với h&agrave;ng triệu con người ở trong v&agrave; ngo&agrave;i nước.</p>\n<p>5. Cần điền mạo từ \"<strong>the</strong>\" trong cấu tr&uacute;c so s&aacute;nh nhất của t&iacute;nh từ ngắn: <strong>the + adj. + est + N</strong>.</p>\n<p>Dịch: Năm 2010, &ocirc;ng ấy được trao danh hiệu 'Nghệ Sĩ Nh&acirc;n D&acirc;n', danh hiệu cao qu&yacute; nhất của nh&agrave; nước d&agrave;nh cho nghệ sĩ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 405380,
+      "questionNumber": 21,
+      "questionName": "Ex1_Collins - Grammar for IELTS (page 40)",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Fill in the blanks with <em>a, an, </em><em>the</em>&nbsp;or&nbsp;<em>x</em>&nbsp;(no article).</strong></p>\n<p>1. Economic advisors to <span class='fillblank-option'><label>21.1</label><input id='fbo-405380-0' class='ms fillblank-option-21' index='0' name='fbo-405380-0' type='text' size='4' autocomplete='off' data-testid='fillblank-input-405380-0' /></span> government warned against not regulating larger businesses.</p>\n<p>2. I believe that there should be <span class='fillblank-option'><label>21.2</label><input id='fbo-405380-1' class='ms fillblank-option-21' index='1' name='fbo-405380-1' type='text' size='4' autocomplete='off' data-testid='fillblank-input-405380-1' /></span> system to manage economic instability.</p>\n<p>3. <span class='fillblank-option'><label>21.3</label><input id='fbo-405380-2' class='ms fillblank-option-21' index='2' name='fbo-405380-2' type='text' size='4' autocomplete='off' data-testid='fillblank-input-405380-2' /></span> inflation is a constant worry for <span class='fillblank-option'><label>21.4</label><input id='fbo-405380-3' class='ms fillblank-option-21' index='3' name='fbo-405380-3' type='text' size='4' autocomplete='off' data-testid='fillblank-input-405380-3' /></span> employers.</p>\n<p>4. <span class='fillblank-option'><label>21.5</label><input id='fbo-405380-4' class='ms fillblank-option-21' index='4' name='fbo-405380-4' type='text' size='4' autocomplete='off' data-testid='fillblank-input-405380-4' /></span> Toyota has one of <span class='fillblank-option'><label>21.6</label><input id='fbo-405380-5' class='ms fillblank-option-21' index='5' name='fbo-405380-5' type='text' size='7' autocomplete='off' data-testid='fillblank-input-405380-5' /></span> highest revenues for any company in Japan.</p>\n<p>5. Every company needs <span class='fillblank-option'><label>21.7</label><input id='fbo-405380-6' class='ms fillblank-option-21' index='6' name='fbo-405380-6' type='text' size='5' autocomplete='off' data-testid='fillblank-input-405380-6' /></span> good staff.</p>\n<p>6. My father is <span class='fillblank-option'><label>21.8</label><input id='fbo-405380-7' class='ms fillblank-option-21' index='7' name='fbo-405380-7' type='text' size='4' autocomplete='off' data-testid='fillblank-input-405380-7' /></span> employment lawyer.</p>\n<p>7. <span class='fillblank-option'><label>21.9</label><input id='fbo-405380-8' class='ms fillblank-option-21' index='8' name='fbo-405380-8' type='text' size='4' autocomplete='off' data-testid='fillblank-input-405380-8' /></span> world economy, although presently unstable, will soon recover.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "the"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "a"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "x"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "x"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "x"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "the"
+          ]
+        },
+        {
+          "index": 6,
+          "correctAnswers": [
+            "x"
+          ]
+        },
+        {
+          "index": 7,
+          "correctAnswers": [
+            "an"
+          ]
+        },
+        {
+          "index": 8,
+          "correctAnswers": [
+            "The"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Do danh từ \"<strong>government</strong>\" đ&atilde; x&aacute;c định, người đọc đều hiểu \"<strong>government</strong>\" l&agrave; ai n&ecirc;n d&ugrave;ng mạo từ \"<strong>the</strong>\".</p>\n<p>Dịch: C&aacute;c cố vấn kinh tế cho ch&iacute;nh phủ cảnh b&aacute;o kh&ocirc;ng n&ecirc;n chỉnh đốn c&aacute;c doanh nghiệp lớn hơn.</p>\n<p>2. Danh từ \"<strong>system</strong>\" được nhắc đến lần đầu ti&ecirc;n, chưa x&aacute;c định v&agrave; danh từ c&oacute; phi&ecirc;n &acirc;m (/ˈsɪs.təm/) bắt đầu bằng phụ &acirc;m n&ecirc;n d&ugrave;ng mạo từ \"<strong>a</strong>\".</p>\n<p>Dịch: T&ocirc;i tin rằng n&ecirc;n c&oacute; một hệ thống để quản l&yacute; sự bất ổn của nền kinh tế.</p>\n<p>3. Danh từ \"<strong>inflation</strong>\" l&agrave; một danh từ chung n&ecirc;n kh&ocirc;ng cần mạo từ đằng trước, danh từ \"<strong>employers</strong>\" l&agrave; danh từ số nhiều n&ecirc;n cũng kh&ocirc;ng cần mạo từ đằng trước.</p>\n<p>Dịch: Lạm ph&aacute;t l&agrave; nỗi lo thường trực của c&aacute;c chủ doanh nghiệp.</p>\n<p>4. \"<strong>Toyota</strong>\" l&agrave; danh từ ri&ecirc;ng n&ecirc;n kh&ocirc;ng d&ugrave;ng mạo từ đằng trước, dạng so s&aacute;nh nhất của t&iacute;nh từ \"<strong>highest</strong>\" cần phải c&oacute; mạo từ \"<strong>the</strong>\" đằng trước.</p>\n<p>Dịch: Toyota c&oacute; doanh thu cao nhất so với bất kỳ c&ocirc;ng ty n&agrave;o ở Nhật Bản.</p>\n<p>5. \"<strong>staff</strong>\" l&agrave; danh từ kh&ocirc;ng đếm được, chỉ đội ngũ nh&acirc;n vi&ecirc;n n&oacute;i chung n&ecirc;n kh&ocirc;ng cần d&ugrave;ng mạo từ đằng trước.</p>\n<p>Dịch: C&ocirc;ng ty n&agrave;o cũng cần đội ngũ nh&acirc;n vi&ecirc;n giỏi.</p>\n<p>6. C&acirc;u n&agrave;y đang n&oacute;i về một loại nghề nghiệp, danh từ \"<strong>employment</strong>\" c&oacute; phi&ecirc;n &acirc;m (/ɪmˈplɔɪ.mənt/) bắt đầu bằng nguy&ecirc;n &acirc;m n&ecirc;n d&ugrave;ng mạo từ \"an\" đằng trước.</p>\n<p>Dịch: Cha t&ocirc;i l&agrave; một luật sư việc l&agrave;m.</p>\n<p>7. \"<strong>world economy</strong>\" l&agrave; danh từ duy nhất, n&ecirc;n phải d&ugrave;ng mạo từ \"<strong>the</strong>\" đằng trước.</p>\n<p>Dịch: Nền kinh tế thế giới tuy c&ograve;n bất ổn nhưng sẽ sớm phục hồi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 853782,
+      "questionNumber": 22,
+      "questionName": "new",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Fill in the blanks with <em>the</em> or <em>x</em> (no article).</strong></p>\n<p style=\"text-align: justify;\">Water safety is a crucial skill for everyone, especially for children. Swimming is one of <strong><span class='fillblank-option'><label>22.1</label><input id='fbo-853782-0' class='ms fillblank-option-22' index='0' name='fbo-853782-0' type='text' size='5' autocomplete='off' data-testid='fillblank-input-853782-0' /></span></strong> most important skills a person can learn, and it can save lives. In big cities like <strong><span class='fillblank-option'><label>22.2</label><input id='fbo-853782-1' class='ms fillblank-option-22' index='1' name='fbo-853782-1' type='text' size='2' autocomplete='off' data-testid='fillblank-input-853782-1' /></span></strong> Hanoi or Ho Chi Minh City, pools are common, and many people enjoy swimming regularly. However, it's essential to be cautious when near water, whether it's at a pool, river, or beach.</p>\n<p style=\"text-align: justify;\">During summer vacations, families often spend time at <strong><span class='fillblank-option'><label>22.3</label><input id='fbo-853782-2' class='ms fillblank-option-22' index='2' name='fbo-853782-2' type='text' size='5' autocomplete='off' data-testid='fillblank-input-853782-2' /></span></strong> beaches, and teaching children about water safety is important. It&#8217;s also crucial to educate the public about water-related dangers and the importance of supervision. In case of emergencies, <strong><span class='fillblank-option'><label>22.4</label><input id='fbo-853782-3' class='ms fillblank-option-22' index='3' name='fbo-853782-3' type='text' size='4' autocomplete='off' data-testid='fillblank-input-853782-3' /></span></strong> proper knowledge of first aid, especially CPR, can make significant differences. Additionally, it's essential to ensure that all pools have safety measures to protect swimmers, especially <strong><span class='fillblank-option'><label>22.5</label><input id='fbo-853782-4' class='ms fillblank-option-22' index='4' name='fbo-853782-4' type='text' size='4' autocomplete='off' data-testid='fillblank-input-853782-4' /></span></strong> young who are more vulnerable in the water.</p>\n<p style=\"text-align: justify;\">Understanding the importance of drowning prevention, the United Nations has designated July 25 every year as <strong><span class='fillblank-option'><label>22.6</label><input id='fbo-853782-5' class='ms fillblank-option-22' index='5' name='fbo-853782-5' type='text' size='5' autocomplete='off' data-testid='fillblank-input-853782-5' /></span></strong> World Drowning Prevention Day.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "the"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "x"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "x"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "the"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "the"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "x"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Dùng mạo từ \"<strong>the</strong>\" trong c&acirc;́u trúc so sánh nh&acirc;́t với tính từ dài: <strong>the + most + adj. + N</strong></p>\n<p>Dịch: Bơi lội l&agrave; một trong những kỹ năng quan trọng nhất m&agrave; một người c&oacute; thể học v&agrave; c&oacute; thể cứu sống người kh&aacute;c.</p>\n<p>2. Kh&ocirc;ng dùng mạo từ trước t&ecirc;n các thành ph&ocirc;́.</p>\n<p>Dịch: Ở c&aacute;c th&agrave;nh phố lớn như H&agrave; Nội hoặc Th&agrave;nh phố Hồ Ch&iacute; Minh, b&ecirc;̉ bơi rất phổ biến v&agrave; nhiều người th&iacute;ch bơi lội thường xuy&ecirc;n.</p>\n<p>3. Kh&ocirc;ng dùng mạo từ trước danh từ chỉ địa đi&ecirc;̉m \"<strong>beaches</strong>\" vì nó được dùng với mục đích chính.</p>\n<p>Dịch: Trong kỳ nghỉ h&egrave;, c&aacute;c gia đ&igrave;nh thường d&agrave;nh thời gian ở b&atilde;i biển v&agrave; việc dạy trẻ em về an to&agrave;n dưới nước l&agrave; rất quan trọng.</p>\n<p>4. Dùng mạo từ \"<strong>the</strong>\" trước danh từ \"<strong>knowledge</strong>\" vì danh từ đã được xác định bởi cụm \"<strong>of first aid</strong>\" ở phía sau.</p>\n<p>Dịch: Trong trường hợp khẩn cấp, kiến ​​thức sơ cứu đ&uacute;ng c&aacute;ch, đặc biệt l&agrave; h&ocirc; hấp nh&acirc;n tạo, c&oacute; thể tạo ra sự kh&aacute;c biệt đ&aacute;ng kể.</p>\n<p>5. Dùng mạo từ \"<strong>the</strong>\" trước tính từ \"<strong>young</strong>\" đ&ecirc;̉ chỉ m&ocirc;̣t nhóm người.</p>\n<p>Dịch: Ngo&agrave;i ra, điều cần thiết l&agrave; phải đảm bảo rằng tất cả c&aacute;c b&ecirc;̉ bơi đều c&oacute; c&aacute;c biện ph&aacute;p an to&agrave;n để bảo vệ người đi bơi, đặc biệt l&agrave; trẻ em dễ bị tổn thương hơn khi ở dưới nước.</p>\n<p>6. Kh&ocirc;ng dùng mạo từ trước cụm từ chỉ các ngày l&ecirc;̃.</p>\n<p>Dịch: Hiểu được tầm quan trọng của việc ph&ograve;ng ngừa đuối nước, Li&ecirc;n Hợp Quốc đ&atilde; chỉ định ng&agrave;y 25 th&aacute;ng 7 h&agrave;ng năm l&agrave; Ng&agrave;y Th&ecirc;́ giới phòng ch&ocirc;́ng đu&ocirc;́i nước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

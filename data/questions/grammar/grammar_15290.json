@@ -1,0 +1,839 @@
+{
+  "quizId": 15290,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 29: Verb patterns: Verbs + (Object) + (to) V-infinitive (Động từ theo sau bởi tân ngữ và động từ nguyên thể)",
+  "totalQuestions": 22,
+  "questions": [
+    {
+      "id": 914187,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">C&#225;c &#273;&#7897;ng t&#7915; n&#224;o sau &#273;&#226;y &#273;&#432;&#7907;c theo sau b&#7903;i t&#226;n ng&#7919; v&#224; &#273;&#7897;ng t&#7915; nguy&#234;n th&#7875; kh&#244;ng &quot;to&quot;?</span></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1734451,
+          "label": "A",
+          "text": "make",
+          "isCorrect": true
+        },
+        {
+          "id": 1734452,
+          "label": "B",
+          "text": "get",
+          "isCorrect": false
+        },
+        {
+          "id": 1734453,
+          "label": "C",
+          "text": "help",
+          "isCorrect": true
+        },
+        {
+          "id": 1734454,
+          "label": "D",
+          "text": "have",
+          "isCorrect": true
+        },
+        {
+          "id": 1734455,
+          "label": "E",
+          "text": "instruct",
+          "isCorrect": false
+        },
+        {
+          "id": 1734456,
+          "label": "F",
+          "text": "encourage",
+          "isCorrect": false
+        },
+        {
+          "id": 1734457,
+          "label": "Opt 7",
+          "text": "let",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1734451,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/Bai_29__ong_tu_theo_sau_boi_tan_ngu_va___774117d4.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 50271,
+      "questionNumber": 2,
+      "questionName": "Question 37:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>You cannot make people _____ if they don’t want to.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 143189,
+          "label": "A",
+          "text": "stay",
+          "isCorrect": true
+        },
+        {
+          "id": 143190,
+          "label": "B",
+          "text": "staying",
+          "isCorrect": false
+        },
+        {
+          "id": 143191,
+          "label": "C",
+          "text": "to stay",
+          "isCorrect": false
+        },
+        {
+          "id": 143192,
+          "label": "D",
+          "text": "to staying",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 143189,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đáp án đúng, bạn cần nhớ cấu trúc của động từ gây khiến <em>\"make\"</em>.</p>\n<p>Khi <em>\"make\"</em> được dùng để diễn tả việc bắt buộc hoặc khiến ai đó làm gì, nó sẽ theo sau bởi tân ngữ và một động từ ở dạng nào?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><b>Cấu trúc gây khiến với ''<em>make</em>''.</b></span></p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><b>Cách dùng:</b> Diễn tả hành động buộc, khiến ai đó làm gì, hoặc một sự vật/sự việc gây ra tác động lên ai đó/cái gì.</p>\n<p style=\"text-align: justify;\"><b>Cấu trúc: </b><span style=\"color: #1c581f; font-weight: 600;\">make + O (tân ngữ) + V(inf) (động từ nguyên thể không \"to\")</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, động từ <em>\"make\"</em> được sử dụng như một động từ gây khiến theo sau là tân ngữ <em>\"people\"</em>. Theo quy tắc ngữ pháp, sau cấu trúc <em>\"make + tân ngữ\"</em>, động từ tiếp theo phải ở dạng nguyên thể không <em>\"to\"</em> (bare infinitive). Do đó, phương án <em>\"stay\"</em> là lựa chọn đúng.</p>\n<p style=\"text-align: justify;\">Các phương án khác đều không phù hợp để sử dụng trong cấu trúc này.</p>",
+      "answerFeedbacks": {
+        "143189": "Đúng vì sau động từ gây khiến <em>\"make\"</em> và tân ngữ, động từ tiếp theo phải ở dạng nguyên thể không <em>\"to\"</em>.",
+        "143190": "Sai vì cấu trúc <em>\"make + O + V-ing\"</em> không đúng trong trường hợp này để diễn đạt ý nghĩa bắt buộc ai đó làm gì.",
+        "143191": "Sai vì sau <em>\"make + O\"</em>, động từ không dùng dạng nguyên thể có <em>\"to\"</em>.",
+        "143192": "Sai vì <em>\"to staying\"</em> không phải là một cấu trúc ngữ pháp đúng trong tiếng Anh."
+      },
+      "images": []
+    },
+    {
+      "id": 69055,
+      "questionNumber": 3,
+      "questionName": "Question 16:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Our parents have never allowed us _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 180840,
+          "label": "A",
+          "text": "smoke",
+          "isCorrect": false
+        },
+        {
+          "id": 180841,
+          "label": "B",
+          "text": "to smoke",
+          "isCorrect": true
+        },
+        {
+          "id": 180842,
+          "label": "C",
+          "text": "smoking",
+          "isCorrect": false
+        },
+        {
+          "id": 180843,
+          "label": "D",
+          "text": "smoked",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 180841,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>allow sb + to V(inf)</strong>: cho ph&eacute;p ai l&agrave;m g&igrave;</p>\n<p>Dịch: Bố mẹ ch&uacute;ng t&ocirc;i kh&ocirc;ng bao giờ cho ph&eacute;p ch&uacute;ng t&ocirc;i h&uacute;t thuốc.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 44109,
+      "questionNumber": 4,
+      "questionName": "Q 9.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The teacher advised the children _____ and see the dentist regularly. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 127857,
+          "label": "A",
+          "text": "went",
+          "isCorrect": false
+        },
+        {
+          "id": 127858,
+          "label": "B",
+          "text": "going",
+          "isCorrect": false
+        },
+        {
+          "id": 127859,
+          "label": "C",
+          "text": "go",
+          "isCorrect": false
+        },
+        {
+          "id": 127860,
+          "label": "D",
+          "text": "to go",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 127860,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để tìm đáp án, hãy nhớ lại cấu trúc ngữ pháp của động từ <em>advise</em> khi nó đi kèm với một tân ngữ (ví dụ: <em>the children</em>).</p>\n<p>Cụ thể, khi bạn khuyên ai đó làm gì, động từ theo sau <em>advise + O</em> sẽ ở dạng nào?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ theo sau bởi tân ngữ và động từ nguyên thể</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả hành động theo sau một số động từ cụ thể.</p>\n<p><strong>Một số động từ theo sau bởi tân ngữ và động từ nguyên thể:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">advise (O) to V(inf):</span></strong> khuyên (ai) làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">allow (O) to V(inf):</span></strong> cho phép (ai) làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">ask (O) to V(inf):</span></strong> yêu cầu/đề nghị (ai) làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">encourage (O) to V(inf):</span></strong> khuyến khích (ai) làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">expect (O) to V(inf):</span></strong> mong đợi (ai) làm gì</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, động từ ''<em>advise''</em> được theo sau bởi tân ngữ ''<em>the children''</em>. Theo quy tắc ngữ pháp, khi ''<em>advise''</em> có tân ngữ, động từ tiếp theo phải ở dạng nguyên thể có <em>to</em> (to-infinitive). Vì vậy, ''<em>to go''</em> là phương án chính xác.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại như ''<em>went''</em> (quá khứ đơn), ''<em>going''</em> (danh động từ), và ''<em>go''</em> (nguyên thể không <em>to</em>) đều không phù hợp với cấu trúc ngữ pháp này.</p>",
+      "answerFeedbacks": {
+        "127857": "Sai vì <em>went</em> là thì quá khứ đơn của động từ <em>go</em>, không đúng cấu trúc theo sau <em>advised + O</em>.",
+        "127858": "Sai vì <em>going</em> là danh động từ (V-ing), không đúng cấu trúc theo sau <em>advised + O</em>.",
+        "127859": "Sai vì <em>go</em> là động từ nguyên thể không <em>to</em>, không đúng cấu trúc theo sau <em>advised + O</em>.",
+        "127860": "Đúng vì động từ <em>advise</em> khi theo sau bởi tân ngữ (<em>the children</em>) thì động từ tiếp theo phải ở dạng nguyên thể có <em>to</em> (<em>to V(inf)</em>)."
+      },
+      "images": []
+    },
+    {
+      "id": 227601,
+      "questionNumber": 5,
+      "questionName": "8",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He eventually managed to persuade one of the staff _____ him in.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 511050,
+          "label": "A",
+          "text": "letting",
+          "isCorrect": false
+        },
+        {
+          "id": 511051,
+          "label": "B",
+          "text": "to let",
+          "isCorrect": true
+        },
+        {
+          "id": 511052,
+          "label": "C",
+          "text": "to letting",
+          "isCorrect": false
+        },
+        {
+          "id": 511053,
+          "label": "D",
+          "text": "let",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 511051,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>persuade + sb + to V(inf)</strong>: thuyết phục ai l&agrave;m g&igrave;</p>\n<p>Dịch: Cuối c&ugrave;ng anh ấy cũng th&agrave;nh c&ocirc;ng thuyết phục một trong những nh&acirc;n vi&ecirc;n cho anh ấy v&agrave;o.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 227613,
+      "questionNumber": 6,
+      "questionName": "20",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Marcus's dad taught him _____ the guitar when he was in elementary school.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 511097,
+          "label": "A",
+          "text": "to play",
+          "isCorrect": true
+        },
+        {
+          "id": 511098,
+          "label": "B",
+          "text": "playing",
+          "isCorrect": false
+        },
+        {
+          "id": 511099,
+          "label": "C",
+          "text": "to playing",
+          "isCorrect": false
+        },
+        {
+          "id": 511100,
+          "label": "D",
+          "text": "play",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 511097,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>teach sb to do sth</strong>: dạy, hướng dẫn ai l&agrave;m g&igrave; (khi n&oacute;i về việc dạy một kỹ năng)</p>\n<p>Dịch: Bố của Marcus hướng dẫn cậu ấy chơi đ&agrave;n ghi-ta khi cậu ấy học tiểu học.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 227608,
+      "questionNumber": 7,
+      "questionName": "15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I've been trying to convince Derrick _____ a doctor because he appears to have lose weight.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 511077,
+          "label": "A",
+          "text": "to see",
+          "isCorrect": true
+        },
+        {
+          "id": 511078,
+          "label": "B",
+          "text": "seeing",
+          "isCorrect": false
+        },
+        {
+          "id": 511079,
+          "label": "C",
+          "text": "saw",
+          "isCorrect": false
+        },
+        {
+          "id": 511080,
+          "label": "D",
+          "text": "to be seen",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 511077,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>convince sb to do sth</strong>: thuyết phục ai l&agrave;m g&igrave;</p>\n<p>\"<strong>Derrick</strong>\" tự thực hi&ecirc;̣n hành đ&ocirc;̣ng \"<strong>see</strong>\". =&gt; Đ&ocirc;̣ng từ trong c&acirc;u được d&ugrave;ng ở dạng chủ đ&ocirc;̣ng.</p>\n<p>Dịch: T&ocirc;i đ&atilde; cố gắng thuyết phục Derrick đi gặp b&aacute;c sĩ v&igrave; anh ấy dường như đang s&uacute;t c&acirc;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 227610,
+      "questionNumber": 8,
+      "questionName": "17",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>This new program will enable older people _____ at college.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 511085,
+          "label": "A",
+          "text": "to study",
+          "isCorrect": true
+        },
+        {
+          "id": 511086,
+          "label": "B",
+          "text": "studying",
+          "isCorrect": false
+        },
+        {
+          "id": 511087,
+          "label": "C",
+          "text": "studied",
+          "isCorrect": false
+        },
+        {
+          "id": 511088,
+          "label": "D",
+          "text": "have studied",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 511085,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>enable sb/sth to do sth</strong>: cho ph&eacute;p ai/c&aacute;i g&igrave; l&agrave;m g&igrave;</p>\n<p>Dịch: Chương tr&igrave;nh mới n&agrave;y sẽ cho ph&eacute;p những người lớn tuổi c&oacute; thể học đại học.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 227603,
+      "questionNumber": 9,
+      "questionName": "10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The teacher made the students _____ the stadium in ten minutes.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 511058,
+          "label": "A",
+          "text": "leaving",
+          "isCorrect": false
+        },
+        {
+          "id": 511059,
+          "label": "B",
+          "text": "to leave",
+          "isCorrect": false
+        },
+        {
+          "id": 511060,
+          "label": "C",
+          "text": "left",
+          "isCorrect": false
+        },
+        {
+          "id": 511061,
+          "label": "D",
+          "text": "leave",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 511061,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy nhớ lại cấu trúc của các động từ gây khiến (causative verbs), đặc biệt là <em>make</em>.</p>\n<p>Khi <em>make</em> được dùng để diễn tả việc <b>bắt buộc</b> ai đó làm gì, động từ theo sau tân ngữ sẽ ở dạng nào?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc động từ gây khiến \"make\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả việc ai đó bắt buộc hoặc khiến người khác làm gì.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S (chủ ngữ) + make + O (tân ngữ) + V(inf) (động từ nguyên thể không \"to\")</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, động từ \"<em>made</em>\" (quá khứ của \"<em>make</em>\") được sử dụng như một động từ gây khiến. Theo cấu trúc ngữ pháp, sau \"<em>make + tân ngữ</em>\", động từ tiếp theo phải ở dạng nguyên thể không \"<em>to</em>\" (bare infinitive). Phương án \"<em>leave</em>\" là dạng động từ nguyên thể không \"<em>to</em>\", phù hợp với cấu trúc này.</p>\n<p style=\"text-align: justify;\">Các phương án khác như \"<em>leaving</em>\" (V-ing), \"<em>to leave</em>\" (to-infinitive), và \"<em>left</em>\" (quá khứ đơn/quá khứ phân từ) đều không đúng với cấu trúc ngữ pháp của động từ gây khiến \"<em>make</em>\".</p>",
+      "answerFeedbacks": {
+        "511058": "Sai vì động từ \"make\" ở dạng gây khiến theo sau bởi tân ngữ cần động từ nguyên thể không \"to\", không phải V-ing.",
+        "511059": "Sai vì cấu trúc \"make + tân ngữ\" yêu cầu động từ nguyên thể không \"to\" (bare infinitive), không phải động từ nguyên thể có \"to\".",
+        "511060": "Sai vì \"left\" là dạng quá khứ đơn hoặc quá khứ phân từ của \"leave\", không phù hợp với cấu trúc \"make + tân ngữ + động từ nguyên thể không 'to'\".",
+        "511061": "Đúng vì cấu trúc \"make + tân ngữ + động từ nguyên thể không 'to'\" (bare infinitive) là cách dùng chính xác để diễn tả việc ai đó bắt buộc người khác làm gì."
+      },
+      "images": []
+    },
+    {
+      "id": 4335,
+      "questionNumber": 10,
+      "questionName": "Tìm lỗi sai: The policeman warned the tourists....",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">The policeman</span> warned the tourists <span style=\"text-decoration: underline;\">not walking</span> alone <span style=\"text-decoration: underline;\">in</span> empty streets <span style=\"text-decoration: underline;\">at night</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 9924,
+          "label": "A",
+          "text": "The policeman",
+          "isCorrect": false
+        },
+        {
+          "id": 9925,
+          "label": "B",
+          "text": "not walking",
+          "isCorrect": true
+        },
+        {
+          "id": 9926,
+          "label": "C",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 9927,
+          "label": "D",
+          "text": "at night",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 9925,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>warn sb (not) to do sth</strong>: cảnh b&aacute;o ai (kh&ocirc;ng) l&agrave;m g&igrave;</p>\n<p>Sửa: \"<strong>not walking</strong>\" =&gt; \"<strong>not to walk</strong>\"</p>\n<p>Dịch: Vi&ecirc;n cảnh s&aacute;t cảnh b&aacute;o kh&aacute;ch du lịch kh&ocirc;ng đi dạo một m&igrave;nh tr&ecirc;n những con đường vắng v&agrave;o buổi đ&ecirc;m.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 227598,
+      "questionNumber": 11,
+      "questionName": "5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>We had <span style=\"text-decoration: underline;\">the</span> gardener <span style=\"text-decoration: underline;\">to plant</span> new flowers <span style=\"text-decoration: underline;\">in</span> the yard 2 <span style=\"text-decoration: underline;\">days</span> ago.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 511038,
+          "label": "A",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "id": 511039,
+          "label": "B",
+          "text": "to plant",
+          "isCorrect": true
+        },
+        {
+          "id": 511040,
+          "label": "C",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 511041,
+          "label": "D",
+          "text": "days",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 511039,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>have sb do sth</strong>: bắt/thu&ecirc;/nhờ ai l&agrave;m g&igrave;</p>\n<p>Sửa: \"<strong>to plant</strong>\" =&gt; \"<strong>plant</strong>\"</p>\n<p>Dịch: Ch&uacute;ng t&ocirc;i đ&atilde; thu&ecirc; người l&agrave;m vườn trồng những b&ocirc;ng hoa mới trong s&acirc;n c&aacute;ch đ&acirc;y 2 ng&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 43649,
+      "questionNumber": 12,
+      "questionName": "Question 34. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><u>His</u> teacher <u>encouraged</u> him&nbsp;<u>taking part</u> in the <u>competition</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 126622,
+          "label": "A",
+          "text": "His",
+          "isCorrect": false
+        },
+        {
+          "id": 126623,
+          "label": "B",
+          "text": "encouraged",
+          "isCorrect": false
+        },
+        {
+          "id": 126624,
+          "label": "C",
+          "text": "taking part",
+          "isCorrect": true
+        },
+        {
+          "id": 126625,
+          "label": "D",
+          "text": "competition",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 126624,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>encourage sb to do sth</strong>: khuyến kh&iacute;ch ai l&agrave;m g&igrave;</p>\n<p>Sửa: \"<strong>taking part</strong>\" =&gt;&nbsp;\"<strong>to take part</strong>\"</p>\n<p>Dịch: Gi&aacute;o vi&ecirc;n của anh ấy khuyến kh&iacute;ch anh ấy tham gia cuộc thi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 284979,
+      "questionNumber": 13,
+      "questionName": "5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The <u>test</u> administrator ordered us <u>not opening</u> off our books <u>until</u> he told <u>us to do so</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 625667,
+          "label": "A",
+          "text": "test",
+          "isCorrect": false
+        },
+        {
+          "id": 625668,
+          "label": "B",
+          "text": "not opening",
+          "isCorrect": true
+        },
+        {
+          "id": 625669,
+          "label": "C",
+          "text": "until",
+          "isCorrect": false
+        },
+        {
+          "id": 625670,
+          "label": "D",
+          "text": "us to do so",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 625668,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>order sb (not) to V(inf):</strong> ra lệnh cho ai (kh&ocirc;ng) l&agrave;m g&igrave;</p>\n<p>Sửa: \"<strong>not opening</strong>\" =&gt; \"<strong>not to open</strong>\"</p>\n<p>Dịch: Người coi thi đ&atilde; y&ecirc;u cầu ch&uacute;ng t&ocirc;i kh&ocirc;ng được mở s&aacute;ch của m&igrave;nh cho đến khi thầy ấy y&ecirc;u cầu ch&uacute;ng t&ocirc;i l&agrave;m như vậy.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 63463,
+      "questionNumber": 14,
+      "questionName": "Question 3",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Did you advise Jane (join) <span class='fillblank-option'><input id='fbo-63463-0' class='ms fillblank-option-14' index='0' name='fbo-63463-0' type='text' size='9' autocomplete='off' data-testid='fillblank-input-63463-0' /></span> in the Vietnamese speaking contest?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "to join"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>advise sb to do sth</strong>: khuy&ecirc;n ai l&agrave;m g&igrave;</p>\n<p>Dịch: Bạn đ&atilde; khuy&ecirc;n Jane tham gia cuộc thi n&oacute;i tiếng Việt đ&uacute;ng kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 55620,
+      "questionNumber": 15,
+      "questionName": "Question 3",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Get him (fix) <span class='fillblank-option'><input id='fbo-55620-0' class='ms fillblank-option-15' index='0' name='fbo-55620-0' type='text' size='8' autocomplete='off' data-testid='fillblank-input-55620-0' /></span> the washing machine.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "to fix"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>to get sb to do sth</strong>: nhờ ai l&agrave;m g&igrave;</p>\n<p>Dịch: H&atilde;y nhờ anh ấy sửa c&aacute;i m&aacute;y giặt.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 68563,
+      "questionNumber": 16,
+      "questionName": "Question 5",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Next summer, my parents will let me (visit) <span class='fillblank-option'><input id='fbo-68563-0' class='ms fillblank-option-16' index='0' name='fbo-68563-0' type='text' size='9' autocomplete='off' data-testid='fillblank-input-68563-0' /></span> my grandfather.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "visit"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>let sb do sth</strong>: để ai đ&oacute; l&agrave;m g&igrave;, cho ai l&agrave;m g&igrave;</p>\n<p>Dịch: M&ugrave;a h&egrave; tới, bố mẹ t&ocirc;i sẽ cho t&ocirc;i đến thăm &ocirc;ng nội.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 899607,
+      "questionNumber": 17,
+      "questionName": "Q7",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>The teacher instructed&nbsp;the students (line up) <span class='fillblank-option'><input id='fbo-899607-0' class='ms fillblank-option-17' index='0' name='fbo-899607-0' type='text' size='11' autocomplete='off' data-testid='fillblank-input-899607-0' /></span> in pairs.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "to line up"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>instruct + sb + to V(inf)</strong>: hướng dẫn ai l&agrave;m g&igrave;</p>\n<p>Dịch: Gi&aacute;o vi&ecirc;n hướng dẫn học sinh xếp h&agrave;ng theo cặp.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 89601,
+      "questionNumber": 18,
+      "questionName": "Q4",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>I warned him (not/ drive) <span class='fillblank-option'><input id='fbo-89601-0' class='ms fillblank-option-18' index='0' name='fbo-89601-0' type='text' size='16' autocomplete='off' data-testid='fillblank-input-89601-0' /></span>&nbsp;too quickly because of the bad weather.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "not to drive"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><strong>warn sb (not) to do</strong> <strong>sth</strong>: cảnh b&aacute;o ai (kh&ocirc;ng) n&ecirc;n l&agrave;m g&igrave;</p>\n<p style=\"text-align: justify;\">Dịch: T&ocirc;i cảnh b&aacute;o anh ấy kh&ocirc;ng n&ecirc;n l&aacute;i xe qu&aacute; nhanh v&igrave; thời tiết xấu.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 665661,
+      "questionNumber": 19,
+      "questionName": "n",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>My parents / not / let / me / use / smartphone / weekend.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1282624,
+          "label": "A",
+          "text": "My parents don't let me use my smartphone at the weekend.",
+          "isCorrect": true
+        },
+        {
+          "id": 1282625,
+          "label": "B",
+          "text": "My parents doesn't let me to use my smartphone at the weekend.",
+          "isCorrect": false
+        },
+        {
+          "id": 1282626,
+          "label": "C",
+          "text": "My parents don't let me to use my smartphone on the weekend.",
+          "isCorrect": false
+        },
+        {
+          "id": 1282627,
+          "label": "D",
+          "text": "My parents don't let me use my smartphone in the weekend.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1282624,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>let sb do sth</strong>: cho ph&eacute;p ai l&agrave;m g&igrave;</p>\n<p>Chủ ngữ \"<strong>My parents</strong>\" l&agrave; danh từ số nhiều n&ecirc;n đi với trợ động từ \"<strong>don't</strong>\".</p>\n<p><strong>on/at the weekend</strong>: v&agrave;o cuối tuần</p>\n<p>Dịch: Bố mẹ t&ocirc;i kh&ocirc;ng cho t&ocirc;i sử dụng điện thoại th&ocirc;ng minh v&agrave;o cuối tuần.</p>\n<p><em>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:</em></p>\n<ul>\n<li>My parents <span style=\"text-decoration: line-through;\"><strong>doesn't</strong></span> let me <span style=\"text-decoration: line-through;\"><strong>to</strong></span> use my smartphone at the weekend.</li>\n<li>My parents don't let me <span style=\"text-decoration: line-through;\"><strong>to</strong></span> use my smartphone on the weekend.</li>\n<li>My parents don't let me use my smartphone <span style=\"text-decoration: line-through;\"><strong>in</strong></span> the weekend.</li>\n</ul>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 559100,
+      "questionNumber": 20,
+      "questionName": "(*) new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>The doctor / advise / my father / not / drink / too much coffee / night.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1087510,
+          "label": "A",
+          "text": "The doctor advised my father not to drink too much coffee on night.",
+          "isCorrect": false
+        },
+        {
+          "id": 1087511,
+          "label": "B",
+          "text": "The doctor advised my father to not drink too much coffee in night.",
+          "isCorrect": false
+        },
+        {
+          "id": 1087512,
+          "label": "C",
+          "text": "The doctor advised my father not drinking too much coffee at night.",
+          "isCorrect": false
+        },
+        {
+          "id": 1087513,
+          "label": "D",
+          "text": "The doctor advised my father not to drink too much coffee at night.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1087513,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>at night</strong>: v&agrave;o ban đ&ecirc;m</p>\n<p><strong>advise sb (not) to do sth</strong>: khuy&ecirc;n ai (kh&ocirc;ng) n&ecirc;n l&agrave;m g&igrave;</p>\n<p>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:&nbsp;</p>\n<ul>\n<li><em>The doctor advised my father not to drink too much coffee <span style=\"text-decoration: line-through;\"><strong>on</strong></span> night.</em></li>\n<li><em>The doctor advised my father <span style=\"text-decoration: line-through;\"><strong>to not</strong></span> drink too much coffee <span style=\"text-decoration: line-through;\"><strong>in</strong></span> night.</em></li>\n<li><em>The doctor advised my father <span style=\"text-decoration: line-through;\"><strong>not drinking</strong></span> too much coffee at night.</em></li>\n</ul>\n<p>Dịch: B&aacute;c sĩ đ&atilde; khuy&ecirc;n bố t&ocirc;i kh&ocirc;ng n&ecirc;n uống qu&aacute; nhiều c&agrave; ph&ecirc; v&agrave;o ban đ&ecirc;m.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 80608,
+      "questionNumber": 21,
+      "questionName": "Question 4",
+      "questionType": "FillBlank",
+      "questionText": "<p><em><span class=\"fontstyle0\">Complete the second sentence so that it has a similar meaning to the first&nbsp;sentence, using the word given.</span><span class=\"fontstyle2\">&nbsp;Do not change the word given</span><span class=\"fontstyle0\">. You must use between&nbsp;</span><span class=\"fontstyle2\">two&nbsp;</span><span class=\"fontstyle0\">and&nbsp;</span><span class=\"fontstyle2\">five&nbsp;</span><span class=\"fontstyle0\">words, including the word given.&nbsp;</span></em></p>\n<p><strong>My parents always said I should go to university. (ENCOURAGED)</strong></p>\n<p><strong>=&gt; My parents <span class='fillblank-option'><input id='fbo-80608-0' class='ms fillblank-option-21' index='0' name='fbo-80608-0' type='text' size='29' autocomplete='off' data-testid='fillblank-input-80608-0' /></span> to university.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "always encouraged me to go"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>encourage sb to V(inf):</strong> khuyến kh&iacute;ch ai l&agrave;m g&igrave;</p>\n<p>Dịch:&nbsp;Bố mẹ t&ocirc;i lu&ocirc;n n&oacute;i t&ocirc;i n&ecirc;n đi học đại học.</p>\n<p>~ Bố mẹ t&ocirc;i lu&ocirc;n khuyến kh&iacute;ch t&ocirc;i đi học đại học.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 115583,
+      "questionNumber": 22,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>&quot;Don't forget to phone the office,&quot; she told him. </strong></p>\n<p><strong>=&gt; She reminded <span class='fillblank-option'><input id='fbo-115583-0' class='ms fillblank-option-22' index='0' name='fbo-115583-0' type='text' size='25' autocomplete='off' data-testid='fillblank-input-115583-0' /></span></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "him to phone the office",
+            "him to phone the office."
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>remind sb to do sth:</strong> nhắc nhở ai đ&oacute; l&agrave;m g&igrave;</p>\n<p>Dịch: \"Đừng qu&ecirc;n gọi điện đến văn ph&ograve;ng,\" c&ocirc; ấy n&oacute;i với anh ấy.&nbsp;</p>\n<p>~ C&ocirc; ấy nhắc anh ấy gọi điện đến văn ph&ograve;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

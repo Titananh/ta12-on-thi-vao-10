@@ -1,0 +1,27 @@
+{
+  "topicId": 29,
+  "topicName": "Từ có 2 âm tiết",
+  "englishName": "2-syllable words stress",
+  "rules": [
+    {
+      "rule": "Quy tắc 1: Đa số danh từ và tính từ có 2 âm tiết thì trọng âm rơi vào âm tiết thứ 1.",
+      "formula": "DANH TỪ / TÍNH TỪ 2 ÂM TIẾT ➔ TRỌNG ÂM 1",
+      "examples": "DANH TỪ: 'table, 'window, 'father, 'paper, 'village, 'weather. TÍNH TỪ: 'happy, 'clever, 'busy, 'famous, 'simple, 'narrow."
+    },
+    {
+      "rule": "Quy tắc 2: Đa số động từ có 2 âm tiết thì trọng âm rơi vào âm tiết thứ 2.",
+      "formula": "ĐỘNG TỪ 2 ÂM TIẾT ➔ TRỌNG ÂM 2",
+      "examples": "de'cide, a'gree, en'joy, re'lax, at'tract, be'gin, re'ceive, for'get, ex'plain, pro'tect."
+    },
+    {
+      "rule": "Quy tắc 3: Động từ có âm tiết thứ 2 kết thúc bằng -en, -er, -el, -ow, -ish có trọng âm rơi vào âm tiết thứ 1.",
+      "formula": "V + (-en, -er, -ow, -ish) ➔ TRỌNG ÂM 1",
+      "examples": "'listen, 'enter, 'open, 'happen, 'visit, 'borrow, 'follow, 'finish."
+    },
+    {
+      "rule": "Ngoại lệ cực kỳ quan trọng thi vào 10:",
+      "formula": "DANH TỪ NHẤN ÂM 2 & ĐỘNG TỪ NHẤN ÂM 1",
+      "examples": "Danh từ nhấn âm 2: po'lice, mis'take, a'dvice, ma'chine, ho'tel, gui'tar. Động từ nhấn âm 1: 'listen, 'visit, 'open, 'happen, 'borrow, 'answer, 'offer, 'promise."
+    }
+  ]
+}

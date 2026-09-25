@@ -1,0 +1,1388 @@
+{
+  "quizId": 6148,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 76: Question tags (Câu hỏi đuôi)",
+  "totalQuestions": 32,
+  "questions": [
+    {
+      "id": 900111,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>K&#233;o th&#7843; c&#7909;m t&#7915; &#273;&#250;ng v&#224;o ch&#7895; tr&#7889;ng.</strong></p>\n<p>1. <span class='fillblank-option'><label>1.1</label><input id='fbo-900111-0' class='ms fillblank-option-1' index='0' name='fbo-900111-0' type='text' size='12' autocomplete='off' data-testid='fillblank-input-900111-0' /></span> l&#224; m&#7897;t c&#226;u h&#7887;i &#273;u&#244;i kh&#7859;ng &#273;&#7883;nh.</p>\n<p>2. <span class='fillblank-option'><label>1.2</label><input id='fbo-900111-1' class='ms fillblank-option-1' index='1' name='fbo-900111-1' type='text' size='11' autocomplete='off' data-testid='fillblank-input-900111-1' /></span> l&#224; m&#7897;t c&#226;u h&#7887;i &#273;u&#244;i ph&#7911; &#273;&#7883;nh.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1740398,
+          "label": "A",
+          "text": "don't you?",
+          "isCorrect": false
+        },
+        {
+          "id": 1740397,
+          "label": "B",
+          "text": "are they?",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "are they?"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "don't you?"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/5_-_Copy_27_9f1a1c5b.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 900124,
+      "questionNumber": 2,
+      "questionName": "1",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#250;ng ta s&#7917; d&#7909;ng c&#226;u h&#7887;i &#273;u&#244;i &#273;&#7875; _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1710928,
+          "label": "A",
+          "text": "thể hiện sự không đồng ý với ý kiến được đưa ra",
+          "isCorrect": false
+        },
+        {
+          "id": 1710929,
+          "label": "B",
+          "text": "thể hiện sự thất vọng",
+          "isCorrect": false
+        },
+        {
+          "id": 1710930,
+          "label": "C",
+          "text": "biểu đạt sự ngạc nhiên",
+          "isCorrect": true
+        },
+        {
+          "id": 1710931,
+          "label": "D",
+          "text": "đưa ra yêu cầu, đề nghị",
+          "isCorrect": true
+        },
+        {
+          "id": 1710932,
+          "label": "E",
+          "text": "xác nhận thông tin",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1710930,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/6_-_Copy_22_ebff7ca2.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 900138,
+      "questionNumber": 3,
+      "questionName": "6",
+      "questionType": "TrueFalse",
+      "questionText": "<p><em>Nh&#7853;n &#273;&#7883;nh sau l&#224; &#273;&#250;ng hay sai?&nbsp;</em></p>\n<p><strong>N&#7871;u c&#226;u kh&#7859;ng &#273;&#7883;nh bao g&#7891;m m&#7897;t s&#7889; tr&#7841;ng t&#7915; mang ngh&#297;a ph&#7911; &#273;&#7883;nh nh&#432; &quot;rarely&quot;, &quot;hardly&quot;, &quot;seldom&quot;, v.v., th&#236; ph&#7847;n &#273;u&#244;i &#7903; th&#7875; kh&#7859;ng &#273;&#7883;nh.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1710954,
+          "label": "A",
+          "text": "Đúng",
+          "isCorrect": true
+        },
+        {
+          "id": 1710955,
+          "label": "B",
+          "text": "Sai",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1710954,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/7_-_Copy_20_eec2a2c0.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 900130,
+      "questionNumber": 4,
+      "questionName": "4",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>&#272;i&#7873;n c&#226;u h&#7887;i &#273;u&#244;i t&#432;&#417;ng &#7913;ng v&#7899;i m&#7879;nh &#273;&#7873; ch&#237;nh.</strong></p>\n<p>1. I am not late, <span class='fillblank-option'><label>4.1</label><input id='fbo-900130-0' class='ms fillblank-option-4' index='0' name='fbo-900130-0' type='text' size='8' autocomplete='off' data-testid='fillblank-input-900130-0' /></span>?</p>\n<p>2. We ought to go by plane, <span class='fillblank-option'><label>4.2</label><input id='fbo-900130-1' class='ms fillblank-option-4' index='1' name='fbo-900130-1' type='text' size='13' autocomplete='off' data-testid='fillblank-input-900130-1' /></span>?</p>\n<p>3. I am on time, <span class='fillblank-option'><label>4.3</label><input id='fbo-900130-2' class='ms fillblank-option-4' index='2' name='fbo-900130-2' type='text' size='9' autocomplete='off' data-testid='fillblank-input-900130-2' /></span>?</p>\n<p>4. He used to love going to the museum, <span class='fillblank-option'><label>4.4</label><input id='fbo-900130-3' class='ms fillblank-option-4' index='3' name='fbo-900130-3' type='text' size='10' autocomplete='off' data-testid='fillblank-input-900130-3' /></span>?</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "am I"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "shouldn't we",
+            "oughtn't we",
+            "shouldn’t we",
+            "oughtn’t we"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "aren't I",
+            "aren’t I"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "didn't he",
+            "didn’t he"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/8_-_Copy_17_3e75ec42.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 900126,
+      "questionNumber": 5,
+      "questionName": "3",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>&#272;i&#7873;n t&#7915; &#273;&#7875; ho&#224;n th&#224;nh c&#225;c c&#226;u sau.</strong></p>\n<p>1. N&#7871;u ch&#7911; ng&#7919; trong m&#7879;nh &#273;&#7873; ch&#237;nh l&#224; &quot;everyone&quot;, &quot;nobody&quot;, &quot;those&quot;, &quot;these&quot;, th&#236; ch&#7911; ng&#7919; trong c&#226;u h&#7887;i &#273;u&#244;i l&#224; &quot;<span class='fillblank-option'><label>5.1</label><input id='fbo-900126-0' class='ms fillblank-option-5' index='0' name='fbo-900126-0' type='text' size='5' autocomplete='off' data-testid='fillblank-input-900126-0' /></span>&quot;.</p>\n<p>2. N&#7871;u ch&#7911; ng&#7919; trong m&#7879;nh &#273;&#7873; ch&#237;nh l&#224; &quot;anything&quot;, &quot;everything&quot;, &quot;nothing&quot;, &quot;this&quot;, &quot;that&quot; th&#236; ch&#7911; ng&#7919; trong c&#226;u h&#7887;i &#273;u&#244;i l&#224; &quot;<span class='fillblank-option'><label>5.2</label><input id='fbo-900126-1' class='ms fillblank-option-5' index='1' name='fbo-900126-1' type='text' size='6' autocomplete='off' data-testid='fillblank-input-900126-1' /></span>&quot;.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "they"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "it"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/9_-_Copy_15_c6ba9d02.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 900135,
+      "questionNumber": 6,
+      "questionName": "5",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#7885;n c&#225;c c&#226;u s&#7917; d&#7909;ng &#273;&#250;ng c&#7845;u tr&#250;c c&#226;u h&#7887;i &#273;u&#244;i v&#7899;i c&#226;u m&#7879;nh l&#7879;nh.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1710946,
+          "label": "A",
+          "text": "Hand me the scalpel, couldn't you?",
+          "isCorrect": false
+        },
+        {
+          "id": 1710947,
+          "label": "B",
+          "text": "Let's have a rest now, shall we?",
+          "isCorrect": true
+        },
+        {
+          "id": 1710948,
+          "label": "C",
+          "text": "Shut up, can you?",
+          "isCorrect": true
+        },
+        {
+          "id": 1710949,
+          "label": "D",
+          "text": "Hold on a second, will you?",
+          "isCorrect": true
+        },
+        {
+          "id": 1710950,
+          "label": "E",
+          "text": "Don't tell anyone about this, do you?",
+          "isCorrect": false
+        },
+        {
+          "id": 1710951,
+          "label": "F",
+          "text": "Move a bit, would you?",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1710947,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/10_-_Copy_18_9df87015.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 160861,
+      "questionNumber": 7,
+      "questionName": "10",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>The headmaster is the most popular figure at our school, _____?</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 373445,
+          "label": "A",
+          "text": "isn't he",
+          "isCorrect": true
+        },
+        {
+          "id": 373446,
+          "label": "B",
+          "text": "was he",
+          "isCorrect": false
+        },
+        {
+          "id": 373447,
+          "label": "C",
+          "text": "doesn't he",
+          "isCorrect": false
+        },
+        {
+          "id": 373448,
+          "label": "D",
+          "text": "did he",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 373445,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để hoàn thành câu hỏi đuôi, bạn cần xem xét hai yếu tố chính của mệnh đề gốc:\n<ul>\n    <li><strong>Dạng của động từ:</strong> Mệnh đề <em>\"The headmaster <strong>is</strong> the most popular figure at our school\"</em> sử dụng động từ <em>\"is\"</em>. Câu hỏi đuôi phải sử dụng cùng động từ này hoặc trợ động từ tương ứng.</li>\n    <li><strong>Tính khẳng định/phủ định:</strong> Mệnh đề gốc là khẳng định, vậy câu hỏi đuôi sẽ ở dạng phủ định.</li>\n    <li><strong>Chủ ngữ:</strong> Chủ ngữ của mệnh đề gốc là <em>\"The headmaster\"</em>. Bạn cần chuyển chủ ngữ này thành đại từ nhân xưng phù hợp trong câu hỏi đuôi.</li>\n</ul>\nHãy áp dụng các quy tắc này để chọn đáp án đúng.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u hỏi đu&ocirc;i</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&acirc;u hỏi đu&ocirc;i được d&ugrave;ng để kiểm tra th&ocirc;ng tin, t&igrave;m kiếm sự x&aacute;c nhận hoặc sự đồng t&igrave;nh từ người nghe về một điều g&igrave; đ&oacute; vừa được n&oacute;i ra.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Nếu mệnh đề ch&iacute;nh l&agrave; khẳng định: S + V..., Aux.V/Modal V. (phủ định) + S (đại từ)?</span></strong></li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Nếu mệnh đề ch&iacute;nh l&agrave; phủ định: S + not + V..., Aux.V/Modal V. (khẳng định) + S (đại từ)?</span></strong></li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Lưu &yacute;:</strong> Động từ trong c&acirc;u hỏi đu&ocirc;i phải c&ugrave;ng th&igrave; v&agrave; c&ugrave;ng loại (động từ \"to be\", trợ động từ, động từ khuyết thiếu) với động từ trong mệnh đề ch&iacute;nh. Chủ ngữ trong c&acirc;u hỏi đu&ocirc;i lu&ocirc;n l&agrave; đại từ nh&acirc;n xưng tương ứng với chủ ngữ của mệnh đề ch&iacute;nh.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Mệnh đề ch&iacute;nh \"<em>The headmaster is the most popular figure at our school</em>\" l&agrave; một mệnh đề khẳng định v&agrave; sử dụng động từ \"<em>is</em>\" ở th&igrave; hiện tại đơn. Do đ&oacute;, c&acirc;u hỏi đu&ocirc;i phải ở dạng phủ định của \"<em>is</em>\" v&agrave; chủ ngữ đại từ \"<em>he</em>\" (thay cho \"<em>The headmaster</em>\") n&ecirc;n \"<em>isn't he</em>\" l&agrave; phương &aacute;n ph&ugrave; hợp nhất.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n \"<em>doesn't he</em>\" l&agrave; một lựa chọn g&acirc;y nhiễu v&igrave; \"<em>is</em>\" l&agrave; động từ \"<em>to be</em>\", kh&ocirc;ng phải động từ thường, n&ecirc;n kh&ocirc;ng d&ugrave;ng trợ động từ \"<em>do/does</em>\" trong c&acirc;u hỏi đu&ocirc;i. C&aacute;c phương &aacute;n \"<em>was he</em>\" v&agrave; \"<em>did he</em>\" sai th&igrave; v&agrave; sai dạng phủ định.</p>",
+      "answerFeedbacks": {
+        "373445": "Câu hỏi đuôi \"isn't he\" đúng vì mệnh đề chính là khẳng định và sử dụng động từ \"is\", do đó câu hỏi đuôi phải là phủ định của \"is\" và chủ ngữ đại từ \"he\" thay cho \"The headmaster\".",
+        "373446": "Động từ \"was\" ở thì quá khứ đơn không phù hợp với động từ \"is\" ở thì hiện tại đơn của mệnh đề chính và câu hỏi đuôi phải ở dạng phủ định.",
+        "373447": "Động từ \"is\" là động từ \"to be\", không phải động từ thường, nên không dùng trợ động từ \"do/does\" trong câu hỏi đuôi.",
+        "373448": "Động từ \"did\" ở thì quá khứ đơn không phù hợp với động từ \"is\" ở thì hiện tại đơn của mệnh đề chính và câu hỏi đuôi phải ở dạng phủ định."
+      },
+      "images": []
+    },
+    {
+      "id": 16500,
+      "questionNumber": 8,
+      "questionName": "14",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Peter will be here soon, _____?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 54454,
+          "label": "A",
+          "text": "is he",
+          "isCorrect": false
+        },
+        {
+          "id": 54455,
+          "label": "B",
+          "text": "won't he",
+          "isCorrect": true
+        },
+        {
+          "id": 54456,
+          "label": "C",
+          "text": "isn't he",
+          "isCorrect": false
+        },
+        {
+          "id": 54457,
+          "label": "D",
+          "text": "will he",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 54455,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn c&acirc;u hỏi đu&ocirc;i đ&uacute;ng, bạn cần nhớ hai quy tắc ch&iacute;nh:</p>\n<ul>\n<li>Nếu mệnh đề ch&iacute;nh l&agrave; khẳng định, c&acirc;u hỏi đu&ocirc;i phải l&agrave; phủ định v&agrave; ngược lại.</li>\n<li>C&acirc;u hỏi đu&ocirc;i sử dụng trợ động từ hoặc động từ khuyết thiếu c&oacute; trong mệnh đề ch&iacute;nh, v&agrave; chủ ngữ l&agrave; đại từ tương ứng với chủ ngữ của mệnh đề ch&iacute;nh.</li>\n</ul>\n<p>Trong c&acirc;u, mệnh đề ch&iacute;nh <em>\"Peter will be here soon\"</em> l&agrave; c&acirc;u khẳng định v&agrave; sử dụng động từ khuyết thiếu <em>\"will\"</em>. Chủ ngữ <em>\"Peter\"</em> cần được thay bằng đại từ ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><strong>C&acirc;u hỏi đu&ocirc;i</strong></span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&acirc;u hỏi đu&ocirc;i được sử dụng để x&aacute;c nhận th&ocirc;ng tin hoặc mời gọi sự đồng t&igrave;nh từ người nghe. Ch&uacute;ng thường xuất hiện ở cuối c&acirc;u trần thuật.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">S + V (khẳng định), Aux.V/Modal V. + not + S (đại từ)?</span></li>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">S + V (phủ định), Aux.V/Modal V. + S (đại từ)?</span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u gốc <em>\"Peter will be here soon\"</em> l&agrave; một c&acirc;u khẳng định v&agrave; sử dụng động từ khuyết thiếu <em>will</em>. Chủ ngữ l&agrave; <em>\"Peter\"</em>, tương ứng với đại từ <em>he</em>. Theo quy tắc c&acirc;u hỏi đu&ocirc;i, nếu mệnh đề ch&iacute;nh l&agrave; khẳng định, c&acirc;u hỏi đu&ocirc;i phải ở dạng phủ định. Động từ khuyết thiếu trong mệnh đề ch&iacute;nh l&agrave; <em>will</em>, n&ecirc;n trong c&acirc;u hỏi đu&ocirc;i sẽ l&agrave; <em>won't</em>. Do đ&oacute;, phương &aacute;n đ&uacute;ng l&agrave; <em>\"won't he\"</em>.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n 1 \"<em>is he</em>\" v&agrave; phương &aacute;n 3 \"<em>isn't he</em>\" kh&ocirc;ng ph&ugrave; hợp v&igrave; trợ động từ trong mệnh đề ch&iacute;nh l&agrave; ''<em>will''</em>&nbsp;c&ograve;n phương &aacute;n 4 \"<em>will he</em>\" sai v&igrave; mệnh đề ch&iacute;nh l&agrave; khẳng định, n&ecirc;n c&acirc;u hỏi đu&ocirc;i phải ở dạng phủ định.</p>\n<p style=\"text-align: justify;\">&nbsp;</p>",
+      "answerFeedbacks": {
+        "54454": "Sai vì câu hỏi đuôi cần dùng trợ động từ <em>will</em> từ mệnh đề chính, không phải <em>is</em>.",
+        "54455": "Đúng vì mệnh đề chính là khẳng định với <em>will</em>, nên câu hỏi đuôi phải là phủ định <em>won't</em> và chủ ngữ <em>he</em>.",
+        "54456": "Sai vì câu hỏi đuôi cần dùng trợ động từ <em>will</em> từ mệnh đề chính và phải ở dạng phủ định, không phải <em>isn't</em>.",
+        "54457": "Sai vì mệnh đề chính \"Peter will be here soon\" là khẳng định, nên câu hỏi đuôi phải ở dạng phủ định."
+      },
+      "images": []
+    },
+    {
+      "id": 62190,
+      "questionNumber": 9,
+      "questionName": "Question 15:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>She hasn't changed her mind, _____ ?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 166859,
+          "label": "A",
+          "text": "did she",
+          "isCorrect": false
+        },
+        {
+          "id": 166860,
+          "label": "B",
+          "text": "isn't she",
+          "isCorrect": false
+        },
+        {
+          "id": 166861,
+          "label": "C",
+          "text": "has she",
+          "isCorrect": true
+        },
+        {
+          "id": 166862,
+          "label": "D",
+          "text": "hasn't she",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 166861,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để điền v&agrave;o chỗ trống trong c&acirc;u hỏi đu&ocirc;i, bạn cần xem x&eacute;t hai quy tắc ch&iacute;nh:</p>\n<ul>\n<li>Thứ nhất, nếu mệnh đề ch&iacute;nh l&agrave; khẳng định, c&acirc;u hỏi đu&ocirc;i sẽ l&agrave; phủ định v&agrave; ngược lại.</li>\n<li>Thứ hai, trợ động từ hoặc động từ \"to be\" trong c&acirc;u hỏi đu&ocirc;i phải tương ứng với trợ động từ/động từ \"to be\" v&agrave; th&igrave; của mệnh đề ch&iacute;nh, đồng thời đại từ nh&acirc;n xưng phải tương ứng với chủ ngữ.</li>\n</ul>\n<p>Trong c&acirc;u, mệnh đề ch&iacute;nh <em>\"She hasn't changed her mind\"</em> l&agrave; c&acirc;u phủ định v&agrave; sử dụng trợ động từ <em>\"has\"</em> với chủ ngữ <em>\"she\"</em>. H&atilde;y &aacute;p dụng c&aacute;c quy tắc tr&ecirc;n để t&igrave;m ra c&acirc;u hỏi đu&ocirc;i ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><strong>C&acirc;u hỏi đu&ocirc;i</strong></span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&acirc;u hỏi đu&ocirc;i được d&ugrave;ng để x&aacute;c nhận th&ocirc;ng tin hoặc mời gọi sự đồng t&igrave;nh từ người nghe. N&oacute; thường bao gồm một trợ động từ (hoặc động từ \"to be\") v&agrave; một đại từ nh&acirc;n xưng tương ứng với chủ ngữ của mệnh đề ch&iacute;nh.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>S + V (khẳng định) + ..., Aux.V/V (phủ định) + S (đại từ) ?</strong></li>\n<li style=\"text-align: justify;\"><strong>S + V (phủ định) + ..., Aux.V/V (khẳng định) + S (đại từ) ?</strong></li>\n</ul>\n<p style=\"text-align: justify;\">Lưu &yacute;: Trợ động từ/động từ \"to be\" trong c&acirc;u hỏi đu&ocirc;i phải tương ứng với th&igrave; v&agrave; chủ ngữ của mệnh đề ch&iacute;nh.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Mệnh đề ch&iacute;nh <em>\"She hasn't changed her mind\"</em> l&agrave; một mệnh đề phủ định với trợ động từ <em>\"has\"</em> v&agrave; chủ ngữ <em>\"she\"</em>. Theo quy tắc c&acirc;u hỏi đu&ocirc;i, nếu mệnh đề ch&iacute;nh l&agrave; phủ định, c&acirc;u hỏi đu&ocirc;i phải l&agrave; khẳng định, sử dụng trợ động từ tương ứng v&agrave; đại từ nh&acirc;n xưng ph&ugrave; hợp. V&igrave; vậy, đ&aacute;p &aacute;n đ&uacute;ng phải l&agrave; <em>\"has she\"</em>.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>did she</em>\" v&agrave; phương &aacute;n 2 ''<em>isn't she</em>'' đều sai v&igrave; trợ động từ trong c&acirc;u hỏi đu&ocirc;i kh&ocirc;ng tương ứng với th&igrave; v&agrave; trợ động từ của mệnh đề ch&iacute;nh (\"<em>hasn't</em>\"). Phương &aacute;n 4 \"<em>hasn't she</em>\" sai v&igrave; mệnh đề ch&iacute;nh l&agrave; phủ định (\"<em>hasn't</em>\") n&ecirc;n c&acirc;u hỏi đu&ocirc;i phải l&agrave; khẳng định, kh&ocirc;ng phải phủ định.</p>",
+      "answerFeedbacks": {
+        "166859": "Sai vì trợ động từ trong câu hỏi đuôi phải tương ứng với thì và trợ động từ của mệnh đề chính, không phải thì quá khứ đơn.",
+        "166860": "Sai vì trợ động từ trong câu hỏi đuôi phải là <em>\"has\"</em> (từ <em>\"hasn't\"</em>), không phải <em>\"is\"</em>, và phải ở dạng khẳng định.",
+        "166861": "Đúng vì mệnh đề chính là phủ định (<em>\"hasn't\"</em>) nên câu hỏi đuôi phải là khẳng định (<em>\"has\"</em>) và sử dụng đúng trợ động từ và đại từ.",
+        "166862": "Sai vì mệnh đề chính là phủ định (<em>\"hasn't\"</em>) nên câu hỏi đuôi phải là khẳng định, không phải phủ định."
+      },
+      "images": []
+    },
+    {
+      "id": 177296,
+      "questionNumber": 10,
+      "questionName": "7",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Your brother passed the final exam, _____?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 406451,
+          "label": "A",
+          "text": "did he",
+          "isCorrect": false
+        },
+        {
+          "id": 406452,
+          "label": "B",
+          "text": "does he",
+          "isCorrect": false
+        },
+        {
+          "id": 406453,
+          "label": "C",
+          "text": "doesn’t he",
+          "isCorrect": false
+        },
+        {
+          "id": 406454,
+          "label": "D",
+          "text": "didn't he",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 406454,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Hãy nhớ quy tắc hình thành câu hỏi đuôi (tag questions):</p><ul><li style=\"text-align: justify;\">Nếu mệnh đề chính là khẳng định, câu hỏi đuôi sẽ là phủ định, và ngược lại.</li><li style=\"text-align: justify;\">Trợ động từ trong câu hỏi đuôi phải tương ứng với thì và chủ ngữ của mệnh đề chính.</li></ul><p style=\"text-align: justify;\">Trong câu \"Your brother <em>passed</em> the final exam\", hãy xác định thì của động từ <em>passed</em> và xem xét \"Your brother\" tương ứng với đại từ nào để chọn trợ động từ và đại từ phù hợp cho câu hỏi đuôi.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u hỏi đu&ocirc;i</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span> C&acirc;u hỏi đu&ocirc;i (Tag Questions) được d&ugrave;ng để x&aacute;c nhận lại th&ocirc;ng tin đ&atilde; n&ecirc;u hoặc để mời gọi sự đồng t&igrave;nh từ người nghe.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cấu tr&uacute;c:</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">Nếu mệnh đề ch&iacute;nh l&agrave; khẳng định (+): S + Aux.V/Modal V. + V..., Aux.V/Modal V. (not) + S (đại từ)?</span></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">Nếu mệnh đề ch&iacute;nh l&agrave; phủ định (-): S + Aux.V/Modal V. (not) + V..., Aux.V/Modal V. + S (đại từ)?</span></span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u gốc \"Your brother <em>passed</em> the final exam\" l&agrave; một c&acirc;u khẳng định v&agrave; sử dụng th&igrave; qu&aacute; khứ đơn (<em>passed</em>). Chủ ngữ \"Your brother\" tương ứng với đại từ <em>he</em>. Theo quy tắc c&acirc;u hỏi đu&ocirc;i, nếu mệnh đề ch&iacute;nh l&agrave; khẳng định, c&acirc;u hỏi đu&ocirc;i phải l&agrave; phủ định. Động từ trong mệnh đề ch&iacute;nh l&agrave; động từ thường ở th&igrave; qu&aacute; khứ đơn, n&ecirc;n trợ động từ ph&ugrave; hợp cho c&acirc;u hỏi đu&ocirc;i l&agrave; <em>did</em>. V&igrave; vậy, c&acirc;u hỏi đu&ocirc;i đ&uacute;ng phải l&agrave; <em>didn't he</em>.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 (<em>did he</em>) sai v&igrave; mệnh đề ch&iacute;nh khẳng định th&igrave; c&acirc;u hỏi đu&ocirc;i phải phủ định. C&aacute;c phương &aacute;n 2 (<em>does he</em>) v&agrave; 3 (<em>doesn't he</em>) sai v&igrave; trợ động từ <em>does/doesn't</em> d&ugrave;ng cho th&igrave; hiện tại đơn, kh&ocirc;ng ph&ugrave; hợp với động từ <em>passed</em> ở th&igrave; qu&aacute; khứ đơn.</p>",
+      "answerFeedbacks": {
+        "406451": "Mệnh đề chính là khẳng định, nên câu hỏi đuôi phải ở dạng phủ định.",
+        "406452": "Trợ động từ <em>does</em> dùng cho thì hiện tại đơn, không phù hợp với động từ <em>passed</em> ở thì quá khứ đơn.",
+        "406453": "Trợ động từ <em>doesn't</em> dùng cho thì hiện tại đơn, không phù hợp với động từ <em>passed</em> ở thì quá khứ đơn.",
+        "406454": "Động từ <em>passed</em> ở thì quá khứ đơn và là câu khẳng định, nên câu hỏi đuôi cần dùng trợ động từ <em>did</em> ở dạng phủ định với đại từ <em>he</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 12930,
+      "questionNumber": 11,
+      "questionName": "Question 32:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Everyone in both cars&nbsp;______ injured in the accident last night,&nbsp;______?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 42854,
+          "label": "A",
+          "text": "were / weren't they",
+          "isCorrect": false
+        },
+        {
+          "id": 42855,
+          "label": "B",
+          "text": "was / weren't they",
+          "isCorrect": true
+        },
+        {
+          "id": 42856,
+          "label": "C",
+          "text": "was / wasn't he?",
+          "isCorrect": false
+        },
+        {
+          "id": 42857,
+          "label": "D",
+          "text": "were / were they",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 42855,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y x&aacute;c định chủ ngữ <em data-start=\"62\" data-end=\"74\">\"Everyone\"</em> thuộc số &iacute;t hay số nhiều để chia động từ cho ph&ugrave; hợp.</p>\n<p>Sau đ&oacute;, nhớ lại đại từ thường được d&ugrave;ng để thay thế <em data-start=\"185\" data-end=\"197\">\"Everyone\"</em> trong c&acirc;u hỏi đu&ocirc;i, đồng thời &aacute;p dụng quy tắc đảo ngược dạng khẳng định &ndash; phủ định để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u hỏi đu&ocirc;i v&agrave; H&ograve;a hợp chủ vị với c&aacute;c đại từ bất định</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&acirc;u hỏi đu&ocirc;i được d&ugrave;ng để x&aacute;c nhận th&ocirc;ng tin hoặc t&igrave;m kiếm sự đồng t&igrave;nh từ người nghe.</p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">Mệnh đề ch&iacute;nh (khẳng định), Aux.V/Modal V. (phủ định) + S (đại từ)?</span></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">Mệnh đề ch&iacute;nh (phủ định), Aux.V/Modal V. (khẳng định) + S (đại từ)?</span></span></li>\n</ul>\n<p><strong>Trường hợp đặc biệt với đại từ bất định:</strong></p>\n<ul>\n<li>Khi chủ ngữ l&agrave; c&aacute;c đại từ bất định kết th&uacute;c bằng <em>-one</em>, <em>-body</em> (như <em>everyone, everybody, someone, somebody, no one, nobody</em>), động từ ch&iacute;nh được chia số &iacute;t nhưng đại từ trong c&acirc;u hỏi đu&ocirc;i l&agrave; <em>they</em>.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, chủ ngữ l&agrave; <em>\"Everyone\"</em> v&agrave; h&agrave;nh động xảy ra trong qu&aacute; khứ (<em>\"last night\"</em>). Với chủ ngữ <em>\"Everyone\"</em>, động từ ch&iacute;nh phải chia số &iacute;t ở th&igrave; qu&aacute; khứ đơn l&agrave; <em>\"was\"</em>. Mệnh đề ch&iacute;nh mang nghĩa khẳng định (mọi người đều bị thương), do đ&oacute; c&acirc;u hỏi đu&ocirc;i phải ở dạng phủ định. Đại từ thay thế cho <em>\"Everyone\"</em> trong c&acirc;u hỏi đu&ocirc;i l&agrave; <em>\"they\" </em>n&ecirc;n c&acirc;u hỏi đu&ocirc;i đ&uacute;ng l&agrave; <em>\"weren't they\"</em>. C&aacute;c phương &aacute;n c&ograve;n lại:</p>\n<div class=\"pointer-events-none -mt-px h-px translate-y-(--scroll-root-safe-area-inset-bottom)\" aria-hidden=\"true\">&nbsp;</div>\n<section class=\"text-token-text-primary w-full focus:outline-none has-data-writing-block:pointer-events-none [&amp;:has([data-writing-block])&gt;*]:pointer-events-auto R6Vx5W_threadScrollVars scroll-mb-[calc(var(--scroll-root-safe-area-inset-bottom,0px)+var(--thread-response-height))] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]\" dir=\"auto\" data-turn-id=\"request-6a4c85ed-ac10-83ec-8a7e-a4f257c77362-67\" data-turn-id-container=\"request-6a4c85ed-ac10-83ec-8a7e-a4f257c77362-67\" data-testid=\"conversation-turn-1202\" data-turn=\"assistant\">\n<ul>\n<li class=\"PDq2pG_selectionAnchorContainer\" data-start=\"28\" data-end=\"154\">Phương &aacute;n 1 <em data-start=\"40\" data-end=\"63\">\"were / weren't they\"</em> sai v&igrave; chủ ngữ <em data-start=\"79\" data-end=\"91\">\"Everyone\"</em> l&agrave; số &iacute;t n&ecirc;n phải đi với động từ <em data-start=\"125\" data-end=\"132\">\"was\"</em>.</li>\n<li data-start=\"156\" data-end=\"279\">Phương &aacute;n 3 <em data-start=\"168\" data-end=\"188\">\"was / wasn't he?\"</em> sai v&igrave; đại từ thay thế cho <em data-start=\"216\" data-end=\"228\">\"Everyone\"</em> trong c&acirc;u hỏi đu&ocirc;i l&agrave; <em data-start=\"251\" data-end=\"259\">\"they\" </em>chứ&nbsp;kh&ocirc;ng phải <em data-start=\"272\" data-end=\"278\">\"he\"</em>.</li>\n<li data-start=\"281\" data-end=\"444\">Phương &aacute;n 4 <em data-start=\"293\" data-end=\"313\">\"were / were they\"</em> sai v&igrave; chủ ngữ <em data-start=\"329\" data-end=\"341\">\"Everyone\"</em> phải đi với <em data-start=\"354\" data-end=\"361\">\"was</em><em data-start=\"374\" data-end=\"382\">\"</em>, v&agrave; c&acirc;u hỏi đu&ocirc;i của mệnh đề khẳng định phải ở dạng phủ định.</li>\n</ul>\n</section>\n<p style=\"text-align: justify;\">&nbsp;</p>",
+      "answerFeedbacks": {
+        "42854": "Sai vì chủ ngữ <em>\"Everyone\"</em> luôn đi với động từ số ít <em>\"was\"</em>, không phải <em>\"were\"</em>.",
+        "42855": "Đúng vì <em>\"Everyone\"</em> đi với động từ số ít <em>\"was\"</em> và đại từ trong câu hỏi đuôi là <em>\"they\"</em>, đồng thời tuân thủ quy tắc khẳng định - phủ định.",
+        "42856": "Sai vì đại từ trong câu hỏi đuôi cho <em>\"Everyone\"</em> phải là <em>\"they\"</em>, không phải <em>\"he\"</em>.",
+        "42857": "Sai vì chủ ngữ <em>\"Everyone\"</em> đi với động từ số ít <em>\"was\"</em>, và câu hỏi đuôi phải ở dạng phủ định."
+      },
+      "images": []
+    },
+    {
+      "id": 16649,
+      "questionNumber": 12,
+      "questionName": "46",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We have to finish our homework before we can play games, ______we?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 54993,
+          "label": "A",
+          "text": "have",
+          "isCorrect": false
+        },
+        {
+          "id": 54994,
+          "label": "B",
+          "text": "haven't",
+          "isCorrect": false
+        },
+        {
+          "id": 54995,
+          "label": "C",
+          "text": "do",
+          "isCorrect": false
+        },
+        {
+          "id": 54996,
+          "label": "D",
+          "text": "don't",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 54996,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để ho&agrave;n th&agrave;nh c&acirc;u hỏi đu&ocirc;i, bạn cần xem x&eacute;t hai yếu tố ch&iacute;nh từ mệnh đề ch&iacute;nh:</p>\n<ul>\n<li><strong>Dạng của mệnh đề ch&iacute;nh:</strong> Nếu mệnh đề ch&iacute;nh l&agrave; khẳng định, c&acirc;u hỏi đu&ocirc;i sẽ l&agrave; phủ định, v&agrave; ngược lại.</li>\n<li><strong>Động từ trong mệnh đề ch&iacute;nh:</strong> Với cấu tr&uacute;c <em>\"have to\"</em> (mang nghĩa phải l&agrave;m g&igrave;), c&acirc;u hỏi đu&ocirc;i sẽ sử dụng trợ động từ <em>\"do\"</em> hoặc <em>\"don't\"</em>, kh&ocirc;ng phải <em>\"have\"</em> hay <em>\"haven't\"</em>.</li>\n</ul>\n<p>H&atilde;y &aacute;p dụng c&aacute;c quy tắc tr&ecirc;n với c&acirc;u hỏi để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu hỏi đuôi</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cách dùng:</span> Câu hỏi đuôi được sử dụng để hỏi xác nhận lại một thông tin hoặc để tìm kiếm sự đồng tình từ người nghe về một phát biểu đã đưa ra.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cấu trúc:</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">Mệnh đề khẳng định, Aux.V/Modal V (phủ định) + S?</span></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">Mệnh đề phủ định, Aux.V/Modal V (khẳng định) + S?</span></span></li>\n</ul>\n<p><strong>Lưu ý đặc biệt với \"have to\":</strong> Trợ động từ trong câu hỏi đuôi sẽ là \"do/don't\", không phải \"have/haven't\".</p>\n</blockquote>\n<p><span style=\"color: #5fbd18; font-weight: 600; text-align: justify;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Mệnh đề chính trong câu là một mệnh đề khẳng định (<em>We have to finish...</em>). Do đó, phần đuôi phải ở dạng phủ định. Với động từ \"<strong><em>have to</em></strong>\", trợ động từ được sử dụng trong câu hỏi đuôi là \"<strong><em>don't</em></strong>\" với chủ ngữ là <em>\"<strong>we</strong>\"</em>. </p>",
+      "answerFeedbacks": {
+        "54993": "<p>Sai vì mệnh đề chính là khẳng định, đuôi phải phủ định; đồng thời, trợ động từ cho <em>\"have to\"</em> trong câu hỏi đuôi phải là <em>\"don't\"</em>, không phải <em>\"have\"</em>.</p>",
+        "54994": "<p>Sai vì mặc dù là dạng phủ định, nhưng trợ động từ cho <em>\"have to\"</em> trong câu hỏi đuôi phải là <em>\"don't\"</em>, không phải <em>\"haven't\"</em>.</p>",
+        "54995": "Sai vì mệnh đề chính <em>\"We have to finish...\"</em> là khẳng định, nên câu hỏi đuôi phải ở dạng phủ định.",
+        "54996": "<p>Đúng vì mệnh đề chính là khẳng định, nên câu hỏi đuôi phải là phủ định; đồng thời, trợ động từ cho <em>\"have to\"</em> trong câu hỏi đuôi là <em>\"don't\".</em></p>"
+      },
+      "images": []
+    },
+    {
+      "id": 4544,
+      "questionNumber": 13,
+      "questionName": "Don’t be late tonight, will you?",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Don&#8217;t be late tonight, _____?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 10600,
+          "label": "A",
+          "text": "will you",
+          "isCorrect": true
+        },
+        {
+          "id": 10601,
+          "label": "B",
+          "text": "wouldn't you",
+          "isCorrect": false
+        },
+        {
+          "id": 10602,
+          "label": "C",
+          "text": "do you",
+          "isCorrect": false
+        },
+        {
+          "id": 10603,
+          "label": "D",
+          "text": "haven't you",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 10600,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; động từ đầu c&acirc;u ở dạng nguy&ecirc;n thể kh&ocirc;ng c&oacute; chủ ngữ. Đ&acirc;y l&agrave; dấu hiệu của <strong data-start=\"309\" data-end=\"326\">c&acirc;u mệnh lệnh</strong>. H&atilde;y nhớ lại c&acirc;u hỏi đu&ocirc;i thường đi với dạng c&acirc;u n&agrave;y rồi đối chiếu với c&aacute;c lựa chọn.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u hỏi đu&ocirc;i</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&acirc;u hỏi đu&ocirc;i được sử dụng để x&aacute;c nhận th&ocirc;ng tin hoặc mời gọi sự đồng t&igrave;nh từ người nghe.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c:&nbsp;</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">Mệnh đề khẳng định, Aux.V/Modal V (phủ định) + S?</span></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">Mệnh đề phủ định, Aux.V/Modal V (khẳng định) + S?</span></span></li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Một số trường hợp đặc biệt:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Mệnh lệnh khẳng định: V(inf)..., will you?</span></strong></li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Mệnh lệnh phủ định: Don't V(inf)..., will you?</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u gốc <em>\"Don&rsquo;t be late tonight\"</em> l&agrave; một c&acirc;u mệnh lệnh phủ định. Theo quy tắc, c&acirc;u hỏi đu&ocirc;i d&agrave;nh cho c&acirc;u mệnh lệnh phủ định lu&ocirc;n l&agrave; <em>\"will you\"</em>. Phương &aacute;n 1 <em>\"will you\"</em> l&agrave; đ&aacute;p &aacute;n đ&uacute;ng v&igrave; ph&ugrave; hợp với quy tắc ngữ ph&aacute;p n&agrave;y.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 2 (<em>wouldn't you</em>) v&agrave; phương &aacute;n 3 (<em>do you</em>) kh&ocirc;ng được d&ugrave;ng l&agrave;m c&acirc;u hỏi đu&ocirc;i cho c&acirc;u mệnh lệnh v&igrave; \"<em>wouldn't you</em>\" thường d&ugrave;ng trong c&aacute;c c&acirc;u điều kiện hoặc lời mời lịch sự, c&ograve;n \"<em>do you</em>\" d&ugrave;ng cho c&aacute;c c&acirc;u khẳng định ở th&igrave; hiện tại đơn. Phương &aacute;n 4 (<em>haven't you</em>) kh&ocirc;ng ph&ugrave; hợp về th&igrave; v&agrave; cấu tr&uacute;c với c&acirc;u mệnh lệnh.</p>",
+      "answerFeedbacks": {
+        "10600": "Đúng vì <em>will you</em> là câu hỏi đuôi đúng cho câu mệnh lệnh phủ định.",
+        "10601": "Sai vì <em>wouldn't you</em> không được dùng làm câu hỏi đuôi cho câu mệnh lệnh phủ định.",
+        "10602": "Sai vì <em>do you</em> không được dùng làm câu hỏi đuôi cho câu mệnh lệnh phủ định.",
+        "10603": "Sai vì <em>haven't you</em> không phù hợp về cấu trúc và thì với câu mệnh lệnh phủ định."
+      },
+      "images": []
+    },
+    {
+      "id": 69043,
+      "questionNumber": 14,
+      "questionName": "Question 4:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>It’s so hot today. Let’s go out for a drink, _____?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 180792,
+          "label": "A",
+          "text": "will we",
+          "isCorrect": false
+        },
+        {
+          "id": 180793,
+          "label": "B",
+          "text": "do we",
+          "isCorrect": false
+        },
+        {
+          "id": 180794,
+          "label": "C",
+          "text": "should we",
+          "isCorrect": false
+        },
+        {
+          "id": 180795,
+          "label": "D",
+          "text": "shall we",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 180795,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để hoàn thành câu hỏi đuôi, hãy chú ý đến cấu trúc của vế chính: <em>'Let's + V(inf)'</em>. Bạn cần nhớ câu hỏi đuôi đặc biệt nào được sử dụng sau lời đề nghị bắt đầu bằng <em>'Let's'</em> để tìm kiếm sự đồng thuận.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><strong>Câu hỏi đuôi với lời đề nghị \"Let's\"</strong></span></p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để chuyển một lời đề nghị bắt đầu bằng \"Let's\" thành câu hỏi, thể hiện sự rủ rê hoặc tìm kiếm sự đồng thuận.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: <span style=\"color: #1c581f;\">Let's + V(inf) ..., shall we?</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, vế chính là một lời đề nghị bắt đầu bằng <em>\"Let’s\"</em>. Theo quy tắc ngữ pháp, câu hỏi đuôi cho lời đề nghị <em>\"Let’s\"</em> luôn là <em>\"shall we?\"</em> để tìm kiếm sự đồng thuận.</p>\n<p style=\"text-align: justify;\">Các phương án 1 (<em>\"will we\"</em>), 2 (<em>\"do we\"</em>) đều không phải là câu hỏi đuôi chính xác cho cấu trúc <em>\"Let's\" và</em> không phù hợp về mặt ngữ pháp trong ngữ cảnh này. Mặc dù phương án 3 <em>\"should we\"</em> có thể dùng để đưa ra gợi ý, nó không phải là dạng câu hỏi đuôi chuẩn cho <em>\"Let's\"</em>.</p>",
+      "answerFeedbacks": {
+        "180792": "Không dùng <em>\"will we\"</em> làm câu hỏi đuôi cho lời đề nghị bắt đầu bằng <em>\"Let's\"</em>.",
+        "180793": "Không dùng <em>\"do we\"</em> làm câu hỏi đuôi cho lời đề nghị bắt đầu bằng <em>\"Let's\"</em>.",
+        "180794": "Mặc dù <em>\"should we\"</em> có thể dùng để gợi ý, đây không phải là cấu trúc câu hỏi đuôi chính xác cho <em>\"Let's\"</em>.",
+        "180795": "Đây là câu hỏi đuôi chính xác và duy nhất được dùng với lời đề nghị bắt đầu bằng <em>\"Let's\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 233555,
+      "questionNumber": 15,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Oh, no! I&#8217;m in the wrong classroom again, _____?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 525927,
+          "label": "A",
+          "text": "am I",
+          "isCorrect": false
+        },
+        {
+          "id": 525928,
+          "label": "B",
+          "text": "aren’t I",
+          "isCorrect": true
+        },
+        {
+          "id": 525929,
+          "label": "C",
+          "text": "not am I",
+          "isCorrect": false
+        },
+        {
+          "id": 525930,
+          "label": "D",
+          "text": "am not I",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 525928,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>C&acirc;u hỏi đu&ocirc;i (Tag questions) d&ugrave;ng để x&aacute;c nhận th&ocirc;ng tin. H&atilde;y nhớ rằng nếu c&acirc;u trần thuật l&agrave; khẳng định, c&acirc;u hỏi đu&ocirc;i phải l&agrave; phủ định v&agrave; ngược lại. Đặc biệt, khi c&acirc;u bắt đầu bằng <em>\"I am\"</em>, c&acirc;u hỏi đu&ocirc;i phủ định sẽ c&oacute; một dạng đặc biệt kh&aacute;c với c&aacute;c trường hợp th&ocirc;ng thường.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><strong>C&acirc;u hỏi đu&ocirc;i (Tag questions) với ''I am\".</strong></span></p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span> C&acirc;u hỏi đu&ocirc;i (tag question) được d&ugrave;ng để x&aacute;c nhận th&ocirc;ng tin hoặc mời gọi sự đồng t&igrave;nh từ người nghe. Ch&uacute;ng thường được tạo th&agrave;nh từ một mệnh đề ch&iacute;nh v&agrave; một c&acirc;u hỏi ngắn ở cuối.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cấu tr&uacute;c:</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Mệnh đề ch&iacute;nh (khẳng định), + trợ động từ/động từ to be (phủ định) + đại từ nh&acirc;n xưng tương ứng với chủ ngữ?</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Mệnh đề ch&iacute;nh (phủ định), + trợ động từ/động từ to be (khẳng định) + đại từ nh&acirc;n xưng tương ứng với chủ ngữ?</span></li>\n</ul>\n<p><strong><span style=\"color: #1c581f;\">Trường hợp đặc biệt: </span></strong><span style=\"color: #1c581f;\">K</span><span style=\"color: #1c581f;\">hi c&acirc;u trần thuật c&oacute; chứa ''<em>I am''</em>, c&acirc;u hỏi đu&ocirc;i tương ứng l&agrave; <em>''aren't I''</em>, tuy nhi&ecirc;n với c&acirc;u trần thuật <em>''I am not''</em> sẽ d&ugrave;ng c&acirc;u hỏi đu&ocirc;i tương ứng l&agrave; <em>''am I''</em>.</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u gốc <em>\"I&rsquo;m in the wrong classroom again\"</em> l&agrave; một c&acirc;u khẳng định bắt đầu bằng <em>\"I am\"</em>. Theo quy tắc đặc biệt của c&acirc;u hỏi đu&ocirc;i, khi c&acirc;u trần thuật l&agrave; <em>\"I am\"</em>, c&acirc;u hỏi đu&ocirc;i phủ định tương ứng l&agrave; <em>\"aren&rsquo;t I\"</em>.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 <em>\"am I\"</em> sai v&igrave; c&acirc;u hỏi đu&ocirc;i phải ở dạng phủ định khi c&acirc;u trần thuật l&agrave; khẳng định. C&aacute;c phương &aacute;n 3 v&agrave; 4 (<em>\"not am I\"</em> v&agrave; <em>\"am not I\"</em>) đều sai về cấu tr&uacute;c ngữ ph&aacute;p của c&acirc;u hỏi đu&ocirc;i.</p>",
+      "answerFeedbacks": {
+        "525927": "Đây là câu hỏi đuôi dạng khẳng định, không phù hợp với câu trần thuật khẳng định <em>\"I'm\"</em>.",
+        "525928": "Đây là dạng câu hỏi đuôi phủ định đúng cho câu trần thuật bắt đầu bằng <em>\"I am\"</em>.",
+        "525929": "Cấu trúc câu hỏi đuôi này không đúng ngữ pháp tiếng Anh.",
+        "525930": "Cấu trúc câu hỏi đuôi này không đúng ngữ pháp tiếng Anh vì động từ to be phải đứng trước đại từ chủ ngữ trong câu hỏi."
+      },
+      "images": []
+    },
+    {
+      "id": 233684,
+      "questionNumber": 16,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Mr. Green used to be your boss in the garment company for 3 successive years, ______ he?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 526177,
+          "label": "A",
+          "text": "did",
+          "isCorrect": false
+        },
+        {
+          "id": 526178,
+          "label": "B",
+          "text": "didn't",
+          "isCorrect": true
+        },
+        {
+          "id": 526179,
+          "label": "C",
+          "text": "doesn't",
+          "isCorrect": false
+        },
+        {
+          "id": 526180,
+          "label": "D",
+          "text": "used",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 526178,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">H&atilde;y nhớ lại c&aacute;c quy tắc của c&acirc;u hỏi đu&ocirc;i (tag questions).</p>\n<ul>\n<li style=\"text-align: justify;\">Nguy&ecirc;n tắc chung l&agrave; nếu mệnh đề ch&iacute;nh l&agrave; khẳng định, c&acirc;u hỏi đu&ocirc;i sẽ l&agrave; phủ định v&agrave; ngược lại.</li>\n<li style=\"text-align: justify;\">Đối với c&acirc;u c&oacute; <em>used to</em>, trợ động từ th&iacute;ch hợp cho c&acirc;u hỏi đu&ocirc;i l&agrave; <em>did</em> hoặc <em>used</em>.</li>\n</ul>\n<p style=\"text-align: justify;\">Trong c&acirc;u <em>\"Mr. Green used to be your boss...\"</em>, mệnh đề ch&iacute;nh đang ở thể khẳng định. H&atilde;y chọn trợ động từ phủ định ph&ugrave; hợp với cấu tr&uacute;c <em>used to</em> v&agrave; chủ ngữ <em>\"he\".</em></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u hỏi đu&ocirc;i (Tag questions) với <em>''used to''.</em></span></p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span> C&acirc;u hỏi đu&ocirc;i (tag question) được d&ugrave;ng để x&aacute;c nhận th&ocirc;ng tin hoặc mời gọi sự đồng t&igrave;nh từ người nghe. Ch&uacute;ng thường được tạo th&agrave;nh từ một mệnh đề ch&iacute;nh v&agrave; một c&acirc;u hỏi ngắn ở cuối.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cấu tr&uacute;c:</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Mệnh đề ch&iacute;nh (khẳng định), + trợ động từ/động từ to be (phủ định) + đại từ nh&acirc;n xưng tương ứng với chủ ngữ?</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Mệnh đề ch&iacute;nh (phủ định), + trợ động từ/động từ to be (khẳng định) + đại từ nh&acirc;n xưng tương ứng với chủ ngữ?</span></li>\n</ul>\n<p><span style=\"font-weight: 600;\">Trường hợp đặc biệt: Khi mệnh đề ch&iacute;nh c&oacute; cụm <em>''used to''</em>, trợ động từ tương ứng sẽ l&agrave; ''<em>didn't''</em>, với cụm <em>''didn't use to''</em> trợ động từ tương ứng sẽ l&agrave; <em>''did''.</em></span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u gốc <em>\"Mr. Green used to be your boss...\"</em> chứa cấu tr&uacute;c <em>\"used to\"</em> diễn tả th&oacute;i quen hoặc trạng th&aacute;i trong qu&aacute; khứ đ&atilde; kết th&uacute;c. V&igrave; mệnh đề ch&iacute;nh l&agrave; khẳng định <em>(\"used to\")</em>, c&acirc;u hỏi đu&ocirc;i phải ở dạng phủ định, sử dụng trợ động từ <em>\"didn't\"</em> hoặc <em>\"usedn't\".</em></p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 <em>\"did\"</em> sai v&igrave; c&acirc;u hỏi đu&ocirc;i phải ở thể phủ định. Phương &aacute;n 3 <em>\"doesn't\"</em> sai v&igrave; n&oacute; d&ugrave;ng cho th&igrave; hiện tại đơn, kh&ocirc;ng phải cho <em>\"used to\".</em> Phương &aacute;n 4 <em>\"used\"</em> kh&ocirc;ng phải l&agrave; trợ động từ th&iacute;ch hợp trong c&acirc;u hỏi đu&ocirc;i cho <em>\"used to\"</em> trong ngữ cảnh n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "526177": "Trợ động từ <em>did</em> dùng cho thì quá khứ đơn, nhưng ở đây mệnh đề chính là khẳng định nên câu hỏi đuôi phải ở thể phủ định.",
+        "526178": "Với mệnh đề chính chứa <em>used to V(inf)</em> ở thể khẳng định, câu hỏi đuôi phải dùng <em>didn't + S</em> hoặc <em>usedn't + S</em> ở thể phủ định.",
+        "526179": "Trợ động từ <em>doesn't</em> được dùng trong câu hỏi đuôi của thì hiện tại đơn, không phù hợp với cấu trúc <em>used to</em> trong câu gốc.",
+        "526180": "Từ <em>used</em> không được dùng làm trợ động từ trong câu hỏi đuôi của cấu trúc <em>used to</em> ở dạng này."
+      },
+      "images": []
+    },
+    {
+      "id": 233556,
+      "questionNumber": 17,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>There ought to be a speed limit here, _____?&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 525931,
+          "label": "A",
+          "text": "should there",
+          "isCorrect": false
+        },
+        {
+          "id": 525932,
+          "label": "B",
+          "text": "shouldn't they",
+          "isCorrect": false
+        },
+        {
+          "id": 525933,
+          "label": "C",
+          "text": "should they",
+          "isCorrect": false
+        },
+        {
+          "id": 525934,
+          "label": "D",
+          "text": "shouldn’t there",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 525934,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Để hoàn thành câu hỏi đuôi, bạn cần xem xét hai yếu tố chính từ mệnh đề chính <em>\"There ought to be a speed limit here\"</em>:</p><ul><li><strong>Dạng của động từ:</strong> Mệnh đề chính có <em>\"ought to\"</em>. Hãy nhớ lại cách động từ này được biến đổi trong câu hỏi đuôi (thường dùng <em>\"should\"</em>).</li><li><strong>Dạng của chủ ngữ:</strong> Mệnh đề chính có chủ ngữ giả <em>\"there\"</em>. Chủ ngữ này sẽ được lặp lại như thế nào trong câu hỏi đuôi?</li><li><strong>Dạng khẳng định/phủ định:</strong> Mệnh đề chính là khẳng định hay phủ định? Quy tắc đảo ngược dấu (khẳng định ↔ phủ định) trong câu hỏi đuôi áp dụng như thế nào?</li></ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u hỏi đu&ocirc;i với \"ought to'' v&agrave; chủ ngữ giả ''There''.</span></p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span> C&acirc;u hỏi đu&ocirc;i (tag question) được d&ugrave;ng để x&aacute;c nhận th&ocirc;ng tin hoặc mời gọi sự đồng t&igrave;nh từ người nghe. Ch&uacute;ng thường được tạo th&agrave;nh từ một mệnh đề ch&iacute;nh v&agrave; một c&acirc;u hỏi ngắn ở cuối.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cấu tr&uacute;c:</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Mệnh đề ch&iacute;nh (khẳng định), + trợ động từ/động từ to be (phủ định) + đại từ nh&acirc;n xưng tương ứng với chủ ngữ?</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Mệnh đề ch&iacute;nh (phủ định), + trợ động từ/động từ to be (khẳng định) + đại từ nh&acirc;n xưng tương ứng với chủ ngữ?</span></li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Một số trường hợp đặc biệt:</strong></p>\n<p style=\"text-align: justify;\">Với c&acirc;u c&oacute; <em>\"ought to\"</em>: Thường d&ugrave;ng <em>\"should\"</em> trong c&acirc;u hỏi đu&ocirc;i. Nếu mệnh đề ch&iacute;nh khẳng định, c&acirc;u hỏi đu&ocirc;i phủ định (<em>shouldn't + S</em>). Nếu mệnh đề ch&iacute;nh phủ định, c&acirc;u hỏi đu&ocirc;i khẳng định (<em>should + S</em>).</p>\n<p style=\"text-align: justify;\">Với chủ ngữ giả <em>\"there\"</em>: Chủ ngữ của c&acirc;u hỏi đu&ocirc;i lu&ocirc;n l&agrave; <em>\"there\"</em>.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u gốc <em>\"There ought to be a speed limit here\"</em> l&agrave; một mệnh đề khẳng định, sử dụng động từ khuyết thiếu <em>\"ought to\"</em> v&agrave; chủ ngữ giả <em>\"there\"</em>. Theo quy tắc c&acirc;u hỏi đu&ocirc;i, v&igrave; mệnh đề ch&iacute;nh khẳng định, c&acirc;u hỏi đu&ocirc;i phải ở dạng phủ định. Động từ <em>\"ought to\"</em> thường được thay bằng <em>\"should\"</em> trong c&acirc;u hỏi đu&ocirc;i. Chủ ngữ giả <em>\"there\"</em> trong mệnh đề ch&iacute;nh sẽ được lặp lại trong c&acirc;u hỏi đu&ocirc;i. Do đ&oacute;, phương &aacute;n đ&uacute;ng l&agrave; <em>\"shouldn&rsquo;t there\"</em>.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 (<em>\"should there\"</em>) sai v&igrave; c&acirc;u hỏi đu&ocirc;i phải ở dạng phủ định. Phương &aacute;n 2 (<em>\"shouldn&rsquo;t they\"</em>) v&agrave; phương &aacute;n 3 (<em>\"should they\"</em>) sai v&igrave; chủ ngữ của c&acirc;u hỏi đu&ocirc;i phải l&agrave; <em>\"there\"</em>, kh&ocirc;ng phải <em>\"they\"</em>.</p>",
+      "answerFeedbacks": {
+        "525931": "Mệnh đề chính <em>\"There ought to be a speed limit here\"</em> là khẳng định, nên câu hỏi đuôi phải ở dạng phủ định.",
+        "525932": "Chủ ngữ của câu hỏi đuôi phải tương ứng với chủ ngữ <em>\"there\"</em> của mệnh đề chính, không phải <em>\"they\"</em>.",
+        "525933": "Mệnh đề chính <em>\"There ought to be a speed limit here\"</em> là khẳng định, nên câu hỏi đuôi phải ở dạng phủ định, và chủ ngữ phải là <em>\"there\"</em>.",
+        "525934": "Đây là câu hỏi đuôi đúng vì mệnh đề chính khẳng định nên câu hỏi đuôi phủ định, và động từ <em>\"ought to\"</em> được thay bằng <em>\"should\"</em> cùng chủ ngữ <em>\"there\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 233694,
+      "questionNumber": 18,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Anyone could just walk in here, _____?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 526196,
+          "label": "A",
+          "text": "haven't they",
+          "isCorrect": false
+        },
+        {
+          "id": 526197,
+          "label": "B",
+          "text": "doesn't they",
+          "isCorrect": false
+        },
+        {
+          "id": 526198,
+          "label": "C",
+          "text": "didn't they",
+          "isCorrect": false
+        },
+        {
+          "id": 526199,
+          "label": "D",
+          "text": "couldn't they",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 526199,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để trả lời c&acirc;u hỏi n&agrave;y, bạn cần nhớ c&aacute;c quy tắc về c&acirc;u hỏi đu&ocirc;i:</p>\n<ul>\n<li>Quy tắc chung: Nếu mệnh đề ch&iacute;nh khẳng định, c&acirc;u hỏi đu&ocirc;i phủ định v&agrave; ngược lại.</li>\n<li>Với c&aacute;c đại từ bất định như <em>anyone, everyone, someone, no one, nobody, everybody</em>, đại từ nh&acirc;n xưng trong c&acirc;u hỏi đu&ocirc;i l&agrave; <em>they</em>.</li>\n<li>Nếu mệnh đề ch&iacute;nh chứa động từ khuyết thiếu (modal verb) như <em>can, could, will, would, may, might, must, should</em>, th&igrave; ch&iacute;nh động từ khuyết thiếu đ&oacute; sẽ được d&ugrave;ng trong c&acirc;u hỏi đu&ocirc;i.</li>\n</ul>\n<p><br />Trong c&acirc;u hỏi tr&ecirc;n, h&atilde;y x&aacute;c định chủ ngữ v&agrave; động từ ch&iacute;nh để &aacute;p dụng c&aacute;c quy tắc tr&ecirc;n.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u hỏi đu&ocirc;i</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&acirc;u hỏi đu&ocirc;i (tag question) được d&ugrave;ng để x&aacute;c nhận th&ocirc;ng tin hoặc mời gọi sự đồng t&igrave;nh từ người nghe. Ch&uacute;ng thường được tạo th&agrave;nh từ một mệnh đề ch&iacute;nh v&agrave; một c&acirc;u hỏi ngắn ở cuối.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Mệnh đề ch&iacute;nh (khẳng định), + trợ động từ/động từ to be (phủ định) + đại từ nh&acirc;n xưng tương ứng với chủ ngữ?</strong></li>\n<li style=\"text-align: justify;\"><strong>Mệnh đề ch&iacute;nh (phủ định), + trợ động từ/động từ to be (khẳng định) + đại từ nh&acirc;n xưng tương ứng với chủ ngữ?</strong></li>\n</ul>\n<p><strong>Một số trường hợp đặc biệt:</strong></p>\n<ul>\n<li style=\"text-align: justify;\">Khi chủ ngữ l&agrave; c&aacute;c đại từ bất định như <em>anyone, everyone, someone, no one, nobody, everybody</em>, đại từ nh&acirc;n xưng trong c&acirc;u hỏi đu&ocirc;i l&agrave; <em>they</em>.</li>\n<li style=\"text-align: justify;\">Khi mệnh đề ch&iacute;nh chứa động từ khuyết thiếu (modal verb), c&acirc;u hỏi đu&ocirc;i sử dụng ch&iacute;nh động từ khuyết thiếu đ&oacute;.</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u gốc \"<em>Anyone could just walk in here</em>\" c&oacute; chủ ngữ l&agrave; đại từ bất định \"<em>Anyone</em>\" v&agrave; động từ khuyết thiếu \"<em>could</em>\" ở dạng khẳng định. V&igrave; vậy, đại từ nh&acirc;n xưng trong c&acirc;u hỏi đu&ocirc;i phải l&agrave; \"<em>they</em>\", v&agrave; trợ động từ phải l&agrave; \"<em>could</em>\" ở dạng phủ định (\"<em>couldn't</em>\").</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>haven't they</em>\", 2 \"<em>doesn't they</em>\", v&agrave; 3 \"<em>didn't they</em>\" đều sai trợ động từ v&agrave;/hoặc kh&ocirc;ng h&ograve;a hợp chủ vị với ngữ cảnh của c&acirc;u gốc.</p>",
+      "answerFeedbacks": {
+        "526196": "Sai trợ động từ vì mệnh đề chính không dùng thì hiện tại hoàn thành hay động từ \"have\" chính.",
+        "526197": "Sai trợ động từ và không hòa hợp chủ vị vì \"doesn't\" không đi với chủ ngữ \"they\".",
+        "526198": "Sai trợ động từ và thì vì mệnh đề chính không dùng thì quá khứ đơn.",
+        "526199": "Câu hỏi đuôi phải dùng trợ động từ \"could\" ở dạng phủ định vì mệnh đề chính là khẳng định, và đại từ \"they\" tương ứng với chủ ngữ \"Anyone\"."
+      },
+      "images": []
+    },
+    {
+      "id": 179660,
+      "questionNumber": 19,
+      "questionName": "Question 28:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>She <u>is</u> reading <u>the</u> book about love <u>on</u> the web, <u>doesn’t</u> she?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 412567,
+          "label": "A",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "id": 412568,
+          "label": "B",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "id": 412569,
+          "label": "C",
+          "text": "on",
+          "isCorrect": false
+        },
+        {
+          "id": 412570,
+          "label": "D",
+          "text": "doesn’t",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 412570,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Kiểm tra động từ <em>\"is\"</em> được có được dùng đúng để tạo thành thì hiện tại tiếp diễn không.</li>\n<li>Đánh giá cách sử dụng mạo  từ <em>\"the\"</em> được dùng để chỉ ''<em>book about love <u style=\"font-weight: 600;\">on</u> the Web</em>''.</li>\n<li>Xem xét giới từ <em>\"on\" </em>có được dùng đúng trong cụm <em>\"on the Web\" </em>không.</li>\n<li>Xem lại câu hỏi đuôi ''<em>doesn't she</em>'' đã tương ứng với trợ động từ trong mệnh đề chính chưa.</li>\n</ul>\n<p style=\"text-align: justify;\">Đối chiếu từng quy tắc này với các phần gạch chân để tìm ra lỗi sai.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu hỏi đuôi.</span></p>\n<blockquote>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cách dùng:</span><span style=\"font-weight: 600;\"> </span>Dùng để xác nhận thông tin hoặc tìm kiếm sự đồng tình từ người nghe.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cấu trúc:</span></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">S + Aux.V/Modal V (khẳng định) + V(pp) ... , Aux.V/Modal V (phủ định) + S?</span></li>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">S + Aux.V/Modal V (phủ định) + V(pp) ... , Aux.V/Modal V (</span><span style=\"color: #1c581f; font-weight: 600;\">khẳng định</span><span style=\"color: #1c581f; font-weight: 600;\">) + S?</span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Mệnh đề chính là <em>\"She is reading the book about love on the Web\"</em>, đang ở thì hiện tại tiếp diễn và là câu khẳng định. Do đó, câu hỏi đuôi phải dùng trợ động từ <em>\"is\"</em> và ở dạng phủ định, cùng với chủ ngữ <em>\"she\"</em>. Câu hỏi đuôi đúng phải là <em>\"isn’t she\"</em>. Phương án <em>\"doesn’t she\"</em> đã dùng sai trợ động từ.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>doesn’t</strong></em>\" =&gt; \"<em><strong>isn’t</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "412567": "Động từ <em>\"is\"</em> được dùng đúng để tạo thành thì hiện tại tiếp diễn <em>\"is reading\"</em>.",
+        "412568": "Mạo từ <em>\"the\"</em> được dùng đúng để chỉ một cuốn sách cụ thể đã được nhắc đến hoặc ngụ ý.",
+        "412569": "<p>Giới từ <em>\"on\"</em> được dùng đúng trong cụm <em>\"on the web\"</em> (trên trang mạng).</p>",
+        "412570": "Câu hỏi đuôi phải dùng trợ động từ <em>\"is\"</em> tương ứng với trợ động từ trong mệnh đề chính <em>\"is reading\"</em>, do đó <em>\"doesn’t she\"</em> là sai."
+      },
+      "images": []
+    },
+    {
+      "id": 767061,
+      "questionNumber": 20,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Pam has <span style=\"text-decoration: underline;\">some</span> friends <span style=\"text-decoration: underline;\">who</span> are <span style=\"text-decoration: underline;\">explorers</span>, <span style=\"text-decoration: underline;\">does</span> she?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1475840,
+          "label": "A",
+          "text": "some",
+          "isCorrect": false
+        },
+        {
+          "id": 1475841,
+          "label": "B",
+          "text": "who",
+          "isCorrect": false
+        },
+        {
+          "id": 1475842,
+          "label": "C",
+          "text": "explorers",
+          "isCorrect": false
+        },
+        {
+          "id": 1475843,
+          "label": "D",
+          "text": "does",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1475843,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Mệnh đề ch&iacute;nh ở thể khẳng định ở th&igrave; hiện tại đơn. =&gt; Phần đu&ocirc;i ở thể phủ định: \"<strong>doesn't she</strong>\".</p>\n<p>Sửa: \"<strong>does</strong>\" =&gt; \"<strong>doesn't</strong>\"</p>\n<p>Dịch: Pam c&oacute; một v&agrave;i người bạn l&agrave; nh&agrave; th&aacute;m hiểm, phải kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 616975,
+      "questionNumber": 21,
+      "questionName": "40",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>You are interested <span style=\"text-decoration: underline;\">in</span> <span style=\"text-decoration: underline;\">playing</span> computer <span style=\"text-decoration: underline;\">games</span> in your free time, <span style=\"text-decoration: underline;\">are</span> you?&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1188318,
+          "label": "A",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 1188319,
+          "label": "B",
+          "text": "playing",
+          "isCorrect": false
+        },
+        {
+          "id": 1188320,
+          "label": "C",
+          "text": "games",
+          "isCorrect": false
+        },
+        {
+          "id": 1188321,
+          "label": "D",
+          "text": "are",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1188321,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\">Mệnh đề ch&iacute;nh ở thể khẳng định ở th&igrave; hiện tại đơn với động từ to be \"<strong>are</strong>\". =&gt; Phần đu&ocirc;i ở thể phủ định: \"<strong>aren't you</strong>\".</p>\n<p style=\"text-align: justify;\">Sửa: \"<strong>are</strong>\" =&gt; \"<strong>aren't</strong>\"</p>\n<p style=\"text-align: justify;\">Dịch: Bạn th&iacute;ch chơi tr&ograve; chơi tr&ecirc;n m&aacute;y t&iacute;nh trong thời gian rảnh rỗi, phải kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 179091,
+      "questionNumber": 22,
+      "questionName": "Question 49:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>He never <u>goes</u> to <u>work</u> <u>by car</u>, <u>doesn&#8217;t he</u>?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 411021,
+          "label": "A",
+          "text": "goes",
+          "isCorrect": false
+        },
+        {
+          "id": 411022,
+          "label": "B",
+          "text": "work",
+          "isCorrect": false
+        },
+        {
+          "id": 411023,
+          "label": "C",
+          "text": "by car",
+          "isCorrect": false
+        },
+        {
+          "id": 411024,
+          "label": "D",
+          "text": "doesn’t he",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 411024,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Mệnh đề ch&iacute;nh ở th&igrave; hiện tại đơn với trạng từ phủ định \"<strong>never</strong>\".<strong> </strong>=&gt; Phần đu&ocirc;i ở thể khẳng định: \"<strong>does he</strong>\".&nbsp;</p>\n<p>Sửa: \"<strong>doesn't he</strong>\" =&gt; \"<strong>does he</strong>\"</p>\n<p>Dịch: Anh ấy kh&ocirc;ng bao giờ đi l&agrave;m bằng xe &ocirc; t&ocirc;, phải kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 179715,
+      "questionNumber": 23,
+      "questionName": "Question 19:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Her <span style=\"text-decoration: underline;\">classmates</span> came <span style=\"text-decoration: underline;\">to</span> the English <span style=\"text-decoration: underline;\">club</span> last night,</strong> <strong><span style=\"text-decoration: underline;\">haven&#8217;t they</span>?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 412751,
+          "label": "A",
+          "text": "classmates",
+          "isCorrect": false
+        },
+        {
+          "id": 412752,
+          "label": "B",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 412753,
+          "label": "C",
+          "text": "club",
+          "isCorrect": false
+        },
+        {
+          "id": 412754,
+          "label": "D",
+          "text": "haven't they",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 412754,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Mệnh đề ch&iacute;nh ở thể khẳng định ở th&igrave; qu&aacute; khứ đơn. =&gt; Phần đu&ocirc;i ở thể phủ định: \"<strong>didn't they</strong>\".&nbsp;</p>\n<p>Sửa: \"<strong>haven't they</strong>\" =&gt; \"<strong>didn't they</strong>\"</p>\n<p>Dịch: C&aacute;c bạn c&ugrave;ng lớp của c&ocirc; ấy đ&atilde; đến c&acirc;u lạc bộ tiếng Anh v&agrave;o tối qua, phải kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 136669,
+      "questionNumber": 24,
+      "questionName": "Question 2:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Your <u>brother-in-law</u> hardly <u>goes</u> to work <u>by</u> bus, <u>doesn't he</u>?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 321020,
+          "label": "A",
+          "text": "brother-in-law",
+          "isCorrect": false
+        },
+        {
+          "id": 321021,
+          "label": "B",
+          "text": "goes",
+          "isCorrect": false
+        },
+        {
+          "id": 321022,
+          "label": "C",
+          "text": "by",
+          "isCorrect": false
+        },
+        {
+          "id": 321023,
+          "label": "D",
+          "text": "doesn't he",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 321023,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Mệnh đề ch&iacute;nh ở thể phủ định với trạng từ \"<strong>hardly</strong>\" ở th&igrave; hiện tại đơn. =&gt; Phần đu&ocirc;i ở thể khẳng định: \"<strong>does he</strong>\".</p>\n<p>Sửa: \"<strong>doesn't he</strong>\" =&gt; \"<strong>does he</strong>\"</p>\n<p>Dịch: Anh rể của bạn hiếm khi đi l&agrave;m bằng xe bu&yacute;t, phải kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 247758,
+      "questionNumber": 25,
+      "questionName": "q.6380 -5",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "40 students",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "your class",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "are",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "aren't there?",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": ",",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "There",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 242326,
+      "questionNumber": 26,
+      "questionName": "5. (q.6305)",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "doesn't",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "he?",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "Nam",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "likes",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "animal programs,",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "watching",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 145791,
+      "questionNumber": 27,
+      "questionName": "Your sister doesn't know how to cook, does she",
+      "questionType": "WordOrder",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</span></em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "how to",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "doesn't",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "does",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "cook,",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "she?",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "Your sister",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "know",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 197959,
+      "questionNumber": 28,
+      "questionName": "Let's go for",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "Let's",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "a walk",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "we?",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "shall",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "after school,",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "go for",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 400968,
+      "questionNumber": 29,
+      "questionName": "Q44",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Do you remember your first visit to Ho Chi Minh City?<br></strong></p>\n<p><strong>=> You remember ..........?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "You remember your first visit to Ho Chi Minh City, don’t you?"
+      ],
+      "hint": "Câu hỏi gốc là một câu hỏi trực tiếp. Câu cần hoàn thiện bắt đầu bằng một câu khẳng định và kết thúc bằng dấu hỏi, gợi ý bạn nên sử dụng cấu trúc câu hỏi đuôi (tag question). Hãy nhớ rằng nếu mệnh đề chính là khẳng định, câu hỏi đuôi sẽ ở dạng phủ định và ngược lại. Đảm bảo sử dụng đúng trợ động từ và đại từ chủ ngữ cho câu hỏi đuôi.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>Câu hỏi đuôi</strong>: Dùng để xác nhận thông tin hoặc mời gọi sự đồng tình, thường đi kèm với một mệnh đề chính.</p>\n<ul>\n<li style=\"text-align: justify;\">Mệnh đề chính (khẳng định) + trợ động từ (phủ định) + đại từ chủ ngữ?</li>\n<li style=\"text-align: justify;\">Mệnh đề chính (phủ định) + trợ động từ (khẳng định) + đại từ chủ ngữ?</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Thì hiện tại đơn</strong> được dùng để diễn tả sự thật hiển nhiên, thói quen, lịch trình cố định hoặc cảm xúc, trạng thái ở hiện tại.</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>(+) S + V(inf)/V(s/es)...</strong></li>\n<li style=\"text-align: justify;\"><strong>(-) S + do/does + not + V(inf)...</strong></li>\n<li style=\"text-align: justify;\"><strong>(?) Do/Does + S + V(inf)...?</strong></li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #5fbd18; font-weight: 600;\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Câu gốc <strong>\"Do you remember...?\"</strong> là một câu hỏi trực tiếp ở thì hiện tại đơn. Phần đã cho sẵn của câu viết lại là <strong>\"You remember ..........?\"</strong>, cho thấy yêu cầu viết lại dưới dạng câu hỏi đuôi (tag question).</p>\n<p style=\"text-align: justify;\">Mệnh đề chính ở thể khẳng định ở thì hiện tại đơn. -&gt; Phần đuôi ở thể phủ định ở thì hiện tại đơn.</p>\n<p style=\"text-align: justify;\">Với chủ ngữ <strong>\"You\"</strong> trợ động từ là \"<strong>do</strong>\". -&gt; Phần đuôi sẽ là \"<strong>don't</strong> <strong>you</strong>\" (lưu ý luôn ở dạng viết tắt).</p>\n<p style=\"text-align: justify;\">Phần còn thiếu của câu sẽ là \"<strong>your first visit to Ho Chi Minh City, don't you</strong>\".</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 185161,
+      "questionNumber": 30,
+      "questionName": "a",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete the second sentence so that it has the same meaning to the first.</span></em></p>\n<p><strong>Does your father use the Internet every day? </strong></p>\n<p><span style=\"font-weight: 400;\"><strong>=&gt; Your father uses ..........?</strong></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Your father uses the Internet every day, doesn't he?"
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u hỏi đu&ocirc;i ở th&igrave; hiện tại đơn với động từ thường: <strong>S + V(s/es), don't/doesn't + S?</strong></p>\n<p>Dịch: C&oacute; phải bố bạn sử dụng Internet mỗi ng&agrave;y kh&ocirc;ng?</p>\n<p>~ Bố bạn d&ugrave;ng mạng mỗi ng&agrave;y, phải kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 398559,
+      "questionNumber": 31,
+      "questionName": "XI.3",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>His brother is a professional tennis player, isn’t he?<br></strong></p>\n<p><strong>=> His brother plays ..........?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "His brother plays tennis professionally, doesn’t he?"
+      ],
+      "hint": "<p>Để viết lại câu, bạn cần chuyển đổi thông tin về nghề nghiệp từ câu gốc (\"is a professional tennis player\") thành hành động tương ứng với động từ \"plays\". Ngoài ra, hãy chú ý đến cách hình thành câu hỏi đuôi phù hợp với thì và dạng của động từ chính trong câu đã viết lại.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\">Cấu trúc diễn tả nghề nghiệp của ai đó:<strong> S + be + a/an + (adj.) + N (nghề nghiệp)</strong></p>\n<p style=\"text-align: justify;\"><strong>professional</strong> (adj.): chuyên nghiệp</p>\n<p style=\"text-align: justify;\"><strong>professionally</strong> (adv.): một cách chuyên nghiệp</p>\n<p style=\"text-align: justify;\"><strong>Câu hỏi đuôi</strong> có chức năng kiểm tra thông tin hoặc mời gọi sự đồng tình. Câu khẳng định đi với phần đuôi phủ định, và ngược lại. Nếu mệnh đề chính là thì hiện tại đơn với động từ thường, dùng <strong>do/does</strong> trong phần đuôi.</p>\n<p style=\"text-align: justify;\"><span style=\"color: #5fbd18; font-weight: 600;\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Câu gốc diễn tả nghề nghiệp của người anh trai. Phần đã cho<strong> \"His brother plays\"</strong> chuyển trọng tâm sang hành động. Để giữ nguyên nghĩa, cụm danh từ <strong>\"a professional tennis player\"</strong> cần được chuyển đổi thành một cụm động từ tương đương.</p>\n<p style=\"text-align: justify;\">Cụm danh từ <strong>\"tennis player\" </strong>(người chơi tennis) được chuyển thành <strong>\"play tennis\"</strong> để giữ nghĩa tương đương.</p>\n<p style=\"text-align: justify;\">Tính từ <strong>\"professional\"</strong> (chuyên nghiệp) bổ nghĩa cho danh từ <strong>\"player\"</strong> trong câu gốc -&gt; Chuyển thành trạng từ <strong>\"professionally\"</strong> để bổ nghĩa cho động từ <strong>\"plays\"</strong>, diễn tả cách thức chơi.</p>\n<p style=\"text-align: justify;\">Câu gốc, phần đuôi \"<strong>isn't he</strong>\" -&gt; Trong câu viết lại, động từ chính là động từ thường <strong>\"plays\"</strong> (thì hiện tại đơn, dạng khẳng định). -&gt; Phần đuôi dùng trợ động từ và ở dạng phủ định: \"<strong>doesn’t he?</strong>\".</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 148251,
+      "questionNumber": 32,
+      "questionName": "Do you know the man",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Do you know the man who sat next to me at Marcus's birthday party last night?</strong></p>\n<p><strong> =&gt; You know .........?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "You know the man who sat next to me at Marcus's birthday party last night, don't you?"
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u hỏi đu&ocirc;i ở th&igrave; hiện tại đơn với động từ thường: <strong>S + V(s/es), don't/doesn't + S?</strong></p>\n<p><strong><span style=\"font-weight: 400;\"><strong>who + V</strong>: thay thế cho danh từ \"<strong>the man</strong>\" chỉ người, l&agrave;m chủ ngữ trong mệnh đề quan hệ.</span></strong></p>\n<p><strong><span style=\"font-weight: 400;\"><strong>that + V</strong>: thay thế cho danh từ \"<strong>the man</strong>\" chỉ người, l&agrave;m chủ ngữ trong mệnh đề quan hệ.</span></strong></p>\n<p><strong><span style=\"font-weight: 400;\">Với mệnh đề quan hệ ở thể chủ động, r&uacute;t gọn mệnh đề th&agrave;nh <strong>N + V-ing</strong>&nbsp;hoặc <strong>N + having V(pp) </strong></span></strong><span style=\"font-weight: 400;\">(nhấn mạnh h&agrave;nh động xảy ra trước h&agrave;nh động kh&aacute;c trong qu&aacute; khứ).</span></p>\n<p>Dạng đầy đủ: <strong>... the man who/that sat ...</strong></p>\n<p>Dạng r&uacute;t gọn: <strong>... the man sitting ...</strong></p>\n<p>Dịch: Bạn c&oacute; biết người đ&agrave;n &ocirc;ng ngồi cạnh t&ocirc;i trong bữa tiệc sinh nhật Marcus tối qua kh&ocirc;ng?</p>\n<p>~ Bạn biết người đ&agrave;n &ocirc;ng ngồi cạnh t&ocirc;i trong bữa tiệc sinh nhật Marcus tối qua, phải kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "81_1",
+    "questionName": "Question 1",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>Plastic waste has become one of the most critical environmental threats facing our planet today. Millions of tons of plastic enter the oceans every year, polluting marine ecosystems and endangering wildlife. When marine creatures accidentally ingest plastic debris, they lose their natural <strong>(1) ________</strong> and often suffer fatal injuries. Furthermore, plastics break down into microscopic particles, <strong>(2) ________</strong> absorb dangerous chemicals and enter the human food chain through seafood. <strong>(3) ________</strong>, plastic takes hundreds of years to decompose, creating an enduring burden on future generations. In order to mitigate this ecological crisis, governments around the globe must <strong>(4) ________</strong> strict measures against single-use plastics and encourage recycling initiatives. Every citizen can make a substantial contribution by carrying reusable cloth bags and drinking bottles, <strong>(5) ________</strong> small personal choices collectively yield immense global changes.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (1):</p>",
+    "choices": [
+      {
+        "id": "81_1_1",
+        "text": "habitats",
+        "html": "habitats"
+      },
+      {
+        "id": "81_1_2",
+        "text": "houses",
+        "html": "houses"
+      },
+      {
+        "id": "81_1_3",
+        "text": "accommodations",
+        "html": "accommodations"
+      },
+      {
+        "id": "81_1_4",
+        "text": "residences",
+        "html": "residences"
+      }
+    ],
+    "correctChoiceId": "81_1_1",
+    "explanation": "<p>Cụm từ chỉ môi trường sống tự nhiên của sinh vật biển là <strong>natural habitats</strong> (môi trường sống tự nhiên).<br/>Houses: nhà ở của người; accommodations: chỗ ở; residences: nơi cư trú.</p>",
+    "ruleTip": "'natural habitat' = môi trường sống tự nhiên của động thực vật hoang dã."
+  },
+  {
+    "id": "81_2",
+    "questionName": "Question 2",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>Plastic waste has become one of the most critical environmental threats facing our planet today. Millions of tons of plastic enter the oceans every year, polluting marine ecosystems and endangering wildlife. When marine creatures accidentally ingest plastic debris, they lose their natural <strong>(1) ________</strong> and often suffer fatal injuries. Furthermore, plastics break down into microscopic particles, <strong>(2) ________</strong> absorb dangerous chemicals and enter the human food chain through seafood. <strong>(3) ________</strong>, plastic takes hundreds of years to decompose, creating an enduring burden on future generations. In order to mitigate this ecological crisis, governments around the globe must <strong>(4) ________</strong> strict measures against single-use plastics and encourage recycling initiatives. Every citizen can make a substantial contribution by carrying reusable cloth bags and drinking bottles, <strong>(5) ________</strong> small personal choices collectively yield immense global changes.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (2):</p>",
+    "choices": [
+      {
+        "id": "81_2_2",
+        "text": "who",
+        "html": "who"
+      },
+      {
+        "id": "81_2_3",
+        "text": "whom",
+        "html": "whom"
+      },
+      {
+        "id": "81_2_1",
+        "text": "which",
+        "html": "which"
+      },
+      {
+        "id": "81_2_4",
+        "text": "whose",
+        "html": "whose"
+      }
+    ],
+    "correctChoiceId": "81_2_1",
+    "explanation": "<p>Đại từ quan hệ đứng sau dấu phẩy bổ nghĩa cho danh từ chỉ vật 'microscopic particles' (các hạt vi nhựa): dùng <strong>which</strong>.</p>",
+    "ruleTip": "Đại từ quan hệ bổ nghĩa cho danh từ chỉ vật sau dấu phẩy: dùng WHICH (không dùng that)."
+  },
+  {
+    "id": "81_3",
+    "questionName": "Question 3",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>Plastic waste has become one of the most critical environmental threats facing our planet today. Millions of tons of plastic enter the oceans every year, polluting marine ecosystems and endangering wildlife. When marine creatures accidentally ingest plastic debris, they lose their natural <strong>(1) ________</strong> and often suffer fatal injuries. Furthermore, plastics break down into microscopic particles, <strong>(2) ________</strong> absorb dangerous chemicals and enter the human food chain through seafood. <strong>(3) ________</strong>, plastic takes hundreds of years to decompose, creating an enduring burden on future generations. In order to mitigate this ecological crisis, governments around the globe must <strong>(4) ________</strong> strict measures against single-use plastics and encourage recycling initiatives. Every citizen can make a substantial contribution by carrying reusable cloth bags and drinking bottles, <strong>(5) ________</strong> small personal choices collectively yield immense global changes.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (3):</p>",
+    "choices": [
+      {
+        "id": "81_3_2",
+        "text": "However",
+        "html": "However"
+      },
+      {
+        "id": "81_3_3",
+        "text": "Although",
+        "html": "Although"
+      },
+      {
+        "id": "81_3_4",
+        "text": "Despite",
+        "html": "Despite"
+      },
+      {
+        "id": "81_3_1",
+        "text": "Moreover",
+        "html": "Moreover"
+      }
+    ],
+    "correctChoiceId": "81_3_1",
+    "explanation": "<p>Liên từ bổ sung thêm một ý tiêu cực về rác thải nhựa: <strong>Moreover,</strong> (Hơn thế nữa).<br/>However chỉ sự tương phản; Although/Despite chỉ sự nhượng bộ.</p>",
+    "ruleTip": "'Moreover' / 'Furthermore' đứng đầu câu sau dấu chấm và trước dấu phẩy mang nghĩa 'Hơn thế nữa' để bổ sung thông tin."
+  },
+  {
+    "id": "81_4",
+    "questionName": "Question 4",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>Plastic waste has become one of the most critical environmental threats facing our planet today. Millions of tons of plastic enter the oceans every year, polluting marine ecosystems and endangering wildlife. When marine creatures accidentally ingest plastic debris, they lose their natural <strong>(1) ________</strong> and often suffer fatal injuries. Furthermore, plastics break down into microscopic particles, <strong>(2) ________</strong> absorb dangerous chemicals and enter the human food chain through seafood. <strong>(3) ________</strong>, plastic takes hundreds of years to decompose, creating an enduring burden on future generations. In order to mitigate this ecological crisis, governments around the globe must <strong>(4) ________</strong> strict measures against single-use plastics and encourage recycling initiatives. Every citizen can make a substantial contribution by carrying reusable cloth bags and drinking bottles, <strong>(5) ________</strong> small personal choices collectively yield immense global changes.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (4):</p>",
+    "choices": [
+      {
+        "id": "81_4_2",
+        "text": "make",
+        "html": "make"
+      },
+      {
+        "id": "81_4_1",
+        "text": "take",
+        "html": "take"
+      },
+      {
+        "id": "81_4_3",
+        "text": "do",
+        "html": "do"
+      },
+      {
+        "id": "81_4_4",
+        "text": "give",
+        "html": "give"
+      }
+    ],
+    "correctChoiceId": "81_4_1",
+    "explanation": "<p>Collocation thực hiện các biện pháp quyết liệt: <strong>take strict measures</strong>.</p>",
+    "ruleTip": "'take measures' = thực hiện các biện pháp/chính sách hành động."
+  },
+  {
+    "id": "81_5",
+    "questionName": "Question 5",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>Plastic waste has become one of the most critical environmental threats facing our planet today. Millions of tons of plastic enter the oceans every year, polluting marine ecosystems and endangering wildlife. When marine creatures accidentally ingest plastic debris, they lose their natural <strong>(1) ________</strong> and often suffer fatal injuries. Furthermore, plastics break down into microscopic particles, <strong>(2) ________</strong> absorb dangerous chemicals and enter the human food chain through seafood. <strong>(3) ________</strong>, plastic takes hundreds of years to decompose, creating an enduring burden on future generations. In order to mitigate this ecological crisis, governments around the globe must <strong>(4) ________</strong> strict measures against single-use plastics and encourage recycling initiatives. Every citizen can make a substantial contribution by carrying reusable cloth bags and drinking bottles, <strong>(5) ________</strong> small personal choices collectively yield immense global changes.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (5):</p>",
+    "choices": [
+      {
+        "id": "81_5_2",
+        "text": "although",
+        "html": "although"
+      },
+      {
+        "id": "81_5_3",
+        "text": "unless",
+        "html": "unless"
+      },
+      {
+        "id": "81_5_4",
+        "text": "but",
+        "html": "but"
+      },
+      {
+        "id": "81_5_1",
+        "text": "because",
+        "html": "because"
+      }
+    ],
+    "correctChoiceId": "81_5_1",
+    "explanation": "<p>Mệnh đề sau giải thích lý do vì sao mọi công dân có thể đóng góp: <strong>because</strong> (bởi vì các lựa chọn cá nhân gom lại sẽ tạo nên sự thay đổi lớn).</p>",
+    "ruleTip": "'because + mệnh đề' chỉ nguyên nhân lý do hợp lý."
+  },
+  {
+    "id": "81_6",
+    "questionName": "Question 6",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>Situated on the gentle bank of the Day River in Hanoi, Van Phuc Silk Village is <strong>(6) ________</strong> for its time-honored tradition of weaving exquisite silk fabrics. With a vibrant history spanning over a thousand years, this picturesque village attracts both domestic and international visitors <strong>(7) ________</strong> want to witness authentic craftsmanship. Artisans in the village still operate traditional wooden looms, producing smooth and colorful silk products that appeal to <strong>(8) ________</strong> selective customers. In recent years, local authorities have made earnest efforts to <strong>(9) ________</strong> this precious cultural heritage by establishing modern exhibitions and workshops. <strong>(10) ________</strong>, villagers have adopted eco-friendly natural dyes to protect the local environment, ensuring that the legacy of Hanoi silk remains vibrant for generations to come.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (6):</p>",
+    "choices": [
+      {
+        "id": "81_6_1",
+        "text": "famous",
+        "html": "famous"
+      },
+      {
+        "id": "81_6_2",
+        "text": "proud",
+        "html": "proud"
+      },
+      {
+        "id": "81_6_3",
+        "text": "interested",
+        "html": "interested"
+      },
+      {
+        "id": "81_6_4",
+        "text": "fond",
+        "html": "fond"
+      }
+    ],
+    "correctChoiceId": "81_6_1",
+    "explanation": "<p>Đi với giới từ \"for\" phía sau: <strong>famous for</strong> (nổi tiếng về điều gì). Proud đi với of, interested đi với in, fond đi với of.</p>",
+    "ruleTip": "'be famous for' = nổi tiếng vì cái gì; 'proud of' = tự hào về cái gì."
+  },
+  {
+    "id": "81_7",
+    "questionName": "Question 7",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>Situated on the gentle bank of the Day River in Hanoi, Van Phuc Silk Village is <strong>(6) ________</strong> for its time-honored tradition of weaving exquisite silk fabrics. With a vibrant history spanning over a thousand years, this picturesque village attracts both domestic and international visitors <strong>(7) ________</strong> want to witness authentic craftsmanship. Artisans in the village still operate traditional wooden looms, producing smooth and colorful silk products that appeal to <strong>(8) ________</strong> selective customers. In recent years, local authorities have made earnest efforts to <strong>(9) ________</strong> this precious cultural heritage by establishing modern exhibitions and workshops. <strong>(10) ________</strong>, villagers have adopted eco-friendly natural dyes to protect the local environment, ensuring that the legacy of Hanoi silk remains vibrant for generations to come.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (7):</p>",
+    "choices": [
+      {
+        "id": "81_7_2",
+        "text": "which",
+        "html": "which"
+      },
+      {
+        "id": "81_7_3",
+        "text": "whose",
+        "html": "whose"
+      },
+      {
+        "id": "81_7_1",
+        "text": "who",
+        "html": "who"
+      },
+      {
+        "id": "81_7_4",
+        "text": "where",
+        "html": "where"
+      }
+    ],
+    "correctChoiceId": "81_7_1",
+    "explanation": "<p>Đại từ quan hệ bổ nghĩa cho danh từ chỉ người 'domestic and international visitors' làm chủ ngữ trước động từ 'want': dùng <strong>who</strong>.</p>",
+    "ruleTip": "Đại từ quan hệ thay thế cho người làm chủ ngữ: dùng WHO."
+  },
+  {
+    "id": "81_8",
+    "questionName": "Question 8",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>Situated on the gentle bank of the Day River in Hanoi, Van Phuc Silk Village is <strong>(6) ________</strong> for its time-honored tradition of weaving exquisite silk fabrics. With a vibrant history spanning over a thousand years, this picturesque village attracts both domestic and international visitors <strong>(7) ________</strong> want to witness authentic craftsmanship. Artisans in the village still operate traditional wooden looms, producing smooth and colorful silk products that appeal to <strong>(8) ________</strong> selective customers. In recent years, local authorities have made earnest efforts to <strong>(9) ________</strong> this precious cultural heritage by establishing modern exhibitions and workshops. <strong>(10) ________</strong>, villagers have adopted eco-friendly natural dyes to protect the local environment, ensuring that the legacy of Hanoi silk remains vibrant for generations to come.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (8):</p>",
+    "choices": [
+      {
+        "id": "81_8_2",
+        "text": "much",
+        "html": "much"
+      },
+      {
+        "id": "81_8_3",
+        "text": "little",
+        "html": "little"
+      },
+      {
+        "id": "81_8_1",
+        "text": "many",
+        "html": "many"
+      },
+      {
+        "id": "81_8_4",
+        "text": "every",
+        "html": "every"
+      }
+    ],
+    "correctChoiceId": "81_8_1",
+    "explanation": "<p>'Customers' là danh từ đếm được số nhiều: dùng lượng từ <strong>many</strong> (nhiều khách hàng). 'Much/little' đi với danh từ không đếm được; 'every' đi với danh từ số ít.</p>",
+    "ruleTip": "'many + danh từ đếm được số nhiều' (many customers); 'much + danh từ không đếm được'."
+  },
+  {
+    "id": "81_9",
+    "questionName": "Question 9",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>Situated on the gentle bank of the Day River in Hanoi, Van Phuc Silk Village is <strong>(6) ________</strong> for its time-honored tradition of weaving exquisite silk fabrics. With a vibrant history spanning over a thousand years, this picturesque village attracts both domestic and international visitors <strong>(7) ________</strong> want to witness authentic craftsmanship. Artisans in the village still operate traditional wooden looms, producing smooth and colorful silk products that appeal to <strong>(8) ________</strong> selective customers. In recent years, local authorities have made earnest efforts to <strong>(9) ________</strong> this precious cultural heritage by establishing modern exhibitions and workshops. <strong>(10) ________</strong>, villagers have adopted eco-friendly natural dyes to protect the local environment, ensuring that the legacy of Hanoi silk remains vibrant for generations to come.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (9):</p>",
+    "choices": [
+      {
+        "id": "81_9_2",
+        "text": "destroy",
+        "html": "destroy"
+      },
+      {
+        "id": "81_9_3",
+        "text": "ignore",
+        "html": "ignore"
+      },
+      {
+        "id": "81_9_4",
+        "text": "invent",
+        "html": "invent"
+      },
+      {
+        "id": "81_9_1",
+        "text": "preserve",
+        "html": "preserve"
+      }
+    ],
+    "correctChoiceId": "81_9_1",
+    "explanation": "<p>Chính quyền nỗ lực gìn giữ, bảo tồn di sản văn hóa: <strong>preserve this precious cultural heritage</strong>.<br/>destroy: phá hủy; ignore: phớt lờ; invent: phát minh.</p>",
+    "ruleTip": "'preserve heritage' = bảo tồn di sản văn hóa."
+  },
+  {
+    "id": "81_10",
+    "questionName": "Question 10",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>Situated on the gentle bank of the Day River in Hanoi, Van Phuc Silk Village is <strong>(6) ________</strong> for its time-honored tradition of weaving exquisite silk fabrics. With a vibrant history spanning over a thousand years, this picturesque village attracts both domestic and international visitors <strong>(7) ________</strong> want to witness authentic craftsmanship. Artisans in the village still operate traditional wooden looms, producing smooth and colorful silk products that appeal to <strong>(8) ________</strong> selective customers. In recent years, local authorities have made earnest efforts to <strong>(9) ________</strong> this precious cultural heritage by establishing modern exhibitions and workshops. <strong>(10) ________</strong>, villagers have adopted eco-friendly natural dyes to protect the local environment, ensuring that the legacy of Hanoi silk remains vibrant for generations to come.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (10):</p>",
+    "choices": [
+      {
+        "id": "81_10_2",
+        "text": "However",
+        "html": "However"
+      },
+      {
+        "id": "81_10_1",
+        "text": "In addition",
+        "html": "In addition"
+      },
+      {
+        "id": "81_10_3",
+        "text": "Although",
+        "html": "Although"
+      },
+      {
+        "id": "81_10_4",
+        "text": "Despite",
+        "html": "Despite"
+      }
+    ],
+    "correctChoiceId": "81_10_1",
+    "explanation": "<p>Liên từ bổ sung thêm hành động tích cực của người dân làng nghề: <strong>In addition,</strong> (Ngoài ra / Thêm vào đó).</p>",
+    "ruleTip": "'In addition,' = 'Besides,' (Thêm vào đó, ngoài ra) dùng để nối thêm ý bổ trợ."
+  },
+  {
+    "id": "81_11",
+    "questionName": "Question 11",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>In recent years, more and more urban families have committed to adopting green living habits. By doing so, they not only protect the surrounding nature but also minimize their carbon <strong>(11) ________</strong> significantly. Instead of purchasing goods wrapped in layers of plastic packaging, conscious consumers opt for products made from bamboo, glass, and <strong>(12) ________</strong> biodegradable materials. Furthermore, young students <strong>(13) ________</strong> participate in school environmental campaigns are encouraged to turn off electronic devices when not in use. They also learn to <strong>(14) ________</strong> single-use items and walk or ride bicycles to school. <strong>(15) ________</strong> shifting to an eco-friendly lifestyle requires patience and discipline, the long-term benefits to public health and biodiversity are immeasurable.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (11):</p>",
+    "choices": [
+      {
+        "id": "81_11_1",
+        "text": "footprint",
+        "html": "footprint"
+      },
+      {
+        "id": "81_11_2",
+        "text": "handprint",
+        "html": "handprint"
+      },
+      {
+        "id": "81_11_3",
+        "text": "fingerprint",
+        "html": "fingerprint"
+      },
+      {
+        "id": "81_11_4",
+        "text": "shoe",
+        "html": "shoe"
+      }
+    ],
+    "correctChoiceId": "81_11_1",
+    "explanation": "<p>Cụm từ chỉ lượng phát thải CO2 cá nhân là <strong>carbon footprint</strong> (dấu chân carbon).</p>",
+    "ruleTip": "'carbon footprint' = mức phát thải carbon của cá nhân hoặc hộ gia đình."
+  },
+  {
+    "id": "81_12",
+    "questionName": "Question 12",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>In recent years, more and more urban families have committed to adopting green living habits. By doing so, they not only protect the surrounding nature but also minimize their carbon <strong>(11) ________</strong> significantly. Instead of purchasing goods wrapped in layers of plastic packaging, conscious consumers opt for products made from bamboo, glass, and <strong>(12) ________</strong> biodegradable materials. Furthermore, young students <strong>(13) ________</strong> participate in school environmental campaigns are encouraged to turn off electronic devices when not in use. They also learn to <strong>(14) ________</strong> single-use items and walk or ride bicycles to school. <strong>(15) ________</strong> shifting to an eco-friendly lifestyle requires patience and discipline, the long-term benefits to public health and biodiversity are immeasurable.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (12):</p>",
+    "choices": [
+      {
+        "id": "81_12_1",
+        "text": "other",
+        "html": "other"
+      },
+      {
+        "id": "81_12_2",
+        "text": "another",
+        "html": "another"
+      },
+      {
+        "id": "81_12_3",
+        "text": "others",
+        "html": "others"
+      },
+      {
+        "id": "81_12_4",
+        "text": "the other",
+        "html": "the other"
+      }
+    ],
+    "correctChoiceId": "81_12_1",
+    "explanation": "<p>Đứng trước danh từ số nhiều 'biodegradable materials': dùng <strong>other</strong> (other + N số nhiều). 'Another' chỉ đi với N số ít.</p>",
+    "ruleTip": "'other + danh từ số nhiều' (các vật khác); 'another + danh từ số ít' (một cái khác)."
+  },
+  {
+    "id": "81_13",
+    "questionName": "Question 13",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>In recent years, more and more urban families have committed to adopting green living habits. By doing so, they not only protect the surrounding nature but also minimize their carbon <strong>(11) ________</strong> significantly. Instead of purchasing goods wrapped in layers of plastic packaging, conscious consumers opt for products made from bamboo, glass, and <strong>(12) ________</strong> biodegradable materials. Furthermore, young students <strong>(13) ________</strong> participate in school environmental campaigns are encouraged to turn off electronic devices when not in use. They also learn to <strong>(14) ________</strong> single-use items and walk or ride bicycles to school. <strong>(15) ________</strong> shifting to an eco-friendly lifestyle requires patience and discipline, the long-term benefits to public health and biodiversity are immeasurable.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (13):</p>",
+    "choices": [
+      {
+        "id": "81_13_2",
+        "text": "which",
+        "html": "which"
+      },
+      {
+        "id": "81_13_3",
+        "text": "whose",
+        "html": "whose"
+      },
+      {
+        "id": "81_13_4",
+        "text": "whom",
+        "html": "whom"
+      },
+      {
+        "id": "81_13_1",
+        "text": "who",
+        "html": "who"
+      }
+    ],
+    "correctChoiceId": "81_13_1",
+    "explanation": "<p>Bổ nghĩa cho 'young students' (danh từ chỉ người) làm chủ ngữ trước động từ 'participate': dùng <strong>who</strong>.</p>",
+    "ruleTip": "Đại từ quan hệ bổ nghĩa cho danh từ chỉ người: dùng WHO."
+  },
+  {
+    "id": "81_14",
+    "questionName": "Question 14",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>In recent years, more and more urban families have committed to adopting green living habits. By doing so, they not only protect the surrounding nature but also minimize their carbon <strong>(11) ________</strong> significantly. Instead of purchasing goods wrapped in layers of plastic packaging, conscious consumers opt for products made from bamboo, glass, and <strong>(12) ________</strong> biodegradable materials. Furthermore, young students <strong>(13) ________</strong> participate in school environmental campaigns are encouraged to turn off electronic devices when not in use. They also learn to <strong>(14) ________</strong> single-use items and walk or ride bicycles to school. <strong>(15) ________</strong> shifting to an eco-friendly lifestyle requires patience and discipline, the long-term benefits to public health and biodiversity are immeasurable.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (14):</p>",
+    "choices": [
+      {
+        "id": "81_14_2",
+        "text": "run out of",
+        "html": "run out of"
+      },
+      {
+        "id": "81_14_1",
+        "text": "cut down on",
+        "html": "cut down on"
+      },
+      {
+        "id": "81_14_3",
+        "text": "look up to",
+        "html": "look up to"
+      },
+      {
+        "id": "81_14_4",
+        "text": "get on with",
+        "html": "get on with"
+      }
+    ],
+    "correctChoiceId": "81_14_1",
+    "explanation": "<p>Cắt giảm đồ nhựa dùng một lần: <strong>cut down on</strong> single-use items (cắt giảm tiêu thụ).<br/>run out of: hết sạch; look up to: ngưỡng mộ; get on with: hòa thuận.</p>",
+    "ruleTip": "'cut down on' = reduce (cắt giảm bớt lượng tiêu thụ đồ nhựa)."
+  },
+  {
+    "id": "81_15",
+    "questionName": "Question 15",
+    "questionText": "<div class=\"mb-4 p-4 rounded-xl bg-slate-50 border border-slate-200 text-sm leading-relaxed text-slate-700\"><p class=\"font-bold text-slate-900 mb-2\">Read the following passage and mark the letter A, B, C, or D to indicate the correct word that best fits each of the numbered blanks.</p><p>In recent years, more and more urban families have committed to adopting green living habits. By doing so, they not only protect the surrounding nature but also minimize their carbon <strong>(11) ________</strong> significantly. Instead of purchasing goods wrapped in layers of plastic packaging, conscious consumers opt for products made from bamboo, glass, and <strong>(12) ________</strong> biodegradable materials. Furthermore, young students <strong>(13) ________</strong> participate in school environmental campaigns are encouraged to turn off electronic devices when not in use. They also learn to <strong>(14) ________</strong> single-use items and walk or ride bicycles to school. <strong>(15) ________</strong> shifting to an eco-friendly lifestyle requires patience and discipline, the long-term benefits to public health and biodiversity are immeasurable.</p></div><p class=\"font-semibold text-slate-900\">Choose the best answer for blank (15):</p>",
+    "choices": [
+      {
+        "id": "81_15_2",
+        "text": "Because",
+        "html": "Because"
+      },
+      {
+        "id": "81_15_3",
+        "text": "Unless",
+        "html": "Unless"
+      },
+      {
+        "id": "81_15_1",
+        "text": "Although",
+        "html": "Although"
+      },
+      {
+        "id": "81_15_4",
+        "text": "In case",
+        "html": "In case"
+      }
+    ],
+    "correctChoiceId": "81_15_1",
+    "explanation": "<p>Liên từ chỉ sự nhượng bộ đứng đầu mệnh đề: <strong>Although</strong> (Mặc dù việc thay đổi thói quen đòi hỏi kỷ luật, lợi ích lâu dài là vô giá).</p>",
+    "ruleTip": "'Although + S + V' diễn tả sự tương phản, nhượng bộ (Mặc dù... nhưng...)."
+  }
+]

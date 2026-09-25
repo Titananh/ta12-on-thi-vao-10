@@ -1,0 +1,27 @@
+{
+  "topicName": "Ngữ âm - Phát âm (Pronunciation)",
+  "englishName": "Pronunciation Rules",
+  "detail": "\n      <div class=\"theory-section space-y-4\">\n        <p class=\"font-medium text-slate-800\">Phần thi phát âm vào 10 thường tập trung vào 3 nhóm câu hỏi then chốt: <strong>Đuôi \"-ed\"</strong>, <strong>Đuôi \"-s/-es\"</strong>, và <strong>Nguyên âm/Phụ âm</strong>.</p>\n        \n        <h4 class=\"text-base font-bold text-emerald-800 border-b border-emerald-100 pb-1 mt-3\">1. Quy tắc phát âm đuôi \"-ed\":</h4>\n        <ul class=\"list-disc pl-5 space-y-1.5 text-slate-700\">\n          <li><strong>/ɪd/:</strong> Khi âm tận cùng là <strong>/t/, /d/</strong> (Mẹo: <em>tiền đô</em>).<br><span class=\"text-xs text-slate-500 italic\">VD: wanted, decided, needed, waited.</span></li>\n          <li><strong>/t/:</strong> Khi âm tận cùng là các âm vô thanh: <strong>/p/, /k/, /f/, /s/, /ʃ/, /tʃ/</strong> (Mẹo: <em>Chính Phủ Phát Sách Không Cho</em>).<br><span class=\"text-xs text-slate-500 italic\">VD: stopped, looked, laughed, washed, watched.</span></li>\n          <li><strong>/d/:</strong> Các trường hợp còn lại (nguyên âm và phụ âm hữu thanh).<br><span class=\"text-xs text-slate-500 italic\">VD: played, cleaned, loved, opened.</span></li>\n        </ul>\n\n        <h4 class=\"text-base font-bold text-emerald-800 border-b border-emerald-100 pb-1 mt-3\">2. Quy tắc phát âm đuôi \"-s / -es\":</h4>\n        <ul class=\"list-disc pl-5 space-y-1.5 text-slate-700\">\n          <li><strong>/s/:</strong> Tận cùng là âm vô thanh: <strong>/p/, /k/, /f/, /t/, /θ/</strong> (Mẹo: <em>Thời Phong Kiến Phương Tây</em>).<br><span class=\"text-xs text-slate-500 italic\">VD: stops, books, laughs, cats, months.</span></li>\n          <li><strong>/ɪz/:</strong> Tận cùng là âm xuýt: <strong>/s/, /z/, /ʃ/, /tʃ/, /ʒ/, /dʒ/</strong> (Mẹo: <em>Sóng Gió Chẳng Sợ Gió Dông</em>: s, x, z, ch, sh, ce, ge).<br><span class=\"text-xs text-slate-500 italic\">VD: misses, watches, washes, changes, boxes.</span></li>\n          <li><strong>/z/:</strong> Các âm hữu thanh và nguyên âm còn lại.<br><span class=\"text-xs text-slate-500 italic\">VD: plays, pens, rooms, dogs.</span></li>\n        </ul>\n      </div>\n    ",
+  "rules": [
+    {
+      "sound": "/ɪd/",
+      "rule": "Đuôi -ed phát âm là /ɪd/ khi tận cùng là /t/ hoặc /d/",
+      "examples": "wanted, needed, decided"
+    },
+    {
+      "sound": "/t/",
+      "rule": "Đuôi -ed phát âm là /t/ khi tận cùng là /p, k, f, s, ʃ, tʃ/",
+      "examples": "looked, watched, stopped, washed"
+    },
+    {
+      "sound": "/s/",
+      "rule": "Đuôi -s/-es phát âm là /s/ với /p, k, f, t, θ/",
+      "examples": "books, cats, maps, months"
+    },
+    {
+      "sound": "/ɪz/",
+      "rule": "Đuôi -s/-es phát âm là /ɪz/ với âm gió /s, z, ʃ, tʃ, dʒ/",
+      "examples": "watches, boxes, classes, pages"
+    }
+  ]
+}

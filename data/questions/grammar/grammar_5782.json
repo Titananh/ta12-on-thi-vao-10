@@ -1,0 +1,946 @@
+{
+  "quizId": 5782,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 75: Wh- questions & Yes/No questions (Câu hỏi với \"Wh-\" & Câu hỏi Yes/No)",
+  "totalQuestions": 24,
+  "questions": [
+    {
+      "id": 900229,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "CheckBox",
+      "questionText": "<p><em>Ch&#7885;n &#273;&#225;p &#225;n &#273;&#250;ng.</em></p>\n<p><strong>&#272;&#7875; t&#7841;o m&#7897;t c&#226;u h&#7887;i Yes/No, ch&#250;ng ta c&#7847;n &#273;&#7863;t ____ tr&#432;&#7899;c ch&#7911; ng&#7919;.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1711105,
+          "label": "A",
+          "text": "Động từ chính",
+          "isCorrect": false
+        },
+        {
+          "id": 1711106,
+          "label": "B",
+          "text": "Trợ động từ",
+          "isCorrect": true
+        },
+        {
+          "id": 1711107,
+          "label": "C",
+          "text": "Giới từ",
+          "isCorrect": false
+        },
+        {
+          "id": 1711108,
+          "label": "D",
+          "text": "Động từ \"be\"",
+          "isCorrect": true
+        },
+        {
+          "id": 1711109,
+          "label": "E",
+          "text": "Động từ khuyết thiếu",
+          "isCorrect": true
+        },
+        {
+          "id": 1711110,
+          "label": "F",
+          "text": "Trạng từ",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1711106,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 49.7293%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/4_-_Copy_31_da702624.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7293%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/5_-_Copy_34_9a1a52d9.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 900231,
+      "questionNumber": 2,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>X&#225;c &#273;&#7883;nh c&#225;c c&#226;u sau &#273;&#226;y l&#224; &#273;&#250;ng hay sai.</strong></p>\n<p>1. N&#7871;u c&#243; m&#7897;t c&#7909;m &#273;&#7897;ng t&#7915;, ch&#250;ng ta c&#243; th&#7875; &#273;&#7863;t gi&#7899;i t&#7915; &#7903; &#273;&#7847;u c&#226;u h&#7887;i &#273;&#7875; l&#224;m cho c&#226;u h&#7887;i trang tr&#7885;ng h&#417;n. <span class='fillblank-option'><label>2.1</label><select class='ms fillblank-option-2' index='0' name='fbo-900231-0' data-testid='fillblank-select-900231-0'><option value='' data-testid='fillblank-option-empty-900231-0'></option><option value=\"Đúng\" data-testid='fillblank-option-900231-0-Đúng'>Đúng</option><option value=\"Sai\" data-testid='fillblank-option-900231-0-Sai'>Sai</option></select></span></p>\n<p>2. Trong giao ti&#7871;p, t&#7915; &#273;&#7875; h&#7887;i (wh-word) c&#243; th&#7875; &#273;&#7913;ng &#7903; cu&#7889;i c&#226;u &#273;&#7875; t&#7841;o th&#224;nh m&#7897;t c&#226;u h&#7887;i. <span class='fillblank-option'><label>2.2</label><select class='ms fillblank-option-2' index='1' name='fbo-900231-1' data-testid='fillblank-select-900231-1'><option value='' data-testid='fillblank-option-empty-900231-1'></option><option value=\"Sai\" data-testid='fillblank-option-900231-1-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-900231-1-Đúng'>Đúng</option></select></span></p>\n<p>3. C&#226;u h&#7887;i Yes/No &#7903; d&#7841;ng ph&#7911; &#273;&#7883;nh &#273;&#432;&#7907;c s&#7917; d&#7909;ng &#273;&#7875; x&#225;c nh&#7853;n &#273;i&#7873;u m&#224; ch&#250;ng ta tin l&#224; &#273;&#250;ng ho&#7863;c &#273;&#7875; &#273;&#432;a ra l&#7901;i m&#7901;i v&#224; &#273;&#7873; ngh&#7883;. <span class='fillblank-option'><label>2.3</label><select class='ms fillblank-option-2' index='2' name='fbo-900231-2' data-testid='fillblank-select-900231-2'><option value='' data-testid='fillblank-option-empty-900231-2'></option><option value=\"Sai\" data-testid='fillblank-option-900231-2-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-900231-2-Đúng'>Đúng</option></select></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Sai"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Đúng"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "Đúng"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Kh&ocirc;ng thể t&aacute;ch cụm động từ khi đặt c&acirc;u hỏi.</p>\n<p>V&iacute; dụ: <span class=\"JsGRdQ\"><em>When did you <strong>pick </strong>her <strong>up</strong>?</em></span></p>\n<p>=&gt; \"Nếu c&oacute; một cụm động từ, ch&uacute;ng ta c&oacute; thể đặt giới từ ở đầu c&acirc;u hỏi để l&agrave;m c&acirc;u hỏi trang trọng hơn.\" l&agrave; sai.</p>\n<p>2. Khi n&oacute;i (trong trường hợp th&acirc;n mật), ta c&oacute; thể đặt từ để hỏi ở cuối tường thật để đặt c&acirc;u hỏi.</p>\n<p>V&iacute; dụ:</p>\n<p>- <em>They went <strong>which way</strong>?</em></p>\n<p>- Trang trọng hơn: <em><strong>Which way</strong> did they go?</em></p>\n<p>=&gt; \"Trong văn n&oacute;i, từ để hỏi c&oacute; thể đứng ở cuối c&acirc;u tường thật để tạo c&acirc;u hỏi.\" l&agrave; đ&uacute;ng.</p>\n<p>3. \"C&aacute;c c&acirc;u hỏi phủ định Yes/No được sử dụng để x&aacute;c nhận điều g&igrave; đ&oacute; m&agrave; ch&uacute;ng ta tin rằng đ&oacute; l&agrave; sự thật hoặc để đưa ra lời mời v&agrave; đề nghị.\" l&agrave; đ&uacute;ng.</p>\n<p>V&iacute; dụ:</p>\n<p>- <em><strong>Isn&rsquo;t </strong>Dan's bike red?</em> (Người hỏi tin rằng c&aacute;i xe m&agrave;u đỏ v&agrave; chỉ muốn x&aacute;c nhận lại.)</p>\n<p>- <em><strong>Won&rsquo;t </strong>you have dinner with us?</em> (Lời mời, nhấn mạnh hơn <em>Will you ...?</em>)</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 64513,
+      "questionNumber": 3,
+      "questionName": "Question 151:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>&quot;_____ are you going to travel to Ha Noi?&quot; - &quot;By train.&quot;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 171832,
+          "label": "A",
+          "text": "What",
+          "isCorrect": false
+        },
+        {
+          "id": 171833,
+          "label": "B",
+          "text": "How",
+          "isCorrect": true
+        },
+        {
+          "id": 171834,
+          "label": "C",
+          "text": "When",
+          "isCorrect": false
+        },
+        {
+          "id": 171835,
+          "label": "D",
+          "text": "Where",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 171833,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Xem x&eacute;t th&ocirc;ng tin trong c&acirc;u trả lời ''<em data-start=\"123\" data-end=\"134\">By train'' </em>l&agrave; c&acirc;u trả lời cho <strong data-start=\"158\" data-end=\"183\">phương tiện di chuyển</strong>.</p>\n<p>H&atilde;y nhớ lại từ để hỏi d&ugrave;ng để hỏi về <strong data-start=\"222\" data-end=\"252\">phương tiện hoặc c&aacute;ch thức</strong>, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><strong>Từ để hỏi.</strong></span></p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> D&ugrave;ng trong c&acirc;u hỏi về c&aacute;c th&ocirc;ng tin cụ thể như người, vật, thời gian, địa điểm, c&aacute;ch thức, l&yacute; do, số lượng, v.v., m&agrave; kh&ocirc;ng thể trả lời bằng \"Yes\" hoặc \"No\".</p>\n<p><strong>Một số từ để hỏi:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><em>What</em>:</strong> C&aacute;i g&igrave;, điều g&igrave; (hỏi về vật, sự việc, h&agrave;nh động).</li>\n<li style=\"text-align: justify;\"><strong><em>How</em>: </strong>Bằng c&aacute;ch n&agrave;o, như thế n&agrave;o (hỏi về c&aacute;ch thức, phương tiện, t&igrave;nh trạng).</li>\n<li style=\"text-align: justify;\"><strong><em>When</em>:</strong> Khi n&agrave;o (hỏi về thời gian).</li>\n<li style=\"text-align: justify;\"><strong><em>Where</em>:</strong> Ở đ&acirc;u (hỏi về địa điểm).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u trả lời <em>\"By train.\"</em> (Bằng t&agrave;u hỏa) chỉ r&otilde; phương tiện hoặc c&aacute;ch thức di chuyển. Để hỏi về c&aacute;ch thức hoặc phương tiện, ch&uacute;ng ta cần sử dụng từ để hỏi <em>\"How\"</em>.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n c&ograve;n lạ đều kh&ocirc;ng ph&ugrave; hợp:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>What</em>\" d&ugrave;ng để hỏi về vật, sự việc hoặc h&agrave;nh động.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 \"<em>When</em>\" d&ugrave;ng để hỏi về thời gian.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<em>Where</em>\" d&ugrave;ng để hỏi về địa điểm.</li>\n</ul>\n<p style=\"text-align: justify;\">&nbsp;</p>",
+      "answerFeedbacks": {
+        "171832": "Sai, <em>\"What\"</em> dùng để hỏi về vật, sự việc hoặc hành động, không hỏi về cách thức di chuyển.",
+        "171833": "Đúng, <em>\"How\"</em> dùng để hỏi về cách thức hoặc phương tiện, phù hợp với câu trả lời <em>\"By train.\"</em>.",
+        "171834": "Sai, <em>\"When\"</em> dùng để hỏi về thời gian, không hỏi về cách thức di chuyển.",
+        "171835": "Sai, <em>\"Where\"</em> dùng để hỏi về địa điểm, không hỏi về cách thức di chuyển."
+      },
+      "images": []
+    },
+    {
+      "id": 253228,
+      "questionNumber": 4,
+      "questionName": "15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Where are the children? Are they here? &#8211; No, they _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 567112,
+          "label": "A",
+          "text": "don’t",
+          "isCorrect": false
+        },
+        {
+          "id": 567113,
+          "label": "B",
+          "text": "aren’t",
+          "isCorrect": true
+        },
+        {
+          "id": 567114,
+          "label": "C",
+          "text": "doesn’t",
+          "isCorrect": false
+        },
+        {
+          "id": 567115,
+          "label": "D",
+          "text": "didn’t",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 567113,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u hỏi Yes/No để hỏi vị tr&iacute; của ai/c&aacute;i g&igrave;: <strong>Be + S + trạng từ/cụm giới từ?</strong> =&gt; <strong>No, S + be + not.</strong></p>\n<p>Dịch: Bọn trẻ ở đ&acirc;u? Ch&uacute;ng ở đ&acirc;y kh&ocirc;ng? - Kh&ocirc;ng, ch&uacute;ng kh&ocirc;ng ở đ&acirc;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 63568,
+      "questionNumber": 5,
+      "questionName": "Question 2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>How can I know _____ book is yours? They are so alike.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 170033,
+          "label": "A",
+          "text": "what",
+          "isCorrect": false
+        },
+        {
+          "id": 170034,
+          "label": "B",
+          "text": "which",
+          "isCorrect": true
+        },
+        {
+          "id": 170035,
+          "label": "C",
+          "text": "where",
+          "isCorrect": false
+        },
+        {
+          "id": 170036,
+          "label": "D",
+          "text": "when",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 170034,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>which </strong>(pron.): c&aacute;i n&agrave;o (hỏi về lựa chọn)</p>\n<p>what (pron.): c&aacute;i g&igrave;&nbsp;</p>\n<p>where (adv.): ở đ&acirc;u</p>\n<p>when (adv.): khi n&agrave;o</p>\n<p>Dịch: L&agrave;m sao t&ocirc;i biết được cuốn s&aacute;ch n&agrave;o l&agrave; của bạn? Ch&uacute;ng rất giống nhau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 64582,
+      "questionNumber": 6,
+      "questionName": "Question 214:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>- “Would you like some noodles, Mai?”</strong></p>\n<p><strong>- “No, _____. I’m full. Thanks.”</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 172104,
+          "label": "A",
+          "text": "I wouldn’t",
+          "isCorrect": true
+        },
+        {
+          "id": 172105,
+          "label": "B",
+          "text": "I don’t",
+          "isCorrect": false
+        },
+        {
+          "id": 172106,
+          "label": "C",
+          "text": "I’m not",
+          "isCorrect": false
+        },
+        {
+          "id": 172107,
+          "label": "D",
+          "text": "I didn't",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 172104,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Khi trả lời ngắn cho câu hỏi Yes/No, hãy chú ý đến động từ mở đầu câu hỏi để chọn trợ động từ hoặc động từ khuyết thiếu phù hợp cho câu trả lời ngắn.</p>\n<p>Câu hỏi bắt đầu bằng <em>\"Would you like...\"</em> sử dụng động từ khuyết thiếu <em>\"would\"</em> để đưa ra lời mời. Hãy tìm ra câu trả lời phù hợp với cấu trúc này ở dạng phủ định.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Trả lời ngắn cho câu hỏi Yes/No</span>.</p><blockquote style=\"margin-left: 0px; padding-left: 18px;\"><p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để đưa ra câu trả lời khẳng định hoặc phủ định ngắn gọn cho một câu hỏi Yes/No, tránh lặp lại toàn bộ câu hỏi và làm cho cuộc hội thoại tự nhiên hơn.</p><p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">Yes, S + Aux.V./Modal V. hoặc No, S + Aux.V./Modal V. + not</span></p><p><strong>Một số cách trả lời ngắn phủ định:</strong></p><ul style=\"padding-left: 30px;\"><li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">No, S + wouldn’t:</span></strong> Trả lời phủ định cho câu hỏi dùng <em>\"Would...?\"</em> (diễn đạt lời mời, đề nghị, mong muốn)</li><li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">No, S + don’t/doesn’t:</span></strong> Trả lời phủ định cho câu hỏi dùng <em>\"Do/Does...?\"</em> (diễn đạt thói quen, sự thật)</li><li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">No, S + am/is/are not:</span></strong> Trả lời phủ định cho câu hỏi dùng <em>\"Are/Is...?\"</em> (diễn đạt trạng thái, hiện tại tiếp diễn)</li><li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">No, S + didn’t:</span></strong> Trả lời phủ định cho câu hỏi dùng <em>\"Did...?\"</em> (diễn đạt hành động trong quá khứ)</li></ul></blockquote><p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p><p style=\"text-align: justify;\">Câu hỏi <em>\"Would you like some noodles, Mai?\"</em> sử dụng động từ khuyết thiếu <em>\"would\"</em> để đưa ra lời mời. Theo quy tắc trả lời ngắn cho câu hỏi Yes/No, khi câu hỏi dùng <em>\"would\"</em>, câu trả lời ngắn phủ định phải dùng <em>\"wouldn’t\"</em>.</p><p style=\"text-align: justify;\">Phương án 2 (<em>\"I don’t\"</em>), 3 (<em>\"I’m not\"</em>) và 4 (<em>\"I didn’t\"</em>) đều sai vì chúng là các dạng trả lời ngắn cho các loại câu hỏi khác nhau (<em>Do/Does...?, Are/Is...?, Did...?</em>), không phù hợp với động từ khuyết thiếu <em>\"would\"</em> trong câu hỏi gốc.</p>",
+      "answerFeedbacks": {
+        "172104": "Đúng vì câu trả lời ngắn phủ định phải dùng trợ động từ hoặc động từ khuyết thiếu \"would\" tương ứng với câu hỏi <em>\"Would you like...\"</em>.",
+        "172105": "Sai vì <em>\"don’t\"</em> dùng để trả lời câu hỏi với <em>\"Do/Does...\"</em>, không phải <em>\"Would...\"</em>.",
+        "172106": "Sai vì <em>\"am not\"</em> dùng để trả lời câu hỏi với <em>\"Are/Is...\"</em>, không phải <em>\"Would...\"</em>.",
+        "172107": "Sai vì <em>\"didn’t\"</em> dùng để trả lời câu hỏi với <em>\"Did...\"</em>, không phải <em>\"Would...\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 115351,
+      "questionNumber": 7,
+      "questionName": "32",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>\"______, Sir?\" - \"Fruit salad, please.\"</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 275207,
+          "label": "A",
+          "text": "What would you like for dessert",
+          "isCorrect": true
+        },
+        {
+          "id": 275208,
+          "label": "B",
+          "text": "What dessert you would like",
+          "isCorrect": false
+        },
+        {
+          "id": 275209,
+          "label": "C",
+          "text": "How would you like for dessert",
+          "isCorrect": false
+        },
+        {
+          "id": 275210,
+          "label": "D",
+          "text": "How dessert would like",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 275207,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Câu trả lời <em>\"Fruit salad, please.\"</em> là một dấu hiệu quan trọng cho loại thông tin mà câu hỏi cần tìm. Khi hỏi về một vật hoặc một món ăn cụ thể, chúng ta thường dùng <em>\"What\"</em>.</p>\n<p>Hãy lưu ý trật tự từ trong câu hỏi với động từ khiếm khuyết để tìm ra phương án đúng.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc câu hỏi với \"Would like\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn đạt một lời đề nghị, một yêu cầu lịch sự hoặc hỏi về mong muốn, sở thích của ai đó.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: Wh-word/How + Modal V. (would) + S + V(inf) + ...?</strong></p>\n<p><strong>Một số cấu trúc câu hỏi với \"would like\":</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">What would S like (to do/to have)?</span></strong>: ...muốn gì/muốn làm gì? (Hỏi về mong muốn cụ thể)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">How would S like...?</span></strong>: ...muốn cái gì đó như thế nào? (Hỏi về cách thức, hình thức)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Would S like...?</span></strong>: ...có muốn...? (Lời mời, đề nghị)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Ngữ cảnh <em>\"Fruit salad, please.\"</em> cho thấy câu hỏi cần hỏi về món ăn cụ thể mà người nghe muốn dùng làm tráng miệng nên cần dùng từ hỏi <em>\"What\"</em> để hỏi về sự vật. Cấu trúc câu hỏi với động từ khiếm khuyết <em>\"would\"</em> phải tuân theo trật tự <em>Wh-word + would + subject + main verb</em>.</p>\n<p style=\"text-align: justify;\">Phương án 1 <em>\"What would you like for dessert\"</em>, tuân thủ đúng cấu trúc ngữ pháp và phù hợp với ngữ cảnh, hỏi về món tráng miệng mà người nghe mong muốn. Các phương án còn lại đều không phải cấu trúc để hỏi chính xác về món ăn cụ thể mà người nghe muốn.</p>",
+      "answerFeedbacks": {
+        "275207": "Đúng vì đây là cấu trúc câu hỏi chính xác và lịch sự để hỏi về mong muốn một món ăn cụ thể (\"What would you like?\") và phù hợp với câu trả lời <em>\"Fruit salad, please.\"</em>",
+        "275208": "Sai vì trật tự từ trong câu hỏi Wh- không đúng, động từ khiếm khuyết <em>\"would\"</em> phải đứng trước chủ ngữ <em>\"you\"</em>.",
+        "275209": "Sai vì <em>\"How\"</em> hỏi về cách thức hoặc tình trạng, không phù hợp để hỏi về món ăn cụ thể mà người nói muốn.",
+        "275210": "Sai vì cả trật tự từ và từ hỏi đều không đúng trong ngữ cảnh này, và thiếu chủ ngữ cho động từ <em>\"like\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 740840,
+      "questionNumber": 8,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>A: \"Does Katty live in a village with her grandmother?\"</strong></p>\n<p><strong>B: \"_____\"</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1431523,
+          "label": "A",
+          "text": "Yes, I do.",
+          "isCorrect": false
+        },
+        {
+          "id": 1431524,
+          "label": "B",
+          "text": "Yes, she is.",
+          "isCorrect": false
+        },
+        {
+          "id": 1431525,
+          "label": "C",
+          "text": "No, she isn't.",
+          "isCorrect": false
+        },
+        {
+          "id": 1431526,
+          "label": "D",
+          "text": "No, she doesn’t.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1431526,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Khi trả lời câu hỏi Yes/No trong thì Hiện tại đơn, hãy chú ý đến trợ động từ và chủ ngữ của câu hỏi.</p>\n<ul>\n<li>Câu hỏi của A là <em>\"Does Katty live...?\"</em>. Trợ động từ là <em>\"Does\"</em>, cho biết đây là thì Hiện tại đơn.</li>\n<li>Chủ ngữ <em>\"Katty\"</em> là danh từ riêng chỉ người nữ, tương ứng với đại từ nhân xưng <em>\"she\"</em>.</li>\n</ul>\n<p>Trong câu trả lời ngắn, bạn cần dùng lại trợ động từ và đại từ nhân xưng phù hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Hiện tại đơn: Câu hỏi Yes/No và câu trả lời ngắn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để hỏi và trả lời về thói quen, sự thật hiển nhiên, hoặc hành động lặp đi lặp lại. Câu trả lời ngắn Yes/No được dùng để xác nhận hoặc phủ định thông tin một cách nhanh gọn.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Câu hỏi: Do/Does + S + V(inf)...?</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Trả lời khẳng định: Yes, S + do/does.</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Trả lời phủ định: No, S + do/does + not.</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu hỏi của A là <em>\"Does Katty live...?\"</em> sử dụng trợ động từ <em>\"Does\"</em> và chủ ngữ <em>\"Katty\"</em> (ngôi thứ ba số ít). Để trả lời câu hỏi Yes/No trong thì Hiện tại đơn, cần dùng lại trợ động từ <em>\"do/does\"</em> và đại từ nhân xưng tương ứng với chủ ngữ. <em>\"Katty\"</em> là danh từ riêng chỉ người nữ, tương ứng với đại từ <em>\"she\"</em>. Vì vậy, phương án đúng phải là <em>\"No, she doesn’t.\"</em> để phủ định thông tin.</p>\n<p style=\"text-align: justify;\">Phương án 1 <em>\"Yes, I do.\"</em> sai chủ ngữ, phương án 2 <em>\"Yes, she is.\"</em> và phương án 3 <em>\"No, she isn't.\"</em> sai trợ động từ vì dùng <em>\"is/isn't\"</em> thay vì <em>\"does/doesn't\".</em></p>",
+      "answerFeedbacks": {
+        "1431523": "Sai vì chủ ngữ <em>\"I\"</em> không phù hợp với chủ ngữ <em>\"Katty\"</em> trong câu hỏi.",
+        "1431524": "Sai vì trợ động từ <em>\"is\"</em> không dùng để trả lời câu hỏi <em>\"Does...?\"</em> trong thì Hiện tại đơn.",
+        "1431525": "Sai vì trợ động từ <em>\"isn't\"</em> không dùng để trả lời câu hỏi <em>\"Does...?\"</em> trong thì Hiện tại đơn.",
+        "1431526": "Đúng vì câu trả lời phủ định phải dùng đại từ <em>\"she\"</em> thay thế cho <em>\"Katty\"</em> và trợ động từ <em>\"doesn’t\"</em> tương ứng với thì Hiện tại đơn và chủ ngữ số ít."
+      },
+      "images": []
+    },
+    {
+      "id": 75304,
+      "questionNumber": 9,
+      "questionName": "Question 7:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>She wondered _____ her father looked like now, after so many years away.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 189156,
+          "label": "A",
+          "text": "how",
+          "isCorrect": false
+        },
+        {
+          "id": 189157,
+          "label": "B",
+          "text": "whether",
+          "isCorrect": false
+        },
+        {
+          "id": 189158,
+          "label": "C",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 189159,
+          "label": "D",
+          "text": "what",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 189159,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để ho&agrave;n th&agrave;nh c&acirc;u hỏi gi&aacute;n tiếp n&agrave;y, h&atilde;y ch&uacute; &yacute; đến mệnh đề ch&iacute;nh <em>\"She wondered\"</em> v&agrave; cụm động từ <em>\"looked like now\"</em>. Bạn cần chọn từ hỏi ph&ugrave; hợp để hỏi về ngoại h&igrave;nh hoặc đặc điểm của người cha.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Từ hỏi trong câu hỏi gián tiếp</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Từ hỏi trong câu hỏi gián tiếp được dùng để tường thuật lại một câu hỏi mà không sử dụng cấu trúc câu hỏi trực tiếp. Nó thường theo sau các động từ như \"<em>wonder</em>\", \"<em>ask</em>\", \"<em>want to know</em>\", v.v., và tuân theo cấu trúc câu trần thuật.</p>\n<p style=\"text-align: justify;\"><strong>Một số từ hỏi trong câu gián tiếp: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">what </span></strong>(dùng để hỏi về thông tin, sự vật, sự việc, hoặc mô tả)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">how</span></strong> (dùng để hỏi về cách thức, phương tiện, hoặc mức độ)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">whether</span></strong> (dùng để hỏi về sự lựa chọn giữa hai khả năng, có/không)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">that</span></strong> (dùng làm liên từ nối mệnh đề danh ngữ, tường thuật một phát biểu, không phải câu hỏi)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm từ <em>\"looked like\"</em> được dùng để hỏi về ngoại hình hoặc đặc điểm của một người/vật. Do đó, từ để hỏi phù hợp nhất để điền vào chỗ trống là <em>\"what\"</em> để hoàn thành cấu trúc <em>\"what... look like\"</em> (trông như thế nào).</p>\n<p style=\"text-align: justify;\">Các phương án còn lại không chính xác:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương án <em>\"how\"</em> không phù hợp vì nó hỏi về cách thức hoặc mức độ.</li>\n<li style=\"text-align: justify;\">Phương án <em>\"whether\"</em> dùng cho câu hỏi Yes/No, không đúng ngữ cảnh.</li>\n<li style=\"text-align: justify;\">Phương án <em>\"that\"</em> dùng để giới thiệu mệnh đề danh ngữ tường thuật một phát biểu, không phải câu hỏi.</li>\n</ul>",
+      "answerFeedbacks": {
+        "189156": "Từ <em>\"how\"</em> thường dùng để hỏi về cách thức hoặc mức độ, không phù hợp để hỏi về ngoại hình khi đi với <em>\"looked like\"</em>.",
+        "189157": "Từ <em>\"whether\"</em> được dùng để hỏi về hai lựa chọn (có hay không), không thích hợp với ngữ cảnh hỏi về mô tả ngoại hình.",
+        "189158": "Liên từ <em>\"that\"</em> dùng để giới thiệu một mệnh đề danh ngữ tường thuật một phát biểu, không phải một câu hỏi gián tiếp về thông tin cụ thể.",
+        "189159": "Từ <em>\"what\"</em> kết hợp với <em>\"look like\"</em> tạo thành cụm từ hỏi về ngoại hình hoặc đặc điểm của ai đó/cái gì đó."
+      },
+      "images": []
+    },
+    {
+      "id": 253226,
+      "questionNumber": 10,
+      "questionName": "12",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Did you tell her about the accident? &#8211; Yes, I _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 567104,
+          "label": "A",
+          "text": "am",
+          "isCorrect": false
+        },
+        {
+          "id": 567105,
+          "label": "B",
+          "text": "do",
+          "isCorrect": false
+        },
+        {
+          "id": 567106,
+          "label": "C",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "id": 567107,
+          "label": "D",
+          "text": "did",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 567107,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u hỏi Yes/No ở th&igrave; qu&aacute; khứ đơn: <strong>Did + S + V(inf)?</strong> =&gt; <strong>Yes, S + did.</strong></p>\n<p>Dịch: Bạn c&oacute; n&oacute;i với c&ocirc; ấy về vụ tai nạn kh&ocirc;ng? - C&oacute;, t&ocirc;i đ&atilde; n&oacute;i rồi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 900236,
+      "questionNumber": 11,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>These questions are informal. Change them into formal forms.</strong></p>\n<p><em>Example: </em><strong>What</strong> did she clean the floor <strong>with</strong>?&nbsp;<strong>(informal)</strong> =&gt; <strong>With what</strong> did she clean the floor?&nbsp;<strong>(formal)</strong></p>\n<p>1. Whom are they having lunch with? =&gt; <span class='fillblank-option'><label>11.1</label><input id='fbo-900236-0' class='ms fillblank-option-11' index='0' name='fbo-900236-0' type='text' size='35' autocomplete='off' data-testid='fillblank-input-900236-0' /></span>?</p>\n<p>2. What did they make this table from? =&gt; <span class='fillblank-option'><label>11.2</label><input id='fbo-900236-1' class='ms fillblank-option-11' index='1' name='fbo-900236-1' type='text' size='35' autocomplete='off' data-testid='fillblank-input-900236-1' /></span>?</p>\n<p>3. Which book did she take notes in? =&gt;<strong> </strong><span class='fillblank-option'><label>11.3</label><input id='fbo-900236-2' class='ms fillblank-option-11' index='2' name='fbo-900236-2' type='text' size='36' autocomplete='off' data-testid='fillblank-input-900236-2' /></span>?</p>\n<p>4. What time does the train usually arrive? =&gt; <span class='fillblank-option'><label>11.4</label><input id='fbo-900236-3' class='ms fillblank-option-11' index='3' name='fbo-900236-3' type='text' size='44' autocomplete='off' data-testid='fillblank-input-900236-3' /></span>?</p>\n<p>5. Who is she waiting for? =&gt; <span class='fillblank-option'><label>11.5</label><input id='fbo-900236-4' class='ms fillblank-option-11' index='4' name='fbo-900236-4' type='text' size='26' autocomplete='off' data-testid='fillblank-input-900236-4' /></span>?</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "With whom are they having lunch"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "From what did they make this table"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "In which book did she take notes"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "At what time does the train usually arrive"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "For whom is she waiting"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Trong c&acirc;u hỏi trang trọng, lịch sự, ta d&ugrave;ng giới từ trước từ để hỏi.</p>\n<p>Trong văn phong th&acirc;n mật, suồng s&atilde;, đặc biệt l&agrave; khi n&oacute;i, giới từ được đặt ở cuối c&acirc;u hỏi.</p>\n<p>Dịch:</p>\n<p>1.&nbsp;Họ đang ăn trưa với ai?&nbsp;</p>\n<p>2. Họ đ&atilde; l&agrave;m chiếc b&agrave;n n&agrave;y từ c&aacute;i g&igrave;?&nbsp;</p>\n<p>3. C&ocirc; ấy đ&atilde; ghi ch&uacute; v&agrave;o cuốn s&aacute;ch n&agrave;o?&nbsp;</p>\n<p>4. T&agrave;u thường đến v&agrave;o l&uacute;c mấy giờ?&nbsp;</p>\n<p>5. C&ocirc; ấy đang chờ ai?&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 195885,
+      "questionNumber": 12,
+      "questionName": "Đoàn Thị Điểm - PT22 - 10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">How</span> do you go to <u>see</u> the dentist? &#8211; <u>Once</u> or twice <u>a month</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 447580,
+          "label": "A",
+          "text": "How",
+          "isCorrect": true
+        },
+        {
+          "id": 447581,
+          "label": "B",
+          "text": "see",
+          "isCorrect": false
+        },
+        {
+          "id": 447582,
+          "label": "C",
+          "text": "Once",
+          "isCorrect": false
+        },
+        {
+          "id": 447583,
+          "label": "D",
+          "text": "a month",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 447580,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ để hỏi \"<strong>How</strong>\" d&ugrave;ng để hỏi về trạng th&aacute;i, cảm x&uacute;c, như thế n&agrave;o =&gt; kh&ocirc;ng ph&ugrave; hợp với c&acirc;u trả lời về tần suất \"<strong>Once or twice a month</strong>\".</p>\n<p>\"<strong>How often</strong>\" hỏi về mức độ thường xuy&ecirc;n.&nbsp;</p>\n<p>Sửa: \"<strong>How</strong>\" =&gt; \"<strong>How often</strong>\"<strong>&nbsp;</strong></p>\n<p>Dịch: Bao l&acirc;u th&igrave; bạn đến gặp nha sĩ? - Một hoặc hai lần một th&aacute;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 108715,
+      "questionNumber": 13,
+      "questionName": "Q30",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>- <u>How far</u> did <u>it</u> take you <u>to get</u> to <u>the</u> airport yesterday? </strong></p>\n<p><strong>- One hour.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 258144,
+          "label": "A",
+          "text": "How far",
+          "isCorrect": true
+        },
+        {
+          "id": 258145,
+          "label": "B",
+          "text": "it",
+          "isCorrect": false
+        },
+        {
+          "id": 258146,
+          "label": "C",
+          "text": "to get",
+          "isCorrect": false
+        },
+        {
+          "id": 258147,
+          "label": "D",
+          "text": "the",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 258144,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem lại từ hỏi <em>\"How far\"</em> có phù hợp với câu trả lời ''<em>One hour</em>'' không.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra chủ ngữ giả <em>\"it\"</em> trong cấu trúc diễn tả thời gian cần để làm một việc gì đó.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét dạng động từ theo sau cấu trúc <em>\"It takes someone time...\"</em> đã đúng chưa.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đánh giá việc sử dụng mạo từ <em>\"the\"</em> trước danh từ <em>\"airport\"</em>.</li>\n</ul>\n<p style=\"text-align: justify;\">Đối chiếu từng quy tắc trên với câu gốc để xác định phần nào cần được sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Các từ hỏi về khoảng cách và thời gian</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các từ hỏi \"How far\" và \"How long\" được dùng để hỏi về các khía cạnh khác nhau của một sự việc hoặc hành trình. \"How far\" dùng để hỏi về khoảng cách vật lý, còn \"How long\" dùng để hỏi về khoảng thời gian.</p>\n<p style=\"text-align: justify;\"><strong>Một số từ hỏi về khoảng cách và thời gian:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">How far</span></strong>: hỏi về khoảng cách</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">How long</span></strong>: hỏi về khoảng thời gian</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Câu trả lời \"<em>One hour</em>\" chỉ một khoảng thời gian. Để hỏi về khoảng thời gian, chúng ta cần sử dụng từ hỏi <em>\"How long\"</em> thay vì <em>\"How far\"</em>. Từ <em>\"How far\"</em> dùng để hỏi về khoảng cách.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>How far</strong></em>\" =&gt; \"<em><strong>How long</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "258144": "Sai vì <em>\"How far\"</em> dùng để hỏi về khoảng cách, trong khi câu trả lời <em>\"One hour\"</em> chỉ về thời gian.",
+        "258145": "Đúng vì <em>\"it\"</em> là chủ ngữ giả trong cấu trúc <em>\"It takes + O + time + to V\"</em> để diễn tả thời gian cần để làm gì đó.",
+        "258146": "Đúng vì <em>\"to get\"</em> là dạng động từ nguyên thể có <em>\"to\"</em>, phù hợp với cấu trúc <em>\"It takes + O + time + to V\"</em>.",
+        "258147": "Đúng vì <em>\"the\"</em> là mạo từ xác định đứng trước danh từ <em>\"airport\"</em> khi nói về một sân bay cụ thể hoặc đã được đề cập."
+      },
+      "images": []
+    },
+    {
+      "id": 774031,
+      "questionNumber": 14,
+      "questionName": "28",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">What</span> you know <span style=\"text-decoration: underline;\">how</span> <span style=\"text-decoration: underline;\">to operate</span> <span style=\"text-decoration: underline;\">the</span> new computer system?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1487437,
+          "label": "A",
+          "text": "What",
+          "isCorrect": true
+        },
+        {
+          "id": 1487438,
+          "label": "B",
+          "text": "how",
+          "isCorrect": false
+        },
+        {
+          "id": 1487439,
+          "label": "C",
+          "text": "to operate",
+          "isCorrect": false
+        },
+        {
+          "id": 1487440,
+          "label": "D",
+          "text": "the",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1487437,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u hỏi với từ để hỏi: <strong>Wh-word + Aux.V/Modal Verbs + S + V + ...? </strong>=&gt; D&ugrave;ng từ để hỏi \"<strong>what</strong>\" ở c&acirc;u hỏi tr&ecirc;n l&agrave; sai ngữ ph&aacute;p (v&igrave; ph&iacute;a sau cần c&oacute; một trợ động từ/động từ khuyết thiếu).</p>\n<p>Cấu tr&uacute;c c&acirc;u hỏi đảo với trợ động từ: <strong>Be/Do/Have + S + V + ...?</strong></p>\n<p>Sửa: \"<strong>What</strong>\" =&gt; \"<strong>Do</strong>\"</p>\n<p>Dịch: Bạn c&oacute; biết c&aacute;ch vận h&agrave;nh hệ thống m&aacute;y t&iacute;nh mới kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 154614,
+      "questionNumber": 15,
+      "questionName": "4.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "kind of",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "does",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "your daughter",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "like",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "TV programs",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "best?",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "What",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 147106,
+      "questionNumber": 16,
+      "questionName": "Did you play",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "Sunday?",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "last",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "hide and seek",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "play",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "you",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "Did",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 858004,
+      "questionNumber": 17,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Make a question for underlined words in this sentence.</em></p>\n<p><strong>The ASEAN Economic Community vision originated <span style=\"text-decoration: underline;\">at the 1997 ASEAN Summit in Kuala Lumpur</span>.</strong></p>\n<p><strong>=&gt; <span class='fillblank-option'><input id='fbo-858004-0' class='ms fillblank-option-17' index='0' name='fbo-858004-0' type='text' size='58' autocomplete='off' data-testid='fillblank-input-858004-0' /></span>?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Where did the ASEAN Economic Community vision originate"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cụm từ \"<strong>at the 1997 ASEAN Summit in Kuala Lumpur</strong>\" chỉ địa điểm. =&gt; D&ugrave;ng từ để hỏi \"<strong>where</strong>\" (ở đ&acirc;u).&nbsp;</p>\n<p>Cấu tr&uacute;c c&acirc;u hỏi ở th&igrave; qu&aacute; khứ đơn:<strong> Where + did + S + V(inf)...?</strong></p>\n<p>Dịch: Tầm nh&igrave;n về Cộng đồng Kinh tế ASEAN bắt nguồn từ đ&acirc;u?</p>\n<p>=&gt; Tầm nh&igrave;n về Cộng đồng Kinh tế ASEAN bắt nguồn từ Hội nghị Thượng đỉnh ASEAN năm 1997 tại Kuala Lumpur.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 858011,
+      "questionNumber": 18,
+      "questionName": "5",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Make a question for underlined words in this sentence.</em></p>\n<p><strong>Vietnam became a member of ASEAN <span style=\"text-decoration: underline;\">in 1995</span>.</strong></p>\n<p><strong>=&gt; <span class='fillblank-option'><input id='fbo-858011-0' class='ms fillblank-option-18' index='0' name='fbo-858011-0' type='text' size='42' autocomplete='off' data-testid='fillblank-input-858011-0' /></span></strong><strong>?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "When did Vietnam become a member of ASEAN"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cụm từ \"<strong>in 1995</strong>\" chỉ thời gian. =&gt; D&ugrave;ng từ để hỏi \"<strong>when</strong>\" (khi n&agrave;o).&nbsp;</p>\n<p>Cấu tr&uacute;c c&acirc;u hỏi ở th&igrave; qu&aacute; khứ đơn:<strong> When + did + S + V(inf)...?</strong></p>\n<p>Dịch: Khi n&agrave;o Việt Nam trở th&agrave;nh th&agrave;nh vi&ecirc;n của ASEAN?</p>\n<p>=&gt; Việt Nam đ&atilde; trở th&agrave;nh th&agrave;nh vi&ecirc;n của ASEAN v&agrave;o năm 1995.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 884400,
+      "questionNumber": 19,
+      "questionName": "47",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Make a question for underlined parts in this sentence.</em></p>\n<p><strong>Mary does the shopping with <span style=\"text-decoration: underline;\">her friends</span>.</strong></p>\n<p><strong>=&gt; <span class='fillblank-option'><input id='fbo-884400-0' class='ms fillblank-option-19' index='0' name='fbo-884400-0' type='text' size='37' autocomplete='off' data-testid='fillblank-input-884400-0' /></span>?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Who does Mary do the shopping with",
+            "With whom does Mary do the shopping"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cụm từ \"<strong>her friends</strong>\" chỉ người =&gt; D&ugrave;ng từ để hỏi \"<strong>who</strong>\" hoặc \"<strong>whom</strong>\".&nbsp;</p>\n<p>C&acirc;u hỏi với từ để hỏi: <strong>Wh-word + Aux.V + S + V...?</strong></p>\n<p>Động từ ch&iacute;nh \"<strong>does</strong>\" chia ở th&igrave; hiện tại đơn v&agrave; chủ ngữ \"<strong>Mary</strong>\" chỉ một đối tượng (số &iacute;t) =&gt; d&ugrave;ng trợ động từ \"<strong>does</strong>\".</p>\n<p>Trong c&acirc;u hỏi trang trọng, lịch sự, ta d&ugrave;ng giới từ trước từ để hỏi \"<strong>With</strong> <strong>whom</strong>\".&nbsp;</p>\n<p>Dịch: Mary đi mua sắm c&ugrave;ng với ai?</p>\n<p>=&gt; Mary đi mua sắm c&ugrave;ng bạn b&egrave; của c&ocirc; ấy.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 884403,
+      "questionNumber": 20,
+      "questionName": "47",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Make a question for underlined parts in this sentence.</em></p>\n<p><strong>Jack usually does puzzles <span style=\"text-decoration: underline;\">in the evening</span>.</strong></p>\n<p><strong>=&gt; <span class='fillblank-option'><input id='fbo-884403-0' class='ms fillblank-option-20' index='0' name='fbo-884403-0' type='text' size='36' autocomplete='off' data-testid='fillblank-input-884403-0' /></span>?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "When does Jack usually do puzzles"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cụm từ \"<strong>in the evening</strong>\" chỉ thời gian. =&gt; D&ugrave;ng từ để hỏi \"<strong>when</strong>\" (khi n&agrave;o).&nbsp;</p>\n<p>Cấu tr&uacute;c c&acirc;u hỏi ở th&igrave; hiện tại đơn:<strong> When + do/does + S + V(inf)...?</strong></p>\n<p>V&igrave; chủ ngữ \"<strong>Jack</strong>\" chỉ một đối tượng (số &iacute;t) n&ecirc;n d&ugrave;ng trợ động từ \"<strong>does</strong>\".&nbsp;</p>\n<p>Trạng từ chỉ tần suất \"<strong>usually</strong>\" đứng trước động từ thường \"<strong>do</strong>\".&nbsp;</p>\n<p>Dịch: Jack thường giải c&acirc;u đố v&agrave;o l&uacute;c n&agrave;o?</p>\n<p>=&gt; Jack thường giải c&acirc;u đố v&agrave;o buổi tối.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 774679,
+      "questionNumber": 21,
+      "questionName": "47",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Make a question for underlined words in this sentence.</em></p>\n<p><strong>Young people usually hang out <span style=\"text-decoration: underline;\">at cafes and parks</span>.</strong></p>\n<p><strong>=&gt; <span class='fillblank-option'><input id='fbo-774679-0' class='ms fillblank-option-21' index='0' name='fbo-774679-0' type='text' size='40' autocomplete='off' data-testid='fillblank-input-774679-0' /></span>?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Where do young people usually hang out"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cụm từ \"<strong>at cafes and parks</strong>\" chỉ địa điểm, nơi chốn =&gt; D&ugrave;ng từ để hỏi \"<strong>where</strong>\" (ở đ&acirc;u).&nbsp;</p>\n<p>Cấu tr&uacute;c c&acirc;u hỏi ở th&igrave; hiện tại đơn: <strong>Where + do/does + S + V(inf)...?</strong></p>\n<p>Chủ ngữ \"<strong>young people</strong>\" l&agrave; cụm danh từ số nhiều =&gt; d&ugrave;ng trợ động từ \"<strong>do</strong>\".</p>\n<p>Trạng từ chỉ tần suất \"<strong>usually</strong>\" đứng trước cụm động từ \"<strong>hang out</strong>\".&nbsp;</p>\n<p>Dịch: C&aacute;c bạn trẻ thường gặp nhau ở đ&acirc;u?</p>\n<p>=&gt; C&aacute;c bạn trẻ thường gặp nhau ở c&aacute;c qu&aacute;n c&agrave; ph&ecirc; hoặc c&aacute;c c&ocirc;ng vi&ecirc;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 774696,
+      "questionNumber": 22,
+      "questionName": "48",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Make a question for underlined words in this sentence.</em></p>\n<p><strong>The Lunar New Year celebration lasts for <span style=\"text-decoration: underline;\">about 7 days</span>.</strong></p>\n<p><strong>=&gt; <span class='fillblank-option'><input id='fbo-774696-0' class='ms fillblank-option-22' index='0' name='fbo-774696-0' type='text' size='52' autocomplete='off' data-testid='fillblank-input-774696-0' /></span>?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "How long does the Lunar New Year celebration last"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cụm từ \"<strong>about 7 days</strong>\" chỉ khoảng thời gian =&gt; D&ugrave;ng từ để hỏi \"<strong>how long</strong>\" (bao l&acirc;u).</p>\n<p>Cấu tr&uacute;c c&acirc;u hỏi ở th&igrave; hiện tại đơn: <strong>How long + do/does + S + V(inf)...?</strong></p>\n<p>Chủ ngữ \"<strong>the Lunar New Year celebration</strong>\" l&agrave; cụm danh từ số &iacute;t. =&gt; D&ugrave;ng trợ động từ \"<strong>does</strong>\".</p>\n<p>Dịch: Tết Nguy&ecirc;n Đ&aacute;n k&eacute;o d&agrave;i bao l&acirc;u?</p>\n<p>=&gt; Tết Nguy&ecirc;n Đ&aacute;n k&eacute;o d&agrave;i khoảng 7 ng&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 900459,
+      "questionNumber": 23,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Make a question for underlined words in this sentence.</em></p>\n<p><strong>Marie Curie officially became the first woman to win a Nobel Prize <span style=\"text-decoration: underline;\">in 1903</span>.</strong></p>\n<p><strong>=&gt; <span class='fillblank-option'><input id='fbo-900459-0' class='ms fillblank-option-23' index='0' name='fbo-900459-0' type='text' size='78' autocomplete='off' data-testid='fillblank-input-900459-0' /></span>?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "When did Marie Curie officially become the first woman to win a Nobel Prize"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cụm từ \"<strong>in 1903</strong>\" chỉ thời gian. =&gt; D&ugrave;ng từ để hỏi \"<strong>when</strong>\" (khi n&agrave;o).</p>\n<p>Cấu tr&uacute;c c&acirc;u hỏi ở th&igrave; qu&aacute; khứ đơn: <strong>When + did + S + (adv.) + V(inf) ...?</strong></p>\n<p>Dịch: Marie Curie ch&iacute;nh thức trở th&agrave;nh người phụ nữ đầu ti&ecirc;n gi&agrave;nh giải Nobel khi n&agrave;o?</p>\n<p>=&gt; Marie Curie ch&iacute;nh thức trở th&agrave;nh người phụ nữ đầu ti&ecirc;n gi&agrave;nh giải Nobel v&agrave;o năm 1903.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 900461,
+      "questionNumber": 24,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Make a question for underlined words in this sentence.</em></p>\n<p><strong>The Beatles recorded the song <em>Let It Be</em> <span style=\"text-decoration: underline;\">in London</span>.</strong></p>\n<p><strong>=&gt; <span class='fillblank-option'><input id='fbo-900461-0' class='ms fillblank-option-24' index='0' name='fbo-900461-0' type='text' size='51' autocomplete='off' data-testid='fillblank-input-900461-0' /></span>?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Where did The Beatles record the song Let It Be"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cụm từ \"<strong>in London</strong>\" chỉ địa điểm, nơi chốn. =&gt; D&ugrave;ng từ để hỏi \"<strong>where</strong>\" (ở đ&acirc;u).&nbsp;</p>\n<p>Cấu tr&uacute;c c&acirc;u hỏi ở th&igrave; qu&aacute; khứ đơn:<strong> Where + did + S + V(inf) + O...?</strong></p>\n<p>Dịch: The Beatles đ&atilde; thu &acirc;m b&agrave;i h&aacute;t <em>Let It Be</em> ở đ&acirc;u?</p>\n<p>=&gt; The Beatles đ&atilde; thu &acirc;m b&agrave;i h&aacute;t <em>Let It Be</em> tại Lu&acirc;n Đ&ocirc;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

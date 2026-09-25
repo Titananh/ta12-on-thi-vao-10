@@ -1,0 +1,452 @@
+[
+  {
+    "id": "168_1",
+    "questionName": "Question 1",
+    "questionText": "<p>Your brother goes to school by bicycle every day, ________?</p>",
+    "choices": [
+      {
+        "id": "168_1_1",
+        "text": "is he",
+        "html": "is he"
+      },
+      {
+        "id": "168_1_3",
+        "text": "doesn't he",
+        "html": "doesn't he"
+      },
+      {
+        "id": "168_1_2",
+        "text": "does he",
+        "html": "does he"
+      },
+      {
+        "id": "168_1_4",
+        "text": "isn't he",
+        "html": "isn't he"
+      }
+    ],
+    "correctChoiceId": "168_1_3",
+    "explanation": "<p>Mệnh đề chính khẳng định ở thì Hiện tại đơn với động từ thường 'goes' và chủ ngữ 'Your brother' (he): trợ động từ ở đuôi phải là phủ định <strong>doesn't he</strong>.</p>",
+    "ruleTip": "Mệnh đề chính dùng thì Hiện tại đơn khẳng định: trợ động từ ở đuôi là 'doesn't he'."
+  },
+  {
+    "id": "168_2",
+    "questionName": "Question 2",
+    "questionText": "<p>Let's go for a picnic in the park this weekend, ________?</p>",
+    "choices": [
+      {
+        "id": "168_2_2",
+        "text": "will you",
+        "html": "will you"
+      },
+      {
+        "id": "168_2_3",
+        "text": "do we",
+        "html": "do we"
+      },
+      {
+        "id": "168_2_1",
+        "text": "shall we",
+        "html": "shall we"
+      },
+      {
+        "id": "168_2_4",
+        "text": "don't we",
+        "html": "don't we"
+      }
+    ],
+    "correctChoiceId": "168_2_1",
+    "explanation": "<p>Với câu đề nghị bắt đầu bằng <strong>Let's</strong>, câu hỏi đuôi luôn luôn là <strong>shall we</strong>.</p>",
+    "ruleTip": "Với câu đề nghị bắt đầu bằng 'Let's': câu hỏi đuôi luôn là 'shall we?'."
+  },
+  {
+    "id": "168_3",
+    "questionName": "Question 3",
+    "questionText": "<p>I am invited to Mary's birthday party tonight, ________?</p>",
+    "choices": [
+      {
+        "id": "168_3_2",
+        "text": "am not I",
+        "html": "am not I"
+      },
+      {
+        "id": "168_3_1",
+        "text": "aren't I",
+        "html": "aren't I"
+      },
+      {
+        "id": "168_3_3",
+        "text": "amn't I",
+        "html": "amn't I"
+      },
+      {
+        "id": "168_3_4",
+        "text": "isn't I",
+        "html": "isn't I"
+      }
+    ],
+    "correctChoiceId": "168_3_1",
+    "explanation": "<p>Trường hợp đặc biệt: Mệnh đề chính bắt đầu bằng <strong>'I am'</strong> thì câu hỏi đuôi luôn là <strong>aren't I</strong>.</p>",
+    "ruleTip": "Với mệnh đề 'I am...': câu hỏi đuôi luôn là 'aren't I?'."
+  },
+  {
+    "id": "168_4",
+    "questionName": "Question 4",
+    "questionText": "<p>Lan never eats seafood because of her severe allergy, ________?</p>",
+    "choices": [
+      {
+        "id": "168_4_2",
+        "text": "doesn't she",
+        "html": "doesn't she"
+      },
+      {
+        "id": "168_4_1",
+        "text": "does she",
+        "html": "does she"
+      },
+      {
+        "id": "168_4_3",
+        "text": "is she",
+        "html": "is she"
+      },
+      {
+        "id": "168_4_4",
+        "text": "isn't she",
+        "html": "isn't she"
+      }
+    ],
+    "correctChoiceId": "168_4_1",
+    "explanation": "<p>Mệnh đề chính chứa từ mang nghĩa phủ định <strong>'never'</strong> nên vế đuôi phải ở dạng khẳng định: <strong>does she</strong>.</p>",
+    "ruleTip": "Câu có từ phủ định 'never': câu hỏi đuôi phải ở dạng KHẲNG ĐỊNH ('does she')."
+  },
+  {
+    "id": "168_5",
+    "questionName": "Question 5",
+    "questionText": "<p>Nobody attended the extra English class yesterday morning, ________?</p>",
+    "choices": [
+      {
+        "id": "168_5_2",
+        "text": "didn't they",
+        "html": "didn't they"
+      },
+      {
+        "id": "168_5_3",
+        "text": "did he",
+        "html": "did he"
+      },
+      {
+        "id": "168_5_1",
+        "text": "did they",
+        "html": "did they"
+      },
+      {
+        "id": "168_5_4",
+        "text": "didn't he",
+        "html": "didn't he"
+      }
+    ],
+    "correctChoiceId": "168_5_1",
+    "explanation": "<p><strong>'Nobody'</strong> là từ phủ định và đại từ thay thế ở đuôi là <strong>they</strong>: câu hỏi đuôi ở dạng khẳng định <strong>did they</strong>.</p>",
+    "ruleTip": "'Nobody' mang nghĩa phủ định và đại từ thay thế là 'they': đuôi là 'did they?'."
+  },
+  {
+    "id": "168_6",
+    "questionName": "Question 6",
+    "questionText": "<p>Nothing is impossible if you try your best, ________?</p>",
+    "choices": [
+      {
+        "id": "168_6_2",
+        "text": "isn't it",
+        "html": "isn't it"
+      },
+      {
+        "id": "168_6_3",
+        "text": "are they",
+        "html": "are they"
+      },
+      {
+        "id": "168_6_1",
+        "text": "is it",
+        "html": "is it"
+      },
+      {
+        "id": "168_6_4",
+        "text": "aren't they",
+        "html": "aren't they"
+      }
+    ],
+    "correctChoiceId": "168_6_1",
+    "explanation": "<p><strong>'Nothing'</strong> mang nghĩa phủ định và đại từ thay thế là <strong>it</strong>: câu hỏi đuôi ở dạng khẳng định <strong>is it</strong>.</p>",
+    "ruleTip": "'Nothing' mang nghĩa phủ định và đại từ thay thế là 'it': đuôi là 'is it?'."
+  },
+  {
+    "id": "168_7",
+    "questionName": "Question 7",
+    "questionText": "<p>Turn down the volume, ________? I'm studying for my entrance exam.</p>",
+    "choices": [
+      {
+        "id": "168_7_2",
+        "text": "do you",
+        "html": "do you"
+      },
+      {
+        "id": "168_7_1",
+        "text": "will you",
+        "html": "will you"
+      },
+      {
+        "id": "168_7_3",
+        "text": "don't you",
+        "html": "don't you"
+      },
+      {
+        "id": "168_7_4",
+        "text": "won't you",
+        "html": "won't you"
+      }
+    ],
+    "correctChoiceId": "168_7_1",
+    "explanation": "<p>Câu mệnh lệnh khẳng định hoặc phủ định có câu hỏi đuôi luôn là <strong>will you</strong>.</p>",
+    "ruleTip": "Câu mệnh lệnh (khẳng định hoặc phủ định): câu hỏi đuôi luôn là 'will you?'."
+  },
+  {
+    "id": "168_8",
+    "questionName": "Question 8",
+    "questionText": "<p>We haven't met each other for a long time, ________?</p>",
+    "choices": [
+      {
+        "id": "168_8_1",
+        "text": "have we",
+        "html": "have we"
+      },
+      {
+        "id": "168_8_2",
+        "text": "haven't we",
+        "html": "haven't we"
+      },
+      {
+        "id": "168_8_3",
+        "text": "do we",
+        "html": "do we"
+      },
+      {
+        "id": "168_8_4",
+        "text": "did we",
+        "html": "did we"
+      }
+    ],
+    "correctChoiceId": "168_8_1",
+    "explanation": "<p>Mệnh đề chính phủ định (haven't met): trợ động từ ở câu hỏi đuôi phải ở dạng khẳng định <strong>have we</strong>.</p>",
+    "ruleTip": "Mệnh đề chính phủ định (haven't): câu hỏi đuôi khẳng định ('have we?')."
+  },
+  {
+    "id": "168_9",
+    "questionName": "Question 9",
+    "questionText": "<p>Little children can easily learn a new foreign language, ________?</p>",
+    "choices": [
+      {
+        "id": "168_9_2",
+        "text": "can they",
+        "html": "can they"
+      },
+      {
+        "id": "168_9_3",
+        "text": "don't they",
+        "html": "don't they"
+      },
+      {
+        "id": "168_9_4",
+        "text": "aren't they",
+        "html": "aren't they"
+      },
+      {
+        "id": "168_9_1",
+        "text": "can't they",
+        "html": "can't they"
+      }
+    ],
+    "correctChoiceId": "168_9_1",
+    "explanation": "<p>Mệnh đề chính khẳng định dùng modal verb 'can' và chủ ngữ số nhiều 'Little children' (they): đuôi phủ định là <strong>can't they</strong>.</p>",
+    "ruleTip": "Mệnh đề dùng modal 'can': đuôi phủ định là 'can't they?'."
+  },
+  {
+    "id": "168_10",
+    "questionName": "Question 10",
+    "questionText": "<p>I think he will pass the high school entrance examination, ________?</p>",
+    "choices": [
+      {
+        "id": "168_10_2",
+        "text": "don't I",
+        "html": "don't I"
+      },
+      {
+        "id": "168_10_3",
+        "text": "will he",
+        "html": "will he"
+      },
+      {
+        "id": "168_10_4",
+        "text": "does he",
+        "html": "does he"
+      },
+      {
+        "id": "168_10_1",
+        "text": "won't he",
+        "html": "won't he"
+      }
+    ],
+    "correctChoiceId": "168_10_1",
+    "explanation": "<p>Với cấu trúc <strong>'I think that + S + V'</strong>, câu hỏi đuôi thành lập theo mệnh đề phụ (he will pass -> <strong>won't he</strong>).</p>",
+    "ruleTip": "Với 'I think that + S + V': câu hỏi đuôi hỏi theo mệnh đề phụ ('won't he?')."
+  },
+  {
+    "id": "168_11",
+    "questionName": "Question 11",
+    "questionText": "<p>I don't think she likes spicy Thai food, ________?</p>",
+    "choices": [
+      {
+        "id": "168_11_2",
+        "text": "doesn't she",
+        "html": "doesn't she"
+      },
+      {
+        "id": "168_11_3",
+        "text": "do I",
+        "html": "do I"
+      },
+      {
+        "id": "168_11_1",
+        "text": "does she",
+        "html": "does she"
+      },
+      {
+        "id": "168_11_4",
+        "text": "don't I",
+        "html": "don't I"
+      }
+    ],
+    "correctChoiceId": "168_11_1",
+    "explanation": "<p>Cấu trúc <strong>'I don't think + S + V'</strong> chuyển nghĩa phủ định sang mệnh đề sau: đuôi phải ở dạng khẳng định: <strong>does she</strong>.</p>",
+    "ruleTip": "'I don't think' mang tính phủ định toàn câu: đuôi hỏi khẳng định ('does she?')."
+  },
+  {
+    "id": "168_12",
+    "questionName": "Question 12",
+    "questionText": "<p>The injured old man could hardly walk without assistance, ________?</p>",
+    "choices": [
+      {
+        "id": "168_12_2",
+        "text": "couldn't he",
+        "html": "couldn't he"
+      },
+      {
+        "id": "168_12_3",
+        "text": "did he",
+        "html": "did he"
+      },
+      {
+        "id": "168_12_4",
+        "text": "didn't he",
+        "html": "didn't he"
+      },
+      {
+        "id": "168_12_1",
+        "text": "could he",
+        "html": "could he"
+      }
+    ],
+    "correctChoiceId": "168_12_1",
+    "explanation": "<p><strong>'Hardly'</strong> (hầu như không) là từ bán phủ định: câu hỏi đuôi phải ở dạng khẳng định: <strong>could he</strong>.</p>",
+    "ruleTip": "'Hardly' mang nghĩa phủ định: câu hỏi đuôi ở dạng khẳng định ('could he?')."
+  },
+  {
+    "id": "168_13",
+    "questionName": "Question 13",
+    "questionText": "<p>Everyone was satisfied with the final competition results, ________?</p>",
+    "choices": [
+      {
+        "id": "168_13_2",
+        "text": "wasn't he",
+        "html": "wasn't he"
+      },
+      {
+        "id": "168_13_3",
+        "text": "wasn't it",
+        "html": "wasn't it"
+      },
+      {
+        "id": "168_13_4",
+        "text": "were they",
+        "html": "were they"
+      },
+      {
+        "id": "168_13_1",
+        "text": "weren't they",
+        "html": "weren't they"
+      }
+    ],
+    "correctChoiceId": "168_13_1",
+    "explanation": "<p>Chủ ngữ <strong>'Everyone'</strong> khi chuyển sang câu hỏi đuôi dùng đại từ <strong>they</strong>, do đó to be phải biến đổi tương ứng thành số nhiều: <strong>weren't they</strong>.</p>",
+    "ruleTip": "'Everyone' đại từ ở đuôi là 'they': 'was' phải đổi thành 'weren't they?'."
+  },
+  {
+    "id": "168_14",
+    "questionName": "Question 14",
+    "questionText": "<p>Your father used to work for a multinational company in Hanoi, ________?</p>",
+    "choices": [
+      {
+        "id": "168_14_1",
+        "text": "didn't he",
+        "html": "didn't he"
+      },
+      {
+        "id": "168_14_2",
+        "text": "usedn't he",
+        "html": "usedn't he"
+      },
+      {
+        "id": "168_14_3",
+        "text": "wasn't he",
+        "html": "wasn't he"
+      },
+      {
+        "id": "168_14_4",
+        "text": "doesn't he",
+        "html": "doesn't he"
+      }
+    ],
+    "correctChoiceId": "168_14_1",
+    "explanation": "<p>Mệnh đề có 'used to' là thì Quá khứ đơn: trợ động từ ở câu hỏi đuôi là <strong>didn't he</strong>.</p>",
+    "ruleTip": "'Used to' thuộc thì Quá khứ đơn: trợ động từ ở đuôi là 'didn't he?'."
+  },
+  {
+    "id": "168_15",
+    "questionName": "Question 15",
+    "questionText": "<p>That was a very wonderful musical performance, ________?</p>",
+    "choices": [
+      {
+        "id": "168_15_1",
+        "text": "wasn't it",
+        "html": "wasn't it"
+      },
+      {
+        "id": "168_15_2",
+        "text": "wasn't that",
+        "html": "wasn't that"
+      },
+      {
+        "id": "168_15_3",
+        "text": "is it",
+        "html": "is it"
+      },
+      {
+        "id": "168_15_4",
+        "text": "was it",
+        "html": "was it"
+      }
+    ],
+    "correctChoiceId": "168_15_1",
+    "explanation": "<p>Chủ ngữ là đại từ chỉ định <strong>'That'</strong>: đại từ tương ứng ở câu hỏi đuôi là <strong>it</strong>. Chọn <strong>wasn't it</strong>.</p>",
+    "ruleTip": "Chủ ngữ là 'This/That': đại từ thay thế ở câu hỏi đuôi là 'it'."
+  }
+]

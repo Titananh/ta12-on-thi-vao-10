@@ -1,0 +1,17 @@
+{
+  "topicName": "Điền từ vào đoạn văn (Guided Cloze)",
+  "englishName": "Guided Cloze Test",
+  "detail": "\n      <div class=\"theory-section space-y-4\">\n        <p class=\"font-medium text-slate-800\">Dạng bài điền từ vào bài đọc (Cloze Test) kiểm tra tổng hợp từ loại, liên từ, từ nối, đại từ quan hệ và giới từ.</p>\n        <h4 class=\"text-base font-bold text-emerald-800 border-b border-emerald-100 pb-1 mt-3\">Chiến lược giải:</h4>\n        <ul class=\"list-disc pl-5 space-y-1.5 text-slate-700\">\n          <li><strong>Xác định từ loại cần điền:</strong> Nhìn trước và sau chỗ trống (Danh từ, Tính từ, Trạng từ, Động từ V-ing hay to-V).</li>\n          <li><strong>Đại từ quan hệ:</strong> Who (người làm S/O), Whom (người làm O), Which (vật), Whose (sở hữu + N), Where (nơi chốn), When (thời gian).</li>\n          <li><strong>Liên từ chỉ quan hệ:</strong> Although/Even though (+ mệnh đề), In spite of/Despite (+ Ving/N), Because/Since (+ mệnh đề), Because of (+ Ving/N), However, Therefore.</li>\n          <li><strong>Cụm từ cố định (Collocations):</strong> pay attention to, take part in, look forward to + Ving.</li>\n        </ul>\n      </div>\n    ",
+  "rules": [
+    {
+      "sound": "Ngữ pháp",
+      "rule": "Phân tích trước và sau ô trống để nhận diện cấu trúc ngữ pháp bắt buộc",
+      "examples": "look forward to + Ving, prefer A to B"
+    },
+    {
+      "sound": "Liên từ",
+      "rule": "Phân biệt mệnh đề (S + V) và cụm danh từ (Noun/V-ing)",
+      "examples": "Although S + V vs In spite of + Noun/V-ing"
+    }
+  ]
+}

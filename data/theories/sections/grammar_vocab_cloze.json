@@ -1,0 +1,17 @@
+{
+  "topicName": "Ngữ pháp & Từ vựng tổng hợp (Grammar & Vocabulary)",
+  "englishName": "Grammar and Vocabulary Synthesis",
+  "detail": "\n      <div class=\"theory-section space-y-4\">\n        <p class=\"font-medium text-slate-800\">Dạng bài trắc nghiệm kiến thức ngữ pháp và vốn từ vựng trọng điểm tuyển sinh vào lớp 10 Hà Nội.</p>\n        <h4 class=\"text-base font-bold text-emerald-800 border-b border-emerald-100 pb-1 mt-3\">Trọng tâm kiến thức:</h4>\n        <ul class=\"list-disc pl-5 space-y-1.5 text-slate-700\">\n          <li><strong>Các thì của động từ:</strong> Hiện tại đơn, HT tiếp diễn, HT hoàn thành (since/for), Quá khứ đơn, QK tiếp diễn (when/while), Tương lai đơn (will) & Tương lai gần (be going to).</li>\n          <li><strong>Mạo từ (A / An / The / Zero article):</strong> Mạo từ bất định với danh từ đếm được số ít chưa xác định; The với vật duy nhất hoặc đã đề cập trước đó.</li>\n          <li><strong>Cụm động từ (Phrasal Verbs):</strong> turn on/off, give up, look after, look for, run out of, carry out.</li>\n          <li><strong>Tính từ tận cùng -ed / -ing:</strong> -ing chỉ tính chất của sự vật/hiện tượng; -ed chỉ cảm xúc, tâm trạng của con người.</li>\n        </ul>\n      </div>\n    ",
+  "rules": [
+    {
+      "sound": "Thì động từ",
+      "rule": "Nhận biết qua các trạng từ chỉ thời gian: since/for (HTHT), yesterday (QK đơn)",
+      "examples": "She has lived here since 2015"
+    },
+    {
+      "sound": "-ed vs -ing",
+      "rule": "Tính từ đuôi -ed chỉ cảm xúc (bored, interested); -ing chỉ bản chất (boring, interesting)",
+      "examples": "The movie is interesting, so I am interested in it."
+    }
+  ]
+}

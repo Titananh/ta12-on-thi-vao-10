@@ -1,0 +1,1406 @@
+{
+  "id": 19158,
+  "title": "Đề thi thử Tiếng Anh vào 10 cụm chuyên môn Hà Nội số 25 năm 2026",
+  "year": 2026,
+  "categoryId": 1489,
+  "categoryName": "Đề thi thử vào 10 môn Anh của các đơn vị GD tại Hà Nội",
+  "timeLimit": 60,
+  "totalPoint": 40,
+  "questionCount": 31,
+  "author": "Tổ GV Tiếng Anh - TA12",
+  "description": "",
+  "createdAt": "2026-09-24T14:47:15.065Z",
+  "questions": [
+    {
+      "id": 1201598,
+      "questionNumber": 1,
+      "questionName": "Viết lại câu từ gợi ý",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>The teacher / give / clear instructions /that / students / understand / lesson easily.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2324931,
+          "label": "A",
+          "text": "<p>The teacher gave so clear instructions that students understood the lesson easily.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324932,
+          "label": "B",
+          "text": "<p>The teacher gave clear instructions, that students understood the lesson easily.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324933,
+          "label": "C",
+          "text": "<p>The teacher gave such clear instructions that students understood the lesson easily.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2324934,
+          "label": "D",
+          "text": "<p>The teacher gave such clear instructions that students understood lesson easily.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2324933,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy chú ý đến cấu trúc diễn tả nguyên nhân - kết quả. Xác định từ loại của cụm từ đứng sau từ cần điền (<em>'clear instructions'</em>) là tính từ/trạng từ hay cụm danh từ để chọn giữa <em>'so'</em> và <em>'such'</em> cho phù hợp.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan:&nbsp;</span></p>\n<p style=\"text-align: justify;\">Cấu tr&uacute;c \"<strong>so... that</strong>\":<strong> S + V + so + adj./adv. + that + S + V</strong> (<em>qu&aacute;... đến nỗi m&agrave;... </em>- d&ugrave;ng để diễn tả kết quả, trong đ&oacute; \"<strong>so</strong>\" nhấn mạnh cho t&iacute;nh từ hoặc trạng từ theo sau n&oacute;)</p>\n<p style=\"text-align: justify;\">Cấu tr&uacute;c \"<strong>such... that</strong>\":<strong> S + V + such + (a/an) + adj + N + that + S + V</strong> (<em>qu&aacute;... đến nỗi m&agrave;... </em>- d&ugrave;ng để diễn tả kết quả, trong đ&oacute; \"<strong>such</strong>\" nhấn mạnh cho danh từ hoặc cụm danh từ theo sau n&oacute;)</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">&rarr;</span>&nbsp;Phương &aacute;n 3 \"<strong>The teacher gave <span class=\"eq-highlight\" style=\"color: #5fbd18;\">such clear instructions that</span> students understood the lesson easily.</strong>\" l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:&nbsp;</span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<strong>The teacher gave <span style=\"color: #ff0000;\">so clear instructions</span> that students understood the lesson easily.</strong>\" sai v&igrave; cấu tr&uacute;c \"so...that\" d&ugrave;ng để nhấn mạnh t&iacute;nh từ/trạng từ, kh&ocirc;ng đi trực tiếp với cụm danh từ \"clear instructions\".</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 \"<strong>The teacher gave clear instructions<span style=\"color: #ff0000;\">, that</span> students understood the lesson easily.</strong>\" sai v&igrave; kh&ocirc;ng sử dụng cấu tr&uacute;c \"so/such...that\" để diễn tả nguy&ecirc;n nh&acirc;n - kết quả, v&agrave; kh&ocirc;ng d&ugrave;ng dấu phẩy trước \"that\" trong cấu tr&uacute;c n&agrave;y.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<strong>The teacher gave such clear instructions that students understood <span style=\"color: #ff0000;\">lesson</span> easily.</strong>\" sai v&igrave; danh từ đếm được số &iacute;t \"lesson\" cần c&oacute; mạo từ \"the\" đi trước để x&aacute;c định b&agrave;i học cụ thể m&agrave; gi&aacute;o vi&ecirc;n đ&atilde; giảng.</li>\n</ul>",
+      "answerFeedbacks": {
+        "2324931": "Cấu trúc <em>'so...that'</em> được dùng với tính từ hoặc trạng từ đứng ngay sau <em>'so'</em>, không dùng với cụm danh từ như <em>'clear instructions'</em>.",
+        "2324932": "Câu này thiếu cấu trúc chỉ kết quả <em>'such...that'</em> và dùng sai dấu câu.",
+        "2324933": "Câu này sử dụng đúng cấu trúc <em>'such + (cụm) danh từ + that + mệnh đề'</em> để diễn tả kết quả.",
+        "2324934": "Câu này thiếu mạo từ <em>'the'</em> trước danh từ <em>'lesson'</em> để chỉ một bài học cụ thể đã được đề cập."
+      },
+      "images": []
+    },
+    {
+      "id": 1201602,
+      "questionNumber": 2,
+      "questionName": "Viết lại câu từ gợi ý",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>We / not / mind / go off / path / but / we / always careful / not / damage anything.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2324947,
+          "label": "A",
+          "text": "<p>We don't mind to go off the path, but we're always careful not to damage anything.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324948,
+          "label": "B",
+          "text": "<p>We don't mind going off the path, but we're always careful not to damage anything.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2324949,
+          "label": "C",
+          "text": "<p>We don't mind go off the path, but we're always careful not damage anything.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324950,
+          "label": "D",
+          "text": "<p>We don't mind going off path, but we're always careful not damaging anything.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2324948,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến dạng của động từ theo sau \"mind\" v&agrave; cấu tr&uacute;c đi với t&iacute;nh từ \"careful\".</p>\n<ul>\n<li>Cấu tr&uacute;c 1: <strong>mind + ?</strong> (to-V hay V-ing?)</li>\n<li>Cấu tr&uacute;c 2: <strong>be careful + ?</strong> (to-V hay V-ing?)</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan:&nbsp;</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">mind + V-ing</span>: kh&ocirc;ng phiền/kh&ocirc;ng ngại l&agrave;m g&igrave;</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">go off the path</span> (phr.): đi lệch khỏi con đường</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">be careful + (not) + to V(inf)</span>: cẩn thận (kh&ocirc;ng) l&agrave;m g&igrave;</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">&rarr;</span>&nbsp;Phương &aacute;n 2 \"<strong>We don't mind <span class=\"eq-highlight\" style=\"color: #5fbd18;\">going off the path</span>, but we're always careful <span class=\"eq-highlight\" style=\"color: #5fbd18;\">not to damage</span> anything.</strong>\" l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:&nbsp;</span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<strong>We don't mind <span style=\"color: #ff0000;\">to go</span> off the path, but we're always careful not to damage anything.</strong>\" sai v&igrave; sau động từ \"mind\" l&agrave; một động từ ở dạng V-ing.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 \"<strong>We don't mind <span style=\"color: #ff0000;\">go</span> off the path, but we're always careful <span style=\"color: #ff0000;\">not damage</span> anything.</strong>\" sai v&igrave; sau \"mind\" l&agrave; V-ing v&agrave; sau \"careful\" l&agrave; \"to V(inf)\".</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<strong>We don't mind going off <span style=\"color: #ff0000;\">path</span>, but we're always careful <span style=\"color: #ff0000;\">not damaging</span> anything.</strong>\" sai v&igrave; thiếu mạo từ \"the\" trước danh từ \"path\" v&agrave; sau t&iacute;nh từ \"careful\" l&agrave; một động từ nguy&ecirc;n thể c&oacute; \"to\".</li>\n</ul>",
+      "answerFeedbacks": {
+        "2324947": "Động từ \"mind\" đi với động từ ở dạng V-ing, không phải \"to V(inf)\".",
+        "2324948": "Câu này sử dụng đúng cấu trúc \"mind + V-ing\" và \"be careful + not + to V(inf)\".",
+        "2324949": "Động từ \"mind\" đi với V-ing và sau tính từ \"careful\" là động từ nguyên thể có \"to\".",
+        "2324950": "Sau tính từ \"careful\" là động từ nguyên thể có \"to\", không phải V-ing, và danh từ \"path\" cần có mạo từ \"the\" trong ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 1201608,
+      "questionNumber": 3,
+      "questionName": "Chọn câu đồng nghĩa",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>&quot;Why don't we attend a career orientation workshop to learn more about future job opportunities and necessary skills?&quot; the teacher said.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2324959,
+          "label": "A",
+          "text": "<p>The teacher wished that we attended a career orientation workshop to learn more about future job opportunities and necessary skills.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324960,
+          "label": "B",
+          "text": "<p>The teacher asked why we didn't attend a career orientation workshop to learn more about future job opportunities and necessary skills.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324962,
+          "label": "C",
+          "text": "<p>The teacher recommended attending a career orientation workshop to learn more about future job opportunities and necessary skills.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2324963,
+          "label": "D",
+          "text": "<p>The teacher wanted to attend a career orientation workshop to learn more about future job opportunities and necessary skills.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2324962,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy chú ý đến chức năng của câu nói trực tiếp. Cấu trúc \"<em>Why don't we...?</em>\" được dùng để làm gì?</p><ul><li>Nó có phải là một câu hỏi thật sự để tìm kiếm lý do không?</li><li>Nó có phải là một câu ước không?</li><li>Nó có phải là một lời gợi ý, đề nghị không?</li></ul><p>Khi đã xác định được chức năng của câu, hãy chọn động từ tường thuật (reporting verb) và cấu trúc theo sau tương ứng.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan:&nbsp;</span></p>\n<p style=\"text-align: justify;\"><strong>Why don't we + V(inf)?</strong>: Tại sao ch&uacute;ng ta kh&ocirc;ng ...? (D&ugrave;ng để đưa ra lời đề nghị, gợi &yacute; c&ugrave;ng l&agrave;m g&igrave; đ&oacute;)</p>\n<p style=\"text-align: justify;\"><strong>recommend + V-ing</strong>: gợi &yacute;, đề nghị l&agrave;m g&igrave;</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">&rarr;</span>&nbsp;Phương &aacute;n 3 \"<strong>The teacher <span class=\"eq-highlight\" style=\"color: #5fbd18;\">recommended attending</span> a career orientation workshop to learn more about future job opportunities and necessary skills.</strong>\" l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:&nbsp;</span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<strong>The teacher <span style=\"color: #ff0000;\">wished that we attended</span> a career orientation workshop to learn more about future job opportunities and necessary skills.</strong>\" sai v&igrave; cấu tr&uacute;c c&acirc;u ước với \"wish\" d&ugrave;ng để diễn tả một mong muốn về một điều kh&ocirc;ng c&oacute; thật hoặc tr&aacute;i với thực tế, kh&ocirc;ng ph&ugrave; hợp để tường thuật một lời gợi &yacute;.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 \"<strong>The teacher <span style=\"color: #ff0000;\">asked why we didn't attend</span> a career orientation workshop to learn more about future job opportunities and necessary skills.</strong>\" sai v&igrave; c&acirc;u gốc \"Why don't we...?\" l&agrave; một cấu tr&uacute;c đưa ra lời gợi &yacute;, kh&ocirc;ng phải một c&acirc;u hỏi thực sự để hỏi l&yacute; do.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<strong>The teacher <span style=\"color: #ff0000;\">wanted to attend</span> a career orientation workshop to learn more about future job opportunities and necessary skills.</strong>\" sai v&igrave; n&oacute; diễn tả mong muốn c&aacute; nh&acirc;n của gi&aacute;o vi&ecirc;n, trong khi c&acirc;u gốc l&agrave; lời gợi &yacute; hướng đến cả nh&oacute;m (\"we\").</li>\n</ul>",
+      "answerFeedbacks": {
+        "2324959": "Phương án này sai vì câu gốc là một lời gợi ý, không phải một câu ước diễn tả điều không có thật ở hiện tại.",
+        "2324960": "Phương án này sai vì cấu trúc \"Why don't we...?\" dùng để đưa ra lời gợi ý, không phải một câu hỏi thực sự về lý do.",
+        "2324962": "Phương án này đúng vì đã sử dụng cấu trúc \"recommend + V-ing\" để tường thuật lại chính xác lời gợi ý trong câu gốc.",
+        "2324963": "Phương án này sai vì nó chỉ diễn tả mong muốn của riêng giáo viên, trong khi câu gốc là một lời gợi ý cho cả nhóm (\"we\")."
+      },
+      "images": []
+    },
+    {
+      "id": 1201613,
+      "questionNumber": 4,
+      "questionName": "Chọn câu đồng nghĩa",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Although they are poor, they are very generous.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2324983,
+          "label": "A",
+          "text": "<p>In spite of their poverty but they are very generous.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324984,
+          "label": "B",
+          "text": "<p>In spite of they are poor, they are very generous.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2324985,
+          "label": "C",
+          "text": "<p>In spite of their poverty, they are very generous.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2324986,
+          "label": "D",
+          "text": "<p>In spite of their poor, they are very generous.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2324985,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Lưu ý sự khác biệt về cấu trúc giữa <em>'Although'</em> và <em>'In spite of'</em>.</p><ul><li><em>'Although'</em> đi với một mệnh đề (chủ ngữ + động từ).</li><li><em>'In spite of'</em> đi với một danh từ, cụm danh từ, hoặc V-ing.</li></ul><p>Hãy xác định dạng từ đúng của <em>'poor'</em> khi chuyển đổi cấu trúc câu.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan:&nbsp;</span></p>\n<p style=\"text-align: justify;\"><strong>Although + S + V, S + V</strong>: Mặc d&ugrave; ..., ... (d&ugrave;ng để nối hai mệnh đề tương phản)</p>\n<p style=\"text-align: justify;\"><strong>In spite of / Despite + Noun/Noun Phrase/V-ing, S + V</strong>: Mặc d&ugrave; ..., ... (d&ugrave;ng để nối một cụm danh từ/V-ing với một mệnh đề)</p>\n<p style=\"text-align: justify;\"><strong>poor</strong> (adj.): ngh&egrave;o</p>\n<p style=\"text-align: justify;\"><strong>poverty</strong> (n.): sự ngh&egrave;o đ&oacute;i</p>\n<p style=\"text-align: justify;\">&rarr;&nbsp;Phương &aacute;n 3 \"<strong>In spite of <span class=\"eq-highlight\" style=\"color: #5fbd18;\">their poverty</span>, they are very generous.</strong>\" l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:&nbsp;</span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<strong>In spite of their poverty <span style=\"color: #ff0000;\">but</span> they are very generous.</strong>\" sai v&igrave; \"In spite of\" v&agrave; \"but\" đều chỉ sự tương phản n&ecirc;n kh&ocirc;ng được d&ugrave;ng chung trong một c&acirc;u.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 \"<strong>In spite of <span style=\"color: #ff0000;\">they are poor</span>, they are very generous.</strong>\" sai v&igrave; sau \"In spite of\" phải l&agrave; một danh từ, cụm danh từ hoặc V-ing, kh&ocirc;ng phải l&agrave; một mệnh đề (S+V).</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<strong>In spite of their <span style=\"color: #ff0000;\">poor</span>, they are very generous.</strong>\" sai v&igrave; \"poor\" l&agrave; t&iacute;nh từ, sau t&iacute;nh từ sở hữu \"their\" cần một danh từ.</li>\n</ul>",
+      "answerFeedbacks": {
+        "2324983": "<p>Kh&ocirc;ng d&ugrave;ng đồng thời \"In spite of\" v&agrave; \"but\"&nbsp;trong c&ugrave;ng một c&acirc;u v&igrave; cả hai đều diễn tả sự tương phản.</p>",
+        "2324984": "<p>Sau \"In spite of\" cần một danh từ, cụm danh từ hoặc V-ing, kh&ocirc;ng phải một mệnh đề như 'they are poor'.</p>",
+        "2324985": "<p>Cấu tr&uacute;c \"In spite of + (t&iacute;nh từ sở hữu) + danh từ\" đ&atilde; được sử dụng đ&uacute;ng để diễn đạt sự tương phản.</p>",
+        "2324986": "<p>Sau t&iacute;nh từ sở hữu \"their\"&nbsp;cần một danh từ (poverty), kh&ocirc;ng phải một t&iacute;nh từ (poor).</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201621,
+      "questionNumber": 5,
+      "questionName": "Tìm từ có phần gạch chân phát âm khác",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325019,
+          "label": "A",
+          "text": "<p>br<span style=\"text-decoration: underline;\">ea</span>d</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325020,
+          "label": "B",
+          "text": "<p>cl<span style=\"text-decoration: underline;\">ea</span>n</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325021,
+          "label": "C",
+          "text": "<p>sp<span style=\"text-decoration: underline;\">ea</span>k</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325022,
+          "label": "D",
+          "text": "<p>dr<span style=\"text-decoration: underline;\">ea</span>m</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325019,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; rằng tổ hợp \"ea\" c&oacute; thể được ph&aacute;t &acirc;m theo nhiều c&aacute;ch kh&aacute;c nhau trong tiếng Anh, phổ biến nhất l&agrave; /iː/ (như trong <em>\"tea\"</em>) v&agrave; /e/ (như trong <em>\"head\"</em>).</p>",
+      "explanation": "<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff;\n        border: 1px solid #ceedca;\n        border-radius: 10px;\n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5;\n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle;\n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem;\n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n        font-style: italic;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<p>Phần được gạch ch&acirc;n trong từ \"<b>br<u>ea</u>d</b>\" được ph&aacute;t &acirc;m l&agrave; <strong>/e/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/iː/</strong>.</p>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">bread</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/bred/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>b&aacute;nh m&igrave;</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">clean</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/kliːn/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sạch sẽ</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">speak</span></strong><span class=\"word-pos-sharp\">(v.)</span></td>\n<td><span class=\"word-ipa-sharp\">/spiːk/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>n&oacute;i</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">dream</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/driːm/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>giấc mơ</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "2325019": "Phần gạch chân \"ea\" trong từ <em>\"bread\"</em> được phát âm là /e/.",
+        "2325020": "Phần gạch chân \"ea\" trong từ <em>\"clean\"</em> được phát âm là /iː/.",
+        "2325021": "Phần gạch chân \"ea\" trong từ <em>\"speak\"</em> được phát âm là /iː/.",
+        "2325022": "Phần gạch chân \"ea\" trong từ <em>\"dream\"</em> được phát âm là /iː/."
+      },
+      "images": []
+    },
+    {
+      "id": 1201630,
+      "questionNumber": 6,
+      "questionName": "Tìm từ có trọng âm khác",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325047,
+          "label": "A",
+          "text": "<p>essen<span style=\"text-decoration: underline;\">t</span>ial</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325048,
+          "label": "B",
+          "text": "<p>con<span style=\"text-decoration: underline;\">t</span>ent</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325049,
+          "label": "C",
+          "text": "<p>no<span style=\"text-decoration: underline;\">t</span>ebook</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325050,
+          "label": "D",
+          "text": "<p>sub<span style=\"text-decoration: underline;\">t</span>itle</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325047,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy chú ý đến cách phát âm của chữ <em>\"t\"</em>, đặc biệt khi nó đứng trước các nguyên âm như <em>\"i\"</em>, <em>\"ia\"</em> hoặc <em>\"io\"</em>. Trong một số trường hợp, <em>\"t\"</em> có thể được phát âm là /ʃ/ (như trong <em>\"nation\"</em>, <em>\"patient\"</em>) thay vì /t/ thông thường.",
+      "explanation": "<p>Phần được gạch ch&acirc;n trong từ \"<strong>essen<u>t</u>ial</strong>\" được ph&aacute;t &acirc;m l&agrave;<strong> /ʃ/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave;<strong> /t/</strong>.</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n        font-style: italic;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">essential</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ɪˈsɛnʃəl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>cần thiết, thiết yếu</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">content</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈkɒntɛnt/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>nội dung</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">notebook</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈnəʊtbʊk/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sổ tay</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">subtitle</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈsʌbtaɪtl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>phụ đề</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "2325047": "Phần gạch chân <em>\"t\"</em> trong từ này được phát âm là /ʃ/.",
+        "2325048": "Phần gạch chân <em>\"t\"</em> trong từ này được phát âm là /t/.",
+        "2325049": "Phần gạch chân <em>\"t\"</em> trong từ này được phát âm là /t/.",
+        "2325050": "Phần gạch chân <em>\"t\"</em> trong từ này được phát âm là /t/."
+      },
+      "images": []
+    },
+    {
+      "id": 1201637,
+      "questionNumber": 7,
+      "questionName": "Tìm từ có trọng âm khác",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325067,
+          "label": "A",
+          "text": "<p>community</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325068,
+          "label": "B",
+          "text": "<p>experience</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325069,
+          "label": "C",
+          "text": "<p>invitation</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325070,
+          "label": "D",
+          "text": "<p>material</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325069,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy chú ý đến các hậu tố (đuôi từ) như <em>-ion</em>, <em>-ial</em>, và <em>-ity</em>. Vị trí trọng âm chính thường có quy tắc cố định liên quan đến các hậu tố này, thường là rơi vào âm tiết ngay trước chúng.",
+      "explanation": "<p>Từ \"<strong>invitation</strong>\" c&oacute; trọng &acirc;m ch&iacute;nh rơi v&agrave;o &acirc;m tiết thứ ba, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ hai.</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n        font-style: italic;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">community</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/kəˈmjuːnəti/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>cộng đồng</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">experience</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ɪkˈspɪəriəns/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>kinh nghiệm, trải nghiệm</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">invitation</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˌɪnvɪˈteɪʃn/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>lời mời</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">material</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/məˈtɪəriəl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>vật liệu, t&agrave;i liệu</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "2325067": "<p>Trọng &acirc;m của từ n&agrave;y rơi v&agrave;o &acirc;m tiết thứ hai theo quy tắc trọng &acirc;m với hậu tố \"<em>-ity</em>\".</p>",
+        "2325068": "<p>Trọng &acirc;m của từ n&agrave;y rơi v&agrave;o &acirc;m tiết thứ hai.</p>",
+        "2325069": "<p>Trọng &acirc;m của từ n&agrave;y rơi v&agrave;o &acirc;m tiết thứ ba theo quy tắc trọng &acirc;m với hậu tố \"<em>-ion</em>\".</p>",
+        "2325070": "<p>Trọng &acirc;m của từ n&agrave;y rơi v&agrave;o &acirc;m tiết thứ hai theo quy tắc trọng &acirc;m với hậu tố \"<em>-ial</em>\".</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201642,
+      "questionNumber": 8,
+      "questionName": "Tìm từ có trọng âm khác",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325079,
+          "label": "A",
+          "text": "<p>travel</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325080,
+          "label": "B",
+          "text": "<p>locate</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325081,
+          "label": "C",
+          "text": "<p>follow</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325082,
+          "label": "D",
+          "text": "<p>open</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325080,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Với các động từ có hai âm tiết, trọng âm thường rơi vào âm tiết thứ nhất. Tuy nhiên, một số động từ có trọng âm rơi vào âm tiết thứ hai, đặc biệt khi âm tiết thứ hai chứa nguyên âm dài hoặc nguyên âm đôi.",
+      "explanation": "<p>Từ <strong>locate</strong> có trọng âm rơi vào âm tiết thứ hai, các từ còn lại có trọng âm rơi vào âm tiết thứ nhất.</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #fff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n        color: #1c581f;\n        font-size: 15px;\n    }\n\n    .vocab-table-sharp th, \n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        display: inline-block;\n        margin: 0 0.4rem 4px 0;\n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n        display: block;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">travel</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/ˈtræv.əl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>đi lại, du lịch</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">locate</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/loʊˈkeɪt/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>xác định vị trí, định vị</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">follow</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/ˈfɒl.oʊ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>theo sau, tuân theo</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">open</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/ˈoʊ.pən/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>mở</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "2325079": "<p>Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈtræv.əl/. </p>",
+        "2325080": "<p>Từ này có trọng âm rơi vào âm tiết thứ hai /loʊˈkeɪt/. </p>",
+        "2325081": "<p>Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈfɒl.oʊ/. </p>",
+        "2325082": "<p>Từ này có trọng âm rơi vào âm tiết thứ nhất /ˈoʊ.pən/. </p>"
+      },
+      "images": []
+    },
+    {
+      "id": 833699,
+      "questionNumber": 9,
+      "questionName": "13-16",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: left;\"><strong>Read the following announcement and choose the best answer for each blank.</strong></p>\n<table style=\"border-collapse: collapse; width: 100%; background-color: #f9f9f9; border-color: #5fbd18; border-style: solid;\" border=\"1\" cellspacing=\"10\" cellpadding=\"10\">\n<tbody>\n<tr>\n<td style=\"width: 100%;\">\n<p style=\"text-align: left;\"><span style=\"font-weight: 600;\">WHAT TO DO DURING DISASTERS</span></p>\n<p>1. Stay&nbsp;<span class='fillblank-option'><label>13.1</label><select class='ms fillblank-option-13' index='0' name='fbo-833699-0' data-testid='fillblank-select-833699-0'><option value='' data-testid='fillblank-option-empty-833699-0'></option><option value=\"into\" data-testid='fillblank-option-833699-0-into'>into</option><option value=\"inside\" data-testid='fillblank-option-833699-0-inside'>inside</option><option value=\"away\" data-testid='fillblank-option-833699-0-away'>away</option><option value=\"over\" data-testid='fillblank-option-833699-0-over'>over</option></select></span>&nbsp;your house and away from windows.</p>\n<p>2. Don't drive or walk into flood water.</p>\n<p>3. Move to high ground far from&nbsp;<span class='fillblank-option'><label>13.2</label><select class='ms fillblank-option-13' index='1' name='fbo-833699-1' data-testid='fillblank-select-833699-1'><option value='' data-testid='fillblank-option-empty-833699-1'></option><option value=\"an\" data-testid='fillblank-option-833699-1-an'>an</option><option value=\"the\" data-testid='fillblank-option-833699-1-the'>the</option><option value=\"a\" data-testid='fillblank-option-833699-1-a'>a</option><option value=\"Ø (no article)\" data-testid='fillblank-option-833699-1-Ø (no article)'>Ø (no article)</option></select></span>&nbsp;</strong>sea.</p>\n<p>4. Get under a desk or table.</p>\n<p>5.&nbsp;<span class='fillblank-option'><label>13.3</label><select class='ms fillblank-option-13' index='2' name='fbo-833699-2' data-testid='fillblank-select-833699-2'><option value='' data-testid='fillblank-option-empty-833699-2'></option><option value=\"Wait\" data-testid='fillblank-option-833699-2-Wait'>Wait</option><option value=\"Read\" data-testid='fillblank-option-833699-2-Read'>Read</option><option value=\"Watch\" data-testid='fillblank-option-833699-2-Watch'>Watch</option><option value=\"Listen\" data-testid='fillblank-option-833699-2-Listen'>Listen</option></select></span>&nbsp;to local news reports and leave if they tell you to leave.</p>\n<p>6. Call the emergency services if you are in&nbsp;<span class='fillblank-option'><label>13.4</label><select class='ms fillblank-option-13' index='3' name='fbo-833699-3' data-testid='fillblank-select-833699-3'><option value='' data-testid='fillblank-option-empty-833699-3'></option><option value=\"danger\" data-testid='fillblank-option-833699-3-danger'>danger</option><option value=\"endangered\" data-testid='fillblank-option-833699-3-endangered'>endangered</option><option value=\"dangerous\" data-testid='fillblank-option-833699-3-dangerous'>dangerous</option><option value=\"dangerously\" data-testid='fillblank-option-833699-3-dangerously'>dangerously</option></select></span>.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<div class=\"eJOY__extension_root_class\" style=\"all: unset;\" id=\"eJOY__extension_root\"></div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "inside"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "the"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "Listen"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "danger"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.1</strong> Đ&aacute;p &aacute;n đ&uacute;ng l&agrave; \"<strong>inside</strong>\" v&igrave; ta cần một giới từ chỉ vị tr&iacute; \"ở b&ecirc;n trong\". Cụm từ \"<strong>stay inside your house</strong>\" c&oacute; nghĩa l&agrave; \"<em>h&atilde;y ở trong nh&agrave; của bạn</em>\".\n<ul>\n<li><strong>inside</strong> (prep.): b&ecirc;n trong</li>\n<li>over (prep.): b&ecirc;n tr&ecirc;n</li>\n<li>into (prep.): v&agrave;o trong (diễn tả sự chuyển động)</li>\n<li>away (prep.): xa, c&aacute;ch xa</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.2</strong>Ta d&ugrave;ng mạo từ x&aacute;c định \"<strong>the</strong>\" trước c&aacute;c danh từ chỉ sự vật được xem l&agrave; duy nhất trong m&ocirc;i trường xung quanh ch&uacute;ng ta (\"<strong>sea</strong>\" - biển cả).\n<ul>\n<li><strong>the + N (đ&atilde; x&aacute;c định/được xem l&agrave; duy nhất/...)</strong></li>\n<li>a +&nbsp; N (đếm được số &iacute;t, được nhắc đến lần đầu v&agrave; c&oacute; c&aacute;ch ph&aacute;t &acirc;m bắt đầu bằng phụ &acirc;m)</li>\n<li>an +&nbsp; N (đếm được số &iacute;t, được nhắc đến lần đầu v&agrave; c&oacute; c&aacute;ch ph&aacute;t &acirc;m bắt đầu bằng nguy&ecirc;n &acirc;m)</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.3</strong> Ta c&oacute; cụm từ \"<strong>listen to something/somebody</strong>\" c&oacute; nghĩa l&agrave; \"<em>lắng nghe c&aacute;i g&igrave; đ&oacute;/ai đ&oacute;</em>\". Trong c&acirc;u n&agrave;y l&agrave; \"lắng nghe c&aacute;c bản tin địa phương\".\n<ul>\n<li><strong>listen</strong> (v.): lắng nghe</li>\n<li>watch (v.): xem (thường d&ugrave;ng với TV, phim ảnh)</li>\n<li>read (v.): đọc</li>\n<li>wait (v.): chờ đợi</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.4</strong> Sau giới từ \"<strong>in</strong>\", ta cần một danh từ. Cụm từ cố định \"<strong>in danger</strong>\" c&oacute; nghĩa l&agrave; \"đang gặp nguy hiểm\".&nbsp;\n<ul>\n<li><strong>danger</strong> (n.): sự nguy hiểm</li>\n<li>dangerous (adj.): nguy hiểm</li>\n<li>endangered (adj.): bị đe dọa, c&oacute; nguy cơ tuyệt chủng</li>\n<li>dangerously (adv.): một c&aacute;ch nguy hiểm</li>\n</ul>\n</div>\n</div>\n</div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 1205338,
+      "questionNumber": 10,
+      "questionName": "13-18",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the best answer for each blank.</strong></p>\n<p style=\"text-align: justify;\">Tourism is becoming more and more popular around the world. It allows people to explore new places and learn about different cultures. Many tourists enjoy visiting famous landmarks or relaxing on beautiful beaches. However, <span class='fillblank-option'><label>10.1</label><select class='ms fillblank-option-10' index='0' name='fbo-1205338-0' data-testid='fillblank-select-1205338-0'><option value='' data-testid='fillblank-option-empty-1205338-0'></option><option value=\"tourism always bring\" data-testid='fillblank-option-1205338-0-tourism always bring'>tourism always bring</option><option value=\"do tourism always bring\" data-testid='fillblank-option-1205338-0-do tourism always bring'>do tourism always bring</option><option value=\"tourism does always bring\" data-testid='fillblank-option-1205338-0-tourism does always bring'>tourism does always bring</option><option value=\"does tourism always bring\" data-testid='fillblank-option-1205338-0-does tourism always bring'>does tourism always bring</option></select></span> benefits to local communities? Some people believe that tourism has many positive effects. It can create jobs and improve the local economy. It also helps people connect <span class='fillblank-option'><label>10.2</label><select class='ms fillblank-option-10' index='1' name='fbo-1205338-1' data-testid='fillblank-select-1205338-1'><option value='' data-testid='fillblank-option-empty-1205338-1'></option><option value=\"to others who\" data-testid='fillblank-option-1205338-1-to others who'>to others who</option><option value=\"with others who\" data-testid='fillblank-option-1205338-1-with others who'>with others who</option><option value=\"with others whom\" data-testid='fillblank-option-1205338-1-with others whom'>with others whom</option><option value=\"to others whom\" data-testid='fillblank-option-1205338-1-to others whom'>to others whom</option></select></span> come from different cultures and backgrounds. In addition, travelling can help people relax and reduce stress.</p>\n<span class='fillblank-option'><label>10.3</label><select class='ms fillblank-option-10' index='2' name='fbo-1205338-2' data-testid='fillblank-select-1205338-2'><option value='' data-testid='fillblank-option-empty-1205338-2'></option><option value=\"For example\" data-testid='fillblank-option-1205338-2-For example'>For example</option><option value=\"However\" data-testid='fillblank-option-1205338-2-However'>However</option><option value=\"Moreover\" data-testid='fillblank-option-1205338-2-Moreover'>Moreover</option><option value=\"Therefore\" data-testid='fillblank-option-1205338-2-Therefore'>Therefore</option></select></span>, tourism can also have negative impacts. Too many visitors may damage natural environments and increase pollution. In some places, tourism <span class='fillblank-option'><label>10.4</label><select class='ms fillblank-option-10' index='3' name='fbo-1205338-3' data-testid='fillblank-select-1205338-3'><option value='' data-testid='fillblank-option-empty-1205338-3'></option><option value=\"can also harm\" data-testid='fillblank-option-1205338-3-can also harm'>can also harm</option><option value=\"also can harm\" data-testid='fillblank-option-1205338-3-also can harm'>also can harm</option><option value=\"harm can also\" data-testid='fillblank-option-1205338-3-harm can also'>harm can also</option><option value=\"can harm also\" data-testid='fillblank-option-1205338-3-can harm also'>can harm also</option></select></span> local traditions and lifestyles. Local governments <span class='fillblank-option'><label>10.5</label><select class='ms fillblank-option-10' index='4' name='fbo-1205338-4' data-testid='fillblank-select-1205338-4'><option value='' data-testid='fillblank-option-empty-1205338-4'></option><option value=\"do\" data-testid='fillblank-option-1205338-4-do'>do</option><option value=\"make\" data-testid='fillblank-option-1205338-4-make'>make</option><option value=\"take\" data-testid='fillblank-option-1205338-4-take'>take</option><option value=\"play\" data-testid='fillblank-option-1205338-4-play'>play</option></select></span> an important role in managing tourism. They <span class='fillblank-option'><label>10.6</label><select class='ms fillblank-option-10' index='5' name='fbo-1205338-5' data-testid='fillblank-select-1205338-5'><option value='' data-testid='fillblank-option-empty-1205338-5'></option><option value=\"should\" data-testid='fillblank-option-1205338-5-should'>should</option><option value=\"ought not\" data-testid='fillblank-option-1205338-5-ought not'>ought not</option><option value=\"shouldn't\" data-testid='fillblank-option-1205338-5-shouldn't'>shouldn't</option><option value=\"mustn't\" data-testid='fillblank-option-1205338-5-mustn't'>mustn't</option></select></span> protect natural resources and ensure that tourism develops sustainably. With proper management, tourism can benefit both visitors and local people.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "does tourism always bring"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "with others who"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "However"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "can also harm"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "play"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "should"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.1</strong> Đ&aacute;p &aacute;n đ&uacute;ng l&agrave; \"<strong>does tourism always bring</strong>\" v&igrave; đ&acirc;y l&agrave; c&acirc;u hỏi nghi vấn với chủ ngữ số &iacute;t (<strong>tourism</strong>) v&agrave; động từ ch&iacute;nh (<strong>bring</strong>).</div>\n<ul>\n<li style=\"text-align: justify;\">Trợ động từ \"<strong>does</strong>\" được d&ugrave;ng cho chủ ngữ số &iacute;t v&agrave; được đảo l&ecirc;n trước chủ ngữ trong c&acirc;u nghi vấn.</li>\n<li style=\"text-align: justify;\">Trạng từ \"<strong>always</strong>\" đứng trước động từ ch&iacute;nh \"<strong>bring</strong>\" trong c&acirc;u hỏi.</li>\n</ul>\n<p>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:&nbsp;</p>\n<ul>\n<li>\"tourism does always bring\" kh&ocirc;ng phải dạng c&acirc;u hỏi.</li>\n<li>\"tourism always bring\" sai ngữ ph&aacute;p. Động từ \"bring\" chưa chia với chủ ngữ số &iacute;t v&agrave; đ&acirc;y kh&ocirc;ng phải dạng c&acirc;u hỏi.</li>\n<li>\"do tourism always bring\" sai trợ động từ \"do\".</li>\n</ul>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.2</strong>&nbsp;Đ&aacute;p &aacute;n đ&uacute;ng l&agrave; \"<span style=\"font-weight: 600;\">with others who</span>\". Ta c&oacute; \"<strong>connect</strong>\" khi n&oacute;i về việc giao tiếp, thiết lập mối quan hệ với người kh&aacute;c thường đi với giới từ \"<strong>with</strong>\". D&ugrave;ng đại từ quan hệ \"<span style=\"font-weight: 600;\">who</span>\" thay thế cho \"<span style=\"font-weight: 600;\">others</span>\" chỉ người v&agrave; đ&oacute;ng vai tr&ograve; l&agrave;m chủ ngữ của động từ \"<span style=\"font-weight: 600;\">come</span>\" trong mệnh đề quan hệ.</div>\n<div style=\"margin-bottom: 0px; text-align: justify;\">\n<ul>\n<li><strong>with others who</strong>&nbsp;(phr.): với những người m&agrave;&nbsp;&nbsp;</li>\n<li>to others who (phr.): với những người m&agrave; (\"connect to\" thường mang nghĩa vật l&yacute;, kết nối một thứ với thứ kh&aacute;c n&ecirc;n kh&ocirc;ng ph&ugrave; hợp)</li>\n<li>with others whom (phr.): với những người m&agrave; (sai v&igrave; \"whom\" kh&ocirc;ng thể l&agrave;m chủ ngữ trong mệnh đề quan hệ)</li>\n<li>to others whom (phr.): với những người m&agrave; (sai v&igrave; \"whom\" kh&ocirc;ng thể l&agrave;m chủ ngữ trong mệnh đề quan hệ)</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.3</strong> Đ&aacute;p &aacute;n đ&uacute;ng l&agrave; \"<strong>However</strong>\". Từ nối \"<strong>However</strong>\" (tuy nhi&ecirc;n) được sử dụng để giới thiệu một &yacute; kiến hoặc th&ocirc;ng tin đối lập với những g&igrave; đ&atilde; được n&oacute;i trước đ&oacute;. Ở đ&acirc;y, n&oacute; chuyển từ c&aacute;c t&aacute;c động t&iacute;ch cực của du lịch sang c&aacute;c t&aacute;c động ti&ecirc;u cực.\n<ul>\n<li><strong>however </strong>(adv.): tuy nhi&ecirc;n</li>\n<li>therefore (adv.): do đ&oacute;, v&igrave; vậy</li>\n<li>for example (phr.): v&iacute; dụ</li>\n<li>moreover (adv.): hơn nữa</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.4</strong> Đ&aacute;p &aacute;n đ&uacute;ng l&agrave; \"<strong>can also harm</strong>\". Trong c&acirc;u c&oacute; động từ khuyết thiếu \"<strong>can</strong>\", trạng từ \"<strong>also</strong>\" thường được đặt sau động từ khuyết thiếu v&agrave; trước động từ ch&iacute;nh ở dạng nguy&ecirc;n thể.\n<ul>\n<li><strong>can also harm</strong>: cũng c&oacute; thể g&acirc;y hại</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.5</strong> Đ&aacute;p &aacute;n đ&uacute;ng l&agrave; \"<strong>play</strong>\". Cụm từ cố định \"<strong>play an important role</strong>\" (<em>đ&oacute;ng một vai tr&ograve; quan trọng</em>) l&agrave; c&aacute;ch diễn đạt ch&iacute;nh x&aacute;c v&agrave; phổ biến trong tiếng Anh.</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.6</strong> Đ&aacute;p &aacute;n đ&uacute;ng l&agrave; \"<strong>should</strong>\". Động từ khuyết thiếu \"<strong>should</strong>\" được d&ugrave;ng để đưa ra lời khuy&ecirc;n hoặc diễn tả một nghĩa vụ, tr&aacute;ch nhiệm. Trong ngữ cảnh n&agrave;y, ch&iacute;nh quyền địa phương c&oacute; tr&aacute;ch nhiệm bảo vệ t&agrave;i nguy&ecirc;n thi&ecirc;n nhi&ecirc;n.\n<ul>\n<li><strong>should + V(inf)</strong>: n&ecirc;n l&agrave;m g&igrave;</li>\n<li>ought not + V(inf): kh&ocirc;ng n&ecirc;n l&agrave;m g&igrave;</li>\n<li>mustn't + V(inf): kh&ocirc;ng được ph&eacute;p l&agrave;m g&igrave;&nbsp;</li>\n<li>shouldn't + V(inf): kh&ocirc;ng n&ecirc;n l&agrave;m g&igrave;</li>\n</ul>\n</div>\n</div>\n</div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 1201737,
+      "questionNumber": 11,
+      "questionName": "Đọc hiểu về lựa chọn nghề nghiệp",
+      "questionType": "Description",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions</strong></p>\n<p style=\"text-align: justify;\">In today's world, career choices are more <strong>diverse </strong>than ever. Many people choose traditional jobs such as teachers, doctors, and engineers. These professions are important and offer job security and good salaries. However, many new career paths have emerged in recent years. Fields like technology, social media, and environmental science have become popular options for young people.</p>\n<p style=\"text-align: justify;\">Many students are now interested in jobs related to technology, such as software developers, data analysts, and IT support. These jobs often require skills in programming and problem-solving. Social media managers and digital marketers are also in demand as businesses seek to improve their online presence.</p>\n<p style=\"text-align: justify;\">In addition, more people are choosing to work in fields that help the environment, such as renewable energy and conservation. These jobs are important for protecting the planet and can be very rewarding.</p>\n<p style=\"text-align: justify;\">When choosing a career, it is essential to consider your interests and skills. A <strong>fulfilling </strong>job can lead to happiness and success.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy đọc lướt qua đoạn văn để nắm ý chính, sau đó đọc kỹ từng đoạn để tìm thông tin cụ thể cho mỗi câu hỏi.</p>",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 1201743,
+      "questionNumber": 12,
+      "questionName": "Tìm từ trái nghĩa",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &quot;fulfilling&quot; in paragraph 4 is OPPOSITE in meaning to _____.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions</strong></p>\n<p style=\"text-align: justify;\">In today's world, career choices are more <strong>diverse </strong>than ever. Many people choose traditional jobs such as teachers, doctors, and engineers. These professions are important and offer job security and good salaries. However, many new career paths have emerged in recent years. Fields like technology, social media, and environmental science have become popular options for young people.</p>\n<p style=\"text-align: justify;\">Many students are now interested in jobs related to technology, such as software developers, data analysts, and IT support. These jobs often require skills in programming and problem-solving. Social media managers and digital marketers are also in demand as businesses seek to improve their online presence.</p>\n<p style=\"text-align: justify;\">In addition, more people are choosing to work in fields that help the environment, such as renewable energy and conservation. These jobs are important for protecting the planet and can be very rewarding.</p>\n<p style=\"text-align: justify;\">When choosing a career, it is essential to consider your interests and skills. A <strong>fulfilling </strong>job can lead to happiness and success.</p>",
+      "parentQuestionId": 1201737,
+      "choices": [
+        {
+          "id": 2325455,
+          "label": "A",
+          "text": "<p>challenging</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325456,
+          "label": "B",
+          "text": "<p>satisfying</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325458,
+          "label": "C",
+          "text": "<p>empty</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325459,
+          "label": "D",
+          "text": "<p>exciting</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325458,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Đọc kỹ câu cuối cùng của bài đọc để hiểu ý nghĩa của từ <em>fulfilling</em>. Hãy chú ý rằng câu hỏi yêu cầu tìm từ <strong>TRÁI NGHĨA</strong>, không phải từ đồng nghĩa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra vốn từ vựng của bạn, cụ thể l&agrave; khả năng t&igrave;m từ tr&aacute;i nghĩa. Để trả lời đ&uacute;ng, bạn cần đọc c&acirc;u chứa từ được hỏi, dựa v&agrave;o ngữ cảnh để suy ra &yacute; nghĩa của từ đ&oacute;, sau đ&oacute; t&igrave;m phương &aacute;n c&oacute; nghĩa tr&aacute;i ngược ho&agrave;n to&agrave;n.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Đầu ti&ecirc;n, ch&uacute;ng ta cần x&aacute;c định nghĩa của từ \"<strong>fulfilling</strong>\" trong b&agrave;i đọc. C&acirc;u văn chứa từ n&agrave;y l&agrave; <strong>[[A fulfilling job can lead to happiness and success]]</strong> (<em>Một c&ocirc;ng việc trọn vẹn c&oacute; thể dẫn đến hạnh ph&uacute;c v&agrave; th&agrave;nh c&ocirc;ng</em>). Dựa v&agrave;o ngữ cảnh n&agrave;y, \"<strong>fulfilling</strong>\" mang &yacute; nghĩa l&agrave; l&agrave;m cho ai đ&oacute; cảm thấy h&agrave;i l&ograve;ng, trọn vẹn v&agrave; thấy c&ocirc;ng việc của m&igrave;nh c&oacute; &yacute; nghĩa.</p>\n<p style=\"text-align: justify;\">B&acirc;y giờ, h&atilde;y xem x&eacute;t c&aacute;c phương &aacute;n:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"challenging\" (thử th&aacute;ch) kh&ocirc;ng phải l&agrave; từ tr&aacute;i nghĩa.&nbsp;</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 \"satisfying\" (g&acirc;y h&agrave;i l&ograve;ng, thỏa m&atilde;n) l&agrave; một từ <strong>đồng nghĩa</strong> với \"fulfilling\". Đ&acirc;y l&agrave; một c&aacute;i bẫy phổ biến nếu bạn kh&ocirc;ng đọc kỹ y&ecirc;u cầu t&igrave;m từ \"OPPOSITE\" (tr&aacute;i nghĩa).</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 \"<strong>empty</strong>\" (trống rỗng, v&ocirc; nghĩa) c&oacute; nghĩa tr&aacute;i ngược ho&agrave;n to&agrave;n với cảm gi&aacute;c trọn vẹn, h&agrave;i l&ograve;ng v&agrave; c&oacute; &yacute; nghĩa. Một c&ocirc;ng việc \"<strong>empty</strong>\" l&agrave; một c&ocirc;ng việc kh&ocirc;ng mang lại mục đ&iacute;ch hay sự thỏa m&atilde;n. Do đ&oacute;, đ&acirc;y l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"exciting\" (th&uacute; vị, hứng khởi) m&ocirc; tả một kh&iacute;a cạnh kh&aacute;c của c&ocirc;ng việc v&agrave; kh&ocirc;ng đối lập với \"fulfilling\".&nbsp;</li>\n</ul>",
+      "answerFeedbacks": {
+        "2325455": "Phương án này sai vì một công việc có thể vừa thử thách vừa trọn vẹn, chúng không phải là hai khái niệm trái ngược nhau.",
+        "2325456": "Phương án này sai vì đây là từ ĐỒNG NGHĨA với \"fulfilling\", trong khi câu hỏi yêu cầu tìm từ trái nghĩa.",
+        "2325458": "Phương án này đúng vì \"fulfilling\" có nghĩa là mang lại cảm giác trọn vẹn và hài lòng, trái ngược hoàn toàn với \"empty\" là trống rỗng, vô nghĩa.",
+        "2325459": "Phương án này sai vì một công việc có thể thú vị nhưng không mang lại cảm giác trọn vẹn, và ngược lại, nên chúng không đối lập nhau."
+      },
+      "images": []
+    },
+    {
+      "id": 1201749,
+      "questionNumber": 13,
+      "questionName": "Tìm từ đồng nghĩa",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The word &quot;diverse&quot; in paragraph 1 is CLOSEST in meaning to _____.</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions</strong></p>\n<p style=\"text-align: justify;\">In today's world, career choices are more <strong>diverse </strong>than ever. Many people choose traditional jobs such as teachers, doctors, and engineers. These professions are important and offer job security and good salaries. However, many new career paths have emerged in recent years. Fields like technology, social media, and environmental science have become popular options for young people.</p>\n<p style=\"text-align: justify;\">Many students are now interested in jobs related to technology, such as software developers, data analysts, and IT support. These jobs often require skills in programming and problem-solving. Social media managers and digital marketers are also in demand as businesses seek to improve their online presence.</p>\n<p style=\"text-align: justify;\">In addition, more people are choosing to work in fields that help the environment, such as renewable energy and conservation. These jobs are important for protecting the planet and can be very rewarding.</p>\n<p style=\"text-align: justify;\">When choosing a career, it is essential to consider your interests and skills. A <strong>fulfilling </strong>job can lead to happiness and success.</p>",
+      "parentQuestionId": 1201737,
+      "choices": [
+        {
+          "id": 2325483,
+          "label": "A",
+          "text": "<p>common</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325484,
+          "label": "B",
+          "text": "<p>similar</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325485,
+          "label": "C",
+          "text": "<p>varied</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325486,
+          "label": "D",
+          "text": "<p>few</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325485,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để xác định nghĩa của từ <em>\"diverse\"</em>, bạn nên đọc kỹ câu chứa từ này và các câu xung quanh trong đoạn 1. Chú ý đến các ví dụ về <strong>các loại hình công việc</strong> được liệt k&ecirc sau đ&oacute, chúng sẽ giúp bạn hiểu rõ hơn về sự \"đa dạng\" mà bài đọc đang đề cập.",
+      "explanation": "<p style=\"text-align: justify;\"><em>Để trả lời c&acirc;u hỏi n&agrave;y, bạn cần sử dụng kỹ năng đo&aacute;n nghĩa của từ trong ngữ cảnh. H&atilde;y đọc kỹ c&acirc;u chứa từ \"diverse\" v&agrave; c&aacute;c c&acirc;u xung quanh để t&igrave;m ra những gợi &yacute; về &yacute; nghĩa của n&oacute;, thay v&igrave; chỉ dựa v&agrave;o kiến thức sẵn c&oacute; về từ vựng.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>C&acirc;u hỏi y&ecirc;u cầu t&igrave;m từ đồng nghĩa với từ <strong>\"diverse\"</strong> trong c&acirc;u: [[<strong>In today's world, career choices are more diverse than ever.</strong>]] (<em>Trong thế giới ng&agrave;y nay, c&aacute;c lựa chọn nghề nghiệp đa dạng hơn bao giờ hết.</em>) Để l&agrave;m r&otilde; &yacute; nghĩa của \"đa dạng\", b&agrave;i đọc đ&atilde; liệt k&ecirc; c&aacute;c v&iacute; dụ cụ thể: b&ecirc;n cạnh những c&ocirc;ng việc truyền thống như [[<strong>teachers, doctors, and engineers</strong>]] (<em>gi&aacute;o vi&ecirc;n, b&aacute;c sĩ, v&agrave; kỹ sư</em>), ng&agrave;y nay c&ograve;n c&oacute; nhiều con đường sự nghiệp mới trong c&aacute;c lĩnh vực như [[<strong>technology, social media, and environmental science</strong>]] (<em>c&ocirc;ng nghệ, truyền th&ocirc;ng x&atilde; hội, v&agrave; khoa học m&ocirc;i trường</em>). Việc đưa ra nhiều loại h&igrave;nh c&ocirc;ng việc kh&aacute;c nhau cho thấy sự lựa chọn nghề nghiệp rất phong ph&uacute; v&agrave; c&oacute; nhiều loại. Do đ&oacute;, \"<strong>diverse</strong>\" c&oacute; nghĩa l&agrave; \"đa dạng, bao gồm nhiều loại kh&aacute;c nhau\".</p>\n<p style=\"text-align: justify;\">X&eacute;t c&aacute;c phương &aacute;n, ta thấy phương &aacute;n 3 \"<strong>varied</strong>\" (<em>đa dạng, phong ph&uacute;</em>) l&agrave; đ&aacute;p &aacute;n ch&iacute;nh x&aacute;c v&igrave; n&oacute; thể hiện đ&uacute;ng &yacute; nghĩa của việc c&oacute; nhiều lựa chọn nghề nghiệp kh&aacute;c nhau như được m&ocirc; tả trong b&agrave;i.</p>",
+      "answerFeedbacks": {
+        "2325483": "<p>Phương &aacute;n n&agrave;y sai v&igrave; \"common\" (phổ biến) mang nghĩa tr&aacute;i ngược với \"diverse\" (đa dạng), khi b&agrave;i đọc n&oacute;i về nhiều lựa chọn nghề nghiệp kh&aacute;c nhau.</p>",
+        "2325484": "<p>Phương &aacute;n n&agrave;y sai v&igrave; \"similar\" (tương tự) c&oacute; nghĩa đối lập với \"diverse\" (đa dạng), trong khi b&agrave;i đọc m&ocirc; tả sự kh&aacute;c biệt giữa c&aacute;c lựa chọn nghề nghiệp.</p>",
+        "2325485": "<p>Phương &aacute;n n&agrave;y đ&uacute;ng v&igrave; \"varied\" (đa dạng, phong ph&uacute;) l&agrave; từ đồng nghĩa gần nhất với \"diverse\", được hỗ trợ bởi c&aacute;c v&iacute; dụ về nhiều loại h&igrave;nh c&ocirc;ng việc kh&aacute;c nhau trong b&agrave;i đọc.</p>",
+        "2325486": "<p>Phương &aacute;n n&agrave;y sai v&igrave; \"few\" (&iacute;t) m&acirc;u thuẫn với &yacute; nghĩa của \"diverse\" (đa dạng) v&agrave; bối cảnh b&agrave;i đọc m&ocirc; tả nhiều lựa chọn nghề nghiệp.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201757,
+      "questionNumber": 14,
+      "questionName": "Tìm thông tin chi tiết",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Which traditional job is mentioned in the passage?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions</strong></p>\n<p style=\"text-align: justify;\">In today's world, career choices are more <strong>diverse </strong>than ever. Many people choose traditional jobs such as teachers, doctors, and engineers. These professions are important and offer job security and good salaries. However, many new career paths have emerged in recent years. Fields like technology, social media, and environmental science have become popular options for young people.</p>\n<p style=\"text-align: justify;\">Many students are now interested in jobs related to technology, such as software developers, data analysts, and IT support. These jobs often require skills in programming and problem-solving. Social media managers and digital marketers are also in demand as businesses seek to improve their online presence.</p>\n<p style=\"text-align: justify;\">In addition, more people are choosing to work in fields that help the environment, such as renewable energy and conservation. These jobs are important for protecting the planet and can be very rewarding.</p>\n<p style=\"text-align: justify;\">When choosing a career, it is essential to consider your interests and skills. A <strong>fulfilling </strong>job can lead to happiness and success.</p>",
+      "parentQuestionId": 1201737,
+      "choices": [
+        {
+          "id": 2325511,
+          "label": "A",
+          "text": "<p>Digital marketer</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325512,
+          "label": "B",
+          "text": "<p>Teacher</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325513,
+          "label": "C",
+          "text": "<p>Environmental scientist</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325514,
+          "label": "D",
+          "text": "<p>Software developer</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325512,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy đọc kỹ đoạn văn đầu tiên, tìm câu văn liệt kê các ví dụ về \"traditional jobs\" (nghề nghiệp truyền thống).</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng đọc t&igrave;m v&agrave; hiểu th&ocirc;ng tin cụ thể c&oacute; trong b&agrave;i đọc. Để trả lời, bạn cần x&aacute;c định đ&acirc;u l&agrave; nghề nghiệp truyền thống được liệt k&ecirc; trong văn bản.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc c&oacute; đề cập đến c&aacute;c nghề nghiệp truyền thống trong c&acirc;u: [[<strong>Many people choose traditional jobs such as teachers, doctors, and engineers.</strong>]] (<em>Nhiều người chọn những c&ocirc;ng việc truyền thống như gi&aacute;o vi&ecirc;n, b&aacute;c sĩ v&agrave; kỹ sư.</em>). Dựa v&agrave;o danh s&aacute;ch n&agrave;y, \"<strong>teacher</strong>\" (gi&aacute;o vi&ecirc;n) l&agrave; một nghề nghiệp truyền thống được nhắc đến. Do đ&oacute;, phương &aacute;n 2 l&agrave; đ&aacute;p &aacute;n ch&iacute;nh x&aacute;c.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n c&ograve;n lại cũng được nhắc đến trong b&agrave;i đọc nhưng l&agrave; v&iacute; dụ cho c&aacute;c nghề nghiệp mới, kh&ocirc;ng phải nghề truyền thống, n&ecirc;n ch&uacute;ng l&agrave; những lựa chọn sai.&nbsp;</p>",
+      "answerFeedbacks": {
+        "2325511": "Thông tin này sai vì bài đọc phân loại đây là một nghề nghiệp mới, không phải nghề truyền thống.",
+        "2325512": "Thông tin này đúng vì bài đọc liệt kê \"teachers\" là một ví dụ cụ thể của một công việc truyền thống.",
+        "2325513": "Thông tin này sai vì các công việc liên quan đến môi trường được đề cập như những lựa chọn mới, không phải truyền thống.",
+        "2325514": "Thông tin này sai vì bài đọc xếp nghề này vào nhóm các công việc mới liên quan đến công nghệ."
+      },
+      "images": []
+    },
+    {
+      "id": 1201764,
+      "questionNumber": 15,
+      "questionName": "Tìm thông tin chi tiết",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Why are jobs in environmental fields considered important?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions</strong></p>\n<p style=\"text-align: justify;\">In today's world, career choices are more <strong>diverse </strong>than ever. Many people choose traditional jobs such as teachers, doctors, and engineers. These professions are important and offer job security and good salaries. However, many new career paths have emerged in recent years. Fields like technology, social media, and environmental science have become popular options for young people.</p>\n<p style=\"text-align: justify;\">Many students are now interested in jobs related to technology, such as software developers, data analysts, and IT support. These jobs often require skills in programming and problem-solving. Social media managers and digital marketers are also in demand as businesses seek to improve their online presence.</p>\n<p style=\"text-align: justify;\">In addition, more people are choosing to work in fields that help the environment, such as renewable energy and conservation. These jobs are important for protecting the planet and can be very rewarding.</p>\n<p style=\"text-align: justify;\">When choosing a career, it is essential to consider your interests and skills. A <strong>fulfilling </strong>job can lead to happiness and success.</p>",
+      "parentQuestionId": 1201737,
+      "choices": [
+        {
+          "id": 2325539,
+          "label": "A",
+          "text": "<p>They require no special skills.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325541,
+          "label": "B",
+          "text": "<p>They are the easiest jobs to get.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325543,
+          "label": "C",
+          "text": "<p>They help protect the planet.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325545,
+          "label": "D",
+          "text": "<p>They offer the highest salaries.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325543,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y đọc kỹ <strong>đoạn văn thứ ba</strong>. Đoạn văn n&agrave;y giải th&iacute;ch vai tr&ograve; v&agrave; tầm quan trọng của c&aacute;c c&ocirc;ng việc trong lĩnh vực m&ocirc;i trường.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng t&igrave;m v&agrave; hiểu th&ocirc;ng tin cụ thể c&oacute; trong b&agrave;i đọc. Để trả lời, bạn cần x&aacute;c định đ&uacute;ng vị tr&iacute; th&ocirc;ng tin trong b&agrave;i v&agrave; đối chiếu với c&aacute;c phương &aacute;n đ&atilde; cho.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>C&acirc;u hỏi y&ecirc;u cầu t&igrave;m l&yacute; do tại sao c&aacute;c c&ocirc;ng việc trong lĩnh vực m&ocirc;i trường lại quan trọng. Đoạn 3 của b&agrave;i đọc c&oacute; n&ecirc;u: <strong>[[These jobs are important for protecting the planet]]</strong> (<em>Những c&ocirc;ng việc n&agrave;y quan trọng trong việc bảo vệ h&agrave;nh tinh</em>). Th&ocirc;ng tin n&agrave;y ho&agrave;n to&agrave;n tr&ugrave;ng khớp với nội dung của phương &aacute;n 3.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n c&ograve;n lại đều l&agrave; th&ocirc;ng tin kh&ocirc;ng được đề cập hoặc kh&ocirc;ng ch&iacute;nh x&aacute;c theo nội dung b&agrave;i đọc.</p>",
+      "answerFeedbacks": {
+        "2325539": "Đây là thông tin không được nhắc đến (Not Given) trong bài đọc.",
+        "2325541": "Bài đọc không cung cấp thông tin nào về độ khó để có được những công việc này, do đó đây là thông tin không được nhắc đến (Not Given).",
+        "2325543": "Thông tin này được nêu rõ trong đoạn 3: <em>\"These jobs are important for protecting the planet\"</em>.",
+        "2325545": "<p>B&agrave;i đọc chỉ n&oacute;i những c&ocirc;ng việc n&agrave;y \"c&oacute; thể rất bổ &iacute;ch\" (can be very rewarding) chứ kh&ocirc;ng khẳng định ch&uacute;ng trả lương cao nhất, do đ&oacute; đ&acirc;y l&agrave; th&ocirc;ng tin sai.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201772,
+      "questionNumber": 16,
+      "questionName": "Tìm ý chính",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What is the main idea of the reading passage?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions</strong></p>\n<p style=\"text-align: justify;\">In today's world, career choices are more <strong>diverse </strong>than ever. Many people choose traditional jobs such as teachers, doctors, and engineers. These professions are important and offer job security and good salaries. However, many new career paths have emerged in recent years. Fields like technology, social media, and environmental science have become popular options for young people.</p>\n<p style=\"text-align: justify;\">Many students are now interested in jobs related to technology, such as software developers, data analysts, and IT support. These jobs often require skills in programming and problem-solving. Social media managers and digital marketers are also in demand as businesses seek to improve their online presence.</p>\n<p style=\"text-align: justify;\">In addition, more people are choosing to work in fields that help the environment, such as renewable energy and conservation. These jobs are important for protecting the planet and can be very rewarding.</p>\n<p style=\"text-align: justify;\">When choosing a career, it is essential to consider your interests and skills. A <strong>fulfilling </strong>job can lead to happiness and success.</p>",
+      "parentQuestionId": 1201737,
+      "choices": [
+        {
+          "id": 2325563,
+          "label": "A",
+          "text": "<p>New career paths have emerged alongside traditional jobs.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325564,
+          "label": "B",
+          "text": "<p>Environmental jobs are not popular among students.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325565,
+          "label": "C",
+          "text": "<p>Technology jobs are the only options for young people.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325566,
+          "label": "D",
+          "text": "<p>Career choices are limited to traditional jobs.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325563,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để tìm ý chính của cả bài, hãy đọc kỹ câu giới thiệu ở đoạn 1 và chú ý đến sự tương phản giữa các loại công việc được nhắc đến trong bài.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng x&aacute;c định &yacute; ch&iacute;nh của to&agrave;n bộ b&agrave;i đọc. Để trả lời đ&uacute;ng, học sinh cần tổng hợp th&ocirc;ng tin từ c&aacute;c đoạn v&agrave; nhận ra chủ đề bao tr&ugrave;m của cả b&agrave;i.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc giới thiệu về sự đa dạng của c&aacute;c lựa chọn nghề nghiệp hiện nay. Ngay từ đoạn đầu ti&ecirc;n, t&aacute;c giả đ&atilde; đề cập đến c&aacute;c c&ocirc;ng việc truyền thống v&agrave; sau đ&oacute; giới thiệu c&aacute;c lựa chọn nghề nghiệp mới: <strong>[[Many people choose traditional jobs... However, many new career paths have emerged in recent years.]]</strong> (<em>Nhiều người chọn những c&ocirc;ng việc truyền thống... Tuy nhi&ecirc;n, nhiều con đường sự nghiệp mới đ&atilde; xuất hiện trong những năm gần đ&acirc;y.</em>). C&aacute;c đoạn tiếp theo đưa ra v&iacute; dụ về c&aacute;c ng&agrave;nh nghề mới n&agrave;y (c&ocirc;ng nghệ, truyền th&ocirc;ng x&atilde; hội, m&ocirc;i trường). Do đ&oacute;, &yacute; ch&iacute;nh của b&agrave;i đọc l&agrave; sự xuất hiện của c&aacute;c con đường sự nghiệp mới b&ecirc;n cạnh c&aacute;c c&ocirc;ng việc truyền thống.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 4 c&oacute; thể g&acirc;y nhầm lẫn nếu chỉ đọc lướt qua phần đầu n&oacute;i về c&aacute;c c&ocirc;ng việc truyền thống, nhưng từ \"However\" đ&atilde; chỉ ra sự tương phản v&agrave; giới thiệu &yacute; ch&iacute;nh của b&agrave;i.</p>",
+      "answerFeedbacks": {
+        "2325563": "Phương án này đúng vì nó tóm tắt chính xác nội dung chính của bài đọc, được thể hiện qua việc giới thiệu cả các công việc truyền thống và sự nổi lên của các con đường sự nghiệp mới.",
+        "2325564": "Phương án này sai vì chứa thông tin ngược lại với bài đọc (False), bài đọc cho biết ngày càng có nhiều người lựa chọn các công việc trong lĩnh vực môi trường.",
+        "2325565": "Phương án này sai vì đưa ra một khẳng định quá tuyệt đối và thu hẹp thông tin (too absolute/narrow), bài đọc chỉ đề cập đến công việc công nghệ như một trong những lựa chọn phổ biến.",
+        "2325566": "Phương án này sai vì chứa thông tin ngược lại với bài đọc (False), bài đọc nhấn mạnh rằng có nhiều con đường sự nghiệp mới đã xuất hiện bên cạnh các công việc truyền thống."
+      },
+      "images": []
+    },
+    {
+      "id": 1201780,
+      "questionNumber": 17,
+      "questionName": "Tìm thông tin chi tiết",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What skills are often required for technology jobs?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions</strong></p>\n<p style=\"text-align: justify;\">In today's world, career choices are more <strong>diverse </strong>than ever. Many people choose traditional jobs such as teachers, doctors, and engineers. These professions are important and offer job security and good salaries. However, many new career paths have emerged in recent years. Fields like technology, social media, and environmental science have become popular options for young people.</p>\n<p style=\"text-align: justify;\">Many students are now interested in jobs related to technology, such as software developers, data analysts, and IT support. These jobs often require skills in programming and problem-solving. Social media managers and digital marketers are also in demand as businesses seek to improve their online presence.</p>\n<p style=\"text-align: justify;\">In addition, more people are choosing to work in fields that help the environment, such as renewable energy and conservation. These jobs are important for protecting the planet and can be very rewarding.</p>\n<p style=\"text-align: justify;\">When choosing a career, it is essential to consider your interests and skills. A <strong>fulfilling </strong>job can lead to happiness and success.</p>",
+      "parentQuestionId": 1201737,
+      "choices": [
+        {
+          "id": 2325587,
+          "label": "A",
+          "text": "<p>Art and design</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325588,
+          "label": "B",
+          "text": "<p>Programming and problem-solving</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325589,
+          "label": "C",
+          "text": "<p>Public speaking and writing</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325590,
+          "label": "D",
+          "text": "<p>Cooking and cleaning</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325588,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy đọc kỹ đoạn văn thứ hai. Tìm câu văn mô tả những kỹ năng (skills) cần thiết cho các công việc liên quan đến <strong>công nghệ (technology)</strong>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng t&igrave;m v&agrave; hiểu th&ocirc;ng tin cụ thể c&oacute; trong b&agrave;i đọc. Để trả lời, bạn cần x&aacute;c định đ&uacute;ng đoạn văn n&oacute;i về c&aacute;c c&ocirc;ng việc c&ocirc;ng nghệ v&agrave; t&igrave;m c&acirc;u m&ocirc; tả c&aacute;c kỹ năng cần thiết cho ch&uacute;ng.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>C&acirc;u hỏi y&ecirc;u cầu x&aacute;c định c&aacute;c kỹ năng cần thiết cho c&ocirc;ng việc trong lĩnh vực c&ocirc;ng nghệ. Trong đoạn văn thứ hai, t&aacute;c giả liệt k&ecirc; một số c&ocirc;ng việc c&ocirc;ng nghệ v&agrave; ngay sau đ&oacute; n&ecirc;u r&otilde; c&aacute;c kỹ năng cần c&oacute;: [[<strong>These jobs often require skills in programming and problem-solving.</strong>]] (<em>Những c&ocirc;ng việc n&agrave;y thường đ&ograve;i hỏi kỹ năng lập tr&igrave;nh v&agrave; giải quyết vấn đề.</em>) Th&ocirc;ng tin n&agrave;y ho&agrave;n to&agrave;n tr&ugrave;ng khớp với phương &aacute;n 2.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n c&ograve;n lại liệt k&ecirc; những kỹ năng kh&ocirc;ng được đề cập trong b&agrave;i đọc li&ecirc;n quan đến lĩnh vực c&ocirc;ng nghệ.</p>",
+      "answerFeedbacks": {
+        "2325587": "Bài đọc không đề cập đến nghệ thuật và thiết kế là những kỹ năng cần thiết cho các công việc công nghệ.",
+        "2325588": "Thông tin này được nêu rõ trong bài đọc qua câu: <em>\"These jobs often require skills in programming and problem-solving.\"</em>",
+        "2325589": "Kỹ năng nói trước công chúng và viết lách không được nhắc đến trong bài đọc là yêu cầu cho các công việc công nghệ.",
+        "2325590": "Đây là những kỹ năng không liên quan đến các ngành nghề được thảo luận trong bài đọc."
+      },
+      "images": []
+    },
+    {
+      "id": 1201787,
+      "questionNumber": 18,
+      "questionName": "Hoàn thành hội thoại",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Sarah is worried about the coming exam.</em></p>\n<p><strong>Sarah: I can't sleep well, Mom. I'm afraid that I can't get good grades.</strong></p>\n<p><strong>Sarah's mother: _____</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325607,
+          "label": "A",
+          "text": "<p>That's fine. Thanks</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325608,
+          "label": "B",
+          "text": "<p>I think it's not a good idea.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325609,
+          "label": "C",
+          "text": "<p>You are welcome.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325610,
+          "label": "D",
+          "text": "<p>Don't worry. Everything will be alright.</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2325610,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy nghĩ xem khi một người bày tỏ sự lo lắng về điều đó, phản ứng tự nhiên và phù hợp nhất để an ủi họ là gì.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Sarah đang lo lắng về kỳ thi sắp tới v&agrave; kh&ocirc;ng ngủ được v&igrave; sợ kh&ocirc;ng đạt điểm cao. Mẹ của Sarah cần đưa ra lời động vi&ecirc;n, an ủi. Phương &aacute;n 4, \"<strong>Don't worry. Everything will be alright.</strong>\", l&agrave; lời động vi&ecirc;n ph&ugrave; hợp nhất trong t&igrave;nh huống n&agrave;y, thể hiện sự trấn an v&agrave; hy vọng t&iacute;ch cực.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n c&ograve;n lại kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh an ủi một người đang lo lắng.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>be worried about</strong> (phr.): lo lắng về điều g&igrave;</p>\n<p style=\"text-align: justify;\"><strong>be afraid that</strong> ...: sợ rằng ...</p>",
+      "answerFeedbacks": {
+        "2325607": "<p>Đ&acirc;y l&agrave; một c&acirc;u đ&aacute;p lại lời cảm ơn hoặc chấp nhận điều g&igrave; đ&oacute;, kh&ocirc;ng ph&ugrave; hợp để an ủi một người đang lo lắng.</p>",
+        "2325608": "<p>Đ&acirc;y l&agrave; một c&acirc;u đưa ra &yacute; kiến phản đối, kh&ocirc;ng li&ecirc;n quan đến việc Sarah đang lo lắng về kỳ thi.</p>",
+        "2325609": "<p>Đ&acirc;y l&agrave; c&acirc;u đ&aacute;p lại lời cảm ơn, ho&agrave;n to&agrave;n kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh n&agrave;y.</p>",
+        "2325610": "<p>Đ&acirc;y l&agrave; lời động vi&ecirc;n, trấn an ho&agrave;n hảo khi một người đang b&agrave;y tỏ sự lo lắng.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201794,
+      "questionNumber": 19,
+      "questionName": "Điền từ vào chỗ trống",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>They don't enjoy that factory job. It's very _____, doing the same tasks over and over again all day.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325624,
+          "label": "A",
+          "text": "<p>creative</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325627,
+          "label": "B",
+          "text": "<p>primitive</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325629,
+          "label": "C",
+          "text": "<p>alternative</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325630,
+          "label": "D",
+          "text": "<p>repetitive</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2325630,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Để chọn từ ph&ugrave; hợp, bạn h&atilde;y ch&uacute; &yacute; đến cụm từ mi&ecirc;u tả t&iacute;nh chất của c&ocirc;ng việc trong c&acirc;u: \"doing the same tasks over and over again all day\". Cụm từ n&agrave;y gợi &yacute; điều g&igrave; về bản chất của c&ocirc;ng việc? H&atilde;y t&igrave;m một t&iacute;nh từ c&oacute; nghĩa tương đồng với việc \"lặp đi lặp lại\".</span></p>",
+      "explanation": "<p><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span>&nbsp;</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">creative</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/kriˈeɪtɪv/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>c&oacute; t&iacute;nh s&aacute;ng tạo, c&oacute; khả năng s&aacute;ng tạo</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">primitive</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈprɪmətɪv/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>nguy&ecirc;n thủy, sơ khai</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">alternative</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ɔːlˈtɜːrnətɪv/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>thay thế, kh&aacute;c</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">repetitive</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/rɪˈpetətɪv/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>lặp đi lặp lại, đơn điệu</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Ph&acirc;n t&iacute;ch:</span><span style=\"text-align: justify;\"> </span><span style=\"text-align: justify;\">Ngữ cảnh \"<strong>doing the same tasks over and over again all day</strong>\" (<em>l&agrave;m đi l&agrave;m lại những c&ocirc;ng việc giống nhau cả ng&agrave;y</em>) m&ocirc; tả một c&ocirc;ng việc đơn điệu, lặp lại. Từ \"<strong>repetitive</strong>\" <em>(lặp đi lặp lại)</em> ph&ugrave; hợp nhất để diễn tả t&iacute;nh chất n&agrave;y của c&ocirc;ng việc. </span></p>\n<p style=\"text-align: justify;\"><span style=\"text-align: justify;\">C&aacute;c phương &aacute;n kh&aacute;c đều c&oacute; nghĩa kh&ocirc;ng li&ecirc;n quan đến ngữ cảnh được đưa ra.</span></p>",
+      "answerFeedbacks": {
+        "2325624": "<p>\"creative\" nghĩa l&agrave; li&ecirc;n quan đến sự s&aacute;ng tạo v&agrave; &yacute; tưởng mới, kh&ocirc;ng ph&ugrave; hợp với m&ocirc; tả c&ocirc;ng việc lặp đi lặp lại.</p>",
+        "2325627": "<p>\"primitive\" nghĩa l&agrave; nguy&ecirc;n thủy hoặc ở giai đoạn ph&aacute;t triển ban đầu, kh&ocirc;ng li&ecirc;n quan đến t&iacute;nh chất của c&ocirc;ng việc.</p>",
+        "2325629": "<p>\"alternative\" nghĩa l&agrave; một lựa chọn kh&aacute;c, kh&ocirc;ng m&ocirc; tả t&iacute;nh chất của một c&ocirc;ng việc.</p>",
+        "2325630": "<p>\"repetitive\" (lặp đi lặp lại) mi&ecirc;u tả ch&iacute;nh x&aacute;c một c&ocirc;ng việc bao gồm <em>\"doing the same tasks over and over again all day\"</em>.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201799,
+      "questionNumber": 20,
+      "questionName": "Điền từ vào chỗ trống",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We wish he _____ us with our projects, but he needs to be more relaxed.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325643,
+          "label": "A",
+          "text": "<p>could help</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325645,
+          "label": "B",
+          "text": "<p>can help</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325646,
+          "label": "C",
+          "text": "<p>helps</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325648,
+          "label": "D",
+          "text": "<p>helping</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325643,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy chú ý đến cấu trúc <em>\"We wish he _____\".</em> Khi bạn ước một điều không có thật ở hiện tại hoặc tương lai, động từ trong mệnh đề <em>\"wish\"</em> thường phải lùi thì hoặc sử dụng động từ khuyết thiếu ở dạng quá khứ để diễn tả khả năng hoặc ý muốn. Cân nhắc động từ khuyết thiếu nào phù hợp để diễn tả khả năng trong một tình huống không có thật.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u ước với \"I wish\"</span>.</p>\n<ul style=\"margin: 0; padding-left: 20px;\">\n<li><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span> Cấu tr&uacute;c n&agrave;y d&ugrave;ng để thể hiện mong muốn hoặc sự tiếc nuối tr&aacute;i với thực tế ở hiện tại, qu&aacute; khứ hoặc tương lai.</li>\n<li style=\"margin-top: 10px;\"><span style=\"text-align: justify; font-weight: 600;\">Cấu tr&uacute;c:&nbsp;</span></li>\n</ul>\n<p style=\"padding-left: 40px;\"><span style=\"text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\"><em>C&acirc;u ước ở hiện tại/ tương lai:</em> <strong>S1 + wish(es) + S2 + could/would + V(inf)</strong></span></span></span></p>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, vế đầu sử dụng cấu tr&uacute;c c&acirc;u ước với \"<strong>wish</strong>\" để diễn tả một mong muốn về khả năng kh&ocirc;ng c&oacute; thật ở hiện tại hoặc tương lai. V&igrave; vậy, động từ khuyết thiếu \"<strong>could</strong>\" theo sau bởi động từ nguy&ecirc;n mẫu \"<strong>help</strong>\" l&agrave; lựa chọn ph&ugrave; hợp nhất.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n \"can help\" kh&ocirc;ng ph&ugrave; hợp v&igrave; \"can\" diễn tả khả năng ở hiện tại c&oacute; thật, kh&ocirc;ng d&ugrave;ng trong c&acirc;u ước về điều kh&ocirc;ng c&oacute; thật. Phương &aacute;n \"helps\" l&agrave; th&igrave; hiện tại đơn, kh&ocirc;ng d&ugrave;ng trong cấu tr&uacute;c c&acirc;u ước. Phương &aacute;n \"helping\" l&agrave; dạng V-ing, kh&ocirc;ng thể l&agrave;m vị ngữ cho chủ ngữ \"he\" trong cấu tr&uacute;c n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "2325643": "Đây là đáp án đúng vì <em>\"could + V(inf)\"</em> được sử dụng trong mệnh đề sau <em>\"wish\"</em> để diễn tả một mong muốn về khả năng không có thật ở hiện tại hoặc tương lai.",
+        "2325645": "Đây là phương án sai vì <em>\"can + V(inf)\"</em> diễn tả khả năng ở hiện tại và không được dùng trong cấu trúc câu ước về điều không có thật ở hiện tại.",
+        "2325646": "Đây là phương án sai vì thì hiện tại đơn <em>\"helps\"</em> không được sử dụng trong mệnh đề sau <em>\"wish\"</em> để diễn tả điều không có thật.",
+        "2325648": "Đây là phương án sai vì dạng <em>V-ing</em> không thể đứng một mình làm vị ngữ cho chủ ngữ <em>\"he\"</em> trong cấu trúc này."
+      },
+      "images": []
+    },
+    {
+      "id": 1201804,
+      "questionNumber": 21,
+      "questionName": "Điền từ vào chỗ trống",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If you _____ your homework this afternoon, you _____ to the party with your siblings.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325667,
+          "label": "A",
+          "text": "<p>complete / are going</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325669,
+          "label": "B",
+          "text": "<p>complete / can go</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325671,
+          "label": "C",
+          "text": "<p>completed / could go</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325673,
+          "label": "D",
+          "text": "<p>can complete / go</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325669,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến khoảng thời gian \"this afternoon\" để x&aacute;c định đ&acirc;y l&agrave; một điều kiện c&oacute; thật hay kh&ocirc;ng c&oacute; thật. Sau đ&oacute;, h&atilde;y nhớ lại cấu tr&uacute;c của conditional sentence type 1, đặc biệt l&agrave; dạng động từ trong cả mệnh đề \"If\" v&agrave; mệnh đề ch&iacute;nh (main clause) để diễn tả một kết quả c&oacute; thể xảy ra trong tương lai.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u điều kiện loại 1</span>.</p>\n<ul style=\"margin: 0; padding-left: 20px;\">\n<li><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span>&nbsp;Diễn tả một h&agrave;nh động hoặc sự việc c&oacute; thể xảy ra ở hiện tại hoặc tương lai nếu một điều kiện nhất định được đ&aacute;p ứng.</li>\n<li style=\"margin-top: 10px;\"><span style=\"text-align: justify; font-weight: 600;\">Cấu tr&uacute;c:&nbsp;</span><span style=\"font-weight: 600; text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\">If + S + V(hiện tại đơn), S + will/can/may/might... + V(nguy&ecirc;n thể)</span></span></span></li>\n</ul>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u n&agrave;y diễn tả một điều kiện c&oacute; thật ở hiện tại/tương lai gần (\"<strong>this afternoon</strong>\") v&agrave; một kết quả c&oacute; thể xảy ra. Do đ&oacute;, cần sử dụng c&acirc;u điều kiện loại 1. Mệnh đề \"<strong>if</strong>\" sử dụng th&igrave; hiện tại đơn (<strong>complete</strong>) v&agrave; mệnh đề ch&iacute;nh sử dụng \"<strong>can + V(inf)</strong>\" (<strong>can go</strong>) để diễn tả khả năng hoặc sự cho ph&eacute;p.</p>",
+      "answerFeedbacks": {
+        "2325667": "<p>Phương &aacute;n n&agrave;y đ&uacute;ng ngữ ph&aacute;p cho mệnh đề \"if\" (th&igrave; hiện tại đơn) nhưng mệnh đề ch&iacute;nh \"are going\" (hiện tại tiếp diễn) thường d&ugrave;ng cho kế hoạch đ&atilde; định sẵn hơn l&agrave; khả năng hoặc sự cho ph&eacute;p trong c&acirc;u điều kiện.</p>",
+        "2325669": "<p>Đ&acirc;y l&agrave; đ&aacute;p &aacute;n đ&uacute;ng v&igrave; mệnh đề \"if\" sử dụng th&igrave; hiện tại đơn (\"complete\") v&agrave; mệnh đề ch&iacute;nh sử dụng động từ khuyết thiếu \"can\" c&ugrave;ng động từ nguy&ecirc;n thể (\"can go\") để diễn tả khả năng hoặc sự cho ph&eacute;p trong c&acirc;u điều kiện loại 1.</p>",
+        "2325671": "<p><em>Phương &aacute;n n&agrave;y sử dụng cấu tr&uacute;c của c&acirc;u điều kiện loại 2 (qu&aacute; khứ đơn v&agrave; \"could\"), d&ugrave;ng để diễn tả điều kiện kh&ocirc;ng c&oacute; thật hoặc kh&oacute; xảy ra ở hiện tại/tương lai, kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh c&oacute; thật \"this afternoon\".</em></p>",
+        "2325673": "<p>Mệnh đề \"if\" kh&ocirc;ng thường d&ugrave;ng \"can\" trực tiếp như vậy trong c&acirc;u điều kiện loại 1, v&agrave; mệnh đề ch&iacute;nh cần một động từ khuyết thiếu để diễn tả kết quả tương lai, kh&ocirc;ng phải th&igrave; hiện tại đơn.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201812,
+      "questionNumber": 22,
+      "questionName": "Điền từ vào chỗ trống",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>She took a _____ using her smartphone's beauty filter to make her skin look more even and radiant.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325695,
+          "label": "A",
+          "text": "<p>self-expression</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325697,
+          "label": "B",
+          "text": "<p>self-image</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325699,
+          "label": "C",
+          "text": "<p>self-timer</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325701,
+          "label": "D",
+          "text": "<p>self-portrait</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2325701,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Để chọn từ đ&uacute;ng, h&atilde;y tập trung v&agrave;o h&agrave;nh động \"took a _____\" v&agrave; mục đ&iacute;ch \"using her smartphone's beauty filter to make her skin look more even and radiant\". Bạn đang t&igrave;m kiếm một danh từ chỉ loại ảnh được chụp, đặc biệt l&agrave; ảnh m&agrave; người chụp l&agrave; ch&iacute;nh chủ thể của bức ảnh đ&oacute;. H&atilde;y nghĩ xem từ n&agrave;o trong c&aacute;c lựa chọn ph&ugrave; hợp nhất với &yacute; nghĩa \"bức ảnh tự chụp\".</span></p>",
+      "explanation": "<p><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span>&nbsp;</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">self-expression</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˌself.ɪkˈspreʃ.ən/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sự tự biểu hiện, sự thể hiện bản th&acirc;n</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">self-image</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈself ˌɪm.ɪdʒ/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>h&igrave;nh ảnh bản th&acirc;n, c&aacute;ch một người nh&igrave;n nhận về bản th&acirc;n</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">self-timer</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈself ˌtaɪ.mər/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>chế độ hẹn giờ chụp ảnh (tr&ecirc;n m&aacute;y ảnh/điện thoại)</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">self-portrait</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˌselfˈpɔː.trɪt/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>bức ch&acirc;n dung tự họa, ảnh tự chụp (selfie)</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Ph&acirc;n t&iacute;ch:</span><span style=\"text-align: justify;\"> </span><span style=\"text-align: justify;\">Ngữ cảnh của c&acirc;u cho thấy c&ocirc; ấy đ&atilde; tự chụp một bức ảnh của m&igrave;nh. V&igrave; vậy, \"<strong>self-portrait</strong>\" (<em>bức ch&acirc;n dung tự họa/ảnh tự chụp</em>) l&agrave; lựa chọn ph&ugrave; hợp nhất. </span></p>\n<p style=\"text-align: justify;\"><span style=\"text-align: justify;\">C&aacute;c phương &aacute;n kh&aacute;c&nbsp;đều kh&ocirc;ng ph&ugrave; hợp với h&agrave;nh động v&agrave; kết quả được m&ocirc; tả.</span></p>",
+      "answerFeedbacks": {
+        "2325695": "Từ này có nghĩa là sự thể hiện bản thân, không phù hợp với ngữ cảnh chụp ảnh.",
+        "2325697": "Từ này có nghĩa là hình ảnh bản thân, cách một người nhìn nhận về bản thân, không liên quan đến hành động chụp ảnh.",
+        "2325699": "Từ này chỉ chế độ hẹn giờ chụp ảnh, không phải là bức ảnh được chụp.",
+        "2325701": "Từ này (bức chân dung tự họa) là từ chính xác để chỉ một bức ảnh mà ai đó tự chụp mình, phù hợp với ngữ cảnh sử dụng bộ lọc làm đẹp trên điện thoại thông minh."
+      },
+      "images": []
+    },
+    {
+      "id": 1201818,
+      "questionNumber": 23,
+      "questionName": "Điền từ vào chỗ trống",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>While Sarah _____ her bags, she realized that she had forgotten her passport.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325723,
+          "label": "A",
+          "text": "<p>was packing</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325724,
+          "label": "B",
+          "text": "<p>had packed</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325725,
+          "label": "C",
+          "text": "<p>would pack</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325726,
+          "label": "D",
+          "text": "<p>was packed</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325723,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Khi gặp c&aacute;c c&acirc;u c&oacute; li&ecirc;n từ \"While\" hoặc \"When\", h&atilde;y xem x&eacute;t mối quan hệ về thời gian giữa c&aacute;c h&agrave;nh động. Mệnh đề với \"While\" thường b&aacute;o hiệu một h&agrave;nh động d&agrave;i, đang diễn ra c&ograve;n mệnh đề ph&iacute;a sau thường l&agrave; h&agrave;nh động ngắn, xen v&agrave;o.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng:&nbsp;</span>Th&igrave; qu&aacute; khứ đơn v&agrave; qu&aacute; khứ tiếp diễn</span>.</p>\n<ul style=\"margin: 0; padding-left: 20px;\">\n<li><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span>&nbsp;Khi diễn tả một h&agrave;nh động hay sự việc đang xảy ra th&igrave; h&agrave;nh động hay sự việc kh&aacute;c chen ngang trong qu&aacute; khứ, ta d&ugrave;ng th&igrave; qu&aacute; khứ tiếp diễn để chỉ h&agrave;nh động đang xảy ra trong qu&aacute; khứ v&agrave; d&ugrave;ng th&igrave; qu&aacute; khứ đơn để chỉ h&agrave;nh động hay sự việc chen v&agrave;o.</li>\n<li style=\"margin-top: 10px; margin-bottom: 10px;\"><span style=\"font-weight: 600;\">Cấu tr&uacute;c:</span></li>\n</ul>\n<p style=\"margin-top: 5px; margin-left: 20px;\"><span style=\"font-weight: 600; text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\">While/When + S + was/were + V-ing, S + V(pt)</span></span></span></p>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Th&igrave; qu&aacute; khứ tiếp diễn \"<strong>was packing</strong>\" được d&ugrave;ng để diễn tả một h&agrave;nh động đang diễn ra trong qu&aacute; khứ (<strong>pack her bags</strong>) th&igrave; c&oacute; một h&agrave;nh động kh&aacute;c xen v&agrave;o (<strong>realize</strong>). Đ&acirc;y l&agrave; c&aacute;ch d&ugrave;ng phổ biến khi kết hợp th&igrave; qu&aacute; khứ tiếp diễn v&agrave; qu&aacute; khứ đơn với li&ecirc;n từ \"<strong>While</strong>\".</p>",
+      "answerFeedbacks": {
+        "2325723": "<p>Th&igrave; qu&aacute; khứ tiếp diễn \"was packing\" diễn tả h&agrave;nh động đang diễn ra tại một thời điểm trong qu&aacute; khứ, ph&ugrave; hợp với li&ecirc;n từ \"While\" để chỉ hai h&agrave;nh động xảy ra đồng thời.</p>",
+        "2325724": "<p><em>Th&igrave; qu&aacute; khứ ho&agrave;n th&agrave;nh \"had packed\" diễn tả một h&agrave;nh động đ&atilde; ho&agrave;n th&agrave;nh trước một h&agrave;nh động kh&aacute;c trong qu&aacute; khứ, kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh hai h&agrave;nh động xảy ra đồng thời với \"While\".</em></p>",
+        "2325725": "<p>\"would pack\" được d&ugrave;ng để diễn tả c&aacute;c h&agrave;nh động mang t&iacute;nh giả định hoặc tương lai trong qu&aacute; khứ, kh&ocirc;ng ph&ugrave; hợp với h&agrave;nh động đang diễn ra ở th&igrave; qu&aacute; khứ.</p>",
+        "2325726": "<p>\"was packed\" l&agrave; th&igrave; qu&aacute; khứ đơn ở thể bị động, kh&ocirc;ng ph&ugrave; hợp để diễn tả h&agrave;nh động chủ động v&agrave; đang diễn ra của chủ ngữ \"Sarah\".</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201825,
+      "questionNumber": 24,
+      "questionName": "Điền từ vào chỗ trống",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>You should prepare _____ questions about what you want to know about the job.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325739,
+          "label": "A",
+          "text": "<p>little of</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325740,
+          "label": "B",
+          "text": "<p>a few</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325741,
+          "label": "C",
+          "text": "<p>a lots of</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325742,
+          "label": "D",
+          "text": "<p>much of</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325740,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y xem x&eacute;t loại danh từ <em>\"questions\"</em> l&agrave; danh từ đếm được hay kh&ocirc;ng đếm được, số &iacute;t hay số nhiều, để chọn định lượng từ (quantifier) ph&ugrave; hợp. Sau đ&oacute;, c&acirc;n nhắc sắc th&aacute;i nghĩa của từng định lượng từ để t&igrave;m ra từ diễn tả số lượng hợp l&yacute; nhất trong ngữ cảnh.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Định lượng từ</span>.</p>\n<ul style=\"margin: 0; padding-left: 20px;\">\n<li><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span>&nbsp;Định lượng từ (quantifiers) được sử dụng để chỉ số lượng hoặc khối lượng của danh từ, gi&uacute;p người nghe/đọc biết danh từ đ&oacute; l&agrave; bao nhi&ecirc;u.</li>\n<li style=\"margin-top: 10px; margin-bottom: 10px;\"><strong>Cấu tr&uacute;c:</strong></li>\n</ul>\n<p style=\"margin-top: 5px; margin-left: 20px;\"><span style=\"text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\"><strong>a few + N (đếm được số nhiều)</strong>: một &iacute;t (đủ d&ugrave;ng)</span></span></span></p>\n<p style=\"margin-top: 5px; margin-left: 20px;\"><span style=\"text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\"><strong>little + N (kh&ocirc;ng đếm được)</strong>: &iacute;t (kh&ocirc;ng đủ d&ugrave;ng)</span></span></span></p>\n<p style=\"margin-top: 5px; margin-left: 20px;\"><span style=\"text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\"><strong> much of + N (kh&ocirc;ng đếm được)</strong>: nhiều</span></span></span></p>\n<p style=\"margin-top: 5px; margin-left: 20px;\"><span style=\"text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\"><strong>a lot of / lots of + N (đếm được số nhiều / kh&ocirc;ng đếm được)</strong>: nhiều</span></span></span></p>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u n&agrave;y, danh từ cần được định lượng l&agrave; \"<strong>questions</strong>\", đ&acirc;y l&agrave; một danh từ đếm được ở dạng số nhiều. Do đ&oacute;, ch&uacute;ng ta cần một định lượng từ ph&ugrave; hợp với danh từ đếm được số nhiều.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 2 \"<span style=\"font-weight: 600;\">a few</span>\" l&agrave; định lượng từ ph&ugrave; hợp với danh từ đếm được số nhiều, mang nghĩa \"một v&agrave;i/một &iacute;t\", rất th&iacute;ch hợp với ngữ cảnh c&acirc;u khuy&ecirc;n n&ecirc;n chuẩn bị một v&agrave;i c&acirc;u hỏi cho buổi phỏng vấn.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 \"little of\" v&agrave; phương &aacute;n 4 \"much of\" được d&ugrave;ng với danh từ kh&ocirc;ng đếm được, n&ecirc;n kh&ocirc;ng ph&ugrave; hợp với \"questions\". Phương &aacute;n 3 \"a lots of\" l&agrave; một cấu tr&uacute;c sai ngữ ph&aacute;p; c&aacute;ch viết đ&uacute;ng phải l&agrave; \"a lot of\" hoặc \"lots of\".&nbsp;</p>",
+      "answerFeedbacks": {
+        "2325739": "<p>\"little of\" được d&ugrave;ng với danh từ kh&ocirc;ng đếm được, trong khi \"questions\" l&agrave; danh từ đếm được số nhiều.</p>",
+        "2325740": "<p>\"a few\" được d&ugrave;ng với danh từ đếm được số nhiều v&agrave; c&oacute; nghĩa l&agrave; \"một v&agrave;i/một &iacute;t\", ph&ugrave; hợp với ngữ cảnh của c&acirc;u.</p>",
+        "2325741": "<p>Kh&ocirc;ng c&oacute; \"a lots of\" n&ecirc;n c&acirc;u n&agrave;y bị sai ngữ ph&aacute;p.</p>",
+        "2325742": "<p>\"much of\" được d&ugrave;ng với danh từ kh&ocirc;ng đếm được, trong khi \"questions\" l&agrave; danh từ đếm được số nhiều.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201831,
+      "questionNumber": 25,
+      "questionName": "Điền từ vào chỗ trống",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The older she gets, _____ she becomes.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325759,
+          "label": "A",
+          "text": "<p>more confident</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325760,
+          "label": "B",
+          "text": "<p>the more confident</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325761,
+          "label": "C",
+          "text": "<p>the more confidence</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325762,
+          "label": "D",
+          "text": "<p>the confident</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325760,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để ho&agrave;n th&agrave;nh c&acirc;u n&agrave;y, bạn cần &aacute;p dụng cấu tr&uacute;c so s&aacute;nh k&eacute;p \"The + comparative..., the + comparative...\". H&atilde;y ch&uacute; &yacute; đến việc sử dụng mạo từ \"the\" v&agrave; đảm bảo rằng từ được sử dụng l&agrave; một t&iacute;nh từ hoặc trạng từ ở dạng so s&aacute;nh hơn.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>So s&aacute;nh k&eacute;p</span>.</p>\n<ul style=\"margin: 0; padding-left: 20px;\">\n<li><span style=\"font-weight: 600;\">C&aacute;ch d&ugrave;ng:</span> Diễn tả hai sự việc hoặc h&agrave;nh động c&oacute; mối quan hệ nh&acirc;n quả, một sự thay đổi k&eacute;o theo một sự thay đổi kh&aacute;c, thường l&agrave; tăng l&ecirc;n hoặc giảm đi đồng thời.</li>\n<li style=\"margin-top: 10px;\"><span style=\"text-align: justify; font-weight: 600;\">Cấu tr&uacute;c:&nbsp;</span><span style=\"font-weight: 600; text-align: justify;\"><span style=\"background-color: #e5f6e3; padding: 2px 4px; border-radius: 4px; border: 1px solid #c8e6c9;\"><span style=\"color: #1c581f;\">The + so s&aacute;nh hơn của t&iacute;nh từ/ trạng từ + S + be/ V, the + so s&aacute;nh hơn của t&iacute;nh từ/ trạng từ + S + be/V</span></span></span></li>\n</ul>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi sử dụng cấu tr&uacute;c so s&aacute;nh k&eacute;p, diễn tả mối quan hệ tỉ lệ thuận giữa hai vế: c&agrave;ng... th&igrave; c&agrave;ng.... Do đ&oacute;, vế thứ hai cần theo cấu tr&uacute;c \"<strong>the + t&iacute;nh từ dạng so s&aacute;nh hơn...</strong>\".</p>\n<p style=\"text-align: justify;\">\"<strong>confident</strong>\" l&agrave; một t&iacute;nh từ, v&agrave; dạng so s&aacute;nh hơn của n&oacute; l&agrave; \"<strong>more confident</strong>\".</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 (\"more confident\") sai v&igrave; thiếu mạo từ \"the\" đứng trước cụm so s&aacute;nh hơn. Phương &aacute;n 3 (\"the more confidence\") sai v&igrave; \"confidence\" l&agrave; danh từ, kh&ocirc;ng phải t&iacute;nh từ so s&aacute;nh hơn. Phương &aacute;n 4 (\"the confident\") sai v&igrave; \"confident\" l&agrave; t&iacute;nh từ nguy&ecirc;n mẫu, kh&ocirc;ng phải dạng so s&aacute;nh hơn.</p>",
+      "answerFeedbacks": {
+        "2325759": "<p>Phương &aacute;n n&agrave;y sai v&igrave; thiếu mạo từ \"the\" ở vế thứ hai của cấu tr&uacute;c so s&aacute;nh k&eacute;p.</p>",
+        "2325760": "<p>Đ&acirc;y l&agrave; đ&aacute;p &aacute;n đ&uacute;ng v&igrave; tu&acirc;n thủ cấu tr&uacute;c so s&aacute;nh k&eacute;p \"The + so s&aacute;nh hơn..., the + so s&aacute;nh hơn...\", với \"confident\" l&agrave; t&iacute;nh từ ở dạng so s&aacute;nh hơn.</p>",
+        "2325761": "<p>Phương &aacute;n n&agrave;y sai v&igrave; \"confidence\" l&agrave; danh từ, trong khi cấu tr&uacute;c so s&aacute;nh k&eacute;p y&ecirc;u cầu sử dụng t&iacute;nh từ hoặc trạng từ so s&aacute;nh hơn.</p>",
+        "2325762": "<p>Phương &aacute;n n&agrave;y sai v&igrave; \"confident\" l&agrave; t&iacute;nh từ nguy&ecirc;n mẫu, chưa ở dạng so s&aacute;nh hơn.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201849,
+      "questionNumber": 26,
+      "questionName": "Đọc hiểu biển báo",
+      "questionType": "Description",
+      "questionText": "<p><strong>Read and do the following tasks.</strong></p>\n<p style=\"text-align: justify;\"><strong>(1) _____</strong>. It allows people to exchange information quickly and conveniently through emails, messages, and social media. <strong>(2) _____</strong>. Because of these advantages, online communication has become an essential part of modern life.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy đọc kỹ nội dung của thông báo và tìm thông tin chính mà thông báo muốn truyền tải.</p>",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 1201837,
+      "questionNumber": 27,
+      "questionName": "Chọn câu chủ đề",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the TOPIC SENTENCE that can BEGIN&nbsp;</strong><span style=\"font-weight: 600;\">(1) </span><strong>the text most appropriately.</strong></p>",
+      "passageText": "<p><strong>Read and do the following tasks.</strong></p>\n<p style=\"text-align: justify;\"><strong>(1) _____</strong>. It allows people to exchange information quickly and conveniently through emails, messages, and social media. <strong>(2) _____</strong>. Because of these advantages, online communication has become an essential part of modern life.</p>",
+      "parentQuestionId": 1201849,
+      "choices": [
+        {
+          "id": 2325783,
+          "label": "A",
+          "text": "<p>People prefer face-to-face communication nowadays.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325784,
+          "label": "B",
+          "text": "<p>Technology is developing very fast in the modern world.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325785,
+          "label": "C",
+          "text": "<p>Online communication has many important benefits.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325786,
+          "label": "D",
+          "text": "<p>Emails and messages are used in daily life.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325785,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\"><span style=\"text-align: justify;\">Để t&igrave;m c&acirc;u chủ đề (topic sentence), h&atilde;y đọc kỹ c&aacute;c c&acirc;u theo sau chỗ trống. C&acirc;u thứ hai bắt đầu bằng \"It\" đang đưa ra một v&iacute; dụ cụ thể về điều g&igrave;? C&acirc;u cuối c&ugrave;ng d&ugrave;ng cụm từ \"these advantages\" v&agrave; nhắc đến \"online communication\". C&acirc;u chủ đề cần phải giới thiệu được &yacute; ch&iacute;nh m&agrave; c&aacute;c c&acirc;u sau sẽ l&agrave;m r&otilde;.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng đọc hiểu cấu tr&uacute;c đoạn văn, cụ thể l&agrave; nhận diện c&acirc;u chủ đề (topic sentence). Để trả lời đ&uacute;ng, bạn cần đọc to&agrave;n bộ đoạn văn ngắn, x&aacute;c định &yacute; ch&iacute;nh v&agrave; chọn phương &aacute;n giới thiệu kh&aacute;i qu&aacute;t nhất cho &yacute; ch&iacute;nh đ&oacute;.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>C&acirc;u cần điền đứng ở đầu đoạn văn, đ&oacute;ng vai tr&ograve; l&agrave; c&acirc;u chủ đề, giới thiệu nội dung ch&iacute;nh của cả đoạn. C&aacute;c c&acirc;u theo sau sẽ l&agrave;m r&otilde; hoặc đưa ra v&iacute; dụ cho c&acirc;u chủ đề đ&oacute;.</p>\n<p style=\"text-align: justify;\">C&acirc;u ngay sau chỗ trống l&agrave; [[<strong>It allows people to exchange information quickly and conveniently through emails, messages, and social media.</strong>]] (<em>N&oacute; cho ph&eacute;p mọi người trao đổi th&ocirc;ng tin nhanh ch&oacute;ng v&agrave; thuận tiện qua email, tin nhắn v&agrave; mạng x&atilde; hội.</em>). C&acirc;u n&agrave;y m&ocirc; tả một lợi &iacute;ch cụ thể.</p>\n<p style=\"text-align: justify;\">C&acirc;u cuối c&ugrave;ng l&agrave; [[<strong>Because of these advantages, online communication has become an essential part of modern life.</strong>]] (<em>V&igrave; những lợi &iacute;ch n&agrave;y, giao tiếp trực tuyến đ&atilde; trở th&agrave;nh một phần thiết yếu của cuộc sống hiện đại.</em>). C&acirc;u n&agrave;y khẳng định lại chủ đề l&agrave; \"online communication\" (giao tiếp trực tuyến) v&agrave; c&aacute;c \"advantages\" (lợi &iacute;ch) của n&oacute;.</p>\n<p style=\"text-align: justify;\">Do đ&oacute;, c&acirc;u chủ đề phải l&agrave; một nhận định chung về những lợi &iacute;ch của giao tiếp trực tuyến.</p>\n<p style=\"text-align: justify;\">X&eacute;t c&aacute;c lựa chọn:</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #49c015;\">✔ </span></strong>Phương &aacute;n 3 đ&uacute;ng v&igrave; \"<strong>Online communication has many important benefits</strong>\" (<em>Giao tiếp trực tuyến c&oacute; nhiều lợi &iacute;ch quan trọng</em>) đ&atilde; n&ecirc;u bật được &yacute; ch&iacute;nh của to&agrave;n đoạn văn. C&aacute;c c&acirc;u sau đ&oacute; giải th&iacute;ch v&agrave; khẳng định cho những lợi &iacute;ch n&agrave;y.</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Phương &aacute;n 1 sai v&igrave; \"People prefer face-to-face communication nowadays\" (<em>Ng&agrave;y nay mọi người th&iacute;ch giao tiếp trực tiếp hơn</em>) đưa ra một &yacute; tưởng tr&aacute;i ngược với nội dung của đoạn văn, vốn đang ca ngợi những ưu điểm của giao tiếp trực tuyến.</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Phương &aacute;n 2 sai v&igrave; \"Technology is developing very fast in the modern world\" (<em>C&ocirc;ng nghệ đang ph&aacute;t triển rất nhanh trong thế giới hiện đại</em>) c&oacute; chủ đề qu&aacute; rộng. Đoạn văn chỉ tập trung v&agrave;o một kh&iacute;a cạnh cụ thể của c&ocirc;ng nghệ l&agrave; \"giao tiếp trực tuyến\" chứ kh&ocirc;ng phải c&ocirc;ng nghệ n&oacute;i chung.</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Phương &aacute;n 4 sai v&igrave; \"Emails and messages are used in daily life\" (<em>Email v&agrave; tin nhắn được sử dụng trong cuộc sống h&agrave;ng ng&agrave;y</em>) chỉ l&agrave; một chi tiết hỗ trợ, một v&iacute; dụ cụ thể được nhắc đến trong đoạn văn, chứ kh&ocirc;ng phải &yacute; ch&iacute;nh bao qu&aacute;t to&agrave;n đoạn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 1201844,
+      "questionNumber": 28,
+      "questionName": "Sắp xếp câu",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Put the sentences (a-c) in the correct order, then fill in the blank (2) to make a logical text.</strong></p>\n<p><strong>a.</strong> It also helps people stay in touch with others no matter the distance.</p>\n<p><strong>b.</strong> In addition, it saves time and money compared to traditional communication.</p>\n<p><strong>c. </strong>As a result, people can communicate anytime and anywhere.</p>",
+      "passageText": "<p><strong>Read and do the following tasks.</strong></p>\n<p style=\"text-align: justify;\"><strong>(1) _____</strong>. It allows people to exchange information quickly and conveniently through emails, messages, and social media. <strong>(2) _____</strong>. Because of these advantages, online communication has become an essential part of modern life.</p>",
+      "parentQuestionId": 1201849,
+      "choices": [
+        {
+          "id": 2325803,
+          "label": "A",
+          "text": "<p>a-b-c</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325804,
+          "label": "B",
+          "text": "<p>b-a-c</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325805,
+          "label": "C",
+          "text": "<p>a-c-b</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325806,
+          "label": "D",
+          "text": "<p>c-a-b</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 2325806,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Hãy chú ý đến các từ nối ở đầu mỗi câu như <strong>'also'</strong>, <strong>'In addition'</strong>, và <strong>'As a result'</strong>. Chúng cho bạn biết mối quan hệ giữa các câu (câu nào bổ sung ý, câu nào là kết quả).",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:&nbsp;</span>Để sắp xếp c&aacute;c c&acirc;u, ch&uacute;ng ta cần xem x&eacute;t mối li&ecirc;n hệ của ch&uacute;ng với c&acirc;u đ&atilde; cho: \"<strong>It allows people to exchange information quickly and conveniently...</strong>\"</p>\n<ul>\n<li style=\"text-align: justify;\">C&acirc;u <strong>(c) </strong>d&ugrave;ng \"<strong>As a result</strong>\" để n&ecirc;u l&ecirc;n kết quả trực tiếp của việc trao đổi th&ocirc;ng tin nhanh ch&oacute;ng v&agrave; thuận tiện. V&igrave; vậy, <strong>(c)</strong> l&agrave; c&acirc;u nối tiếp hợp l&yacute; nhất.</li>\n<li style=\"text-align: justify;\">C&acirc;u <strong>(a)</strong> d&ugrave;ng \"<strong>also</strong>\" (<em>cũng</em>) để bổ sung th&ecirc;m một lợi &iacute;ch kh&aacute;c, sau lợi &iacute;ch đ&atilde; được n&ecirc;u ở c&acirc;u <strong>(c)</strong>.</li>\n<li style=\"text-align: justify;\">C&acirc;u <strong>(b)</strong> d&ugrave;ng \"<strong>In addition</strong>\" (<em>Th&ecirc;m v&agrave;o đ&oacute;</em>) để bổ sung &yacute; cuối c&ugrave;ng v&agrave;o chuỗi c&aacute;c lợi &iacute;ch.</li>\n</ul>\n<p style=\"text-align: justify;\">&rarr; Thứ tự logic để ho&agrave;n th&agrave;nh đoạn văn l&agrave;: <strong>c-a-b.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>stay in touch with (someone)</strong> (phr.): giữ li&ecirc;n lạc với (ai đ&oacute;)</p>\n<p style=\"text-align: justify;\"><strong>no matter</strong> (phr.): bất kể, d&ugrave; cho</p>\n<p style=\"text-align: justify;\"><strong>compared to</strong> (phr.): so với</p>\n<p style=\"text-align: justify;\"><strong>as a result</strong> (phr.): kết quả l&agrave;, do đ&oacute;</p>\n<p style=\"text-align: justify;\"><strong>in addition</strong> (phr.): th&ecirc;m v&agrave;o đ&oacute;, ngo&agrave;i ra</p>",
+      "answerFeedbacks": {
+        "2325803": "Câu (a) bắt đầu bằng 'It also helps...', từ 'also' (cũng) cho thấy nó phải đứng sau một câu khác nêu lên một lợi ích. Vì vậy, đây không phải là một khởi đầu hợp lý.",
+        "2325804": "Câu (b) bắt đầu bằng 'In addition...', từ 'In addition' (thêm vào đó) cho thấy nó phải đứng sau một câu khác. Vì vậy, đây không phải là một khởi đầu hợp lý.",
+        "2325805": "Câu (a) bắt đầu bằng 'It also helps...', từ 'also' (cũng) cho thấy nó phải đứng sau một câu khác nêu lên một lợi ích. Vì vậy, đây không phải là một khởi đầu hợp lý.",
+        "2325806": "Đây là thứ tự logic nhất. Câu (c) nêu kết quả chung. Câu (a) bổ sung một lợi ích cụ thể ('also'). Câu (b) thêm một lợi ích khác ('In addition')."
+      },
+      "images": []
+    },
+    {
+      "id": 1201853,
+      "questionNumber": 29,
+      "questionName": "Giải thích thông báo",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What does the notice say?</strong></p>\n<style>\n    .container-option-2 {\n        background-color: #f7fdf6;\n        background-color: #e5f6e3; \n        border: 0.10rem solid #ceedca;\n        border-left: 0.5rem solid #57aa19;\n        border-radius: 0.8rem;\n        padding: 1rem 1.5rem;\n        display: grid;\n        grid-template-columns: 1fr;\n        gap: 0.5rem;\n        transition: border-color 0.3s ease, border-left-color 0.3s ease;\n        cursor: default;\n        max-width: 500px;\n    }\n\n    .container-option-2:hover {\n        border-color: #add93f;\n        border-left-color: #5fbd18;\n    }\n\n    .header-2 {\n        color: #5fbd18;\n        font-weight: 600;\n        margin: 0;\n        padding-bottom: 0.3rem;\n        width: fit-content;\n    }\n\n    .content-2 {\n        color: #1c581f;\n        line-height: 1.5;\n        margin-top: 0.5rem;\n    }\n\n    .content-2 strong {\n        color: #57aa19;\n    }\n</style>\n<div class=\"container-option-2\">\n<div class=\"content-2\">\n<div class=\"content-2\">Please clean up the kitchen after using it.</div>\n<div class=\"content-2\">Throw away any leftover food and wash your dishes.</div>\n<div class=\"content-2\">This keeps the kitchen clean for everyone.</div>\n</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325839,
+          "label": "A",
+          "text": "<p>Just throw away leftovers in the trash</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325840,
+          "label": "B",
+          "text": "<p>You don't need to clean up if you're in a hurry.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325841,
+          "label": "C",
+          "text": "<p>Throw away leftover food and wash dishes immediately</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325842,
+          "label": "D",
+          "text": "<p>Only clean up if you make a mess</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325841,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y đọc kỹ th&ocirc;ng b&aacute;o v&agrave; x&aacute;c định tất cả c&aacute;c h&agrave;nh động cụ thể m&agrave; n&oacute; y&ecirc;u cầu bạn l&agrave;m. Ch&uacute; &yacute; đến c&aacute;c cụm từ như \"Please clean up the kitchen after using it\" v&agrave; \"Throw away any leftover food and wash your dishes.\"</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Nội dung biển hiệu/th&ocirc;ng b&aacute;o: </span></p>\n<p style=\"text-align: justify;\"><em>Vui l&ograve;ng dọn dẹp nh&agrave; bếp sau khi sử dụng.</em></p>\n<p style=\"text-align: justify;\"><em>Vứt bỏ thức ăn thừa v&agrave; rửa b&aacute;t đĩa của bạn.</em></p>\n<p style=\"text-align: justify;\"><em>Điều n&agrave;y giữ cho nh&agrave; bếp sạch sẽ cho mọi người.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Th&ocirc;ng b&aacute;o đưa ra hai y&ecirc;u cầu ch&iacute;nh l&agrave; vứt bỏ thức ăn thừa v&agrave; rửa b&aacute;t đĩa sau khi sử dụng nh&agrave; bếp. Phương &aacute;n 3 phản &aacute;nh ch&iacute;nh x&aacute;c v&agrave; đầy đủ c&aacute;c y&ecirc;u cầu n&agrave;y, đồng thời ngụ &yacute; h&agrave;nh động cần thực hiện ngay lập tức để giữ g&igrave;n vệ sinh chung.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>clean up</strong> (phr.v.): dọn dẹp</p>\n<p style=\"text-align: justify;\"><strong>throw away</strong> (phr.v.): vứt bỏ</p>\n<p style=\"text-align: justify;\"><strong>leftover food</strong> (n.phr.): thức ăn thừa</p>\n<p style=\"text-align: justify;\"><strong>in a hurry</strong> (phr.): đang vội, vội v&agrave;ng</p>\n<p style=\"text-align: justify;\"><strong>make a mess</strong> (phr.): l&agrave;m bừa bộn</p>",
+      "answerFeedbacks": {
+        "2325839": "<p>Phương &aacute;n n&agrave;y sai v&igrave; th&ocirc;ng b&aacute;o y&ecirc;u cầu cả việc vứt bỏ thức ăn thừa v&agrave; rửa b&aacute;t đĩa, chứ kh&ocirc;ng chỉ vứt thức ăn thừa.</p>",
+        "2325840": "<p>Phương &aacute;n n&agrave;y sai v&igrave; th&ocirc;ng b&aacute;o y&ecirc;u cầu dọn dẹp nh&agrave; bếp sau khi sử dụng, kh&ocirc;ng đề cập đến trường hợp vội v&agrave;ng.</p>",
+        "2325841": "<p>Phương &aacute;n n&agrave;y đ&uacute;ng v&igrave; th&ocirc;ng b&aacute;o y&ecirc;u cầu cụ thể \"Throw away any leftover food and wash your dishes\", v&agrave; h&agrave;nh động n&agrave;y ngụ &yacute; cần thực hiện ngay sau khi sử dụng.</p>",
+        "2325842": "<p>Phương &aacute;n n&agrave;y sai v&igrave; th&ocirc;ng b&aacute;o y&ecirc;u cầu dọn dẹp nh&agrave; bếp sau mỗi lần sử dụng (\"after using it\"), kh&ocirc;ng chỉ khi l&agrave;m bừa bộn.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 1201859,
+      "questionNumber": 30,
+      "questionName": "Giải thích biển báo",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What does the sign mean?</strong></p>\n<p><img src=\"/images/exams/img_1_1201859_0_4e2fce90.png\" width=\"250\"></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2325867,
+          "label": "A",
+          "text": "<p>Return your cart anywhere in the parking lot.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325868,
+          "label": "B",
+          "text": "<p>Return the cart to the designated cart area.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 2325869,
+          "label": "C",
+          "text": "<p>Return the cart at the store entrance.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 2325870,
+          "label": "D",
+          "text": "<p>Keep the cart in your car until you get home.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2325868,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y đọc kỹ từ \"HERE\" tr&ecirc;n biển hiệu. \"HERE\" &aacute;m chỉ một vị tr&iacute; cụ thể, được chỉ định để l&agrave;m g&igrave; với \"Shopping Carts\"?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Nội dung biển hiệu: </span></p>\n<p style=\"text-align: justify;\"><em>Biển hiệu c&oacute; h&igrave;nh ảnh một chiếc xe đẩy mua sắm v&agrave; d&ograve;ng chữ:</em></p>\n<p style=\"text-align: justify;\"><em>\"Vui l&ograve;ng trả lại xe đẩy mua sắm TẠI Đ&Acirc;Y. </em></p>\n<p style=\"text-align: justify;\"><em>Xin cảm ơn.\"</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Biển hiệu hướng dẫn kh&aacute;ch h&agrave;ng trả xe đẩy mua sắm về một vị tr&iacute; cụ thể được chỉ định bằng từ \"<strong>HERE</strong>\". Phương &aacute;n 2 diễn đạt đ&uacute;ng nhất &yacute; nghĩa n&agrave;y, ngụ &yacute; một khu vực được sắp xếp sẵn để chứa xe đẩy.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>shopping cart</strong> (n.): xe đẩy mua sắm</p>\n<p style=\"text-align: justify;\"><strong>return</strong> (v.): trả lại</p>\n<p style=\"text-align: justify;\"><strong>designated</strong> (adj.): được chỉ định, được quy định</p>\n<p style=\"text-align: justify;\"><strong>parking lot </strong>(n.): b&atilde;i đỗ xe</p>\n<p style=\"text-align: justify;\"><strong>store entrance </strong>(n.): lối v&agrave;o cửa h&agrave;ng</p>\n<p style=\"text-align: justify;\"><strong>keep</strong> (v.): giữ</p>",
+      "answerFeedbacks": {
+        "2325867": "Biển hiệu yêu cầu trả xe đẩy <em>\"HERE\"</em> (tại đây), không phải bất cứ đâu trong bãi đỗ xe.",
+        "2325868": "Biển hiệu <em>\"PLEASE RETURN Shopping Carts HERE\"</em> có nghĩa là trả xe đẩy tại khu vực được chỉ định cho xe đẩy.",
+        "2325869": "Mặc dù lối vào cửa hàng là một địa điểm cụ thể, biển hiệu chỉ nói <em>\"HERE\"</em> ngụ ý một khu vực cụ thể dành cho xe đẩy, không nhất thiết là lối vào.",
+        "2325870": "Biển hiệu yêu cầu <em>\"RETURN\"</em> (trả lại) xe đẩy, không phải giữ lại trong xe."
+      },
+      "images": [
+        "/images/exams/img_1_1201859_0_4e2fce90.png"
+      ]
+    },
+    {
+      "id": 1205352,
+      "questionNumber": 31,
+      "questionName": "37-40",
+      "questionType": "FillBlank",
+      "questionText": "<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\"><span style=\"font-weight: 600;\">Four phrases/sentences have been removed from the text below. Choose the correct answer to complete the text. Write only the letter A-D in each blank.</span></p>\n<table style=\"border-collapse: collapse; width: 100%; background-color: #f9f9f9; border-color: #5fbd18; border-style: solid;\" border=\"1\" cellspacing=\"10\" cellpadding=\"10\">\n<tbody>\n<tr>\n<td style=\"width: 100%;\">\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\"><strong>A. </strong>who had brought her up</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\"><strong>B. </strong>Gemma attended career orientation sessions to seek advice from garment teachers from vocational schools</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\"><strong>C. </strong>she preferred designing and making women's outfits</p>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\"><strong>D. </strong>She was so hard-working that she improved her skills quickly</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p class=\"font-claude-response-body break-words whitespace-normal leading-[1.7]\" style=\"text-align: justify;\"><br>Contrary to many of her friends, Gemma knew for sure what she would do when she finished secondary school. Although her scores in academic subjects were quite good, <span class='fillblank-option'><label>29.1</label><input id='fbo-1205352-0' class='ms fillblank-option-29' index='0' name='fbo-1205352-0' type='text' size='2' autocomplete='off' data-testid='fillblank-input-1205352-0' /></span>. Gemma hoped to work soon because she wanted to support her grandmother, <span class='fillblank-option'><label>29.2</label><input id='fbo-1205352-1' class='ms fillblank-option-29' index='1' name='fbo-1205352-1' type='text' size='4' autocomplete='off' data-testid='fillblank-input-1205352-1' /></span>. However, she decided that she would earn a certificate in fashion and garment design in order to get more job opportunities. <span class='fillblank-option'><label>29.3</label><input id='fbo-1205352-2' class='ms fillblank-option-29' index='2' name='fbo-1205352-2' type='text' size='5' autocomplete='off' data-testid='fillblank-input-1205352-2' /></span>. She looked for schools with courses in fashion, garment, and textile before deciding where to study. She practised cutting and sewing with a tailor in her neighbourhood. <span class='fillblank-option'><label>29.4</label><input id='fbo-1205352-3' class='ms fillblank-option-29' index='3' name='fbo-1205352-3' type='text' size='5' autocomplete='off' data-testid='fillblank-input-1205352-3' /></span>.&nbsp;When Gemma graduated, she already owned a small tailor shop which was popular with young women. She had such an inquiring&nbsp;mind that she kept learning to be successful in her dream job.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "C"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "A"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "B"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "D"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"line-height: 1.4; margin-bottom: 20px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span style=\"background-color: #299b83; color: #ffffff; padding: 0 4px;\">.1</span></strong> <strong> Chọn <span style=\"color: #5fbd18;\">C.</span> she preferred designing and making women's outfits</strong></div>\n<div style=\"background-color: #f9f9f9; padding: 15px; text-align: justify; border-radius: 8px;\">Chỗ trống cần một mệnh đề ch&iacute;nh để ho&agrave;n th&agrave;nh c&acirc;u bắt đầu bằng <strong>[[Although her scores in academic subjects were quite good]]</strong> (<em>Mặc d&ugrave; điểm c&aacute;c m&ocirc;n học thuật của c&ocirc; ấy kh&aacute; tốt</em>). Li&ecirc;n từ \"<strong>Although</strong>\" b&aacute;o hiệu sự tương phản. Do đ&oacute;, vế sau phải thể hiện một &yacute; nghĩa đối lập với việc học giỏi c&aacute;c m&ocirc;n văn h&oacute;a. Đ&aacute;p &aacute;n C, n&oacute;i rằng c&ocirc; ấy th&iacute;ch thiết kế v&agrave; may trang phục nữ, tạo ra sự tương phản hợp l&yacute;: giỏi c&aacute;c m&ocirc;n học thuật nhưng lại đam m&ecirc; một c&ocirc;ng việc thực h&agrave;nh, s&aacute;ng tạo.</div>\n</div>\n<div style=\"line-height: 1.4; margin-bottom: 20px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span style=\"background-color: #299b83; color: #ffffff; padding: 0 4px;\">.2</span></strong> <strong> Chọn <span style=\"color: #5fbd18;\">A.</span> who had brought her up</strong></div>\n<div style=\"background-color: #f9f9f9; padding: 15px; text-align: justify; border-radius: 8px;\">Chỗ trống nằm sau danh từ <strong>[[grandmother]]</strong> (<em>b&agrave;</em>) v&agrave; dấu phẩy, cho thấy đ&acirc;y l&agrave; một mệnh đề quan hệ kh&ocirc;ng x&aacute;c định, d&ugrave;ng để bổ sung th&ocirc;ng tin. Đ&aacute;p &aacute;n A bắt đầu bằng đại từ quan hệ \"<strong>who</strong>\" (d&ugrave;ng cho người) v&agrave; cung cấp th&ocirc;ng tin giải th&iacute;ch l&yacute; do tại sao Gemma muốn đỡ đần b&agrave; m&igrave;nh (<strong>[[who had brought her up]]</strong> - <em>người đ&atilde; nu&ocirc;i nấng c&ocirc;</em>).</div>\n</div>\n<div style=\"line-height: 1.4; margin-bottom: 20px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span style=\"background-color: #299b83; color: #ffffff; padding: 0 4px;\">.3</span></strong> <strong> Chọn <span style=\"color: #5fbd18;\">B.</span> Gemma attended career orientation sessions to seek advice from garment teachers from vocational schools</strong></div>\n<div style=\"background-color: #f9f9f9; padding: 15px; text-align: justify; border-radius: 8px;\">C&acirc;u trước chỗ trống n&oacute;i về quyết định của Gemma: <strong>[[she would earn a certificate in fashion and garment design]]</strong> (<em>c&ocirc; ấy sẽ lấy một chứng chỉ về thiết kế thời trang v&agrave; may mặc</em>). C&acirc;u sau chỗ trống mi&ecirc;u tả h&agrave;nh động cụ thể: <strong>[[She looked for schools with courses in fashion...]]</strong> (<em>C&ocirc; ấy t&igrave;m kiếm c&aacute;c trường c&oacute; kh&oacute;a học về thời trang...</em>). Chỗ trống cần một c&acirc;u để kết nối logic giữa quyết định v&agrave; h&agrave;nh động t&igrave;m trường. Đ&aacute;p &aacute;n B m&ocirc; tả một bước hợp l&yacute; trong qu&aacute; tr&igrave;nh n&agrave;y: tham dự c&aacute;c buổi hướng nghiệp để xin lời khuy&ecirc;n, l&agrave;m cầu nối cho hai c&acirc;u tr&ecirc;n.</div>\n</div>\n<div style=\"line-height: 1.4; margin-bottom: 20px;\">\n<div style=\"margin-bottom: 8px;\"><strong><span style=\"background-color: #299b83; color: #ffffff; padding: 0 4px;\">.4</span></strong> <strong> Chọn <span style=\"color: #5fbd18;\">D.</span> She was so hard-working that she improved her skills quickly</strong></div>\n<div style=\"background-color: #f9f9f9; padding: 15px; text-align: justify; border-radius: 8px;\">C&acirc;u đứng trước m&ocirc; tả h&agrave;nh động của Gemma: <strong>[[She practised cutting and sewing with a tailor in her neighbourhood]]</strong> (<em>C&ocirc; ấy đ&atilde; thực h&agrave;nh cắt v&agrave; may với một thợ may trong khu phố</em>). Chỗ trống cần một c&acirc;u diễn tả kết quả hoặc m&ocirc; tả c&aacute;ch thức c&ocirc; ấy thực h&agrave;nh. Đ&aacute;p &aacute;n D với cấu tr&uacute;c <strong>[[so... that...]]</strong> (<em>qu&aacute;... đến nỗi...</em>) đ&atilde; thể hiện rất r&otilde; mối quan hệ nguy&ecirc;n nh&acirc;n - kết quả: v&igrave; c&ocirc; ấy chăm chỉ (nguy&ecirc;n nh&acirc;n) n&ecirc;n kỹ năng của c&ocirc; tiến bộ nhanh ch&oacute;ng (kết quả), l&agrave;m cho mạch văn trở n&ecirc;n logic.</div>\n</div>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

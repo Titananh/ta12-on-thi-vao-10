@@ -1,0 +1,32 @@
+{
+  "topicId": 78,
+  "topicName": "Bày tỏ lời cảm ơn và xin lỗi",
+  "englishName": "Thanking and Apologizing",
+  "rules": [
+    {
+      "rule": "Cách bày tỏ lời cảm ơn:",
+      "formula": "Thank you (very much) for + N/V-ing / Thanks a lot / It was very kind/nice of you to + V",
+      "examples": "Thank you for helping me. / Thanks a lot for the ride. / It was very kind of you to invite us."
+    },
+    {
+      "rule": "Cách đáp lại lời cảm ơn lịch sự:",
+      "formula": "You're welcome / My pleasure / Not at all / Don't mention it / No problem / Anytime / I'm glad you liked it",
+      "examples": "- 'Thank you for dinner.' - 'Don't mention it. I'm glad you liked it.' / - 'Thanks!' - 'You're welcome.'"
+    },
+    {
+      "rule": "Cách bày tỏ lời xin lỗi:",
+      "formula": "I'm (so/terribly) sorry for + N/V-ing / I apologize for + N/V-ing / Please forgive me",
+      "examples": "I'm sorry for being late. / I apologize for stepping on your foot."
+    },
+    {
+      "rule": "Cách đáp lại lời xin lỗi (tha thứ, thông cảm):",
+      "formula": "That's all right / That's OK / Never mind / Don't worry about it / It doesn't matter / Forget it",
+      "examples": "- 'Sorry, I broke the cup.' - 'Never mind. It was an accident.' / - 'I'm sorry.' - 'That's OK.'"
+    },
+    {
+      "rule": "Lưu ý tránh bẫy đề thi:",
+      "formula": "KHÔNG NHẦM LẪN CẢM ƠN VÀ XIN LỖI",
+      "examples": "Tuyệt đối KHÔNG dùng 'You're welcome' để đáp lại lời xin lỗi. KHÔNG dùng 'Never mind' để đáp lại lời cảm ơn."
+    }
+  ]
+}

@@ -1,0 +1,995 @@
+{
+  "quizId": 16217,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 64: Would like",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "id": 904296,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "Matching",
+      "questionText": "<p><strong>Ch&#7885;n c&#225;ch d&#249;ng &#273;&#250;ng c&#7911;a &quot;would like&quot; cho c&#225;c c&#226;u d&#432;&#7899;i &#273;&#226;y.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2dc26b; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 50.0392%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/4_-_Copy_22_92bfa5df.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.9608%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/5_-_Copy_23_22af4bbb.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 612073,
+      "questionNumber": 2,
+      "questionName": "(*) C11",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>This summer holiday, Lan would like _____ to the beach with her family.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1178288,
+          "label": "A",
+          "text": "goes",
+          "isCorrect": false
+        },
+        {
+          "id": 1178289,
+          "label": "B",
+          "text": "go",
+          "isCorrect": false
+        },
+        {
+          "id": 1178290,
+          "label": "C",
+          "text": "to go",
+          "isCorrect": true
+        },
+        {
+          "id": 1178291,
+          "label": "D",
+          "text": "going",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1178290,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để diễn tả mong muốn hoặc sở thích một cách lịch sự, cấu trúc <em>\"would like\"</em> thường đi kèm với một dạng động từ cụ thể. Hãy nhớ lại cấu trúc đúng của <em>\"would like\"</em> khi theo sau là một động từ.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc \"<em>would like</em>\"</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả mong muốn hoặc sở thích một cách lịch sự.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: <span style=\"color: #1c581f;\">S + would like + to V(inf)</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm từ <em>\"would like\"</em> được sử dụng để diễn tả mong muốn của Lan. Theo quy tắc ngữ pháp, sau <em>\"would like\"</em>, động từ tiếp theo phải ở dạng nguyên mẫu có <em>\"to\"</em> (to-infinitive).</p>\n<p style=\"text-align: justify;\">Phương án 1 <em>\"goes\"</em> là động từ chia ở thì hiện tại đơn, không đúng sau <em>\"would like\"</em>. Phương án 2 <em>\"go\"</em> là động từ nguyên mẫu không <em>\"to\"</em>, không phù hợp với cấu trúc. Phương án 4 <em>\"going\"</em> là dạng V-ing, cũng không đúng với cấu trúc này.</p>",
+      "answerFeedbacks": {
+        "1178288": "Dạng động từ này không phù hợp sau <em>\"would like\"</em>.",
+        "1178289": "Động từ nguyên mẫu không <em>\"to\"</em> không đúng cấu trúc với <em>\"would like\"</em>.",
+        "1178290": "Đây là dạng động từ nguyên mẫu có <em>\"to\"</em>, phù hợp với cấu trúc <em>\"would like + to V(inf)\"</em>.",
+        "1178291": "Dạng V-ing không đúng cấu trúc với <em>\"would like\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 706990,
+      "questionNumber": 3,
+      "questionName": "(*) 5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>She would like _____ Paris next summer for a romantic getaway.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1372103,
+          "label": "A",
+          "text": "<p>visit</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1372104,
+          "label": "B",
+          "text": "<p>visiting</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1372105,
+          "label": "C",
+          "text": "to visit",
+          "isCorrect": true
+        },
+        {
+          "id": 1372106,
+          "label": "D",
+          "text": "<p>to visiting</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1372105,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Hãy nhớ lại cấu trúc ngữ pháp dùng để diễn tả mong muốn hoặc ý định một cách lịch sự trong tiếng Anh.</li>\n<li>Cụm từ <em>\"would like\"</em> thường đi kèm với một dạng động từ cụ thể nào?</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ theo sau bởi động từ nguyên thể có \"to\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Cấu trúc <em>\"would like to V(inf)\"</em> được dùng để diễn tả mong muốn, nguyện vọng hoặc ý định của chủ ngữ một cách lịch sự, trang trọng.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + would like + to V(inf)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm từ <em>\"would like\"</em> được dùng để diễn tả mong muốn của chủ ngữ <em>\"She\"</em>. Theo quy tắc ngữ pháp, <em>\"would like\"</em> luôn được theo sau bởi một động từ nguyên thể có <em>\"to\"</em> (to-infinitive).</p>\n<p style=\"text-align: justify;\">Vì vậy, phương án 3 <em>\"to visit\"</em> là dạng đúng để hoàn thành câu, diễn tả mong muốn đi thăm Paris của cô ấy. Các phương án còn lại đều không phải dạng động từ phù hợp theo sau cụm từ <em>\"would like\"</em> được dùng để diễn tả mong muốn của chủ thể.</p>",
+      "answerFeedbacks": {
+        "1372103": "<p>Sai vì động từ \"like\" khi đi với \"would\" phải theo sau bởi động từ nguyên thể có \"to\".</p>",
+        "1372104": "<p>Sai vì động từ \"like\" khi đi với \"would\" phải theo sau bởi động từ nguyên thể có \"to\", không phải danh động từ.</p>",
+        "1372105": "Đúng vì cấu trúc <em>\"would like + to V(inf)\"</em> được dùng để diễn tả mong muốn một cách lịch sự.",
+        "1372106": "<p>Sai vì đây là sự kết hợp không đúng ngữ pháp, động từ nguyên thể có \"to\" không theo sau bởi danh động từ.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 450335,
+      "questionNumber": 4,
+      "questionName": "24",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I'd like to _____ help you, but I don't have money right now. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 902605,
+          "label": "A",
+          "text": "can",
+          "isCorrect": false
+        },
+        {
+          "id": 902606,
+          "label": "B",
+          "text": "be able to",
+          "isCorrect": true
+        },
+        {
+          "id": 902607,
+          "label": "C",
+          "text": "could",
+          "isCorrect": false
+        },
+        {
+          "id": 902608,
+          "label": "D",
+          "text": "will",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 902606,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>would like</strong> được d&ugrave;ng để diễn đạt điều m&igrave;nh muốn một c&aacute;ch lịch sự, nhẹ nh&agrave;ng.&nbsp;</p>\n<p>Cấu tr&uacute;c: <strong>would like + N/to V(inf)</strong></p>\n<p><strong>to be able to + V(inf)</strong>: c&oacute; thể l&agrave;m g&igrave;&nbsp;</p>\n<p>\"can\", \"could\" v&agrave; \"will\" kh&ocirc;ng đứng sau \"to\".</p>\n<p>Dịch: T&ocirc;i mong m&igrave;nh c&oacute; thể gi&uacute;p bạn, nhưng hiện giờ t&ocirc;i kh&ocirc;ng c&oacute; đủ tiền.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 616941,
+      "questionNumber": 5,
+      "questionName": "10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I would like _____ a birthday cake with roses on top for my mother.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1188197,
+          "label": "A",
+          "text": "buying",
+          "isCorrect": false
+        },
+        {
+          "id": 1188198,
+          "label": "B",
+          "text": "to buy",
+          "isCorrect": true
+        },
+        {
+          "id": 1188199,
+          "label": "C",
+          "text": "buy",
+          "isCorrect": false
+        },
+        {
+          "id": 1188200,
+          "label": "D",
+          "text": "bought",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1188198,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để hoàn thành câu này, bạn cần nhớ cấu trúc đúng của cụm động từ ''<em>would like''</em> khi nó diễn tả một mong muốn hoặc ý định. Hãy nhớ lại khi ''<em>would like''</em> được theo sau bởi một hành động, động từ chỉ hành động đó phải ở dạng nào<em>?</em></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ theo sau bởi động từ nguyên thể có \"to\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một hành động theo sau một số động từ nhất định.</p>\n<p><strong>Một số động từ theo sau bởi \"to V(inf)\":</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">would like + to V(inf)</span></strong>: muốn, thích làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">want + to V(inf)</span></strong>: muốn làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">agree + to V(inf)</span></strong>: đồng ý làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">decide + to V(inf)</span></strong>: quyết định làm gì</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu hỏi, cụm từ ''<em>would like''</em> được dùng để diễn tả mong muốn. Theo quy tắc ngữ pháp, <em>would like</em> phải được theo sau bởi động từ nguyên thể có <em>to</em> (to-infinitive). Vì vậy, <em>to buy</em> là lựa chọn chính xác nhất. Các phương án còn lại đều không được dùng với cụm ''<em>would like'' </em>để diễn tả mong muốn.</p>",
+      "answerFeedbacks": {
+        "1188197": "Sai vì động từ <em>would like</em> phải theo sau bởi động từ nguyên thể có <em>to</em> (to-infinitive), không phải V-ing.",
+        "1188198": "Đúng vì <em>would like</em> luôn đi kèm với động từ nguyên thể có <em>to</em> (to-infinitive) để diễn tả mong muốn làm gì.",
+        "1188199": "Sai vì động từ <em>would like</em> cần <em>to</em> trước động từ nguyên thể để tạo thành cấu trúc <em>would like to V(inf)</em>.",
+        "1188200": "Sai vì <em>bought</em> là dạng quá khứ đơn hoặc phân từ hai, không phù hợp để đi sau <em>would like</em> trong cấu trúc này."
+      },
+      "images": []
+    },
+    {
+      "id": 120268,
+      "questionNumber": 6,
+      "questionName": "vmdoc5. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>&quot;Would you _____ a glass of hot chocolate?&quot; - &quot;Yes, I&#8217;d love to.&quot;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 283431,
+          "label": "A",
+          "text": "enjoy",
+          "isCorrect": false
+        },
+        {
+          "id": 283432,
+          "label": "B",
+          "text": "love",
+          "isCorrect": false
+        },
+        {
+          "id": 283433,
+          "label": "C",
+          "text": "like",
+          "isCorrect": true
+        },
+        {
+          "id": 283434,
+          "label": "D",
+          "text": "fascinate",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 283433,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c mời mọc, đề nghị: <strong>Would you like + N/to V(inf)?</strong>: Bạn c&oacute; muốn ... kh&ocirc;ng?&nbsp;</p>\n<p>Dịch: \"Bạn c&oacute; muốn một ly s&ocirc; c&ocirc; la n&oacute;ng kh&ocirc;ng?\" - \"C&oacute;, t&ocirc;i rất th&iacute;ch.\"</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 111057,
+      "questionNumber": 7,
+      "questionName": "Q28",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Do you think he _____ to watch the match with us? I know he enjoys football.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 264777,
+          "label": "A",
+          "text": "had better",
+          "isCorrect": false
+        },
+        {
+          "id": 264778,
+          "label": "B",
+          "text": "would mind",
+          "isCorrect": false
+        },
+        {
+          "id": 264779,
+          "label": "C",
+          "text": "would rather",
+          "isCorrect": false
+        },
+        {
+          "id": 264780,
+          "label": "D",
+          "text": "would like",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 264780,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để diễn tả mong muốn hoặc đưa ra lời mời một cách lịch sự, tiếng Anh thường dùng các cấu trúc khác nhau, và mỗi cấu trúc sẽ yêu cầu dạng động từ theo sau khác nhau.</p>\n<p>Hãy nhìn vào động từ sau chỗ trống, <em>\"to watch\"</em> là một động từ nguyên thể có <em>\"to\"</em>. Bạn cần tìm cấu trúc nào trong các lựa chọn theo sau bởi <em>\"to V(inf)\"</em> để diễn tả ý muốn hoặc lời mời.</p>\n<p> </p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc với \"would like\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả mong muốn, sự yêu thích một cách lịch sự, hoặc dùng để đưa ra lời mời.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + would like + to V(inf) / S + would like + N</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu hỏi là một câu nghi vấn gợi ý hoặc mời ai đó tham gia một hoạt động, và ngữ cảnh (\"I know he enjoys football\") cho thấy người nói tin rằng người đó có thể muốn tham gia. Cấu trúc cần điền phải phù hợp với ý nghĩa này và theo sau bởi động từ nguyên thể có <em>to</em> (<em>to watch</em>).</p>\n<p style=\"text-align: justify;\">Trong các phương án, chỉ có ''<em>would like''</em> là cấu trúc diễn tả mong muốn hoặc lời mời lịch sự và theo sau bởi <em>to V(inf)</em>, phù hợp hoàn hảo với cả ngữ nghĩa và ngữ pháp của câu.</p>",
+      "answerFeedbacks": {
+        "264777": "Sai vì <em>had better</em> diễn tả lời khuyên hoặc cảnh báo, theo sau bởi động từ nguyên thể không <em>to</em> (bare infinitive), không phù hợp với cấu trúc <em>to watch</em> và ngữ cảnh câu.",
+        "264778": "Sai vì <em>would mind</em> diễn tả sự phiền lòng và theo sau bởi động từ thêm <em>-ing</em> (V-ing), không phù hợp với cấu trúc <em>to watch</em>.",
+        "264779": "Sai vì <em>would rather</em> diễn tả sự ưu tiên hoặc mong muốn một điều gì đó hơn một điều khác, theo sau bởi động từ nguyên thể không <em>to</em> (bare infinitive), không phù hợp với cấu trúc <em>to watch</em>.",
+        "264780": "Đúng vì <em>would like</em> diễn tả mong muốn một cách lịch sự hoặc lời mời, và theo sau bởi động từ nguyên thể có <em>to</em> (<em>to V(inf)</em>), hoàn toàn phù hợp với cấu trúc <em>to watch</em> và ngữ cảnh câu."
+      },
+      "images": []
+    },
+    {
+      "id": 651211,
+      "questionNumber": 8,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He would like _____ his English by taking online language courses.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1253938,
+          "label": "A",
+          "text": "to improve",
+          "isCorrect": true
+        },
+        {
+          "id": 1253939,
+          "label": "B",
+          "text": "improving",
+          "isCorrect": false
+        },
+        {
+          "id": 1253940,
+          "label": "C",
+          "text": "improve",
+          "isCorrect": false
+        },
+        {
+          "id": 1253941,
+          "label": "D",
+          "text": "to improving",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1253938,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Cụm từ <em>\"would like\"</em> thường được dùng để thể hiện mong muốn hoặc yêu cầu một cách lịch sự.</p>\n<p>Khi <em>\"would like\"</em> đi kèm với một động từ khác, động từ đó cần phải ở dạng nào?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ theo sau bởi động từ nguyên thể có \"to\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả mong muốn hoặc ý định lịch sự của chủ ngữ. Cấu trúc này thường được dùng để đưa ra lời mời, yêu cầu, hoặc bày tỏ sở thích một cách trang trọng hơn \"want\".</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + would like + to V(inf) + O</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm từ then chốt là <em>\"would like\"</em>. Theo quy tắc ngữ pháp, động từ theo sau <em>\"would like\"</em> phải ở dạng nguyên thể có <em>\"to\"</em> (to-infinitive). Do đó, phương án <em>\"to improve\"</em> là lựa chọn phù hợp nhất. Các phương án còn lại đều không phù hợp để theo sau cụm <em>\"would like\".</em></p>",
+      "answerFeedbacks": {
+        "1253938": "Đúng vì cấu trúc <em>\"would like\"</em> luôn theo sau bởi một động từ nguyên thể có <em>\"to\"</em> (to-infinitive).",
+        "1253939": "Sai vì <em>\"would like\"</em> không theo sau bởi động từ ở dạng V-ing. (Chỉ <em>\"like\"</em> (không có <em>\"would\"</em>) mới có thể theo sau bởi V-ing để diễn tả sở thích chung.)",
+        "1253940": "Sai vì <em>\"would like\"</em> phải theo sau bởi động từ nguyên thể có <em>\"to\"</em>, không phải động từ nguyên thể không <em>\"to\"</em>.",
+        "1253941": "Sai vì đây là sự kết hợp không đúng ngữ pháp của giới từ <em>\"to\"</em> với dạng V-ing."
+      },
+      "images": []
+    },
+    {
+      "id": 857316,
+      "questionNumber": 9,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We would like _____ the club's playing field for a sponsored football match. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1634816,
+          "label": "A",
+          "text": "using",
+          "isCorrect": false
+        },
+        {
+          "id": 1634817,
+          "label": "B",
+          "text": "to use",
+          "isCorrect": true
+        },
+        {
+          "id": 1634818,
+          "label": "C",
+          "text": "use",
+          "isCorrect": false
+        },
+        {
+          "id": 1634819,
+          "label": "D",
+          "text": "to using",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1634817,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để diễn tả mong muốn hay ý định một cách lịch sự, chúng ta thường dùng cấu trúc <em>\"would like\"</em>.</p>\n<p>Hãy nhớ lại sau <em>\"would like\"</em>, động từ tiếp theo cần được chia ở dạng <i>nào?</i></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc \"would like\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn đạt mong muốn, ý định một cách lịch sự, thường được dùng trong các tình huống trang trọng hoặc khi đưa ra lời mời.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + would like + to V(inf)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm từ <em>\"We would like\"</em> diễn tả mong muốn của chủ ngữ. Theo quy tắc ngữ pháp, sau <em>\"would like\"</em> phải là một động từ nguyên mẫu có <em>\"to\"</em> (to-infinitive) để hoàn thành ý nghĩa. Vì vậy, <em>\"to use\"</em> là lựa chọn phù hợp nhất. Các phương án còn lại đều là các dạng động từ không phù hợp để theo sau <em>\"would like\".</em></p>",
+      "answerFeedbacks": {
+        "1634816": "Sai vì động từ sau <em>would like</em> phải ở dạng nguyên thể có <em>to</em> (to-infinitive), không phải V-ing.",
+        "1634817": "Đúng vì <em>to use</em> là dạng nguyên thể có <em>to</em>, tuân thủ cấu trúc <em>would like + to V(inf)</em> để diễn tả mong muốn.",
+        "1634818": "Sai vì <em>use</em> là động từ nguyên thể không <em>to</em>, không phù hợp với cấu trúc <em>would like</em>.",
+        "1634819": "Sai vì đây là cấu trúc không tồn tại trong tiếng Anh; động từ sau <em>to</em> phải là nguyên thể không <em>to</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 790934,
+      "questionNumber": 10,
+      "questionName": "29",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>I would like (give) <span class='fillblank-option'><input id='fbo-790934-0' class='ms fillblank-option-10' index='0' name='fbo-790934-0' type='text' size='12' autocomplete='off' data-testid='fillblank-input-790934-0' /></span> the chance to explain my point of view but they weren't interested.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "to be given"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>would like</strong> được d&ugrave;ng để diễn đạt điều m&igrave;nh muốn một c&aacute;ch lịch sự, nhẹ nh&agrave;ng.&nbsp;</p>\n<p>Cấu tr&uacute;c thể chủ động: <strong>would like + to V(inf)</strong></p>\n<p>Chủ ngữ \"<strong>I</strong>\" kh&ocirc;ng tự thực hiện h&agrave;nh động \"<strong>give</strong>\" trong trường hợp n&agrave;y. =&gt; Động từ phải ở dạng bị động.</p>\n<p>Cấu tr&uacute;c thể bị động: <strong>would like + to be V(pp)</strong></p>\n<p>Dịch: T&ocirc;i muốn được trao cho cơ hội để giải th&iacute;ch quan điểm của m&igrave;nh nhưng họ kh&ocirc;ng quan t&acirc;m.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 300269,
+      "questionNumber": 11,
+      "questionName": "4",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Would you like (donate) <span class='fillblank-option'><input id='fbo-300269-0' class='ms fillblank-option-11' index='0' name='fbo-300269-0' type='text' size='10' autocomplete='off' data-testid='fillblank-input-300269-0' /></span></strong> <strong>old books and toys to poor children?</strong></p>\n<div style=\"position: absolute; left: 256px; top: 22px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "to donate"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>would like</strong> được d&ugrave;ng để diễn đạt điều m&igrave;nh muốn một c&aacute;ch lịch sự, nhẹ nh&agrave;ng.&nbsp;</p>\n<p>Cấu tr&uacute;c:<strong> would like + N/to V(inf)</strong></p>\n<p>Dịch: Bạn c&oacute; muốn ủng hộ s&aacute;ch v&agrave; đồ chơi cũ cho trẻ em ngh&egrave;o kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 686542,
+      "questionNumber": 12,
+      "questionName": "4",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Minh would like (eat) <span class='fillblank-option'><input id='fbo-686542-0' class='ms fillblank-option-12' index='0' name='fbo-686542-0' type='text' size='10' autocomplete='off' data-testid='fillblank-input-686542-0' /></span> some apple pies at his birthday party.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "to eat"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><strong>would like</strong> được d&ugrave;ng để diễn đạt điều m&igrave;nh muốn một c&aacute;ch lịch sự, nhẹ nh&agrave;ng.&nbsp;</p>\n<p style=\"text-align: justify;\">Cấu tr&uacute;c:<strong> would like + N/to V(inf)</strong></p>\n<p style=\"text-align: justify;\">Dịch: Minh muốn ăn một v&agrave;i c&aacute;i b&aacute;nh t&aacute;o v&agrave;o bữa tiệc sinh nhật của cậu ấy.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 458316,
+      "questionNumber": 13,
+      "questionName": "3.4",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>&nbsp;Would you like (participate) <span class='fillblank-option'><input id='fbo-458316-0' class='ms fillblank-option-13' index='0' name='fbo-458316-0' type='text' size='16' autocomplete='off' data-testid='fillblank-input-458316-0' /></span> in this &quot;Preserving the past&quot; project?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "to participate"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c mời mọc, đề nghị: <strong>Would you like + to V(inf)?</strong>: Bạn c&oacute; muốn ... kh&ocirc;ng?</p>\n<p>Dịch: Bạn c&oacute; muốn tham gia dự &aacute;n \"Lưu giữ qu&aacute; khứ\" n&agrave;y kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 700570,
+      "questionNumber": 14,
+      "questionName": "(*) 25",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>&nbsp;<span style=\"text-decoration: underline;\">I</span> would like <span style=\"text-decoration: underline;\">trying</span> the seafood pasta <span style=\"text-decoration: underline;\">from</span> the <span style=\"text-decoration: underline;\">restaurant's</span> menu.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1357460,
+          "label": "A",
+          "text": "I",
+          "isCorrect": false
+        },
+        {
+          "id": 1357461,
+          "label": "B",
+          "text": "trying",
+          "isCorrect": true
+        },
+        {
+          "id": 1357462,
+          "label": "C",
+          "text": "from",
+          "isCorrect": false
+        },
+        {
+          "id": 1357463,
+          "label": "D",
+          "text": "restaurant's",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1357461,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>would like + to V(inf)</strong>: muốn l&agrave;m g&igrave;&nbsp;</p>\n<p>Sửa: \"<strong>trying</strong>\" =&gt; \"<strong>to try</strong>\"</p>\n<p>Dịch: T&ocirc;i muốn thử m&oacute;n m&igrave; hải sản trong thực đơn của nh&agrave; h&agrave;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 195882,
+      "questionNumber": 15,
+      "questionName": "Đoàn Thị Điểm - PT22 - 7",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Our English teacher would like <u>us</u> <u>spending</u> more time <u>practicing</u> our <u>pronunciation</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 447568,
+          "label": "A",
+          "text": "us",
+          "isCorrect": false
+        },
+        {
+          "id": 447569,
+          "label": "B",
+          "text": "spending",
+          "isCorrect": true
+        },
+        {
+          "id": 447570,
+          "label": "C",
+          "text": "practicing",
+          "isCorrect": false
+        },
+        {
+          "id": 447571,
+          "label": "D",
+          "text": "pronunciation",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 447569,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>would like sb to do sth</strong>: muốn ai l&agrave;m g&igrave;</p>\n<p>Sửa: \"<strong>spending</strong>\" =&gt; \"<strong>to spend</strong>\"</p>\n<p>Dịch: Gi&aacute;o vi&ecirc;n tiếng Anh của ch&uacute;ng t&ocirc;i muốn ch&uacute;ng t&ocirc;i d&agrave;nh nhiều thời gian luyện tập ph&aacute;t &acirc;m hơn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 353572,
+      "questionNumber": 16,
+      "questionName": "12",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><u>Would</u> you <u>mind</u> to come <u>and</u> visit me <u>next</u> summer?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 742749,
+          "label": "A",
+          "text": "Would",
+          "isCorrect": false
+        },
+        {
+          "id": 742750,
+          "label": "B",
+          "text": "mind",
+          "isCorrect": true
+        },
+        {
+          "id": 742751,
+          "label": "C",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "id": 742752,
+          "label": "D",
+          "text": "next",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 742750,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>Would you mind + V-ing?</strong>: Bạn c&oacute; phiền ... kh&ocirc;ng? =&gt; Kh&ocirc;ng đ&uacute;ng với ngữ ph&aacute;p của c&acirc;u.&nbsp;</p>\n<p>Cấu tr&uacute;c: <strong>Would you like + to V(inf)?</strong>: Bạn c&oacute; muốn ... kh&ocirc;ng?</p>\n<p>Sửa: \"<strong>mind</strong>\" =&gt; \"<strong>like</strong>\"</p>\n<p>Dịch: Bạn c&oacute; muốn đến thăm t&ocirc;i v&agrave;o m&ugrave;a h&egrave; tới kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 193996,
+      "questionNumber": 17,
+      "questionName": "13",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>I would like to <span style=\"text-decoration: underline;\">have been</span> <u>an</u> astronaut <u>when</u> I grow <u>up</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 443495,
+          "label": "A",
+          "text": "have been",
+          "isCorrect": true
+        },
+        {
+          "id": 443496,
+          "label": "B",
+          "text": "an",
+          "isCorrect": false
+        },
+        {
+          "id": 443497,
+          "label": "C",
+          "text": "when",
+          "isCorrect": false
+        },
+        {
+          "id": 443498,
+          "label": "D",
+          "text": "up",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 443495,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét cấu trúc động từ theo sau ''<em>would like'' to</em> để diễn tả mong muốn trong tương lai.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xem lại mạo từ ''<em>an''</em> được sử dụng trước danh từ ''<em>astronaut</em>'' đã phù hợp chưa.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra chức năng của liên từ ''<em>when''</em> trong mệnh đề chỉ thời gian.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đánh giá ý nghĩa của cụm động từ ''<em>grow up'' </em>có phù hợp trong ngữ cảnh này không.</li>\n</ul>\n<p style=\"text-align: justify;\">Đối chiếu từng quy tắc với câu gốc để tìm phần cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc \"<em>would like to</em>\" (hoặc \"<em>would love to</em>\")</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả mong muốn, nguyện vọng của ai đó về một điều gì đó trong hiện tại hoặc tương lai.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + would like/love + to V(inf) + O</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, cụm từ <em>\"I would like to\"</em> thể hiện một mong muốn. Ngữ cảnh <em>\"when I grow up\"</em> chỉ ra mong muốn này hướng tới tương lai. Do đó, sau <em>\"would like to\"</em> cần dùng động từ nguyên thể (bare infinitive) để diễn tả một hành động hoặc trạng thái mong muốn trong tương lai. <em>\"Have been\"</em> là dạng hoàn thành, không phù hợp với cấu trúc này.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>have been</strong></em>\" =&gt; \"<em><strong>be</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "443495": "Sai vì cấu trúc <em>would like to</em> phải đi với động từ nguyên thể (V-inf) để diễn tả mong muốn trong tương lai.",
+        "443496": "Đúng vì <em>an</em> là mạo từ không xác định đứng trước danh từ bắt đầu bằng nguyên âm (<em>astronaut</em>).",
+        "443497": "Đúng vì <em>when</em> là liên từ chỉ thời gian, phù hợp với ngữ cảnh \"khi tôi lớn lên\".",
+        "443498": "Đúng vì <em>grow up</em> là một cụm động từ (phrasal verb) có nghĩa là \"trưởng thành\"."
+      },
+      "images": []
+    },
+    {
+      "id": 251042,
+      "questionNumber": 18,
+      "questionName": "I would like to drink some milk for my breakfast.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</span></em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "some milk",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "my breakfast.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "drink",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "I would",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "like",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 235144,
+      "questionNumber": 19,
+      "questionName": "Would you like to have a picnic with us on the weekend?",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh)</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "with",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "Saturday?",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "like",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "on",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "to",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "have",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "a picnic",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "us",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 9",
+          "text": "Would you",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 251038,
+      "questionNumber": 20,
+      "questionName": "6.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</span></em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "to know",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "please.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "I'd like",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "some information",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "new productions,",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "about",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 764937,
+      "questionNumber": 21,
+      "questionName": "(*)37",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>Would / like / join / volunteer team / this summer?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1472146,
+          "label": "A",
+          "text": "<p>Would you like to joining our volunteer team this summer?</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1472147,
+          "label": "B",
+          "text": "<p>Would you like to join us volunteer team that summer?</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1472148,
+          "label": "C",
+          "text": "<p>Would you like joining our volunteer team this summer?</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1472149,
+          "label": "D",
+          "text": "<p>Would you like to join our volunteer team this summer?</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1472149,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để tạo một lời mời hoặc đề nghị lịch sự trong tiếng Anh, hãy nhớ cấu trúc với <em>\"Would you like...\"</em>. Cấu trúc này luôn đi kèm với một dạng động từ cụ thể sau nó. <br/><ul><li>Khi bạn muốn mời ai đó làm gì đó (một hành động cụ thể), hãy dùng <em>\"Would you like to + V(inf)\"</em>.</li><li>Chú &yacute đến các từ chỉ định như <em>\"this summer\"</em> để đảm bảo sự nhất quán về thời gian.</li><li>Xem xét việc sử dụng tính từ sở hữu (như <em>\"our\"</em>) thay vì đại từ tân ngữ (như <em>\"us\"</em>) khi nó bổ nghĩa cho một danh từ như <em>\"volunteer team\"</em>.</li></ul>Tìm phương án tuân thủ tất cả các quy tắc này để tạo thành một câu hoàn chỉnh và chính xác.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\">Cấu trúc câu đề nghị: <strong>Would you like + to V(inf) ...?:</strong> Bạn có muốn ... không?</p>\n<p style=\"text-align: justify;\"><strong>join sth</strong>: tham gia cái gì</p>\n<p style=\"text-align: justify;\">Tính từ sở hữu \"<strong>our</strong>\" đứng trước và bổ sung nghĩa cho cụm danh từ \"<strong>volunteer team</strong>\" theo sau nó.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">→</span> Phương án 4 \"<strong><span style=\"color: #5fbd18;\">Would you like to join</span> <span style=\"color: #5fbd18;\">our volunteer team this summer?</span></strong>\" là đáp án đúng.</p>\n<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span></p>\n<ul>\n<li style=\"text-align: justify;\">Phương án 1 \"<strong>Would you like <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">to joining</span></span> our volunteer team this summer?</strong>\" sai vì cấu trúc \"would like\" theo sau bởi \"to-V(inf)\", không phải \"to V-ing\".</li>\n<li style=\"text-align: justify;\">Phương án 2 \"<strong>Would you like to join <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">us volunteer team that summer</span></span>?</strong>\" sai vì \"us\" không thể đứng trước danh từ \"volunteer team\" để bổ nghĩa như tính từ sở hữu; cần dùng \"our\". Ngoài ra, \"that summer\" không phù hợp với \"this summer\" trong đề bài.</li>\n<li style=\"text-align: justify;\">Phương án 3 \"<strong>Would you like <span style=\"color: #ff0000;\"><span style=\"font-weight: 600;\">joining</span></span> our volunteer team this summer?</strong>\" sai vì \"would like\" luôn theo sau bởi \"to-V(inf)\" khi diễn tả lời mời hoặc đề nghị lịch sự, không dùng V-ing trực tiếp.</li>\n</ul>",
+      "answerFeedbacks": {
+        "1472146": "<p>Sai vì cấu trúc \"would like\" theo sau bởi \"to V(inf)\", không phải \"to V-ing\".</p>",
+        "1472147": "<p>Sai vì \"us\" không thể đứng trước danh từ \"volunteer team\" để bổ nghĩa; cần dùng \"our\". Ngoài ra, \"that summer\" không phù hợp với \"this summer\" trong đề bài.</p>",
+        "1472148": "<p>Sai vì \"would like\" luôn theo sau bởi \"to-V(inf)\" khi diễn tả lời mời hoặc đề nghị lịch sự, không dùng V-ing trực tiếp.</p>",
+        "1472149": "<p>Đúng vì câu sử dụng đúng cấu trúc \"Would you like to V(inf)...?\" để đưa ra lời mời lịch sự và dùng đúng tính từ sở hữu \"our\".</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 8941,
+      "questionNumber": 22,
+      "questionName": "Question 109.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the best sentence that can be made from the words given.</em></p>\n<p><strong>I / invite / you / the party / 6 p.m. / my house.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 27200,
+          "label": "A",
+          "text": "So that I would like to invite you to the party at 6 p.m. at my house.",
+          "isCorrect": false
+        },
+        {
+          "id": 27201,
+          "label": "B",
+          "text": "I was invited you to the party at 6 p.m. at my house.",
+          "isCorrect": false
+        },
+        {
+          "id": 27202,
+          "label": "C",
+          "text": "I would like to invite you to the party at 6 p.m. at my house.",
+          "isCorrect": true
+        },
+        {
+          "id": 27203,
+          "label": "D",
+          "text": "I would like to invite you to the party, that will be at 6 p.m. at my house.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 27202,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>would like + to V(inf)</strong>: muốn l&agrave;m g&igrave; (thường được d&ugrave;ng để mời mọc, đề nghị)</p>\n<p>so that + clause: để m&agrave; (được d&ugrave;ng để li&ecirc;n kết hai mệnh đề trong c&ugrave;ng 1 c&acirc;u)</p>\n<p>Đại từ quan hệ \"that\" kh&ocirc;ng đứng sau dấu phẩy v&agrave; giới từ.</p>\n<p><strong>at + giờ</strong>: v&agrave;o l&uacute;c ...</p>\n<p><strong>at one's house</strong>: tại nh&agrave; của ai&nbsp;</p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em><span style=\"text-decoration: line-through;\"><strong>So that</strong></span> I would like to invite you to the party at 6 p.m. at my house.</em></li>\n<li><em>I <span style=\"text-decoration: line-through;\"><strong>was invited</strong></span> you to the party at 6 p.m. at my house.</em></li>\n<li><em>I would like to invite you to the party, <span style=\"text-decoration: line-through;\"><strong>that</strong></span> will be at 6 p.m. at my house.</em></li>\n</ul>\n<p>Dịch: T&ocirc;i muốn mời bạn đến bữa tiệc l&uacute;c 6 giờ tối tại nh&agrave; t&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 340646,
+      "questionNumber": 23,
+      "questionName": "2",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Make a complete sentence using the given words. Change the form of the words or add other words if necessary.</em></p>\n<p><strong>I / would like / introduce / you / Mr. Long / who / my English teacher.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "I would like to introduce to you Mr. Long , who is my English teacher.",
+        "I would like to introduce you to Mr. Long , who is my English teacher."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>would like + to V(inf)</strong>: muốn l&agrave;m g&igrave;</p>\n<p><strong>introduce sb to sb</strong>: giới thiệu ai với ai</p>\n<p>\"<strong>Mr. Long</strong>\" l&agrave; danh từ ri&ecirc;ng đ&atilde; x&aacute;c định n&ecirc;n mệnh đề quan hệ bổ nghĩa cho danh từ n&agrave;y l&agrave; mệnh đề quan hệ kh&ocirc;ng x&aacute;c định (c&oacute; dấu phẩy).</p>\n<p>Dịch: T&ocirc;i muốn giới thiệu với bạn thầy Long, người (m&agrave;) dạy t&ocirc;i m&ocirc;n tiếng Anh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 325102,
+      "questionNumber": 24,
+      "questionName": "72",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Make a complete sentence using the given words. Change the form of the words or add other words if necessary.</em></p>\n<p><strong>I/ would like / study English / in / school / near / my home.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "I’d like to study English in a school near my home."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>would like + to V(inf)</strong>: muốn l&agrave;m g&igrave;</p>\n<p>Mạo từ \"<strong>a</strong>\"&nbsp;được d&ugrave;ng khi n&oacute;i đến một trường học bất kỳ, kh&ocirc;ng cụ thể. N&oacute; &aacute;m chỉ rằng người n&oacute;i kh&ocirc;ng x&aacute;c định một trường n&agrave;o, m&agrave; chỉ muốn nhấn mạnh &yacute; muốn học ở một trường gần nh&agrave;.</p>\n<p>Mạo từ \"<strong>the</strong>\" được d&ugrave;ng khi n&oacute;i đến một trường cụ thể m&agrave; cả người n&oacute;i v&agrave; người nghe đều biết. Trường n&agrave;y c&oacute; thể đ&atilde; được đề cập trước đ&oacute; hoặc r&otilde; r&agrave;ng từ ngữ cảnh.</p>\n<p>Dịch: T&ocirc;i muốn học tiếng Anh ở một ng&ocirc;i trường gần nh&agrave; t&ocirc;i.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 673552,
+      "questionNumber": 25,
+      "questionName": "new",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Make a complete sentence using the given words. Change the form of the words or add other words if necessary.</em></p>\n<p><strong>I / would like / watch / comedy movie / the cinema / tonight.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "I would like to watch a comedy movie at the cinema tonight."
+      ],
+      "hint": "Hãy nhớ cấu trúc của <em>would like</em> là <em>would like + to V(inf)</em>. Đừng quên mạo từ <em>a/an</em> trước danh từ đếm được số ít và giới từ phù hợp cho địa điểm <em>the cinema</em>.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>would like + to V(inf)</strong>: muốn làm gì</p>\n<p style=\"text-align: justify;\"><strong>at the cinema</strong> (phr.): tại rạp chiếu phim</p>\n<p style=\"text-align: justify;\"><span style=\"color: #5fbd18; font-weight: 600;\">Phân tích: </span></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 5px;\">Nhận diện cấu trúc <strong>would like</strong>: Cấu trúc này luôn được theo sau bởi động từ nguyên thể có <em>to</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Động từ <strong>watch</strong> cần được chuyển sang dạng nguyên thể có <em>to</em> để phù hợp với cấu trúc <em>would like to V(inf)</em> → <b>to watch</b>.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Cụm danh từ <strong>comedy movie</strong> là danh từ đếm được số ít được nhắc đến lần đầu và có cách phát âm bắt đầu bằng phụ âm (/k/), cần thêm mạo từ <strong>a</strong> trước nó → <b>a comedy movie</b>.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Để chỉ địa điểm cụ thể <strong>the cinema</strong> (rạp chiếu phim), cần thêm giới từ <b>at</b> phía trước → <b>at the cinema</b>.</li>\n</ul>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

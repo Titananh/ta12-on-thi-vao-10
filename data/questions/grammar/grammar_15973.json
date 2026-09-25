@@ -1,0 +1,769 @@
+{
+  "quizId": 15973,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 6: Each (of), every, each/ every one (of)",
+  "totalQuestions": 18,
+  "questions": [
+    {
+      "id": 895849,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>C&#225;c ph&#225;t bi&#7875;u sau l&#224; &#273;&#250;ng hay sai?</strong></p>\n<p>&quot;<strong>Each</strong>&quot; t&#7853;p trung v&#224;o t&#7915;ng m&#7909;c ri&#234;ng l&#7867;; &quot;<strong>every</strong>&quot; t&#7853;p trung v&#224;o nh&#243;m n&#243;i chung. <strong><span class='fillblank-option'><label>1.1</label><select class='ms fillblank-option-1' index='0' name='fbo-895849-0' data-testid='fillblank-select-895849-0'><option value='' data-testid='fillblank-option-empty-895849-0'></option><option value=\"Đúng\" data-testid='fillblank-option-895849-0-Đúng'>Đúng</option><option value=\"Sai\" data-testid='fillblank-option-895849-0-Sai'>Sai</option></select></span></strong></p>\n<p>Kh&#244;ng th&#7875; s&#7917; d&#7909;ng <span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">&#8220;</span><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"><strong>each of</strong>&quot; &#273;i v&#7899;i danh t&#7915; s&#7889; nhi&#7873;u ho&#7863;c &#273;&#7841;i t&#7915;.</span> <strong><span class='fillblank-option'><label>1.2</label><select class='ms fillblank-option-1' index='1' name='fbo-895849-1' data-testid='fillblank-select-895849-1'><option value='' data-testid='fillblank-option-empty-895849-1'></option><option value=\"Đúng\" data-testid='fillblank-option-895849-1-Đúng'>Đúng</option><option value=\"Sai\" data-testid='fillblank-option-895849-1-Sai'>Sai</option></select></span></strong></p>\n<p>Ch&#7911; ng&#7919; l&#224; &#8220;<strong>each/every + one of + ...</strong>&#8221; th&#236; &#273;&#7897;ng t&#7915; ph&#237;a sau chia s&#7889; nhi&#7873;u. <strong><span class='fillblank-option'><label>1.3</label><select class='ms fillblank-option-1' index='2' name='fbo-895849-2' data-testid='fillblank-select-895849-2'><option value='' data-testid='fillblank-option-empty-895849-2'></option><option value=\"Sai\" data-testid='fillblank-option-895849-2-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-895849-2-Đúng'>Đúng</option></select></span></strong></p>\n<p>Khi &quot;<strong>each</strong>&quot; l&#224; m&#7897;t &#273;&#7841;i t&#7915;, n&#243; c&#243; th&#7875; &#273;&#7913;ng tr&#432;&#7899;c ho&#7863;c sau &#273;&#7897;ng t&#7915; v&#224; t&#226;n ng&#7919;. <strong><span class='fillblank-option'><label>1.4</label><select class='ms fillblank-option-1' index='3' name='fbo-895849-3' data-testid='fillblank-select-895849-3'><option value='' data-testid='fillblank-option-empty-895849-3'></option><option value=\"Đúng\" data-testid='fillblank-option-895849-3-Đúng'>Đúng</option><option value=\"Sai\" data-testid='fillblank-option-895849-3-Sai'>Sai</option></select></span></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Đúng"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Sai"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "Sai"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "Đúng"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2dc26b; border-style: dashed;\" border=\"1\" cellspacing=\"10\" cellpadding=\"10\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50.0382%; text-align: center; height: 18px;\"><img src=\"/images/exams/895834_new_7128c904.jpg\" alt=\"\" width=\"450\" /></td>\n<td style=\"width: 50.0382%; text-align: center; height: 18px;\"><img src=\"/images/exams/895849_2_new_f7ebfa3d.jpg\" alt=\"\" width=\"500\" /></td>\n</tr>\n<tr>\n<td style=\"width: 50.0382%; text-align: center;\"><img src=\"/images/exams/895849_3_new_72449b33.jpg\" alt=\"\" width=\"450\" /></td>\n<td style=\"width: 50.0382%; text-align: center;\"><img src=\"/images/exams/895849_3_147d0e8f.jpg\" alt=\"\" width=\"450\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": [
+        "/images/exams/895849_3_147d0e8f.jpg"
+      ]
+    },
+    {
+      "id": 894445,
+      "questionNumber": 2,
+      "questionName": "every and each",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Complete the sentences using &quot;<em>each&quot;</em> or &quot;<em>every&quot;</em>.</strong></p>\n<p>1. I walk our dog <span class='fillblank-option'><label>2.1</label><input id='fbo-894445-0' class='ms fillblank-option-2' index='0' name='fbo-894445-0' type='text' size='6' autocomplete='off' data-testid='fillblank-input-894445-0' /></span>&nbsp;morning before breakfast.</p>\n<p>2. The man was holding a baby in <span class='fillblank-option'><label>2.2</label><input id='fbo-894445-1' class='ms fillblank-option-2' index='1' name='fbo-894445-1' type='text' size='7' autocomplete='off' data-testid='fillblank-input-894445-1' /></span> arm.</p>\n<p>3. They made six cakes for the party and the guests ate <span class='fillblank-option'><label>2.3</label><input id='fbo-894445-2' class='ms fillblank-option-2' index='2' name='fbo-894445-2' type='text' size='6' autocomplete='off' data-testid='fillblank-input-894445-2' /></span> one.</p>\n<p>4. <span class='fillblank-option'><label>2.4</label><input id='fbo-894445-3' class='ms fillblank-option-2' index='3' name='fbo-894445-3' type='text' size='9' autocomplete='off' data-testid='fillblank-input-894445-3' /></span> student in the class forgot to do the homework.</p>\n<p>5. She liked the black and the brown tops, so she bought one of <span class='fillblank-option'><label>2.5</label><input id='fbo-894445-4' class='ms fillblank-option-2' index='4' name='fbo-894445-4' type='text' size='8' autocomplete='off' data-testid='fillblank-input-894445-4' /></span>.</p>\n<p>6. I got the same birthday present from <span class='fillblank-option'><label>2.6</label><input id='fbo-894445-5' class='ms fillblank-option-2' index='5' name='fbo-894445-5' type='text' size='8' autocomplete='off' data-testid='fillblank-input-894445-5' /></span> of my brothers!</p>\n<p>7. <span class='fillblank-option'><label>2.7</label><input id='fbo-894445-6' class='ms fillblank-option-2' index='6' name='fbo-894445-6' type='text' size='7' autocomplete='off' data-testid='fillblank-input-894445-6' /></span> language has things that are difficult to learn.</p>\n<p>8. She was wearing a different sock on <span class='fillblank-option'><label>2.8</label><input id='fbo-894445-7' class='ms fillblank-option-2' index='7' name='fbo-894445-7' type='text' size='6' autocomplete='off' data-testid='fillblank-input-894445-7' /></span> foot.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "every"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "each"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "each"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "Every"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "each"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "each"
+          ]
+        },
+        {
+          "index": 6,
+          "correctAnswers": [
+            "Every"
+          ]
+        },
+        {
+          "index": 7,
+          "correctAnswers": [
+            "each"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>every + N (số &iacute;t)</strong><span style=\"font-weight: 400;\">: mỗi, mọi (được sử dụng để chỉ tất cả c&aacute;c th&agrave;nh vi&ecirc;n của một nh&oacute;m từ 3 trở l&ecirc;n)</span></p>\n<p><strong>each + N (số &iacute;t)</strong><span style=\"font-weight: 400;\">: mỗi một (chỉ một đối tượng, nhấn mạnh t&iacute;nh ri&ecirc;ng lẻ của mỗi đối tượng đ&oacute;)</span></p>\n<p><strong>each of + the + N (số nhiều)</strong><span style=\"font-weight: 400;\">: mỗi một&hellip; (nhấn mạnh sự độc lập của từng đối tượng được n&oacute;i đến)</span></p>\n<p>1. \"<strong>every morning</strong>\" nhấn mạnh h&agrave;nh động lặp lại đều đặn mỗi ng&agrave;y trong một chuỗi thời gian (to&agrave;n bộ buổi s&aacute;ng).</p>\n<p>Dịch: T&ocirc;i dẫn ch&oacute; đi dạo mỗi buổi s&aacute;ng trước khi ăn s&aacute;ng.</p>\n<p>2. \"<strong>each arm</strong>\" nhấn mạnh từng c&aacute;nh tay ri&ecirc;ng lẻ của người đ&agrave;n &ocirc;ng, chỉ một nh&oacute;m hai đối tượng (hai c&aacute;nh tay).</p>\n<p>Dịch: Người đ&agrave;n &ocirc;ng đang bế một đứa trẻ tr&ecirc;n mỗi c&aacute;nh tay.</p>\n<p>3. \"<strong>each one</strong>\" nhấn mạnh từng chiếc b&aacute;nh ri&ecirc;ng biệt trong số s&aacute;u chiếc, mỗi chiếc được ăn hết.</p>\n<p>Dịch: Họ l&agrave;m s&aacute;u chiếc b&aacute;nh cho bữa tiệc v&agrave; kh&aacute;ch đ&atilde; ăn từng chiếc một.</p>\n<p>4. \"<strong>every student</strong>\" nhấn mạnh tất cả học sinh trong lớp, kh&ocirc;ng trừ một ai, đ&atilde; qu&ecirc;n l&agrave;m b&agrave;i tập.</p>\n<p>Dịch: Mỗi học sinh trong lớp đều qu&ecirc;n l&agrave;m b&agrave;i tập.</p>\n<p>5. \"<strong>each</strong>\" chỉ từng m&oacute;n đồ (&aacute;o m&agrave;u đen v&agrave; m&agrave;u n&acirc;u) trong số hai m&oacute;n v&agrave; nhấn mạnh rằng c&ocirc; ấy mua một c&aacute;i của mỗi loại.</p>\n<p>Dịch: C&ocirc; ấy th&iacute;ch chiếc &aacute;o m&agrave;u đen v&agrave; m&agrave;u n&acirc;u, n&ecirc;n c&ocirc; ấy đ&atilde; mua mỗi loại một c&aacute;i.</p>\n<p>6. \"<strong>each of my brothers</strong>\" nhấn mạnh từng người trong số c&aacute;c anh/em trai, mỗi người tặng một m&oacute;n qu&agrave; giống nhau.</p>\n<p>Dịch: T&ocirc;i nhận được c&ugrave;ng một m&oacute;n qu&agrave; sinh nhật từ từng người anh/em trai của t&ocirc;i!</p>\n<p>7. \"<strong>every language</strong>\" nhấn mạnh tất cả c&aacute;c ng&ocirc;n ngữ, kh&ocirc;ng ngoại lệ, đều c&oacute; những điểm kh&oacute; học.</p>\n<p>Dịch: Mỗi ng&ocirc;n ngữ đều c&oacute; những điều kh&oacute; học.</p>\n<p>8. \"<strong>each foot</strong>\" nhấn mạnh từng b&agrave;n ch&acirc;n ri&ecirc;ng biệt, v&agrave; mỗi b&agrave;n ch&acirc;n mang một chiếc tất kh&aacute;c nhau.</p>\n<p>Dịch: C&ocirc; ấy mang hai chiếc tất kh&aacute;c nhau tr&ecirc;n từng b&agrave;n ch&acirc;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 63799,
+      "questionNumber": 3,
+      "questionName": "Question 1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ of the workers has his own work.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 170403,
+          "label": "A",
+          "text": "Every",
+          "isCorrect": false
+        },
+        {
+          "id": 170404,
+          "label": "B",
+          "text": "Each",
+          "isCorrect": true
+        },
+        {
+          "id": 170405,
+          "label": "C",
+          "text": "Other",
+          "isCorrect": false
+        },
+        {
+          "id": 170406,
+          "label": "D",
+          "text": "All",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 170404,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn lượng từ phù hợp, hãy xem xét hai yếu tố chính:</p>\n<ul>\n<li>Cụm <em>\"of the workers\"</em>, gợi ý cần một lượng từ có thể đi với <em>\"of + danh từ số nhiều\"</em>.</li>\n<li>Động từ <em>\"has\"</em> và đại từ sở hữu <em>\"his\"</em> đều ở dạng số ít, cho thấy chủ ngữ phải là một lượng từ mang nghĩa số ít hoặc được coi là số ít.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Lượng từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Lượng từ là những từ hoặc cụm từ đứng trước danh từ để chỉ số lượng hoặc mức độ của danh từ đó. Chúng giúp xác định danh từ là số ít hay số nhiều, và ảnh hưởng đến sự hòa hợp chủ vị của động từ.</p>\n<p><strong>Một số lượng từ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Each (of) + N (số nhiều) + V (số ít):</span></strong> Mỗi (dùng để nhấn mạnh từng cá nhân trong một nhóm).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Every + N (số ít) + V (số ít):</span></strong> Mọi (dùng để chỉ tất cả các thành viên trong một nhóm, coi như một tổng thể).</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Other + N (số nhiều) / Another + N (số ít):</span></strong> Khác, cái khác.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">All (of) + N (số nhiều) + V (số nhiều):</span></strong> Tất cả (dùng để chỉ toàn bộ nhóm).</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, có hai dấu hiệu ngữ pháp quan trọng là cụm giới từ <em>\"of the workers\"</em> và động từ <em>\"has\"</em> (dạng số ít) cùng đại từ sở hữu <em>\"his\"</em> (dạng số ít). Lượng từ cần điền phải phù hợp với cấu trúc <em>\"of + danh từ số nhiều\"</em> và phải hòa hợp với động từ số ít. Trong các phương án chỉ có <em>\"Each\"</em> là đáp án đúng với cấu trúc <em>\"Each of + N số nhiều + V số ít\"</em>.</p>\n<p style=\"text-align: justify;\">Phương án 1 <em>\"Every\"</em> không đi trực tiếp với <em>\"of\"</em> trong cấu trúc này. Phương án 4 <em>\"All\"</em> có thể đi với <em>\"of the workers\"</em> nhưng đòi hỏi động từ số nhiều (<em>\"have\"</em>), không phải số ít (<em>\"has\"</em>). Phương án 3 <em>\"Other\"</em> không phù hợp về mặt ngữ pháp và nghĩa.</p>",
+      "answerFeedbacks": {
+        "170403": "Sai vì <em>\"Every\"</em> không đứng trực tiếp trước <em>\"of the workers\"</em> trong cấu trúc này; <em>\"Every\"</em> thường đi trực tiếp với danh từ số ít (ví dụ: <em>\"Every worker has...\"</em>).",
+        "170404": "Đúng vì <em>\"Each of + N số nhiều + V số ít\"</em> là cấu trúc chính xác, phù hợp với <em>\"of the workers\"</em> và động từ số ít <em>\"has\"</em>.",
+        "170405": "Sai vì <em>\"Other\"</em> không phù hợp về mặt ngữ pháp khi đi với <em>\"of the workers\"</em> và không mang nghĩa cần thiết trong câu này.",
+        "170406": "Sai vì mặc dù <em>\"All of the workers\"</em> đúng về cấu trúc, động từ theo sau phải là số nhiều (<em>\"have\"</em>), không phải số ít (<em>\"has\"</em>)."
+      },
+      "images": []
+    },
+    {
+      "id": 894453,
+      "questionNumber": 4,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ of the letters was carefully checked for mistakes.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1702197,
+          "label": "A",
+          "text": "All",
+          "isCorrect": false
+        },
+        {
+          "id": 1702198,
+          "label": "B",
+          "text": "Every one",
+          "isCorrect": false
+        },
+        {
+          "id": 1702199,
+          "label": "C",
+          "text": "Each",
+          "isCorrect": true
+        },
+        {
+          "id": 1702200,
+          "label": "D",
+          "text": "Every",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1702199,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Câu hỏi kiểm tra cách dùng các lượng từ như <em>each, every, all</em> và <em>every one</em>, đặc biệt là quy tắc hòa hợp chủ vị của chúng. Hãy chú ý đến:<ul><li>Cụm danh từ sau chỗ trống là \"<em>of the letters</em>\" (danh từ số nhiều).</li><li>Động từ theo sau là \"<em>was</em>\" (động từ số ít).</li><li>\"<em>All</em>\" thường đi với động từ số nhiều khi chỉ danh từ đếm được số nhiều.</li><li>\"<em>Every</em>\" không thể đi trực tiếp với \"<em>of the</em>\"; nó cần một danh từ số ít theo sau trực tiếp (ví dụ: \"<em>every letter</em>\").</li><li>Cả \"<em>Each of the N plural</em>\" và \"<em>Every one of the N plural</em>\" đều đi với động từ số ít. Hãy cân nhắc sắc thái nghĩa của \"<em>each</em>\" và \"<em>every one</em>\" trong ngữ cảnh \"<em>was carefully checked for mistakes</em>\" để chọn đáp án phù hợp nhất, đặc biệt khi hành động được thực hiện cho từng cá thể riêng lẻ.</li></ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cách dùng các lượng từ <b>each, every, all</b> và <b>every one</b></span>.</p><blockquote style=\"margin-left: 0px; padding-left: 18px;\"><p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các lượng từ này được dùng để chỉ số lượng và sự phân phối của các thành phần trong một nhóm. Chúng có những quy tắc ngữ pháp riêng về cách kết hợp với danh từ, đại từ và động từ.</p><p style=\"text-align: justify;\"><strong>Cấu trúc: </strong></p><ul style=\"padding-left: 30px;\"><li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Each (of the N plural) + V (singular):</span></strong> Mỗi, từng cái/người một. (Nhấn mạnh sự riêng lẻ, từng cá thể trong một nhóm, thường dùng khi số lượng có thể nhỏ hoặc khi hành động được thực hiện riêng cho từng đối tượng).</li><li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Every (N singular) + V (singular):</span></strong> Mọi, tất cả các cá thể. (Nhấn mạnh toàn bộ nhóm như một tổng thể, từng cá thể được xét như một phần của nhóm lớn, không dùng trực tiếp với \"of the\").</li><li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Every one (of the N plural) + V (singular):</span></strong> Mọi người/vật trong một nhóm. (Tương tự <em>every</em>, nhưng có thể dùng với \"of the\". Cũng nhấn mạnh tính toàn diện của nhóm, nhưng vẫn xét từng thành viên).</li><li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">All (of the N plural) + V (plural):</span></strong> Tất cả (số nhiều). (Chỉ toàn bộ nhóm, coi như một tổng thể, động từ chia số nhiều).</li></ul></blockquote><p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p><p style=\"text-align: justify;\">Câu hỏi có cụm danh từ số nhiều \"<em>of the letters</em>\" và động từ số ít \"<em>was</em>\". Vì vậy, ta cần một lượng từ có thể đi với cấu trúc \"<em>of the + N plural</em>\" và yêu cầu động từ số ít.</p><p style=\"text-align: justify;\">Trong các phương án, \"<em>Each of the letters</em>\" và \"<em>Every one of the letters</em>\" đều phù hợp về mặt ngữ pháp (đi với động từ số ít). Tuy nhiên, \"<em>each</em>\" nhấn mạnh từng cá thể riêng lẻ và hành động được thực hiện cho từng đối tượng một, rất phù hợp với ngữ cảnh \"<em>was carefully checked for mistakes</em>\" (được kiểm tra cẩn thận từng cái một để tìm lỗi).</p>",
+      "answerFeedbacks": {
+        "1702197": "Sai vì <em>All of the letters</em> phải đi với động từ số nhiều (<em>were</em>), không phải số ít (<em>was</em>).",
+        "1702198": "Sai vì mặc dù <em>Every one of the letters</em> đi với động từ số ít (<em>was</em>) là đúng ngữ pháp, nhưng <em>each</em> nhấn mạnh sự chú ý riêng lẻ đến từng đối tượng một, phù hợp hơn với hành động <em>carefully checked for mistakes</em>.",
+        "1702199": "Đúng vì <em>Each of the letters</em> kết hợp đúng với danh từ số nhiều và động từ số ít (<em>was</em>), đồng thời nhấn mạnh sự kiểm tra cẩn thận từng lá thư một.",
+        "1702200": "Sai vì <em>every</em> phải đi trực tiếp với danh từ số ít (ví dụ: <em>every letter</em>), không thể dùng với cấu trúc <em>of the + N plural</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 894452,
+      "questionNumber": 5,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The teacher spoke to _____ the students about their performance.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1702201,
+          "label": "A",
+          "text": "each",
+          "isCorrect": false
+        },
+        {
+          "id": 1702202,
+          "label": "B",
+          "text": "every",
+          "isCorrect": false
+        },
+        {
+          "id": 1702203,
+          "label": "C",
+          "text": "each of",
+          "isCorrect": true
+        },
+        {
+          "id": 1702204,
+          "label": "D",
+          "text": "every one",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1702203,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đáp án đúng, hãy xem xét các quy tắc sử dụng lượng từ <em>each</em> và <em>every</em>.</p>\n<ul>\n<li>Chú ý cụm từ sau chỗ trống là <em>\"the students\"</em>, một danh từ số nhiều có mạo từ xác định.</li>\n<li>Nhận diện cấu trúc nào trong các phương án có thể chỉ \"từng người một\" hoặc \"mỗi người\" trong một nhóm cụ thể.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Lượng từ chỉ sự phân phối</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các lượng từ này dùng để chỉ từng cá nhân hoặc từng vật trong một nhóm, nhấn mạnh tính riêng lẻ của mỗi thành viên, hoặc nói về mọi thành viên trong một nhóm mà không bỏ sót ai.</p>\n<p><strong>Một số cấu trúc với lượng từ hay gặp:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">each + N(số ít đếm được):</span></strong> mỗi (dùng khi nói về hai người/vật trở lên, nhấn mạnh từng cá nhân)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">each (đại từ):</span></strong> mỗi người/vật (đứng một mình)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">each of + determiner + N(số nhiều):</span></strong> mỗi người/vật trong số... (dùng khi nói về từng cá nhân trong một nhóm cụ thể)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">every + N(số ít đếm được):</span></strong> mọi, mỗi (dùng khi nói về ba người/vật trở lên, nhấn mạnh tất cả các thành viên trong nhóm)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">every one (đại từ):</span></strong> mọi người/vật (đứng một mình, nhấn mạnh sự toàn diện)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">every one of + determiner + N(số nhiều):</span></strong> mọi người/vật trong số... (nhấn mạnh tất cả các thành viên trong một nhóm cụ thể)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, sau chỗ trống là cụm danh từ <em>\"the students\"</em> (danh từ số nhiều có mạo từ <em>the</em>). Cấu trúc cần tìm là một lượng từ có thể đi với <em>\"of + determiner + N(số nhiều)\"</em> để chỉ từng học sinh trong nhóm. Phương án <em>\"each of\"</em> phù hợp với cấu trúc này, diễn đạt việc giáo viên nói chuyện với từng học sinh.</p>",
+      "answerFeedbacks": {
+        "1702201": "Sai vì <em>each</em> không đứng trực tiếp trước cụm danh từ có mạo từ <em>the</em> và danh từ số nhiều như <em>the students</em>; cần cấu trúc <em>each of the students</em>.",
+        "1702202": "Sai vì <em>every</em> chỉ đi với danh từ số ít đếm được (ví dụ: <em>every student</em>) và không có cấu trúc <em>every of</em>.",
+        "1702203": "Đúng vì <em>each of</em> + mạo từ/tính từ sở hữu + danh từ số nhiều là cấu trúc đúng để chỉ từng cá nhân trong một nhóm cụ thể.",
+        "1702204": "Sai vì <em>every one</em> cần giới từ <em>of</em> để đi với cụm danh từ số nhiều có mạo từ <em>the</em> (ví dụ: <em>every one of the students</em>), và <em>each of</em> tự nhiên hơn trong ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 237395,
+      "questionNumber": 6,
+      "questionName": "2981-Final items",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Remember that _____ day of the week has its problems.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 534242,
+          "label": "A",
+          "text": "each",
+          "isCorrect": false
+        },
+        {
+          "id": 534243,
+          "label": "B",
+          "text": "every",
+          "isCorrect": true
+        },
+        {
+          "id": 534244,
+          "label": "C",
+          "text": "all",
+          "isCorrect": false
+        },
+        {
+          "id": 1702281,
+          "label": "D",
+          "text": "each of",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 534243,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn lượng từ phù hợp, hãy xem xét danh từ theo sau chỗ trống là <em>\"day\"</em>, một danh từ số ít đếm được.</p>\n<p>Bạn cần một lượng từ phù hợp mang ý nghĩa bao quát \"mọi\" hoặc \"tất cả\" các ngày trong tuần.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Lượng từ \"each\", \"every\", \"all\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các lượng từ này dùng để chỉ số lượng hoặc phân phối trong một nhóm. \"Each\" và \"every\" nhấn mạnh từng cá thể riêng lẻ trong nhóm, trong khi \"all\" đề cập đến toàn bộ nhóm như một tổng thể.</p>\n<p><strong>Một số cấu trúc cụ thể:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">each + N (số ít đếm được)</span></strong>: mỗi (nhấn mạnh từng cá thể riêng biệt trong nhóm nhỏ hoặc nhóm xác định)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">every + N (số ít đếm được)</span></strong>: mọi, mỗi (nhấn mạnh tất cả các cá thể trong nhóm lớn hoặc không xác định)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">all + N (số nhiều đếm được/không đếm được)</span></strong>: tất cả (đề cập đến toàn bộ nhóm)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">each of + the/possessive + N (số nhiều đếm được)</span></strong>: mỗi người/vật trong số (đề cập đến từng cá thể trong một nhóm xác định)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Ngữ cảnh câu yêu cầu một lượng từ đi với danh từ số ít đếm được <em>\"day\"</em> và diễn tả ý nghĩa bao quát \"mọi ngày trong tuần\". Trong số các lựa chọn, <em>\"every\"</em> (phương án 2) là phù hợp nhất để chỉ tất cả các thành viên trong một nhóm lớn hoặc không xác định, nhấn mạnh tính tổng quát rằng tất cả các ngày trong tuần đều có vấn đề.</p>\n<p style=\"text-align: justify;\">Phương án 1 <em>\"each\"</em> cũng có thể đi với danh từ số ít nhưng thường nhấn mạnh từng cá thể riêng lẻ hơn là sự bao quát. Phương án 3 <em>\"all\"</em> sai vì cần đi với danh từ số nhiều hoặc không đếm được. Phương án 4 <em>\"each of\"</em> sai cấu trúc vì nó cần mạo từ hoặc tính từ sở hữu và danh từ số nhiều theo sau.</p>",
+      "answerFeedbacks": {
+        "534242": "Sai vì mặc dù <em>\"each\"</em> có thể đi với danh từ số ít đếm được, nhưng <em>\"every\"</em> phù hợp hơn để diễn tả ý nghĩa \"mọi\" hoặc \"tất cả\" các ngày trong tuần đều có vấn đề, mang tính tổng quát hơn.",
+        "534243": "Đúng vì <em>\"every\"</em> đi với danh từ số ít đếm được (<em>\"day\"</em>) và diễn tả ý nghĩa \"mọi\" hoặc \"tất cả\" các thành viên trong một nhóm lớn (các ngày trong tuần), phù hợp với ngữ cảnh câu.",
+        "534244": "Sai vì <em>\"all\"</em> cần đi với danh từ số nhiều đếm được (ví dụ: <em>\"all days\"</em>) hoặc danh từ không đếm được, trong khi <em>\"day\"</em> ở đây là danh từ số ít.",
+        "1702281": "Sai vì <em>\"each of\"</em> cần theo sau bởi một mạo từ (<em>\"the\"</em>, <em>\"these\"</em>, <em>\"those\"</em>) hoặc tính từ sở hữu và một danh từ số nhiều đếm được (ví dụ: <em>\"each of the days\"</em>)."
+      },
+      "images": []
+    },
+    {
+      "id": 313498,
+      "questionNumber": 7,
+      "questionName": "9-Test 1-Advanced Tests-p.129",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ of the area managers is going to report his total sales to head office _____ two weeks.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 677765,
+          "label": "A",
+          "text": "All / each",
+          "isCorrect": false
+        },
+        {
+          "id": 677767,
+          "label": "B",
+          "text": "Any / all",
+          "isCorrect": false
+        },
+        {
+          "id": 677768,
+          "label": "C",
+          "text": "Every / several",
+          "isCorrect": false
+        },
+        {
+          "id": 677769,
+          "label": "D",
+          "text": "Each / every",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 677769,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>each + of + N (số nhiều)</strong><span style=\"font-weight: 400;\">: mỗi ... ( chỉ c&aacute;c th&agrave;nh phần ri&ecirc;ng lẻ trong một nh&oacute;m hoặc tập hợp)</span></p>\n<p><strong>every + số từ + N (số nhiều)</strong><span style=\"font-weight: 400;\">: mỗi ... (khi n&oacute;i về tần suất hoặc chu kỳ lặp lại)</span></p>\n<p><span style=\"font-weight: 400;\">all + N (đếm được số nhiều): tất cả (động từ theo sau ở dạng số nhiều)</span></p>\n<p>any + N (đếm được số nhiều/ kh&ocirc;ng đếm được): bất k&igrave; (&yacute; nghĩa n&agrave;y d&ugrave;ng trong c&acirc;u khẳng định)</p>\n<p>several + N (đếm được số nhiều): một v&agrave;i, v&agrave;i...</p>\n<p>Dịch: Mỗi người quản l&yacute; khu vực sẽ b&aacute;o c&aacute;o tổng doanh số b&aacute;n h&agrave;ng của m&igrave;nh l&ecirc;n văn ph&ograve;ng ch&iacute;nh hai tuần một lần.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 313529,
+      "questionNumber": 8,
+      "questionName": "55-Test 1-Advanced Tests-p.133",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Almost _____ nation sends teams of selected athletes to take part in the Olympic Games, which are held _____ four years. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 677920,
+          "label": "A",
+          "text": "any / all",
+          "isCorrect": false
+        },
+        {
+          "id": 677921,
+          "label": "B",
+          "text": "each / many",
+          "isCorrect": false
+        },
+        {
+          "id": 677922,
+          "label": "C",
+          "text": "every / every",
+          "isCorrect": true
+        },
+        {
+          "id": 677923,
+          "label": "D",
+          "text": "all / each",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 677922,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>every + N (đếm được số &iacute;t)</strong><span style=\"font-weight: 400;\">: mỗi, mọi (được sử dụng để chỉ tất cả c&aacute;c th&agrave;nh vi&ecirc;n của một nh&oacute;m từ 3 trở l&ecirc;n)</span></p>\n<p><span style=\"font-weight: 400;\"><strong>every + số từ + N (đếm được số nhiều)</strong>: mỗi ... (khi n&oacute;i về tần suất hoặc chu kỳ lặp lại)</span></p>\n<p><span style=\"font-weight: 400;\">any + N (đếm được số nhiều/ kh&ocirc;ng đếm được): bất k&igrave; (&yacute; nghĩa n&agrave;y d&ugrave;ng trong c&acirc;u khẳng định)</span></p>\n<p><span style=\"font-weight: 400;\">all + N (đếm được số nhiều): tất cả (động từ theo sau ở dạng số nhiều)</span></p>\n<p>each + N (đếm được số &iacute;t)<span style=\"font-weight: 400;\">: mỗi một (chỉ một đối tượng, nhấn mạnh t&iacute;nh ri&ecirc;ng lẻ của mỗi đối tượng đ&oacute;)</span></p>\n<p>many + N (đếm được số nhiều): nhiều</p>\n<p>Dịch: Hầu như mọi quốc gia đều cử c&aacute;c vận động vi&ecirc;n được tuyển chọn để tham gia Thế vận hội Olympic, được tổ chức bốn năm một lần.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 894460,
+      "questionNumber": 9,
+      "questionName": "(*) Question 116.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Choose the sentence that is CLOSEST in meaning to the sentence given.</span></em></p>\n<p><strong>Each of the players received a medal for their performance.</strong></p>\n<div style=\"position: absolute; left: -168px; top: -12px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1702171,
+          "label": "A",
+          "text": "Every player received a medal for their performance.",
+          "isCorrect": true
+        },
+        {
+          "id": 1702172,
+          "label": "B",
+          "text": "No players received medals for their performance.",
+          "isCorrect": false
+        },
+        {
+          "id": 1702173,
+          "label": "C",
+          "text": "Most players received medals for their performance.",
+          "isCorrect": false
+        },
+        {
+          "id": 1702174,
+          "label": "D",
+          "text": "A few players received medals for their performance.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1702171,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>each of + the + N (số nhiều)</strong><span style=\"font-weight: 400;\">: mỗi một&hellip; (nhấn mạnh sự độc lập của từng đối tượng được n&oacute;i đến)</span></p>\n<p><strong>every + N (số &iacute;t)</strong><span style=\"font-weight: 400;\">: mỗi, mọi (được sử dụng để chỉ tất cả c&aacute;c th&agrave;nh vi&ecirc;n của một nh&oacute;m từ 3 trở l&ecirc;n)</span></p>\n<p>Dịch: <strong><span style=\"color: #2dc26b;\">Mỗi cầu thủ</span></strong> đều nhận được huy chương cho th&agrave;nh t&iacute;ch của m&igrave;nh.</p>\n<p><strong><span style=\"color: #2dc26b;\">✔</span> <span style=\"color: #2dc26b;\">Mỗi cầu thủ đều nhận</span></strong> được huy chương cho th&agrave;nh t&iacute;ch của m&igrave;nh.</p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong> Kh&ocirc;ng c&oacute; cầu thủ n&agrave;o</span>&nbsp;nhận được huy chương cho th&agrave;nh t&iacute;ch của m&igrave;nh.</p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong></span> <span style=\"color: #e03e2d;\">Hầu hết c&aacute;c cầu thủ</span>&nbsp;đều nhận được huy chương cho th&agrave;nh t&iacute;ch của m&igrave;nh.</p>\n<p><span style=\"color: #e03e2d;\"><strong>✖</strong></span> <span style=\"color: #e03e2d;\">Một số cầu thủ</span> đ&atilde; nhận được huy chương cho th&agrave;nh t&iacute;ch của m&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 894446,
+      "questionNumber": 10,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Choose the best answer to complete the text.</strong></p>\n<p style=\"text-align: justify;\">Have you got Joe's e-mail address? I've tried phoning him, but he's never in. Does he go out <strong><span class='fillblank-option'><label>10.1</label><select class='ms fillblank-option-10' index='0' name='fbo-894446-0' data-testid='fillblank-select-894446-0'><option value='' data-testid='fillblank-option-empty-894446-0'></option><option value=\"each\" data-testid='fillblank-option-894446-0-each'>each</option><option value=\"every\" data-testid='fillblank-option-894446-0-every'>every</option></select></span></strong> night? I think he probably sees <strong><span class='fillblank-option'><label>10.2</label><select class='ms fillblank-option-10' index='1' name='fbo-894446-1' data-testid='fillblank-select-894446-1'><option value='' data-testid='fillblank-option-empty-894446-1'></option><option value=\"every\" data-testid='fillblank-option-894446-1-every'>every</option><option value=\"each\" data-testid='fillblank-option-894446-1-each'>each</option></select></span></strong> film that comes here! Sarah says he saw <strong><span class='fillblank-option'><label>10.3</label><select class='ms fillblank-option-10' index='2' name='fbo-894446-2' data-testid='fillblank-select-894446-2'><option value='' data-testid='fillblank-option-empty-894446-2'></option><option value=\"every\" data-testid='fillblank-option-894446-2-every'>every</option><option value=\"each\" data-testid='fillblank-option-894446-2-each'>each</option></select></span></strong><strong>&nbsp;</strong>one at the film festival last month. Anyway, do you want to come to a gig on Friday with me? There's a good band on that I know quite well. I've got <strong><span class='fillblank-option'><label>10.4</label><select class='ms fillblank-option-10' index='3' name='fbo-894446-3' data-testid='fillblank-select-894446-3'><option value='' data-testid='fillblank-option-empty-894446-3'></option><option value=\"every\" data-testid='fillblank-option-894446-3-every'>every</option><option value=\"each\" data-testid='fillblank-option-894446-3-each'>each</option></select></span></strong><strong>&nbsp;one</strong> of their albums - they're very good. If you want to come, I can get us <strong><span class='fillblank-option'><label>10.5</label><select class='ms fillblank-option-10' index='4' name='fbo-894446-4' data-testid='fillblank-select-894446-4'><option value='' data-testid='fillblank-option-empty-894446-4'></option><option value=\"every\" data-testid='fillblank-option-894446-4-every'>every</option><option value=\"each\" data-testid='fillblank-option-894446-4-each'>each</option></select></span></strong> a ticket tomorrow. The tickets are $20 <strong><span class='fillblank-option'><label>10.6</label><select class='ms fillblank-option-10' index='5' name='fbo-894446-5' data-testid='fillblank-select-894446-5'><option value='' data-testid='fillblank-option-empty-894446-5'></option><option value=\"each\" data-testid='fillblank-option-894446-5-each'>each</option><option value=\"every\" data-testid='fillblank-option-894446-5-every'>every</option></select></span></strong>.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "every"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "every"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "every"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "every"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "each"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "each"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>every + N (số &iacute;t)</strong><span style=\"font-weight: 400;\">: mỗi, mọi (được sử dụng để chỉ tất cả c&aacute;c th&agrave;nh vi&ecirc;n của một nh&oacute;m từ 3 trở l&ecirc;n)</span></p>\n<p><strong>each + N (số &iacute;t)</strong><span style=\"font-weight: 400;\">: mỗi một (chỉ một đối tượng, nhấn mạnh t&iacute;nh ri&ecirc;ng lẻ của mỗi đối tượng đ&oacute;)</span></p>\n<p><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"><strong>each/every + one of + danh từ số nhiều/ đại từ</strong>: mỗi ...</span></p>\n<p>1.<strong> </strong>\"<strong>every night</strong>\"<strong> </strong>chỉ tất cả c&aacute;c đ&ecirc;m trong một h&agrave;nh động thường xuy&ecirc;n.</p>\n<p>2.<strong> </strong>\"<strong>every film</strong>\" chỉ tất cả c&aacute;c bộ phim một c&aacute;ch tập thể.</p>\n<p>3.<strong> </strong>\"<strong>every one</strong>\"&nbsp;chỉ tất cả c&aacute;c bộ phim ri&ecirc;ng lẻ tại li&ecirc;n hoan phim.</p>\n<p>4.<strong> </strong>\"<strong>every one of their albums</strong>\" chỉ tất cả c&aacute;c album ri&ecirc;ng lẻ.</p>\n<p>5. \"<strong>each a ticket</strong>\" chỉ việc tặng một v&eacute; cho mỗi người.</p>\n<p>6.<strong> </strong>\"<strong>$20 each</strong>\" chỉ gi&aacute; cho mỗi v&eacute;/người.</p>\n<p>Dịch:&nbsp;</p>\n<p style=\"text-align: justify;\">Cậu c&oacute; email của Joe kh&ocirc;ng? M&igrave;nh đ&atilde; thử gọi điện cho cậu ấy, nhưng cậu ấy chẳng bao giờ c&oacute; ở nh&agrave;. C&oacute; phải cậu ấy ra ngo&agrave;i mỗi tối kh&ocirc;ng vậy? M&igrave;nh nghĩ chắc l&agrave; cậu ấy đ&atilde; xem hết mọi bộ phim chiếu ở đ&acirc;y! Sarah bảo cậu ấy đ&atilde; xem hết tất cả phim tại li&ecirc;n hoan phim th&aacute;ng trước. D&ugrave; sao th&igrave;, cậu c&oacute; muốn đi xem buổi biểu diễn v&agrave;o thứ S&aacute;u với m&igrave;nh kh&ocirc;ng? C&oacute; một ban nhạc kh&aacute; hay m&agrave; m&igrave;nh biết r&otilde; sẽ biểu diễn. M&igrave;nh c&oacute; tất cả album của họ - họ rất tuyệt. Nếu cậu muốn đi, m&igrave;nh c&oacute; thể mua v&eacute; cho cả hai v&agrave;o ng&agrave;y mai. V&eacute; gi&aacute; $20 mỗi tấm (v&eacute;).</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 894451,
+      "questionNumber": 11,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>We see every <span style=\"text-decoration: underline;\">students</span> <span style=\"text-decoration: underline;\">during</span> the school assembly, <span style=\"text-decoration: underline;\">where</span> they gather <span style=\"text-decoration: underline;\">for</span> announcements and activities.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1702473,
+          "label": "A",
+          "text": "students",
+          "isCorrect": true
+        },
+        {
+          "id": 1702474,
+          "label": "B",
+          "text": "during",
+          "isCorrect": false
+        },
+        {
+          "id": 1702475,
+          "label": "C",
+          "text": "where",
+          "isCorrect": false
+        },
+        {
+          "id": 1702476,
+          "label": "D",
+          "text": "for",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1702473,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>every + N (đếm được số &iacute;t)</strong><span style=\"font-weight: 400;\">: mỗi, mọi (được sử dụng để chỉ tất cả c&aacute;c th&agrave;nh vi&ecirc;n của một nh&oacute;m từ 3 trở l&ecirc;n)</span></p>\n<p><span style=\"font-weight: 400;\">Sửa: \"<strong>students</strong>\" =&gt; \"<strong>student</strong>\"</span></p>\n<p>Dịch: Ch&uacute;ng t&ocirc;i gặp từng học sinh trong buổi họp to&agrave;n trường, nơi c&aacute;c em tập trung để nghe th&ocirc;ng b&aacute;o v&agrave; tham gia c&aacute;c hoạt động.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 894449,
+      "questionNumber": 12,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>I <span style=\"text-decoration: underline;\">carefully</span> went through <span style=\"text-decoration: underline;\">the</span> exam and <span style=\"text-decoration: underline;\">made</span> sure to answer <span style=\"text-decoration: underline;\">every</span> of the questions.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1702436,
+          "label": "A",
+          "text": "carefully",
+          "isCorrect": false
+        },
+        {
+          "id": 1702437,
+          "label": "B",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "id": 1702438,
+          "label": "C",
+          "text": "made",
+          "isCorrect": false
+        },
+        {
+          "id": 1702439,
+          "label": "D",
+          "text": "every",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1702439,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>every + N (số &iacute;t)</strong><span style=\"font-weight: 400;\">: mỗi, mọi (được sử dụng để chỉ tất cả c&aacute;c th&agrave;nh vi&ecirc;n của một nh&oacute;m từ 3 trở l&ecirc;n)</span></p>\n<p><strong>each of + N/Pron. (số nhiều)</strong><span style=\"font-weight: 400;\">: mỗi một (chỉ một đối tượng, nhấn mạnh t&iacute;nh ri&ecirc;ng lẻ của mỗi đối tượng đ&oacute;)</span></p>\n<p><span style=\"font-weight: 400;\"><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"><strong>each/every + one of + danh từ số nhiều/ đại từ</strong>: mỗi ...&nbsp;</span></span></p>\n<p><span style=\"font-weight: 400;\"><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">Sửa: \"<strong>every</strong>\" =&gt; \"<strong>each</strong>\" hoặc \"<strong>every one</strong>\"</span></span></p>\n<p><span style=\"font-weight: 400;\">Dịch:&nbsp;</span>T&ocirc;i đ&atilde; cẩn thận xem qua b&agrave;i kiểm tra v&agrave; đảm bảo trả lời tất cả c&aacute;c c&acirc;u hỏi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 894450,
+      "questionNumber": 13,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Each <span style=\"text-decoration: underline;\">of</span> the players on the team <span style=\"text-decoration: underline;\">get</span> a trophy at the end of the season <span style=\"text-decoration: underline;\">to recognize</span> their hard work and <span style=\"text-decoration: underline;\">contribution</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1702442,
+          "label": "A",
+          "text": "of",
+          "isCorrect": false
+        },
+        {
+          "id": 1702443,
+          "label": "B",
+          "text": "get",
+          "isCorrect": true
+        },
+        {
+          "id": 1702444,
+          "label": "C",
+          "text": "to recognize",
+          "isCorrect": false
+        },
+        {
+          "id": 1702445,
+          "label": "D",
+          "text": "contribution",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1702443,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>Each of + N (số nhiều) + V (số &iacute;t)</strong></p>\n<p>Sửa: \"<strong>get</strong>\" =&gt; \"<strong>gets</strong>\"</p>\n<p>Dịch: Mỗi cầu thủ trong đội đều nhận được một chiếc c&uacute;p v&agrave;o cuối m&ugrave;a giải để ghi nhận sự chăm chỉ v&agrave; đ&oacute;ng g&oacute;p của họ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 894454,
+      "questionNumber": 14,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Complete the sentences using &quot;<em>each, every, each of</em>, or <em>every one of&quot;</em>.</strong></p>\n<p>1. There were five books on the table, and I read <span class='fillblank-option'><label>14.1</label><input id='fbo-894454-0' class='ms fillblank-option-14' index='0' name='fbo-894454-0' type='text' size='8' autocomplete='off' data-testid='fillblank-input-894454-0' /></span> them carefully.</p>\n<p>2. <span class='fillblank-option'><label>14.2</label><input id='fbo-894454-1' class='ms fillblank-option-14' index='1' name='fbo-894454-1' type='text' size='8' autocomplete='off' data-testid='fillblank-input-894454-1' /></span> student in the class must submit their homework on time.</p>\n<p>3. She gave a gift to <span class='fillblank-option'><label>14.3</label><input id='fbo-894454-2' class='ms fillblank-option-14' index='2' name='fbo-894454-2' type='text' size='8' autocomplete='off' data-testid='fillblank-input-894454-2' /></span> her friends at the party.</p>\n<p>4. I visit my grandparents <span class='fillblank-option'><label>14.4</label><input id='fbo-894454-3' class='ms fillblank-option-14' index='3' name='fbo-894454-3' type='text' size='8' autocomplete='off' data-testid='fillblank-input-894454-3' /></span> month to spend quality time with them.</p>\n<p>5. We lost <span class='fillblank-option'><label>14.5</label><input id='fbo-894454-4' class='ms fillblank-option-14' index='4' name='fbo-894454-4' type='text' size='16' autocomplete='off' data-testid='fillblank-input-894454-4' /></span> our matches last season, which was disappointing.</p>\n<p>6. <span class='fillblank-option'><label>14.6</label><input id='fbo-894454-5' class='ms fillblank-option-14' index='5' name='fbo-894454-5' type='text' size='7' autocomplete='off' data-testid='fillblank-input-894454-5' /></span> side of the river was lined with beautiful trees.</p>\n<p>7. The manager spoke to <span class='fillblank-option'><label>14.7</label><input id='fbo-894454-6' class='ms fillblank-option-14' index='6' name='fbo-894454-6' type='text' size='5' autocomplete='off' data-testid='fillblank-input-894454-6' /></span> employee about the changes in the company.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "each of"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Every"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "each of"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "every"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "every one of"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "Each"
+          ]
+        },
+        {
+          "index": 6,
+          "correctAnswers": [
+            "each"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>each of + the + N (số nhiều)/Pron.</strong><span style=\"font-weight: 400;\">: mỗi một&hellip; (nhấn mạnh sự độc lập của từng đối tượng được n&oacute;i đến)</span></p>\n<p><span style=\"font-weight: 400;\"><strong>every + N (số &iacute;t)</strong>: mỗi, mọi (được sử dụng để chỉ tất cả c&aacute;c th&agrave;nh vi&ecirc;n của một nh&oacute;m từ 3 trở l&ecirc;n)</span></p>\n<p><span style=\"font-weight: 400;\"><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"><strong>every + one of + N (số nhiều)/ đại từ</strong>: mỗi một ... (nhấn mạnh tất cả to&agrave;n bộ)</span></span></p>\n<p><span style=\"font-weight: 400;\"><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"><strong>each + N (số &iacute;t)</strong>: mỗi một (chỉ một đối tượng, nhấn mạnh t&iacute;nh ri&ecirc;ng lẻ của mỗi đối tượng đ&oacute;, d&ugrave;ng với đối tượng 2 người/vật)</span></span></p>\n<p>1. \"<strong>each of them</strong>\" nhấn mạnh việc từng cuốn s&aacute;ch trong năm cuốn được đọc một c&aacute;ch cẩn thận.</p>\n<p>Dịch: C&oacute; năm cuốn s&aacute;ch tr&ecirc;n b&agrave;n, v&agrave; t&ocirc;i đọc từng cuốn một c&aacute;ch cẩn thận.</p>\n<p>2. \"<strong>every student</strong>\" nhấn mạnh to&agrave;n bộ học sinh trong lớp phải l&agrave;m b&agrave;i tập đ&uacute;ng hạn, kh&ocirc;ng trừ ai.</p>\n<p>Dịch: Mỗi học sinh trong lớp đều phải nộp b&agrave;i tập đ&uacute;ng hạn.</p>\n<p>3. \"<strong>each of her friends</strong>\" nhấn mạnh rằng từng người bạn trong số c&aacute;c bạn của c&ocirc; ấy đều nhận được một m&oacute;n qu&agrave;.</p>\n<p>Dịch: C&ocirc; ấy tặng qu&agrave; cho từng người bạn tại bữa tiệc.</p>\n<p>4. \"<strong>every month</strong>\" nhấn mạnh việc lặp lại đều đặn mỗi th&aacute;ng trong chuỗi thời gian.</p>\n<p>Dịch: T&ocirc;i thăm &ocirc;ng b&agrave; t&ocirc;i mỗi th&aacute;ng để d&agrave;nh thời gian &yacute; nghĩa b&ecirc;n họ.</p>\n<p>5. \"<strong>every one of our matches</strong>\" nhấn mạnh to&agrave;n bộ c&aacute;c trận đấu trong m&ugrave;a trước đều bị thua.</p>\n<p>Dịch: Ch&uacute;ng t&ocirc;i thua to&agrave;n bộ c&aacute;c trận đấu m&ugrave;a trước, thật đ&aacute;ng thất vọng.</p>\n<p>6. \"<strong>each side</strong>\" nhấn mạnh từng b&ecirc;n bờ s&ocirc;ng, mỗi b&ecirc;n đều được trồng c&acirc;y đẹp.</p>\n<p>Dịch: Mỗi b&ecirc;n bờ s&ocirc;ng đều được trồng c&acirc;y rất đẹp.</p>\n<p>7. \"<strong>each employee</strong>\" nhấn mạnh rằng từng nh&acirc;n vi&ecirc;n trong c&ocirc;ng ty đều được n&oacute;i chuyện ri&ecirc;ng với quản l&yacute; về sự thay đổi.</p>\n<p>Dịch: Người quản l&yacute; đ&atilde; n&oacute;i chuyện với từng nh&acirc;n vi&ecirc;n về những thay đổi trong c&ocirc;ng ty.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 894459,
+      "questionNumber": 15,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence, using the word given so that it has a similar meaning to the first sentence. Do NOT change the word given in brackets in any way.</em></p>\n<p><strong>The teacher praised each of the answers which were provided during the quiz. (EVERY)</strong></p>\n<p><strong>=&gt; The teacher praised <span class='fillblank-option'><input id='fbo-894459-0' class='ms fillblank-option-15' index='0' name='fbo-894459-0' type='text' size='28' autocomplete='off' data-testid='fillblank-input-894459-0' /></span> that were provided during the quiz.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "every one of the answers"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">Cấu tr&uacute;c:<strong> every + one of + danh từ số nhiều/ đại từ </strong>~<strong> each (one) + of + danh từ số nhiều/ đại từ</strong>: mỗi ...</span></p>\n<p>Dịch: Gi&aacute;o vi&ecirc;n khen ngợi từng c&acirc;u trả lời được đưa ra trong b&agrave;i kiểm tra.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 894455,
+      "questionNumber": 16,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence, using the word given so that it has a similar meaning to the first sentence. Do NOT change the word given in brackets in any way.</em></p>\n<p><strong>All the players tried their best during the match. (OF)</strong></p>\n<p><strong>=&gt; <span class='fillblank-option'><input id='fbo-894455-0' class='ms fillblank-option-16' index='0' name='fbo-894455-0' type='text' size='31' autocomplete='off' data-testid='fillblank-input-894455-0' /></span> their best during the match.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Each of the players tried",
+            "Every one of the players tried",
+            "Each one of the players tried"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>each (one) of + the + N (số nhiều)</strong><span style=\"font-weight: 400;\">: mỗi một&hellip; (nhấn mạnh sự độc lập của từng đối tượng được n&oacute;i đến)</span></p>\n<p><span style=\"font-weight: 400;\"><strong>every one of + the + N (số nhiều)</strong>: mỗi một&hellip; (nhấn mạnh sự độc lập của từng đối tượng được n&oacute;i đến)</span></p>\n<p>Dịch:&nbsp;Tất cả c&aacute;c cầu thủ đều cố gắng hết sức trong suốt trận đấu.</p>\n<p>~ Mỗi cầu thủ đều cố gắng hết sức trong suốt trận đấu.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 894457,
+      "questionNumber": 17,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence, using the word given so that it has a similar meaning to the first sentence. Do NOT change the word given in brackets in any way.</em></p>\n<p><strong>All employees received an email about the new company policy. (ONE)</strong></p>\n<p><strong>=&gt; Each <span class='fillblank-option'><input id='fbo-894457-0' class='ms fillblank-option-17' index='0' name='fbo-894457-0' type='text' size='30' autocomplete='off' data-testid='fillblank-input-894457-0' /></span> an email about the new company policy.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "one of the employees received"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\"><strong>each + one of + the/these/my/... + danh từ/đại từ số nhiều</strong>: mỗi ...</span></p>\n<p>Dịch:&nbsp;Tất cả nh&acirc;n vi&ecirc;n đều nhận được email về ch&iacute;nh s&aacute;ch mới của c&ocirc;ng ty.</p>\n<p>~ Mỗi nh&acirc;n vi&ecirc;n đều nhận được email về ch&iacute;nh s&aacute;ch mới của c&ocirc;ng ty.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 894440,
+      "questionNumber": 18,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence, using the word given so that it has a similar meaning to the first sentence. Do NOT change the word given in brackets in any way.</em></p>\n<p><strong>All his ideas were creative and focused on solving real-life problems. (ONE)<br></strong></p>\n<p><strong>=&gt; Every <span class='fillblank-option'><input id='fbo-894440-0' class='ms fillblank-option-18' index='0' name='fbo-894440-0' type='text' size='22' autocomplete='off' data-testid='fillblank-input-894440-0' /></span> creative and focused on solving real-life problems.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "one of his ideas was"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span class=\"OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none\">Cấu tr&uacute;c:<strong> Each/every + one of + N (số nhiều)/Pron. + V (số &iacute;t)</strong></span></p>\n<p>Dịch: Tất cả c&aacute;c &yacute; tưởng của anh ấy đều s&aacute;ng tạo v&agrave; tập trung v&agrave;o việc giải quyết c&aacute;c vấn đề thực tế.</p>\n<p>~ Mỗi một &yacute; tưởng của anh ấy đều s&aacute;ng tạo v&agrave; tập trung v&agrave;o việc giải quyết c&aacute;c vấn đề thực tế.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "topicId": 81,
+  "topicName": "Đọc điền từ vào đoạn văn (Cloze Test)",
+  "englishName": "Guided Cloze Test with Passages",
+  "rules": [
+    {
+      "rule": "1. Chiến lược 4 bước làm bài Cloze Test:",
+      "formula": "Bước 1: Đọc lướt cả đoạn nắm chủ đề -> Bước 2: Xác định từ loại và cấu trúc quanh chỗ trống -> Bước 3: Loại trừ phương án sai ngữ pháp -> Bước 4: Đọc lại cả câu kiểm tra tính logic",
+      "examples": "Xác định nhanh chỗ trống cần Liên từ, Đại từ quan hệ, Lượng từ hay Cụm động từ."
+    },
+    {
+      "rule": "2. 5 dạng câu hỏi kinh điển trong bài điền từ thi vào 10:",
+      "formula": "Dạng 1: Đại từ quan hệ (who, which, that, where) // Dạng 2: Liên từ nối (Although, Because, However, Moreover) // Dạng 3: Lượng từ (many, much, other, another) // Dạng 4: Cụm động từ (cut down on, take part in, look after) // Dạng 5: Từ vựng theo ngữ cảnh (habitat, preserve, sustainable)",
+      "examples": "Nắm vững sự hòa hợp giữa lượng từ và danh từ đếm được/không đếm được."
+    },
+    {
+      "rule": "3. Mẹo phân biệt Other vs Another:",
+      "formula": "Another + N số ít // Other + N số nhiều // Others = Other + Noun (đứng một mình làm đại từ)",
+      "examples": "another student, other students, some like tea while others prefer coffee."
+    }
+  ]
+}

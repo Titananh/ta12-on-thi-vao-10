@@ -1,0 +1,1561 @@
+{
+  "quizId": 16356,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 70: Word form: Adjectives (Dùng đúng loại từ: Tính từ)",
+  "totalQuestions": 33,
+  "questions": [
+    {
+      "id": 908267,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ch&#7885;n &#273;&#225;p &#225;n &#273;&#250;ng &#273;&#7875; ho&#224;n th&#224;nh c&#225;c ph&#225;t bi&#7875;u sau.&nbsp;</strong></p>\n<p>1. T&#237;nh t&#7915; &#273;&#7913;ng <span class='fillblank-option'><label>1.1</label><select class='ms fillblank-option-1' index='0' name='fbo-908267-0' data-testid='fillblank-select-908267-0'><option value='' data-testid='fillblank-option-empty-908267-0'></option><option value=\"sau\" data-testid='fillblank-option-908267-0-sau'>sau</option><option value=\"trước\" data-testid='fillblank-option-908267-0-trước'>trước</option></select></span> &#273;&#7897;ng t&#7915; BE.&nbsp;</p>\n<p>2. T&#237;nh t&#7915; &#273;&#7913;ng <span class='fillblank-option'><label>1.2</label><select class='ms fillblank-option-1' index='1' name='fbo-908267-1' data-testid='fillblank-select-908267-1'><option value='' data-testid='fillblank-option-empty-908267-1'></option><option value=\"trước\" data-testid='fillblank-option-908267-1-trước'>trước</option><option value=\"sau\" data-testid='fillblank-option-908267-1-sau'>sau</option></select></span> danh t&#7915; m&#224; n&#243; b&#7893; ngh&#297;a.&nbsp;</p>\n<p>3. T&#237;nh t&#7915; &#273;&#7913;ng <span class='fillblank-option'><label>1.3</label><select class='ms fillblank-option-1' index='2' name='fbo-908267-2' data-testid='fillblank-select-908267-2'><option value='' data-testid='fillblank-option-empty-908267-2'></option><option value=\"sau\" data-testid='fillblank-option-908267-2-sau'>sau</option><option value=\"trước\" data-testid='fillblank-option-908267-2-trước'>trước</option></select></span> c&#225;c li&#234;n &#273;&#7897;ng t&#7915;: seem, look, sound, ...</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "sau"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "trước"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "sau"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/3_-_Copy_40_b5a16948.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 908241,
+      "questionNumber": 2,
+      "questionName": "1",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#7885;n c&#225;c &#273;&#7897;ng t&#7915; &#273;&#432;&#7907;c theo sau b&#7903;i t&#237;nh t&#7915;.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1723999,
+          "label": "A",
+          "text": "happen",
+          "isCorrect": false
+        },
+        {
+          "id": 1724000,
+          "label": "B",
+          "text": "make",
+          "isCorrect": true
+        },
+        {
+          "id": 1724001,
+          "label": "C",
+          "text": "appear",
+          "isCorrect": false
+        },
+        {
+          "id": 1724002,
+          "label": "D",
+          "text": "keep",
+          "isCorrect": true
+        },
+        {
+          "id": 1724003,
+          "label": "E",
+          "text": "drive",
+          "isCorrect": true
+        },
+        {
+          "id": 1724004,
+          "label": "F",
+          "text": "own",
+          "isCorrect": false
+        },
+        {
+          "id": 1724019,
+          "label": "Opt 7",
+          "text": "get",
+          "isCorrect": true
+        },
+        {
+          "id": 1724020,
+          "label": "Opt 8",
+          "text": "exist",
+          "isCorrect": false
+        },
+        {
+          "id": 1724021,
+          "label": "Opt 9",
+          "text": "declare",
+          "isCorrect": true
+        },
+        {
+          "id": 1724022,
+          "label": "Opt 10",
+          "text": "find",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1724000,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/4_-_Copy_14_e0103def.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 908240,
+      "questionNumber": 3,
+      "questionName": "1",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#7885;n c&#225;c h&#7853;u t&#7889; th&#432;&#7901;ng &#273;&#432;&#7907;c d&#249;ng &#273;&#7875; t&#7841;o t&#237;nh t&#7915;.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1723987,
+          "label": "A",
+          "text": "-ness",
+          "isCorrect": false
+        },
+        {
+          "id": 1723988,
+          "label": "B",
+          "text": "-ful",
+          "isCorrect": true
+        },
+        {
+          "id": 1723989,
+          "label": "C",
+          "text": "-ent",
+          "isCorrect": true
+        },
+        {
+          "id": 1723990,
+          "label": "D",
+          "text": "-ment",
+          "isCorrect": false
+        },
+        {
+          "id": 1723991,
+          "label": "E",
+          "text": "-ic",
+          "isCorrect": true
+        },
+        {
+          "id": 1723992,
+          "label": "F",
+          "text": "-tion",
+          "isCorrect": false
+        },
+        {
+          "id": 1723993,
+          "label": "Opt 7",
+          "text": "-able",
+          "isCorrect": true
+        },
+        {
+          "id": 1723994,
+          "label": "Opt 8",
+          "text": "-ish",
+          "isCorrect": true
+        },
+        {
+          "id": 1723995,
+          "label": "Opt 9",
+          "text": "-ity",
+          "isCorrect": false
+        },
+        {
+          "id": 1723996,
+          "label": "Opt 10",
+          "text": "-al",
+          "isCorrect": true
+        },
+        {
+          "id": 1723997,
+          "label": "Opt 11",
+          "text": "-ism",
+          "isCorrect": false
+        },
+        {
+          "id": 1723998,
+          "label": "Opt 12",
+          "text": "-ive",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1723988,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/5_-_Copy_13_02e9e134.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 636878,
+      "questionNumber": 4,
+      "questionName": "Complete Book 5 - p65",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The medicine is very _____ because I feel so much better after taking it.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1225285,
+          "label": "A",
+          "text": "effectually",
+          "isCorrect": false
+        },
+        {
+          "id": 1225286,
+          "label": "B",
+          "text": "effective",
+          "isCorrect": true
+        },
+        {
+          "id": 1225287,
+          "label": "C",
+          "text": "effectiveness",
+          "isCorrect": false
+        },
+        {
+          "id": 1225288,
+          "label": "D",
+          "text": "effect",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1225286,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại cần điền: t&iacute;nh từ, theo sau động từ to be \"<strong>is</strong>\" v&agrave; được bổ sung nghĩa bởi trạng từ \"<strong>very</strong>\".</p>\n<div style=\"width: 100%; max-width: 523px; height: 305px;\"><iframe id=\"embed-frame-C49DA\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BzmwB4aPc4kJtA86HwxZckhqrlvRkFN0EWYOUoVAsm43bU7nC%2FVoS2%2FQcV%2BNb1BK9nbWKL6MKHXjAz7I1AEVWTJ7ox5BVnSgizikyd4p5H3suiEshBDG%2FPcfsRJOCcxZrTnVi1WchLfL98xcma3LhNEm3pMw%2BI%2B%2FMg38Vwz%2BoXnUPxB6TQFc3yvsOKPbAL02Z7UmfpU3BSf%2BFP6RGHR%2B1%2F2MfgcpDdKig8jiSNAbr9FSBBFQYXYtWxBrd52V9xCdH6b%2FeQRzQcZIkGzd8EOPYg%2FkMmn7uSIohjrQie2ylxKSHcu7vNfKZsZNx2zHKbSDyrkGWC32TVv1yAshz0o8agfQYwpCJbyxNFQNs9O4RRjEzit5F3qxGl7at9U4863fimv7wOEG5u8xFzuL26AUkpzWQ0%2BLQHzX4%3D\" width=\"100%\" height=\"305\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Thuốc n&agrave;y rất hiệu quả bởi v&igrave; t&ocirc;i cảm thấy tốt hơn nhiều sau khi uống n&oacute;.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 653130,
+      "questionNumber": 5,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>It’s _____ for children to play near the river without adults. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1258339,
+          "label": "A",
+          "text": "danger",
+          "isCorrect": false
+        },
+        {
+          "id": 1258340,
+          "label": "B",
+          "text": "dangerous",
+          "isCorrect": true
+        },
+        {
+          "id": 1258341,
+          "label": "C",
+          "text": "endanger",
+          "isCorrect": false
+        },
+        {
+          "id": 1258342,
+          "label": "D",
+          "text": "dangerously",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1258340,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Trong câu</span><span style=\"text-align: justify;\">, chỗ trống đứng sau động từ to be </span><em style=\"text-align: justify;\">“is”</em><span style=\"text-align: justify;\"> (viết tắt là </span><em style=\"text-align: justify;\">“’s”</em><span style=\"text-align: justify;\">) và trước cụm giới từ </span><em style=\"text-align: justify;\">“for children”</em><span style=\"text-align: justify;\">. </span></p>\n<p><span style=\"text-align: justify;\">Bạn cần một tính từ phù hợp để hoàn thiện cấu trúc </span><em style=\"text-align: justify;\">“It’s + <span style=\"font-weight: 600;\">adj.</span> + for somebody to do something”</em><span style=\"text-align: justify;\">, dùng để mô tả tính chất của một hành động hay tình huống nào đó.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"315\" id=\"EC60CB1E\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BM8HqNdsVKZa3QZyJdyYFFF8tI8uzVDIEyBzZ6jmJLVyJlrzWVma19bgHZzs56d5VYVUTj6AAZ4eb4XGXooC56LWu4a%2FIjS1jY0%2FCPSGzhlsBHcD5FUPaUUXoOOuplL4TS%2Bt5nBUvG4zc385G8PGxH4WfFYtXbgIFlFq0al73FnTR3oCqdPW6%2F6LkCBzgZNGNAv3JpSwHFTw%2BO4QUCHO0UkjgsRbBHVFePjHGf%2BHrDGJdA6ZOaHliFueeMzbhg5M3Oylc0n6%2F%2BSAvB2cmHpp98ym2YXmReXgcPrfbJWVpo%2BJn8qFJjRWLUmQ0YKqT8IyKcpms39ghrVOpZGeWrElY1jCqYVbdgb45GF%2FDuNe7wWHTYHrNHp6wZ9tzWi3GH6nUlQaTewQJvBQ%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống đứng sau động từ to be <em>“is”</em> (viết tắt là <em>“’s”</em>) và trước cụm giới từ <em>“for children”</em>. Cấu trúc ngữ pháp cần điền ở đây là <em>“It’s + <strong>adj.</strong> + for somebody to do something”</em>, dùng để mô tả tính chất của một hành động hay tình huống nào đó. Do đó, từ cần điền phải là một tính từ.</p>",
+      "answerFeedbacks": {
+        "1258339": "Là danh từ, không phù hợp để bổ nghĩa cho chủ ngữ giả \"It\" trong cấu trúc \"It's + tính từ + for somebody to do something\".",
+        "1258340": "Là tính từ, phù hợp để hoàn thành cấu trúc \"It's + tính từ + for somebody to do something\" nhằm mô tả sự việc.",
+        "1258341": "Là động từ, không phù hợp với vị trí cần điền một tính từ sau động từ \"to be\".",
+        "1258342": "Là trạng từ, không thể đứng sau động từ \"to be\" để bổ nghĩa cho chủ ngữ giả \"It\"."
+      },
+      "images": []
+    },
+    {
+      "id": 675861,
+      "questionNumber": 6,
+      "questionName": "6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>These grapes taste _____. Would you like some?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1305159,
+          "label": "A",
+          "text": "sweetness",
+          "isCorrect": false
+        },
+        {
+          "id": 1305160,
+          "label": "B",
+          "text": "sweetly",
+          "isCorrect": false
+        },
+        {
+          "id": 1305161,
+          "label": "C",
+          "text": "<p>sweets</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1305162,
+          "label": "D",
+          "text": "sweet",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1305162,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy nhớ rằng các động từ như <em>taste</em>, <em>smell</em>, <em>look</em>, <em>feel</em>, <em>sound</em>, <em>seem</em>, <em>become</em>, <em>get</em>, <em>appear</em>, <em>be</em> thường là động từ nối (linking verbs). Sau động từ nối, chúng ta cần dùng một tính từ để mô tả chủ ngữ.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><strong>Tính từ theo sau động từ nối</strong></span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Động từ nối dùng để mô tả trạng thái hoặc đặc điểm của chủ ngữ, chứ không phải một hành động. Chúng được theo sau bởi một tính từ để bổ sung ý nghĩa cho chủ ngữ.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: <span style=\"color: #1c581f;\">S + Linking V. + adj.</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, động từ <em>\"taste\"</em> được sử dụng như một động từ nối (linking verb) để mô tả đặc điểm của chủ ngữ <em>\"These grapes\"</em>. Theo quy tắc ngữ pháp, sau động từ nối cần một tính từ để bổ nghĩa cho chủ ngữ.</p>\n<p style=\"text-align: justify;\">Phương án 4 <em>\"sweet\"</em> là một tính từ, phù hợp để mô tả vị của nho. Các phương án còn lại là danh từ <em>\"sweetness\"</em>, <em>\"sweets\"</em> hoặc trạng từ <em>\"sweetly\"</em> nên không đúng ngữ pháp trong trường hợp này.</p>",
+      "answerFeedbacks": {
+        "1305159": "Là danh từ, không thể đứng sau động từ nối <em>taste</em> để bổ nghĩa cho chủ ngữ.",
+        "1305160": "Là trạng từ, không dùng để mô tả chủ ngữ sau động từ nối <em>taste</em>.",
+        "1305161": "<p>Là danh từ số nhiều, không phù hợp về ngữ pháp và ý nghĩa để mô tả vị của nho trong ngữ cảnh này.</p>",
+        "1305162": "Là tính từ, đúng ngữ pháp khi đứng sau động từ nối <em>taste</em> để mô tả vị của chủ ngữ <em>These grapes</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 658592,
+      "questionNumber": 7,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Playing sports like soccer and basketball keeps me _____ and healthy.</strong></p>\n<div style=\"position: absolute; left: 183px; top: 34.7674px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\"> </div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1270145,
+          "label": "A",
+          "text": "act",
+          "isCorrect": false
+        },
+        {
+          "id": 1270146,
+          "label": "B",
+          "text": "active",
+          "isCorrect": true
+        },
+        {
+          "id": 1270147,
+          "label": "C",
+          "text": "action",
+          "isCorrect": false
+        },
+        {
+          "id": 1270148,
+          "label": "D",
+          "text": "activity",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1270146,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Bạn cần một tính từ phù hợp để hoàn thiện cấu trúc ''<em>keeps + O + adj</em>''. Trong đó tính từ ''<em>healthy</em>'' được nối vơi từ cần điền bằng liên từ ''<em>and</em>'', cho thấy chúng có chức năng ngữ pháp tương đương.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe width=\"100%\" height=\"315\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX191KKzFHpTxEOPq5ptzJMty36tn18NQtqIiTx2Evs8zcaevodCaGEKcTKX51kuVPhNOv91JCq%2F2lWprFllm5RmD%2F88sxhNLXEis6pC6G7no0Kn8GmLdaQ2UEOSzsUJ%2FPoYNkiWWE1GOJZL0ZG4%2FWmogmmb2BwwXT4sjOeT9T11ECTCPfksXlfMHtDeoUmXzj3GZs%2FBnoidl4ZmdHiV%2FJxmNAC2%2B%2FbcZ5NbudB9d0LEL8XUHueX8VFFZ8XCNTy7S%2FdpeR7rBD153392FnvlemIv6hiDyFoKTaja0EDu44bP1Wmfbmv2bjp%2BqWQE7bVnI04l0SOfvX45Nn3bPAmOMO1hWV03gaVb5a1M9IPGR0sTPIOED6uAypoY%2F\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống cần điền một tính từ. Dấu hiệu là cấu trúc <em>\"keeps + O + adj\"</em> và từ <em>\"healthy\"</em> (tính từ) được nối với từ cần điền bằng liên từ <em>\"and\"</em>, cho thấy chúng có chức năng ngữ pháp tương đương. Vì vậy, <em><strong>active</strong> </em>là đáp án đúng vì nó là một tính từ.</p>",
+      "answerFeedbacks": {
+        "1270145": "Là động từ hoặc danh từ, không phù hợp với vị trí cần một tính từ bổ nghĩa cho \"me\" và song song với \"healthy\".",
+        "1270146": "Là tính từ, phù hợp để bổ nghĩa cho \"me\" và song song với tính từ \"healthy\" sau động từ \"keeps\".",
+        "1270147": "Là danh từ, không phù hợp với vị trí cần một tính từ bổ nghĩa cho \"me\" và song song với \"healthy\".",
+        "1270148": "Là danh từ, không phù hợp với vị trí cần một tính từ bổ nghĩa cho \"me\" và song song với \"healthy\"."
+      },
+      "images": []
+    },
+    {
+      "id": 652704,
+      "questionNumber": 8,
+      "questionName": "(*) sửa",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>A map is a _____ tool for finding your way around a new city.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1257440,
+          "label": "A",
+          "text": "use",
+          "isCorrect": false
+        },
+        {
+          "id": 1257441,
+          "label": "B",
+          "text": "useless",
+          "isCorrect": false
+        },
+        {
+          "id": 1257442,
+          "label": "C",
+          "text": "useful",
+          "isCorrect": true
+        },
+        {
+          "id": 1257443,
+          "label": "D",
+          "text": "usefulness",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1257442,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span class=\"eq-highlight\">Từ loại cần điền</span>: <strong>t&iacute;nh từ</strong>, đứng trước v&agrave; bổ sung nghĩa cho danh từ \"tool\".</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"315\" src=\"https://azvocab.ai/embed/DL3997C1160D3BEA54?params=U2FsdGVkX18dBubky36pViAZ%2FNb6XNnP2GWGQ6F4E6SLgo%2BnVFVRpy%2B16DaPy5xm9rckWpWshBc0YtYG4HeqgP%2FUOvZbTESko0i2RkX06cj50EGdBe5uPhPGFyI2b8pcALU72CfaZRMqokH%2BpuYMrmAGkTZOlPCIxx3s05fBnMza8ev2hv%2FMoBP7QCria52Qq1jGENdl21UcLSV1dYtktAIuF7M%2F2qmSXPbfQs9nFkAHaBM96gCrTGT%2FF7Mq6WwsoDynnJ1mDiC7u4MGD8Xcbz4uz3GE85TR3%2Fzc38ccllhdlfuGaYi4Kk75z%2B3%2FJKaRUp%2BYU%2BK2sJIr6gf2%2BYhoM3ow5hJE6fJDH48selXXPnNQUZOPxLgaZY8cTZFvm6zTgZsy2fXALBw0Glvu1TquYXtyzhE5J2Zd2f%2Fm2MsANds9NgXFKKU6HqJQ%2FSI4U%2FMYYwgZ69D%2F7Fryw6dqmiGdNg%2BS39S1Zya3LPPtGR%2Bcr%2BOR57W6zbzQUAmgC4YW7IP%2Fv8O%2FnVPNps1l1Aha6ERCxqa2F0N0rkeSGYQt7Wv5HlfK0GgYWjcJpY6uWGAQRuzP22JiP3mYqjI7DoCz5R9cjNcqQAd7qCKfhiYNvNDCak6EUgu9FWWSl2rQQSuZ3Ax4nywcjK3LK%2FVUVMPYqyGbv%2Fu4oiMADtSttMh5oMvFWjVXxlJ4JIlNtDPZbCYcqfgrJ570c7TzJKJ%2BsByvAK4m1Gi2RDgw9sOLazGrfbSeCXJJJezWCqJJLNyI9rnff5YXTJwBhbjTvVjkAr%2FUCP2VQ9VWB4E0UXWqW5wyXTYBlCrmjb%2FOWczuCURlzoDY8jjC%2Brv5cCWRqrSKHQ5sdgIw0nC1dAhRggsaxU%2B0sWZUj9w%3D\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Trong c&aacute;c lựa chọn, \"useful\" v&agrave; \"useless\" đều l&agrave; t&iacute;nh từ c&oacute; thể bổ nghĩa cho \"tool\". Tuy nhi&ecirc;n, ngữ cảnh \"for finding your way around a new city\" (để t&igrave;m đường trong một th&agrave;nh phố mới) cho thấy bản đồ c&oacute; chức năng t&iacute;ch cực. Do đ&oacute;, \"useful\" (hữu &iacute;ch) l&agrave; đ&aacute;p &aacute;n ph&ugrave; hợp về nghĩa, trong khi \"useless\" (v&ocirc; dụng) sẽ l&agrave;m cho c&acirc;u trở n&ecirc;n v&ocirc; l&yacute;.</p>\n<p><span class=\"eq-highlight\">Dịch</span>: Bản đồ l&agrave; một c&ocirc;ng cụ hữu &iacute;ch để t&igrave;m đường quanh một th&agrave;nh phố mới.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 866638,
+      "questionNumber": 9,
+      "questionName": "historic",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Visiting the _____ castle helped us learn about the country's past.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1652715,
+          "label": "A",
+          "text": "modern",
+          "isCorrect": false
+        },
+        {
+          "id": 1652716,
+          "label": "B",
+          "text": "historic",
+          "isCorrect": true
+        },
+        {
+          "id": 1652717,
+          "label": "C",
+          "text": "recent",
+          "isCorrect": false
+        },
+        {
+          "id": 1652718,
+          "label": "D",
+          "text": "unusual",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1652716,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px; height: 276px;\"><iframe id=\"embed-frame-CCD16\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19NOrWdReRX53DVprMyk7twE%2BGTIqCCEr0wfmfHf2zO8lAsLKynd9FVwZRQhr5YS7QD51aRalOZ3qnb57aQVour6%2FHKBpYbUZl4cQnsTf4TiqLnT0PNw38cQVt%2FAoptJAmwn63scVBXGClIOJNf28VLF5fQTQGJc79uDWMUaCDFpiTaC98PLfiI4X1ipinIADlThqwcJ9b3aW%2FYIckRUfJduKNy07B1TPBHhvnUBBMbYdcJuthdJK4tSarFx2Bdt3o04iXvrlVpv0jLulSJLuBEyIje0FEQoqyMED5qg5HdX05ZmahmWWHpkaMZKlvK%2FFsV10X4ny6tHWoMZ1zcUCJ9LaH87RWU%2FGAj0euTuY7xstCoVzSKOWaOK9ObTc7KBGorG9ngdyNaCQ%3D%3D\" width=\"100%\" height=\"276\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Việc thăm l&acirc;u đ&agrave;i lịch sử gi&uacute;p ch&uacute;ng t&ocirc;i hiểu th&ecirc;m về qu&aacute; khứ của đất nước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 743613,
+      "questionNumber": 10,
+      "questionName": "10.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Her _____ advice on studying for the exam made me feel much more prepared.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1436226,
+          "label": "A",
+          "text": "<p>helper</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1436227,
+          "label": "B",
+          "text": "<p>helpless</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1436228,
+          "label": "C",
+          "text": "<p>helpful</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1436229,
+          "label": "D",
+          "text": "<p>helpfulness</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1436228,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Bạn cần một tính từ phù hợp để bổ nghĩa cho danh từ ''<em>advice</em>''.</p>\n<p>Xem xét nghĩa của các phương án để chọn từ phù hợp nhất với ngữ cảnh <em>\"made me feel much more prepared\".</em></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 305px;\"><iframe width=\"100%\" height=\"305\" style=\"border: none;\" id=\"embed-frame-C49DA\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BygrPbWREx8iKK6b2bgy%2BN00c2oCK8jChLEH8IgHztuMJ0%2BUbjt1s6ZlL88a8ecLkgbIMSnK%2FQIhYN4DGgmhjIFUvUP4XSwFULGlFqyiOvp1AhLi%2FMynNxMUXxkINjNYVwB44zSJNh%2ByfnTgBnn%2FaV9aRPlJKdC43BkQWmzQQLwT68ufo%2Fx5nUj%2FMlz98yD5q7bghfAJskNAjzn5vZbqIcunusxFQTyDkQ4ALC3AgjTgXLgBDjqtAPJtNVR8j5O56KOQ0wp0Kw%2BNe5Dx%2BTxxdwo0zHkRorZ91HHEDuwnrkRyW%2FEcDO7ctxJ0vxuAMY3Qj1hD8TVg3CwNXZpWkhyNOctpGi8gtn7SB20OEPnlxAZuD%2FSXwdS57s\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống cần điền một tính từ để bổ nghĩa cho danh từ \"<em>advice</em>\" (lời khuyên). Trong các phương án, \"<strong><em>helpful</em></strong>\" và \"<em>helpless</em>\" là tính từ, nhưng xét về nghĩa, \"<strong><em>helpful</em></strong>\" (hữu ích) phù hợp với ngữ cảnh lời khuyên giúp ích cho việc chuẩn bị bài thi.</p>",
+      "answerFeedbacks": {
+        "1436226": "<p>Là danh từ chỉ người, không phù hợp để bổ nghĩa cho danh từ \"advice\".</p>",
+        "1436227": "<p>Là tính từ mang nghĩa \"bất lực, không thể tự giúp\", không phù hợp với ngữ cảnh \"advice\" (lời khuyên).</p>",
+        "1436228": "<p>Là tính từ mang nghĩa \"hữu ích, có ích\", phù hợp để bổ nghĩa cho danh từ \"advice\" và ngữ cảnh câu.</p>",
+        "1436229": "<p>Là danh từ mang nghĩa \"sự hữu ích\", không phù hợp để bổ nghĩa cho danh từ \"advice\".</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 668901,
+      "questionNumber": 11,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The beautiful sunset over the ocean was incredibly _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1289357,
+          "label": "A",
+          "text": "attraction",
+          "isCorrect": false
+        },
+        {
+          "id": 1289358,
+          "label": "B",
+          "text": "attract",
+          "isCorrect": false
+        },
+        {
+          "id": 1289359,
+          "label": "C",
+          "text": "attractive",
+          "isCorrect": true
+        },
+        {
+          "id": 1289360,
+          "label": "D",
+          "text": "attractively",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1289359,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Xem xét chỗ trống cần điền là một tính từ để bổ nghĩa cho chủ ngữ </span><em style=\"text-align: justify;\">\"The beautiful sunset over the ocean\"</em><span style=\"text-align: justify;\"> thông qua động từ nối </span><em style=\"text-align: justify;\">\"was\" </em>và trạng từ <em style=\"text-align: justify;\">\"incredibly\"</em><span style=\"text-align: justify;\"> đứng trước chỗ trống dùng để nhấn mạnh mức độ của tính từ đó</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe width=\"100%\" height=\"315\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX182cHGli83mBXPyZSvk%2BfT%2BS8zNIhaolqZx5uq8gFDoGVGpmAtPhD%2F4AYEdLBVqhxDTOLUI1nLIMC8DeXRkcNkOMZlRKp4e6CQl523o8iFjCxQQwjeLpn0MByRG1HJE68lcRSPLtHLLASfojqiI7SCaGiWGVJtZ442DnV4OZ33wGnB5jRubbGtFv3k%2FhyzpZfO7YBPXV29th5WjC4A43mR1oE3GOmbx68iTvsQa6QJcM5DOb%2BFOAn8QDHt7fueO3OkSSQfT9Gd4DZfX3gyVt5ZLnTt7J2m5U5cmGgp49zneja9%2FgUqfbvjO1O%2FpNbOrgbny1%2B%2B%2BrHqjBn3ZNZKvXsSas%2F3ewNAIL59JbMjjlR0pvtncWvCv7snXkD3XOLgazDqvBz1yHd3tfocPU8Bm6QE8tKQMc%2B81Zec%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu này, chỗ trống cần điền là một tính từ để bổ nghĩa cho chủ ngữ <em>\"The beautiful sunset over the ocean\"</em> thông qua động từ nối <em>\"was\"</em>. Trạng từ <em>\"incredibly\"</em> đứng trước chỗ trống dùng để bổ nghĩa cho tính từ cần điền, nhấn mạnh mức độ của tính từ đó. Do đó, <em><strong>attractive</strong> </em>là từ loại phù hợp nhất.</p>",
+      "answerFeedbacks": {
+        "1289357": "Đây là danh từ, không thể đứng sau động từ nối “was” và trạng từ “incredibly” để bổ nghĩa cho chủ ngữ.",
+        "1289358": "Đây là động từ nguyên thể, không phù hợp với cấu trúc câu cần điền một tính từ bổ nghĩa cho chủ ngữ.",
+        "1289359": "Đây là tính từ, phù hợp để đứng sau động từ nối “was” và được bổ nghĩa bởi trạng từ “incredibly” để mô tả chủ ngữ “sunset”.",
+        "1289360": "Đây là trạng từ, không thể bổ nghĩa trực tiếp cho chủ ngữ “sunset” sau động từ nối “was”."
+      },
+      "images": []
+    },
+    {
+      "id": 798788,
+      "questionNumber": 12,
+      "questionName": "6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>She smiled and felt _____ after completing the challenging project.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1534356,
+          "label": "A",
+          "text": "satisfying",
+          "isCorrect": false
+        },
+        {
+          "id": 1534357,
+          "label": "B",
+          "text": "satisfied",
+          "isCorrect": true
+        },
+        {
+          "id": 1534358,
+          "label": "C",
+          "text": "satisfy",
+          "isCorrect": false
+        },
+        {
+          "id": 1534359,
+          "label": "D",
+          "text": "satisfaction",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1534357,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Trong câu, động từ \"</span><em style=\"text-align: justify;\">felt</em><span style=\"text-align: justify;\">\" là một </span><span style=\"text-align: justify;\">động từ nối có chức năng liên kết chủ ngữ \"</span><em style=\"text-align: justify;\">She</em><span style=\"text-align: justify;\">\" với một tính từ mô tả trạng thái hoặc cảm xúc của chủ ngữ.</span></p>\n<p><span style=\"text-align: justify;\">Bạn cần một tính từ phù hợp để diễn tả cảm xúc của chủ ngữ ''<em>She</em>''.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"275\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19pfoKNSfOZriWmf12IWiSaj%2BjAYbTiKF2A%2Bggl84nc1M8VMPWsXNCBEKwQcCZUOtUptA7aTSVNHRnmOEQqllmZ69r%2B6rJh4ze3jYS4AD2kgHy9BRwQHkVvy0B2Mbdax2J3xeKILt8dQ%2BfQEn%2BFLE7S1cJO6ZIPpdGmfrd%2FsHDBp1wzcncTzgV7s3X2LVulmYor2CzTMhLlPaA7x7lZkHDUIdqiD2GKcGIN%2FkpeHI%2FEgqpe7df18mJFx%2FZuOtu7kTsBLKPeW6PDlNI3BWp6NLRxFYDE0iVuDdAWv5vmXP0TlRENQqEoeKbmvGZC%2BsYcaYAZlWa7ZKANIE7h2FziWHobIFBYI1MndAsAR%2FQ2dKVUaCHkiLqKq02wAuQyFqNDw8YdvLHkNRtDP5K6S2zBEUdN%2FljZWAC5wKFfj0%2FlFPzkcUjv4RQ59mkN\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, động từ \"<em>felt</em>\" là một động từ nối có chức năng liên kết chủ ngữ \"<em>She</em>\" với một tính từ mô tả trạng thái hoặc cảm xúc của chủ ngữ. Vì chủ ngữ \"<em>She</em>\" là người trải nghiệm cảm giác, chúng ta cần một tính từ kết thúc bằng <strong><i>-ed</i> </strong>để diễn tả cảm xúc của cô ấy. Từ <b>\"<em>satisfied</em>\"</b> (cảm thấy hài lòng) là phù hợp nhất với ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "1534356": "Là tính từ (hiện tại phân từ) mang nghĩa \"gây ra sự hài lòng\", không phù hợp vì chủ ngữ \"She\" là người cảm nhận sự hài lòng, không phải là người gây ra nó.",
+        "1534357": "Là tính từ (quá khứ phân từ) mang nghĩa \"cảm thấy hài lòng\", chính xác vì nó mô tả cảm xúc của chủ ngữ \"She\" sau khi hoàn thành dự án.",
+        "1534358": "Là động từ nguyên thể, không thể đứng sau \"felt\" để bổ nghĩa cho chủ ngữ trong cấu trúc này.",
+        "1534359": "Là danh từ, không thể đứng sau \"felt\" để mô tả trạng thái cảm xúc của chủ ngữ."
+      },
+      "images": []
+    },
+    {
+      "id": 813094,
+      "questionNumber": 13,
+      "questionName": "religious",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>They celebrated a _____ holiday with their family and friends.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1557982,
+          "label": "A",
+          "text": "religiously",
+          "isCorrect": false
+        },
+        {
+          "id": 1557983,
+          "label": "B",
+          "text": "religion",
+          "isCorrect": false
+        },
+        {
+          "id": 1557984,
+          "label": "C",
+          "text": "religious",
+          "isCorrect": true
+        },
+        {
+          "id": 1557985,
+          "label": "D",
+          "text": "religiosity",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1557984,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Bạn cần một tính từ <span style=\"text-align: justify;\">đứng sau mạo từ </span><em style=\"text-align: justify;\">\"a\"</em><span style=\"text-align: justify;\"> và đứng trước danh từ </span><em style=\"text-align: justify;\">\"holiday\" </em>để bổ nghĩa cho danh từ này.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"315\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2Bj6bV26Qrr2ChVAU2wRrgyD1JKSNnZck8xgPvmhUSECIgtpGDFJFbsiKN%2BoVr5ZXU5pniZu1I3UV%2BYkvMUcmrP3rMVH7VG8etAnBUzK6CpkDLErkZ8zGPq9akJeAuHpiMCxAdmAedb1brFNGHlRVsA5p48vp18L2CYMXo8nIOFRCT3IQ7W%2B23%2BxjCaBHsTmWd5bjgqpAmU%2F9Jh0KTm50OGPeKgq2BCUDjX260lnOnw3pc3uLMpx8rUInHGo7xK88BdTozp5VMI%2FeI6sCzlS1nWFp%2F9jx5Y44vzH0tUxvRfpJEZhH5P9pW4LJ618nZAQgN0%2BqfDBM0Gxolpu9CnHlU4b6uVF903zVtYoXzO%2FYWkFjmiyr5uuDwlOxSiszaV4DpOe0D%2FPFfdqE9lYyaPcVVuyfDe8vMZM2wjIlEVssCvg6sogsv7JaZWrrMCZszc4a4eRKfYZX8rOvSFnyaLzaYVmyLBVrPrUImAYfhAQj7QYrNG6KwWJM2Y\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống cần điền đứng sau mạo từ <em>\"a\"</em> và đứng trước danh từ <em>\"holiday\"</em>. Vị trí này yêu cầu một tính từ để bổ nghĩa cho danh từ <em>\"holiday\"</em>. Trong các phương án, <strong>\"<em>religious</em>\"</strong> là tính từ có nghĩa là <em>\"thuộc về tôn giáo\"</em>, hoàn toàn phù hợp với ngữ cảnh.</p>",
+      "answerFeedbacks": {
+        "1557982": "Là trạng từ, \"religiously\" không thể bổ nghĩa trực tiếp cho danh từ \"holiday\".",
+        "1557983": "Là danh từ, \"religion\" không thể đứng trước trực tiếp để bổ nghĩa cho một danh từ khác như một tính từ trong cấu trúc này.",
+        "1557984": "Là tính từ, \"religious\" phù hợp để bổ nghĩa cho danh từ \"holiday\".",
+        "1557985": "Là danh từ, \"religiosity\" không thể đứng trước trực tiếp để bổ nghĩa cho một danh từ khác như một tính từ trong cấu trúc này."
+      },
+      "images": []
+    },
+    {
+      "id": 813509,
+      "questionNumber": 14,
+      "questionName": "personalised",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I love how my smartwatch offers _____ insights into my sleep patterns.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1558487,
+          "label": "A",
+          "text": "personalized",
+          "isCorrect": true
+        },
+        {
+          "id": 1558488,
+          "label": "B",
+          "text": "personalize",
+          "isCorrect": false
+        },
+        {
+          "id": 1558489,
+          "label": "C",
+          "text": "person",
+          "isCorrect": false
+        },
+        {
+          "id": 1558490,
+          "label": "D",
+          "text": "personality",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1558487,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Bạn cần một tính từ phù hợp để bổ nghĩa cho danh từ <em style=\"text-align: justify;\">\"insights\".</em></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"315\" id=\"28DAC0C9\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19IMW7wfcOKjWOI7JE0Y1P48fPaeBbiPLsgWU0LHXhe0gUNfzr0unBsosPPqu6EEboVKpRw7r1HthxjK5xF4UQQDEUrGgiQbNHY7TsLOpX0zBHFJsPZnJHsTo9%2FlCddW7%2BRv2cuQ0lqwSVSih9nFwYxd0wuFtgCADg2gyTE0NWWAY5PIXzWqeu%2Bc6tW6FAO1ce18IcLo4Kqs%2F6dGBlCviEFQs%2F7fBfXBkWmC2YTN66x9FoPjAI03tbieqyipjGXnlyAtDu%2F85oivqmN4mm2etXWv4Y7jWFhT12oFFXWBDvjPu2vmdnW8DSHPcIgimyjbABMu9Cp9DBHS0K8Iwm%2BWKtFPn0KLHzKz6beNScG91uW%2BTmivIOORu%2FBs%2BSGYud1wPK5WI%2Bs35rH4XAaxKYAn5KetRUsBOjZfRA%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span> Trong câu, chỗ trống đứng trước danh từ <em>\"insights\"</em> (sự hiểu biết sâu sắc), do đó cần một tính từ để bổ nghĩa cho danh từ này. Từ <em><strong>personalized</strong> </em>là tính từ có nghĩa là \"được cá nhân hóa\" hoặc \"phù hợp với từng người\", hoàn toàn phù hợp với ngữ cảnh chiếc đồng hồ thông minh cung cấp những phân tích riêng biệt về thói quen ngủ của người dùng.</p>",
+      "answerFeedbacks": {
+        "1558487": "Là dạng tính từ (quá khứ phân từ) bổ nghĩa cho danh từ <em>\"insights\"</em>, mang nghĩa \"được cá nhân hóa\", phù hợp với ngữ cảnh.",
+        "1558488": "Là dạng động từ nguyên mẫu, không thể bổ nghĩa cho danh từ <em>\"insights\"</em> ở vị trí này.",
+        "1558489": "Là danh từ chỉ người, không phù hợp để bổ nghĩa cho danh từ <em>\"insights\"</em>.",
+        "1558490": "Là danh từ chỉ tính cách, đặc điểm cá nhân, không phù hợp để bổ nghĩa cho danh từ <em>\"insights\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 823793,
+      "questionNumber": 15,
+      "questionName": "informed",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Technology has made it easier to stay _____ about global issues.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1573885,
+          "label": "A",
+          "text": "information",
+          "isCorrect": false
+        },
+        {
+          "id": 1573886,
+          "label": "B",
+          "text": "informed",
+          "isCorrect": true
+        },
+        {
+          "id": 1573887,
+          "label": "C",
+          "text": "inform",
+          "isCorrect": false
+        },
+        {
+          "id": 1573888,
+          "label": "D",
+          "text": "informative",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1573886,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại cần điền: t&iacute;nh từ, theo sau động từ chỉ trạng th&aacute;i \"<strong>stay</strong>\".</p>\n<div style=\"width: 100%; max-width: 525px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FbCibwg0YHmgxVPHAeSpC%2BgwtpPyTm8X0%2F0r8YHmJo8J11J%2FYdUaQsucxQ%2BNtBJTVsTm5%2FS%2FXa9F4u5Kx%2B6%2FDTQ5qDL6T3Cwk5ARoZtrUjnNoSZ%2F8GzAP6L5WL%2B8ugbCsY4Fr2k7Op3IAXJgJrYY20Mgy9uYHdyGzTFaLTbYBhaO0sTF3kDrTjHQX4LfZJBQMj%2BCvSjRBKUlDd6Zius3vr8uuU2%2BK1nO1ptTwLMCUPNMcsYzDQROyBZYlpQEZ6bDDfVSLiOk9XriggU3noEznaTEUagyhaMb%2FOdBlU5jtixHgpVW8nhEvlz9Rx5z4O2Ij24WU0N65bEa8KQn1ceBvAJ1NERrkp17PeQtn6PZENzkoDFEdJnOuM\" width=\"100%\" height=\"308\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: C&ocirc;ng nghệ đ&atilde; gi&uacute;p việc cập nhật th&ocirc;ng tin về c&aacute;c vấn đề to&agrave;n cầu trở n&ecirc;n dễ d&agrave;ng hơn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 834515,
+      "questionNumber": 16,
+      "questionName": "passionate",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>They are both _____ about environmental conservation and work tirelessly to protect nature.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1592684,
+          "label": "A",
+          "text": "passion",
+          "isCorrect": false
+        },
+        {
+          "id": 1592685,
+          "label": "B",
+          "text": "passionate",
+          "isCorrect": true
+        },
+        {
+          "id": 1593120,
+          "label": "C",
+          "text": "passionless",
+          "isCorrect": false
+        },
+        {
+          "id": 1593121,
+          "label": "D",
+          "text": "passionately",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1592685,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại cần điền: t&iacute;nh từ, theo sau động từ to be \"<strong>are</strong>\".</p>\n<div style=\"width: 100%; max-width: 525px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FiHhhNmSVFWFdip0rJts8nW1De%2BbiWMJG12nidMcUprlqmpUfZ0h%2FlDUO%2FW4aolSUIDDBlpJ5GcM3VQFCyJxwLRvZsXzGiZdTD46FxwNx8CdzRsRx9T0thcluJO%2BE3lgMfV%2B44uSyqZeSWyBS4x%2FsdY4m%2BK4Ao%2FtHeE5d1ChNy6KQlxU%2FJilvg%2FvUAS33ePMtkg8Cr4N53ct9mdfbVUPheE7eyAucFER9Fc84lPSx58gtuJscK0hNMhc4jej3ZlEHTzlLnV6GaPsJYfArAD1AJu491HIwH4E3idmg3L7yNj0Cy1yVIsKTP4%2BY0bQOOgaPdtosWElwZ0wVP2qRhlgNrls3J3e3hLAfKVvMbj4Guhm6HjNXkNDisTr14exZg2nyu8BxLopPh3w%3D%3D\" width=\"100%\" height=\"330\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Cả hai người họ đều đam m&ecirc; bảo tồn m&ocirc;i trường v&agrave; l&agrave;m việc kh&ocirc;ng mệt mỏi để bảo vệ thi&ecirc;n nhi&ecirc;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 849131,
+      "questionNumber": 17,
+      "questionName": "x",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The music of today sounds very _____ compared to the classics from the past.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1619815,
+          "label": "A",
+          "text": "differently",
+          "isCorrect": false
+        },
+        {
+          "id": 1619816,
+          "label": "B",
+          "text": "difference",
+          "isCorrect": false
+        },
+        {
+          "id": 1619817,
+          "label": "C",
+          "text": "differ",
+          "isCorrect": false
+        },
+        {
+          "id": 1619818,
+          "label": "D",
+          "text": "different",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1619818,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại cần điền: t&iacute;nh từ, theo sau li&ecirc;n động từ \"<strong>sounds</strong>\" v&agrave; được bổ sung nghĩa bởi trạng từ \"<strong>very</strong>\".</p>\n<div style=\"width: 100%; max-width: 525px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BxnbxDYIrfu7uN7tfStnslfxGy2Qb%2BWN8gZW1G2SYmMganZBNA9S7m%2BxJErJ6Sa4mNvwjwgTzzEfCjwk%2ByUtKl%2BXZ%2BZZG3DXmtqnI%2BOBtE40A6Ye7xqpzblrxaidGEdJHzTvzRAYe9cyygvS%2FjGXaVaRqQlDlr9PbR4EKD4Wu3g6MM%2BYEs9x7PqJ4uUQtVhtlNggMPvPbZm7yPNAO84oCDsJr7RtDq6Fzw9e1i5eCgdkgsMrbTEmYvqbdnE7k9NGrDeQXXiqzWrqO%2B3qVtk4VsBxUdai0WV2h36fSas2KriuyzHojPxHVfsDMEHZHzf1Q5fLyn6HccQ30lmQmndrU884ZZoX1pTgMDBOcaX1La%2FkrfMfhpzmeqeHG1sF3Tg2mrYhJF3aUa0g%3D%3D\" width=\"100%\" height=\"270\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: &Acirc;m nhạc ng&agrave;y nay nghe rất kh&aacute;c so với &acirc;m nhạc cổ điển ng&agrave;y xưa.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 760118,
+      "questionNumber": 18,
+      "questionName": "Question 26",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He became _____ when a journalist asked him questions about his private life.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1464077,
+          "label": "A",
+          "text": "embarrassing",
+          "isCorrect": false
+        },
+        {
+          "id": 1464078,
+          "label": "B",
+          "text": "embarrass",
+          "isCorrect": false
+        },
+        {
+          "id": 1464079,
+          "label": "C",
+          "text": "embarrassed",
+          "isCorrect": true
+        },
+        {
+          "id": 1464080,
+          "label": "D",
+          "text": "embarrassingly",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1464079,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Bạn cần một tính từ để bổ nghĩa cho chủ ngữ \"</span><em style=\"text-align: justify;\">He</em><span style=\"text-align: justify;\">\" sau động từ liên kết \"</span><em style=\"text-align: justify;\">became</em><span style=\"text-align: justify;\">\".</span></p>\n<p><span style=\"text-align: justify;\">Lưu ý tính từ này phải phù hợp để miêu tả cảm xúc của chủ ngữ ''<em>He'</em>'.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"355\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2F70R0AuRWTQTYwMvmKu1cikCBSYTFckn3PzjLwVKFfO5pK%2BpJwP4wvcP8T%2Frs7hIZfABJI2PHenGee4WGVjDVGccHpr3KWArbMOhjDrDkEahjp2oeM95grvtPb1zhXoE4HVh%2FlGNktEg6c%2FGBzeSWtuuKx0UPpcrivsgnhTEheBXdi6jFVWDL0c7MsPmUFssILRYiaH01okXLjMjD97KR685lXU8WO%2BakLjNkivkfthiBXBGy8xzgJQF%2B%2B%2FcLebkKzlX5H1gHa5tic%2Fpq1ramEUkkGl4P0nzMV6Ig65losKxth4LtAmkGm9nk2xx4VOL%2Bazk9cc0FP4VWqBMvDFDuNcoD8i3klMlF3dAHQtBzg%2FbQbP1h%2BeBXzsEPwX7WtWtp91YtYRLb0R3TLxn3E9n2%2BUW6C3JDFojiRVCzHPnM985tSDFIRLiQXfTOtPcdesHpud%2BCggEbBpZKCJeHTPbBCULypiJCHAT0VgX6pFNIKUs6BnM%2BV%2FaGqqqDpXiULd6D%2FIRDyUqLhfLhXRCgwKw7NQvp2z4Kk7DSgsfKtqM7SMXUbFD1GOdG%2Bu5%2FrXCXXXNWIkc6rnbBxfz0cvBjs7AM7VY%2B9mJE9UMAj6JU6Me8WTVymfBBRzuHsl1%2BOEfWbS90w6PvND23l2Y98xVdzdZS5q6NKj59V%2F1zk%2B0bAGRWlsIY76pVhf9H7\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống cần điền một tính từ để bổ nghĩa cho chủ ngữ \"<em>He</em>\" sau động từ liên kết \"<em>became</em>\". Trong trường hợp này, chủ ngữ \"<em>He</em>\" là người trải qua cảm giác xấu hổ, do đó ta cần dùng tính từ đuôi <em>-ed</em> và phương án <em><strong>embarrassed </strong></em>là phù hợp nhất để miêu tả cảm xúc.</p>",
+      "answerFeedbacks": {
+        "1464077": "Sai vì <em>embarrassing</em> là tính từ mang nghĩa \"gây ra sự xấu hổ\", dùng để miêu tả sự vật, sự việc, trong khi chủ ngữ <em>He</em> là người trải qua cảm giác này.",
+        "1464078": "Sai vì <em>embarrass</em> là động từ nguyên mẫu, không thể đứng sau động từ liên kết <em>became</em> để bổ nghĩa cho chủ ngữ.",
+        "1464079": "Đúng vì <em>embarrassed</em> là tính từ (dạng phân từ quá khứ) dùng để miêu tả cảm giác của người, mang nghĩa \"cảm thấy xấu hổ\", phù hợp với chủ ngữ <em>He</em>.",
+        "1464080": "Sai vì <em>embarrassingly</em> là trạng từ, dùng để bổ nghĩa cho động từ hoặc tính từ khác, không thể đứng sau động từ liên kết <em>became</em> để bổ nghĩa cho chủ ngữ."
+      },
+      "images": []
+    },
+    {
+      "id": 760392,
+      "questionNumber": 19,
+      "questionName": "Question 17.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>My most _____ experience was my trip to Phu Quoc last summer. I enjoyed it a lot.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1464536,
+          "label": "A",
+          "text": "unforgettable",
+          "isCorrect": true
+        },
+        {
+          "id": 1464537,
+          "label": "B",
+          "text": "forget",
+          "isCorrect": false
+        },
+        {
+          "id": 1464538,
+          "label": "C",
+          "text": "forgetful",
+          "isCorrect": false
+        },
+        {
+          "id": 1464539,
+          "label": "D",
+          "text": "forgettable",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1464536,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span class=\"eq-highlight\">Từ loại cần điền</span>: <strong>t&iacute;nh từ</strong>, đứng trước v&agrave; bổ sung nghĩa cho danh từ \"<strong>experience</strong>\".</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"355\" id=\"987F61F8\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18tbEsW3bIDjVMZ5RPay%2BIm9fLJj%2Bb8bp6XybhS4ZHvX9JBGAIf%2F9n73XnAnOo8F1qFG%2B9bs6Wnz6qzBryrflsRImGUBXZk%2BlnPUeumlzdOGevEQeWa3f5%2FsCveLEEB584%2BQVFW%2FaArav12osFDmEKGKzSy75yKvoBRv8YiPIMV9y3AH%2FHlHtjxkiPXWrpL%2B7Wm4cEwDPNc3LNTAV7%2F%2FWD6Rxa%2BHNp%2BmYEabMd2FeO0eTHgRrzZLMcWIwDjlphzu37fKPoFjmXIDx0u88Vq2HzBhTwyF2iHfdSXmGROhj0EU6tQrLWBB7A0z%2Fm%2BjIDGx7tKsK3jzx%2BJJRiJVl%2FMJlPo0%2BouzLjIQWOzJzHpuR5fgU7JDWXukp%2FVXbdqLUAG1XvSAn33lswMUQ%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>\"forgetful\" v&agrave; \"forgettable\" kh&ocirc;ng ph&ugrave; hợp về nghĩa của c&acirc;u.</p>\n<p><span class=\"eq-highlight\">Dịch</span>: Kỷ niệm kh&oacute; qu&ecirc;n nhất của t&ocirc;i l&agrave; chuyến đi Ph&uacute; Quốc v&agrave;o m&ugrave;a h&egrave; năm ngo&aacute;i. T&ocirc;i đ&atilde; rất th&iacute;ch chuyến đi đ&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 761673,
+      "questionNumber": 20,
+      "questionName": "9",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>My cousin, Nam is afraid his test result may make his parents feel _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1466786,
+          "label": "A",
+          "text": "disappointing",
+          "isCorrect": false
+        },
+        {
+          "id": 1466787,
+          "label": "B",
+          "text": "disappoint",
+          "isCorrect": false
+        },
+        {
+          "id": 1466788,
+          "label": "C",
+          "text": "disappointment",
+          "isCorrect": false
+        },
+        {
+          "id": 1466789,
+          "label": "D",
+          "text": "disappointed",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1466789,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Bạn cần một tính từ <span style=\"text-align: justify;\">đứng sau động từ ''</span><em style=\"text-align: justify;\">feel''</em><span style=\"text-align: justify;\"> và bổ nghĩa cho tân ngữ ''</span><em style=\"text-align: justify;\">his parents''</em><span style=\"text-align: justify;\"> để diễn tả cảm xúc của họ.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 305px;\"><iframe width=\"100%\" height=\"305\" style=\"border: none;\" id=\"embed-frame-C49DA\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2Fj2KbJwr%2B5trjcXLeGSJNlFNhlrV3R%2BiMblIHGZ3xMEFXkf2JrTKvc%2FcJsSbPDyxodXzd3B3U2F08QBftQE8%2B6%2BZ3i1ljef9gr8l0zlm63R3Dtw8x%2B4siS%2BZXC6ewCC0HutzWllM0VscVON7jPcO77o8oiMf%2FC1tBX%2FpZMygn3YhTtDt20W%2FO9G7HVI12euWVDCFA8wAPS5LxFnoVrPWpmfpBmdaqas5SfoZnuLgN70uRTfa7u9YYHS1K6cC6GuvUq%2ByoCkBF3ce4Uzo6B2PG0Yd9zSdchGdTc%2BT9O2Zd33WVJeJj%2FPliKXIkGTkH4VTStrQi1BV%2BhUXx4%2FiOf110eAx%2FS7V9virUfDKsytZ9nDNNm7nQExvu%2Ff3nMmS%2B9fVChIDPz572rQQ%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống đứng sau động từ ''<em>feel''</em> và bổ nghĩa cho tân ngữ ''<em>his parents''</em> để diễn tả cảm xúc của họ. Do đó, từ cần điền phải là một tính từ. Vì ''<em>his parents''</em> là người và chịu tác động từ kết quả bài kiểm tra, chúng ta cần dùng tính từ có đuôi <strong>-<em>ed</em></strong><em> </em>để miêu tả cảm xúc của người bị ảnh hưởng và <em><strong>disappointed </strong></em>là đáp án phù hợp nhất.</p>",
+      "answerFeedbacks": {
+        "1466786": "Tính từ kết thúc bằng <em>-ing</em> thường dùng để mô tả bản chất hoặc nguyên nhân gây ra cảm xúc, không phù hợp để diễn tả cảm xúc của người.",
+        "1466787": "Động từ nguyên mẫu <em>disappoint</em> không thể đứng sau động từ <em>feel</em> để diễn tả cảm xúc của chủ ngữ trong cấu trúc này.",
+        "1466788": "Danh từ <em>disappointment</em> không thể đứng sau động từ <em>feel</em> để bổ nghĩa cho chủ ngữ và diễn tả cảm xúc của chủ ngữ.",
+        "1466789": "Tính từ kết thúc bằng <em>-ed</em> được dùng để diễn tả cảm xúc của người khi chịu tác động từ bên ngoài, phù hợp với ngữ cảnh <em>\"make his parents feel <b>disappointed</b>\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 778887,
+      "questionNumber": 21,
+      "questionName": "38",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>She's fiercely _____ and gets very upset if she loses at anything.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1496267,
+          "label": "A",
+          "text": "compete",
+          "isCorrect": false
+        },
+        {
+          "id": 1496268,
+          "label": "B",
+          "text": "competition",
+          "isCorrect": false
+        },
+        {
+          "id": 1496269,
+          "label": "C",
+          "text": "uncompetitive",
+          "isCorrect": false
+        },
+        {
+          "id": 1496270,
+          "label": "D",
+          "text": "competitive",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1496270,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại cần điền: t&iacute;nh từ, đứng sau động từ to be \"<strong>is</strong>\" v&agrave; được bổ sung &yacute; nghĩa bởi trạng từ \"<strong>fiercely</strong>\".</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"315\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX195ND4lbGr3%2Fx7xSPzjh0sCqy4tmW9ykEd5G9hEGKbhLXFcFAFVzS59IGdWQhbbbC%2FZjJvOQaKs9ooH0ar7cwHwmfJlTXCVrd03OqD7R0qg7YwfMeh8iYdPjwooIzfOUg1%2FMzWbvEs7LWT0JzKl2zlHFw4pJg8XxhlPaLCX7r35sMzjLbMlb9GPmntoVdKNLlzYJGqHRyptIZ33LDGdiV04PoOpJ%2F3EQYOYvl41vHVJ4oWD2A1MBHbvmjuwCiweS%2Faq5%2Fm0Qenwfmpr2UJReRmE9t%2Fqygrbe2hCSr0lJdffMgp9OCr5njXubCdbuFKNBPygQGZuMdy%2FaPXQCCj70avmxoEInelYIosjMzH3I%2BBJecRoLaavNQudXXBbhlqPG7rHRVyD1vFMALUGmRvCbKRWnT6jdr6TSkzGHcKfxPXDJY1zyJdy1ChwfespH1S%2Bwae%2FA9Vr%2B8lAoj2WT0Rgy8Jr4N%2BqMBMBVSnKOci1p%2FlsC%2B88GWqUYpsbo8I9A%2FrIVZiytAHlRrmDyzvwwnhYnAGBXRAPh5o418de8CUaoP3G%2FUY70IYBDFM9yRvrUCWXUuHdNO%2BYAheFDu%2Bsy2oU9goQz%2FVC4bS%2F6rxv5h9h%2FRg%2FM%2FlrzTa6lTqdt3lpZh2WQVifCYIpyidC%2BhGiwfkUmQGipgsR%2FbIMLnM%3D\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p><br />Dịch: C&ocirc; ấy cực k&igrave; hiếu thắng v&agrave; rất kh&oacute; chịu nếu thua bất cứ điều g&igrave;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 782403,
+      "questionNumber": 22,
+      "questionName": "multicultural",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Language classes are a great way to connect with people from _____ backgrounds.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1503025,
+          "label": "A",
+          "text": "multicultural",
+          "isCorrect": true
+        },
+        {
+          "id": 1503026,
+          "label": "B",
+          "text": "culture",
+          "isCorrect": false
+        },
+        {
+          "id": 1503027,
+          "label": "C",
+          "text": "subculture",
+          "isCorrect": false
+        },
+        {
+          "id": 1503028,
+          "label": "D",
+          "text": "culturally",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1503025,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Bạn cần một tính từ để bổ nghĩa cho danh <em>\"backgrounds\"</em> (nền tảng/xuất thân).</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 524px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19F4lznM4vilk4T0qJ5tkrHXOZU4Va3DXi7N7fnlrnR5nrMk19Tdj0CxehwV8y1SJNBvMZa%2Bx0fcxPAd25oDteCKHYdOgylsAPXzRiUzUQormDJnczzlvqxNrlDMi1pW8wd5EcrVTXw16494daOq2NstTbQtgMVfdT%2BN6PebA1yWpd1IPTK7R7gmjSxU9co7Ybn37cbeo6GfwOXtR8%2Fh0AXCBnozsCJ0LwGPUV151d%2FJl2M%2BzccBkdPMNpl%2Fn%2FfMRkAzMp%2BsfgVndo3BQfPFvvELy4EkPHzb1hXl1GtbIdLhhcyJh0LDfF1GJcYoSzbgwgK84cpbFqgWBwvrzN5OB%2BD%2B%2BQjHiVaeykNF2noNX8UieDOtuCq64jyNY4N7EnUCOsIzepWNDhwlA%3D%3D\" width=\"100%\" height=\"305\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống đứng trước danh từ <em>\"backgrounds\"</em> (nền tảng/xuất thân), do đó cần một tính từ để bổ nghĩa cho danh từ này. Cụm từ <em>\"people from <strong>multicultural</strong> backgrounds\"</em> diễn tả những người đến từ nhiều nền văn hóa khác nhau, phù hợp với ngữ cảnh của câu.</p>",
+      "answerFeedbacks": {
+        "1503025": "Là tính từ, bổ nghĩa cho danh từ <em>\"backgrounds\"</em> để chỉ những người đến từ nhiều nền văn hóa khác nhau, phù hợp với ngữ cảnh.",
+        "1503026": "Là danh từ, không thể đứng trước và bổ nghĩa trực tiếp cho danh từ <em>\"backgrounds\"</em> trong trường hợp này.",
+        "1503027": "Là danh từ, không thể đứng trước và bổ nghĩa trực tiếp cho danh từ <em>\"backgrounds\"</em>; về nghĩa, <em>\"subculture\"</em> (tiểu văn hóa) cũng không phù hợp với ngữ cảnh chung chung về <em>\"people from ... backgrounds\"</em>.",
+        "1503028": "Là trạng từ, không thể bổ nghĩa trực tiếp cho danh từ <em>\"backgrounds\"</em>; trạng từ thường bổ nghĩa cho động từ, tính từ hoặc trạng từ khác."
+      },
+      "images": []
+    },
+    {
+      "id": 667262,
+      "questionNumber": 23,
+      "questionName": "dùng đúng loại từ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Cyberbullying can have _____ effects on a person's mental well-being.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1285661,
+          "label": "A",
+          "text": "harm",
+          "isCorrect": false
+        },
+        {
+          "id": 1285662,
+          "label": "B",
+          "text": "harmfulness",
+          "isCorrect": false
+        },
+        {
+          "id": 1285663,
+          "label": "C",
+          "text": "harmfully",
+          "isCorrect": false
+        },
+        {
+          "id": 1285664,
+          "label": "D",
+          "text": "harmful",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1285664,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Bạn cần một tính từ phù hợp có thể bổ nghĩa cho danh từ <em style=\"text-align: justify;\">\"effects\".</em></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"310\" id=\"13207FAF\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19%2BpP59DbaSNo%2FNIHjBaHY79B5KYUCJySxNzIBVyZSit9BFhzMoLJ%2FG3h84jxHuiZRL6TeLvun%2FCUSA30rZqaJk26CzbjWlydGERp02k%2B2WqYieE0NXld44vsER3Zf5YElmfJGMPtDKSxKPjpkvo2%2Fb13j1SwLlX8R%2Bfe%2FNwscTP4uZZQ7aiiLLzT6LtbUzpBoAb7v2OfsK3s64BNB8aTWqwhumqAn%2BjjnPVWdNKp9KoomUBWy7pkh9TLgVlp4T74gkGOVUuVKwjA5EagPeas8gJ%2FX13iPV%2FqyBcyHo5aQ48m8UiPHu9nVFNkhzXn%2BJtese%2Fb7sneRR3d0eWqFLIcooIIyp72GAZTzRbCEERkoNMn9XvO%2Bjh1qb\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống đứng trước danh từ <em>\"effects\"</em> và cần một từ để bổ nghĩa cho danh từ này. Do đó, từ cần điền phải là một tính từ. Trong các phương án, <em><strong>harmful</strong> </em>là tính từ duy nhất phù hợp về mặt ngữ pháp và ngữ nghĩa.</p>",
+      "answerFeedbacks": {
+        "1285661": "“Harm” là danh từ hoặc động từ, không thể bổ nghĩa trực tiếp cho danh từ “effects”.",
+        "1285662": "“Harmfulness” là danh từ, không có chức năng bổ nghĩa cho danh từ “effects”.",
+        "1285663": "“Harmfully” là trạng từ, dùng để bổ nghĩa cho động từ hoặc tính từ, không phải danh từ.",
+        "1285664": "“Harmful” là tính từ, phù hợp để bổ nghĩa cho danh từ “effects”, chỉ ra tính chất của chúng."
+      },
+      "images": []
+    },
+    {
+      "id": 668360,
+      "questionNumber": 24,
+      "questionName": "decorative - dùng đúng loại từ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>She bought some _____ pillows to add a pop of color to her living room.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1288557,
+          "label": "A",
+          "text": "decorate",
+          "isCorrect": false
+        },
+        {
+          "id": 1288558,
+          "label": "B",
+          "text": "decorative",
+          "isCorrect": true
+        },
+        {
+          "id": 1288559,
+          "label": "C",
+          "text": "decorator",
+          "isCorrect": false
+        },
+        {
+          "id": 1288560,
+          "label": "D",
+          "text": "decoration",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1288558,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để điền từ vào chỗ trống, hãy xác định từ loại cần thiết dựa trên vị trí của nó trong câu (trước danh từ <em>\"pillows\"</em>).</p>\n<p>Tham khảo các câu sau để đoán hiểu nghĩa của các phương án lựa chọn:</p>\n<ul>\n<li><em>I want to <strong>decorate</strong> my room for the party.</em></li>\n<li><em>The <strong>decorative</strong> lights made the room feel festive.</em></li>\n<li><em>She hired a professional <strong>decorator</strong> to design her office.</em></li>\n<li><em>We bought some new <strong>decoration</strong>s for the Christmas tree.</em></li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"310\" id=\"26BBE001\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2Bex0JwQrI%2FLf2DdtWOz9QJo4U5Yhxsh6n2cF%2BvS82aOOBqDtA5lfEjMUbsBIPK1kqvvM5NSSpx2VXxOvUhQqe1kVg%2BGdotFSWmYuInnuXENCO3TzTrKP9J3amr5uDy1vWyXM3FVpH4S4%2BcKJQj7aotgpm5FI8hHrgx9jaXnNXdcoTiR%2FPX4GooRTlfn%2FOOTRcIyCgKMyWJIfvDIqD%2FYK7B%2F%2BZOjmJwaBGsLMrsj%2B7r8wHj9QUR7bWeYMPuEkiv9%2FVK5nlZ11pjWztY0NYxLircJ%2BtQPQzMGAGHihYLUVcdw1l%2F4vBf44wZFHrYUR9GgwdoDdbs71wvGa5BQZRTIKhqVAU8P7mznTbBrp330c%2BEJJcheCS9qMw5Xp4VABZlc6z2B%2BswsNP2tQ%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu <em>\"She bought some _____ pillows\"</em>, từ cần điền đứng trước danh từ <em>\"pillows\"</em> và sau từ hạn định <em>\"some\"</em>, vì vậy nó phải là một tính từ để bổ nghĩa cho danh từ này. Tính từ <strong>\"decorative\"</strong> (mang tính trang trí) là lựa chọn phù hợp nhất về cả từ loại và nghĩa, chỉ rõ mục đích của những chiếc gối là để trang trí.</p>",
+      "answerFeedbacks": {
+        "1288557": "Đây là một động từ, không thể đứng trước bổ nghĩa cho danh từ <em>\"pillows\"</em>.",
+        "1288558": "Đây là một tính từ, có chức năng bổ nghĩa cho danh từ <em>\"pillows\"</em> và phù hợp về nghĩa (gối dùng để trang trí).",
+        "1288559": "Đây là một danh từ chỉ người, không phù hợp để bổ nghĩa cho danh từ <em>\"pillows\"</em> trong ngữ cảnh này.",
+        "1288560": "Đây là một danh từ chỉ vật/sự vật, không thể trực tiếp bổ nghĩa cho danh từ <em>\"pillows\"</em> ở vị trí này."
+      },
+      "images": []
+    },
+    {
+      "id": 669192,
+      "questionNumber": 25,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Cleaning the dirty dishes was a/an _____ task after a big dinner.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1290205,
+          "label": "A",
+          "text": "pleasant",
+          "isCorrect": false
+        },
+        {
+          "id": 1290206,
+          "label": "B",
+          "text": "pleasantly",
+          "isCorrect": false
+        },
+        {
+          "id": 1290207,
+          "label": "C",
+          "text": "unpleasant",
+          "isCorrect": true
+        },
+        {
+          "id": 1290208,
+          "label": "D",
+          "text": "pleasure",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1290207,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Chỗ trống nằm giữa mạo từ <em>\"a/an\"</em> và danh từ <em>\"task\" </em>cho thấy bạn cần một tính từ để bổ nghĩa cho danh từ <em>\"task\".</em></p>\n<p>Cân nhắc nghĩa của các phương án lựa chọn và ngữ cảnh <em>\"Cleaning the dirty dishes... after a big dinner\"</em> để chọn từ có nghĩa phù hợp nhất.</p>\n<p> </p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"315\" src=\"https://azvocab.ai/embed/DLDBCDB5677C4AADAB?params=U2FsdGVkX18%2FFfPGk1U7uhkoEoywuR7az4%2F7k2FWmuQ620xtxsgN09E5jbEwg57pPrOPuEYR8PQcKnEmFSiXDLxjB4vK9gVXttS3w6shqUPcZEhtEFzm5R6zlKCWnBFvyeCnt1bhIMIUUG%2Br4ufUlYjZ2rQYoMYmh%2BdsriqQvusDMe0sOvxJAQ9G29TlJqAuRvukqTRrrofSMg3C8RlabfHLvQzvvHxpUVnjXE5fbbNJFWF5g3DEIjzrldzLr4q4thtqJ%2FmnTKQLx0IwwWTtvULiW8TwGZyzB7PACKICjHfPs89B4%2FzJPe%2F%2Bljue0%2Bhdt0ZEItYTmAV5q%2BGjM9QcprLr%2BjRsBmcON2Bpzxwizxw5HPkrRUjzA51GGYtqUtxKZJGa3b6g0A5KU3f32ZwwmYD45atdVBTE8vM3tga7TEp%2FTnsWEAqC5Uf%2BCrj%2F8v%2FKszDEPS%2B6mhYuQItKDUHroJZ5MatGCODpyPMy90pmGBpJ8UmRijcpSSk9eDu5spMDzpkluUEqCHURaO%2FRjdRI1Yl8axttEKISfeQFoxS2ofMZfDdzxxvkuDRoIjCffeD%2FYSyCZ%2BTy%2B5%2F%2FtpcoxJQoBGebxCELTspucWqpTUsIjBYJMmKAAYuEiO1JlU8TpeBOfqfC%2B239jCNffe0pf5JfIg%3D%3D\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống cần điền một tính từ để bổ nghĩa cho danh từ <em>\"task\"</em> (công việc) và đứng sau mạo từ <em>\"a/an\"</em>. Cụm từ <em>\"dirty dishes\"</em> (bát đĩa bẩn) gợi ý rằng đây là một công việc không mấy dễ chịu. Do đó, tính từ <em><strong>unpleasant</strong> </em>(khó chịu, không dễ chịu) là lựa chọn phù hợp nhất cả về ngữ pháp và ngữ nghĩa.</p>",
+      "answerFeedbacks": {
+        "1290205": "Là tính từ nhưng nghĩa \"dễ chịu, thú vị\" không phù hợp với ngữ cảnh \"rửa bát đĩa bẩn\".",
+        "1290206": "Là trạng từ, không thể bổ nghĩa trực tiếp cho danh từ \"task\".",
+        "1290207": "Là tính từ và có nghĩa \"khó chịu, không dễ chịu\", hoàn toàn phù hợp để mô tả một công việc như rửa bát đĩa bẩn.",
+        "1290208": "Là danh từ, không thể bổ nghĩa cho danh từ \"task\" trong cấu trúc \"a/an _____ task\"."
+      },
+      "images": []
+    },
+    {
+      "id": 702952,
+      "questionNumber": 26,
+      "questionName": "Question 15:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Action movies are _____ with young adults who enjoy excitement and adventure.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1363844,
+          "label": "A",
+          "text": "popularity",
+          "isCorrect": false
+        },
+        {
+          "id": 1363845,
+          "label": "B",
+          "text": "popular",
+          "isCorrect": true
+        },
+        {
+          "id": 1363846,
+          "label": "C",
+          "text": "<p>popularize</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1363847,
+          "label": "D",
+          "text": "popularly",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1363845,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Bạn cần một tính từ có thể đứng sau động từ ''<em>are</em>'' để bổ nghĩa cho chủ ngữ ''<em>Action movies</em>''.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"310\" id=\"83EF8988\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX183k4XCmlTL%2BiOCc2fEBymv4aSVM1orOPZwU9BuS3Sr0ZxpDOCGYlU973aExJ2M99x1VbAJiEFNeAMqeGfB7bdPoJzvpwcEAUINI%2FWWeJK5oVD5aY%2BmdhzhQqRvGISCQRfYwWCIdKS6bMHVSUti0jtD0V9bP0rI3mV%2B60uHwz35Ea2%2FetTHSElFXLgeLcp02FAqPTIDV3iDoQemT8WuHeLUaYhR5krqYYGc%2FtB5aQS6y3%2FpSe9VzAAr6WKkkD0wKkMoPk7C%2FaguAsl00od0NcGGt8Y7l1TkBjQL47q4z6MBl0aSru4k%2FLApmk8FsefSTHARkUMC402us9QP%2Fz8U7vWLI%2FaB2pd6nQXCqS8Zq2DskKDxQ9qKBdvC\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống đứng sau động từ <em>\"are\"</em> (một dạng của động từ <em>\"to be\"</em>). Vị trí này yêu cầu một tính từ để bổ nghĩa cho chủ ngữ <em>\"Action movies\"</em>. Tính từ <em><strong>popular</strong> </em>(phổ biến) mô tả đúng trạng thái của phim hành động, rằng chúng được nhiều người yêu thích.</p>",
+      "answerFeedbacks": {
+        "1363844": "Đây là danh từ, không thể đứng sau động từ <em>\"are\"</em> để bổ nghĩa cho chủ ngữ <em>\"Action movies\"</em>.",
+        "1363845": "Đây là tính từ, phù hợp để đứng sau động từ <em>\"are\"</em> nhằm bổ nghĩa cho danh từ <em>\"Action movies\"</em>.",
+        "1363846": "<p>Đây là động từ, không phù hợp về mặt ngữ pháp để điền vào vị trí này.</p>",
+        "1363847": "Đây là trạng từ, không thể đứng sau động từ <em>\"are\"</em> để bổ nghĩa trực tiếp cho chủ ngữ."
+      },
+      "images": []
+    },
+    {
+      "id": 637272,
+      "questionNumber": 27,
+      "questionName": "Complete Book 5 - p70",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Tom gave a very _____ speech about the need for more funding for the project.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1226030,
+          "label": "A",
+          "text": "persuasive",
+          "isCorrect": true
+        },
+        {
+          "id": 1226031,
+          "label": "B",
+          "text": "persuasion",
+          "isCorrect": false
+        },
+        {
+          "id": 1226032,
+          "label": "C",
+          "text": "persuasively",
+          "isCorrect": false
+        },
+        {
+          "id": 1226033,
+          "label": "D",
+          "text": "persuasiveness",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1226030,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Chú ý <span style=\"text-align: justify;\">cụm từ \"</span><em style=\"text-align: justify;\">a very _____ speech</em><span style=\"text-align: justify;\">\" có \"</span><em style=\"text-align: justify;\">a</em><span style=\"text-align: justify;\">\" là mạo từ, \"</span><em style=\"text-align: justify;\">very</em><span style=\"text-align: justify;\">\" là trạng từ bổ nghĩa cho tính từ, và \"</span><em style=\"text-align: justify;\">speech</em><span style=\"text-align: justify;\">\" là danh từ. </span></p>\n<p><span style=\"text-align: justify;\">Bạn cần một tính từ phù hợp để bổ nghĩa cho danh từ ''<em>speech</em>''.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"340\" id=\"1BC0B779\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BWC1fo%2ByhsK%2F4tK9SaCJK3uATTaBoA%2Bzj7SmYgQWAobKPp%2FfhD%2FBO4hO0J0eXWutvPygEoPaKKwj8gE7W5GOt%2BR59aTz%2B%2F%2FMJBH%2FtquJymUXRxlFcn4j2psiaRV3%2BypIQ4yikYhif9lqiecXf688liAg285RWvtIceWArd71jYm9rF4ktCuS%2F19zYuh7ebKnBhJ2VGFJ8XhWTEeMNIAvqzYMCBgvavq0WXPpTVSH1WOtp%2BJdm3Pb5t1dRd63UsO7KQH5ZBZp0a8QrmOiUARissxjcq2sgCOueFh38cBOmkp2dD200WqYsD09zPYRsRawb%2BpCtvP9Z3ZwN86gxbrwGQ5FpJCiT6%2FxaitY4FyKieZ%2BmdMXzDwAEkMycf61Mxzq89vOR5d7FxNQ%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống cần điền là một tính từ bổ nghĩa cho danh từ \"<em>speech</em>\" (bài phát biểu). Cụm từ \"<em>a very _____ speech</em>\" có \"<em>a</em>\" là mạo từ, \"<em>very</em>\" là trạng từ bổ nghĩa cho tính từ, và \"<em>speech</em>\" là danh từ. Vì vậy, từ cần điền phải là một tính từ. Trong các lựa chọn, <em><strong>persuasive</strong> </em>là tính từ phù hợp về ngữ pháp và ngữ nghĩa, mang ý nghĩa \"có tính thuyết phục\".</p>",
+      "answerFeedbacks": {
+        "1226030": "Tính từ \"persuasive\" đứng sau trạng từ \"very\" và trước danh từ \"speech\" để bổ nghĩa cho danh từ này, hoàn toàn phù hợp về ngữ pháp và ngữ nghĩa.",
+        "1226031": "Danh từ \"persuasion\" không thể đứng sau trạng từ \"very\" và trước danh từ \"speech\" để bổ nghĩa trong cấu trúc này.",
+        "1226032": "Trạng từ \"persuasively\" dùng để bổ nghĩa cho động từ hoặc tính từ, không thể bổ nghĩa trực tiếp cho danh từ \"speech\".",
+        "1226033": "Danh từ \"persuasiveness\" không thể đứng sau trạng từ \"very\" và trước danh từ \"speech\" để bổ nghĩa trong cấu trúc này."
+      },
+      "images": []
+    },
+    {
+      "id": 637280,
+      "questionNumber": 28,
+      "questionName": "Complete Book 5 - p70",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Although the _____ idea was good, its execution had produced a disappointing result.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1226053,
+          "label": "A",
+          "text": "originally",
+          "isCorrect": false
+        },
+        {
+          "id": 1226054,
+          "label": "B",
+          "text": "origins",
+          "isCorrect": false
+        },
+        {
+          "id": 1226055,
+          "label": "C",
+          "text": "original",
+          "isCorrect": true
+        },
+        {
+          "id": 1226056,
+          "label": "D",
+          "text": "origin",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1226055,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Xem xét chỗ trống nằm giữa mạo từ \"<em>the</em>\" và danh từ \"<em>idea</em>\". Bạn cần một loại từ phù hợp có thể đứng giữa mạo từ và danh từ để bổ nghĩa cho danh từ?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 265px;\"><iframe width=\"100%\" height=\"478\" id=\"DED011BE\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19d52lLmNcx%2B5RF9GxIF3EWn%2F5M0qE8LCNRVGxQgy10Y8XuAqneQpIUHWL6tnSyn0xFgdWm8Pr2%2F1HBrWJdYIXsrDFhDUyUl2UjEdzNXxHx5VMTlWZqTughUO0suPnpJ4o8gDfx5kTgSkFmNHMX3Sp1lHgb4eRVkun%2FpucDqV7BGtIY%2BvmLG2WmLEplBgirbOfDoVxBbOqQHWuNWE5DSQmII0swkKX4M8x6efHP27N3%2BLYFnRj8ToV1KNTdpe47dVgwQM3U%2FnUFhBllqjSxlUyGhdepm4yqjUyIwjYIlHodzJRfwb10l5zNWgtX2DHBtUQV%2B800DJpx3XhT61HqSLfluHNIAappKgk%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống đứng giữa mạo từ \"<em>the</em>\" và danh từ \"<em>idea</em>\", cho thấy cần một tính từ để bổ nghĩa cho danh từ này. Trong các phương án, <em><b>original</b> </em>là tính từ có nghĩa \"ban đầu, nguyên bản\", hoàn toàn phù hợp với ngữ cảnh \"ý tưởng ban đầu\". Các phương án khác là trạng từ (<em>originally</em>) hoặc danh từ (<em>origin, origins</em>) nên không thể đứng ở vị trí này để bổ nghĩa cho danh từ.</p>",
+      "answerFeedbacks": {
+        "1226053": "Là một trạng từ, thường bổ nghĩa cho động từ, tính từ hoặc trạng từ khác, không bổ nghĩa trực tiếp cho danh từ \"idea\".",
+        "1226054": "Là một danh từ số nhiều, không phù hợp để bổ nghĩa cho danh từ \"idea\" trong cấu trúc này.",
+        "1226055": "Là một tính từ, bổ nghĩa cho danh từ \"idea\" để chỉ \"ý tưởng ban đầu\" hoặc \"ý tưởng nguyên bản\", phù hợp với ngữ cảnh.",
+        "1226056": "Là một danh từ số ít, không thể đứng trước danh từ \"idea\" để bổ nghĩa trực tiếp cho nó trong cấu trúc này."
+      },
+      "images": []
+    },
+    {
+      "id": 45582,
+      "questionNumber": 29,
+      "questionName": "Q16",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The <u>spectacularly</u> Royal Palace <u>of</u> the <u>Imperial City</u> is one of Hue&#8217;s main tourist <u><u>attractions<u>.</u></u></u></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 132420,
+          "label": "A",
+          "text": "spectacularly",
+          "isCorrect": true
+        },
+        {
+          "id": 132421,
+          "label": "B",
+          "text": "of",
+          "isCorrect": false
+        },
+        {
+          "id": 132422,
+          "label": "C",
+          "text": "Imperial City",
+          "isCorrect": false
+        },
+        {
+          "id": 132423,
+          "label": "D",
+          "text": "attractions",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 132420,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cần d&ugrave;ng t&iacute;nh từ đứng trước cụm danh từ \"<strong>Royal Palace of the Imperial City</strong>\" để bổ nghĩa.</p>\n<p><strong>spectacularly </strong>(adv.): (một c&aacute;ch) ngoạn mục =&gt; Kh&ocirc;ng đ&uacute;ng với ngữ ph&aacute;p của c&acirc;u.</p>\n<p><strong>spectacular</strong> (adj.): đẹp mắt, tr&aacute;ng lệ&nbsp;</p>\n<p>Sửa: \"<strong>spectacularly</strong>\" =&gt; \"<strong>spectacular</strong>\"</p>\n<p>Dịch: Kinh th&agrave;nh Huế tr&aacute;ng lệ l&agrave; một trong những điểm thu h&uacute;t kh&aacute;ch du lịch ch&iacute;nh của Huế.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 345707,
+      "questionNumber": 30,
+      "questionName": "29",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>This kind of jacket is <u>considered</u> <u>to be</u> very <u>fashion</u> <u>these days</u>.</strong></p>\n<div style=\"position: absolute; left: 470px; top: 22px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 730276,
+          "label": "A",
+          "text": "considered",
+          "isCorrect": false
+        },
+        {
+          "id": 730277,
+          "label": "B",
+          "text": "to be",
+          "isCorrect": false
+        },
+        {
+          "id": 730278,
+          "label": "C",
+          "text": "fashion",
+          "isCorrect": true
+        },
+        {
+          "id": 730279,
+          "label": "D",
+          "text": "these days",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 730278,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cần một t&iacute;nh từ đứng sau động từ \"<strong>be</strong>\" v&agrave; được bổ sung nghĩa bởi trạng từ \"<strong>very</strong>\".</p>\n<p><strong>fashion</strong> (n.): thời trang =&gt; Kh&ocirc;ng đ&uacute;ng với ngữ ph&aacute;p của c&acirc;u.</p>\n<p><strong>fashionable</strong> (adj.): hợp thời trang, s&agrave;nh điệu</p>\n<p>Sửa: \"<strong>fashion</strong>\" =&gt; \"<strong>fashionable</strong>\"</p>\n<p>Dịch: Hiện nay loại &aacute;o kho&aacute;c n&agrave;y được xem l&agrave; rất hợp thời trang.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 457392,
+      "questionNumber": 31,
+      "questionName": "21",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>I admire Tom <span style=\"text-decoration: underline;\">because</span> he <span style=\"text-decoration: underline;\">is</span> a handsome and <span style=\"text-decoration: underline;\">friend</span> <span style=\"text-decoration: underline;\">student</span> in his school. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 917912,
+          "label": "A",
+          "text": "because",
+          "isCorrect": false
+        },
+        {
+          "id": 917913,
+          "label": "B",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "id": 917914,
+          "label": "C",
+          "text": "friend",
+          "isCorrect": true
+        },
+        {
+          "id": 917915,
+          "label": "D",
+          "text": "student",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 917914,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cần điền một t&iacute;nh từ trước danh từ \"<strong>student</strong>\" để bổ sung nghĩa cho danh từ n&agrave;y.</p>\n<p><strong>friend</strong> (n.): bạn =&gt; Kh&ocirc;ng đ&uacute;ng với ngữ ph&aacute;p của c&acirc;u.&nbsp;</p>\n<p><strong>friendly</strong> (adj.): th&acirc;n thiện&nbsp;</p>\n<p>Sửa: \"<strong>friend</strong>\" =&gt; \"<strong>friendly</strong>\"</p>\n<p>Dịch: T&ocirc;i ngưỡng mộ Tom v&igrave; anh ấy l&agrave; một học sinh đẹp trai v&agrave; th&acirc;n thiện trong trường.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 613848,
+      "questionNumber": 32,
+      "questionName": "11",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>We can <span style=\"text-decoration: underline;\">save</span> <span style=\"text-decoration: underline;\">nature</span> resources by <span style=\"text-decoration: underline;\">using</span> solar energy instead <span style=\"text-decoration: underline;\">of</span> coal, gas and oil.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1181770,
+          "label": "A",
+          "text": "save",
+          "isCorrect": false
+        },
+        {
+          "id": 1181771,
+          "label": "B",
+          "text": "nature",
+          "isCorrect": true
+        },
+        {
+          "id": 1181772,
+          "label": "C",
+          "text": "using",
+          "isCorrect": false
+        },
+        {
+          "id": 1181773,
+          "label": "D",
+          "text": "of",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1181771,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cần một t&iacute;nh từ đứng trước v&agrave; bổ sung nghĩa cho danh từ \"<strong>resources</strong>\".&nbsp;</p>\n<p><strong>nature</strong> (n.): thi&ecirc;n nhi&ecirc;n =&gt; Kh&ocirc;ng đ&uacute;ng với ngữ ph&aacute;p của c&acirc;u.&nbsp;</p>\n<p><strong>natural </strong>(adj.): thuộc tự nhi&ecirc;n&nbsp;</p>\n<p>Sửa: \"<strong>nature</strong>\" =&gt; \"<strong>natural</strong>\"</p>\n<p>Dịch: Ch&uacute;ng ta c&oacute; thể tiết kiệm t&agrave;i nguy&ecirc;n thi&ecirc;n nhi&ecirc;n bằng c&aacute;ch sử dụng năng lượng mặt trời thay v&igrave; than, kh&iacute; đốt v&agrave; dầu mỏ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 559103,
+      "questionNumber": 33,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Without <u>particularly</u> practice, you could <span style=\"text-decoration: underline;\">not</span> play <span style=\"text-decoration: underline;\">the</span> piano <span style=\"text-decoration: underline;\">beautifully</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1087515,
+          "label": "A",
+          "text": "particularly",
+          "isCorrect": true
+        },
+        {
+          "id": 1087516,
+          "label": "B",
+          "text": "not",
+          "isCorrect": false
+        },
+        {
+          "id": 1087517,
+          "label": "C",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "id": 1087518,
+          "label": "D",
+          "text": "beautifully",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1087515,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\"><li style=\"text-align: justify; margin-bottom: 3px;\">Xác định từ loại của <em>\"particularly\"</em> và <em>\"practice\"</em>, sau đó xem xét quy tắc bổ nghĩa giữa các từ loại này.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra cách sử dụng của <em>\"not\"</em> trong câu phủ định với động từ khiếm khuyết <em>\"could\"</em>.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét quy tắc sử dụng mạo từ <em>\"the\"</em> trước danh từ <em>\"piano\"</em>.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Xác định từ loại của <em>\"beautifully\"</em> và chức năng của nó trong mối quan hệ với động từ <em>\"play\"</em>.</li></ul><p style=\"text-align: justify;\">Đối chiếu từng quy tắc với câu gốc để tìm phần cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 180px;\"><iframe width=\"100%\" height=\"180\" style=\"border: none;\" id=\"embed-frame-7BB57\" loading=\"lazy\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2F95ocky9yMDcGspiFTSXUGMmM6a8Otr8wik%2BsPZqgjGaTsQo6wBPfF%2BCnMiGeIQZL4r8TEPK5ry93xExQxLExbQwdaVYLBdsHvFJ0ND6XkNh2zBoFGsF4KxUxNqQ9%2FRG16QrEAit%2FBZ8%2BHlleUM0V%2Bfxr2KJrUVaWKR55VLOKuxpdvuymNrJEgBH8raov8CdLh0jiY%2BcvTZWueEfp3CKY9D6Z%2FNVUAARVCRSqAjNYAVHh7VZxF61kWKfjhy0N%2FqjRoDVrWSpTWWMwKtENzn2OiyKu3eijPAE%2F7OymEt7Yneyalptbw4zLQZNjPm9Y1fLfsBcUKuoJXqg%3D%3D\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Trạng từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng: </strong>Trạng từ trong tiếng Anh dùng để bổ sung thông tin về thời gian, nơi chốn, cách thức, tần suất hoặc mức độ cho động từ, tính từ, một trạng từ khác hoặc cả câu.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong cụm từ <em>\"Without particularly practice\"</em>, từ <em>\"practice\"</em> là một danh từ. Trạng từ <em>\"particularly\"</em> không thể trực tiếp bổ nghĩa cho một danh từ. Thay vào đó, cần sử dụng tính từ <em>\"particular\"</em> để bổ nghĩa cho danh từ <em>\"practice\"</em>, tạo thành cụm <em>\"particular practice\"</em>.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>particularly</strong></em>\" =&gt; \"<em><strong>particular</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "1087515": "Sai vì trạng từ <em>\"particularly\"</em> không thể bổ nghĩa trực tiếp cho danh từ <em>\"practice\"</em>; cần sử dụng tính từ <em>\"particular\"</em>.",
+        "1087516": "Đúng vì <em>\"not\"</em> được dùng chính xác để tạo thành thể phủ định cho động từ khiếm khuyết <em>\"could\"</em>.",
+        "1087517": "Đúng vì mạo từ <em>\"the\"</em> được dùng chính xác để chỉ một nhạc cụ cụ thể (<em>\"piano\"</em>).",
+        "1087518": "Đúng vì trạng từ <em>\"beautifully\"</em> được dùng chính xác để bổ nghĩa cho động từ <em>\"play\"</em>, mô tả cách chơi đàn."
+      },
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,1002 @@
+{
+  "quizId": 5777,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 12: Present Continuous (Thì hiện tại tiếp diễn)",
+  "totalQuestions": 27,
+  "questions": [
+    {
+      "id": 896914,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Vi&#7871;t ra c&#225;c t&#7915;/c&#7909;m t&#7915; l&#224; d&#7845;u hi&#7879;u nh&#7853;n bi&#7871;t c&#7911;a th&#236; hi&#7879;n t&#7841;i ti&#7871;p di&#7877;n trong c&#225;c c&#226;u sau.</strong></p>\n<p>Example: <span style=\"text-decoration: underline;\">Right now</span>, my dad is washing the car in the driveway. =&gt; Right now</p>\n<p>1. At the moment, we are decorating the house for the party tonight. =&gt; <span class='fillblank-option'><label>1.1</label><input id='fbo-896914-0' class='ms fillblank-option-1' index='0' name='fbo-896914-0' type='text' size='14' autocomplete='off' data-testid='fillblank-input-896914-0' /></span></p>\n<p>2. Be careful! The kids are crossing the street. =&gt; <span class='fillblank-option'><label>1.2</label><input id='fbo-896914-1' class='ms fillblank-option-1' index='1' name='fbo-896914-1' type='text' size='12' autocomplete='off' data-testid='fillblank-input-896914-1' /></span></p>\n<p>3. The teacher<strong> </strong>is explaining a new lesson now. =&gt; <span class='fillblank-option'><label>1.3</label><input id='fbo-896914-2' class='ms fillblank-option-1' index='2' name='fbo-896914-2' type='text' size='5' autocomplete='off' data-testid='fillblank-input-896914-2' /></span></p>\n<p>4. Currently, she is working on a painting for her art class. =&gt; <span class='fillblank-option'><label>1.4</label><input id='fbo-896914-3' class='ms fillblank-option-1' index='3' name='fbo-896914-3' type='text' size='10' autocomplete='off' data-testid='fillblank-input-896914-3' /></span></p>\n<p>5. Listen! The birds are singing so beautifully in the trees. =&gt; <span class='fillblank-option'><label>1.5</label><input id='fbo-896914-4' class='ms fillblank-option-1' index='4' name='fbo-896914-4' type='text' size='11' autocomplete='off' data-testid='fillblank-input-896914-4' /></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "At the moment"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Be careful!",
+            "Be careful"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "now"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "Currently"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "Listen!",
+            "Listen"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/1_-_Copy_2733_PNG_33e38872.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 896941,
+      "questionNumber": 2,
+      "questionName": "r",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#250;ng ta s&#7917; d&#7909;ng th&#236; hi&#7879;n t&#7841;i ti&#7871;p di&#7877;n &#273;&#7875; n&#243;i v&#7873;:&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1705811,
+          "label": "A",
+          "text": "những hành động, thói quen lặp đi lặp lại",
+          "isCorrect": false
+        },
+        {
+          "id": 1705812,
+          "label": "B",
+          "text": "một hành động đang xảy ra tại thời điểm nói",
+          "isCorrect": true
+        },
+        {
+          "id": 1705813,
+          "label": "C",
+          "text": "hành động thường xuyên lặp đi lặp lại gây sự bực mình hay khó chịu cho người nói",
+          "isCorrect": true
+        },
+        {
+          "id": 1705814,
+          "label": "D",
+          "text": "sự thật hiển nhiên",
+          "isCorrect": false
+        },
+        {
+          "id": 1705815,
+          "label": "E",
+          "text": "cái gì đó thay đổi, phát triển hơn",
+          "isCorrect": true
+        },
+        {
+          "id": 1705816,
+          "label": "F",
+          "text": "một hành động hoặc sự việc đang diễn ra nhưng không nhất thiết phải thực sự diễn ra ngay lúc nói",
+          "isCorrect": true
+        },
+        {
+          "id": 1705817,
+          "label": "Opt 7",
+          "text": "trạng thái",
+          "isCorrect": false
+        },
+        {
+          "id": 1705818,
+          "label": "Opt 8",
+          "text": "một hành động sắp xảy ra trong tương lai gần, thường là một kế hoạch đã lên lịch sẵn",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1705812,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 50.0392%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/1_-_Copy_2734_PNG_1a302981.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 50.0392%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/2_-_Copy_224_PNG_ce2654a1.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 896945,
+      "questionNumber": 3,
+      "questionName": "1",
+      "questionType": "Matching",
+      "questionText": "<p><strong>C&#225;ch s&#7917; d&#7909;ng c&#7911;a th&#236; hi&#7879;n t&#7841;i ti&#7871;p di&#7877;n trong m&#7895;i c&#226;u l&#224; g&#236;?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2dc26b; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 50.0392%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/1_-_Copy_2734_PNG_1a302981.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 50.0392%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/2_-_Copy_224_PNG_ce2654a1.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 48067,
+      "questionNumber": 4,
+      "questionName": "P3",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Write questions, using the present continuous.</strong></p>\n<p><em>Example: </em><strong>He/ light/ a fire?&nbsp;</strong><span style=\"font-weight: 400;\">=&gt; <strong>Is he lighting a fire?</strong></span></p>\n<p>1. <strong>Jane/ do/ her homework/ moment? </strong>=&gt; <span class='fillblank-option'><label>4.1</label><input id='fbo-48067-0' class='ms fillblank-option-4' index='0' name='fbo-48067-0' type='text' size='42' autocomplete='off' data-testid='fillblank-input-48067-0' /></span></p>\n<p>2. <strong>they/ have/ dinner/ now? </strong>=&gt; <span class='fillblank-option'><label>4.2</label><input id='fbo-48067-1' class='ms fillblank-option-4' index='1' name='fbo-48067-1' type='text' size='30' autocomplete='off' data-testid='fillblank-input-48067-1' /></span></p>\n<p>3. <strong>Who/</strong> <strong>you and Tom/ visit/ tomorrow? </strong>=&gt; <span class='fillblank-option'><label>4.3</label><input id='fbo-48067-2' class='ms fillblank-option-4' index='2' name='fbo-48067-2' type='text' size='39' autocomplete='off' data-testid='fillblank-input-48067-2' /></span></p>\n<p>4.<strong> Why/ you/ get dressed? </strong>=&gt; <span class='fillblank-option'><label>4.4</label><input id='fbo-48067-3' class='ms fillblank-option-4' index='3' name='fbo-48067-3' type='text' size='30' autocomplete='off' data-testid='fillblank-input-48067-3' /></span></p>\n<p>5. <strong>your family/ move/ a new house/ next week?</strong> <span class='fillblank-option'><label>4.5</label><input id='fbo-48067-4' class='ms fillblank-option-4' index='4' name='fbo-48067-4' type='text' size='50' autocomplete='off' data-testid='fillblank-input-48067-4' /></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Is Jane doing her homework at the moment?"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Are they having dinner now?"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "Who are you and Tom visiting tomorrow?"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "Why are you getting dressed?"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "Is your family moving to a new house next week?"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để diễn tả h&agrave;nh động đang xảy ra tại thời điểm n&oacute;i ở c&aacute;c c&acirc;u 1, 2 v&agrave; 4.&nbsp;</p>\n<p>Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để n&oacute;i về kế hoạch trong tương lai ở c&acirc;u 3 v&agrave; 5.&nbsp;</p>\n<p>Cấu tr&uacute;c th&igrave; hiện tại tiếp diễn thể nghi vấn: <strong>(Wh-)</strong> <strong>Am/ Is/ Are + S + V-ing ...?</strong></p>\n<p>1. Chủ ngữ \"<strong>Jane</strong>\" chỉ một đối tượng (số &iacute;t) =&gt; d&ugrave;ng động từ to be \"<strong>is</strong>\".</p>\n<p>Dịch: Hiện tại Jane c&oacute; đang l&agrave;m b&agrave;i tập về nh&agrave; kh&ocirc;ng?</p>\n<p>2. Chủ ngữ \"<strong>they</strong>\" l&agrave; đại từ ở ng&ocirc;i thứ 3 số nhiều =&gt; d&ugrave;ng động từ to be \"<strong>are</strong>\".</p>\n<p>Dịch: B&acirc;y giờ họ đang ăn tối phải kh&ocirc;ng?</p>\n<p>3. Chủ ngữ \"<strong>you and Tom</strong>\" chỉ hai đối tượng (số nhiều) =&gt; d&ugrave;ng động từ to be \"<strong>are</strong>\".</p>\n<p>Động từ<strong> </strong>\"<strong>visit</strong>\" c&oacute; kết th&uacute;c bằng một nguy&ecirc;n &acirc;m + một phụ &acirc;m nhưng trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất =&gt; kh&ocirc;ng gấp đ&ocirc;i phụ &acirc;m \"<strong>t</strong>\" khi th&ecirc;m <strong>-ing</strong>.</p>\n<p>Dịch: Ng&agrave;y mai bạn v&agrave; Tom sẽ đi thăm ai?</p>\n<p>4. Chủ ngữ<strong> </strong>\"<strong>you</strong>\" l&agrave; đại từ ở ng&ocirc;i thứ 2 =&gt; d&ugrave;ng động từ to be \"<strong>are</strong>\".</p>\n<p>Động từ \"<strong>get</strong>\" c&oacute; kết th&uacute;c bằng một nguy&ecirc;n &acirc;m + một phụ &acirc;m v&agrave; c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết đ&oacute; =&gt; gấp đ&ocirc;i phụ &acirc;m \"<strong>t</strong>\" khi th&ecirc;m <strong>-ing</strong>.</p>\n<p>Dịch: Tại sao bạn đang l&ecirc;n đồ?</p>\n<p>5. Tất cả c&aacute;c th&agrave;nh vi&ecirc;n trong gia đ&igrave;nh c&ugrave;ng l&agrave;m một việc n&ecirc;n chủ ngữ \"<strong>your family</strong>\" được coi l&agrave; một đối tượng (số &iacute;t) =&gt; d&ugrave;ng động từ to be \"<strong>is</strong>\".</p>\n<p>Động từ \"<strong>move</strong>\" kết th&uacute;c với \"<strong>e</strong>\" =&gt; bỏ \"<strong>e</strong>\" khi th&ecirc;m <strong>-ing</strong>.</p>\n<p>Dịch: Tuần tới gia đ&igrave;nh bạn sẽ chuyển đến nh&agrave; mới phải kh&ocirc;ng?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 40541,
+      "questionNumber": 5,
+      "questionName": "Q48",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.&nbsp;</em></p>\n<p><strong>Tonight we (not/go) <span class='fillblank-option'><input id='fbo-40541-0' class='ms fillblank-option-5' index='0' name='fbo-40541-0' type='text' size='14' autocomplete='off' data-testid='fillblank-input-40541-0' /></span></strong> <strong>to our teacher&#8217;s wedding party.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "aren’t going",
+            "aren't going",
+            "are not going"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn d&ugrave;ng để diễn tả những kế hoạch, dự định trong tương lai gần. Dấu hiệu: <strong>tonight</strong> (tối nay).</p>\n<p>Cấu tr&uacute;c thể phủ định:<strong> S + am/is/are + not + V-ing</strong></p>\n<p>Chủ ngữ \"<strong>we</strong>\" l&agrave; ng&ocirc;i thứ 3 số nhiều =&gt; d&ugrave;ng động từ to be \"<strong>are</strong>\".</p>\n<p>Dịch: Tối nay ch&uacute;ng t&ocirc;i sẽ kh&ocirc;ng đi dự tiệc cưới của c&ocirc; gi&aacute;o ch&uacute;ng t&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 701350,
+      "questionNumber": 6,
+      "questionName": "new",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verbs in the brackets.</em></p>\n<p><strong>At present, Nick (do) <span class='fillblank-option'><input id='fbo-701350-0' class='ms fillblank-option-6' index='0' name='fbo-701350-0' type='text' size='10' autocomplete='off' data-testid='fillblank-input-701350-0' /></span> homework with his friends in school library.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "is doing"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để diễn tả một h&agrave;nh động đang diễn ra tại thời điểm n&oacute;i. Dấu hiệu: \"<strong>At present</strong>\".&nbsp;</p>\n<p>Cấu tr&uacute;c thể khẳng định:<strong> S + am/is/are + V-ing</strong></p>\n<p>Chủ ngữ \"<strong>Nick</strong>\" chỉ một đối tượng (số &iacute;t) n&ecirc;n d&ugrave;ng động từ to be \"<strong>is</strong>\".&nbsp;</p>\n<p>Dịch: B&acirc;y giờ, Nick đang l&agrave;m b&agrave;i tập về nh&agrave; c&ugrave;ng với c&aacute;c bạn của cậu ấy ở thư viện trường.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 122966,
+      "questionNumber": 7,
+      "questionName": "0",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.&nbsp;</em></p>\n<p><strong>Jennifer and her sister <span class='fillblank-option'><input id='fbo-122966-0' class='ms fillblank-option-7' index='0' name='fbo-122966-0' type='text' size='14' autocomplete='off' data-testid='fillblank-input-122966-0' /></span> (study) in their room at the moment.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "are studying"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\">Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để diễn tả một h&agrave;nh động đang diễn ra tại thời điểm n&oacute;i. Dấu hiệu: \"<strong>at the moment</strong>\".</p>\n<p style=\"text-align: justify;\">Cấu tr&uacute;c thể khẳng định: <strong>S + am/is/are + V-ing</strong></p>\n<p style=\"text-align: justify;\">Chủ ngữ \"<strong>Jennifer and her sister</strong>\" chỉ hai đối tượng (số nhiều) =&gt; động từ to be tương ứng l&agrave; \"<strong>are</strong>\".</p>\n<p style=\"text-align: justify;\">Dịch: Jennifer v&agrave; chị g&aacute;i đang học ở trong ph&ograve;ng của họ ngay l&uacute;c n&agrave;y.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 686510,
+      "questionNumber": 8,
+      "questionName": "4",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Look! The little girl (feed) <span class='fillblank-option'><input id='fbo-686510-0' class='ms fillblank-option-8' index='0' name='fbo-686510-0' type='text' size='12' autocomplete='off' data-testid='fillblank-input-686510-0' /></span> those dogs and cats. What a nice kid!</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "is feeding"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\">Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để diễn tả h&agrave;nh động, sự việc đang xảy ra tại thời điểm n&oacute;i. Dấu hiệu: \"<strong>Look!</strong>\".</p>\n<p style=\"text-align: justify;\">Cấu tr&uacute;c thể khẳng định: <strong>S + am/is/are + V-ing</strong></p>\n<p style=\"text-align: justify;\">Chủ ngữ \"<strong>The little girl</strong>\" l&agrave; cụm danh từ số &iacute;t n&ecirc;n d&ugrave;ng động từ to be \"<strong>is</strong>\".</p>\n<p style=\"text-align: justify;\">Dịch: Nh&igrave;n k&igrave;a! C&ocirc; b&eacute; đang cho những ch&uacute; ch&oacute; v&agrave; ch&uacute; m&egrave;o đ&oacute; ăn. Đ&uacute;ng l&agrave; l&agrave; một đứa trẻ ngoan.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 16246,
+      "questionNumber": 9,
+      "questionName": "VII",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Last year, we installed ordinary light bulbs in our house, but now we (use) <span class='fillblank-option'><input id='fbo-16246-0' class='ms fillblank-option-9' index='0' name='fbo-16246-0' type='text' size='13' autocomplete='off' data-testid='fillblank-input-16246-0' /></span> energy-saving ones.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "are using",
+            "'re using",
+            "’re using"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để diễn tả một h&agrave;nh động đang xảy ra ở thời đi&ecirc;̉m hi&ecirc;̣n tại. D&acirc;́u hi&ecirc;̣u: \"<strong>now</strong>\".</p>\n<p>C&acirc;́u trúc thể khẳng định: <strong>S + is/are/am + V-ing</strong></p>\n<p>Chủ ngữ là đại từ \"<strong>we</strong>\" =&gt; d&ugrave;ng đ&ocirc;̣ng từ to be \"<strong>are</strong>\".</p>\n<p>Dịch: Năm ngo&aacute;i, ch&uacute;ng t&ocirc;i lắp b&oacute;ng đ&egrave;n th&ocirc;ng thường trong nh&agrave;, nhưng b&acirc;y giờ ch&uacute;ng t&ocirc;i đang sử dụng b&oacute;ng đ&egrave;n tiết kiệm năng lượng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 510380,
+      "questionNumber": 10,
+      "questionName": "5",
+      "questionType": "FillBlank",
+      "questionText": "<div data-canvas-width=\"287\">\n<p><em>Give the correct form of the verb in brackets.</em></p>\n<p><strong>The cattle (graze) <span class='fillblank-option'><input id='fbo-510380-0' class='ms fillblank-option-10' index='0' name='fbo-510380-0' type='text' size='12' autocomplete='off' data-testid='fillblank-input-510380-0' /></span> on the green pastures right now.</strong></p>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "are grazing"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để diễn tả một h&agrave;nh động đang diễn ra tại thời điểm n&oacute;i. Dấu hiệu: \"<strong>right</strong> <strong>now</strong>\".</p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + am/is/are + V-ing</strong></p>\n<p>Chủ ngữ \"<strong>The</strong> <strong>cattle</strong>\" chỉ nhiều đối tượng (số nhiều). =&gt; D&ugrave;ng động từ to be \"<strong>are</strong>\".</p>\n<p>Dịch: B&acirc;y giờ đ&agrave;n gia s&uacute;c đang gặm cỏ tr&ecirc;n đồng cỏ xanh tươi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 755924,
+      "questionNumber": 11,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>The children (not work) <span class='fillblank-option'><input id='fbo-755924-0' class='ms fillblank-option-11' index='0' name='fbo-755924-0' type='text' size='19' autocomplete='off' data-testid='fillblank-input-755924-0' /></span> on the project at the moment. They are in the kitchen.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "are not working",
+            "aren't working",
+            "aren’t working"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để diễn tả h&agrave;nh động đang xảy ra tại thời điểm n&oacute;i. Dấu hiệu: \"<strong>at the moment</strong>\".</p>\n<p>Cấu tr&uacute;c thể phủ định: <strong>S + is/am/are + not + V-ing</strong></p>\n<p>Chủ ngữ \"<strong>The children</strong>\" chỉ nhiều đối tượng (số nhiều) =&gt; d&ugrave;ng động từ to be \"<strong>are</strong>\".&nbsp;</p>\n<p>Dịch: Hiện tại bọn trẻ đang kh&ocirc;ng l&agrave;m dự &aacute;n. Ch&uacute;ng đang ở trong bếp.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 764679,
+      "questionNumber": 12,
+      "questionName": "(*) httd",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in brackets.</em></p>\n<p><strong>She (not wear) <span class='fillblank-option'><input id='fbo-764679-0' class='ms fillblank-option-12' index='0' name='fbo-764679-0' type='text' size='15' autocomplete='off' data-testid='fillblank-input-764679-0' /></span> a jacket at the moment even though it's quite cold outside.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "isn't wearing",
+            "isn’t wearing",
+            "is not wearing",
+            "'s not wearing",
+            "’s not wearing"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để diễn tả h&agrave;nh động đang xảy ra tại thời điểm n&oacute;i. Dấu hiệu: \"<strong>at the moment</strong>\".&nbsp;</p>\n<p>Cấu tr&uacute;c thể phủ định: <strong>S + is/am/are + not + V-ing&nbsp;</strong></p>\n<p>Chủ ngữ l&agrave; đại từ \"<strong>she</strong>\" ở ng&ocirc;i thứ ba số &iacute;t =&gt; d&ugrave;ng động từ to be \"<strong>is</strong>\".&nbsp;</p>\n<p>Dịch: B&acirc;y giờ c&ocirc; ấy đang kh&ocirc;ng mặc &aacute;o kho&aacute;c mặc d&ugrave; b&ecirc;n ngo&agrave;i trời kh&aacute; lạnh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 47184,
+      "questionNumber": 13,
+      "questionName": "Question 30",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong> All the waiters in this restaurant _____ an urgent meeting right now. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 136857,
+          "label": "A",
+          "text": "are attending",
+          "isCorrect": true
+        },
+        {
+          "id": 136858,
+          "label": "B",
+          "text": "is attending",
+          "isCorrect": false
+        },
+        {
+          "id": 136859,
+          "label": "C",
+          "text": "attends",
+          "isCorrect": false
+        },
+        {
+          "id": 136860,
+          "label": "D",
+          "text": "attend",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 136857,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đúng dạng động từ, bạn cần xem xét cả thì của hành động và sự hòa hợp giữa chủ ngữ và động từ.</p>\n<ul>\n<li>Chú ý cụm từ chỉ thời gian <em>\"right now\"</em> trong câu gợi ý về một hành động đang diễn ra và là dấu hiệu của thì Hiện tại tiếp diễn.</li>\n<li>Xác định chủ ngữ của câu là <em>\"All the waiters\"</em> là một chủ ngữ số nhiều.</li>\n</ul>\n<p>Sau khi xác định được thì và chủ ngữ, hãy tìm phương án động từ phù hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì hiện tại tiếp diễn và sự hòa hợp chủ ngữ - động từ</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Thì hiện tại tiếp diễn dùng để diễn tả một hành động đang xảy ra tại thời điểm nói hoặc xung quanh thời điểm nói. Quy tắc hòa hợp chủ ngữ - động từ yêu cầu động từ phải chia phù hợp với số ít hay số nhiều của chủ ngữ.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + Aux.V (to be) + V-ing</span></p>\n<p><strong>Một số cách chia động từ theo thì và hòa hợp chủ ngữ - động từ:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Chủ ngữ số nhiều (N-plural) + are + V-ing:</span></strong> đang làm gì (với chủ ngữ số nhiều)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Chủ ngữ số ít (N-singular) + is + V-ing:</span></strong> đang làm gì (với chủ ngữ số ít)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm từ <em>\"right now\"</em> là dấu hiệu nhận biết của thì hiện tại tiếp diễn, chỉ một hành động đang diễn ra tại thời điểm nói. Chủ ngữ của câu là <em>\"All the waiters\"</em>, đây là một chủ ngữ số nhiều. Do đó, động từ cần được chia ở thì hiện tại tiếp diễn và phải hòa hợp với chủ ngữ số nhiều, tức là <em>\"are attending\"</em>.</p>\n<p style=\"text-align: justify;\">Các phương án ''<em>attend</em>'' và ''<em>attends </em>ở thì Hiện tại đơn đều không phù hợp để chỉ một hành động đang diễn ra tại thời điểm nói, phương án ''<em>is attending</em>'' không hòa hợp với chủ ngữ số nhiều ''<em>All the waiters</em>''.</p>",
+      "answerFeedbacks": {
+        "136857": "Đúng vì chủ ngữ số nhiều \"All the waiters\" kết hợp với thì hiện tại tiếp diễn \"are attending\" để diễn tả hành động đang xảy ra \"right now\".",
+        "136858": "Sai vì động từ \"is attending\" chia cho chủ ngữ số ít, trong khi chủ ngữ \"All the waiters\" là số nhiều.",
+        "136859": "Sai vì \"attends\" là thì hiện tại đơn chia cho chủ ngữ số ít, không phù hợp với chủ ngữ số nhiều và dấu hiệu \"right now\" chỉ hành động đang diễn ra.",
+        "136860": "Sai vì \"attend\" là thì hiện tại đơn chia cho chủ ngữ số nhiều, không phù hợp với dấu hiệu \"right now\" chỉ hành động đang diễn ra."
+      },
+      "images": []
+    },
+    {
+      "id": 778872,
+      "questionNumber": 14,
+      "questionName": "27",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Penny _____ a bath at the moment so it's better if you call back later.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1496219,
+          "label": "A",
+          "text": "have",
+          "isCorrect": false
+        },
+        {
+          "id": 1496220,
+          "label": "B",
+          "text": "has",
+          "isCorrect": false
+        },
+        {
+          "id": 1496221,
+          "label": "C",
+          "text": "is having",
+          "isCorrect": true
+        },
+        {
+          "id": 1496222,
+          "label": "D",
+          "text": "are having",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1496221,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đ&aacute;p &aacute;n đ&uacute;ng, bạn cần xem x&eacute;t hai yếu tố sau:</p>\n<ul>\n<li><strong>Dấu hiệu thời gian:</strong> H&atilde;y ch&uacute; &yacute; đến cụm từ <em>\"at the moment\"</em> trong c&acirc;u. Cụm từ n&agrave;y thường đi k&egrave;m với th&igrave; n&agrave;o để diễn tả một h&agrave;nh động đang diễn ra?</li>\n<li><strong>H&ograve;a hợp chủ ngữ - động từ:</strong> X&aacute;c định chủ ngữ <em>\"Penny\"</em> l&agrave; số &iacute;t hay số nhiều. Sau đ&oacute;, h&atilde;y chọn dạng động từ <em>\"to be\"</em> (<em>am/is/are</em>) ph&ugrave; hợp với chủ ngữ n&agrave;y trong cấu tr&uacute;c của th&igrave; hiện tại tiếp diễn (<em>S + be + V-ing</em>).</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Th&igrave; Hiện tại tiếp diễn</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Diễn tả một h&agrave;nh động đang xảy ra tại thời điểm n&oacute;i hoặc một h&agrave;nh động mang t&iacute;nh tạm thời đang diễn ra xung quanh thời điểm n&oacute;i.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c thể khẳng định: <span style=\"color: #1c581f;\">S + am/is/are + V-ing</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, cụm từ <em>\"at the moment\"</em> l&agrave; dấu hiệu nhận biết của th&igrave; hiện tại tiếp diễn, diễn tả h&agrave;nh động đang xảy ra tại thời điểm n&oacute;i. Chủ ngữ <em>\"Penny\"</em> l&agrave; danh từ số &iacute;t, do đ&oacute; động từ <em>\"to be\"</em> phải chia l&agrave; <em>\"is\"</em> v&agrave; động từ ch&iacute;nh <em>\"have\"</em> chuyển sang dạng <em>V-ing</em> l&agrave; <em>\"having\"</em>.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 2 <em>\"has\"</em> l&agrave; th&igrave; hiện tại đơn, kh&ocirc;ng ph&ugrave; hợp để diễn tả h&agrave;nh động đang diễn ra. Phương &aacute;n 1 <em>\"have\"</em> v&agrave; 4 <em>\"are having\"</em> kh&ocirc;ng h&ograve;a hợp với chủ ngữ số &iacute;t <em>\"Penny\"</em>.</p>",
+      "answerFeedbacks": {
+        "1496219": "Động từ \"have\" ở dạng nguyên mẫu không phù hợp với chủ ngữ số ít \"Penny\" và thì hiện tại tiếp diễn.",
+        "1496220": "Động từ \"has\" ở thì hiện tại đơn không phù hợp với trạng thái đang diễn ra được biểu thị bởi cụm từ \"at the moment\".",
+        "1496221": "\"is having\" là dạng đúng của thì hiện tại tiếp diễn cho chủ ngữ số ít \"Penny\" và phù hợp với trạng thái đang diễn ra được chỉ bởi \"at the moment\".",
+        "1496222": "\"are having\" là dạng thì hiện tại tiếp diễn nhưng không phù hợp với chủ ngữ số ít \"Penny\"."
+      },
+      "images": []
+    },
+    {
+      "id": 669037,
+      "questionNumber": 15,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Now, scientists _____ for new sources of renewable energy to combat climate change.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1289728,
+          "label": "A",
+          "text": "searched",
+          "isCorrect": false
+        },
+        {
+          "id": 1289729,
+          "label": "B",
+          "text": "have searched",
+          "isCorrect": false
+        },
+        {
+          "id": 1289730,
+          "label": "C",
+          "text": "search",
+          "isCorrect": false
+        },
+        {
+          "id": 1289731,
+          "label": "D",
+          "text": "are searching",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1289731,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Chú ý đến trạng từ chỉ thời gian <em>\"Now\"</em> trong câu là dấu hiệu của thì Hiện tại tiếp diễn.</p>\n<p>Hãy đối chiếu với các phương án và tìm ra dạng động từ phù hợp với thì này.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì hiện tại tiếp diễn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả hành động đang diễn ra tại thời điểm nói hoặc xung quanh thời điểm nói. Nó cũng có thể diễn tả một xu hướng, sự thay đổi đang diễn ra.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + be (am/is/are) + V-ing</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, trạng từ thời gian <em>\"Now\"</em> là dấu hiệu rõ ràng cho thấy hành động đang diễn ra tại thời điểm hiện tại. Ngoài ra, ngữ cảnh cũng mô tả một quá trình nghiên cứu đang diễn ra liên tục để giải quyết vấn đề biến đổi khí hậu. Do đó, phương án ''<em>are searching</em>'' ở thì hiện tại tiếp diễn là lựa chọn phù hợp nhất để diễn tả hành động này. Các phương án còn lại đều không phù hợp với cấu trúc của thì Hiện tại tiếp diễn.</p>",
+      "answerFeedbacks": {
+        "1289728": "Sai vì thì quá khứ đơn <em>\"searched\"</em> dùng để diễn tả hành động đã xảy ra và kết thúc trong quá khứ, không phù hợp với trạng từ <em>\"Now\"</em>.",
+        "1289729": "Sai vì thì hiện tại hoàn thành <em>\"have searched\"</em> diễn tả hành động bắt đầu trong quá khứ và kéo dài đến hiện tại hoặc có kết quả ở hiện tại, không nhấn mạnh hành động đang tiếp diễn tại thời điểm nói.",
+        "1289730": "Sai vì thì hiện tại đơn <em>\"search\"</em> dùng để diễn tả thói quen, sự thật hiển nhiên hoặc lịch trình, không phù hợp với hành động đang diễn ra tại thời điểm hiện tại.",
+        "1289731": "Đúng vì thì hiện tại tiếp diễn <em>\"are searching\"</em> dùng để diễn tả hành động đang diễn ra tại thời điểm nói, phù hợp với trạng từ <em>\"Now\"</em> và ngữ cảnh câu."
+      },
+      "images": []
+    },
+    {
+      "id": 123214,
+      "questionNumber": 16,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Look! The other team must be about to play their substitute because he _____ warmed up at the side of the pitch.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 289882,
+          "label": "A",
+          "text": "has got",
+          "isCorrect": false
+        },
+        {
+          "id": 289883,
+          "label": "B",
+          "text": "gets",
+          "isCorrect": false
+        },
+        {
+          "id": 289885,
+          "label": "C",
+          "text": "is getting",
+          "isCorrect": true
+        },
+        {
+          "id": 289886,
+          "label": "D",
+          "text": "will get",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 289885,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để diễn tả một h&agrave;nh động đang diễn ra tại thời điểm n&oacute;i. Dấu hiệu: \"<strong>Look!</strong>\".</p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + am/is/are + V-ing</strong></p>\n<p>Dịch: Nh&igrave;n k&igrave;a! Đội kia chắc l&agrave; sắp phải đưa người thay thế (v&agrave;o s&acirc;n) v&igrave; anh ấy đang khởi động ở ngo&agrave;i s&acirc;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 698409,
+      "questionNumber": 17,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Jack _____ his homework at the moment, so he can't go to the park with you. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1351924,
+          "label": "A",
+          "text": "does",
+          "isCorrect": false
+        },
+        {
+          "id": 1351925,
+          "label": "B",
+          "text": "did",
+          "isCorrect": false
+        },
+        {
+          "id": 1351926,
+          "label": "C",
+          "text": "is doing",
+          "isCorrect": true
+        },
+        {
+          "id": 1351927,
+          "label": "D",
+          "text": "will do",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1351926,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn thì động từ đúng, hãy chú ý đến các dấu hiệu thời gian trong câu. Cụm từ <em>\"at the moment\"</em> cho biết hành động đang diễn ra và <span style=\"text-align: justify;\">là dấu hiệu nhận biết thì Hiện tại tiếp diễn.</span></p>\n<p><span style=\"text-align: justify;\">Hãy nhớ lại cấu trúc của thì này để chọn ra phương án chính xác.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Hiện tại tiếp diễn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả hành động đang xảy ra tại thời điểm nói hoặc xung quanh thời điểm nói.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + be (am/is/are) + V-ing</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Cụm từ <em>\"at the moment\"</em> trong câu là dấu hiệu nhận biết thì Hiện tại tiếp diễn, chỉ ra rằng hành động đang xảy ra tại thời điểm nói. Vì vậy, động từ cần được chia ở thì Hiện tại tiếp diễn để phù hợp với ngữ cảnh và phương án ''is doing'' là đáp án chính xác tuân thủ cấu trúc của thì này. Các phương án còn lại đều là các dạng động từ được sử dụng ở các thì khác không phù hợp với ngữ cảnh.</p>",
+      "answerFeedbacks": {
+        "1351924": "Sai vì thì Hiện tại đơn (<em>does</em>) diễn tả thói quen hoặc sự thật hiển nhiên, không phù hợp với hành động đang xảy ra tại thời điểm nói.",
+        "1351925": "Sai vì thì Quá khứ đơn (<em>did</em>) diễn tả hành động đã xảy ra và kết thúc trong quá khứ, không phù hợp với ngữ cảnh <em>\"at the moment\"</em>.",
+        "1351926": "Đúng vì thì Hiện tại tiếp diễn (<em>is doing</em>) dùng để diễn tả hành động đang diễn ra tại thời điểm nói, phù hợp với dấu hiệu <em>\"at the moment\"</em>.",
+        "1351927": "Sai vì thì Tương lai đơn (<em>will do</em>) diễn tả hành động sẽ xảy ra trong tương lai, không phù hợp với ngữ cảnh <em>\"at the moment\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 643439,
+      "questionNumber": 18,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The results of the research show that several East Asian countries _____ rapidly at present.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1237472,
+          "label": "A",
+          "text": "were developing",
+          "isCorrect": false
+        },
+        {
+          "id": 1237473,
+          "label": "B",
+          "text": "are developing",
+          "isCorrect": true
+        },
+        {
+          "id": 1237474,
+          "label": "C",
+          "text": "<p>develop</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1237475,
+          "label": "D",
+          "text": "will develop",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1237473,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Cụm từ </span><em style=\"text-align: justify;\">\"at present\"</em><span style=\"text-align: justify;\"> trong câu là dấu hiệu rõ ràng cho thấy hành động đang diễn ra tại thời điểm hiện tại hoặc một xu hướng đang tiếp diễn và là dấu hiệu của thì hiện tại tiếp diễn.</span></p>\n<p><span style=\"text-align: justify;\">Hãy nhớ lại cấu trúc của thì này để tìm ra phương án phù hợp.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì hiện tại tiếp diễn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả hành động đang xảy ra tại thời điểm nói hoặc trong một giai đoạn xung quanh thời điểm nói. Nó cũng có thể diễn tả xu hướng, sự thay đổi đang diễn ra.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + be (am/is/are) + V-ing</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Cụm từ <em>\"at present\"</em> trong câu là dấu hiệu rõ ràng cho thấy hành động đang diễn ra tại thời điểm hiện tại hoặc một xu hướng đang tiếp diễn. Ngữ cảnh này yêu cầu sử dụng thì hiện tại tiếp diễn để diễn tả một sự phát triển đang tiếp diễn ở hiện tại.</p>\n<p style=\"text-align: justify;\">Phương án 2 <em>\"are developing\"</em> là thì hiện tại tiếp diễn, phù hợp chính xác với ngữ cảnh và dấu hiệu thời gian đã cho. Các phương án khác như thì quá khứ tiếp diễn (<em>\"were developing\"</em>), thì hiện tại đơn (<em>\"develop\"</em>) và thì tương lai đơn (<em>\"will develop\"</em>) đều không phù hợp với dấu hiệu <em>\"at present\"</em>.</p>",
+      "answerFeedbacks": {
+        "1237472": "Sai vì thì quá khứ tiếp diễn diễn tả hành động đang xảy ra trong quá khứ, không phù hợp với dấu hiệu <em>\"at present\"</em>.",
+        "1237473": "Đúng vì thì hiện tại tiếp diễn diễn tả hành động hoặc xu hướng đang diễn ra tại thời điểm hiện tại, phù hợp với dấu hiệu <em>\"at present\"</em>.",
+        "1237474": "<p>Sai vì thì hiện tại đơn diễn tả sự thật hiển nhiên, thói quen hoặc lịch trình, không diễn tả hành động đang tiếp diễn ở hiện tại.</p>",
+        "1237475": "Sai vì thì tương lai đơn diễn tả hành động sẽ xảy ra trong tương lai, không phù hợp với dấu hiệu <em>\"at present\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 689368,
+      "questionNumber": 19,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Watch out! The tree branches _____. It's not safe to stand there.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1333684,
+          "label": "A",
+          "text": "<p>fall</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1333685,
+          "label": "B",
+          "text": "<p>will fall</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1333686,
+          "label": "C",
+          "text": "are falling",
+          "isCorrect": true
+        },
+        {
+          "id": 1333687,
+          "label": "D",
+          "text": "<p>fell</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1333686,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Câu mở đầu bằng </span><em style=\"text-align: justify;\">\"Watch out!\"</em><span style=\"text-align: justify;\"> (Hãy cẩn thận!) là một lời cảnh báo, chỉ ra một hành động nguy hiểm đang diễn ra ngay tại thời điểm nói. Ngữ cảnh này đòi hỏi sử dụng thì hiện tại tiếp diễn để diễn tả hành động đang xảy ra.</span></p>\n<p><span style=\"text-align: justify;\">Hãy nhớ lại cấu trúc của thì này để tìm ra dạng động từ phù hợp.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì hiện tại tiếp diễn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả hành động đang xảy ra tại thời điểm nói hoặc xung quanh thời điểm nói. Thường được sử dụng trong các câu cảnh báo hoặc câu cảm thán.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + be (am/is/are) + V-ing</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu mở đầu bằng <em>\"Watch out!\"</em> (Hãy cẩn thận!) là một lời cảnh báo, chỉ ra một hành động nguy hiểm đang diễn ra ngay tại thời điểm nói. Ngữ cảnh này đòi hỏi sử dụng thì hiện tại tiếp diễn để diễn tả hành động đang xảy ra. Phương án 3 <em>\"are falling\"</em> là dạng thức của thì hiện tại tiếp diễn, phù hợp để diễn tả hành động cành cây đang rơi xuống ngay lúc này, giải thích cho lời cảnh báo <em>\"It's not safe to stand there.\"</em>.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều không phải dạng động từ phù hợp để sử dụng trong cấu trúc của thì Hiện tại tiếp diễn.</p>",
+      "answerFeedbacks": {
+        "1333684": "<p>Sai vì thì hiện tại đơn diễn tả hành động thường xuyên, thói quen hoặc sự thật hiển nhiên, không phù hợp với hành động đang xảy ra tại thời điểm nói.</p>",
+        "1333685": "<p>Sai vì thì tương lai đơn diễn tả hành động sẽ xảy ra trong tương lai, không phải hành động đang diễn ra ngay lúc này.</p>",
+        "1333686": "Đúng vì thì hiện tại tiếp diễn diễn tả hành động đang xảy ra tại thời điểm nói, phù hợp với lời cảnh báo <em>\"Watch out!\"</em>.",
+        "1333687": "<p>Sai vì thì quá khứ đơn diễn tả hành động đã xảy ra và kết thúc trong quá khứ, không phù hợp với tình huống đang diễn ra và cần cảnh báo.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 582071,
+      "questionNumber": 20,
+      "questionName": "(*) 4.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">My</span> parents are <span style=\"text-decoration: underline;\">enjoy</span> their summer vacation <span style=\"text-decoration: underline;\">in</span> Miami at <span style=\"text-decoration: underline;\">present</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1131877,
+          "label": "A",
+          "text": "My",
+          "isCorrect": false
+        },
+        {
+          "id": 1131878,
+          "label": "B",
+          "text": "enjoy",
+          "isCorrect": true
+        },
+        {
+          "id": 1131879,
+          "label": "C",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 1131880,
+          "label": "D",
+          "text": "present",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1131878,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để diễn tả h&agrave;nh động đang xảy ra tại thời điểm n&oacute;i. Dấu hiệu: \"<strong>at present</strong>\".</p>\n<p>Cấu tr&uacute;c thể khẳng định:<strong> S + am/is/are + V-ing</strong></p>\n<p>Sửa: \"<strong>enjoy</strong>\" =&gt;<strong> </strong>\"<strong>enjoying</strong>\"</p>\n<p>Dịch: Bố mẹ t&ocirc;i hiện đang tận hưởng kỳ nghỉ h&egrave; của họ ở Miami.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 699097,
+      "questionNumber": 21,
+      "questionName": "(*) 4.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>We <span style=\"text-decoration: underline;\">had</span> our <span style=\"text-decoration: underline;\">dinner</span> right now, <span style=\"text-decoration: underline;\">so</span> please <span style=\"text-decoration: underline;\">call back</span> later.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1353770,
+          "label": "A",
+          "text": "had",
+          "isCorrect": true
+        },
+        {
+          "id": 1353771,
+          "label": "B",
+          "text": "dinner",
+          "isCorrect": false
+        },
+        {
+          "id": 1353772,
+          "label": "C",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 1353773,
+          "label": "D",
+          "text": "call back",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1353770,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để diễn tả h&agrave;nh động đang xảy ra tại thời điểm n&oacute;i. Dấu hiệu: \"<strong>right now</strong>\".</p>\n<p>Cấu tr&uacute;c thể khẳng định:<strong> S + am/is/are + V-ing</strong></p>\n<p>Sửa: \"<strong>had</strong>\" =&gt;<strong> </strong>\"<strong>are having</strong>\"</p>\n<p>Dịch: B&acirc;y giờ ch&uacute;ng t&ocirc;i đang ăn tối, n&ecirc;n vui l&ograve;ng gọi lại sau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 744177,
+      "questionNumber": 22,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The weather <span style=\"text-decoration: underline;\">is</span> good <span style=\"text-decoration: underline;\">so</span> our children <span style=\"text-decoration: underline;\">play</span> football <span style=\"text-decoration: underline;\">in</span> the backyard now.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1437645,
+          "label": "A",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "id": 1437646,
+          "label": "B",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 1437647,
+          "label": "C",
+          "text": "play",
+          "isCorrect": true
+        },
+        {
+          "id": 1437648,
+          "label": "D",
+          "text": "in",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1437647,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để diễn tả h&agrave;nh động, sự việc đang xảy ra tại thời điểm n&oacute;i. Dấu hiệu: \"<strong>now</strong>\".</p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + am/is/are + V-ing</strong></p>\n<p>Sửa: \"<strong>play</strong>\" =&gt; \"<strong>are playing</strong>\"&nbsp;</p>\n<p>Dịch: Thời tiết đẹp n&ecirc;n b&acirc;y giờ c&aacute;c con ch&uacute;ng t&ocirc;i đang chơi b&oacute;ng đ&aacute; ở s&acirc;n sau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 211149,
+      "questionNumber": 23,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Choose the underlined part that needs correction.</span></em></p>\n<p><strong><span style=\"text-decoration: underline;\">Recent</span> evidence shows <span style=\"text-decoration: underline;\">that</span> the economic <span style=\"text-decoration: underline;\">situation</span>&nbsp;<span style=\"text-decoration: underline;\"><span class=\"tb\">improved</span></span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 475385,
+          "label": "A",
+          "text": "Recent",
+          "isCorrect": false
+        },
+        {
+          "id": 475386,
+          "label": "B",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 475387,
+          "label": "C",
+          "text": "situation",
+          "isCorrect": false
+        },
+        {
+          "id": 475388,
+          "label": "D",
+          "text": "improved",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 475388,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để diễn tả c&aacute;i g&igrave; đ&oacute; đang dần thay đổi. C&acirc;u tr&ecirc;n n&oacute;i tới t&igrave;nh h&igrave;nh kinh tế đang cải thiện n&ecirc;n cần d&ugrave;ng th&igrave; hiện tại tiếp diễn.&nbsp;</p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + is/am/are + V-ing</strong></p>\n<p>Sửa: \"<strong>improved</strong>\" =&gt; \"<strong>is improving</strong>\"</p>\n<p>Dịch: Những bằng chứng gần đ&acirc;y cho thấy t&igrave;nh h&igrave;nh kinh tế đang dần cải thiện.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 211150,
+      "questionNumber": 24,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Choose the underlined part that needs correction.</span></em></p>\n<p><strong>At present, <span style=\"text-decoration: underline;\">the</span> National Cherry Blossom Festival <span style=\"text-decoration: underline;\">occurs</span> <span style=\"text-decoration: underline;\">in</span> Washington, D.C <span style=\"text-decoration: underline;\">to celebrate</span> spring's arrival.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 475389,
+          "label": "A",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "id": 475390,
+          "label": "B",
+          "text": "occurs",
+          "isCorrect": true
+        },
+        {
+          "id": 475391,
+          "label": "C",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 475392,
+          "label": "D",
+          "text": "to celebrate",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 475390,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn được d&ugrave;ng để diễn tả một h&agrave;nh động hoặc sự việc đang diễn ra nhưng kh&ocirc;ng nhất thiết phải thực sự diễn ra ngay l&uacute;c n&oacute;i. Dấu hiệu: \"<strong>At present</strong>\".</p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + am/is/are + V-ing</strong></p>\n<p>Sửa: \"<strong>occurs</strong>\" =&gt; \"<strong>is occurring</strong>\"</p>\n<p>Dịch: Hiện tại, Lễ hội Hoa anh đ&agrave;o đang diễn ra tại thủ đ&ocirc; Washington để ch&agrave;o đ&oacute;n m&ugrave;a xu&acirc;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 74352,
+      "questionNumber": 25,
+      "questionName": "Question 5",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has a similar meaning to the first sentence, using the word given in brackets. Do not change the given word. You must use&nbsp;between two to five words&nbsp;including the given word.</em></p>\n<p><strong>My neighbor often plays loud music and it really annoys me. (ALWAYS)</strong></p>\n<p><strong>=&gt; My neighbor <span class='fillblank-option'><input id='fbo-74352-0' class='ms fillblank-option-25' index='0' name='fbo-74352-0' type='text' size='18' autocomplete='off' data-testid='fillblank-input-74352-0' /></span> loud music and it really annoys me.<br></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "is always playing"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn kết hợp với trạng từ chỉ tần suất \"<strong>always</strong>\" d&ugrave;ng để diễn tả h&agrave;nh động thường xuy&ecirc;n lặp đi lặp lại g&acirc;y sự bực m&igrave;nh hay kh&oacute; chịu cho người n&oacute;i.</p>\n<p>Cấu tr&uacute;c: <strong>S + is/am/are + always + V-ing</strong></p>\n<p>Chủ ngữ \"<strong>My neighbor</strong>\" chỉ một đối tượng (số &iacute;t) n&ecirc;n d&ugrave;ng động từ to be \"<strong>is</strong>\".&nbsp;</p>\n<p>Dịch: H&agrave;ng x&oacute;m của t&ocirc;i lu&ocirc;n bật nhạc rất to v&agrave; n&oacute; thật sự l&agrave;m phiền t&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 354672,
+      "questionNumber": 26,
+      "questionName": "Question 49. ",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><em>Complete the second sentence so that it has a similar meaning to the first sentence, using the word given in brackets. Do not change the given word. You must use&nbsp;between two to five words&nbsp;including the given word.</em></p>\n<p style=\"text-align: justify;\"><strong>Golf is becoming increasingly popular in Britain. (POPULARITY) <br></strong></p>\n<p style=\"text-align: justify;\"><strong>=&gt; The <span class='fillblank-option'><input id='fbo-354672-0' class='ms fillblank-option-26' index='0' name='fbo-354672-0' type='text' size='36' autocomplete='off' data-testid='fillblank-input-354672-0' /></span> in Britain.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "popularity of golf is increasing"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn d&ugrave;ng để diễn tả sự thay đổi dần dần của ai/c&aacute;i g&igrave;. Trong c&acirc;u n&oacute;i đến sự phổ biến đăng tăng l&ecirc;n của m&ocirc;n goft ở Anh n&ecirc;n phải d&ugrave;ng th&igrave; hiện tại tiếp diễn.&nbsp;</p>\n<p>Cấu tr&uacute;c thể khẳng định: <strong>S + is/am/are + V-ing</strong></p>\n<p><strong>the N of N</strong>: c&aacute;i g&igrave; của c&aacute;i g&igrave;</p>\n<p>Dịch: Golf ng&agrave;y c&agrave;ng trở n&ecirc;n phổ biến ở Anh.</p>\n<p>~ Sự phổ biến của golf đang tăng l&ecirc;n ở Anh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 74348,
+      "questionNumber": 27,
+      "questionName": "Question 3",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence so that it has a similar meaning to the first sentence, using the word given in brackets. Do not change the given word. You must use&nbsp;between two to five words&nbsp;including the given word.</em></p>\n<p><strong>She never stops saying how much she dislikes public transport. (COMPLAINING)</strong></p>\n<p><strong>=&gt; She <span class='fillblank-option'><input id='fbo-74348-0' class='ms fillblank-option-27' index='0' name='fbo-74348-0' type='text' size='27' autocomplete='off' data-testid='fillblank-input-74348-0' /></span> about public transport.<br></strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "is always complaining",
+            "never stops complaining",
+            "'s always complaining",
+            "’s always complaining",
+            "is constantly complaining",
+            "'s constantly complaining",
+            "’s constantly complaining"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại tiếp diễn kết hợp với trạng từ tần suất \"<strong>always</strong>\" hoặc \"<strong>constantly</strong>\" d&ugrave;ng để diễn tả h&agrave;nh động thường xuy&ecirc;n lặp đi lặp lại g&acirc;y sự bực m&igrave;nh hay kh&oacute; chịu cho người n&oacute;i.</p>\n<p>Cấu tr&uacute;c: <strong>S + is/am/are + always/constantly + V-ing</strong></p>\n<p><strong>stop + V-ing</strong>: dừng l&agrave;m việc g&igrave;</p>\n<p>Dịch: C&ocirc; ấy kh&ocirc;ng ngừng n&oacute;i rằng c&ocirc; ấy kh&ocirc;ng th&iacute;ch phương tiện c&ocirc;ng cộng như thế n&agrave;o.</p>\n<p>~ C&ocirc; ấy lu&ocirc;n lu&ocirc;n ph&agrave;n n&agrave;n/kh&ocirc;ng ngừng ph&agrave;n n&agrave;n về phương tiện c&ocirc;ng cộng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

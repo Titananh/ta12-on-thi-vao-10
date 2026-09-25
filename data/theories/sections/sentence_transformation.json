@@ -1,0 +1,17 @@
+{
+  "topicName": "Viết lại câu đồng nghĩa (Sentence Transformation)",
+  "englishName": "Sentence Transformation",
+  "detail": "\n      <div class=\"theory-section space-y-4\">\n        <p class=\"font-medium text-slate-800\">Chọn câu có nghĩa gần nhất với câu gốc, đòi hỏi nắm vững các cặp biến đổi ngữ pháp kinh điển:</p>\n        <div class=\"overflow-x-auto my-2\">\n          <table class=\"w-full text-left border-collapse text-xs sm:text-sm border border-slate-200\">\n            <thead>\n              <tr class=\"bg-emerald-50 text-emerald-900 font-bold border-b border-slate-200\">\n                <th class=\"p-2 border-r border-slate-200\">Cấu trúc câu gốc</th>\n                <th class=\"p-2\">Cấu trúc chuyển đổi tương đương</th>\n              </tr>\n            </thead>\n            <tbody class=\"divide-y divide-slate-200 text-slate-700\">\n              <tr>\n                <td class=\"p-2 font-mono border-r border-slate-200\">S + last + V-ed + ... ago</td>\n                <td class=\"p-2 font-mono text-emerald-700\">S + have/has not + V3/ed + for...</td>\n              </tr>\n              <tr>\n                <td class=\"p-2 font-mono border-r border-slate-200\">So + adj + that / Such + N + that</td>\n                <td class=\"p-2 font-mono text-emerald-700\">Too + adj (for sb) to V / Adj + enough to V</td>\n              </tr>\n              <tr>\n                <td class=\"p-2 font-mono border-r border-slate-200\">If ... not (Câu điều kiện)</td>\n                <td class=\"p-2 font-mono text-emerald-700\">Unless + Mệnh đề khẳng định</td>\n              </tr>\n              <tr>\n                <td class=\"p-2 font-mono border-r border-slate-200\">Because + S + V</td>\n                <td class=\"p-2 font-mono text-emerald-700\">Because of / Due to + Noun / V-ing</td>\n              </tr>\n              <tr>\n                <td class=\"p-2 font-mono border-r border-slate-200\">\"Why don't we / Let's...\"</td>\n                <td class=\"p-2 font-mono text-emerald-700\">S + suggested + V-ing / that S + (should) V</td>\n              </tr>\n            </tbody>\n          </table>\n        </div>\n      </div>\n    ",
+  "rules": [
+    {
+      "sound": "Hiện tại hoàn thành",
+      "rule": "Chuyển từ quá khứ đơn (last did... ago) sang HTHT phủ định (haven't done... for)",
+      "examples": "I last saw him 2 years ago = I haven't seen him for 2 years"
+    },
+    {
+      "sound": "Unless",
+      "rule": "Unless mang nghĩa phủ định (If not), mệnh đề sau Unless không chia phủ định",
+      "examples": "Unless you study hard, you will fail = If you don't study hard..."
+    }
+  ]
+}

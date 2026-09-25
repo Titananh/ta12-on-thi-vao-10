@@ -1,0 +1,1927 @@
+{
+  "id": 17506,
+  "title": "Đề thi chính thức vào lớp 10 môn Anh trường THPT Chuyên KHXH & NV năm 2025",
+  "year": 2025,
+  "categoryId": 1687,
+  "categoryName": "Đề thi môn Anh điều kiện các trường THPT Chuyên tại Hà Nội",
+  "timeLimit": 60,
+  "totalPoint": 50,
+  "questionCount": 44,
+  "author": "Tổ GV Tiếng Anh - TA12",
+  "description": "",
+  "createdAt": "2026-09-24T14:46:53.625Z",
+  "questions": [
+    {
+      "id": 964317,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837615,
+          "label": "A",
+          "text": "<p>pain<span style=\"text-decoration: underline;\">s</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837616,
+          "label": "B",
+          "text": "<p>crowd<span style=\"text-decoration: underline;\">s</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837617,
+          "label": "C",
+          "text": "<p>job<span style=\"text-decoration: underline;\">s</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837618,
+          "label": "D",
+          "text": "<p>lamp<span style=\"text-decoration: underline;\">s</span></p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1837618,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">Phần gạch ch&acirc;n trong từ </span><strong>\"lamp<span style=\"text-decoration: underline;\">s</span>\"</strong><span style=\"font-weight: 400;\"> được ph&aacute;t &acirc;m l&agrave; <strong>/</strong></span><strong>s/</strong><span style=\"font-weight: 400;\">, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/</strong></span><strong>z/</strong>.</p>\n<p style=\"text-align: justify;\"><strong>lamps (n.) /l&aelig;mps/</strong></p>\n<p style=\"text-align: justify;\">pains (n.) /peɪnz/</p>\n<p style=\"text-align: justify;\">crowds (n.) /kraʊdz/</p>\n<p style=\"text-align: justify;\">jobs (n.) /ʤɒbz/</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964318,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837619,
+          "label": "A",
+          "text": "<p>preferr<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837620,
+          "label": "B",
+          "text": "<p>contact<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1837621,
+          "label": "C",
+          "text": "<p>explain<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837622,
+          "label": "D",
+          "text": "<p>tidi<span style=\"text-decoration: underline;\">ed</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837620,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy nhớ quy tắc phát âm đuôi <em>\"-ed\"</em> trong tiếng Anh:</p>\n<ul>\n<li>Nếu động từ kết thúc bằng âm <em>/t/</em> hoặc <em>/d/</em>, đuôi <em>\"-ed\"</em> được phát âm là <em>/ɪd/</em>.</li>\n<li>Nếu động từ kết thúc bằng phụ âm vô thanh (trừ <em>/t/</em>), đuôi <em>\"-ed\"</em> được phát âm là <em>/t/</em>.</li>\n<li>Nếu động từ kết thúc bằng phụ âm hữu thanh (trừ <em>/d/</em>) hoặc nguyên âm, đuôi <em>\"-ed\"</em> được phát âm là <em>/d/</em>.</li>\n</ul>\n<p>Xác định âm cuối của động từ gốc trước khi thêm <em>\"-ed\"</em> để tìm ra đáp án đúng.</p>",
+      "explanation": "Phần được gạch chân trong từ <b>contact<u>ed</u></b> được phát âm là /ɪd/, trong các từ còn lại được phát âm là /d/.<br/><br/><style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #fff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n        color: #1c581f;\n        font-size: 15px;\n    }\n\n    .vocab-table-sharp th, \n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        display: inline-block;\n        margin: 0 0.4rem 4px 0;\n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n        display: block;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">preferred</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/prɪˈfɜːrd/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>được ưa thích, được ưu tiên</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">contacted</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/ˈkɒntæktɪd/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>đã liên hệ, đã tiếp xúc</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">explained</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/ɪkˈspleɪnd/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>đã giải thích</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">tidied</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/ˈtaɪdid/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>đã dọn dẹp, đã sắp xếp gọn gàng</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "1837619": "Đuôi <em>\"-ed\"</em> trong <em>\"preferred\"</em> được phát âm là /d/ vì động từ gốc <em>\"prefer\"</em> kết thúc bằng âm hữu thanh /r/.",
+        "1837620": "Đuôi <em>\"-ed\"</em> trong <em>\"contacted\"</em> được phát âm là /ɪd/ vì động từ gốc <em>\"contact\"</em> kết thúc bằng âm /t/.",
+        "1837621": "Đuôi <em>\"-ed\"</em> trong <em>\"explained\"</em> được phát âm là /d/ vì động từ gốc <em>\"explain\"</em> kết thúc bằng phụ âm hữu thanh /n/.",
+        "1837622": "<p>Đuôi <em>\"-ed\"</em> trong <em>\"tidied\"</em> được phát âm là /d/ vì động từ gốc <em>\"tidy\"</em> kết thúc bằng nguyên âm /i/.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 964319,
+      "questionNumber": 3,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837623,
+          "label": "A",
+          "text": "<p>f<span style=\"text-decoration: underline;\">ort</span>night</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837624,
+          "label": "B",
+          "text": "<p>rep<span style=\"text-decoration: underline;\">ort</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837625,
+          "label": "C",
+          "text": "<p>eff<span style=\"text-decoration: underline;\">ort</span></p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1837626,
+          "label": "D",
+          "text": "<p>res<span style=\"text-decoration: underline;\">ort</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837625,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Phần gạch ch&acirc;n trong từ \"<strong>eff<span style=\"text-decoration: underline;\">ort</span></strong>\" được ph&aacute;t &acirc;m l&agrave; <strong>/ət/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/ɔːt/</strong>.&nbsp;</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe id=\"embed-frame-CCBA9\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FT43hWTbhVFcLbgAbMBhjsd007kTkKRmQ4wwYO11EvbI%2BxMO7L2qlG1blHGyrAGw3nKxjN8kNplceCZlmdgkQeru5qoEvbucDJgVoE9lFVEvRgVyqTPuOlabxU5IzeHQMgu0s%2FxkskIFhK0ndWOvp6z9Sg8OiJ1TfCMz9cWwc9nb2Fo9YMZJgHh1LLJZIrJZdHbQwZIQycXJsDp%2B0Z%2FkQSFUdALsASRKehxHk0JRZ2draxTZcE5IL9d1nNNIta4x7W8Jnw6L3AYN6QO8nuoH5hFabiWMNJ32Rpbm%2BVrFlhzrxoygSCUeoukeNVw%2BRjKLERCAbydCPhJVmZi2ZPEhNra5EFieBxrsnJe4d5v06Z9ZXcoAIok5MX\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964320,
+      "questionNumber": 4,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837627,
+          "label": "A",
+          "text": "<p>but<span style=\"text-decoration: underline;\">ch</span>er</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837628,
+          "label": "B",
+          "text": "<p>resear<span style=\"text-decoration: underline;\">ch</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837629,
+          "label": "C",
+          "text": "<p>wheel<span style=\"text-decoration: underline;\">ch</span>air</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837630,
+          "label": "D",
+          "text": "<p>bro<span style=\"text-decoration: underline;\">ch</span>ure</p>",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1837630,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Phần gạch ch&acirc;n trong từ \"<strong>bro<span style=\"text-decoration: underline;\">ch</span>ure</strong>\" được ph&aacute;t &acirc;m l&agrave; <strong>/ʃ/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/tʃ/</strong>.&nbsp;&nbsp;</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe id=\"embed-frame-CCBA9\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2Bvs3S%2BwJAQcBO8A9zCj3ELBNfZ6%2B9nx43n4GoZe%2BMlgpP00SupFdyekHxDKbtcMuXAEs6aMzs5OQcMVepBDNte077SpKU%2FKfRIFRnW%2F8%2BHGAhcQJbW1vXzQjoX5KAnBdtZWrV9yraU5FiyonGHKr3u71ZHtY9oIaB%2BlSaIa5BQw3h%2BjWLGse8KdxT07lVQQ11n1iR1tvLxd2UkIh7TDh39aikb6s18uEKlWcbpj5XG0jfGGgxzODV5KKyKdA7niS93xXQGSf%2BHotR%2FHxBOsvvcz12hB2MY9k9AMs9N7FuJ90Ep3RU1FcO5%2FvH6iMDtocMbgZjyqxW%2FHk8EGW06YK6N9PSAHb7YrmV5PiqjOTNiZdFv61rR%2Bnn4\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964321,
+      "questionNumber": 5,
+      "questionName": "5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word which has the underlined part pronounced differently from the others.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837631,
+          "label": "A",
+          "text": "<p>confu<span style=\"text-decoration: underline;\">sion</span></p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1837632,
+          "label": "B",
+          "text": "<p>expan<span style=\"text-decoration: underline;\">sion</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837633,
+          "label": "C",
+          "text": "<p>exten<span style=\"text-decoration: underline;\">sion</span></p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837634,
+          "label": "D",
+          "text": "<p>dimen<span style=\"text-decoration: underline;\">sion</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837631,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Phần gạch ch&acirc;n trong từ \"<strong>confu<span style=\"text-decoration: underline;\">sion</span></strong>\" được ph&aacute;t &acirc;m l&agrave; <strong>/ʒən/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/ʃən/</strong>.</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe id=\"embed-frame-CCBA9\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2F849Jeu18gX4gNeuVdognjn0iJBRo7Jw4ue1d0OaRZWTU4MGfuS4RVVaMdFadvlP27DnjpzA7x%2FdqsKhxR0%2Bvkn0DHuwmLHbBHKn5L1zvLMDr8uS6sQL%2Fs9uonMNZi%2F6JQgqkTbqlJJT55GkyDBMQoj%2FuXU750QpsqQVw7exGUUpEWi5hnQzhPDa1q78j35T0jwmKTXMnSZG46GWsKXgfrz6Ou6eQgGoL0P9KezmBSj5LmmMaRbKTpU2Nl2T5yH1pgvypq9C5oBtjcqrhAFW2uHUF3GKxVJ95liU9uCB2e2fT97oZJoFQP0%2BXWKI2jDTdVSaKKNlqxrR%2BMBxyH1Iul3gSa3J660eLMb7onLRzLKyNomoaQn%2B2uJy3%2FeorQ6zk6jw68VSnJJg%3D%3D\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964322,
+      "questionNumber": 6,
+      "questionName": "6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837635,
+          "label": "A",
+          "text": "across",
+          "isCorrect": false
+        },
+        {
+          "id": 1837636,
+          "label": "B",
+          "text": "upstairs",
+          "isCorrect": false
+        },
+        {
+          "id": 1837637,
+          "label": "C",
+          "text": "even",
+          "isCorrect": true
+        },
+        {
+          "id": 1837638,
+          "label": "D",
+          "text": "perhaps",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837637,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Từ </span>\"<strong>even</strong>\"<span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất</span><span style=\"font-weight: 400;\">, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ</span> hai.</p>\n<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe id=\"embed-frame-CCBA9\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FKYczJwAczqbddDJWgWsn98DRCSoGjOslc8NH5E79b5sK97k7JaOV5Lh%2Bb2FSvHvjpvPfnQfFMRduy4GMuVnEfnx3sEJnBNJq8XQJQTjEysErgRxcI8JtLbDsQhVWsm4Bt%2BuuZCQVgL0xcc9gltH7ilSOCoDGLQEN4vQWjrksBej%2FAJLp9eo0dq3L%2FFePxsYaBfc7Fvq2aMrN48sKJ%2B1MpONzrJ%2F70Ke0%2FYlxaM%2ButuoJ5Qr%2FZMyVkCXm4MfIyjPI9AP6WHxTTEqDdDFQiBjd%2BIWwpf7pG5ieG4f10lg9kgkIPpX30wTppISfbkrZoGfKDrqx6ROY5yW9FjDRORC3M%2Bx30SvaiuwMajXIFiJt60rSWvkIt7hl%2B\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964323,
+      "questionNumber": 7,
+      "questionName": "7",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837639,
+          "label": "A",
+          "text": "include",
+          "isCorrect": true
+        },
+        {
+          "id": 1837640,
+          "label": "B",
+          "text": "enter",
+          "isCorrect": false
+        },
+        {
+          "id": 1837641,
+          "label": "C",
+          "text": "cover",
+          "isCorrect": false
+        },
+        {
+          "id": 1837642,
+          "label": "D",
+          "text": "order",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837639,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để xác định từ có trọng âm khác biệt, bạn cần chú ý đến vị trí trọng âm chính của từng từ. Hãy nhớ rằng nhiều động từ có hai âm tiết thường có trọng âm rơi vào âm tiết thứ hai, trong khi danh từ và tính từ hai âm tiết thường có trọng âm ở âm tiết thứ nhất, nhưng cũng có những trường hợp ngoại lệ.",
+      "explanation": "<p><span style=\"font-weight: 400;\">Từ </span>\"<strong>include</strong>\"<span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ hai</span><span style=\"font-weight: 400;\">, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ </span>nhất.</p>\n<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe id=\"embed-frame-CCBA9\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BhPNsCYnc7oPMQQywg7Df53dDpOz9%2BZNztXn%2FEVbsrmfAP%2F71RK8gg1h9pHLSEnW1DyIqNO0Yx2H%2FUSCHfetgyw4w2kq6F9l5RZPorz3Mn3CThLEOspyJnjkkkOUEJI0UrRowP7UR63Qqpkoir5aWmhvYx%2BWEBPXfeb5oBWwPJcjMdDkJN%2B%2F%2Bcm3Drh2tfp9rbIHExjmTIDmkqrp9lzFqz8Wk4G2GwczFQmB9CzXCpzC75%2FUu%2FSJfNqU6EP9x0uFpyX9KMBYE4XVHThgjQ8%2BZX2BCGK7omiZvew4mLAPneGGi%2B6dxN1pIOLMo5EwXohKrbI2d4IMH8xtkpe3Kwk9eLRHoL53ad6Cw%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {
+        "1837639": "Trọng âm của từ này rơi vào âm tiết thứ hai, phát âm là /ɪnˈkluːd/.",
+        "1837640": "Trọng âm của từ này rơi vào âm tiết thứ nhất, phát âm là /ˈentər/.",
+        "1837641": "Trọng âm của từ này rơi vào âm tiết thứ nhất, phát âm là /ˈkʌvər/.",
+        "1837642": "Trọng âm của từ này rơi vào âm tiết thứ nhất, phát âm là /ˈɔːrdər/."
+      },
+      "images": []
+    },
+    {
+      "id": 964324,
+      "questionNumber": 8,
+      "questionName": "8",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837643,
+          "label": "A",
+          "text": "permanent",
+          "isCorrect": false
+        },
+        {
+          "id": 1837644,
+          "label": "B",
+          "text": "digital",
+          "isCorrect": false
+        },
+        {
+          "id": 1837645,
+          "label": "C",
+          "text": "obvious",
+          "isCorrect": false
+        },
+        {
+          "id": 1837646,
+          "label": "D",
+          "text": "exhausted",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1837646,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Từ </span>\"<strong>exhausted</strong>\"<span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ hai</span><span style=\"font-weight: 400;\">, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ</span> nhất.</p>\n<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe id=\"embed-frame-CCBA9\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18vGDN3NhnKlkerRyUsh1WjA6%2FZGaD2iTUe70FvTpWyycqnT9pvRi2pc%2Fv5DLBV%2B2b%2B36YW9KdmQ8ReVmmXuyTUkg6IiXlovaNWVu1TtgPp9B9oPZEJ2Lwu5QZLDAwRZGedgx8GFXGuHrHip0Nu5i%2BK%2Bq6YznKo9xaJhrw05JC8H3zZqzH0J5ZYOrnrOF3BWo8%2FwIHG4DH2OEcCCw28JUEclE3H31m12J52uiBTmxMblTPBgJesnjKyZ%2BWyeCx6V8Y2Pb7qUENwNhjnh43xJDPrWZQyvPGwEv2%2BI7P4NYuYlyGvt%2FlCiTgAWrwv4HwTiwtjGQTvAUUTuUW3X9utdFxJpGd3zW%2BF5M%2BNBgW345Les4VTgjvwIuWS\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964325,
+      "questionNumber": 9,
+      "questionName": "9",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837647,
+          "label": "A",
+          "text": "professor",
+          "isCorrect": false
+        },
+        {
+          "id": 1837648,
+          "label": "B",
+          "text": "minimum",
+          "isCorrect": true
+        },
+        {
+          "id": 1837649,
+          "label": "C",
+          "text": "assistant",
+          "isCorrect": false
+        },
+        {
+          "id": 1837650,
+          "label": "D",
+          "text": "equipment",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837648,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Từ </span>\"<strong>minimum</strong>\"<span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất</span><span style=\"font-weight: 400;\">, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ</span> hai.</p>\n<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe id=\"embed-frame-CCBA9\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FqhrsnOfd7ggvzrntc6IejqI%2FySL%2FZ0eZfEDU7ZB8jzCqlHziFT2DcDOv%2BWIpkCKBRJ0nnzDnxznWAD0rxx6w82YeDBi1FuLUcItgTMy%2BI%2FbGq%2FbhX6h0dcOYNus6%2BwUKZ3qWO6zGZnBnr2SYaZHOtttXEvqf5Xw5zPw%2B%2F%2B45Z4bfxaXy4gripUqcf5NhnmtvC5U5gmTxGMNbZ7skY%2Fgxl%2F%2FbHbXqStU%2BEN8S4udo19boZjye2SHof%2F0Q5kO5JHIRryLJ5d5J%2BzyE9sM8vxNiNZjFfgK9gC31BYX8SHi3Pk0q2mFPCicNJqUEvFh8jyvzZgaw%2FAqHOF6siIV8PqLMYtZ17epvT0hJ9iSfBXf7KIQC7QsfCCCXY\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964326,
+      "questionNumber": 10,
+      "questionName": "10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Choose the word that differs from the rest in the position of the main stress.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837651,
+          "label": "A",
+          "text": "category",
+          "isCorrect": true
+        },
+        {
+          "id": 1837652,
+          "label": "B",
+          "text": "democracy",
+          "isCorrect": false
+        },
+        {
+          "id": 1837653,
+          "label": "C",
+          "text": "interior",
+          "isCorrect": false
+        },
+        {
+          "id": 1837654,
+          "label": "D",
+          "text": "thermometer",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837651,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Từ </span>\"<strong>category</strong>\"<span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất</span><span style=\"font-weight: 400;\">, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ</span> hai.</p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe id=\"embed-frame-CCBA9\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18WVnirGBZo1VxiFlb%2FuH8pYYZ3XwJ5wvzKPKjTs6LkDw2kS8Cr6Jt7oZJOEYpvbzQ6DZ5srN2bvFwGlJ3XmR62HhXCKL2uDUBBloiU%2F0jsGWriFOeMDsVcQCYbEN%2Fx2bhXbf%2FamyDhKRGU0WPEw71K3yl0etnpW%2BhQ5GZATBIRTN35nR9v9CFW6nAC7Hdiy%2BhgyzvL74b8WjKAcEl0PHOPnfYqEAMFVq3T5iaIVP%2BCDsWb0lf3s8KPuB%2FH%2FMs2BRe8Ne6dPfidTrd%2FrngVHN%2Fqx0XuC1o0ZUESp2AkAD9Vyk%2BpTaagbmwBb3wyS16147FUAHkyrf3gYfbyV9br8Aq4aUn7n88f3gk74sx3p6UeLC31QXMoeP0B\" width=\"100%\" height=\"315\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964327,
+      "questionNumber": 11,
+      "questionName": "11",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">All</span> of my parents <span style=\"text-decoration: underline;\">work</span> in the city, <span style=\"text-decoration: underline;\">so</span> they leave home early <span style=\"text-decoration: underline;\">each</span> morning.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837655,
+          "label": "A",
+          "text": "All",
+          "isCorrect": true
+        },
+        {
+          "id": 1837656,
+          "label": "B",
+          "text": "work",
+          "isCorrect": false
+        },
+        {
+          "id": 1837657,
+          "label": "C",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 1837658,
+          "label": "D",
+          "text": "each",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837655,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>all of the/one's/... N (đếm được số nhiều/kh&ocirc;ng đếm được)</strong>: tất cả</p>\n<p>\"<strong>my parents</strong>\" (bố mẹ t&ocirc;i) chỉ c&oacute; hai người =&gt; d&ugrave;ng \"<strong>All</strong>\" kh&ocirc;ng ph&ugrave; hợp.</p>\n<p><strong>both of N (đếm được số nhiều)</strong>: cả hai</p>\n<p>Sửa: \"<strong>All</strong>\" =&gt; \"<strong>Both</strong>\"</p>\n<p>Dịch: Cả bố v&agrave; mẹ t&ocirc;i đều l&agrave;m việc ở th&agrave;nh phố n&ecirc;n họ phải rời nh&agrave; sớm mỗi s&aacute;ng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964328,
+      "questionNumber": 12,
+      "questionName": "12",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>I decided to <span style=\"text-decoration: underline;\">take</span> advantage <span style=\"text-decoration: underline;\">with</span> the <span style=\"text-decoration: underline;\">online</span> course to improve my English speaking <span style=\"text-decoration: underline;\">skills</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837659,
+          "label": "A",
+          "text": "take",
+          "isCorrect": false
+        },
+        {
+          "id": 1837660,
+          "label": "B",
+          "text": "with",
+          "isCorrect": true
+        },
+        {
+          "id": 1837661,
+          "label": "C",
+          "text": "online",
+          "isCorrect": false
+        },
+        {
+          "id": 1837662,
+          "label": "D",
+          "text": "skills",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837660,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 265px; height: 200px;\"><iframe id=\"embed-frame-CCBA9\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FlqF53PnOgxtUMORIjaJpd8zUrUEc1BvY1qk33T%2Fm6ejykdN0cn%2F6tjH%2FyZAMueyWYo7JsiERsTclRcOMxLcqYCbtWJFYuKqVlpMbUWQslbV19uTzq25yyfQBbZnggMxMKc0oWJeuwbRTTedX75UXZh%2BgjTZek%2BDikMtwDNZLdfONfbBJt75gku7jGVoX%2BILS5c2izlNP1M0DGntRstOXeCB87KnuiLm2W3agTd4BT009odzZNV6%2B1tK97i0pHDgrF95APGuse3diVmWHdPiZFovMe9RRZ1syzf2JFKS5agy6CzUUYijIJmPhTfrjU46Kk16v168TeMQNp2gVdqRg6VOjcUxDAuLQ%3D\" width=\"100%\" height=\"200\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p><br />Sửa: \"<strong>with</strong>\" =&gt; \"<strong>of</strong>\"</p>\n<p>Dịch: T&ocirc;i quyết định tận dụng kh&oacute;a học trực tuyến để cải thiện kỹ năng n&oacute;i tiếng Anh của m&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964329,
+      "questionNumber": 13,
+      "questionName": "13",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The <span style=\"text-decoration: underline;\">teacher's</span> explanation <span style=\"text-decoration: underline;\">made</span> me even more <span style=\"text-decoration: underline;\">embarrassing</span>, so I asked her to <span style=\"text-decoration: underline;\">explain</span> again.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837663,
+          "label": "A",
+          "text": "teacher's",
+          "isCorrect": false
+        },
+        {
+          "id": 1837664,
+          "label": "B",
+          "text": "made",
+          "isCorrect": false
+        },
+        {
+          "id": 1837665,
+          "label": "C",
+          "text": "embarrassing",
+          "isCorrect": true
+        },
+        {
+          "id": 1837666,
+          "label": "D",
+          "text": "explain",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837665,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>make sb + adj.</strong>: l&agrave;m ai cảm thấy như thế n&agrave;o</p>\n<p><strong>T&iacute;nh từ đu&ocirc;i -ed</strong> được d&ugrave;ng để mi&ecirc;u tả ai cảm thấy như thế n&agrave;o.</p>\n<p><strong>T&iacute;nh từ đu&ocirc;i -ing</strong>&nbsp;được d&ugrave;ng để mi&ecirc;u tả ai, c&aacute;i g&igrave; mang lại cảm gi&aacute;c như thế n&agrave;o cho đối tượng kh&aacute;c.</p>\n<p>Trong c&acirc;u, đối tượng <strong>\"me\" </strong>cảm thấy l&uacute;ng t&uacute;ng =&gt; d&ugrave;ng <strong>t&iacute;nh từ đu&ocirc;i -ed</strong>.</p>\n<p>Sửa: \"<strong>embarrassing</strong>\" =&gt; \"<strong>embarrassed</strong>\"</p>\n<p>Dịch: Lời giải th&iacute;ch của c&ocirc; gi&aacute;o khiến t&ocirc;i c&agrave;ng l&uacute;ng t&uacute;ng hơn n&ecirc;n t&ocirc;i xin c&ocirc; gi&aacute;o giải th&iacute;ch lại.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964330,
+      "questionNumber": 14,
+      "questionName": "14",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>She opened her birthday <span style=\"text-decoration: underline;\">gift</span> and smiled when she saw a new smart phone.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837667,
+          "label": "A",
+          "text": "carton",
+          "isCorrect": false
+        },
+        {
+          "id": 1837668,
+          "label": "B",
+          "text": "prize",
+          "isCorrect": false
+        },
+        {
+          "id": 1837669,
+          "label": "C",
+          "text": "parcel",
+          "isCorrect": false
+        },
+        {
+          "id": 1837670,
+          "label": "D",
+          "text": "present",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1837670,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px; height: 380px;\"><iframe id=\"embed-frame-3FC4F\" style=\"border: none;\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2Bd1zEOrQL6btXmSSb%2BQFzIaBi9qjOQwl4C6LHHEhtdVaWRiyERrGBMKgO1jmsj7zv1u3z%2FEl39VxtKakYOhtFQ5JPjyLMQ9TVTcXaYrX25%2FN1QqNRuMf2s%2FdEFt%2F%2BBAgoyxMp3zmW069RQOvfSQQ3nCXZiK0S2SkhwJSOpRkySrjCib8uiJJJ00P9SkT8OzQDQ8rLM2%2BHFwpkO5yartKizcKX1rPM6b0AtrNwISDjGUw8IaJCNCNvNQZDEKzrrq28DmPQ37lSFQRP9NYxEoV3HmFse7VNfKQ9VOp9G3e8zUcj2WxLpUgFE8LYFsCMy4vLTSMwIl1tuR4m%2F%2B1e%2Fw66LTcQjaheen89TD5w1gpUs3hjLHS8PH%2FE4RwO%2FjHUZbtOTXySEm6horGgch7zU3mOHaNerfrxCizE%3D\" width=\"100%\" height=\"380\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: C&ocirc; ấy mở qu&agrave; sinh nhật v&agrave; mỉm cười khi nh&igrave;n thấy chiếc điện thoại th&ocirc;ng minh mới.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964331,
+      "questionNumber": 15,
+      "questionName": "15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>Remember to <span style=\"text-decoration: underline;\">fill up</span> the gas tank before starting our long journey tomorrow.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837671,
+          "label": "A",
+          "text": "keep something new",
+          "isCorrect": false
+        },
+        {
+          "id": 1837672,
+          "label": "B",
+          "text": "make something full",
+          "isCorrect": true
+        },
+        {
+          "id": 1837673,
+          "label": "C",
+          "text": "check something carefully",
+          "isCorrect": false
+        },
+        {
+          "id": 1837674,
+          "label": "D",
+          "text": "complete something quickly",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837672,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 265px; height: 200px;\"><iframe id=\"embed-frame-CCBA9\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18q4cqZ25%2FWCdGRz3%2FHO%2FVeOTtbWL7jELLmYq%2BQk4vMP8dbPcjcYeoemF0nyVAreWnrPiO9yMxt1YAz43%2B36ZvcNuqgjSK%2Bm0I3iPDaHUiFQtBa51pEZar5MV2q9yuZ8fH6mKVD6gg86XC3D2RHZ1BGiB5Zt1iHgO7kSyz2Ew8hc%2BTKeYEilg%2BEalIhA6ztQagJ1kNxChPaa0wRL%2Fi3JQWInSWg1yt4WvhuA%2BU6c%2FTiFu1E87kmnfjIHy%2B%2FCIkAvQP%2FhtvgWxWEzq6M8dXyXdSsfiBaxWDMoZCH%2FZ2rYuJHW5ZKwOyVK%2Fm6bAggniCnLebWKwyCMpE2Lw%3D%3D\" width=\"100%\" height=\"200\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p><br /><strong>make something full</strong>: l&agrave;m cho c&aacute;i g&igrave; đầy</p>\n<p>keep something new: giữ c&aacute;i g&igrave; mới</p>\n<p>check something carefully: kiểm tra c&aacute;i g&igrave; cẩn thận</p>\n<p>complete something quickly: ho&agrave;n th&agrave;nh c&aacute;i g&igrave; nhanh ch&oacute;ng</p>\n<p>Dịch: Nhớ đổ đầy b&igrave;nh xăng trước khi bắt đầu chuyến h&agrave;nh tr&igrave;nh d&agrave;i v&agrave;o ng&agrave;y mai.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964332,
+      "questionNumber": 16,
+      "questionName": "16",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>She was <span style=\"text-decoration: underline;\">delighted</span> to hear that she got the first prize.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837675,
+          "label": "A",
+          "text": "hopeful",
+          "isCorrect": false
+        },
+        {
+          "id": 1837676,
+          "label": "B",
+          "text": "anxious",
+          "isCorrect": false
+        },
+        {
+          "id": 1837677,
+          "label": "C",
+          "text": "disappointed",
+          "isCorrect": true
+        },
+        {
+          "id": 1837678,
+          "label": "D",
+          "text": "confident",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837677,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px; height: 365px;\"><iframe id=\"embed-frame-CCBA9\" style=\"border: none;\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX18ScyoBxhJULlrw6CjQOjZ2S%2FfAMR%2FTzU%2FBt%2FCi6OCp9veYJrg0EMUNg575U0YL7emUC66rDNJ2EQzwFHSln%2BaabXE%2F18FZaUspp8yn0uAC3levHySz0cnsuUHWccPTfjoHXCYITcg9J595SxDUIubqCPYuo54wxHMfMwYdx0BEExf2WWy57yJrnEQwj7s1CWJh%2BmTTzSZutBsfeLkQpewmCQAfu9DgOPPA8efGXUs4af%2B2%2BILeql1NlWFy8AuhC8DzmO%2Fd%2BAYayH%2FfKJRizrKyoP2P6CNaAvab%2FQczMZWWyYR31naMeXO7bdoO1FYbQUYyCPMrPeCnPHMQvIy3ncXEqnv%2FGAWfYprCgc6FqaGgWDIOwDKts1xdRPf07xRQhU8oIiwwhBY5KEfvphBs4IHmladjek2dBm0s4%2BNY%2Bgu5ilFJ3PFlx9hiplokg8VO0IWNymNBxeoapg%3D%3D\" width=\"100%\" height=\"365\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: C&ocirc; ấy rất vui mừng khi nghe tin m&igrave;nh đ&atilde; gi&agrave;nh được giải nhất.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964333,
+      "questionNumber": 17,
+      "questionName": "17",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>Despite being quiet before, the market became crowded <span style=\"text-decoration: underline;\">all of a sudden</span> when the train arrived.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837679,
+          "label": "A",
+          "text": "one by one",
+          "isCorrect": false
+        },
+        {
+          "id": 1837680,
+          "label": "B",
+          "text": "day by day",
+          "isCorrect": false
+        },
+        {
+          "id": 1837681,
+          "label": "C",
+          "text": "side by side",
+          "isCorrect": false
+        },
+        {
+          "id": 1837682,
+          "label": "D",
+          "text": "little by little",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1837682,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 450px; height: 365px;\"><iframe id=\"embed-frame-CCBA9\" style=\"border: none;\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX19lz%2F9SSLNaGa5lsADmQC3qUrqZ4fVwSfNeZ3U0GGySXe6d4J%2Bed5khYTRE%2FH59IGZzAgGut8TztcO0hbGgdMhiqL%2Fovl6JYYXJjLa91qxxEHehUdoBsdNwr2RNXh5QnRG2D61Xyj9NQFRXmW%2B98sX7Z1tkPiva165loBwVwoR3qefZc%2BnbBKPqJuwDrzbTbdJPzZnkzR2ddsPA7WWOmzH38RnHr2Y00AdWLPOs7WlGhf4vISyIrHZxyK4Os3CjKxm7NlUzrXXSaOR%2FE6yjHkjkstriohZ%2BSBUvxcoQikHOy50WsPbzFZh%2FPIdyezEH9U2g63KOtL1i5j4WQH3oNx1SVoaZvwT3FH6lZ56hZ56UqCz9TMpldhPjA1gU2d6nkJZEVKVBFU1ziPn9h72IHMY93wx9Qwgaavx8JV0o6fdM5Kkf2bRyQtwN19eVTKeBmm3FpbiiBjEBn7ozfzl16hIRpk%2FyrEN5NR3D7E4GUyHh%2FkitqiwrZlGyM8zypriMwDimhSdyYbIUK8Fy%2BjMs865IX%2FlpNcxk6z4%3D\" width=\"100%\" height=\"365\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Mặc d&ugrave; trước đ&oacute; kh&aacute; y&ecirc;n tĩnh, nhưng khu chợ đột nhi&ecirc;n trở n&ecirc;n đ&ocirc;ng đ&uacute;c khi t&agrave;u đến.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964334,
+      "questionNumber": 18,
+      "questionName": "18",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He was tidying his room when his mother _____ him last night.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837683,
+          "label": "A",
+          "text": "would call",
+          "isCorrect": false
+        },
+        {
+          "id": 1837684,
+          "label": "B",
+          "text": "was calling",
+          "isCorrect": false
+        },
+        {
+          "id": 1837685,
+          "label": "C",
+          "text": "called",
+          "isCorrect": true
+        },
+        {
+          "id": 1837686,
+          "label": "D",
+          "text": "calls",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837685,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn đáp án đúng, hãy nhớ lại quy tắc kết hợp giữa thì Quá khứ tiếp diễn và Quá khứ đơn khi một hành động đang diễn ra thì bị một hành động khác xen vào:<br/><ul><li>Câu hỏi cho biết hành động <em>\"He was tidying his room\"</em> đang diễn ra (thì Quá khứ tiếp diễn).</li><li>Liên từ <em>\"when\"</em> được dùng để nối hành động đang diễn ra với hành động xen vào.</li><li>Cụm từ <em>\"last night\"</em> xác định thời gian trong quá khứ.</li></ul>Hãy suy nghĩ xem hành động xen vào cần được chia ở thì nào để phù hợp với ngữ cảnh này.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Quá khứ tiếp diễn và Quá khứ đơn</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một hành động đang xảy ra (Quá khứ tiếp diễn) thì một hành động khác (Quá khứ đơn) xen vào trong quá khứ.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + was/were + V-ing when S + V(pt)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, hành động <strong>\"He was tidying his room\"</strong> đang diễn ra trong quá khứ. Liên từ <strong>\"when\"</strong> báo hiệu một hành động khác xen vào. Hành động xen vào này cần được chia ở thì Quá khứ đơn để hoàn thành cấu trúc diễn tả hành động đang xảy ra bị hành động khác cắt ngang.</p>\n<p style=\"text-align: justify;\">Phương án <strong>\"called\"</strong> là dạng quá khứ đơn, phù hợp với quy tắc ngữ pháp này. Các phương án khác không đúng với ngữ cảnh và thì cần thiết.</p>",
+      "answerFeedbacks": {
+        "1837683": "<p>Sai vì <em>\"would + V(inf)\"</em> thường dùng để diễn tả thói quen trong quá khứ hoặc trong câu điều kiện, không phù hợp với ngữ cảnh hành động xen vào.</p>",
+        "1837684": "<p>Sai vì hai hành động nối với <em>\"when\"</em> theo cấu trúc này không thể cùng ở thì Quá khứ tiếp diễn, hành động xen vào phải ở thì Quá khứ đơn.</p>",
+        "1837685": "<p>Đúng vì thì Quá khứ đơn được dùng để diễn tả một hành động xen vào, cắt ngang một hành động khác đang diễn ra trong quá khứ <em>\"was tidying\"</em>, phù hợp với liên từ <em>\"when\"</em> và trạng từ <em>\"last night\"</em>.</p>",
+        "1837686": "<p>Sai vì thì Hiện tại đơn không phù hợp với ngữ cảnh xảy ra trong quá khứ được chỉ rõ bởi <em>\"last night\"</em>.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 964335,
+      "questionNumber": 19,
+      "questionName": "19",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>On the way to school every morning, she usually stops _____ something to eat.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837687,
+          "label": "A",
+          "text": "<p>to buy</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1837688,
+          "label": "B",
+          "text": "<p>to buying</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837689,
+          "label": "C",
+          "text": "<p>buying</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837690,
+          "label": "D",
+          "text": "<p>buy</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837687,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Khi gặp động từ <em>\"stop\"</em>, hãy nhớ rằng nó có thể theo sau bởi cả <em>V-ing</em> và <em>to-V(inf)</em>, nhưng với ý nghĩa khác nhau:</p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Cấu trúc <em>\"stop + V-ing\"</em> thường diễn tả việc ngừng hẳn một hành động đang diễn ra.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Trong khi đó, <em>\"stop + to-V(inf)\"</em> lại có nghĩa là dừng lại để làm một việc gì đó khác.</li>\n</ul>\n<p style=\"text-align: justify;\">Trong câu hỏi, hành động dừng lại là để thực hiện một mục đích (mua đồ ăn). Hãy dựa vào ý nghĩa này để chọn dạng động từ phù hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ \"stop\" theo sau bởi V-ing hoặc to-V(inf)</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Động từ \"stop\" có thể được theo sau bởi danh động từ (V-ing) hoặc động từ nguyên thể có \"to\" (to-V(inf)), với ý nghĩa khác nhau tùy vào cấu trúc được sử dụng.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">stop + V-ing</span>:</strong> ngừng hẳn một hành động đang diễn ra hoặc thói quen</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">stop + to-V(inf)</span>:</strong> dừng lại để làm một việc gì đó khác (diễn tả mục đích)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Ngữ cảnh của câu cho thấy hành động dừng lại là để thực hiện một mục đích khác, đó là mua đồ ăn. Cấu trúc <strong>\"stop + to-V(inf)\" </strong>(dừng lại để làm gì) phù hợp với mục đích này, do đó <strong>\"to buy\"</strong> là lựa chọn đúng.</p>",
+      "answerFeedbacks": {
+        "1837687": "<p>Đúng vì cấu trúc <em>\"stop + to-V(inf)\"</em> diễn tả việc dừng lại để làm một hành động khác, phù hợp với ngữ cảnh \"dừng lại để mua đồ ăn\".</p>",
+        "1837688": "<p>Sai vì động từ <em>\"stop\"</em> không đi với cấu trúc <em>\"to + V-ing\"</em>.</p>",
+        "1837689": "<p>Sai vì cấu trúc <em>\"stop + V-ing\"</em> có nghĩa là ngừng hẳn một hành động đang diễn ra, không phù hợp với ngữ cảnh dừng lại để làm việc khác.</p>",
+        "1837690": "<p>Sai vì động từ <em>\"stop\"</em> không được theo sau trực tiếp bởi động từ nguyên thể không <em>\"to\"</em> để diễn tả mục đích.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 964336,
+      "questionNumber": 20,
+      "questionName": "20",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ you like cartoons, come with me to see 'Dog Man' tonight.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837691,
+          "label": "A",
+          "text": "After",
+          "isCorrect": false
+        },
+        {
+          "id": 1837692,
+          "label": "B",
+          "text": "While",
+          "isCorrect": false
+        },
+        {
+          "id": 1837693,
+          "label": "C",
+          "text": "If",
+          "isCorrect": true
+        },
+        {
+          "id": 1837694,
+          "label": "D",
+          "text": "When",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837693,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn liên từ phù hợp, hãy xác định mối quan hệ ý nghĩa giữa hai mệnh đề. Mệnh đề \"<em>you like cartoons</em>\" đang đưa ra một tiền đề hoặc giả định, và mệnh đề \"<em>come with me to see 'Dog Man' tonight</em>\" là một hành động được đề xuất dựa trên tiền đề đó. Liên từ nào dùng để thiết lập một điều kiện? Hãy xem xét nghĩa của từng liên từ: <em>After</em> (sau khi), <em>While</em> (trong khi), <em>If</em> (nếu), <em>When</em> (khi).",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe width=\"100%\" height=\"275\" style=\"border: none;\" id=\"embed-frame-CCBA9\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BQmytgOuO6UciZQ7on%2BQO%2BTbHmIFh7dPS8URgMQZwXxvSg3D3D176%2BfuuDc8012HMtK5bjsudGH3ox1Pm0Rax%2FKnNyh%2Fkr0o3%2FoShX8I28V5efOz9HOH3wQIw%2BVDkt0u5owZeeZnsslAbrdkZkpp6aWx9tgQUxproMloN%2BUwKXubnCQLrMuqqHRUUzwilYoiCc0ZrmIwrsjurT3pb9p7wPs7OKH8ib7%2Ffmhq4YI6ZazmelHBwpTmVMl2ovwHA2bxtKlQwaJXDImdbsCw0SlFRug4h38s25ha5H7PiVaxr0Tgk1ofE3Me5eu3mgoddoG8Soff%2F8ZUi4D9FK3nKEEwBeF8finO2dJQI%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Mệnh đề <strong>\"you like cartoons\"</strong> diễn tả một điều kiện hoặc sở thích, và mệnh đề <strong>\"come with me to see 'Dog Man' tonight\"</strong> là lời mời hoặc hành động sẽ xảy ra nếu điều kiện đó được đáp ứng.</p>\n<p style=\"text-align: justify;\">Chỉ có liên từ <strong>\"If\"</strong> mang nghĩa \"nếu\", dùng để giới thiệu một mệnh đề điều kiện, phù hợp với ngữ cảnh của câu này để thể hiện mối quan hệ điều kiện-kết quả.</p>",
+      "answerFeedbacks": {
+        "1837691": "<p>Sai vì <em>\"After\"</em> là liên từ chỉ thời gian, mang nghĩa \"sau khi\", không phù hợp để diễn đạt một điều kiện.</p>",
+        "1837692": "<p>Sai vì <em>\"While\"</em> là liên từ chỉ thời gian, mang nghĩa \"trong khi\", không phù hợp để diễn đạt một điều kiện.</p>",
+        "1837693": "<p>Đúng vì <em>\"If\"</em> là liên từ chỉ điều kiện, mang nghĩa \"nếu\", phù hợp để giới thiệu một điều kiện cho hành động ở mệnh đề chính.</p>",
+        "1837694": "<p>Sai vì <em>\"When\"</em> là liên từ chỉ thời gian, mang nghĩa \"khi\", không phù hợp để diễn đạt một điều kiện.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 964337,
+      "questionNumber": 21,
+      "questionName": "21",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>The tickets for the G-Dragon concert are _____ online now.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837695,
+          "label": "A",
+          "text": "ready",
+          "isCorrect": false
+        },
+        {
+          "id": 1837696,
+          "label": "B",
+          "text": "available",
+          "isCorrect": true
+        },
+        {
+          "id": 1837697,
+          "label": "C",
+          "text": "open",
+          "isCorrect": false
+        },
+        {
+          "id": 1837698,
+          "label": "D",
+          "text": "full",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837696,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe id=\"embed-frame-CCBA9\" style=\"border: none;\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BIw0dkoZTj0eRtO6EwXGVyInMOP%2F1WrqcuGL6ex1FcHZz%2BLWFqjpFaqtJRpq50z89wAmMJxIV67DCp9VsPHkqMEpA52WKL3ZBdeljaNEVUKnbgWiVDGKaBR3vdW9Ah2ONPvEB%2Bt3En4Vi8Xm8HmcDoSyho5s%2BfcD9tzeXsr56j585upuigBeJJbivreUwpukCl5URlECbGdl3y3MTOnjn3gPuKb7mv8B9SwhKIyRqX%2B%2BHY0WMSciUUCsb2hrQJxDQ5%2FWlZnwVYcd%2Fp4oJ60iDx1D%2BEHEz803SDJkzxiYJlmepGxb2iNwznSXpgrWOdQDpWisJCBDQ%2FZDqltq9LA8cHfIvzbEgXNqxYM5kKWL2iqJR4BWUDMxJ1\" width=\"100%\" height=\"275\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p><br />\"open\" d&ugrave;ng cho một sự kiện, chương tr&igrave;nh, ... đang diễn ra v&agrave; nhận người đăng k&yacute; tham gia.</p>\n<p>Dịch: V&eacute; tham dự buổi h&ograve;a nhạc của G-Dragon hiện đ&atilde; c&oacute; sẵn để mua trực tuyến.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964338,
+      "questionNumber": 22,
+      "questionName": "22",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We sent them so many letters of complaints but no reply _____ received yet.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837699,
+          "label": "A",
+          "text": "have been",
+          "isCorrect": false
+        },
+        {
+          "id": 1837700,
+          "label": "B",
+          "text": "have",
+          "isCorrect": false
+        },
+        {
+          "id": 1837701,
+          "label": "C",
+          "text": "has",
+          "isCorrect": false
+        },
+        {
+          "id": 1837702,
+          "label": "D",
+          "text": "has been",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1837702,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đáp án đúng, bạn cần xem xét ba yếu tố ngữ pháp chính:</p>\n<ul>\n<li>Xác định thì của câu dựa vào trạng từ thời gian <em>\"yet\"</em>.</li>\n<li>Xác định chủ ngữ <em>\"no reply\"</em> là số ít hay số nhiều để chia động từ <em>\"have/has\"</em> cho phù hợp.</li>\n<li>Xác định xem động từ cần chia ở thể chủ động hay bị động.</li>\n</ul>\n<p>Hãy kết hợp ba yếu tố này để tìm ra cấu trúc động từ chính xác.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Hòa hợp chủ ngữ - động từ và Thì Hiện tại Hoàn thành</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Thì Hiện tại Hoàn thành dùng để diễn tả hành động hoặc sự việc bắt đầu trong quá khứ và còn tiếp diễn đến hiện tại, hoặc có kết quả liên quan đến hiện tại. Nó thường đi kèm với các trạng từ như <em>yet</em>, <em>just</em>, <em>already</em>. Quy tắc hòa hợp chủ ngữ - động từ đảm bảo động từ chia đúng theo số ít/số nhiều của chủ ngữ.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + have/has + V(pp) (chủ động) </span><span style=\"font-weight: 600;\">hoặc</span><span style=\"color: #1c581f; font-weight: 600;\"> S + have/has + been + V(pp) (bị động)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu hỏi kiểm tra khả năng hòa hợp chủ ngữ - động từ, xác định thì và thể của động từ. Trạng từ <strong>\"yet</strong><em>\"</em> là dấu hiệu của Thì Hiện tại Hoàn thành. Chủ ngữ <strong>\"no reply\"</strong> là cụm danh từ số ít. Động từ <strong>\"received\"</strong> ở dạng quá khứ phân từ và theo nghĩa của câu,<strong> </strong><strong>\"reply</strong><em>\"</em> không thể tự thực hiện hành động <strong>\"receive\"</strong>, do đó câu cần dùng thể bị động.</p>\n<p style=\"text-align: justify;\">Kết hợp các yếu tố trên, ta cần một cấu trúc Thì Hiện tại Hoàn thành, dạng bị động, với chủ ngữ số ít, đó là <strong>\"has been + V(pp)\"</strong>. Vì vậy, phương án <strong>\"has been\"</strong> là đáp án chính xác nhất.</p>",
+      "answerFeedbacks": {
+        "1837699": "Sai vì chủ ngữ <em>\"no reply\"</em> là số ít, không đi với trợ động từ <em>\"have\"</em>.",
+        "1837700": "Sai vì chủ ngữ <em>\"no reply\"</em> là số ít, không đi với trợ động từ <em>\"have\"</em>, và câu cần cấu trúc bị động.",
+        "1837701": "<p>Sai vì câu cần cấu trúc bị động (do <em>\"received\"</em> là quá khứ phân từ), ở đây thiếu <em>\"been\"</em>.</p>",
+        "1837702": "Đúng vì cấu trúc <em>\"has been received\"</em> là dạng bị động của Thì Hiện tại Hoàn thành, hòa hợp với chủ ngữ số ít <em>\"no reply\"</em> và phù hợp với trạng từ <em>\"yet\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 964339,
+      "questionNumber": 23,
+      "questionName": "23",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>It was such a _____ that the concert was canceled an hour before it started.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837703,
+          "label": "A",
+          "text": "disappointed",
+          "isCorrect": false
+        },
+        {
+          "id": 1837704,
+          "label": "B",
+          "text": "disappointment",
+          "isCorrect": true
+        },
+        {
+          "id": 1837705,
+          "label": "C",
+          "text": "disappointing",
+          "isCorrect": false
+        },
+        {
+          "id": 1837706,
+          "label": "D",
+          "text": "disappoint",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837704,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn đáp án đúng, bạn cần xác định loại từ phù hợp với vị trí trong câu. Hãy chú ý đến cấu trúc <em>\"It was such a ____ that...\"</em>. Mạo từ <em>\"a\"</em> trước chỗ trống là một gợi ý quan trọng. Cấu trúc <em>\"such a/an + Noun\"</em> được dùng để nhấn mạnh một danh từ. Dựa vào đây, hãy xem xét các phương án và chọn từ có chức năng là danh từ để hoàn thành câu.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe width=\"100%\" height=\"315\" style=\"border: none;\" id=\"embed-frame-CCBA9\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2Btdg4l0fvKjeMCTQ4jDrC599dPOsdPn3e6vPym1wH4GD5k7rVEa02xToq%2B4OYP24a4pUxnyxNrNgP%2FPWo%2FhWKwziJGRSL59y0yAzCxbDZiK7JFGBUqIthuORddrWz%2BINKC4tm9KNcm5mGo0siC86Wr5SE5ZoNrhw39%2Fih30JtcBcv%2FLL98lPYlJmifE%2FmsGD2F%2BGhABdJPgLK3o2MezPkT2bS84SCsb2PVDLSzi70oZB%2BXbSIsEseY3w0PuO3FChydAmuZaTjdE2NioRKgh0xIaHzrYJje08e92nqW81ztEje%2BQnXK0ddGe7n%2BcNWn139Bf6lcwww4Qw%2B4hecsdyQfyk0UkXOMTgufx7V8E8uiotg%2FPd8TkVsh1IS4Yapp5mu5OcvvgArVXQa5XgE5L0WUNhJjRkpmFVo%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Sử dụng danh từ sau \"such a/an\"</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Cấu trúc \"such a/an + danh từ\" được dùng để nhấn mạnh một danh từ số ít đếm được, thường theo sau bởi mệnh đề kết quả bắt đầu bằng \"that\".</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">It was + such + (a/an) + N + that + clause</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu hỏi yêu cầu điền một từ loại phù hợp vào chỗ trống trong cấu trúc <strong>\"It was such a _____ that...\"</strong>. Sự xuất hiện của mạo từ <strong>\"a\"</strong> trước chỗ trống và cấu trúc nhấn mạnh với <strong>\"such...that\"</strong> cho thấy cần điền một danh từ số ít đếm được. Trong các phương án, <strong>\"disappointment\"</strong> là danh từ (sự thất vọng), hoàn toàn phù hợp về mặt ngữ pháp và ngữ nghĩa để hoàn thành câu.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều không phải là danh từ và không thể đứng trực tiếp sau mạo từ <strong>\"a\"</strong> trong cấu trúc này.</p>",
+      "answerFeedbacks": {
+        "1837703": "<p>Sai vì <em>\"disappointed\"</em> là tính từ (chỉ cảm xúc bị động) hoặc dạng quá khứ phân từ của động từ, không thể đứng trực tiếp sau mạo từ <em>\"a\"</em> trong cấu trúc này.</p>",
+        "1837704": "<p>Đúng vì <em>\"disappointment\"</em> là danh từ đếm được số ít, phù hợp với cấu trúc <em>\"such a + (adj) + noun\"</em> để diễn tả \"một sự thất vọng lớn\".</p>",
+        "1837705": "<p>Sai vì <em>\"disappointing\"</em> là tính từ (chỉ bản chất gây thất vọng), không thể đứng trực tiếp sau mạo từ <em>\"a\"</em> mà không có danh từ theo sau.</p>",
+        "1837706": "<p>Sai vì <em>\"disappoint\"</em> là động từ, không thể đứng sau mạo từ <em>\"a\" </em>trong ngữ cảnh này.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 964340,
+      "questionNumber": 24,
+      "questionName": "24",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>When I woke up this morning, the garden looked so wet. It _____ have rained heavily last night.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837707,
+          "label": "A",
+          "text": "need",
+          "isCorrect": false
+        },
+        {
+          "id": 1837708,
+          "label": "B",
+          "text": "should",
+          "isCorrect": false
+        },
+        {
+          "id": 1837709,
+          "label": "C",
+          "text": "can",
+          "isCorrect": false
+        },
+        {
+          "id": 1837710,
+          "label": "D",
+          "text": "must",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1837710,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn đáp án đúng, hãy xem xét ý nghĩa của các động từ khuyết thiếu khi kết hợp với <em>have + V(pp)</em> để diễn tả về một hành động trong quá khứ. Ngữ cảnh \"the garden looked so wet\" cung cấp một bằng chứng cụ thể. Hãy tự hỏi, bằng chứng này dẫn đến suy luận chắc chắn nào về việc \"it _____ have rained heavily last night\"?",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Động từ khuyết thiếu ở thể hoàn thành</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả suy đoán, khả năng, sự cần thiết, lời khuyên hoặc sự chỉ trích về một hành động đã xảy ra hoặc lẽ ra phải xảy ra trong quá khứ.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">Modal V. + have + V(pp)</span></p>\n<p><strong>Một số cách dùng cụ thể:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">must have V(pp)</span>:</strong> chắc hẳn là đã (diễn tả suy luận logic mạnh mẽ về điều đã xảy ra trong quá khứ)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">should have V(pp)</span>:</strong> lẽ ra nên làm (diễn tả hành động lẽ ra phải làm nhưng đã không làm trong quá khứ, mang ý chỉ trích hoặc hối tiếc)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">can't have V(pp)</span>:</strong> không thể nào đã (diễn tả suy luận phủ định mạnh mẽ về điều không thể xảy ra trong quá khứ)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">needn't have V(pp)</span>:</strong> lẽ ra không cần làm (diễn tả hành động đã làm nhưng thực ra không cần thiết trong quá khứ)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Ngữ cảnh <strong>\"When I woke up this morning, the garden looked so wet\"</strong> cung cấp bằng chứng rõ ràng cho thấy một sự việc đã xảy ra trong quá khứ, dẫn đến khu vườn bị ướt. Vì vậy, cần một động từ khuyết thiếu thể hiện sự suy luận logic mạnh mẽ về nguyên nhân này. Trong các phương án, <strong>\"must have rained\"</strong> (chắc hẳn đã mưa) là phù hợp nhất để diễn tả sự suy luận chắc chắn dựa trên bằng chứng.</p>",
+      "answerFeedbacks": {
+        "1837707": "<p>Sai vì <em>\"need have V(pp)\"</em> không phải là cấu trúc đúng để diễn tả suy luận trong quá khứ; thông thường người ta sử dụng cấu trúc <em>\"needn't have V(pp)\"</em> mang nghĩa \"lẽ ra không cần làm\".</p>",
+        "1837708": "<p>Sai vì <em>\"should have rained\"</em> mang nghĩa \"lẽ ra nên mưa\" (nhưng đã không mưa), không phù hợp với ngữ cảnh khu vườn ướt.</p>",
+        "1837709": "<p>Sai vì <em>\"can have rained\"</em> thường không dùng để diễn tả suy luận mạnh mẽ về điều đã xảy ra trong quá khứ; thông thường phải dùng <em>\"can't have rained\"</em> mới dùng cho suy luận phủ định.</p>",
+        "1837710": "<p>Đúng vì <em>\"must have rained\"</em> diễn tả suy luận logic mạnh mẽ về một điều chắc chắn đã xảy ra trong quá khứ dựa trên bằng chứng hiện tại.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 964341,
+      "questionNumber": 25,
+      "questionName": "25",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>During the project, students had a wide range of useful equipment _____ to complete tasks.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837711,
+          "label": "A",
+          "text": "at their disposal",
+          "isCorrect": true
+        },
+        {
+          "id": 1837712,
+          "label": "B",
+          "text": "across their path",
+          "isCorrect": false
+        },
+        {
+          "id": 1837713,
+          "label": "C",
+          "text": "beyond their control",
+          "isCorrect": false
+        },
+        {
+          "id": 1837714,
+          "label": "D",
+          "text": "beneath their notice",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837711,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 450px; height: 365px;\"><iframe id=\"embed-frame-DF942\" style=\"border: none;\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX18xYfdB2SH4BJVH9ng2qKDXJcVHYF1w2H3n083FXA7Fs9z%2Fhr7oZlTb%2BO8mQJ0sJD6PfgGm79w4dNPjNnAWXejlPDvTLkV0vVsvH8KOgIsUPnoI5DIyd9m90aMBGI6Oyq1n4O1U2vJlkx1Wlnk35SXqXOi7GjThNGOfFJAxMvKBKu6jgrAJvIl3UXY1z2HlFcSBgrr%2B9c%2FLtZ%2FUk%2BXmPONFPg8%2Fbcjj4byLm9rg2cGglrK%2FQO6FuTt65xDwGNt2QwS1ZvvzVKhFwX%2B%2FqYeis0nNjE%2BN9szI5mPuS3UXq4dwNiBaTIxHVCl%2FlpfBQyN4jcEYa52p2zgZi%2FDyy1yhDMyiWrtglzrZi3C5v%2BFj3UCqZYnyuWYAFvzEBTAnJtjSXpMK5OTb6gsxKDJCEJpFo8oNHJldVDdAAKGNSM2PpRmgtHVNnN36Ezj%2FWNYcNohSIlOWPl51Z%2BdLw%2B5Gbk9si%2F24Y%2F%2FKv9wFSz0NYQ6C2X5JGmfN8DODPKbkY%2F4UfnN99vIwzB5bKnacZw%3D%3D\" width=\"100%\" height=\"365\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Trong suốt dự &aacute;n, học sinh được sử dụng nhiều thiết bị hữu &iacute;ch sẵn c&oacute; để ho&agrave;n th&agrave;nh nhiệm vụ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964342,
+      "questionNumber": 26,
+      "questionName": "26-33",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the best answer for each blank.</strong></p>\n<p class=\"ng-star-inserted\" style=\"text-align: justify;\"><span class=\"ng-star-inserted\">Vietnam is not only famous for its history and street food but also for its amazing natural wonders. These places, including mountains, caves, and beaches, attract millions of visitors every year.&nbsp;</span><strong class=\"ng-star-inserted\"><span class=\"ng-star-inserted\"><span class='fillblank-option'><label>26.1</label><select class='ms fillblank-option-26' index='0' name='fbo-964342-0' data-testid='fillblank-select-964342-0'><option value='' data-testid='fillblank-option-empty-964342-0'></option><option value=\"Exploring\" data-testid='fillblank-option-964342-0-Exploring'>Exploring</option><option value=\"Controlling\" data-testid='fillblank-option-964342-0-Controlling'>Controlling</option><option value=\"Attending\" data-testid='fillblank-option-964342-0-Attending'>Attending</option><option value=\"Developing\" data-testid='fillblank-option-964342-0-Developing'>Developing</option></select></span></span></strong><span class=\"ng-star-inserted\">&nbsp;these areas helps people understand more about nature and the importance of preserving it.</span></p>\n<p class=\"ng-star-inserted\" style=\"text-align: justify;\"><span class=\"ng-star-inserted\">One of the most famous places is Ha Long Bay in northern Vietnam. It is known for its tall limestone islands that rise from the sea. Formed over millions of years and shaped by nature, these islands are both beautiful and mysterious. What surprises many visitors is the legend behind them&#8212;some believe dragons created the rocks to protect Vietnam&nbsp;</span><strong class=\"ng-star-inserted\"><span class=\"ng-star-inserted\"><span class='fillblank-option'><label>26.2</label><select class='ms fillblank-option-26' index='1' name='fbo-964342-1' data-testid='fillblank-select-964342-1'><option value='' data-testid='fillblank-option-empty-964342-1'></option><option value=\"for\" data-testid='fillblank-option-964342-1-for'>for</option><option value=\"of\" data-testid='fillblank-option-964342-1-of'>of</option><option value=\"from\" data-testid='fillblank-option-964342-1-from'>from</option><option value=\"with\" data-testid='fillblank-option-964342-1-with'>with</option></select></span></span></strong><span class=\"ng-star-inserted\">&nbsp;invaders. Ha Long Bay is also a UNESCO World Heritage Site, which shows its global importance.</span></p>\n<p class=\"ng-star-inserted\" style=\"text-align: justify;\"><strong class=\"ng-star-inserted\"><span class=\"ng-star-inserted\"><span class='fillblank-option'><label>26.3</label><select class='ms fillblank-option-26' index='2' name='fbo-964342-2' data-testid='fillblank-select-964342-2'><option value='' data-testid='fillblank-option-empty-964342-2'></option><option value=\"Due to\" data-testid='fillblank-option-964342-2-Due to'>Due to</option><option value=\"Since\" data-testid='fillblank-option-964342-2-Since'>Since</option><option value=\"In spite of\" data-testid='fillblank-option-964342-2-In spite of'>In spite of</option><option value=\"Although\" data-testid='fillblank-option-964342-2-Although'>Although</option></select></span></span></strong><span class=\"ng-star-inserted\">&nbsp;some parts of the bay are crowded with tourists, there are still peaceful spots where visitors can enjoy the scenery. In central Vietnam, Phong Nha-Ke Bang National Park is another natural wonder. It is home to a number of huge caves, including Son Doong, which is the largest cave in the world&nbsp;</span><strong class=\"ng-star-inserted\"><span class=\"ng-star-inserted\"><span class='fillblank-option'><label>26.4</label><select class='ms fillblank-option-26' index='3' name='fbo-964342-3' data-testid='fillblank-select-964342-3'><option value='' data-testid='fillblank-option-empty-964342-3'></option><option value=\"where\" data-testid='fillblank-option-964342-3-where'>where</option><option value=\"that\" data-testid='fillblank-option-964342-3-that'>that</option><option value=\"whose\" data-testid='fillblank-option-964342-3-whose'>whose</option><option value=\"what\" data-testid='fillblank-option-964342-3-what'>what</option></select></span></span></strong><span class=\"ng-star-inserted\">&nbsp;scientists have fully explored. Discovered by a local man and later studied by researchers, the cave has rivers, forests, and even its own climate inside.</span></p>\n<p class=\"ng-star-inserted\" style=\"text-align: justify;\"><span class=\"ng-star-inserted\">In the south, the Mekong Delta offers a different kind of beauty. The area is full of rivers and canals, where people sell fruits and goods from boats. In places like Cai Rang or Phong Dien, you can find a bunch of colorful floating markets, which attract&nbsp;</span><strong class=\"ng-star-inserted\"><span class=\"ng-star-inserted\"><span class='fillblank-option'><label>26.5</label><select class='ms fillblank-option-26' index='4' name='fbo-964342-4' data-testid='fillblank-select-964342-4'><option value='' data-testid='fillblank-option-empty-964342-4'></option><option value=\"each\" data-testid='fillblank-option-964342-4-each'>each</option><option value=\"both\" data-testid='fillblank-option-964342-4-both'>both</option><option value=\"every\" data-testid='fillblank-option-964342-4-every'>every</option><option value=\"all\" data-testid='fillblank-option-964342-4-all'>all</option></select></span></span></strong><span class=\"ng-star-inserted\">&nbsp;locals and tourists. These markets show&nbsp;</span><strong class=\"ng-star-inserted\"><span class=\"ng-star-inserted\"><span class='fillblank-option'><label>26.6</label><select class='ms fillblank-option-26' index='5' name='fbo-964342-5' data-testid='fillblank-select-964342-5'><option value='' data-testid='fillblank-option-empty-964342-5'></option><option value=\"whether\" data-testid='fillblank-option-964342-5-whether'>whether</option><option value=\"when\" data-testid='fillblank-option-964342-5-when'>when</option><option value=\"why\" data-testid='fillblank-option-964342-5-why'>why</option><option value=\"how\" data-testid='fillblank-option-964342-5-how'>how</option></select></span></span></strong><span class=\"ng-star-inserted\">&nbsp;closely people live with nature in this part of the country.</span></p>\n<p class=\"ng-star-inserted\" style=\"text-align: justify;\"><strong class=\"ng-star-inserted\"><span class=\"ng-star-inserted\"><span class='fillblank-option'><label>26.7</label><select class='ms fillblank-option-26' index='6' name='fbo-964342-6' data-testid='fillblank-select-964342-6'><option value='' data-testid='fillblank-option-empty-964342-6'></option><option value=\"Being compared\" data-testid='fillblank-option-964342-6-Being compared'>Being compared</option><option value=\"Compared\" data-testid='fillblank-option-964342-6-Compared'>Compared</option><option value=\"Comparing\" data-testid='fillblank-option-964342-6-Comparing'>Comparing</option><option value=\"Having compared\" data-testid='fillblank-option-964342-6-Having compared'>Having compared</option></select></span></span></strong><span class=\"ng-star-inserted\">&nbsp;to buildings and cities, natural wonders offer something deeper. They not only bring joy and peace, but also help us learn about the planet. As eco-tourism becomes more popular, taking care of these places while enjoying them becomes even more&nbsp;</span><strong class=\"ng-star-inserted\"><span class=\"ng-star-inserted\"><span class='fillblank-option'><label>26.8</label><select class='ms fillblank-option-26' index='7' name='fbo-964342-7' data-testid='fillblank-select-964342-7'><option value='' data-testid='fillblank-option-empty-964342-7'></option><option value=\"dynamic\" data-testid='fillblank-option-964342-7-dynamic'>dynamic</option><option value=\"productive\" data-testid='fillblank-option-964342-7-productive'>productive</option><option value=\"significant\" data-testid='fillblank-option-964342-7-significant'>significant</option><option value=\"competitive\" data-testid='fillblank-option-964342-7-competitive'>competitive</option></select></span></span></strong><span class=\"ng-star-inserted\">.</span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Exploring"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "from"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "Although"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "that"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "both"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "how"
+          ]
+        },
+        {
+          "index": 6,
+          "correctAnswers": [
+            "Compared"
+          ]
+        },
+        {
+          "index": 7,
+          "correctAnswers": [
+            "significant"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><strong>1.</strong> <strong class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">explore </span></strong><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">(v.): kh&aacute;m ph&aacute;</span></span></p>\n<p style=\"text-align: justify;\"><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">attend (v.): tham dự</span></span></p>\n<p style=\"text-align: justify;\"><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">develop (v.): ph&aacute;t triển</span></span></p>\n<p style=\"text-align: justify;\"><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">control (v.): điều khiển, kiểm so&aacute;t</span></span></p>\n<p style=\"text-align: justify;\"><strong>2.</strong> <strong>protect sb/sth from sth</strong>: bảo vệ ai/c&aacute;i g&igrave; khỏi c&aacute;i g&igrave;</p>\n<p style=\"text-align: justify;\"><strong>3.</strong> <strong class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">although + clause:</span></strong><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\"> mặc d&ugrave;</span></span></p>\n<p style=\"text-align: justify;\"><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">in spite of + N/N-phrase/V-ing: mặc d&ugrave;</span></span></p>\n<p style=\"text-align: justify;\"><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">due to + N/N-phrase/V-ing: bởi v&igrave;</span></span></p>\n<p style=\"text-align: justify;\"><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">since + clause: bởi v&igrave;, từ khi</span></span></p>\n<p style=\"text-align: justify;\"><strong>4.</strong> <span style=\"font-weight: 400;\"><span class=\"fontstyle0\"><strong>that + clause</strong>: thay thế danh từ kh&ocirc;ng chỉ người (<strong><span class=\"ng-star-inserted\">Son Doong</span></strong>), đ&oacute;ng vai tr&ograve; t&acirc;n ngữ trong mệnh đề quan hệ.</span></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\"><span class=\"fontstyle0\">whose + N: chỉ sự sở hữu cho danh từ, thay thế cho t&iacute;nh từ sở hữu hoặc sở hữu c&aacute;ch &lsquo;s.</span></span></p>\n<p style=\"text-align: justify;\">what = the thing(s) that + clause<span style=\"font-weight: 400;\">: kh&ocirc;ng thay thế cho danh từ n&agrave;o, v&agrave; kh&ocirc;ng c&oacute; danh từ n&agrave;o đứng trước n&oacute;, mệnh đề bắt đầu với </span>\"what\"<span style=\"font-weight: 400;\"> l&agrave;m chủ ngữ/ t&acirc;n ngữ trong c&acirc;u.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\"><span class=\"fontstyle0\">where + clause: thay thế cho danh từ/cụm danh từ chỉ địa điểm, nơi chốn, đ&oacute;ng vai tr&ograve; l&agrave; trạng từ/trạng ngữ trong c&acirc;u.&nbsp;</span></span></p>\n<p style=\"text-align: justify;\"><strong>5.</strong> <strong>both A and B</strong>: cả A v&agrave; B</p>\n<p style=\"text-align: justify;\">every + N (đếm được số &iacute;t): mỗi, mọi</p>\n<p style=\"text-align: justify;\">each + N (đếm được số &iacute;t): mỗi, từng</p>\n<p style=\"text-align: justify;\">all + N(đếm được số nhiều/danh từ kh&ocirc;ng đếm được): tất cả =&gt; kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh của c&acirc;u</p>\n<p style=\"text-align: justify;\"><strong>6. how + adv. + S + V</strong>: ... c&aacute;ch l&agrave;m g&igrave; như thế n&agrave;o</p>\n<p style=\"text-align: justify;\"><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">when + S + V: khi&nbsp;</span></span></p>\n<p style=\"text-align: justify;\"><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">why + S + V: tại sao&nbsp;</span></span></p>\n<p style=\"text-align: justify;\"><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">whether + S + V: liệu... kh&ocirc;ng</span></span></p>\n<p style=\"text-align: justify;\"><strong>7.&nbsp;</strong><span style=\"font-weight: 400;\">Hai mệnh đề c&oacute; c&ugrave;ng chủ ngữ \"<strong><span class=\"ng-star-inserted\">natural wonders</span></strong>\"&nbsp;=&gt; r&uacute;t gọn mệnh đề phụ (mệnh đề trạng ngữ) th&agrave;nh cụm từ bằng c&aacute;ch giản lược chủ ngữ.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">Chủ ngữ \"<strong><span class=\"ng-star-inserted\">natural wonders</span></strong>\" chịu t&aacute;c động của h&agrave;nh động \"<strong>compare</strong>\" =&gt; Động từ phải ở dạng bị động.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 400;\">Cấu tr&uacute;c mệnh đề trạng ngữ r&uacute;t gọn ở thể bị động:&nbsp;<strong>(Conj.) + V(pp)/Being V(pp) +..., S + V +...</strong></span></p>\n<p style=\"text-align: justify;\">C&acirc;u diễn tả t&igrave;nh trạng/trạng th&aacute;i ở hiện tại, kh&ocirc;ng mang t&iacute;nh tiếp diễn n&ecirc;n ta d&ugrave;ng mệnh đề r&uacute;t gọn ở dạng <strong>V(pp)</strong>.</p>\n<p style=\"text-align: justify;\"><strong>8.</strong> <strong class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">significant </span></strong><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">(adj.): quan trọng</span></span></p>\n<p style=\"text-align: justify;\"><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">dynamic (adj.): năng động</span></span></p>\n<p style=\"text-align: justify;\"><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">productive (adj.): hiệu quả</span></span></p>\n<p style=\"text-align: justify;\"><span class=\"ng-star-inserted\"><span class=\"ng-star-inserted\">competitive (adj.): cạnh tranh</span></span></p>\n<p style=\"text-align: justify;\"><strong>👉 Dịch văn bản:</strong></p>\n<table style=\"border-collapse: collapse; width: 100%; border-color: #49c015; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 99.3799%;\">\n<p style=\"text-align: justify;\">Việt Nam kh&ocirc;ng chỉ nổi tiếng với lịch sử v&agrave; ẩm thực đường phố m&agrave; c&ograve;n nổi tiếng với những kỳ quan thi&ecirc;n nhi&ecirc;n tuyệt vời. Những địa điểm n&agrave;y, bao gồm n&uacute;i, hang động v&agrave; b&atilde;i biển, thu h&uacute;t h&agrave;ng triệu du kh&aacute;ch mỗi năm. <strong>(1) <span style=\"text-decoration: underline;\">Kh&aacute;m ph&aacute;</span></strong> những khu vực n&agrave;y gi&uacute;p mọi người hiểu th&ecirc;m về thi&ecirc;n nhi&ecirc;n v&agrave; tầm quan trọng của việc bảo tồn thi&ecirc;n nhi&ecirc;n.</p>\n<p style=\"text-align: justify;\">Một trong những địa điểm nổi tiếng nhất l&agrave; Vịnh Hạ Long ở miền Bắc Việt Nam. Nơi đ&acirc;y nổi tiếng với những h&ograve;n đảo đ&aacute; v&ocirc;i cao nh&ocirc; l&ecirc;n từ biển. Được h&igrave;nh th&agrave;nh qua h&agrave;ng triệu năm v&agrave; được thi&ecirc;n nhi&ecirc;n định h&igrave;nh, những h&ograve;n đảo n&agrave;y vừa đẹp vừa b&iacute; ẩn. Điều khiến nhiều du kh&aacute;ch ngạc nhi&ecirc;n l&agrave; truyền thuyết đằng sau ch&uacute;ng&mdash;một số người tin rằng rồng đ&atilde; tạo ra những tảng đ&aacute; để bảo vệ Việt Nam <strong>(2) <span style=\"text-decoration: underline;\">khỏi</span></strong> những kẻ x&acirc;m lược. Vịnh Hạ Long cũng l&agrave; Di sản Thế giới được UNESCO c&ocirc;ng nhận, cho thấy tầm quan trọng mang t&iacute;nh to&agrave;n cầu của nơi đ&acirc;y.</p>\n<p style=\"text-align: justify;\"><strong>(3) <span style=\"text-decoration: underline;\">Mặc d&ugrave;</span></strong> một số khu vực của vịnh đ&ocirc;ng đ&uacute;c kh&aacute;ch du lịch, nhưng vẫn c&oacute; những địa điểm y&ecirc;n b&igrave;nh, nơi du kh&aacute;ch c&oacute; thể ngắm cảnh. Ở miền trung Việt Nam, Vườn quốc gia Phong Nha-Kẻ B&agrave;ng l&agrave; một kỳ quan thi&ecirc;n nhi&ecirc;n kh&aacute;c. Đ&acirc;y l&agrave; nơi c&oacute; một số hang động lớn, bao gồm Sơn Đo&ograve;ng, hang động lớn nhất thế giới <strong>(4) <span style=\"text-decoration: underline;\">nơi</span></strong> c&aacute;c nh&agrave; khoa học đ&atilde; kh&aacute;m ph&aacute; to&agrave;n diện. Được một người đ&agrave;n &ocirc;ng địa phương ph&aacute;t hiện v&agrave; sau đ&oacute; được c&aacute;c nh&agrave; nghi&ecirc;n cứu t&igrave;m hiểu, hang động c&oacute; s&ocirc;ng, rừng v&agrave; thậm ch&iacute; cả kh&iacute; hậu ri&ecirc;ng b&ecirc;n trong.</p>\n<p style=\"text-align: justify;\">Ở ph&iacute;a Nam, Đồng bằng s&ocirc;ng Cửu Long mang đến một vẻ đẹp kh&aacute;c biệt. Khu vực n&agrave;y c&oacute; nhiều s&ocirc;ng v&agrave; k&ecirc;nh rạch, nơi người d&acirc;n b&aacute;n tr&aacute;i c&acirc;y v&agrave; h&agrave;ng h&oacute;a tr&ecirc;n thuyền. Ở những nơi như C&aacute;i Răng hoặc Phong Điền, bạn c&oacute; thể t&igrave;m thấy một loạt c&aacute;c chợ nổi đầy m&agrave;u sắc, thu h&uacute;t <strong>(5) <span style=\"text-decoration: underline;\">cả</span></strong> người d&acirc;n địa phương v&agrave; kh&aacute;ch du lịch. Những khu chợ n&agrave;y cho thấy <strong>(6) <span style=\"text-decoration: underline;\">c&aacute;ch</span></strong> con người sống gần gũi với thi&ecirc;n nhi&ecirc;n như thế n&agrave;o ở v&ugrave;ng đất n&agrave;y.</p>\n<p style=\"text-align: justify;\"><strong>(7) <span style=\"text-decoration: underline;\">So với</span></strong> c&aacute;c t&ograve;a nh&agrave; v&agrave; th&agrave;nh phố, c&aacute;c kỳ quan thi&ecirc;n nhi&ecirc;n mang đến điều g&igrave; đ&oacute; s&acirc;u sắc hơn. Ch&uacute;ng kh&ocirc;ng chỉ mang lại niềm vui v&agrave; sự b&igrave;nh y&ecirc;n m&agrave; c&ograve;n gi&uacute;p ch&uacute;ng ta t&igrave;m hiểu về h&agrave;nh tinh. Khi du lịch sinh th&aacute;i ng&agrave;y c&agrave;ng trở n&ecirc;n phổ biến, việc chăm nom những địa điểm n&agrave;y trong khi tận hưởng ch&uacute;ng c&agrave;ng trở n&ecirc;n <strong>(8) <span style=\"text-decoration: underline;\">quan trọng</span></strong> hơn.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964351,
+      "questionNumber": 27,
+      "questionName": "34-41 (433w)",
+      "questionType": "Description",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">In today's world, technology plays a major role in teenagers' lives. Smartphones, social media, and online games are now a regular part of daily routines. These tools help young people stay connected, learn new things, and express themselves creatively. However, there are also concerns about how too much&nbsp;technology &#8211; especially when used at night &#8211; can affect their health and development. It is important for parents to understand both the benefits and the risks of digital life.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"6:1-6:457\">One key issue is sleep deprivation. Children need about 8 to 10 hours of sleep every night to grow, stay healthy, and concentrate well in school. <span class=\"answerhighlight q8\"><span class=\"answerhighlight q2\">Unfortunately, many teens use electronic devices right before bed and even keep <strong>them</strong> close while sleeping.</span> Studies show that the blue light from screens can make it harder to fall asleep and reduce sleep quality.</span> Lack of sleep can lead to poor academic performance, mood swings, and even mental health problems.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"8:1-8:348\">Cyberbullying is another serious risk. <span class=\"answerhighlight q3\">Many teens experience online bullying through messages, social media, or group chats. These incidents often happen late at night, when parents are unaware.</span> Victims of cyberbullying may feel anxious, depressed, or isolated. In some cases, it can have long-term effects on their confidence and emotional health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"10:1-10:302\"><span class=\"answerhighlight q4\">Teens also face exposure to inappropriate content. The internet makes it easy to access violent images, hate speech, or adult material &#8211; sometimes by accident.</span> Even though not all teens are affected the same way, repeated exposure to harmful content can change their behaviour, beliefs, or mental health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"12:1-12:253\">Technology addiction is becoming more common. Many teens feel the urge to check their phones constantly, fearing they will miss out on something. This habit can grow into compulsive behaviour, which disrupts daily routines and creates stress or anxiety.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"14:1-14:736\"><span class=\"answerhighlight q7\">So, what can parents do? Experts suggest a few useful strategies.</span><span class=\"answerhighlight q6\"> <span class=\"answerhighlight q5\">One approach <strong>involves</strong> creating clear rules, such as having phones kept out of the bedroom at night or setting specific times during the day when screens are not used, like at meals.</span> Open communication between parents and teenagers is also seen as important.</span> Parents may benefit from asking their teens about their online activities and making an effort to listen with understanding, rather than judgment. Another helpful method is setting a good example, as teenagers often learn from the behavior of adults around them. It can also be valuable to provide opportunities for offline activities, including sports, creative hobbies, or quality time with friends and family.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"16:1-16:163\">Technology can be a powerful tool &#8211; but only when used wisely. <span class=\"answerhighlight q7\">By staying involved and supportive, parents can help teenagers build a healthy, balanced digital life.</span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964360,
+      "questionNumber": 28,
+      "questionName": "34",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>What is the best title for the passage?</b>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">In today's world, technology plays a major role in teenagers' lives. Smartphones, social media, and online games are now a regular part of daily routines. These tools help young people stay connected, learn new things, and express themselves creatively. However, there are also concerns about how too much&nbsp;technology &#8211; especially when used at night &#8211; can affect their health and development. It is important for parents to understand both the benefits and the risks of digital life.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"6:1-6:457\">One key issue is sleep deprivation. Children need about 8 to 10 hours of sleep every night to grow, stay healthy, and concentrate well in school. <span class=\"answerhighlight q8\"><span class=\"answerhighlight q2\">Unfortunately, many teens use electronic devices right before bed and even keep <strong>them</strong> close while sleeping.</span> Studies show that the blue light from screens can make it harder to fall asleep and reduce sleep quality.</span> Lack of sleep can lead to poor academic performance, mood swings, and even mental health problems.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"8:1-8:348\">Cyberbullying is another serious risk. <span class=\"answerhighlight q3\">Many teens experience online bullying through messages, social media, or group chats. These incidents often happen late at night, when parents are unaware.</span> Victims of cyberbullying may feel anxious, depressed, or isolated. In some cases, it can have long-term effects on their confidence and emotional health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"10:1-10:302\"><span class=\"answerhighlight q4\">Teens also face exposure to inappropriate content. The internet makes it easy to access violent images, hate speech, or adult material &#8211; sometimes by accident.</span> Even though not all teens are affected the same way, repeated exposure to harmful content can change their behaviour, beliefs, or mental health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"12:1-12:253\">Technology addiction is becoming more common. Many teens feel the urge to check their phones constantly, fearing they will miss out on something. This habit can grow into compulsive behaviour, which disrupts daily routines and creates stress or anxiety.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"14:1-14:736\"><span class=\"answerhighlight q7\">So, what can parents do? Experts suggest a few useful strategies.</span><span class=\"answerhighlight q6\"> <span class=\"answerhighlight q5\">One approach <strong>involves</strong> creating clear rules, such as having phones kept out of the bedroom at night or setting specific times during the day when screens are not used, like at meals.</span> Open communication between parents and teenagers is also seen as important.</span> Parents may benefit from asking their teens about their online activities and making an effort to listen with understanding, rather than judgment. Another helpful method is setting a good example, as teenagers often learn from the behavior of adults around them. It can also be valuable to provide opportunities for offline activities, including sports, creative hobbies, or quality time with friends and family.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"16:1-16:163\">Technology can be a powerful tool &#8211; but only when used wisely. <span class=\"answerhighlight q7\">By staying involved and supportive, parents can help teenagers build a healthy, balanced digital life.</span></p>",
+      "parentQuestionId": 964351,
+      "choices": [
+        {
+          "id": 1837779,
+          "label": "A",
+          "text": "Teens Online: Tips for Teens to Stay Safe",
+          "isCorrect": false
+        },
+        {
+          "id": 1837780,
+          "label": "B",
+          "text": "How Technology Affects Parents of Teenagers",
+          "isCorrect": false
+        },
+        {
+          "id": 1837781,
+          "label": "C",
+          "text": "Teen and Tech: What Parents Should Know",
+          "isCorrect": false
+        },
+        {
+          "id": 1837782,
+          "label": "D",
+          "text": "Current Threats to Digital Life of Teenagers",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1837782,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>C&acirc;u hỏi:</strong><em> </em></span><em>Ti&ecirc;u đề ph&ugrave; hợp nhất cho b&agrave;i đọc n&agrave;y l&agrave; g&igrave;?</em></p>\n<ul style=\"text-align: justify;\">\n<li>Phương &aacute;n 1: Thanh thiếu ni&ecirc;n trực tuyến: Mẹo gi&uacute;p thanh thiếu ni&ecirc;n giữ an to&agrave;n</li>\n<li>Phương &aacute;n 2: C&ocirc;ng nghệ ảnh hưởng đến cha mẹ của thanh thiếu ni&ecirc;n như thế n&agrave;o</li>\n<li>Phương &aacute;n 3: Thanh thiếu ni&ecirc;n v&agrave; c&ocirc;ng nghệ: Những điều cha mẹ n&ecirc;n biết</li>\n<li>Phương &aacute;n 4: Những mối đe dọa hiện tại đối với cuộc sống số của thanh thiếu ni&ecirc;n</li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>Th&ocirc;ng tin trả lời: </strong></span></p>\n<p style=\"text-align: justify;\">B&agrave;i đọc n&oacute;i về vai tr&ograve; của c&ocirc;ng nghệ trong cuộc sống của thanh thiếu ni&ecirc;n hiện nay. Tuy nhi&ecirc;n, việc lạm dụng c&ocirc;ng nghệ cũng g&acirc;y ra nhiều vấn đề đ&aacute;ng lo ngại. N&oacute; c&oacute; thể ảnh hưởng đến giấc ngủ, sức khỏe t&acirc;m l&yacute;, g&acirc;y nghiện, tiếp x&uacute;c nội dung kh&ocirc;ng ph&ugrave; hợp v&agrave; bị bắt nạt qua mạng. B&agrave;i viết cũng đưa ra c&aacute;c giải ph&aacute;p cho phụ huynh như đặt ra quy tắc sử dụng thiết bị, giao tiếp cởi mở với con v&agrave; l&agrave;m gương để gi&uacute;p thanh thiếu ni&ecirc;n c&oacute; cuộc sống số l&agrave;nh mạnh v&agrave; c&acirc;n bằng.</p>\n<p style=\"text-align: justify;\">=&gt; Ti&ecirc;u đề ph&ugrave; hợp nhất cho b&agrave;i đọc n&agrave;y l&agrave; \"Những mối đe dọa hiện tại đối với cuộc sống số của thanh thiếu ni&ecirc;n\".</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964361,
+      "questionNumber": 29,
+      "questionName": "35",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>What does the word &quot;them&quot; in paragraph 2 refer to?</strong></p>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">In today's world, technology plays a major role in teenagers' lives. Smartphones, social media, and online games are now a regular part of daily routines. These tools help young people stay connected, learn new things, and express themselves creatively. However, there are also concerns about how too much&nbsp;technology &#8211; especially when used at night &#8211; can affect their health and development. It is important for parents to understand both the benefits and the risks of digital life.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"6:1-6:457\">One key issue is sleep deprivation. Children need about 8 to 10 hours of sleep every night to grow, stay healthy, and concentrate well in school. <span class=\"answerhighlight q8\"><span class=\"answerhighlight q2\">Unfortunately, many teens use electronic devices right before bed and even keep <strong>them</strong> close while sleeping.</span> Studies show that the blue light from screens can make it harder to fall asleep and reduce sleep quality.</span> Lack of sleep can lead to poor academic performance, mood swings, and even mental health problems.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"8:1-8:348\">Cyberbullying is another serious risk. <span class=\"answerhighlight q3\">Many teens experience online bullying through messages, social media, or group chats. These incidents often happen late at night, when parents are unaware.</span> Victims of cyberbullying may feel anxious, depressed, or isolated. In some cases, it can have long-term effects on their confidence and emotional health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"10:1-10:302\"><span class=\"answerhighlight q4\">Teens also face exposure to inappropriate content. The internet makes it easy to access violent images, hate speech, or adult material &#8211; sometimes by accident.</span> Even though not all teens are affected the same way, repeated exposure to harmful content can change their behaviour, beliefs, or mental health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"12:1-12:253\">Technology addiction is becoming more common. Many teens feel the urge to check their phones constantly, fearing they will miss out on something. This habit can grow into compulsive behaviour, which disrupts daily routines and creates stress or anxiety.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"14:1-14:736\"><span class=\"answerhighlight q7\">So, what can parents do? Experts suggest a few useful strategies.</span><span class=\"answerhighlight q6\"> <span class=\"answerhighlight q5\">One approach <strong>involves</strong> creating clear rules, such as having phones kept out of the bedroom at night or setting specific times during the day when screens are not used, like at meals.</span> Open communication between parents and teenagers is also seen as important.</span> Parents may benefit from asking their teens about their online activities and making an effort to listen with understanding, rather than judgment. Another helpful method is setting a good example, as teenagers often learn from the behavior of adults around them. It can also be valuable to provide opportunities for offline activities, including sports, creative hobbies, or quality time with friends and family.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"16:1-16:163\">Technology can be a powerful tool &#8211; but only when used wisely. <span class=\"answerhighlight q7\">By staying involved and supportive, parents can help teenagers build a healthy, balanced digital life.</span></p>",
+      "parentQuestionId": 964351,
+      "choices": [
+        {
+          "id": 1837783,
+          "label": "A",
+          "text": "screens",
+          "isCorrect": false
+        },
+        {
+          "id": 1837784,
+          "label": "B",
+          "text": "devices",
+          "isCorrect": true
+        },
+        {
+          "id": 1837785,
+          "label": "C",
+          "text": "hours",
+          "isCorrect": false
+        },
+        {
+          "id": 1837786,
+          "label": "D",
+          "text": "children",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837784,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Thật kh&ocirc;ng may, nhiều thanh thiếu ni&ecirc;n sử dụng <strong>c&aacute;c thiết bị </strong>điện tử ngay trước khi đi ngủ v&agrave; thậm ch&iacute; c&ograve;n để <strong>ch&uacute;ng </strong>gần m&igrave;nh trong khi ngủ.</p>\n<p>Từ \"<strong>them</strong>\" ở đoạn 2 đề cập đến \"<strong>devices</strong>\" (c&aacute;c thiết bị).</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964362,
+      "questionNumber": 30,
+      "questionName": "36",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>When does cyberbullying usually take place?</b>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">In today's world, technology plays a major role in teenagers' lives. Smartphones, social media, and online games are now a regular part of daily routines. These tools help young people stay connected, learn new things, and express themselves creatively. However, there are also concerns about how too much&nbsp;technology &#8211; especially when used at night &#8211; can affect their health and development. It is important for parents to understand both the benefits and the risks of digital life.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"6:1-6:457\">One key issue is sleep deprivation. Children need about 8 to 10 hours of sleep every night to grow, stay healthy, and concentrate well in school. <span class=\"answerhighlight q8\"><span class=\"answerhighlight q2\">Unfortunately, many teens use electronic devices right before bed and even keep <strong>them</strong> close while sleeping.</span> Studies show that the blue light from screens can make it harder to fall asleep and reduce sleep quality.</span> Lack of sleep can lead to poor academic performance, mood swings, and even mental health problems.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"8:1-8:348\">Cyberbullying is another serious risk. <span class=\"answerhighlight q3\">Many teens experience online bullying through messages, social media, or group chats. These incidents often happen late at night, when parents are unaware.</span> Victims of cyberbullying may feel anxious, depressed, or isolated. In some cases, it can have long-term effects on their confidence and emotional health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"10:1-10:302\"><span class=\"answerhighlight q4\">Teens also face exposure to inappropriate content. The internet makes it easy to access violent images, hate speech, or adult material &#8211; sometimes by accident.</span> Even though not all teens are affected the same way, repeated exposure to harmful content can change their behaviour, beliefs, or mental health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"12:1-12:253\">Technology addiction is becoming more common. Many teens feel the urge to check their phones constantly, fearing they will miss out on something. This habit can grow into compulsive behaviour, which disrupts daily routines and creates stress or anxiety.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"14:1-14:736\"><span class=\"answerhighlight q7\">So, what can parents do? Experts suggest a few useful strategies.</span><span class=\"answerhighlight q6\"> <span class=\"answerhighlight q5\">One approach <strong>involves</strong> creating clear rules, such as having phones kept out of the bedroom at night or setting specific times during the day when screens are not used, like at meals.</span> Open communication between parents and teenagers is also seen as important.</span> Parents may benefit from asking their teens about their online activities and making an effort to listen with understanding, rather than judgment. Another helpful method is setting a good example, as teenagers often learn from the behavior of adults around them. It can also be valuable to provide opportunities for offline activities, including sports, creative hobbies, or quality time with friends and family.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"16:1-16:163\">Technology can be a powerful tool &#8211; but only when used wisely. <span class=\"answerhighlight q7\">By staying involved and supportive, parents can help teenagers build a healthy, balanced digital life.</span></p>",
+      "parentQuestionId": 964351,
+      "choices": [
+        {
+          "id": 1837787,
+          "label": "A",
+          "text": "When teenagers often feel worried",
+          "isCorrect": false
+        },
+        {
+          "id": 1837788,
+          "label": "B",
+          "text": "Late at night when parents don't know",
+          "isCorrect": true
+        },
+        {
+          "id": 1837789,
+          "label": "C",
+          "text": "While teens are reading hate speech",
+          "isCorrect": false
+        },
+        {
+          "id": 1837790,
+          "label": "D",
+          "text": "The time parents and children lack sleep",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837788,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>C&acirc;u hỏi:</strong><em> </em></span><em>Bắt nạt tr&ecirc;n mạng thường xảy ra khi n&agrave;o?</em></p>\n<ul style=\"text-align: justify;\">\n<li>Phương &aacute;n 1: Khi thanh thiếu ni&ecirc;n thường cảm thấy lo lắng</li>\n<li>Phương &aacute;n 2: Đ&ecirc;m khuya khi cha mẹ kh&ocirc;ng biết</li>\n<li>Phương &aacute;n 3: Trong khi thanh thiếu ni&ecirc;n đang đọc những lời lẽ th&ugrave; địch</li>\n<li>Phương &aacute;n 4: Thời điểm cha mẹ v&agrave; con c&aacute;i thiếu ngủ</li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>Th&ocirc;ng tin trả lời: </strong></span></p>\n<p style=\"text-align: justify;\">Nhiều thanh thiếu ni&ecirc;n bị bắt nạt trực tuyến th&ocirc;ng qua tin nhắn, phương tiện truyền th&ocirc;ng x&atilde; hội hoặc tr&ograve; chuyện nh&oacute;m. Những điều n&agrave;y thường xảy ra v&agrave;o đ&ecirc;m khuya, khi cha mẹ kh&ocirc;ng biết.</p>\n<p style=\"text-align: justify;\">=&gt; Bắt nạt tr&ecirc;n mạng thường xảy ra v&agrave;o đ&ecirc;m khuya khi cha mẹ kh&ocirc;ng biết.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964363,
+      "questionNumber": 31,
+      "questionName": "37",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Which bad online content is NOT mentioned in the reading passage?</b>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">In today's world, technology plays a major role in teenagers' lives. Smartphones, social media, and online games are now a regular part of daily routines. These tools help young people stay connected, learn new things, and express themselves creatively. However, there are also concerns about how too much&nbsp;technology &#8211; especially when used at night &#8211; can affect their health and development. It is important for parents to understand both the benefits and the risks of digital life.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"6:1-6:457\">One key issue is sleep deprivation. Children need about 8 to 10 hours of sleep every night to grow, stay healthy, and concentrate well in school. <span class=\"answerhighlight q8\"><span class=\"answerhighlight q2\">Unfortunately, many teens use electronic devices right before bed and even keep <strong>them</strong> close while sleeping.</span> Studies show that the blue light from screens can make it harder to fall asleep and reduce sleep quality.</span> Lack of sleep can lead to poor academic performance, mood swings, and even mental health problems.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"8:1-8:348\">Cyberbullying is another serious risk. <span class=\"answerhighlight q3\">Many teens experience online bullying through messages, social media, or group chats. These incidents often happen late at night, when parents are unaware.</span> Victims of cyberbullying may feel anxious, depressed, or isolated. In some cases, it can have long-term effects on their confidence and emotional health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"10:1-10:302\"><span class=\"answerhighlight q4\">Teens also face exposure to inappropriate content. The internet makes it easy to access violent images, hate speech, or adult material &#8211; sometimes by accident.</span> Even though not all teens are affected the same way, repeated exposure to harmful content can change their behaviour, beliefs, or mental health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"12:1-12:253\">Technology addiction is becoming more common. Many teens feel the urge to check their phones constantly, fearing they will miss out on something. This habit can grow into compulsive behaviour, which disrupts daily routines and creates stress or anxiety.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"14:1-14:736\"><span class=\"answerhighlight q7\">So, what can parents do? Experts suggest a few useful strategies.</span><span class=\"answerhighlight q6\"> <span class=\"answerhighlight q5\">One approach <strong>involves</strong> creating clear rules, such as having phones kept out of the bedroom at night or setting specific times during the day when screens are not used, like at meals.</span> Open communication between parents and teenagers is also seen as important.</span> Parents may benefit from asking their teens about their online activities and making an effort to listen with understanding, rather than judgment. Another helpful method is setting a good example, as teenagers often learn from the behavior of adults around them. It can also be valuable to provide opportunities for offline activities, including sports, creative hobbies, or quality time with friends and family.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"16:1-16:163\">Technology can be a powerful tool &#8211; but only when used wisely. <span class=\"answerhighlight q7\">By staying involved and supportive, parents can help teenagers build a healthy, balanced digital life.</span></p>",
+      "parentQuestionId": 964351,
+      "choices": [
+        {
+          "id": 1837791,
+          "label": "A",
+          "text": "dangerous behavior",
+          "isCorrect": true
+        },
+        {
+          "id": 1837792,
+          "label": "B",
+          "text": "hate speech",
+          "isCorrect": false
+        },
+        {
+          "id": 1837793,
+          "label": "C",
+          "text": "violent images",
+          "isCorrect": false
+        },
+        {
+          "id": 1837794,
+          "label": "D",
+          "text": "adult material",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837791,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>C&acirc;u hỏi:</strong><em> </em></span><em>Nội dung xấu trực tuyến n&agrave;o KH&Ocirc;NG được đề cập trong b&agrave;i đọc?</em></p>\n<ul style=\"text-align: justify;\">\n<li>Phương &aacute;n 1: h&agrave;nh vi nguy hiểm</li>\n<li>Phương &aacute;n 2: lời n&oacute;i th&ugrave; địch</li>\n<li>Phương &aacute;n 3: h&igrave;nh ảnh bạo lực</li>\n<li>Phương &aacute;n 4: t&agrave;i liệu d&agrave;nh cho người lớn</li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>Th&ocirc;ng tin trả lời: </strong></span></p>\n<p style=\"text-align: justify;\">Thanh thiếu ni&ecirc;n cũng phải đối mặt với việc tiếp x&uacute;c với nội dung kh&ocirc;ng ph&ugrave; hợp. Internet gi&uacute;p dễ d&agrave;ng truy cập v&agrave;o <strong>(3)</strong> <span style=\"text-decoration: underline;\">h&igrave;nh ảnh bạo lực</span>, <strong>(2)</strong> <span style=\"text-decoration: underline;\">lời n&oacute;i th&ugrave; địch</span> hoặc <strong>(4)</strong> <span style=\"text-decoration: underline;\">t&agrave;i liệu d&agrave;nh cho người lớn</span> &ndash; đ&ocirc;i khi l&agrave; v&ocirc; t&igrave;nh.</p>\n<p style=\"text-align: justify;\">=&gt; Nội dung xấu trực tuyến KH&Ocirc;NG được đề cập trong b&agrave;i đọc l&agrave; <em>\"h&agrave;nh vi nguy hiểm\"</em>.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964364,
+      "questionNumber": 32,
+      "questionName": "38",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>What is the word &quot;involves&quot; in paragraph 6 closest in meaning to?</b>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">In today's world, technology plays a major role in teenagers' lives. Smartphones, social media, and online games are now a regular part of daily routines. These tools help young people stay connected, learn new things, and express themselves creatively. However, there are also concerns about how too much&nbsp;technology &#8211; especially when used at night &#8211; can affect their health and development. It is important for parents to understand both the benefits and the risks of digital life.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"6:1-6:457\">One key issue is sleep deprivation. Children need about 8 to 10 hours of sleep every night to grow, stay healthy, and concentrate well in school. <span class=\"answerhighlight q8\"><span class=\"answerhighlight q2\">Unfortunately, many teens use electronic devices right before bed and even keep <strong>them</strong> close while sleeping.</span> Studies show that the blue light from screens can make it harder to fall asleep and reduce sleep quality.</span> Lack of sleep can lead to poor academic performance, mood swings, and even mental health problems.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"8:1-8:348\">Cyberbullying is another serious risk. <span class=\"answerhighlight q3\">Many teens experience online bullying through messages, social media, or group chats. These incidents often happen late at night, when parents are unaware.</span> Victims of cyberbullying may feel anxious, depressed, or isolated. In some cases, it can have long-term effects on their confidence and emotional health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"10:1-10:302\"><span class=\"answerhighlight q4\">Teens also face exposure to inappropriate content. The internet makes it easy to access violent images, hate speech, or adult material &#8211; sometimes by accident.</span> Even though not all teens are affected the same way, repeated exposure to harmful content can change their behaviour, beliefs, or mental health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"12:1-12:253\">Technology addiction is becoming more common. Many teens feel the urge to check their phones constantly, fearing they will miss out on something. This habit can grow into compulsive behaviour, which disrupts daily routines and creates stress or anxiety.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"14:1-14:736\"><span class=\"answerhighlight q7\">So, what can parents do? Experts suggest a few useful strategies.</span><span class=\"answerhighlight q6\"> <span class=\"answerhighlight q5\">One approach <strong>involves</strong> creating clear rules, such as having phones kept out of the bedroom at night or setting specific times during the day when screens are not used, like at meals.</span> Open communication between parents and teenagers is also seen as important.</span> Parents may benefit from asking their teens about their online activities and making an effort to listen with understanding, rather than judgment. Another helpful method is setting a good example, as teenagers often learn from the behavior of adults around them. It can also be valuable to provide opportunities for offline activities, including sports, creative hobbies, or quality time with friends and family.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"16:1-16:163\">Technology can be a powerful tool &#8211; but only when used wisely. <span class=\"answerhighlight q7\">By staying involved and supportive, parents can help teenagers build a healthy, balanced digital life.</span></p>",
+      "parentQuestionId": 964351,
+      "choices": [
+        {
+          "id": 1837795,
+          "label": "A",
+          "text": "insists",
+          "isCorrect": false
+        },
+        {
+          "id": 1837796,
+          "label": "B",
+          "text": "deserves",
+          "isCorrect": false
+        },
+        {
+          "id": 1837797,
+          "label": "C",
+          "text": "requires",
+          "isCorrect": true
+        },
+        {
+          "id": 1837798,
+          "label": "D",
+          "text": "accompanies",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837797,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px; height: 360px; text-align: justify;\"><iframe id=\"embed-frame-3FC4F\" style=\"border: none;\" src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2FQj%2FNnmhFQtYjYme%2FOFugxFzSgnE%2Bgago%2BI%2BHkQJjKib%2Bp0xpJLUhf7Fg1ZnkNdBleiBCBCpeRNjj6obKBO%2BniYLuFxn3ZlhEtcvfTidxwxF7D1jXFhJ2wSkNwSXivcHBfwCb8tpkEBACA1NmL7RVVS7NxaMy8P2OImjCVWyds3hYD8o8wpjE3ST2pBSp6Aiboah6njaE3GtKHB%2BUAYemrCa2O1%2F8GD%2Fl2vB3QzrLdT98vIpRnVVAXoN%2FTWGOnekbaYZqxRwWmMAmmVMBeSzr8Lqh8ZvFz8njBGzXk6xLB22aFHO1Z74spHoOdrySM1zYSKcopKoZoGtWBXfNrSCYrLU4NQs8ET8KwDrEa%2FgIoH%2BofixC74JA6yoBc4aTFX34zF0h5eYUkngdlnvEfbANLaVEFspDyuJQiNSoRGfFq9NhdoP2aIdgk\" width=\"100%\" height=\"360\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\">Dịch: Một biện ph&aacute;p bao gồm việc tạo ra c&aacute;c quy tắc r&otilde; r&agrave;ng, chẳng hạn như để điện thoại ngo&agrave;i ph&ograve;ng ngủ v&agrave;o ban đ&ecirc;m hoặc đặt ra những thời điểm cụ thể trong ng&agrave;y kh&ocirc;ng sử dụng m&agrave;n h&igrave;nh, như trong bữa ăn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964365,
+      "questionNumber": 33,
+      "questionName": "39",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>What should parents teach children for better online habits?</b>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">In today's world, technology plays a major role in teenagers' lives. Smartphones, social media, and online games are now a regular part of daily routines. These tools help young people stay connected, learn new things, and express themselves creatively. However, there are also concerns about how too much&nbsp;technology &#8211; especially when used at night &#8211; can affect their health and development. It is important for parents to understand both the benefits and the risks of digital life.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"6:1-6:457\">One key issue is sleep deprivation. Children need about 8 to 10 hours of sleep every night to grow, stay healthy, and concentrate well in school. <span class=\"answerhighlight q8\"><span class=\"answerhighlight q2\">Unfortunately, many teens use electronic devices right before bed and even keep <strong>them</strong> close while sleeping.</span> Studies show that the blue light from screens can make it harder to fall asleep and reduce sleep quality.</span> Lack of sleep can lead to poor academic performance, mood swings, and even mental health problems.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"8:1-8:348\">Cyberbullying is another serious risk. <span class=\"answerhighlight q3\">Many teens experience online bullying through messages, social media, or group chats. These incidents often happen late at night, when parents are unaware.</span> Victims of cyberbullying may feel anxious, depressed, or isolated. In some cases, it can have long-term effects on their confidence and emotional health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"10:1-10:302\"><span class=\"answerhighlight q4\">Teens also face exposure to inappropriate content. The internet makes it easy to access violent images, hate speech, or adult material &#8211; sometimes by accident.</span> Even though not all teens are affected the same way, repeated exposure to harmful content can change their behaviour, beliefs, or mental health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"12:1-12:253\">Technology addiction is becoming more common. Many teens feel the urge to check their phones constantly, fearing they will miss out on something. This habit can grow into compulsive behaviour, which disrupts daily routines and creates stress or anxiety.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"14:1-14:736\"><span class=\"answerhighlight q7\">So, what can parents do? Experts suggest a few useful strategies.</span><span class=\"answerhighlight q6\"> <span class=\"answerhighlight q5\">One approach <strong>involves</strong> creating clear rules, such as having phones kept out of the bedroom at night or setting specific times during the day when screens are not used, like at meals.</span> Open communication between parents and teenagers is also seen as important.</span> Parents may benefit from asking their teens about their online activities and making an effort to listen with understanding, rather than judgment. Another helpful method is setting a good example, as teenagers often learn from the behavior of adults around them. It can also be valuable to provide opportunities for offline activities, including sports, creative hobbies, or quality time with friends and family.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"16:1-16:163\">Technology can be a powerful tool &#8211; but only when used wisely. <span class=\"answerhighlight q7\">By staying involved and supportive, parents can help teenagers build a healthy, balanced digital life.</span></p>",
+      "parentQuestionId": 964351,
+      "choices": [
+        {
+          "id": 1837799,
+          "label": "A",
+          "text": "Follow clear rules about phone and screen use",
+          "isCorrect": true
+        },
+        {
+          "id": 1837800,
+          "label": "B",
+          "text": "Spend quality time with reliable online friends",
+          "isCorrect": false
+        },
+        {
+          "id": 1837801,
+          "label": "C",
+          "text": "Listen with understanding, rather than judgment",
+          "isCorrect": false
+        },
+        {
+          "id": 1837802,
+          "label": "D",
+          "text": "Be a good example of how to behave online",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837799,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>C&acirc;u hỏi:</strong><em> </em></span><em>Cha mẹ n&ecirc;n dạy trẻ điều g&igrave; để c&oacute; th&oacute;i quen trực tuyến tốt hơn?</em></p>\n<ul style=\"text-align: justify;\">\n<li>Phương &aacute;n 1: Thực hiện c&aacute;c quy tắc r&otilde; r&agrave;ng về việc sử dụng điện thoại v&agrave; m&agrave;n h&igrave;nh</li>\n<li>Phương &aacute;n 2: D&agrave;nh thời gian chất lượng với những người bạn trực tuyến đ&aacute;ng tin cậy</li>\n<li>Phương &aacute;n 3: H&atilde;y lắng nghe bằng sự thấu hiểu, thay v&igrave; ph&aacute;n x&eacute;t</li>\n<li>Phương &aacute;n 4: H&atilde;y l&agrave; một tấm gương tốt về c&aacute;ch cư xử trực tuyến</li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>Th&ocirc;ng tin trả lời: </strong></span></p>\n<p style=\"text-align: justify;\">Một phương ph&aacute;p bao gồm việc tạo ra c&aacute;c quy tắc r&otilde; r&agrave;ng, chẳng hạn như để điện thoại ngo&agrave;i ph&ograve;ng ngủ v&agrave;o ban đ&ecirc;m hoặc đặt ra những thời điểm cụ thể trong ng&agrave;y khi kh&ocirc;ng sử dụng m&agrave;n h&igrave;nh, như trong bữa ăn. Giao tiếp cởi mở giữa cha mẹ v&agrave; thanh thiếu ni&ecirc;n cũng được coi l&agrave; quan trọng.</p>\n<p style=\"text-align: justify;\">=&gt; Cha mẹ n&ecirc;n dạy trẻ thực hiện c&aacute;c quy tắc r&otilde; r&agrave;ng về việc sử dụng điện thoại v&agrave; m&agrave;n h&igrave;nh để c&oacute; th&oacute;i quen trực tuyến tốt hơn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964366,
+      "questionNumber": 34,
+      "questionName": "40",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Which of the following statements can be inferred from the reading passage?</b>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">In today's world, technology plays a major role in teenagers' lives. Smartphones, social media, and online games are now a regular part of daily routines. These tools help young people stay connected, learn new things, and express themselves creatively. However, there are also concerns about how too much&nbsp;technology &#8211; especially when used at night &#8211; can affect their health and development. It is important for parents to understand both the benefits and the risks of digital life.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"6:1-6:457\">One key issue is sleep deprivation. Children need about 8 to 10 hours of sleep every night to grow, stay healthy, and concentrate well in school. <span class=\"answerhighlight q8\"><span class=\"answerhighlight q2\">Unfortunately, many teens use electronic devices right before bed and even keep <strong>them</strong> close while sleeping.</span> Studies show that the blue light from screens can make it harder to fall asleep and reduce sleep quality.</span> Lack of sleep can lead to poor academic performance, mood swings, and even mental health problems.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"8:1-8:348\">Cyberbullying is another serious risk. <span class=\"answerhighlight q3\">Many teens experience online bullying through messages, social media, or group chats. These incidents often happen late at night, when parents are unaware.</span> Victims of cyberbullying may feel anxious, depressed, or isolated. In some cases, it can have long-term effects on their confidence and emotional health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"10:1-10:302\"><span class=\"answerhighlight q4\">Teens also face exposure to inappropriate content. The internet makes it easy to access violent images, hate speech, or adult material &#8211; sometimes by accident.</span> Even though not all teens are affected the same way, repeated exposure to harmful content can change their behaviour, beliefs, or mental health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"12:1-12:253\">Technology addiction is becoming more common. Many teens feel the urge to check their phones constantly, fearing they will miss out on something. This habit can grow into compulsive behaviour, which disrupts daily routines and creates stress or anxiety.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"14:1-14:736\"><span class=\"answerhighlight q7\">So, what can parents do? Experts suggest a few useful strategies.</span><span class=\"answerhighlight q6\"> <span class=\"answerhighlight q5\">One approach <strong>involves</strong> creating clear rules, such as having phones kept out of the bedroom at night or setting specific times during the day when screens are not used, like at meals.</span> Open communication between parents and teenagers is also seen as important.</span> Parents may benefit from asking their teens about their online activities and making an effort to listen with understanding, rather than judgment. Another helpful method is setting a good example, as teenagers often learn from the behavior of adults around them. It can also be valuable to provide opportunities for offline activities, including sports, creative hobbies, or quality time with friends and family.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"16:1-16:163\">Technology can be a powerful tool &#8211; but only when used wisely. <span class=\"answerhighlight q7\">By staying involved and supportive, parents can help teenagers build a healthy, balanced digital life.</span></p>",
+      "parentQuestionId": 964351,
+      "choices": [
+        {
+          "id": 1837803,
+          "label": "A",
+          "text": "Parents are given opportunities to assist their children in avoiding negative effects of technology.",
+          "isCorrect": true
+        },
+        {
+          "id": 1837804,
+          "label": "B",
+          "text": "Cyberbullying is bound to lead to poor academic performance and daily routine disruption.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837805,
+          "label": "C",
+          "text": "Excessive technology becomes a daily routine for teenagers, especially in developed countries.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837806,
+          "label": "D",
+          "text": "Teens are more likely to copy their parents' good digital habits than follow advice alone.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837803,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>C&acirc;u hỏi:</strong><em> </em></span><em>Điều n&agrave;o sau đ&acirc;y c&oacute; thể suy ra được từ b&agrave;i đọc?</em></p>\n<ul style=\"text-align: justify;\">\n<li>Phương &aacute;n 1: Cha mẹ c&oacute; cơ hội gi&uacute;p con c&aacute;i tr&aacute;nh những t&aacute;c động ti&ecirc;u cực của c&ocirc;ng nghệ.</li>\n<li>Phương &aacute;n 2: Bắt nạt tr&ecirc;n mạng chắc chắn sẽ dẫn đến kết quả học tập k&eacute;m v&agrave; gi&aacute;n đoạn th&oacute;i quen h&agrave;ng ng&agrave;y.</li>\n<li>Phương &aacute;n 3: Việc sử dụng c&ocirc;ng nghệ qu&aacute; mức đ&atilde; trở th&agrave;nh th&oacute;i quen h&agrave;ng ng&agrave;y của thanh thiếu ni&ecirc;n, đặc biệt l&agrave; ở c&aacute;c nước ph&aacute;t triển.</li>\n<li>Phương &aacute;n 4: Thanh thiếu ni&ecirc;n c&oacute; xu hướng bắt chước th&oacute;i quen sử dụng c&ocirc;ng nghệ tốt của cha mẹ hơn l&agrave; chỉ l&agrave;m theo lời khuy&ecirc;n.</li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>Th&ocirc;ng tin trả lời: </strong></span></p>\n<p style=\"text-align: justify;\">Vậy, cha mẹ c&oacute; thể l&agrave;m g&igrave;? C&aacute;c chuy&ecirc;n gia gợi &yacute; một số chiến lược hữu &iacute;ch. [...] Bằng c&aacute;ch tham gia v&agrave; hỗ trợ, cha mẹ c&oacute; thể gi&uacute;p thanh thiếu ni&ecirc;n x&acirc;y dựng cuộc sống kỹ thuật số l&agrave;nh mạnh v&agrave; c&acirc;n bằng.</p>\n<p style=\"text-align: justify;\">=&gt; C&oacute; thể suy ra từ b&agrave;i đọc rằng cha mẹ c&oacute; cơ hội gi&uacute;p con c&aacute;i tr&aacute;nh những t&aacute;c động ti&ecirc;u cực của c&ocirc;ng nghệ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964367,
+      "questionNumber": 35,
+      "questionName": "41",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Which of the following statements might the writer most agree with?</b>",
+      "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">In today's world, technology plays a major role in teenagers' lives. Smartphones, social media, and online games are now a regular part of daily routines. These tools help young people stay connected, learn new things, and express themselves creatively. However, there are also concerns about how too much&nbsp;technology &#8211; especially when used at night &#8211; can affect their health and development. It is important for parents to understand both the benefits and the risks of digital life.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"6:1-6:457\">One key issue is sleep deprivation. Children need about 8 to 10 hours of sleep every night to grow, stay healthy, and concentrate well in school. <span class=\"answerhighlight q8\"><span class=\"answerhighlight q2\">Unfortunately, many teens use electronic devices right before bed and even keep <strong>them</strong> close while sleeping.</span> Studies show that the blue light from screens can make it harder to fall asleep and reduce sleep quality.</span> Lack of sleep can lead to poor academic performance, mood swings, and even mental health problems.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"8:1-8:348\">Cyberbullying is another serious risk. <span class=\"answerhighlight q3\">Many teens experience online bullying through messages, social media, or group chats. These incidents often happen late at night, when parents are unaware.</span> Victims of cyberbullying may feel anxious, depressed, or isolated. In some cases, it can have long-term effects on their confidence and emotional health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"10:1-10:302\"><span class=\"answerhighlight q4\">Teens also face exposure to inappropriate content. The internet makes it easy to access violent images, hate speech, or adult material &#8211; sometimes by accident.</span> Even though not all teens are affected the same way, repeated exposure to harmful content can change their behaviour, beliefs, or mental health.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"12:1-12:253\">Technology addiction is becoming more common. Many teens feel the urge to check their phones constantly, fearing they will miss out on something. This habit can grow into compulsive behaviour, which disrupts daily routines and creates stress or anxiety.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"14:1-14:736\"><span class=\"answerhighlight q7\">So, what can parents do? Experts suggest a few useful strategies.</span><span class=\"answerhighlight q6\"> <span class=\"answerhighlight q5\">One approach <strong>involves</strong> creating clear rules, such as having phones kept out of the bedroom at night or setting specific times during the day when screens are not used, like at meals.</span> Open communication between parents and teenagers is also seen as important.</span> Parents may benefit from asking their teens about their online activities and making an effort to listen with understanding, rather than judgment. Another helpful method is setting a good example, as teenagers often learn from the behavior of adults around them. It can also be valuable to provide opportunities for offline activities, including sports, creative hobbies, or quality time with friends and family.</p>\n<p style=\"text-align: justify;\" data-sourcepos=\"16:1-16:163\">Technology can be a powerful tool &#8211; but only when used wisely. <span class=\"answerhighlight q7\">By staying involved and supportive, parents can help teenagers build a healthy, balanced digital life.</span></p>",
+      "parentQuestionId": 964351,
+      "choices": [
+        {
+          "id": 1837807,
+          "label": "A",
+          "text": "Balancing online and offline activities seems to be too hard for teenagers.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837808,
+          "label": "B",
+          "text": "Keeping phones out of the bedroom at night can help teenagers sleep better.",
+          "isCorrect": true
+        },
+        {
+          "id": 1837809,
+          "label": "C",
+          "text": "Most teens develop unhealthy habits when they learn to use digital devices.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837810,
+          "label": "D",
+          "text": "Parents don't take an active role in managing their teenagers' technology use.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837808,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>C&acirc;u hỏi:</strong><em> </em></span><em>T&aacute;c giả c&oacute; thể đồng &yacute; nhất với điều n&agrave;o sau đ&acirc;y?</em></p>\n<ul style=\"text-align: justify;\">\n<li>Phương &aacute;n 1: Việc c&acirc;n bằng giữa c&aacute;c hoạt động trực tuyến v&agrave; ngoại tuyến dường như qu&aacute; kh&oacute; khăn đối với thanh thiếu ni&ecirc;n.</li>\n<li>Phương &aacute;n 2: Kh&ocirc;ng để điện thoại trong ph&ograve;ng ngủ v&agrave;o ban đ&ecirc;m c&oacute; thể gi&uacute;p thanh thiếu ni&ecirc;n ngủ ngon hơn.</li>\n<li>Phương &aacute;n 3: Hầu hết thanh thiếu ni&ecirc;n đều h&igrave;nh th&agrave;nh những th&oacute;i quen kh&ocirc;ng l&agrave;nh mạnh khi học c&aacute;ch sử dụng thiết bị kỹ thuật số.</li>\n<li>Phương &aacute;n 4: Cha mẹ kh&ocirc;ng đ&oacute;ng vai tr&ograve; t&iacute;ch cực trong việc quản l&yacute; việc sử dụng c&ocirc;ng nghệ của con c&aacute;i tuổi teen.</li>\n</ul>\n<p style=\"text-align: justify;\"><span style=\"color: #49c015;\"><strong>Th&ocirc;ng tin trả lời: </strong></span></p>\n<p style=\"text-align: justify;\">Thật kh&ocirc;ng may, nhiều thanh thiếu ni&ecirc;n sử dụng thiết bị điện tử ngay trước khi đi ngủ v&agrave; thậm ch&iacute; để ch&uacute;ng gần trong khi ngủ. C&aacute;c nghi&ecirc;n cứu cho thấy &aacute;nh s&aacute;ng xanh từ m&agrave;n h&igrave;nh c&oacute; thể khiến bạn kh&oacute; ngủ hơn v&agrave; l&agrave;m giảm chất lượng giấc ngủ.</p>\n<p style=\"text-align: justify;\">=&gt; T&aacute;c giả c&oacute; thể đồng &yacute; nhất với &yacute; <em>\"Kh&ocirc;ng để điện thoại trong ph&ograve;ng ngủ v&agrave;o ban đ&ecirc;m c&oacute; thể gi&uacute;p thanh thiếu ni&ecirc;n ngủ ngon hơn.</em>\"</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964368,
+      "questionNumber": 36,
+      "questionName": "42",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Alex and Kate are talking to each other after school.</em></p>\n<p><strong>Alex: Do you feel like going to the cinema tonight?</strong></p>\n<p><strong>Kate: _____ I have lots of homework to finish.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837811,
+          "label": "A",
+          "text": "<p>Maybe another time.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1837812,
+          "label": "B",
+          "text": "Sure, I like movies.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837813,
+          "label": "C",
+          "text": "No, why not?",
+          "isCorrect": false
+        },
+        {
+          "id": 1837814,
+          "label": "D",
+          "text": "<p>I can't wait.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837811,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Alex đang đưa ra lời mời đi xem phim. Kate sau đó đưa ra lý do <em>\"I have lots of homework to finish.\"</em> (Tôi có rất nhiều bài tập cần hoàn thành.).</p>\n<p>Hãy chọn câu đáp lại thể hiện sự từ chối một cách lịch sự, phù hợp với lý do bận rộn của Kate.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Alex đưa ra lời mời đi xem phim. Kate đáp lại bằng cách nêu lý do bận làm bài tập. Do đó, Kate cần một lời từ chối khéo.</p>\n<p style=\"text-align: justify;\">Phương án 1 <em>\"Maybe another time.\"</em> (Có lẽ vào lúc khác.) là lời từ chối lịch sự và phù hợp với lý do Kate đưa ra.</p>\n<p style=\"text-align: justify;\">Các phương án 2, 3 và 4 đều không phù hợp với ngữ cảnh lời mời và lý do bận của Kate.</p>",
+      "answerFeedbacks": {
+        "1837811": "<p>Đây là lời từ chối lịch sự, ngụ ý rằng người nói không thể tham gia vào thời điểm hiện tại nhưng có thể trong tương lai, rất phù hợp với lý do bận của Kate.</p>",
+        "1837812": "Câu này thể hiện sự đồng ý, trái ngược hoàn toàn với lý do <em>\"I have lots of homework to finish\"</em> của Kate.",
+        "1837813": "Mặc dù <em>\"No\"</em> là từ chối, nhưng <em>\"why not?\"</em> lại hỏi ngược lại lý do không đi, điều này không hợp lý khi Kate đang tự đưa ra lý do từ chối của mình.",
+        "1837814": "<p>Câu này thể hiện sự háo hức và đồng ý mạnh mẽ, hoàn toàn mâu thuẫn với việc Kate bận làm bài tập.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 964369,
+      "questionNumber": 37,
+      "questionName": "43",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Two students are chatting in the corridor after class.</em></p>\n<p><strong>Tim: Do you need help with cleaning the classroom?</strong></p>\n<p><strong>Laura: _____</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837815,
+          "label": "A",
+          "text": "<p>That's OK. As long as you know it.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837816,
+          "label": "B",
+          "text": "<p>Certainly, that would be really helpful.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1837817,
+          "label": "C",
+          "text": "Sure, I hope I can do it myself.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837818,
+          "label": "D",
+          "text": "<p>It's nice. You can say that again.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837816,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Lời thoại của Tim, <em>\"Do you need help with cleaning the classroom?\"</em>, là một lời đề nghị giúp đỡ.</p>\n<p>Hãy xem xét từng phương án để chọn ra câu trả lời thể hiện sự chấp nhận hoặc từ chối lời đề nghị một cách phù hợp. </p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của Tim, <em>\"Do you need help with cleaning the classroom?\"</em>, là một lời đề nghị giúp đỡ. Để đáp lại lời đề nghị này, Laura cần một câu trả lời thể hiện sự chấp nhận hoặc từ chối một cách phù hợp.</p>\n<p style=\"text-align: justify;\">Phương án 2, <em>\"Certainly, that would be really helpful.\"</em> (Chắc chắn rồi, điều đó sẽ thực sự hữu ích.), là một cách lịch sự để chấp nhận lời đề nghị và bày tỏ sự cảm kích.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 3 và 4 không phù hợp với ngữ cảnh lời đề nghị giúp đỡ.</p>",
+      "answerFeedbacks": {
+        "1837815": "<p>Câu này không phù hợp để đáp lại lời đề nghị giúp đỡ.</p>",
+        "1837816": "<p>Đây là cách lịch sự để chấp nhận một lời đề nghị giúp đỡ và bày tỏ sự cảm kích.</p>",
+        "1837817": "Mặc dù bắt đầu bằng <em>\"Sure\"</em>, vế sau lại thể hiện ý muốn tự làm, không phù hợp để chấp nhận giúp đỡ.",
+        "1837818": "<p>Câu này diễn đạt sự đồng tình mạnh mẽ, không phải là phản hồi thích hợp cho một lời đề nghị giúp đỡ.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 964370,
+      "questionNumber": 38,
+      "questionName": "44",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>A mother is talking to her daughter at home.</em></p>\n<p><strong>Mother: Don't play with that knife. _____</strong></p>\n<p><strong>Sophie: OK, mom, I won't.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837819,
+          "label": "A",
+          "text": "<p>It's such a useful tool in my kitchen.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837820,
+          "label": "B",
+          "text": "<p>You can cut so many things with it.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837821,
+          "label": "C",
+          "text": "<p>I'll be proud of you.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837822,
+          "label": "D",
+          "text": "You may cut yourself.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1837822,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Lời thoại đầu tiên của người mẹ, <em>\"Don't play with that knife.\"</em>, là một lời cảnh báo và cấm đoán.</p>\n<p style=\"text-align: justify;\">Hãy tìm câu giải thích lý do vì sao người mẹ đưa ra lời cảnh báo đó, để khớp với lời đáp của Sophie là <em>\"OK, mom, I won't.\"</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại đầu của người mẹ, <em>\"Don't play with that knife.\"</em>, là một lời cảnh báo hoặc cấm đoán. Lời đáp của Sophie, <em>\"OK, mom, I won't.\"</em>, cho thấy cô bé đã hiểu và đồng ý tuân thủ. Vì vậy, câu thoại còn thiếu phải là một lời giải thích hoặc lý do cho lời cảnh báo đó.</p>\n<p style=\"text-align: justify;\">Phương án 4, <em>\"You may cut yourself.\"</em> (Con có thể bị đứt tay), đưa ra lý do hợp lý và trực tiếp về mối nguy hiểm khi chơi dao, phù hợp với ngữ cảnh cảnh báo và sự đồng tình của Sophie.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại không phù hợp với chức năng giao tiếp của lời cảnh báo.</p>",
+      "answerFeedbacks": {
+        "1837819": "<p>Lời thoại này không phù hợp vì nó tập trung vào lợi ích của con dao, trái ngược với lời cảnh báo của người mẹ.</p>",
+        "1837820": "<p>Lời thoại này cũng nhấn mạnh công dụng của con dao, không phải là lời giải thích cho lệnh cấm.</p>",
+        "1837821": "<p>Lời thoại này là một lời hứa hoặc khuyến khích, không liên quan đến lý do cấm chơi dao.</p>",
+        "1837822": "Lời thoại này đưa ra lý do hợp lý cho lời cảnh báo <em>\"Don't play with that knife\"</em>, giải thích mối nguy hiểm tiềm ẩn."
+      },
+      "images": []
+    },
+    {
+      "id": 964371,
+      "questionNumber": 39,
+      "questionName": "45",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>It took Michael two hours to learn new words every day.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837823,
+          "label": "A",
+          "text": "Michael needed at least two hours for new words each day.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837824,
+          "label": "B",
+          "text": "Michael did nothing but study new words for two hours.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837825,
+          "label": "C",
+          "text": "If Michael could, he spent two hours learning new words.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837826,
+          "label": "D",
+          "text": "Michael used two hours to study new words each day.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1837826,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn được câu có nghĩa gần nhất, bạn cần xác định các thành phần nghĩa cốt lõi của câu gốc:</p>\n<ul>\n<li>Thứ nhất, câu gốc diễn tả <strong>thời gian cần thiết</strong> để hoàn thành một hành động: <em>\"It took Michael two hours...\"</em> (Michael mất hai tiếng...). Bạn cần tìm phương án nào cũng thể hiện ý nghĩa Michael đã dành, đã dùng, hoặc đã mất một khoảng thời gian cụ thể.</li>\n<li>Thứ hai, hành động đó là <strong>học từ mới</strong>: <em>\"...to learn new words...\"</em>.</li>\n<li>Thứ ba, hành động này xảy ra <strong>thường xuyên</strong>: <em>\"...every day.\"</em>.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>It takes (somebody) (time) to do something</strong>: Ai đó mất bao nhiêu thời gian để làm gì</p>\n<p style=\"text-align: justify;\"><strong>learn new words</strong> (phr.): học từ mới</p>\n<p style=\"text-align: justify;\"><strong>every day</strong> (phr.): mỗi ngày, hàng ngày</p>\n<p style=\"text-align: justify;\"><strong>use (time) to do something</strong>: Dùng (bao nhiêu thời gian) để làm gì</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Phương án 4 đúng vì câu này diễn đạt lại cấu trúc <strong>\"It took (somebody) (time) to do something\"</strong> bằng cấu trúc<strong> \"S + used (time) to do something\"</strong>, giữ nguyên nghĩa gốc là Michael dùng hai giờ để học từ mới mỗi ngày.</p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 1 sai vì cụm \"needed at least\" mang nghĩa \"cần ít nhất\", khác với nghĩa \"mất\" trong câu gốc.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 2 sai vì \"did nothing but\" có nghĩa \"không làm gì ngoài\", hàm ý Michael chỉ học từ mới trong hai giờ đó và không làm việc gì khác, không khớp với nghĩa câu gốc.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 3 sai vì \"If Michael could\" là một mệnh đề điều kiện, diễn tả một khả năng hoặc điều ước, không phải là một sự thật đã xảy ra hàng ngày như trong câu gốc.</li>\n</ul>",
+      "answerFeedbacks": {
+        "1837823": "Sai vì <em>\"needed at least\"</em> mang nghĩa \"cần ít nhất\", không khớp với nghĩa \"mất\" thời gian trong câu gốc.",
+        "1837824": "Sai vì <em>\"did nothing but study\"</em> có nghĩa \"không làm gì ngoài việc học\", hàm ý Michael chỉ làm một việc duy nhất trong hai giờ, không khớp với nghĩa câu gốc.",
+        "1837825": "Sai vì <em>\"If Michael could\"</em> là một mệnh đề điều kiện, diễn tả một khả năng hoặc điều ước, không phải một sự thật đã xảy ra hàng ngày.",
+        "1837826": "Đúng vì câu này diễn đạt lại cấu trúc <em>\"It took Michael two hours to learn\"</em> bằng cấu trúc tương đương <em>\"Michael used two hours to study\"</em>, giữ nguyên nghĩa gốc."
+      },
+      "images": []
+    },
+    {
+      "id": 964372,
+      "questionNumber": 40,
+      "questionName": "46",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>The classroom was too noisy for students to concentrate.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837827,
+          "label": "A",
+          "text": "The loud classroom couldn't prevent students from concentrating.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837828,
+          "label": "B",
+          "text": "Students managed to study with the noise from the classroom.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837829,
+          "label": "C",
+          "text": "The classroom was so noisy that students weren't able to focus.",
+          "isCorrect": true
+        },
+        {
+          "id": 1837830,
+          "label": "D",
+          "text": "The noise in the classroom made students stay more focused.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837829,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy chú ý đến cấu trúc <strong>too ... for someone to do something</strong> trong câu gốc. Cấu trúc này thường mang nghĩa là \"quá ... đến nỗi không thể làm gì\".</p><p>Nhiệm vụ của bạn là tìm một câu trong các phương án sử dụng một cấu trúc khác nhưng diễn tả được ý nghĩa tương tự (nguyên nhân - kết quả tiêu cực).</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>too + adj./adv. + (for sb) + to V(inf)</strong>: qu&aacute; ... (cho ai đ&oacute;) để l&agrave;m g&igrave; (cấu tr&uacute;c n&agrave;y thường mang &yacute; nghĩa phủ định, tức l&agrave; kh&ocirc;ng thể l&agrave;m được việc g&igrave; đ&oacute;)</p>\n<p style=\"text-align: justify;\"><strong>so + adj./adv. + that + S + V</strong>: qu&aacute; ... đến nỗi m&agrave; ...</p>\n<p style=\"text-align: justify;\"><strong>concentrate </strong>(v.): tập trung</p>\n<p style=\"text-align: justify;\"><strong>prevent sb from doing sth</strong>: ngăn cản ai l&agrave;m g&igrave;</p>\n<p style=\"text-align: justify;\"><strong>manage to do sth</strong>: xoay xở, cố gắng để l&agrave;m được việc g&igrave;</p>\n<p style=\"text-align: justify;\"><strong>focus</strong> (v.): tập trung (đồng nghĩa với 'concentrate')</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch:&nbsp;</span></p>\n<ul>\n<li style=\"text-align: justify;\">C&acirc;u gốc \"<strong>The classroom was too noisy for students to concentrate</strong>\" (<em>Lớp học qu&aacute; ồn &agrave;o để học sinh c&oacute; thể tập trung</em>) mang &yacute; nghĩa l&agrave; v&igrave; lớp qu&aacute; ồn n&ecirc;n học sinh kh&ocirc;ng thể tập trung được.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 đ&uacute;ng v&igrave; sử dụng cấu tr&uacute;c <strong>so... that...</strong> để diễn đạt lại &yacute; tương tự: \"<strong>The classroom was so noisy that students weren't able to focus</strong>\" (<em>Lớp học ồn &agrave;o đến nỗi học sinh kh&ocirc;ng thể tập trung được</em>).</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 v&agrave; 2 sai v&igrave; ch&uacute;ng mang nghĩa tr&aacute;i ngược, cho rằng học sinh vẫn c&oacute; thể tập trung hoặc học b&agrave;i được d&ugrave; lớp ồn &agrave;o.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 sai v&igrave; mang nghĩa ho&agrave;n to&agrave;n kh&aacute;c, cho rằng tiếng ồn lại gi&uacute;p học sinh tập trung hơn.</li>\n</ul>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Dịch:&nbsp;</span></p>\n<p style=\"text-align: justify;\"><strong>Lớp học qu&aacute; ồn &agrave;o để học sinh c&oacute; thể tập trung.</strong></p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Lớp học ồn &agrave;o kh&ocirc;ng thể ngăn cản học sinh tập trung.</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Học sinh đ&atilde; xoay xở để học được d&ugrave; c&oacute; tiếng ồn từ lớp học.</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #49c015;\">✔ </span>Lớp học ồn &agrave;o đến nỗi học sinh kh&ocirc;ng thể tập trung được.</strong></p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Tiếng ồn trong lớp học khiến học sinh tập trung hơn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964373,
+      "questionNumber": 41,
+      "questionName": "47",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Tourists at this resort can have their meals delivered to their room.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837831,
+          "label": "A",
+          "text": "Guests at this resort can request meals to be brought to their room.",
+          "isCorrect": true
+        },
+        {
+          "id": 1837832,
+          "label": "B",
+          "text": "Room service is now available to all the tourists visiting this resort.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837833,
+          "label": "C",
+          "text": "Visitors to the resort are allowed to cook meals directly in their room.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837834,
+          "label": "D",
+          "text": "Food delivery is provided at this resort for people to cook themselves.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837831,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"color: #000000; background-color: #fbeeb8;\"><strong>Kiến thức cần lưu &yacute;:</strong></span></p>\n<ul>\n<li>Với mệnh đề quan hệ ở thể bị động, r&uacute;t gọn mệnh đề th&agrave;nh<strong> N + V(pp)</strong>.</li>\n<li><strong>request + O + to V(inf)</strong>: y&ecirc;u cầu ai/c&aacute;i g&igrave; l&agrave;m g&igrave;&nbsp;<br />Khi t&acirc;n ngữ chịu sự t&aacute;c động bởi động từ theo sau =&gt; động từ ph&iacute;a sau chia ở dạng bị động: <strong>request + O + to be V(pp)</strong>: y&ecirc;u cầu ai/c&aacute;i g&igrave; được l&agrave;m g&igrave;</li>\n<li><strong>be available to sb</strong>: c&oacute; sẵn cho ai</li>\n<li>Với mệnh đề quan hệ ở thể chủ động, r&uacute;t gọn mệnh đề th&agrave;nh <strong>N + V-ing</strong>.</li>\n<li><strong>be allowed to V(inf)</strong>: được ph&eacute;p l&agrave;m g&igrave;</li>\n<li>Cấu tr&uacute;c bị động ở th&igrave; hiện tại đơn: <strong>S + am/are/is + V(pp)</strong></li>\n</ul>\n<hr />\n<p><span style=\"color: #000000; background-color: #fbeeb8;\"><strong>Dịch:</strong></span></p>\n<p><em>C&acirc;u gốc: <strong>Kh&aacute;ch du lịch tại khu nghỉ dưỡng n&agrave;y c&oacute; thể y&ecirc;u cầu giao đồ ăn đến tận ph&ograve;ng.</strong><br /></em></p>\n<p><strong><span style=\"color: #2dc26b;\">✔</span> Kh&aacute;ch tại khu nghỉ dưỡng n&agrave;y c&oacute; thể y&ecirc;u cầu đồ ăn được giao đến tận ph&ograve;ng.</strong></p>\n<p><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Dịch vụ ph&ograve;ng hiện đ&atilde; c&oacute; sẵn cho tất cả kh&aacute;ch du lịch đến thăm khu nghỉ dưỡng n&agrave;y.</p>\n<p><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Kh&aacute;ch đến khu nghỉ dưỡng được ph&eacute;p nấu ăn trực tiếp tại ph&ograve;ng của m&igrave;nh.</p>\n<p><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Khu nghỉ dưỡng n&agrave;y cung cấp dịch vụ giao đồ ăn để mọi người tự nấu ăn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964374,
+      "questionNumber": 42,
+      "questionName": "48",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines this pair of sentences.</em></p>\n<p><strong>Students do homework every day. They improve their learning.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837835,
+          "label": "A",
+          "text": "<p>Students often do homework, so they become clever.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837836,
+          "label": "B",
+          "text": "<p>Doing homework every day helps students learn better.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1837837,
+          "label": "C",
+          "text": "<p>Students can learn more skills because of homework.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1837838,
+          "label": "D",
+          "text": "<p>When students often do homework, they can study well.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837836,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn câu kết hợp tốt nhất, bạn cần xác định mối quan hệ giữa hai ý chính:<br/><ul><li>Hành động: <em>doing homework every day</em> (làm bài tập về nhà mỗi ngày)</li><li>Kết quả: <em>improve their learning</em> (cải thiện việc học của họ)</li></ul>Hãy tìm câu diễn đạt mối quan hệ <strong>nguyên nhân - kết quả</strong> này một cách rõ ràng và súc tích nhất, đồng thời giữ nguyên ý nghĩa của <em>every day</em> và <em>improve their learning</em>.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>V-ing</strong> có thể đóng vai trò làm chủ ngữ trong câu.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">help + O + (to) V</span>: giúp ai đó làm gì</p>\n<p style=\"text-align: justify;\"><strong>do homework</strong> (phr.): làm bài tập về nhà</p>\n<p style=\"text-align: justify;\"><strong>improve</strong> (v.): cải thiện, nâng cao</p>\n<p style=\"text-align: justify;\"><strong>learn better</strong> (phr.): học tốt hơn</p>\n<p style=\"text-align: justify;\"><strong>so + S + V</strong>: vì vậy, do đó</p>\n<p style=\"text-align: justify;\"><strong>because of</strong> <strong>+ N/N_phrase/V-ing</strong>: bởi vì</p>\n<p style=\"text-align: justify;\"><strong>when + S + V</strong>: khi</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 2 đúng vì sử dụng cấu trúc danh động từ làm chủ ngữ (<em>Doing homework every day</em>) để kết hợp hai ý, thể hiện rõ nguyên nhân - kết quả (làm bài tập hàng ngày dẫn đến việc học tốt hơn) một cách ngắn gọn và chính xác về ngữ nghĩa.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 1 sai vì từ <em>clever</em> không phản ánh chính xác nghĩa của <em>improve their learning</em>. Việc làm bài tập không chỉ khiến học sinh \"thông minh\" mà còn giúp \"cải thiện việc học\" nói chung.</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 3 sai vì không truyền tải đầy đủ ý nghĩa nguyên bản. Câu gốc nhấn mạnh việc cải thiện \"learning\" (việc học nói chung), không chỉ riêng \"more skills\" (thêm kỹ năng).</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phương án 4 sai vì mặc dù ngữ pháp đúng, nhưng cách diễn đạt <em>When students often do homework, they can study well</em> không truyền tải mối quan hệ nguyên nhân-kết quả trực tiếp và hiệu quả như câu gốc, và từ <em>often</em> làm thay đổi sắc thái nghĩa so với <em>every day</em>.</li>\n</ul>",
+      "answerFeedbacks": {
+        "1837835": "<p>Sai vì từ <em>clever</em> (thông minh) không diễn đạt chính xác ý nghĩa của <em>improve their learning</em> (cải thiện việc học) trong câu gốc.</p>",
+        "1837836": "<p>Đúng vì cấu trúc danh động từ làm chủ ngữ (<em>Doing homework every day</em>) kết hợp hai câu một cách ngắn gọn, chính xác và diễn đạt đúng mối quan hệ nguyên nhân-kết quả.</p>",
+        "1837837": "<p>Sai vì <em>more skills</em> (thêm kỹ năng) không bao hàm đầy đủ ý nghĩa của <em>improve their learning</em> (cải thiện việc học) trong câu gốc.</p>",
+        "1837838": "<p>Sai vì từ <em>often</em> (thường xuyên) thay đổi sắc thái nghĩa so với <em>every day</em> (mỗi ngày) trong câu gốc, và cách diễn đạt không súc tích bằng đáp án đúng.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 964375,
+      "questionNumber": 43,
+      "questionName": "49",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines this pair of sentences.</em></p>\n<p><strong>Students drink too little water. Because of this, they feel tired in lessons.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837839,
+          "label": "A",
+          "text": "Drinking more water in class could completely help students avoid feeling tired.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837840,
+          "label": "B",
+          "text": "If students drank enough water, they could avoid feeling tired during classes.",
+          "isCorrect": true
+        },
+        {
+          "id": 1837841,
+          "label": "C",
+          "text": "Students' lack of water prevented them from feeling fresh when they're in class.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837842,
+          "label": "D",
+          "text": "Because of having less water, students would continue feeling tired in class.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837840,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>because of + N/N-phrase/V-ing</strong>: bởi v&igrave;</p>\n<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại: <strong>If + S + V(pt), S + would/could/&hellip; + V(inf)</strong>.</span></p>\n<p><span style=\"font-weight: 400;\">could + V(inf): đ&atilde; c&oacute; thể l&agrave;m g&igrave;</span></p>\n<p><span style=\"font-weight: 400;\">lack of sth: thiếu c&aacute;i g&igrave;</span></p>\n<p><span style=\"font-weight: 400;\">prevent sb from doing sth: ngăn ai khỏi việc g&igrave;</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c mệnh đề chỉ thời gian với \"when\" trong qu&aacute; khứ: S + V(pt) + when + S + V(pt)</span></p>\n<p><span style=\"font-weight: 400;\">would + V(inf): từng l&agrave;m g&igrave; (th&oacute;i quen trong qu&aacute; khứ)</span></p>\n<p><span style=\"font-weight: 400;\">continue + V-ing: tiếp tục l&agrave;m việc g&igrave;</span></p>\n<p><span style=\"font-weight: 400;\">C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:</span></p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">Drinking more water in class could completely help students avoid feeling tired. (sai nghĩa)</span></em></li>\n<li><em><span style=\"font-weight: 400;\">Students' lack of water prevented them from feeling fresh when they<span style=\"text-decoration: line-through;\"><strong>'re</strong></span> in class.</span></em></li>\n<li><em><span style=\"font-weight: 400;\">Because of having less water, students would continue feeling tired in class. (sai nghĩa)</span></em></li>\n</ul>\n<p>Dịch: Học sinh uống qu&aacute; &iacute;t nước. V&igrave; thế, c&aacute;c em cảm thấy mệt mỏi trong giờ học.</p>\n<p><span style=\"color: #e03e2d;\">~</span> Nếu học sinh uống đủ nước, c&aacute;c em c&oacute; thể tr&aacute;nh cảm gi&aacute;c mệt mỏi trong giờ học.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 964376,
+      "questionNumber": 44,
+      "questionName": "50",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines this pair of sentences.</em></p>\n<p><strong>Some tourists don't show concern for the environment. They don't consider the influence of their actions, either.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1837843,
+          "label": "A",
+          "text": "Some travelers neither show concern for the environment nor consider the influence of their actions.",
+          "isCorrect": true
+        },
+        {
+          "id": 1837844,
+          "label": "B",
+          "text": "Some tourists either show concern for the environment or consider the influence of their actions.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837845,
+          "label": "C",
+          "text": "Some visitors not only show concern for the environment but also consider the influence of their actions.",
+          "isCorrect": false
+        },
+        {
+          "id": 1837846,
+          "label": "D",
+          "text": "Some travelers both show concern for the environment and consider the influence of their actions.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1837843,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"color: #000000; background-color: #fbeeb8;\"><strong>Kiến thức cần lưu &yacute;:</strong></span></p>\n<ul>\n<li><strong><span style=\"font-weight: 400;\">Cấu tr&uacute;c đồng t&igrave;nh phủ định: <strong>S + Aux./ to be + not, either</strong>: &hellip; cũng kh&ocirc;ng</span></strong></li>\n<li><strong>neither</strong> &hellip; <strong>nor</strong> &hellip;: kh&ocirc;ng &hellip; cũng kh&ocirc;ng &hellip;</li>\n<li><strong>either</strong> &hellip; <strong>or</strong> &hellip;: hoặc &hellip; hoặc &hellip;</li>\n<li><strong>not only</strong> &hellip; <strong>but also</strong> &hellip;&nbsp; kh&ocirc;ng chỉ &hellip; m&agrave; c&ograve;n &hellip;</li>\n<li><strong>both</strong> &hellip; <strong>and</strong> &hellip;: vừa &hellip; vừa &hellip;/cả &hellip;</li>\n</ul>\n<hr />\n<p style=\"text-align: justify;\"><span style=\"color: #000000; background-color: #fbeeb8;\"><strong>Dịch:</strong></span></p>\n<p style=\"text-align: justify;\"><em>C&acirc;u gốc: <strong>Một số du kh&aacute;ch kh&ocirc;ng quan t&acirc;m đến m&ocirc;i trường. Họ cũng kh&ocirc;ng c&acirc;n nhắc đến ảnh hưởng của những h&agrave;nh động của m&igrave;nh.</strong></em></p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\"><span style=\"color: #2dc26b;\">✔</span> </span>Một số du kh&aacute;ch kh&ocirc;ng quan t&acirc;m đến m&ocirc;i trường cũng như kh&ocirc;ng c&acirc;n nhắc đến ảnh hưởng của những<em> </em>h&agrave;nh động của m&igrave;nh.</strong></p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong>Một số du kh&aacute;ch tỏ ra quan t&acirc;m đến m&ocirc;i trường hoặc c&acirc;n nhắc đến ảnh hưởng của những h&agrave;nh động của m&igrave;nh.</p>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\"><strong>✖</strong></span> Một số du kh&aacute;ch kh&ocirc;ng chỉ quan t&acirc;m đến m&ocirc;i trường m&agrave; c&ograve;n c&acirc;n nhắc đến ảnh hưởng<strong> </strong>của những<strong> </strong>h&agrave;nh động của m&igrave;nh.</p>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\"><strong>✖</strong> </span>Một số du kh&aacute;ch vừa quan t&acirc;m đến m&ocirc;i trường vừa c&acirc;n nhắc đến ảnh hưởng của những h&agrave;nh động của m&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

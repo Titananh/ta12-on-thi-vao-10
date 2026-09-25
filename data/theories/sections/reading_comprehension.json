@@ -1,0 +1,17 @@
+{
+  "topicName": "Đọc hiểu văn bản (Reading Comprehension)",
+  "englishName": "Reading Comprehension",
+  "detail": "\n      <div class=\"theory-section space-y-4\">\n        <p class=\"font-medium text-slate-800\">Dạng bài đọc hiểu 5-7 câu hỏi về một chủ đề quen thuộc (Môi trường, Giáo dục, Công nghệ, Đô thị hóa, Văn hóa).</p>\n        <h4 class=\"text-base font-bold text-emerald-800 border-b border-emerald-100 pb-1 mt-3\">Các dạng câu hỏi thường gặp:</h4>\n        <ul class=\"list-disc pl-5 space-y-1.5 text-slate-700\">\n          <li><strong>Ý chính / Tiêu đề (Main idea / Title):</strong> Đọc câu đầu tiên và câu cuối cùng của từng đoạn văn, tổng hợp ý bao quát nhất (tránh ý quá hẹp hoặc quá rộng).</li>\n          <li><strong>Thông tin chi tiết (Factual questions):</strong> Gạch chân từ khóa câu hỏi, dò vị trí xuất hiện trong bài đọc (Scanning).</li>\n          <li><strong>Đại từ thay thế (Reference):</strong> \"It\", \"They\", \"These\" thay cho từ nào? Đọc lại câu văn ngay trước đại từ đó.</li>\n          <li><strong>Từ đồng nghĩa trong ngữ cảnh (Vocabulary in context):</strong> Đoán nghĩa dựa vào mệnh đề xung quanh hoặc sắc thái tích cực / tiêu cực.</li>\n          <li><strong>Câu hỏi NOT / EXCEPT:</strong> Tìm 3 phương án có xuất hiện trong bài để loại trừ.</li>\n        </ul>\n      </div>\n    ",
+  "rules": [
+    {
+      "sound": "Skimming",
+      "rule": "Đọc lướt tiêu đề, câu chủ đề đoạn 1 và đoạn cuối để nắm ý chính",
+      "examples": "What is the main topic of the passage?"
+    },
+    {
+      "sound": "Scanning",
+      "rule": "Dò tìm từ khóa (tên riêng, số liệu, thuật ngữ) để trả lời chi tiết",
+      "examples": "According to paragraph 2, ..."
+    }
+  ]
+}

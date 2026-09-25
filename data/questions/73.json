@@ -1,0 +1,452 @@
+[
+  {
+    "id": "95_1",
+    "questionName": "Question 1",
+    "questionText": "<p>My elder sister had to stay at home yesterday to ________ her sick baby brother.</p>",
+    "choices": [
+      {
+        "id": "95_1_1",
+        "text": "look after",
+        "html": "look after"
+      },
+      {
+        "id": "95_1_2",
+        "text": "look for",
+        "html": "look for"
+      },
+      {
+        "id": "95_1_3",
+        "text": "look at",
+        "html": "look at"
+      },
+      {
+        "id": "95_1_4",
+        "text": "look up",
+        "html": "look up"
+      }
+    ],
+    "correctChoiceId": "95_1_1",
+    "explanation": "<p><strong>look after</strong> = take care of (chăm sóc em nhỏ).<br/>look for: tìm kiếm; look at: nhìn; look up: tra cứu từ điển.</p>",
+    "ruleTip": "'look after' = take care of (chăm sóc ai/cái gì); 'look for' = search for (tìm kiếm)."
+  },
+  {
+    "id": "95_2",
+    "questionName": "Question 2",
+    "questionText": "<p>Remember to ________ all electrical appliances before leaving the classroom.</p>",
+    "choices": [
+      {
+        "id": "95_2_2",
+        "text": "turn on",
+        "html": "turn on"
+      },
+      {
+        "id": "95_2_3",
+        "text": "turn down",
+        "html": "turn down"
+      },
+      {
+        "id": "95_2_4",
+        "text": "turn up",
+        "html": "turn up"
+      },
+      {
+        "id": "95_2_1",
+        "text": "turn off",
+        "html": "turn off"
+      }
+    ],
+    "correctChoiceId": "95_2_1",
+    "explanation": "<p><strong>turn off</strong>: tắt thiết bị điện để tiết kiệm năng lượng.<br/>turn on: bật; turn down: vặn nhỏ / từ chối; turn up: vặn to / xuất hiện.</p>",
+    "ruleTip": "Ghi nhớ cặp từ trái nghĩa: turn on (bật) >< turn off (tắt); turn up (vặn to) >< turn down (vặn nhỏ/từ chối)."
+  },
+  {
+    "id": "95_3",
+    "questionName": "Question 3",
+    "questionText": "<p>He decided to ________ smoking because it severely affected his lungs.</p>",
+    "choices": [
+      {
+        "id": "95_3_2",
+        "text": "give in",
+        "html": "give in"
+      },
+      {
+        "id": "95_3_3",
+        "text": "give away",
+        "html": "give away"
+      },
+      {
+        "id": "95_3_1",
+        "text": "give up",
+        "html": "give up"
+      },
+      {
+        "id": "95_3_4",
+        "text": "give out",
+        "html": "give out"
+      }
+    ],
+    "correctChoiceId": "95_3_1",
+    "explanation": "<p><strong>give up</strong> + V-ing/N: từ bỏ một thói quen (hút thuốc).<br/>give in: đầu hàng; give away: cho tặng miễn phí.</p>",
+    "ruleTip": "'give up + V-ing' = stop/quit (từ bỏ một thói quen)."
+  },
+  {
+    "id": "95_4",
+    "questionName": "Question 4",
+    "questionText": "<p>Our school bus ________ on the highway this morning, causing many students to be late.</p>",
+    "choices": [
+      {
+        "id": "95_4_2",
+        "text": "broke out",
+        "html": "broke out"
+      },
+      {
+        "id": "95_4_1",
+        "text": "broke down",
+        "html": "broke down"
+      },
+      {
+        "id": "95_4_3",
+        "text": "broke into",
+        "html": "broke into"
+      },
+      {
+        "id": "95_4_4",
+        "text": "broke off",
+        "html": "broke off"
+      }
+    ],
+    "correctChoiceId": "95_4_1",
+    "explanation": "<p><strong>break down</strong>: (xe cộ, máy móc) bị hỏng hóc giữa đường.<br/>break out: bùng phát (dịch bệnh, chiến tranh); break into: đột nhập.</p>",
+    "ruleTip": "'break down' = stop working (xe cộ, máy móc bị hỏng)."
+  },
+  {
+    "id": "95_5",
+    "questionName": "Question 5",
+    "questionText": "<p>We have ________ fresh milk; could you please go to the supermarket and buy a carton?</p>",
+    "choices": [
+      {
+        "id": "95_5_1",
+        "text": "run out of",
+        "html": "run out of"
+      },
+      {
+        "id": "95_5_2",
+        "text": "run into",
+        "html": "run into"
+      },
+      {
+        "id": "95_5_3",
+        "text": "run away with",
+        "html": "run away with"
+      },
+      {
+        "id": "95_5_4",
+        "text": "run over",
+        "html": "run over"
+      }
+    ],
+    "correctChoiceId": "95_5_1",
+    "explanation": "<p><strong>run out of</strong>: cạn kiệt, hết sạch (sữa tươi).<br/>run into: tình cờ gặp ai.</p>",
+    "ruleTip": "'run out of sth' = have no more left (dùng hết, cạn kiệt cái gì)."
+  },
+  {
+    "id": "95_6",
+    "questionName": "Question 6",
+    "questionText": "<p>Due to the dense fog at Noi Bai Airport, the flight could not ________ on time.</p>",
+    "choices": [
+      {
+        "id": "95_6_2",
+        "text": "take on",
+        "html": "take on"
+      },
+      {
+        "id": "95_6_3",
+        "text": "take after",
+        "html": "take after"
+      },
+      {
+        "id": "95_6_1",
+        "text": "take off",
+        "html": "take off"
+      },
+      {
+        "id": "95_6_4",
+        "text": "take in",
+        "html": "take in"
+      }
+    ],
+    "correctChoiceId": "95_6_1",
+    "explanation": "<p><strong>take off</strong>: (máy bay) cất cánh; (quần áo) cởi ra.<br/>take after: giống ai trong gia đình.</p>",
+    "ruleTip": "'take off': máy bay cất cánh (>< land); cởi quần áo, giày mũ."
+  },
+  {
+    "id": "95_7",
+    "questionName": "Question 7",
+    "questionText": "<p>The sports tournament was ________ until next week because of the torrential rain.</p>",
+    "choices": [
+      {
+        "id": "95_7_1",
+        "text": "put off",
+        "html": "put off"
+      },
+      {
+        "id": "95_7_2",
+        "text": "put on",
+        "html": "put on"
+      },
+      {
+        "id": "95_7_3",
+        "text": "put out",
+        "html": "put out"
+      },
+      {
+        "id": "95_7_4",
+        "text": "put up",
+        "html": "put up"
+      }
+    ],
+    "correctChoiceId": "95_7_1",
+    "explanation": "<p><strong>put off</strong> = postpone / delay (hoãn lại sự kiện đến tuần sau).<br/>put on: mặc vào; put out: dập tắt đám cháy.</p>",
+    "ruleTip": "'put off' = postpone (trì hoãn); 'put out' = extinguish (dập tắt lửa)."
+  },
+  {
+    "id": "95_8",
+    "questionName": "Question 8",
+    "questionText": "<p>It took her nearly two weeks to completely ________ the serious flu.</p>",
+    "choices": [
+      {
+        "id": "95_8_2",
+        "text": "get on",
+        "html": "get on"
+      },
+      {
+        "id": "95_8_3",
+        "text": "get through",
+        "html": "get through"
+      },
+      {
+        "id": "95_8_1",
+        "text": "get over",
+        "html": "get over"
+      },
+      {
+        "id": "95_8_4",
+        "text": "get off",
+        "html": "get off"
+      }
+    ],
+    "correctChoiceId": "95_8_1",
+    "explanation": "<p><strong>get over</strong> = recover from (bình phục, vượt qua cơn ốm hoặc khó khăn).<br/>get on with: có quan hệ hòa thuận với ai.</p>",
+    "ruleTip": "'get over' = recover from (vượt qua cú sốc, khỏi bệnh)."
+  },
+  {
+    "id": "95_9",
+    "questionName": "Question 9",
+    "questionText": "<p>Even though she was tired, she ________ studying until she finished all 10 practice tests.</p>",
+    "choices": [
+      {
+        "id": "95_9_2",
+        "text": "went off",
+        "html": "went off"
+      },
+      {
+        "id": "95_9_1",
+        "text": "went on",
+        "html": "went on"
+      },
+      {
+        "id": "95_9_3",
+        "text": "went by",
+        "html": "went by"
+      },
+      {
+        "id": "95_9_4",
+        "text": "went out",
+        "html": "went out"
+      }
+    ],
+    "correctChoiceId": "95_9_1",
+    "explanation": "<p><strong>go on + V-ing</strong> = continue (tiếp tục làm gì).<br/>went off: (chuông báo) reo; (bom) nổ; (sữa) bị thiu.</p>",
+    "ruleTip": "'go on + V-ing' = keep on = continue (tiếp tục làm gì)."
+  },
+  {
+    "id": "95_10",
+    "questionName": "Question 10",
+    "questionText": "<p>Scientists are planning to ________ an experiment on solar energy efficiency.</p>",
+    "choices": [
+      {
+        "id": "95_10_2",
+        "text": "carry on",
+        "html": "carry on"
+      },
+      {
+        "id": "95_10_3",
+        "text": "carry off",
+        "html": "carry off"
+      },
+      {
+        "id": "95_10_1",
+        "text": "carry out",
+        "html": "carry out"
+      },
+      {
+        "id": "95_10_4",
+        "text": "carry away",
+        "html": "carry away"
+      }
+    ],
+    "correctChoiceId": "95_10_1",
+    "explanation": "<p><strong>carry out</strong> an experiment/research: tiến hành, thực hiện thí nghiệm hoặc dự án.</p>",
+    "ruleTip": "'carry out' = conduct/execute (tiến hành nghiên cứu, thí nghiệm, kế hoạch)."
+  },
+  {
+    "id": "95_11",
+    "questionName": "Question 11",
+    "questionText": "<p>If you don't know the exact meaning of this idiom, ________ it in the Oxford Dictionary.</p>",
+    "choices": [
+      {
+        "id": "95_11_1",
+        "text": "look up",
+        "html": "look up"
+      },
+      {
+        "id": "95_11_2",
+        "text": "look for",
+        "html": "look for"
+      },
+      {
+        "id": "95_11_3",
+        "text": "look after",
+        "html": "look after"
+      },
+      {
+        "id": "95_11_4",
+        "text": "look into",
+        "html": "look into"
+      }
+    ],
+    "correctChoiceId": "95_11_1",
+    "explanation": "<p><strong>look up</strong> a word/information: tra cứu từ ngữ hoặc thông tin trong từ điển/sách báo.</p>",
+    "ruleTip": "'look up' = search in a dictionary/reference (tra cứu từ ngữ, thông tin)."
+  },
+  {
+    "id": "95_12",
+    "questionName": "Question 12",
+    "questionText": "<p>Nam was ________ by his grandparents in the countryside after his parents moved abroad.</p>",
+    "choices": [
+      {
+        "id": "95_12_2",
+        "text": "grown up",
+        "html": "grown up"
+      },
+      {
+        "id": "95_12_1",
+        "text": "brought up",
+        "html": "brought up"
+      },
+      {
+        "id": "95_12_3",
+        "text": "taken up",
+        "html": "taken up"
+      },
+      {
+        "id": "95_12_4",
+        "text": "looked up",
+        "html": "looked up"
+      }
+    ],
+    "correctChoiceId": "95_12_1",
+    "explanation": "<p><strong>bring up</strong> = raise a child (nuôi nấng, dưỡng dục con cái). Ở dạng bị động là 'was brought up'.</p>",
+    "ruleTip": "'bring up' = raise (nuôi nấng con cái); 'grow up' = trưởng thành (nội động từ)."
+  },
+  {
+    "id": "95_13",
+    "questionName": "Question 13",
+    "questionText": "<p>I simply cannot ________ the deafening noise from the construction site next door anymore.</p>",
+    "choices": [
+      {
+        "id": "95_13_2",
+        "text": "catch up with",
+        "html": "catch up with"
+      },
+      {
+        "id": "95_13_3",
+        "text": "keep up with",
+        "html": "keep up with"
+      },
+      {
+        "id": "95_13_4",
+        "text": "come up with",
+        "html": "come up with"
+      },
+      {
+        "id": "95_13_1",
+        "text": "put up with",
+        "html": "put up with"
+      }
+    ],
+    "correctChoiceId": "95_13_1",
+    "explanation": "<p><strong>put up with</strong> = tolerate (chịu đựng điều phiền toái: tiếng ồn công trường).<br/>come up with: nảy ra ý tưởng; catch up with: theo kịp ai.</p>",
+    "ruleTip": "'put up with' = tolerate (chịu đựng ai/cái gì); 'come up with' = invent/think of (nảy ra ý tưởng)."
+  },
+  {
+    "id": "95_14",
+    "questionName": "Question 14",
+    "questionText": "<p>Everyone says that young Linda ________ her mother in both appearance and kind personality.</p>",
+    "choices": [
+      {
+        "id": "95_14_2",
+        "text": "looks for",
+        "html": "looks for"
+      },
+      {
+        "id": "95_14_1",
+        "text": "takes after",
+        "html": "takes after"
+      },
+      {
+        "id": "95_14_3",
+        "text": "takes off",
+        "html": "takes off"
+      },
+      {
+        "id": "95_14_4",
+        "text": "looks after",
+        "html": "looks after"
+      }
+    ],
+    "correctChoiceId": "95_14_1",
+    "explanation": "<p><strong>take after</strong> = resemble (giống bố mẹ hoặc người lớn trong gia đình về ngoại hình/tính cách).</p>",
+    "ruleTip": "'take after sb' = resemble (giống ai trong gia đình)."
+  },
+  {
+    "id": "95_15",
+    "questionName": "Question 15",
+    "questionText": "<p>All the students are really ________ meeting the foreign exchange teachers next Monday.</p>",
+    "choices": [
+      {
+        "id": "95_15_2",
+        "text": "looking down on",
+        "html": "looking down on"
+      },
+      {
+        "id": "95_15_3",
+        "text": "getting along with",
+        "html": "getting along with"
+      },
+      {
+        "id": "95_15_4",
+        "text": "keeping track of",
+        "html": "keeping track of"
+      },
+      {
+        "id": "95_15_1",
+        "text": "looking forward to",
+        "html": "looking forward to"
+      }
+    ],
+    "correctChoiceId": "95_15_1",
+    "explanation": "<p><strong>look forward to + V-ing</strong>: rất háo hức, mong chờ sự kiện sắp tới.</p>",
+    "ruleTip": "'look forward to + V-ing': mong đợi, chờ đón điều gì với niềm vui."
+  }
+]

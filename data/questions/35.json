@@ -1,0 +1,452 @@
+[
+  {
+    "id": "35_1",
+    "questionName": "Question 1",
+    "questionText": "<p>Wind turbines and solar panels generate clean and ________ energy for urban cities.</p>",
+    "choices": [
+      {
+        "id": "35_1_1",
+        "text": "renewable",
+        "html": "renewable"
+      },
+      {
+        "id": "35_1_2",
+        "text": "exhaustible",
+        "html": "exhaustible"
+      },
+      {
+        "id": "35_1_3",
+        "text": "polluted",
+        "html": "polluted"
+      },
+      {
+        "id": "35_1_4",
+        "text": "harmful",
+        "html": "harmful"
+      }
+    ],
+    "correctChoiceId": "35_1_1",
+    "explanation": "<p>Năng lượng sạch từ gió và mặt trời là năng lượng có thể tái tạo: <strong>renewable energy</strong>.</p>",
+    "ruleTip": "'renewable energy' = năng lượng tái tạo (gió, mặt trời, thủy điện)."
+  },
+  {
+    "id": "35_2",
+    "questionName": "Question 2",
+    "questionText": "<p>Rapid urban development has led to severe ________ in many historic metropolises.</p>",
+    "choices": [
+      {
+        "id": "35_2_2",
+        "text": "agriculture",
+        "html": "agriculture"
+      },
+      {
+        "id": "35_2_3",
+        "text": "preservation",
+        "html": "preservation"
+      },
+      {
+        "id": "35_2_4",
+        "text": "freshness",
+        "html": "freshness"
+      },
+      {
+        "id": "35_2_1",
+        "text": "overcrowding",
+        "html": "overcrowding"
+      }
+    ],
+    "correctChoiceId": "35_2_1",
+    "explanation": "<p>Đô thị hóa quá nhanh dẫn đến tình trạng quá tải dân số: <strong>overcrowding</strong> (sự đông đúc quá tải).</p>",
+    "ruleTip": "'overcrowding' = tình trạng quá đông đúc ở các đại đô thị."
+  },
+  {
+    "id": "35_3",
+    "questionName": "Question 3",
+    "questionText": "<p>Local people in Bat Trang village are skillful ________ who create delicate pottery.</p>",
+    "choices": [
+      {
+        "id": "35_3_2",
+        "text": "engineers",
+        "html": "engineers"
+      },
+      {
+        "id": "35_3_3",
+        "text": "customers",
+        "html": "customers"
+      },
+      {
+        "id": "35_3_4",
+        "text": "drivers",
+        "html": "drivers"
+      },
+      {
+        "id": "35_3_1",
+        "text": "artisans",
+        "html": "artisans"
+      }
+    ],
+    "correctChoiceId": "35_3_1",
+    "explanation": "<p>Người thợ thủ công lành nghề ở làng gốm Bát Tràng là <strong>artisans</strong> (nghệ nhân).</p>",
+    "ruleTip": "'artisan' = thợ thủ công, nghệ nhân lành nghề tại làng nghề truyền thống."
+  },
+  {
+    "id": "35_4",
+    "questionName": "Question 4",
+    "questionText": "<p>Using public transport such as the metro and electric bus helps reduce your carbon ________.</p>",
+    "choices": [
+      {
+        "id": "35_4_2",
+        "text": "handprint",
+        "html": "handprint"
+      },
+      {
+        "id": "35_4_1",
+        "text": "footprint",
+        "html": "footprint"
+      },
+      {
+        "id": "35_4_3",
+        "text": "path",
+        "html": "path"
+      },
+      {
+        "id": "35_4_4",
+        "text": "emission",
+        "html": "emission"
+      }
+    ],
+    "correctChoiceId": "35_4_1",
+    "explanation": "<p>Thuật ngữ môi trường: <strong>carbon footprint</strong> (dấu chân carbon / lượng khí thải carbon cá nhân).</p>",
+    "ruleTip": "'carbon footprint' = dấu chân carbon (lượng phát thải CO2 của một cá nhân/tổ chức)."
+  },
+  {
+    "id": "35_5",
+    "questionName": "Question 5",
+    "questionText": "<p>The ancient communal house in the center of the village serves as a gathering place for ________.</p>",
+    "choices": [
+      {
+        "id": "35_5_1",
+        "text": "residents",
+        "html": "residents"
+      },
+      {
+        "id": "35_5_2",
+        "text": "strangers",
+        "html": "strangers"
+      },
+      {
+        "id": "35_5_3",
+        "text": "foreigners",
+        "html": "foreigners"
+      },
+      {
+        "id": "35_5_4",
+        "text": "intruders",
+        "html": "intruders"
+      }
+    ],
+    "correctChoiceId": "35_5_1",
+    "explanation": "<p>Đình làng là nơi hội họp sinh hoạt cộng đồng của các cư dân địa phương: <strong>residents</strong>.</p>",
+    "ruleTip": "'resident' = cư dân sinh sống tại một khu vực/cộng đồng."
+  },
+  {
+    "id": "35_6",
+    "questionName": "Question 6",
+    "questionText": "<p>Illegal logging and ________ threaten the natural habitat of wild animals in the forest.</p>",
+    "choices": [
+      {
+        "id": "35_6_2",
+        "text": "afforestation",
+        "html": "afforestation"
+      },
+      {
+        "id": "35_6_3",
+        "text": "conservation",
+        "html": "conservation"
+      },
+      {
+        "id": "35_6_1",
+        "text": "deforestation",
+        "html": "deforestation"
+      },
+      {
+        "id": "35_6_4",
+        "text": "cultivation",
+        "html": "cultivation"
+      }
+    ],
+    "correctChoiceId": "35_6_1",
+    "explanation": "<p>Nạn chặt phá rừng bừa bãi: <strong>deforestation</strong> đe dọa môi trường sống của động vật.</p>",
+    "ruleTip": "'deforestation' = nạn tàn phá rừng (>< afforestation: việc trồng rừng)."
+  },
+  {
+    "id": "35_7",
+    "questionName": "Question 7",
+    "questionText": "<p>Plastic bags are non-________ and take hundreds of years to decompose in nature.</p>",
+    "choices": [
+      {
+        "id": "35_7_1",
+        "text": "biodegradable",
+        "html": "biodegradable"
+      },
+      {
+        "id": "35_7_2",
+        "text": "renewable",
+        "html": "renewable"
+      },
+      {
+        "id": "35_7_3",
+        "text": "polluted",
+        "html": "polluted"
+      },
+      {
+        "id": "35_7_4",
+        "text": "disposable",
+        "html": "disposable"
+      }
+    ],
+    "correctChoiceId": "35_7_1",
+    "explanation": "<p>Túi ni lông không tự phân hủy sinh học: <strong>non-biodegradable</strong>.</p>",
+    "ruleTip": "'biodegradable' = có thể phân hủy sinh học; 'non-biodegradable' = khó phân hủy."
+  },
+  {
+    "id": "35_8",
+    "questionName": "Question 8",
+    "questionText": "<p>Volunteers cleaned up the public park and planted flowers to ________ their neighborhood.</p>",
+    "choices": [
+      {
+        "id": "35_8_1",
+        "text": "beautify",
+        "html": "beautify"
+      },
+      {
+        "id": "35_8_2",
+        "text": "pollute",
+        "html": "pollute"
+      },
+      {
+        "id": "35_8_3",
+        "text": "destroy",
+        "html": "destroy"
+      },
+      {
+        "id": "35_8_4",
+        "text": "damage",
+        "html": "damage"
+      }
+    ],
+    "correctChoiceId": "35_8_1",
+    "explanation": "<p>Trồng hoa và dọn rác để làm đẹp khu dân cư: <strong>beautify</strong> (động từ làm đẹp).</p>",
+    "ruleTip": "'beautify' = làm đẹp cảnh quan (beauty -> beautify)."
+  },
+  {
+    "id": "35_9",
+    "questionName": "Question 9",
+    "questionText": "<p>Exhaust fumes from motorbikes and automobiles are the primary cause of urban ________.</p>",
+    "choices": [
+      {
+        "id": "35_9_2",
+        "text": "purity",
+        "html": "purity"
+      },
+      {
+        "id": "35_9_3",
+        "text": "cleanliness",
+        "html": "cleanliness"
+      },
+      {
+        "id": "35_9_1",
+        "text": "smog",
+        "html": "smog"
+      },
+      {
+        "id": "35_9_4",
+        "text": "greenery",
+        "html": "greenery"
+      }
+    ],
+    "correctChoiceId": "35_9_1",
+    "explanation": "<p>Khói bụi phương tiện gây ra hiện tượng khói mù độc hại ở đô thị: <strong>smog (khói bụi quang hóa)</strong>.</p>",
+    "ruleTip": "'smog' = khói lẫn sương mù ô nhiễm ở các thành phố lớn."
+  },
+  {
+    "id": "35_10",
+    "questionName": "Question 10",
+    "questionText": "<p>The traditional craft of weaving silk has been ________ down from generation to generation.</p>",
+    "choices": [
+      {
+        "id": "35_10_2",
+        "text": "brought",
+        "html": "brought"
+      },
+      {
+        "id": "35_10_1",
+        "text": "passed",
+        "html": "passed"
+      },
+      {
+        "id": "35_10_3",
+        "text": "taken",
+        "html": "taken"
+      },
+      {
+        "id": "35_10_4",
+        "text": "turned",
+        "html": "turned"
+      }
+    ],
+    "correctChoiceId": "35_10_1",
+    "explanation": "<p>Cụm từ lưu truyền nghề truyền thống: <strong>pass down from generation to generation</strong> (truyền qua nhiều thế hệ).</p>",
+    "ruleTip": "'pass down' = lưu truyền lại cho thế hệ sau."
+  },
+  {
+    "id": "35_11",
+    "questionName": "Question 11",
+    "questionText": "<p>Governments should impose heavy fines on factories that dump untreated toxic ________ into rivers.</p>",
+    "choices": [
+      {
+        "id": "35_11_2",
+        "text": "resources",
+        "html": "resources"
+      },
+      {
+        "id": "35_11_3",
+        "text": "products",
+        "html": "products"
+      },
+      {
+        "id": "35_11_4",
+        "text": "goods",
+        "html": "goods"
+      },
+      {
+        "id": "35_11_1",
+        "text": "waste",
+        "html": "waste"
+      }
+    ],
+    "correctChoiceId": "35_11_1",
+    "explanation": "<p>Xả rác thải độc hại chưa xử lý: <strong>toxic waste</strong> (chất thải độc hại).</p>",
+    "ruleTip": "'toxic waste' = rác thải / chất thải độc hại công nghiệp."
+  },
+  {
+    "id": "35_12",
+    "questionName": "Question 12",
+    "questionText": "<p>Preserving our cultural ________ helps young people understand and respect their national roots.</p>",
+    "choices": [
+      {
+        "id": "35_12_2",
+        "text": "pollution",
+        "html": "pollution"
+      },
+      {
+        "id": "35_12_3",
+        "text": "litter",
+        "html": "litter"
+      },
+      {
+        "id": "35_12_4",
+        "text": "waste",
+        "html": "waste"
+      },
+      {
+        "id": "35_12_1",
+        "text": "heritage",
+        "html": "heritage"
+      }
+    ],
+    "correctChoiceId": "35_12_1",
+    "explanation": "<p>Bảo tồn di sản văn hóa: <strong>cultural heritage</strong>.</p>",
+    "ruleTip": "'cultural heritage' = di sản văn hóa dân tộc."
+  },
+  {
+    "id": "35_13",
+    "questionName": "Question 13",
+    "questionText": "<p>Green living encourages residents to opt for eco-friendly and ________ consumer items.</p>",
+    "choices": [
+      {
+        "id": "35_13_2",
+        "text": "exhausted",
+        "html": "exhausted"
+      },
+      {
+        "id": "35_13_3",
+        "text": "destructive",
+        "html": "destructive"
+      },
+      {
+        "id": "35_13_1",
+        "text": "sustainable",
+        "html": "sustainable"
+      },
+      {
+        "id": "35_13_4",
+        "text": "disposable",
+        "html": "disposable"
+      }
+    ],
+    "correctChoiceId": "35_13_1",
+    "explanation": "<p>Lối sống xanh khuyến khích lựa chọn các sản phẩm bền vững: <strong>sustainable</strong>.</p>",
+    "ruleTip": "'sustainable' = bền vững, thân thiện với môi trường dài hạn."
+  },
+  {
+    "id": "35_14",
+    "questionName": "Question 14",
+    "questionText": "<p>High school students enthusiastically joined the community ________ to support elderly residents.</p>",
+    "choices": [
+      {
+        "id": "35_14_2",
+        "text": "business",
+        "html": "business"
+      },
+      {
+        "id": "35_14_3",
+        "text": "industry",
+        "html": "industry"
+      },
+      {
+        "id": "35_14_1",
+        "text": "service",
+        "html": "service"
+      },
+      {
+        "id": "35_14_4",
+        "text": "competition",
+        "html": "competition"
+      }
+    ],
+    "correctChoiceId": "35_14_1",
+    "explanation": "<p>Hoạt động công ích phục vụ cộng đồng: <strong>community service</strong>.</p>",
+    "ruleTip": "'community service' = hoạt động phục vụ cộng đồng, công ích xã hội."
+  },
+  {
+    "id": "35_15",
+    "questionName": "Question 15",
+    "questionText": "<p>Investing in solar panels helps homeowners significantly ________ on monthly electricity costs.</p>",
+    "choices": [
+      {
+        "id": "35_15_2",
+        "text": "run out",
+        "html": "run out"
+      },
+      {
+        "id": "35_15_1",
+        "text": "cut down",
+        "html": "cut down"
+      },
+      {
+        "id": "35_15_3",
+        "text": "put off",
+        "html": "put off"
+      },
+      {
+        "id": "35_15_4",
+        "text": "give up",
+        "html": "give up"
+      }
+    ],
+    "correctChoiceId": "35_15_1",
+    "explanation": "<p>Cụm từ cắt giảm chi phí: <strong>cut down on costs</strong> (tiết kiệm, cắt giảm chi phí).</p>",
+    "ruleTip": "'cut down on sth' = reduce (cắt giảm tiêu thụ, chi phí)."
+  }
+]

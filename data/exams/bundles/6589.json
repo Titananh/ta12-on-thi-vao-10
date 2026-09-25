@@ -1,0 +1,1600 @@
+{
+  "id": 6589,
+  "title": "Đề thi KSCL môn Anh vào 10 của PGD quận Hà Đông năm 2021",
+  "year": 2021,
+  "categoryId": 170,
+  "categoryName": "Đề luyện thi vào 10 môn Anh Sở Hà Nội từ năm 2024 trở về trước",
+  "timeLimit": 60,
+  "totalPoint": 40,
+  "questionCount": 37,
+  "author": "Tổ GV Tiếng Anh - TA12",
+  "description": "",
+  "createdAt": "2026-09-24T14:51:50.993Z",
+  "questions": [
+    {
+      "id": 265503,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<strong>Choose the word which has the underlined part pronounced differently from the others.</strong>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589461,
+          "label": "A",
+          "text": "leave<u>s</u>",
+          "isCorrect": false
+        },
+        {
+          "id": 589462,
+          "label": "B",
+          "text": "song<u>s</u>",
+          "isCorrect": false
+        },
+        {
+          "id": 589463,
+          "label": "C",
+          "text": "desert<u>s</u>",
+          "isCorrect": true
+        },
+        {
+          "id": 589464,
+          "label": "D",
+          "text": "knive<u>s</u>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589463,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy nhớ lại quy tắc phát âm đuôi \"-s\" trong tiếng Anh. Cách phát âm của đuôi này phụ thuộc vào âm cuối của từ gốc: nếu âm cuối là phụ âm vô thanh, \"-s\" được phát âm là /s/; nếu là phụ âm hữu thanh hoặc nguyên âm, \"-s\" được phát âm là /z/. Có một trường hợp đặc biệt là khi âm cuối là /s/, /z/, /ʃ/, /ʒ/, /tʃ/, /dʒ/, đuôi \"-es\" (hoặc \"-s\") sẽ được phát âm là /ɪz/.</p>",
+      "explanation": "<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #fff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n        color: #1c581f;\n        font-size: 15px;\n    }\n\n    .vocab-table-sharp th, \n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        display: inline-block;\n        margin: 0 0.4rem 4px 0;\n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n        display: block;\n    }\n</style>\n<p>Phần được gạch chân trong từ <strong>desert<u>s</u></strong> được phát âm là <strong>/s/</strong>, trong các từ còn lại được phát âm là <strong>/z/</strong>.</p>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">leaves</span></strong><span class=\"word-pos-sharp\">(v.)</span> <span class=\"word-ipa-sharp\">/liːvz/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>rời đi, bỏ lại</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">songs</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/sɒŋz/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>bài hát</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">deserts</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/ˈdezərts/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sa mạc</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">knives</span></strong><span class=\"word-pos-sharp\">(n.)</span> <span class=\"word-ipa-sharp\">/naɪvz/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>con dao</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>",
+      "answerFeedbacks": {
+        "589461": "<p>Đuôi <em>\"-s\"</em> được phát âm /z/ vì âm cuối của từ gốc <em>\"leave\"</em> là /v/ – một phụ âm hữu thanh.</p>",
+        "589462": "<p>Đuôi <em>\"-s\"</em> được phát âm /z/ vì âm cuối của từ gốc <em>\"song\"</em> là /ŋ/ – một phụ âm hữu thanh.</p>",
+        "589463": "<p>Đuôi <em>\"-s\"</em> được phát âm /s/ vì âm cuối của từ gốc <em>\"desert\"</em> (danh từ) là /t/ – một phụ âm vô thanh.</p>",
+        "589464": "<p>Đuôi <em>\"-s\"</em> được phát âm /z/ vì âm cuối của từ gốc <em>\"knife\"</em> (sau khi đổi <em>\"f\"</em> thành <em>\"v\"</em> khi thêm <em>\"-es\"</em>) là /v/ – một phụ âm hữu thanh.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 265504,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Choose the word which has the underlined part pronounced differently from the others.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589465,
+          "label": "A",
+          "text": "<p><span style=\"text-decoration: underline;\">ch</span>alk</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 589466,
+          "label": "B",
+          "text": "<p><span style=\"text-decoration: underline;\">ch</span>emistry</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 589467,
+          "label": "C",
+          "text": "<p><span style=\"text-decoration: underline;\">ch</span>apter</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 589468,
+          "label": "D",
+          "text": "<p>approa<span style=\"text-decoration: underline;\">ch</span></p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589466,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Phần gạch ch&acirc;n trong từ \"<strong><span style=\"text-decoration: underline;\">ch</span>emistry</strong>\" được ph&aacute;t &acirc;m l&agrave;<strong> /k/</strong>, trong c&aacute;c từ c&ograve;n lại được ph&aacute;t &acirc;m l&agrave; <strong>/tʃ/</strong>.&nbsp;</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2F4JDf1GcGIvhPjqvGgwyCd3QXTFVRkD3GMDWDiqH3Ziq%2BA4%2BSLwzXP09qrGhdms1KLDnPBXWLYNIsUynMxQBNs2nLXYu9auT2zB1D3yuc971SpW41pjbvq2LV11WMky1sHy1Cgi7OB70c05L2qpsRLN%2F%2BHsjWf8zrGueoJoN6CR3wQziuYDH7Imdg7fwqGCBvgB%2FUZxi%2F6ifZ5d%2BhGHZ1%2FeQucUj93qHEUd5G%2Fp4ALqtn7jveXGbzMgMOBrHlGRnlqtajRCpZ%2BeyCPEvJ5j%2F4XqcCpWPS8ggVJuX5EZjRwtAXq0pl4E8RSXl8SN5BXI4I5pCNlRLL5qIRUDt3zt%2BynB2eZcGy%2Bw14kOCpmTBH2akJZ5keq8FP0\" width=\"523\" height=\"265\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265505,
+      "questionNumber": 3,
+      "questionName": "3",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Choose the word that differs from the rest in the position of the main stress.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589469,
+          "label": "A",
+          "text": "question",
+          "isCorrect": false
+        },
+        {
+          "id": 589470,
+          "label": "B",
+          "text": "investigate",
+          "isCorrect": true
+        },
+        {
+          "id": 589471,
+          "label": "C",
+          "text": "motorcycle",
+          "isCorrect": false
+        },
+        {
+          "id": 589472,
+          "label": "D",
+          "text": "notice",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589470,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Từ </span><strong>\"investigate\"</strong><span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ 2</span>, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18YICj1pkJSSXZEgCnN%2B9NW4bg9Dg0TThzy9vYujBZ0uIiAearmF5bwNOnc%2FbPpHclaNCfsT8erau%2BwUEiByeQOsbbI7MKIez9WLDoROnXnM1s7nE5P%2Bvcwc1W9vZ8PU1NnkM301aMp1ybXSUSR3CNlyVlyyd9rmeUvw%2BRnD43pOBmEcdodIOp4WokHcGT67vZbvJcbNY6AwBkncmJ8iWo%2Fmc11P9n2lIKSHe1aLnY1ON6hONbVm5zRrpN57j7etDInvWbhUTzZUc6uFtKZJzWY3N%2FUFYv50TyU73KwlXPRt0a9cxXXlQrdNpyVXt3ohvYKehqC71nWcsJNOhF5TxZZhopCldTzEYdyYz56nb4zaslzNx%2BkajPC\" width=\"100%\" height=\"315\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265506,
+      "questionNumber": 4,
+      "questionName": "4",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Choose the word that differs from the rest in the position of the main stress.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589473,
+          "label": "A",
+          "text": "comfortable",
+          "isCorrect": false
+        },
+        {
+          "id": 589474,
+          "label": "B",
+          "text": "restaurant",
+          "isCorrect": false
+        },
+        {
+          "id": 589475,
+          "label": "C",
+          "text": "informal",
+          "isCorrect": true
+        },
+        {
+          "id": 589476,
+          "label": "D",
+          "text": "special",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589475,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Từ </span>\"<strong>informal</strong>\"<span style=\"font-weight: 400;\"> c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ 2</span>, c&aacute;c từ c&ograve;n lại c&oacute; trọng &acirc;m rơi v&agrave;o &acirc;m tiết thứ nhất.</p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2Fwwb19dC7%2BB2Pe9U0EfeD3gJX%2BuhulaUe5TXfbjMEBMdGklGF%2B1S%2By8gzw5UXsB3Li2f3yQeYLpuAX4%2Fx26xxtL%2F47ugp4EXc%2Bmd1wrcaETUFxjAgeuikIGiilFQ0n2TEzBR7b%2Bhk0XKgBeWtwC1%2F11bVtWtHsFmF6T341ACCAuTX8IVCl9pXnr94Xu9sjdXn4mWlkoDzjrwU%2BZD6P5hvyShkCyxKIiooI7aoF4oQ4R2p9DAv%2BzfQKtgPjQhRG9ipFXUkvoeo6kXnqAK2kdDM7c7P3lxXV7Go5Cq7cWPMfOaT3zo%2FoR2x%2B3OHcCD1hniXQk7iZICFpMlV%2BmIQzVvj6yBo%2FR4d4UdY%3D\" width=\"100%\" height=\"315\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265507,
+      "questionNumber": 5,
+      "questionName": "5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Mary can't help _____ anxious when she has to speak in front of the entire school. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589477,
+          "label": "A",
+          "text": "feeling",
+          "isCorrect": true
+        },
+        {
+          "id": 589478,
+          "label": "B",
+          "text": "to feel",
+          "isCorrect": false
+        },
+        {
+          "id": 589479,
+          "label": "C",
+          "text": "feel",
+          "isCorrect": false
+        },
+        {
+          "id": 589480,
+          "label": "D",
+          "text": "felt",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589477,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để tìm câu trả lời đúng, hãy chú ý đến cụm từ <em>\"can't help\"</em>.</p>\n<p>Cụm từ này thường đi kèm với một dạng động từ cụ thể để <span style=\"text-align: justify;\">diễn tả việc không thể kiềm chế hay không thể không làm một điều gì đó.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc động từ theo sau bởi V-ing</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để diễn tả một hành động theo sau một số động từ cụ thể.</p>\n<p><strong>Một số động từ/cụm động từ theo sau bởi V-ing:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">can't help + V-ing</span></strong>: không thể không làm gì, không thể nhịn được</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">enjoy + V-ing</span></strong>: thích làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">mind + V-ing</span></strong>: phiền làm gì</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">avoid + V-ing</span></strong>: tránh làm gì</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm từ <em>\"can't help\"</em> đòi hỏi động từ theo sau phải ở dạng V-ing. Cấu trúc <em>\"can't help + V-ing\"</em> diễn tả việc không thể kiềm chế hay không thể không làm một điều gì đó.</p>\n<p style=\"text-align: justify;\">Phương án 1, <em>\"feeling\"</em>, là dạng V-ing của động từ <em>\"feel\"</em>, phù hợp với quy tắc ngữ pháp này. Các phương án còn lại (<em>\"to feel\"</em>, <em>\"feel\"</em>, <em>\"felt\"</em>) đều không đúng dạng thức động từ theo sau <em>\"can't help\"</em>.</p>",
+      "answerFeedbacks": {
+        "589477": "Đúng vì cụm động từ <em>\"can't help\"</em> luôn được theo sau bởi một động từ ở dạng V-ing để diễn tả việc không thể kiềm chế được hành động.",
+        "589478": "Sai vì cấu trúc <em>\"can't help\"</em> không đi kèm với động từ nguyên thể có <em>\"to\"</em>.",
+        "589479": "Sai vì động từ nguyên thể không <em>\"to\"</em> không phù hợp với cấu trúc <em>\"can't help\"</em> trong ngữ cảnh này.",
+        "589480": "Sai vì <em>\"felt\"</em> là dạng quá khứ đơn hoặc quá khứ phân từ của động từ <em>\"feel\"</em>, không đúng với cấu trúc ngữ pháp cần thiết sau <em>\"can't help\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 265508,
+      "questionNumber": 6,
+      "questionName": "6.",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>The next train _____ at 7 p.m, so get ready now.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589481,
+          "label": "A",
+          "text": "leaves",
+          "isCorrect": true
+        },
+        {
+          "id": 589482,
+          "label": "B",
+          "text": "is leaving",
+          "isCorrect": false
+        },
+        {
+          "id": 589483,
+          "label": "C",
+          "text": "will leave",
+          "isCorrect": false
+        },
+        {
+          "id": 589484,
+          "label": "D",
+          "text": "has left",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589481,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Cụm <em>\"The next train\"</em> và <em>\"at 7 p.m\"</em>, gợi ý một sự kiện đã được lên lịch trình cố định. Hãy nhớ rằng thì Hiện tại đơn có thể được dùng để diễn tả các lịch trình, thời khóa biểu, hoặc các sự kiện đã được lên kế hoạch chính thức trong tương lai.</p>\n<p>Hãy đối chiếu với các phương án và tìm ra dạng đúng của động từ ở thì này.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thì Hiện tại đơn diễn đạt ý nghĩa tương lai</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Thì Hiện tại đơn được dùng để diễn tả các sự kiện, lịch trình cố định, đã được sắp xếp trước trong tương lai, thường liên quan đến phương tiện giao thông công cộng, thời khóa biểu, lịch chiếu phim, v.v.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + V(s/es) + O</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Ngữ cảnh <em>\"The next train _____ at 7 p.m, so get ready now\"</em> chỉ ra một sự kiện theo lịch trình cố định trong tương lai (<em>\"The next train\"</em> và <em>\"at 7 p.m\"</em>). Trong tiếng Anh, thì Hiện tại đơn có thể được sử dụng để diễn tả các lịch trình đã được định sẵn. Do đó, động từ <em>\"leave\"</em> cần được chia ở thì Hiện tại đơn là <em>\"leaves\"</em>.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều không phù hợp để diễn tả sự kiện lịch trình cố định được sắp xếp trước trong tương lai.</p>",
+      "answerFeedbacks": {
+        "589481": "Đúng vì thì Hiện tại đơn được dùng để diễn tả các sự kiện theo lịch trình cố định trong tương lai.",
+        "589482": "Sai vì thì Hiện tại tiếp diễn thường dùng để diễn tả các kế hoạch hoặc sắp xếp cá nhân đã được định trước trong tương lai gần, không phải lịch trình cố định.",
+        "589483": "Sai vì thì Tương lai đơn thường dùng để diễn tả các dự đoán, quyết định tức thời hoặc lời hứa trong tương lai, không nhấn mạnh lịch trình cố định.",
+        "589484": "Sai vì thì Hiện tại hoàn thành diễn tả hành động đã xảy ra trong quá khứ và còn liên quan đến hiện tại, không phải hành động sẽ xảy ra trong tương lai."
+      },
+      "images": []
+    },
+    {
+      "id": 265509,
+      "questionNumber": 7,
+      "questionName": "7.",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>_____ Christmas Eve, people often have parties late at midnight.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589485,
+          "label": "A",
+          "text": "In",
+          "isCorrect": false
+        },
+        {
+          "id": 589486,
+          "label": "B",
+          "text": "On",
+          "isCorrect": true
+        },
+        {
+          "id": 589487,
+          "label": "C",
+          "text": "At",
+          "isCorrect": false
+        },
+        {
+          "id": 589488,
+          "label": "D",
+          "text": "From",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589486,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Cụm từ <em>\"Christmas Eve\"</em> chỉ một ngày cụ thể trong năm.</li>\n<li>Hãy nhớ lại giới từ nào thường đi kèm với các ngày cụ thể, ngày trong tuần, hoặc các dịp lễ có từ <em>\"Eve\"</em> hay <em>\"day\"</em>.</li>\n<li>Dựa vào loại thời gian được nhắc đến, hãy chọn giới từ phù hợp nhất.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Giới từ chỉ thời gian</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Giới từ chỉ thời gian được sử dụng để xác định thời điểm, khoảng thời gian hoặc sự kiện xảy ra. Chúng giúp làm rõ mối quan hệ về thời gian giữa các yếu tố trong câu.</p>\n<p style=\"text-align: justify;\"><strong>Một số giới từ chỉ thời gian:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">On + ngày cụ thể/ngày lễ có kèm \"day\" hoặc \"Eve\"</span></strong>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">In + tháng/mùa/năm/thập kỷ/thế kỷ/buổi trong ngày (trừ \"night\")</span></strong>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">At + giờ cụ thể/ngày lễ không kèm \"day\"/buổi \"night\"/thời điểm cụ thể</span></strong>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">From + thời điểm</span></strong> (dùng để chỉ điểm bắt đầu của một khoảng thời gian)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Cụm từ <em>\"Christmas Eve\"</em> chỉ một ngày cụ thể trong năm. Theo quy tắc, giới từ <em>\"on\"</em> được sử dụng trước các ngày cụ thể, ngày trong tuần, hoặc các dịp lễ có kèm từ <em>\"Eve\"</em> hoặc <em>\"day\"</em> (ví dụ: <em>\"on Monday\"</em>, <em>\"on Christmas Day\"</em>, <em>\"on New Year's Eve\"</em>).</p>\n<p style=\"text-align: justify;\">Do đó, <em>\"On Christmas Eve\"</em> là cách dùng chính xác.</p>",
+      "answerFeedbacks": {
+        "589485": "Sai vì <em>\"In\"</em> thường dùng với các khoảng thời gian dài hơn như tháng, mùa, năm, hoặc buổi trong ngày (trừ <em>\"night\"</em>).",
+        "589486": "Đúng vì <em>\"On\"</em> dùng với các ngày cụ thể hoặc ngày lễ có kèm <em>\"Eve\"</em> hoặc <em>\"day\"</em> như <em>\"Christmas Eve\"</em>.",
+        "589487": "Sai vì <em>\"At\"</em> thường dùng với giờ cụ thể, các ngày lễ không kèm <em>\"day\"</em> hoặc <em>\"night\"</em>.",
+        "589488": "Sai vì <em>\"From\"</em> chỉ điểm bắt đầu của một khoảng thời gian, không phù hợp với ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 265510,
+      "questionNumber": 8,
+      "questionName": "8.",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>He became one of the most _____ actors in Vietnam.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589489,
+          "label": "A",
+          "text": "success",
+          "isCorrect": false
+        },
+        {
+          "id": 589490,
+          "label": "B",
+          "text": "successful",
+          "isCorrect": true
+        },
+        {
+          "id": 589491,
+          "label": "C",
+          "text": "successfully",
+          "isCorrect": false
+        },
+        {
+          "id": 589492,
+          "label": "D",
+          "text": "successive",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589490,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Chỗ trống trong câu đứng sau <em>\"most\"</em> và trước danh từ <em>\"actors\"</em>. Từ loại nào thường đứng ở vị trí này để bổ nghĩa cho danh từ?</p>\n<p>Đồng thời, hãy xem xét nghĩa của các từ để chọn từ phù hợp nhất với ngữ cảnh.</p>",
+      "explanation": "<p><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Giải nghĩa từ vựng:</span> </p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed;\n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.5rem 0.8rem;\n        font-weight: bold;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.5rem 0.8rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n    \n    .word-en-sharp {\n        margin-right: 0.4rem;\n        display: inline-block;\n        margin-bottom: 10px; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555555;\n        display: block; \n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th style=\"width: 50%;\">Từ</th>\n<th style=\"width: 50%;\">Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">success</span></strong><span class=\"word-pos-sharp\">(n.)</span><br /><span class=\"word-ipa-sharp\">/səkˈses/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>sự thành công, thành quả</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">successful</span></strong><span class=\"word-pos-sharp\">(adj.)</span><br /><span class=\"word-ipa-sharp\">/səkˈsesfəl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>thành công, thành đạt</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">successfully</span></strong><span class=\"word-pos-sharp\">(adv.)</span><br /><span class=\"word-ipa-sharp\">/səkˈsesfəli/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>một cách thành công</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">successive</span></strong><span class=\"word-pos-sharp\">(adj.)</span><br /><span class=\"word-ipa-sharp\">/səkˈsesɪv/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>liên tiếp, kế tiếp nhau</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br /><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span><span style=\"color: #454545; font-weight: 400;\"> Trong câu, chỗ trống cần điền một tính từ để bổ nghĩa cho danh từ <em>\"actors\"</em>. Cấu trúc <em>\"one of the most + tính từ + danh từ số nhiều\"</em> dùng để diễn tả một trong những người/vật có đặc điểm nổi bật nhất. Từ <strong><em>\"successful\"</em></strong> là tính từ phù hợp nhất về cả mặt ngữ pháp và ngữ nghĩa, diễn tả sự thành công, nổi tiếng của diễn viên.</span></span></p>",
+      "answerFeedbacks": {
+        "589489": "<em>\"Success\"</em> (danh từ) không phù hợp vì vị trí cần điền là một tính từ bổ nghĩa cho danh từ <em>\"actors\"</em>.",
+        "589490": "<em>\"Successful\"</em> (tính từ) là đáp án đúng vì nó bổ nghĩa cho danh từ <em>\"actors\"</em> và hoàn thành cấu trúc so sánh nhất <em>\"one of the most + adj + N\"</em>.",
+        "589491": "<em>\"Successfully\"</em> (trạng từ) không phù hợp vì vị trí cần điền là một tính từ, không phải trạng từ.",
+        "589492": "<em>\"Successive\"</em> (tính từ) có nghĩa là <em>\"liên tiếp, kế tiếp nhau\"</em>, không phù hợp với ngữ cảnh <em>\"một trong những diễn viên thành công nhất\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 265511,
+      "questionNumber": 9,
+      "questionName": "9. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>I couldn't find John at the party last night. If I _____ him, we'd have been happy.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589493,
+          "label": "A",
+          "text": "meet",
+          "isCorrect": false
+        },
+        {
+          "id": 589494,
+          "label": "B",
+          "text": "met",
+          "isCorrect": false
+        },
+        {
+          "id": 589495,
+          "label": "C",
+          "text": "had met",
+          "isCorrect": true
+        },
+        {
+          "id": 589496,
+          "label": "D",
+          "text": "have meet",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589495,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 3 diễn tả điều kiện kh&ocirc;ng c&oacute; thật trong qu&aacute; khứ.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: <strong>If + S + had + V(pp), S + would/could&hellip;+ have + V(pp)</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: T&ocirc;i kh&ocirc;ng thể t&igrave;m thấy John trong bữa tiệc tối qua. Nếu t&ocirc;i gặp anh ấy, ch&uacute;ng t&ocirc;i sẽ rất vui mừng.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265512,
+      "questionNumber": 10,
+      "questionName": "10.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>_____ does it take you to go to school? - About half an hour.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589497,
+          "label": "A",
+          "text": "How many",
+          "isCorrect": false
+        },
+        {
+          "id": 589498,
+          "label": "B",
+          "text": "How far",
+          "isCorrect": false
+        },
+        {
+          "id": 589499,
+          "label": "C",
+          "text": "How much",
+          "isCorrect": false
+        },
+        {
+          "id": 589500,
+          "label": "D",
+          "text": "How long",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 589500,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>How long</strong>: bao l&acirc;u =&gt; hỏi về khoảng thời gian</p>\n<p>How far: bao xa</p>\n<p>How much + N (kh&ocirc;ng đếm được) ~ How many + N (đếm được số nhiều): bao nhi&ecirc;u</p>\n<p>Dịch: Bạn mất bao l&acirc;u để tới trường? - Khoảng nửa tiếng đồng hồ.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265513,
+      "questionNumber": 11,
+      "questionName": "11.",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>My dog as well as my cats _____ twice a day.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589501,
+          "label": "A",
+          "text": "eat",
+          "isCorrect": false
+        },
+        {
+          "id": 589502,
+          "label": "B",
+          "text": "eats",
+          "isCorrect": true
+        },
+        {
+          "id": 589503,
+          "label": "C",
+          "text": "has eaten",
+          "isCorrect": false
+        },
+        {
+          "id": 589504,
+          "label": "D",
+          "text": "have eaten",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589502,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến trạng ngữ chỉ tần suất <em>\"twice a day\"</em> để x&aacute;c định th&igrave; ph&ugrave; hợp cho h&agrave;nh động lặp lại.</p>\n<p>Ngo&agrave;i ra khi hai chủ ngữ được nối bằng cụm từ <em>\"as well as\"</em>, động từ sẽ h&ograve;a hợp với chủ ngữ đứng trước cụm từ đ&oacute;.&nbsp;</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span></span><span style=\"font-weight: 600;\">Th&igrave; Hiện tại đơn</span><strong> v&agrave; h</strong><span style=\"font-weight: 600;\">&ograve;a hợp giữa chủ ngữ v&agrave; động từ</span></p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Th&igrave; Hiện tại đơn được d&ugrave;ng để diễn tả th&oacute;i quen hoặc h&agrave;nh động lặp lại. Khi trong c&acirc;u c&oacute; c&aacute;c cụm đặc biệt (trừ <em>and</em>) nối hai hay nhiều chủ ngữ, động từ cần phải h&ograve;a hợp với chủ ngữ đừng ngay trước c&aacute;c cụm đ&oacute;.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c:</strong></p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">S (ng&ocirc;i 3 số &iacute;t) + V(s/es)</span></strong></p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">S (ng&ocirc;i thứ nhất số nhiều) + V (inf)</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Chủ ngữ ch&iacute;nh của c&acirc;u l&agrave; \"My dog\" (số &iacute;t), v&igrave; khi \"as well as\" nối hai chủ ngữ, động từ phải h&ograve;a hợp với chủ ngữ đứng trước n&oacute;. H&agrave;nh động \"ăn hai lần một ng&agrave;y\" diễn tả một th&oacute;i quen, do đ&oacute; ta d&ugrave;ng th&igrave; hiện tại đơn v&agrave; chia động từ \"eat\" th&agrave;nh \"eats\" để ph&ugrave; hợp với chủ ngữ số &iacute;t.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 \"eat\" l&agrave; dạng nguy&ecirc;n mẫu, kh&ocirc;ng chia theo chủ ngữ số &iacute;t \"My dog\". C&aacute;c phương &aacute;n 3 \"has eaten\" v&agrave; 4 \"have eaten\" sử dụng th&igrave; hiện tại ho&agrave;n th&agrave;nh, kh&ocirc;ng ph&ugrave; hợp để diễn tả h&agrave;nh động lặp lại thường xuy&ecirc;n \"twice a day\". Ngo&agrave;i ra, phương &aacute;n 4 c&ograve;n sai về h&ograve;a hợp chủ ngữ-động từ (chủ ngữ \"My dog\" l&agrave; số &iacute;t, kh&ocirc;ng d&ugrave;ng \"have eaten\").</p>",
+      "answerFeedbacks": {
+        "589501": "Động từ <em>\"eat\"</em> là dạng nguyên mẫu, không chia theo chủ ngữ số ít <em>\"My dog\"</em> trong thì hiện tại đơn.",
+        "589502": "Động từ <em>\"eats\"</em> chia đúng theo chủ ngữ số ít <em>\"My dog\"</em> và thì hiện tại đơn diễn tả thói quen lặp lại.",
+        "589503": "Thì hiện tại hoàn thành <em>\"has eaten\"</em> không phù hợp để diễn tả hành động lặp lại thường xuyên <em>\"twice a day\"</em>.",
+        "589504": "Thì hiện tại hoàn thành <em>\"have eaten\"</em> không phù hợp để diễn tả thói quen và động từ chia ở dạng số nhiều, không hòa hợp với chủ ngữ số ít <em>\"My dog\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 265514,
+      "questionNumber": 12,
+      "questionName": "12.",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>This is the girl _____ father owns the biggest shop in the area.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589505,
+          "label": "A",
+          "text": "who",
+          "isCorrect": false
+        },
+        {
+          "id": 589506,
+          "label": "B",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "id": 589507,
+          "label": "C",
+          "text": "her",
+          "isCorrect": false
+        },
+        {
+          "id": 589508,
+          "label": "D",
+          "text": "whose",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 589508,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y x&aacute;c định mối quan hệ giữa danh từ <em>\"the girl\"</em> v&agrave; danh từ <em>\"father\"</em> trong mệnh đề phụ. C&oacute; thể thấy chỗ trống cần nối hai danh từ c&oacute; quan hệ sở hữu (<em data-start=\"162\" data-end=\"172\">the girl</em> v&agrave; <em data-start=\"176\" data-end=\"184\">father</em>), chứ kh&ocirc;ng phải thay thế cho chủ ngữ hay t&acirc;n ngữ trong mệnh đề.</p>\n<p>H&atilde;y nhớ lại đại từ quan hệ d&ugrave;ng để chỉ sự sở hữu, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Đại từ quan hệ</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Đại từ quan hệ d&ugrave;ng để nối một mệnh đề phụ (mệnh đề quan hệ) với một danh từ hoặc đại từ đứng trước n&oacute; (tiền ngữ), cung cấp th&ecirc;m th&ocirc;ng tin về tiền ngữ đ&oacute;. Ch&uacute;ng gi&uacute;p tr&aacute;nh lặp từ v&agrave; l&agrave;m cho c&acirc;u văn mạch lạc hơn.</p>\n<p style=\"text-align: justify;\"><strong>Một số đại từ quan hệ:</strong></p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">who:</span></strong> người (l&agrave;m chủ ngữ hoặc t&acirc;n ngữ trong mệnh đề quan hệ)</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">which:</span></strong> vật, con vật (l&agrave;m chủ ngữ hoặc t&acirc;n ngữ trong mệnh đề quan hệ)</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">whose (t&iacute;nh từ/đại từ quan hệ sở hữu):</span> </strong>của ai/của c&aacute;i g&igrave; (chỉ sự sở hữu cho người hoặc vật, đứng trước danh từ trong mệnh đề quan hệ)</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">her (t&iacute;nh từ sở hữu/đại từ nh&acirc;n xưng t&acirc;n ngữ):</span> </strong>của c&ocirc; ấy/c&ocirc; ấy (kh&ocirc;ng phải đại từ quan hệ, kh&ocirc;ng d&ugrave;ng để nối hai mệnh đề)</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u c&oacute; <em>\"the girl\"</em> l&agrave; tiền ngữ v&agrave; <em>\"father owns the biggest shop\"</em> l&agrave; mệnh đề quan hệ. Chỗ trống cần điền một từ để chỉ mối quan hệ sở hữu giữa <em>\"the girl\"</em> v&agrave; <em>\"father\"</em> (bố của c&ocirc; g&aacute;i). Trong c&aacute;c phương &aacute;n, <em>whose</em> l&agrave; đại từ quan hệ sở hữu duy nhất ph&ugrave; hợp để bổ nghĩa cho danh từ <em>\"father\"</em> v&agrave; nối hai mệnh đề.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n kh&aacute;c kh&ocirc;ng ph&ugrave; hợp: <em>who</em> v&agrave; <em>which</em> l&agrave; đại từ quan hệ nhưng kh&ocirc;ng chỉ sở hữu. <em>her</em> l&agrave; t&iacute;nh từ sở hữu hoặc đại từ t&acirc;n ngữ, kh&ocirc;ng c&oacute; chức năng nối mệnh đề quan hệ.</p>",
+      "answerFeedbacks": {
+        "589505": "Từ <em>who</em> là đại từ quan hệ chỉ người, làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ, không dùng để chỉ sự sở hữu.",
+        "589506": "Từ <em>which</em> là đại từ quan hệ chỉ vật hoặc con vật, làm chủ ngữ hoặc tân ngữ trong mệnh đề quan hệ, không dùng cho người hay chỉ sự sở hữu.",
+        "589507": "Từ <em>her</em> là tính từ sở hữu hoặc đại từ tân ngữ, không phải đại từ quan hệ và không có chức năng nối hai mệnh đề như trong câu này.",
+        "589508": "Từ <em>whose</em> là đại từ quan hệ sở hữu, dùng để chỉ mối quan hệ \"của ai đó\" hoặc \"của cái gì đó\", phù hợp để nối <em>\"the girl\"</em> với <em>\"father\"</em> trong câu."
+      },
+      "images": []
+    },
+    {
+      "id": 265515,
+      "questionNumber": 13,
+      "questionName": "13.",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>My father is not interested in tennis and _____.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589509,
+          "label": "A",
+          "text": "I don't, either",
+          "isCorrect": false
+        },
+        {
+          "id": 589510,
+          "label": "B",
+          "text": "so don't I",
+          "isCorrect": false
+        },
+        {
+          "id": 589511,
+          "label": "C",
+          "text": "neither do I",
+          "isCorrect": false
+        },
+        {
+          "id": 589512,
+          "label": "D",
+          "text": "neither am I",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 589512,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Để &yacute; cụm ''isn't'' cho thấy đ&acirc;y l&agrave; một c&acirc;u phủ định. Để thể hiện sự đồng t&igrave;nh với một c&acirc;u phủ định, bạn c&oacute; thể d&ugrave;ng <em>'neither'</em> hoặc <em>'either'</em>.</li>\n<li>Lưu &yacute; phải chọn đ&uacute;ng trợ động từ hoặc động từ <em>'to be'</em> tương ứng với động từ trong c&acirc;u gốc. Nếu c&acirc;u gốc d&ugrave;ng động từ <em>'to be'</em> (như <em>'is not'</em>, <em>'are not'</em>), bạn cần d&ugrave;ng <em>'to be'</em> (<em>'am'</em>, <em>'is'</em>, <em>'are'</em>) trong cấu tr&uacute;c đồng t&igrave;nh. Nếu c&acirc;u gốc d&ugrave;ng động từ thường (như <em>'don't like'</em>, <em>'didn't go'</em>), bạn cần d&ugrave;ng trợ động từ <em>'do'</em>/<em>'does'</em>/<em>'did'</em>.</li>\n<li>H&atilde;y xem x&eacute;t động từ trong c&acirc;u&nbsp;để chọn trợ động từ ph&ugrave; hợp.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu tr&uacute;c đồng t&igrave;nh với c&acirc;u phủ định</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> D&ugrave;ng để thể hiện sự đồng t&igrave;nh với một c&acirc;u phủ định hoặc để n&oacute;i rằng ai đ&oacute;/c&aacute;i g&igrave; đ&oacute; cũng kh&ocirc;ng l&agrave;m điều tương tự.</p>\n<p style=\"text-align: justify;\"><strong>Một số cấu tr&uacute;c cụ thể:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Neither + be + S: </strong>cũng kh&ocirc;ng (D&ugrave;ng khi động từ trong c&acirc;u gốc l&agrave; động từ \"to be\")</li>\n<li style=\"text-align: justify;\"><strong>Neither + do/does/did + S:</strong> cũng kh&ocirc;ng (D&ugrave;ng khi động từ trong c&acirc;u gốc l&agrave; động từ thường)</li>\n<li style=\"text-align: justify;\"><strong>S + be not, either:</strong> cũng kh&ocirc;ng (D&ugrave;ng khi động từ trong c&acirc;u gốc l&agrave; động từ \"to be\")</li>\n<li style=\"text-align: justify;\"><strong>S + do/does/did not, either:</strong> cũng kh&ocirc;ng (D&ugrave;ng khi động từ trong c&acirc;u gốc l&agrave; động từ thường)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u tr&ecirc;n&nbsp;l&agrave; một c&acirc;u phủ định sử dụng động từ <em>\"to be\"</em> (<em>\"is not\"</em>). Để thể hiện sự đồng t&igrave;nh với c&acirc;u phủ định n&agrave;y, ch&uacute;ng ta cần sử dụng cấu tr&uacute;c <em>\"Neither + be + S\"</em> hoặc <em>\"S + be not, either\"</em> v&agrave; đảm bảo động từ <em>\"to be\"</em> (<em>\"am\"</em>, <em>\"is\"</em>, <em>\"are\"</em>) ph&ugrave; hợp với chủ ngữ.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 4, <em>\"neither am I\"</em>, l&agrave; lựa chọn đ&uacute;ng v&igrave; n&oacute; tu&acirc;n thủ cấu tr&uacute;c <em>\"Neither + be + S\"</em> v&agrave; sử dụng <em>\"am\"</em> khớp với chủ ngữ <em>\"I\"</em>, đồng thời ph&ugrave; hợp với động từ <em>\"to be\"</em> (<em>\"is\"</em>) trong c&acirc;u gốc. C&aacute;c phương &aacute;n kh&aacute;c sử dụng <em>\"don't\"</em> hoặc <em>\"do\"</em> kh&ocirc;ng ph&ugrave; hợp với động từ <em>\"to be\"</em> trong c&acirc;u gốc hoặc sử dụng <em>\"so\"</em> cho c&acirc;u phủ định.</p>",
+      "answerFeedbacks": {
+        "589509": "Sử dụng <em>\"don't\"</em> không phù hợp vì động từ trong câu gốc là <em>\"is\"</em> (động từ <em>\"to be\"</em>), không phải động từ thường.",
+        "589510": "Cấu trúc <em>\"so + Aux.V + S\"</em> dùng để đồng tình với câu khẳng định, không phải câu phủ định, và <em>\"don't\"</em> không khớp với động từ <em>\"is\"</em> trong câu gốc.",
+        "589511": "Sử dụng <em>\"do\"</em> không phù hợp vì động từ trong câu gốc là <em>\"is\"</em> (động từ <em>\"to be\"</em>), không phải động từ thường.",
+        "589512": "Đây là cấu trúc đúng để đồng tình với một câu phủ định sử dụng động từ <em>\"to be\"</em> (<em>\"is not interested\"</em>), với <em>\"am\"</em> khớp với chủ ngữ <em>\"I\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 265516,
+      "questionNumber": 14,
+      "questionName": "14.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Jane: \"I passed the driving test yesterday.\"</strong></p>\n<p><strong>Helen: \"_____\"</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589517,
+          "label": "A",
+          "text": "<p>What a pity!</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 589518,
+          "label": "B",
+          "text": "<p>Congratulations!</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 589519,
+          "label": "C",
+          "text": "<p>I am sorry.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 589520,
+          "label": "D",
+          "text": "<p>You're welcome.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589518,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Mục đích giao tiếp của lời nói của Jane là thông báo một tin tức tốt lành.</p>\n<p style=\"text-align: justify;\">Hãy xem xét từng phương án để chọn lời đáp thể hiện cảm xúc phù hợp nhất với một tin vui như <em>\"I passed the driving test yesterday.\"</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Jane vừa báo một tin tốt: <em>\"I passed the driving test yesterday.\"</em> (Tôi đã đỗ bài kiểm tra lái xe hôm qua.) Helen cần đưa ra một lời đáp thể hiện sự chúc mừng hoặc vui mừng trước tin tốt này.</p>\n<p style=\"text-align: justify;\">Phương án 2, <em>\"Congratulations!\"</em> (Chúc mừng!), là lời đáp phù hợp nhất để bày tỏ sự vui mừng và chúc mừng Jane về thành công của cô ấy.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 3, 4 đều không phù hợp với ngữ cảnh bày tỏ niềm vui hay chúc mừng.</p>",
+      "answerFeedbacks": {
+        "589517": "<p>Câu này dùng để bày tỏ sự tiếc nuối, cảm thông khi nghe tin xấu, không phù hợp với tin tốt.</p>",
+        "589518": "<p>Câu này dùng để chúc mừng ai đó về một thành công hoặc sự kiện tốt đẹp, hoàn toàn phù hợp khi Jane báo tin đỗ bằng lái.</p>",
+        "589519": "<p>Câu này dùng để xin lỗi hoặc bày tỏ sự tiếc nuối/thông cảm, không phù hợp với tin vui.</p>",
+        "589520": "<p>Câu này dùng để đáp lại lời cảm ơn, không phù hợp trong ngữ cảnh này.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 265517,
+      "questionNumber": 15,
+      "questionName": "15.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Colin: May I speak to Mr. Black, please?</strong></p>\n<p><strong>Helen: _____</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589521,
+          "label": "A",
+          "text": "<p>Hold on, please.</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 589522,
+          "label": "B",
+          "text": "<p>Goodbye.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 589523,
+          "label": "C",
+          "text": "<p>I think so.</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 589524,
+          "label": "D",
+          "text": "<p>I'd like too.</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589521,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Xác định mục đích giao tiếp của câu nói <em>\"May I speak to Mr. Black, please?\"</em>. Đây là một lời yêu cầu lịch sự để làm gì?</p>\n<p>Hãy xem xét từng phương án và chọn câu đáp phù hợp nhất với một cuộc gọi điện thoại khi bạn muốn kết nối người gọi với người khác.</p>\n<p> </p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời của Colin, <em>\"May I speak to Mr. Black, please?\"</em>, là một lời yêu cầu lịch sự muốn nói chuyện với một người cụ thể qua điện thoại. Đây là một chức năng giao tiếp cơ bản khi thực hiện cuộc gọi. Đáp lại lời yêu cầu này, Helen cần một câu nói cho biết người gọi phải chờ hoặc xác nhận người được gọi có mặt hay không.</p>\n<p style=\"text-align: justify;\">Phương án 1, <em>\"Hold on, please.\"</em>, là câu đáp lịch sự và phổ biến nhất, yêu cầu người gọi chờ trong khi người nghe kiểm tra hoặc chuyển máy.</p>\n<p style=\"text-align: justify;\">Các phương án 2, 3 và 4 không phù hợp với ngữ cảnh giao tiếp qua điện thoại khi người gọi đang yêu cầu được nói chuyện với một người khác.</p>",
+      "answerFeedbacks": {
+        "589521": "<p>Đây là câu đáp lịch sự và phù hợp khi yêu cầu người gọi chờ máy trong cuộc gọi điện thoại.</p>",
+        "589522": "<p>Đây là lời chào tạm biệt, không phù hợp khi cuộc gọi mới bắt đầu và người gọi muốn nói chuyện với ai đó.</p>",
+        "589523": "<p>Đây là cách diễn đạt sự đồng ý hoặc dự đoán, không phù hợp để đáp lại yêu cầu nói chuyện với ai đó qua điện thoại.</p>",
+        "589524": "<p>Cụm từ này không đúng ngữ pháp và không có ý nghĩa phù hợp trong ngữ cảnh này.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 265518,
+      "questionNumber": 16,
+      "questionName": "16. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>Many language learners do not try to learn all new words they <u>come across</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589525,
+          "label": "A",
+          "text": "study",
+          "isCorrect": false
+        },
+        {
+          "id": 589526,
+          "label": "B",
+          "text": "like",
+          "isCorrect": false
+        },
+        {
+          "id": 589527,
+          "label": "C",
+          "text": "meet",
+          "isCorrect": true
+        },
+        {
+          "id": 589528,
+          "label": "D",
+          "text": "understand",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589527,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX19oveRKMIhEaAKvDInYQ1JZ0sEtlRUKQWJg%2BsgJT1%2BZ7L015GZ5l6xcwQsI0N%2BiyGbleirsaLhy%2BE%2B20uhE1na3sZ7OaoITBxbQdJIv8WQwL6tN%2FXTART%2Bh8VU0lGeV0%2FkDZNbDI9JEBTAYwrW1jHkHxT1ZO7gnByVRK1jm2RcoQTVZE2p3DW7j0zcnQ7lcHNYyRMIjYG3K366FjJZRv3GtoK4XtiwmF3J3dx899MttLEwb3h4SDoWe%2FI7zQnxj9I0CcLfHTfT5G0Irmdcn%2FJr%2BokMbj0d1P5ZpjiGhrM3%2Byo1MDAtIv7UyqeGzCeDDAyvl1aSKWrBBWLlrSPuxZ%2BaEOiGHTZcev8Kc%2FB10%2FYgij0oZExfYg6%2BpsEaZvCNjk3e%2BeUuk9YFp7Tetsu4tEo8vMZZFbXFFkaA6ENi0H2Mrrrjl2OXFdzDDaYaWw3oP3bdMYaPc51W4wfI%2FvAv%2FnvwWTVCN12IQLnCQDy99gPYc2bglG61v3CLo\" width=\"100%\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Nhiều người học ng&ocirc;n ngữ kh&ocirc;ng cố gắng học tất cả c&aacute;c từ mới m&agrave; họ gặp phải.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265519,
+      "questionNumber": 17,
+      "questionName": "17. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) CLOSEST in meaning to the underlined word(s).</em></p>\n<p><strong>Electric cars are better for the environment. <u>In addition</u>, they can save money on petrol.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589529,
+          "label": "A",
+          "text": "In conclusion",
+          "isCorrect": false
+        },
+        {
+          "id": 589530,
+          "label": "B",
+          "text": "For example",
+          "isCorrect": false
+        },
+        {
+          "id": 589531,
+          "label": "C",
+          "text": "Nevertheless",
+          "isCorrect": false
+        },
+        {
+          "id": 589532,
+          "label": "D",
+          "text": "Furthermore",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 589532,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>In addition</strong> (adv.) ~ <strong>Furthermore</strong> (adv.): hơn nữa</p>\n<p>In conclusion (adv.): để kết luận</p>\n<p>For example (adv.): v&iacute; dụ l&agrave;</p>\n<p>Nevertheless (adv.): tuy nhi&ecirc;n</p>\n<p>Dịch: Xe điện tốt hơn cho m&ocirc;i trường. Hơn nữa, ch&uacute;ng c&oacute; thể tiết kiệm tiền xăng dầu.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265520,
+      "questionNumber": 18,
+      "questionName": "18.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>I find playing sports, like badminton, an <u>exciting</u> way to exercise.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589533,
+          "label": "A",
+          "text": "stimulating",
+          "isCorrect": false
+        },
+        {
+          "id": 589534,
+          "label": "B",
+          "text": "regular",
+          "isCorrect": false
+        },
+        {
+          "id": 589535,
+          "label": "C",
+          "text": "normal",
+          "isCorrect": false
+        },
+        {
+          "id": 589536,
+          "label": "D",
+          "text": "boring",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 589536,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 380px;\"><iframe src=\"https://azvocab.ai/embed/ST?params=U2FsdGVkX1%2BrLZqLZyZmVD4zIl9Q9rxCwM35pU7U4FSOG3RcEcKiN5MedYGmTHcSNza4nlHvYX4AOZotkPD6APGNof1F1JNQio7jetJW7VCVZx0VqGBiXjBDVG9f9Qx4iWbTftIFUruNDbX6%2BL60bNAXchTXcical8NBjnNVBqQDY9sO3DHNesDC3Q%2FowB%2Bx1QjC5PC9muoDx%2FjC77xbdWDBFw5Uj9GB2lCaN84doCTLN1GSAcwzx6h6LzfRnH%2BH8dy223y6d8pYt13iwiZN9aUnJV40hEaxirG0RppFFg7o4IwrxX2VAOm42J4Px1VXjgm5JaNOPYBssO0CEFMwwtYpUAYj5MxxKlq8NvgqUk3O3oJdtiw2hgSTqxbPKO0rPRRgjbKn5U%2FfNyIVPDLaGjIn4MfB0LeeqYiI79PKDQF3M4dGNctlV3ZGfJSusn0o\" width=\"100%\" height=\"390\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: T&ocirc;i thấy chơi thể thao, như cầu l&ocirc;ng, l&agrave; một c&aacute;ch tập thể dục th&uacute; vị.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265521,
+      "questionNumber": 19,
+      "questionName": "19. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the word(s) OPPOSITE in meaning to the underlined word(s).</em></p>\n<p><strong>Population growth rates <u>vary</u> among regions and even among countries with the same region.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589537,
+          "label": "A",
+          "text": "come up",
+          "isCorrect": false
+        },
+        {
+          "id": 589538,
+          "label": "B",
+          "text": "stay unchanged",
+          "isCorrect": true
+        },
+        {
+          "id": 589539,
+          "label": "C",
+          "text": "remain unstable",
+          "isCorrect": false
+        },
+        {
+          "id": 589540,
+          "label": "D",
+          "text": "go down",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589538,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<div style=\"width: 100%; max-width: 265px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19i4WXpvpndx7fNyI1zX%2F%2BuF13i7UxXZao4ZpornsQRUEtpXHyLRZqN6TZkFBz4Lh%2FW6mhXhYnAsJCiT%2FIPqH1q5o%2BAbwIi%2FbL0%2BT3X0TwkMkuHdBPA3O4JyC10PITv7mPkZw%2BXtputOlGVKMiWz7N2foHrtlL1MUG49u%2F0JepIYNRACCyJ4kSon09hGoLDF9fqc4ZiCPKP%2BSeJnwgvgNSCHsXHoYz48hOfYNVP5kFBcno91tvyFnvfVdIdNvjYV5lHhMusZmXNOkMK38R0PeW2gohGnexMoxs%3D\" width=\"100%\" height=\"160\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p><strong>stay unchanged</strong>: kh&ocirc;ng thay đổi</p>\n<p>come up (phr.v.): xuất hiện, (mặt trời, mặt trăng) mọc</p>\n<p>remain unstable: biến đổi, kh&ocirc;ng ổn định</p>\n<p>go down (phr.v.): giảm</p>\n<p>Dich: Tỷ lệ gia tăng d&acirc;n số kh&aacute;c nhau giữa c&aacute;c v&ugrave;ng v&agrave; thậm ch&iacute; giữa c&aacute;c nước trong c&ugrave;ng khu vực.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265524,
+      "questionNumber": 20,
+      "questionName": "20. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><u>Having achieved</u> <u>highest score</u>, our team <u>was awarded</u> <u>the first</u> prize.</strong></p>\n<div style=\"position: absolute; left: 358px; top: 68px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589549,
+          "label": "A",
+          "text": "Having achieved",
+          "isCorrect": false
+        },
+        {
+          "id": 589550,
+          "label": "B",
+          "text": "highest score",
+          "isCorrect": true
+        },
+        {
+          "id": 589551,
+          "label": "C",
+          "text": "was awarded",
+          "isCorrect": false
+        },
+        {
+          "id": 589552,
+          "label": "D",
+          "text": "the first",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589550,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Phải d&ugrave;ng mạo từ \"<strong>the</strong>\" trong cấu tr&uacute;c so s&aacute;nh nhất của t&iacute;nh từ v&agrave; trạng từ.</p>\n<p>Cấu tr&uacute;c so s&aacute;nh nhất của t&iacute;nh từ ngắn: <strong>the + adj. + est + N</strong></p>\n<p>Sửa: \"<strong>highest score</strong>\" =&gt; \"<strong>the</strong> <strong>highest score</strong>\"</p>\n<p>Dịch: Sau khi đạt được điểm cao nhất, đội ch&uacute;ng t&ocirc;i đ&atilde; gi&agrave;nh được giải nhất.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265525,
+      "questionNumber": 21,
+      "questionName": "21. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>She is <u>looking</u> <u>forward</u> <u>to go to</u> France to visit <u>her relatives</u> there.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589553,
+          "label": "A",
+          "text": "looking",
+          "isCorrect": false
+        },
+        {
+          "id": 589554,
+          "label": "B",
+          "text": "forward",
+          "isCorrect": false
+        },
+        {
+          "id": 589555,
+          "label": "C",
+          "text": "to go to",
+          "isCorrect": true
+        },
+        {
+          "id": 589556,
+          "label": "D",
+          "text": "her relatives",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589555,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>look forward to doing sth</strong>: mong đợi việc g&igrave;</p>\n<p>Sửa: \"<strong>to go to</strong>\" =&gt; \"<strong>to going to</strong>\"</p>\n<p>Dịch: C&ocirc; ấy đang rất mong được sang Ph&aacute;p để thăm người th&acirc;n b&ecirc;n đ&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265526,
+      "questionNumber": 22,
+      "questionName": "22. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The <u>equipment</u> in the office <u>was</u> <u>badly</u> in need of <u>to be repaired</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589557,
+          "label": "A",
+          "text": "equipment",
+          "isCorrect": false
+        },
+        {
+          "id": 589558,
+          "label": "B",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "id": 589559,
+          "label": "C",
+          "text": "badly",
+          "isCorrect": false
+        },
+        {
+          "id": 589560,
+          "label": "D",
+          "text": "to be repaired",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 589560,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>to be in need of + V-ing</strong>: cần l&agrave;m g&igrave;&nbsp;</p>\n<p>Sửa: \"<strong>to be repaired</strong>\" =&gt; \"<strong>being repaired</strong>\"</p>\n<p>Dịch: C&aacute;c thiết bị trong văn ph&ograve;ng rất cần được sửa chữa.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265527,
+      "questionNumber": 23,
+      "questionName": "23 | used in 10  hcm 87725",
+      "questionType": "FillBlank",
+      "questionText": "<p style=\"text-align: justify;\"><strong>Read the passage and choose the suitable word to fill in the blanks.</strong></p>\n<p style=\"text-align: justify;\">The reality of an interview is never as bad as your fears. For some reason, people imagine the interviewer is going to jump on every tiny mistake they <strong><span class='fillblank-option'><label>23.1</label><select class='ms fillblank-option-23' index='0' name='fbo-265527-0' data-testid='fillblank-select-265527-0'><option value='' data-testid='fillblank-option-empty-265527-0'></option><option value=\"do\" data-testid='fillblank-option-265527-0-do'>do</option><option value=\"make\" data-testid='fillblank-option-265527-0-make'>make</option><option value=\"have\" data-testid='fillblank-option-265527-0-have'>have</option><option value=\"perform\" data-testid='fillblank-option-265527-0-perform'>perform</option></select></span></strong>. In truth, the interviewer is as keen for the meeting to go well as you are. It is what makes his or her job <strong><span class='fillblank-option'><label>23.2</label><select class='ms fillblank-option-23' index='1' name='fbo-265527-1' data-testid='fillblank-select-265527-1'><option value='' data-testid='fillblank-option-empty-265527-1'></option><option value=\"enjoyably\" data-testid='fillblank-option-265527-1-enjoyably'>enjoyably</option><option value=\"enjoyment\" data-testid='fillblank-option-265527-1-enjoyment'>enjoyment</option><option value=\"enjoyable\" data-testid='fillblank-option-265527-1-enjoyable'>enjoyable</option><option value=\"enjoyed\" data-testid='fillblank-option-265527-1-enjoyed'>enjoyed</option></select></span></strong>.</p>\n<p style=\"text-align: justify;\">The secret of a good interview is preparing for it. What you wear is always important as it creates the first impression. So <strong><span class='fillblank-option'><label>23.3</label><select class='ms fillblank-option-23' index='2' name='fbo-265527-2' data-testid='fillblank-select-265527-2'><option value='' data-testid='fillblank-option-empty-265527-2'></option><option value=\"dress\" data-testid='fillblank-option-265527-2-dress'>dress</option><option value=\"wear\" data-testid='fillblank-option-265527-2-wear'>wear</option><option value=\"put on\" data-testid='fillblank-option-265527-2-put on'>put on</option><option value=\"have on\" data-testid='fillblank-option-265527-2-have on'>have on</option></select></span></strong> neatly, but comfortably. Make sure that you can deal with anything you are <strong><span class='fillblank-option'><label>23.4</label><select class='ms fillblank-option-23' index='3' name='fbo-265527-3' data-testid='fillblank-select-265527-3'><option value='' data-testid='fillblank-option-empty-265527-3'></option><option value=\"asked\" data-testid='fillblank-option-265527-3-asked'>asked</option><option value=\"inquired\" data-testid='fillblank-option-265527-3-inquired'>inquired</option><option value=\"questioned\" data-testid='fillblank-option-265527-3-questioned'>questioned</option><option value=\"suggested\" data-testid='fillblank-option-265527-3-suggested'>suggested</option></select></span></strong>. Prepare for questions that are certain to come up, for example: Why do you want to become a nurse? What is the most important <strong><span class='fillblank-option'><label>23.5</label><select class='ms fillblank-option-23' index='4' name='fbo-265527-4' data-testid='fillblank-select-265527-4'><option value='' data-testid='fillblank-option-empty-265527-4'></option><option value=\"nature\" data-testid='fillblank-option-265527-4-nature'>nature</option><option value=\"quality\" data-testid='fillblank-option-265527-4-quality'>quality</option><option value=\"behavior\" data-testid='fillblank-option-265527-4-behavior'>behavior</option><option value=\"point\" data-testid='fillblank-option-265527-4-point'>point</option></select></span></strong> a good nurse should have? Apart from nursing, what other careers have you considered? What are your interests and hobbies?</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "make"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "enjoyable"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "dress"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "questioned"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "quality"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1.<strong> make a mistake</strong>: mắc sai lầm</p>\n<p>have (v.): c&oacute;</p>\n<p>perform (v.): tr&igrave;nh diễn</p>\n<p>do (v.): l&agrave;m</p>\n<p>Dịch: V&igrave; l&yacute; do n&agrave;o đ&oacute;, mọi người tưởng tượng người phỏng vấn sẽ bắt bẻ mọi lỗi nhỏ m&agrave; họ mắc phải.</p>\n<p>2. Từ loại cần điền: t&iacute;nh từ trong cấu tr&uacute;c<strong> </strong>\"<strong>make sth adj.</strong>\" (l&agrave;m cho c&aacute;i g&igrave; như thế n&agrave;o).</p>\n<p><strong>enjoyable</strong> (adj.): th&uacute; vị</p>\n<p>enjoyably (adv.): một c&aacute;ch th&uacute; vị</p>\n<p>enjoyment (n.): sự th&iacute;ch th&uacute;</p>\n<p>enjoy (v.): th&iacute;ch th&uacute;</p>\n<p>Dịch: Tr&ecirc;n thực tế, người phỏng vấn cũng mong muốn cuộc phỏng vấn diễn ra tốt đẹp như bạn. Đ&oacute; l&agrave; điều l&agrave;m cho c&ocirc;ng việc của họ trở n&ecirc;n th&uacute; vị.</p>\n<p>3. <strong>dress</strong> (v.): ăn mặc (kh&ocirc;ng cần t&acirc;n ngữ theo sau)</p>\n<p>put on sth (phr.v.) ~ wear sth (v.) ~ have on sth (phr.v.): mặc g&igrave; đ&oacute; (cần t&acirc;n ngữ theo sau)</p>\n<p>Dịch: V&igrave; vậy, h&atilde;y ăn mặc gọn g&agrave;ng, nhưng thoải m&aacute;i.</p>\n<p>4. <strong>question</strong> (v.): chất vấn, hỏi (một c&aacute;ch ch&iacute;nh thức)</p>\n<p>inquire (about) sth (v.): hỏi về c&aacute;i g&igrave;</p>\n<p>ask (v.): y&ecirc;u cầu, hỏi</p>\n<p>suggest (v.): gợi &yacute;, đề nghị</p>\n<p>Dịch: H&atilde;y đảm bảo rằng bạn c&oacute; thể đối ph&oacute; với bất cứ điều g&igrave; bạn được hỏi.</p>\n<p>5. <strong>quality</strong> (n.): phẩm chất</p>\n<p>behavior (n.): h&agrave;nh vi</p>\n<p>nature (n.): t&iacute;nh c&aacute;ch</p>\n<p>point (n.): luận điểm, điểm số</p>\n<p>Dịch: Phẩm chất quan trọng nhất m&agrave; một y t&aacute; giỏi cần phải c&oacute; l&agrave; g&igrave;?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265546,
+      "questionNumber": 24,
+      "questionName": "24(176w)",
+      "questionType": "Description",
+      "questionText": "<p><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">Everyone wants a job that pays well. <span class=\"answerhighlight q28\">Some people stop school early because they want to start earning cash right away.</span> Others spend years and years studying in school in order to get a better job. Which is best? <span class=\"answerhighlight q29\">Actually, studies show that in most jobs, the higher your education, the higher your <strong>earning power</strong>.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">For example, in the United States, high school graduates can make about $30,400 a year. The people who do not finish high school average only $23,400 a year. Just having a document that says you finished high school means an extra $7,000!</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q30\">If you stay in school, you can make more money. </span>A person who goes to college and gets a bachelor's degree can make an average of $52,200. With a master's degree, he or she can make about $62,000. And studies show that if a person gets a Ph.D., he or she can make $89,000 or more a year.</p>\n<p style=\"text-align: justify;\">Of course, people with different occupations have different salaries.<span class=\"answerhighlight q32\"> <span class=\"answerhighlight q30\">If you want to work more money, spend more time in school.</span></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265547,
+      "questionNumber": 25,
+      "questionName": "28. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Why does the passage say some people stop high school early?</b>",
+      "passageText": "<p><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">Everyone wants a job that pays well. <span class=\"answerhighlight q28\">Some people stop school early because they want to start earning cash right away.</span> Others spend years and years studying in school in order to get a better job. Which is best? <span class=\"answerhighlight q29\">Actually, studies show that in most jobs, the higher your education, the higher your <strong>earning power</strong>.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">For example, in the United States, high school graduates can make about $30,400 a year. The people who do not finish high school average only $23,400 a year. Just having a document that says you finished high school means an extra $7,000!</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q30\">If you stay in school, you can make more money. </span>A person who goes to college and gets a bachelor's degree can make an average of $52,200. With a master's degree, he or she can make about $62,000. And studies show that if a person gets a Ph.D., he or she can make $89,000 or more a year.</p>\n<p style=\"text-align: justify;\">Of course, people with different occupations have different salaries.<span class=\"answerhighlight q32\"> <span class=\"answerhighlight q30\">If you want to work more money, spend more time in school.</span></span></p>",
+      "parentQuestionId": 265546,
+      "choices": [
+        {
+          "id": 589654,
+          "label": "A",
+          "text": "They do not have a lot of money.",
+          "isCorrect": false
+        },
+        {
+          "id": 589655,
+          "label": "B",
+          "text": "They do not like going to school.",
+          "isCorrect": false
+        },
+        {
+          "id": 589656,
+          "label": "C",
+          "text": "They do not want to work hard.",
+          "isCorrect": false
+        },
+        {
+          "id": 589657,
+          "label": "D",
+          "text": "They want to start making money.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 589657,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Một số người nghỉ học sớm v&igrave; họ muốn bắt đầu kiếm tiền ngay lập tức.</p>\n<p>=&gt; B&agrave;i viết n&oacute;i một số người nghỉ học sớm v&igrave; họ muốn bắt đầu kiếm tiền.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265548,
+      "questionNumber": 26,
+      "questionName": "29. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The phrase &quot;earning power&quot; in the passage probably means _____.</strong></p>",
+      "passageText": "<p><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">Everyone wants a job that pays well. <span class=\"answerhighlight q28\">Some people stop school early because they want to start earning cash right away.</span> Others spend years and years studying in school in order to get a better job. Which is best? <span class=\"answerhighlight q29\">Actually, studies show that in most jobs, the higher your education, the higher your <strong>earning power</strong>.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">For example, in the United States, high school graduates can make about $30,400 a year. The people who do not finish high school average only $23,400 a year. Just having a document that says you finished high school means an extra $7,000!</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q30\">If you stay in school, you can make more money. </span>A person who goes to college and gets a bachelor's degree can make an average of $52,200. With a master's degree, he or she can make about $62,000. And studies show that if a person gets a Ph.D., he or she can make $89,000 or more a year.</p>\n<p style=\"text-align: justify;\">Of course, people with different occupations have different salaries.<span class=\"answerhighlight q32\"> <span class=\"answerhighlight q30\">If you want to work more money, spend more time in school.</span></span></p>",
+      "parentQuestionId": 265546,
+      "choices": [
+        {
+          "id": 589658,
+          "label": "A",
+          "text": "ability to make money",
+          "isCorrect": true
+        },
+        {
+          "id": 589659,
+          "label": "B",
+          "text": "power to spend money",
+          "isCorrect": false
+        },
+        {
+          "id": 589660,
+          "label": "C",
+          "text": "getting education",
+          "isCorrect": false
+        },
+        {
+          "id": 589661,
+          "label": "D",
+          "text": "earning reputation",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589658,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Tr&ecirc;n thực tế, c&aacute;c nghi&ecirc;n cứu chỉ ra rằng trong hầu hết c&aacute;c c&ocirc;ng việc, học vấn của bạn c&agrave;ng cao th&igrave; khả năng kiếm tiền của bạn c&agrave;ng cao.</p>\n<p>=&gt; \"<strong>earning power</strong>\" ~ \"<strong>ability to make money</strong>\" (khả năng kiếm tiền).</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265549,
+      "questionNumber": 27,
+      "questionName": "30. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>According to the passage, how can a person earn more money?</b>",
+      "passageText": "<p><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">Everyone wants a job that pays well. <span class=\"answerhighlight q28\">Some people stop school early because they want to start earning cash right away.</span> Others spend years and years studying in school in order to get a better job. Which is best? <span class=\"answerhighlight q29\">Actually, studies show that in most jobs, the higher your education, the higher your <strong>earning power</strong>.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">For example, in the United States, high school graduates can make about $30,400 a year. The people who do not finish high school average only $23,400 a year. Just having a document that says you finished high school means an extra $7,000!</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q30\">If you stay in school, you can make more money. </span>A person who goes to college and gets a bachelor's degree can make an average of $52,200. With a master's degree, he or she can make about $62,000. And studies show that if a person gets a Ph.D., he or she can make $89,000 or more a year.</p>\n<p style=\"text-align: justify;\">Of course, people with different occupations have different salaries.<span class=\"answerhighlight q32\"> <span class=\"answerhighlight q30\">If you want to work more money, spend more time in school.</span></span></p>",
+      "parentQuestionId": 265546,
+      "choices": [
+        {
+          "id": 589662,
+          "label": "A",
+          "text": "By stopping high school.",
+          "isCorrect": false
+        },
+        {
+          "id": 589663,
+          "label": "B",
+          "text": "By staying in school for a long time.",
+          "isCorrect": true
+        },
+        {
+          "id": 589664,
+          "label": "C",
+          "text": "By working a part-time job in high school.",
+          "isCorrect": false
+        },
+        {
+          "id": 589665,
+          "label": "D",
+          "text": "By starting a small business.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589663,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>- Nếu bạn tiếp tục học ở trường, bạn c&oacute; thể kiếm được nhiều tiền hơn.&nbsp;</p>\n<p>- Nếu bạn muốn đi l&agrave;m để kiếm th&ecirc;m kiếm tiền, h&atilde;y d&agrave;nh nhiều thời gian hơn cho việc đi học.</p>\n<p>=&gt; Theo đoạn văn, một người c&oacute; thể kiếm được nhiều tiền hơn bằng c&aacute;ch tiếp tục (học) ở trường trong một thời gian d&agrave;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265550,
+      "questionNumber": 28,
+      "questionName": "31. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Which of these ideas is mentioned in the passage?</b>",
+      "passageText": "<p><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">Everyone wants a job that pays well. <span class=\"answerhighlight q28\">Some people stop school early because they want to start earning cash right away.</span> Others spend years and years studying in school in order to get a better job. Which is best? <span class=\"answerhighlight q29\">Actually, studies show that in most jobs, the higher your education, the higher your <strong>earning power</strong>.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">For example, in the United States, high school graduates can make about $30,400 a year. The people who do not finish high school average only $23,400 a year. Just having a document that says you finished high school means an extra $7,000!</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q30\">If you stay in school, you can make more money. </span>A person who goes to college and gets a bachelor's degree can make an average of $52,200. With a master's degree, he or she can make about $62,000. And studies show that if a person gets a Ph.D., he or she can make $89,000 or more a year.</p>\n<p style=\"text-align: justify;\">Of course, people with different occupations have different salaries.<span class=\"answerhighlight q32\"> <span class=\"answerhighlight q30\">If you want to work more money, spend more time in school.</span></span></p>",
+      "parentQuestionId": 265546,
+      "choices": [
+        {
+          "id": 589666,
+          "label": "A",
+          "text": "Everyone should get a master's degree.",
+          "isCorrect": false
+        },
+        {
+          "id": 589667,
+          "label": "B",
+          "text": "Graduating high school is important.",
+          "isCorrect": true
+        },
+        {
+          "id": 589668,
+          "label": "C",
+          "text": "A person should do the same job their whole life.",
+          "isCorrect": false
+        },
+        {
+          "id": 589669,
+          "label": "D",
+          "text": "A person with a Ph.D. will not earn a lot of money.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589667,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>V&iacute; dụ, ở Hoa Kỳ, học sinh tốt nghiệp trung học c&oacute; thể kiếm được khoảng $ 30,400 một năm. Những người kh&ocirc;ng học hết cấp 3 chỉ kiếm được trung b&igrave;nh 23,400 USD một năm. Chỉ cần c&oacute; một tấm bằng chứng minh rằng bạn đ&atilde; học xong trung học c&oacute; nghĩa l&agrave; bạn đ&atilde; c&oacute; th&ecirc;m 7.000 đ&ocirc; la!</p>\n<p>=&gt; &Yacute; được đề cập: Việc tốt nghiệp trung học phổ th&ocirc;ng l&agrave; quan trọng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265551,
+      "questionNumber": 29,
+      "questionName": "32. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Why was this passage written?</b>",
+      "passageText": "<p><strong>Read the following passage then choose the best answer to each question below.</strong></p>\n<p style=\"text-align: justify;\">Everyone wants a job that pays well. <span class=\"answerhighlight q28\">Some people stop school early because they want to start earning cash right away.</span> Others spend years and years studying in school in order to get a better job. Which is best? <span class=\"answerhighlight q29\">Actually, studies show that in most jobs, the higher your education, the higher your <strong>earning power</strong>.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q31\">For example, in the United States, high school graduates can make about $30,400 a year. The people who do not finish high school average only $23,400 a year. Just having a document that says you finished high school means an extra $7,000!</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q30\">If you stay in school, you can make more money. </span>A person who goes to college and gets a bachelor's degree can make an average of $52,200. With a master's degree, he or she can make about $62,000. And studies show that if a person gets a Ph.D., he or she can make $89,000 or more a year.</p>\n<p style=\"text-align: justify;\">Of course, people with different occupations have different salaries.<span class=\"answerhighlight q32\"> <span class=\"answerhighlight q30\">If you want to work more money, spend more time in school.</span></span></p>",
+      "parentQuestionId": 265546,
+      "choices": [
+        {
+          "id": 589670,
+          "label": "A",
+          "text": "To make school more fun",
+          "isCorrect": false
+        },
+        {
+          "id": 589671,
+          "label": "B",
+          "text": "To teach people how to set goals",
+          "isCorrect": false
+        },
+        {
+          "id": 589672,
+          "label": "C",
+          "text": "To encourage people to stay in school",
+          "isCorrect": true
+        },
+        {
+          "id": 589673,
+          "label": "D",
+          "text": "To help people who score poorly on tests",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589672,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Nếu bạn muốn kiếm được nhiều tiền hơn, h&atilde;y d&agrave;nh nhiều thời gian hơn cho việc đi học.</p>\n<p>=&gt; B&agrave;i viết khuyến kh&iacute;ch mọi người học l&ecirc;n cao hơn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265552,
+      "questionNumber": 30,
+      "questionName": "33",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence closest in meaning to the following sentence.</em></p>\n<p><strong>&quot;You can trust me, I won't let you down,&quot; Tom said to me.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589674,
+          "label": "A",
+          "text": "Tom ordered me to trust him and promised not to let me down.",
+          "isCorrect": false
+        },
+        {
+          "id": 589675,
+          "label": "B",
+          "text": "Tom promised not to let me down.",
+          "isCorrect": true
+        },
+        {
+          "id": 589676,
+          "label": "C",
+          "text": "Tom advised me to trust him and not to let me down.",
+          "isCorrect": false
+        },
+        {
+          "id": 589677,
+          "label": "D",
+          "text": "Tom insisted on not letting me down.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589675,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>promise (not) to do sth</strong>: hứa sẽ (kh&ocirc;ng) l&agrave;m g&igrave;</p>\n<p>order sb to do sth: ra lệnh cho ai l&agrave;m g&igrave;</p>\n<p>advise sb to do sth: khuy&ecirc;n ai n&ecirc;n l&agrave;m g&igrave;</p>\n<p>insist on (not) doing sth: khăng khăng (kh&ocirc;ng) l&agrave;m g&igrave;</p>\n<p>Dịch: \"Bạn c&oacute; thể tin tưởng ở t&ocirc;i, t&ocirc;i sẽ kh&ocirc;ng để bạn thất vọng,\" Tom n&oacute;i với t&ocirc;i.</p>\n<p>~ Tom hứa sẽ kh&ocirc;ng l&agrave;m t&ocirc;i thất vọng.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265553,
+      "questionNumber": 31,
+      "questionName": "34. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is closest in meaning to the following question.</em></p>\n<p><strong>Somebody broke into our cottage last Saturday.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589678,
+          "label": "A",
+          "text": "Our cottage was broken into last Saturday.",
+          "isCorrect": true
+        },
+        {
+          "id": 589679,
+          "label": "B",
+          "text": "Our cottage had broken into last Saturday.",
+          "isCorrect": false
+        },
+        {
+          "id": 589680,
+          "label": "C",
+          "text": "Our cottage was being broken into last Saturday.",
+          "isCorrect": false
+        },
+        {
+          "id": 589681,
+          "label": "D",
+          "text": "Our cottage has been broken into Iast Saturday.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589678,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c bị động ở th&igrave; qu&aacute; khứ đơn: <strong>S + was/were + V(pp) + by O...</strong></p>\n<p>Dịch: Ai đ&oacute; đ&atilde; đột nhập v&agrave;o nh&agrave; ch&uacute;ng t&ocirc;i v&agrave;o thứ Bảy tuần trước.</p>\n<p>~ Nh&agrave; ch&uacute;ng t&ocirc;i bị đột nhập v&agrave;o thứ Bảy tuần trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265554,
+      "questionNumber": 32,
+      "questionName": "35. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is closest in meaning to the following question.</em></p>\n<p><strong>&quot;You're always making terrible mistakes&quot;, said the teacher.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589682,
+          "label": "A",
+          "text": "The teacher asked his students why they always make terrible mistakes.",
+          "isCorrect": false
+        },
+        {
+          "id": 589683,
+          "label": "B",
+          "text": "The teacher realized that his students always made terrible mistakes.",
+          "isCorrect": false
+        },
+        {
+          "id": 589684,
+          "label": "C",
+          "text": "The teacher complained about his students making terrible mistakes.",
+          "isCorrect": true
+        },
+        {
+          "id": 589685,
+          "label": "D",
+          "text": "The teacher made his students not always make terrible mistakes.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589684,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>complain about sth</strong>: ph&agrave;n n&agrave;n về việc g&igrave;</p>\n<p>realize (v.): nhận ra</p>\n<p>ask (v.): hỏi</p>\n<p>make sb do sth: sai khiến ai đ&oacute; l&agrave;m g&igrave;</p>\n<p>Dịch: \"C&aacute;c em lu&ocirc;n phạm phải những sai lầm khủng khiếp\", gi&aacute;o vi&ecirc;n n&oacute;i.</p>\n<p>~ Gi&aacute;o vi&ecirc;n ph&agrave;n n&agrave;n về việc những học sinh của m&igrave;nh mắc những sai lầm khủng khiếp.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265555,
+      "questionNumber": 33,
+      "questionName": "36. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>I haven't tried this kind of food before.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589686,
+          "label": "A",
+          "text": "This is the first time I have tried this kind of food.",
+          "isCorrect": true
+        },
+        {
+          "id": 589687,
+          "label": "B",
+          "text": "It's a long time since I tried this kind of food.",
+          "isCorrect": false
+        },
+        {
+          "id": 589688,
+          "label": "C",
+          "text": "I have tried this kind of food many times.",
+          "isCorrect": false
+        },
+        {
+          "id": 589689,
+          "label": "D",
+          "text": "This is the first time I had tried this kind of food.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589686,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + have/has + not + V(pp) +&hellip;+ before</strong>: Ai đ&oacute; chưa từng l&agrave;m g&igrave; trước đ&oacute;</p>\n<p>~ <strong>It/This is the first time + S + have/has + (ever) + V(pp)</strong>: Đ&acirc;y l&agrave; lần đầu ti&ecirc;n ai đ&oacute; l&agrave;m g&igrave;</p>\n<p>Phương &aacute;n 2, 3 sai nghĩa; phương &aacute;n 4 sai ngữ ph&aacute;p.</p>\n<p>Dịch: Trước đ&acirc;y t&ocirc;i chưa từng ăn thử loại đồ ăn n&agrave;y.</p>\n<p>~ Đ&acirc;y l&agrave; lần đầu ti&ecirc;n t&ocirc;i ăn thử loại đồ ăn n&agrave;y.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 265558,
+      "questionNumber": 34,
+      "questionName": "39. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines this pair of sentences.</em></p>\n<p><strong>The weather was very hot. The boys continued playing football in the schoolyard.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 589698,
+          "label": "A",
+          "text": "Because of the weather was hot, the boys continued playing football in the schoolyard.",
+          "isCorrect": false
+        },
+        {
+          "id": 589699,
+          "label": "B",
+          "text": "In spite of the hot weather, the boys continued playing football in the schoolyard.",
+          "isCorrect": true
+        },
+        {
+          "id": 589700,
+          "label": "C",
+          "text": "Because the hot weather, the boys continued playing football in the schoolyard.",
+          "isCorrect": false
+        },
+        {
+          "id": 589701,
+          "label": "D",
+          "text": "Despite the weather was hot, the boys continued playing football in the schoolyard.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 589699,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>in spite of N/V-ing</strong> ~ despite + N/V-ing: mặc d&ugrave;</p>\n<p>because of + N/V-ing ~ because + clause: bởi v&igrave;</p>\n<p>Các phương án còn lại sai vì:</p>\n<ul>\n<li><em>Because <span style=\"text-decoration: line-through;\"><strong>of</strong></span> the weather was hot, the boys continued playing football in the schoolyard.</em></li>\n<li><em><span style=\"text-decoration: line-through;\"><strong>Because</strong></span> the hot weather, the boys continued playing football in the schoolyard.</em></li>\n<li><em><span style=\"text-decoration: line-through;\"><strong>Despite</strong></span> the weather was hot, the boys continued playing football in the schoolyard.</em></li>\n</ul>\n<p>Dịch: Trời rất n&oacute;ng. C&aacute;c cậu b&eacute; tiếp tục chơi b&oacute;ng trong s&acirc;n trường.</p>\n<p>~ Bất chấp thời tiết nắng n&oacute;ng, c&aacute;c cậu b&eacute; vẫn tiếp tục chơi b&oacute;ng trong s&acirc;n trường.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 136092,
+      "questionNumber": 35,
+      "questionName": "Question 50",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines this pair of sentences.</em></p>\n<p><strong>Tim graduated with a good degree. He joined the ranks of the unemployed.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 319843,
+          "label": "A",
+          "text": "Tim joined the ranks of the unemployed because he graduated with a good degree.",
+          "isCorrect": false
+        },
+        {
+          "id": 319844,
+          "label": "B",
+          "text": "If Tim graduated with a good degree, he would join the ranks of the unemployed.",
+          "isCorrect": false
+        },
+        {
+          "id": 319845,
+          "label": "C",
+          "text": "Though Tim graduated with a good degree, he joined the ranks of the unemployed.",
+          "isCorrect": true
+        },
+        {
+          "id": 319846,
+          "label": "D",
+          "text": "That Tim graduated with a good degree helped him join the ranks of the unemployed.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 319845,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>though + clause</strong>: mặc d&ugrave;</p>\n<p>because + clause: bởi v&igrave;</p>\n<p>if + clause: nếu</p>\n<p>that + S1 + V1 + V (ch&iacute;nh): Việc... th&igrave;... (mệnh đề danh ngữ với \"that\" l&agrave;m chủ ngữ trong c&acirc;u)</p>\n<p>Dịch: Tim tốt nghiệp với tấm bằng giỏi. Anh ấy gia nhập h&agrave;ng ngũ những người thất nghiệp</p>\n<p>~ Mặc d&ugrave; Tim đ&atilde; tốt nghiệp với tấm bằng giỏi, anh ấy gia nhập h&agrave;ng ngũ những người thất nghiệp.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 136091,
+      "questionNumber": 36,
+      "questionName": "Question 49",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>I whispered as I didn't want anybody to hear our conversation.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 319839,
+          "label": "A",
+          "text": "Since nobody wanted to hear our conversation, I whispered.",
+          "isCorrect": false
+        },
+        {
+          "id": 319840,
+          "label": "B",
+          "text": "So as not to hear our conversation, I whispered.",
+          "isCorrect": false
+        },
+        {
+          "id": 319841,
+          "label": "C",
+          "text": "Because I whispered, nobody heard our conversation.",
+          "isCorrect": false
+        },
+        {
+          "id": 319842,
+          "label": "D",
+          "text": "I lowered my voice in order that our conversation couldn't be heard.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 319842,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"background-color: #fbeeb8;\"><strong>Kiến thức cần lưu &yacute;:</strong></span></p>\n<ul>\n<li><strong>so that/ in order that + S + V</strong>: để m&agrave; ~&nbsp;<strong>so as to/ in order to + V(inf)</strong>&nbsp;(hai mệnh đề c&oacute; c&ugrave;ng chủ ngữ): để m&agrave;</li>\n<li><strong>lower one's voice</strong>: hạ giọng, hạ &acirc;m lượng</li>\n</ul>\n<hr />\n<p style=\"text-align: justify;\"><span style=\"background-color: #fbeeb8;\"><strong>Dịch:</strong></span></p>\n<p style=\"text-align: justify;\"><em>C&acirc;u gốc: <strong>T&ocirc;i th&igrave; thầm v&igrave; kh&ocirc;ng muốn ai nghe thấy cuộc tr&ograve; chuyện của ch&uacute;ng t&ocirc;i.</strong><br /></em></p>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\"><strong>✖</strong></span> V&igrave; kh&ocirc;ng ai muốn nghe thấy cuộc tr&ograve; chuyện của ch&uacute;ng t&ocirc;i, n&ecirc;n t&ocirc;i th&igrave; thầm.</p>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\"><strong>✖</strong></span> Để kh&ocirc;ng nghe thấy cuộc tr&ograve; chuyện của ch&uacute;ng t&ocirc;i, t&ocirc;i th&igrave; thầm.</p>\n<p style=\"text-align: justify;\"><span style=\"color: #e03e2d;\"><strong>✖</strong></span> V&igrave; t&ocirc;i th&igrave; thầm, n&ecirc;n kh&ocirc;ng ai nghe thấy cuộc tr&ograve; chuyện của ch&uacute;ng t&ocirc;i.</p>\n<p style=\"text-align: justify;\"><span style=\"color: #2dc26b;\"><strong>✔</strong></span> <strong>T&ocirc;i hạ giọng để cuộc tr&ograve; chuyện của ch&uacute;ng t&ocirc;i kh&ocirc;ng bị nghe thấy.</strong></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 136055,
+      "questionNumber": 37,
+      "questionName": "Question 13",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines this pair of sentences.</em></p>\n<p><strong>She helped us a lot with our project. We couldn&#8217;t continue without her.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 319695,
+          "label": "A",
+          "text": "Unless we had her contribution, we could continue with the project.",
+          "isCorrect": false
+        },
+        {
+          "id": 319696,
+          "label": "B",
+          "text": "But for her contribution, we could have continued with the project.",
+          "isCorrect": false
+        },
+        {
+          "id": 319697,
+          "label": "C",
+          "text": "If she hadn’t contributed positively, we couldn’t have continued with the project.",
+          "isCorrect": true
+        },
+        {
+          "id": 319698,
+          "label": "D",
+          "text": "Provided her contribution wouldn’t come, we couldn’t continue with the project.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 319697,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 3 diễn tả điều kiện kh&ocirc;ng c&oacute; thật trong qu&aacute; khứ.</span></p>\n<p>Cấu tr&uacute;c: <strong>If + S + had + V(pp), S + would/could/might + have + V(pp)</strong></p>\n<p>Cấu tr&uacute;c: But for + N, S + would/could/might + have + V(pp): nếu kh&ocirc;ng c&oacute;...</p>\n<p>unless + clause: nếu kh&ocirc;ng...</p>\n<p>provided + clause: miễn l&agrave;...</p>\n<p>Dịch: C&ocirc; đ&atilde; gi&uacute;p ch&uacute;ng t&ocirc;i rất nhiều trong dự &aacute;n của ch&uacute;ng t&ocirc;i. Ch&uacute;ng t&ocirc;i kh&ocirc;ng thể tiếp tục nếu kh&ocirc;ng c&oacute; c&ocirc; ấy.</p>\n<p>~ Nếu c&ocirc; ấy đ&atilde; kh&ocirc;ng đ&oacute;ng g&oacute;p một c&aacute;ch t&iacute;ch cực, ch&uacute;ng t&ocirc;i đ&atilde; kh&ocirc;ng thể tiếp tục dự &aacute;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

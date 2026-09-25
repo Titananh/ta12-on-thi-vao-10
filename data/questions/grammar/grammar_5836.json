@@ -1,0 +1,930 @@
+{
+  "quizId": 5836,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 38: Coordinating Conjunctions (Liên từ kết hợp)",
+  "totalQuestions": 21,
+  "questions": [
+    {
+      "id": 903317,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Li&#234;n t&#7915; &quot;but&quot; &#273;&#432;&#7907;c s&#7917; d&#7909;ng &#273;&#7875; l&#224;m g&#236;?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1716167,
+          "label": "A",
+          "text": "Để nối các yếu tố tương đồng",
+          "isCorrect": false
+        },
+        {
+          "id": 1716168,
+          "label": "B",
+          "text": "Để nối các yếu tố trái ngược",
+          "isCorrect": true
+        },
+        {
+          "id": 1716169,
+          "label": "C",
+          "text": "Để nối các yếu tố có quan hệ nguyên nhân - kết quả",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1716168,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/Lien_tu_but_so_and_7ab36090.jpg\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 903318,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Khi n&#224;o ta s&#7917; d&#7909;ng d&#7845;u ph&#7849;y trong c&#226;u c&#243; li&#234;n t&#7915; k&#7871;t h&#7907;p?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1716170,
+          "label": "A",
+          "text": "Khi liên từ kết hợp nối 2 mệnh đề chính",
+          "isCorrect": true
+        },
+        {
+          "id": 1716171,
+          "label": "B",
+          "text": "Không bao giờ dùng dấu phẩy với liên từ kết hợp",
+          "isCorrect": false
+        },
+        {
+          "id": 1716172,
+          "label": "C",
+          "text": "Chỉ khi liên từ kết hợp nối 2 danh từ",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1716170,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/Lien_tu_ket_hop_quy_tac_dau_phay_ef5ddfa3.jpg\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 903335,
+      "questionNumber": 3,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ho&#224;n th&#224;nh c&#226;u.</strong></p>\n<p data-pm-slice=\"1 1 []\"><span class='fillblank-option'><label>3.1</label><input id='fbo-903335-0' class='ms fillblank-option-3' index='0' name='fbo-903335-0' type='text' size='15' autocomplete='off' data-testid='fillblank-input-903335-0' /></span> &#273;&#432;&#7907;c s&#7917; d&#7909;ng &#273;&#7875; n&#7889;i hai m&#7879;nh &#273;&#7873; c&#243; ngh&#297;a &#273;&#7889;i l&#7853;p. <span class='fillblank-option'><label>3.2</label><input id='fbo-903335-1' class='ms fillblank-option-3' index='1' name='fbo-903335-1' type='text' size='15' autocomplete='off' data-testid='fillblank-input-903335-1' /></span> n&#7889;i hai m&#7879;nh &#273;&#7873; th&#7875; hi&#7879;n m&#7889;i quan h&#7879; nguy&#234;n nh&#226;n v&#224; k&#7871;t qu&#7843;.</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1740022,
+          "label": "A",
+          "text": "Liên từ \"but\"",
+          "isCorrect": false
+        },
+        {
+          "id": 1740023,
+          "label": "B",
+          "text": "Liên từ \"so\"",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Liên từ \"but\""
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Liên từ \"so\""
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/Lien_tu_but_so_and_7ab36090.jpg\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 903313,
+      "questionNumber": 4,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>C&#225;c c&#226;u sau d&#249;ng c&#225;c li&#234;n t&#7915; k&#7871;t h&#7907;p &#273;&#250;ng hay sai?</strong></p>\n<p>1. We can watch a movie,<strong> so</strong> go for a walk in the park. <span class='fillblank-option'><label>4.1</label><select class='ms fillblank-option-4' index='0' name='fbo-903313-0' data-testid='fillblank-select-903313-0'><option value='' data-testid='fillblank-option-empty-903313-0'></option><option value=\"Sai\" data-testid='fillblank-option-903313-0-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-903313-0-Đúng'>Đúng</option></select></span></p>\n<p>2. I will call you later, <strong>and</strong>&nbsp;we can discuss the details. <span class='fillblank-option'><label>4.2</label><select class='ms fillblank-option-4' index='1' name='fbo-903313-1' data-testid='fillblank-select-903313-1'><option value='' data-testid='fillblank-option-empty-903313-1'></option><option value=\"Sai\" data-testid='fillblank-option-903313-1-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-903313-1-Đúng'>Đúng</option></select></span></p>\n<p>3. He didn&#8217;t like the movie, <strong>but</strong> he stayed until the end. <span class='fillblank-option'><label>4.3</label><select class='ms fillblank-option-4' index='2' name='fbo-903313-2' data-testid='fillblank-select-903313-2'><option value='' data-testid='fillblank-option-empty-903313-2'></option><option value=\"Sai\" data-testid='fillblank-option-903313-2-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-903313-2-Đúng'>Đúng</option></select></span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Sai"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Đúng"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "Đúng"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. <strong>so</strong> (conj.): vậy n&ecirc;n =&gt; Kh&ocirc;ng ph&ugrave; hợp với nghĩa của c&acirc;u.</p>\n<p><strong>and</strong> (conj.): v&agrave; (nối 2 vế đồng đẳng)</p>\n<p>Dịch: Ch&uacute;ng ta c&oacute; thể xem phim, v&agrave; đi dạo trong c&ocirc;ng vi&ecirc;n.</p>\n<p>2. <strong>and</strong> (conj.): v&agrave; (nối 2 vế đồng đẳng)</p>\n<p>Dịch: T&ocirc;i sẽ gọi lại cho bạn sau, v&agrave; ch&uacute;ng ta c&oacute; thể thảo luận chi tiết.</p>\n<p>3. <strong>but </strong>(conj.): nhưng</p>\n<p>Dịch: Anh ấy kh&ocirc;ng th&iacute;ch bộ phim, nhưng anh ấy đ&atilde; ở lại cho đến hết.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 216565,
+      "questionNumber": 5,
+      "questionName": "a",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Complete the sentences with suitable coordinating conjunctions.</strong></p>\n<p>1. I got a seat in the front row <span class='fillblank-option'><label>5.1</label><input id='fbo-216565-0' class='ms fillblank-option-5' index='0' name='fbo-216565-0' type='text' size='6' autocomplete='off' data-testid='fillblank-input-216565-0' /></span> I was really interested in the lecture topic.</p>\n<p>2. Can you help me carry these boxes, <span class='fillblank-option'><label>5.2</label><input id='fbo-216565-1' class='ms fillblank-option-5' index='1' name='fbo-216565-1' type='text' size='6' autocomplete='off' data-testid='fillblank-input-216565-1' /></span>&nbsp;are you busy right now?</p>\n<p>3. They were not wearing jackets, <span class='fillblank-option'><label>5.3</label><input id='fbo-216565-2' class='ms fillblank-option-5' index='2' name='fbo-216565-2' type='text' size='4' autocomplete='off' data-testid='fillblank-input-216565-2' /></span> were they carrying umbrellas.</p>\n<p>4. The sun was shining, <span class='fillblank-option'><label>5.4</label><input id='fbo-216565-3' class='ms fillblank-option-5' index='3' name='fbo-216565-3' type='text' size='4' autocomplete='off' data-testid='fillblank-input-216565-3' /></span> it was quite cold.</p>\n<p>5. My brother <span class='fillblank-option'><label>5.5</label><input id='fbo-216565-4' class='ms fillblank-option-5' index='4' name='fbo-216565-4' type='text' size='7' autocomplete='off' data-testid='fillblank-input-216565-4' /></span> I will retire soon and go sailing around the world.&nbsp;</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "for"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "or"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "nor"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "yet",
+            "but"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "and"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. Li&ecirc;n từ \"<strong>for</strong>\" (bởi v&igrave;) diễn đạt nguy&ecirc;n nh&acirc;n, giải th&iacute;ch cho &yacute; đ&atilde; được đề cập ở mệnh đề trước.</p>\n<p>Dịch: T&ocirc;i ngồi ở h&agrave;ng ghế đầu v&igrave; t&ocirc;i thực sự quan t&acirc;m đến chủ đề b&agrave;i giảng n&agrave;y.</p>\n<p>2. Li&ecirc;n từ \"<strong>or</strong>\" (hoặc) được d&ugrave;ng để tr&igrave;nh b&agrave;y th&ecirc;m một lựa chọn kh&aacute;c.</p>\n<p>Dịch: Bạn c&oacute; thể b&ecirc; gi&uacute;p t&ocirc;i những chiếc hộp n&agrave;y được kh&ocirc;ng, hay b&acirc;y giờ bạn đang bận rồi?</p>\n<p>3. Li&ecirc;n từ \"<strong>nor</strong>\" (cũng kh&ocirc;ng) được d&ugrave;ng để bổ sung một &yacute; phủ định v&agrave;o &yacute; phủ định đ&atilde; được n&ecirc;u trước đ&oacute;.</p>\n<p>Dịch: Họ kh&ocirc;ng mặc &aacute;o kho&aacute;c, v&agrave; họ cũng kh&ocirc;ng che &ocirc;.</p>\n<p>4. Li&ecirc;n từ \"<strong>yet</strong>\", \"<strong>but</strong>\" (nhưng) được d&ugrave;ng để thể hiện &yacute; tương phản với &yacute; đ&atilde; n&ecirc;u trước đ&oacute;.</p>\n<p>Dịch: &Aacute;nh mặt trời ch&oacute;i chang, nhưng trời kh&aacute; lạnh.</p>\n<p>5. Li&ecirc;n từ \"<strong>and</strong>\" (v&agrave;) được d&ugrave;ng để bổ sung th&ecirc;m &yacute; kh&ocirc;ng tr&aacute;i ngược với &yacute; đ&atilde; n&ecirc;u trước đ&oacute;.</p>\n<p>Dịch: T&ocirc;i v&agrave; anh trai sẽ sớm nghỉ hưu v&agrave; đi du thuyền v&ograve;ng quanh thế giới.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 216682,
+      "questionNumber": 6,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>I will get my car serviced _____ there is something wrong with the brakes.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 487245,
+          "label": "A",
+          "text": "or",
+          "isCorrect": false
+        },
+        {
+          "id": 487246,
+          "label": "B",
+          "text": "but",
+          "isCorrect": false
+        },
+        {
+          "id": 487247,
+          "label": "C",
+          "text": "for",
+          "isCorrect": true
+        },
+        {
+          "id": 487248,
+          "label": "D",
+          "text": "yet",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 487247,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">H&atilde;y xem x&eacute;t mối quan hệ giữa hai mệnh đề trong c&acirc;u: <em>\"I will get my car serviced\"</em> v&agrave; <em>\"there is something wrong with the brakes\"</em>. Mệnh đề thứ hai đang giải th&iacute;ch l&yacute; do cho h&agrave;nh động ở mệnh đề thứ nhất.</p>\n<p style=\"text-align: justify;\">H&atilde;y nhớ lại c&aacute;c li&ecirc;n từ kết hợp th&ocirc;ng dụng (FANBOYS: <em>for, and, nor, but, or, yet, so</em>) v&agrave; chức năng của ch&uacute;ng để chọn từ diễn tả &yacute; nghĩa \"bởi v&igrave;\".</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ kết hợp</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Li&ecirc;n từ kết hợp d&ugrave;ng để nối c&aacute;c từ, cụm từ, mệnh đề hoặc c&acirc;u c&oacute; chức năng ngữ ph&aacute;p tương đương, thường l&agrave; để th&ecirc;m th&ocirc;ng tin, thể hiện sự đối lập, lựa chọn, hoặc giải th&iacute;ch l&yacute; do.</p>\n<p style=\"text-align: justify;\"><strong>Một số li&ecirc;n từ kết hợp:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">and (conj.): </span></strong>v&agrave; (th&ecirc;m th&ocirc;ng tin, bổ sung)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">or (conj.): </span></strong>hoặc, hay (chỉ sự lựa chọn)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">but (conj.): </span></strong>nhưng (chỉ sự đối lập, tương phản)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">for (conj.): </span></strong>v&igrave;, bởi v&igrave; (giải th&iacute;ch l&yacute; do)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">yet (conj.): </span></strong>nhưng, tuy nhi&ecirc;n (chỉ sự đối lập, tương phản, nhấn mạnh sự bất ngờ)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi y&ecirc;u cầu điền li&ecirc;n từ v&agrave;o chỗ trống để nối hai mệnh đề: <em>\"I will get my car serviced\"</em> (T&ocirc;i sẽ mang xe đi bảo dưỡng) v&agrave; <em>\"there is something wrong with the brakes\"</em> (phanh c&oacute; vấn đề). Mệnh đề thứ hai giải th&iacute;ch l&yacute; do cho h&agrave;nh động ở mệnh đề thứ nhất.</p>\n<p style=\"text-align: justify;\">Li&ecirc;n từ <em>\"for\"</em> l&agrave; lựa chọn duy nhất ph&ugrave; hợp v&igrave; n&oacute; mang nghĩa \"v&igrave;, bởi v&igrave;\", thể hiện mối quan hệ nguy&ecirc;n nh&acirc;n-kết quả giữa hai mệnh đề. C&aacute;c li&ecirc;n từ kh&aacute;c như <em>\"or\"</em> (lựa chọn), <em>\"but\"</em> (đối lập) v&agrave; <em>\"yet\"</em> (đối lập) đều kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "487245": "Liên từ <em>\"or\"</em> dùng để chỉ sự lựa chọn hoặc khả năng thay thế, không phù hợp để diễn tả lý do.",
+        "487246": "Liên từ <em>\"but\"</em> dùng để chỉ sự đối lập hoặc tương phản, không phù hợp với ngữ cảnh giải thích nguyên nhân.",
+        "487247": "Liên từ <em>\"for\"</em> được dùng để giải thích lý do hoặc nguyên nhân cho hành động được đề cập ở mệnh đề trước.",
+        "487248": "Liên từ <em>\"yet\"</em> dùng để chỉ sự đối lập hoặc tương phản, thường mang sắc thái mạnh hơn <em>\"but\"</em> và không phù hợp với ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 179286,
+      "questionNumber": 7,
+      "questionName": "Question 18:",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>Karen felt very tired, _____ she said goodbye to her friends and went home to take a rest.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 411562,
+          "label": "A",
+          "text": "but",
+          "isCorrect": false
+        },
+        {
+          "id": 411563,
+          "label": "B",
+          "text": "or",
+          "isCorrect": false
+        },
+        {
+          "id": 411564,
+          "label": "C",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 411565,
+          "label": "D",
+          "text": "so",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 411565,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến hai mệnh đề <em data-start=\"84\" data-end=\"109\">\"Karen felt very tired\"</em> v&agrave; <em data-start=\"113\" data-end=\"177\">\"she said goodbye to her friends and went home to take a rest\"</em>. H&atilde;y x&aacute;c định mối quan hệ &yacute; nghĩa giữa hai mệnh đề, sau đ&oacute; nhớ lại li&ecirc;n từ ph&ugrave; hợp để diễn tả quan hệ đ&oacute;, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 530px;\"><iframe width=\"100%\" height=\"310\" src=\"https://azvocab.ai/embed/DLF8C7653EA3349872?params=U2FsdGVkX19WtmDbINkrGKZxhXwIu308u%2BNEDeuevtptVXd%2FVTT3HuJTDRFgiAIUZ5t5x3DqTTXgoiAViVa5rIVVlMzLWPN8G8GT5adEcZchAlpMre9slL0KRKLYlOuRUfpr0KLrp3yk6v7vnGX85QCLFDwTVIdXLhBP%2FeqPwQ%2F%2Ful4Tg%2FnvIftKceXv4aVwMxWuHgLus5msDyQSlBWQ5GK%2BADag1NWcaLaS%2FGNEDrtTSG5My7v%2Bc%2FJRAxk99FfGZdWIqEG0EtqYP264EWUNSRwP2ZKFF105bD3fLe8oopjuOVbkghoQygQi1qiwP3P8clS%2FeLZ6k5Eo0d72reBtALN0u5mOhso3EFArm9kL4%2FOZxW%2FygeB%2FgFzE0BrXf71WNdNwUFmbl5CTUW8WtxK7ZdLadS94QwVLSJYQiuf9tiLuK1S0CBEkg0ck5lanQlba\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ kết hợp</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Li&ecirc;n từ kết hợp d&ugrave;ng để nối c&aacute;c từ, cụm từ, hoặc mệnh đề c&oacute; c&amp;&ugrave;ng chức năng ngữ ph&aacute;p. Ch&uacute;ng gi&uacute;p thể hiện mối quan hệ logic như bổ sung, đối lập, lựa chọn, nguy&ecirc;n nh&acirc;n, kết quả giữa c&aacute;c th&agrave;nh phần trong c&acirc;u.</p>\n<p style=\"text-align: justify;\"><strong>Một số li&ecirc;n từ kết hợp:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">so</span></strong><span style=\"color: #1c581f;\"><strong>:</strong> v&igrave; vậy, do đ&oacute; (chỉ kết quả)</span></li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">but</span></strong><span style=\"color: #1c581f;\"><strong>:</strong> nhưng (chỉ sự đối lập, tương phản)</span></li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">or</span></strong><span style=\"color: #1c581f;\"><strong>:</strong> hoặc (chỉ sự lựa chọn)</span></li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">for</span></strong><span style=\"color: #1c581f;\"><strong>:</strong> v&igrave; (chỉ l&yacute; do, nguy&ecirc;n nh&acirc;n, mang t&iacute;nh trang trọng hơn <em>because</em>)</span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, việc \"<em>Karen felt very tired</em>\" l&agrave; nguy&ecirc;n nh&acirc;n dẫn đến h&agrave;nh động \"<em>she said goodbye to her friends and went home to take a rest</em>\" l&agrave; kết quả. Li&ecirc;n từ \"<em>so</em>\" l&agrave; lựa chọn ph&ugrave; hợp nhất để diễn tả mối quan hệ nguy&ecirc;n nh&acirc;n - kết quả n&agrave;y.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n kh&aacute;c kh&ocirc;ng ph&ugrave; hợp v&igrave; \"<em>but</em>\" d&ugrave;ng cho sự đối lập, \"<em>or</em>\" d&ugrave;ng cho sự lựa chọn, c&ograve;n \"<em>for</em>\" d&ugrave;ng để giải th&iacute;ch l&yacute; do nhưng thường mang sắc th&aacute;i trang trọng v&agrave; &iacute;t trực tiếp chỉ kết quả h&agrave;nh động như \"<em>so</em>\".</p>",
+      "answerFeedbacks": {
+        "411562": "Liên từ <em>but</em> dùng để nối hai mệnh đề có ý nghĩa tương phản hoặc đối lập, điều này không phù hợp với ngữ cảnh trong câu.",
+        "411563": "Liên từ <em>or</em> dùng để đưa ra sự lựa chọn giữa hai khả năng, điều không được thể hiện trong câu này.",
+        "411564": "Liên từ <em>for</em> dùng để đưa ra lý do hoặc giải thích cho mệnh đề trước đó, nhưng <em>so</em> phù hợp hơn để chỉ kết quả trực tiếp của hành động.",
+        "411565": "Liên từ <em>so</em> dùng để chỉ kết quả của hành động hoặc sự việc được nêu ở mệnh đề trước, hoàn toàn phù hợp với ngữ cảnh Karen mệt nên đã về nhà nghỉ ngơi."
+      },
+      "images": []
+    },
+    {
+      "id": 61380,
+      "questionNumber": 8,
+      "questionName": "Question 2:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Hurry up _____ you will be late for school.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 164640,
+          "label": "A",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 164641,
+          "label": "B",
+          "text": "or",
+          "isCorrect": true
+        },
+        {
+          "id": 164642,
+          "label": "C",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "id": 164643,
+          "label": "D",
+          "text": "but",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 164641,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn li&ecirc;n từ ph&ugrave; hợp, bạn cần xem x&eacute;t mối quan hệ logic giữa hai mệnh đề. C&acirc;u đầu ti&ecirc;n l&agrave; một lời k&ecirc;u gọi h&agrave;nh động (<em>\"Hurry up\"</em>), v&agrave; c&acirc;u thứ hai l&agrave; một hậu quả c&oacute; thể xảy ra (<em>\"you will be late for school\"</em>).</p>\n<p>H&atilde;y nghĩ xem li&ecirc;n từ n&agrave;o thường được d&ugrave;ng để diễn đạt &yacute; <em>\"nếu kh&ocirc;ng... th&igrave;...\"</em> hoặc đưa ra một lựa chọn m&agrave; một trong số đ&oacute; l&agrave; hậu quả ti&ecirc;u cực.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"275\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2Br4t0vIX4R7NG58vq0%2FDP%2Fu4Q%2B6tMqRjSeSAaLVNd%2BcQYk7tAMuWyGTAUotxenhlSFaxGIz3uA6aLAq0r%2FNAJDsXATNhX%2BvfqrLBIB5wOcYwkNO4xytYWO9mDTd2d0UcPD5d5G7bDUlsISsl237VZJ7iZz%2FR6eJ7VKlPAffC03kmXPlcg4tLXK0JVxjYH%2FZ8CXkh%2B3qx2JtPNxpP7rCQK747J0Opazp6kPeYPZHNvx8wETEaauoDQBQjxyMhEKFKX%2BWZ0WLDHa%2BigM8E1dvoI5PUT35Aj7xXuPRWmtrlO4gTV2DyDtfgiKfsu9Atj8e8vXIjR1TCQeZk%2F7zgtgjHiyWWBZN4Gxecs%3D\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ kết hợp</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Li&ecirc;n từ kết hợp được sử dụng để nối c&aacute;c từ, cụm từ hoặc mệnh đề c&oacute; vai tr&ograve; ngữ ph&aacute;p tương đương, thường l&agrave; để diễn đạt mối quan hệ giữa c&aacute;c &yacute; tưởng.</p>\n<p style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Một số li&ecirc;n từ kết hợp:</span></strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">and:</span></strong> v&agrave; (th&ecirc;m th&ocirc;ng tin, kết nối c&aacute;c &yacute; tưởng tương đồng)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">but:</span></strong> nhưng (thể hiện sự đối lập, tương phản)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">or:</span></strong> hoặc (đưa ra lựa chọn, hoặc hậu quả nếu kh&ocirc;ng l&agrave;m điều g&igrave; đ&oacute;)</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">so:</span></strong> v&igrave; vậy (chỉ kết quả, hậu quả)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u tr&ecirc;n đưa ra một lời cảnh b&aacute;o về hậu quả ti&ecirc;u cực nếu h&agrave;nh động \"<em>Hurry up</em>\" kh&ocirc;ng được thực hiện. Li&ecirc;n từ <em>or</em> l&agrave; lựa chọn ph&ugrave; hợp nhất để diễn tả &yacute; \"nhanh l&ecirc;n, nếu kh&ocirc;ng bạn sẽ bị muộn học\".</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>so</em>\" d&ugrave;ng để chỉ kết quả hoặc hậu quả của một h&agrave;nh động đ&atilde; xảy ra, kh&ocirc;ng phải l&agrave; cảnh b&aacute;o về hậu quả nếu kh&ocirc;ng thực hiện h&agrave;nh động. Phương &aacute;n 3 \"<em>and</em>\" d&ugrave;ng để th&ecirc;m th&ocirc;ng tin hoặc nối c&aacute;c &yacute; tưởng tương đồng. Phương &aacute;n 4 \"<em>but</em>\" d&ugrave;ng để thể hiện sự đối lập hoặc tương phản giữa hai &yacute; tưởng, kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh.</p>",
+      "answerFeedbacks": {
+        "164640": "Sai vì <em>so</em> dùng để chỉ kết quả hoặc hậu quả của một hành động trước đó, không phải là cảnh báo về hậu quả nếu không thực hiện hành động.",
+        "164641": "Đúng vì <em>or</em> được dùng để cảnh báo về một hậu quả tiêu cực nếu hành động được đề cập trước đó không được thực hiện.",
+        "164642": "Sai vì <em>and</em> dùng để thêm thông tin hoặc nối các ý tưởng tương đồng, không phù hợp để diễn đạt một cảnh báo hoặc lựa chọn mang tính hậu quả.",
+        "164643": "Sai vì <em>but</em> dùng để thể hiện sự đối lập hoặc tương phản giữa hai ý tưởng, không phù hợp với ngữ cảnh cảnh báo này."
+      },
+      "images": []
+    },
+    {
+      "id": 177345,
+      "questionNumber": 9,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>The Spring Park Hotel is very near the motorway _____ it is convenient for drivers.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 406623,
+          "label": "A",
+          "text": "so",
+          "isCorrect": true
+        },
+        {
+          "id": 406624,
+          "label": "B",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 406625,
+          "label": "C",
+          "text": "but",
+          "isCorrect": false
+        },
+        {
+          "id": 487838,
+          "label": "D",
+          "text": "nor",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 406623,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y x&aacute;c định mối quan hệ ngữ nghĩa giữa hai mệnh đề \"The Spring Park Hotel is very near the motorway\" v&agrave; \"it is convenient for drivers\" l&agrave; g&igrave; (nguy&ecirc;n nh&acirc;n &ndash; kết quả, đối lập, bổ sung, hay lựa chọn). Sau đ&oacute;, chọn li&ecirc;n từ ph&ugrave; hợp nhất để diễn tả mối quan hệ đ&oacute;.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"275\" id=\"C51A3BAF\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18bzX9h8TOqXZ07JvB%2FDiDPCCiAqFdwZABdEHWxHWd4fCv9Z3WEwjQItvIjAXjjWP23BJbeLSGhkB5QIWsgy7hCjvoe15b5f4tOiYySgxed1GcdaOpOR5sqj46HjA2PpJrarSwpS4q6HAweNVhb2YH9TI53jfwGaBqrBIuEEuWh4sWS79Fs7D1adV4bhNy0HQZUcgf8uAcnS%2FHg5c5Unf6ERpcqGeL7crZ4BDUe%2BQ%2FcKDlAwBV5B1SGs4Z6ViaayCa4UjmLstlagnwGnJcNy%2Fsq9hg2TwQq%2FWlyNq3kt6voNiAgaGfUC82%2FPauiDi1Ei7OGEt%2BUAJWSZA%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ kết hợp</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Li&ecirc;n từ kết hợp d&ugrave;ng để nối hai từ, cụm từ, mệnh đề hoặc c&acirc;u c&oacute; vai tr&ograve; ngữ ph&aacute;p ngang nhau, thể hiện mối quan hệ ngữ nghĩa giữa ch&uacute;ng.</p>\n<p style=\"text-align: justify;\"><strong>Một số li&ecirc;n từ kết hợp:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>so:</strong> v&igrave; vậy, cho n&ecirc;n (chỉ kết quả hoặc hệ quả)</li>\n<li style=\"text-align: justify;\"><strong>for:</strong> bởi v&igrave; (chỉ l&yacute; do, nguy&ecirc;n nh&acirc;n, mang t&iacute;nh h&igrave;nh thức hơn \"because\")</li>\n<li style=\"text-align: justify;\"><strong>but:</strong> nhưng (chỉ sự đối lập, tương phản)</li>\n<li style=\"text-align: justify;\"><strong>nor:</strong> cũng kh&ocirc;ng (d&ugrave;ng với cấu tr&uacute;c phủ định, nối hai &yacute; phủ định)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, mệnh đề đầu ti&ecirc;n (<em>\"The Spring Park Hotel is very near the motorway\"</em>) l&agrave; nguy&ecirc;n nh&acirc;n dẫn đến kết quả l&agrave; mệnh đề thứ hai (<em>\"it is convenient for drivers\"</em>). Li&ecirc;n từ \"<em>so</em>\" l&agrave; lựa chọn ph&ugrave; hợp nhất v&igrave; n&oacute; d&ugrave;ng để diễn tả mối quan hệ nguy&ecirc;n nh&acirc;n &ndash; kết quả, c&oacute; nghĩa l&agrave; \"v&igrave; vậy\" hoặc \"cho n&ecirc;n\".</p>\n<p style=\"text-align: justify;\">C&aacute;c li&ecirc;n từ kh&aacute;c như \"<em>for</em>\" (chỉ l&yacute; do), \"<em>but</em>\" (chỉ sự tương phản) v&agrave; \"<em>nor</em>\" (nối c&aacute;c &yacute; phủ định) đều kh&ocirc;ng ph&ugrave; hợp với mối quan hệ ngữ nghĩa trong c&acirc;u n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "406623": "Liên từ \"so\" (vì vậy, cho nên) đúng để nối hai mệnh đề, trong đó mệnh đề sau là kết quả của mệnh đề trước.",
+        "406624": "Liên từ \"for\" (bởi vì) thường mang sắc thái trang trọng hơn và ít dùng để nối hai mệnh đề đơn giản như trong câu này, không phù hợp với ngữ cảnh.",
+        "406625": "Liên từ \"but\" (nhưng) dùng để chỉ sự đối lập, tương phản, không phù hợp với mối quan hệ nguyên nhân - kết quả trong câu.",
+        "487838": "Liên từ \"nor\" (cũng không) dùng để nối hai ý phủ định và thường đi sau một mệnh đề phủ định, không phù hợp với câu này."
+      },
+      "images": []
+    },
+    {
+      "id": 217093,
+      "questionNumber": 10,
+      "questionName": "nor",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The guests did not mind the delay, _____ did they complain about getting a different room.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 487857,
+          "label": "A",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "id": 487858,
+          "label": "B",
+          "text": "nor",
+          "isCorrect": true
+        },
+        {
+          "id": 487859,
+          "label": "C",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 487860,
+          "label": "D",
+          "text": "yet",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 487858,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để điền v&agrave;o chỗ trống, h&atilde;y ch&uacute; &yacute; đến mệnh đề đầu ti&ecirc;n l&agrave; phủ định (<em>did not mind</em>) v&agrave; mệnh đề sau đ&oacute; c&oacute; cấu tr&uacute;c đảo ngữ (<em>did they complain</em>). Bạn cần một li&ecirc;n từ kết hợp c&oacute; thể nối hai &yacute; phủ định v&agrave; y&ecirc;u cầu đảo ngữ ở mệnh đề thứ hai.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><b>Đảo ngữ với Nor</b></span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><b>C&aacute;ch d&ugrave;ng:</b> D&ugrave;ng để nối hai mệnh đề phủ định, trong đ&oacute; mệnh đề thứ hai mang &yacute; nghĩa \"cũng kh&ocirc;ng\" v&agrave; c&oacute; cấu tr&uacute;c đảo ngữ.</p>\n<p style=\"text-align: justify;\"><b>Cấu tr&uacute;c: <span style=\"color: #000000;\">Mệnh đề phủ định + Nor + Aux.V/Modal V. + S + V&nbsp;</span></b></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u gốc c&oacute; mệnh đề đầu ti&ecirc;n mang nghĩa phủ định <em>(\"did not mind\")</em> v&agrave; mệnh đề thứ hai cũng mang nghĩa phủ định, đồng thời sử dụng cấu tr&uacute;c đảo ngữ <em>(\"did they complain\")</em>. Do đ&oacute;, li&ecirc;n từ <em>\"nor\"</em> (phương &aacute;n 2) l&agrave; lựa chọn ph&ugrave; hợp nhất để nối hai &yacute; n&agrave;y, mang nghĩa \"cũng kh&ocirc;ng\".</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 <em>(\"and\")</em> d&ugrave;ng để bổ sung th&ocirc;ng tin hoặc nối c&aacute;c &yacute; tương đồng, kh&ocirc;ng ph&ugrave; hợp với cấu tr&uacute;c phủ định v&agrave; đảo ngữ sau đ&oacute;.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 3 <em>(\"so\")</em> d&ugrave;ng để chỉ kết quả hoặc nguy&ecirc;n nh&acirc;n, kh&ocirc;ng thể hiện &yacute; \"cũng kh&ocirc;ng\" v&agrave; kh&ocirc;ng đi k&egrave;m với cấu tr&uacute;c đảo ngữ.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 4 <em>(\"yet\")</em> d&ugrave;ng để chỉ sự tương phản, đối lập, kh&ocirc;ng ph&ugrave; hợp với việc bổ sung một &yacute; phủ định tương tự.</p>",
+      "answerFeedbacks": {
+        "487857": "Liên từ \"and\" dùng để bổ sung thông tin hoặc nối các ý tương đồng, không phù hợp với cấu trúc phủ định và đảo ngữ sau đó.",
+        "487858": "Liên từ \"nor\" được dùng để nối hai mệnh đề phủ định, với mệnh đề thứ hai có cấu trúc đảo ngữ (Aux.V + S + V), thể hiện ý \"cũng không\".",
+        "487859": "Liên từ \"so\" dùng để chỉ kết quả hoặc nguyên nhân, không phù hợp với ý nghĩa \"cũng không\" và cấu trúc đảo ngữ trong câu này.",
+        "487860": "Liên từ \"yet\" dùng để chỉ sự tương phản, đối lập, không phù hợp với ý nghĩa bổ sung sự phủ định và cấu trúc đảo ngữ."
+      },
+      "images": []
+    },
+    {
+      "id": 165138,
+      "questionNumber": 11,
+      "questionName": "22",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>He tried hard, _____ he couldn't win a gold medal at the European Championship.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 383348,
+          "label": "A",
+          "text": "because of",
+          "isCorrect": false
+        },
+        {
+          "id": 383349,
+          "label": "B",
+          "text": "however",
+          "isCorrect": false
+        },
+        {
+          "id": 383350,
+          "label": "C",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "id": 383351,
+          "label": "D",
+          "text": "but",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 383351,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến hai mệnh đề <em data-start=\"143\" data-end=\"160\">\"He tried hard\"</em> v&agrave; <em data-start=\"164\" data-end=\"225\">\"he couldn't win a gold medal at the European Championship\"</em>. H&atilde;y x&aacute;c định mối quan hệ &yacute; nghĩa giữa hai mệnh đề, rồi nhớ lại từ nối ph&ugrave; hợp để diễn tả quan hệ đ&oacute; v&agrave; đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n đ&uacute;ng.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Li&ecirc;n từ v&agrave; c&aacute;c từ nối</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c li&ecirc;n từ v&agrave; từ nối được sử dụng để kết nối c&aacute;c từ, cụm từ, mệnh đề hoặc c&acirc;u, gi&uacute;p thiết lập mối quan hệ ngữ nghĩa r&otilde; r&agrave;ng giữa c&aacute;c phần của c&acirc;u hoặc giữa c&aacute;c c&acirc;u với nhau, như mối quan hệ tương phản, bổ sung, nguy&ecirc;n nh&acirc;n-kết quả.</p>\n<p style=\"text-align: justify;\">Một số <strong>li&ecirc;n từ v&agrave; từ nối c&ugrave;ng cấu tr&uacute;c đi k&egrave;m:</strong></p>\n<ul>\n<li style=\"text-align: justify;\">S + V ..., <strong><span style=\"color: #1c581f;\">but</span></strong> S + V ...: nhưng</li>\n<li style=\"text-align: justify;\">S + V ..., <strong><span style=\"color: #1c581f;\">and</span></strong> S + V ...: v&agrave;</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">However</span></strong>, S + V ... hoặc S + V ...; <strong><span style=\"color: #1c581f;\">however</span></strong>, S + V ...: tuy nhi&ecirc;n</li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Because of</span></strong> + N/V-ing: bởi v&igrave;</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u c&oacute; hai mệnh đề độc lập: <em>\"He tried hard\"</em> (Anh ấy đ&atilde; cố gắng rất nhiều) v&agrave; <em>\"he couldn't win a gold medal at the European Championship\"</em> (anh ấy kh&ocirc;ng thể gi&agrave;nh huy chương v&agrave;ng tại Giải v&ocirc; địch ch&acirc;u &Acirc;u). Hai mệnh đề n&agrave;y diễn tả &yacute; nghĩa đối lập: cố gắng nhưng kh&ocirc;ng đạt được kết quả mong muốn. Do đ&oacute;, cần một từ nối c&oacute; chức năng li&ecirc;n kết hai mệnh đề độc lập v&agrave; diễn tả mối quan hệ tương phản. <em>\"But\"</em> l&agrave; li&ecirc;n từ kết hợp ph&ugrave; hợp nhất để thể hiện sự đối lập n&agrave;y.</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>because of</em>\" l&agrave; một cụm giới từ, cần theo sau bởi danh từ hoặc V-ing, kh&ocirc;ng thể d&ugrave;ng để nối hai mệnh đề độc lập.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 \"<em>however</em>\" l&agrave; một trạng từ li&ecirc;n kết, cũng d&ugrave;ng để thể hiện sự đối lập nhưng thường đ&ograve;i hỏi cấu tr&uacute;c dấu c&acirc;u kh&aacute;c (v&iacute; dụ: đứng sau dấu chấm phẩy hoặc dấu chấm v&agrave; theo sau bởi dấu phẩy).</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 \"<em>and</em>\" l&agrave; li&ecirc;n từ kết hợp d&ugrave;ng để bổ sung th&ocirc;ng tin hoặc nối c&aacute;c &yacute; tương đồng, kh&ocirc;ng ph&ugrave; hợp để diễn tả sự tương phản.</li>\n</ul>",
+      "answerFeedbacks": {
+        "383348": "Là cụm giới từ, cần theo sau bởi danh từ hoặc V-ing, không dùng để nối hai mệnh đề độc lập.",
+        "383349": "Là trạng từ liên kết, thể hiện sự đối lập nhưng thường đứng sau dấu chấm phẩy hoặc dấu chấm và theo sau bởi dấu phẩy (ví dụ: <em>\"...; however, he couldn't...\"</em> hoặc <em>\"...hard. However, he couldn't...\"</em>).",
+        "383350": "Là liên từ kết hợp dùng để bổ sung thông tin hoặc nối các ý tương đồng, không phù hợp để diễn tả sự tương phản.",
+        "383351": "Là liên từ kết hợp chính xác để nối hai mệnh đề độc lập và diễn tả mối quan hệ tương phản (cố gắng nhưng không thành công)."
+      },
+      "images": []
+    },
+    {
+      "id": 8902,
+      "questionNumber": 12,
+      "questionName": "Question 70.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Many hotels, bars, and restaurants also <u>sponsor</u> New Year’s Parties and <u>hand out</u> gift bags <u>that include</u> funny hats, streamers, candy, <span style=\"text-decoration: underline;\">so </span><u>balloons</u>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 27044,
+          "label": "A",
+          "text": "sponsor",
+          "isCorrect": false
+        },
+        {
+          "id": 27045,
+          "label": "B",
+          "text": "hand out",
+          "isCorrect": false
+        },
+        {
+          "id": 27046,
+          "label": "C",
+          "text": "that include",
+          "isCorrect": false
+        },
+        {
+          "id": 27047,
+          "label": "D",
+          "text": "so balloons",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 27047,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Động từ chính trong câu phải chia đúng thì và hòa hợp với chủ ngữ về số ít/số nhiều.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Các thành phần có chức năng ngữ pháp tương đương trong một cấu trúc song song cần có hình thái giống nhau.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Trong mệnh đề quan hệ, động từ phải hòa hợp với danh từ mà đại từ quan hệ thay thế về số ít/số nhiều.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Khi liệt kê nhiều hơn hai danh từ, cụm danh từ hoặc các thành phần tương đương, các thành phần này thường được nối với nhau bằng dấu phẩy và liên từ kết hợp chỉ sự bổ sung trước thành phần cuối cùng.</li>\n</ul>\n<p>Gợi ý: Đối chiếu từng quy tắc với câu gốc để xác định phần nào có vấn đề.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Liên từ kết hợp</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Liên từ kết hợp dùng để nối các từ, cụm từ hoặc mệnh đề có cùng chức năng ngữ pháp và tầm quan trọng trong câu, tạo sự mạch lạc và rõ ràng.</p>\n<p><strong>Một số liên từ kết hợp:</strong></p>\n<ul>\n<li><strong><span style=\"color: #1c581f;\">and:</span></strong> và (dùng để nối các yếu tố có cùng tính chất, bổ sung ý nghĩa cho nhau)</li>\n<li><strong><span style=\"color: #1c581f;\">or:</span></strong> hoặc (dùng để đưa ra lựa chọn)</li>\n<li><strong><span style=\"color: #1c581f;\">but:</span></strong> nhưng (dùng để nối các yếu tố có ý nghĩa đối lập)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, <em>\"funny hats, streamers, candy, so balloons\"</em> là một danh sách các vật phẩm được liệt kê. Để nối các mục trong danh sách này, đặc biệt là mục cuối cùng, cần sử dụng liên từ <em>\"and\"</em> để thể hiện sự bổ sung. Liên từ <em>\"so\"</em> không phù hợp trong ngữ cảnh này vì nó thường dùng để chỉ kết quả hoặc mục đích.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<strong>so balloons</strong>\" =&gt; \"<strong>and balloons</strong>\"</p>",
+      "answerFeedbacks": {
+        "27044": "Động từ <em>\"sponsor\"</em> được chia đúng thì hiện tại đơn và phù hợp với chủ ngữ số nhiều <em>\"hotels, bars, and restaurants\"</em>.",
+        "27045": "Cụm động từ <em>\"hand out\"</em> (phát, phân phát) được sử dụng đúng ngữ pháp và ngữ cảnh, song song với <em>\"sponsor\"</em>.",
+        "27046": "Mệnh đề quan hệ <em>\"that include funny hats, streamers, candy, so balloons\"</em> bổ nghĩa cho <em>\"gift bags\"</em>, và động từ <em>\"include\"</em> chia đúng theo chủ ngữ số nhiều <em>\"that\"</em> (thay thế cho <em>\"gift bags\"</em>).",
+        "27047": "Liên từ <em>\"so\"</em> không phù hợp để nối các danh từ trong một danh sách liệt kê; cần thay bằng liên từ <em>\"and\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 16946,
+      "questionNumber": 13,
+      "questionName": "IV.5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Choose the underlined part that needs correction.</span></em></p>\n<p><strong>She's <span style=\"text-decoration: underline;\">fluent in</span> both English <span style=\"text-decoration: underline;\">and</span> French, <span style=\"text-decoration: underline;\">so</span> her Vietnamese <span style=\"text-decoration: underline;\">is rusty</span> even though her parents are Vietnamese.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 55748,
+          "label": "A",
+          "text": "fluent in",
+          "isCorrect": false
+        },
+        {
+          "id": 55749,
+          "label": "B",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "id": 55750,
+          "label": "C",
+          "text": "so",
+          "isCorrect": true
+        },
+        {
+          "id": 55751,
+          "label": "D",
+          "text": "is rusty",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 55750,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Cụm <em>\"fluent in\"</em> có diễn đạt đúng về việc thành thạo một ngôn ngữ không?</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Liên từ <em>\"and\"</em> có phù hợp để nối hai danh từ trong ngữ cảnh này không?</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Mối quan hệ logic giữa hai mệnh đề được nối bởi <em>\"so\"</em> là nguyên nhân-kết quả hay đối lập/bổ sung?</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Cụm từ <em>\"is rusty\"</em> có chính xác khi miêu tả trình độ ngôn ngữ bị mai một không?</li>\n</ul>\n<p>Trả lời từng câu hỏi trên để xác định phần nào trong câu cần được sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Liên từ kết hợp biểu thị quan hệ đối lập hoặc kết quả.</span></p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Liên từ kết hợp dùng để nối các từ, cụm từ hoặc mệnh đề độc lập có vai trò ngữ pháp tương đương. Chúng thể hiện mối quan hệ logic như bổ sung, lựa chọn, đối lập, nguyên nhân-kết quả.</p>\n<p style=\"text-align: justify;\"><strong>Một số liên từ kết hợp:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">and:</span></strong> và (bổ sung thông tin)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">but:</span></strong> nhưng (biểu thị sự đối lập, tương phản)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">so:</span></strong> vì vậy, do đó (biểu thị kết quả, hệ quả)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">yet:</span></strong> tuy nhiên, nhưng (biểu thị sự đối lập, tương phản, thường bất ngờ)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Câu sử dụng liên từ <em>\"so\"</em> (vì vậy) ngụ ý rằng ''<em>She's fluent in both English and French</em>'' là nguyên nhân trực tiếp khiến ''<em>her Vietnamese is rusty</em>''. Tuy nhiên, mối quan hệ logic phù hợp hơn ở đây là sự đối lập hoặc một yếu tố góp phần, không phải nguyên nhân-kết quả trực tiếp, đặc biệt khi có cụm <em>\"even though her parents are Vietnamese\"</em>. Do đó, cần thay thế <em>\"so\"</em> bằng một liên từ biểu thị sự đối lập như <em>\"but\"</em> hoặc <em>\"yet\"</em>.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>so</strong></em>\" =&gt; \"<em><strong>but</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "55748": "Cụm tính từ <em>\"fluent in\"</em> (thành thạo về cái gì) được dùng đúng ngữ pháp và ngữ cảnh.",
+        "55749": "Liên từ <em>\"and\"</em> được dùng đúng để nối hai danh từ tương đương <em>\"English\"</em> và <em>\"French\"</em>.",
+        "55750": "Liên từ <em>\"so\"</em> biểu thị kết quả không phù hợp với ngữ cảnh, vì sự thành thạo tiếng Anh và tiếng Pháp không phải là nguyên nhân trực tiếp dẫn đến việc tiếng Việt bị mai một, mà là một sự đối lập hoặc một yếu tố góp phần.",
+        "55751": "Cụm động từ <em>\"is rusty\"</em> được dùng đúng để diễn tả việc tiếng Việt bị mai một, không còn lưu loát."
+      },
+      "images": []
+    },
+    {
+      "id": 748016,
+      "questionNumber": 14,
+      "questionName": "because/so",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence, using the word given so that it has a similar meaning to the first sentence. You must use between TWO and FIVE words, including the word given. Do not change the word given.</em></p>\n<p><strong>We decided to order pizza because all of us didn't want to cook. (SO)</strong></p>\n<p><strong>=&gt; No one <span class='fillblank-option'><input id='fbo-748016-0' class='ms fillblank-option-14' index='0' name='fbo-748016-0' type='text' size='22' autocomplete='off' data-testid='fillblank-input-748016-0' /></span> decided to order pizza.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "wanted to cook, so we",
+            "wanted to cook so we"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>because + clause</strong>: bởi v&igrave;</p>\n<p><strong>so + clause</strong>: v&igrave; thế, do đ&oacute;</p>\n<p>Đại từ \"<strong>no one</strong>\" đ&atilde; mang &yacute; phủ định n&ecirc;n động từ \"<strong>want</strong>\" sẽ ở dạng khẳng định.</p>\n<p>Dịch: Ch&uacute;ng t&ocirc;i quyết định gọi pizza v&igrave; tất cả ch&uacute;ng t&ocirc;i đều kh&ocirc;ng muốn nấu ăn.</p>\n<p>~ Kh&ocirc;ng ai muốn nấu ăn n&ecirc;n ch&uacute;ng t&ocirc;i quyết định gọi pizza.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 69564,
+      "questionNumber": 15,
+      "questionName": "Question 1",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Complete the second sentence, using the word given so that it has a similar meaning to the first sentence. Do NOT change the word given in brackets in any way.</em></p>\n<p><strong>Nam has to finish his homework although he is very tired. (BUT)</strong></p>\n<p><strong>=&gt; Nam is very tired, <span class='fillblank-option'><input id='fbo-69564-0' class='ms fillblank-option-15' index='0' name='fbo-69564-0' type='text' size='24' autocomplete='off' data-testid='fillblank-input-69564-0' /></span>&nbsp;his homework.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "but he has to finish",
+            "but Nam has to finish"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>but + clause</strong>: nhưng</p>\n<p>Dịch:&nbsp;Nam phải ho&agrave;n th&agrave;nh b&agrave;i tập về nh&agrave; mặc d&ugrave; anh ấy rất mệt.</p>\n<p>~ Nam rất mệt nhưng anh ấy phải l&agrave;m xong b&agrave;i tập về nh&agrave;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 184036,
+      "questionNumber": 16,
+      "questionName": "6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Unless you pay him the money back, he will sue you.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 421654,
+          "label": "A",
+          "text": "You should pay him the money back or he will sue you.",
+          "isCorrect": true
+        },
+        {
+          "id": 421655,
+          "label": "B",
+          "text": "You should either pay him the money back or he will sue you.",
+          "isCorrect": false
+        },
+        {
+          "id": 421656,
+          "label": "C",
+          "text": "He will not sue you if you receive the money.",
+          "isCorrect": false
+        },
+        {
+          "id": 421657,
+          "label": "D",
+          "text": "If you don't pay him the money back, he would sue you.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 421654,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>or </strong>(conj.): nếu kh&ocirc;ng th&igrave; (n&oacute;i về điều g&igrave; đ&oacute; tồi tệ c&oacute; thể xảy ra nếu ai đ&oacute; kh&ocirc;ng l&agrave;m điều g&igrave;)</p>\n<p>C&acirc;u điều kiện loại 1 diễn tả điều kiện c&oacute; thể xảy ra ở hiện tại hoặc tương lai.</p>\n<p>Cấu tr&uacute;c: <strong>If + S + V(s/es), S + will/can/may... + V(inf)</strong>: Nếu kh&ocirc;ng</p>\n<p>Unless ~ If not: trừ khi, nếu kh&ocirc;ng</p>\n<p>either ... or ...: hoặc ... hoặc ...</p>\n<p>Dịch: Nếu bạn kh&ocirc;ng trả lại tiền cho anh ta th&igrave; anh ta sẽ kiện bạn.</p>\n<p>~ Bạn n&ecirc;n trả lại tiền cho anh ta hoặc anh ta sẽ kiện bạn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 137121,
+      "questionNumber": 17,
+      "questionName": "Question 178",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines this pair of sentences.</em></p>\n<p><strong>All possible means have been used to prevent air pollution. The sky is still not clear. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 321905,
+          "label": "A",
+          "text": "Every possible means has been used to prevent air pollution so that the sky can be clearer.",
+          "isCorrect": false
+        },
+        {
+          "id": 321906,
+          "label": "B",
+          "text": "The sky is still not clear due to the fact that all possible means have been used to prevent air pollution.",
+          "isCorrect": false
+        },
+        {
+          "id": 321907,
+          "label": "C",
+          "text": "To prevent air pollution, every possible means has been used, and so the sky is still not clear.",
+          "isCorrect": false
+        },
+        {
+          "id": 321908,
+          "label": "D",
+          "text": "Every possible means has been used to prevent air pollution, yet the sky is still not clear.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 321908,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>yet </strong>(conj.): nhưng, ấy vậy m&agrave; (được d&ugrave;ng để thể hiện &yacute; tương phản giữa hai mệnh đề)</p>\n<p>so that: để m&agrave;</p>\n<p>due to: do, v&igrave;</p>\n<p>so + clause: v&igrave; vậy, vậy n&ecirc;n</p>\n<p>Dịch: Tất cả c&aacute;c phương ph&aacute;p khả thi đều đ&atilde; được &aacute;p dụng để ngăn ngừa &ocirc; nhiễm kh&ocirc;ng kh&iacute;. Bầu trời vẫn chưa trong l&agrave;nh.</p>\n<p>~ Mọi phương ph&aacute;p khả thi đều đ&atilde; được &aacute;p dụng để ngăn ngừa &ocirc; nhiễm kh&ocirc;ng kh&iacute;, nhưng bầu trời vẫn chưa trong l&agrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 4638,
+      "questionNumber": 18,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines this pair of sentences.</em></p>\n<p><strong>Many Vietnamese women are successful in their careers. They are excellent&nbsp;homemakers.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 10904,
+          "label": "A",
+          "text": "Many Vietnamese women are successful in their careers, and they are excellent homemakers.",
+          "isCorrect": true
+        },
+        {
+          "id": 10905,
+          "label": "B",
+          "text": "Many Vietnamese women are successful in their careers, for they are excellent homemakers.",
+          "isCorrect": false
+        },
+        {
+          "id": 10906,
+          "label": "C",
+          "text": "Many Vietnamese women are successful in their careers, so they are excellent homemakers.",
+          "isCorrect": false
+        },
+        {
+          "id": 10907,
+          "label": "D",
+          "text": "Many Vietnamese women are successful in their careers, or they are excellent homemakers.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 10904,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>and + clause</strong>: v&agrave; (để kết hợp hai &yacute; bổ sung nghĩa cho nhau)</p>\n<p>for + clause: bởi v&igrave;&nbsp;</p>\n<p>so + clause: vậy n&ecirc;n, v&igrave; vậy&nbsp;</p>\n<p>or + clause: hoặc</p>\n<p>Dịch: Nhiều phụ nữ Việt Nam th&agrave;nh c&ocirc;ng trong sự nghiệp. Họ l&agrave; những người nội trợ xuất sắc.</p>\n<p>~ Nhiều phụ nữ Việt Nam th&agrave;nh c&ocirc;ng trong sự nghiệp, v&agrave; họ l&agrave; người nội trợ giỏi giang.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 132174,
+      "questionNumber": 19,
+      "questionName": "Question 3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that best combines this pair of sentences.</em></p>\n<p><strong>The history of the United States is not long. It is interesting.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 310979,
+          "label": "A",
+          "text": "The history of the United States is too long to be interesting.",
+          "isCorrect": false
+        },
+        {
+          "id": 310980,
+          "label": "B",
+          "text": "The history of the United States is not long enough to be interesting.",
+          "isCorrect": false
+        },
+        {
+          "id": 310981,
+          "label": "C",
+          "text": "The history of the United States is interesting whereas not long.",
+          "isCorrect": false
+        },
+        {
+          "id": 310982,
+          "label": "D",
+          "text": "The history of the United States is not long but interesting.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 310982,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><strong>but </strong>(conj.): nhưng (được d&ugrave;ng để diễn tả sự đối lập, ngược nghĩa)</p>\n<p>whereas + S + V: trong khi ...</p>\n<p>S + be + too + adj. + (for sb) + to + V: qu&aacute;... đến nỗi kh&ocirc;ng thể l&agrave;m g&igrave;</p>\n<p>S + be + adj. + enough + (for sb) + to + V: đủ... để l&agrave;m g&igrave;</p>\n<p><span style=\"font-weight: 400;\">Dịch: Lịch sử nước Mỹ kh&ocirc;ng d&agrave;i. N&oacute; th&uacute; vị.</span></p>\n<p><span style=\"font-weight: 400;\">~ Lịch sử nước Mỹ kh&ocirc;ng d&agrave;i nhưng th&uacute; vị.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 286114,
+      "questionNumber": 20,
+      "questionName": "SBT 7-U2-B-7",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Complete the sentences by using an appropriate coordinating conjunction.&nbsp;</strong></p>\n<p class=\"BodyText29\" style=\"text-align: justify;\" align=\"left\"><span class=\"Bodytext85pt\">1. This afternoon you can go swimming <span class='fillblank-option'><label>20.1</label><input id='fbo-286114-0' class='ms fillblank-option-20' index='0' name='fbo-286114-0' type='text' size='4' autocomplete='off' data-testid='fillblank-input-286114-0' /></span> you can ride on the path through the forest.</span></p>\n<p class=\"BodyText29\" style=\"text-align: justify;\" align=\"left\">2.&nbsp;<span class=\"Bodytext85pt\">The Asian diet is low in calories, <span class='fillblank-option'><label>20.2</label><input id='fbo-286114-1' class='ms fillblank-option-20' index='1' name='fbo-286114-1' type='text' size='5' autocomplete='off' data-testid='fillblank-input-286114-1' /></span> the Western diet is high in calories.</span></p>\n<p class=\"BodyText29\" style=\"text-align: justify;\" align=\"left\">3. <span class=\"Bodytext85pt\">My town has a small population with little traffic <span class='fillblank-option'><label>20.3</label><input id='fbo-286114-2' class='ms fillblank-option-20' index='2' name='fbo-286114-2' type='text' size='6' autocomplete='off' data-testid='fillblank-input-286114-2' /></span> a lot of trees, so it is quiet and peaceful.</span></p>\n<p class=\"BodyText29\" style=\"text-align: justify;\" align=\"left\">4. <span class=\"Bodytext85pt\">To prevent flu, we should eat a lot of garlic <span class='fillblank-option'><label>20.4</label><input id='fbo-286114-3' class='ms fillblank-option-20' index='3' name='fbo-286114-3' type='text' size='7' autocomplete='off' data-testid='fillblank-input-286114-3' /></span> keep our bodies, especially our feet, warm.</span></p>\n<p class=\"BodyText29\" style=\"text-align: justify;\" align=\"left\">5. <span class=\"Bodytext85pt\">People in the countryside have less stress, <span class='fillblank-option'><label>20.5</label><input id='fbo-286114-4' class='ms fillblank-option-20' index='4' name='fbo-286114-4' type='text' size='5' autocomplete='off' data-testid='fillblank-input-286114-4' /></span> they usually live longer.</span></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "or",
+            "and"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "but",
+            "yet"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "and"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "and"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "so"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p class=\"BodyText29\" align=\"left\"><span class=\"Bodytext85pt\">1. <strong>or </strong>(conj.): hoặc</span></p>\n<p class=\"BodyText29\" align=\"left\"><span class=\"Bodytext85pt\"><strong>and </strong>(conj.): v&agrave;</span></p>\n<p>Dịch: Chiều nay bạn c&oacute; thể đi bơi hoặc/v&agrave; bạn c&oacute; thể đạp xe tr&ecirc;n con đường xuy&ecirc;n qua rừng.</p>\n<p class=\"BodyText29\" align=\"left\">2. <strong>but</strong> (conj.) ~ <strong>yet</strong> (conj.): nhưng</p>\n<p>Dịch: Chế độ ăn của người ch&acirc;u &Aacute; &iacute;t calo, nhưng chế độ ăn của người ch&acirc;u &Acirc;u lại nhiều calo.</p>\n<p class=\"BodyText29\" align=\"left\">3. <strong>and </strong>(conj.): v&agrave;</p>\n<p>Dịch: Thị trấn c&oacute; d&acirc;n số &iacute;t với &iacute;t xe cộ v&agrave; nhiều c&acirc;y, v&igrave; vậy n&oacute; y&ecirc;n tĩnh v&agrave; y&ecirc;n b&igrave;nh.</p>\n<p class=\"BodyText29\" align=\"left\">4. <strong>and </strong>(conj.): v&agrave;</p>\n<p>Dịch: Để ngừa cảm c&uacute;m, ch&uacute;ng ta n&ecirc;n ăn nhiều tỏi v&agrave; giữ ấm cơ thể, đặc biệt l&agrave; ch&acirc;n.</p>\n<p class=\"BodyText29\" align=\"left\">5. <strong>so </strong>(conj.): v&igrave; thế</p>\n<p>Dịch: Người ở miền qu&ecirc; &iacute;t căng thẳng hơn, v&igrave; thế họ thường sống thọ hơn.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 582599,
+      "questionNumber": 21,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Complete the sentences.</strong></p>\n<p>1. Anna could get the job easily, <span class='fillblank-option'><label>21.1</label><input id='fbo-582599-0' class='ms fillblank-option-21' index='0' name='fbo-582599-0' type='text' size='7' autocomplete='off' data-testid='fillblank-input-582599-0' /></span> she was the only applicant for that position in the company.</p>\n<p>2. My classmate didn&#8217;t study for the test, <span class='fillblank-option'><label>21.2</label><input id='fbo-582599-1' class='ms fillblank-option-21' index='1' name='fbo-582599-1' type='text' size='6' autocomplete='off' data-testid='fillblank-input-582599-1' /></span> she still passed.</p>\n<p>3. Nobody expected Sam to get the job, <span class='fillblank-option'><label>21.3</label><input id='fbo-582599-2' class='ms fillblank-option-21' index='2' name='fbo-582599-2' type='text' size='6' autocomplete='off' data-testid='fillblank-input-582599-2' /></span> did I.</p>\n<p>4. She ate breakfast, <span class='fillblank-option'><label>21.4</label><input id='fbo-582599-3' class='ms fillblank-option-21' index='3' name='fbo-582599-3' type='text' size='7' autocomplete='off' data-testid='fillblank-input-582599-3' /></span> she packed her lunch before leaving for work.</p>\n<p>5. Can you help me carry these books, <span class='fillblank-option'><label>21.5</label><input id='fbo-582599-4' class='ms fillblank-option-21' index='4' name='fbo-582599-4' type='text' size='4' autocomplete='off' data-testid='fillblank-input-582599-4' /></span> are you busy right now?</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1738657,
+          "label": "A",
+          "text": "yet",
+          "isCorrect": false
+        },
+        {
+          "id": 1738656,
+          "label": "B",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "id": 1738659,
+          "label": "C",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "id": 1738658,
+          "label": "D",
+          "text": "nor",
+          "isCorrect": false
+        },
+        {
+          "id": 1738660,
+          "label": "E",
+          "text": "or",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "for"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "yet"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "nor"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "and"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "or"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>1. <strong>for </strong>(conj.): v&igrave;</p>\n<p>Dịch: Anna c&oacute; thể dễ d&agrave;ng nhận được c&ocirc;ng việc đ&oacute; v&igrave; c&ocirc; ấy l&agrave; ứng vi&ecirc;n duy nhất cho vị tr&iacute; đ&oacute; trong c&ocirc;ng ty.</p>\n<p>2. <strong>yet </strong>(conj.): nhưng</p>\n<p>Dịch: Bạn c&ugrave;ng lớp của t&ocirc;i đ&atilde; kh&ocirc;ng &ocirc;n thi nhưng c&ocirc; ấy vẫn đỗ.</p>\n<p>3. <strong>nor</strong> (conj.): cũng kh&ocirc;ng</p>\n<p>Dịch: Kh&ocirc;ng ai nghĩ Sam sẽ nhận được c&ocirc;ng việc đ&oacute;, t&ocirc;i cũng kh&ocirc;ng (nghĩ).</p>\n<p>4. <strong>and</strong> (conj.): v&agrave;</p>\n<p>Dịch: C&ocirc; ấy ăn s&aacute;ng v&agrave; sắp xếp đồ ăn trưa trước khi đi l&agrave;m.</p>\n<p>5. <strong>or </strong>(conj.): hoặc, hay</p>\n<p>Dịch: Bạn c&oacute; thể gi&uacute;p t&ocirc;i cầm những cuốn s&aacute;ch n&agrave;y kh&ocirc;ng, hay giờ bạn đang bận rồi?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "topicName": "Tìm lỗi sai (Error Identification)",
+  "englishName": "Error Identification",
+  "detail": "\n      <div class=\"theory-section space-y-4\">\n        <p class=\"font-medium text-slate-800\">Bài tập tìm phần gạch chân có lỗi sai ngữ pháp hoặc dùng từ (A, B, C, D).</p>\n        <h4 class=\"text-base font-bold text-emerald-800 border-b border-emerald-100 pb-1 mt-3\">Các điểm ngữ pháp thường bị cài bẫy lỗi sai:</h4>\n        <ul class=\"list-disc pl-5 space-y-1.5 text-slate-700\">\n          <li><strong>Hòa hợp Chủ ngữ - Động từ (Subject-Verb Agreement):</strong> Chủ ngữ số ít đi với động từ số ít; chủ ngữ có <em>as well as, along with, together with</em> chia theo chủ ngữ đầu tiên.</li>\n          <li><strong>Cấu trúc song song (Parallel Structure):</strong> Các từ nối bởi <em>and, but, or</em> phải cùng dạng ngữ pháp (V-ing and V-ing, adj and adj).</li>\n          <li><strong>Dùng sai từ loại hoặc từ dễ gây nhầm lẫn:</strong> <em>affect (V) vs effect (N)</em>, <em>economic vs economical</em>, <em>hard vs hardly</em>.</li>\n          <li><strong>Câu điều kiện, câu ước, câu bị động:</strong> Sai dạng chia động từ theo thì.</li>\n        </ul>\n      </div>\n    ",
+  "rules": [
+    {
+      "sound": "S-V Agreement",
+      "rule": "Xác định rõ chủ ngữ chính để chia động từ số ít hay số nhiều",
+      "examples": "The number of students IS increasing (NOT are)"
+    },
+    {
+      "sound": "Parallel",
+      "rule": "Cấu trúc đồng đẳng qua 'and/or' phải cùng từ loại và thì",
+      "examples": "She likes singing, dancing and reading (NOT to read)"
+    }
+  ]
+}

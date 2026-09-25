@@ -1,0 +1,452 @@
+[
+  {
+    "id": "91_1",
+    "questionName": "Question 1",
+    "questionText": "<p>The local government is trying to find a sustainable ________ to the severe air pollution problem.</p>",
+    "choices": [
+      {
+        "id": "91_1_2",
+        "text": "solve",
+        "html": "solve"
+      },
+      {
+        "id": "91_1_3",
+        "text": "solvable",
+        "html": "solvable"
+      },
+      {
+        "id": "91_1_1",
+        "text": "solution",
+        "html": "solution"
+      },
+      {
+        "id": "91_1_4",
+        "text": "solving",
+        "html": "solving"
+      }
+    ],
+    "correctChoiceId": "91_1_1",
+    "explanation": "<p>Đứng sau mạo từ \"a\" và tính từ \"sustainable\" (bền vững), vị trí này cần một <strong>danh từ</strong> số ít: <strong>solution</strong> (giải pháp).</p><ul><li><strong>solution</strong> (n): giải pháp</li><li><strong>solve</strong> (v): giải quyết</li><li><strong>solvable</strong> (adj): có thể giải quyết</li><li><strong>solving</strong> (gerund): việc giải quyết</li></ul>",
+    "ruleTip": "Vị trí của Danh từ: Đứng sau tính từ (Adj + Noun) hoặc sau mạo từ (a/an/the + Adj + Noun)."
+  },
+  {
+    "id": "91_2",
+    "questionName": "Question 2",
+    "questionText": "<p>Be ________ when crossing the busy crossroads during rush hour!</p>",
+    "choices": [
+      {
+        "id": "91_2_2",
+        "text": "care",
+        "html": "care"
+      },
+      {
+        "id": "91_2_3",
+        "text": "carefully",
+        "html": "carefully"
+      },
+      {
+        "id": "91_2_4",
+        "text": "careless",
+        "html": "careless"
+      },
+      {
+        "id": "91_2_1",
+        "text": "careful",
+        "html": "careful"
+      }
+    ],
+    "correctChoiceId": "91_2_1",
+    "explanation": "<p>Đứng sau động từ to be liên kết \"Be\", vị trí này cần một <strong>tính từ</strong> mang nghĩa tích cực: <strong>careful</strong> (cẩn thận).</p><ul><li><strong>careful</strong> (adj): cẩn thận</li><li><strong>care</strong> (n/v): chăm sóc</li><li><strong>carefully</strong> (adv): một cách cẩn thận</li><li><strong>careless</strong> (adj): bất cẩn</li></ul>",
+    "ruleTip": "Sau động từ to be / linking verbs (look, feel, become) ta dùng Tính từ (Adj)."
+  },
+  {
+    "id": "91_3",
+    "questionName": "Question 3",
+    "questionText": "<p>The students listened ________ to the teacher's instructions before starting the examination.</p>",
+    "choices": [
+      {
+        "id": "91_3_2",
+        "text": "attentive",
+        "html": "attentive"
+      },
+      {
+        "id": "91_3_1",
+        "text": "attentively",
+        "html": "attentively"
+      },
+      {
+        "id": "91_3_3",
+        "text": "attention",
+        "html": "attention"
+      },
+      {
+        "id": "91_3_4",
+        "text": "attentiveness",
+        "html": "attentiveness"
+      }
+    ],
+    "correctChoiceId": "91_3_1",
+    "explanation": "<p>Bổ nghĩa cho động từ thường \"listened\", vị trí này cần một <strong>trạng từ</strong> chỉ cách thức: <strong>attentively</strong> (một cách chăm chú).</p><ul><li><strong>attentively</strong> (adv): một cách chăm chú</li><li><strong>attentive</strong> (adj): chăm chú</li><li><strong>attention</strong> (n): sự chú ý</li></ul>",
+    "ruleTip": "Bổ nghĩa cho động từ thường (V + Adv / Adv + V) ta dùng Trạng từ chỉ thể cách (Adj + -ly)."
+  },
+  {
+    "id": "91_4",
+    "questionName": "Question 4",
+    "questionText": "<p>It is strictly forbidden and ________ to ride a motorbike without a helmet.</p>",
+    "choices": [
+      {
+        "id": "91_4_2",
+        "text": "safely",
+        "html": "safely"
+      },
+      {
+        "id": "91_4_1",
+        "text": "unsafe",
+        "html": "unsafe"
+      },
+      {
+        "id": "91_4_3",
+        "text": "safety",
+        "html": "safety"
+      },
+      {
+        "id": "91_4_4",
+        "text": "safe",
+        "html": "safe"
+      }
+    ],
+    "correctChoiceId": "91_4_1",
+    "explanation": "<p>Cấu trúc song hành với \"forbidden\" (bị cấm) nối bởi \"and\", đi sau \"It is\": cần <strong>tính từ</strong> mang nghĩa tiêu cực không an toàn: <strong>unsafe</strong>.</p>",
+    "ruleTip": "Tiền tố 'un-' mang nghĩa phủ định (safe -> unsafe: không an toàn)."
+  },
+  {
+    "id": "91_5",
+    "questionName": "Question 5",
+    "questionText": "<p>Passionate ________ are actively campaigning to protect the endangered Cat Ba langur.</p>",
+    "choices": [
+      {
+        "id": "91_5_1",
+        "text": "environmentalists",
+        "html": "environmentalists"
+      },
+      {
+        "id": "91_5_2",
+        "text": "environmental",
+        "html": "environmental"
+      },
+      {
+        "id": "91_5_3",
+        "text": "environment",
+        "html": "environment"
+      },
+      {
+        "id": "91_5_4",
+        "text": "environmentally",
+        "html": "environmentally"
+      }
+    ],
+    "correctChoiceId": "91_5_1",
+    "explanation": "<p>Làm chủ ngữ đi trước động từ số nhiều \"are campaigning\", sau tính từ \"Passionate\": cần <strong>danh từ chỉ người số nhiều</strong>: <strong>environmentalists</strong> (nhà bảo vệ môi trường).</p>",
+    "ruleTip": "Hậu tố '-ist' tạo danh từ chỉ người (environment -> environmentalist)."
+  },
+  {
+    "id": "91_6",
+    "questionName": "Question 6",
+    "questionText": "<p>Reading English books and news regularly will certainly ________ your vocabulary.</p>",
+    "choices": [
+      {
+        "id": "91_6_2",
+        "text": "rich",
+        "html": "rich"
+      },
+      {
+        "id": "91_6_3",
+        "text": "richly",
+        "html": "richly"
+      },
+      {
+        "id": "91_6_4",
+        "text": "richness",
+        "html": "richness"
+      },
+      {
+        "id": "91_6_1",
+        "text": "enrich",
+        "html": "enrich"
+      }
+    ],
+    "correctChoiceId": "91_6_1",
+    "explanation": "<p>Đứng sau trợ động từ khuyết thiếu \"will certainly\", vị trí này cần một <strong>động từ nguyên mẫu</strong>: <strong>enrich</strong> (làm giàu thêm, làm phong phú).</p>",
+    "ruleTip": "Tiền tố 'en-' kết hợp với tính từ để tạo thành động từ (rich -> enrich, large -> enlarge)."
+  },
+  {
+    "id": "91_7",
+    "questionName": "Question 7",
+    "questionText": "<p>Please put all ________ plastic bottles and cans into the green recycling bin.</p>",
+    "choices": [
+      {
+        "id": "91_7_2",
+        "text": "recycle",
+        "html": "recycle"
+      },
+      {
+        "id": "91_7_3",
+        "text": "recycling",
+        "html": "recycling"
+      },
+      {
+        "id": "91_7_4",
+        "text": "recycler",
+        "html": "recycler"
+      },
+      {
+        "id": "91_7_1",
+        "text": "recyclable",
+        "html": "recyclable"
+      }
+    ],
+    "correctChoiceId": "91_7_1",
+    "explanation": "<p>Đứng trước cụm danh từ \"plastic bottles and cans\": cần một <strong>tính từ</strong> mang nghĩa có thể tái chế: <strong>recyclable</strong>.</p>",
+    "ruleTip": "Hậu tố '-able' tạo tính từ mang nghĩa 'có thể làm được' (recycle -> recyclable)."
+  },
+  {
+    "id": "91_8",
+    "questionName": "Question 8",
+    "questionText": "<p>I strongly ________ with his opinion because his argument lacks scientific evidence.</p>",
+    "choices": [
+      {
+        "id": "91_8_1",
+        "text": "disagree",
+        "html": "disagree"
+      },
+      {
+        "id": "91_8_2",
+        "text": "agree",
+        "html": "agree"
+      },
+      {
+        "id": "91_8_3",
+        "text": "agreement",
+        "html": "agreement"
+      },
+      {
+        "id": "91_8_4",
+        "text": "agreeable",
+        "html": "agreeable"
+      }
+    ],
+    "correctChoiceId": "91_8_1",
+    "explanation": "<p>Ngữ cảnh vì lý lẽ thiếu bằng chứng khoa học nên chủ ngữ 'I' không đồng ý: cần <strong>động từ phủ định</strong>: <strong>disagree</strong>.</p>",
+    "ruleTip": "Tiền tố 'dis-' mang nghĩa trái ngược, phủ định (agree -> disagree: không đồng ý)."
+  },
+  {
+    "id": "91_9",
+    "questionName": "Question 9",
+    "questionText": "<p>There has been a remarkable ________ in his English test scores over the past three months.</p>",
+    "choices": [
+      {
+        "id": "91_9_2",
+        "text": "improve",
+        "html": "improve"
+      },
+      {
+        "id": "91_9_3",
+        "text": "improving",
+        "html": "improving"
+      },
+      {
+        "id": "91_9_1",
+        "text": "improvement",
+        "html": "improvement"
+      },
+      {
+        "id": "91_9_4",
+        "text": "improvable",
+        "html": "improvable"
+      }
+    ],
+    "correctChoiceId": "91_9_1",
+    "explanation": "<p>Đứng sau tính từ \"remarkable\" (đáng kể) và mạo từ \"a\": cần <strong>danh từ</strong>: <strong>improvement</strong> (sự tiến bộ).</p>",
+    "ruleTip": "Hậu tố '-ment' tạo danh từ từ động từ (improve -> improvement, develop -> development)."
+  },
+  {
+    "id": "91_10",
+    "questionName": "Question 10",
+    "questionText": "<p>She has always been deeply ________ in learning about Vietnamese traditional pottery.</p>",
+    "choices": [
+      {
+        "id": "91_10_2",
+        "text": "interesting",
+        "html": "interesting"
+      },
+      {
+        "id": "91_10_1",
+        "text": "interested",
+        "html": "interested"
+      },
+      {
+        "id": "91_10_3",
+        "text": "interest",
+        "html": "interest"
+      },
+      {
+        "id": "91_10_4",
+        "text": "interestingly",
+        "html": "interestingly"
+      }
+    ],
+    "correctChoiceId": "91_10_1",
+    "explanation": "<p>Cụm tính từ miêu tả cảm xúc con người: <strong>be interested in + V-ing</strong> (hứng thú với điều gì). Đuôi -ed diễn tả cảm xúc của người.</p>",
+    "ruleTip": "Tính từ đuôi '-ed' diễn tả cảm xúc của con người (interested, bored); đuôi '-ing' diễn tả bản chất sự vật (interesting)."
+  },
+  {
+    "id": "91_11",
+    "questionName": "Question 11",
+    "questionText": "<p>Learning a foreign language requires a great deal of ________ and continuous practice.</p>",
+    "choices": [
+      {
+        "id": "91_11_1",
+        "text": "patience",
+        "html": "patience"
+      },
+      {
+        "id": "91_11_2",
+        "text": "patient",
+        "html": "patient"
+      },
+      {
+        "id": "91_11_3",
+        "text": "patiently",
+        "html": "patiently"
+      },
+      {
+        "id": "91_11_4",
+        "text": "impatient",
+        "html": "impatient"
+      }
+    ],
+    "correctChoiceId": "91_11_1",
+    "explanation": "<p>Sau lượng từ \"a great deal of\" (nhiều): cần <strong>danh từ không đếm được</strong>: <strong>patience</strong> (sự kiên nhẫn).</p>",
+    "ruleTip": "Hậu tố '-ence/-ance' tạo danh từ (patient -> patience, important -> importance)."
+  },
+  {
+    "id": "91_12",
+    "questionName": "Question 12",
+    "questionText": "<p>Hanoi is a ________ developing metropolis with modern infrastructure and historic charm.</p>",
+    "choices": [
+      {
+        "id": "91_12_2",
+        "text": "rapid",
+        "html": "rapid"
+      },
+      {
+        "id": "91_12_3",
+        "text": "rapidity",
+        "html": "rapidity"
+      },
+      {
+        "id": "91_12_1",
+        "text": "rapidly",
+        "html": "rapidly"
+      },
+      {
+        "id": "91_12_4",
+        "text": "rapids",
+        "html": "rapids"
+      }
+    ],
+    "correctChoiceId": "91_12_1",
+    "explanation": "<p>Bổ nghĩa cho phân từ/tính từ \"developing\": cần <strong>trạng từ</strong>: <strong>rapidly</strong> (một cách nhanh chóng: rapidly developing = phát triển nhanh chóng).</p>",
+    "ruleTip": "Trạng từ có thể đứng trước tính từ hoặc phân từ để bổ nghĩa (Adv + Adj / Adv + V-ing)."
+  },
+  {
+    "id": "91_13",
+    "questionName": "Question 13",
+    "questionText": "<p>Throwing trash into public rivers is a ________ act that harms the living environment.</p>",
+    "choices": [
+      {
+        "id": "91_13_2",
+        "text": "thoughtful",
+        "html": "thoughtful"
+      },
+      {
+        "id": "91_13_3",
+        "text": "thought",
+        "html": "thought"
+      },
+      {
+        "id": "91_13_4",
+        "text": "thoughtlessly",
+        "html": "thoughtlessly"
+      },
+      {
+        "id": "91_13_1",
+        "text": "thoughtless",
+        "html": "thoughtless"
+      }
+    ],
+    "correctChoiceId": "91_13_1",
+    "explanation": "<p>Đứng trước danh từ \"act\" (hành vi), cần tính từ mang nghĩa thiếu suy nghĩ, vô ý thức: <strong>thoughtless</strong>.</p>",
+    "ruleTip": "Hậu tố '-less' mang nghĩa không có, thiếu (thoughtless = thiếu suy nghĩ; helpless = bất lực)."
+  },
+  {
+    "id": "91_14",
+    "questionName": "Question 14",
+    "questionText": "<p>The municipal council spent millions of dollars ________ historical landmarks in the Old Quarter.</p>",
+    "choices": [
+      {
+        "id": "91_14_2",
+        "text": "restore",
+        "html": "restore"
+      },
+      {
+        "id": "91_14_1",
+        "text": "restoring",
+        "html": "restoring"
+      },
+      {
+        "id": "91_14_3",
+        "text": "restoration",
+        "html": "restoration"
+      },
+      {
+        "id": "91_14_4",
+        "text": "restored",
+        "html": "restored"
+      }
+    ],
+    "correctChoiceId": "91_14_1",
+    "explanation": "<p>Cấu trúc: <strong>spend + time/money + V-ing (restoring)</strong> (dành thời gian/tiền bạc phục hồi các di tích).</p>",
+    "ruleTip": "Cấu trúc: S + spend + time/money + V-ing (làm gì)."
+  },
+  {
+    "id": "91_15",
+    "questionName": "Question 15",
+    "questionText": "<p>Jogging every morning greatly enhances your physical strength and general ________.</p>",
+    "choices": [
+      {
+        "id": "91_15_1",
+        "text": "fitness",
+        "html": "fitness"
+      },
+      {
+        "id": "91_15_2",
+        "text": "fit",
+        "html": "fit"
+      },
+      {
+        "id": "91_15_3",
+        "text": "fitter",
+        "html": "fitter"
+      },
+      {
+        "id": "91_15_4",
+        "text": "fitting",
+        "html": "fitting"
+      }
+    ],
+    "correctChoiceId": "91_15_1",
+    "explanation": "<p>Cấu trúc song hành với \"physical strength\" nối bởi \"and\", sau tính từ \"general\": cần <strong>danh từ</strong>: <strong>fitness</strong> (sự sung sức, sức khỏe thể chất).</p>",
+    "ruleTip": "Hậu tố '-ness' tạo danh từ từ tính từ (fit -> fitness, happy -> happiness, dark -> darkness)."
+  }
+]

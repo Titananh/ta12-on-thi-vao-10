@@ -1,0 +1,452 @@
+[
+  {
+    "id": "80_1",
+    "questionName": "Question 1",
+    "questionText": "<p><strong>Nick:</strong> \"Why don't we go to the cinema tonight?\"<br/><strong>John:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_1_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "80_1_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "80_1_1",
+        "text": "That's a great idea!",
+        "html": "That's a great idea!"
+      },
+      {
+        "id": "80_1_4",
+        "text": "It doesn't matter.",
+        "html": "It doesn't matter."
+      }
+    ],
+    "correctChoiceId": "80_1_1",
+    "explanation": "<p>Đồng ý với lời gợi ý đi xem phim: <strong>\"That's a great idea!\"</strong> (Đó là một ý kiến tuyệt vời!).</p>",
+    "ruleTip": "Đồng ý với gợi ý 'Why don't we + V-inf?': dùng 'That's a great idea!' hoặc 'That sounds great!'."
+  },
+  {
+    "id": "80_2",
+    "questionName": "Question 2",
+    "questionText": "<p><strong>Mary:</strong> \"Would you like to come to my birthday party this Saturday?\"<br/><strong>Helen:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_2_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "80_2_1",
+        "text": "I'd love to, thanks!",
+        "html": "I'd love to, thanks!"
+      },
+      {
+        "id": "80_2_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "80_2_4",
+        "text": "Don't mention it.",
+        "html": "Don't mention it."
+      }
+    ],
+    "correctChoiceId": "80_2_1",
+    "explanation": "<p>Nhận lời mời sinh nhật một cách nhiệt tình: <strong>\"I'd love to, thanks!\"</strong> (Mình rất muốn tham gia, cảm ơn bạn!).</p>",
+    "ruleTip": "Đồng ý với lời mời 'Would you like to + V-inf?': dùng 'I'd love to, thanks!' hoặc 'Yes, I'd love to.'."
+  },
+  {
+    "id": "80_3",
+    "questionName": "Question 3",
+    "questionText": "<p><strong>Kevin:</strong> \"Let's go for a picnic in the park tomorrow.\"<br/><strong>Tom:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_3_2",
+        "text": "No, I hate picnics.",
+        "html": "No, I hate picnics."
+      },
+      {
+        "id": "80_3_3",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "80_3_4",
+        "text": "Not at all.",
+        "html": "Not at all."
+      },
+      {
+        "id": "80_3_1",
+        "text": "I'd love to, but I have to study for my exam.",
+        "html": "I'd love to, but I have to study for my exam."
+      }
+    ],
+    "correctChoiceId": "80_3_1",
+    "explanation": "<p>Từ chối lịch sự lời mời đi dã ngoại: <strong>\"I'd love to, but I have to study for my exam.\"</strong> (Mình rất muốn đi, nhưng mình phải ôn thi rồi).</p>",
+    "ruleTip": "Từ chối lịch sự lời gợi ý: 'I'd love to, but...' kèm theo lý do chính đáng."
+  },
+  {
+    "id": "80_4",
+    "questionName": "Question 4",
+    "questionText": "<p><strong>Clerk:</strong> \"May I help you carry those bags?\"<br/><strong>Elderly lady:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_4_2",
+        "text": "No, you can't.",
+        "html": "No, you can't."
+      },
+      {
+        "id": "80_4_1",
+        "text": "Yes, please. That's very kind of you.",
+        "html": "Yes, please. That's very kind of you."
+      },
+      {
+        "id": "80_4_3",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "80_4_4",
+        "text": "Never mind.",
+        "html": "Never mind."
+      }
+    ],
+    "correctChoiceId": "80_4_1",
+    "explanation": "<p>Đồng ý nhận sự giúp đỡ xách túi đồ: <strong>\"Yes, please. That's very kind of you.\"</strong> (Vâng, làm ơn giúp tôi. Cháu thật tốt bụng).</p>",
+    "ruleTip": "Đồng ý nhận sự giúp đỡ ('May I help you...?'): 'Yes, please. That's very kind of you.'."
+  },
+  {
+    "id": "80_5",
+    "questionName": "Question 5",
+    "questionText": "<p><strong>Peter:</strong> \"How about having Vietnamese noodle soup for breakfast?\"<br/><strong>Linda:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_5_1",
+        "text": "Sounds good to me!",
+        "html": "Sounds good to me!"
+      },
+      {
+        "id": "80_5_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "80_5_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "80_5_4",
+        "text": "Don't mention it.",
+        "html": "Don't mention it."
+      }
+    ],
+    "correctChoiceId": "80_5_1",
+    "explanation": "<p>Đồng ý với gợi ý ăn phở cho bữa sáng: <strong>\"Sounds good to me!\"</strong> (Nghe hay đấy/ Mình đồng ý!).</p>",
+    "ruleTip": "Cấu trúc gợi ý 'How about + V-ing?'. Đồng ý nhanh gọn: 'Sounds good to me!'."
+  },
+  {
+    "id": "80_6",
+    "questionName": "Question 6",
+    "questionText": "<p><strong>Henry:</strong> \"Shall I open the window? It's quite hot in here.\"<br/><strong>Roommate:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_6_2",
+        "text": "Yes, you are welcome.",
+        "html": "Yes, you are welcome."
+      },
+      {
+        "id": "80_6_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "80_6_1",
+        "text": "No, thank you. I'm feeling a bit cold.",
+        "html": "No, thank you. I'm feeling a bit cold."
+      },
+      {
+        "id": "80_6_4",
+        "text": "That's all right.",
+        "html": "That's all right."
+      }
+    ],
+    "correctChoiceId": "80_6_1",
+    "explanation": "<p>Từ chối lịch sự lời đề nghị mở cửa sổ vì thấy lạnh: <strong>\"No, thank you. I'm feeling a bit cold.\"</strong>.</p>",
+    "ruleTip": "Từ chối lời đề nghị giúp đỡ/hành động: 'No, thank you. I...'."
+  },
+  {
+    "id": "80_7",
+    "questionName": "Question 7",
+    "questionText": "<p><strong>Lucy:</strong> \"Do you want to join our English speaking club this afternoon?\"<br/><strong>Ben:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_7_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "80_7_1",
+        "text": "Sure, why not? What time does it start?",
+        "html": "Sure, why not? What time does it start?"
+      },
+      {
+        "id": "80_7_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "80_7_4",
+        "text": "Don't mention it.",
+        "html": "Don't mention it."
+      }
+    ],
+    "correctChoiceId": "80_7_1",
+    "explanation": "<p>Hào hứng tham gia câu lạc bộ tiếng Anh: <strong>\"Sure, why not? What time does it start?\"</strong> (Chắc chắn rồi, sao lại không chứ? Mấy giờ bắt đầu vậy bạn?).</p>",
+    "ruleTip": "'Sure, why not?' (Chắc chắn rồi, sao lại không chứ?) dùng để hào hứng nhận lời mời."
+  },
+  {
+    "id": "80_8",
+    "questionName": "Question 8",
+    "questionText": "<p><strong>Driver:</strong> \"Would you like me to give you a lift to the bus station?\"<br/><strong>Traveler:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_8_1",
+        "text": "Thanks, but my brother is coming to pick me up.",
+        "html": "Thanks, but my brother is coming to pick me up."
+      },
+      {
+        "id": "80_8_2",
+        "text": "No, never.",
+        "html": "No, never."
+      },
+      {
+        "id": "80_8_3",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "80_8_4",
+        "text": "Never mind.",
+        "html": "Never mind."
+      }
+    ],
+    "correctChoiceId": "80_8_1",
+    "explanation": "<p>Từ chối lịch sự lời cho đi nhờ xe: <strong>\"Thanks, but my brother is coming to pick me up.\"</strong> (Cảm ơn anh, nhưng anh trai em sắp đến đón rồi ạ).</p>",
+    "ruleTip": "Từ chối lịch sự lời đề nghị chở xe: cảm ơn và giải thích lý do người thân đón."
+  },
+  {
+    "id": "80_9",
+    "questionName": "Question 9",
+    "questionText": "<p><strong>Ann:</strong> \"What about cycling to Bat Trang ceramic village this Sunday?\"<br/><strong>Mai:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_9_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "80_9_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "80_9_4",
+        "text": "It's a pity.",
+        "html": "It's a pity."
+      },
+      {
+        "id": "80_9_1",
+        "text": "That sounds like fun! Let's do that.",
+        "html": "That sounds like fun! Let's do that."
+      }
+    ],
+    "correctChoiceId": "80_9_1",
+    "explanation": "<p>Đồng ý đạp xe đi Bát Tràng: <strong>\"That sounds like fun! Let's do that.\"</strong> (Nghe vui đấy! Chúng mình làm vậy đi!).</p>",
+    "ruleTip": "Đồng ý nhiệt tình với gợi ý 'What about + V-ing?': 'That sounds like fun! Let's do that.'."
+  },
+  {
+    "id": "80_10",
+    "questionName": "Question 10",
+    "questionText": "<p><strong>Waiter:</strong> \"Would you like some more iced tea, sir?\"<br/><strong>Customer:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_10_2",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "80_10_3",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "80_10_1",
+        "text": "No more for me, thank you. Just the bill, please.",
+        "html": "No more for me, thank you. Just the bill, please."
+      },
+      {
+        "id": "80_10_4",
+        "text": "Don't mention it.",
+        "html": "Don't mention it."
+      }
+    ],
+    "correctChoiceId": "80_10_1",
+    "explanation": "<p>Từ chối thêm trà đá và xin hóa đơn: <strong>\"No more for me, thank you. Just the bill, please.\"</strong> (Tôi đủ rồi, cảm ơn. Làm ơn cho tôi thanh toán).</p>",
+    "ruleTip": "Từ chối dùng thêm đồ uống/món ăn tại nhà hàng: 'No more for me, thank you.'."
+  },
+  {
+    "id": "80_11",
+    "questionName": "Question 11",
+    "questionText": "<p><strong>David:</strong> \"Shall we meet in front of the bookstore at 8 a.m.?\"<br/><strong>Sarah:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_11_1",
+        "text": "Yes, that suits me fine.",
+        "html": "Yes, that suits me fine."
+      },
+      {
+        "id": "80_11_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "80_11_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "80_11_4",
+        "text": "That's all right.",
+        "html": "That's all right."
+      }
+    ],
+    "correctChoiceId": "80_11_1",
+    "explanation": "<p>Đồng ý giờ hẹn: <strong>\"Yes, that suits me fine.\"</strong> (Được, giờ đó rất thuận tiện cho mình).</p>",
+    "ruleTip": "'Shall we + V-inf?' dùng để thống nhất giờ giấc/địa điểm. Đồng ý: 'Yes, that suits me fine.'."
+  },
+  {
+    "id": "80_12",
+    "questionName": "Question 12",
+    "questionText": "<p><strong>Sam:</strong> \"Can I get you something to drink?\"<br/><strong>Guest:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_12_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "80_12_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "80_12_4",
+        "text": "Don't mention it.",
+        "html": "Don't mention it."
+      },
+      {
+        "id": "80_12_1",
+        "text": "A glass of water would be lovely, please.",
+        "html": "A glass of water would be lovely, please."
+      }
+    ],
+    "correctChoiceId": "80_12_1",
+    "explanation": "<p>Khách chọn nước uống lịch sự: <strong>\"A glass of water would be lovely, please.\"</strong> (Làm ơn cho tôi một cốc nước là tuyệt vời rồi).</p>",
+    "ruleTip": "Đưa ra lời đề nghị mời nước: 'Can I get you...'. Đáp nhận lịch sự: 'A glass of... would be lovely, please.'."
+  },
+  {
+    "id": "80_13",
+    "questionName": "Question 13",
+    "questionText": "<p><strong>Jack:</strong> \"Why not try the new Italian restaurant down the street?\"<br/><strong>Emma:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_13_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "80_13_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "80_13_1",
+        "text": "Great idea! I've heard good reviews about it.",
+        "html": "Great idea! I've heard good reviews about it."
+      },
+      {
+        "id": "80_13_4",
+        "text": "It doesn't matter.",
+        "html": "It doesn't matter."
+      }
+    ],
+    "correctChoiceId": "80_13_1",
+    "explanation": "<p>Đồng ý thử nhà hàng Ý mới: <strong>\"Great idea! I've heard good reviews about it.\"</strong> (Ý tưởng tuyệt đấy! Mình cũng nghe nhiều đánh giá tốt về nó).</p>",
+    "ruleTip": "Gợi ý 'Why not + V-inf?'. Đồng ý: 'Great idea!'."
+  },
+  {
+    "id": "80_14",
+    "questionName": "Question 14",
+    "questionText": "<p><strong>Chris:</strong> \"Would you like to play chess with me?\"<br/><strong>Paul:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_14_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "80_14_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "80_14_4",
+        "text": "Don't mention it.",
+        "html": "Don't mention it."
+      },
+      {
+        "id": "80_14_1",
+        "text": "I'm afraid I don't know how to play it.",
+        "html": "I'm afraid I don't know how to play it."
+      }
+    ],
+    "correctChoiceId": "80_14_1",
+    "explanation": "<p>Từ chối lời mời chơi cờ vua: <strong>\"I'm afraid I don't know how to play it.\"</strong> (E là mình không biết chơi cờ vua rồi).</p>",
+    "ruleTip": "Từ chối lời mời chơi trò chơi vì không biết chơi: 'I'm afraid I don't know how to play it.'."
+  },
+  {
+    "id": "80_15",
+    "questionName": "Question 15",
+    "questionText": "<p><strong>George:</strong> \"Let's organize a book exchange fair for our class.\"<br/><strong>Class monitor:</strong> \"________\"</p>",
+    "choices": [
+      {
+        "id": "80_15_1",
+        "text": "I couldn't agree more. Let's plan it.",
+        "html": "I couldn't agree more. Let's plan it."
+      },
+      {
+        "id": "80_15_2",
+        "text": "You're welcome.",
+        "html": "You're welcome."
+      },
+      {
+        "id": "80_15_3",
+        "text": "Never mind.",
+        "html": "Never mind."
+      },
+      {
+        "id": "80_15_4",
+        "text": "It's a pity.",
+        "html": "It's a pity."
+      }
+    ],
+    "correctChoiceId": "80_15_1",
+    "explanation": "<p>Lớp trưởng đồng ý hoàn toàn: <strong>\"I couldn't agree more. Let's plan it.\"</strong> (Mình hoàn toàn đồng ý. Chúng ta hãy lên kế hoạch thôi).</p>",
+    "ruleTip": "'I couldn't agree more' (Tôi hoàn toàn đồng ý) là sự tán thành tuyệt đối với một đề xuất hay."
+  }
+]

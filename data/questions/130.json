@@ -1,0 +1,452 @@
+[
+  {
+    "id": "130_1",
+    "questionName": "Question 1",
+    "questionText": "<p>Thomas Edison ________ the incandescent light bulb in 1879.</p>",
+    "choices": [
+      {
+        "id": "130_1_2",
+        "text": "has invented",
+        "html": "has invented"
+      },
+      {
+        "id": "130_1_3",
+        "text": "was inventing",
+        "html": "was inventing"
+      },
+      {
+        "id": "130_1_4",
+        "text": "had invented",
+        "html": "had invented"
+      },
+      {
+        "id": "130_1_1",
+        "text": "invented",
+        "html": "invented"
+      }
+    ],
+    "correctChoiceId": "130_1_1",
+    "explanation": "<p>Sự kiện lịch sử đã chấm dứt hoàn toàn trong quá khứ có mốc thời gian xác định ('in 1879'): chia thì Quá khứ đơn: <strong>invented</strong>.</p>",
+    "ruleTip": "Sự kiện lịch sử có năm xác định trong quá khứ: chia Quá khứ đơn (V2/ed)."
+  },
+  {
+    "id": "130_2",
+    "questionName": "Question 2",
+    "questionText": "<p>When I was walking home from school, it suddenly ________ to rain heavily.</p>",
+    "choices": [
+      {
+        "id": "130_2_2",
+        "text": "was starting",
+        "html": "was starting"
+      },
+      {
+        "id": "130_2_3",
+        "text": "has started",
+        "html": "has started"
+      },
+      {
+        "id": "130_2_4",
+        "text": "had started",
+        "html": "had started"
+      },
+      {
+        "id": "130_2_1",
+        "text": "started",
+        "html": "started"
+      }
+    ],
+    "correctChoiceId": "130_2_1",
+    "explanation": "<p>Hành động đang diễn ra (Past Continuous: was walking) thì một hành động ngắn hơn bất ngờ xen vào: chia Quá khứ đơn <strong>started</strong>.</p>",
+    "ruleTip": "Hành động đang diễn ra (Past Continuous) bị hành động ngắn hơn cắt ngang (Past Simple)."
+  },
+  {
+    "id": "130_3",
+    "questionName": "Question 3",
+    "questionText": "<p>At 9:00 PM yesterday, my whole family ________ an exciting football match on TV.</p>",
+    "choices": [
+      {
+        "id": "130_3_2",
+        "text": "watched",
+        "html": "watched"
+      },
+      {
+        "id": "130_3_3",
+        "text": "were watching",
+        "html": "were watching"
+      },
+      {
+        "id": "130_3_1",
+        "text": "was watching",
+        "html": "was watching"
+      },
+      {
+        "id": "130_3_4",
+        "text": "had watched",
+        "html": "had watched"
+      }
+    ],
+    "correctChoiceId": "130_3_1",
+    "explanation": "<p>Tại thời điểm cụ thể, xác định trong quá khứ ('At 9:00 PM yesterday'): chia thì Quá khứ tiếp diễn. Chủ ngữ 'my whole family' mang tính tập hợp số ít: <strong>was watching</strong>.</p>",
+    "ruleTip": "Thời điểm xác định trong quá khứ (at 9 PM yesterday): chia Quá khứ tiếp diễn."
+  },
+  {
+    "id": "130_4",
+    "questionName": "Question 4",
+    "questionText": "<p>By the time the fire brigade arrived, the fire ________ by local residents.</p>",
+    "choices": [
+      {
+        "id": "130_4_1",
+        "text": "had been put out",
+        "html": "had been put out"
+      },
+      {
+        "id": "130_4_2",
+        "text": "was put out",
+        "html": "was put out"
+      },
+      {
+        "id": "130_4_3",
+        "text": "has been put out",
+        "html": "has been put out"
+      },
+      {
+        "id": "130_4_4",
+        "text": "is put out",
+        "html": "is put out"
+      }
+    ],
+    "correctChoiceId": "130_4_1",
+    "explanation": "<p>Cấu trúc: <strong>By the time + S + V(quá khứ đơn), S + had + V3/ed</strong>. Đám cháy đã được dập tắt trước khi lính cứu hỏa đến: <strong>had been put out</strong>.</p>",
+    "ruleTip": "'By the time + Quá khứ đơn, Quá khứ hoàn thành' (had + V3/ed)."
+  },
+  {
+    "id": "130_5",
+    "questionName": "Question 5",
+    "questionText": "<p>While my mother was cooking in the kitchen, my father ________ the newspaper.</p>",
+    "choices": [
+      {
+        "id": "130_5_2",
+        "text": "read",
+        "html": "read"
+      },
+      {
+        "id": "130_5_1",
+        "text": "was reading",
+        "html": "was reading"
+      },
+      {
+        "id": "130_5_3",
+        "text": "has read",
+        "html": "has read"
+      },
+      {
+        "id": "130_5_4",
+        "text": "had read",
+        "html": "had read"
+      }
+    ],
+    "correctChoiceId": "130_5_1",
+    "explanation": "<p>'While' nối hai hành động diễn ra song song cùng lúc trong quá khứ: cả hai vế đều chia thì Quá khứ tiếp diễn: <strong>was reading</strong>.</p>",
+    "ruleTip": "'While' nối hai hành động xảy ra song song cùng lúc trong quá khứ: cả hai đều chia Past Continuous."
+  },
+  {
+    "id": "130_6",
+    "questionName": "Question 6",
+    "questionText": "<p>After she ________ all her homework tasks, she went to bed.</p>",
+    "choices": [
+      {
+        "id": "130_6_2",
+        "text": "completed",
+        "html": "completed"
+      },
+      {
+        "id": "130_6_1",
+        "text": "had completed",
+        "html": "had completed"
+      },
+      {
+        "id": "130_6_3",
+        "text": "has completed",
+        "html": "has completed"
+      },
+      {
+        "id": "130_6_4",
+        "text": "was completing",
+        "html": "was completing"
+      }
+    ],
+    "correctChoiceId": "130_6_1",
+    "explanation": "<p>Hành động hoàn thành bài tập xảy ra trước hành động đi ngủ: sau 'After' chia thì Quá khứ hoàn thành: <strong>had completed</strong>.</p>",
+    "ruleTip": "'After + Quá khứ hoàn thành, Quá khứ đơn' (hành động xong trước chia had + V3)."
+  },
+  {
+    "id": "130_7",
+    "questionName": "Question 7",
+    "questionText": "<p>When my grandfather was young, he ________ 10 kilometers to school every day.</p>",
+    "choices": [
+      {
+        "id": "130_7_1",
+        "text": "used to walk",
+        "html": "used to walk"
+      },
+      {
+        "id": "130_7_2",
+        "text": "is used to walking",
+        "html": "is used to walking"
+      },
+      {
+        "id": "130_7_3",
+        "text": "uses to walk",
+        "html": "uses to walk"
+      },
+      {
+        "id": "130_7_4",
+        "text": "used to walking",
+        "html": "used to walking"
+      }
+    ],
+    "correctChoiceId": "130_7_1",
+    "explanation": "<p>Diễn tả thói quen trong quá khứ nay không còn nữa: <strong>used to + V-inf (used to walk)</strong>.</p>",
+    "ruleTip": "'Used to + V-inf' diễn tả thói quen trong quá khứ nay không còn nữa."
+  },
+  {
+    "id": "130_8",
+    "questionName": "Question 8",
+    "questionText": "<p>She has lived in London for two years, so she is used to ________ on the left.</p>",
+    "choices": [
+      {
+        "id": "130_8_2",
+        "text": "drive",
+        "html": "drive"
+      },
+      {
+        "id": "130_8_3",
+        "text": "drove",
+        "html": "drove"
+      },
+      {
+        "id": "130_8_4",
+        "text": "driven",
+        "html": "driven"
+      },
+      {
+        "id": "130_8_1",
+        "text": "driving",
+        "html": "driving"
+      }
+    ],
+    "correctChoiceId": "130_8_1",
+    "explanation": "<p>Cấu trúc <strong>'be used to + V-ing'</strong> diễn tả việc đã quen làm ở hiện tại: <strong>driving</strong>.</p>",
+    "ruleTip": "'Be/get used to + V-ing' diễn tả thói quen đã quen thuộc ở hiện tại."
+  },
+  {
+    "id": "130_9",
+    "questionName": "Question 9",
+    "questionText": "<p>I ________ like eating green vegetables when I was a small child.</p>",
+    "choices": [
+      {
+        "id": "130_9_1",
+        "text": "didn't use to",
+        "html": "didn't use to"
+      },
+      {
+        "id": "130_9_2",
+        "text": "didn't used to",
+        "html": "didn't used to"
+      },
+      {
+        "id": "130_9_3",
+        "text": "wasn't used to",
+        "html": "wasn't used to"
+      },
+      {
+        "id": "130_9_4",
+        "text": "not used to",
+        "html": "not used to"
+      }
+    ],
+    "correctChoiceId": "130_9_1",
+    "explanation": "<p>Dạng phủ định của 'used to' là <strong>didn't use to + V-inf</strong> (chữ use để nguyên mẫu không có -d).</p>",
+    "ruleTip": "Phủ định của 'used to': dùng 'didn't use to + V-inf' (chữ use không có -d)."
+  },
+  {
+    "id": "130_10",
+    "questionName": "Question 10",
+    "questionText": "<p>He came home, took off his wet raincoat, and ________ on the sofa to rest.</p>",
+    "choices": [
+      {
+        "id": "130_10_2",
+        "text": "was sitting",
+        "html": "was sitting"
+      },
+      {
+        "id": "130_10_3",
+        "text": "sits",
+        "html": "sits"
+      },
+      {
+        "id": "130_10_1",
+        "text": "sat",
+        "html": "sat"
+      },
+      {
+        "id": "130_10_4",
+        "text": "had sat",
+        "html": "had sat"
+      }
+    ],
+    "correctChoiceId": "130_10_1",
+    "explanation": "<p>Chuỗi các hành động liên tiếp xảy ra trong quá khứ (came, took off, and...): chia thì Quá khứ đơn: <strong>sat</strong>.</p>",
+    "ruleTip": "Chuỗi các hành động liên tiếp xảy ra trong quá khứ: đều chia Quá khứ đơn."
+  },
+  {
+    "id": "130_11",
+    "questionName": "Question 11",
+    "questionText": "<p>The express train had already departed before we ________ at the platform.</p>",
+    "choices": [
+      {
+        "id": "130_11_2",
+        "text": "had arrived",
+        "html": "had arrived"
+      },
+      {
+        "id": "130_11_1",
+        "text": "arrived",
+        "html": "arrived"
+      },
+      {
+        "id": "130_11_3",
+        "text": "were arriving",
+        "html": "were arriving"
+      },
+      {
+        "id": "130_11_4",
+        "text": "arrive",
+        "html": "arrive"
+      }
+    ],
+    "correctChoiceId": "130_11_1",
+    "explanation": "<p>Cấu trúc: <strong>Quá khứ hoàn thành + BEFORE + Quá khứ đơn</strong>: chọn <strong>arrived</strong>.</p>",
+    "ruleTip": "'Before + Quá khứ đơn, Quá khứ hoàn thành'."
+  },
+  {
+    "id": "130_12",
+    "questionName": "Question 12",
+    "questionText": "<p>The pupils were whispering while the teacher ________ on the blackboard.</p>",
+    "choices": [
+      {
+        "id": "130_12_2",
+        "text": "wrote",
+        "html": "wrote"
+      },
+      {
+        "id": "130_12_3",
+        "text": "has written",
+        "html": "has written"
+      },
+      {
+        "id": "130_12_4",
+        "text": "had written",
+        "html": "had written"
+      },
+      {
+        "id": "130_12_1",
+        "text": "was writing",
+        "html": "was writing"
+      }
+    ],
+    "correctChoiceId": "130_12_1",
+    "explanation": "<p>Mệnh đề đi sau 'while' diễn tả hành động đang diễn ra trong quá khứ: chia Quá khứ tiếp diễn <strong>was writing</strong>.</p>",
+    "ruleTip": "Mệnh đề đi sau 'While' diễn tả hành động đang diễn ra chia Quá khứ tiếp diễn."
+  },
+  {
+    "id": "130_13",
+    "questionName": "Question 13",
+    "questionText": "<p>They ________ to the cinema yesterday evening because all tickets were sold out.</p>",
+    "choices": [
+      {
+        "id": "130_13_2",
+        "text": "weren't going",
+        "html": "weren't going"
+      },
+      {
+        "id": "130_13_3",
+        "text": "haven't gone",
+        "html": "haven't gone"
+      },
+      {
+        "id": "130_13_1",
+        "text": "didn't go",
+        "html": "didn't go"
+      },
+      {
+        "id": "130_13_4",
+        "text": "hadn't gone",
+        "html": "hadn't gone"
+      }
+    ],
+    "correctChoiceId": "130_13_1",
+    "explanation": "<p>Dấu hiệu 'yesterday evening' chỉ sự việc trong quá khứ: thể phủ định dùng <strong>didn't + V-inf (didn't go)</strong>.</p>",
+    "ruleTip": "Phủ định Quá khứ đơn: didn't + V-inf."
+  },
+  {
+    "id": "130_14",
+    "questionName": "Question 14",
+    "questionText": "<p>As soon as he heard the exciting news, he ________ his parents immediately.</p>",
+    "choices": [
+      {
+        "id": "130_14_2",
+        "text": "was calling",
+        "html": "was calling"
+      },
+      {
+        "id": "130_14_3",
+        "text": "had called",
+        "html": "had called"
+      },
+      {
+        "id": "130_14_1",
+        "text": "called",
+        "html": "called"
+      },
+      {
+        "id": "130_14_4",
+        "text": "calls",
+        "html": "calls"
+      }
+    ],
+    "correctChoiceId": "130_14_1",
+    "explanation": "<p>Hai hành động xảy ra gần như cùng lúc nối tiếp nhau ngay tức thì trong quá khứ: cả hai vế đều chia Quá khứ đơn: <strong>called</strong>.</p>",
+    "ruleTip": "Hai hành động xảy ra gần như tức thì trong quá khứ: cả hai đều chia Quá khứ đơn."
+  },
+  {
+    "id": "130_15",
+    "questionName": "Question 15",
+    "questionText": "<p>She was late for the exam because she ________ to set her alarm clock the night before.</p>",
+    "choices": [
+      {
+        "id": "130_15_1",
+        "text": "had forgotten",
+        "html": "had forgotten"
+      },
+      {
+        "id": "130_15_2",
+        "text": "forgot",
+        "html": "forgot"
+      },
+      {
+        "id": "130_15_3",
+        "text": "has forgotten",
+        "html": "has forgotten"
+      },
+      {
+        "id": "130_15_4",
+        "text": "was forgetting",
+        "html": "was forgetting"
+      }
+    ],
+    "correctChoiceId": "130_15_1",
+    "explanation": "<p>Nguyên nhân quên đặt đồng hồ xảy ra trước hành động muộn thi trong quá khứ: chia Quá khứ hoàn thành: <strong>had forgotten</strong>.</p>",
+    "ruleTip": "Nguyên nhân xảy ra trước trong quá khứ: chia Quá khứ hoàn thành (had + V3)."
+  }
+]

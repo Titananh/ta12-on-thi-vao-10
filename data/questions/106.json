@@ -1,0 +1,452 @@
+[
+  {
+    "id": "106_1",
+    "questionName": "Question 1",
+    "questionText": "<p>This math problem is ________ than the one we solved yesterday.</p>",
+    "choices": [
+      {
+        "id": "106_1_2",
+        "text": "difficulter",
+        "html": "difficulter"
+      },
+      {
+        "id": "106_1_3",
+        "text": "most difficult",
+        "html": "most difficult"
+      },
+      {
+        "id": "106_1_1",
+        "text": "more difficult",
+        "html": "more difficult"
+      },
+      {
+        "id": "106_1_4",
+        "text": "as difficult",
+        "html": "as difficult"
+      }
+    ],
+    "correctChoiceId": "106_1_1",
+    "explanation": "<p>'Difficult' là tính từ dài (3 âm tiết): cấu trúc so sánh hơn với 'than' là <strong>more difficult than</strong>.</p>",
+    "ruleTip": "Tính từ dài trong so sánh hơn: 'more + adj + than'."
+  },
+  {
+    "id": "106_2",
+    "questionName": "Question 2",
+    "questionText": "<p>Yesterday was hot, but today is even ________.</p>",
+    "choices": [
+      {
+        "id": "106_2_2",
+        "text": "hot",
+        "html": "hot"
+      },
+      {
+        "id": "106_2_1",
+        "text": "hotter",
+        "html": "hotter"
+      },
+      {
+        "id": "106_2_3",
+        "text": "more hot",
+        "html": "more hot"
+      },
+      {
+        "id": "106_2_4",
+        "text": "hottest",
+        "html": "hottest"
+      }
+    ],
+    "correctChoiceId": "106_2_1",
+    "explanation": "<p>'Hot' là tính từ ngắn có 1 nguyên âm đứng giữa 2 phụ âm (CVC): gấp đôi phụ âm cuối trước khi thêm -er: <strong>hotter</strong>.</p>",
+    "ruleTip": "Tính từ ngắn 1 âm tiết (phụ âm - nguyên âm - phụ âm): gấp đôi phụ âm cuối rồi thêm -er ('hotter')."
+  },
+  {
+    "id": "106_3",
+    "questionName": "Question 3",
+    "questionText": "<p>His English pronunciation is much ________ than mine.</p>",
+    "choices": [
+      {
+        "id": "106_3_1",
+        "text": "better",
+        "html": "better"
+      },
+      {
+        "id": "106_3_2",
+        "text": "gooder",
+        "html": "gooder"
+      },
+      {
+        "id": "106_3_3",
+        "text": "more good",
+        "html": "more good"
+      },
+      {
+        "id": "106_3_4",
+        "text": "best",
+        "html": "best"
+      }
+    ],
+    "correctChoiceId": "106_3_1",
+    "explanation": "<p>Tính từ bất quy tắc 'good' có dạng so sánh hơn là <strong>better</strong> (không dùng gooder hay more good).</p>",
+    "ruleTip": "Bất quy tắc: 'good' so sánh hơn là 'better' (không dùng gooder/more good)."
+  },
+  {
+    "id": "106_4",
+    "questionName": "Question 4",
+    "questionText": "<p>The ________ you practice speaking English, the more fluent you will become.</p>",
+    "choices": [
+      {
+        "id": "106_4_2",
+        "text": "most",
+        "html": "most"
+      },
+      {
+        "id": "106_4_1",
+        "text": "more",
+        "html": "more"
+      },
+      {
+        "id": "106_4_3",
+        "text": "much",
+        "html": "much"
+      },
+      {
+        "id": "106_4_4",
+        "text": "many",
+        "html": "many"
+      }
+    ],
+    "correctChoiceId": "106_4_1",
+    "explanation": "<p>Cấu trúc so sánh kép (Càng... càng...): <strong>The + so sánh hơn..., the + so sánh hơn... (The more you practice..., the more fluent...)</strong>.</p>",
+    "ruleTip": "So sánh kép: 'The + so sánh hơn..., the + so sánh hơn...' (Càng... càng...)."
+  },
+  {
+    "id": "106_5",
+    "questionName": "Question 5",
+    "questionText": "<p>Her younger sister does not sing ________ as she does.</p>",
+    "choices": [
+      {
+        "id": "106_5_2",
+        "text": "as beautiful",
+        "html": "as beautiful"
+      },
+      {
+        "id": "106_5_1",
+        "text": "as beautifully",
+        "html": "as beautifully"
+      },
+      {
+        "id": "106_5_3",
+        "text": "more beautifully",
+        "html": "more beautifully"
+      },
+      {
+        "id": "106_5_4",
+        "text": "beautifully",
+        "html": "beautifully"
+      }
+    ],
+    "correctChoiceId": "106_5_1",
+    "explanation": "<p>So sánh bằng với động từ thường 'sing': dùng trạng từ <strong>as beautifully as</strong>.</p>",
+    "ruleTip": "So sánh bằng với trạng từ: 'as/so + adv + as' (sing là động từ thường nên đi với beautifully)."
+  },
+  {
+    "id": "106_6",
+    "questionName": "Question 6",
+    "questionText": "<p>Nha Trang is one of the ________ attractive coastal destinations in Vietnam.</p>",
+    "choices": [
+      {
+        "id": "106_6_2",
+        "text": "more",
+        "html": "more"
+      },
+      {
+        "id": "106_6_1",
+        "text": "most",
+        "html": "most"
+      },
+      {
+        "id": "106_6_3",
+        "text": "much",
+        "html": "much"
+      },
+      {
+        "id": "106_6_4",
+        "text": "as",
+        "html": "as"
+      }
+    ],
+    "correctChoiceId": "106_6_1",
+    "explanation": "<p>Cấu trúc so sánh nhất với 'one of the': <strong>one of the most + adj (the most attractive)</strong>.</p>",
+    "ruleTip": "'One of the + most + adj': một trong những... nhất."
+  },
+  {
+    "id": "106_7",
+    "questionName": "Question 7",
+    "questionText": "<p>Travelling by airplane is ________ faster than travelling by express train.</p>",
+    "choices": [
+      {
+        "id": "106_7_2",
+        "text": "very",
+        "html": "very"
+      },
+      {
+        "id": "106_7_3",
+        "text": "more",
+        "html": "more"
+      },
+      {
+        "id": "106_7_1",
+        "text": "much",
+        "html": "much"
+      },
+      {
+        "id": "106_7_4",
+        "text": "so",
+        "html": "so"
+      }
+    ],
+    "correctChoiceId": "106_7_1",
+    "explanation": "<p>Dùng <strong>much / far</strong> đứng trước tính từ so sánh hơn để nhấn mạnh mức độ chênh lệch (không dùng very trước so sánh hơn).</p>",
+    "ruleTip": "Dùng MUCH hoặc FAR trước tính từ so sánh hơn để nhấn mạnh mức độ chênh lệch."
+  },
+  {
+    "id": "106_8",
+    "questionName": "Question 8",
+    "questionText": "<p>Because of global warming, summer in our country is getting ________.</p>",
+    "choices": [
+      {
+        "id": "106_8_2",
+        "text": "more and more hot",
+        "html": "more and more hot"
+      },
+      {
+        "id": "106_8_3",
+        "text": "hot and hot",
+        "html": "hot and hot"
+      },
+      {
+        "id": "106_8_4",
+        "text": "hottest and hottest",
+        "html": "hottest and hottest"
+      },
+      {
+        "id": "106_8_1",
+        "text": "hotter and hotter",
+        "html": "hotter and hotter"
+      }
+    ],
+    "correctChoiceId": "106_8_1",
+    "explanation": "<p>Cấu trúc diễn tả 'càng ngày càng...': với tính từ ngắn dùng <strong>adj-er and adj-er (hotter and hotter)</strong>.</p>",
+    "ruleTip": "Càng ngày càng...: 'comparative AND comparative' (hotter and hotter)."
+  },
+  {
+    "id": "106_9",
+    "questionName": "Question 9",
+    "questionText": "<p>Living in modern big cities is often ________ than living in peaceful rural areas.</p>",
+    "choices": [
+      {
+        "id": "106_9_1",
+        "text": "noisier",
+        "html": "noisier"
+      },
+      {
+        "id": "106_9_2",
+        "text": "more noisy",
+        "html": "more noisy"
+      },
+      {
+        "id": "106_9_3",
+        "text": "noisy",
+        "html": "noisy"
+      },
+      {
+        "id": "106_9_4",
+        "text": "noisiest",
+        "html": "noisiest"
+      }
+    ],
+    "correctChoiceId": "106_9_1",
+    "explanation": "<p>Tính từ 2 âm tiết tận cùng bằng đuôi -y ('noisy'): đổi -y thành -i rồi thêm -er: <strong>noisier</strong>.</p>",
+    "ruleTip": "Tính từ 2 âm tiết tận cùng bằng -y (noisy, happy, heavy): đổi -y thành -ier trong so sánh hơn."
+  },
+  {
+    "id": "106_10",
+    "questionName": "Question 10",
+    "questionText": "<p>That was the ________ movie I have ever watched; the story was terrible.</p>",
+    "choices": [
+      {
+        "id": "106_10_2",
+        "text": "worse",
+        "html": "worse"
+      },
+      {
+        "id": "106_10_3",
+        "text": "baddest",
+        "html": "baddest"
+      },
+      {
+        "id": "106_10_1",
+        "text": "worst",
+        "html": "worst"
+      },
+      {
+        "id": "106_10_4",
+        "text": "most bad",
+        "html": "most bad"
+      }
+    ],
+    "correctChoiceId": "106_10_1",
+    "explanation": "<p>Dạng so sánh nhất bất quy tắc của tính từ 'bad' là <strong>the worst</strong>.</p>",
+    "ruleTip": "So sánh nhất bất quy tắc của 'bad': the WORST."
+  },
+  {
+    "id": "106_11",
+    "questionName": "Question 11",
+    "questionText": "<p>For ________ information about the high school entrance exam, please contact the principal.</p>",
+    "choices": [
+      {
+        "id": "106_11_2",
+        "text": "farther",
+        "html": "farther"
+      },
+      {
+        "id": "106_11_3",
+        "text": "far",
+        "html": "far"
+      },
+      {
+        "id": "106_11_4",
+        "text": "furthest",
+        "html": "furthest"
+      },
+      {
+        "id": "106_11_1",
+        "text": "further",
+        "html": "further"
+      }
+    ],
+    "correctChoiceId": "106_11_1",
+    "explanation": "<p><strong>'Further information'</strong> nghĩa là thông tin thêm, thông tin sâu hơn. 'Farther' chỉ dùng cho khoảng cách vật lý.</p>",
+    "ruleTip": "'Further' mang nghĩa sâu hơn, thêm nữa (further information); 'farther' chỉ khoảng cách địa lý."
+  },
+  {
+    "id": "106_12",
+    "questionName": "Question 12",
+    "questionText": "<p>My favorite hobby is ________ yours; we both enjoy reading detective stories.</p>",
+    "choices": [
+      {
+        "id": "106_12_2",
+        "text": "same as",
+        "html": "same as"
+      },
+      {
+        "id": "106_12_3",
+        "text": "different from",
+        "html": "different from"
+      },
+      {
+        "id": "106_12_1",
+        "text": "the same as",
+        "html": "the same as"
+      },
+      {
+        "id": "106_12_4",
+        "text": "as similar as",
+        "html": "as similar as"
+      }
+    ],
+    "correctChoiceId": "106_12_1",
+    "explanation": "<p>Cấu trúc so sánh giống nhau: <strong>the same as + N/Pronoun</strong>: chọn <strong>the same as</strong>.</p>",
+    "ruleTip": "Cấu trúc so sánh giống nhau: 'the same as'."
+  },
+  {
+    "id": "106_13",
+    "questionName": "Question 13",
+    "questionText": "<p>This new digital camera is not ________ expensive as I initially thought.</p>",
+    "choices": [
+      {
+        "id": "106_13_1",
+        "text": "so",
+        "html": "so"
+      },
+      {
+        "id": "106_13_2",
+        "text": "such",
+        "html": "such"
+      },
+      {
+        "id": "106_13_3",
+        "text": "more",
+        "html": "more"
+      },
+      {
+        "id": "106_13_4",
+        "text": "too",
+        "html": "too"
+      }
+    ],
+    "correctChoiceId": "106_13_1",
+    "explanation": "<p>Trong câu phủ định của so sánh bằng, ta có thể dùng <strong>'not so + adj + as'</strong> hoặc 'not as + adj + as'.</p>",
+    "ruleTip": "Phủ định so sánh bằng có thể dùng 'not as... as' hoặc 'not so... as'."
+  },
+  {
+    "id": "106_14",
+    "questionName": "Question 14",
+    "questionText": "<p>The older he gets, the ________ true friends he seems to have.</p>",
+    "choices": [
+      {
+        "id": "106_14_1",
+        "text": "fewer",
+        "html": "fewer"
+      },
+      {
+        "id": "106_14_2",
+        "text": "less",
+        "html": "less"
+      },
+      {
+        "id": "106_14_3",
+        "text": "few",
+        "html": "few"
+      },
+      {
+        "id": "106_14_4",
+        "text": "least",
+        "html": "least"
+      }
+    ],
+    "correctChoiceId": "106_14_1",
+    "explanation": "<p>Danh từ 'friends' đếm được số nhiều: dạng so sánh hơn đi kèm là <strong>the fewer</strong> (không dùng less cho danh từ đếm được).</p>",
+    "ruleTip": "'Few' so sánh hơn là 'fewer' đi với danh từ đếm được số nhiều (fewer friends)."
+  },
+  {
+    "id": "106_15",
+    "questionName": "Question 15",
+    "questionText": "<p>Among the four athletes in the competition, Nam ran ________.</p>",
+    "choices": [
+      {
+        "id": "106_15_2",
+        "text": "the faster",
+        "html": "the faster"
+      },
+      {
+        "id": "106_15_3",
+        "text": "fastest",
+        "html": "fastest"
+      },
+      {
+        "id": "106_15_4",
+        "text": "most fast",
+        "html": "most fast"
+      },
+      {
+        "id": "106_15_1",
+        "text": "the fastest",
+        "html": "the fastest"
+      }
+    ],
+    "correctChoiceId": "106_15_1",
+    "explanation": "<p>So sánh nhất giữa 4 người: trạng từ ngắn 'fast' có dạng so sánh nhất là <strong>the fastest</strong>.</p>",
+    "ruleTip": "So sánh nhất của trạng từ ngắn: the + adv-est (the fastest)."
+  }
+]

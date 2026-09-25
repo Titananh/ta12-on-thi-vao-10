@@ -1,0 +1,27 @@
+{
+  "topicId": 69,
+  "topicName": "Đuôi \"s\"/\"es\"",
+  "englishName": "\"s\"/\"es\" ending",
+  "rules": [
+    {
+      "sound": "/ɪz/",
+      "rule": "Phát âm là /ɪz/ khi từ tận cùng bằng các âm xuýt: /s/, /z/, /ʃ/, /tʃ/, /ʒ/, /dʒ/ (thường tận cùng là s, ss, ch, sh, x, z, ge, ce).",
+      "examples": "kisses /ˈkɪsɪz/, watches /ˈwɒtʃɪz/, washes /ˈwɒʃɪz/, boxes /ˈbɒksɪz/, changes /ˈtʃeɪndʒɪz/, places /ˈpleɪsɪz/"
+    },
+    {
+      "sound": "/s/",
+      "rule": "Phát âm là /s/ khi từ tận cùng bằng các âm vô thanh: /p/, /k/, /f/, /t/, /θ/ (mẹo nhớ: 'thời phong kiến phương Tây').",
+      "examples": "stops /stɒps/, books /bʊks/, cats /kæts/, laughs /lɑːfs/, months /mʌnθs/, roofs /ruːfs/"
+    },
+    {
+      "sound": "/z/",
+      "rule": "Phát âm là /z/ khi từ tận cùng bằng các nguyên âm và phụ âm hữu thanh còn lại.",
+      "examples": "plays /pleɪz/, dogs /dɒɡz/, pens /penz/, lives /lɪvz/, windows /ˈwɪndəʊz/, tables /ˈteɪblz/"
+    },
+    {
+      "sound": "Ngoại lệ",
+      "rule": "Từ 'house' /ˈhaʊs/ khi thêm 's' đổi thành 'houses' /ˈhaʊzɪz/ (/ɪz/). Từ 'says' phát âm là /sez/.",
+      "examples": "houses /ˈhaʊzɪz/, says /sez/"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "topicId": 70,
+  "topicName": "Nguyên âm đơn & đôi",
+  "englishName": "Monophthongs and Diphthongs",
+  "rules": [
+    {
+      "sound": "/iː/ vs /ɪ/",
+      "rule": "Nguyên âm dài /iː/ (căng miệng cười) vs ngắn /ɪ/ (thả lỏng). 'ea' và 'ee' thường đọc là /iː/ (clean, meet), nhưng 'head', 'bread' đọc là /e/.",
+      "examples": "seat /siːt/ vs sit /sɪt/; sheep /ʃiːp/ vs ship /ʃɪp/; clean /kliːn/ vs live /lɪv/"
+    },
+    {
+      "sound": "/e/ vs /æ/",
+      "rule": "Âm /e/ (mở miệng vừa phải) vs /æ/ (hạ cằm, mở rộng miệng hết cỡ).",
+      "examples": "bed /bed/ vs bad /bæd/; men /men/ vs man /mæn/; pen /pen/ vs pan /pæn/"
+    },
+    {
+      "sound": "/uː/ vs /ʊ/",
+      "rule": "Chữ 'oo' thường phát âm là /uː/ dài (moon, food, spoon) hoặc /ʊ/ ngắn (book, look, foot, cook). Ngoại lệ cực quan trọng: 'blood' và 'flood' phát âm là /ʌ/.",
+      "examples": "food /fuːd/, book /bʊk/, blood /blʌd/, flood /flʌd/"
+    },
+    {
+      "sound": "/eɪ/ đặc biệt",
+      "rule": "Ba từ cực kỳ phổ biến trong đề thi có 'ea' phát âm là /eɪ/ thay vì /iː/ hoặc /e/: great, break, steak.",
+      "examples": "great /ɡreɪt/, break /breɪk/, steak /steɪk/"
+    },
+    {
+      "sound": "/aʊ/ vs /əʊ/",
+      "rule": "Vần 'ow' và 'ou' phát âm là /aʊ/ (cow, now, house, out) hoặc /əʊ/ (slow, know, bowl, though).",
+      "examples": "now /naʊ/ vs know /nəʊ/; shout /ʃaʊt/ vs soul /səʊl/"
+    }
+  ]
+}

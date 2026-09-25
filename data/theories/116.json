@@ -1,0 +1,32 @@
+{
+  "topicId": 116,
+  "topicName": "Liên từ và mệnh đề trạng ngữ",
+  "englishName": "Conjunctions and Adverbial Clauses",
+  "rules": [
+    {
+      "rule": "Liên từ chỉ sự nhượng bộ, tương phản:",
+      "formula": "Although / Even though / Though + S + V, S + V // In spite of / Despite + N / V-ing, S + V",
+      "examples": "Although it rained heavily, we went to school on time. / Despite the heavy rain, we went to school."
+    },
+    {
+      "rule": "Lưu ý cấm kỵ: Tuyệt đối KHÔNG dùng cả 'Although' và 'But' trong cùng một câu!",
+      "formula": "ĐÚNG: Although it rained, we went out. HOẶC It rained, but we went out. (SAI: Although it rained, but we went out.)",
+      "examples": "Although he was tired, he finished his work."
+    },
+    {
+      "rule": "Liên từ chỉ lý do, nguyên nhân:",
+      "formula": "Because / Since / As + S + V, S + V // Because of / Due to + N / V-ing, S + V",
+      "examples": "Because she was ill, she stayed home. / Because of her illness, she stayed home."
+    },
+    {
+      "rule": "Cấu trúc So... that và Such... that (quá... đến nỗi mà):",
+      "formula": "S + be/V + SO + adj/adv + THAT + S + V // S + V + SUCH + (a/an) + adj + N + THAT + S + V",
+      "examples": "The tea is so hot that I cannot drink it. / It was such hot tea that I could not drink it."
+    },
+    {
+      "rule": "Liên từ chỉ mục đích:",
+      "formula": "so that / in order that + S + can/could/will/would + V-inf // in order to / so as to / to + V-inf",
+      "examples": "He studies hard so that he can pass the exam. / He studies hard in order to pass the exam."
+    }
+  ]
+}

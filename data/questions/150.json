@@ -1,0 +1,452 @@
+[
+  {
+    "id": "150_1",
+    "questionName": "Question 1",
+    "questionText": "<p>President Ho Chi Minh read the Declaration of Independence ________ September 1945.</p>",
+    "choices": [
+      {
+        "id": "150_1_2",
+        "text": "on",
+        "html": "on"
+      },
+      {
+        "id": "150_1_1",
+        "text": "in",
+        "html": "in"
+      },
+      {
+        "id": "150_1_3",
+        "text": "at",
+        "html": "at"
+      },
+      {
+        "id": "150_1_4",
+        "text": "by",
+        "html": "by"
+      }
+    ],
+    "correctChoiceId": "150_1_1",
+    "explanation": "<p>Giới từ đi với tháng, năm, thế kỷ là <strong>in (in September 1945)</strong>.</p>",
+    "ruleTip": "'IN' đi với tháng, năm, mùa, thế kỷ (in September, in 1945)."
+  },
+  {
+    "id": "150_2",
+    "questionName": "Question 2",
+    "questionText": "<p>The final English entrance examination will take place ________ Monday morning.</p>",
+    "choices": [
+      {
+        "id": "150_2_2",
+        "text": "in",
+        "html": "in"
+      },
+      {
+        "id": "150_2_3",
+        "text": "at",
+        "html": "at"
+      },
+      {
+        "id": "150_2_4",
+        "text": "to",
+        "html": "to"
+      },
+      {
+        "id": "150_2_1",
+        "text": "on",
+        "html": "on"
+      }
+    ],
+    "correctChoiceId": "150_2_1",
+    "explanation": "<p>Giới từ đi với các thứ trong tuần hoặc buổi của ngày cụ thể là <strong>on (on Monday morning)</strong>.</p>",
+    "ruleTip": "'ON' đi với các thứ trong tuần hoặc ngày cụ thể (on Monday morning)."
+  },
+  {
+    "id": "150_3",
+    "questionName": "Question 3",
+    "questionText": "<p>The school bus always arrives promptly ________ 6:45 every weekday morning.</p>",
+    "choices": [
+      {
+        "id": "150_3_2",
+        "text": "in",
+        "html": "in"
+      },
+      {
+        "id": "150_3_3",
+        "text": "on",
+        "html": "on"
+      },
+      {
+        "id": "150_3_1",
+        "text": "at",
+        "html": "at"
+      },
+      {
+        "id": "150_3_4",
+        "text": "by",
+        "html": "by"
+      }
+    ],
+    "correctChoiceId": "150_3_1",
+    "explanation": "<p>Giới từ đi với giờ giấc chính xác là <strong>at (at 6:45)</strong>.</p>",
+    "ruleTip": "'AT' đi với giờ giấc cụ thể (at 6:45, at 7 o'clock)."
+  },
+  {
+    "id": "150_4",
+    "questionName": "Question 4",
+    "questionText": "<p>My younger brother is extremely interested ________ learning computer programming.</p>",
+    "choices": [
+      {
+        "id": "150_4_2",
+        "text": "on",
+        "html": "on"
+      },
+      {
+        "id": "150_4_3",
+        "text": "at",
+        "html": "at"
+      },
+      {
+        "id": "150_4_4",
+        "text": "with",
+        "html": "with"
+      },
+      {
+        "id": "150_4_1",
+        "text": "in",
+        "html": "in"
+      }
+    ],
+    "correctChoiceId": "150_4_1",
+    "explanation": "<p>Cụm tính từ cố định: <strong>be interested in + V-ing/N (thích, quan tâm đến cái gì)</strong>.</p>",
+    "ruleTip": "Cấu trúc: 'be interested IN + V-ing/N' (hứng thú, quan tâm đến cái gì)."
+  },
+  {
+    "id": "150_5",
+    "questionName": "Question 5",
+    "questionText": "<p>Most teenagers in our class are very fond ________ listening to pop music.</p>",
+    "choices": [
+      {
+        "id": "150_5_2",
+        "text": "with",
+        "html": "with"
+      },
+      {
+        "id": "150_5_1",
+        "text": "of",
+        "html": "of"
+      },
+      {
+        "id": "150_5_3",
+        "text": "in",
+        "html": "in"
+      },
+      {
+        "id": "150_5_4",
+        "text": "about",
+        "html": "about"
+      }
+    ],
+    "correctChoiceId": "150_5_1",
+    "explanation": "<p>Cụm tính từ cố định: <strong>be fond of + V-ing/N (yêu thích cái gì)</strong>.</p>",
+    "ruleTip": "Cấu trúc: 'be fond OF + V-ing/N' (yêu thích cái gì)."
+  },
+  {
+    "id": "150_6",
+    "questionName": "Question 6",
+    "questionText": "<p>Lan is exceptionally good ________ solving difficult mathematics equations.</p>",
+    "choices": [
+      {
+        "id": "150_6_2",
+        "text": "in",
+        "html": "in"
+      },
+      {
+        "id": "150_6_3",
+        "text": "on",
+        "html": "on"
+      },
+      {
+        "id": "150_6_4",
+        "text": "for",
+        "html": "for"
+      },
+      {
+        "id": "150_6_1",
+        "text": "at",
+        "html": "at"
+      }
+    ],
+    "correctChoiceId": "150_6_1",
+    "explanation": "<p>Cụm tính từ chỉ sự giỏi giang trong một lĩnh vực: <strong>be good at + V-ing/N</strong>.</p>",
+    "ruleTip": "Cấu trúc: 'be good AT + V-ing/N' (giỏi về lĩnh vực gì)."
+  },
+  {
+    "id": "150_7",
+    "questionName": "Question 7",
+    "questionText": "<p>Parents are always proud ________ their children's honest efforts and achievements.</p>",
+    "choices": [
+      {
+        "id": "150_7_1",
+        "text": "of",
+        "html": "of"
+      },
+      {
+        "id": "150_7_2",
+        "text": "about",
+        "html": "about"
+      },
+      {
+        "id": "150_7_3",
+        "text": "with",
+        "html": "with"
+      },
+      {
+        "id": "150_7_4",
+        "text": "in",
+        "html": "in"
+      }
+    ],
+    "correctChoiceId": "150_7_1",
+    "explanation": "<p>Cụm tính từ mang nghĩa tự hào về ai/cái gì: <strong>be proud of + N/V-ing</strong>.</p>",
+    "ruleTip": "Cấu trúc: 'be proud OF + N' (tự hào về ai/cái gì)."
+  },
+  {
+    "id": "150_8",
+    "questionName": "Question 8",
+    "questionText": "<p>My uncle lives with his family ________ 45 Hang Bai Street, Hoan Kiem District.</p>",
+    "choices": [
+      {
+        "id": "150_8_2",
+        "text": "in",
+        "html": "in"
+      },
+      {
+        "id": "150_8_1",
+        "text": "at",
+        "html": "at"
+      },
+      {
+        "id": "150_8_3",
+        "text": "on",
+        "html": "on"
+      },
+      {
+        "id": "150_8_4",
+        "text": "by",
+        "html": "by"
+      }
+    ],
+    "correctChoiceId": "150_8_1",
+    "explanation": "<p>Địa chỉ nhà có số nhà cụ thể ('45 Hang Bai Street'): dùng giới từ <strong>at</strong>.</p>",
+    "ruleTip": "Địa chỉ có số nhà cụ thể: dùng giới từ 'AT' (at 45 Hang Bai street)."
+  },
+  {
+    "id": "150_9",
+    "questionName": "Question 9",
+    "questionText": "<p>There are many souvenir shops and cafés ________ Trang Tien Street in Hanoi.</p>",
+    "choices": [
+      {
+        "id": "150_9_2",
+        "text": "at",
+        "html": "at"
+      },
+      {
+        "id": "150_9_3",
+        "text": "in",
+        "html": "in"
+      },
+      {
+        "id": "150_9_4",
+        "text": "to",
+        "html": "to"
+      },
+      {
+        "id": "150_9_1",
+        "text": "on",
+        "html": "on"
+      }
+    ],
+    "correctChoiceId": "150_9_1",
+    "explanation": "<p>Tên con đường (không có số nhà): dùng giới từ <strong>on (on Trang Tien Street)</strong>.</p>",
+    "ruleTip": "Chỉ tên đường (không có số nhà cụ thể): dùng giới từ 'ON'."
+  },
+  {
+    "id": "150_10",
+    "questionName": "Question 10",
+    "questionText": "<p>My cousin has worked as a software engineer ________ Da Nang City for three years.</p>",
+    "choices": [
+      {
+        "id": "150_10_2",
+        "text": "at",
+        "html": "at"
+      },
+      {
+        "id": "150_10_1",
+        "text": "in",
+        "html": "in"
+      },
+      {
+        "id": "150_10_3",
+        "text": "on",
+        "html": "on"
+      },
+      {
+        "id": "150_10_4",
+        "text": "to",
+        "html": "to"
+      }
+    ],
+    "correctChoiceId": "150_10_1",
+    "explanation": "<p>Tên thành phố, quốc gia, tỉnh thành: dùng giới từ <strong>in (in Da Nang City)</strong>.</p>",
+    "ruleTip": "Tên thành phố, quốc gia: dùng giới từ 'IN' (in Da Nang, in Vietnam)."
+  },
+  {
+    "id": "150_11",
+    "questionName": "Question 11",
+    "questionText": "<p>We are really looking forward to ________ our old classmates this summer vacation.</p>",
+    "choices": [
+      {
+        "id": "150_11_2",
+        "text": "meet",
+        "html": "meet"
+      },
+      {
+        "id": "150_11_3",
+        "text": "met",
+        "html": "met"
+      },
+      {
+        "id": "150_11_1",
+        "text": "meeting",
+        "html": "meeting"
+      },
+      {
+        "id": "150_11_4",
+        "text": "to meet",
+        "html": "to meet"
+      }
+    ],
+    "correctChoiceId": "150_11_1",
+    "explanation": "<p>Cụm từ cố định: <strong>look forward to + V-ing (mong chờ việc gì)</strong>: chọn <strong>meeting</strong>.</p>",
+    "ruleTip": "'Look forward to + V-ing': rất mong chờ, háo hức làm điều gì."
+  },
+  {
+    "id": "150_12",
+    "questionName": "Question 12",
+    "questionText": "<p>Bat Trang village is famous ________ its traditional handcrafted porcelain and ceramic products.</p>",
+    "choices": [
+      {
+        "id": "150_12_1",
+        "text": "for",
+        "html": "for"
+      },
+      {
+        "id": "150_12_2",
+        "text": "with",
+        "html": "with"
+      },
+      {
+        "id": "150_12_3",
+        "text": "about",
+        "html": "about"
+      },
+      {
+        "id": "150_12_4",
+        "text": "in",
+        "html": "in"
+      }
+    ],
+    "correctChoiceId": "150_12_1",
+    "explanation": "<p>Cụm tính từ mang nghĩa nổi tiếng về cái gì: <strong>famous for + N</strong>.</p>",
+    "ruleTip": "Cấu trúc: 'famous FOR + N' (nổi tiếng về cái gì)."
+  },
+  {
+    "id": "150_13",
+    "questionName": "Question 13",
+    "questionText": "<p>Whether our outdoor picnic will take place depends largely ________ the weather forecast.</p>",
+    "choices": [
+      {
+        "id": "150_13_2",
+        "text": "in",
+        "html": "in"
+      },
+      {
+        "id": "150_13_3",
+        "text": "to",
+        "html": "to"
+      },
+      {
+        "id": "150_13_1",
+        "text": "on",
+        "html": "on"
+      },
+      {
+        "id": "150_13_4",
+        "text": "with",
+        "html": "with"
+      }
+    ],
+    "correctChoiceId": "150_13_1",
+    "explanation": "<p>Động từ phụ thuộc vào cái gì: <strong>depend on + N</strong>.</p>",
+    "ruleTip": "Cấu trúc: 'depend ON + N' (phụ thuộc vào cái gì)."
+  },
+  {
+    "id": "150_14",
+    "questionName": "Question 14",
+    "questionText": "<p>What activities do you and your friends often do ________ the weekend?</p>",
+    "choices": [
+      {
+        "id": "150_14_1",
+        "text": "at",
+        "html": "at"
+      },
+      {
+        "id": "150_14_2",
+        "text": "in",
+        "html": "in"
+      },
+      {
+        "id": "150_14_3",
+        "text": "to",
+        "html": "to"
+      },
+      {
+        "id": "150_14_4",
+        "text": "for",
+        "html": "for"
+      }
+    ],
+    "correctChoiceId": "150_14_1",
+    "explanation": "<p>Cụm từ chỉ thời gian chuẩn tiếng Anh thi vào 10: <strong>at the weekend</strong> (vào dịp cuối tuần).</p>",
+    "ruleTip": "Cụm từ cố định chỉ thời gian: 'at the weekend' (Anh-Anh) hoặc 'on the weekend' (Anh-Mỹ)."
+  },
+  {
+    "id": "150_15",
+    "questionName": "Question 15",
+    "questionText": "<p>The teacher congratulated Nam ________ achieving the highest score in the English trial exam.</p>",
+    "choices": [
+      {
+        "id": "150_15_2",
+        "text": "for",
+        "html": "for"
+      },
+      {
+        "id": "150_15_3",
+        "text": "at",
+        "html": "at"
+      },
+      {
+        "id": "150_15_1",
+        "text": "on",
+        "html": "on"
+      },
+      {
+        "id": "150_15_4",
+        "text": "about",
+        "html": "about"
+      }
+    ],
+    "correctChoiceId": "150_15_1",
+    "explanation": "<p>Cấu trúc chúc mừng ai về điều gì: <strong>congratulate sb on + V-ing/N</strong>: chọn <strong>on</strong>.</p>",
+    "ruleTip": "Cấu trúc: 'congratulate sb ON + V-ing/N' (chúc mừng ai về điều gì)."
+  }
+]

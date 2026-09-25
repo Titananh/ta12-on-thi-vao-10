@@ -1,0 +1,1186 @@
+{
+  "quizId": 6039,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 68: Conditional sentences Type 2 (Câu điều kiện loại 2)",
+  "totalQuestions": 33,
+  "questions": [
+    {
+      "id": 902614,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Ch&#7885;n &#273;&#225;p &#225;n &#273;&#250;ng &#273;&#7875; ho&#224;n th&#224;nh c&#226;u.&nbsp;</em></p>\n<p><strong>Ch&#250;ng ta s&#7917; d&#7909;ng _____ &#273;&#7875; n&#243;i v&#7873; c&#225;c t&#236;nh hu&#7889;ng/h&#224;nh &#273;&#7897;ng trong hi&#7879;n t&#7841;i ho&#7863;c t&#432;&#417;ng lai m&#224; kh&#244;ng c&#243; kh&#7843; n&#259;ng x&#7843;y ra ho&#7863;c kh&#244;ng th&#7875; x&#7843;y ra.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715084,
+          "label": "A",
+          "text": "Câu điều kiện loại 0",
+          "isCorrect": false
+        },
+        {
+          "id": 1715085,
+          "label": "B",
+          "text": "Câu điều kiện loại 1",
+          "isCorrect": false
+        },
+        {
+          "id": 1715086,
+          "label": "C",
+          "text": "Câu điều kiện loại 2",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1715086,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/5_-_Copy_32_8330e2f8.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 902623,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#7885;n c&#225;c ph&#432;&#417;ng &#225;n &#273;&#250;ng.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1715097,
+          "label": "A",
+          "text": "Trong câu điều kiện loại 2, dùng \"was\" trang trọng hơn \"were\".",
+          "isCorrect": false
+        },
+        {
+          "id": 1715098,
+          "label": "B",
+          "text": "Cần thêm dấu phẩy (,) giữa các mệnh đề khi mệnh đề \"If\" đứng trước mệnh đề chính.",
+          "isCorrect": true
+        },
+        {
+          "id": 1715099,
+          "label": "C",
+          "text": "Câu điều kiện loại 2 được dùng để đưa ra lời khuyên.",
+          "isCorrect": true
+        },
+        {
+          "id": 1715100,
+          "label": "D",
+          "text": "Thay đổi thứ tự các mệnh đề trong câu điều kiện có thể làm thay đổi nghĩa của câu.",
+          "isCorrect": false
+        },
+        {
+          "id": 1715101,
+          "label": "E",
+          "text": "Trong câu điều kiện loại 2, động từ to be ở mệnh đề \"If\" có thể là \"were\" với mọi chủ ngữ.",
+          "isCorrect": true
+        },
+        {
+          "id": 1715102,
+          "label": "F",
+          "text": "Câu điều kiện loại 2 được dùng để đưa ra cảnh báo hoặc đe dọa.",
+          "isCorrect": false
+        },
+        {
+          "id": 1715103,
+          "label": "Opt 7",
+          "text": "Câu điều kiện loại 2 được dùng để diễn tả giả thiết khó có thể hoặc không thể xảy ra ở hiện tại.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1715098,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 33.0747%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/4_-_Copy_29_746b6fc6.png\" alt=\"\" width=\"400\" /></td>\n<td style=\"width: 33.0747%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/5_-_Copy_32_8330e2f8.png\" alt=\"\" width=\"400\" /></td>\n<td style=\"width: 33.0772%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/6_-_Copy_27_953662d8.png\" alt=\"\" width=\"400\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 17684,
+      "questionNumber": 3,
+      "questionName": "B.10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>My English is not good. If I _____ English well now, I _____ able to go abroad.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 57208,
+          "label": "A",
+          "text": "spoke / were",
+          "isCorrect": false
+        },
+        {
+          "id": 57209,
+          "label": "B",
+          "text": "speak / would be",
+          "isCorrect": false
+        },
+        {
+          "id": 57210,
+          "label": "C",
+          "text": "had spoken / would have been",
+          "isCorrect": false
+        },
+        {
+          "id": 57211,
+          "label": "D",
+          "text": "spoke / would be",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 57211,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Ch&uacute; &yacute; c&acirc;u \"<em>My English is not good.</em>\" v&agrave; trạng từ \"<em>now</em>\" trong mệnh đề <em>If</em> cho thấy bạn đang diễn tả một điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại. H&atilde;y nhớ lại cấu tr&uacute;c của c&acirc;u điều kiện loại 2 để diễn tả t&igrave;nh huống n&agrave;y.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u điều kiện loại 2</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Diễn tả một h&agrave;nh động hoặc sự việc kh&ocirc;ng c&oacute; thật ở hiện tại hoặc tương lai, hoặc một giả định tr&aacute;i ngược với sự thật ở hiện tại, dẫn đến một kết quả giả định ở hiện tại hoặc tương lai.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(-ed/cột 2), S + would/could/might + V(inf)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u gốc c&oacute; từ \"<em>now</em>\" v&agrave; cụm \"<em>is not good</em>\" cho thấy đ&acirc;y l&agrave; một giả định tr&aacute;i ngược với thực tế ở hiện tại. Do đ&oacute;, ch&uacute;ng ta cần &aacute;p dụng cấu tr&uacute;c c&acirc;u điều kiện loại 2 với cấu tr&uacute;c <em>If + S + V(qu&aacute; khứ đơn), S + would/could/might + V(nguy&ecirc;n thể)</em>. Phương &aacute;n \"<em>spoke / would be</em>\" tu&acirc;n thủ đ&uacute;ng cấu tr&uacute;c n&agrave;y, với \"<em>spoke</em>\" l&agrave; qu&aacute; khứ đơn của \"<em>speak</em>\" v&agrave; \"<em>would be</em>\" l&agrave; mệnh đề ch&iacute;nh. C&aacute;c phương &aacute;n c&ograve;n lại kh&ocirc;ng ph&ugrave; hợp v&igrave;:</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 (\"<em>spoke / were</em>\") d&ugrave; c&oacute; \"<em>spoke</em>\" đ&uacute;ng cho mệnh đề <em>If</em>, \"<em>were</em>\" ở mệnh đề ch&iacute;nh kh&ocirc;ng đủ để tạo th&agrave;nh c&acirc;u điều kiện loại 2 ho&agrave;n chỉnh v&igrave; n&oacute; thiếu trợ động từ \"<em>would</em>\".</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 (\"<em>speak / would be</em>\") với mệnh đề <em>If </em>sử dụng \"<em>speak</em>\" (th&igrave; hiện tại đơn) sẽ tạo th&agrave;nh c&acirc;u điều kiện loại 1, diễn tả điều kiện c&oacute; thật hoặc c&oacute; khả năng xảy ra, kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh giả định tr&aacute;i ngược với thực tế ở hiện tại.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 3 (\"<em>had spoken / would have been</em>\") l&agrave; cấu tr&uacute;c của c&acirc;u điều kiện loại 3, d&ugrave;ng để diễn tả điều kiện kh&ocirc;ng c&oacute; thật trong qu&aacute; khứ, tr&aacute;i với ngữ cảnh \"now\" (hiện tại) của c&acirc;u.</li>\n</ul>",
+      "answerFeedbacks": {
+        "57208": "Sai vì mệnh đề chính cần <em>would be</em> thay vì <em>were</em> để tạo thành câu điều kiện loại 2 đúng.",
+        "57209": "Sai vì mệnh đề <em>If</em> cần động từ chia ở thì quá khứ đơn (<em>spoke</em>) để diễn tả điều kiện không có thật ở hiện tại.",
+        "57210": "Sai vì đây là cấu trúc của câu điều kiện loại 3, dùng để diễn tả điều kiện không có thật trong quá khứ, không phù hợp với ngữ cảnh \"now\".",
+        "57211": "Đúng vì cấu trúc <em>If + S + V(quá khứ đơn), S + would + V(nguyên thể)</em> là cấu trúc đúng của câu điều kiện loại 2, diễn tả giả định trái ngược với thực tế ở hiện tại."
+      },
+      "images": []
+    },
+    {
+      "id": 14116,
+      "questionNumber": 4,
+      "questionName": "Q6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If our teacher were here now, he _____ us with this difficult exercise.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 47269,
+          "label": "A",
+          "text": "has helped",
+          "isCorrect": false
+        },
+        {
+          "id": 47270,
+          "label": "B",
+          "text": "helps",
+          "isCorrect": false
+        },
+        {
+          "id": 47271,
+          "label": "C",
+          "text": "will help",
+          "isCorrect": false
+        },
+        {
+          "id": 47272,
+          "label": "D",
+          "text": "would help",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 47272,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Mệnh đề <em>\"</em><em>If our teacher were here now</em><em>\"</em> với động từ <em>\"were\"</em> v&agrave; trạng từ <em>\"now\"</em> l&agrave; dấu hiệu r&otilde; r&agrave;ng cho thấy đ&acirc;y l&agrave; c&acirc;u điều kiện loại 2 diễn tả điều kh&ocirc;ng c&oacute; thật ở hiện tại. H&atilde;y x&aacute;c định cấu tr&uacute;c động từ ph&ugrave; hợp cho mệnh đề ch&iacute;nh theo quy tắc của loại c&acirc;u điều kiện n&agrave;y.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u điều kiện loại 2</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&acirc;u điều kiện loại 2 d&ugrave;ng để diễn tả một h&agrave;nh động hoặc sự việc kh&ocirc;ng c&oacute; thật ở hiện tại hoặc tương lai, hoặc kh&ocirc;ng thể xảy ra ở hiện tại/tương lai. N&oacute; thường d&ugrave;ng để đưa ra lời khuy&ecirc;n, y&ecirc;u cầu, hoặc b&agrave;y tỏ mong muốn tr&aacute;i với thực tế.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(-ed/cột 2) / were (cho tất cả c&aacute;c ng&ocirc;i), S + would/could/might + V(inf)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, mệnh đề <em>\"If our teacher were here now\"</em> sử dụng động từ <em>\"were\"</em> (qu&aacute; khứ đơn) v&agrave; trạng từ <em>\"now\"</em>, cho thấy đ&acirc;y l&agrave; một c&acirc;u điều kiện loại 2, diễn tả một giả định tr&aacute;i với thực tế ở hiện tại. Do đ&oacute;, mệnh đề ch&iacute;nh phải sử dụng cấu tr&uacute;c <em>\"would + V(inf)\"</em>.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n <em>\"would help\"</em> l&agrave; đ&aacute;p &aacute;n ch&iacute;nh x&aacute;c v&igrave; n&oacute; tu&acirc;n thủ cấu tr&uacute;c của mệnh đề ch&iacute;nh trong c&acirc;u điều kiện loại 2. C&aacute;c phương &aacute;n c&ograve;n lại như <em>\"helps\"</em> (hiện tại đơn), <em>\"will help\"</em> (tương lai đơn) v&agrave; <em>\"has helped\"</em> (hiện tại ho&agrave;n th&agrave;nh) đều kh&ocirc;ng ph&ugrave; hợp với cấu tr&uacute;c mệnh đề ch&iacute;nh của c&acirc;u điều kiện loại 2.</p>",
+      "answerFeedbacks": {
+        "47269": "Sai vì thì hiện tại hoàn thành không dùng trong mệnh đề chính của câu điều kiện loại 2.",
+        "47270": "Sai vì thì hiện tại đơn không dùng trong mệnh đề chính của câu điều kiện loại 2.",
+        "47271": "Sai vì đây là cấu trúc của câu điều kiện loại 1, không phù hợp với giả định trái thực tế ở hiện tại.",
+        "47272": "Đúng vì đây là dạng động từ phù hợp với mệnh đề chính của câu điều kiện loại 2 để diễn tả một kết quả giả định không có thật ở hiện tại."
+      },
+      "images": []
+    },
+    {
+      "id": 18241,
+      "questionNumber": 5,
+      "questionName": "II.17",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Why don&#8217;t we emigrate? If we ____ in Australia, at least the weather ____ better.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 58340,
+          "label": "A",
+          "text": "lived / would be",
+          "isCorrect": true
+        },
+        {
+          "id": 58341,
+          "label": "B",
+          "text": "didn’t live / is",
+          "isCorrect": false
+        },
+        {
+          "id": 58342,
+          "label": "C",
+          "text": "live / would be",
+          "isCorrect": false
+        },
+        {
+          "id": 58343,
+          "label": "D",
+          "text": "live / will be",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 58340,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>C&acirc;u hỏi n&agrave;y đang diễn tả một t&igrave;nh huống <span style=\"font-weight: 600;\">giả định, kh&ocirc;ng c&oacute; thật ở hiện tại</span>, được gợi &yacute; bởi c&acirc;u hỏi <em>\"Why don&rsquo;t we emigrate?\"</em>. H&atilde;y nhớ lại cấu tr&uacute;c của <span style=\"font-weight: 600;\">c&acirc;u điều kiện loại 2</span> d&ugrave;ng để diễn tả c&aacute;c t&igrave;nh huống như vậy.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>C&acirc;u điều kiện loại 2</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Diễn tả một h&agrave;nh động hoặc sự việc kh&ocirc;ng c&oacute; thật ở hiện tại hoặc tương lai, hoặc một t&igrave;nh huống giả định, kh&ocirc;ng thể xảy ra ở hiện tại.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(qu&aacute; khứ đơn), S + would/could/might + V(nguy&ecirc;n thể)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi diễn tả một t&igrave;nh huống giả định, kh&ocirc;ng c&oacute; thật ở hiện tại (họ chưa di cư) v&agrave; kết quả của n&oacute; nếu điều kiện đ&oacute; xảy ra. Điều n&agrave;y ph&ugrave; hợp với c&aacute;ch d&ugrave;ng của c&acirc;u điều kiện loại 2. Theo cấu tr&uacute;c c&acirc;u điều kiện loại 2, mệnh đề <em>If</em> d&ugrave;ng th&igrave; qu&aacute; khứ đơn v&agrave; mệnh đề ch&iacute;nh d&ugrave;ng <em>would/could/might + V(nguy&ecirc;n thể)</em>. V&igrave; vậy, đ&aacute;p &aacute;n đ&uacute;ng phải l&agrave; <em>\"lived / would be\"</em>.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 2 (''<em>didn't live / is'</em>') sai v&igrave; mệnh đề <em>If</em> kh&ocirc;ng sử dụng dạng phủ định của qu&aacute; khứ đơn m&agrave; kh&ocirc;ng c&oacute; l&yacute; do ngữ nghĩa r&otilde; r&agrave;ng, v&agrave; mệnh đề ch&iacute;nh sử dụng th&igrave; hiện tại đơn kh&ocirc;ng ph&ugrave; hợp với c&acirc;u điều kiện loại 2.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 3 (\"<em>live / would be</em>\") v&agrave; phương &aacute;n 4 (\"<em>live / will be</em>\") đều sai v&igrave; mệnh đề <em>If</em> sử dụng th&igrave; hiện tại đơn (\"<em>live</em>\"), kh&ocirc;ng đ&uacute;ng với cấu tr&uacute;c của c&acirc;u điều kiện loại 2, vốn d&ugrave;ng để diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</p>\n<p style=\"text-align: justify;\">&nbsp;</p>",
+      "answerFeedbacks": {
+        "58340": "Đúng vì đây là cấu trúc của câu điều kiện loại 2, dùng để diễn tả một điều kiện không có thật ở hiện tại và kết quả giả định của nó.",
+        "58341": "Sai vì mệnh đề <em>If</em> không sử dụng dạng phủ định của quá khứ đơn mà không có lý do ngữ nghĩa rõ ràng, và mệnh đề chính sử dụng thì hiện tại đơn không phù hợp với câu điều kiện loại 2.",
+        "58342": "Sai vì mệnh đề <em>If</em> sử dụng thì hiện tại đơn, không đúng với cấu trúc của câu điều kiện loại 2.",
+        "58343": "Sai vì cả hai mệnh đề đều sử dụng thì của câu điều kiện loại 1, dùng để diễn tả điều kiện có thật hoặc có khả năng xảy ra trong hiện tại/tương lai, không phù hợp với ngữ cảnh giả định."
+      },
+      "images": []
+    },
+    {
+      "id": 704441,
+      "questionNumber": 6,
+      "questionName": "(*) Question 12:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If Sarah did exercise more regularly, she _____ better health.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1367141,
+          "label": "A",
+          "text": "will have",
+          "isCorrect": false
+        },
+        {
+          "id": 1367142,
+          "label": "B",
+          "text": "would have",
+          "isCorrect": true
+        },
+        {
+          "id": 1367143,
+          "label": "C",
+          "text": "can have",
+          "isCorrect": false
+        },
+        {
+          "id": 1367144,
+          "label": "D",
+          "text": "should have",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1367142,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Xác định loại câu điều kiện dựa vào thì của động từ trong mệnh đề <em>If</em>. Trong câu này, <em>If Sarah did exercise more regularly</em> sử dụng thì quá khứ đơn (<em>did exercise</em>) cho mệnh đề <em>If </em>và <span style=\"text-align: justify;\">là dấu hiệu của câu điều kiện loại 2.</span></p>\n<p>Hãy nhớ lại cấu trúc của mệnh đề chính trong câu điều kiện loại 2 và đối chiếu với các phương án.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu điều kiện loại 2</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một hành động hoặc sự việc không có thật ở hiện tại hoặc tương lai, hoặc một giả định trái ngược với thực tế ở hiện tại, và kết quả giả định của hành động/sự việc đó.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(-ed/cột 2), S + would/could/might + V(inf)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Mệnh đề <em>If</em> trong câu là <em>If Sarah did exercise more regularly</em>, với động từ <em>did exercise</em> (quá khứ đơn), đây là dấu hiệu của câu điều kiện loại 2. Do đó, mệnh đề chính cần sử dụng cấu trúc <em>S + would/could/might + V(inf)</em>.</p>\n<p style=\"text-align: justify;\">Phương án 2 (<em>would have</em>) phù hợp với cấu trúc này, diễn tả kết quả giả định nếu điều kiện không có thật ở hiện tại xảy ra. Các phương án khác không tuân thủ cấu trúc câu điều kiện loại 2.</p>",
+      "answerFeedbacks": {
+        "1367141": "Sai vì <em>will have</em> được dùng trong câu điều kiện loại 1, diễn tả hành động có thể xảy ra ở hiện tại hoặc tương lai, không phù hợp với giả định trái thực tế trong câu.",
+        "1367142": "Đúng vì <em>would have</em> là thì của mệnh đề chính trong câu điều kiện loại 2, phù hợp với mệnh đề <em>If Sarah did exercise more regularly</em> (quá khứ đơn giả định).",
+        "1367143": "Sai vì <em>can have</em> diễn tả khả năng ở hiện tại hoặc tương lai, không dùng trong mệnh đề chính của câu điều kiện loại 2 để diễn tả giả định trái ngược với thực tế.",
+        "1367144": "Sai vì <em>should have</em> thường đi kèm với phân từ hai (V-ed/V3) để diễn tả sự hối tiếc hoặc điều lẽ ra nên làm trong quá khứ, không phù hợp với cấu trúc câu điều kiện loại 2."
+      },
+      "images": []
+    },
+    {
+      "id": 778888,
+      "questionNumber": 7,
+      "questionName": "39",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>If Diana _____ her favourite musician, she'd ask his advice about becoming a better guitarist.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1496271,
+          "label": "A",
+          "text": "met",
+          "isCorrect": true
+        },
+        {
+          "id": 1496272,
+          "label": "B",
+          "text": "meets",
+          "isCorrect": false
+        },
+        {
+          "id": 1496273,
+          "label": "C",
+          "text": "will meet",
+          "isCorrect": false
+        },
+        {
+          "id": 1496274,
+          "label": "D",
+          "text": "had met",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1496271,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>C&acirc;u điều kiện loại 2 diễn tả một giả định kh&ocirc;ng c&oacute; thật ở hiện tại hoặc tương lai. Cấu tr&uacute;c của c&acirc;u điều kiện loại 2 l&agrave;: <em>If + S + V(qu&aacute; khứ đơn), S + would/could/might + V(inf)</em>.</p>\n<p>Trong c&acirc;u đ&atilde; cho, mệnh đề ch&iacute;nh l&agrave; <em>\"she'd ask his advice\"</em>, đ&acirc;y l&agrave; dạng r&uacute;t gọn của <em>\"she would ask\"</em>. Bạn cần t&igrave;m động từ ở th&igrave; qu&aacute; khứ đơn để điền v&agrave;o chỗ trống trong mệnh đề <em>\"If Diana ____ her favourite musician\"</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><strong>Câu điều kiện loại 2</strong></span>.</p><blockquote style=\"padding-left: 18px; margin-left: 0;\"><p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Câu điều kiện loại 2 dùng để diễn tả một hành động hoặc sự việc không có thật ở hiện tại hoặc tương lai, hoặc một giả định trái với thực tế ở hiện tại.</p><p style=\"text-align: justify;\"><strong>Cấu trúc: <span style=\"color: #1c581f;\">If + S + V(pt), S + would/could/might + V(inf)</span></strong></p></blockquote><p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p><p style=\"text-align: justify;\">Trong câu đã cho, mệnh đề chính là <em>\"she'd ask his advice\"</em>, đây là dạng rút gọn của <em>\"she would ask\"</em>, phù hợp với cấu trúc của câu điều kiện loại 2. Do đó, động từ trong mệnh đề \"if\" phải ở thì quá khứ đơn.</p><p style=\"text-align: justify;\">Phương án 1 <em>\"met\"</em> là quá khứ đơn của <em>\"meet\"</em>, là đáp án chính xác.</p>",
+      "answerFeedbacks": {
+        "1496271": "Đây là dạng quá khứ đơn của động từ \"meet\", phù hợp với cấu trúc của mệnh đề \"if\" trong câu điều kiện loại 2.",
+        "1496272": "Dạng hiện tại đơn \"meets\" được dùng trong câu điều kiện loại 1, không phù hợp với mệnh đề chính <em>\"she'd ask\"</em> của câu điều kiện loại 2.",
+        "1496273": "Dạng thì tương lai đơn \"will meet\" không được sử dụng trong mệnh đề \"if\" của câu điều kiện.",
+        "1496274": "Dạng quá khứ hoàn thành \"had met\" được dùng trong câu điều kiện loại 3, không phù hợp với mệnh đề chính <em>\"she'd ask\"</em> của câu điều kiện loại 2."
+      },
+      "images": []
+    },
+    {
+      "id": 11399,
+      "questionNumber": 8,
+      "questionName": "Question 643.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If I were a little taller, I _____ be able to water the plant on the top shelf.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 37033,
+          "label": "A",
+          "text": "did",
+          "isCorrect": false
+        },
+        {
+          "id": 37034,
+          "label": "B",
+          "text": "would",
+          "isCorrect": true
+        },
+        {
+          "id": 37035,
+          "label": "C",
+          "text": "had",
+          "isCorrect": false
+        },
+        {
+          "id": 37036,
+          "label": "D",
+          "text": "would have",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 37034,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</p>\n<p>Cấu tr&uacute;c:<strong> If + S + were + ..., S + would/could/... + V(inf)&nbsp;</strong></p>\n<p>Trong mệnh đề IF, động từ \"<strong>be</strong>\" c&oacute; thể l&agrave; \"<strong>were</strong>\" với mọi chủ ngữ.</p>\n<p>Dịch: Nếu t&ocirc;i cao hơn một ch&uacute;t, t&ocirc;i c&oacute; thể tưới được c&acirc;y ở tr&ecirc;n kệ cao nhất.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 145366,
+      "questionNumber": 9,
+      "questionName": "5 ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If machines with chips broke down, they _____ the problem to the manufacturer by themselves.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 341821,
+          "label": "A",
+          "text": "will report",
+          "isCorrect": false
+        },
+        {
+          "id": 341822,
+          "label": "B",
+          "text": "would report",
+          "isCorrect": true
+        },
+        {
+          "id": 547893,
+          "label": "C",
+          "text": "reported",
+          "isCorrect": false
+        },
+        {
+          "id": 547894,
+          "label": "D",
+          "text": "were reporting",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 341822,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</p>\n<p>Cấu tr&uacute;c:<strong> If + S + V(pt), S + would/could/... + V(inf)&nbsp;</strong></p>\n<p>Dịch: Nếu m&aacute;y c&oacute; chip hỏng, họ sẽ tự b&aacute;o c&aacute;o vấn đề n&agrave;y tới nh&agrave; sản xuất.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 165082,
+      "questionNumber": 10,
+      "questionName": "23 ",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>If the wall weren't so high, he _____ it up to take his ball down.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 383132,
+          "label": "A",
+          "text": "climbed",
+          "isCorrect": false
+        },
+        {
+          "id": 383133,
+          "label": "B",
+          "text": "could climb",
+          "isCorrect": true
+        },
+        {
+          "id": 383134,
+          "label": "C",
+          "text": "is climbing",
+          "isCorrect": false
+        },
+        {
+          "id": 383135,
+          "label": "D",
+          "text": "climb",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 383133,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;u điều kiện loại 2<strong> </strong>diễn tả giả thiết kh&ocirc;ng c&oacute; thật ở hiện tại.</p>\n<p>Cấu tr&uacute;c:<strong> lf + S + were + (not) + ..., S + would/could/... + V(inf)</strong></p>\n<p>Dịch: Nếu bức tường kh&ocirc;ng qu&aacute; cao, anh ấy c&oacute; thể tr&egrave;o l&ecirc;n để lấy quả b&oacute;ng xuống.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 63570,
+      "questionNumber": 11,
+      "questionName": "Question 4",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If I ______ you, I ______ some rest before the game tomorrow.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 170041,
+          "label": "A",
+          "text": "am/will take",
+          "isCorrect": false
+        },
+        {
+          "id": 170042,
+          "label": "B",
+          "text": "was/ will take",
+          "isCorrect": false
+        },
+        {
+          "id": 170043,
+          "label": "C",
+          "text": "would be/ would take",
+          "isCorrect": false
+        },
+        {
+          "id": 170044,
+          "label": "D",
+          "text": "were/ would take",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 170044,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;u điều kiện loại 2 được d&ugrave;ng để đưa ra lời khuy&ecirc;n.&nbsp;</p>\n<p>Cấu tr&uacute;c: <strong>If + S + were + ..., S + would/could/... + V(inf)</strong></p>\n<p>Trong mệnh đề IF, động từ \"<strong>be</strong>\" c&oacute; thể l&agrave; \"<strong>were</strong>\" với mọi chủ ngữ.</p>\n<p>Dịch: Nếu t&ocirc;i l&agrave; bạn, t&ocirc;i sẽ nghỉ ngơi một ch&uacute;t trước trận đấu ng&agrave;y mai.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 654541,
+      "questionNumber": 12,
+      "questionName": "Complete Book 4 - p24",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>If my mother _____ at home now, she would know how to handle this crisis.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1261095,
+          "label": "A",
+          "text": "were",
+          "isCorrect": true
+        },
+        {
+          "id": 1261096,
+          "label": "B",
+          "text": "be",
+          "isCorrect": false
+        },
+        {
+          "id": 1261097,
+          "label": "C",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "id": 1261098,
+          "label": "D",
+          "text": "are",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1261095,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Hãy xem xét mệnh đề chính <em>\"she <strong>would know</strong> how to handle this crisis\"</em>. Cấu trúc <em>\"would + V(inf)\"</em> là dấu hiệu của một loại câu điều kiện cụ thể. Khi mệnh đề chính có <em>\"would + V(inf)\"</em>, mệnh đề <em>If</em> cần sử dụng thì quá khứ đơn.</p>\n<p style=\"text-align: justify;\">Đặc biệt, trong câu điều kiện loại 2, động từ <em>\"to be\"</em> trong mệnh đề <em>If</em> luôn được chia là gì cho tất cả các ngôi, kể cả chủ ngữ số ít như <em>\"my mother\"</em>?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><strong>Câu điều kiện loại 2</strong></span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một hành động hoặc sự việc không có thật ở hiện tại hoặc tương lai, hoặc một tình huống giả định, không thể xảy ra ở hiện tại hoặc tương lai. Câu điều kiện loại 2 thường dùng để đưa ra lời khuyên, bày tỏ mong muốn hoặc giả định một điều gì đó.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(-ed/cột 2), S + would/could/might + V(inf)</span></p>\n<p><b>Lưu ý:</b> động từ <em>\"to be\"</em> luôn chia là <em>\"were\"</em> cho tất cả các ngôi (I, he, she, it, we, you, they) trong mệnh đề <em>If</em> của câu điều kiện loại 2.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu hỏi chứa mệnh đề kết quả <em>\"she would know how to handle this crisis\"</em> với cấu trúc <em>\"S + would + V(inf)\"</em>, đây là dấu hiệu của câu điều kiện loại 2. Trong câu điều kiện loại 2, động từ trong mệnh đề <em>If</em> phải được chia ở thì quá khứ đơn hoặc dùng <em>\"were\"</em> cho động từ <em>\"to be\"</em> ở tất cả các ngôi, bao gồm cả chủ ngữ số ít như <em>\"my mother\"</em>.</p>\n<p style=\"text-align: justify;\">Phương án 1 <em>\"were\"</em> tuân thủ quy tắc này, trong khi các phương án còn lại không phù hợp với cấu trúc của câu điều kiện loại 2.</p>",
+      "answerFeedbacks": {
+        "1261095": "Đúng vì <em>\"were\"</em> là dạng động từ <em>\"to be\"</em> chính xác được sử dụng cho tất cả các ngôi (bao gồm cả chủ ngữ số ít như <em>\"my mother\"</em>) trong mệnh đề <em>If</em> của câu điều kiện loại 2.",
+        "1261096": "Sai vì <em>\"be\"</em> là dạng nguyên thể của động từ <em>\"to be\"</em>, không được dùng trực tiếp sau chủ ngữ trong mệnh đề <em>If</em> của câu điều kiện loại 2.",
+        "1261097": "Sai vì <em>\"is\"</em> là dạng hiện tại đơn của động từ <em>\"to be\"</em> cho chủ ngữ số ít, không phù hợp với thì quá khứ đơn hoặc giả định của câu điều kiện loại 2.",
+        "1261098": "Sai vì <em>\"are\"</em> là dạng hiện tại đơn của động từ <em>\"to be\"</em> cho chủ ngữ số nhiều hoặc ngôi <em>\"you\"</em>, không phù hợp với cả chủ ngữ <em>\"my mother\"</em> lẫn cấu trúc câu điều kiện loại 2."
+      },
+      "images": []
+    },
+    {
+      "id": 51895,
+      "questionNumber": 13,
+      "questionName": "Question 24:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>Would people <u>be able</u> <u>to fly</u> if <u>they</u> <u>have</u> two wings?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 146399,
+          "label": "A",
+          "text": "be able",
+          "isCorrect": false
+        },
+        {
+          "id": 146400,
+          "label": "B",
+          "text": "to fly",
+          "isCorrect": false
+        },
+        {
+          "id": 146401,
+          "label": "C",
+          "text": "they",
+          "isCorrect": false
+        },
+        {
+          "id": 146402,
+          "label": "D",
+          "text": "have",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 146402,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Xác định loại câu điều kiện dựa vào cấu trúc của mệnh đề chính.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra thì của động từ trong mệnh đề <em>If</em> để đảm bảo phù hợp với loại câu điều kiện đã xác định.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Đối chiếu từng phần gạch chân với các quy tắc của câu điều kiện loại 2 để xác định phần nào cần sửa.</li>\n</ul>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu điều kiện loại 2</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Câu điều kiện loại 2 được dùng để diễn tả một hành động, sự việc không có thật ở hiện tại hoặc tương lai, hoặc một giả định trái ngược với thực tế ở hiện tại.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(quá khứ đơn), S + would/could/might + V(nguyên thể)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, mệnh đề chính <em>\"Would people be able to fly\"</em> sử dụng cấu trúc <em>\"Would + V(inf)\"</em>, đây là dấu hiệu của câu điều kiện loại 2. Theo quy tắc, mệnh đề <em>If</em> phải sử dụng thì quá khứ đơn. Tuy nhiên, từ <em>\"have\"</em> đang ở thì hiện tại đơn, không đúng với cấu trúc này.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>have</strong></em>\" =&gt; \"<em><strong>had</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "146399": "Cụm <em>\"be able to\"</em> là cấu trúc diễn đạt khả năng, phù hợp với ngữ cảnh và được dùng với <em>\"would\"</em> để tạo thành <em>\"would be able to\"</em>.",
+        "146400": "Động từ <em>\"to fly\"</em> là dạng nguyên thể có <em>\"to\"</em>, theo sau <em>\"be able\"</em> trong cấu trúc <em>\"be able to V(inf)\"</em> là chính xác.",
+        "146401": "Đại từ <em>\"they\"</em> đóng vai trò chủ ngữ cho mệnh đề <em>If</em>, hoàn toàn chính xác về mặt ngữ pháp.",
+        "146402": "Từ <em>\"have\"</em> đang ở thì hiện tại đơn, không phù hợp với cấu trúc của mệnh đề <em>If</em> trong câu điều kiện loại 2."
+      },
+      "images": []
+    },
+    {
+      "id": 16282,
+      "questionNumber": 14,
+      "questionName": "II.2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>If I <span style=\"text-decoration: underline;\">am</span> you, I would take part <span style=\"text-decoration: underline;\">in</span> this competition. I think <span style=\"text-decoration: underline;\">it</span> will help you <span style=\"text-decoration: underline;\">a lot</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 53904,
+          "label": "A",
+          "text": "am",
+          "isCorrect": true
+        },
+        {
+          "id": 53905,
+          "label": "B",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 53906,
+          "label": "C",
+          "text": "it",
+          "isCorrect": false
+        },
+        {
+          "id": 53907,
+          "label": "D",
+          "text": "a lot",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 53904,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại. (Trong mệnh đề IF, động từ to be c&oacute; thể l&agrave; \"<strong>were</strong>\" với mọi chủ ngữ.)</span></p>\n<p>Cấu tr&uacute;c: <strong>If + S + was/were + ..., S + would/could/... + V(inf)</strong></p>\n<p>Sửa: \"<strong>am</strong>\" =&gt; \"<strong>were</strong>\" hoặc \"<strong>was</strong>\"</p>\n<p>Dịch: Nếu t&ocirc;i l&agrave; bạn, t&ocirc;i sẽ tham gia cuộc thi n&agrave;y. T&ocirc;i nghĩ n&oacute; sẽ gi&uacute;p bạn rất nhiều.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 277292,
+      "questionNumber": 15,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>If you saw <span style=\"text-decoration: underline;\">a</span> dangerous animal <span style=\"text-decoration: underline;\">on</span> the street, <span style=\"text-decoration: underline;\">what</span> <span style=\"text-decoration: underline;\">did</span> you do?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 611683,
+          "label": "A",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 611684,
+          "label": "B",
+          "text": "on",
+          "isCorrect": false
+        },
+        {
+          "id": 611685,
+          "label": "C",
+          "text": "what",
+          "isCorrect": false
+        },
+        {
+          "id": 611686,
+          "label": "D",
+          "text": "did",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 611686,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> If + S + V(pt), S + would/could/&hellip;+ V(inf)</strong></span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c thể nghi vấn:<strong> If + S + V(pt), (Wh-word) + would/could/might + S + V(inf)?</strong></span></p>\n<p><span style=\"font-weight: 400;\">Sửa: \"<strong>did</strong>\" =&gt; \"<strong>would</strong>\"</span></p>\n<p><span style=\"font-weight: 400;\">Lưu &yacute;: \"on the street\" mang nghĩa l&agrave; lề đường, nơi đi bộ, \"in the street'' thường mang nghĩa giữa l&ograve;ng đường. Do đ&oacute;, c&acirc;u n&agrave;y kh&ocirc;ng sai ở \"on\".</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Nếu bạn nh&igrave;n thấy một con vật nguy hiểm tr&ecirc;n đường, bạn sẽ l&agrave;m g&igrave;?</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 56137,
+      "questionNumber": 16,
+      "questionName": "Question 2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>If <span style=\"text-decoration: underline;\">there</span> were <span style=\"text-decoration: underline;\">flying</span> saucers, there <span style=\"text-decoration: underline;\">will be</span> traces of <span style=\"text-decoration: underline;\">their landing</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 153887,
+          "label": "A",
+          "text": "there",
+          "isCorrect": false
+        },
+        {
+          "id": 153888,
+          "label": "B",
+          "text": "flying",
+          "isCorrect": false
+        },
+        {
+          "id": 153889,
+          "label": "C",
+          "text": "will be",
+          "isCorrect": true
+        },
+        {
+          "id": 153890,
+          "label": "D",
+          "text": "their landing",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 153889,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\"><li style=\"text-align: justify; margin-bottom: 3px;\">Xem xét cách sử dụng cấu trúc <em>\"there + be\"</em> trong mệnh đề <em>\"If\"</em> của câu điều kiện loại 2.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Xác định vai trò của <em>\"flying\"</em> trong cụm <em>\"flying saucers\"</em> và liệu nó có đúng ngữ pháp hay không.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Nhớ lại cấu trúc thì của mệnh đề chính trong câu điều kiện loại 2.</li><li style=\"text-align: justify; margin-bottom: 3px;\">Kiểm tra cách dùng tính từ sở hữu và danh động từ trong cụm <em>\"their landing\"</em>.</li></ul>Đối chiếu từng quy tắc với câu gốc để xác định phần nào cần sửa.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu điều kiện loại 2</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một hành động hoặc sự việc không có thật ở hiện tại hoặc tương lai, hoặc một giả định trái ngược với thực tế ở hiện tại.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V(quá khứ đơn), S + would/could/might + V(nguyên thể)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Câu trên sử dụng thì quá khứ đơn (<em>\"were\"</em>) trong mệnh đề <em>\"If\"</em> là dấu hiệu của câu điều kiện loại 2, dùng để diễn tả một điều kiện không có thật ở hiện tại hoặc tương lai. Theo quy tắc của câu điều kiện loại 2, mệnh đề chính phải dùng cấu trúc <em>\"would/could/might + V(nguyên thể)\"</em>. Phương án <em>\"will be\"</em> không tuân thủ cấu trúc này, cần được sửa thành <em>\"would be\".</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>will be</strong></em>\" =&gt; \"<em><strong>would be</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "153887": "Cấu trúc <em>\"If there were...\"</em> là đúng ngữ pháp trong mệnh đề <em>\"If\"</em> của câu điều kiện loại 2.",
+        "153888": "Từ <em>\"flying\"</em> (adj.) bổ nghĩa cho danh từ <em>\"saucers\"</em> là chính xác về ngữ pháp và ngữ nghĩa.",
+        "153889": "Mệnh đề chính của câu điều kiện loại 2 phải sử dụng <em>\"would/could/might + V(nguyên thể)\"</em>, không phải <em>\"will be\"</em>.",
+        "153890": "Cụm danh từ <em>\"their landing\"</em> (tính từ sở hữu + danh động từ) là đúng ngữ pháp và phù hợp với ngữ cảnh."
+      },
+      "images": []
+    },
+    {
+      "id": 146162,
+      "questionNumber": 17,
+      "questionName": "11",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence using the word given so that it has&nbsp;the same meaning to the first.</em></p>\n<p><strong>I don&#8217;t know much about historical events, so I can&#8217;t help her with her history homework. (IF)&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "If I knew much about historical events, I could help her with her history homework.",
+        "I could help her with her history homework if I knew much about historical events."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại. </span></p>\n<p>Cấu tr&uacute;c:<strong> If + S + V(pt), S + would/could/... + V(inf)</strong></p>\n<p>Dịch:&nbsp;T&ocirc;i kh&ocirc;ng biết nhiều về c&aacute;c sự kiện lịch sử, v&igrave; vậy t&ocirc;i c&oacute; thể gi&uacute;p c&ocirc; ấy l&agrave;m b&agrave;i tập lịch sử.</p>\n<p>~ Nếu t&ocirc;i biết nhiều về c&aacute;c sự kiện lịch sử, t&ocirc;i c&oacute; thể gi&uacute;p c&ocirc; ấy l&agrave;m b&agrave;i tập lịch sử.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 146092,
+      "questionNumber": 18,
+      "questionName": "(*) You should take the train instead of the bus. (WERE)",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete the second sentence using the word given so that it has </span><span style=\"font-weight: 400;\">the same meaning to the first.</span></em></p>\n<p><strong>You should take the train instead of the bus. (WERE)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "If I were you, I would take the train instead of the bus.",
+        "I would take the train instead of the bus if I were you."
+      ],
+      "hint": "",
+      "explanation": "<p><strong>should + V(inf)</strong>: n&ecirc;n l&agrave;m g&igrave;</p>\n<p>C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại. <span style=\"font-weight: 400;\">(Trong mệnh đề IF, động từ to be c&oacute; thể l&agrave; \"<strong>were</strong>\" với mọi chủ ngữ.)</span></p>\n<p>Cấu tr&uacute;c: <strong>If + S + were + ..., S + would/could/... + V(inf)&nbsp;</strong></p>\n<p>Dịch: Bạn n&ecirc;n đi t&agrave;u thay v&igrave; đi xe bu&yacute;t.</p>\n<p>~ Nếu t&ocirc;i l&agrave; bạn, t&ocirc;i sẽ đi t&agrave;u thay v&igrave; đi xe bu&yacute;t.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 173073,
+      "questionNumber": 19,
+      "questionName": "if",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence using the word given so that it has&nbsp;the same meaning to the first.</em></p>\n<p><strong>Emily has to work part-time on Saturday, so she can't accompany her best friend to the contest. (IF)&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "If Emily didn't have to work part-time on Saturday, she could accompany her best friend to the contest.",
+        "Emily could accompany her best friend to the contest if she didn't have to work part-time on Saturday."
+      ],
+      "hint": "",
+      "explanation": "<p>C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</p>\n<p>Cấu tr&uacute;c: <strong>If +</strong> <strong>S + V(pt), S + would/could/... + V(inf)</strong></p>\n<p>Dịch: Emily phải l&agrave;m việc b&aacute;n thời gian v&agrave;o thứ Bảy, v&igrave; vậy c&ocirc; ấy kh&ocirc;ng thể đi c&ugrave;ng với bạn th&acirc;n đến cuộc thi.</p>\n<p>~ Nếu Emily kh&ocirc;ng phải l&agrave;m việc b&aacute;n thời gian v&agrave;o thứ Bảy, c&ocirc; ấy đ&atilde; c&oacute; thể đi c&ugrave;ng bạn th&acirc;n tới cuộc thi.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 145823,
+      "questionNumber": 20,
+      "questionName": "if Bill drove",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Bill is such a careless driver that he has many traffic accidents. </strong></p>\n<p><strong>=&gt; If Bill drove ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "If Bill drove more carefully, he wouldn't have many traffic accidents.",
+        "If Bill drove less carelessly, he wouldn't have many traffic accidents."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> If + S + V(pt), S + would/could/&hellip; + V(inf)</strong></span></p>\n<p>Dịch: Bill l&agrave; một người l&aacute;i xe ẩu đến mức anh ta bị tai nạn giao th&ocirc;ng nhiều.</p>\n<p>~ Nếu Bill l&aacute;i xe cẩn thận hơn, anh ta sẽ kh&ocirc;ng bị tai nạn giao th&ocirc;ng nhiều.</p>\n<p>~ Nếu Bill l&aacute;i xe bớt cấu thả hơn, anh ta sẽ kh&ocirc;ng bị tai nạn giao th&ocirc;ng nhiều.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 146028,
+      "questionNumber": 21,
+      "questionName": "It is too hot now, so we consume a lot of electricity.  => If",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>It is too hot now, so we consume a lot of electricity.&nbsp;</strong></p>\n<p><strong>=&gt; If ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "If it weren't too hot now , we wouldn't consume a lot of electricity.",
+        "If it weren't too hot now , we would consume less electricity."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại. (Trong mệnh đề IF, động từ to be c&oacute; thể l&agrave; \"<strong>were</strong>\" với mọi chủ ngữ.)</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> If + S + was/were + ..., S + would/could/&hellip;+ V(inf)</strong></span></p>\n<p>Dịch: B&acirc;y giờ trời qu&aacute; n&oacute;ng, v&igrave; vậy ch&uacute;ng ta ti&ecirc;u thụ rất nhiều điện.</p>\n<p>~ Nếu trời kh&ocirc;ng qu&aacute; n&oacute;ng, ch&uacute;ng ta sẽ kh&ocirc;ng phải ti&ecirc;u thụ qu&aacute; nhiều điện.</p>\n<p>~ Nếu trời kh&ocirc;ng qu&aacute; n&oacute;ng, ch&uacute;ng ta sẽ ti&ecirc;u thụ &iacute;t điện.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 162256,
+      "questionNumber": 22,
+      "questionName": "a",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>Tony doesn&#8217;t have free time, so he can&#8217;t play football with his friends. </strong></p>\n<p><strong>=&gt; If Tony .............</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "If Tony had free time, he could play football with his friends."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> If + S + V(pt), S + would/could/&hellip;+ V(inf)</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Tony kh&ocirc;ng c&oacute; thời gian rảnh, v&igrave; thế cậu ấy kh&ocirc;ng thể chơi b&oacute;ng đ&aacute; với c&aacute;c bạn của m&igrave;nh.</span></p>\n<p><span style=\"font-weight: 400;\">~ Nếu Tony c&oacute; thời gian rảnh, cậu ấy c&oacute; thể chơi b&oacute;ng đ&aacute; với c&aacute;c bạn của m&igrave;nh.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 353651,
+      "questionNumber": 23,
+      "questionName": "Question 63. ",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>It's my opinion that you should take more exercise. <br></strong></p>\n<p><strong>=&gt; If I were ............</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "If I were you, I would take more exercise.",
+        "If I were in your shoes , I would take more exercise."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại. (Trong mệnh đề IF, động từ to be c&oacute; thể l&agrave; \"<strong>were</strong>\" với mọi chủ ngữ)</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> If + S + was/were + ..., S + would/could/&hellip; + V(inf)</strong></span></p>\n<p><span style=\"font-weight: 400;\">Khi muốn khuy&ecirc;n bảo ai đ&oacute;, ta d&ugrave;ng cấu tr&uacute;c: <strong>If I were you, ... </strong>hoặc<strong> If I were in your shoes/position, ...</strong></span></p>\n<p>Dịch: Theo t&ocirc;i bạn n&ecirc;n tập thể dục nhiều hơn.</p>\n<p>~ Nếu t&ocirc;i l&agrave; bạn, t&ocirc;i sẽ tập thể dục nhiều hơn.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 710735,
+      "questionNumber": 24,
+      "questionName": "St 5",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentences so that it has the same meaning to the first.</em></p>\n<p dir=\"ltr\"><strong>Anna's brother is in his business trip now, so he can't attend her birthday party.</strong></p>\n<p><strong>=&gt; If Anna's brother ...........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "If Anna's brother was not in his business trip now, he could attend her birthday party."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại. (Trong mệnh đề IF, động từ to be c&oacute; thể l&agrave; \"<strong>were</strong>\" với mọi chủ ngữ.)</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> If + S + was/were + ..., S + would/could/&hellip; + V(inf)</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Anh trai của Anna hiện đang đi c&ocirc;ng t&aacute;c, n&ecirc;n anh ấy kh&ocirc;ng thể tham dự bữa tiệc sinh nhật của c&ocirc; ấy.&nbsp;<br /></span></p>\n<p><span style=\"font-weight: 400;\">~ Nếu anh trai của Anna đang kh&ocirc;ng đi c&ocirc;ng t&aacute;c, anh ấy c&oacute; thể tham dự bữa tiệc sinh nhật của c&ocirc; ấy.&nbsp;</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 177321,
+      "questionNumber": 25,
+      "questionName": "39",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Ally wants to buy that dress, but she doesn't have enough money.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 406555,
+          "label": "A",
+          "text": "If Ally had enough money, she will buy that dress.",
+          "isCorrect": false
+        },
+        {
+          "id": 406556,
+          "label": "B",
+          "text": "If Ally has enough money, she can buy that dress.",
+          "isCorrect": false
+        },
+        {
+          "id": 406557,
+          "label": "C",
+          "text": "If Ally had enough money, she could buy that dress.",
+          "isCorrect": true
+        },
+        {
+          "id": 406558,
+          "label": "D",
+          "text": "If Ally have enough money, she could buy that dress.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 406557,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> If + S + V(pt), S + would/could/&hellip; + V(inf)</strong></span></p>\n<p><span style=\"font-weight: 400;\"><span style=\"color: #000000;\">C&aacute;c phương &aacute;n kh&aacute;c sai v&igrave;:</span></span></p>\n<ul>\n<li><em>If Ally had enough money, she <span style=\"text-decoration: line-through;\"><strong>will buy</strong></span> that dress.</em></li>\n<li><em>If Ally <span style=\"text-decoration: line-through;\"><strong>has</strong></span> enough money, she <span style=\"text-decoration: line-through;\"><strong>can buy</strong></span> that dress.</em></li>\n<li><em>If Ally <span style=\"text-decoration: line-through;\"><strong>have</strong></span> enough money, she could buy that dress.</em></li>\n</ul>\n<p>Dịch: <span class=\"tlid-translation translation\" lang=\"vi\"><span class=\"\" title=\"\">Ally muốn mua chiếc v&aacute;y đ&oacute;, nhưng c&ocirc; ấy kh&ocirc;ng c&oacute; đủ tiền.</span></span></p>\n<p><span class=\"tlid-translation translation\" lang=\"vi\"><span class=\"\" title=\"\">~ Nếu Ally c&oacute; đủ tiền, c&ocirc; ấy đã c&oacute; thể mua chiếc v&aacute;y đ&oacute;.</span></span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 285708,
+      "questionNumber": 26,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>She doesn&#8217;t feel confident at interviews because her English is not very good.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 627121,
+          "label": "A",
+          "text": "If her English is good, she will feel confident at interviews.",
+          "isCorrect": false
+        },
+        {
+          "id": 627122,
+          "label": "B",
+          "text": "If her English was good, she would feel confident at interviews.",
+          "isCorrect": true
+        },
+        {
+          "id": 627123,
+          "label": "C",
+          "text": "If her English was good, she will feel confident at interviews.",
+          "isCorrect": false
+        },
+        {
+          "id": 627124,
+          "label": "D",
+          "text": "If her English has been good, she would feel confident at interviews.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 627122,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại. (Trong mệnh đề \"<strong>If</strong>\", động từ to be c&oacute; thể l&agrave; \"<strong>were</strong>\" với mọi chủ ngữ).&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> If + S + were/was + ..., S + would/could/&hellip; + V(inf)</strong></span></p>\n<p><span style=\"font-weight: 400;\"><span style=\"color: #000000;\">C&aacute;c phương &aacute;n kh&aacute;c sai v&igrave;:</span></span></p>\n<ul>\n<li><em><span style=\"font-weight: 400;\"><span style=\"color: #000000;\">If her English <span style=\"text-decoration: line-through;\"><strong>is</strong></span> good, she <span style=\"text-decoration: line-through;\"><strong>will</strong></span> feel confident at interviews.</span></span></em></li>\n<li><em><span style=\"font-weight: 400;\"><span style=\"color: #000000;\">If her English was good, she <span style=\"text-decoration: line-through;\"><strong>will</strong></span> feel confident at interviews.</span></span></em></li>\n<li><em><span style=\"font-weight: 400;\"><span style=\"color: #000000;\">If her English <span style=\"text-decoration: line-through;\"><strong>has been</strong></span> good, she would feel confident at interviews.</span></span></em></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Dịch: C&ocirc; ấy kh&ocirc;ng cảm thấy tự tin trong c&aacute;c buổi phỏng vấn v&igrave; tiếng Anh của c&ocirc; ấy kh&ocirc;ng tốt lắm.</span></p>\n<p><span style=\"font-weight: 400;\">~ Nếu tiếng Anh của c&ocirc; ấy tốt, c&ocirc; ấy sẽ cảm thấy tự tin trong c&aacute;c buổi phỏng vấn.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 620824,
+      "questionNumber": 27,
+      "questionName": "45",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>I don't know anything about plumbing, so I can't fix the leak in the pipe myself.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1194808,
+          "label": "A",
+          "text": "If I know something about plumbing, I can't fix the leak in the pipe myself.",
+          "isCorrect": false
+        },
+        {
+          "id": 1194809,
+          "label": "B",
+          "text": "If I knew something about plumbing, I could fix the leak in the pipe myself.",
+          "isCorrect": true
+        },
+        {
+          "id": 1194810,
+          "label": "C",
+          "text": "If I knew something about plumbing, I couldn't fix the leak in the pipe myself.",
+          "isCorrect": false
+        },
+        {
+          "id": 1194811,
+          "label": "D",
+          "text": "If I don't know anything about plumbing, I can't fix the leak in the pipe myself.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1194809,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại. </span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> If + S + V(pt), S + would/could/&hellip; + V(inf)</strong></span></p>\n<p><span style=\"font-weight: 400;\"><span style=\"color: #000000;\">C&aacute;c phương &aacute;n kh&aacute;c sai v&igrave;:</span></span></p>\n<ul>\n<li><em>If I <span style=\"text-decoration: line-through;\"><strong>know</strong></span> something about plumbing, I <span style=\"text-decoration: line-through;\"><strong>can't fix</strong></span> the leak in the pipe myself.</em></li>\n<li><em>If I knew something about plumbing, I couldn't fix the leak in the pipe myself. (sai nghĩa)</em></li>\n<li><em>If I <span style=\"text-decoration: line-through;\"><strong>don't know</strong></span> anything about plumbing, I <span style=\"text-decoration: line-through;\"><strong>can't fix</strong></span> the leak in the pipe myself.</em></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Dịch: T&ocirc;i kh&ocirc;ng biết g&igrave; về hệ thống ống nước, v&igrave; vậy t&ocirc;i kh&ocirc;ng thể tự sửa chỗ r&ograve; rỉ trong đường ống.</span></p>\n<p><span style=\"font-weight: 400;\">~ Nếu t&ocirc;i biết điều g&igrave; đ&oacute; về hệ thống ống nước, t&ocirc;i c&oacute; thể tự sửa chỗ r&ograve; rỉ trong đường ống.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 616039,
+      "questionNumber": 28,
+      "questionName": "(*) 15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>I do not visit my grandparents very often because they live far away.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1186424,
+          "label": "A",
+          "text": "If my grandparents do not live far away, I would visit them very often.",
+          "isCorrect": false
+        },
+        {
+          "id": 1186425,
+          "label": "B",
+          "text": "If my grandparents did not live far away, I would visit them very often.",
+          "isCorrect": true
+        },
+        {
+          "id": 1186426,
+          "label": "C",
+          "text": "If my grandparents live far away, I will not visit them very often.",
+          "isCorrect": false
+        },
+        {
+          "id": 1186427,
+          "label": "D",
+          "text": "If my grandparents did not live far away, I will visit them very often.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1186425,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại. </span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: <strong>If + S + V(pt), S + would/could/... + V(inf)</strong></span></p>\n<p><span style=\"font-weight: 400;\"><span style=\"color: #000000;\">C&aacute;c phương &aacute;n kh&aacute;c sai v&igrave;:</span></span></p>\n<ul>\n<li><em>If my grandparents <span style=\"text-decoration: line-through;\"><strong>do not live</strong></span> far away, I would visit them very often.</em></li>\n<li><em>If my grandparents <span style=\"text-decoration: line-through;\"><strong>live</strong></span> far away, I <strong><span style=\"text-decoration: line-through;\">will not visit</span></strong> them very often.</em></li>\n<li><em>If my grandparents did not live far away, I <strong><span style=\"text-decoration: line-through;\">will visit</span></strong> them very often.</em></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Dịch: T&ocirc;i kh&ocirc;ng thường xuy&ecirc;n đến thăm &ocirc;ng b&agrave; của t&ocirc;i v&igrave; họ sống ở xa.</span></p>\n<p><span style=\"font-weight: 400;\">~ Nếu &ocirc;ng b&agrave; của t&ocirc;i kh&ocirc;ng sống ở xa, t&ocirc;i sẽ đến thăm họ thường xuy&ecirc;n.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 641442,
+      "questionNumber": 29,
+      "questionName": "39",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>Michael would be angry if someone (take) <span class='fillblank-option'><input id='fbo-641442-0' class='ms fillblank-option-29' index='0' name='fbo-641442-0' type='text' size='7' autocomplete='off' data-testid='fillblank-input-641442-0' /></span> his computer without permission.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "took"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c: <strong>S + would/could/&hellip; + V(inf) + if + S + V(pt)</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: Michael sẽ tức giận nếu ai đ&oacute; lấy m&aacute;y t&iacute;nh của anh ấy m&agrave; kh&ocirc;ng được ph&eacute;p.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 79410,
+      "questionNumber": 30,
+      "questionName": "III 2",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>I would answer the question immediately if I (know) <span class='fillblank-option'><input id='fbo-79410-0' class='ms fillblank-option-30' index='0' name='fbo-79410-0' type='text' size='7' autocomplete='off' data-testid='fillblank-input-79410-0' /></span> the key. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "knew"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</p>\n<p>Cấu tr&uacute;c:<strong> S + would/could/... + V(inf) + if + S + V(pt)</strong></p>\n<p>Dịch: T&ocirc;i sẽ trả lời c&acirc;u hỏi ngay lập tức nếu t&ocirc;i biết đ&aacute;p &aacute;n.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 69486,
+      "questionNumber": 31,
+      "questionName": "Question 5",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>I'd probably buy a laptop if it (be) <span class='fillblank-option'><input id='fbo-69486-0' class='ms fillblank-option-31' index='0' name='fbo-69486-0' type='text' size='5' autocomplete='off' data-testid='fillblank-input-69486-0' /></span> cheaper.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "were",
+            "was"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại. (Trong mệnh đề IF, động từ to be c&oacute; thể l&agrave; \"<strong>were</strong>\" với mọi chủ ngữ.)</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c:<strong> If + S + were/was + ..., S + would/could/&hellip; + V(inf)</strong></span></p>\n<p><span style=\"font-weight: 400;\">Dịch: T&ocirc;i c&oacute; thể sẽ mua một c&aacute;i m&aacute;y t&iacute;nh x&aacute;ch tay nếu n&oacute; rẻ hơn.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 68990,
+      "questionNumber": 32,
+      "questionName": "Question 4",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verbs in the brackets.</em></p>\n<p><strong>I have no money left now. If I (have) <span class='fillblank-option'><label>32.1</label><input id='fbo-68990-0' class='ms fillblank-option-32' index='0' name='fbo-68990-0' type='text' size='7' autocomplete='off' data-testid='fillblank-input-68990-0' /></span> any, I (lend) <span class='fillblank-option'><label>32.2</label><input id='fbo-68990-1' class='ms fillblank-option-32' index='1' name='fbo-68990-1' type='text' size='14' autocomplete='off' data-testid='fillblank-input-68990-1' /></span> you some.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "had"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "would lend",
+            "'d lend",
+            "’d lend"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;u điều kiện loại 2 diễn tả giải thiết kh&ocirc;ng c&oacute; thật ở hiện tại.</p>\n<p>Cấu tr&uacute;c:<strong> If + S + V(pt), S + would/could/... + V(inf)</strong></p>\n<p>Dịch: B&acirc;y giờ t&ocirc;i hết tiền rồi. Nếu t&ocirc;i c&oacute; tiền, t&ocirc;i đ&atilde; cho bạn mượn một &iacute;t.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 63461,
+      "questionNumber": 33,
+      "questionName": "Question 2",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>What (you/do) <span class='fillblank-option'><input id='fbo-63461-0' class='ms fillblank-option-33' index='0' name='fbo-63461-0' type='text' size='14' autocomplete='off' data-testid='fillblank-input-63461-0' /></span> if you had a lot of money?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "would you do"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;u điều kiện loại 2 diễn tả điều kiện kh&ocirc;ng c&oacute; thật ở hiện tại.</p>\n<p>Cấu tr&uacute;c: <strong>If + S + V(pt), S + would/could/... + V(inf)&nbsp;</strong></p>\n<p>Cấu tr&uacute;c thể nghi vấn:<strong> (Wh-word) + would/could/might + S + V(inf) + if + S + V(pt)?</strong></p>\n<p>Dịch: Bạn sẽ l&agrave;m g&igrave; nếu bạn c&oacute; rất nhiều tiền?</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

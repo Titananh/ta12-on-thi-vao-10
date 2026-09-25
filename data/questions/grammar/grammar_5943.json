@@ -1,0 +1,1350 @@
+{
+  "quizId": 5943,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 61: so... that, such (a/an)... that",
+  "totalQuestions": 32,
+  "questions": [
+    {
+      "id": 906009,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>Ch&#7885;n &#273;&#225;p &#225;n ch&#237;nh x&#225;c &#273;&#7875; ho&#224;n th&#224;nh c&#225;c c&#226;u sau.&nbsp;</strong></p>\n<p>1. C&#7845;u tr&#250;c <span class='fillblank-option'><label>1.1</label><select class='ms fillblank-option-1' index='0' name='fbo-906009-0' data-testid='fillblank-select-906009-0'><option value='' data-testid='fillblank-option-empty-906009-0'></option><option value=\"such ... that\" data-testid='fillblank-option-906009-0-such ... that'>such ... that</option><option value=\"so ... that\" data-testid='fillblank-option-906009-0-so ... that'>so ... that</option></select></span> &#273;&#432;&#7907;c d&#249;ng &#273;&#7875; nh&#7845;n m&#7841;nh t&#237;nh t&#7915; ho&#7863;c tr&#7841;ng t&#7915;, c&#361;ng c&#243; th&#7875; d&#249;ng v&#7899;i danh t&#7915;.&nbsp;</p>\n<p>2. C&#7845;u tr&#250;c <span class='fillblank-option'><label>1.2</label><select class='ms fillblank-option-1' index='1' name='fbo-906009-1' data-testid='fillblank-select-906009-1'><option value='' data-testid='fillblank-option-empty-906009-1'></option><option value=\"such ... that\" data-testid='fillblank-option-906009-1-such ... that'>such ... that</option><option value=\"so ... that\" data-testid='fillblank-option-906009-1-so ... that'>so ... that</option></select></span> &#273;&#432;&#7907;c d&#249;ng &#273;&#7875; nh&#7845;n m&#7841;nh danh t&#7915; k&#7871;t h&#7907;p v&#7899;i t&#237;nh t&#7915;.&nbsp;</p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "so ... that"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "such ... that"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; height: 18px; border-color: #2DC26B; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 33.0806%; height: 18px;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/4_-_Copy_27_0da350d7.png\" alt=\"\" width=\"400\" /></td>\n<td style=\"width: 33.0806%; height: 18px;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/5_-_Copy_30_d9c4164b.png\" alt=\"\" width=\"400\" /></td>\n<td style=\"width: 33.083%; height: 18px;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/6_-_Copy_25_9b902a07.png\" alt=\"\" width=\"400\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 906014,
+      "questionNumber": 2,
+      "questionName": "1",
+      "questionType": "TrueFalse",
+      "questionText": "<p><em>Ph&#225;t bi&#7875;u sau l&#224; &#273;&#250;ng hay sai.&nbsp;</em></p>\n<p><strong>C&#7845;u tr&#250;c &quot;so ... that&quot; khi d&#249;ng v&#7899;i danh t&#7915; c&#7847;n c&#243; &quot;many/much/few/little&quot; &#273;i k&#232;m.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1720390,
+          "label": "A",
+          "text": "True",
+          "isCorrect": true
+        },
+        {
+          "id": 1720391,
+          "label": "B",
+          "text": "False",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1720390,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/5_-_Copy_30_d9c4164b.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 43850,
+      "questionNumber": 3,
+      "questionName": "9",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>There was _____ a long queue that we decided to go home. <b></b></b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 127191,
+          "label": "A",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 127192,
+          "label": "B",
+          "text": "such",
+          "isCorrect": true
+        },
+        {
+          "id": 127193,
+          "label": "C",
+          "text": "too",
+          "isCorrect": false
+        },
+        {
+          "id": 127194,
+          "label": "D",
+          "text": "enough",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 127192,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn từ đ&uacute;ng, bạn cần xem x&eacute;t loại từ đứng ngay sau chỗ trống v&agrave; cấu tr&uacute;c c&acirc;u tổng thể:</p>\n<ul>\n<li>Cấu tr&uacute;c <strong>so...that</strong> v&agrave; <strong>such...that</strong> đều d&ugrave;ng để diễn tả nguy&ecirc;n nh&acirc;n &ndash; kết quả.</li>\n<li><strong>So</strong> thường đi với t&iacute;nh từ hoặc trạng từ</li>\n<li><strong>Such</strong> thường đi với một cụm danh từ</li>\n</ul>\n<p>H&atilde;y xem x&eacute;t cụm từ \"<em>a long queue</em>\" sau chỗ trống thuộc loại từ n&agrave;o để chọn ra đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu tr&uacute;c nhấn mạnh kết quả với \"so...that\" v&agrave; \"such...that\"</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Diễn tả mức độ của một t&iacute;nh chất hoặc đặc điểm, g&acirc;y ra một kết quả cụ thể.</p>\n<p><strong>Một số cấu tr&uacute;c so/such phổ biến:</strong></p>\n<ul>\n<li style=\"text-align: justify;\"><strong>so + adj./adv. + that + S + V</strong></li>\n<li style=\"text-align: justify;\"><strong>such + (a/an) + adj. + N + that + S + V</strong></li>\n<li style=\"text-align: justify;\"><strong>such + adj. + N (số nhiều/kh&ocirc;ng đếm được) + that + S + V</strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u \"<em>There was _____ a long queue that we decided to go home</em>\", chỗ trống đứng trước cụm danh từ c&oacute; mạo từ \"<em>a long queue</em>\" v&agrave; theo sau l&agrave; mệnh đề kết quả \"<em>that we decided to go home</em>\". Cấu tr&uacute;c ch&iacute;nh x&aacute;c để diễn tả mức độ của một cụm danh từ dẫn đến kết quả l&agrave; \"<em>such + (a/an) + adj. + N + that S V</em>\". Do đ&oacute;, \"<em>such</em>\" l&agrave; lựa chọn ph&ugrave; hợp nhất.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 (<em>so</em>) kh&ocirc;ng ph&ugrave; hợp v&igrave; \"<em>so</em>\" thường đứng trước t&iacute;nh từ hoặc trạng từ ri&ecirc;ng lẻ, kh&ocirc;ng đứng trực tiếp trước cụm danh từ c&oacute; mạo từ \"<em>a/an</em>\" như \"<em>a long queue</em>\". Phương &aacute;n 3 (<em>too</em>) v&agrave; phương &aacute;n 4 (<em>enough</em>) sai v&igrave; ch&uacute;ng kh&ocirc;ng kết hợp với mệnh đề \"<em>that</em>\" để diễn tả kết quả theo cấu tr&uacute;c n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "127191": "Sai vì <em>so</em> thường đứng trước tính từ hoặc trạng từ, không đứng trực tiếp trước cụm danh từ có mạo từ <em>a/an</em> như \"<em>a long queue</em>\".",
+        "127192": "Đúng vì <em>such</em> được dùng trước cụm danh từ (có thể kèm tính từ) để diễn tả mức độ, theo sau là mệnh đề kết quả <em>that</em>.",
+        "127193": "Sai vì <em>too</em> có nghĩa là \"quá... đến nỗi không thể làm gì\" và không kết hợp với mệnh đề <em>that</em> để diễn tả kết quả như trong câu này.",
+        "127194": "Sai vì <em>enough</em> thường đứng sau tính từ/trạng từ hoặc trước danh từ với nghĩa \"đủ\", và không kết hợp với <em>that</em> để diễn tả kết quả theo cấu trúc này."
+      },
+      "images": []
+    },
+    {
+      "id": 179531,
+      "questionNumber": 4,
+      "questionName": "12",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>The fireworks festival is _____ event that we all want to watch it.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 412149,
+          "label": "A",
+          "text": "such wonderful an",
+          "isCorrect": false
+        },
+        {
+          "id": 412150,
+          "label": "B",
+          "text": "a very wonderful",
+          "isCorrect": false
+        },
+        {
+          "id": 412151,
+          "label": "C",
+          "text": "so wonderful an",
+          "isCorrect": true
+        },
+        {
+          "id": 412152,
+          "label": "D",
+          "text": "a too wonderful",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 412151,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để chọn đáp án đúng, bạn cần nhớ các cấu trúc diễn tả mức độ và kết quả như \"so... that\" và \"such... that\". Hãy chú ý đến vị trí của mạo từ <em>a/an</em> khi có tính từ và danh từ số ít đếm được đi kèm. Trong câu này, <em>event</em> là danh từ số ít đếm được và có mệnh đề <em>that</em> theo sau.",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu tr&uacute;c \"so... that\" v&agrave; \"such... that\"</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> D&ugrave;ng để diễn tả mức độ cao của một t&iacute;nh chất hoặc đặc điểm, dẫn đến một kết quả cụ thể.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">So + adj. + a/an + N + that + S + V</span></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">So + adj./adv. + that + S + V</span></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">Such + a/an + adj. + N + that + S + V</span></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span style=\"color: #1c581f;\">Such + adj. + N (số nhiều/kh&ocirc;ng đếm được) + that + S + V</span></span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u c&oacute; cụm \"<em>is _____ event that we all want to watch it</em>\", với \"<em>event</em>\" l&agrave; danh từ số &iacute;t đếm được v&agrave; c&oacute; mệnh đề \"<em>that</em>\" chỉ kết quả. Đ&acirc;y l&agrave; dấu hiệu của cấu tr&uacute;c \"<em>so... that</em>\" hoặc \"<em>such... that</em>\" d&ugrave;ng để diễn tả nguy&ecirc;n nh&acirc;n - kết quả. Phương &aacute;n \"<em>so wonderful an</em>\" tu&acirc;n thủ cấu tr&uacute;c \"so + adj. + a/an + N(số &iacute;t đếm được) + that clause\", với \"an\" được d&ugrave;ng trước danh từ \"event\" bắt đầu bằng nguy&ecirc;n &acirc;m.</p>\n<ul>\n<li style=\"text-align: justify;\">Phương &aacute;n 1 \"<em>such wonderful an</em>\" sai cấu tr&uacute;c v&igrave; với \"<em>such</em>\", mạo từ \"<em>a/an</em>\" phải đứng ngay sau \"<em>such</em>\", tạo th&agrave;nh \"<em>such an wonderful event</em>\".</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 2 \"<em>a very wonderful</em>\" đ&uacute;ng về mặt ngữ ph&aacute;p nhưng thiếu mệnh đề \"<em>that</em>\" để diễn tả kết quả như y&ecirc;u cầu của c&acirc;u.</li>\n<li style=\"text-align: justify;\">Phương &aacute;n 4 \"<em>a too wonderful</em>\" sai v&igrave; \"<em>too</em>\" kh&ocirc;ng kết hợp với mệnh đề \"<em>that</em>\" để diễn tả kết quả.</li>\n</ul>\n<p style=\"text-align: justify;\">&nbsp;</p>",
+      "answerFeedbacks": {
+        "412149": "Sai cấu trúc; với \"such\", mạo từ \"a/an\" phải đứng ngay sau \"such\", tạo thành \"such an wonderful event\".",
+        "412150": "Sai vì thiếu mệnh đề \"that\" để diễn tả kết quả của sự việc.",
+        "412151": "Đúng cấu trúc \"so + adj. + a/an + N + that clause\" để diễn tả mức độ và kết quả.",
+        "412152": "Sai vì \"too\" thường mang nghĩa tiêu cực và không kết hợp với mệnh đề \"that\" theo cách này để diễn tả kết quả."
+      },
+      "images": []
+    },
+    {
+      "id": 183779,
+      "questionNumber": 5,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>He walked _____ I could not catch up with him.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 421006,
+          "label": "A",
+          "text": "fast",
+          "isCorrect": false
+        },
+        {
+          "id": 421007,
+          "label": "B",
+          "text": "so fast that",
+          "isCorrect": true
+        },
+        {
+          "id": 421008,
+          "label": "C",
+          "text": "as fast as",
+          "isCorrect": false
+        },
+        {
+          "id": 421009,
+          "label": "D",
+          "text": "faster than",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 421007,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y ch&uacute; &yacute; đến cụm <em data-start=\"164\" data-end=\"203\">\"_____ I could not catch up with him\"</em>. Mệnh đề ph&iacute;a sau diễn tả <strong data-start=\"230\" data-end=\"241\">kết quả</strong> của h&agrave;nh động <em data-start=\"256\" data-end=\"264\">walked</em>. H&atilde;y nhớ lại cấu tr&uacute;c d&ugrave;ng để <strong data-start=\"295\" data-end=\"353\">nhấn mạnh mức độ của một h&agrave;nh động dẫn đến một kết quả</strong>, rồi đối chiếu với c&aacute;c lựa chọn để chọn đ&aacute;p &aacute;n ph&ugrave; hợp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span><strong>Cấu tr&uacute;c chỉ kết quả \"so... that\"</strong></span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> Cấu tr&uacute;c \"so... that\" được d&ugrave;ng để diễn tả nguy&ecirc;n nh&acirc;n v&agrave; kết quả, hoặc mức độ của một t&iacute;nh từ/trạng từ đạt đến mức n&agrave;o đ&oacute; m&agrave; g&acirc;y ra một kết quả cụ thể. N&oacute; nhấn mạnh cường độ của h&agrave;nh động hoặc t&iacute;nh chất.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + V + so + adv./adj. + that + S + V</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">C&acirc;u tr&ecirc;n c&oacute; hai mệnh đề: <em>\"He walked\"</em> (diễn tả nguy&ecirc;n nh&acirc;n/mức độ của h&agrave;nh động) v&agrave;<em> \"I could not catch up with him\"</em> (diễn tả kết quả). Để li&ecirc;n kết hai mệnh đề n&agrave;y v&agrave; nhấn mạnh mức độ của h&agrave;nh động \"<em>walked</em>\" dẫn đến kết quả, ch&uacute;ng ta cần sử dụng cấu tr&uacute;c chỉ kết quả \"<em>so... that</em>\". Trong trường hợp n&agrave;y, \"<em>fast</em>\" l&agrave; trạng từ bổ nghĩa cho động từ \"<em>walked</em>\", v&igrave; vậy phương &aacute;n \"so fast that\" ho&agrave;n to&agrave;n ph&ugrave; hợp.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1, \"<em>fast</em>\", l&agrave; một trạng từ nhưng kh&ocirc;ng đủ để li&ecirc;n kết hai mệnh đề v&agrave; diễn tả mối quan hệ nguy&ecirc;n nh&acirc;n-kết quả. Phương &aacute;n 3, \"<em>as fast as</em>\", l&agrave; cấu tr&uacute;c so s&aacute;nh bằng, kh&ocirc;ng diễn tả kết quả. Phương &aacute;n 4, \"<em>faster than</em>\", l&agrave; cấu tr&uacute;c so s&aacute;nh hơn, cũng kh&ocirc;ng ph&ugrave; hợp để diễn tả kết quả.</p>",
+      "answerFeedbacks": {
+        "421006": "Trạng từ <em>fast</em> không thể dùng để liên kết hai mệnh đề và diễn tả mối quan hệ nguyên nhân-kết quả trong câu này.",
+        "421007": "Cấu trúc <em>so + trạng từ + that</em> được dùng để diễn tả nguyên nhân và kết quả, phù hợp với ngữ cảnh câu này.",
+        "421008": "Đây là cấu trúc so sánh bằng (<em>as + adj./adv. + as</em>), không phù hợp để diễn tả kết quả của hành động.",
+        "421009": "Đây là cấu trúc so sánh hơn (<em>adj./adv. + -er + than</em>), không phù hợp để diễn tả kết quả của hành động."
+      },
+      "images": []
+    },
+    {
+      "id": 80056,
+      "questionNumber": 6,
+      "questionName": "Question 16:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We had _____ a good time at the party that I didn’t want it to end.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 198243,
+          "label": "A",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 198244,
+          "label": "B",
+          "text": "too",
+          "isCorrect": false
+        },
+        {
+          "id": 198245,
+          "label": "C",
+          "text": "enough",
+          "isCorrect": false
+        },
+        {
+          "id": 198246,
+          "label": "D",
+          "text": "such",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 198246,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Để hoàn thành câu này, bạn cần xem xét cấu trúc ngữ pháp diễn tả nguyên nhân và kết quả. Hãy nhớ rằng:</p>\n<ul>\n<li>Cấu trúc với <em>\"so\"</em> thường là <em>\"so + adj./adv. + that + clause\"</em>.</li>\n<li>Cấu trúc với <em>\"such\"</em> thường là <em>\"such + (a/an) + adj. + N + that + clause\"</em>.</li>\n</ul>\n<p style=\"text-align: justify;\">Trong câu hỏi, sau chỗ trống là cụm <em>\"a good time\"</em>, bao gồm mạo từ <em>\"a\"</em>, tính từ <em>\"good\"</em> và danh từ <em>\"time\"</em>. Hãy đối chiếu với các cấu trúc trên để chọn từ phù hợp nhất.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc \"such... that\"</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Cấu trúc \"such... that\" được dùng để diễn tả nguyên nhân hoặc kết quả của một sự việc, hành động, nhấn mạnh mức độ của một danh từ hoặc cụm danh từ.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: <span style=\"color: #1c581f;\">S + V + such + (a/an) + adj. + N + that + S + V: quá... đến nỗi mà...</span></strong></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, cụm danh từ <em>\"a good time\"</em> (a/an + adj. + N) ngay sau chỗ trống và có liên từ <em>\"that\"</em> ở phía sau là dấu hiệu của cấu trúc nhấn mạnh danh từ/cụm danh từ và diễn tả kết quả.</p>\n<p style=\"text-align: justify;\">Đáp án<em> \"such\"</em> là lựa chọn phù hợp nhất trong trường hợp này. Các phương án khác như \"<em>so</em>\", \"<em>too</em>\", \"<em>enough</em>\" không đi với cấu trúc <em>\"a/an + adj. + N + that\"</em> để diễn tả kết quả.</p>",
+      "answerFeedbacks": {
+        "198243": "Sai vì \"so\" thường đi kèm với tính từ hoặc trạng từ (so + adj/adv + that), không phải với cụm danh từ có mạo từ \"a/an\" như <em>\"a good time\"</em>.",
+        "198244": "Sai vì \"too\" thường mang nghĩa tiêu cực và được dùng trong cấu trúc <em>\"too + adj/adv + to V\"</em>, không phù hợp với ngữ cảnh có <em>\"that\"</em> để diễn tả kết quả.",
+        "198245": "Sai vì \"enough\" thường được dùng trong cấu trúc <em>\"adj/adv + enough + to V\"</em> hoặc <em>\"enough + N\"</em>, không phù hợp với cấu trúc <em>\"that\"</em> để diễn tả kết quả trong trường hợp này.",
+        "198246": "Đúng vì cấu trúc <em>\"such + (a/an) + adj. + N + that\"</em> phù hợp để nhấn mạnh một danh từ hoặc cụm danh từ (<em>\"a good time\"</em>) và diễn tả kết quả (<em>\"I didn’t want it to end\"</em>)."
+      },
+      "images": []
+    },
+    {
+      "id": 182357,
+      "questionNumber": 7,
+      "questionName": "19",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>It was _____ that he was kept in hospital for nearby a month.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 417950,
+          "label": "A",
+          "text": "so a serious accident",
+          "isCorrect": false
+        },
+        {
+          "id": 417951,
+          "label": "B",
+          "text": "such a serious accident",
+          "isCorrect": true
+        },
+        {
+          "id": 417952,
+          "label": "C",
+          "text": "such serious an accident",
+          "isCorrect": false
+        },
+        {
+          "id": 417953,
+          "label": "D",
+          "text": "a such serious accident",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 417951,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đ&aacute;p &aacute;n đ&uacute;ng, bạn cần xem x&eacute;t cấu tr&uacute;c ngữ ph&aacute;p d&ugrave;ng để diễn tả mức độ v&agrave; kết quả (<em>so...that</em> hoặc <em>such...that</em>). H&atilde;y ch&uacute; &yacute; đến loại từ đứng sau chỗ trống: <em>\"a serious accident\"</em> l&agrave; một cụm danh từ gồm mạo từ, t&iacute;nh từ v&agrave; danh từ.</p>\n<p>Cấu tr&uacute;c n&agrave;o trong hai cấu tr&uacute;c tr&ecirc;n ph&ugrave; hợp để đi với cụm danh từ c&oacute; mạo từ <em>a/an</em> v&agrave; t&iacute;nh từ bổ nghĩa cho danh từ số &iacute;t?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu tr&uacute;c chỉ kết quả: so... that v&agrave; such... that</span>.</p>\n<blockquote style=\"margin-left: 0px;\">\n<p style=\"text-align: justify;\"><strong>C&aacute;ch d&ugrave;ng:</strong> C&aacute;c cấu tr&uacute;c n&agrave;y được d&ugrave;ng để diễn tả mức độ cao của một sự việc hoặc đặc điểm, dẫn đến một kết quả cụ thể. Ch&uacute;ng gi&uacute;p nhấn mạnh nguy&ecirc;n nh&acirc;n v&agrave; kết quả.</p>\n<p style=\"text-align: justify;\"><strong>Cấu tr&uacute;c: </strong></p>\n<ul>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">so + adj./adv. + that + S + V</span></li>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">such + (a/an) + adj. + N + that + S + V</span></li>\n<li style=\"text-align: justify;\"><span style=\"color: #1c581f; font-weight: 600;\">such + N (số nhiều/kh&ocirc;ng đếm được) + that + S + V</span></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Ph&acirc;n t&iacute;ch:</span></p>\n<p style=\"text-align: justify;\">Trong c&acirc;u, chỗ trống cần điền một cụm từ diễn tả mức độ của <em>\"accident\"</em> (danh từ đếm được số &iacute;t) dẫn đến kết quả l&agrave; <em>\"he was kept in hospital for nearby a month\"</em>. Cụm <em>\"a serious accident\"</em> (mạo từ + t&iacute;nh từ + danh từ) l&agrave; dấu hiệu cho thấy cần sử dụng cấu tr&uacute;c <em>such + a/an + adj. + N + that</em>. Phương &aacute;n 2 <em>\"such a serious accident\"</em> tu&acirc;n thủ đ&uacute;ng cấu tr&uacute;c n&agrave;y.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 <em>\"so a serious accident\"</em> sai v&igrave; <em>so</em> kh&ocirc;ng đi trực tiếp với cụm <em>a/an + adj. + N</em>. Phương &aacute;n 3 <em>\"such serious an accident\"</em> sai trật tự từ v&igrave; mạo từ phải đứng trước t&iacute;nh từ (<em>such a serious accident</em> chứ kh&ocirc;ng phải <em>such serious an accident</em>). Phương &aacute;n 4 <em>\"a such serious accident\"</em> sai v&igrave; mạo từ <em>a/an</em> đứng sau <em>such</em> trong cấu tr&uacute;c n&agrave;y.</p>",
+      "answerFeedbacks": {
+        "417950": "Cấu trúc <em>so + adj./adv. + that</em> không đi kèm trực tiếp với mạo từ <em>a/an</em> và danh từ theo sau tính từ như trong phương án này.",
+        "417951": "Cấu trúc <em>such + a/an + adj. + N + that</em> được sử dụng để nhấn mạnh mức độ của một danh từ số ít đếm được, phù hợp với ngữ cảnh câu.",
+        "417952": "Trật tự từ trong cụm danh từ sau <em>such</em> phải là <em>such + a/an + adj. + N</em>, không phải <em>such + adj. + a/an + N</em>.",
+        "417953": "Mạo từ <em>a/an</em> trong cấu trúc <em>such...that</em> phải đứng sau <em>such</em> và trước tính từ, không đứng trước <em>such</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 857220,
+      "questionNumber": 8,
+      "questionName": "such",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The ASEAN student debate contest had _____ it became a highlight of the summit.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1634439,
+          "label": "A",
+          "text": "so high level of competition that",
+          "isCorrect": false
+        },
+        {
+          "id": 1634440,
+          "label": "B",
+          "text": "such a high level of competition to",
+          "isCorrect": false
+        },
+        {
+          "id": 1634441,
+          "label": "C",
+          "text": "so high that level of competition",
+          "isCorrect": false
+        },
+        {
+          "id": 1634442,
+          "label": "D",
+          "text": "such a high level of competition that",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1634442,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đáp án đúng, bạn cần nhớ cách dùng của các cấu trúc diễn tả nguyên nhân - kết quả. Hãy nhìn vào cụm từ theo sau chỗ trống ''<em>a high level of competition''</em> là một cụm danh từ.</p>\n<p>Hãy nhớ lại cấu trúc nào thường được sử dụng với một cụm danh từ để diễn tả nguyên nhân - kết quả.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc diễn tả nguyên nhân - kết quả: so... that và such... that</span>.</p><blockquote style=\"margin-left: 0px; padding-left: 18px;\"><p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để diễn tả một nguyên nhân hoặc mức độ của một sự việc, tính chất dẫn đến một kết quả hoặc hậu quả nhất định.</p><p style=\"text-align: justify;\"><strong>Cấu trúc: </strong></p><ul style=\"padding-left: 30px;\"><li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">So + adj./adv. + that + S + V</span></strong>: quá... đến nỗi mà...</li><li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Such (a/an) + adj. + N + that + S + V</span></strong>: quá... đến nỗi mà...</li></ul></blockquote><p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p><p style=\"text-align: justify;\">Trong câu có cụm danh từ <em>\"a high level of competition\"</em> sau chỗ trống. Cấu trúc <em>\"such (a/an) + adj. + N + that + S + V\"</em> được dùng để nhấn mạnh tính chất của một danh từ hoặc cụm danh từ. Phương án 4 <em>\"such a high level of competition that\"</em> phù hợp với cấu trúc này và ngữ cảnh của câu.</p><p style=\"text-align: justify;\">Phương án 1 <em>\"so high level of competition that\"</em> sai cấu trúc vì <em>\"so\"</em> không đứng trực tiếp trước cụm danh từ mà không có <em>\"much/many\"</em>. Phương án 2 <em>\"such a high level of competition to\"</em> sai vì thiếu <em>\"that\"</em> để nối mệnh đề kết quả. Phương án 3 <em>\"so high that level of competition\"</em> sai trật tự từ và cấu trúc.</p>",
+      "answerFeedbacks": {
+        "1634439": "Sai vì cấu trúc \"so + adj. + N\" là không chính xác; \"so\" thường đi trực tiếp với tính từ/trạng từ hoặc \"so much/many + N\", không phải \"so + adj. + N\".",
+        "1634440": "Sai vì thiếu \"that\" để giới thiệu mệnh đề kết quả sau \"such... N\", và \"to\" không phù hợp trong cấu trúc này.",
+        "1634441": "Sai vì trật tự từ không đúng trong cấu trúc \"so... that\"; \"that\" phải đứng sau tính từ/trạng từ và trước mệnh đề kết quả.",
+        "1634442": "Đúng vì cấu trúc \"such (a/an) + adj. + N + that + S + V\" được dùng chính xác để diễn tả mức độ của cụm danh từ \"a high level of competition\" dẫn đến một kết quả."
+      },
+      "images": []
+    },
+    {
+      "id": 36015,
+      "questionNumber": 9,
+      "questionName": "Question 42",
+      "questionType": "MultipleChoice",
+      "questionText": "<p style=\"text-align: left;\"><strong>Kylie Jenner is ______ that she became the world’s self-made billionaire two years younger than the Facebook founder, Mark Zuckerberg.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 110251,
+          "label": "A",
+          "text": "too successful",
+          "isCorrect": false
+        },
+        {
+          "id": 110252,
+          "label": "B",
+          "text": "so successful an entrepreneur",
+          "isCorrect": true
+        },
+        {
+          "id": 110253,
+          "label": "C",
+          "text": "such a success business",
+          "isCorrect": false
+        },
+        {
+          "id": 110254,
+          "label": "D",
+          "text": "a very success entrepreneur such",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 110252,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn đáp án đúng, hãy cân nhắc các cấu trúc diễn tả kết quả <em>\"so... that\"</em> và <em>\"such... that\"</em>.</p>\n<ul>\n<li>Khi theo sau <em>\"so\"</em> là một tính từ hoặc trạng từ, cấu trúc là <em>\"so + adj./adv. + that clause\"</em>.</li>\n<li>Tuy nhiên, khi theo sau <em>\"so\"</em> là một tính từ và một danh từ số ít đếm được, thứ tự từ phải là <em>\"so + adj. + a/an + N + that clause\".</em></li>\n<li>Đối với <em>\"such\"</em>, cấu trúc phổ biến là <em>\"such + a/an + adj. + N + that clause\"</em> hoặc <em>\"such + adj. + N (số nhiều/không đếm được) + that clause\"</em>.</li>\n</ul>\n<p>Hãy chú ý đến từ loại của <em>\"successful\"</em> (tính từ) và <em>\"entrepreneur\"</em> (danh từ) trong câu để áp dụng cấu trúc chính xác.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc chỉ kết quả: so... that và such... that</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các cấu trúc này dùng để diễn tả một nguyên nhân (mức độ của tính chất, hành động, hoặc sự vật) dẫn đến một kết quả cụ thể.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">so + adj./adv. + that + clause:</span></strong> quá ... đến nỗi ...</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">so + adj. + a/an + N (số ít đếm được) + that + clause:</span></strong> quá ... đến nỗi ...</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">such + a/an + adj. + N (số ít đếm được) + that + clause:</span></strong> quá ... đến nỗi ...</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">such + adj. + N (số nhiều/không đếm được) + that + clause:</span></strong> quá ... đến nỗi ...</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu có dấu hiệu <em>\"that she became the world’s self-made billionaire...\"</em>, cho thấy đây là cấu trúc chỉ kết quả <em>\"so/such... that\"</em>. Chỗ trống đứng sau động từ <em>\"is\"</em> và trước cụm danh từ <em>\"an entrepreneur\"</em> được bổ nghĩa bởi tính từ <em>\"successful\"</em>. Cấu trúc phù hợp nhất trong trường hợp này là <em>\"so + adj. + a/an + N + that\"</em>. Phương án 2, <em>\"so successful an entrepreneur\"</em>, chính xác theo cấu trúc này (<em>\"successful\"</em> là tính từ, <em>\"an entrepreneur\"</em> là danh từ số ít đếm được).</p>\n<p style=\"text-align: justify;\">Phương án 1 <em>\"too successful\"</em> sai vì <em>\"too\"</em> không dùng với <em>\"that\"</em> để diễn tả kết quả. Phương án 3 <em>\"such a success business\"</em> sai vì <em>\"success\"</em> là danh từ, cần tính từ <em>\"successful\"</em> để bổ nghĩa cho <em>\"business\"</em>, và cụm <em>\"success business\"</em> không hợp lý còn phương án 4 <em>\"a very success entrepreneur such\"</em> sai cấu trúc và từ loại.</p>",
+      "answerFeedbacks": {
+        "110251": "Sai vì <em>\"too\"</em> không dùng với <em>\"that\"</em> để diễn tả kết quả như cấu trúc <em>\"so/such... that\"</em>.",
+        "110252": "Đúng vì <em>\"so successful an entrepreneur\"</em> là cấu trúc đúng <em>\"so + adj. + a/an + N + that\"</em> để diễn tả kết quả.",
+        "110253": "Sai vì <em>\"success\"</em> là danh từ, không phải tính từ bổ nghĩa cho <em>\"business\"</em>, và cụm <em>\"success business\"</em> không phù hợp trong ngữ cảnh này.",
+        "110254": "Sai vì sai trật tự từ và sử dụng danh từ <em>\"success\"</em> thay vì tính từ <em>\"successful\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 857221,
+      "questionNumber": 10,
+      "questionName": "so",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The research project was _____ only a few students managed to complete it on time.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1634443,
+          "label": "A",
+          "text": "so challenging to",
+          "isCorrect": false
+        },
+        {
+          "id": 1634444,
+          "label": "B",
+          "text": "so challenging that",
+          "isCorrect": true
+        },
+        {
+          "id": 1634445,
+          "label": "C",
+          "text": "challenging too",
+          "isCorrect": false
+        },
+        {
+          "id": 1634446,
+          "label": "D",
+          "text": "such challenging that",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1634444,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Câu này kiểm tra khả năng sử dụng các cấu trúc diễn tả mối quan hệ nguyên nhân – kết quả.</p>\n<ul>\n<li>Xem xét từ loại của <em>\"challenging\"</em> trong câu là một tính từ.</li>\n<li>Sau chỗ trống, có một mệnh đề hoàn chỉnh <em>\"only a few students managed to complete it on time\"</em>, đây là mệnh đề kết quả.</li>\n</ul>\n<p>Hãy nhớ lại cấu trúc nào phù hợp với một tính từ đứng trước mệnh đề kết quả.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Cấu trúc diễn đạt kết quả/hậu quả</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Các cấu trúc này dùng để diễn tả mối quan hệ nguyên nhân – kết quả, nhấn mạnh mức độ của một tính từ hoặc trạng từ (với \"so\") hoặc một danh từ (với \"such\") dẫn đến một kết quả cụ thể.</p>\n<p><strong>Một số cấu trúc:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">so + adj./adv. + that + S + V</span></strong>: quá... đến nỗi mà... (nhấn mạnh tính từ/trạng từ)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">such + (a/an) + adj. + N + that + S + V</span></strong>: quá... đến nỗi mà... (nhấn mạnh danh từ)</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, <em>\"challenging\"</em> là một tính từ đứng sau động từ <em>\"was\"</em> và trước mệnh đề kết quả <em>\"only a few students managed to complete it on time\"</em>. Cấu trúc <em>\"so + adj. + that + S + V\"</em> là phù hợp nhất để diễn đạt rằng dự án quá thử thách đến nỗi chỉ một vài sinh viên hoàn thành đúng hạn nên phương án ''<em>so challenging that</em>'' là đáp án chính xác.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều là các cấu trúc không chính xác nên không phù hợp.</p>",
+      "answerFeedbacks": {
+        "1634443": "Sai vì cấu trúc <em>\"so + adj. + to V\"</em> không phù hợp để diễn tả kết quả của một mệnh đề hoàn chỉnh như <em>\"only a few students managed to complete it on time\"</em>.",
+        "1634444": "Đúng vì cấu trúc <em>\"so + adj. + that + S + V\"</em> diễn tả mức độ của tính từ <em>\"challenging\"</em> dẫn đến kết quả được nêu trong mệnh đề sau <em>\"that\"</em>, hoàn toàn phù hợp với ngữ cảnh câu.",
+        "1634445": "Sai vì <em>\"too + adj.\"</em> thường mang nghĩa tiêu cực (quá... không thể làm gì) và không thể kết nối với mệnh đề kết quả bằng <em>\"that\"</em> trong cấu trúc này.",
+        "1634446": "Sai vì cấu trúc <em>\"such + (a/an) + adj. + N + that\"</em> yêu cầu một danh từ đi sau tính từ <em>\"challenging\"</em>, trong khi ở đây <em>\"challenging\"</em> đứng một mình như một tính từ."
+      },
+      "images": []
+    },
+    {
+      "id": 300489,
+      "questionNumber": 11,
+      "questionName": "(*) 4.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>The <u>gravity</u> of the Earth is <u>too</u> strong that no one <u>can</u> jump <u>up to</u> three meters.</strong></p>\n<div style=\"position: absolute; left: 137px; top: 23.0795px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 655032,
+          "label": "A",
+          "text": "gravity",
+          "isCorrect": false
+        },
+        {
+          "id": 655033,
+          "label": "B",
+          "text": "too",
+          "isCorrect": true
+        },
+        {
+          "id": 655034,
+          "label": "C",
+          "text": "can",
+          "isCorrect": false
+        },
+        {
+          "id": 655035,
+          "label": "D",
+          "text": "up to",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 655033,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">V&igrave; c&acirc;u c&oacute; mệnh đề \"<strong>that</strong>\" n&ecirc;n kh&ocirc;ng thể d&ugrave;ng \"<strong>too</strong>\".</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c \"too ... to\": </span><strong>S + be/V + too + adj. + (for sb) + to V(inf)</strong><span style=\"font-weight: 400;\">: qu&aacute; ... đến nỗi kh&ocirc;ng thể l&agrave;m được</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c \"so ... that\": <strong>S + be/V + so + adj./adv. + that + S ​+ V</strong>:<strong> </strong>qu&aacute; &hellip; đến nỗi m&agrave; &hellip;</span></p>\n<p>Sửa: \"<strong>too</strong>\" =&gt; \"<strong>so</strong>\"</p>\n<p>Dịch: Trọng lực của Tr&aacute;i đất mạnh đến nỗi kh&ocirc;ng ai c&oacute; thể nhảy cao đến ba m&eacute;t.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 707306,
+      "questionNumber": 12,
+      "questionName": "15",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong><span style=\"text-decoration: underline;\">This</span> test was <span style=\"text-decoration: underline;\">such</span> easy that I <span style=\"text-decoration: underline;\">didn't</span> need <span style=\"text-decoration: underline;\">to check</span> my answers.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1372775,
+          "label": "A",
+          "text": "This",
+          "isCorrect": false
+        },
+        {
+          "id": 1372776,
+          "label": "B",
+          "text": "such",
+          "isCorrect": true
+        },
+        {
+          "id": 1372777,
+          "label": "C",
+          "text": "didn't",
+          "isCorrect": false
+        },
+        {
+          "id": 1372778,
+          "label": "D",
+          "text": "to check",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1372776,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c such ... that: <strong>S + be/V + such + (a/an) + adj. + N + that + S + V</strong>: qu&aacute; ... đến nỗi m&agrave; ...</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so ... that: <strong>S + be/V + so + adj./adv. + that + S ​+ V</strong>:<strong> </strong>qu&aacute; &hellip; đến nỗi m&agrave; &hellip;</span></p>\n<p>Sửa: \"<strong>such</strong>\" =&gt; \"<strong>so</strong>\"</p>\n<p>Dịch: B&agrave;i kiểm tra n&agrave;y dễ đến mức t&ocirc;i kh&ocirc;ng cần phải kiểm tra c&aacute;c c&acirc;u trả lời của m&igrave;nh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 163807,
+      "questionNumber": 13,
+      "questionName": "Question 11: ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction. </em></p>\n<p><strong>Today was <span style=\"text-decoration: underline;\">such beautiful day</span> that I couldn't bring <span style=\"text-decoration: underline;\">myself</span> <span style=\"text-decoration: underline;\">to complete</span> all <span style=\"text-decoration: underline;\">my chores</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 379975,
+          "label": "A",
+          "text": "such beautiful day",
+          "isCorrect": true
+        },
+        {
+          "id": 379976,
+          "label": "B",
+          "text": "myself",
+          "isCorrect": false
+        },
+        {
+          "id": 379977,
+          "label": "C",
+          "text": "to complete",
+          "isCorrect": false
+        },
+        {
+          "id": 379978,
+          "label": "D",
+          "text": "my chores",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 379975,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c such ... that: <strong>S + be/V + such + (a/an) + adj. + N + that + S + V</strong>: qu&aacute;&hellip; đến nỗi m&agrave;&hellip;</p>\n<p>V&igrave; \"<strong>day</strong>\" l&agrave; danh từ đếm được số &iacute;t n&ecirc;n cần d&ugrave;ng mạo từ ở trước.&nbsp;</p>\n<p>Sửa: \"<strong>such beautiful day</strong>\" =&gt; \"<strong>such a beautiful day</strong>\"</p>\n<p>Dịch: H&ocirc;m nay l&agrave; một ng&agrave;y đẹp trời đến nỗi t&ocirc;i kh&ocirc;ng thể tự m&igrave;nh ho&agrave;n th&agrave;nh mọi việc dọn dẹp nh&agrave; cửa.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 848004,
+      "questionNumber": 14,
+      "questionName": "Question 60. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>It <span style=\"text-decoration: underline;\">was</span> <span style=\"text-decoration: underline;\">too</span>&nbsp;a loud noise <span style=\"text-decoration: underline;\">that</span> everyone in the building heard <span style=\"text-decoration: underline;\">it</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1617651,
+          "label": "A",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "id": 1617652,
+          "label": "B",
+          "text": "too",
+          "isCorrect": true
+        },
+        {
+          "id": 1617653,
+          "label": "C",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 1617654,
+          "label": "D",
+          "text": "it",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1617652,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c với too: <strong>S + be/V + too + adj. + (for sb) + to V(inf)</strong>: qu&aacute; ... đến nỗi kh&ocirc;ng thể l&agrave;m được</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c such ... that: <strong>S + be/V + such + (a/an) + adj. + N + that + S + V</strong>:<strong> </strong>qu&aacute; &hellip; đến nỗi m&agrave; &hellip;</span></p>\n<p>Sửa: \"<strong>too</strong>\" =&gt; \"<strong>such</strong>\"</p>\n<p>Dịch: Tiếng động đ&oacute; lớn đến mức mọi người trong t&ograve;a nh&agrave; đều nghe thấy.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 184034,
+      "questionNumber": 15,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>The weather was so terrible that we spent the whole day indoors.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 421646,
+          "label": "A",
+          "text": "The weather was too terrible for us to spend the whole day indoors.",
+          "isCorrect": false
+        },
+        {
+          "id": 421647,
+          "label": "B",
+          "text": "The weather wasn't terrible enough for us to spend the whole day indoors.",
+          "isCorrect": false
+        },
+        {
+          "id": 421648,
+          "label": "C",
+          "text": "It was such terrible weather that we spent the whole day indoors.",
+          "isCorrect": true
+        },
+        {
+          "id": 421649,
+          "label": "D",
+          "text": "The weather was too terrible that we spent the whole day indoors.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 421648,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so ... that: <strong>S + be/V + so + adj./adv. + that + S ​+ V</strong>:<strong> </strong>qu&aacute;&hellip; đến nỗi m&agrave;&hellip;</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c such ... that: <strong>S + be/V + such + (a/an) + adj. + N + that + S + V</strong>:<strong> </strong>qu&aacute;&hellip; đến nỗi m&agrave;&hellip;</span></p>\n<p>Cấu tr&uacute;c với too: S + be/V + too + adj. + (for sb) + to V(inf): qu&aacute;... (để ai) l&agrave;m g&igrave;</p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c với enough: </span>S + be/V + adj. + enough + (for sb) + to V(inf)<span style=\"font-weight: 400;\">: đủ&hellip; để (ai) l&agrave;m g&igrave;&nbsp;</span></p>\n<p><span style=\"color: #000000;\">C&aacute;c phương &aacute;n kh&aacute;c sai v&igrave;:</span></p>\n<ul>\n<li><em>The weather was too terrible for us to spend the whole day indoors. (sai nghĩa)</em></li>\n<li><em>The weather wasn't terrible enough for us to spend the whole day indoors. (sai nghĩa)</em></li>\n<li><em>The weather was <strong><span style=\"text-decoration: line-through; color: #000000;\">too terrible that we spent the whole day indoors</span></strong>.&nbsp;</em></li>\n</ul>\n<p>Dịch: Thời tiết tệ đến nỗi ch&uacute;ng t&ocirc;i d&agrave;nh cả ng&agrave;y ở trong nh&agrave;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 847457,
+      "questionNumber": 16,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Her schedule is so busy that she rarely has time to relax.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1616534,
+          "label": "A",
+          "text": "She is such a busy schedule that she rarely has time to relax.",
+          "isCorrect": false
+        },
+        {
+          "id": 1616535,
+          "label": "B",
+          "text": "She has such a busy schedule that she rarely has time to relax.",
+          "isCorrect": true
+        },
+        {
+          "id": 1616536,
+          "label": "C",
+          "text": "She is so busy schedule that she rarely has time to relax.",
+          "isCorrect": false
+        },
+        {
+          "id": 1616537,
+          "label": "D",
+          "text": "She has such busy schedule that she rarely has time to relax.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1616535,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so ... that: <strong>S + be/V + so + adj./adv. + that + S ​+ V</strong>:<strong> </strong>qu&aacute;&hellip; đến nỗi m&agrave;&hellip;</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c such ... that: <strong>S + be/V + such + (a/an) + adj. + N + that + S + V</strong>:<strong> </strong>qu&aacute;&hellip; đến nỗi m&agrave;&hellip;</span></p>\n<p><span style=\"font-weight: 400;\">\"<strong>busy schedule</strong>\" l&agrave; cụm danh từ đếm được số &iacute;t n&ecirc;n cần theo sau mạo từ \"<strong>a</strong>\".</span></p>\n<p><span style=\"color: #000000;\">C&aacute;c phương &aacute;n kh&aacute;c sai v&igrave;:</span></p>\n<ul>\n<li><em>She <span style=\"color: #000000;\"><strong><span style=\"text-decoration: line-through;\">is</span></strong></span> such a busy schedule that she rarely has time to relax.&nbsp;</em></li>\n<li><em>She <span style=\"color: #000000;\"><strong><span style=\"text-decoration: line-through;\">is so</span></strong></span> busy schedule that she rarely has time to relax.&nbsp;</em></li>\n<li><em>She has <span style=\"color: #000000;\"><strong><span style=\"text-decoration: line-through;\">such busy schedule</span></strong></span> that she rarely has time to relax.&nbsp;</em></li>\n</ul>\n<p><span style=\"font-weight: 400;\">Dịch: Lịch tr&igrave;nh của c&ocirc; ấy bận rộn đến mức c&ocirc; hiếm khi c&oacute; thời gian để nghỉ ngơi.</span></p>\n<p><span style=\"font-weight: 400;\">~ C&ocirc; ấy c&oacute; một lịch tr&igrave;nh bận rộn đến mức c&ocirc; ấy hiếm khi c&oacute; thời gian để nghỉ ngơi.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 873953,
+      "questionNumber": 17,
+      "questionName": "Question 149. ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>Because it was an interesting novel, I stayed up all night to finish it.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1666116,
+          "label": "A",
+          "text": "I stayed up all night to finish the novel, therefore, it was interesting.",
+          "isCorrect": false
+        },
+        {
+          "id": 1666117,
+          "label": "B",
+          "text": "Unless it were an interesting novel, I would stay up all night to finish it.",
+          "isCorrect": false
+        },
+        {
+          "id": 1666118,
+          "label": "C",
+          "text": "Though it was an interesting novel, I stayed up all night to finish it.",
+          "isCorrect": false
+        },
+        {
+          "id": 1666119,
+          "label": "D",
+          "text": "The novel was so interesting that I stayed up all night to finish it.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1666119,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\"><strong>because + clause</strong>: bởi v&igrave; </span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so ... that: <strong>S + be/V + so + adj./adv. + that + S ​+ V</strong>: qu&aacute;&hellip; đến nỗi m&agrave;&hellip;</span></p>\n<p><span style=\"font-weight: 400;\">C&acirc;u điều kiện loại 2: Unless/If + S + V(pt), S + would/could + V(inf)</span></p>\n<p><span style=\"font-weight: 400;\">therefore (adv.): v&igrave; thế</span></p>\n<p><span style=\"font-weight: 400;\">though (conj.): mặc d&ugrave;</span></p>\n<p><span style=\"font-weight: 400;\">C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:</span></p>\n<ul>\n<li><em><span style=\"font-weight: 400;\">I stayed up all night to finish the novel, therefore, it was interesting. (Sai nghĩa)</span></em></li>\n<li><em><span style=\"font-weight: 400;\">Unless it were an interesting novel, I would stay up all night to finish it. (Sai nghĩa)</span></em></li>\n<li><em><span style=\"font-weight: 400;\">Though it was an interesting novel, I stayed up all night to finish it. (Sai nghĩa)</span></em></li>\n</ul>\n<p>Dịch: Bởi v&igrave; đ&oacute; l&agrave; một cuốn tiểu thuyết th&uacute; vị, t&ocirc;i đ&atilde; thức cả đ&ecirc;m để đọc hết.</p>\n<p>~ Cuốn tiểu thuyết đ&oacute; th&uacute; vị đến mức t&ocirc;i đ&atilde; thức cả đ&ecirc;m để đọc cho xong.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 173076,
+      "questionNumber": 18,
+      "questionName": "such",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><i>Complete the second sentence so that it has the same meaning to the first.</i></p>\n<p><strong>Gary danced so badly that people stopped watching him.</strong></p>\n<p><strong> =&gt; Gary was such ...........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Gary was such a bad dancer that people stopped watching him."
+      ],
+      "hint": "Câu gốc sử dụng cấu trúc \"so + trạng từ + that\" để diễn tả nguyên nhân và kết quả.\nPhần câu đã cho \"Gary was such...\" gợi ý bạn cần sử dụng cấu trúc \"such + (a/an) + tính từ + danh từ + that\" để diễn đạt cùng ý nghĩa.\nHãy suy nghĩ cách biến đổi trạng từ \"badly\" (dở tệ) trong câu gốc thành một cụm danh từ phù hợp để đi kèm với \"such\" mà vẫn giữ nguyên nghĩa. Sau đó, nối với phần kết quả \"that people stopped watching him\".",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\">Cấu trúc <strong>so…that… </strong>diễn tả nguyên nhân – kết quả, dùng với tính từ hoặc trạng từ: S + V + <strong>so</strong> + adj/adv + <strong>that</strong> + S + V</p>\n<p style=\"text-align: justify;\">Cấu trúc <strong>such…that…</strong> diễn tả nguyên nhân – kết quả, dùng với danh từ: S + V + <strong>such</strong> + (a/an) + adj + N + <strong>that</strong> + S + V</p>\n<p style=\"text-align: justify;\"><span style=\"color: #5fbd18; font-weight: 600;\">Phân tích: </span></p>\n<p>Câu gốc \"<strong>Gary danced so badly that people stopped watching him</strong>\" sử dụng cấu trúc \"so...that\" với trạng từ \"<strong>badly</strong>\" để diễn tả nguyên nhân và kết quả.</p>\n<ul>\n<li>Phần câu đã cho sẵn \"<strong>Gary was such...</strong>\" gợi ý cần chuyển đổi sang cấu trúc \"such...that\" và biến đổi \"<strong>danced ... badly</strong>\" thành một cụm danh từ để điền vào sau \"<strong>such</strong>\". Để diễn tả \"Gary là một người nhảy dở\", ta dùng danh từ \"<strong>dancer</strong>\" (vũ công) và tính từ \"<strong>bad</strong>\" (tệ). Vì \"<strong>dancer</strong>\" là danh từ đếm được số ít, ta cần thêm mạo từ \"<strong>a</strong>\". Kết quả là \"<strong>a bad dancer</strong>\".</li>\n<li style=\"text-align: justify; margin-bottom: 5px;\">Phần \"<strong>that people stopped watching him</strong>\" trong câu gốc diễn tả kết quả và có thể giữ nguyên. Do đó, ta nối cụm danh từ \"<strong>a bad dancer</strong>\" với phần kết quả này để hoàn thành câu.</li>\n</ul>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 611613,
+      "questionNumber": 19,
+      "questionName": "77",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>People started arguing over the project because it was very confusing.&nbsp;</strong></p>\n<p><strong>=&gt; It was so ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "It was so confusing a project that people started arguing over it."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c so ... that: <strong>S + be/V + so + adj. + a/an + N (số &iacute;t) + that + S + V</strong>:<strong> </strong>qu&aacute; ... đến nỗi m&agrave; ...</p>\n<p>Dịch: Mọi người bắt đầu tranh c&atilde;i về dự &aacute;n v&igrave; n&oacute; rất kh&oacute; hiểu.</p>\n<p>~ C&aacute;i dự &aacute;n đ&oacute; qu&aacute; kh&oacute; hiểu đến nỗi m&agrave; mọi người đ&atilde; bắt đầu c&atilde;i nhau v&igrave; n&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 145941,
+      "questionNumber": 20,
+      "questionName": "My friends are so humorous that I can't help laughing at their jokes.",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>My friends are so humorous that I can't help laughing at their jokes. </strong></p>\n<p><strong>=&gt; I have such .............</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "I have such humorous friends that I can't help laughing at their jokes."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so ... that: <strong>S + be/V + so + adj./adv. + that + S ​+ V</strong>:<strong> </strong>qu&aacute;&hellip; đến nỗi m&agrave;&hellip;</span></p>\n<p><span style=\"font-weight: 400;\">~ Cấu tr&uacute;c such ... that: <strong>S + be/V + such + (a/an) + adj. + N + that + S + V</strong>:<strong> </strong>qu&aacute;&hellip; đến nỗi m&agrave;&hellip;</span></p>\n<p>Dịch: Bạn b&egrave; của t&ocirc;i h&agrave;i hước đến mức t&ocirc;i kh&ocirc;ng thể kh&ocirc;ng cười với những trò đ&ugrave;a của họ.</p>\n<p>~ T&ocirc;i c&oacute; những người bạn h&agrave;i hước đến mức t&ocirc;i kh&ocirc;ng thể kh&ocirc;ng cười với những trò đ&ugrave;a của họ.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 728253,
+      "questionNumber": 21,
+      "questionName": "62",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence using the word given so that it has the same meaning to the first.</em></p>\n<p><strong>The stadium was so big that the players were exhausted after the match. (SUCH)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "It was such a big stadium that the players were exhausted after the match."
+      ],
+      "hint": "",
+      "explanation": "<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so ... that: <strong>S + be/V + so + adj./adv. + that + S ​+ V</strong>:<strong> </strong>qu&aacute;&hellip; đến nỗi m&agrave;&hellip;</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c such ... that: <strong>S + be/V + such + (a/an) + adj. + N + that + S + V</strong>:<strong> </strong>qu&aacute;&hellip; đến nỗi m&agrave;&hellip;</span></p>\n<p><span style=\"font-weight: 400;\">Dịch: S&acirc;n vận động qu&aacute; lớn khiến c&aacute;c cầu thủ kiệt sức sau trận đấu.</span></p>\n<p><span style=\"font-weight: 400;\">~ Đ&oacute; l&agrave; một s&acirc;n vận động lớn đến nỗi c&aacute;c cầu thủ đ&atilde; kiệt sức sau trận đấu.</span></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 198812,
+      "questionNumber": 22,
+      "questionName": "a",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence using the word given so that it has&nbsp;the same meaning to the first.</em></p>\n<p><strong>It is such a heavy book that I can&#8217;t lift it. (SO)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "The book is so heavy that I can't lift it.",
+        "It is so heavy a book that I can't lift it."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c such ... that: <strong>S + be/V + such + (a/an) + adj. + N + that + S + V</strong>: qu&aacute; ... đến nỗi m&agrave; ...</p>\n<p>Cấu tr&uacute;c so ... that: <strong>S + be/V + so + adj./adv. + that + S ​+ V</strong>: qu&aacute; &hellip; đến nỗi m&agrave; &hellip;</p>\n<p>Cấu tr&uacute;c so ... that:<strong> S + be/V + so + adj. + a/an + N (số &iacute;t) + that + S + V</strong>: qu&aacute; ... đến nỗi m&agrave; ...</p>\n<p>Dịch: Cuốn s&aacute;ch nặng đến nỗi m&agrave; t&ocirc;i kh&ocirc;ng thể nhấc n&oacute; l&ecirc;n nổi.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 171861,
+      "questionNumber": 23,
+      "questionName": "a",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete the second sentence using the word given so that it has </span><span style=\"font-weight: 400;\">the same meaning to the first.</span></em></p>\n<p><strong>We were having a happy time at the party. I didn't want to come home.</strong> <strong>(SUCH)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "We were having such a happy time at the party that I didn't want to come home.",
+        "It was such a happy party that I didn't want to come home."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c: <strong>S + be/V + such + (a/an) + adj. + N + that + S + V</strong>: qu&aacute;&hellip; đến nỗi m&agrave;&hellip;</p>\n<p>Dịch: Ch&uacute;ng t&ocirc;i đ&atilde; c&oacute; một khoảng thời gian vui vẻ ở bữa tiệc. T&ocirc;i đ&atilde; kh&ocirc;ng muốn về nh&agrave;.</p>\n<p>~ Ch&uacute;ng t&ocirc;i đ&atilde; c&oacute; một khoảng thời gian vui vẻ ở bữa tiệc đến nỗi t&ocirc;i đ&atilde; kh&ocirc;ng muốn về nh&agrave;.</p>\n<p>~ Đ&oacute; l&agrave; 1 bữa tiệc vui đến nỗi t&ocirc;i đ&atilde; kh&ocirc;ng muốn về nh&agrave;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 146008,
+      "questionNumber": 24,
+      "questionName": "She felt really upset. She started to cry. (so)",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete the second sentence using the word given so that it has </span><span style=\"font-weight: 400;\">the same meaning to the first.</span></em></p>\n<p><strong>She felt really upset. She started to cry. (SO)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "She felt so upset that she started to cry.",
+        "She felt really upset, so she started to cry."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c so ... that:<strong> S + be/V + so + adj./adv. + that + S + V</strong>: qu&aacute; ... đến nỗi m&agrave; ...</p>\n<p><strong>so + clause</strong>: v&igrave; thế</p>\n<p>Dịch: C&ocirc; ấy đ&atilde; thực sự rất buồn. C&ocirc; ấy bắt đầu kh&oacute;c.</p>\n<p>~ C&ocirc; ấy cảm thấy buồn đến nỗi c&ocirc; ấy bắt đầu kh&oacute;c.</p>\n<p>~ C&ocirc; ấy thực sự rất buồn, v&igrave; thế c&ocirc; ấy bắt đầu kh&oacute;c.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 166917,
+      "questionNumber": 25,
+      "questionName": "a",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence using the word given so that it has&nbsp;the same meaning to the first.</em></p>\n<p><strong>The Smiths are really nice people. They won't be angry about it.</strong> <strong>(SUCH) </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "The Smiths are such nice people that they won't be angry about it."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c such ... that: <strong>S + be/V + such + (a/an) + adj. + N + that + S + V</strong>: qu&aacute; ...đến nỗi m&agrave;...</p>\n<p>Dịch: Gia đ&igrave;nh nh&agrave; Smiths l&agrave; những người thực sự tốt. Họ sẽ kh&ocirc;ng tức giận về điều đ&oacute;.</p>\n<p>~ Gia đ&igrave;nh nh&agrave; Smiths l&agrave; những người tốt đến nỗi họ sẽ kh&ocirc;ng tức giận về điều đ&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 149627,
+      "questionNumber": 26,
+      "questionName": "1",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete the second sentence using the word given so that it has </span><span style=\"font-weight: 400;\">the same meaning to the first.</span></em></p>\n<p><strong>There were too many spectators at the match. We had to stand.</strong> <strong>(SO)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "There were so many spectators at the match that we had to stand.",
+        "There were too many spectators at the match, so we had to stand."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c so ... that: <strong>S + be/V + so + many + N (số nhiều) + that + S + V</strong>: qu&aacute; ... đến nỗi m&agrave; ...</p>\n<p><strong>so + clause</strong>: v&igrave; thế</p>\n<p>Dịch: Đ&atilde; c&oacute; qu&aacute; nhiều kh&aacute;n giả đến cổ vũ cho trận đấu. Ch&uacute;ng t&ocirc;i đ&atilde; phải đứng.</p>\n<p>~ C&oacute; qu&aacute; nhiều kh&aacute;n giả đến cổ vũ cho trận đấu đến nỗi ch&uacute;ng t&ocirc;i đ&atilde; phải đứng.</p>\n<p>~ Đ&atilde; c&oacute; qu&aacute; nhiều kh&aacute;n giả đến trận đấu, v&igrave; thế ch&uacute;ng t&ocirc;i đ&atilde; phải đứng.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 253356,
+      "questionNumber": 27,
+      "questionName": "3. sxc",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "no one",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "for long.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "can work",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "such",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "bad-tempered",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "with him",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 9",
+          "text": "He is",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 10",
+          "text": "person",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 217163,
+      "questionNumber": 28,
+      "questionName": "The atmosphere in that house was so frightening that we decided to leave immediately.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "immediately.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "The atmosphere",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "frightening",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "in that house",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "we decided",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 9",
+          "text": "to leave",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 206980,
+      "questionNumber": 29,
+      "questionName": "so that",
+      "questionType": "WordOrder",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</span></em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "at the office",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "cannot take",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "so busy",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "My mother",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "good care of us.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "that she",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "with her work",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "is",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 697537,
+      "questionNumber": 30,
+      "questionName": "(*) 07",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (kéo từng từ/cụm từ về vị trí đúng để tạo thành câu hoàn chỉnh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "right in",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "tired",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "he",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "fell asleep",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "Nick",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 9",
+          "text": "the classroom.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Để sắp xếp câu, bạn hãy tập trung vào cấu trúc diễn tả nguyên nhân - kết quả. Cấu trúc này thường có dạng: <strong>so + tính từ + that + mệnh đề</strong>.",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 273292,
+      "questionNumber": 31,
+      "questionName": "He has such a beautiful voice that he should try to become a professional singer.",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "beautiful voice",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "a professional singer.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "he should",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "He has",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "try to become",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "such",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    },
+    {
+      "id": 577946,
+      "questionNumber": 32,
+      "questionName": "new",
+      "questionType": "WordOrder",
+      "questionText": "<p><em>Rearrange the words in a correct order to make a complete sentence (k&#233;o t&#7915;ng t&#7915;/c&#7909;m t&#7915; v&#7873; v&#7883; tr&#237; &#273;&#250;ng &#273;&#7875; t&#7841;o th&#224;nh c&#226;u ho&#224;n ch&#7881;nh).</em></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 0,
+          "label": "A",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "B",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "C",
+          "text": "needed",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "D",
+          "text": "twice.",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "E",
+          "text": "I",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "F",
+          "text": "my answer",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 7",
+          "text": "to check",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 8",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 9",
+          "text": "This test",
+          "isCorrect": false
+        },
+        {
+          "id": 0,
+          "label": "Opt 10",
+          "text": "difficult",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "",
+      "answerFeedbacks": {},
+      "images": [],
+      "needsManualReview": true
+    }
+  ]
+}

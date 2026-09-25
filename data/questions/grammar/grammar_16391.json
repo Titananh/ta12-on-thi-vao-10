@@ -1,0 +1,1122 @@
+{
+  "quizId": 16391,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 72: Word form: Nouns (Dùng đúng loại từ: Danh từ)",
+  "totalQuestions": 23,
+  "questions": [
+    {
+      "id": 908623,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#7885;n c&#225;c ph&#225;t bi&#7875;u &#273;&#250;ng.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1724612,
+          "label": "A",
+          "text": "Danh từ có thể đứng sau giới từ.",
+          "isCorrect": true
+        },
+        {
+          "id": 1724613,
+          "label": "B",
+          "text": "Danh từ có thể đứng sau mạo từ (a/an/the) nhưng không thể đứng sau số từ.",
+          "isCorrect": false
+        },
+        {
+          "id": 1724614,
+          "label": "C",
+          "text": "Danh từ không thể đi cùng một danh từ khác.",
+          "isCorrect": false
+        },
+        {
+          "id": 1724615,
+          "label": "D",
+          "text": "Danh từ có thể đứng sau tính từ sở hữu (his, my, their,...).",
+          "isCorrect": true
+        },
+        {
+          "id": 1724616,
+          "label": "E",
+          "text": "Danh từ luôn luôn đứng sau giới từ.",
+          "isCorrect": false
+        },
+        {
+          "id": 1724617,
+          "label": "F",
+          "text": "Danh từ có thể đứng sau tính từ chỉ định (this, that,...).",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1724612,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr>\n<td style=\"width: 50.0392%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/3_-_Copy_42_18589332.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 50.0392%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/4_-_Copy_16_693d0e05.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 908637,
+      "questionNumber": 2,
+      "questionName": "1",
+      "questionType": "CheckBox",
+      "questionText": "<p><strong>Ch&#7885;n c&#225;c h&#7853;u t&#7889; &#273;&#432;&#7907;c d&#249;ng &#273;&#7875; t&#7841;o danh t&#7915;.&nbsp;</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1724638,
+          "label": "A",
+          "text": "-ous",
+          "isCorrect": false
+        },
+        {
+          "id": 1724639,
+          "label": "B",
+          "text": "-age",
+          "isCorrect": true
+        },
+        {
+          "id": 1724640,
+          "label": "C",
+          "text": "-ance",
+          "isCorrect": true
+        },
+        {
+          "id": 1724641,
+          "label": "D",
+          "text": "-ible",
+          "isCorrect": false
+        },
+        {
+          "id": 1724642,
+          "label": "E",
+          "text": "-ity",
+          "isCorrect": true
+        },
+        {
+          "id": 1724643,
+          "label": "F",
+          "text": "-ment",
+          "isCorrect": true
+        },
+        {
+          "id": 1724644,
+          "label": "Opt 7",
+          "text": "-ive",
+          "isCorrect": false
+        },
+        {
+          "id": 1724645,
+          "label": "Opt 8",
+          "text": "-ize",
+          "isCorrect": false
+        },
+        {
+          "id": 1724646,
+          "label": "Opt 9",
+          "text": "-ship",
+          "isCorrect": true
+        },
+        {
+          "id": 1724647,
+          "label": "Opt 10",
+          "text": "-en",
+          "isCorrect": false
+        },
+        {
+          "id": 1724648,
+          "label": "Opt 11",
+          "text": "-er",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1724639,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/6_-_Copy_10_b543e245.png\" alt=\"\" width=\"600\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 881366,
+      "questionNumber": 3,
+      "questionName": "dùng đúng từ loại",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>There is a strong _____ between regular exercise and improved mental health.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1680451,
+          "label": "A",
+          "text": "connection",
+          "isCorrect": true
+        },
+        {
+          "id": 1680452,
+          "label": "B",
+          "text": "connect",
+          "isCorrect": false
+        },
+        {
+          "id": 1680453,
+          "label": "C",
+          "text": "connected",
+          "isCorrect": false
+        },
+        {
+          "id": 1680454,
+          "label": "D",
+          "text": "connective",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1680451,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để chọn từ phù hợp, hãy xem xét vị trí của chỗ trống trong câu. Chỗ trống nằm sau tính từ <em>\"strong\"</em> và trước giới từ <em>\"between\"</em>, gợi ý rằng bạn cần điền một danh từ phù hợp để tạo thành một cụm danh từ có nghĩa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 310px;\"><iframe width=\"100%\" height=\"310\" style=\"border: none;\" id=\"embed-frame-0B7AF\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18cokFgdjN8gXcsrSli5t4hO9sf0Q3Z2m5%2F3BPJ9rkwx20kU%2BzFiLSH%2FE0RF%2Bkc8uc3k%2F%2BuhgLoXaJWHC59TUpzdGi3Oq8jDLZXRBZPEBeKNcaIQ4bVwqZSlHeuqR0f9OY%2FwXcy159FjNq7foI6DMwvlqdMm9jeJ6PWhrQfiGwo67FZmDy31EIlNT9dv0pagiOnJAVuthK4WL3UvsTF0hfgxa1WRojNoxoklNc65uys1zADRcKgxAjAMTe%2FIsA9gnLJVb%2BhXlzt4qkJV16eiaTBrfQTgYD0hSF5Qfq%2BkFvckhqPDYc2kW8kiRp0YSYStLZFmNYQWlAVa7ukpDZp9Zyqt02EYjl%2Fq0AoxUoIzkO0RotbgM0NCsZn%2FFMs3Oxxe6D5EFOV79REVg%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống cần điền một danh từ để hoàn thành cụm danh từ <em>\"a strong <strong>...</strong> between...\" </em>với dấu hiệu nhận biết là từ <em>\"strong\"</em> (tính từ) đứng trước và giới từ <em>\"between\"</em> đứng sau, cho thấy vị trí này cần một danh từ để diễn tả <em>\"mối liên hệ mạnh mẽ\"</em>. Trong các lựa chọn, <em>\"connection\"</em> là danh từ phù hợp nhất về cả từ loại và ngữ nghĩa.</p>",
+      "answerFeedbacks": {
+        "1680451": "Vị trí cần điền là một danh từ để hoàn thành cụm danh từ <em>\"a strong connection between X and Y\"</em>, mang nghĩa <em>\"mối liên hệ mạnh mẽ\"</em>.",
+        "1680452": "<em>\"connect\"</em> là động từ, không phù hợp với vị trí cần điền sau tính từ <em>\"strong\"</em> và trước giới từ <em>\"between\"</em>.",
+        "1680453": "<em>\"connected\"</em> là tính từ (hoặc quá khứ phân từ), không phù hợp với vị trí cần điền là một danh từ.",
+        "1680454": "<em>\"connective\"</em> là tính từ (nghĩa <em>\"liên kết, nối liền\"</em>) hoặc danh từ (nghĩa <em>\"từ nối\"</em> trong ngữ pháp), không phù hợp với ngữ cảnh <em>\"mối liên hệ\"</em> ở đây."
+      },
+      "images": []
+    },
+    {
+      "id": 664450,
+      "questionNumber": 4,
+      "questionName": "a",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Anna has a great _____ and everyone in my class likes her.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1280129,
+          "label": "A",
+          "text": "person",
+          "isCorrect": false
+        },
+        {
+          "id": 1280130,
+          "label": "B",
+          "text": "personality",
+          "isCorrect": true
+        },
+        {
+          "id": 1280131,
+          "label": "C",
+          "text": "<p>impersonal</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1280132,
+          "label": "D",
+          "text": "<p>personal</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1280130,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>H&atilde;y xem x&eacute;t cấu tr&uacute;c ngữ ph&aacute;p trước chỗ trống: <em>\"a great ____\"</em>. Từ loại n&agrave;o thường đi sau một mạo từ <em>\"a\"</em>&nbsp;v&agrave; một t&iacute;nh từ <em>\"great\"</em>? Đồng thời, h&atilde;y c&acirc;n nhắc &yacute; nghĩa của vế sau <em>\"everyone in my class likes her\"</em> để chọn từ c&oacute; nghĩa ph&ugrave; hợp nhất.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Loại từ (danh từ)</span>.</p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Danh từ là từ dùng để gọi tên người, vật, sự việc, khái niệm hoặc phẩm chất. Trong câu, danh từ có thể đóng vai trò chủ ngữ, tân ngữ hoặc bổ ngữ.</p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, chỗ trống cần một danh từ để hoàn thành cụm danh từ <em>\"a great [noun]\"</em>. Cụm từ <em>\"everyone in my class likes her\"</em> gợi ý rằng chỗ trống cần điền một phẩm chất tốt đẹp của Anna. Trong các lựa chọn, <em>\"personality\"</em> là danh từ có nghĩa là \"tính cách, nhân cách\", phù hợp hoàn hảo với cả cấu trúc ngữ pháp và ngữ cảnh câu.</p>\n<p style=\"text-align: justify;\">Phương án <em>\"person\"</em> là danh từ nhưng nghĩa là \"người\", không diễn tả phẩm chất mà <em>\"everyone likes\"</em>. Các phương án <em>\"impersonal\"</em> và <em>\"personal\"</em> là tính từ, không phù hợp để điền vào vị trí cần danh từ sau tính từ <em>\"great\"</em>.</p>",
+      "answerFeedbacks": {
+        "1280129": "Phương án này là danh từ nhưng <em>\"a great person\"</em> không thể hiện lý do tại sao <em>\"everyone likes her\"</em> một cách rõ ràng bằng <em>\"personality\"</em>.",
+        "1280130": "Sau cụm <em>\"a great\"</em> cần một danh từ để hoàn thành cụm danh từ, và <em>\"personality\"</em> (tính cách) phù hợp với ngữ cảnh <em>\"everyone in my class likes her\"</em>.",
+        "1280131": "<p>Phương án này là tính từ, không phù hợp để điền vào vị trí cần một danh từ sau mạo từ và tính từ.</p>",
+        "1280132": "<p>Phương án này là tính từ, không phù hợp để điền vào vị trí cần một danh từ sau mạo từ và tính từ.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 667882,
+      "questionNumber": 5,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>It's important to teach children the value of _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1286909,
+          "label": "A",
+          "text": "kindly",
+          "isCorrect": false
+        },
+        {
+          "id": 1286910,
+          "label": "B",
+          "text": "unkind",
+          "isCorrect": false
+        },
+        {
+          "id": 1286911,
+          "label": "C",
+          "text": "kind",
+          "isCorrect": false
+        },
+        {
+          "id": 1286912,
+          "label": "D",
+          "text": "kindness",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1286912,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Bạn cần một danh từ phù hợp có thể đứng sau cụm danh từ <em style=\"text-align: justify;\">the value of</em><span style=\"text-align: justify;\">\" (giá trị của cái gì đó), trong đó \"</span><em style=\"text-align: justify;\">of</em><span style=\"text-align: justify;\">\" là giới từ.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 305px;\"><iframe width=\"100%\" height=\"305\" style=\"border: none;\" id=\"embed-frame-F934E\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19H%2FGREH1ddJB9bdnhQOchbQSS3kXUMzmK9l5QtGD%2FED4WMBoYmE%2FtOXdNXcPNBjGGmL9bWaNKIrdbVVK%2BvIjUTkiUb5%2FIaXiUs%2FFXQ5L%2F8Pj2ZPcA32Upvw3f3W1bkMHnqTC8bAzlL1vxJNru1GktDwkvLdUxXqhIMP76%2B%2B41K9oeM1TEHkC86hFsxGTbrj7Zt7eB1pRrP9pSfoVt2T%2F0GltLHRqWhhCq5OWC0ckHLMRvqiCAPJ%2F0PTQlsRC6iLBmOK80x2vOiaXIRA7h6jSJgbK4VobVqnK51DyZC6n5CtR77vmJuCOnEyq1Cy9n76cqwHNTdEeKu6s7To0slFtfwu5sr%2FkMvVmnZG7BRSE6Qt9eb091%2FxGvX\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống đứng sau cụm danh từ \"<em>the value of</em>\" (giá trị của cái gì đó), trong đó \"<em>of</em>\" là giới từ. Theo quy tắc ngữ pháp, sau giới từ cần một danh từ hoặc cụm danh từ để hoàn thành ý nghĩa. Do đó, từ cần điền phải là một danh từ. Trong các lựa chọn, <em><strong>kindness</strong> </em>là danh từ duy nhất phù hợp về mặt ngữ pháp và ngữ nghĩa để chỉ \"lòng tốt\".</p>",
+      "answerFeedbacks": {
+        "1286909": "<em>Kindly</em> là trạng từ, không thể đứng sau giới từ <em>of</em> để làm bổ ngữ.",
+        "1286910": "<em>Unkind</em> là tính từ, không phù hợp để làm tân ngữ cho giới từ <em>of</em>.",
+        "1286911": "<em>Kind</em> là tính từ, không thể đứng sau giới từ <em>of</em> để tạo thành cụm danh từ.",
+        "1286912": "<em>Kindness</em> là danh từ, phù hợp để làm tân ngữ cho giới từ <em>of</em> trong cụm <em>the value of kindness</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 615431,
+      "questionNumber": 6,
+      "questionName": "29",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>There is a big _____ between reading about skiing and doing it yourself.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1184963,
+          "label": "A",
+          "text": "differ",
+          "isCorrect": false
+        },
+        {
+          "id": 1184964,
+          "label": "B",
+          "text": "difference",
+          "isCorrect": true
+        },
+        {
+          "id": 1184965,
+          "label": "C",
+          "text": "different",
+          "isCorrect": false
+        },
+        {
+          "id": 1184966,
+          "label": "D",
+          "text": "differently",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1184964,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Xem xét <span style=\"text-align: justify;\">chỗ trống đứng sau mạo từ </span><em style=\"text-align: justify;\">\"a\"</em><span style=\"text-align: justify;\"> và tính từ </span><em style=\"text-align: justify;\">\"big\"</em><span style=\"text-align: justify;\">, đồng thời đứng trước giới từ </span><em style=\"text-align: justify;\">\"between\"</em><span style=\"text-align: justify;\">. </span><span style=\"text-align: justify;\">Bạn cần </span><span style=\"text-align: justify;\">một danh từ để hoàn thành cụm danh từ</span><span style=\"text-align: justify;\">.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe width=\"100%\" height=\"275\" style=\"border: none;\" id=\"embed-frame-F934E\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FIdJu7g5qZyv7tqOjR86TZB3IpR8%2Fd9Jw1dmMA6fSPp8lAHaSQwOMUBEn0078zWOdf6C5ENgpsR4hmHIJU760Yv1SKoF0ysz6E%2BaErHzmTZQpmSAV%2F60t5B0hTMRkNwoltAewcFb7w4FMMG1TNNOngFWnLOqFlaUhAbR5RmG1KVAK9sMY5vf5lwm6zkpG%2FXvkKMG%2FkjI0CVIaG7r1mM16usxHEFAkF6AhsbYXM5L2UtGs8ANiNUS4RfK%2Bq7HDlDeHQks5OT8iu8n0OlJEgOw9gafRyrqM1XbP3gZE2BKsX59BIxmGMmLl70n1wEFkRk3avdX%2B540qMtr8Hz%2FGMiUTwbgUcZunM4GwWrYWLDksTT%2Bse8O%2FI9GmoaVizzn%2F64GE4PYu67SgiKA%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống đứng sau mạo từ <em>\"a\"</em> và tính từ <em>\"big\"</em>, đồng thời đứng trước giới từ <em>\"between\"</em>. Vị trí này yêu cầu một danh từ để hoàn thành cụm danh từ. Trong các phương án, ''<strong><em>difference</em></strong>'' là danh từ duy nhất để hoàn thành câu một cách chính xác về mặt ngữ pháp.</p>",
+      "answerFeedbacks": {
+        "1184963": "<em>\"differ\"</em> là một động từ, nhưng vị trí cần điền trong câu yêu cầu một danh từ.",
+        "1184964": "<p><em>\"difference\"</em> là một danh từ, phù hợp để đứng sau mạo từ <em>\"a\" </em>và tính từ <em>\"big\"</em>, tạo thành cụm danh từ <em>\"a big difference\"</em>.</p>",
+        "1184965": "<em>\"different\"</em> là một tính từ, không thể đứng sau một tính từ khác <em>\"big\"</em> để tạo thành cụm danh từ theo cấu trúc của câu.",
+        "1184966": "<em>\"differently\"</em> là một trạng từ, không thể đóng vai trò danh từ trong cấu trúc ngữ pháp này."
+      },
+      "images": []
+    },
+    {
+      "id": 908480,
+      "questionNumber": 7,
+      "questionName": "2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Thomas Edison was the _____ of the electric light bulb.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1724397,
+          "label": "A",
+          "text": "inventive",
+          "isCorrect": false
+        },
+        {
+          "id": 1724398,
+          "label": "B",
+          "text": "invention",
+          "isCorrect": false
+        },
+        {
+          "id": 1724399,
+          "label": "C",
+          "text": "invent",
+          "isCorrect": false
+        },
+        {
+          "id": 1724400,
+          "label": "D",
+          "text": "inventor",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1724400,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy xác định từ loại cần điền vào chỗ trống dựa vào các từ bên cạnh như mạo từ \"<em>the</em>\" và cụm giới từ \"<em>of the electric light bulb</em>\".</p>\n<p>Sau đó, chọn từ có nghĩa phù hợp với chủ ngữ \"<em>Thomas Edison</em>\".</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 295px;\"><iframe width=\"100%\" height=\"295\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BTD92mjd5nYRfVUXsWrkyE1qyTLuxfNho4WaboJq9MaSwUZRV%2BFF38KUwXKBPDDjAK3NC2dN%2FRDsIC%2FyDpM67FuxgaXmzV3bvNE1lWbq6HKp1%2B%2Fs%2FcUcysaTeqdM%2Fs5yL%2BRhrdwszN%2B8dMdR9RlnH57zFHhh%2FVFXfqhC5jrZHEZ98pLRkZEYAwdqMnsb3QwIj3NG1%2FTLNS5XnXDvbyaMdvHGCfjcRhvrkt5sekhPLYllyMZq35IkRkIi7OnUDK%2F%2F9KM7tSJCb0%2Bgp2aAzzYqjhtulnFqvk6eLlpnZp%2FLwWmNeahGoQNtRY4%2B%2FHZ22rw0iZ2mBMgFrCg6ZjBxtEdP5B%2FEwbLzAaHI307a91FnNg6hOUaqlirJs5\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu này, vị trí cần điền đứng sau mạo từ \"<em>the</em>\" và trước cụm giới từ \"<em>of the electric light bulb</em>\". Cụm \"<em>was the _____ of</em>\" yêu cầu một danh từ chỉ người thực hiện hành động để bổ nghĩa cho chủ ngữ \"<em>Thomas Ediso</em>n\". Do đó, từ cần điền phải là danh từ chỉ người có liên quan đến \"<em>electric light bulb</em>\" (bóng đèn điện), tức là người phát minh ra nó và <em><strong>inventor </strong></em>là phương án phù hợp nhất.</p>",
+      "answerFeedbacks": {
+        "1724397": "Tính từ <em>inventive</em> có nghĩa là có khả năng sáng tạo hoặc liên quan đến sự sáng tạo, không phù hợp với ngữ cảnh cần một danh từ chỉ người.",
+        "1724398": "Danh từ <em>invention</em> có nghĩa là sự phát minh hoặc vật được phát minh, không phải là người thực hiện hành động phát minh.",
+        "1724399": "Động từ <em>invent</em> có nghĩa là phát minh, không phù hợp với vị trí cần một danh từ sau mạo từ \"the\" để chỉ người.",
+        "1724400": "Danh từ <em>inventor</em> có nghĩa là nhà phát minh, người thực hiện hành động phát minh, hoàn toàn phù hợp với ngữ cảnh \"Thomas Edison was the <em>inventor</em>\"."
+      },
+      "images": []
+    },
+    {
+      "id": 628553,
+      "questionNumber": 8,
+      "questionName": "health",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>It's important to visit the doctor regularly for check-ups to monitor your _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1210288,
+          "label": "A",
+          "text": "<p>health</p>",
+          "isCorrect": true
+        },
+        {
+          "id": 1210289,
+          "label": "B",
+          "text": "<p>healthy</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1210290,
+          "label": "C",
+          "text": "<p>healthily</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1210291,
+          "label": "D",
+          "text": "<p>unhealthy</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1210288,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy chú ý đến từ đứng trước chỗ trống là <em>\"your\"</em>. Từ loại nào thường đứng sau một tính từ sở hữu như <em>\"your\"</em> để tạo thành một cụm danh từ?</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 310px;\"><iframe width=\"100%\" height=\"310\" style=\"border: none;\" id=\"embed-frame-F934E\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2B96tUcIzHbDdhzlhvrg58ytkXQ5S%2BPx8uCLX5W8z6V7XqKRdeoi%2Fczz5oU7X1kCVg2WYtxe43hsxaYf5pLZqilpvzZEjRO7SStGotzoPakCe260g7ZM0OYOxHNM1iIVfgtucAkmFMCACZ%2BOciGXB%2FBBdUIk7Tj1OKJOKYR2Gm1v%2FokhwYrJTeRlQY5IcY88tLmVYSErSu%2FTSN35NmLy9tC7kESBwrT7Mbah8K%2BluvUSajqBIjFukOhNkKZRns1cO4hsxKDS5tWlUvFGRxQu%2Bsr%2BzX11DNks3dBYcLjNzpeH9vK8By2kOpNn2tlmNr3UtolTST8Bo8v5fWXyXpEQBzEW1a18%2F%2FctgsorBOZ%2B%2FLvGxJrHnDb3xu5\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống đứng sau tính từ sở hữu <em>\"your\"</em>. Theo quy tắc ngữ pháp, tính từ sở hữu luôn phải đi kèm với một danh từ để tạo thành một cụm danh từ (ví dụ: <em>\"your book\"</em>, <em>\"your car\"</em>). Vì vậy, từ cần điền vào chỗ trống phải là một danh từ. Trong các lựa chọn, <em><strong>health</strong> </em>là danh từ duy nhất phù hợp.</p>",
+      "answerFeedbacks": {
+        "1210288": "<p>Là một danh từ, \"health\" (sức khỏe) là từ loại phù hợp để điền vào chỗ trống sau tính từ sở hữu \"your\" và hoàn thành cụm danh từ \"your health\".</p>",
+        "1210289": "<p>Là một tính từ, \"healthy\" (khỏe mạnh) không thể đứng trực tiếp sau tính từ sở hữu \"your\" mà không có danh từ theo sau.</p>",
+        "1210290": "<p>Là một trạng từ, \"healthily\" (một cách khỏe mạnh) không phù hợp về mặt ngữ pháp để điền vào chỗ trống này vì trạng từ bổ nghĩa cho động từ, tính từ hoặc trạng từ khác, không phải là một danh từ sau tính từ sở hữu.</p>",
+        "1210291": "<p>Là một tính từ, \"unhealthy\" (không khỏe mạnh) không thể đứng trực tiếp sau tính từ sở hữu \"your\" mà không có danh từ theo sau.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 115159,
+      "questionNumber": 9,
+      "questionName": "10",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Do you collect stamps or other things? - Yes, I am a stamp ______.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 274862,
+          "label": "A",
+          "text": "collecting",
+          "isCorrect": false
+        },
+        {
+          "id": 274863,
+          "label": "B",
+          "text": "collector",
+          "isCorrect": true
+        },
+        {
+          "id": 274864,
+          "label": "C",
+          "text": "collect",
+          "isCorrect": false
+        },
+        {
+          "id": 274865,
+          "label": "D",
+          "text": "collection",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 274863,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để điền từ thích hợp vào chỗ trống, hãy xác định từ loại cần thiết dựa vào cụm <em>\"I am a stamp ______\"</em>. Cụ thể, bạn cần một danh từ chỉ người. </p>\n<p>Hãy xem xét nghĩa của các phương án để chọn từ phù hợp nhất với ngữ cảnh <em>\"người sưu tầm tem\"</em>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 265px; height: 430px;\"><iframe width=\"100%\" height=\"430\" style=\"border: none;\" id=\"embed-frame-F934E\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19nyqDJ%2BTbVdU%2BAmOOeRzGVAOs3YVcPt%2Fx4JpDK2zE0PWJ%2Fx%2FbC5M5jNHlc69poWDG5KBdu8Hownx79tDI50%2BVn%2Fe2W4EzMOO2R1VJ1dm0cXDbhHxeipHxLFMhJiuAPKsZVJswnzqTmNq07OD1W9Fozo66C9h4j5EuQVRpBD9oUQ5rV31X6ngEYSMcP%2FYZ9269UJTtyQ1b7hDiCM6AmfWD%2FkwwQYIkz%2F7bC9VO3BXNoOn0v5zOBGENuvAHlT6w0298uceJgrv4zpOhj2y%2FDPpJW%2BvOBBzOw70wFGgO9P2m3l%2FrijLzjxwTzWxdeU0X%2BRv6c2ExprwydrG%2FI9vJJ9CPHhh%2B12mOOqBE%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống cần điền một danh từ chỉ người để hoàn thành cụm <em>\"I am a + N\"</em>, diễn tả nghề nghiệp hoặc vai trò của chủ ngữ. Cụm từ <em>\"a stamp\"</em> đứng trước chỗ trống đóng vai trò như một tính từ bổ nghĩa cho danh từ cần điền. Do đó, chúng ta cần một danh từ chỉ người có liên quan đến việc sưu tầm tem.</p>\n<p style=\"text-align: justify;\"><em><strong>Collector</strong> </em>là danh từ chỉ người sưu tầm, hoàn toàn phù hợp với ngữ cảnh này.</p>",
+      "answerFeedbacks": {
+        "274862": "<em>collecting</em> là dạng danh động từ hoặc thì tiếp diễn, không phù hợp để chỉ người.",
+        "274863": "<em>collector</em> là danh từ chỉ người, hoàn toàn phù hợp với ngữ cảnh <em>\"I am a stamp ______\"</em> để chỉ người sưu tầm tem.",
+        "274864": "<em>collect</em> là động từ nguyên thể, không thể đứng sau mạo từ <em>\"a\"</em> và là vị ngữ của <em>\"am\"</em> để chỉ người.",
+        "274865": "<em>collection</em> là danh từ chỉ bộ sưu tập hoặc hành động sưu tầm, không chỉ người sưu tầm."
+      },
+      "images": []
+    },
+    {
+      "id": 908476,
+      "questionNumber": 10,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The government is trying to reduce air _____ by promoting public transportation.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1724389,
+          "label": "A",
+          "text": "pollute",
+          "isCorrect": false
+        },
+        {
+          "id": 1724390,
+          "label": "B",
+          "text": "<p>polluted</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1724391,
+          "label": "C",
+          "text": "pollution",
+          "isCorrect": true
+        },
+        {
+          "id": 1724392,
+          "label": "D",
+          "text": "pollutant",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1724391,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Xem xét<span style=\"text-align: justify;\"> chỗ trống cần điền đứng sau từ </span><em style=\"text-align: justify;\">\"air\"</em><span style=\"text-align: justify;\"> và là tân ngữ của động từ </span><em style=\"text-align: justify;\">\"reduce\"</em><span style=\"text-align: justify;\">. Bạn cần một danh từ kết hợp với t</span><span style=\"text-align: justify;\">ừ </span><em style=\"text-align: justify;\">\"air\"</em><span style=\"text-align: justify;\"> ở đây hoạt động như một tính từ bổ nghĩa cho danh từ đó tạo thành một cụm liên quan đến môi trường.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe width=\"100%\" height=\"275\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19z2wXzmeerZTDDQY5myc81LQWMlQdE2sgnM9dmteiSkBfqi%2BJuV%2BJBJSA%2Fd0UZS5ox7PtPR19vGe71vJQFHrwTi586wxTLRXlqPzYWhpvk3brSrbUOJfnmJ7ZrOoHhQ4m0FvyrcymaQz7MkQNi9zgx8tVM9m8dnaIryVfYYuaJslGvJAPKmlboiWMKEzHGSiMXw2amlr2IZVh5YED26Gq9qPWNsaKtpDDJiwPkSh3Q4r%2B%2BeZpgQMKfgjujrYFvl3Cc3ycjeZwUlqfP7QwUNMcnQPQi91K6U0gZPCG1vtdjMLxe2k7DtswNtHy8gMmq2%2FUpoAGpjYomQ40uX2h5nwOezmnbluyuLONntf2JpVMehpQeqBH9V7o3\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống cần điền đứng sau từ <em>\"air\"</em> và là tân ngữ của động từ <em>\"reduce\"</em>. Từ <em>\"air\"</em> ở đây hoạt động như một tính từ bổ nghĩa cho danh từ cần điền, tạo thành một cụm danh từ chỉ một vấn đề môi trường và đáp án phù hợp nhất là <em><strong>pollution</strong> </em>(sự ô nhiễm) để tạo thành <em>\"air pollution\"</em> (ô nhiễm không khí).</p>",
+      "answerFeedbacks": {
+        "1724389": "Đây là một động từ, nhưng vị trí cần điền trong câu là một danh từ để làm tân ngữ cho động từ <i>reduce</i> và được bổ nghĩa bởi <i>air</i>.",
+        "1724390": "<p>Đây là một tính từ (dạng phân từ quá khứ), có nghĩa là \"bị ô nhiễm\", nhưng câu cần một danh từ để chỉ hiện tượng hoặc chất gây ô nhiễm không khí.</p>",
+        "1724391": "Đây là một danh từ, có nghĩa là \"sự ô nhiễm\" hoặc \"tình trạng ô nhiễm\", phù hợp để làm tân ngữ cho <i>reduce</i> và tạo thành cụm danh từ <i>air pollution</i> (ô nhiễm không khí).",
+        "1724392": "Đây là một danh từ, có nghĩa là \"chất gây ô nhiễm\", nhưng trong ngữ cảnh này, cụm <i>air pollution</i> (ô nhiễm không khí) là cách diễn đạt phổ biến và chính xác hơn để chỉ vấn đề môi trường mà chính phủ muốn giảm thiểu."
+      },
+      "images": []
+    },
+    {
+      "id": 908484,
+      "questionNumber": 11,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>It is very important for children to get a good _____.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1724403,
+          "label": "A",
+          "text": "educate",
+          "isCorrect": false
+        },
+        {
+          "id": 1724404,
+          "label": "B",
+          "text": "education",
+          "isCorrect": true
+        },
+        {
+          "id": 1724405,
+          "label": "C",
+          "text": "educator",
+          "isCorrect": false
+        },
+        {
+          "id": 1724406,
+          "label": "D",
+          "text": "educated",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1724404,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Xem xét c<span style=\"text-align: justify;\">hỗ trống đứng sau mạo từ \"</span><em style=\"text-align: justify;\">a</em><span style=\"text-align: justify;\">\" và tính từ \"</span><em style=\"text-align: justify;\">good</em><span style=\"text-align: justify;\">\", tạo thành một cụm danh từ \"</span><em style=\"text-align: justify;\">a good _____</em><span style=\"text-align: justify;\">\" cho thấy bạn cần một danh từ để hoàn thành cụm này.</span></p>\n<p><span style=\"text-align: justify;\">Lưu ý bạn cần một danh từ phù hợp với động từ ''<em>get</em>'' trong ngữ cảnh này.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 295px;\"><iframe width=\"100%\" height=\"295\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18%2B2iA17fGCgH3sWlIFi1kZA41noolKlZLQaliknxZewhYeP%2B4R8BFEpcsQdS3VpePSKofELurntQ7PplDr%2B2XkYevsK1nnpGAkZygTbNvpdrlfholF7%2BY3PttH7xW7ly4N2RTKWoLC2Y047z1L2%2BV%2BOnWrk%2FCperv9Sm%2BD5EvWOGsb%2FtO69LIJiVp3x0AmuZ3OgSANDVohSX3%2FCbfPQz6a1ny68Pzu%2BPbEJb7X2HbcqOvboTJjebqIMky%2FwHalLhVzrV5vgJQh0f5MwnpkmZf8KkwuhhUUNXI%2BwyUHyIFZpz%2BTlKsRRp%2Bb2lJ3XAQfQBO%2F3fRW6NBD3jVYBG6PibOTxbTpC2VgrEfoH%2F2dfAhugEg3wiB3EHfC\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống đứng sau mạo từ \"<em>a</em>\" và tính từ \"<em>good</em>\", tạo thành một cụm danh từ \"<em>a good _____</em>\". Do đó, từ cần điền phải là một danh từ. Trong các lựa chọn, <strong>\"<em>education</em>\"</strong> là danh từ chỉ sự giáo dục, rất phù hợp với ngữ cảnh \"trẻ em nhận được một nền giáo dục tốt\". Mặc dù \"<em>educator</em>\" cũng là danh từ, nhưng nó chỉ người nên không phù hợp với động từ \"<em>get</em>\" trong câu này.</p>",
+      "answerFeedbacks": {
+        "1724403": "“Educate” là một động từ, không phù hợp với vị trí cần điền một danh từ sau mạo từ \"a\" và tính từ \"good\".",
+        "1724404": "“Education” là một danh từ, phù hợp để hoàn thành cụm danh từ \"a good education\" (một nền giáo dục tốt).",
+        "1724405": "“Educator” là một danh từ chỉ người, không phù hợp với ngữ cảnh \"get a good _____\", vì trẻ em nhận được \"giáo dục\" chứ không phải \"một nhà giáo dục\".",
+        "1724406": "“Educated” là tính từ hoặc dạng quá khứ phân từ, không phù hợp với vị trí cần điền danh từ."
+      },
+      "images": []
+    },
+    {
+      "id": 11532,
+      "questionNumber": 12,
+      "questionName": "Question 776.",
+      "questionType": "MultipleChoice",
+      "questionText": "<b>There is a wide range of _____ in the education system of the USA.</b>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 37565,
+          "label": "A",
+          "text": "select",
+          "isCorrect": false
+        },
+        {
+          "id": 37566,
+          "label": "B",
+          "text": "selective",
+          "isCorrect": false
+        },
+        {
+          "id": 37567,
+          "label": "C",
+          "text": "selected",
+          "isCorrect": false
+        },
+        {
+          "id": 37568,
+          "label": "D",
+          "text": "selections",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 37568,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Trong câu, chỗ trống đứng sau cụm giới từ </span><em style=\"text-align: justify;\">\"of\"</em><span style=\"text-align: justify;\"> và là thành phần chính của cụm danh từ được bổ nghĩa bởi tính từ </span><em style=\"text-align: justify;\">\"wide\".</em></p>\n<p>Do đó bạn cần một danh từ để hoàn thành cụm này.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 265px; height: 365px;\"><iframe width=\"100%\" height=\"365\" style=\"border: none;\" id=\"embed-frame-F934E\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18TFm0pOPE%2FW4IY2RcU1dVNqvgrnIWnQzJsFVLrbDsPbEQeQz5XyFQWvTnVivpQTac2OrAHNv2tS6qRQh3iLWnXmatBoLOWQFT%2F1hzQhCZlPrzQEcCLKzLJYsVVV0XbHzICgdYxRzmXKvXL%2B%2BRf6%2FDiZmjBLjIYu%2BivNyCSX521wzPI%2FzRB8CzX1DRvYoNc2m%2FMt7MyExLHJvG1Vwv%2BNCmOpVa1hr2rCjJDAxA5wBTSeu%2BS%2FO6IPI0AooaDCDFbas1xlA8XyL74x0jvZYQBYhekfvR5SF0JnjEpj9sNFTSyPAPXtEBtL69e2mPg4WLt1kdCRNkYHCD5ajMNLGTx53TGboggfffCAoI%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống đứng sau cụm giới từ <em>\"of\"</em> và là thành phần chính của cụm danh từ được bổ nghĩa bởi tính từ <em>\"wide\"</em>, do đó cần một danh từ. Cụm <em>\"a wide range of\"</em> (một phạm vi rộng lớn của) thường theo sau bởi một danh từ số nhiều hoặc danh từ không đếm được.</p>\n<p style=\"text-align: justify;\">Trong các lựa chọn, <strong><em>\"selections\"</em></strong> là danh từ số nhiều, mang nghĩa là các lựa chọn hoặc các sự chọn lựa, hoàn toàn phù hợp với ngữ cảnh và cấu trúc ngữ pháp của câu.</p>",
+      "answerFeedbacks": {
+        "37565": "Từ <em>\"select\"</em> là một động từ, không phù hợp về mặt ngữ pháp để điền vào vị trí cần một danh từ sau cụm <em>\"a wide range of\"</em>.",
+        "37566": "Từ <em>\"selective\"</em> là một tính từ, không phù hợp về mặt ngữ pháp để điền vào vị trí cần một danh từ sau cụm <em>\"a wide range of\"</em>.",
+        "37567": "Từ <em>\"selected\"</em> là quá khứ phân từ, thường dùng như tính từ, không phù hợp về mặt ngữ pháp để điền vào vị trí cần một danh từ sau cụm <em>\"a wide range of\"</em>.",
+        "37568": "Từ <em>\"selections\"</em> là một danh từ số nhiều, phù hợp về mặt ngữ pháp để điền vào vị trí cần một danh từ sau cụm <em>\"a wide range of\"</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 908669,
+      "questionNumber": 13,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Marie Curie was the woman behind enormous changes in the science of _____</strong><strong>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1724684,
+          "label": "A",
+          "text": "chemist",
+          "isCorrect": false
+        },
+        {
+          "id": 1724685,
+          "label": "B",
+          "text": "chemical",
+          "isCorrect": false
+        },
+        {
+          "id": 1724686,
+          "label": "C",
+          "text": "chemistry",
+          "isCorrect": true
+        },
+        {
+          "id": 1724687,
+          "label": "D",
+          "text": "chemically",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1724686,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<h3><span style=\"font-size: 16px; font-weight: 400; text-align: justify;\">Xem xét chỗ trống đứng sau cụm danh từ \"</span><em style=\"font-size: 16px; font-weight: 400; text-align: justify;\">the science of</em><span style=\"font-size: 16px; font-weight: 400; text-align: justify;\">\", do đó từ cần điền phải là một danh từ để tạo thành cụm \"</span><em style=\"font-size: 16px; font-weight: 400; text-align: justify;\">the science of [danh từ]</em><span style=\"font-size: 16px; font-weight: 400; text-align: justify;\">\" (khoa học về cái gì).</span></h3>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe width=\"100%\" height=\"315\" style=\"border: none;\" id=\"embed-frame-F934E\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FPpY5VH24BjZ%2F0SHoUO14oELl71ZvTZ7jKD7piLEw0O8cKJedm4gcCv1XH8HyRaaGWDXnui%2FGRcdgfX2vHuwNN%2F6QnTARl%2FjtLOeec06rupT1pXBJQ1iuOxSyLkraXRL21tYBjlEBct8THMCBaP5BLaKA6g0a2amTTC2JdGuijCJ6Z7Xz8GrDN%2Fg3Am%2BSsx5znYbzHkK4%2BSBx0UFmXydIPcajfH5h1w5Vujg91vz5bcmQPwbTQPDptiLrfl8eyGqyNFpEEl4Cv7RxiiHO3EkHMslPZVUUFuIMbC8EFTyKz1vBdnlAdXc3drP6LBW7hkUzksil%2BLnXVL5jOflyIvgei%2Beaw6JFhydlMncgQaBVbX0bGaH%2B3zCyj\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống đứng sau cụm danh từ \"<em>the science of</em>\", do đó từ cần điền phải là một danh từ để tạo thành cụm \"<em>the science of [danh từ]</em>\" (khoa học về cái gì). Trong các lựa chọn, <em><strong>chemistry</strong> </em>là danh từ chỉ môn khoa học hóa học, hoàn toàn phù hợp với ngữ cảnh.</p>",
+      "answerFeedbacks": {
+        "1724684": "<em>Chemist</em> là danh từ chỉ người, có nghĩa là nhà hóa học, không phù hợp với ngữ cảnh cần một danh từ chỉ môn khoa học.",
+        "1724685": "<em>Chemical</em> là tính từ (thuộc về hóa học) hoặc danh từ chỉ chất hóa học, không phù hợp với ngữ cảnh cần một danh từ chỉ môn khoa học.",
+        "1724686": "<em>Chemistry</em> là danh từ chỉ môn hóa học, phù hợp với ngữ cảnh <em>the science of _____</em> (khoa học về cái gì).",
+        "1724687": "<em>Chemically</em> là trạng từ, có nghĩa là về mặt hóa học, không phù hợp với vị trí cần danh từ sau giới từ <em>of</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 827568,
+      "questionNumber": 14,
+      "questionName": "determination",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>His _____ to save money allowed him to finally afford a trip abroad.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1580283,
+          "label": "A",
+          "text": "determiner",
+          "isCorrect": false
+        },
+        {
+          "id": 1580284,
+          "label": "B",
+          "text": "determine",
+          "isCorrect": false
+        },
+        {
+          "id": 1580285,
+          "label": "C",
+          "text": "determination",
+          "isCorrect": true
+        },
+        {
+          "id": 1580286,
+          "label": "D",
+          "text": "determined",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1580285,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại cần điền: danh từ, theo sau t&iacute;nh từ sở hữu \"<strong>His</strong>\".</p>\n<div style=\"width: 100%; max-width: 525px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19NjI5BHgkxFCA946B5qZXLuWcTZyA6i81FU1F4N4msK6zBudPeCuPr6syjDi%2BeGnnbJZNvXWhEQ5WVF3m0kllyK3oRaJFdzS2oHu%2F3Afy7tl0bdu%2Fibg4m%2FKNIaKKCPCtHDi0F9ErIDJ7tuIGwRitrmLas533QmdN%2FtvkkaX0J9ieChveKZPxIZ7opHx1zgxoYS764tSKTSCSGn8JESyKtC3R4daZVrwl65LIbNC1clYIvbcqbAwiJM2qXpNUcgjVhQXlnLGxqI2jYkGGKeft0OokdX%2FW%2BsjXWEfM2lVTm97rroNsw3OJHXHyAgqdfx9atthFrO1BzbKp7vS3YRd080orEGbzSnXjDBTvlX0fNDSv%2B%2F4rULTrvugLzzHxiyuqerie8gq6siw%3D%3D\" width=\"100%\" height=\"305\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p>Dịch: Sự quyết t&acirc;m tiết kiệm tiền của anh ấy đ&atilde; gi&uacute;p anh ấy cuối c&ugrave;ng c&oacute; thể chi trả cho một chuyến đi nước ngo&agrave;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 703662,
+      "questionNumber": 15,
+      "questionName": "Question 10:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>John's _____ in his cooking ability improved a lot after he took a cooking class.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1365255,
+          "label": "A",
+          "text": "confide",
+          "isCorrect": false
+        },
+        {
+          "id": 1365256,
+          "label": "B",
+          "text": "confident",
+          "isCorrect": false
+        },
+        {
+          "id": 1365257,
+          "label": "C",
+          "text": "confidential",
+          "isCorrect": false
+        },
+        {
+          "id": 1365258,
+          "label": "D",
+          "text": "confidence",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1365258,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để điền từ đúng vào chỗ trống, bạn cần một danh từ có thể đứng sau tính từ sở hữu  <em>\"John's\".</em></p>\n<p> </p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX198ph2pLbqxJWmW6EcmvD93bLoIV8Ip6XXh7i33qoNG6MJJHDtm2viIj2qo2N2PZ3CxwY8Rl02mifZOsfnpPuMwndzXLsiTJCGKjNTfupWL4LlDQEHyDuhJ8vjWQniwM%2BRdF%2FgLdeLIlCz415vuNnIfPbZQSURAcJPOa8Is11Emfpl%2BRJHq2TWnJ4MUuJGLfg6IWzf4ZexyNRAEdkqla8N%2BA6fc1Fb2gstq47IOP62JyqBNmYB3jmExxfKYqoZxinomzGw4EsFHPH5MIH%2B0mSUfVQYDNX8MThBzC1qu0ug8HVxYeIshfcqp34Kg%2FQzVcceTBm6VnJ4wIv0U3VxAyhxytLiK8JTve2M%3D\" width=\"100%\" height=\"275\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Vị trí cần điền nằm sau tính từ sở hữu <em>\"John's\"</em> và trước giới từ <em>\"in\"</em>, do đó cần một danh từ để hoàn thành cụm danh từ. Trong các lựa chọn, <strong>confidence</strong> là danh từ phù hợp nhất về cả ngữ pháp và ngữ nghĩa, diễn tả sự tự tin vào khả năng nấu ăn.</p>",
+      "answerFeedbacks": {
+        "1365255": "Là động từ, không phù hợp với vị trí cần danh từ sau tính từ sở hữu \"John's\".",
+        "1365256": "Là tính từ, không phù hợp với vị trí cần danh từ sau tính từ sở hữu \"John's\".",
+        "1365257": "Là tính từ, không phù hợp với vị trí cần danh từ sau tính từ sở hữu \"John's\".",
+        "1365258": "Là danh từ, phù hợp để làm thành phần chính của cụm danh từ sau tính từ sở hữu \"John's\"."
+      },
+      "images": []
+    },
+    {
+      "id": 703650,
+      "questionNumber": 16,
+      "questionName": "Question 2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The tour guide offered an interesting _____ of the historical landmarks.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1365214,
+          "label": "A",
+          "text": "description",
+          "isCorrect": true
+        },
+        {
+          "id": 1365215,
+          "label": "B",
+          "text": "describe",
+          "isCorrect": false
+        },
+        {
+          "id": 1365216,
+          "label": "C",
+          "text": "descriptive",
+          "isCorrect": false
+        },
+        {
+          "id": 1365217,
+          "label": "D",
+          "text": "describing",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1365214,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Hãy xác định từ loại cần điền. Bạn cần một danh từ có thể đứng sau mạo từ <em data-start=\"44\" data-end=\"50\">\"an\"</em> và tính từ <em data-start=\"62\" data-end=\"77\">\"interesting\".</em></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 265px; height: 430px;\"><iframe width=\"100%\" height=\"430\" style=\"border: none;\" id=\"embed-frame-F934E\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2Fs0JIRLSvbm%2FVTGI1SNbPmMoTFo0ZiHVQ3qeuMZdMGcO8RJDAZpe5scfBTzYjhW3MitkVpZrZewV8v4Teh61xZzWRfEg1OEiBR1SL4RrfOW7uOrpTC4wv9qz1nFNAYk70iln9ueOcyaL8YA%2FByoB%2FKwKMC9OY1R1VDgvqUFAa9AtK6AtNoTE6yNEanax4lrooGn80NKd3RsJH2Y2TLYlWKsk5m9NXrEj0JaDp1FTH%2F5zOmKQTyzTjqT04OiXDX2DuAj0GT9vXpW%2FWjbwyOcCxZqYO0Jq3L5N%2FEUu1c0zRsEEd8kqSVtmt3Z7%2B3mvFQwHJMsCn%2BV6pCeiIkVvN5jX41j29lqHZV%2FNk%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống đứng sau mạo từ <em>\"an\"</em> và tính từ <em>\"interesting\"</em>. Cấu trúc ngữ pháp <em>mạo từ + tính từ + [từ cần điền]</em> yêu cầu một danh từ để hoàn thành cụm danh từ làm tân ngữ cho động từ <em>\"offered\"</em>. Vì vậy, từ cần điền phải là danh từ, và <em><strong>description</strong> </em>là lựa chọn phù hợp nhất.</p>",
+      "answerFeedbacks": {
+        "1365214": "Đây là danh từ, phù hợp để điền vào chỗ trống sau mạo từ \"an\" và tính từ \"interesting\" để tạo thành cụm danh từ.",
+        "1365215": "Đây là động từ nguyên mẫu, không thể đứng sau mạo từ \"an\" và tính từ \"interesting\" trong ngữ cảnh này.",
+        "1365216": "Đây là tính từ, không thể đứng một mình sau mạo từ \"an\" và tính từ \"interesting\" mà không có danh từ theo sau.",
+        "1365217": "Đây là dạng V-ing (hiện tại phân từ hoặc danh động từ), không phù hợp về chức năng ngữ pháp trong ngữ cảnh này khi cần một danh từ chỉ sự vật/sự việc."
+      },
+      "images": []
+    },
+    {
+      "id": 622864,
+      "questionNumber": 17,
+      "questionName": "6",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>How many _____ took part in the 32nd Sea Games in Cambodia?</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1198893,
+          "label": "A",
+          "text": "competitors",
+          "isCorrect": true
+        },
+        {
+          "id": 1198894,
+          "label": "B",
+          "text": "competitive",
+          "isCorrect": false
+        },
+        {
+          "id": 1198895,
+          "label": "C",
+          "text": "competes",
+          "isCorrect": false
+        },
+        {
+          "id": 1198896,
+          "label": "D",
+          "text": "competitions",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1198893,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy chú ý đến cụm từ <em>How many</em> và vị trí của chỗ trống trong câu. Từ cần điền phải là một danh từ số nhiều và là chủ thể thực hiện hành động <em>took part</em> (tham gia).</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe width=\"100%\" height=\"275\" style=\"border: none;\" id=\"embed-frame-F934E\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19PAJp%2BeZ1npgy2GMxNmzP3X8qlojMDvUBLjiWqL8%2BnKYFUuyQWKdVdEjtu%2F8qLfEBFjACjs8VjWXH%2BGW6%2FZcPrS98DfUB97kfyEaxjA0CJU0nysaZS7FeRuldj%2BLZZWCksBsRMcfrR5R33Q9MyBQ8Ievs1AT%2BpFzWhCvUEB%2FrX7Ek2s88s5MRtFs0ATitCPjyXBTCcGx9tofqZid0XKzJhM4DP%2FNy3XYUkbBT6SRukC0TXpzVKq0B%2F1dqsbH38Tv9RMT7PVZReFfYxum8vcdUMy%2BbvQa32qdRNOc0zuMUZQ3qnCmihrb9Lb3oAsJPDj%2BMKg8cauulPzr5HzLKcGG%2FJHirTO2oUG%2FBmR3VwaNWmLezqIs3jl1sZt7lSCRn%2BhAu339reJnQChA%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Cụm từ \"<em>How many</em>\" luôn yêu cầu một danh từ đếm được số nhiều theo sau. Từ cần điền vào chỗ trống phải là một danh từ số nhiều và đóng vai trò làm chủ ngữ cho động từ \"<em>took part</em>\". Trong các lựa chọn, \"<em><strong>competitors</strong></em>\" là danh từ số nhiều chỉ người tham gia thi đấu, hoàn toàn phù hợp về cả ngữ pháp và ngữ nghĩa. \"<em>Competitions</em>\" cũng là danh từ số nhiều nhưng mang nghĩa \"cuộc thi đấu\", không thể là chủ thể \"tham gia\" một sự kiện.</p>",
+      "answerFeedbacks": {
+        "1198893": "Đây là danh từ số nhiều, chỉ người tham gia thi đấu, phù hợp với ngữ cảnh của câu hỏi.",
+        "1198894": "Đây là tính từ, không thể đứng sau lượng từ \"many\" và làm chủ ngữ cho động từ \"took part\".",
+        "1198895": "Đây là động từ chia ở ngôi thứ ba số ít, không phù hợp để làm chủ ngữ cho động từ \"took part\" và đứng sau \"many\".",
+        "1198896": "Đây là danh từ số nhiều nhưng mang nghĩa 'cuộc thi đấu', không thể là chủ thể 'took part' (tham gia) trong ngữ cảnh này."
+      },
+      "images": []
+    },
+    {
+      "id": 580121,
+      "questionNumber": 18,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The first _____ is extremely important because it is what other people use to judge you.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1128261,
+          "label": "A",
+          "text": "impress",
+          "isCorrect": false
+        },
+        {
+          "id": 1128262,
+          "label": "B",
+          "text": "impressively",
+          "isCorrect": false
+        },
+        {
+          "id": 1128263,
+          "label": "C",
+          "text": "impression",
+          "isCorrect": true
+        },
+        {
+          "id": 1128264,
+          "label": "D",
+          "text": "impressive",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1128263,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p style=\"text-align: justify;\">Bạn cần một danh từ làm chủ ngữ cho động từ \"<em>is</em>\" và hoàn thành cụm danh từ \"<em>The first _____</em>\".</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 355px;\"><iframe width=\"100%\" height=\"355\" style=\"border: none;\" id=\"embed-frame-F934E\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19AzUUqaIKb4TuG3xveO%2F%2Bq%2FdDQZO2PzGTH6U36G7HVuZTV4YYLCZoJYR1pf%2BhoHUpEWHgG9YkusFTGBe1fZGm86i6UjUDVfjZtiJ3PniB1u1wTPLjaYkC6fn1bgKWYTTIrfuFt9FUzKk%2FHzu94MKT2bNqE8er4Dq4rLtsm0ynR7Nr2E7ySapO34NW8HkJkQjJ9iEBVw2%2FiumAMy5wnT%2B0SfSR1hoHLj61NmUybOYp%2FTQV%2FDm7FQT2ckDr8c%2BALwz3GhoKYzpowXTXWjn8lTtgriry1FHZEATG%2Buw0dxrXdz%2FQZrkJ%2FZTXbDe6yAiqb1sjHG272MW2CqYnB7rO%2B%2BbICjSR6hGVB8lF%2Bf3hP0xcIoD6LVEj3g5w5ILuqfR%2FtLC6IoHdKNx8VoQ%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống cần điền một danh từ để làm chủ ngữ cho động từ \"<em>is</em>\" và hoàn thành cụm danh từ \"<em>The first _____</em>\". Dựa vào từ \"<em>first</em>\" (tính từ chỉ thứ tự) đứng trước chỗ trống, ta biết chỗ trống cần một danh từ để nó bổ nghĩa. Trong các lựa chọn, <em><strong>impression</strong> </em>là danh từ duy nhất tạo thành cụm danh từ \"<em>The first impression</em>\" (ấn tượng đầu tiên) rất phù hợp với ngữ cảnh câu \"ấn tượng đầu tiên cực kỳ quan trọng vì đó là điều người khác dùng để đánh giá bạn.\"</p>",
+      "answerFeedbacks": {
+        "1128261": "Đây là một động từ, không phù hợp để làm chủ ngữ cho câu.",
+        "1128262": "Đây là một trạng từ, không phù hợp để làm chủ ngữ cho câu.",
+        "1128263": "Đây là một danh từ, phù hợp để làm chủ ngữ cho câu và hoàn thành cụm danh từ “the first impression”.",
+        "1128264": "Đây là một tính từ, không phù hợp để làm chủ ngữ cho câu."
+      },
+      "images": []
+    },
+    {
+      "id": 597229,
+      "questionNumber": 19,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>We received a generous _____ from the people of the local church.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1153392,
+          "label": "A",
+          "text": "donator",
+          "isCorrect": false
+        },
+        {
+          "id": 1153393,
+          "label": "B",
+          "text": "donate",
+          "isCorrect": false
+        },
+        {
+          "id": 1153394,
+          "label": "C",
+          "text": "donated",
+          "isCorrect": false
+        },
+        {
+          "id": 1153395,
+          "label": "D",
+          "text": "donation",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1153395,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Từ loại cần điền: danh từ, theo sau mạo từ \"<strong>a</strong>\" v&agrave; được bổ sung nghĩa bởi t&iacute;nh từ \"<strong>generous</strong>\".</p>\n<div style=\"width: 100%; max-width: 523px; height: 305px;\"><iframe width=\"100%\" height=\"305\" style=\"border: none;\" id=\"embed-frame-C49DA\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19MZCsasFt1%2Bv13e9qibwX6NMll9vEQ3x7usqHKAC2ItANvII4pZPrySbdKENB1Q39YaVlHW1549zRIl8qcLoLnZxWTHMc68XlrhkdLfms9qE6Ge5rEKX6Z6SmTAlwZdWaLth4WPv0fjCGZoqH8Jc96YIUWxXREvW%2Ft%2B0D9gQx9iHBoqm3LS4%2FtJuhHCDfSlQbBn%2FTtutbGqd05IkotNG2abIFSxduWxM6r6o8uGgNiqlDfG3J0Bcl%2ByEmpIOXG5b1e0qj7rRmopdnQWqUJEwqF3o2cMt0elrY4emU4EPhil51gnoTulosyZ6OW2vdCLsJbV5ds9wn9zF0T4p9j5dN4vUGF%2BbQS9nfAcXVxHYYmYc7YIOn6djKt\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p><br />Dịch: Ch&uacute;ng t&ocirc;i đ&atilde; nhận được sự quy&ecirc;n g&oacute;p h&agrave;o ph&oacute;ng từ những người trong nh&agrave; thờ địa phương.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 615906,
+      "questionNumber": 20,
+      "questionName": "35",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Vaccination is an optimal method for the _____ of infectious diseases. </strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1186075,
+          "label": "A",
+          "text": "prevent",
+          "isCorrect": false
+        },
+        {
+          "id": 1186076,
+          "label": "B",
+          "text": "<p>preventive</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1186077,
+          "label": "C",
+          "text": "prevention",
+          "isCorrect": true
+        },
+        {
+          "id": 1186078,
+          "label": "D",
+          "text": "<p>preventively</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1186077,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Bạn cần một danh từ phù hợp có thể <span style=\"text-align: justify;\">đứng sau mạo từ </span><em style=\"text-align: justify;\">\"the\"</em><span style=\"text-align: justify;\"> và trước giới từ </span><em style=\"text-align: justify;\">\"of\"</em><span style=\"text-align: justify;\">, tạo thành cụm danh từ </span><em style=\"text-align: justify;\">\"the _____ of infectious diseases\".</em></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe width=\"100%\" height=\"315\" style=\"border: none;\" id=\"embed-frame-F934E\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2B%2FToWxRghodQc2Zo35dx4%2FLyOm5ec%2BeE%2ByTS2B3DF5fBGCRWbH2Hb1SYVYn4ddPlIgZ00z%2Bmh%2FHTU0WoVv1oVvY6K154tSpDg6HeEpLphTGoJrZS74jPdN4tBQXQYT5ie4PXXeCZQVFszci1nLP9ldGBygu8zfjt9hXi6s%2FTzyqMtykcxI0AkxSWcEBzNyyKm2C4UP1nw%2BJttlsSPH0uqscVuBys9d8NbUHAjEU3FtC9vVr8IUywVMaPqls0qCoebyhwAZCDtlVyoX4NglWGTal28U6xiJ84pmUA6CXjJa4gmHSTU0zItCXg4xisYDRhEiM9JRx27Vjj%2FMLAitxT4qi3%2FnqZFXxBqBdmqAkF6MgazyoirqDiB4XlZI0rXQha1m8FkNwIHZUA%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống đứng sau mạo từ <em>\"the\"</em> và trước giới từ <em>\"of\"</em>, tạo thành cụm danh từ <em>\"the _____ of infectious diseases\"</em>. Cấu trúc này yêu cầu một danh từ để hoàn thành nghĩa. Trong các lựa chọn, <em><strong>prevention</strong> </em>là danh từ chỉ hành động ngăn chặn, phù hợp nhất về cả ngữ pháp và ngữ nghĩa.</p>",
+      "answerFeedbacks": {
+        "1186075": "Đây là một động từ, không phù hợp để điền vào vị trí cần một danh từ trong cấu trúc <em>\"the...of\"</em>.",
+        "1186076": "<p>Đây là một tính từ, không phù hợp để điền vào vị trí cần một danh từ chỉ hành động hoặc kết quả.</p>",
+        "1186077": "Đây là một danh từ chỉ hành động hoặc kết quả của việc ngăn chặn, hoàn toàn phù hợp với cấu trúc <em>\"the...of\"</em> và ngữ cảnh của câu.",
+        "1186078": "<p>Đây là một trạng từ, không phù hợp để điền vào vị trí cần một danh từ trong câu.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 448300,
+      "questionNumber": 21,
+      "questionName": "5",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>My friend, Anna was really impressed by the _____ of SaPa town.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 898483,
+          "label": "A",
+          "text": "attract",
+          "isCorrect": false
+        },
+        {
+          "id": 898484,
+          "label": "B",
+          "text": "attractive",
+          "isCorrect": false
+        },
+        {
+          "id": 898485,
+          "label": "C",
+          "text": "attraction",
+          "isCorrect": true
+        },
+        {
+          "id": 898486,
+          "label": "D",
+          "text": "<p>attractively</p>",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 898485,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Bạn cần một danh từ phù hợp với chỗ trống đứng sau <span style=\"text-align: justify;\">mạo từ </span><em style=\"text-align: justify;\">\"the\"</em><span style=\"text-align: justify;\"> và trước giới từ </span><em style=\"text-align: justify;\">\"of\".</em></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 308px;\"><iframe width=\"100%\" height=\"308\" style=\"border: none;\" id=\"embed-frame-F934E\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FZiIsxQRFoOLKOyY0wfSyiova07IITPC4d37STojHL2AfJXyks%2F0XiRXv%2FM1ZHtAci3u9mWzaSHndu5yclChxAI02FZIkpbloKl8%2BHna%2FELdjMWpZktwyn%2BM5hxz72OC1aD4KY20mwNO8MKB98CcfvkRYV%2Fo%2BNT%2FHA0S8oEw%2BnfwwDNPmP33NwR%2BAz7ThnJhzzShzi1ZvPt0NB%2Bzs9IS%2BAQj22YqpaIereDe%2FgEi%2Bsk7RNTFicS6k00ecs%2BqXBspSuk69%2FpdcbFX9Lih10iLfFaVFyDgRxUICmGTc9kzb%2Bh%2BGfpwrXgFp4ldFpzxXD%2FuIBW8HjVbexJc87whp2j5qmHnm1PBVVVYiZyBWkuf4AUpnJwfEntpJrapVKnTHB5lgQ2MTjn48lMQ%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Vị trí cần điền đứng sau mạo từ <em>\"the\"</em> và trước giới từ <em>\"of\"</em>, cho thấy nó cần là một danh từ. Trong các lựa chọn, <b>attraction</b> là danh từ duy nhất phù hợp với chức năng ngữ pháp này, mang nghĩa là 'sức hấp dẫn' hoặc 'điểm thu hút'.</p>",
+      "answerFeedbacks": {
+        "898483": "Là một động từ, không phù hợp để điền vào vị trí cần một danh từ sau mạo từ <em>\"the\"</em>.",
+        "898484": "Là một tính từ, cần có một danh từ theo sau để tạo thành cụm danh từ, không thể đứng một mình sau <em>\"the\"</em> trong ngữ cảnh này.",
+        "898485": "Là một danh từ, phù hợp để điền vào vị trí sau mạo từ <em>\"the\"</em> và trước giới từ <em>\"of\"</em> để tạo thành cụm danh từ <em>\"the attraction of SaPa town\"</em>.",
+        "898486": "<p>Là một trạng từ, không phù hợp với vị trí cần một danh từ trong câu.</p>"
+      },
+      "images": []
+    },
+    {
+      "id": 908490,
+      "questionNumber": 22,
+      "questionName": "1",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The government understands the _____ for more recycling.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1724412,
+          "label": "A",
+          "text": "necessity",
+          "isCorrect": true
+        },
+        {
+          "id": 1724413,
+          "label": "B",
+          "text": "unnecessary",
+          "isCorrect": false
+        },
+        {
+          "id": 1724414,
+          "label": "C",
+          "text": "necessary",
+          "isCorrect": false
+        },
+        {
+          "id": 1724415,
+          "label": "D",
+          "text": "necessarily",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1724412,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Xem xét chỗ trống đứng sau mạo từ </span><em style=\"text-align: justify;\">\"the\"</em><span style=\"text-align: justify;\"> và trước cụm giới từ </span><em style=\"text-align: justify;\">\"for more recycling\"</em><span style=\"text-align: justify;\">, do đó bạn cần một danh từ để hoàn thành cụm danh từ này.</span></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 345px;\"><iframe width=\"100%\" height=\"345\" style=\"border: none;\" id=\"embed-frame-F934E\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2B6m%2Bj%2B7r9ddvmcIdfk4MENWdTlmI36JsO3vusDN%2BsbTiLrrkm%2Foh%2Fz4U6GBvKNHgkWReW0FDUXGtgpj3E1UO3vdFds%2B4QRCCRMjzfr6c0qQ5PMIrR95kX2Zh2GINtPOUP5Zlpf4GiB3selMUZ8ilkZgB1M5BHdnJCwYR76OP0BDsryJBlYqyRQ5kSa45ozg0dJB1k044HT6O5uJZRApaNfAgVSZOcNlT2BPG5dyDnV1vlEs7QZuTpOOhpca0osZC5o1sUDEM9qSYnasAttoMnXgJsn6%2BbVpmwz3GKzOGeEqKbGRA70x8MZ0o2P1sFVlRIOROV4jFlOc3sCdTz5fSQbMgE%2Bd20wxlhGYU4BEpXcXiQlVtA8AbPpUGlZingXdL2Wy3fsDrtsbg%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống đứng sau mạo từ <em>\"the\"</em> và trước cụm giới từ <em>\"for more recycling\"</em>, do đó cần một danh từ để hoàn thành cụm danh từ. Từ <em><strong>necessity</strong> </em>(danh từ, nghĩa là \"sự cần thiết\") là lựa chọn đúng về mặt ngữ pháp và phù hợp với ngữ cảnh câu.</p>",
+      "answerFeedbacks": {
+        "1724412": "Vị trí cần điền là một danh từ để hoàn thành cụm danh từ bắt đầu bằng mạo từ <em>\"the\"</em> và được bổ nghĩa bởi cụm giới từ <em>\"for more recycling\"</em>; <strong>necessity</strong> là danh từ phù hợp về cả ngữ pháp và ngữ nghĩa.",
+        "1724413": "<em>\"Unnecessary\"</em> là tính từ, không phù hợp để điền vào vị trí cần một danh từ.",
+        "1724414": "<em>\"Necessary\"</em> là tính từ, không phù hợp để điền vào vị trí cần một danh từ.",
+        "1724415": "<em>\"Necessarily\"</em> là trạng từ, không phù hợp để điền vào vị trí cần một danh từ."
+      },
+      "images": []
+    },
+    {
+      "id": 83526,
+      "questionNumber": 23,
+      "questionName": "Question 21:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The young girl has the amazing _____ to sing and dance like a professional entertainer.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 206206,
+          "label": "A",
+          "text": "ability",
+          "isCorrect": true
+        },
+        {
+          "id": 206207,
+          "label": "B",
+          "text": "inability",
+          "isCorrect": false
+        },
+        {
+          "id": 206208,
+          "label": "C",
+          "text": "able",
+          "isCorrect": false
+        },
+        {
+          "id": 475329,
+          "label": "D",
+          "text": "enable",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 206206,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Học sinh cần xác định từ loại cần điền vào chỗ trống dựa vào các từ xung quanh như <i>\"the amazing\"</i> và <i>\"to sing and dance\"</i>.</p>\n<p>Ngoài ra, hãy xem xét nghĩa của các phương án để chọn từ phù hợp nhất với ngữ cảnh tích cực của từ <i>\"amazing\"</i>.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 300px;\"><iframe width=\"100%\" height=\"300\" style=\"border: none;\" id=\"embed-frame-F934E\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2Bc%2Bo90elVwQlJNTuczOTrzRZcb9CwZFB6ZxtR9hAT%2FOqaSR0bAOkG7c89UQGowBJ8licZrNslUkkDQx6eSc6v6E38vxQ2Wc6tK2Rk4An8pCVUCFCdZxlXlxPe%2BxPdSa8qza8ZEj%2B49fWyHCmFzv9igdjR8J2TiUfJP6313DUkKVW7lgYrvzn%2BnSTDxALEPB40SJ3f%2Bj%2FTfrpf7yrkzht9iEyRS%2FWdSKRGt4TknNLo3fdcpfxiTfWxamKBIs%2BXTJmpu4sr6WGq6me875PFiRVv72Tp1DjsuNO39aRJU8ehn%2FtjLKsFlpZQuKFYGAJQR%2FRUU2f%2FPvu5yAu2fQ4CCI1oR6m3G0cT8CnL%2BpoqaGKbtyW724R6E3%2B0U\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống đứng sau mạo từ <i>\"the\"</i> và tính từ <i>\"amazing\"</i>, đồng thời đứng trước cụm động từ nguyên mẫu <i>\"to sing and dance\"</i>. Dấu hiệu này cho thấy vị trí cần điền là một danh từ để hoàn thành cụm danh từ <i>\"the amazing <b>ability</b> to sing and dance\"</i> (khả năng ca hát và nhảy múa tuyệt vời). Trong các lựa chọn, <i>\"ability\"</i> (danh từ, nghĩa là khả năng) là từ duy nhất phù hợp cả về từ loại và ngữ nghĩa với tính từ <i>\"amazing\"</i>.</p>",
+      "answerFeedbacks": {
+        "206206": "Vị trí cần điền là một danh từ để hoàn thành cụm danh từ \"the amazing _____\" và làm chủ ngữ cho cụm động từ nguyên mẫu \"to sing and dance\", và <i>ability</i> (khả năng) phù hợp với ngữ cảnh tích cực của câu.",
+        "206207": "Mặc dù <i>inability</i> là danh từ, nó mang nghĩa đối lập (sự thiếu khả năng) và không phù hợp với ngữ cảnh tích cực được thể hiện qua từ <i>amazing</i> (tuyệt vời).",
+        "206208": "<i>Able</i> là một tính từ, không thể đứng trực tiếp sau mạo từ \"the\" và tính từ \"amazing\" để tạo thành một cụm danh từ trong cấu trúc này.",
+        "475329": "<i>Enable</i> là một động từ, không phù hợp về mặt ngữ pháp để điền vào vị trí này, nơi cần một danh từ để làm bổ ngữ cho cụm danh từ."
+      },
+      "images": []
+    }
+  ]
+}

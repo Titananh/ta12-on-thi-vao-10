@@ -1,0 +1,1157 @@
+{
+  "quizId": 6197,
+  "title": "Ôn luyện Ngữ pháp thi vào 10 số 53: Reported speech: Changing verb tenses (Câu tường thuật: thay đổi thì)",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 911676,
+      "questionNumber": 1,
+      "questionName": "1",
+      "questionType": "Matching",
+      "questionText": "<p><strong>N&#7889;i c&#226;u v&#7899;i lo&#7841;i t&#234;n g&#7885;i t&#432;&#417;ng &#7913;ng.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p><img src=\"/images/exams/3_-_Copy_3_cd6986a2.png\" alt=\"\" width=\"700\" /></p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 911683,
+      "questionNumber": 2,
+      "questionName": "2",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>K&#233;o th&#7843; th&#236; ti&#7871;ng Anh ph&#249; h&#7907;p v&#224;o ch&#7895; tr&#7889;ng &#273;&#7875; ch&#7881; ra s&#7921; thay &#273;&#7893;i v&#7873; th&#236; trong c&#226;u t&#432;&#7901;ng thu&#7853;t?</strong></p>\n<table style=\"border-collapse: collapse; width: 93.4439%; height: 239px; border-color: #2DC26B; border-style: dashed;\" border=\"1\">\n<tbody>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px; text-align: center;\"><strong>C&#226;u tr&#7921;c ti&#7871;p</strong></td>\n<td style=\"width: 50%; height: 18px; text-align: center;\"><strong>C&#226;u gi&#225;n ti&#7871;p</strong></td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px; text-align: center;\">th&#236; hi&#7879;n t&#7841;i ho&#224;n th&#224;nh</td>\n<td style=\"width: 50%; height: 18px; text-align: center;\"><span class='fillblank-option'><label>2.1</label><input id='fbo-911683-0' class='ms fillblank-option-2' index='0' name='fbo-911683-0' type='text' size='21' autocomplete='off' data-testid='fillblank-input-911683-0' /></span></td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px; text-align: center;\"><span class='fillblank-option'><label>2.2</label><input id='fbo-911683-1' class='ms fillblank-option-2' index='1' name='fbo-911683-1' type='text' size='15' autocomplete='off' data-testid='fillblank-input-911683-1' /></span></td>\n<td style=\"width: 50%; height: 18px; text-align: center;\">qu&#225; kh&#7913; ho&#224;n th&#224;nh</td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px; text-align: center;\">hi&#7879;n t&#7841;i ti&#7871;p di&#7877;n</td>\n<td style=\"width: 50%; height: 18px; text-align: center;\"><span class='fillblank-option'><label>2.3</label><input id='fbo-911683-2' class='ms fillblank-option-2' index='2' name='fbo-911683-2' type='text' size='20' autocomplete='off' data-testid='fillblank-input-911683-2' /></span></td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px; text-align: center;\">hi&#7879;n t&#7841;i ho&#224;n th&#224;nh ti&#7871;p di&#7877;n</td>\n<td style=\"width: 50%; height: 18px; text-align: center;\"><span class='fillblank-option'><label>2.4</label><input id='fbo-911683-3' class='ms fillblank-option-2' index='3' name='fbo-911683-3' type='text' size='32' autocomplete='off' data-testid='fillblank-input-911683-3' /></span></td>\n</tr>\n<tr style=\"height: 18px;\">\n<td style=\"width: 50%; height: 18px; text-align: center;\"><span class='fillblank-option'><label>2.5</label><input id='fbo-911683-4' class='ms fillblank-option-2' index='4' name='fbo-911683-4' type='text' size='16' autocomplete='off' data-testid='fillblank-input-911683-4' /></span></td>\n<td style=\"width: 50%; height: 18px; text-align: center;\">qu&#225; kh&#7913; &#273;&#417;n</td>\n</tr>\n</tbody>\n</table>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1738749,
+          "label": "A",
+          "text": "quá khứ tiếp diễn",
+          "isCorrect": false
+        },
+        {
+          "id": 1738748,
+          "label": "B",
+          "text": "quá khứ đơn",
+          "isCorrect": false
+        },
+        {
+          "id": 1738750,
+          "label": "C",
+          "text": "quá khứ hoàn thành tiếp diễn",
+          "isCorrect": false
+        },
+        {
+          "id": 1738751,
+          "label": "D",
+          "text": "hiện tại đơn",
+          "isCorrect": false
+        },
+        {
+          "id": 1738747,
+          "label": "E",
+          "text": "quá khứ hoàn thành",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "quá khứ hoàn thành"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "quá khứ đơn"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "quá khứ tiếp diễn"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "quá khứ hoàn thành tiếp diễn"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "hiện tại đơn"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.7362%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/7_-_Copy_4_463e1da4.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7362%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/8_-_Copy_3_c6da544a.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 911696,
+      "questionNumber": 3,
+      "questionName": "3",
+      "questionType": "FillBlank",
+      "questionText": "<p><strong>X&#225;c &#273;&#7883;nh xem nh&#7919;ng thay &#273;&#7893;i v&#7873; tr&#7841;ng t&#7915; v&#224; t&#7915; ch&#7881; &#273;&#7883;nh sau &#273;&#226;y trong l&#7901;i n&#243;i gi&#225;n ti&#7871;p l&#224; &#272;&#250;ng hay Sai.</strong></p>\n<table style=\"border-collapse: collapse; width: 73.5494%; border-color: #2dc26b; border-style: dashed; height: 109px;\" border=\"1\" cellspacing=\"10\" cellpadding=\"10\">\n<tbody>\n<tr>\n<td style=\"width: 50.0082%;\">\n<p>1. will =&gt; shall <span class='fillblank-option'><label>3.1</label><select class='ms fillblank-option-3' index='0' name='fbo-911696-0' data-testid='fillblank-select-911696-0'><option value='' data-testid='fillblank-option-empty-911696-0'></option><option value=\"Sai\" data-testid='fillblank-option-911696-0-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-911696-0-Đúng'>Đúng</option></select></span></p>\n<p>2. that =&gt; those <span class='fillblank-option'><label>3.2</label><select class='ms fillblank-option-3' index='1' name='fbo-911696-1' data-testid='fillblank-select-911696-1'><option value='' data-testid='fillblank-option-empty-911696-1'></option><option value=\"Đúng\" data-testid='fillblank-option-911696-1-Đúng'>Đúng</option><option value=\"Sai\" data-testid='fillblank-option-911696-1-Sai'>Sai</option></select></span></p>\n<p>3. now =&gt; at that moment <span class=\"JsGRdQ\"><span class='fillblank-option'><label>3.3</label><select class='ms fillblank-option-3' index='2' name='fbo-911696-2' data-testid='fillblank-select-911696-2'><option value='' data-testid='fillblank-option-empty-911696-2'></option><option value=\"Đúng\" data-testid='fillblank-option-911696-2-Đúng'>Đúng</option><option value=\"Sai\" data-testid='fillblank-option-911696-2-Sai'>Sai</option></select></span></span></p>\n</td>\n<td style=\"width: 50.0082%;\">\n<p>4. there =&gt; here <span class='fillblank-option'><label>3.4</label><select class='ms fillblank-option-3' index='3' name='fbo-911696-3' data-testid='fillblank-select-911696-3'><option value='' data-testid='fillblank-option-empty-911696-3'></option><option value=\"Đúng\" data-testid='fillblank-option-911696-3-Đúng'>Đúng</option><option value=\"Sai\" data-testid='fillblank-option-911696-3-Sai'>Sai</option></select></span></p>\n<p>5. <span class=\"JsGRdQ\">tomorrow =&gt; the day after <span class='fillblank-option'><label>3.5</label><select class='ms fillblank-option-3' index='4' name='fbo-911696-4' data-testid='fillblank-select-911696-4'><option value='' data-testid='fillblank-option-empty-911696-4'></option><option value=\"Sai\" data-testid='fillblank-option-911696-4-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-911696-4-Đúng'>Đúng</option></select></span></span></p>\n<p><span class=\"JsGRdQ\">6. last year =&gt; the year after <span class='fillblank-option'><label>3.6</label><select class='ms fillblank-option-3' index='5' name='fbo-911696-5' data-testid='fillblank-select-911696-5'><option value='' data-testid='fillblank-option-empty-911696-5'></option><option value=\"Sai\" data-testid='fillblank-option-911696-5-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-911696-5-Đúng'>Đúng</option></select></span></span></p>\n</td>\n</tr>\n</tbody>\n</table>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "Sai"
+          ]
+        },
+        {
+          "index": 1,
+          "correctAnswers": [
+            "Sai"
+          ]
+        },
+        {
+          "index": 2,
+          "correctAnswers": [
+            "Đúng"
+          ]
+        },
+        {
+          "index": 3,
+          "correctAnswers": [
+            "Sai"
+          ]
+        },
+        {
+          "index": 4,
+          "correctAnswers": [
+            "Đúng"
+          ]
+        },
+        {
+          "index": 5,
+          "correctAnswers": [
+            "Sai"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<table style=\"border-collapse: collapse; width: 100%; border-color: #2DC26B; border-style: dashed;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.7362%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/11_ba4efeb1.png\" alt=\"\" width=\"600\" /></td>\n<td style=\"width: 49.7362%;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"/images/exams/10_-_Copy_1_79fa1277.png\" alt=\"\" width=\"600\" /></td>\n</tr>\n</tbody>\n</table>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 11163,
+      "questionNumber": 4,
+      "questionName": "Question 107.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Andrew told me that they _____ fish the _____ day.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 36089,
+          "label": "A",
+          "text": "have not eaten / ago",
+          "isCorrect": false
+        },
+        {
+          "id": 36090,
+          "label": "B",
+          "text": "had not eaten / previous",
+          "isCorrect": true
+        },
+        {
+          "id": 36091,
+          "label": "C",
+          "text": "did not eat / before",
+          "isCorrect": false
+        },
+        {
+          "id": 36092,
+          "label": "D",
+          "text": "would not eat / last",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 36090,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + told sb + (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>Từ chỉ thời gian trong qu&aacute; khứ \"<strong>yesterday</strong>\" =&gt; \"<strong>the day before/the previous day</strong>\"</p>\n<p>L&ugrave;i th&igrave;: qu&aacute; khứ đơn =&gt; qu&aacute; khứ ho&agrave;n th&agrave;nh</p>\n<p>Dịch: Andrew n&oacute;i với t&ocirc;i rằng họ đ&atilde; kh&ocirc;ng ăn c&aacute; v&agrave;o ng&agrave;y h&ocirc;m qua.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 177808,
+      "questionNumber": 5,
+      "questionName": "Question 11:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>My parents told me that they _____ the following day.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 407843,
+          "label": "A",
+          "text": "will visit you",
+          "isCorrect": false
+        },
+        {
+          "id": 407844,
+          "label": "B",
+          "text": "would visit me",
+          "isCorrect": true
+        },
+        {
+          "id": 407845,
+          "label": "C",
+          "text": "visited me",
+          "isCorrect": false
+        },
+        {
+          "id": 407846,
+          "label": "D",
+          "text": "has visited me",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 407844,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + told sb + that + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>Trạng ngữ trong c&acirc;u tường thuật: \"<strong>the following day</strong>\" =&gt; C&acirc;u trực tiếp ở th&igrave; tương lai đơn với trạng ngữ \"<strong>tomorrow</strong>\".</p>\n<p>L&ugrave;i th&igrave;: \"<strong>will</strong>\" =&gt; \"<strong>would</strong>\"</p>\n<p>Dịch: Bố mẹ n&oacute;i với t&ocirc;i rằng họ sẽ tới thăm t&ocirc;i v&agrave;o ng&agrave;y mai.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 41243,
+      "questionNumber": 6,
+      "questionName": "Question 29.",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Mr. Long said that he _____ in Ho Chi Minh City then.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 120802,
+          "label": "A",
+          "text": "<p>is living</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 120803,
+          "label": "B",
+          "text": "<p>has lived</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 120804,
+          "label": "C",
+          "text": "<p>will live</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 120811,
+          "label": "D",
+          "text": "lived",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 120811,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Khi chuyển từ c&acirc;u trực tiếp sang c&acirc;u gi&aacute;n tiếp, nếu động từ tường thuật (như <em>\"said\"</em>) ở th&igrave; qu&aacute; khứ, th&igrave; của mệnh đề được tường thuật sẽ phải l&ugrave;i một bậc về qu&aacute; khứ.</p>\n<p>Dựa v&agrave;o trạng từ chỉ thời gian ''<em>then</em>'' được đổi từ ''<em>now</em>'' c&oacute; thể biết c&acirc;u trực tiếp ở th&igrave; hiện tại đơn. H&atilde;y nhớ lại quy tắc l&ugrave;i th&igrave; trong c&acirc;u tường thuật của th&igrave; n&agrave;y.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu tường thuật (Reported Speech) và quy tắc lùi thì của động từ.</span></p>\n<blockquote style=\"padding-left: 18px; margin-left: 0;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Câu tường thuật được dùng để thuật lại lời nói, suy nghĩ hoặc thông tin của người khác mà không trích dẫn nguyên văn. Khi động từ tường thuật (reporting verb) ở thì quá khứ, động từ trong mệnh đề được tường thuật (reported clause) thường phải lùi về một thì trong quá khứ so với câu trực tiếp.</p>\n<p style=\"text-align: justify;\"><strong>Quy tắc lùi thì trong câu tường thuật:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 5px;\"><strong><span style=\"color: #1c581f;\">Hiện tại đơn → Quá khứ đơn</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 5px;\"><strong><span style=\"color: #1c581f;\">Hiện tại tiếp diễn → Quá khứ tiếp diễn </span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 5px;\"><strong><span style=\"color: #1c581f;\">Hiện tại hoàn thành → Quá khứ hoàn thành </span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 5px;\"><strong><span style=\"color: #1c581f;\">Quá khứ đơn → Quá khứ hoàn thành </span></strong></li>\n<li style=\"text-align: justify;\"><strong><span style=\"color: #1c581f;\">Tương lai đơn → Tương lai trong quá khứ </span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu này, động từ tường thuật là \"<em>said</em>\" (quá khứ đơn), yêu cầu động từ trong mệnh đề được tường thuật phải lùi thì. Trạng từ thời gian \"<em>then</em>\" (lúc đó) cũng được đổi từ \"<em>now</em>\" (bây giờ) trong câu trực tiếp. Phương án 4 (\"<em>lived</em>\") là thì quá khứ đơn, phù hợp với quy tắc lùi thì từ thì hiện tại đơn trong câu trực tiếp khi chuyển sang câu tường thuật.</p>\n<p style=\"text-align: justify;\">Các phương án 1 (\"<em>is living</em>\"), 2 (\"<em>has lived</em>\") và 3 (\"<em>will live</em>\") đều không phù hợp vì chúng không tuân thủ quy tắc lùi thì khi động từ tường thuật ở quá khứ. Chúng giữ nguyên các thì hiện tại hoặc tương lai, không chuyển về dạng quá khứ tương ứng.</p>",
+      "answerFeedbacks": {
+        "120802": "<p>Sai vì đây là thì hiện tại tiếp diễn, không phù hợp với quy tắc lùi thì trong câu tường thuật khi động từ tường thuật ở quá khứ.</p>",
+        "120803": "<p>Sai vì đây là thì hiện tại hoàn thành, không phù hợp với quy tắc lùi thì trong câu tường thuật khi động từ tường thuật ở quá khứ.</p>",
+        "120804": "<p>Sai vì đây là thì tương lai đơn, không phù hợp với quy tắc lùi thì trong câu tường thuật khi động từ tường thuật ở quá khứ.</p>",
+        "120811": "Đúng vì đây là thì quá khứ đơn, là dạng lùi thì phù hợp nhất từ thì hiện tại đơn trong câu trực tiếp khi chuyển sang câu tường thuật với động từ tường thuật ở quá khứ và có trạng từ <em>then</em>."
+      },
+      "images": []
+    },
+    {
+      "id": 51293,
+      "questionNumber": 7,
+      "questionName": "Question 8:",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He said that he _____ there the following month.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 145119,
+          "label": "A",
+          "text": "would leave",
+          "isCorrect": true
+        },
+        {
+          "id": 145120,
+          "label": "B",
+          "text": "<p>leaves</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 145121,
+          "label": "C",
+          "text": "<p>will have</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 145122,
+          "label": "D",
+          "text": "left",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 145119,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Hãy chú ý đến động từ tường thuật <em>\"said\"</em>, nó đang ở thì quá khứ. Tiếp theo, hãy xem xét cụm từ chỉ thời gian <em>\"the following month\"</em> thường được dùng để thay thế cho cụm từ nào trong câu trực tiếp khi nói về tương lai?</p>\n<p>Từ đó, bạn cần áp dụng quy tắc lùi thì cho động từ <em>\"leave\"</em> tương ứng với thì gốc và động từ tường thuật ở quá khứ.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Chuyển đổi thì trong câu tường thuật</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để kể lại lời nói của người khác mà không trích dẫn nguyên văn, thường có sự thay đổi về thì, đại từ, trạng từ chỉ thời gian và địa điểm so với câu trực tiếp.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S1 + V(tường thuật) + (that) + S2 + V(lùi thì) + ...</span></p>\n<p style=\"text-align: justify;\"><strong>Một số quy tắc lùi thì phổ biến:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại đơn (V/Vs/es): </span></strong>Quá khứ đơn (V-ed/cột 2)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại tiếp diễn (am/is/are + V-ing): </span></strong>Quá khứ tiếp diễn (was/were + V-ing)</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại hoàn thành (has/have + V(pp)): </span></strong>Quá khứ hoàn thành (had + V(pp))</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Quá khứ đơn (V-ed/cột 2): </span></strong>Quá khứ hoàn thành (had + V(pp))</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Tương lai đơn (will + V(inf)): </span></strong>Tương lai trong quá khứ (would + V(inf))</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Can: </span></strong>Could</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">May: </span></strong>Might</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Must: </span></strong>Had to</li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu tường thuật, khi động từ tường thuật (<em>\"said\"</em>) ở thì quá khứ, các thì trong mệnh đề được tường thuật phải lùi một bậc. Cụm trạng ngữ thời gian <em>\"the following month\"</em> là dạng lùi của <em>\"next month\"</em>, cho thấy câu gốc trực tiếp sử dụng thì tương lai đơn (<em>will + V(inf)</em>). Do đó, khi chuyển sang câu tường thuật, <em>\"will\"</em> phải lùi thành <em>\"would\"</em>, tạo thành <em>\"would leave\"</em>.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều không phải dạng động từ phù hợp trong câu tường thuật này.</p>\n<p style=\"text-align: justify;\"> </p>",
+      "answerFeedbacks": {
+        "145119": "Đúng vì động từ tường thuật ở quá khứ (<em>\"said\"</em>) và trạng từ thời gian <em>\"the following month\"</em> (đã lùi từ <em>\"next month\"</em>) yêu cầu thì tương lai trong quá khứ (<em>would + V(inf)</em>).",
+        "145120": "<p>Sai vì đây là thì hiện tại đơn, không phù hợp với động từ tường thuật ở quá khứ và quy tắc lùi thì trong câu tường thuật.</p>",
+        "145121": "<p>Sai vì đây là thì tương lai hoàn thành, không phù hợp với ngữ cảnh câu tường thuật và quy tắc lùi thì từ thì tương lai đơn.</p>",
+        "145122": "Sai vì đây là thì quá khứ đơn, mặc dù đã lùi thì nhưng không phù hợp với trạng từ thời gian <em>\"the following month\"</em> (chỉ hành động sẽ xảy ra trong tương lai so với thời điểm nói)."
+      },
+      "images": []
+    },
+    {
+      "id": 627304,
+      "questionNumber": 8,
+      "questionName": "11",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>Peter said that he _____ there the day before.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1206861,
+          "label": "A",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "id": 1206862,
+          "label": "B",
+          "text": "will be",
+          "isCorrect": false
+        },
+        {
+          "id": 1206863,
+          "label": "C",
+          "text": "had been",
+          "isCorrect": true
+        },
+        {
+          "id": 1206864,
+          "label": "D",
+          "text": "has been",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1206863,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để tìm đáp án, hãy xem xét các yếu tố sau:</p>\n<ul>\n<li>Động từ tường thuật <em>said</em> đang ở thì quá khứ, điều này thường yêu cầu lùi thì trong mệnh đề được tường thuật.</li>\n<li>Trạng ngữ thời gian <em>the day before</em> là dạng đã được chuyển đổi của <em>yesterday</em>.</li>\n</ul>\n<p>Khi động từ tường thuật ở quá khứ và có sự thay đổi về thời gian như trên, hãy nhớ lại quy tắc lùi thì từ thì quá khứ đơn hoặc hiện tại hoàn thành sang thì <strong>Quá khứ hoàn thành.</strong></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu tường thuật.</span></p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Câu tường thuật (Reported speech) dùng để thuật lại lời nói, suy nghĩ, hoặc câu hỏi của người khác mà không dùng đúng nguyên văn.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S + V (quá khứ) + (that) + S + V (lùi thì) + ...</span></p>\n<p style=\"text-align: justify;\"><strong>Một số quy tắc lùi thì:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại đơn (V-s/es) → Quá khứ đơn (V-ed/cột 2)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại tiếp diễn (am/is/are + V-ing) → Quá khứ tiếp diễn (was/were + V-ing)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại hoàn thành (has/have + V(pp)) → Quá khứ hoàn thành (had + V(pp))</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Quá khứ đơn (V-ed/cột 2) → Quá khứ hoàn thành (had + V(pp))</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Tương lai đơn (will + V(inf)) → Tương lai trong quá khứ (would + V(inf))</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu, động từ tường thuật là <em>said</em> (quá khứ đơn) và trạng ngữ chỉ thời gian <em>the day before</em> (tương ứng với <em>yesterday</em> trong câu trực tiếp) cho thấy hành động đã xảy ra trong quá khứ và cần được lùi thì. Theo quy tắc lùi thì, quá khứ đơn hoặc hiện tại hoàn thành trong câu trực tiếp sẽ chuyển thành quá khứ hoàn thành trong câu tường thuật nên phương án ''<em>had been</em>'' là đáp án chính xác.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều không tuân thủ chính xác quy tắc lùi thì trong câu tường thuật.</p>",
+      "answerFeedbacks": {
+        "1206861": "Sai vì động từ tường thuật <em>said</em> ở thì quá khứ, yêu cầu động từ trong mệnh đề tường thuật phải lùi thì.",
+        "1206862": "Sai vì <em>will be</em> là thì tương lai đơn, không phải dạng lùi thì phù hợp và không tương thích với trạng ngữ thời gian <em>the day before</em>.",
+        "1206863": "Đúng vì động từ tường thuật <em>said</em> ở thì quá khứ và trạng ngữ thời gian <em>the day before</em> yêu cầu lùi thì của hành động gốc (quá khứ đơn hoặc hiện tại hoàn thành) thành quá khứ hoàn thành.",
+        "1206864": "Sai vì <em>has been</em> là thì hiện tại hoàn thành, không phải dạng lùi thì phù hợp khi động từ tường thuật ở quá khứ."
+      },
+      "images": []
+    },
+    {
+      "id": 774966,
+      "questionNumber": 9,
+      "questionName": "18",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>The teacher said that her students _____ very well on the test.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1489169,
+          "label": "A",
+          "text": "do",
+          "isCorrect": false
+        },
+        {
+          "id": 1489170,
+          "label": "B",
+          "text": "did",
+          "isCorrect": true
+        },
+        {
+          "id": 1489171,
+          "label": "C",
+          "text": "are doing",
+          "isCorrect": false
+        },
+        {
+          "id": 1489172,
+          "label": "D",
+          "text": "will do",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1489170,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul>\n<li>Chú ý đến động từ tường thuật \"<em>said</em>\" trong câu. Đây là dấu hiệu cho thấy câu đang ở dạng tường thuật gián tiếp.</li>\n<li>Khi động từ tường thuật ở thì quá khứ, động từ trong mệnh đề được tường thuật thường phải lùi một thì. Ví dụ, nếu câu trực tiếp dùng thì hiện tại đơn, khi tường thuật lại sẽ chuyển thành thì quá khứ đơn.</li>\n</ul>\n<p>Hãy xem xét các phương án và chọn dạng thì đã được lùi phù hợp với quy tắc này.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Thay đổi thì trong câu tường thuật</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Trong câu tường thuật (reported speech), khi động từ tường thuật ở thì quá khứ (ví dụ: \"said\"), các thì trong mệnh đề được tường thuật thường phải lùi một thì so với câu trực tiếp. Quy tắc này giúp duy trì sự nhất quán về thời gian trong câu gián tiếp.</p>\n<p style=\"text-align: justify;\"><strong>Một số thay đổi thì phổ biến:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại đơn (V/Vs/es) → Quá khứ đơn (V-ed/cột 2)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại tiếp diễn (am/is/are + V-ing) → Quá khứ tiếp diễn (was/were + V-ing)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Tương lai đơn (will + V(inf)) → Tương lai trong quá khứ (would + V(inf))</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu có động từ tường thuật \"<em>said</em>\" ở thì quá khứ đơn, cho thấy đây là câu tường thuật gián tiếp. Theo quy tắc lùi thì trong câu tường thuật, động từ trong mệnh đề được tường thuật phải lùi về một thì quá khứ. Trong các phương án, \"<em>did</em>\" là thì quá khứ đơn của \"<em>do</em>\", phù hợp với quy tắc lùi thì từ thì hiện tại đơn.</p>\n<p style=\"text-align: justify;\">Các phương án \"<em>do</em>\", \"<em>are doing</em>\" và \"<em>will do</em>\" đều không lùi thì, do đó không phù hợp với ngữ cảnh câu tường thuật có động từ tường thuật ở quá khứ.</p>",
+      "answerFeedbacks": {
+        "1489169": "Sai vì động từ tường thuật \"said\" ở quá khứ, nên động từ trong mệnh đề được tường thuật cần lùi thì, không giữ thì hiện tại đơn.",
+        "1489170": "Đúng vì động từ tường thuật \"said\" ở quá khứ, yêu cầu lùi thì từ hiện tại đơn sang quá khứ đơn trong mệnh đề được tường thuật.",
+        "1489171": "Sai vì động từ tường thuật \"said\" ở quá khứ, nên động từ trong mệnh đề được tường thuật cần lùi thì, không giữ thì hiện tại tiếp diễn.",
+        "1489172": "Sai vì động từ tường thuật \"said\" ở quá khứ, nên động từ trong mệnh đề được tường thuật cần lùi thì, không giữ thì tương lai đơn."
+      },
+      "images": []
+    },
+    {
+      "id": 611326,
+      "questionNumber": 10,
+      "questionName": "18",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>He said that he _____ a new computer for his son the following day.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1176920,
+          "label": "A",
+          "text": "<p>buy</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 1176921,
+          "label": "B",
+          "text": "bought",
+          "isCorrect": false
+        },
+        {
+          "id": 1176922,
+          "label": "C",
+          "text": "will buy",
+          "isCorrect": false
+        },
+        {
+          "id": 1176923,
+          "label": "D",
+          "text": "would buy",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1176923,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p><span style=\"text-align: justify;\">Cả hai dấu hiệu là động từ tường thuật \"</span><em style=\"text-align: justify;\">He said that</em><span style=\"text-align: justify;\">\" ở thì quá khứ và cụm trạng từ thời gian \"</span><em style=\"text-align: justify;\">the following day</em><span style=\"text-align: justify;\">\" (đã đổi từ \"</span><em style=\"text-align: justify;\">tomorrow</em><span style=\"text-align: justify;\">\") đều cho thấy đây là câu tường thuật gián tiếp</span></p>\n<p>Khi có \"<em>tomorrow</em>\" trong câu trực tiếp, động từ thường ở thì tương lai đơn (<em>will + V(inf)</em>). Hãy nhớ lại quy tắc lùi thì cho thì tương lai đơn trong câu tường thuật gián tiếp và đối chiếu với các phương án.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Quy tắc chuyển thì trong câu tường thuật</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cách dùng:</span> Dùng để kể lại lời nói hoặc suy nghĩ của người khác mà không dùng đúng nguyên văn lời nói đó, thường đi kèm với sự thay đổi về thì, đại từ, trạng từ chỉ thời gian và nơi chốn.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\">Cấu trúc: </span><span style=\"color: #1c581f; font-weight: 600;\">S + said (to sb)/told sb + (that) + S + V (lùi thì)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Cả hai dấu hiệu là động từ tường thuật \"<em>He said that</em>\" ở thì quá khứ và cụm trạng từ thời gian \"<em>the following day</em>\" (đã đổi từ \"<em>tomorrow</em>\") đều cho thấy đây là câu tường thuật gián tiếp, và thì của động từ gốc cần được lùi một bậc. Cụ thể, \"<em>the following day</em>\" là dấu hiệu của thì tương lai trong câu trực tiếp (<em>tomorrow</em>), nên trong câu gián tiếp, \"<em>will buy</em>\" phải lùi thành <strong>\"would buy\"</strong>.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại đều không tuân theo quy tắc lùi thì với hành động ở thì tương lai đơn.</p>",
+      "answerFeedbacks": {
+        "1176920": "<p>Sai vì động từ cần được chia thì phù hợp với câu tường thuật gián tiếp và ngữ cảnh thời gian đã thay đổi.</p>",
+        "1176921": "Sai vì <em>bought</em> là thì quá khứ đơn, dùng để lùi thì hiện tại đơn (<em>buy/buys</em>) chứ không phải thì tương lai đơn (<em>will buy</em>) trong câu tường thuật.",
+        "1176922": "Sai vì trong câu tường thuật gián tiếp với động từ tường thuật ở quá khứ (<em>said</em>), thì tương lai đơn (<em>will buy</em>) cần được lùi về thì tương lai trong quá khứ (<em>would buy</em>).",
+        "1176923": "Đúng vì <em>would buy</em> là dạng lùi thì chính xác của <em>will buy</em> khi chuyển từ câu trực tiếp sang gián tiếp với động từ tường thuật ở quá khứ và có dấu hiệu thời gian tương lai đã thay đổi (<em>the following day</em>)."
+      },
+      "images": []
+    },
+    {
+      "id": 16991,
+      "questionNumber": 11,
+      "questionName": "C.I.3",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><strong>She insisted that the reporter _____ her as his source of information.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 55841,
+          "label": "A",
+          "text": "didn’t mention",
+          "isCorrect": false
+        },
+        {
+          "id": 55842,
+          "label": "B",
+          "text": "doesn’t mention",
+          "isCorrect": false
+        },
+        {
+          "id": 55843,
+          "label": "C",
+          "text": "hadn’t mentioned",
+          "isCorrect": true
+        },
+        {
+          "id": 55844,
+          "label": "D",
+          "text": "won't mention",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 55843,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<p>Để tìm đáp án đúng, hãy nhớ quy tắc hòa hợp thì trong câu tường thuật.</p>\n<ul>\n<li>Xác định động từ tường thuật trong câu là <em>\"insisted\"</em>, đây là thì quá khứ đơn.</li>\n<li>Khi động từ tường thuật ở thì quá khứ, động từ trong mệnh đề phụ (reported clause) cần được lùi thì.</li>\n</ul>\n<p>Nếu hành động được tường thuật đã xảy ra (ví dụ, ở thì quá khứ đơn hoặc hiện tại hoàn thành trong câu trực tiếp), nó sẽ lùi về thì quá khứ hoàn thành (Past Perfect) trong câu gián tiếp.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Hòa hợp thì trong câu tường thuật</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Chủ điểm này dùng để diễn đạt lại lời nói, suy nghĩ hoặc yêu cầu của người khác một cách gián tiếp. Khi động từ tường thuật ở thì quá khứ, thì của động từ trong mệnh đề phụ thường phải lùi về một thì tương ứng.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">S (chủ ngữ) + V (động từ tường thuật ở quá khứ) + that + S' (chủ ngữ mệnh đề phụ) + V' (động từ mệnh đề phụ đã lùi thì).</span></p>\n<p style=\"text-align: justify;\"><strong>Một số dạng lùi thì:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại đơn → Quá khứ đơn</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại tiếp diễn → Quá khứ tiếp diễn</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại hoàn thành → Quá khứ hoàn thành</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Quá khứ đơn → Quá khứ hoàn thành</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Will → Would</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Can → Could</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">May → Might</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Trong câu này, động từ tường thuật là <em>\"insisted\"</em> ở thì quá khứ đơn, vì vậy động từ trong mệnh đề <em>that</em> phải được lùi thì. Hành động <em>\"mention\"</em> được tường thuật có thể đã xảy ra (quá khứ đơn) hoặc chưa xảy ra nhưng nhấn mạnh kết quả (hiện tại hoàn thành) tại thời điểm câu trực tiếp. Khi lùi thì, cả hai trường hợp này đều chuyển thành quá khứ hoàn thành.</p>\n<p style=\"text-align: justify;\">Phương án 3, <em>\"hadn't mentioned\"</em>, là thì quá khứ hoàn thành, phù hợp với quy tắc lùi thì trong câu tường thuật khi động từ tường thuật ở thì quá khứ. Các phương án còn lại đều không phù hợp với quy tắc này.</p>",
+      "answerFeedbacks": {
+        "55841": "Sai vì động từ tường thuật <em>insisted</em> ở thì quá khứ nên động từ trong mệnh đề <em>that</em> cần lùi thì thêm một bậc, không phải giữ nguyên thì quá khứ đơn.",
+        "55842": "Sai vì động từ tường thuật <em>insisted</em> ở thì quá khứ, đòi hỏi động từ trong mệnh đề <em>that</em> phải lùi thì, không thể ở thì hiện tại đơn.",
+        "55843": "Đúng vì động từ tường thuật <em>insisted</em> ở thì quá khứ nên động từ trong mệnh đề <em>that</em> phải lùi thì thành thì quá khứ hoàn thành (<em>hadn't mentioned</em>), biểu thị hành động đã xảy ra trước thời điểm tường thuật.",
+        "55844": "Sai vì động từ tường thuật <em>insisted</em> ở thì quá khứ, đòi hỏi động từ trong mệnh đề <em>that</em> phải lùi thì, không thể ở thì tương lai đơn."
+      },
+      "images": []
+    },
+    {
+      "id": 138627,
+      "questionNumber": 12,
+      "questionName": "Question 40: ",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>She said <span style=\"text-decoration: underline;\">that</span> the books <span style=\"text-decoration: underline;\">in</span> the library <span style=\"text-decoration: underline;\">would be</span> available <span style=\"text-decoration: underline;\">tomorrow</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 325465,
+          "label": "A",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "id": 325466,
+          "label": "B",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "id": 325467,
+          "label": "C",
+          "text": "would be",
+          "isCorrect": false
+        },
+        {
+          "id": 325468,
+          "label": "D",
+          "text": "tomorrow",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 325468,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + said + (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>Đổi trạng ngữ chỉ thời gian: \"<strong>tomorrow</strong>\" =&gt; \"<strong>the next day/ the following day</strong>\"</p>\n<p>Sửa: \"<strong>tomorrow</strong>\" =&gt; \"<strong>the next day/ the following day/ the day after</strong>\"</p>\n<p>Dịch: C&ocirc; ấy đ&atilde; n&oacute;i rằng những cuốn s&aacute;ch trong thư viện sẽ c&oacute; sẵn v&agrave;o ng&agrave;y h&ocirc;m sau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 16279,
+      "questionNumber": 13,
+      "questionName": "II.2",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>He <span style=\"text-decoration: underline;\">said</span> that he was riding <span style=\"text-decoration: underline;\">his bike</span> <span style=\"text-decoration: underline;\">on the way home</span> <span style=\"text-decoration: underline;\">now</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 53892,
+          "label": "A",
+          "text": "said",
+          "isCorrect": false
+        },
+        {
+          "id": 53893,
+          "label": "B",
+          "text": "his bike",
+          "isCorrect": false
+        },
+        {
+          "id": 53894,
+          "label": "C",
+          "text": "on the way home",
+          "isCorrect": false
+        },
+        {
+          "id": 53895,
+          "label": "D",
+          "text": "now",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 53895,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + said + (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>Đổi trạng từ: \"<strong>now</strong>\" =&gt; \"<strong>then</strong>\"</p>\n<p>Sửa: \"<strong>now</strong>\" =&gt; \"<strong>then</strong>\"</p>\n<p>Dịch: Anh ấy n&oacute;i l&uacute;c đ&oacute; anh ấy đang đạp xe về nh&agrave;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 751042,
+      "questionNumber": 14,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>She <span style=\"text-decoration: underline;\">said</span> she <span style=\"text-decoration: underline;\">paints</span>&nbsp;<span style=\"text-decoration: underline;\">a</span> picture for <span style=\"text-decoration: underline;\">her</span> friend's birthday.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1449271,
+          "label": "A",
+          "text": "said",
+          "isCorrect": false
+        },
+        {
+          "id": 1449272,
+          "label": "B",
+          "text": "paints",
+          "isCorrect": true
+        },
+        {
+          "id": 1449273,
+          "label": "C",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "id": 1449274,
+          "label": "D",
+          "text": "her",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1449272,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + said + (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>L&ugrave;i th&igrave;: hiện tại đơn =&gt; qu&aacute; khứ đơn (\"<strong>paints</strong>\" =&gt; \"<strong>painted</strong>\")</p>\n<p>Đổi đại từ nh&acirc;n xưng: \"<strong>I</strong>\" =&gt; \"<strong>she</strong>\"</p>\n<p>Đổi t&iacute;nh từ sở hữu: \"<strong>my</strong>\" =&gt; \"<strong>her</strong>\"</p>\n<p>Sửa: \"<strong>paints</strong>\" =&gt; \"<strong>painted</strong>\"</p>\n<p>Dịch: C&ocirc; ấy n&oacute;i rằng c&ocirc; ấy đ&atilde; vẽ một bức tranh cho sinh nhật của bạn c&ocirc; ấy.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 771772,
+      "questionNumber": 15,
+      "questionName": "9",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>My mom <span style=\"text-decoration: underline;\">told</span> me that <span style=\"text-decoration: underline;\">she</span> <span style=\"text-decoration: underline;\">can't</span> find <span style=\"text-decoration: underline;\">her</span> keys.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1483954,
+          "label": "A",
+          "text": "told",
+          "isCorrect": false
+        },
+        {
+          "id": 1483955,
+          "label": "B",
+          "text": "she",
+          "isCorrect": false
+        },
+        {
+          "id": 1483956,
+          "label": "C",
+          "text": "can't",
+          "isCorrect": true
+        },
+        {
+          "id": 1483957,
+          "label": "D",
+          "text": "her",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1483956,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>C&acirc;u trực tiếp c&oacute; thể l&agrave;: <strong>My mom said, \"I can't find my keys.\"</strong></p>\n<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + said (to sb)/ told sb (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>L&ugrave;i th&igrave;: \"<strong>can't</strong>\" =&gt; \"<strong>couldn't</strong>\"</p>\n<p>Đổi đại từ, trạng từ: \"<strong>I</strong>\" =&gt; \"<strong>she</strong>\"; \"<strong>my</strong>\" =&gt; \"<strong>her</strong>\"</p>\n<p>Sửa: \"<strong>can't</strong>\" =&gt; \"<strong>couldn't</strong>\" hoặc \"<strong>could not</strong>\"</p>\n<p>Dịch: Mẹ t&ocirc;i n&oacute;i với t&ocirc;i rằng mẹ kh&ocirc;ng thể t&igrave;m thấy ch&igrave;a kh&oacute;a.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 751020,
+      "questionNumber": 16,
+      "questionName": "new",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined part that needs correction.</em></p>\n<p><strong>They <span style=\"text-decoration: underline;\">told</span> us that <span style=\"text-decoration: underline;\">they</span> <span style=\"text-decoration: underline;\">could</span> book a hotel room for <span style=\"text-decoration: underline;\">me</span>.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1449244,
+          "label": "A",
+          "text": "told",
+          "isCorrect": false
+        },
+        {
+          "id": 1449245,
+          "label": "B",
+          "text": "they",
+          "isCorrect": false
+        },
+        {
+          "id": 1449246,
+          "label": "C",
+          "text": "could",
+          "isCorrect": false
+        },
+        {
+          "id": 1449247,
+          "label": "D",
+          "text": "me",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 1449247,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + told + O + (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>L&ugrave;i th&igrave;: \"<strong>can</strong>\" =&gt; \"<strong>could</strong>\"</p>\n<p>Đổi đại từ nh&acirc;n xưng: \"<strong>we</strong>\" =&gt; \"<strong>they</strong>\", \"<strong>you</strong>\" =&gt; \"<strong>us</strong>\"</p>\n<p>Sửa: \"<strong>me</strong>\" =&gt; \"<strong>us</strong>\"&nbsp;</p>\n<p>Dịch: Họ n&oacute;i với ch&uacute;ng t&ocirc;i rằng họ c&oacute; thể đặt một ph&ograve;ng kh&aacute;ch sạn cho ch&uacute;ng t&ocirc;i.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 45900,
+      "questionNumber": 17,
+      "questionName": "Q16",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the underlined word or phrase that needs correction.</em></p>\n<p><strong>He <span style=\"text-decoration: underline;\">said</span> that he <span style=\"text-decoration: underline;\">has done</span> his <span style=\"text-decoration: underline;\">homework</span> <span style=\"text-decoration: underline;\">since</span> 7 o’clock.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 133398,
+          "label": "A",
+          "text": "<p>said</p>",
+          "isCorrect": false
+        },
+        {
+          "id": 133399,
+          "label": "B",
+          "text": "has done",
+          "isCorrect": true
+        },
+        {
+          "id": 133400,
+          "label": "C",
+          "text": "homework",
+          "isCorrect": false
+        },
+        {
+          "id": 133401,
+          "label": "D",
+          "text": "since",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 133399,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\">Động từ tường thuật (reporting verb) ở quá khứ đơn thường yêu cầu sự thay đổi thì (tense shift) trong mệnh đề được tường thuật.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Thì hiện tại hoàn thành (Present Perfect) thường được dùng để diễn tả hành động bắt đầu trong quá khứ và kéo dài đến hiện tại hoặc có kết quả ở hiện tại.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Danh từ <em>\"homework\"</em> có nghĩa là bài tập về nhà và thường được dùng với động từ <em>\"do\"</em>.</li>\n<li style=\"text-align: justify; margin-bottom: 3px;\">Giới từ <em>\"since\"</em> được dùng để chỉ mốc thời gian bắt đầu của một hành động, thường đi kèm với các thì hoàn thành.</li>\n</ul>\n<p style=\"text-align: justify;\">Đối chiếu các quy tắc trên với từng phần gạch chân trong câu để xác định phần nào cần sửa.</p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Sự hòa hợp thì trong câu tường thuật</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Dùng để diễn đạt lại lời nói, suy nghĩ hoặc sự kiện đã xảy ra của người khác một cách gián tiếp. Khi động từ tường thuật (reporting verb) ở thì quá khứ, các thì trong mệnh đề được tường thuật (reported clause) thường phải lùi một thì so với câu trực tiếp.</p>\n<p><strong>Một số thay đổi thì phổ biến:</strong></p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại đơn (Simple Present) =&gt; Quá khứ đơn (Simple Past)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại tiếp diễn (Present Continuous) =&gt; Quá khứ tiếp diễn (Past Continuous)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Hiện tại hoàn thành (Present Perfect) =&gt; Quá khứ hoàn thành (Past Perfect)</span></strong></li>\n<li style=\"text-align: justify; margin-bottom: 3px;\"><strong><span style=\"color: #1c581f;\">Quá khứ đơn (Simple Past) =&gt; Quá khứ hoàn thành (Past Perfect)</span></strong></li>\n</ul>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích: </span>Trong câu, động từ tường thuật là <em>\"said\"</em> (quá khứ đơn). Theo quy tắc hòa hợp thì trong câu tường thuật, khi động từ tường thuật ở quá khứ, thì của mệnh đề được tường thuật phải lùi một thì. Cụm <em>\"has done\"</em> (thì hiện tại hoàn thành) cần được lùi về thì quá khứ hoàn thành để phù hợp với động từ tường thuật <em>\"said\"</em>.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Sửa:</span> \"<em><strong>has done</strong></em>\" =&gt; \"<em><strong>had done</strong></em>\"</p>",
+      "answerFeedbacks": {
+        "133398": "<p>Đúng vì đây là động từ tường thuật ở thì quá khứ đơn, phù hợp để bắt đầu một câu tường thuật.</p>",
+        "133399": "Sai vì khi động từ tường thuật <em>\"said\"</em> ở thì quá khứ, thì hiện tại hoàn thành <em>\"has done\"</em> trong mệnh đề tường thuật cần phải lùi về quá khứ hoàn thành.",
+        "133400": "Đúng vì <em>\"homework\"</em> là danh từ chỉ vật được hoàn thành, phù hợp về mặt ngữ nghĩa và ngữ pháp.",
+        "133401": "Đúng vì <em>\"since 7 o'clock\"</em> là trạng ngữ chỉ thời gian, dùng để chỉ mốc thời gian bắt đầu của hành động, phù hợp với thì hoàn thành."
+      },
+      "images": []
+    },
+    {
+      "id": 347046,
+      "questionNumber": 18,
+      "questionName": "9",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verb in the brackets.</em></p>\n<p><strong>She said she (sell) <span class='fillblank-option'><input id='fbo-347046-0' class='ms fillblank-option-18' index='0' name='fbo-347046-0' type='text' size='11' autocomplete='off' data-testid='fillblank-input-347046-0' /></span> that car the following day.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "would sell"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Trong c&acirc;u c&oacute; cụm \"<strong>the following day</strong>\". =&gt; C&acirc;u trực tiếp d&ugrave;ng ở th&igrave; tương lai đơn.</p>\n<p>Cấu tr&uacute;c của th&igrave; tương lai đơn: <strong>S + will + V(inf)</strong></p>\n<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + said + (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>L&ugrave;i th&igrave;: \"<strong>will sell</strong>\" =&gt; \"<strong>would sell</strong>\"</p>\n<p>Dịch: C&ocirc; ấy n&oacute;i rằng c&ocirc; ấy sẽ b&aacute;n chiếc xe đ&oacute; v&agrave;o ng&agrave;y h&ocirc;m sau.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 64239,
+      "questionNumber": 19,
+      "questionName": "Question 1",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verbs in the brackets.</em></p>\n<p><strong>He said new pipes (be) <span class='fillblank-option'><input id='fbo-64239-0' class='ms fillblank-option-19' index='0' name='fbo-64239-0' type='text' size='6' autocomplete='off' data-testid='fillblank-input-64239-0' /></span> very expensive.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "were"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Th&igrave; hiện tại đơn được d&ugrave;ng để diễn tả một sự thật ở hiện tại.</p>\n<p>Cấu tr&uacute;c của th&igrave; hiện tại đơn với to be: <strong>S + am/is/are + ...</strong></p>\n<p>Chủ ngữ \"<strong>new pipes</strong>\" ở dạng số nhiều n&ecirc;n đi với động từ to be số nhiều.</p>\n<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + said + (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>L&ugrave;i th&igrave;: th&igrave; hiện tại đơn =&gt; th&igrave; qu&aacute; khứ đơn (\"<strong>are</strong>\" =&gt; \"<strong>were</strong>\")</p>\n<p>Dịch: Anh ấy n&oacute;i rằng những c&aacute;i ống nước mới rất đắt.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 58985,
+      "questionNumber": 20,
+      "questionName": "Question 2",
+      "questionType": "FillBlank",
+      "questionText": "<p><em>Give the correct form of the verbs in the brackets.</em></p>\n<p><strong>He said he (just have) <span class='fillblank-option'><input id='fbo-58985-0' class='ms fillblank-option-20' index='0' name='fbo-58985-0' type='text' size='13' autocomplete='off' data-testid='fillblank-input-58985-0' /></span> a new job.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": [
+        {
+          "index": 0,
+          "correctAnswers": [
+            "had just had"
+          ]
+        }
+      ],
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c tường thuật: <strong>S + said (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>Trong c&acirc;u c&oacute; \"<strong>just</strong>\" =&gt; C&acirc;u trực tiếp được d&ugrave;ng ở th&igrave; hiện tại ho&agrave;n th&agrave;nh.&nbsp;</p>\n<p>L&ugrave;i th&igrave;: hiện tại ho&agrave;n th&agrave;nh =&gt; qu&aacute; khứ ho&agrave;n th&agrave;nh (\"<strong>has just had</strong>\" =&gt; \"<strong>had just had</strong>\")</p>\n<p>Dịch: Anh ấy n&oacute;i rằng anh ấy vừa mới c&oacute; một c&ocirc;ng việc mới.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 153355,
+      "questionNumber": 21,
+      "questionName": "2",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em><span style=\"font-weight: 400;\">Complete the second sentence so that it has the same meaning to the first.</span></em></p>\n<p><strong>&#8220;I come from England.&#8221; Mr. Johnson said </strong></p>\n<p><strong>=&gt; Mr. Johnson said ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Mr. Johnson said that he came from England."
+      ],
+      "hint": "",
+      "explanation": "<p>C&acirc;u tường thuật thay đổi th&igrave;: <strong>S + said + (that) + S + V (l&ugrave;i th&igrave;) ...</strong></p>\n<p>L&ugrave;i th&igrave;: hiện tại đơn =&gt; qu&aacute; khứ đơn (\"<strong>come</strong>\" =&gt; \"<strong>came</strong>\")</p>\n<p>Đổi đại từ: \"<strong>I</strong>\" =&gt; \"<strong>he</strong>\"</p>\n<p>Dịch: \"T&ocirc;i đến từ nước Anh.\" &ocirc;ng Johnson n&oacute;i.</p>\n<p>~ &Ocirc;ng Johnson n&oacute;i rằng &ocirc;ng ấy đến từ nước Anh.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 147469,
+      "questionNumber": 22,
+      "questionName": "4",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>&quot;We are making progress for the official meeting in Singapore next week,&quot; said the statesman. </strong></p>\n<p><strong>=&gt; The statesman said ...........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "The statesman said that they were making progress for the official meeting in Singapore the following week."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + said + (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>L&ugrave;i th&igrave;: hi&ecirc;̣n tại ti&ecirc;́p di&ecirc;̃n =&gt; quá khứ ti&ecirc;́p di&ecirc;̃n (\"<strong>are making</strong>\" =&gt; \"<strong>were making</strong>\")</p>\n<p>Đổi đại từ: &ldquo;<strong>we</strong>&rdquo; =&gt; &ldquo;<strong>they</strong>&rdquo;</p>\n<p>Đổi trạng từ: \"<strong>next week</strong>\" =&gt; \"<strong>the following week/the week after/the next week</strong>\"</p>\n<p>Dịch: \"Ch&uacute;ng t&ocirc;i đang đạt được tiến triển cho cuộc họp ch&iacute;nh thức tại Singapore v&agrave;o tuần tới,\" một ch&iacute;nh kh&aacute;ch n&oacute;i.</p>\n<p>~ Một ch&iacute;nh kh&aacute;ch cho biết họ đang đạt được tiến triển cho cuộc họp ch&iacute;nh thức tại Singapore v&agrave;o tuần sau đó.&nbsp;</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 146030,
+      "questionNumber": 23,
+      "questionName": "‘Matthew joined the drama group last month.’ Bill told me.  => Bill told",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>&quot;Matthew joined the drama group last month,&quot; Bill told me.</strong></p>\n<p><strong> =&gt; Bill told ............</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Bill told me that Matthew had joined the drama group the previous month."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + told sb (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>L&ugrave;i th&igrave;: qu&aacute; khứ đơn =&gt; qu&aacute; khứ ho&agrave;n th&agrave;nh (\"<strong>joined</strong>\" =&gt; \"<strong>had joined</strong>\")</p>\n<p>Đổi trạng từ: \"<strong>last month</strong>\" =&gt; \"<strong>the previous month/the month before</strong>\"</p>\n<p>Dịch: \"Matthew đ&atilde; tham gia nh&oacute;m kịch v&agrave;o th&aacute;ng trước,\" Bill n&oacute;i với t&ocirc;i.</p>\n<p>~ Bill n&oacute;i với t&ocirc;i rằng Matthew đ&atilde; tham gia nh&oacute;m kịch v&agrave;o th&aacute;ng trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 285108,
+      "questionNumber": 24,
+      "questionName": "SBT 8-U11-B-6.2",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence so that it has the same meaning to the first.</em></p>\n<p><strong>&quot;You have to keep quiet if you want to stay here,&quot; she said to me.</strong></p>\n<p><strong>=&gt; She told me that ..........</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "She told me that I had to keep quiet if I wanted to stay there."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + said + (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>L&ugrave;i th&igrave;: hiện tại đơn =&gt; qu&aacute; khứ đơn (\"<strong>have to</strong>\" =&gt; \"<strong>had to</strong>\", \"<strong>want</strong>\" =&gt; \"<strong>wanted</strong>\")</p>\n<p>Đổi đại từ: \"<strong>You</strong>\" =&gt; \"<strong>I</strong>\"</p>\n<p>Đổi trạng từ: \"<strong>here</strong>\" =&gt; \"<strong>there</strong>\"</p>\n<p>Dịch: C&ocirc; ấy n&oacute;i với t&ocirc;i, \"Bạn phải giữ y&ecirc;n lặng nếu bạn muốn ở đ&acirc;y.\"</p>\n<p>~ C&ocirc; ấy n&oacute;i với t&ocirc;i rằng t&ocirc;i phải giữ y&ecirc;n lặng nếu t&ocirc;i muốn ở đ&oacute;.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 320757,
+      "questionNumber": 25,
+      "questionName": "10-46b-Grammar practice upper inter 3rd-p.107",
+      "questionType": "ShortAnswer",
+      "questionText": "<p><em>Complete the second sentence using the word given so that it has the same meaning to the first.</em></p>\n<p><strong>&quot;l may have left my bag on the bus this morning,&quot; Eva said. (MIGHT)</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [],
+      "correctChoiceId": null,
+      "fillblankAnswers": null,
+      "shortAnswers": [
+        "Eva said that she might have left her bag on the bus that morning."
+      ],
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + said + (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>L&ugrave;i th&igrave;: \"<strong>may</strong>\" =&gt; \"<strong>might</strong>\"</p>\n<p>Đổi đại từ: \"<strong>I</strong>\" =&gt; \"<strong>she</strong>\"</p>\n<p>Đổi t&iacute;nh từ sở hữu: \"<strong>my</strong>\" =&gt; \"<strong>her</strong>\"</p>\n<p>Đổi từ chỉ định: \"<strong>this</strong>\" =&gt; \"<strong>that</strong>\"</p>\n<p>Dịch: &ldquo;C&oacute; lẽ s&aacute;ng nay t&ocirc;i đ&atilde; để qu&ecirc;n t&uacute;i tr&ecirc;n xe bu&yacute;t,&rdquo; Eva n&oacute;i.</p>\n<p>~ Eva n&oacute;i rằng c&ocirc; ấy c&oacute; thể đ&atilde; để qu&ecirc;n t&uacute;i của m&igrave;nh ở tr&ecirc;n xe bu&yacute;t s&aacute;ng nay.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 174210,
+      "questionNumber": 26,
+      "questionName": "39",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.&nbsp;</em></p>\n<p><strong>&quot;I visited my grandmother last week,&quot; Tom said.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 400731,
+          "label": "A",
+          "text": "Tom said I visited his grandmother last week.",
+          "isCorrect": false
+        },
+        {
+          "id": 400732,
+          "label": "B",
+          "text": "Tom said I visited his grandmother the week before.",
+          "isCorrect": false
+        },
+        {
+          "id": 400733,
+          "label": "C",
+          "text": "Tom said he has visited his grandmother the week before.",
+          "isCorrect": false
+        },
+        {
+          "id": 400734,
+          "label": "D",
+          "text": "Tom said he had visited his grandmother the week before.",
+          "isCorrect": true
+        }
+      ],
+      "correctChoiceId": 400734,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + said (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>L&ugrave;i th&igrave;: qu&aacute; khứ đơn =&gt; qu&aacute; khứ ho&agrave;n th&agrave;nh (\"<strong>visited</strong>\" =&gt; \"<strong>had visited</strong>\")</p>\n<p style=\"text-align: left;\">Đổi đại từ, t&iacute;nh từ sở hữu: \"<strong>I</strong>\" =&gt; \"<strong>he</strong>\", \"<strong>my</strong>\" =&gt; \"<strong>his</strong>\"</p>\n<p>Đổi trạng từ chỉ thời gian: \"<strong>last week</strong>\" =&gt; \"<strong>the week before</strong>\"</p>\n<p>Dịch: \"T&ocirc;i đ&atilde; đến thăm b&agrave; t&ocirc;i v&agrave;o tuần trước,\" Tom n&oacute;i.</p>\n<p>&nbsp;~ Tom n&oacute;i anh ấy đ&atilde; đến thăm b&agrave; của anh ấy v&agrave;o tuần trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 5009,
+      "questionNumber": 27,
+      "questionName": "“I was walking home when I saw the accident yesterday.”",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.&nbsp;</em></p>\n<p><strong>&#8220;I was walking home when I saw the accident yesterday,&#8221; James said.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 12126,
+          "label": "A",
+          "text": "James said he had been walking home when he had seen the accident the day before.",
+          "isCorrect": true
+        },
+        {
+          "id": 12127,
+          "label": "B",
+          "text": "James said was walking home when he had seen the accident the day before.",
+          "isCorrect": false
+        },
+        {
+          "id": 12128,
+          "label": "C",
+          "text": "James said he had been walking home when he saw the accident the day before.",
+          "isCorrect": false
+        },
+        {
+          "id": 12129,
+          "label": "D",
+          "text": "James said he was walking home when he saw the accident the day before.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 12126,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật thay đổi th&igrave;: <strong>S + said + (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>L&ugrave;i th&igrave;:</p>\n<ul>\n<li>qu&aacute; khứ tiếp diễn =&gt; qu&aacute; khứ ho&agrave;n th&agrave;nh tiếp diễn (\"<strong>was walking</strong>\" =&gt; \"<strong>had been walking</strong>\")</li>\n<li>qu&aacute; khứ đơn =&gt; qu&aacute; khứ ho&agrave;n th&agrave;nh (\"<strong>saw</strong>\" =&gt;&nbsp;\"<strong>had seen</strong>\")</li>\n</ul>\n<p>Đổi đại từ: \"<strong>I</strong>\" =&gt; \"<strong>he</strong>\"</p>\n<p>Đổi trạng từ: \"<strong>yesterday</strong>\" =&gt; \"<strong>the day before</strong>\"</p>\n<p>Dịch: \"H&ocirc;m qua, t&ocirc;i đang đi bộ về nh&agrave; th&igrave; thấy vụ tai nạn,\" James n&oacute;i.</p>\n<p>~ James n&oacute;i anh đang đi bộ về nh&agrave; khi nh&igrave;n thấy vụ tai nạn ng&agrave;y h&ocirc;m trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 155647,
+      "questionNumber": 28,
+      "questionName": "47",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.&nbsp;</em></p>\n<p><strong>&quot;I went out with my friends last night,&quot; Tim said.</strong></p>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 363345,
+          "label": "A",
+          "text": "Tim said that I would go out with his friends last night.",
+          "isCorrect": false
+        },
+        {
+          "id": 363346,
+          "label": "B",
+          "text": "Tim said that he went out with my friends the previous night.",
+          "isCorrect": false
+        },
+        {
+          "id": 363347,
+          "label": "C",
+          "text": "Tim said that he had gone out with his friends the previous night.",
+          "isCorrect": true
+        },
+        {
+          "id": 363348,
+          "label": "D",
+          "text": "Tim said that I had gone out with his friends last night.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 363347,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật:<strong> S + said (that) + S + V (l&ugrave;i th&igrave;)</strong></p>\n<p>L&ugrave;i th&igrave;: qu&aacute; khứ đơn =&gt; qu&aacute; khứ ho&agrave;n th&agrave;nh (\"<strong>went</strong>\" =&gt; \"<strong>had gone</strong>\")</p>\n<p>Đổi đại từ, t&iacute;nh từ sở hữu: \"<strong>I</strong>\" =&gt; \"<strong>he</strong>\"; \"<strong>my</strong>\" =&gt; \"<strong>his</strong>\"</p>\n<p>Đổi trạng từ: \"<strong>last night</strong>\" =&gt; \"<strong>the previous night</strong>\"</p>\n<p>Dich: &ldquo;T&ocirc;i đ&atilde; đi chơi với bạn v&agrave;o tối qua,&rdquo; Tim n&oacute;i.</p>\n<p>~ Tim n&oacute;i rằng anh ấy đ&atilde; đi chơi với bạn v&agrave;o tối h&ocirc;m trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 849861,
+      "questionNumber": 29,
+      "questionName": "11",
+      "questionType": "MultipleChoice",
+      "questionText": "<em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em><br><strong>\"I will send you my notes tomorrow,\" said Robert to Rosie.</strong>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 2170632,
+          "label": "A",
+          "text": "Robert told Rosie that he would send her his notes the following day.",
+          "isCorrect": true
+        },
+        {
+          "id": 2170633,
+          "label": "B",
+          "text": "Robert told Rosie that he will send him his notes tomorrow.",
+          "isCorrect": false
+        },
+        {
+          "id": 2170634,
+          "label": "C",
+          "text": "Robert told Rosie that he will send her my notes the following day.",
+          "isCorrect": false
+        },
+        {
+          "id": 2170635,
+          "label": "D",
+          "text": "Robert told Rosie that he would send her his notes tomorrow.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 2170632,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "Khi chuyển một câu trực tiếp sang câu gián tiếp (reported speech), bạn cần chú ý đến <strong>ba sự thay đổi chính</strong>:\n<ul>\n    <li><strong>Lùi thì của động từ</strong>: Động từ <em>\"will\"</em> trong câu trực tiếp sẽ được đổi thành gì?</li>\n    <li><strong>Thay đổi đại từ và tính từ sở hữu</strong>: Các từ <em>\"I\"</em>, <em>\"you\"</em>, và <em>\"my\"</em> cần được thay đổi như thế nào để phù hợp với người nói (Robert) và người nghe (Rosie)?</li>\n    <li><strong>Thay đổi trạng từ chỉ thời gian</strong>: Trạng từ <em>\"tomorrow\"</em> sẽ được đổi thành gì?</li>\n</ul>\nHãy kiểm tra kỹ từng phương án để xem phương án nào đã thực hiện đúng <strong>tất cả</strong> các thay đổi trên.",
+      "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p><p style=\"text-align: justify;\"><strong>Câu tường thuật (Reported speech)</strong>: là cấu trúc dùng để thuật lại lời nói của người khác. Khi chuyển từ câu trực tiếp sang câu gián tiếp, cần lưu ý các thay đổi sau:</p><ul style=\"list-style-type: disc; margin-left: 20px;\"><li><strong>Lùi thì của động từ</strong>: <strong>will</strong> &rarr; <strong>would</strong></li><li><strong>Thay đổi đại từ và tính từ sở hữu</strong> cho phù hợp với người nói và người nghe: <strong>I</strong> (Robert) &rarr; <strong>he</strong>; <strong>you</strong> (Rosie) &rarr; <strong>her</strong>; <strong>my</strong> &rarr; <strong>his</strong></li><li><strong>Thay đổi trạng từ chỉ thời gian</strong>: <strong>tomorrow</strong> &rarr; <strong>the following day</strong></li></ul><p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p><ul><li style=\"text-align: justify;\">Phương án 1 đúng vì đã áp dụng chính xác các quy tắc chuyển đổi của câu tường thuật: lùi thì (<strong>will &rarr; would</strong>), thay đổi đại từ (<strong>I &rarr; he, you &rarr; her, my &rarr; his</strong>), và thay đổi trạng từ chỉ thời gian (<strong>tomorrow &rarr; the following day</strong>).</li><li style=\"text-align: justify;\">Phương án 2 sai vì chưa lùi thì (vẫn dùng <strong>will</strong>), sai tân ngữ (<strong>him</strong> thay vì <strong>her</strong>), và chưa đổi trạng từ chỉ thời gian (vẫn dùng <strong>tomorrow</strong>).</li><li style=\"text-align: justify;\">Phương án 3 sai vì chưa lùi thì (vẫn dùng <strong>will</strong>) và sai tính từ sở hữu (<strong>my</strong> thay vì <strong>his</strong>).</li><li style=\"text-align: justify;\">Phương án 4 sai vì chưa đổi trạng từ chỉ thời gian (vẫn dùng <strong>tomorrow</strong>).</li></ul><p style=\"text-align: justify;\"><span class=\"eq-highlight\">Dịch: </span></p><p style=\"text-align: justify;\"><strong>\"Tôi sẽ gửi cho bạn ghi chú của tôi vào ngày mai,\" Robert nói với Rosie.</strong></p><p style=\"text-align: justify;\"><strong><span style=\"color: #49c015;\">✔ </span></strong>Robert nói với Rosie rằng anh ấy sẽ gửi cho cô ấy ghi chú của anh ấy vào ngày hôm sau.</p><p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong><em>Ý muốn nói là: </em>Robert nói với Rosie rằng anh ấy sẽ gửi cho anh ấy ghi chú của anh ấy vào ngày mai.</p><p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong><em>Ý muốn nói là: </em>Robert nói với Rosie rằng anh ấy sẽ gửi cho cô ấy ghi chú của tôi vào ngày hôm sau.</p><p style=\"text-align: justify;\"><strong><span style=\"color: #e03e2d;\">✖ </span></strong><em>Ý muốn nói là: </em>Robert nói với Rosie rằng anh ấy sẽ gửi cho cô ấy ghi chú của anh ấy vào ngày mai.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    },
+    {
+      "id": 911730,
+      "questionNumber": 30,
+      "questionName": "48",
+      "questionType": "MultipleChoice",
+      "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.&nbsp;</em></p>\n<p><strong>Cindy said that &quot;I haven't seen John since last month.&quot;</strong></p>\n<div style=\"position: absolute; left: -293px; top: -12px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>",
+      "passageText": null,
+      "parentQuestionId": 0,
+      "choices": [
+        {
+          "id": 1730218,
+          "label": "A",
+          "text": "Cindy said she hasn't seen John since last month.",
+          "isCorrect": false
+        },
+        {
+          "id": 1730219,
+          "label": "B",
+          "text": "Cindy said she wasn't seen John since the previous month.",
+          "isCorrect": false
+        },
+        {
+          "id": 1730220,
+          "label": "C",
+          "text": "Cindy said she hadn't seen John since the previous month.",
+          "isCorrect": true
+        },
+        {
+          "id": 1730221,
+          "label": "D",
+          "text": "Cindy said I hadn't seen John since the previous month.",
+          "isCorrect": false
+        }
+      ],
+      "correctChoiceId": 1730220,
+      "fillblankAnswers": null,
+      "shortAnswers": null,
+      "hint": "",
+      "explanation": "<p>Cấu tr&uacute;c c&acirc;u tường thuật:<strong> S + said (that) + S + V(l&ugrave;i th&igrave;)</strong></p>\n<p>L&ugrave;i th&igrave;: hiện tại ho&agrave;n th&agrave;nh =&gt; qu&aacute; khứ ho&agrave;n th&agrave;nh (\"<strong>haven't seen</strong>\" =&gt; \"<strong>hadn't seen</strong>\")</p>\n<p>Đổi đại từ: \"<strong>I</strong>\" =&gt; \"<strong>she</strong>\"</p>\n<p>Đổi trạng từ: \"<strong>l</strong><strong>ast month</strong>\" =&gt; \"<strong>the month before/ the previous month</strong>\"</p>\n<p>Dịch: Cindy đ&atilde; n&oacute;i rằng \"T&ocirc;i đ&atilde; kh&ocirc;ng gặp John kể từ th&aacute;ng trước\".</p>\n<p>~ Cindy đ&atilde; n&oacute;i rằng c&ocirc; ấy đ&atilde; kh&ocirc;ng gặp John từ th&aacute;ng trước.</p>",
+      "answerFeedbacks": {},
+      "images": []
+    }
+  ]
+}

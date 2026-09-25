@@ -1,0 +1,452 @@
+[
+  {
+    "id": "128_1",
+    "questionName": "Question 1",
+    "questionText": "<p>My father usually ________ up at 5:30 AM to do morning exercises.</p>",
+    "choices": [
+      {
+        "id": "128_1_2",
+        "text": "get",
+        "html": "get"
+      },
+      {
+        "id": "128_1_3",
+        "text": "is getting",
+        "html": "is getting"
+      },
+      {
+        "id": "128_1_4",
+        "text": "has got",
+        "html": "has got"
+      },
+      {
+        "id": "128_1_1",
+        "text": "gets",
+        "html": "gets"
+      }
+    ],
+    "correctChoiceId": "128_1_1",
+    "explanation": "<p>Thói quen lặp đi lặp lại có trạng từ chỉ tần suất 'usually': chia thì Hiện tại đơn. Chủ ngữ 'My father' số ít nên thêm -s: <strong>gets</strong>.</p>",
+    "ruleTip": "Thói quen lặp đi lặp lại với 'usually': chia Hiện tại đơn, chủ ngữ số ít thêm -s."
+  },
+  {
+    "id": "128_2",
+    "questionName": "Question 2",
+    "questionText": "<p>Look! The children ________ football cheerfully on the playground.</p>",
+    "choices": [
+      {
+        "id": "128_2_2",
+        "text": "play",
+        "html": "play"
+      },
+      {
+        "id": "128_2_3",
+        "text": "is playing",
+        "html": "is playing"
+      },
+      {
+        "id": "128_2_1",
+        "text": "are playing",
+        "html": "are playing"
+      },
+      {
+        "id": "128_2_4",
+        "text": "have played",
+        "html": "have played"
+      }
+    ],
+    "correctChoiceId": "128_2_1",
+    "explanation": "<p>Dấu hiệu 'Look!' báo hiệu hành động đang diễn ra tại thời điểm nói: chia thì Hiện tại tiếp diễn. 'The children' số nhiều: <strong>are playing</strong>.</p>",
+    "ruleTip": "Dấu hiệu 'Look!' báo hiệu hành động đang diễn ra: chia Hiện tại tiếp diễn (am/is/are + V-ing)."
+  },
+  {
+    "id": "128_3",
+    "questionName": "Question 3",
+    "questionText": "<p>Mr. Brown ________ English at our secondary school since 2018.</p>",
+    "choices": [
+      {
+        "id": "128_3_2",
+        "text": "teaches",
+        "html": "teaches"
+      },
+      {
+        "id": "128_3_3",
+        "text": "is teaching",
+        "html": "is teaching"
+      },
+      {
+        "id": "128_3_4",
+        "text": "taught",
+        "html": "taught"
+      },
+      {
+        "id": "128_3_1",
+        "text": "has taught",
+        "html": "has taught"
+      }
+    ],
+    "correctChoiceId": "128_3_1",
+    "explanation": "<p>Dấu hiệu 'since 2018' (kể từ năm 2018): chia thì Hiện tại hoàn thành: <strong>has taught</strong>.</p>",
+    "ruleTip": "Dấu hiệu 'since + mốc thời gian': chia Hiện tại hoàn thành (have/has + V3/ed)."
+  },
+  {
+    "id": "128_4",
+    "questionName": "Question 4",
+    "questionText": "<p>I ________ the answer to this difficult question right now.</p>",
+    "choices": [
+      {
+        "id": "128_4_1",
+        "text": "know",
+        "html": "know"
+      },
+      {
+        "id": "128_4_2",
+        "text": "am knowing",
+        "html": "am knowing"
+      },
+      {
+        "id": "128_4_3",
+        "text": "have known",
+        "html": "have known"
+      },
+      {
+        "id": "128_4_4",
+        "text": "knew",
+        "html": "knew"
+      }
+    ],
+    "correctChoiceId": "128_4_1",
+    "explanation": "<p>'Know' là động từ chỉ nhận thức/trạng thái (stative verb), KHÔNG dùng ở thì tiếp diễn dù có 'right now': chọn <strong>know</strong>.</p>",
+    "ruleTip": "Động từ chỉ nhận thức (know, understand, believe) KHÔNG chia tiếp diễn dù có 'right now'."
+  },
+  {
+    "id": "128_5",
+    "questionName": "Question 5",
+    "questionText": "<p>The flight to London ________ at 10:15 tomorrow morning according to the schedule.</p>",
+    "choices": [
+      {
+        "id": "128_5_2",
+        "text": "will depart",
+        "html": "will depart"
+      },
+      {
+        "id": "128_5_3",
+        "text": "is departing",
+        "html": "is departing"
+      },
+      {
+        "id": "128_5_1",
+        "text": "departs",
+        "html": "departs"
+      },
+      {
+        "id": "128_5_4",
+        "text": "departed",
+        "html": "departed"
+      }
+    ],
+    "correctChoiceId": "128_5_1",
+    "explanation": "<p>Lịch trình cố định của máy bay/tàu xe trong tương lai: dùng thì Hiện tại đơn: <strong>departs</strong>.</p>",
+    "ruleTip": "Lịch trình tàu xe, máy bay dùng thì Hiện tại đơn dù mang nghĩa tương lai."
+  },
+  {
+    "id": "128_6",
+    "questionName": "Question 6",
+    "questionText": "<p>Has your brother submitted his high school application form ________?</p>",
+    "choices": [
+      {
+        "id": "128_6_2",
+        "text": "already",
+        "html": "already"
+      },
+      {
+        "id": "128_6_1",
+        "text": "yet",
+        "html": "yet"
+      },
+      {
+        "id": "128_6_3",
+        "text": "since",
+        "html": "since"
+      },
+      {
+        "id": "128_6_4",
+        "text": "never",
+        "html": "never"
+      }
+    ],
+    "correctChoiceId": "128_6_1",
+    "explanation": "<p>Trong câu hỏi nghi vấn của thì Hiện tại hoàn thành, từ đứng ở cuối câu là <strong>yet</strong> (đã... chưa?).</p>",
+    "ruleTip": "'Yet' dùng ở cuối câu hỏi và câu phủ định của thì Hiện tại hoàn thành."
+  },
+  {
+    "id": "128_7",
+    "questionName": "Question 7",
+    "questionText": "<p>He is so careless! He is always ________ his house keys.</p>",
+    "choices": [
+      {
+        "id": "128_7_1",
+        "text": "losing",
+        "html": "losing"
+      },
+      {
+        "id": "128_7_2",
+        "text": "lose",
+        "html": "lose"
+      },
+      {
+        "id": "128_7_3",
+        "text": "lost",
+        "html": "lost"
+      },
+      {
+        "id": "128_7_4",
+        "text": "loses",
+        "html": "loses"
+      }
+    ],
+    "correctChoiceId": "128_7_1",
+    "explanation": "<p>Cấu trúc <strong>'be + always + V-ing'</strong> diễn tả sự phàn nàn, bực mình về một thói quen xấu: <strong>losing</strong>.</p>",
+    "ruleTip": "'S + be + always + V-ing' diễn tả sự phàn nàn, bực mình về một thói quen xấu."
+  },
+  {
+    "id": "128_8",
+    "questionName": "Question 8",
+    "questionText": "<p>We haven't seen our former English teacher ________ nearly five years.</p>",
+    "choices": [
+      {
+        "id": "128_8_2",
+        "text": "since",
+        "html": "since"
+      },
+      {
+        "id": "128_8_1",
+        "text": "for",
+        "html": "for"
+      },
+      {
+        "id": "128_8_3",
+        "text": "in",
+        "html": "in"
+      },
+      {
+        "id": "128_8_4",
+        "text": "at",
+        "html": "at"
+      }
+    ],
+    "correctChoiceId": "128_8_1",
+    "explanation": "<p>'Five years' là một khoảng thời gian nên dùng giới từ <strong>for</strong> trong thì Hiện tại hoàn thành.</p>",
+    "ruleTip": "'For + khoảng thời gian' (for 5 years); 'Since + mốc thời gian' (since 2020)."
+  },
+  {
+    "id": "128_9",
+    "questionName": "Question 9",
+    "questionText": "<p>This is the first time I ________ such a magnificent ancient temple.</p>",
+    "choices": [
+      {
+        "id": "128_9_2",
+        "text": "visit",
+        "html": "visit"
+      },
+      {
+        "id": "128_9_3",
+        "text": "visited",
+        "html": "visited"
+      },
+      {
+        "id": "128_9_1",
+        "text": "have visited",
+        "html": "have visited"
+      },
+      {
+        "id": "128_9_4",
+        "text": "am visiting",
+        "html": "am visiting"
+      }
+    ],
+    "correctChoiceId": "128_9_1",
+    "explanation": "<p>Cấu trúc <strong>'This is the first time + S + have/has + V3/ed'</strong>: chọn <strong>have visited</strong>.</p>",
+    "ruleTip": "Cấu trúc: 'This is the first/second time + S + have/has + V3/ed'."
+  },
+  {
+    "id": "128_10",
+    "questionName": "Question 10",
+    "questionText": "<p>We ________ dinner with Mr. Henderson this evening; the table is already reserved.</p>",
+    "choices": [
+      {
+        "id": "128_10_1",
+        "text": "are having",
+        "html": "are having"
+      },
+      {
+        "id": "128_10_2",
+        "text": "have",
+        "html": "have"
+      },
+      {
+        "id": "128_10_3",
+        "text": "had",
+        "html": "had"
+      },
+      {
+        "id": "128_10_4",
+        "text": "have had",
+        "html": "have had"
+      }
+    ],
+    "correctChoiceId": "128_10_1",
+    "explanation": "<p>Kế hoạch đã được chuẩn bị và sắp xếp cố định (đã đặt bàn): dùng thì Hiện tại tiếp diễn mang nghĩa tương lai <strong>are having</strong>.</p>",
+    "ruleTip": "Kế hoạch đã sắp xếp cố định trong tương lai gần: chia Hiện tại tiếp diễn."
+  },
+  {
+    "id": "128_11",
+    "questionName": "Question 11",
+    "questionText": "<p>The Earth ________ round the Sun once every 365 and a quarter days.</p>",
+    "choices": [
+      {
+        "id": "128_11_2",
+        "text": "is revolving",
+        "html": "is revolving"
+      },
+      {
+        "id": "128_11_1",
+        "text": "revolves",
+        "html": "revolves"
+      },
+      {
+        "id": "128_11_3",
+        "text": "revolved",
+        "html": "revolved"
+      },
+      {
+        "id": "128_11_4",
+        "text": "has revolved",
+        "html": "has revolved"
+      }
+    ],
+    "correctChoiceId": "128_11_1",
+    "explanation": "<p>Chân lý, định luật khoa học bất biến: chia thì Hiện tại đơn: <strong>revolves</strong>.</p>",
+    "ruleTip": "Chân lý, quy luật khoa học vũ trụ luôn luôn chia thì Hiện tại đơn."
+  },
+  {
+    "id": "128_12",
+    "questionName": "Question 12",
+    "questionText": "<p>Lan cannot play badminton now because she ________ her wrist.</p>",
+    "choices": [
+      {
+        "id": "128_12_2",
+        "text": "sprains",
+        "html": "sprains"
+      },
+      {
+        "id": "128_12_1",
+        "text": "has just sprained",
+        "html": "has just sprained"
+      },
+      {
+        "id": "128_12_3",
+        "text": "was spraining",
+        "html": "was spraining"
+      },
+      {
+        "id": "128_12_4",
+        "text": "had sprained",
+        "html": "had sprained"
+      }
+    ],
+    "correctChoiceId": "128_12_1",
+    "explanation": "<p>Hành động vừa mới xảy ra và để lại kết quả ảnh hưởng trực tiếp đến hiện tại ('cannot play now'): dùng Hiện tại hoàn thành với 'just': <strong>has just sprained</strong>.</p>",
+    "ruleTip": "Hành động vừa mới xảy ra để lại kết quả ở hiện tại: dùng Hiện tại hoàn thành với 'just'."
+  },
+  {
+    "id": "128_13",
+    "questionName": "Question 13",
+    "questionText": "<p>Mary is not at home right now. She ________ to the local library to borrow some books.</p>",
+    "choices": [
+      {
+        "id": "128_13_2",
+        "text": "has been",
+        "html": "has been"
+      },
+      {
+        "id": "128_13_3",
+        "text": "goes",
+        "html": "goes"
+      },
+      {
+        "id": "128_13_4",
+        "text": "is going to",
+        "html": "is going to"
+      },
+      {
+        "id": "128_13_1",
+        "text": "has gone",
+        "html": "has gone"
+      }
+    ],
+    "correctChoiceId": "128_13_1",
+    "explanation": "<p>Mary hiện không có ở nhà vì cô ấy đã đi đến thư viện (chưa về): dùng <strong>has gone to</strong>. ('has been to' nghĩa là đã đến và đã trở về).</p>",
+    "ruleTip": "'Has gone to': đã đi và chưa về; 'Has been to': đã từng đến và đã trở về."
+  },
+  {
+    "id": "128_14",
+    "questionName": "Question 14",
+    "questionText": "<p>She has made significant progress in English since she ________ our study club.</p>",
+    "choices": [
+      {
+        "id": "128_14_2",
+        "text": "joins",
+        "html": "joins"
+      },
+      {
+        "id": "128_14_3",
+        "text": "has joined",
+        "html": "has joined"
+      },
+      {
+        "id": "128_14_1",
+        "text": "joined",
+        "html": "joined"
+      },
+      {
+        "id": "128_14_4",
+        "text": "was joining",
+        "html": "was joining"
+      }
+    ],
+    "correctChoiceId": "128_14_1",
+    "explanation": "<p>Cấu trúc hòa hợp thì: <strong>Hiện tại hoàn thành + SINCE + Quá khứ đơn</strong>. Chọn <strong>joined</strong>.</p>",
+    "ruleTip": "Cấu trúc nối: Hiện tại hoàn thành + SINCE + Quá khứ đơn."
+  },
+  {
+    "id": "128_15",
+    "questionName": "Question 15",
+    "questionText": "<p>Pure water ________ at 50 degrees Celsius under normal atmospheric pressure.</p>",
+    "choices": [
+      {
+        "id": "128_15_2",
+        "text": "isn't boiling",
+        "html": "isn't boiling"
+      },
+      {
+        "id": "128_15_3",
+        "text": "won't boil",
+        "html": "won't boil"
+      },
+      {
+        "id": "128_15_4",
+        "text": "didn't boil",
+        "html": "didn't boil"
+      },
+      {
+        "id": "128_15_1",
+        "text": "doesn't boil",
+        "html": "doesn't boil"
+      }
+    ],
+    "correctChoiceId": "128_15_1",
+    "explanation": "<p>Chân lý khoa học phủ định: nước không sôi ở 50°C. 'Water' không đếm được dùng <strong>doesn't boil</strong>.</p>",
+    "ruleTip": "Phủ định hiện tại đơn với chủ ngữ không đếm được: doesn't + V-inf."
+  }
+]

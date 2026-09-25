@@ -1,0 +1,82 @@
+[
+  {
+    "sectionId": "pronunciation",
+    "sectionName": "Phát âm (Pronunciation)",
+    "description": "Luyện tập phát âm đuôi -ed, -s/es, các nguyên âm và phụ âm thường gặp trong đề thi vào 10 Hà Nội",
+    "icon": "volume-2",
+    "totalQuestions": 274,
+    "examCount": 137
+  },
+  {
+    "sectionId": "stress",
+    "sectionName": "Trọng âm (Word Stress)",
+    "description": "Luyện tập quy tắc trọng âm từ 2 âm tiết và 3 âm tiết chuẩn cấu trúc thi",
+    "icon": "sparkles",
+    "totalQuestions": 280,
+    "examCount": 138
+  },
+  {
+    "sectionId": "error_identification",
+    "sectionName": "Tìm lỗi sai (Error Identification)",
+    "description": "Nhận diện lỗi sai về thì của động từ, đại từ quan hệ, sự hòa hợp chủ - vị và ngữ pháp trọng tâm",
+    "icon": "alert-circle",
+    "totalQuestions": 236,
+    "examCount": 79
+  },
+  {
+    "sectionId": "communicative_functions",
+    "sectionName": "Chức năng giao tiếp (Communicative Exchanges)",
+    "description": "Đáp lại lời khen, lời mời, lời đề nghị, cảm ơn và các tình huống giao tiếp thường ngày",
+    "icon": "message-circle",
+    "totalQuestions": 191,
+    "examCount": 109
+  },
+  {
+    "sectionId": "sign_notices",
+    "sectionName": "Đọc hiểu biển báo & Thông báo (Signs & Notices)",
+    "description": "Dạng bài mới nhận diện ý nghĩa biển báo công cộng, thông báo trường học và tờ rơi",
+    "icon": "info",
+    "totalQuestions": 141,
+    "examCount": 68
+  },
+  {
+    "sectionId": "grammar_vocab_cloze",
+    "sectionName": "Trắc nghiệm Ngữ pháp & Từ vựng (Grammar & Vocab)",
+    "description": "Câu hỏi trắc nghiệm đơn lẻ về từ vựng, từ đồng nghĩa/trái nghĩa, cụm động từ và thì ngữ pháp",
+    "icon": "book-open",
+    "totalQuestions": 1484,
+    "examCount": 138
+  },
+  {
+    "sectionId": "guided_cloze",
+    "sectionName": "Điền từ vào đoạn văn (Guided Cloze)",
+    "description": "Điền liên từ, mạo từ, đại từ quan hệ và giới từ thích hợp vào các chỗ trống trong đoạn văn",
+    "icon": "edit-3",
+    "totalQuestions": 207,
+    "examCount": 123
+  },
+  {
+    "sectionId": "reading_comprehension",
+    "sectionName": "Đọc hiểu văn bản (Reading Comprehension)",
+    "description": "Đọc hiểu các chủ đề đời sống, môi trường, công nghệ và trả lời câu hỏi tìm ý chính, chi tiết",
+    "icon": "file-text",
+    "totalQuestions": 759,
+    "examCount": 135
+  },
+  {
+    "sectionId": "sentence_transformation",
+    "sectionName": "Viết lại câu đồng nghĩa (Sentence Transformation)",
+    "description": "Chuyển đổi câu bị động, câu điều kiện, câu tường thuật, so sánh và cấu trúc tương đương",
+    "icon": "repeat",
+    "totalQuestions": 635,
+    "examCount": 138
+  },
+  {
+    "sectionId": "sentence_combination",
+    "sectionName": "Kết hợp & Sắp xếp câu (Sentence Combination)",
+    "description": "Kết hợp hai câu đơn thành một câu phức và sắp xếp lại các từ xáo trộn để tạo câu hoàn chỉnh",
+    "icon": "layers",
+    "totalQuestions": 353,
+    "examCount": 119
+  }
+]

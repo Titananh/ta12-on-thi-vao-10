@@ -1,0 +1,452 @@
+[
+  {
+    "id": "127_1",
+    "questionName": "Question 1",
+    "questionText": "<p>If I ________ you, I would take that opportunity to study abroad.</p>",
+    "choices": [
+      {
+        "id": "127_1_1",
+        "text": "am",
+        "html": "am"
+      },
+      {
+        "id": "127_1_3",
+        "text": "will be",
+        "html": "will be"
+      },
+      {
+        "id": "127_1_2",
+        "text": "were",
+        "html": "were"
+      },
+      {
+        "id": "127_1_4",
+        "text": "had been",
+        "html": "had been"
+      }
+    ],
+    "correctChoiceId": "127_1_2",
+    "explanation": "<p>Câu điều kiện loại 2 đưa ra lời khuyên với mệnh đề <strong>'If I were you'</strong>. Động từ 'to be' luôn dùng <strong>were</strong> cho mọi ngôi.</p>",
+    "ruleTip": "If 2: Động từ 'to be' luôn dùng WERE cho mọi ngôi (kể cả I/he/she/it)."
+  },
+  {
+    "id": "127_2",
+    "questionName": "Question 2",
+    "questionText": "<p>If Nam had more free time, he ________ guitar lessons.</p>",
+    "choices": [
+      {
+        "id": "127_2_3",
+        "text": "would take",
+        "html": "would take"
+      },
+      {
+        "id": "127_2_1",
+        "text": "takes",
+        "html": "takes"
+      },
+      {
+        "id": "127_2_2",
+        "text": "will take",
+        "html": "will take"
+      },
+      {
+        "id": "127_2_4",
+        "text": "took",
+        "html": "took"
+      }
+    ],
+    "correctChoiceId": "127_2_3",
+    "explanation": "<p>Mệnh đề If loại 2 chia quá khứ đơn (had), mệnh đề chính dùng <strong>would + V-inf (would take)</strong>.</p>",
+    "ruleTip": "Vế chính If 2: S + would/could + V-inf (không dùng will)."
+  },
+  {
+    "id": "127_3",
+    "questionName": "Question 3",
+    "questionText": "<p>I don't know many people in this new town. I wish I ________ more friends.</p>",
+    "choices": [
+      {
+        "id": "127_3_2",
+        "text": "had",
+        "html": "had"
+      },
+      {
+        "id": "127_3_1",
+        "text": "have",
+        "html": "have"
+      },
+      {
+        "id": "127_3_3",
+        "text": "will have",
+        "html": "will have"
+      },
+      {
+        "id": "127_3_4",
+        "text": "have had",
+        "html": "have had"
+      }
+    ],
+    "correctChoiceId": "127_3_2",
+    "explanation": "<p>Câu ước trái ngược với thực tế ở hiện tại: lùi một thì về Quá khứ đơn: <strong>had</strong>.</p>",
+    "ruleTip": "Ước ở hiện tại: Lùi 1 thì về Quá khứ đơn (wish + S + V2/ed)."
+  },
+  {
+    "id": "127_4",
+    "questionName": "Question 4",
+    "questionText": "<p>Mai is very short. She wishes she ________ taller to join the basketball team.</p>",
+    "choices": [
+      {
+        "id": "127_4_1",
+        "text": "is",
+        "html": "is"
+      },
+      {
+        "id": "127_4_2",
+        "text": "were",
+        "html": "were"
+      },
+      {
+        "id": "127_4_3",
+        "text": "will be",
+        "html": "will be"
+      },
+      {
+        "id": "127_4_4",
+        "text": "has been",
+        "html": "has been"
+      }
+    ],
+    "correctChoiceId": "127_4_2",
+    "explanation": "<p>Câu ước ở hiện tại với động từ to be: dùng <strong>were</strong> cho tất cả các ngôi (kể cả she/he/it).</p>",
+    "ruleTip": "Ước với 'to be' ở hiện tại: Dùng WERE cho tất cả các ngôi."
+  },
+  {
+    "id": "127_5",
+    "questionName": "Question 5",
+    "questionText": "<p>If we ________ in the city center, it wouldn't be so noisy around our house.</p>",
+    "choices": [
+      {
+        "id": "127_5_2",
+        "text": "don't live",
+        "html": "don't live"
+      },
+      {
+        "id": "127_5_3",
+        "text": "won't live",
+        "html": "won't live"
+      },
+      {
+        "id": "127_5_4",
+        "text": "hadn't lived",
+        "html": "hadn't lived"
+      },
+      {
+        "id": "127_5_1",
+        "text": "didn't live",
+        "html": "didn't live"
+      }
+    ],
+    "correctChoiceId": "127_5_1",
+    "explanation": "<p>Mệnh đề chính là 'wouldn't be' (If 2), mệnh đề If phủ định dùng <strong>didn't + V-inf (didn't live)</strong>.</p>",
+    "ruleTip": "Phủ định vế If loại 2: dùng 'didn't + V-inf'."
+  },
+  {
+    "id": "127_6",
+    "questionName": "Question 6",
+    "questionText": "<p>If you could speak English fluently, what career ________ you choose?</p>",
+    "choices": [
+      {
+        "id": "127_6_1",
+        "text": "will",
+        "html": "will"
+      },
+      {
+        "id": "127_6_3",
+        "text": "did",
+        "html": "did"
+      },
+      {
+        "id": "127_6_4",
+        "text": "do",
+        "html": "do"
+      },
+      {
+        "id": "127_6_2",
+        "text": "would",
+        "html": "would"
+      }
+    ],
+    "correctChoiceId": "127_6_2",
+    "explanation": "<p>Mệnh đề If dùng 'could speak' (If 2), câu hỏi ở mệnh đề chính dùng <strong>would + S + V-inf</strong>.</p>",
+    "ruleTip": "Câu hỏi If 2: Từ để hỏi + would + S + V-inf?"
+  },
+  {
+    "id": "127_7",
+    "questionName": "Question 7",
+    "questionText": "<p>If only I ________ how to play the piano as beautifully as my sister!</p>",
+    "choices": [
+      {
+        "id": "127_7_1",
+        "text": "know",
+        "html": "know"
+      },
+      {
+        "id": "127_7_2",
+        "text": "knew",
+        "html": "knew"
+      },
+      {
+        "id": "127_7_3",
+        "text": "will know",
+        "html": "will know"
+      },
+      {
+        "id": "127_7_4",
+        "text": "have known",
+        "html": "have known"
+      }
+    ],
+    "correctChoiceId": "127_7_2",
+    "explanation": "<p><strong>If only = I wish</strong> (Giá như). Ước điều trái thực tế ở hiện tại: động từ lùi về Quá khứ đơn <strong>knew</strong>.</p>",
+    "ruleTip": "If only = I wish (câu ước ở hiện tại lùi thì về quá khứ đơn)."
+  },
+  {
+    "id": "127_8",
+    "questionName": "Question 8",
+    "questionText": "<p>It's raining heavily outside. I wish the heavy rain ________ soon so we can play.</p>",
+    "choices": [
+      {
+        "id": "127_8_1",
+        "text": "would stop",
+        "html": "would stop"
+      },
+      {
+        "id": "127_8_2",
+        "text": "will stop",
+        "html": "will stop"
+      },
+      {
+        "id": "127_8_3",
+        "text": "stops",
+        "html": "stops"
+      },
+      {
+        "id": "127_8_4",
+        "text": "stopped",
+        "html": "stopped"
+      }
+    ],
+    "correctChoiceId": "127_8_1",
+    "explanation": "<p>Câu ước cho tương lai hoặc mong muốn một sự thay đổi hành động: <strong>wish + S + would + V-inf (would stop)</strong>.</p>",
+    "ruleTip": "Ước về một hành động trong tương lai hoặc phàn nàn: wish + S + would + V-inf."
+  },
+  {
+    "id": "127_9",
+    "questionName": "Question 9",
+    "questionText": "<p>Without your helpful guidance, we ________ able to complete this difficult project.</p>",
+    "choices": [
+      {
+        "id": "127_9_2",
+        "text": "won't be",
+        "html": "won't be"
+      },
+      {
+        "id": "127_9_1",
+        "text": "wouldn't be",
+        "html": "wouldn't be"
+      },
+      {
+        "id": "127_9_3",
+        "text": "weren't",
+        "html": "weren't"
+      },
+      {
+        "id": "127_9_4",
+        "text": "aren't",
+        "html": "aren't"
+      }
+    ],
+    "correctChoiceId": "127_9_1",
+    "explanation": "<p><strong>Without + N</strong> mang ý nghĩa giả định loại 2: 'Nếu không có... thì chúng tôi đã không thể...': vế chính dùng <strong>wouldn't be</strong>.</p>",
+    "ruleTip": "'Without + N' tương đương If 2: vế chính dùng wouldn't be + adj."
+  },
+  {
+    "id": "127_10",
+    "questionName": "Question 10",
+    "questionText": "<p>He doesn't have a car, so he can't drive to work. -> If he ________ a car, he ________ to work.</p>",
+    "choices": [
+      {
+        "id": "127_10_1",
+        "text": "had / could drive",
+        "html": "had / could drive"
+      },
+      {
+        "id": "127_10_2",
+        "text": "has / can drive",
+        "html": "has / can drive"
+      },
+      {
+        "id": "127_10_3",
+        "text": "had / will drive",
+        "html": "had / will drive"
+      },
+      {
+        "id": "127_10_4",
+        "text": "has / would drive",
+        "html": "has / would drive"
+      }
+    ],
+    "correctChoiceId": "127_10_1",
+    "explanation": "<p>Viết lại câu từ thực tế hiện tại sang câu điều kiện loại 2: chuyển phủ định thành khẳng định và lùi thì: <strong>had / could drive</strong>.</p>",
+    "ruleTip": "Chuyển từ thực tế sang If 2: khẳng định thành phủ định, lùi về quá khứ."
+  },
+  {
+    "id": "127_11",
+    "questionName": "Question 11",
+    "questionText": "<p>________ I rich, I would build a modern hospital for poor children in rural areas.</p>",
+    "choices": [
+      {
+        "id": "127_11_2",
+        "text": "If",
+        "html": "If"
+      },
+      {
+        "id": "127_11_3",
+        "text": "Should",
+        "html": "Should"
+      },
+      {
+        "id": "127_11_1",
+        "text": "Were",
+        "html": "Were"
+      },
+      {
+        "id": "127_11_4",
+        "text": "Had",
+        "html": "Had"
+      }
+    ],
+    "correctChoiceId": "127_11_1",
+    "explanation": "<p>Đảo ngữ câu điều kiện loại 2 với động từ to be: <strong>Were + S + (adj/noun)...</strong>, S + would + V-inf. 'Were I rich' = 'If I were rich'.</p>",
+    "ruleTip": "Đảo ngữ If 2 với to be: Were + S + adj/noun..., S + would + V-inf."
+  },
+  {
+    "id": "127_12",
+    "questionName": "Question 12",
+    "questionText": "<p>________ he to study harder, he would easily achieve higher marks in the final exam.</p>",
+    "choices": [
+      {
+        "id": "127_12_2",
+        "text": "Should",
+        "html": "Should"
+      },
+      {
+        "id": "127_12_3",
+        "text": "If",
+        "html": "If"
+      },
+      {
+        "id": "127_12_4",
+        "text": "Had",
+        "html": "Had"
+      },
+      {
+        "id": "127_12_1",
+        "text": "Were",
+        "html": "Were"
+      }
+    ],
+    "correctChoiceId": "127_12_1",
+    "explanation": "<p>Đảo ngữ câu điều kiện loại 2 với động từ thường: <strong>Were + S + to V-inf...</strong>. 'Were he to study' = 'If he studied'.</p>",
+    "ruleTip": "Đảo ngữ If 2 với động từ thường: Were + S + to V-inf..."
+  },
+  {
+    "id": "127_13",
+    "questionName": "Question 13",
+    "questionText": "<p>I can't swim. I wish I ________ swim across this wide river.</p>",
+    "choices": [
+      {
+        "id": "127_13_2",
+        "text": "can",
+        "html": "can"
+      },
+      {
+        "id": "127_13_3",
+        "text": "would",
+        "html": "would"
+      },
+      {
+        "id": "127_13_1",
+        "text": "could",
+        "html": "could"
+      },
+      {
+        "id": "127_13_4",
+        "text": "am able to",
+        "html": "am able to"
+      }
+    ],
+    "correctChoiceId": "127_13_1",
+    "explanation": "<p>Câu ước khả năng ở hiện tại: 'can' lùi thì thành <strong>could + V-inf</strong>.</p>",
+    "ruleTip": "Ước khả năng ở hiện tại: can chuyển thành COULD + V-inf."
+  },
+  {
+    "id": "127_14",
+    "questionName": "Question 14",
+    "questionText": "<p>If the air in Hanoi were cleaner, people ________ from fewer respiratory illnesses.</p>",
+    "choices": [
+      {
+        "id": "127_14_2",
+        "text": "will suffer",
+        "html": "will suffer"
+      },
+      {
+        "id": "127_14_1",
+        "text": "would suffer",
+        "html": "would suffer"
+      },
+      {
+        "id": "127_14_3",
+        "text": "suffered",
+        "html": "suffered"
+      },
+      {
+        "id": "127_14_4",
+        "text": "suffer",
+        "html": "suffer"
+      }
+    ],
+    "correctChoiceId": "127_14_1",
+    "explanation": "<p>Vế If dùng 'were cleaner' (If 2), mệnh đề chính dùng <strong>would + V-inf (would suffer)</strong>.</p>",
+    "ruleTip": "Mệnh đề chính If 2: would + V-inf diễn tả kết quả giả định."
+  },
+  {
+    "id": "127_15",
+    "questionName": "Question 15",
+    "questionText": "<p>If she ________ the truth now, she would be very disappointed with us.</p>",
+    "choices": [
+      {
+        "id": "127_15_2",
+        "text": "knows",
+        "html": "knows"
+      },
+      {
+        "id": "127_15_3",
+        "text": "will know",
+        "html": "will know"
+      },
+      {
+        "id": "127_15_1",
+        "text": "knew",
+        "html": "knew"
+      },
+      {
+        "id": "127_15_4",
+        "text": "has known",
+        "html": "has known"
+      }
+    ],
+    "correctChoiceId": "127_15_1",
+    "explanation": "<p>Giả định trái ngược với hiện tại ('now'): mệnh đề If chia thì Quá khứ đơn: <strong>knew</strong>.</p>",
+    "ruleTip": "Diễn tả sự thật không có ở hiện tại (now): Vế If chia quá khứ đơn 'knew'."
+  }
+]
