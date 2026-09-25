@@ -166,6 +166,20 @@ export async function PATCH(request: NextRequest) {
       return NextResponse.json({ success: false, error: 'Không tìm thấy người dùng' }, { status: 404 });
     }
 
+    if (targetUser.email) {
+      const normalizedEmail = targetUser.email.toLowerCase().trim();
+      if (action === 'approve') {
+        db.prepare(`
+          INSERT OR IGNORE INTO pre_whitelist (email, notes, created_at)
+          VALUES (?, 'Duyệt trực tiếp từ Cổng Quản trị Admin', datetime('now'))
+        `).run(normalizedEmail);
+      } else if (action === 'revoke' || action === 'reject') {
+        db.prepare(`
+          DELETE FROM pre_whitelist WHERE email = ? COLLATE NOCASE
+        `).run(normalizedEmail);
+      }
+    }
+
     const updatedUser = db.prepare('SELECT id, email, name, status, approved_at FROM users WHERE id = ?').get(userId);
 
     return NextResponse.json({
@@ -210,6 +224,9 @@ export async function DELETE(request: NextRequest) {
 
     db.prepare('DELETE FROM users WHERE id = ?').run(userId);
     db.prepare('DELETE FROM user_progress WHERE user_id = ?').run(userId);
+    if (targetUser.email) {
+      db.prepare('DELETE FROM pre_whitelist WHERE email = ? COLLATE NOCASE').run(targetUser.email.toLowerCase().trim());
+    }
 
     return NextResponse.json({
       success: true,

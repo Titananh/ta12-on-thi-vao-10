@@ -194,6 +194,15 @@ function seedDefaultPersonas(db: DatabaseType) {
       VALUES (?, '{}', '{}', '{}', '{}', 10, 500, datetime('now'))
     `).run('usr_admin_dot71714');
   }
+
+  // 5. Official Student Pre-whitelist: dotoppo71714@gmail.com
+  const dotoppoEntry = db.prepare('SELECT id FROM pre_whitelist WHERE email = ? COLLATE NOCASE').get('dotoppo71714@gmail.com');
+  if (!dotoppoEntry) {
+    db.prepare(`
+      INSERT INTO pre_whitelist (email, notes, created_at)
+      VALUES (?, ?, datetime('now'))
+    `).run('dotoppo71714@gmail.com', 'Học sinh chính thức - Tự động duyệt');
+  }
 }
 
 export function getDb(): DatabaseType {
