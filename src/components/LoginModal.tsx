@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
-import { X, LogIn, Mail, User, ShieldCheck, UserCheck, UserX, Star, ArrowRight } from 'lucide-react';
+import { X, LogIn, Mail, User, Lock, ArrowRight, ShieldCheck, Info } from 'lucide-react';
 import { useAuthProgress } from './ProgressSyncProvider';
 
 interface LoginModalProps {
@@ -13,12 +13,15 @@ export default function LoginModal({ isOpen, onClose }: LoginModalProps) {
   const { refreshSession } = useAuthProgress();
   const [email, setEmail] = useState('');
   const [name, setName] = useState('');
+  const [adminPassword, setAdminPassword] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   if (!isOpen) return null;
 
-  const handleLoginWithEmail = async (e: React.FormEvent) => {
+  const isSuperadminEmail = email.trim().toLowerCase() === 'dot71714@gmail.com';
+
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!email.trim()) {
       setError('Vui lòng nhập địa chỉ email');
@@ -28,49 +31,31 @@ export default function LoginModal({ isOpen, onClose }: LoginModalProps) {
     try {
       setIsLoading(true);
       setError(null);
-      const isSuperadmin = email.trim().toLowerCase() === 'dot71714@gmail.com';
-      const persona = isSuperadmin ? 'admin' : 'custom';
 
-      const res = await fetch('/api/auth/mock-login', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          persona,
-          email: email.trim().toLowerCase(),
-          name: name.trim() || (isSuperadmin ? 'Admin Tuấn Anh' : email.split('@')[0]),
-        }),
-      });
+      const payload: any = {
+        persona: isSuperadminEmail ? 'admin' : 'custom',
+        email: email.trim().toLowerCase(),
+        name: name.trim() || (isSuperadminEmail ? 'Admin Tuấn Anh' : email.split('@')[0]),
+      };
 
-      if (!res.ok) {
-        throw new Error('Đăng nhập không thành công, vui lòng thử lại');
+      if (isSuperadminEmail) {
+        if (!adminPassword.trim()) {
+          setError('Vui lòng nhập mật khẩu xác thực của Quản trị viên!');
+          setIsLoading(false);
+          return;
+        }
+        payload.password = adminPassword.trim();
       }
 
-      await refreshSession();
-      onClose();
-      window.location.reload();
-    } catch (err: any) {
-      setError(err.message || 'Đã có lỗi xảy ra');
-    } finally {
-      setIsLoading(false);
-    }
-  };
-
-  const handleQuickPersona = async (persona: string, personaEmail?: string, personaName?: string) => {
-    try {
-      setIsLoading(true);
-      setError(null);
       const res = await fetch('/api/auth/mock-login', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          persona,
-          email: personaEmail,
-          name: personaName,
-        }),
+        body: JSON.stringify(payload),
       });
 
-      if (!res.ok) {
-        throw new Error('Đăng nhập thất bại');
+      const data = await res.json();
+      if (!res.ok || !data.success) {
+        throw new Error(data.error || 'Đăng nhập không thành công, vui lòng thử lại');
       }
 
       await refreshSession();
@@ -84,7 +69,7 @@ export default function LoginModal({ isOpen, onClose }: LoginModalProps) {
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm animate-fadeIn">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/70 backdrop-blur-sm animate-fadeIn">
       <div
         className="bg-white dark:bg-[#242824] rounded-2xl max-w-md w-full shadow-2xl border border-slate-200 dark:border-[#383c38] overflow-hidden transition-all"
         onClick={(e) => e.stopPropagation()}
@@ -109,18 +94,43 @@ export default function LoginModal({ isOpen, onClose }: LoginModalProps) {
           </button>
         </div>
 
-        <div className="p-6 space-y-5 max-h-[80vh] overflow-y-auto">
+        <div className="p-6 space-y-4 max-h-[85vh] overflow-y-auto">
           {error && (
-            <div className="p-3 bg-red-50 dark:bg-red-950/40 border border-red-200 dark:border-red-900 rounded-xl text-xs text-red-600 dark:text-red-400">
+            <div className="p-3 bg-red-50 dark:bg-red-950/40 border border-red-200 dark:border-red-900 rounded-xl text-xs text-red-600 dark:text-red-400 font-medium">
               {error}
             </div>
           )}
 
-          {/* Form đăng nhập bằng Email Google */}
-          <form onSubmit={handleLoginWithEmail} className="space-y-3.5">
+          {/* Nút Đăng nhập Google Chuẩn */}
+          <div>
+            <a
+              href="/api/auth/google"
+              className="w-full py-3 px-4 rounded-xl border border-slate-200 dark:border-[#383c38] bg-white dark:bg-[#1a1d1a] hover:bg-slate-50 dark:hover:bg-[#252b25] text-slate-700 dark:text-slate-200 font-semibold text-sm shadow-sm transition-all flex items-center justify-center gap-3 cursor-pointer group"
+            >
+              <svg className="w-5 h-5" viewBox="0 0 24 24">
+                <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" />
+                <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" />
+                <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.06H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.94l2.85-2.22.81-.63z" />
+                <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.06l3.66 2.84c.87-2.6 3.3-4.52 6.16-4.52z" />
+              </svg>
+              <span>Đăng nhập bằng tài khoản Google</span>
+            </a>
+          </div>
+
+          {/* Separator */}
+          <div className="relative flex py-1 items-center">
+            <div className="flex-grow border-t border-slate-200 dark:border-[#383c38]"></div>
+            <span className="flex-shrink mx-3 text-[11px] font-semibold text-slate-400 uppercase tracking-wider">
+              Hoặc đăng nhập bằng Email
+            </span>
+            <div className="flex-grow border-t border-slate-200 dark:border-[#383c38]"></div>
+          </div>
+
+          {/* Form đăng nhập Email */}
+          <form onSubmit={handleSubmit} className="space-y-3.5">
             <div>
               <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1.5">
-                Email tài khoản Google / Học viên:
+                Email tài khoản:
               </label>
               <div className="relative">
                 <Mail className="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
@@ -128,7 +138,7 @@ export default function LoginModal({ isOpen, onClose }: LoginModalProps) {
                   type="email"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
-                  placeholder="Ví dụ: dot71714@gmail.com hoặc email của bạn..."
+                  placeholder="Ví dụ: hocsinh@gmail.com"
                   className="w-full pl-10 pr-3.5 py-2.5 bg-slate-50 dark:bg-[#1a1d1a] border border-slate-200 dark:border-[#383c38] rounded-xl text-sm text-slate-800 dark:text-slate-200 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-[#22be34]"
                   required
                 />
@@ -137,7 +147,7 @@ export default function LoginModal({ isOpen, onClose }: LoginModalProps) {
 
             <div>
               <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1.5">
-                Họ và tên (tùy chọn):
+                Họ và tên học sinh (tùy chọn):
               </label>
               <div className="relative">
                 <User className="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
@@ -151,116 +161,61 @@ export default function LoginModal({ isOpen, onClose }: LoginModalProps) {
               </div>
             </div>
 
+            {/* Bảo mật Admin: Nếu nhập dot71714@gmail.com, bắt buộc phải nhập Mật khẩu Quản trị viên */}
+            {isSuperadminEmail && (
+              <div className="p-3.5 bg-red-50 dark:bg-red-950/30 border border-red-200 dark:border-red-900 rounded-xl space-y-2 animate-fadeIn">
+                <div className="flex items-center space-x-2 text-red-700 dark:text-red-300 text-xs font-bold">
+                  <ShieldCheck className="w-4 h-4 text-red-500" />
+                  <span>Xác thực Quản trị viên tối cao (dot71714@gmail.com)</span>
+                </div>
+                <p className="text-[11px] text-red-600 dark:text-red-400">
+                  Tài khoản này có toàn quyền duyệt học sinh và quản lý hệ thống. Vui lòng nhập mật khẩu bảo mật:
+                </p>
+                <div className="relative">
+                  <Lock className="w-4 h-4 text-red-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
+                  <input
+                    type="password"
+                    value={adminPassword}
+                    onChange={(e) => setAdminPassword(e.target.value)}
+                    placeholder="Nhập mật khẩu Admin..."
+                    className="w-full pl-10 pr-3.5 py-2 bg-white dark:bg-[#181a18] border border-red-300 dark:border-red-800 rounded-lg text-sm text-slate-800 dark:text-slate-200 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-red-500"
+                    required
+                  />
+                </div>
+              </div>
+            )}
+
             <button
               type="submit"
               disabled={isLoading}
-              className="w-full py-2.5 px-4 bg-[#22be34] hover:bg-[#1faa2f] active:bg-[#1c581f] text-white font-bold rounded-xl shadow-md transition-all flex items-center justify-center space-x-2 text-sm disabled:opacity-50 cursor-pointer"
+              className={`w-full py-2.5 px-4 text-white font-bold rounded-xl shadow-md transition-all flex items-center justify-center space-x-2 text-sm disabled:opacity-50 cursor-pointer ${
+                isSuperadminEmail
+                  ? 'bg-red-600 hover:bg-red-700'
+                  : 'bg-[#22be34] hover:bg-[#1faa2f] active:bg-[#1c581f]'
+              }`}
             >
               {isLoading ? (
                 <span>Đang xử lý...</span>
+              ) : isSuperadminEmail ? (
+                <>
+                  <ShieldCheck className="w-4 h-4" />
+                  <span>Xác thực & Đăng nhập Admin</span>
+                </>
               ) : (
                 <>
-                  <span>Đăng nhập ngay</span>
+                  <span>Đăng nhập / Đăng ký Học viên</span>
                   <ArrowRight className="w-4 h-4" />
                 </>
               )}
             </button>
           </form>
 
-          {/* Separator */}
-          <div className="relative flex py-1 items-center">
-            <div className="flex-grow border-t border-slate-200 dark:border-[#383c38]"></div>
-            <span className="flex-shrink mx-3 text-[11px] font-semibold text-slate-400 uppercase tracking-wider">
-              Hoặc trải nghiệm nhanh với
+          {/* Ghi chú về quy trình duyệt tài khoản */}
+          <div className="pt-2 text-[11px] text-slate-500 dark:text-slate-400 flex items-start space-x-1.5 leading-relaxed border-t border-slate-100 dark:border-[#383c38]">
+            <Info className="w-3.5 h-3.5 text-slate-400 mt-0.5 flex-shrink-0" />
+            <span>
+              Học sinh mới đăng ký sẽ ở trạng thái chờ duyệt. Quản trị viên (<code>dot71714@gmail.com</code>) sẽ phê duyệt trên Cổng Quản Trị trước khi mở khóa nội dung.
             </span>
-            <div className="flex-grow border-t border-slate-200 dark:border-[#383c38]"></div>
-          </div>
-
-          {/* 1-Click Fast Accounts */}
-          <div className="space-y-2">
-            {/* Superadmin dot71714 */}
-            <button
-              type="button"
-              onClick={() => handleQuickPersona('admin', 'dot71714@gmail.com', 'Admin Tuấn Anh')}
-              disabled={isLoading}
-              className="w-full p-2.5 rounded-xl border border-red-200 dark:border-red-900/60 bg-red-50/50 dark:bg-red-950/20 hover:bg-red-100/60 dark:hover:bg-red-950/40 text-left flex items-center justify-between group transition-all"
-            >
-              <div className="flex items-center space-x-2.5">
-                <div className="w-8 h-8 rounded-lg bg-red-100 dark:bg-red-900/60 text-red-600 dark:text-red-300 flex items-center justify-center font-bold text-xs">
-                  <ShieldCheck className="w-4 h-4" />
-                </div>
-                <div>
-                  <div className="text-xs font-bold text-red-800 dark:text-red-300">dot71714@gmail.com</div>
-                  <div className="text-[10px] text-red-600 dark:text-red-400">Quản trị viên Superadmin (Toàn quyền)</div>
-                </div>
-              </div>
-              <span className="text-[10px] font-semibold bg-red-200 dark:bg-red-900/80 text-red-800 dark:text-red-200 px-2 py-0.5 rounded-full">
-                Admin
-              </span>
-            </button>
-
-            {/* Đỗ Tuấn (Học viên mẫu) */}
-            <button
-              type="button"
-              onClick={() => handleQuickPersona('approved')}
-              disabled={isLoading}
-              className="w-full p-2.5 rounded-xl border border-emerald-200 dark:border-emerald-900/60 bg-emerald-50/50 dark:bg-emerald-950/20 hover:bg-emerald-100/60 dark:hover:bg-emerald-950/40 text-left flex items-center justify-between group transition-all"
-            >
-              <div className="flex items-center space-x-2.5">
-                <div className="w-8 h-8 rounded-lg bg-emerald-100 dark:bg-emerald-900/60 text-emerald-600 dark:text-emerald-300 flex items-center justify-center font-bold text-xs">
-                  <UserCheck className="w-4 h-4" />
-                </div>
-                <div>
-                  <div className="text-xs font-bold text-emerald-800 dark:text-emerald-300">Đỗ Tuấn</div>
-                  <div className="text-[10px] text-emerald-600 dark:text-emerald-400">dotuan.student@ta12.edu.vn</div>
-                </div>
-              </div>
-              <span className="text-[10px] font-semibold bg-emerald-200 dark:bg-emerald-900/80 text-emerald-800 dark:text-emerald-200 px-2 py-0.5 rounded-full">
-                ✓ Đã duyệt
-              </span>
-            </button>
-
-            {/* Nguyễn Văn An (Chờ duyệt) */}
-            <button
-              type="button"
-              onClick={() => handleQuickPersona('pending')}
-              disabled={isLoading}
-              className="w-full p-2.5 rounded-xl border border-amber-200 dark:border-amber-900/60 bg-amber-50/50 dark:bg-amber-950/20 hover:bg-amber-100/60 dark:hover:bg-amber-950/40 text-left flex items-center justify-between group transition-all"
-            >
-              <div className="flex items-center space-x-2.5">
-                <div className="w-8 h-8 rounded-lg bg-amber-100 dark:bg-amber-900/60 text-amber-600 dark:text-amber-300 flex items-center justify-center font-bold text-xs">
-                  <UserX className="w-4 h-4" />
-                </div>
-                <div>
-                  <div className="text-xs font-bold text-amber-800 dark:text-amber-300">Nguyễn Văn An</div>
-                  <div className="text-[10px] text-amber-600 dark:text-amber-400">pending.student@ta12.edu.vn</div>
-                </div>
-              </div>
-              <span className="text-[10px] font-semibold bg-amber-200 dark:bg-amber-900/80 text-amber-800 dark:text-amber-200 px-2 py-0.5 rounded-full">
-                ⏳ Chờ duyệt
-              </span>
-            </button>
-
-            {/* VIP Pre-whitelisted */}
-            <button
-              type="button"
-              onClick={() => handleQuickPersona('whitelisted')}
-              disabled={isLoading}
-              className="w-full p-2.5 rounded-xl border border-purple-200 dark:border-purple-900/60 bg-purple-50/50 dark:bg-purple-950/20 hover:bg-purple-100/60 dark:hover:bg-purple-950/40 text-left flex items-center justify-between group transition-all"
-            >
-              <div className="flex items-center space-x-2.5">
-                <div className="w-8 h-8 rounded-lg bg-purple-100 dark:bg-purple-900/60 text-purple-600 dark:text-purple-300 flex items-center justify-center font-bold text-xs">
-                  <Star className="w-4 h-4" />
-                </div>
-                <div>
-                  <div className="text-xs font-bold text-purple-800 dark:text-purple-300">Học sinh VIP</div>
-                  <div className="text-[10px] text-purple-600 dark:text-purple-400">vip.student@ta12.edu.vn (Pre-whitelisted)</div>
-                </div>
-              </div>
-              <span className="text-[10px] font-semibold bg-purple-200 dark:bg-purple-900/80 text-purple-800 dark:text-purple-200 px-2 py-0.5 rounded-full">
-                Tự động duyệt
-              </span>
-            </button>
           </div>
         </div>
       </div>

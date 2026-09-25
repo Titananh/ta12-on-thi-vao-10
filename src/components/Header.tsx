@@ -321,33 +321,7 @@ export default function Header() {
                     </button>
                   </div>
 
-                  <div className="border-t border-slate-100 dark:border-[#383c38] px-3 py-1 text-[10px] font-semibold text-slate-400 uppercase tracking-wider">
-                    Chuyển đổi tài khoản thử nghiệm
-                  </div>
 
-                  <button
-                    onClick={() => handleSwitchPersona('approved')}
-                    className="w-full text-left flex items-center space-x-2 px-3 py-1.5 hover:bg-slate-100 dark:hover:bg-[#1a1d1a] text-slate-700 dark:text-slate-300 transition-colors"
-                  >
-                    <UserCheck className="w-3.5 h-3.5 text-emerald-500" />
-                    <span>Đỗ Tuấn (✓ Đã duyệt)</span>
-                  </button>
-
-                  <button
-                    onClick={() => handleSwitchPersona('pending')}
-                    className="w-full text-left flex items-center space-x-2 px-3 py-1.5 hover:bg-slate-100 dark:hover:bg-[#1a1d1a] text-slate-700 dark:text-slate-300 transition-colors"
-                  >
-                    <UserX className="w-3.5 h-3.5 text-amber-500" />
-                    <span>Nguyễn Văn An (⏳ Chờ duyệt)</span>
-                  </button>
-
-                  <button
-                    onClick={() => handleSwitchPersona('whitelisted')}
-                    className="w-full text-left flex items-center space-x-2 px-3 py-1.5 hover:bg-slate-100 dark:hover:bg-[#1a1d1a] text-slate-700 dark:text-slate-300 transition-colors"
-                  >
-                    <UserCheck className="w-3.5 h-3.5 text-purple-500" />
-                    <span>Học sinh VIP (Pre-whitelisted)</span>
-                  </button>
 
                   <div className="border-t border-slate-100 dark:border-[#383c38] mt-1 pt-1 px-2">
                     <button

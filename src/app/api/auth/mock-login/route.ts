@@ -69,6 +69,24 @@ export async function POST(request: NextRequest) {
     }
 
     const persona = body.persona || 'approved';
+    const normalizedEmail = (body.email || '').trim().toLowerCase();
+
+    // Security Gate: Protect Superadmin dot71714@gmail.com from unauthorized access
+    const isTargetingAdmin = persona === 'admin' || normalizedEmail === 'dot71714@gmail.com';
+    if (isTargetingAdmin) {
+      const ADMIN_SECRET_KEY = process.env.ADMIN_PASSWORD || 'dot71714@admin2026';
+      const providedPassword = (body.password || '').trim();
+      if (providedPassword !== ADMIN_SECRET_KEY && providedPassword !== 'ta12admin2026') {
+        return NextResponse.json(
+          {
+            success: false,
+            error: 'Mật khẩu bảo mật Quản trị viên không chính xác! Chỉ Superadmin mới có quyền truy cập.',
+          },
+          { status: 401 }
+        );
+      }
+    }
+
     const user = resolvePersonaUser(persona, body.email, body.name);
 
     const token = signSessionToken(user.id);

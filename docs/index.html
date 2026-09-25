@@ -116,20 +116,6 @@
                 <span class="text-[10px] text-emerald-400 font-medium">✓ Đã duyệt toàn bộ khoá học</span>
               </div>
             </div>
-            <div class="px-2 py-1.5">
-              <button onclick="switchUserPersona('admin')" class="w-full text-left flex items-center space-x-2 px-2.5 py-1.5 rounded-lg hover:bg-[#1a1d1a] text-red-300 transition-colors">
-                <i data-lucide="shield-check" class="w-3.5 h-3.5 text-red-400"></i>
-                <span>dot71714@gmail.com (Superadmin)</span>
-              </button>
-              <button onclick="switchUserPersona('approved')" class="w-full text-left flex items-center space-x-2 px-2.5 py-1.5 rounded-lg hover:bg-[#1a1d1a] text-emerald-300 transition-colors">
-                <i data-lucide="user-check" class="w-3.5 h-3.5 text-emerald-400"></i>
-                <span>Đỗ Tuấn (Học viên - Đã duyệt)</span>
-              </button>
-              <button onclick="switchUserPersona('pending')" class="w-full text-left flex items-center space-x-2 px-2.5 py-1.5 rounded-lg hover:bg-[#1a1d1a] text-amber-300 transition-colors">
-                <i data-lucide="user-x" class="w-3.5 h-3.5 text-amber-400"></i>
-                <span>Nguyễn Văn An (Chờ duyệt)</span>
-              </button>
-            </div>
             <div class="border-t border-[#383c38] pt-1 px-2">
               <button onclick="logoutDemo()" class="w-full text-left flex items-center space-x-2 px-2.5 py-1.5 rounded-lg hover:bg-red-950/40 text-red-400 transition-colors">
                 <i data-lucide="log-out" class="w-3.5 h-3.5"></i>
@@ -474,41 +460,7 @@
       dd.classList.toggle('hidden');
     }
 
-    function switchUserPersona(type) {
-      const name = document.getElementById('userNameText');
-      const email = document.getElementById('userEmailText');
-      const badge = document.getElementById('userBadge');
-      const avatar = document.getElementById('userAvatarText');
-      const ddName = document.getElementById('ddName');
-      const ddEmail = document.getElementById('ddEmail');
 
-      if (type === 'admin') {
-        name.innerText = 'Admin Tuấn Anh';
-        email.innerText = 'dot71714@gmail.com';
-        badge.innerText = 'Superadmin';
-        badge.className = 'text-[9px] font-bold text-red-400 bg-red-950/70 border border-red-400 px-1 py-0.2 rounded-full';
-        avatar.innerText = 'TA';
-        ddName.innerText = 'Admin Tuấn Anh';
-        ddEmail.innerText = 'dot71714@gmail.com';
-      } else if (type === 'pending') {
-        name.innerText = 'Nguyễn Văn An';
-        email.innerText = 'pending.student@ta12.edu.vn';
-        badge.innerText = '⏳ Chờ duyệt';
-        badge.className = 'text-[9px] font-bold text-amber-400 bg-amber-950/70 border border-amber-400 px-1 py-0.2 rounded-full animate-pulse';
-        avatar.innerText = 'VA';
-        ddName.innerText = 'Nguyễn Văn An';
-        ddEmail.innerText = 'pending.student@ta12.edu.vn';
-      } else {
-        name.innerText = 'Đỗ Tuấn';
-        email.innerText = 'dotuan.student@ta12.edu.vn';
-        badge.innerText = '✓ Đã duyệt';
-        badge.className = 'text-[9px] font-bold text-emerald-400 bg-emerald-950/70 border border-emerald-400 px-1 py-0.2 rounded-full';
-        avatar.innerText = 'ĐT';
-        ddName.innerText = 'Đỗ Tuấn';
-        ddEmail.innerText = 'dotuan.student@ta12.edu.vn';
-      }
-      toggleUserDropdown();
-    }
 
     function logoutDemo() {
       const name = document.getElementById('userNameText');
