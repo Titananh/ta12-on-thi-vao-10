@@ -63,7 +63,7 @@
 | M_GIT | Git & GitHub Private Repository (R1) | Configure `.gitignore`, initialize git, commit all project files, 552 JSONs, assets, create private repo `ta12-on-thi-vao-10` on `Titananh` via `gh`, push `main` | none | DONE |
 | M_AUTH_DB | Google OAuth & SQLite Progress Sync (R2) | Install `better-sqlite3`, initialize `data/ta12_users.sqlite`, OAuth handlers, Access Guard, Header profile integration, and progress sync | M_GIT | DONE |
 | M_ADMIN | Dedicated Admin Web Portal (R3) | Standalone Next.js 14 app in `admin/` on port 3001, shared SQLite, Dashboard stats, 1-click Approve/Revoke, Pre-whitelist | M_AUTH_DB | DONE |
-| M_VERIF | Dual-App Build & Full E2E Verification | Ensure `npm run build:all` passes 100%, run full master test suite + admin tests, challenger tests, forensic audit | M_ADMIN | PLANNED |
+| M_VERIF | Dual-App Build & Full E2E Verification | Ensure `npm run build:all` passes 100%, run full master test suite + admin tests, challenger tests, forensic audit | M_ADMIN | DONE |
 
 ## Interface Contracts
 ### Exam Room API (`/api/exams`)
