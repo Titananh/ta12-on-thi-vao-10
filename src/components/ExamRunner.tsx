@@ -66,6 +66,137 @@ function normalizeBlankValue(str: string): string {
     .replace(/\s+/g, ' ');
 }
 
+function normalizeSentence(str: string): string {
+  if (!str) return '';
+  return str
+    .trim()
+    .toLowerCase()
+    .replace(/[\u2018\u2019]/g, "'")
+    .replace(/[\u201C\u201D]/g, '"')
+    .replace(/[\s.?!]+$/, '')
+    .replace(/\s*([,.:;?!])\s*/g, '$1 ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .replace(/[\s.?!]+$/, '');
+}
+
+function expandContractions(str: string): string {
+  return str
+    .replace(/\bhaven't\b/g, 'have not')
+    .replace(/\bhasn't\b/g, 'has not')
+    .replace(/\bdidn't\b/g, 'did not')
+    .replace(/\bwon't\b/g, 'will not')
+    .replace(/\bcan't\b/g, 'cannot')
+    .replace(/\bisn't\b/g, 'is not')
+    .replace(/\baren't\b/g, 'are not')
+    .replace(/\bwasn't\b/g, 'was not')
+    .replace(/\bweren't\b/g, 'were not')
+    .replace(/\bwouldn't\b/g, 'would not')
+    .replace(/\bcouldn't\b/g, 'could not')
+    .replace(/\bshouldn't\b/g, 'should not');
+}
+
+function matchesSentence(user: string, target: string): boolean {
+  const normalizedUser = normalizeSentence(user);
+  const normalizedTarget = normalizeSentence(target);
+  if (normalizedUser === normalizedTarget) return true;
+  return expandContractions(normalizedUser) === expandContractions(normalizedTarget);
+}
+
+function isFillBlankQuestion(q: ExamQuestion): boolean {
+  return Boolean(
+    (q.questionType === 'FillBlank' && q.fillblankAnswers?.length) ||
+    q.fillblankAnswers?.length ||
+    (q.questionType === 'FillBlank' && q.questionText && (q.questionText.includes('fillblank-option') || q.questionText.includes('<select')))
+  );
+}
+
+function isShortAnswerQuestion(q: ExamQuestion): boolean {
+  return Boolean(q.questionType === 'ShortAnswer' || q.shortAnswers?.length);
+}
+
+function isWordOrderQuestion(q: ExamQuestion): boolean {
+  return q.questionType === 'WordOrder';
+}
+
+function getQuestionUnitCount(q: ExamQuestion): number {
+  if (isFillBlankQuestion(q) && q.fillblankAnswers?.length) {
+    return q.fillblankAnswers.length;
+  }
+  return 1;
+}
+
+interface QuestionResult {
+  totalUnits: number;
+  answeredUnits: number;
+  correctUnits: number;
+  isFullyAnswered: boolean;
+  isFullyCorrect: boolean;
+}
+
+function getQuestionResult(q: ExamQuestion, answer: any): QuestionResult {
+  if (isFillBlankQuestion(q) && q.fillblankAnswers?.length) {
+    let answeredUnits = 0;
+    let correctUnits = 0;
+    const answerMap = typeof answer === 'object' && answer !== null && !Array.isArray(answer) ? answer : {};
+
+    q.fillblankAnswers.forEach((blank) => {
+      const userValue = normalizeBlankValue(answerMap[String(blank.index)] ?? answerMap[blank.index] ?? '');
+      if (userValue) answeredUnits++;
+      if ((blank.correctAnswers || []).some((candidate) => normalizeBlankValue(candidate) === userValue)) {
+        correctUnits++;
+      }
+    });
+
+    const totalUnits = q.fillblankAnswers.length;
+    return {
+      totalUnits,
+      answeredUnits,
+      correctUnits,
+      isFullyAnswered: answeredUnits === totalUnits,
+      isFullyCorrect: correctUnits === totalUnits,
+    };
+  }
+
+  if (isWordOrderQuestion(q)) {
+    const selectedWords = Array.isArray(answer) ? answer : [];
+    const isFullyAnswered = q.choices.length > 0 && selectedWords.length === q.choices.length;
+    const sentence = selectedWords.join(' ');
+    const isFullyCorrect = isFullyAnswered && Boolean(q.shortAnswers?.some((candidate) => matchesSentence(sentence, candidate)));
+    return {
+      totalUnits: 1,
+      answeredUnits: isFullyAnswered ? 1 : 0,
+      correctUnits: isFullyCorrect ? 1 : 0,
+      isFullyAnswered,
+      isFullyCorrect,
+    };
+  }
+
+  if (isShortAnswerQuestion(q)) {
+    const userValue = typeof answer === 'string' ? answer.trim() : '';
+    const isFullyAnswered = userValue.length > 0;
+    const isFullyCorrect = isFullyAnswered && Boolean(q.shortAnswers?.some((candidate) => matchesSentence(userValue, candidate)));
+    return {
+      totalUnits: 1,
+      answeredUnits: isFullyAnswered ? 1 : 0,
+      correctUnits: isFullyCorrect ? 1 : 0,
+      isFullyAnswered,
+      isFullyCorrect,
+    };
+  }
+
+  const correctChoice = q.choices.find((choice) => choice.isCorrect || String(choice.id) === String(q.correctChoiceId));
+  const isFullyAnswered = answer !== undefined && answer !== null && String(answer).length > 0;
+  const isFullyCorrect = Boolean(isFullyAnswered && correctChoice && String(answer) === String(correctChoice.id));
+  return {
+    totalUnits: 1,
+    answeredUnits: isFullyAnswered ? 1 : 0,
+    correctUnits: isFullyCorrect ? 1 : 0,
+    isFullyAnswered,
+    isFullyCorrect,
+  };
+}
+
 export interface ExamBundle {
   id: string | number;
   title: string;
@@ -234,33 +365,36 @@ function extractVocabFromQuestion(q: ExamQuestion, correctWordHint?: string): Vo
 export default function ExamRunner({ exam }: ExamRunnerProps) {
   const router = useRouter();
 
-  // Filter testable questions (exclude 'Description' passage holders without choices)
+  // Keep every answerable group. Description rows are passage-only containers.
   const testableQuestions = useMemo(() => {
     return exam.questions.filter((q) => {
-      // Preserve exact legacy filter tokens for test suite compatibility
-      if (q.questionType === 'Description' || !(q.questionType !== 'Description')) return false;
-      if (q.questionType === 'WordOrder' || !(q.questionType !== 'WordOrder')) return false;
-
-      // FillBlank questions (with fillblankAnswers or HTML select/input in questionText)
-      const isFillBlank =
-        (q.questionType === 'FillBlank' && Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0)) ||
-        Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0) ||
-        (q.questionType === 'FillBlank' && Boolean(q.questionText && (q.questionText.includes('fillblank-option') || q.questionText.includes('<select'))));
-
-      if (isFillBlank) {
-        return true;
-      }
-
-      // Standard MultipleChoice
-      return Boolean(
-        q.choices &&
-        q.choices.length > 0 &&
-        (q.choices.some((c) => c.isCorrect) || q.correctChoiceId != null)
-      );
+      if (q.questionType === 'Description') return false;
+      if (isFillBlankQuestion(q)) return true;
+      if (isWordOrderQuestion(q)) return Boolean(q.choices?.length && q.shortAnswers?.length);
+      if (isShortAnswerQuestion(q)) return Boolean(q.shortAnswers?.length);
+      return Boolean(q.choices?.length && (q.choices.some((choice) => choice.isCorrect) || q.correctChoiceId != null));
     });
   }, [exam.questions]);
 
-  const totalQuestions = testableQuestions.length;
+  const totalQuestionGroups = testableQuestions.length;
+  const totalQuestions = useMemo(
+    () => testableQuestions.reduce((sum, question) => sum + getQuestionUnitCount(question), 0),
+    [testableQuestions]
+  );
+  const questionSpans = useMemo(() => {
+    let cursor = 1;
+    return testableQuestions.map((question) => {
+      const start = cursor;
+      const end = start + getQuestionUnitCount(question) - 1;
+      cursor = end + 1;
+      return { start, end };
+    });
+  }, [testableQuestions]);
+  const getQuestionLabel = (index: number) => {
+    const span = questionSpans[index];
+    if (!span) return String(index + 1);
+    return span.start === span.end ? String(span.start) : `${span.start}–${span.end}`;
+  };
   const durationMinutes = exam.timeLimit && exam.timeLimit > 0 ? exam.timeLimit : 60;
 
   // Exam taking state
@@ -283,40 +417,25 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
   // Current Question
   const currentQ = testableQuestions[currentIndex] || testableQuestions[0];
   const isCurrentBookmarked = currentQ ? bookmarks.has(currentQ.id) : false;
+  const currentIsFillBlank = currentQ ? isFillBlankQuestion(currentQ) : false;
+  const currentIsShortAnswer = currentQ ? isShortAnswerQuestion(currentQ) && !currentIsFillBlank && !isWordOrderQuestion(currentQ) : false;
+  const currentIsWordOrder = currentQ ? isWordOrderQuestion(currentQ) : false;
+  const currentWordOrder = currentQ && Array.isArray(answers[String(currentQ.id)])
+    ? (answers[String(currentQ.id)] as string[])
+    : [];
+
+  const setCurrentWordOrder = (next: string[]) => {
+    if (!currentQ || isSubmitted) return;
+    setAnswers((prev) => ({ ...prev, [String(currentQ.id)]: next }));
+  };
 
   // Question Review Filter
   const filteredReviewQuestions = useMemo(() => {
     if (!isSubmitted) return [];
     return testableQuestions.filter((q) => {
-      const isFB =
-        (q.questionType === 'FillBlank' && Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0)) ||
-        Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0) ||
-        (q.questionType === 'FillBlank' && Boolean(q.questionText && (q.questionText.includes('fillblank-option') || q.questionText.includes('<select'))));
-
-      let isCorrect = false;
-      let isAnswered = false;
-
-      if (isFB && q.fillblankAnswers && q.fillblankAnswers.length > 0) {
-        const userChoice = answers[String(q.id)];
-        if (typeof userChoice === 'object' && userChoice !== null) {
-          let filled = 0;
-          let matched = 0;
-          q.fillblankAnswers.forEach((fb) => {
-            const userVal = normalizeBlankValue(userChoice[String(fb.index)] ?? userChoice[fb.index] ?? '');
-            if (userVal.length > 0) filled++;
-            if ((fb.correctAnswers || []).some((ans) => normalizeBlankValue(ans) === userVal)) {
-              matched++;
-            }
-          });
-          isAnswered = filled >= q.fillblankAnswers.length;
-          isCorrect = matched === q.fillblankAnswers.length;
-        }
-      } else {
-        const userChoice = answers[String(q.id)];
-        const correctChoice = q.choices.find((c) => c.isCorrect || String(c.id) === String(q.correctChoiceId));
-        isCorrect = Boolean(userChoice && correctChoice && String(userChoice) === String(correctChoice.id));
-        isAnswered = Boolean(userChoice);
-      }
+      const result = getQuestionResult(q, answers[String(q.id)]);
+      const isCorrect = result.isFullyCorrect;
+      const isAnswered = result.isFullyAnswered;
 
       const isBookmarked = bookmarks.has(q.id);
 
@@ -392,26 +511,7 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
 
   // Helper to determine if a question is answered
   const isQuestionAnswered = (q: ExamQuestion): boolean => {
-    const ans = answers[String(q.id)];
-    if (!ans) return false;
-    const isFB =
-      (q.questionType === 'FillBlank' && Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0)) ||
-      Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0) ||
-      (q.questionType === 'FillBlank' && Boolean(q.questionText && (q.questionText.includes('fillblank-option') || q.questionText.includes('<select'))));
-
-    if (isFB) {
-      if (typeof ans !== 'object' || ans === null) return false;
-      if (q.fillblankAnswers && q.fillblankAnswers.length > 0) {
-        return q.fillblankAnswers.every((fb) => {
-          const val = ans[String(fb.index)] ?? ans[fb.index];
-          return typeof val === 'string' && val.trim().length > 0;
-        });
-      }
-      const blanksCount = (q.questionText.match(/class=['"][^'"]*fillblank-option/g) || []).length || 1;
-      const filledCount = Object.keys(ans).filter((k) => typeof ans[k] === 'string' && ans[k].trim().length > 0).length;
-      return filledCount >= blanksCount && filledCount > 0;
-    }
-    return Boolean(ans);
+    return getQuestionResult(q, answers[String(q.id)]).isFullyAnswered;
   };
 
   // Event delegation to capture user selection/inputs in FillBlank questions
@@ -560,33 +660,10 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
     setElapsedSeconds(timeSpentSeconds);
 
     // Calculate score
-    let correct = 0;
-    testableQuestions.forEach((q) => {
-      const isFB =
-        (q.questionType === 'FillBlank' && Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0)) ||
-        Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0) ||
-        (q.questionType === 'FillBlank' && Boolean(q.questionText && (q.questionText.includes('fillblank-option') || q.questionText.includes('<select'))));
-
-      if (isFB && q.fillblankAnswers && q.fillblankAnswers.length > 0) {
-        const userAns = answers[String(q.id)];
-        if (typeof userAns === 'object' && userAns !== null) {
-          let matched = 0;
-          q.fillblankAnswers.forEach((fb) => {
-            const userVal = normalizeBlankValue(userAns[String(fb.index)] ?? userAns[fb.index] ?? '');
-            if ((fb.correctAnswers || []).some((ans) => normalizeBlankValue(ans) === userVal)) {
-              matched++;
-            }
-          });
-          correct += matched / q.fillblankAnswers.length;
-        }
-      } else {
-        const userChoice = answers[String(q.id)];
-        const correctChoice = q.choices.find((c) => c.isCorrect || String(c.id) === String(q.correctChoiceId));
-        if (userChoice && correctChoice && String(userChoice) === String(correctChoice.id)) {
-          correct++;
-        }
-      }
-    });
+    const correct = testableQuestions.reduce(
+      (sum, question) => sum + getQuestionResult(question, answers[String(question.id)]).correctUnits,
+      0
+    );
 
     const scoreOut10 = totalQuestions > 0 ? (correct / totalQuestions) * 10 : 0;
     const roundedScore = Math.round(scoreOut10 * 100) / 100;
@@ -649,44 +726,20 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
   };
 
   // Metrics for submit modal & review
-  const answeredCount = testableQuestions.filter((q) => isQuestionAnswered(q)).length;
+  const answeredCount = testableQuestions.reduce(
+    (sum, question) => sum + getQuestionResult(question, answers[String(question.id)]).answeredUnits,
+    0
+  );
   // Keep Object.keys(answers).length for legacy test suite assertion compatibility
   const _legacyAnsweredCount = Object.keys(answers).length;
   const unansweredCount = totalQuestions - answeredCount;
   const bookmarkedCount = bookmarks.size;
 
-  let correct = 0;
-  let correctCount = 0;
-  testableQuestions.forEach((q) => {
-    const isFB =
-      (q.questionType === 'FillBlank' && Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0)) ||
-      Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0) ||
-      (q.questionType === 'FillBlank' && Boolean(q.questionText && (q.questionText.includes('fillblank-option') || q.questionText.includes('<select'))));
-
-    if (isFB && q.fillblankAnswers && q.fillblankAnswers.length > 0) {
-      const userAns = answers[String(q.id)];
-      if (typeof userAns === 'object' && userAns !== null) {
-        let matched = 0;
-        q.fillblankAnswers.forEach((fb) => {
-          const userVal = normalizeBlankValue(userAns[String(fb.index)] ?? userAns[fb.index] ?? '');
-          if ((fb.correctAnswers || []).some((ans) => normalizeBlankValue(ans) === userVal)) {
-            matched++;
-          }
-        });
-        correct += matched / q.fillblankAnswers.length;
-        if (matched === q.fillblankAnswers.length) {
-          correctCount++;
-        }
-      }
-    } else {
-      const userChoice = answers[String(q.id)];
-      const correctChoice = q.choices.find((c) => c.isCorrect || String(c.id) === String(q.correctChoiceId));
-      if (userChoice && correctChoice && String(userChoice) === String(correctChoice.id)) {
-        correct++;
-        correctCount++;
-      }
-    }
-  });
+  const correct = testableQuestions.reduce(
+    (sum, question) => sum + getQuestionResult(question, answers[String(question.id)]).correctUnits,
+    0
+  );
+  const correctCount = correct;
 
   const finalScore = totalQuestions > 0 ? (correct / totalQuestions) * 10 : 0;
   const accuracyPercent = totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0;
@@ -811,7 +864,7 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                   {/* Question Header & Bookmark Toggle */}
                   <div className="flex items-center justify-between border-b border-slate-100 dark:border-[#383c38] pb-4">
                     <span className="text-sm font-bold text-[#1c581f] dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-950/60 px-3 py-1 rounded-lg border border-emerald-100 dark:border-emerald-800/60">
-                      Câu {currentIndex + 1} / {totalQuestions}
+                      Câu {getQuestionLabel(currentIndex)} / {totalQuestions}
                     </span>
                     <div className="flex items-center gap-2">
                       <button
@@ -893,8 +946,79 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                     dangerouslySetInnerHTML={{ __html: currentQ.questionText }}
                   />
 
+                  {/* Open-response question */}
+                  {currentIsShortAnswer && !currentQ.questionText.includes('<input') && (
+                    <div className="p-4 rounded-xl bg-slate-50 dark:bg-[#1e221e] border border-slate-200 dark:border-[#383c38] space-y-2.5">
+                      <label htmlFor={`short-answer-${currentQ.id}`} className="text-xs font-bold text-emerald-700 dark:text-emerald-400 uppercase tracking-wider">
+                        ✍️ Nhập câu trả lời của bạn
+                      </label>
+                      <textarea
+                        id={`short-answer-${currentQ.id}`}
+                        value={typeof answers[String(currentQ.id)] === 'string' ? answers[String(currentQ.id)] : ''}
+                        onChange={(event) => setAnswers((prev) => ({ ...prev, [String(currentQ.id)]: event.target.value }))}
+                        placeholder="Nhập câu trả lời hoàn chỉnh tại đây..."
+                        rows={3}
+                        className="w-full resize-y bg-white dark:bg-[#181a18] border border-slate-300 dark:border-[#383c38] focus:border-[#5fbd18] focus:ring-1 focus:ring-[#5fbd18] rounded-lg px-4 py-3 text-slate-900 dark:text-white text-sm outline-none transition-all font-medium"
+                      />
+                    </div>
+                  )}
+
+                  {/* Word-order question */}
+                  {currentIsWordOrder && (
+                    <div className="space-y-4">
+                      <div className="p-4 rounded-xl bg-slate-50 dark:bg-[#1e221e] border border-slate-200 dark:border-[#383c38] space-y-2.5">
+                        <div className="text-xs font-bold text-emerald-700 dark:text-emerald-400 uppercase tracking-wider flex items-center justify-between">
+                          <span>🧩 Câu đã sắp xếp</span>
+                          {currentWordOrder.length > 0 && (
+                            <button type="button" onClick={() => setCurrentWordOrder([])} className="normal-case text-xs text-slate-500 dark:text-slate-400 hover:text-red-600 underline cursor-pointer">
+                              Xóa làm lại
+                            </button>
+                          )}
+                        </div>
+                        <div className="min-h-[56px] p-3 rounded-lg bg-white dark:bg-[#181a18] border border-dashed border-slate-300 dark:border-[#383c38] flex flex-wrap gap-2 items-center">
+                          {currentWordOrder.length === 0 ? (
+                            <span className="text-xs text-slate-500 italic">Nhấp vào các từ/cụm từ bên dưới để ghép câu...</span>
+                          ) : currentWordOrder.map((word, wordIndex) => (
+                            <button
+                              key={`${word}-${wordIndex}`}
+                              type="button"
+                              onClick={() => setCurrentWordOrder(currentWordOrder.filter((_, index) => index !== wordIndex))}
+                              className="px-3 py-1.5 rounded-lg bg-emerald-50 dark:bg-[#2a382a] border border-emerald-500 text-emerald-950 dark:text-white text-sm font-semibold hover:border-red-500 transition-colors flex items-center gap-1.5 cursor-pointer"
+                            >
+                              <span>{word}</span><span className="text-xs text-slate-400">×</span>
+                            </button>
+                          ))}
+                        </div>
+                      </div>
+                      <div className="p-4 rounded-xl bg-slate-50 dark:bg-[#1e221e] border border-slate-200 dark:border-[#383c38] space-y-2.5">
+                        <div className="text-xs font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider">📌 Các từ / cụm từ cần sắp xếp</div>
+                        <div className="flex flex-wrap gap-2">
+                          {currentQ.choices.map((choice, choiceIndex) => {
+                            const countInPool = currentQ.choices.filter((item) => item.text === choice.text).length;
+                            const countSelected = currentWordOrder.filter((word) => word === choice.text).length;
+                            const isUsed = countSelected >= countInPool;
+                            return (
+                              <button
+                                key={`${choice.id}-${choiceIndex}`}
+                                type="button"
+                                disabled={isUsed}
+                                onClick={() => !isUsed && setCurrentWordOrder([...currentWordOrder, choice.text])}
+                                className={`px-3.5 py-2 rounded-lg text-sm font-semibold transition-all ${isUsed
+                                  ? 'bg-slate-100 dark:bg-[#181a18] border border-slate-200 dark:border-[#2a2d2a] text-slate-400 dark:text-slate-600 cursor-not-allowed opacity-50'
+                                  : 'bg-white dark:bg-[#252825] border border-slate-300 dark:border-slate-600 text-slate-800 dark:text-slate-200 hover:border-[#5fbd18] hover:bg-emerald-50 dark:hover:bg-[#2a382a] cursor-pointer active:scale-95'
+                                }`}
+                              >
+                                {choice.text}
+                              </button>
+                            );
+                          })}
+                        </div>
+                      </div>
+                    </div>
+                  )}
+
                   {/* Multiple Choice Options (A, B, C, D) */}
-                  {currentQ.choices && currentQ.choices.length > 0 && (
+                  {!currentIsWordOrder && currentQ.choices && currentQ.choices.length > 0 && (
                     <div className="space-y-3 pt-2">
                       {currentQ.choices.map((choice, cIdx) => {
                         const choiceLetter = choice.label || String.fromCharCode(65 + cIdx);
@@ -949,9 +1073,9 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                       <span>{isCurrentBookmarked ? 'Bỏ đánh dấu' : 'Đánh dấu chưa chắc chắn'}</span>
                     </button>
 
-                    {currentIndex < totalQuestions - 1 ? (
+                    {currentIndex < totalQuestionGroups - 1 ? (
                       <button
-                        onClick={() => setCurrentIndex((prev) => Math.min(totalQuestions - 1, prev + 1))}
+                        onClick={() => setCurrentIndex((prev) => Math.min(totalQuestionGroups - 1, prev + 1))}
                         className="flex items-center gap-1.5 px-5 py-2 bg-[#1c581f] hover:bg-[#164718] text-white text-xs sm:text-sm font-bold rounded-xl shadow-xs transition-colors cursor-pointer"
                       >
                         <span>Câu tiếp theo</span>
@@ -1031,9 +1155,9 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                         key={q.id}
                         onClick={() => setCurrentIndex(idx)}
                         className={pillClass}
-                        title={`Câu ${idx + 1}`}
+                        title={`Câu ${getQuestionLabel(idx)}`}
                       >
-                        <span>{idx + 1}</span>
+                        <span>{getQuestionLabel(idx)}</span>
                         {isBookmarked && (
                           <span className="absolute -top-1 -right-1 text-[10px] leading-none">🚩</span>
                         )}
@@ -1153,45 +1277,18 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
               {/* Question Review Cards (Col 1-8) */}
               <div className="lg:col-span-8 space-y-6">
                 {filteredReviewQuestions.map((q, idx) => {
-                  const isFB =
-                    (q.questionType === 'FillBlank' && Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0)) ||
-                    Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0) ||
-                    (q.questionType === 'FillBlank' && Boolean(q.questionText && (q.questionText.includes('fillblank-option') || q.questionText.includes('<select'))));
-
+                  const isFB = isFillBlankQuestion(q);
+                  const isWordOrder = isWordOrderQuestion(q);
+                  const isShortAnswer = isShortAnswerQuestion(q) && !isFB && !isWordOrder;
                   const userChoice = answers[String(q.id)];
                   const correctChoice = q.choices.find(
                     (c) => c.isCorrect || String(c.id) === String(q.correctChoiceId)
                   );
-
-                  let isUserCorrect = false;
-                  let isUnanswered = false;
-                  let fbMatched = 0;
-                  let fbTotal = 0;
-
-                  if (isFB && q.fillblankAnswers && q.fillblankAnswers.length > 0) {
-                    fbTotal = q.fillblankAnswers.length;
-                    if (typeof userChoice === 'object' && userChoice !== null) {
-                      let filled = 0;
-                      let matched = 0;
-                      q.fillblankAnswers.forEach((fb) => {
-                        const userVal = normalizeBlankValue(userChoice[String(fb.index)] ?? userChoice[fb.index] ?? '');
-                        if (userVal.length > 0) filled++;
-                        if ((fb.correctAnswers || []).some((ans) => normalizeBlankValue(ans) === userVal)) {
-                          matched++;
-                        }
-                      });
-                      fbMatched = matched;
-                      isUnanswered = filled === 0;
-                      isUserCorrect = matched === q.fillblankAnswers.length;
-                    } else {
-                      isUnanswered = true;
-                    }
-                  } else {
-                    isUserCorrect = Boolean(
-                      userChoice && correctChoice && String(userChoice) === String(correctChoice.id)
-                    );
-                    isUnanswered = !userChoice;
-                  }
+                  const questionResult = getQuestionResult(q, userChoice);
+                  const isUserCorrect = questionResult.isFullyCorrect;
+                  const isUnanswered = questionResult.answeredUnits === 0;
+                  const fbMatched = questionResult.correctUnits;
+                  const fbTotal = questionResult.totalUnits;
 
                   const vocabItems = extractVocabFromQuestion(q, correctChoice?.text);
 
@@ -1216,12 +1313,12 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                       <div className="flex items-center justify-between border-b border-slate-100 dark:border-[#383c38] pb-3">
                         <div className="flex items-center gap-2">
                           <span className="text-sm font-bold text-[#1c581f] dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-950/60 px-3 py-1 rounded-lg border border-emerald-100 dark:border-emerald-800/60">
-                            Câu {testableQuestions.findIndex((item) => item.id === q.id) + 1}
+                            Câu {getQuestionLabel(testableQuestions.findIndex((item) => item.id === q.id))}
                           </span>
                           {isUserCorrect ? (
                             <span className="flex items-center gap-1 text-xs font-bold text-emerald-800 dark:text-emerald-300 bg-emerald-100 dark:bg-emerald-950/60 px-2.5 py-1 rounded-full">
                               <Check className="w-3.5 h-3.5" />
-                              <span>Đúng (+{(10 / totalQuestions).toFixed(2)}đ)</span>
+                              <span>Đúng (+{((10 / totalQuestions) * questionResult.totalUnits).toFixed(2)}đ)</span>
                             </span>
                           ) : isUnanswered ? (
                             <span className="text-xs font-bold text-slate-500 dark:text-slate-400 bg-slate-100 dark:bg-[#1c201c] px-2.5 py-1 rounded-full">
@@ -1229,7 +1326,7 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                             </span>
                           ) : isFB && fbMatched > 0 && fbTotal > 0 ? (
                             <span className="flex items-center gap-1 text-xs font-bold text-amber-800 dark:text-amber-300 bg-amber-100 dark:bg-amber-950/60 px-2.5 py-1 rounded-full">
-                              <span>Đúng {fbMatched}/{fbTotal} ô (+{((10 / totalQuestions) * (fbMatched / fbTotal)).toFixed(2)}đ)</span>
+                              <span>Đúng {fbMatched}/{fbTotal} ô (+{((10 / totalQuestions) * fbMatched).toFixed(2)}đ)</span>
                             </span>
                           ) : (
                             <span className="flex items-center gap-1 text-xs font-bold text-red-800 dark:text-red-300 bg-red-100 dark:bg-red-950/60 px-2.5 py-1 rounded-full">
@@ -1284,8 +1381,32 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                         dangerouslySetInnerHTML={{ __html: q.questionText }}
                       />
 
+                      {(isShortAnswer || isWordOrder) && (
+                        <div className="grid grid-cols-1 gap-2.5 rounded-xl bg-slate-50 dark:bg-[#1c201c] border border-slate-200 dark:border-[#383c38] p-4 text-sm">
+                          <div>
+                            <span className="block text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-1">Câu trả lời của bạn</span>
+                            <div className={`rounded-lg border p-3 font-medium ${isUserCorrect
+                              ? 'border-emerald-500 bg-emerald-50 dark:bg-emerald-950/40 text-emerald-900 dark:text-emerald-200'
+                              : 'border-red-400 bg-red-50 dark:bg-red-950/40 text-red-900 dark:text-red-200'
+                            }`}>
+                              {isWordOrder
+                                ? (Array.isArray(userChoice) && userChoice.length > 0 ? userChoice.join(' ') : '(Chưa làm)')
+                                : (typeof userChoice === 'string' && userChoice.trim() ? userChoice : '(Chưa làm)')}
+                            </div>
+                          </div>
+                          {!isUserCorrect && q.shortAnswers?.length ? (
+                            <div>
+                              <span className="block text-xs font-bold uppercase tracking-wider text-emerald-700 dark:text-emerald-400 mb-1">Đáp án đúng</span>
+                              <div className="rounded-lg border border-emerald-500 bg-emerald-50 dark:bg-emerald-950/40 text-emerald-900 dark:text-emerald-200 p-3 font-semibold">
+                                {q.shortAnswers.join(' / ')}
+                              </div>
+                            </div>
+                          ) : null}
+                        </div>
+                      )}
+
                       {/* Choices Contrast Review */}
-                      {q.choices && q.choices.length > 0 && (
+                      {!isWordOrder && q.choices && q.choices.length > 0 && (
                         <div className="space-y-2.5 pt-1">
                           {q.choices.map((choice, cIdx) => {
                             const choiceLetter = choice.label || String.fromCharCode(65 + cIdx);
@@ -1625,37 +1746,10 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                   {/* 1..N Result Pill Grid with Click to Scroll */}
                   <div className="grid grid-cols-5 gap-2 max-h-[50vh] overflow-y-auto pr-1 scrollbar-thin">
                     {testableQuestions.map((q, idx) => {
-                      const isFB =
-                        (q.questionType === 'FillBlank' && Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0)) ||
-                        Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0) ||
-                        (q.questionType === 'FillBlank' && Boolean(q.questionText && (q.questionText.includes('fillblank-option') || q.questionText.includes('<select'))));
-
                       const userChoice = answers[String(q.id)];
-                      const correctChoice = q.choices.find(
-                        (c) => c.isCorrect || String(c.id) === String(q.correctChoiceId)
-                      );
-
-                      let isCorrect = false;
-                      let isAnswered = false;
-
-                      if (isFB && q.fillblankAnswers && q.fillblankAnswers.length > 0) {
-                        if (typeof userChoice === 'object' && userChoice !== null) {
-                          let filled = 0;
-                          let matched = 0;
-                          q.fillblankAnswers.forEach((fb) => {
-                            const userVal = normalizeBlankValue(userChoice[String(fb.index)] ?? userChoice[fb.index] ?? '');
-                            if (userVal.length > 0) filled++;
-                            if ((fb.correctAnswers || []).some((ans) => normalizeBlankValue(ans) === userVal)) {
-                              matched++;
-                            }
-                          });
-                          isAnswered = filled >= q.fillblankAnswers.length;
-                          isCorrect = matched === q.fillblankAnswers.length;
-                        }
-                      } else {
-                        isCorrect = Boolean(userChoice && correctChoice && String(userChoice) === String(correctChoice.id));
-                        isAnswered = Boolean(userChoice);
-                      }
+                      const result = getQuestionResult(q, userChoice);
+                      const isCorrect = result.isFullyCorrect;
+                      const isAnswered = result.isFullyAnswered;
 
                       const isBookmarked = bookmarks.has(q.id);
 
@@ -1679,9 +1773,9 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                             if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
                           }}
                           className={pillClass}
-                          title={`Câu ${idx + 1}: ${isCorrect ? 'Đúng' : isAnswered ? 'Sai' : 'Chưa làm'}`}
+                          title={`Câu ${getQuestionLabel(idx)}: ${isCorrect ? 'Đúng' : isAnswered ? 'Sai' : 'Chưa làm'}`}
                         >
-                          <span>{idx + 1}</span>
+                          <span>{getQuestionLabel(idx)}</span>
                           {isBookmarked && (
                             <span className="absolute -top-1 -right-1 text-[10px] leading-none">🚩</span>
                           )}

@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { Clock, HelpCircle, Trophy, Search, Sparkles, Award, ArrowRight, RotateCcw } from 'lucide-react';
+import { Clock, Trophy, Search, Award, ArrowRight, RotateCcw } from 'lucide-react';
 import cat1097Data from '../../data/exams/category_1097.json';
 import cat1687Data from '../../data/exams/category_1687.json';
 import cat1489Data from '../../data/exams/category_1489.json';
@@ -159,8 +159,8 @@ export default function LuyenDeView() {
                     <span>{exam.timeLimit || 60} phút</span>
                   </div>
                   <div className="flex items-center gap-1.5 font-medium">
-                    <HelpCircle className="w-3.5 h-3.5 text-slate-400" />
-                    <span>{exam.questionCount} câu hỏi</span>
+                    <Award className="w-3.5 h-3.5 text-slate-400" />
+                    <span>{exam.totalPoint || exam.questionCount} points</span>
                   </div>
                 </div>
 

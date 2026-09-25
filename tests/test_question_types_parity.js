@@ -17,14 +17,14 @@
  *   - Partial blank completion gating (0/N .. N/N)
  *   - Numeric vs string index tolerance
  * - Tier 3: Cross-Feature Combinations & ExamRunner Parity
- *   - Question inclusion & filtering in testableQuestions (MC + FB included, Description + WordOrder excluded)
+ *   - Question inclusion & filtering in testableQuestions (MC + FB + ShortAnswer + WordOrder included)
  *   - Composite answer state tracking in ExamRunner (Record<string, any>)
  *   - Cross-question navigation preserving multi-blank inputs and choices
  *   - Palette completion status calculation (isQuestionAnswered)
- *   - Proportional scoring vs all-or-nothing scoring
+ *   - Atomic-unit scoring for multi-blank groups and all-or-nothing text questions
  *   - Review Mode DOM decoration (.correct, .wrong, .fillblank-correct-badge)
  * - Tier 4: Real-World Exam Bundles & Practice Data
- *   - Real Exam 1462 (37 raw -> 28 testable questions, Q23 5-blank cloze passage, score calculation)
+ *   - Real Exam 1462 (37 raw -> 36 answerable groups / 40 atomic points, score calculation)
  *   - Real Exam 12852 (FillBlank passages, testable questions, grading)
  *   - Real Practice Section sign_notices.json (28 FillBlank + 113 MultipleChoice)
  *   - Real Practice Section guided_cloze.json (207 FillBlank questions)
@@ -733,21 +733,22 @@ console.log('\n▶ [TIER 3] Vector 11: ExamRunner Question Inclusion & Exclusion
 
 const examRunnerCode = fs.readFileSync(path.join(SRC_DIR, 'components', 'ExamRunner.tsx'), 'utf8');
 
-// Verbatim legacy invariants preservation check
-check('ExamRunner Invariant: Excludes Description questions verbatim', examRunnerCode.includes("q.questionType !== 'Description'"));
-check('ExamRunner Invariant: Excludes WordOrder questions verbatim', examRunnerCode.includes("q.questionType !== 'WordOrder'"));
+// Static contracts for the production exam engine
+check('ExamRunner Contract: Excludes Description passage containers', examRunnerCode.includes("q.questionType === 'Description'"));
+check('ExamRunner Contract: Includes WordOrder questions with answer keys', examRunnerCode.includes('isWordOrderQuestion(q)') && examRunnerCode.includes('q.shortAnswers?.length'));
+check('ExamRunner Contract: Includes ShortAnswer questions with answer keys', examRunnerCode.includes('isShortAnswerQuestion(q)'));
 check('ExamRunner Invariant: Preserves Object.keys(answers).length verbatim', examRunnerCode.includes('Object.keys(answers).length'));
 check('ExamRunner Invariant: Preserves (correct / totalQuestions) * 10 verbatim', examRunnerCode.includes('(correct / totalQuestions) * 10'));
 check('ExamRunner Invariant: Preserves Math.round((correctCount / totalQuestions) * 100) verbatim', examRunnerCode.includes('Math.round((correctCount / totalQuestions) * 100)'));
 check('ExamRunner Review Mode: finalScore formula evaluates proportional correct points', examRunnerCode.includes('const finalScore = totalQuestions > 0 ? (correct / totalQuestions) * 10 : 0;'));
-check('ExamRunner Review Mode: calculates proportional fillblank credit', examRunnerCode.includes('correct += matched / q.fillblankAnswers.length;'));
+check('ExamRunner Contract: Counts atomic answer units', examRunnerCode.includes('getQuestionUnitCount(question)'));
+check('ExamRunner Contract: Scores each fillblank independently', examRunnerCode.includes('.correctUnits'));
 check('ExamRunner Review Mode: renders partial credit badge for cloze questions', examRunnerCode.includes('Đúng {fbMatched}/{fbTotal} ô (+'));
 
 // Inclusion filter test function replicating ExamRunner.tsx lines 240-261
 function filterTestableQuestions(questions) {
   return questions.filter((q) => {
-    if (q.questionType === 'Description' || !(q.questionType !== 'Description')) return false;
-    if (q.questionType === 'WordOrder' || !(q.questionType !== 'WordOrder')) return false;
+    if (q.questionType === 'Description') return false;
 
     const isFillBlank =
       (q.questionType === 'FillBlank' && Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0)) ||
@@ -755,6 +756,8 @@ function filterTestableQuestions(questions) {
       (q.questionType === 'FillBlank' && Boolean(q.questionText && (q.questionText.includes('fillblank-option') || q.questionText.includes('<select'))));
 
     if (isFillBlank) return true;
+    if (q.questionType === 'ShortAnswer') return Boolean(q.shortAnswers && q.shortAnswers.length > 0);
+    if (q.questionType === 'WordOrder') return Boolean(q.choices && q.choices.length > 0 && q.shortAnswers && q.shortAnswers.length > 0);
 
     return Boolean(
       q.choices &&
@@ -767,18 +770,20 @@ function filterTestableQuestions(questions) {
 const mockExamList = [
   { id: 1, questionType: 'MultipleChoice', choices: [{ id: 11, isCorrect: true }, { id: 12, isCorrect: false }] },
   { id: 2, questionType: 'Description', choices: [] },
-  { id: 3, questionType: 'WordOrder', choices: [{ id: 31, text: 'chip' }] },
+  { id: 3, questionType: 'WordOrder', choices: [{ id: 31, text: 'chip' }], shortAnswers: ['chip'] },
   { id: 4, questionType: 'FillBlank', fillblankAnswers: [{ index: 0, correctAnswers: ['test'] }], choices: [] },
   { id: 5, questionType: 'MultipleChoice', choices: [] }, // invalid MC (no choices)
+  { id: 6, questionType: 'ShortAnswer', shortAnswers: ['A complete answer.'], choices: [] },
 ];
 
 const filteredMock = filterTestableQuestions(mockExamList);
-check('Inclusion: Filtered 5 questions down to 2 testable (MC + FillBlank)', filteredMock.length === 2);
+check('Inclusion: Filtered 6 questions down to 4 answerable groups', filteredMock.length === 4);
 check('Inclusion: Question 1 (MC) included', filteredMock.some((q) => q.id === 1));
 check('Inclusion: Question 2 (Description) excluded', !filteredMock.some((q) => q.id === 2));
-check('Inclusion: Question 3 (WordOrder) excluded', !filteredMock.some((q) => q.id === 3));
+check('Inclusion: Question 3 (WordOrder) included', filteredMock.some((q) => q.id === 3));
 check('Inclusion: Question 4 (FillBlank) included', filteredMock.some((q) => q.id === 4));
 check('Inclusion: Question 5 (Empty MC) excluded', !filteredMock.some((q) => q.id === 5));
+check('Inclusion: Question 6 (ShortAnswer) included', filteredMock.some((q) => q.id === 6));
 
 // -----------------------------------------------------------------------------
 console.log('\n▶ [TIER 3] Vector 12: Composite Answer State & Question Navigation Preservation...');
@@ -859,36 +864,55 @@ check('Palette: Blank with only whitespace returns false', isQuestionAnswered(pa
 // -----------------------------------------------------------------------------
 console.log('\n▶ [TIER 3] Vector 14: Mixed Exam Scoring (Proportional vs All-or-Nothing)...');
 
+function getQuestionUnitCount(q) {
+  return q.fillblankAnswers?.length || 1;
+}
+
+function getQuestionScoreResult(q, answer) {
+  if (q.fillblankAnswers?.length) {
+    let answeredUnits = 0;
+    let correctUnits = 0;
+    const answerMap = typeof answer === 'object' && answer !== null && !Array.isArray(answer) ? answer : {};
+    q.fillblankAnswers.forEach((fb) => {
+      const value = normalizeBlankValue(answerMap[String(fb.index)] ?? answerMap[fb.index] ?? '');
+      if (value) answeredUnits++;
+      if ((fb.correctAnswers || []).some((candidate) => normalizeBlankValue(candidate) === value)) correctUnits++;
+    });
+    return {
+      totalUnits: q.fillblankAnswers.length,
+      answeredUnits,
+      correctUnits,
+      isFullyAnswered: answeredUnits === q.fillblankAnswers.length,
+      isFullyCorrect: correctUnits === q.fillblankAnswers.length,
+    };
+  }
+
+  if (q.questionType === 'WordOrder') {
+    const words = Array.isArray(answer) ? answer : [];
+    const isFullyAnswered = words.length === (q.choices || []).length && words.length > 0;
+    const isFullyCorrect = isFullyAnswered && (q.shortAnswers || []).some((candidate) => matchesSentence(words.join(' '), candidate));
+    return { totalUnits: 1, answeredUnits: isFullyAnswered ? 1 : 0, correctUnits: isFullyCorrect ? 1 : 0, isFullyAnswered, isFullyCorrect };
+  }
+
+  if (q.questionType === 'ShortAnswer' || q.shortAnswers?.length) {
+    const value = typeof answer === 'string' ? answer.trim() : '';
+    const isFullyAnswered = value.length > 0;
+    const isFullyCorrect = isFullyAnswered && (q.shortAnswers || []).some((candidate) => matchesSentence(value, candidate));
+    return { totalUnits: 1, answeredUnits: isFullyAnswered ? 1 : 0, correctUnits: isFullyCorrect ? 1 : 0, isFullyAnswered, isFullyCorrect };
+  }
+
+  const correctChoice = q.choices?.find((choice) => choice.isCorrect || String(choice.id) === String(q.correctChoiceId));
+  const isFullyAnswered = answer !== undefined && answer !== null && String(answer).length > 0;
+  const isFullyCorrect = Boolean(isFullyAnswered && correctChoice && String(answer) === String(correctChoice.id));
+  return { totalUnits: 1, answeredUnits: isFullyAnswered ? 1 : 0, correctUnits: isFullyCorrect ? 1 : 0, isFullyAnswered, isFullyCorrect };
+}
+
 function gradeExam(testableQuestions, answers) {
-  let correct = 0;
-  testableQuestions.forEach((q) => {
-    const isFB =
-      (q.questionType === 'FillBlank' && Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0)) ||
-      Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0) ||
-      (q.questionType === 'FillBlank' && Boolean(q.questionText && (q.questionText.includes('fillblank-option') || q.questionText.includes('<select'))));
-
-    if (isFB && q.fillblankAnswers && q.fillblankAnswers.length > 0) {
-      const userAns = answers[String(q.id)];
-      if (typeof userAns === 'object' && userAns !== null) {
-        let matched = 0;
-        q.fillblankAnswers.forEach((fb) => {
-          const userVal = normalizeBlankValue(userAns[String(fb.index)] ?? userAns[fb.index] ?? '');
-          if ((fb.correctAnswers || []).some((ans) => normalizeBlankValue(ans) === userVal)) {
-            matched++;
-          }
-        });
-        correct += matched / q.fillblankAnswers.length;
-      }
-    } else {
-      const userChoice = answers[String(q.id)];
-      const correctChoice = q.choices?.find((c) => c.isCorrect || String(c.id) === String(q.correctChoiceId));
-      if (userChoice && correctChoice && String(userChoice) === String(correctChoice.id)) {
-        correct++;
-      }
-    }
-  });
-
-  const totalQuestions = testableQuestions.length;
+  const correct = testableQuestions.reduce(
+    (sum, q) => sum + getQuestionScoreResult(q, answers[String(q.id)]).correctUnits,
+    0
+  );
+  const totalQuestions = testableQuestions.reduce((sum, q) => sum + getQuestionUnitCount(q), 0);
   const scoreOut10 = totalQuestions > 0 ? (correct / totalQuestions) * 10 : 0;
   const roundedScore = Math.round(scoreOut10 * 100) / 100;
   return { correct, totalQuestions, roundedScore };
@@ -899,7 +923,7 @@ const mixedExamQuestions = [
   { id: 1, questionType: 'MultipleChoice', choices: [{ id: 'c1', isCorrect: true }, { id: 'c2', isCorrect: false }] },
   // Q2: MC (wrong)
   { id: 2, questionType: 'MultipleChoice', choices: [{ id: 'c3', isCorrect: true }, { id: 'c4', isCorrect: false }] },
-  // Q3: FillBlank with 4 blanks (3 correct, 1 wrong -> 3/4 = 0.75 points)
+  // Q3: FillBlank with 4 independently scored blanks (3 correct, 1 wrong)
   {
     id: 3,
     questionType: 'FillBlank',
@@ -910,7 +934,7 @@ const mixedExamQuestions = [
       { index: 3, correctAnswers: ['west'] },
     ],
   },
-  // Q4: FillBlank with 5 blanks (5 correct -> 5/5 = 1.0 points)
+  // Q4: FillBlank with 5 independently scored blanks (5 correct)
   {
     id: 4,
     questionType: 'FillBlank',
@@ -925,115 +949,54 @@ const mixedExamQuestions = [
 ];
 
 const studentAnswers = {
-  '1': 'c1', // 1.0
-  '2': 'c4', // 0.0
-  '3': { '0': 'north', '1': 'south', '2': 'east', '3': 'wrong_direction' }, // 0.75
-  '4': { '0': 'a', '1': 'b', '2': 'c', '3': 'd', '4': 'e' }, // 1.0
+  '1': 'c1', // 1 point
+  '2': 'c4', // 0 points
+  '3': { '0': 'north', '1': 'south', '2': 'east', '3': 'wrong_direction' }, // 3 points
+  '4': { '0': 'a', '1': 'b', '2': 'c', '3': 'd', '4': 'e' }, // 5 points
 };
 
 const gradedResult = gradeExam(mixedExamQuestions, studentAnswers);
-// Total correct: 1.0 + 0.0 + 0.75 + 1.0 = 2.75 out of 4
-// Score / 10: (2.75 / 4) * 10 = 6.875 -> 6.88
-check('Grading: Total correct is exactly 2.75 points', Math.abs(gradedResult.correct - 2.75) < 0.001);
-check('Grading: Scaled score is rounded to 6.88 / 10', gradedResult.roundedScore === 6.88);
+// Total correct: 1 + 0 + 3 + 5 = 9 out of 11 atomic answer units.
+check('Grading: Total correct is exactly 9 atomic points', gradedResult.correct === 9);
+check('Grading: Atomic denominator is exactly 11 points', gradedResult.totalQuestions === 11);
+check('Grading: Scaled score is rounded to 8.18 / 10', gradedResult.roundedScore === 8.18);
 
 // Verification of ExamRunner.tsx render-time finalScore calculation
 function calculateReviewRenderMetrics(testableQuestions, answers) {
-  let correct = 0;
-  let correctCount = 0;
-  testableQuestions.forEach((q) => {
-    const isFB =
-      (q.questionType === 'FillBlank' && Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0)) ||
-      Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0) ||
-      (q.questionType === 'FillBlank' && Boolean(q.questionText && (q.questionText.includes('fillblank-option') || q.questionText.includes('<select'))));
-
-    if (isFB && q.fillblankAnswers && q.fillblankAnswers.length > 0) {
-      const userAns = answers[String(q.id)];
-      if (typeof userAns === 'object' && userAns !== null) {
-        let matched = 0;
-        q.fillblankAnswers.forEach((fb) => {
-          const userVal = normalizeBlankValue(userAns[String(fb.index)] ?? userAns[fb.index] ?? '');
-          if ((fb.correctAnswers || []).some((ans) => normalizeBlankValue(ans) === userVal)) {
-            matched++;
-          }
-        });
-        correct += matched / q.fillblankAnswers.length;
-        if (matched === q.fillblankAnswers.length) {
-          correctCount++;
-        }
-      }
-    } else {
-      const userChoice = answers[String(q.id)];
-      const correctChoice = q.choices?.find((c) => c.isCorrect || String(c.id) === String(q.correctChoiceId));
-      if (userChoice && correctChoice && String(userChoice) === String(correctChoice.id)) {
-        correct++;
-        correctCount++;
-      }
-    }
-  });
-
-  const totalQuestions = testableQuestions.length;
+  const correct = testableQuestions.reduce(
+    (sum, q) => sum + getQuestionScoreResult(q, answers[String(q.id)]).correctUnits,
+    0
+  );
+  const correctCount = correct;
+  const totalQuestions = testableQuestions.reduce((sum, q) => sum + getQuestionUnitCount(q), 0);
   const finalScore = totalQuestions > 0 ? (correct / totalQuestions) * 10 : 0;
   const accuracyPercent = totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0;
   return { correct, correctCount, finalScore, accuracyPercent };
 }
 
 const renderMetrics = calculateReviewRenderMetrics(mixedExamQuestions, studentAnswers);
-check('Review Render Metric: correct points (2.75) matches handleSubmitExam', Math.abs(renderMetrics.correct - 2.75) < 0.001);
-check('Review Render Metric: finalScore (6.875 -> "6.88") matches hero display and storage', renderMetrics.finalScore.toFixed(2) === '6.88');
-check('Review Render Metric: correctCount (all-or-nothing: 2/4) correctly tracks complete questions', renderMetrics.correctCount === 2);
-check('Review Render Metric: accuracyPercent is 50%', renderMetrics.accuracyPercent === 50);
+check('Review Render Metric: 9 correct atomic points matches handleSubmitExam', renderMetrics.correct === 9);
+check('Review Render Metric: finalScore (8.1818 -> "8.18") matches hero display and storage', renderMetrics.finalScore.toFixed(2) === '8.18');
+check('Review Render Metric: correctCount tracks atomic points', renderMetrics.correctCount === 9);
+check('Review Render Metric: accuracyPercent is 82%', renderMetrics.accuracyPercent === 82);
 
 // Review Mode question card status badge simulation
 function getReviewCardBadgeText(q, userChoice, totalQuestions) {
-  const isFB =
-    (q.questionType === 'FillBlank' && Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0)) ||
-    Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0) ||
-    (q.questionType === 'FillBlank' && Boolean(q.questionText && (q.questionText.includes('fillblank-option') || q.questionText.includes('<select'))));
-
-  let isUserCorrect = false;
-  let isUnanswered = false;
-  let fbMatched = 0;
-  let fbTotal = 0;
-
-  if (isFB && q.fillblankAnswers && q.fillblankAnswers.length > 0) {
-    fbTotal = q.fillblankAnswers.length;
-    if (typeof userChoice === 'object' && userChoice !== null) {
-      let filled = 0;
-      let matched = 0;
-      q.fillblankAnswers.forEach((fb) => {
-        const userVal = normalizeBlankValue(userChoice[String(fb.index)] ?? userChoice[fb.index] ?? '');
-        if (userVal.length > 0) filled++;
-        if ((fb.correctAnswers || []).some((ans) => normalizeBlankValue(ans) === userVal)) {
-          matched++;
-        }
-      });
-      fbMatched = matched;
-      isUnanswered = filled === 0;
-      isUserCorrect = matched === q.fillblankAnswers.length;
-    } else {
-      isUnanswered = true;
-    }
-  } else {
-    const correctChoice = q.choices?.find((c) => c.isCorrect || String(c.id) === String(q.correctChoiceId));
-    isUserCorrect = Boolean(userChoice && correctChoice && String(userChoice) === String(correctChoice.id));
-    isUnanswered = !userChoice;
-  }
-
-  if (isUserCorrect) return `Đúng (+${(10 / totalQuestions).toFixed(2)}đ)`;
-  if (isUnanswered) return 'Chưa làm (0đ)';
-  if (isFB && fbMatched > 0 && fbTotal > 0) {
-    return `Đúng ${fbMatched}/${fbTotal} ô (+${((10 / totalQuestions) * (fbMatched / fbTotal)).toFixed(2)}đ)`;
+  const result = getQuestionScoreResult(q, userChoice);
+  if (result.isFullyCorrect) return `Đúng (+${((10 / totalQuestions) * result.totalUnits).toFixed(2)}đ)`;
+  if (result.answeredUnits === 0) return 'Chưa làm (0đ)';
+  if (q.fillblankAnswers?.length && result.correctUnits > 0) {
+    return `Đúng ${result.correctUnits}/${result.totalUnits} ô (+${((10 / totalQuestions) * result.correctUnits).toFixed(2)}đ)`;
   }
   return 'Sai (0đ)';
 }
 
-check('Review Badge Q1 (Full MC): Đúng (+2.50đ)', getReviewCardBadgeText(mixedExamQuestions[0], studentAnswers['1'], 4) === 'Đúng (+2.50đ)');
-check('Review Badge Q2 (Wrong MC): Sai (0đ)', getReviewCardBadgeText(mixedExamQuestions[1], studentAnswers['2'], 4) === 'Sai (0đ)');
-check('Review Badge Q3 (Partial FB 3/4): Đúng 3/4 ô (+1.88đ)', getReviewCardBadgeText(mixedExamQuestions[2], studentAnswers['3'], 4) === 'Đúng 3/4 ô (+1.88đ)');
-check('Review Badge Q4 (Full FB 5/5): Đúng (+2.50đ)', getReviewCardBadgeText(mixedExamQuestions[3], studentAnswers['4'], 4) === 'Đúng (+2.50đ)');
-check('Review Badge Unanswered FB: Chưa làm (0đ)', getReviewCardBadgeText(mixedExamQuestions[2], null, 4) === 'Chưa làm (0đ)');
-check('Review Badge 0/4 FB: Sai (0đ)', getReviewCardBadgeText(mixedExamQuestions[2], { '0': 'w1', '1': 'w2', '2': 'w3', '3': 'w4' }, 4) === 'Sai (0đ)');
+check('Review Badge Q1 (Full MC): Đúng (+0.91đ)', getReviewCardBadgeText(mixedExamQuestions[0], studentAnswers['1'], 11) === 'Đúng (+0.91đ)');
+check('Review Badge Q2 (Wrong MC): Sai (0đ)', getReviewCardBadgeText(mixedExamQuestions[1], studentAnswers['2'], 11) === 'Sai (0đ)');
+check('Review Badge Q3 (Partial FB 3/4): Đúng 3/4 ô (+2.73đ)', getReviewCardBadgeText(mixedExamQuestions[2], studentAnswers['3'], 11) === 'Đúng 3/4 ô (+2.73đ)');
+check('Review Badge Q4 (Full FB 5/5): Đúng (+4.55đ)', getReviewCardBadgeText(mixedExamQuestions[3], studentAnswers['4'], 11) === 'Đúng (+4.55đ)');
+check('Review Badge Unanswered FB: Chưa làm (0đ)', getReviewCardBadgeText(mixedExamQuestions[2], null, 11) === 'Chưa làm (0đ)');
+check('Review Badge 0/4 FB: Sai (0đ)', getReviewCardBadgeText(mixedExamQuestions[2], { '0': 'w1', '1': 'w2', '2': 'w3', '3': 'w4' }, 11) === 'Sai (0đ)');
 
 // -----------------------------------------------------------------------------
 console.log('\n▶ [TIER 3] Vector 15: Review Mode DOM Decoration & Answer Reveal Badges...');
@@ -1114,7 +1077,9 @@ const exam1462Data = JSON.parse(fs.readFileSync(exam1462Path, 'utf8'));
 check('Exam 1462: Raw question count is 37', exam1462Data.questions.length === 37);
 
 const testable1462 = filterTestableQuestions(exam1462Data.questions);
-check('Exam 1462: Testable questions filter produces exactly 28 questions', testable1462.length === 28);
+check('Exam 1462: Filter produces 36 answerable groups', testable1462.length === 36);
+check('Exam 1462: Answerable groups expand to exactly 40 atomic points', testable1462.reduce((sum, q) => sum + getQuestionUnitCount(q), 0) === 40);
+check('Exam 1462: All 8 ShortAnswer questions are included', testable1462.filter((q) => q.questionType === 'ShortAnswer').length === 8);
 
 const fb1462 = testable1462.find((q) => q.questionType === 'FillBlank');
 check('Exam 1462: Testable questions includes authentic FillBlank cloze question', Boolean(fb1462));
@@ -1139,6 +1104,10 @@ testable1462.forEach((q) => {
       fbMap[String(fb.index)] = fb.correctAnswers[0];
     });
     perfect1462Answers[String(q.id)] = fbMap;
+  } else if (q.questionType === 'ShortAnswer') {
+    perfect1462Answers[String(q.id)] = q.shortAnswers[0];
+  } else if (q.questionType === 'WordOrder') {
+    perfect1462Answers[String(q.id)] = q.shortAnswers[0].split(/\s+/);
   } else {
     const correctC = q.choices.find((c) => c.isCorrect || String(c.id) === String(q.correctChoiceId));
     perfect1462Answers[String(q.id)] = correctC ? correctC.id : null;
@@ -1146,10 +1115,10 @@ testable1462.forEach((q) => {
 });
 
 const perfectGrade = gradeExam(testable1462, perfect1462Answers);
-check('Exam 1462: Perfect answers produce 28.0 correct out of 28', perfectGrade.correct === 28);
+check('Exam 1462: Perfect answers produce 40 correct atomic points', perfectGrade.correct === 40 && perfectGrade.totalQuestions === 40);
 check('Exam 1462: Perfect answers produce exact score 10.0 / 10', perfectGrade.roundedScore === 10);
 
-// Partial score simulation: all 27 MC correct + 3 of 5 blanks correct
+// Partial score simulation: all other answer units correct + 3 of 5 blanks correct
 const partial1462Answers = { ...perfect1462Answers };
 partial1462Answers[String(fb1462.id)] = {
   '0': 'a',
@@ -1160,9 +1129,8 @@ partial1462Answers[String(fb1462.id)] = {
 };
 
 const partialGrade = gradeExam(testable1462, partial1462Answers);
-// 27 + (3/5) = 27.6 correct. Score: (27.6 / 28) * 10 = 9.8571 -> 9.86
-check('Exam 1462: 27 MC + 3/5 blanks produces 27.6 correct points', Math.abs(partialGrade.correct - 27.6) < 0.001);
-check('Exam 1462: 27.6 / 28 scales to 9.86 / 10', partialGrade.roundedScore === 9.86);
+check('Exam 1462: 3/5 cloze blanks plus all other answers produces 38/40 points', partialGrade.correct === 38 && partialGrade.totalQuestions === 40);
+check('Exam 1462: 38 / 40 scales to 9.50 / 10', partialGrade.roundedScore === 9.5);
 
 // -----------------------------------------------------------------------------
 console.log('\n▶ [TIER 4] Vector 17: Real Exam Bundle 12852 (data/exams/bundles/12852.json)...');

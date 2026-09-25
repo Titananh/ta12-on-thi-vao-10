@@ -111,8 +111,8 @@ check('LuyenDeView.tsx component file exists', fs.existsSync(luyenDePath));
 const luyenDeContent = fs.readFileSync(luyenDePath, 'utf8');
 check('LuyenDeView has 5 category tabs (1097, 1687, 1489, 1263, 170)',
   luyenDeContent.includes('1097') && luyenDeContent.includes('1687') && luyenDeContent.includes('1489') && luyenDeContent.includes('1263') && luyenDeContent.includes('170'));
-check('LuyenDeView renders exam metadata: duration, question count, and best score badge',
-  luyenDeContent.includes('timeLimit') && luyenDeContent.includes('questionCount') && luyenDeContent.includes('ta12_exam_results'));
+check('LuyenDeView renders exam metadata: duration, source point total, and best score badge',
+  luyenDeContent.includes('timeLimit') && luyenDeContent.includes('totalPoint') && luyenDeContent.includes('points') && luyenDeContent.includes('ta12_exam_results'));
 check('LuyenDeView links directly to /exam/[examId]', luyenDeContent.includes('/exam/${exam.id}') || luyenDeContent.includes('/exam/'));
 
 // Verify exam files
@@ -169,9 +169,13 @@ check('Auto-submit on 00:00', examRunnerContent.includes('handleAutoSubmit') && 
 
 // Question Palette 1..N with 4 states
 check('Question Palette filters testable questions (skips Description passages)',
-  examRunnerContent.includes("q.questionType !== 'Description'"));
-check('Question Palette excludes non-MCQ WordOrder questions',
-  examRunnerContent.includes("q.questionType !== 'WordOrder'"));
+  examRunnerContent.includes("q.questionType === 'Description'"));
+check('Question Palette includes keyed WordOrder and ShortAnswer questions',
+  examRunnerContent.includes('isWordOrderQuestion(q)') &&
+  examRunnerContent.includes('isShortAnswerQuestion(q)') &&
+  examRunnerContent.includes('q.shortAnswers?.length'));
+check('Question Palette uses atomic point spans for multi-blank groups',
+  examRunnerContent.includes('getQuestionUnitCount(question)') && examRunnerContent.includes('getQuestionLabel'));
 check('Question Palette supports 4 distinct states: Answered, Unanswered, Marked Uncertain, Answered+Uncertain',
   examRunnerContent.includes('isAnswered && !isBookmarked') &&
   examRunnerContent.includes('isAnswered && isBookmarked') &&
