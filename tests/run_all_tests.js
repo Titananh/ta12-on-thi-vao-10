@@ -20,7 +20,10 @@ const suites = [
   { name: 'Kiến thức liên quan 1:1 Tak12 Replica Suite', file: 'tests/verify_kienthuc_modal.js' },
   { name: 'Challenger 2 ExamRunner, Themes & Offline Resilience Suite', file: 'tests/test_examrunner_theme_offline_challenger.js' },
   { name: 'Challenger Practice Player & Modals Stress Suite', file: 'tests/challenger_practice_modals_stress.js' },
-  { name: 'Auth, SQLite & Progress Sync Suite (R2)', file: 'tests/test_auth_sqlite_sync.js' }
+  { name: 'Auth, SQLite & Progress Sync Suite (R2)', file: 'tests/test_auth_sqlite_sync.js' },
+  { name: 'Milestone 1 Google OAuth Crypto & Admin Zero-Bypass', file: 'tests/test_m1_google_auth_crypto.js' },
+  { name: 'Milestone 2 Student Web Security & Pending Gate', file: 'tests/test_m2_student_security.js' },
+  { name: 'Milestone 3 Comprehensive Security Penetration Suite', file: 'tests/test_m3_penetration_suite.js' }
 ];
 
 console.log('========================================================================');
