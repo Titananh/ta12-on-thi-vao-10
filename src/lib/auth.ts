@@ -14,7 +14,8 @@ export function signSessionToken(userId: string): string {
 
 export function verifySessionToken(token: string): string | null {
   try {
-    const raw = Buffer.from(token, 'base64').toString('utf8');
+    const cleanToken = decodeURIComponent(token);
+    const raw = Buffer.from(cleanToken, 'base64').toString('utf8');
     const parts = raw.split(':');
     if (parts.length !== 3) return null;
     const [userId, ts, sig] = parts;

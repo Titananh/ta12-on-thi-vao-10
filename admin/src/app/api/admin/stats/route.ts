@@ -1,9 +1,18 @@
-import { NextResponse } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
 import { getDatabase } from '@/lib/db';
+import { requireAdminSession } from '@/lib/auth';
 
 export const dynamic = 'force-dynamic';
 
-export async function GET() {
+export async function GET(request: NextRequest) {
+  const admin = await requireAdminSession(request);
+  if (!admin) {
+    return NextResponse.json(
+      { success: false, error: 'Unauthorized: Admin session required' },
+      { status: 401 }
+    );
+  }
+
   try {
     const db = getDatabase();
 

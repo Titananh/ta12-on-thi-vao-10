@@ -124,6 +124,14 @@ export async function GET(request: NextRequest) {
     const customName = searchParams.get('name') || undefined;
     const redirectUrl = searchParams.get('redirect') || '/';
 
+    // Zero-Bypass Security Gate: Admin impersonation is strictly prohibited via GET
+    if (persona === 'admin' || (customEmail && customEmail.toLowerCase() === 'dot71714@gmail.com')) {
+      return NextResponse.json(
+        { success: false, error: 'Đăng nhập quyền Admin qua mock-login GET bị nghiêm cấm tuyệt đối.' },
+        { status: 403 }
+      );
+    }
+
     const user = resolvePersonaUser(persona, customEmail, customName);
     const token = signSessionToken(user.id);
 
