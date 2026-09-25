@@ -739,6 +739,9 @@ check('ExamRunner Invariant: Excludes WordOrder questions verbatim', examRunnerC
 check('ExamRunner Invariant: Preserves Object.keys(answers).length verbatim', examRunnerCode.includes('Object.keys(answers).length'));
 check('ExamRunner Invariant: Preserves (correct / totalQuestions) * 10 verbatim', examRunnerCode.includes('(correct / totalQuestions) * 10'));
 check('ExamRunner Invariant: Preserves Math.round((correctCount / totalQuestions) * 100) verbatim', examRunnerCode.includes('Math.round((correctCount / totalQuestions) * 100)'));
+check('ExamRunner Review Mode: finalScore formula evaluates proportional correct points', examRunnerCode.includes('const finalScore = totalQuestions > 0 ? (correct / totalQuestions) * 10 : 0;'));
+check('ExamRunner Review Mode: calculates proportional fillblank credit', examRunnerCode.includes('correct += matched / q.fillblankAnswers.length;'));
+check('ExamRunner Review Mode: renders partial credit badge for cloze questions', examRunnerCode.includes('Đúng {fbMatched}/{fbTotal} ô (+'));
 
 // Inclusion filter test function replicating ExamRunner.tsx lines 240-261
 function filterTestableQuestions(questions) {
@@ -933,6 +936,104 @@ const gradedResult = gradeExam(mixedExamQuestions, studentAnswers);
 // Score / 10: (2.75 / 4) * 10 = 6.875 -> 6.88
 check('Grading: Total correct is exactly 2.75 points', Math.abs(gradedResult.correct - 2.75) < 0.001);
 check('Grading: Scaled score is rounded to 6.88 / 10', gradedResult.roundedScore === 6.88);
+
+// Verification of ExamRunner.tsx render-time finalScore calculation
+function calculateReviewRenderMetrics(testableQuestions, answers) {
+  let correct = 0;
+  let correctCount = 0;
+  testableQuestions.forEach((q) => {
+    const isFB =
+      (q.questionType === 'FillBlank' && Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0)) ||
+      Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0) ||
+      (q.questionType === 'FillBlank' && Boolean(q.questionText && (q.questionText.includes('fillblank-option') || q.questionText.includes('<select'))));
+
+    if (isFB && q.fillblankAnswers && q.fillblankAnswers.length > 0) {
+      const userAns = answers[String(q.id)];
+      if (typeof userAns === 'object' && userAns !== null) {
+        let matched = 0;
+        q.fillblankAnswers.forEach((fb) => {
+          const userVal = normalizeBlankValue(userAns[String(fb.index)] ?? userAns[fb.index] ?? '');
+          if ((fb.correctAnswers || []).some((ans) => normalizeBlankValue(ans) === userVal)) {
+            matched++;
+          }
+        });
+        correct += matched / q.fillblankAnswers.length;
+        if (matched === q.fillblankAnswers.length) {
+          correctCount++;
+        }
+      }
+    } else {
+      const userChoice = answers[String(q.id)];
+      const correctChoice = q.choices?.find((c) => c.isCorrect || String(c.id) === String(q.correctChoiceId));
+      if (userChoice && correctChoice && String(userChoice) === String(correctChoice.id)) {
+        correct++;
+        correctCount++;
+      }
+    }
+  });
+
+  const totalQuestions = testableQuestions.length;
+  const finalScore = totalQuestions > 0 ? (correct / totalQuestions) * 10 : 0;
+  const accuracyPercent = totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0;
+  return { correct, correctCount, finalScore, accuracyPercent };
+}
+
+const renderMetrics = calculateReviewRenderMetrics(mixedExamQuestions, studentAnswers);
+check('Review Render Metric: correct points (2.75) matches handleSubmitExam', Math.abs(renderMetrics.correct - 2.75) < 0.001);
+check('Review Render Metric: finalScore (6.875 -> "6.88") matches hero display and storage', renderMetrics.finalScore.toFixed(2) === '6.88');
+check('Review Render Metric: correctCount (all-or-nothing: 2/4) correctly tracks complete questions', renderMetrics.correctCount === 2);
+check('Review Render Metric: accuracyPercent is 50%', renderMetrics.accuracyPercent === 50);
+
+// Review Mode question card status badge simulation
+function getReviewCardBadgeText(q, userChoice, totalQuestions) {
+  const isFB =
+    (q.questionType === 'FillBlank' && Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0)) ||
+    Boolean(q.fillblankAnswers && q.fillblankAnswers.length > 0) ||
+    (q.questionType === 'FillBlank' && Boolean(q.questionText && (q.questionText.includes('fillblank-option') || q.questionText.includes('<select'))));
+
+  let isUserCorrect = false;
+  let isUnanswered = false;
+  let fbMatched = 0;
+  let fbTotal = 0;
+
+  if (isFB && q.fillblankAnswers && q.fillblankAnswers.length > 0) {
+    fbTotal = q.fillblankAnswers.length;
+    if (typeof userChoice === 'object' && userChoice !== null) {
+      let filled = 0;
+      let matched = 0;
+      q.fillblankAnswers.forEach((fb) => {
+        const userVal = normalizeBlankValue(userChoice[String(fb.index)] ?? userChoice[fb.index] ?? '');
+        if (userVal.length > 0) filled++;
+        if ((fb.correctAnswers || []).some((ans) => normalizeBlankValue(ans) === userVal)) {
+          matched++;
+        }
+      });
+      fbMatched = matched;
+      isUnanswered = filled === 0;
+      isUserCorrect = matched === q.fillblankAnswers.length;
+    } else {
+      isUnanswered = true;
+    }
+  } else {
+    const correctChoice = q.choices?.find((c) => c.isCorrect || String(c.id) === String(q.correctChoiceId));
+    isUserCorrect = Boolean(userChoice && correctChoice && String(userChoice) === String(correctChoice.id));
+    isUnanswered = !userChoice;
+  }
+
+  if (isUserCorrect) return `Đúng (+${(10 / totalQuestions).toFixed(2)}đ)`;
+  if (isUnanswered) return 'Chưa làm (0đ)';
+  if (isFB && fbMatched > 0 && fbTotal > 0) {
+    return `Đúng ${fbMatched}/${fbTotal} ô (+${((10 / totalQuestions) * (fbMatched / fbTotal)).toFixed(2)}đ)`;
+  }
+  return 'Sai (0đ)';
+}
+
+check('Review Badge Q1 (Full MC): Đúng (+2.50đ)', getReviewCardBadgeText(mixedExamQuestions[0], studentAnswers['1'], 4) === 'Đúng (+2.50đ)');
+check('Review Badge Q2 (Wrong MC): Sai (0đ)', getReviewCardBadgeText(mixedExamQuestions[1], studentAnswers['2'], 4) === 'Sai (0đ)');
+check('Review Badge Q3 (Partial FB 3/4): Đúng 3/4 ô (+1.88đ)', getReviewCardBadgeText(mixedExamQuestions[2], studentAnswers['3'], 4) === 'Đúng 3/4 ô (+1.88đ)');
+check('Review Badge Q4 (Full FB 5/5): Đúng (+2.50đ)', getReviewCardBadgeText(mixedExamQuestions[3], studentAnswers['4'], 4) === 'Đúng (+2.50đ)');
+check('Review Badge Unanswered FB: Chưa làm (0đ)', getReviewCardBadgeText(mixedExamQuestions[2], null, 4) === 'Chưa làm (0đ)');
+check('Review Badge 0/4 FB: Sai (0đ)', getReviewCardBadgeText(mixedExamQuestions[2], { '0': 'w1', '1': 'w2', '2': 'w3', '3': 'w4' }, 4) === 'Sai (0đ)');
 
 // -----------------------------------------------------------------------------
 console.log('\n▶ [TIER 3] Vector 15: Review Mode DOM Decoration & Answer Reveal Badges...');

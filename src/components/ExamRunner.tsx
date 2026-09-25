@@ -1165,8 +1165,11 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
 
                   let isUserCorrect = false;
                   let isUnanswered = false;
+                  let fbMatched = 0;
+                  let fbTotal = 0;
 
                   if (isFB && q.fillblankAnswers && q.fillblankAnswers.length > 0) {
+                    fbTotal = q.fillblankAnswers.length;
                     if (typeof userChoice === 'object' && userChoice !== null) {
                       let filled = 0;
                       let matched = 0;
@@ -1177,6 +1180,7 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                           matched++;
                         }
                       });
+                      fbMatched = matched;
                       isUnanswered = filled === 0;
                       isUserCorrect = matched === q.fillblankAnswers.length;
                     } else {
@@ -1219,29 +1223,13 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                               <Check className="w-3.5 h-3.5" />
                               <span>Đúng (+{(10 / totalQuestions).toFixed(2)}đ)</span>
                             </span>
-                          ) : isFB && userChoice && typeof userChoice === 'object' && Object.keys(userChoice).length > 0 ? (() => {
-                              let matched = 0;
-                              q.fillblankAnswers?.forEach((fb) => {
-                                const uVal = normalizeBlankValue(userChoice[String(fb.index)] ?? userChoice[fb.index] ?? '');
-                                if ((fb.correctAnswers || []).some((ans) => normalizeBlankValue(ans) === uVal)) matched++;
-                              });
-                              const partialRatio = q.fillblankAnswers?.length ? matched / q.fillblankAnswers.length : 0;
-                              if (matched > 0) {
-                                return (
-                                  <span className="flex items-center gap-1 text-xs font-bold text-amber-800 dark:text-amber-300 bg-amber-100 dark:bg-amber-950/60 px-2.5 py-1 rounded-full">
-                                    <span>Đúng {matched}/{q.fillblankAnswers?.length} ô (+{((10 / totalQuestions) * partialRatio).toFixed(2)}đ)</span>
-                                  </span>
-                                );
-                              }
-                              return (
-                                <span className="flex items-center gap-1 text-xs font-bold text-red-800 dark:text-red-300 bg-red-100 dark:bg-red-950/60 px-2.5 py-1 rounded-full">
-                                  <X className="w-3.5 h-3.5" />
-                                  <span>Sai (0đ)</span>
-                                </span>
-                              );
-                          })() : isUnanswered ? (
+                          ) : isUnanswered ? (
                             <span className="text-xs font-bold text-slate-500 dark:text-slate-400 bg-slate-100 dark:bg-[#1c201c] px-2.5 py-1 rounded-full">
                               Chưa làm (0đ)
+                            </span>
+                          ) : isFB && fbMatched > 0 && fbTotal > 0 ? (
+                            <span className="flex items-center gap-1 text-xs font-bold text-amber-800 dark:text-amber-300 bg-amber-100 dark:bg-amber-950/60 px-2.5 py-1 rounded-full">
+                              <span>Đúng {fbMatched}/{fbTotal} ô (+{((10 / totalQuestions) * (fbMatched / fbTotal)).toFixed(2)}đ)</span>
                             </span>
                           ) : (
                             <span className="flex items-center gap-1 text-xs font-bold text-red-800 dark:text-red-300 bg-red-100 dark:bg-red-950/60 px-2.5 py-1 rounded-full">
