@@ -8,9 +8,12 @@ import PracticeSessionModal from '@/components/PracticeSessionModal';
 import HocOnView from '@/components/HocOnView';
 import LuyenDeView from '@/components/LuyenDeView';
 import LuyenPhanView from '@/components/LuyenPhanView';
+import ApprovalWaitingScreen from '@/components/ApprovalWaitingScreen';
+import { useAuthProgress } from '@/components/ProgressSyncProvider';
 import taxonomyData from '../../data/taxonomy.json';
 
 export default function HomePage() {
+  const { user } = useAuthProgress();
   const [activeTab, setActiveTab] = useState<'hoc-on' | 'luyen-de' | 'luyen-phan' | 'luyen-chudiem'>('luyen-chudiem');
   const [activeSkillSeo, setActiveSkillSeo] = useState<string>('phonetics');
   const [isModalOpen, setIsModalOpen] = useState<boolean>(false);
@@ -28,6 +31,11 @@ export default function HomePage() {
       }
     } catch (e) {}
   }, []);
+
+  // Access Guard: block pending users with ApprovalWaitingScreen
+  if (user && user.status === 'pending') {
+    return <ApprovalWaitingScreen user={user} />;
+  }
 
   return (
     <div className="space-y-4">

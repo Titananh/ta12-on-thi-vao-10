@@ -4,6 +4,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  experimental: {
+    serverComponentsExternalPackages: ['better-sqlite3'],
+  },
   async rewrites() {
     return [
       {

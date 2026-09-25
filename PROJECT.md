@@ -60,8 +60,8 @@
 |---|------|-------|-------------|--------|
 | M1 | Data Ingestion Pipeline & Local Repository | Build & run crawler script for Course Exam ID = 9 (Tak12 API): download official exams 2019-2026, Chuyên, GD, new curriculum, study sets 44/240, extract answers & rich explanations via CheckGuestAnswer, download offline images to `public/images/`, assemble `data/exams/`, `data/sections/`, `data/theories/`, `data/questions/` | none | DONE |
 | M2 | Full 4-Mode Web UI/UX & Exam Engine Implementation | Implement 4 active navigation modes on dashboard (`HocOnView`, `LuyenDeView`, `LuyenPhanView`, `TopicList`), dedicated Exam Room route `/exam/[examId]` with countdown timer (40/50/60m), 1..N question palette, bookmark unsure toggle, submit modal, score breakdown, Tak12 review drawer with IPA vocab tables, LocalStorage persistence | M1 | DONE |
-| M_GIT | Git & GitHub Private Repository (R1) | Configure `.gitignore`, initialize git, commit all project files, 552 JSONs, assets, create private repo `ta12-on-thi-vao-10` on `Titananh` via `gh`, push `main` | none | IN_PROGRESS |
-| M_AUTH_DB | Google OAuth & SQLite Progress Sync (R2) | Install `better-sqlite3`, initialize `data/ta12_users.sqlite`, OAuth handlers, Access Guard, Header profile integration, and progress sync | M_GIT | PLANNED |
+| M_GIT | Git & GitHub Private Repository (R1) | Configure `.gitignore`, initialize git, commit all project files, 552 JSONs, assets, create private repo `ta12-on-thi-vao-10` on `Titananh` via `gh`, push `main` | none | DONE |
+| M_AUTH_DB | Google OAuth & SQLite Progress Sync (R2) | Install `better-sqlite3`, initialize `data/ta12_users.sqlite`, OAuth handlers, Access Guard, Header profile integration, and progress sync | M_GIT | IN_PROGRESS |
 | M_ADMIN | Dedicated Admin Web Portal (R3) | Standalone Next.js 14 app in `admin/` on port 3001, shared SQLite, Dashboard stats, 1-click Approve/Revoke, Pre-whitelist | M_AUTH_DB | PLANNED |
 | M_VERIF | Dual-App Build & Full E2E Verification | Ensure `npm run build:all` passes 100%, run full master test suite + admin tests, challenger tests, forensic audit | M_ADMIN | PLANNED |
 

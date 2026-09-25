@@ -19,7 +19,8 @@ const suites = [
   { name: 'Challenger 2 Full Adversarial Stress Suite', file: 'tests/adversarial_challenger2_m2.js' },
   { name: 'Kiến thức liên quan 1:1 Tak12 Replica Suite', file: 'tests/verify_kienthuc_modal.js' },
   { name: 'Challenger 2 ExamRunner, Themes & Offline Resilience Suite', file: 'tests/test_examrunner_theme_offline_challenger.js' },
-  { name: 'Challenger Practice Player & Modals Stress Suite', file: 'tests/challenger_practice_modals_stress.js' }
+  { name: 'Challenger Practice Player & Modals Stress Suite', file: 'tests/challenger_practice_modals_stress.js' },
+  { name: 'Auth, SQLite & Progress Sync Suite (R2)', file: 'tests/test_auth_sqlite_sync.js' }
 ];
 
 console.log('========================================================================');
