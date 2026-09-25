@@ -655,6 +655,7 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
   const unansweredCount = totalQuestions - answeredCount;
   const bookmarkedCount = bookmarks.size;
 
+  let correct = 0;
   let correctCount = 0;
   testableQuestions.forEach((q) => {
     const isFB =
@@ -672,6 +673,7 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
             matched++;
           }
         });
+        correct += matched / q.fillblankAnswers.length;
         if (matched === q.fillblankAnswers.length) {
           correctCount++;
         }
@@ -680,12 +682,13 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
       const userChoice = answers[String(q.id)];
       const correctChoice = q.choices.find((c) => c.isCorrect || String(c.id) === String(q.correctChoiceId));
       if (userChoice && correctChoice && String(userChoice) === String(correctChoice.id)) {
+        correct++;
         correctCount++;
       }
     }
   });
 
-  const finalScore = totalQuestions > 0 ? (correctCount / totalQuestions) * 10 : 0;
+  const finalScore = totalQuestions > 0 ? (correct / totalQuestions) * 10 : 0;
   const accuracyPercent = totalQuestions > 0 ? Math.round((correctCount / totalQuestions) * 100) : 0;
 
   // Format timer MM:SS
@@ -1216,7 +1219,27 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                               <Check className="w-3.5 h-3.5" />
                               <span>Đúng (+{(10 / totalQuestions).toFixed(2)}đ)</span>
                             </span>
-                          ) : isUnanswered ? (
+                          ) : isFB && userChoice && typeof userChoice === 'object' && Object.keys(userChoice).length > 0 ? (() => {
+                              let matched = 0;
+                              q.fillblankAnswers?.forEach((fb) => {
+                                const uVal = normalizeBlankValue(userChoice[String(fb.index)] ?? userChoice[fb.index] ?? '');
+                                if ((fb.correctAnswers || []).some((ans) => normalizeBlankValue(ans) === uVal)) matched++;
+                              });
+                              const partialRatio = q.fillblankAnswers?.length ? matched / q.fillblankAnswers.length : 0;
+                              if (matched > 0) {
+                                return (
+                                  <span className="flex items-center gap-1 text-xs font-bold text-amber-800 dark:text-amber-300 bg-amber-100 dark:bg-amber-950/60 px-2.5 py-1 rounded-full">
+                                    <span>Đúng {matched}/{q.fillblankAnswers?.length} ô (+{((10 / totalQuestions) * partialRatio).toFixed(2)}đ)</span>
+                                  </span>
+                                );
+                              }
+                              return (
+                                <span className="flex items-center gap-1 text-xs font-bold text-red-800 dark:text-red-300 bg-red-100 dark:bg-red-950/60 px-2.5 py-1 rounded-full">
+                                  <X className="w-3.5 h-3.5" />
+                                  <span>Sai (0đ)</span>
+                                </span>
+                              );
+                          })() : isUnanswered ? (
                             <span className="text-xs font-bold text-slate-500 dark:text-slate-400 bg-slate-100 dark:bg-[#1c201c] px-2.5 py-1 rounded-full">
                               Chưa làm (0đ)
                             </span>
