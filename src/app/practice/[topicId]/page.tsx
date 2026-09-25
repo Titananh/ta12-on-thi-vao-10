@@ -82,10 +82,11 @@ function normalizeSentence(str: string): string {
     .toLowerCase()
     .replace(/[\u2018\u2019]/g, "'")
     .replace(/[\u201C\u201D]/g, '"')
+    .replace(/[\s.?!]+$/, '')
     .replace(/\s*([,.:;?!])\s*/g, '$1 ')
     .replace(/\s+/g, ' ')
     .trim()
-    .replace(/[.?!]+$/, '');
+    .replace(/[\s.?!]+$/, '');
 }
 
 function expandContractions(s: string): string {
@@ -437,7 +438,7 @@ export default function PracticePage() {
         if (ctrl.value !== blankAnswers[idx]) {
           ctrl.value = blankAnswers[idx];
         }
-      } else if (!isSubmitted) {
+      } else if (!isSubmitted && !isRevealed && Object.keys(blankAnswers).length === 0) {
         if (ctrl.value !== '') {
           ctrl.value = '';
         }
@@ -902,6 +903,20 @@ export default function PracticePage() {
           <div className="flex items-start justify-between gap-3">
             <div
               ref={questionPromptRef}
+              onChange={(e) => {
+                const target = e.target as HTMLSelectElement | HTMLInputElement;
+                if (!target || !['SELECT', 'INPUT'].includes(target.tagName)) return;
+                const idx = target.getAttribute('index') || target.getAttribute('name')?.split('-').pop() || '0';
+                const val = target.value;
+                setBlankAnswers((prev) => ({ ...prev, [idx]: val }));
+              }}
+              onInput={(e) => {
+                const target = e.target as HTMLSelectElement | HTMLInputElement;
+                if (!target || !['SELECT', 'INPUT'].includes(target.tagName)) return;
+                const idx = target.getAttribute('index') || target.getAttribute('name')?.split('-').pop() || '0';
+                const val = target.value;
+                setBlankAnswers((prev) => ({ ...prev, [idx]: val }));
+              }}
               className="text-[17px] leading-relaxed font-bold text-white flex-1"
               dangerouslySetInnerHTML={{ __html: currentQ.questionText }}
             />

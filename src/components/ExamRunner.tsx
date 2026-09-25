@@ -856,6 +856,36 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                   {/* Question Text */}
                   <div
                     ref={questionPromptRef}
+                    onChange={(e) => {
+                      if (isSubmitted) return;
+                      const target = e.target as HTMLSelectElement | HTMLInputElement;
+                      if (!target || !['SELECT', 'INPUT'].includes(target.tagName)) return;
+                      const idxStr = target.getAttribute('index') || target.getAttribute('name')?.split('-').pop() || '0';
+                      const idx = parseInt(idxStr, 10);
+                      const val = target.value;
+                      setAnswers((prev) => {
+                        const existing = typeof prev[String(currentQ.id)] === 'object' && prev[String(currentQ.id)] !== null
+                          ? { ...prev[String(currentQ.id)] }
+                          : {};
+                        existing[idx] = val;
+                        return { ...prev, [String(currentQ.id)]: existing };
+                      });
+                    }}
+                    onInput={(e) => {
+                      if (isSubmitted) return;
+                      const target = e.target as HTMLSelectElement | HTMLInputElement;
+                      if (!target || !['SELECT', 'INPUT'].includes(target.tagName)) return;
+                      const idxStr = target.getAttribute('index') || target.getAttribute('name')?.split('-').pop() || '0';
+                      const idx = parseInt(idxStr, 10);
+                      const val = target.value;
+                      setAnswers((prev) => {
+                        const existing = typeof prev[String(currentQ.id)] === 'object' && prev[String(currentQ.id)] !== null
+                          ? { ...prev[String(currentQ.id)] }
+                          : {};
+                        existing[idx] = val;
+                        return { ...prev, [String(currentQ.id)]: existing };
+                      });
+                    }}
                     className="text-slate-800 dark:text-white text-base sm:text-lg font-medium leading-relaxed"
                     dangerouslySetInnerHTML={{ __html: currentQ.questionText }}
                   />

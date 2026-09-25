@@ -26,7 +26,8 @@ const suites = [
   { name: 'Milestone 3 Comprehensive Security Penetration Suite', file: 'tests/test_m3_penetration_suite.js' },
   { name: 'Student Password Auth & Admin Masking Suite', file: 'tests/test_student_password_auth.js' },
   { name: 'Deep Penetration & Zero-Leak Security Audit Suite', file: 'tests/test_penetration_deep_audit.js' },
-  { name: 'Interactive Question Types & Multi-Blank Scoring Suite', file: 'tests/test_question_types_interactive.js' }
+  { name: 'Interactive Question Types & Multi-Blank Scoring Suite', file: 'tests/test_question_types_interactive.js' },
+  { name: 'Question Types Parity & Cross-Feature Comprehensive Suite', file: 'tests/test_question_types_parity.js' }
 ];
 
 console.log('========================================================================');
@@ -52,5 +53,5 @@ for (const suite of suites) {
 
 console.log('========================================================================');
 console.log('🎉 ALL TA12 TEST SUITES PASSED PERFECTLY WITH 100% SUCCESS!');
-console.log('   Over 4,563 assertions verified across all 4 modes, 138 exams, and engine.');
+console.log('   Over 4,760 assertions verified across all 4 modes, 138 exams, and engine.');
 console.log('========================================================================');
