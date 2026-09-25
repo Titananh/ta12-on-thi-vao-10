@@ -3,16 +3,16 @@
 # ==============================================================================
 
 # Dependencies
-/node_modules
+node_modules/
 /.pnp
 .pnp.js
 .yarn/install-state.gz
 
 # Next.js Build Outputs & Caches
-/.next/
-/out/
-/build
-/dist
+.next/
+out/
+build/
+dist/
 *.tsbuildinfo
 next-env.d.ts.bak
 
