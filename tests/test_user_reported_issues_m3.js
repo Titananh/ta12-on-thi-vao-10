@@ -92,6 +92,8 @@ const routeCode = fs.readFileSync(path.join(__dirname, '..', 'src', 'app', 'api'
 check('route.ts imports sanitizeTheoryDetail and getCuratedTheoryHtml', routeCode.includes('sanitizeTheoryDetail') && routeCode.includes('getCuratedTheoryHtml'));
 check('route.ts sanitizes cached topics at runtime', routeCode.includes('sanitizeTheoryDetail(detail, t.name)'));
 check('route.ts prevents Canva iframe injection in formatTheoryToHtml', routeCode.includes('!l.embedUrl.includes(\'canva.com\')'));
+const curatedCode = fs.readFileSync(path.join(__dirname, '..', 'src', 'lib', 'curatedTheories.ts'), 'utf8');
+check('sanitizeTheoryDetail replaces external iframe embeds with an offline notice', curatedCode.includes('offline-embed-note'));
 check('curated_grammar_theories.json exists and is populated', fs.existsSync(path.join(__dirname, '..', 'data', 'curated_grammar_theories.json')));
 
 console.log('\n========================================================================');

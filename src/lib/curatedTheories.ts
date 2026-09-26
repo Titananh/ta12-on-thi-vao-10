@@ -205,5 +205,16 @@ export function sanitizeTheoryDetail(detail: string | null | undefined, topicNam
     return `<div class="text-center my-3"><img src="${imgSrc}" class="max-w-full h-auto rounded-lg mx-auto shadow-md" alt="Kiến thức minh họa" /></div>`;
   }
 
-  return detail;
+  // Keep the knowledge modal fully self-contained. External video/document
+  // embeds are not reliable in production and leave a large blank iframe when
+  // blocked by the browser. Preserve the surrounding lesson text and replace
+  // only the remote frame with a compact offline notice.
+  return detail.replace(
+    /<iframe\b[^>]*\bsrc=["']([^"']+)["'][^>]*>[\s\S]*?<\/iframe>/gi,
+    (_match, src: string) => {
+      const isLocal = src.startsWith('/') && !src.startsWith('//');
+      if (isLocal) return _match;
+      return '<div class="offline-embed-note p-3 my-3 rounded-lg border border-[#383c38] bg-[#1e221e] text-sm text-slate-300">Nội dung đa phương tiện đã được chuyển sang chế độ offline.</div>';
+    },
+  );
 }

@@ -69,10 +69,10 @@
 | M_AUTH_DB | Google OAuth & SQLite Progress Sync (R2) | Install `better-sqlite3`, initialize `data/ta12_users.sqlite`, OAuth handlers, Access Guard, Header profile integration, and progress sync | M_GIT | DONE |
 | M_ADMIN | Dedicated Admin Web Portal (R3) | Standalone Next.js 14 app in `admin/` on port 3001, shared SQLite, Dashboard stats, 1-click Approve/Revoke, Pre-whitelist | M_AUTH_DB | DONE |
 | M_VERIF | Dual-App Build & Full E2E Verification | Ensure `npm run build:all` passes 100%, run full master test suite + admin tests, challenger tests, forensic audit | M_ADMIN | DONE |
-| M_KIENTHUC_CORE | TheoryModal Core Logic & Tak12 Hierarchy | Add `studyUnit` prop in TheoryModal, parse in `/api/related-topic`, fix `/api/questions` study subdirs check, eliminate fallback to topic 68 | none | IN_PROGRESS |
-| M_KIENTHUC_UI | Component Integration & Offline Assets | Update `PracticePage` & `ExamRunner` to pass complete props, track untracked images in `public/Upload/`, clean placeholder routes | M_KIENTHUC_CORE | PLANNED |
-| M_KIENTHUC_VERIF | Verification & Browser DevTools Testing | Pass `verify_kienthuc_modal.js` (21/21), resolve `npm test` legacy check, run dual Next.js builds, capture 5 browser scenario screenshots | M_KIENTHUC_UI | PLANNED |
-| M_KIENTHUC_DEPLOY | Git Commit, Push & Vercel Verification | Commit changes, push to `origin/main`, verify Vercel deployment status, issue completion claim report | M_KIENTHUC_VERIF | PLANNED |
+| M_KIENTHUC_CORE | TheoryModal Core Logic & Tak12 Hierarchy | Add `studyUnit` prop in TheoryModal, parse in `/api/related-topic`, fix `/api/questions` study subdirs check, eliminate fallback to topic 68 | none | DONE |
+| M_KIENTHUC_UI | Component Integration & Offline Assets | Update `PracticePage` & `ExamRunner` to pass complete props, track untracked images in `public/Upload/`, clean placeholder routes | M_KIENTHUC_CORE | DONE |
+| M_KIENTHUC_VERIF | Verification & Browser DevTools Testing | Pass `verify_kienthuc_modal.js` (21/21), resolve `npm test` legacy check, run dual Next.js builds, capture 5 browser scenario screenshots | M_KIENTHUC_UI | DONE |
+| M_KIENTHUC_DEPLOY | Git Commit, Push & Vercel Verification | Commit changes, push to `origin/main`, verify Vercel deployment status, issue completion claim report | M_KIENTHUC_VERIF | DONE |
 
 ## Interface Contracts
 ### Exam Room API (`/api/exams`)
