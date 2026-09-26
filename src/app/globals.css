@@ -725,17 +725,49 @@ input.ms {
   background-color: #4ea713 !important;
 }
 
-/* Dark mode question prompt HTML contrast fixes */
-.dark .bg-\[\#242824\] .bg-slate-50,
-.dark .bg-\[\#242824\] [class*="bg-slate-50"] {
+/* Question prompt HTML contrast fixes for dark cards */
+.bg-\[\#242824\] .bg-slate-50,
+.bg-\[\#242824\] [class*="bg-slate-50"],
+.bg-\[\#242824\] table,
+.bg-\[\#242824\] table tr,
+.bg-\[\#242824\] table td,
+.bg-\[\#242824\] table th {
   background-color: #1e221e !important;
   border-color: #383c38 !important;
   color: #e6e6e6 !important;
 }
 
-.dark .bg-\[\#242824\] .text-slate-900,
-.dark .bg-\[\#242824\] .text-slate-800,
-.dark .bg-\[\#242824\] .text-slate-700 {
+.bg-\[\#242824\] [style*="background-color"],
+.bg-\[\#242824\] [style*="background:"] {
+  background-color: #1e221e !important;
   color: #e6e6e6 !important;
 }
+
+.bg-\[\#242824\] .text-slate-900,
+.bg-\[\#242824\] .text-slate-800,
+.bg-\[\#242824\] .text-slate-700,
+.bg-\[\#242824\] table td,
+.bg-\[\#242824\] table strong,
+.bg-\[\#242824\] table em,
+.bg-\[\#242824\] table p,
+.bg-\[\#242824\] table span {
+  color: #e6e6e6 !important;
+}
+
+.bg-\[\#242824\] .fillblank-option input,
+.bg-\[\#242824\] input.fillblank-input,
+.bg-\[\#242824\] input.ms {
+  background-color: #1e221e !important;
+  color: #ffffff !important;
+  border: 1.5px solid #383c38 !important;
+}
+
+.bg-\[\#242824\] .fillblank-option input:focus,
+.bg-\[\#242824\] input.fillblank-input:focus,
+.bg-\[\#242824\] input.ms:focus {
+  border-color: #5fbd18 !important;
+  box-shadow: 0 0 0 2px rgba(95, 189, 24, 0.3) !important;
+}
+
+
 

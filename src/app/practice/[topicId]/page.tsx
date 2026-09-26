@@ -983,7 +983,9 @@ export default function PracticePage() {
         {/* Question Sub-Header Row */}
         <div className="px-6 py-3.5 border-b border-[#383c38] flex items-center justify-between text-sm bg-[#242824] flex-wrap gap-2">
           <span className="font-bold text-white text-base">
-            {currentQ.questionName || `Question ${currentIndex + 1}`}
+            {(!currentQ.questionName || /^(\d+|[a-zA-Z]|Question\s*\d+)$/i.test(currentQ.questionName.trim()))
+              ? `Câu ${currentIndex + 1}`
+              : currentQ.questionName}
           </span>
 
           {/* Subheader Banner: Bạn trả lời chính xác / chưa chính xác */}
