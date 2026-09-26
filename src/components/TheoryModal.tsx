@@ -48,6 +48,9 @@ export default function TheoryModal({
     if (!isOpen) return;
 
     let isMounted = true;
+    // Never keep the previous question's content visible while a new request is in flight.
+    setTopics([]);
+    setZoomedImage(null);
     async function loadRelatedTopics() {
       setLoading(true);
       try {
@@ -61,9 +64,11 @@ export default function TheoryModal({
         if (res.ok) {
           const data = await res.json();
           if (isMounted && data && Array.isArray(data.listQuestionTopicDetail) && data.listQuestionTopicDetail.length > 0) {
-            // A question's own explanation is more precise than a module/section fallback.
-            // Keep the official cached related topic whenever one exists.
-            if (data.source !== 'question' && questionDetail?.trim()) {
+            // A question's own explanation is more precise than a broad fallback.
+            // If the official record exists but has no usable detail, use the exact
+            // question explanation instead of rendering an empty modal.
+            const hasDetail = data.listQuestionTopicDetail.some((item: RelatedTopicItem) => item?.detail?.trim());
+            if ((!hasDetail || data.source !== 'question') && questionDetail?.trim()) {
               setTopics([{ name: 'Kiến thức cần vận dụng', detail: questionDetail }]);
             } else {
               setTopics(data.listQuestionTopicDetail);

@@ -152,7 +152,8 @@ async function runTests() {
   assert.ok(modalCode.includes('data-testid={`related-topic-detail-${idx}`}'), 'Has related-topic-detail testid');
   assert.ok(modalCode.includes('data-testid="close-related-topic-btn"'), 'Has close-related-topic-btn testid');
   assert.ok(modalCode.includes('related-topic-content'), 'Has related-topic-content styling class');
-  assert.ok(modalCode.includes("data.source !== 'question' && questionDetail?.trim()"), 'Question explanation overrides broad fallbacks');
+  assert.ok(modalCode.includes("(!hasDetail || data.source !== 'question') && questionDetail?.trim()"), 'Question explanation overrides broad or empty fallbacks');
+  assert.ok(modalCode.includes('setTopics([])'), 'Modal clears previous question content while loading');
   pass('TheoryModal component strictly follows Tak12 structure, title, testids, and classes');
   pass('TheoryModal prioritizes exact question knowledge over module/section fallbacks');
 
