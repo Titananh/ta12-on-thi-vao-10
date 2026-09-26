@@ -724,3 +724,18 @@ input.ms {
 .hover\:bg-\[\#4ea713\]:hover {
   background-color: #4ea713 !important;
 }
+
+/* Dark mode question prompt HTML contrast fixes */
+.dark .bg-\[\#242824\] .bg-slate-50,
+.dark .bg-\[\#242824\] [class*="bg-slate-50"] {
+  background-color: #1e221e !important;
+  border-color: #383c38 !important;
+  color: #e6e6e6 !important;
+}
+
+.dark .bg-\[\#242824\] .text-slate-900,
+.dark .bg-\[\#242824\] .text-slate-800,
+.dark .bg-\[\#242824\] .text-slate-700 {
+  color: #e6e6e6 !important;
+}
+

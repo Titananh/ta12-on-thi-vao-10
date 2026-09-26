@@ -1,0 +1,809 @@
+[
+  {
+    "id": 908418,
+    "questionNumber": 1,
+    "questionName": "1",
+    "questionType": "FillBlank",
+    "questionText": "<p><strong>C&#225;c ph&#225;t bi&#7875;u sau l&#224; &#273;&#250;ng hay sai?</strong></p>\n<p>1. &#272;&#7897;ng t&#7915; c&#243; th&#7875; &#273;&#7913;ng &#273;&#7847;u c&#226;u trong m&#7885;i lo&#7841;i c&#226;u. <span class='fillblank-option'><label>1.1</label><select class='ms fillblank-option-1' index='0' name='fbo-908418-0' data-testid='fillblank-select-908418-0'><option value='' data-testid='fillblank-option-empty-908418-0'></option><option value=\"Sai\" data-testid='fillblank-option-908418-0-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-908418-0-Đúng'>Đúng</option></select></span></p>\n<p>2. &#272;&#7897;ng t&#7915; &#273;&#7913;ng sau ch&#7911; ng&#7919; &#273;&#7875; t&#7841;o v&#7883; ng&#7919; c&#7911;a c&#226;u. <span class='fillblank-option'><label>1.2</label><select class='ms fillblank-option-1' index='1' name='fbo-908418-1' data-testid='fillblank-select-908418-1'><option value='' data-testid='fillblank-option-empty-908418-1'></option><option value=\"Đúng\" data-testid='fillblank-option-908418-1-Đúng'>Đúng</option><option value=\"Sai\" data-testid='fillblank-option-908418-1-Sai'>Sai</option></select></span></p>\n<p>3. &#272;&#7897;ng t&#7915; &#273;&#7913;ng sau (c&#7909;m) t&#7915; ch&#7881; m&#7909;c &#273;&#237;ch &#273;&#7875; di&#7877;n &#273;&#7841;t m&#7909;c &#273;&#237;ch c&#7911;a h&#224;nh &#273;&#7897;ng. <span class='fillblank-option'><label>1.3</label><select class='ms fillblank-option-1' index='2' name='fbo-908418-2' data-testid='fillblank-select-908418-2'><option value='' data-testid='fillblank-option-empty-908418-2'></option><option value=\"Sai\" data-testid='fillblank-option-908418-2-Sai'>Sai</option><option value=\"Đúng\" data-testid='fillblank-option-908418-2-Đúng'>Đúng</option></select></span></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [],
+    "correctChoiceId": null,
+    "fillblankAnswers": [
+      {
+        "index": 0,
+        "correctAnswers": [
+          "Sai"
+        ]
+      },
+      {
+        "index": 1,
+        "correctAnswers": [
+          "Đúng"
+        ]
+      },
+      {
+        "index": 2,
+        "correctAnswers": [
+          "Đúng"
+        ]
+      }
+    ],
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p><img src=\"/images/exams/3_-_Copy_41_6b7b0159.png\" alt=\"\" width=\"600\" /></p>",
+    "answerFeedbacks": {},
+    "images": []
+  },
+  {
+    "id": 908424,
+    "questionNumber": 2,
+    "questionName": "1",
+    "questionType": "CheckBox",
+    "questionText": "<p><strong>Ch&#7885;n c&#225;c &#273;&#7897;ng t&#7915; trong list t&#7915; d&#432;&#7899;i &#273;&#226;y.&nbsp;</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1724296,
+        "label": "A",
+        "text": "identify",
+        "isCorrect": true
+      },
+      {
+        "id": 1724297,
+        "label": "B",
+        "text": "critical",
+        "isCorrect": false
+      },
+      {
+        "id": 1724298,
+        "label": "C",
+        "text": "recognize",
+        "isCorrect": true
+      },
+      {
+        "id": 1724299,
+        "label": "D",
+        "text": "motivate",
+        "isCorrect": true
+      },
+      {
+        "id": 1724300,
+        "label": "E",
+        "text": "action",
+        "isCorrect": false
+      },
+      {
+        "id": 1724301,
+        "label": "F",
+        "text": "widen",
+        "isCorrect": true
+      },
+      {
+        "id": 1724302,
+        "label": "Opt 7",
+        "text": "improvement",
+        "isCorrect": false
+      },
+      {
+        "id": 1724303,
+        "label": "Opt 8",
+        "text": "lengthen",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 1724296,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p><img src=\"/images/exams/4_-_Copy_15_09912990.png\" alt=\"\" width=\"600\" /></p>",
+    "answerFeedbacks": {},
+    "images": []
+  },
+  {
+    "id": 466342,
+    "questionNumber": 3,
+    "questionName": "19",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>In order to _____ soft skills, my brother has decided to attend a training course.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 933448,
+        "label": "A",
+        "text": "sharply",
+        "isCorrect": false
+      },
+      {
+        "id": 933449,
+        "label": "B",
+        "text": "sharp",
+        "isCorrect": false
+      },
+      {
+        "id": 933450,
+        "label": "C",
+        "text": "sharpen",
+        "isCorrect": true
+      },
+      {
+        "id": 933451,
+        "label": "D",
+        "text": "sharpness",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 933450,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p style=\"text-align: justify;\">Hãy nhớ lại dạng động từ thường được sử dụng sau cụm giới từ chỉ mục đích \"<em>In order to</em>\".</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe width=\"100%\" height=\"275\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2F4xc%2BZRzGhdE1G%2B7IbOc6xt9hh5lMKkhGm9BHAKfLPcnr5D5U72I28potT9KBTtz%2BFkLYw592nxn%2B%2BfQEIJs5JOPbbxWDApEwo7udsDMyW0Y5xnpscmEttTnnZDpXShotuyjOBygmC%2FGuNjbrlO5wYawUNVM4cxnLrziHyjAriU7NRe%2B4mngJWVtTZky29NUeFiUVKbFmB7Fo5pfG3AIDFe%2FAHusj6NroSjxEhV9IkXXNB8Eh3Bqx6FqDzIgmGAEsNf%2FhoPC3CGRH%2BvFQd%2BNzUTjamnKwTj683RPzTlVUIxASzYAHwUqWo3s%2FKjaMTXD1LFv7qv2DDGYeqS87gBMoWqXo9WHomO8l2JQ5unZp0Vd8ShjfwXWnw\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống đứng sau cụm giới từ chỉ mục đích \"<em>In order to</em>\", do đó từ cần điền phải là một động từ nguyên thể. Trong câu này, động từ nguyên thể sẽ là tân ngữ cho cụm từ \"<em>soft skills</em>\". Động từ <em><strong>sharpen</strong> </em>(mài giũa, cải thiện) là lựa chọn phù hợp nhất về cả ngữ pháp và ngữ nghĩa, có nghĩa là nâng cao, cải thiện kỹ năng mềm.</p>",
+    "answerFeedbacks": {
+      "933448": "Trạng từ <em>\"sharply\"</em> không phù hợp về mặt ngữ pháp vì vị trí cần điền là một động từ nguyên thể sau <em>\"to\"</em>.",
+      "933449": "Tính từ <em>\"sharp\"</em> không phù hợp về mặt ngữ pháp vì vị trí cần điền là một động từ nguyên thể sau <em>\"to\"</em>.",
+      "933450": "Động từ nguyên thể <em>\"sharpen\"</em> (mài giũa, cải thiện) phù hợp về mặt ngữ pháp và ngữ nghĩa, hoàn thành cấu trúc <em>\"in order to + V_inf\"</em> (để làm gì) và bổ nghĩa cho <em>\"soft skills\"</em>.",
+      "933451": "Danh từ <em>\"sharpness\"</em> không phù hợp về mặt ngữ pháp vì vị trí cần điền là một động từ nguyên thể sau <em>\"to\"</em>."
+    },
+    "images": []
+  },
+  {
+    "id": 466775,
+    "questionNumber": 4,
+    "questionName": "18",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>It is important that we should _____ the environment.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 934233,
+        "label": "A",
+        "text": "protective",
+        "isCorrect": false
+      },
+      {
+        "id": 934234,
+        "label": "B",
+        "text": "protect",
+        "isCorrect": true
+      },
+      {
+        "id": 934235,
+        "label": "C",
+        "text": "protectively",
+        "isCorrect": false
+      },
+      {
+        "id": 934309,
+        "label": "D",
+        "text": "protection",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 934234,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Xem xét từ đứng trước chỗ trống là <em>\"should\",</em> một động từ khuyết thiếu.</p>\n<p>Hãy nhớ lại dạng động từ thường theo sau động từ khuyết thiếu để tìm được phương án đúng.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe width=\"100%\" height=\"315\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18BQRk5N531Jui4L6qvciJ0%2BsCHggB3YpG6gXfxP9kPGQEhsgSd1R77qjztPiC7wale49qUPoWPJcahyXBwzVfSNtNSAJ19IM0T%2F9H3d42ffLarpbrARRwLJGy%2BtFfPQAwR113IlTyzpofgC0ogujvyASqsxdbziHhLA2Vk51tQ7YA%2FyteQGGLpccgTSLA7HTqlfKBGJ8Ik9YkFZu8HTNeccfBFX8fT6wuc9WinzenAjNESBl2WoH6ikHRXzzzfbCj2fXBtnImAdgcD27ICo5jPNGJPMmupE6ZGSW%2F%2BmZGFDEgKe0v3NOJkLytLVHHOTGL%2BII0TcdFaG%2BoHFdMVmH2BTftT8nVyj6RSw%2BYO6VYRwHNuTj2G%2Bc%2Bg\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống đứng sau động từ khuyết thiếu <em>\"should\"</em>. Theo quy tắc ngữ pháp, sau động từ khuyết thiếu phải là một động từ ở dạng nguyên mẫu không <em>\"to\"</em>. Phương án <em><strong>protect</strong> </em>là động từ nguyên mẫu, phù hợp với vị trí này và mang nghĩa <em>\"bảo vệ\"</em>, tạo thành câu có nghĩa <em>\"Điều quan trọng là chúng ta nên bảo vệ môi trường.\"</em></p>",
+    "answerFeedbacks": {
+      "934233": "Tính từ <em>\"protective\"</em> (mang tính bảo vệ) không thể đứng sau trợ động từ khi không có động từ chính đi kèm.",
+      "934234": "Động từ nguyên mẫu <em>\"protect\"</em> (bảo vệ) là dạng thức đúng cần điền sau trợ động từ <em>\"should\"</em> để tạo thành một cụm động từ.",
+      "934235": "Trạng từ <em>\"protectively\"</em> (một cách bảo vệ) không thể đứng sau trợ động từ <em>\"should\"</em> để làm động từ chính của câu.",
+      "934309": "Danh từ <em>\"protection\"</em> (sự bảo vệ) không thể đứng sau trợ động từ <em>\"should\"</em> để làm động từ chính của câu."
+    },
+    "images": []
+  },
+  {
+    "id": 67076,
+    "questionNumber": 5,
+    "questionName": "Question 13",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>His father is very interested in old books. He likes to _____ them.</strong></p>\n<div style=\"position: absolute; left: 450px; top: 34px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\"> </div>\n</div>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 178196,
+        "label": "A",
+        "text": "collection",
+        "isCorrect": false
+      },
+      {
+        "id": 178197,
+        "label": "B",
+        "text": "collect",
+        "isCorrect": true
+      },
+      {
+        "id": 178198,
+        "label": "C",
+        "text": "collector",
+        "isCorrect": false
+      },
+      {
+        "id": 1282795,
+        "label": "D",
+        "text": "collected",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 178197,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p><span style=\"text-align: justify;\">Chỗ trống cần điền đứng sau giới từ \"</span><em style=\"text-align: justify;\">to</em><span style=\"text-align: justify;\">\"</span><span style=\"text-align: justify;\"> và đứng trước tân ngữ \"</span><em style=\"text-align: justify;\">them</em><span style=\"text-align: justify;\">\". Hãy nhớ lại bạn thường sử dụng dạng từ nào sau cụm ''<em>likes to</em>'' để diễn tả hành động ưa thích của chủ thể.</span></p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 305px;\"><iframe width=\"100%\" height=\"305\" style=\"border: none;\" id=\"embed-frame-C49DA\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2Fo8MtV%2Bs5QIs4XH0nosRqIZXHN6PabzInvQ5ksMft%2B70kltaSpCY948n7VCi2lAujvrvQlJ6XavE9eBTsP4ftD2PIP1%2Bfvy1PEOGTHxOGdGC0QaGIHQXibo3hwj4L5mIT6WKIK06jckhiceNT%2BXV5bk38q7n0MC0mu8WjR9fHD2Zsu5bft4xOLNc%2FxIjQBwtHVzZy6uJsgXxqIkjHSivqSM0CeSgRYhc5traK2%2BHv%2BEXjpefI4Bwt25X47jG1bpe3eKnkfRD%2BQMYgtYqdCVR6nu4qJzinf93WLUyM1N5%2FYPszh2daRXHqacqIeT%2Fz0G%2FPLZ5M6w79fpPj8WRI%2B%2BL%2B8YXtKmWq11IEm9F0%2Fo0FjIKmPZZQaIosh\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống cần điền đứng sau giới từ \"<em>to</em>\" trong cấu trúc \"<em>likes to</em>\" và đứng trước tân ngữ \"<em>them</em>\". Vị trí này yêu cầu một động từ nguyên thể để tạo thành cụm động từ nguyên thể (to-infinitive) bổ nghĩa cho \"<em>likes</em>\". Trong các phương án, chỉ có <em><b>collect</b> </em>là động từ nguyên thể phù hợp, mang nghĩa \"sưu <em>tầm\"</em> các cuốn sách cũ.</p>",
+    "answerFeedbacks": {
+      "178196": "Phương án này là danh từ, không phù hợp để điền vào vị trí cần một động từ sau \"to\" và trước tân ngữ \"them\".",
+      "178197": "Từ \"collect\" là động từ nguyên thể, phù hợp với cấu trúc \"likes to + V (nguyên thể) + tân ngữ\".",
+      "178198": "Phương án này là danh từ chỉ người, không phù hợp để điền vào vị trí cần một động từ.",
+      "1282795": "Từ \"collected\" là dạng quá khứ đơn hoặc quá khứ phân từ, không phù hợp với cấu trúc cần động từ nguyên thể sau \"to\"."
+    },
+    "images": []
+  },
+  {
+    "id": 83420,
+    "questionNumber": 6,
+    "questionName": "Question 24:",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Should I _____ my name at the bottom of the page?</strong></p>\n<div style=\"position: absolute; left: 361px; top: 34px;\" id=\"gtx-trans\">\n<div class=\"gtx-trans-icon\"> </div>\n</div>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 205891,
+        "label": "A",
+        "text": "signature",
+        "isCorrect": false
+      },
+      {
+        "id": 205892,
+        "label": "B",
+        "text": "sign",
+        "isCorrect": true
+      },
+      {
+        "id": 205893,
+        "label": "C",
+        "text": "signed",
+        "isCorrect": false
+      },
+      {
+        "id": 830563,
+        "label": "D",
+        "text": "signal",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 205892,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Hãy nhớ lại dạng từ nào thường đứng sau động từ khuyết thiếu ''<em>should</em>'' và đối chiếu với các phương án.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 265px; height: 385px;\"><iframe width=\"100%\" height=\"385\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FWxiR0BGSXmLBkg%2BwZo5KUnyP0P2AktNAOxARAfXOtt0MesApkxM2ZNg86TMpDraimB6H%2BwOWqwX1FFlVQOlm0BRSxvHYHZTK0KOt9SOOIa0sQ6%2FZCOQqzrs%2FaqPidwUaWVacSjFR%2Fk%2Bz6djM7pD2SIX0cW%2BRbP%2FXD0R0MAUJ0furxYs6g%2F4eNLoEQtx15HSQkSVhreEV1FbDO%2F8mgj1GUupIxZCXSsBb8uNBhvwZVr3ITyTueCHpIR23YYGevCD2pIQb9L%2F13nxdVzZ8WgX1ptK30xvS%2FEKjUNm0QLRm%2FLnKrYY0rHrifWmWiR9KgwdZ7kx1M4ADfDQ%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu hỏi, chỗ trống cần điền một động từ nguyên thể không <em>\"to\"</em> (bare infinitive) vì nó đứng sau trợ động từ khiếm khuyết <em>\"Should\"</em>. Động từ này phải có nghĩa phù hợp với đối tượng <em>\"my name\"</em> và cụm giới từ <em>\"at the bottom of the page\"</em>, tức là hành động ký tên. Do đó <em><strong>sign </strong></em>là động từ phù hợp nhất trong ngữ cảnh này.</p>",
+    "answerFeedbacks": {
+      "205891": "Đây là một danh từ, nhưng vị trí cần điền là một động từ nguyên thể sau trợ động từ khiếm khuyết <em>\"should\"</em>.",
+      "205892": "Sau trợ động từ khiếm khuyết <em>\"should\"</em>, chúng ta cần dùng động từ nguyên thể không <em>\"to\"</em> (bare infinitive) để tạo thành một câu hỏi.",
+      "205893": "Đây là dạng quá khứ hoặc phân từ hai của động từ, không phù hợp để theo sau trợ động từ khiếm khuyết <em>\"should\"</em>.",
+      "830563": "Mặc dù <em>\"signal\"</em> là một động từ nguyên thể, nhưng nghĩa của nó (\"ra hiệu, báo hiệu\") không phù hợp với ngữ cảnh <em>\"my name at the bottom of the page\"</em>."
+    },
+    "images": []
+  },
+  {
+    "id": 908354,
+    "questionNumber": 7,
+    "questionName": "1",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>With so many choices, it is hard to</strong> <strong>_____ what to buy. </strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1724180,
+        "label": "A",
+        "text": "decision",
+        "isCorrect": false
+      },
+      {
+        "id": 1724181,
+        "label": "B",
+        "text": "decisive",
+        "isCorrect": false
+      },
+      {
+        "id": 1724182,
+        "label": "C",
+        "text": "decide",
+        "isCorrect": true
+      },
+      {
+        "id": 1724183,
+        "label": "D",
+        "text": "decisively",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1724182,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p><span style=\"text-align: justify;\">Trong câu</span><span style=\"text-align: justify;\">, chỗ trống nằm sau giới từ </span><em style=\"text-align: justify;\">\"to\"</em><span style=\"text-align: justify;\"> và là một phần của cấu trúc </span><em style=\"text-align: justify;\">\"it is hard to + V\"</em><span style=\"text-align: justify;\">. Bạn cần một động từ ở dạng phù hợp để hoàn thành câu này.</span></p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe width=\"100%\" height=\"315\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BRsTMyQZqlUTqwWwGyqI%2B1lVgcz%2B0wJ8O1LkBJm6UrDCrA1YLbO0Q5MJnmjMitGoE4sVGEOuv0VDse5RMRVS%2BiZaCafBLHbYtVEyUG0eNyG7ZZXjb2GvC9Nxard%2B6CWJs1vde0pU9X%2FXVwFV%2BAETzRsanyz4Qlm2NBcHZYfDkzr9iA7t4zfqjBGANcYHjIXPKstJhFuC5k6u7hhm7OE8DgT0K65wMhM1C0yBp7nKEF8TE1KON6CSNi8V8WVfizIV4kSzp6BAJK%2BGJdHsplUO4x1QuD3Kw1m9KqqkyfnSAPNUKCjOirTv5cNruGjZKFivLccj3Cv98AkRfTZpuvbPHqmeeasEZ3C3RyamGMShTURB5AUxh%2BZdIU\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống nằm sau giới từ <em>\"to\"</em> và là một phần của cấu trúc <em>\"it is hard to + V\"</em>. Do đó, từ cần điền phải là một động từ nguyên thể để chỉ hành động gì đó khó thực hiện và <strong><em>decide </em></strong>là phương án phù hợp nhất.</p>",
+    "answerFeedbacks": {
+      "1724180": "Từ <em>\"decision\"</em> là danh từ, không phù hợp sau <em>\"to\"</em> trong cấu trúc nguyên thể.",
+      "1724181": "Từ <em>\"decisive\"</em> là tính từ, không phù hợp sau <em>\"to\"</em> trong cấu trúc nguyên thể.",
+      "1724182": "Từ <em>\"decide\"</em> là động từ nguyên thể, phù hợp với cấu trúc <em>\"to + V\"</em> (nguyên thể) sau <em>\"it is hard to\"</em>.",
+      "1724183": "Từ <em>\"decisively\"</em> là trạng từ, không phù hợp sau <em>\"to\"</em> trong cấu trúc nguyên thể."
+    },
+    "images": []
+  },
+  {
+    "id": 908373,
+    "questionNumber": 8,
+    "questionName": "1",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>They plan to _____ the table with flowers and candles for the dinner. </strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1724210,
+        "label": "A",
+        "text": "decorative",
+        "isCorrect": false
+      },
+      {
+        "id": 1724211,
+        "label": "B",
+        "text": "decoration",
+        "isCorrect": false
+      },
+      {
+        "id": 1724212,
+        "label": "C",
+        "text": "decoratively",
+        "isCorrect": false
+      },
+      {
+        "id": 1724213,
+        "label": "D",
+        "text": "decorate",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 1724213,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p><span style=\"text-align: justify;\">Xem xét chỗ trống đứng sau giới từ </span><em style=\"text-align: justify;\">\"to\"</em><span style=\"text-align: justify;\">, tạo thành cấu trúc </span><em style=\"text-align: justify;\">\"plan to + V\"</em><span style=\"text-align: justify;\"> (lên kế hoạch làm gì). </span></p>\n<p><span style=\"text-align: justify;\">Bạn cần một động từ ở dạng phù hợp để hoàn thành câu này.</span></p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 315px;\"><iframe width=\"100%\" height=\"315\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19CV0Bm0%2BksaZhvGWycKqaoT7lScFpeq8cGkRjiyrl8%2FqWXCUvpzNJWeJXO001X6b%2BiAlPh8sdDYQPKZVfgTDkw9g7A8rdlYsXsyyX7oGIXftScxkUr4KaQGedgunNshnPZ0CS9c7f6AnCECAHilFVIEb0nlw39C13dvq3iKoCTkMgJEv8bFRYjOwuDD2SVTcvQm%2B55lCnC6RdIOgH4fg2YyVUdrb1PaBhOKTzM39vVwAziFpF3ysLDSQOcuGo2OIsfzTFeK2sV9teMQW8a1UTC66E9KefyYRblT0ke0VlKK3d%2F1QzK6V0Wh94b8RNmVJToX1Sd6Tu3mic9bt1JbHI05Apvguhg%2BP32YBnI4%2BROOHZ0zsumXGdSj%2BYdnNvdVrSx%2F0qCWVvErQ%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống đứng sau giới từ <em>\"to\"</em>, tạo thành cấu trúc <em>\"plan to + V\"</em> (lên kế hoạch làm gì). Do đó, từ cần điền phải là một động từ nguyên thể. Trong câu, động từ <em><strong>decorate</strong> </em>(trang trí) phù hợp cả về ngữ pháp và ngữ nghĩa, mang ý nghĩa <em>\"họ dự định trang trí bàn ăn bằng hoa và nến\"</em>.</p>",
+    "answerFeedbacks": {
+      "1724210": "Tính từ \"decorative\" (mang tính trang trí) không phù hợp về ngữ pháp vì vị trí cần điền là một động từ.",
+      "1724211": "Danh từ \"decoration\" (sự trang trí, đồ trang trí) không phù hợp về ngữ pháp vì vị trí cần điền là một động từ.",
+      "1724212": "Trạng từ \"decoratively\" (một cách trang trí) không phù hợp về ngữ pháp vì vị trí cần điền là một động từ.",
+      "1724213": "Động từ nguyên thể \"decorate\" (trang trí) là dạng từ đúng để điền vào chỗ trống sau giới từ \"to\" trong cấu trúc \"plan to + V\"."
+    },
+    "images": []
+  },
+  {
+    "id": 908374,
+    "questionNumber": 9,
+    "questionName": "1",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>The athletes will _____ against each other in a race to determine the winner.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1724214,
+        "label": "A",
+        "text": "compete",
+        "isCorrect": true
+      },
+      {
+        "id": 1724215,
+        "label": "B",
+        "text": "competitor",
+        "isCorrect": false
+      },
+      {
+        "id": 1724216,
+        "label": "C",
+        "text": "competition",
+        "isCorrect": false
+      },
+      {
+        "id": 1724217,
+        "label": "D",
+        "text": "competitive",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1724214,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Để điền vào chỗ trống, bạn cần một động từ ở dạng phù hợp để đứng sau trợ động từ khuyết thiếu <em>\"will\"</em>.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 275px;\"><iframe width=\"100%\" height=\"275\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19XO6r8GAKYXx7vCI7VrTlw0JNtiHmDOCPr63NcZdvZttCHE7nNPRXuzqw6hDgI9DXyBWXUYWIQB1jRji4HsVKcbFDC0WVChtdi3pk28apc7Cb6%2F8AZrfTHweXkIIUjMyZTVJIBmxcY4yfrcE1ZUmw%2Bcne9gFmFRgXIZf4iyrODDzT5g4ZPk%2Fb02WxnT6%2FfhD9WfWtpB19atNARgIqHqKogqekTJFvEw6CHe1JnAPpS4K0lwNPZZbmsMq4%2FIP80dNM3%2Fwvfqt5i3jm2KOSh2t0JqTHCs9qE1tTY0y9krFID4mKkQDbDH5eMefKNT%2B8ddbVVTj1ZDJIVcjhobLfCQbkj1pHmUj5KG1qtTjgdtK8Ap4umwlIA0s3jj5joIBNm70dT2ZabCrKGEg%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống đứng sau trợ động từ khuyết thiếu <em>\"will\"</em>. Theo quy tắc ngữ pháp, sau <em>\"will\"</em> cần một động từ nguyên thể để tạo thành thì tương lai đơn hoặc diễn tả một hành động sẽ xảy ra. Từ <em><strong>compete</strong> </em>là động từ nguyên thể, có nghĩa là <em>\"thi đấu, cạnh tranh\"</em>, hoàn toàn phù hợp với ngữ cảnh <em>\"against each other in a race\"</em> (đối đầu nhau trong một cuộc đua).</p>",
+    "answerFeedbacks": {
+      "1724214": "Là dạng động từ nguyên thể phù hợp để theo sau trợ động từ khuyết thiếu \"will\".",
+      "1724215": "Là một danh từ chỉ người, không phù hợp về ngữ pháp sau trợ động từ khuyết thiếu \"will\".",
+      "1724216": "Là một danh từ chỉ sự kiện hoặc hoạt động, không phù hợp về ngữ pháp sau trợ động từ khuyết thiếu \"will\".",
+      "1724217": "Là một tính từ, không phù hợp về ngữ pháp sau trợ động từ khuyết thiếu \"will\"."
+    },
+    "images": []
+  },
+  {
+    "id": 908383,
+    "questionNumber": 10,
+    "questionName": "1",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>I need to _____ for my exam by studying all the relevant materials.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1724228,
+        "label": "A",
+        "text": "preparation",
+        "isCorrect": false
+      },
+      {
+        "id": 1724229,
+        "label": "B",
+        "text": "prepare",
+        "isCorrect": true
+      },
+      {
+        "id": 1724230,
+        "label": "C",
+        "text": "prepared",
+        "isCorrect": false
+      },
+      {
+        "id": 1724231,
+        "label": "D",
+        "text": "preparing",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1724229,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Hãy chú ý đến cấu trúc ngữ pháp trước chỗ trống, cụ thể là cụm từ <em>\"need to\"</em>. Cụm này thường đi kèm với dạng từ loại nào <span style=\"text-align: justify;\">để diễn tả sự cần thiết phải làm gì đó.</span>?</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 265px; height: 385px;\"><iframe width=\"100%\" height=\"385\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BIf8BV2iBdyOH%2FbCpoCnHNrojmxCXTBE4NUkNAYZj9eW9zFq4GxKiqk0rrPiDHGaVDsnQfj%2FVOyUsztHGrK%2BD2dJPEebRx6c8HW7G2mT0XXz%2BUr2UWtcl4scjQb%2BHR9JQffpFPh9GsvE8Co6hPiDxzpQ%2BZNeezt3F%2FfxJwRZ74yxgCyQlD1GSImnUgq53sadRJOvyTi5DeEJ8wx1zlO8zx0wwFgSS8TVzvzWkw489VVfjyix%2FNvdu55ALmkqNEY0eP8q0SfNoBOIZSsDh9xljDamXdhK7iQLaRR6JA0oyMNBYv5xQd64UDHT52AH34kdr8pRrOWjKt4f%2BRDMAsQYt1gQi9fF2xFhw%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu này, chỗ trống đứng sau cụm từ <em>\"need to\"</em>. Theo quy tắc ngữ pháp, cụm <em>\"need to\"</em> luôn phải được theo sau bởi một động từ nguyên thể để diễn tả sự cần thiết phải làm gì đó. Do đó, phương án phù hợp nhất là ''<em><strong>prepare</strong></em>''.</p>",
+    "answerFeedbacks": {
+      "1724228": "\"preparation\" là một danh từ, không phù hợp về mặt ngữ pháp sau cụm \"need to\".",
+      "1724229": "Đây là dạng động từ nguyên thể, phù hợp về mặt ngữ pháp sau cấu trúc \"need to + V-inf\".",
+      "1724230": "\"prepared\" là dạng quá khứ đơn hoặc quá khứ phân từ của động từ, không đúng ngữ pháp sau \"need to\".",
+      "1724231": "\"preparing\" là dạng hiện tại phân từ hoặc danh động từ, không đúng ngữ pháp sau \"need to\"."
+    },
+    "images": []
+  },
+  {
+    "id": 703652,
+    "questionNumber": 11,
+    "questionName": "Question 2",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Nicky tried to _____ his friends with his knowledge of the latest technology.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1365222,
+        "label": "A",
+        "text": "impression",
+        "isCorrect": false
+      },
+      {
+        "id": 1365223,
+        "label": "B",
+        "text": "impress",
+        "isCorrect": true
+      },
+      {
+        "id": 1365224,
+        "label": "C",
+        "text": "impressive",
+        "isCorrect": false
+      },
+      {
+        "id": 1365225,
+        "label": "D",
+        "text": "impressed",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1365223,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Hãy chú ý cấu trúc <em data-start=\"21\" data-end=\"40\">\"try to + V(inf)\" </em>trong câu. Bạn cần tìm một động từ đúng dạng để có thể đứng sau <em data-start=\"46\" data-end=\"52\">\"to\".</em></p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"315\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2FlPeSe4tB23S1X425Ooa%2FtGa2k9Oc9ZYfd89%2B9mSIbTKYMs0MeVAcWBpDTLdvZYKjEoRyyJFUjjwdiLpPlnK7PZAvUpaDUHX0JDp7b9uP2GKyLcKgCZ7oW6BK28dG%2B48TsWxMMyOF70z1JO81rT359IFF1qIiS%2Bl8T%2BRme%2ByfF014j86AQENncvMA7uap%2BMd1FSQ80Mxgt6vcKzQ4Ej42qsuwjbnfnKZr7o8t5qbK1OfY1YCuV9%2FWgIrq%2Br3H%2FS%2BivAkgkSdXbEhwB%2FHixyflWoH2y46e75dAqy1b9l%2BUdoncQxzOARrqYu5Smo8EDpY3JdVOg1FJXJEEu9ecvKijJ%2BSLr491zOS7f1oKf5U45VfauF1dGUHwm\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống cần điền là một động từ nguyên thể vì nó đứng sau giới từ <em>\"to\"</em> trong cấu trúc <em>\"try to + V\"</em> (cố gắng làm gì đó). Động từ này sẽ làm động từ chính của cụm và có tân ngữ là <em>\"his friends\"</em>. Vì vậy, <em><strong>impress</strong> </em>là lựa chọn đúng.</p>",
+    "answerFeedbacks": {
+      "1365222": "Là danh từ, không thể đứng sau <em>\"to\"</em> để làm động từ chính trong cấu trúc <em>\"try to + V\"</em>.",
+      "1365223": "Là động từ nguyên thể, phù hợp với cấu trúc <em>\"try to + V\"</em> để diễn tả hành động cố gắng làm gì đó.",
+      "1365224": "Là tính từ, không thể đứng sau <em>\"to\"</em> để làm động từ chính.",
+      "1365225": "Là dạng quá khứ phân từ hoặc tính từ, không phải động từ nguyên thể cần thiết sau <em>\"to\"</em>."
+    },
+    "images": []
+  },
+  {
+    "id": 326195,
+    "questionNumber": 12,
+    "questionName": "36:",
+    "questionType": "MultipleChoice",
+    "questionText": "<strong>People in Israel are going to _____ their festival, which is called Passover.</strong>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 698943,
+        "label": "A",
+        "text": "celebrity",
+        "isCorrect": false
+      },
+      {
+        "id": 698944,
+        "label": "B",
+        "text": "celebrate",
+        "isCorrect": true
+      },
+      {
+        "id": 698945,
+        "label": "C",
+        "text": "celebration",
+        "isCorrect": false
+      },
+      {
+        "id": 698946,
+        "label": "D",
+        "text": "celebrating",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 698944,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Hãy nhớ lại cụm<span style=\"text-align: justify;\"> \"</span><em style=\"text-align: justify;\">are going to</em><span style=\"text-align: justify;\">\" chỉ thì tương lai gần thường yêu cầu động từ theo sau ở dạng nào?</span></p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 265px;\"><iframe width=\"100%\" height=\"445\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19SxExOWyiwEm0K1KRhNaXEqbJyn5mzEv5fAir%2F%2FR%2BgHgk%2FSYz%2B1jIi%2BlTOnSlI%2BlBjQCWH1ooMwcxqJxYyxNhQltsIXQ2YY%2FTRtyL8djMTKcxdc8LcsDQBdhzRhneQz487%2FRx0IoXfaYkUy6GDvMi23WGnXY3v904JEX%2BEoK9nyMDXeHDh2UVer1EW%2FAvijpVR2lDUxE5NWxLlfUinx%2FytLbGLo9gB78bbbd%2F4TmaPvTmhQIkeAoYvdonnAVx7ZZ5io5KgziEhyDA0NQRo%2BZpqMGy2GkdXiNRnpTuh1lgdihdeHti49Lvre5JOzSTWp01n5N%2BKZw68WAAGRNX18b8bKCFBuuf8Ul0%3D\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, cụm từ \"<em>are going to</em>\" chỉ thì tương lai gần và yêu cầu một động từ nguyên thể không \"<em>to</em>\" theo sau để tạo thành cấu trúc ngữ pháp đúng. Chỗ trống cần điền vào để diễn tả hành động \"tổ chức/ăn mừng\" lễ hội. Do đó, <em><strong>celebrate</strong> </em>là dạng từ phù hợp nhất.</p>",
+    "answerFeedbacks": {
+      "698943": "<em>Celebrity</em> là danh từ chỉ người nổi tiếng, không phù hợp để điền vào vị trí cần một động từ sau cấu trúc <em>be going to</em>.",
+      "698944": "Sau cấu trúc <em>be going to</em>, cần một động từ nguyên thể không <em>to</em> để diễn tả hành động sắp xảy ra.",
+      "698945": "<em>Celebration</em> là danh từ chỉ sự kiện hoặc hành động ăn mừng, không phù hợp về mặt ngữ pháp sau <em>be going to</em>.",
+      "698946": "<em>Celebrating</em> là dạng động từ V-ing hoặc hiện tại phân từ, không đúng dạng động từ nguyên thể cần thiết sau <em>be going to</em>."
+    },
+    "images": []
+  },
+  {
+    "id": 44694,
+    "questionNumber": 13,
+    "questionName": "Question 11:",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Jane installed security software on her new computer to _____ it against viruses. </strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 129641,
+        "label": "A",
+        "text": "protect",
+        "isCorrect": true
+      },
+      {
+        "id": 129642,
+        "label": "B",
+        "text": "protector",
+        "isCorrect": false
+      },
+      {
+        "id": 129643,
+        "label": "C",
+        "text": "protection",
+        "isCorrect": false
+      },
+      {
+        "id": 129644,
+        "label": "D",
+        "text": "protective",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 129641,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Hãy xem xét từ đứng trước chỗ trống là <em>\"to\"</em> và từ đứng sau là <em>\"it\"</em> để xác định từ loại cần điền. <em>\"To\"</em> thường đi với dạng động từ nào để diễn tả mục đích, và từ loại nào có thể đi với tân ngữ trực tiếp <em>\"it\"?</em></p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px;\"><iframe width=\"100%\" height=\"315\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX19QctR9JiCy20T0KnvVh2wxTwG1E76ixYS2fKF8NJ3adJeUb2T1vkwottuLAeEygdAz6byA4AKylvQ9z6ovaAYm9N%2FdIbtuu4VPmsBY4w0%2BfUSELRBpryQptZx%2F%2Ba9SIwHPsmJrkIbUs%2Fc5y7fLj05JP8LxnJRE2damvXPuaVgtxMCXSrP43WRiJmNxxdw%2FTvtmgHydfATYqlDtOHGfoDlSmFh%2B2JL8hUR2PB71HkZ36qoJ5pJarFCa46aBpnz227%2By4d9u9FmSpMeLeNcrVeyr3efebMhxipEzrJrLT1kHZSoOFhtxC6cLizkCUvTZMZarV7NxJ0KPMEJ1Wi7n5iY63Skn7lf8kqaL5St0uBju2k2DydTR7GLS\" frameborder=\"0\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, chỗ trống đứng sau giới từ <em>\"to\"</em> và trước tân ngữ <em>\"it\"</em> (thay thế cho <em>\"her new computer\"</em>), do đó cần một động từ nguyên mẫu để tạo thành cấu trúc chỉ mục đích <em>\"to + V (nguyên mẫu) + O\"</em>. Động từ <em><strong>protect</strong> </em>(bảo vệ) là lựa chọn phù hợp nhất về mặt ngữ pháp và ngữ nghĩa để diễn tả hành động bảo vệ máy tính khỏi vi-rút.</p>",
+    "answerFeedbacks": {
+      "129641": "Đúng vì đây là động từ nguyên mẫu phù hợp để tạo thành cấu trúc \"to + V (nguyên mẫu)\" nhằm chỉ mục đích và có thể đi kèm với tân ngữ trực tiếp <em>\"it\"</em>.",
+      "129642": "Sai vì đây là danh từ chỉ người hoặc vật bảo vệ, không phù hợp với vị trí cần điền một động từ sau <em>\"to\"</em>.",
+      "129643": "Sai vì đây là danh từ chỉ sự bảo vệ, không phù hợp với vị trí cần điền một động từ sau <em>\"to\"</em>.",
+      "129644": "Sai vì đây là tính từ có nghĩa là bảo vệ, không phù hợp với vị trí cần điền một động từ sau <em>\"to\"</em>."
+    },
+    "images": []
+  },
+  {
+    "id": 908355,
+    "questionNumber": 14,
+    "questionName": "Question 12:",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Please _____ on the lesson, or you will not remember anything for the test.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1724184,
+        "label": "A",
+        "text": "concentrate",
+        "isCorrect": true
+      },
+      {
+        "id": 1724185,
+        "label": "B",
+        "text": "concentration",
+        "isCorrect": false
+      },
+      {
+        "id": 1724186,
+        "label": "C",
+        "text": "concentrating",
+        "isCorrect": false
+      },
+      {
+        "id": 1724187,
+        "label": "D",
+        "text": "concentrated",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1724184,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Hãy xem xét từ loại cần điền vào chỗ trống sau <em>\"Please\"</em> để tạo thành một câu mệnh lệnh. Vị trí này thường cần một động từ ở dạng cụ thể nào.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 265px; height: 445px;\"><iframe width=\"100%\" height=\"445\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2F9%2BffXT5rC21SYstM6Ufs7kg8ToAWt1SZXm2UK0ttx2SGOjfjcVVdLCHNTQhFHW1XZywckd9IcWIYTNANnqHx9EUVl2i7zrEnoS2H5i%2FTnU7%2F83NC2saVpDpRLh8DRe4AXe2OIU4ZJiTjIX2U8rYUpiWZCTyvBpOT4yK81bGTDW8m%2FtKauLiyhFv%2FJklmRXmGfqTqREcnN4aZ7Qg5mERB8P00NFBBII%2BsttUuyOc3tUZubyvPUi7dPRTnWwgaWsdywkjjLzdqMGGoRtXn2iPVWwB9lZtF5kU%2FchNTLgOoMd%2FLb6EGWLy%2BsGwRjQmSR6pwN73Wx7%2BUu8b6vdgaWEbr19OnhUysAd2E%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu mệnh lệnh bắt đầu bằng <em>\"Please\"</em>, chỗ trống cần điền phải là một động từ nguyên thể không <em>\"to\"</em>. Cụm từ <em>\"on the lesson\"</em> và vế sau <em>\"or you will not remember anything for the test\"</em> cho thấy hành động cần thiết là <strong>tập trung</strong> vào bài học. Do đó, động từ <em><strong>concentrate</strong></em> là sự lựa chọn phù hợp nhất cả về ngữ pháp và ngữ nghĩa.</p>",
+    "answerFeedbacks": {
+      "1724184": "Sau \"Please\" là một câu mệnh lệnh, cần động từ nguyên thể không \"to\". Cụm động từ \"concentrate on\" (tập trung vào) là phù hợp với ngữ cảnh.",
+      "1724185": "\"Concentration\" là danh từ, không thể đứng sau \"Please\" để tạo thành câu mệnh lệnh.",
+      "1724186": "\"Concentrating\" là dạng hiện tại phân từ hoặc danh động từ, không dùng trong câu mệnh lệnh trực tiếp sau \"Please\".",
+      "1724187": "\"Concentrated\" là tính từ hoặc động từ ở thì quá khứ/phân từ hai, không phù hợp để tạo câu mệnh lệnh."
+    },
+    "images": []
+  },
+  {
+    "id": 908395,
+    "questionNumber": 15,
+    "questionName": "1",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>I couldn't _____ my cousin at first because he changed his hairstyle.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1724242,
+        "label": "A",
+        "text": "recognition",
+        "isCorrect": false
+      },
+      {
+        "id": 1724243,
+        "label": "B",
+        "text": "recognizable",
+        "isCorrect": false
+      },
+      {
+        "id": 1724244,
+        "label": "C",
+        "text": "recognize",
+        "isCorrect": true
+      },
+      {
+        "id": 1724245,
+        "label": "D",
+        "text": "recognizably",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1724244,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Xem xét c<span style=\"text-align: justify;\">hỗ trống đứng sau trợ động từ khuyết thiếu </span><em style=\"text-align: justify;\">\"couldn't\". </em>Hãy nhớ lại các động từ khuyết thiếu luôn được theo sau bởi dạng từ nào để tìm ra phương án đúng.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 325px;\"><iframe width=\"100%\" height=\"325\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX18mm%2FUMy0jE6MOYRfwoJqH9Ma%2BjrdklI8NQHtCBTQJpIcAM33dPvQ7DQRZEqaTTbOh2x039SO6NckvfxT%2FnbKTW0TXHMpEHWvaWtjjRoa1fiaFKX7OuyIISPxhQLzrFVrdkKTQMWiwP%2B3vpRpbsbvlKju%2FxaqPEZZBmhpbEUxiOdA46Z9axdTXjoIm%2FuDUzclXDpWyvG6tRutEaQYiUKLO5cMUnPcVTyFz9xxw5qXXou4mwd05ybo9BOm9nlmPEaCqeDhPJ02rLaHcfwS8%2F%2FkaqXfYDLU6WEC7CVf93JMt1vy%2FHkppybAnNdLpqn1DJL35AJ5CNEX8hrsnTXiWxmzX%2BVgK3XFdA847%2BdF4kNuZ85NBu519BdwTgU8XJJboRIy3P8P82poTAR40jqfiBbIuj2NfpoADe7pI%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống đứng sau trợ động từ khuyết thiếu <em>\"couldn't\"</em> (viết tắt của <em>\"could not\"</em>). Theo quy tắc ngữ pháp, các động từ khuyết thiếu như <em>\"can, could, will, would, shall, should, may, might, must\"</em> luôn phải được theo sau bởi một động từ nguyên thể. Vì vậy, phương án ''<strong><em>recognize</em></strong>'' là phù hợp nhất để hoàn thành cấu trúc ngữ pháp của câu.</p>",
+    "answerFeedbacks": {
+      "1724242": "Là một danh từ, không thể đứng sau trợ động từ khuyết thiếu <em>\"couldn't\"</em>.",
+      "1724243": "Là một tính từ, không thể đứng sau trợ động từ khuyết thiếu <em>\"couldn't\"</em>.",
+      "1724244": "Là động từ nguyên thể, phù hợp để đứng sau trợ động từ khuyết thiếu <em>\"couldn't\"</em> để tạo thành cụm động từ.",
+      "1724245": "Là một trạng từ, không thể đứng sau trợ động từ khuyết thiếu <em>\"couldn't\"</em>."
+    },
+    "images": []
+  },
+  {
+    "id": 908396,
+    "questionNumber": 16,
+    "questionName": "1",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Unique fashion styles can _____ attention on social media.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1724247,
+        "label": "A",
+        "text": "attractively",
+        "isCorrect": false
+      },
+      {
+        "id": 1724248,
+        "label": "B",
+        "text": "attraction",
+        "isCorrect": false
+      },
+      {
+        "id": 1724249,
+        "label": "C",
+        "text": "attractive",
+        "isCorrect": false
+      },
+      {
+        "id": 1724250,
+        "label": "D",
+        "text": "attract",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 1724250,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Xem xét c<span style=\"text-align: justify;\">hỗ trống đứng sau trợ động từ khuyết thiếu </span><em style=\"text-align: justify;\">\"can''. </em>Hãy nhớ lại các động từ khuyết thiếu luôn được theo sau bởi dạng từ nào để tìm ra phương án đúng.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 305px;\"><iframe width=\"100%\" height=\"305\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2BxVJwIVBf%2B43iAJ0mudxYaXVJPg%2BM4D5jaWLYV2u4uCdSsmkYzZ7F3LbQ5%2BWMHKVuwMuXdJzgG84aDMdHFkOR0Q%2Fwfg9k79f7B3xtfimS976u%2FhJk3V2tTPMt7STLyZYs76oeelcaPKVG3geOLzU%2BkZJci7hGau0feaFxdWbZ6pQLO0enxlexCOcQrohd92fKjSzy0%2BDSCwzEbt%2BFVV8rxy89PLtqIKsRQ%2B5c9DWZNo4b7RgENSeLaFvhHcticsqI%2BwY5RfQM4RxezZc2FtDZ92debwI8P0Vcj%2F3jjvNG6XTlnw%2FOKBqGKdFo8iTINlwFgDYiqnC378vONm%2BHHA4dWOjBVozxCBT5yLUQ23B6WCm66EkHulF3JBeER4yrYxOD8bCRO1VS79Q%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Trong câu, từ \"<em>can</em>\" là một trợ động từ khuyết thiếu. Theo quy tắc ngữ pháp, sau trợ động từ khuyết thiếu luôn là một động từ nguyên thể không \"<em>to</em>\". Từ \"<em>attention</em>\" là một danh từ, đóng vai trò là tân ngữ của động từ cần điền. Vì vậy, vị trí cần điền là một động từ nguyên thể, và <em><strong>attract</strong> </em>là đáp án chính xác.</p>",
+    "answerFeedbacks": {
+      "1724247": "\"Attractively\" là một trạng từ, dùng để bổ nghĩa cho động từ, tính từ hoặc trạng từ khác, nhưng ở đây cần một động từ nguyên thể đứng sau \"can\".",
+      "1724248": "\"Attraction\" là một danh từ, mang nghĩa \"sự thu hút\" hoặc \"điểm thu hút\", không phù hợp về mặt ngữ pháp để đứng sau \"can\" và trước danh từ \"attention\" trong cấu trúc này.",
+      "1724249": "\"Attractive\" là một tính từ, dùng để mô tả danh từ, nhưng ở đây cần một động từ nguyên thể đứng sau \"can\".",
+      "1724250": "\"Attract\" là động từ nguyên thể, phù hợp về mặt ngữ pháp để đứng sau trợ động từ khuyết thiếu \"can\" và tạo thành một cụm động từ với tân ngữ \"attention\"."
+    },
+    "images": []
+  },
+  {
+    "id": 908399,
+    "questionNumber": 17,
+    "questionName": "1",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>The team is working hard to _____ the final version of the software.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1724253,
+        "label": "A",
+        "text": "produce",
+        "isCorrect": true
+      },
+      {
+        "id": 1724254,
+        "label": "B",
+        "text": "product",
+        "isCorrect": false
+      },
+      {
+        "id": 1724255,
+        "label": "C",
+        "text": "production",
+        "isCorrect": false
+      },
+      {
+        "id": 1724256,
+        "label": "D",
+        "text": "productively",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1724253,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p><span style=\"text-align: justify;\"> Chỗ trống đứng sau giới từ \"</span><em style=\"text-align: justify;\">to</em><span style=\"text-align: justify;\">\", trong ngữ cảnh này, \"</span><em style=\"text-align: justify;\">to</em><span style=\"text-align: justify;\">\" là một phần của cấu trúc \"</span><em style=\"text-align: justify;\">to + V</em><span style=\"text-align: justify;\">\".</span></p>\n<p><span style=\"text-align: justify;\">Hãy nhớ lại dạng động từ thường được sử dụng trong cấu trúc này.</span></p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span></p>\n<div style=\"width: 100%; max-width: 523px; height: 309px;\"><iframe width=\"100%\" height=\"309\" style=\"border: none;\" id=\"embed-frame-B957A\" src=\"https://azvocab.ai/embed/SL?params=U2FsdGVkX1%2B%2BpFyTVhurIObBCBJhSFNKA8p8yQexEyIIuoUJNQ%2BsmCLOYKiT2wO2CVFeVSEmty6baYPSUFAaEsS3EV615LljT8bXxOkOxSFEHRGzJr6KhuxWLaCK9jpzaGGX0JPbmzjKr2wSOYCUN0IRvprL6JoFJv2RlVdjFuYoS7GcdCZEReUxNxBoVhhyHERfOYDJ6ukfipM2CiI4ytum69o9s5Z75%2Fv4ztWDXXmt54Jei2gH9VhHs4XW1%2Bff%2B1UVmQLapES%2BTs4Cc8h2WtGP6dx%2Fmqu0sf8O1Mk7jkuOuW37XbWovThYiq94m79CHQLXQX6lDfXmblm39XnsgKhARPbkQovIMpu1q4UcfIMcjflCZJ98r08bNfwzK79UiLmZqODms1ee7HOQhW7ZIw%3D%3D\" frameborder=\"0\" loading=\"lazy\" data-mce-fragment=\"1\"></iframe></div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Phân tích:</span> Chỗ trống đứng sau giới từ \"<em>to</em>\", trong ngữ cảnh này, \"<em>to</em>\" là một phần của cấu trúc động từ nguyên mẫu có \"<em>to</em>\" (to-infinitive). Do đó, từ cần điền phải là một động từ nguyên mẫu. Trong các lựa chọn, <em><strong>produce</strong> </em>là động từ nguyên mẫu duy nhất phù hợp với vị trí ngữ pháp này, mang nghĩa \"sản xuất\" hoặc \"tạo ra\" phiên bản cuối cùng của phần mềm.</p>",
+    "answerFeedbacks": {
+      "1724253": "Sau giới từ \"to\" (trong cấu trúc \"to + V nguyên thể\") cần một động từ nguyên mẫu. \"produce\" là động từ nguyên mẫu có nghĩa là sản xuất, tạo ra.",
+      "1724254": "\"product\" là một danh từ, không phù hợp để đứng sau \"to\" trong cấu trúc \"to + V nguyên thể\".",
+      "1724255": "\"production\" là một danh từ, không phù hợp để đứng sau \"to\" trong cấu trúc \"to + V nguyên thể\".",
+      "1724256": "\"productively\" là một trạng từ, không phù hợp để đứng sau \"to\" trong cấu trúc \"to + V nguyên thể\"."
+    },
+    "images": []
+  }
+]

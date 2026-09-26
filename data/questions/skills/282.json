@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "282_1",
+    "questionNumber": 5,
+    "questionName": "Question 1",
+    "questionType": "MultipleChoice",
+    "questionText": "<p style=\"text-align: left;\"><strong>John: You won the 100-metre race this morning. Congratulations!</strong></p>\n<p style=\"text-align: left;\"><strong>Lan: _____</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1188177,
+        "label": "A",
+        "text": "<p>You're welcome.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1188178,
+        "label": "B",
+        "text": "<p>Oh, because I ran slowly.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1188179,
+        "label": "C",
+        "text": "<p>Thank you. It's very encouraging.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1188180,
+        "label": "D",
+        "text": "<p>I'm afraid I can't.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1188179,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Xác định mục đích giao tiếp của câu nói của John: anh ấy đang làm gì khi nói \"<em>Congratulations!</em>\"?</p>\n<p>Sau đó, hãy tìm câu đáp thể hiện sự phản hồi phù hợp với mục đích đó, thường là bày tỏ lòng biết ơn hoặc niềm vui.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của John là lời chúc mừng chiến thắng trong cuộc đua (\"<em>Congratulations!</em>\"). Lan cần đáp lại bằng cách thể hiện sự cảm ơn và có thể bày tỏ cảm xúc tích cực của mình.</p>\n<p style=\"text-align: justify;\">Phương án 3, \"<em>Thank you. It's very encouraging.</em>\" (Cảm ơn bạn. Điều đó thật đáng khích lệ.), là câu đáp phù hợp nhất vì nó thể hiện lòng biết ơn và sự trân trọng trước lời chúc mừng.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2 và 4 đều không phù hợp với ngữ cảnh lời chúc mừng.</p>",
+    "answerFeedbacks": {
+      "1188177": "<p>Đây là lời đáp lại khi ai đó nói<em> \"Thank you\" </em>(Cảm ơn), không phải là lời đáp cho lời chúc mừng.</p>",
+      "1188178": "<p>Lời đáp này không liên quan và mâu thuẫn với việc <em>\"won the race\"</em> (thắng cuộc đua).</p>",
+      "1188179": "<p>Đây là lời đáp phù hợp nhất, thể hiện sự cảm ơn và niềm vui trước lời chúc mừng.</p>",
+      "1188180": "<p>Đây là cách từ chối một lời đề nghị hoặc yêu cầu, không phải là lời đáp cho lời chúc mừng.</p>"
+    },
+    "images": [],
+    "sourceExamId": 12379,
+    "sourceExamName": "Đề thi chính thức vào 10 môn Anh Sở Hà Nội năm 2023",
+    "year": 2023
+  },
+  {
+    "id": "282_2",
+    "questionNumber": 6,
+    "questionName": "Question 2",
+    "questionType": "MultipleChoice",
+    "questionText": "<p style=\"text-align: left;\"><strong>Nick: \"Why don't we try that new Italian restaurant?\"</strong></p>\n<p style=\"text-align: left;\"><strong>Phuong: \"_____\" </strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1188181,
+        "label": "A",
+        "text": "<p>I'm glad to tell you so.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1188182,
+        "label": "B",
+        "text": "<p>You did a good job!</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1188183,
+        "label": "C",
+        "text": "<p>You're well done!</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1188184,
+        "label": "D",
+        "text": "<p>That sounds good.</p>",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 1188184,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Xác định mục đích giao tiếp của câu hỏi của Nick: \"<em>Why don't we try that new Italian restaurant?</em>\" là một lời gợi ý/đề xuất.</p>\n<p>Hãy tìm một câu trả lời thể hiện sự chấp nhận hoặc đồng tình với lời gợi ý đó.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời của Nick, \"<em>Why don't we try that new Italian restaurant?</em>\", là một lời gợi ý hoặc đề xuất. Phương cần đưa ra phản hồi chấp nhận hoặc từ chối lời đề xuất này.</p>\n<p style=\"text-align: justify;\">Phương án 4, \"<em>That sounds good.</em>\" (Nghe hay đấy/Được thôi.), là cách diễn đạt phổ biến và phù hợp để chấp nhận một lời đề nghị.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2, 3 không phù hợp với ngữ cảnh đáp lại lời đề xuất.</p>",
+    "answerFeedbacks": {
+      "1188181": "<p>Cụm từ này không phù hợp để đáp lại một lời đề nghị.</p>",
+      "1188182": "<p>Đây là lời khen ngợi khi ai đó hoàn thành tốt việc gì đó, không dùng để đáp lại lời đề nghị.</p>",
+      "1188183": "<p>Cụm từ này không đúng ngữ pháp và không phù hợp với ngữ cảnh, thường dùng để chỉ mức độ chín của thức ăn hoặc khi một việc gì đó được hoàn thành tốt.</p>",
+      "1188184": "<p>Đây là cách diễn đạt phổ biến và tự nhiên để chấp nhận một lời đề nghị hoặc gợi ý.</p>"
+    },
+    "images": [],
+    "sourceExamId": 12379,
+    "sourceExamName": "Đề thi chính thức vào 10 môn Anh Sở Hà Nội năm 2023",
+    "year": 2023
+  },
+  {
+    "id": "282_3",
+    "questionNumber": 9,
+    "questionName": "Question 3",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><em>Anna and Ben are talking about their jobs.</em></p>\n<p><strong>- Anna: I have just received a promotion at work!</strong></p>\n<p><strong>- Ben: _____</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1768262,
+        "label": "A",
+        "text": "<p>Well done! That's fantastic!</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1768263,
+        "label": "B",
+        "text": "<p>No worries, you'll be fine.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1768264,
+        "label": "C",
+        "text": "<p>I hope you get better soon.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1768265,
+        "label": "D",
+        "text": "<p>I haven't received mine yet.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1768262,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Anna nói \"<em>I have just received a promotion at work!</em>\" (Tôi vừa được thăng chức ở chỗ làm!). Đây là một tin tức vui.</p>\n<p>Bạn cần tìm một lời đáp thể hiện sự chúc mừng hoặc vui mừng cho người nói. Hãy xem xét phương án nào phù hợp để đáp lại một tin vui.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Anna thông báo tin vui về việc cô ấy vừa được thăng chức (\"<em>I have just received a promotion at work!</em>\"). Để đáp lại một tin tức tốt lành như vậy, chức năng giao tiếp phù hợp là chúc mừng và bày tỏ sự vui mừng.</p>\n<p style=\"text-align: justify;\">Phương án 1, \"<em>Well done! That's fantastic!</em>\" (Làm tốt lắm! Thật tuyệt vời!), hoàn toàn phù hợp để chúc mừng và chia sẻ niềm vui với Anna.</p>\n<p style=\"text-align: justify;\">Các phương án 2, 3, và 4 đều không phù hợp với ngữ cảnh của một tin tức vui.</p>",
+    "answerFeedbacks": {
+      "1768262": "<p>Đây là lời chúc mừng và bày tỏ sự vui mừng phù hợp khi nghe tin tốt về sự thăng tiến trong công việc.</p>",
+      "1768263": "<p>Phương án này dùng để an ủi khi ai đó gặp chuyện không may hoặc lo lắng, không phù hợp với ngữ cảnh Anna nhận tin vui.</p>",
+      "1768264": "<p>Đây là lời chúc ai đó mau khỏi bệnh, không liên quan đến việc Anna được thăng chức.</p>",
+      "1768265": "<p>Phương án này thể hiện sự so sánh hoặc phàn nàn về bản thân, không phải là phản ứng tích cực hay chúc mừng Anna.</p>"
+    },
+    "images": [],
+    "sourceExamId": 12852,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Thanh Xuân năm 2025",
+    "year": 2025
+  },
+  {
+    "id": "282_4",
+    "questionNumber": 5,
+    "questionName": "Question 4",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><em>Peter is inviting Mary to join the youth club.</em></p>\n<p><strong>- Peter: \"Would you like to join our youth club?\"</strong></p>\n<p><strong>- Mary: \"_____.\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1193060,
+        "label": "A",
+        "text": "<p>Thanks a lot</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1193061,
+        "label": "B",
+        "text": "<p>My pleasure</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1193062,
+        "label": "C",
+        "text": "<p>Yes, I'd love to</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1193063,
+        "label": "D",
+        "text": "<p>No worries</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1193062,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Hãy xác định mục đích giao tiếp của câu nói của Peter: \"<em>Would you like to join our youth club?</em>\" là một lời mời. Bạn cần tìm câu đáp phù hợp để chấp nhận hoặc từ chối lời mời này.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của Peter, \"<em>Would you like to join our youth club?</em>\", là một lời mời tham gia. Mary cần đưa ra câu trả lời thể hiện sự chấp nhận hoặc từ chối lời mời này.</p>\n<p style=\"text-align: justify;\">Phương án 3, \"<em>Yes, I'd love to</em>\" (Vâng, tôi rất muốn), là câu đáp lịch sự và nhiệt tình để chấp nhận một lời mời.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2 và 4 không phù hợp với ngữ cảnh này vì chúng thường được dùng để đáp lại lời cảm ơn hoặc lời xin lỗi, không phải để trả lời một lời mời.</p>",
+    "answerFeedbacks": {
+      "1193060": "<p>Đây là lời cảm ơn chung chung, không trực tiếp chấp nhận hay từ chối lời mời.</p>",
+      "1193061": "<p>Cụm từ này dùng để đáp lại lời cảm ơn hoặc khi bạn sẵn lòng giúp đỡ ai đó, không phải để chấp nhận lời mời.</p>",
+      "1193062": "<p>Đây là câu trả lời lịch sự và nhiệt tình để chấp nhận một lời mời.</p>",
+      "1193063": "<p>Cụm từ này dùng để nói \"không có gì\" khi ai đó cảm ơn hoặc xin lỗi bạn, không phù hợp để đáp lại lời mời.</p>"
+    },
+    "images": [],
+    "sourceExamId": 13365,
+    "sourceExamName": "Đề thi thử vào 10 môn Tiếng Anh theo mẫu của SGD Hà Nội năm 2024 - Lần 1",
+    "year": 2024
+  },
+  {
+    "id": "282_5",
+    "questionNumber": 6,
+    "questionName": "Question 5",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><em>Billy is talking to Jenny over the phone.</em></p>\n<p><strong>Billy: \"Thank you for helping me prepare for the upcoming celebration, Jenny.\"</strong></p>\n<p><strong>Jenny: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1378140,
+        "label": "A",
+        "text": "<p>It’s my pleasure.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1378141,
+        "label": "B",
+        "text": "<p>Of course not.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1378142,
+        "label": "C",
+        "text": "<p>Never mention me.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1378143,
+        "label": "D",
+        "text": "<p>That’s out of this world.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1378140,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Để đáp lại lời cảm ơn như <em>\"Thank you for helping me...\"</em>, bạn cần chọn một lời thoại thể hiện sự sẵn lòng hoặc không có gì to tát.</p>\n<p>Hãy xem xét ý nghĩa của từng phương án để tìm ra câu đáp phù hợp nhất.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Trong đoạn hội thoại, Billy bày tỏ lòng cảm ơn đến Jenny vì đã giúp đỡ anh ấy. Jenny cần đưa ra một câu đáp lại lời cảm ơn một cách lịch sự và phù hợp.</p>\n<p style=\"text-align: justify;\">Phương án 1, \"<em>It’s my pleasure.</em>\" (Tôi rất sẵn lòng/Đó là niềm vinh hạnh của tôi), là một cách diễn đạt phổ biến và lịch sự để đáp lại lời cảm ơn, thể hiện rằng người nói vui vẻ khi giúp đỡ.</p>\n<p style=\"text-align: justify;\">Các phương án 2, 3 và 4 đều không phù hợp về mặt ngữ nghĩa và chức năng giao tiếp để đáp lại lời cảm ơn.</p>",
+    "answerFeedbacks": {
+      "1378140": "<p>Đây là cách đáp lại lời cảm ơn một cách lịch sự, có nghĩa là người nói rất vui khi được giúp đỡ.</p>",
+      "1378141": "<p>Cụm từ này dùng để phủ nhận một điều gì đó, không phù hợp để đáp lại lời cảm ơn.</p>",
+      "1378142": "<p>Cụm từ này không đúng ngữ pháp và không có ý nghĩa phù hợp trong ngữ cảnh đáp lại lời cảm ơn.</p>",
+      "1378143": "<p>Cụm từ này dùng để diễn tả điều gì đó rất tuyệt vời hoặc phi thường, không phù hợp để đáp lại lời cảm ơn.</p>"
+    },
+    "images": [],
+    "sourceExamId": 13365,
+    "sourceExamName": "Đề thi thử vào 10 môn Tiếng Anh theo mẫu của SGD Hà Nội năm 2024 - Lần 1",
+    "year": 2024
+  },
+  {
+    "id": "282_6",
+    "questionNumber": 19,
+    "questionName": "Question 6",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Peter: \"It's terrible. I don't think I will be able to pass the exam.\" </strong></p>\n<p><strong>Tom: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1465083,
+        "label": "A",
+        "text": "<p>Ok. What's that?</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1465084,
+        "label": "B",
+        "text": "<p>You are welcome</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1465085,
+        "label": "C",
+        "text": "<p>Why not pass it?</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1465086,
+        "label": "D",
+        "text": "<p>Don't worry. Everything will be alright.</p>",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 1465086,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Mục đích giao tiếp của Peter là bày tỏ sự lo lắng, thất vọng về kết quả thi.</p>\n<p>Hãy tìm một câu đáp thể hiện sự an ủi, động viên hoặc trấn an. </p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời của Peter \"<em>It's terrible. I don't think I will be able to pass the exam.</em>\" thể hiện sự lo lắng, thất vọng về kết quả thi. Để đáp lại lời than thở này, Tom cần đưa ra lời an ủi, động viên.</p>\n<p style=\"text-align: justify;\">Phương án 4 \"<em>Don't worry. Everything will be alright.</em>\" (Đừng lo lắng. Mọi chuyện rồi sẽ ổn thôi.) là lời đáp phù hợp nhất vì nó trực tiếp trấn an và thể hiện sự lạc quan.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2, 3 không phù hợp với ngữ cảnh giao tiếp này.</p>",
+    "answerFeedbacks": {
+      "1465083": "<p>Đây là câu hỏi không liên quan đến lời than thở của Peter.</p>",
+      "1465084": "<p>Cụm từ này dùng để đáp lại lời cảm ơn, không phù hợp trong ngữ cảnh này.</p>",
+      "1465085": "<p>Câu hỏi này mang tính chất chất vấn, không thể hiện sự đồng cảm hay an ủi.</p>",
+      "1465086": "<p>Đây là lời an ủi, động viên phù hợp khi ai đó đang lo lắng về một vấn đề.</p>"
+    },
+    "images": [],
+    "sourceExamId": 14188,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Ba Đình năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "282_7",
+    "questionNumber": 20,
+    "questionName": "Question 7",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Jennie: Would you mind closing the window, Ben?</strong></p>\n<p><strong>Ben: _____</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1465087,
+        "label": "A",
+        "text": "<p>Not at all.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1465088,
+        "label": "B",
+        "text": "<p>Yes, I would.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1465089,
+        "label": "C",
+        "text": "<p>I can't agree more.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1465090,
+        "label": "D",
+        "text": "<p>Thanks. It's really encouraging.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1465087,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Xác định mục đích giao tiếp của câu hỏi <em>\"Would you mind closing the window, Ben?\"</em>. Đây là một lời yêu cầu lịch sự. Khi đáp lại lời yêu cầu <em>\"Would you mind...?\"</em>, nếu bạn đồng ý làm, hãy dùng các cụm từ thể hiện sự không phiền.</p>\n<p>Nếu bạn từ chối, hãy dùng các cụm từ thể hiện sự phiền hoặc không thể làm. Đối chiếu từng phương án với mục đích giao tiếp này để chọn câu trả lời đúng.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Jennie đang đưa ra một lời yêu cầu lịch sự bằng cấu trúc <em>\"Would you mind + V-ing?\"</em> (Bạn có phiền khi... không?). Để đáp lại lời yêu cầu này một cách lịch sự và đồng ý thực hiện, Ben cần nói rằng mình không phiền.</p>\n<p style=\"text-align: justify;\">Phương án 1, <em>\"Not at all.\"</em>, là câu đáp phù hợp nhất vì nó có nghĩa là \"Không hề phiền chút nào\", thể hiện sự sẵn lòng giúp đỡ.</p>\n<p style=\"text-align: justify;\">Các phương án 2, 3 và 4 đều không phù hợp với chức năng giao tiếp là đáp lại một lời yêu cầu lịch sự.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>Would you mind + V-ing?</strong> (expr.): Bạn có phiền khi làm gì đó không? (Lời yêu cầu lịch sự)</p>",
+    "answerFeedbacks": {
+      "1465087": "<p>Là một cách đáp lại lịch sự và khẳng định rằng người nói không phiền khi thực hiện yêu cầu.</p>",
+      "1465088": "<p>Đây là câu trả lời mang ý từ chối, nghĩa là <em>\"Tôi có phiền\"</em>, không phù hợp với ngữ cảnh nếu Ben đồng ý giúp đỡ.</p>",
+      "1465089": "<p>Cụm từ này dùng để bày tỏ sự đồng ý hoàn toàn, không liên quan đến việc đáp lại một yêu cầu.</p>",
+      "1465090": "<p>Đây là câu trả lời thể hiện sự biết ơn và được khích lệ, không phù hợp khi đáp lại một lời đề nghị.</p>"
+    },
+    "images": [],
+    "sourceExamId": 14188,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Ba Đình năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "282_8",
+    "questionNumber": 9,
+    "questionName": "Question 8",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong><span class=\"markedContent\" id=\"page28R_mcid4\"><span dir=\"ltr\" role=\"presentation\">A:</span> <span dir=\"ltr\" role=\"presentation\">In the past, marriages used to be arranged by parents.</span></span></strong></p>\n<p><strong><span class=\"markedContent\" id=\"page28R_mcid10\"><span class=\"markedContent\" id=\"page28R_mcid4\"></span><span dir=\"ltr\" role=\"presentation\">B:</span></span><span class=\"markedContent\" id=\"page28R_mcid11\"></span><span class=\"markedContent\" id=\"page28R_mcid12\"> <span dir=\"ltr\" role=\"presentation\">_____</span></span></strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1463913,
+        "label": "A",
+        "text": "<p>Sure. That’s right.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1463914,
+        "label": "B",
+        "text": "<p>That’s cool!</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1463915,
+        "label": "C",
+        "text": "<p>Really? I can’t imagine that.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1463916,
+        "label": "D",
+        "text": "<p>I suppose it was.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1463915,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Lời thoại của A, <em>\"In the past, marriages used to be arranged by parents.\"</em>, đang kể về một tập tục trong quá khứ. Bạn cần chọn câu đáp thể hiện phản ứng phù hợp với thông tin này, có thể là sự ngạc nhiên, khó tin, hoặc một nhận định về sự khác biệt giữa quá khứ và hiện tại.</p>\n<p>Hãy đối chiếu từng phương án với mục đích giao tiếp này.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời của A đưa ra một thông tin về một tập tục trong quá khứ: <em>\"In the past, marriages used to be arranged by parents.\"</em> (Trong quá khứ, hôn nhân thường do cha mẹ sắp đặt). Đây là một thông tin có thể gây ngạc nhiên hoặc khó tin đối với người nghe ở thời hiện đại.</p>\n<p style=\"text-align: justify;\">Phương án đúng là 3: <em>\"Really? I can’t imagine that.\"</em>. Câu này thể hiện sự ngạc nhiên (<em>\"Really?\"</em>) và sự khó hình dung (<em>\"I can’t imagine that.\"</em>) về một tập tục đã cũ, hoàn toàn phù hợp với phản ứng tự nhiên của một người hiện đại khi nghe về điều đó.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại không phù hợp vì không thể hiện được sắc thái ngạc nhiên hoặc khó tin cần thiết trong ngữ cảnh này.</p>",
+    "answerFeedbacks": {
+      "1463913": "<p>Phương án này xác nhận thông tin, nhưng không thể hiện sự ngạc nhiên hay khó tin trước một điều đã <em>\"trong quá khứ\"</em> và khác biệt so với hiện tại.</p>",
+      "1463914": "<p>Cụm từ này thể hiện sự thích thú hoặc tán thành, không phù hợp với ngữ cảnh của một tập tục xã hội đã lỗi thời và có thể gây tranh cãi.</p>",
+      "1463915": "<p>Câu này thể hiện sự ngạc nhiên và khó tin, là phản ứng tự nhiên khi nghe về một tập tục xã hội khác biệt nhiều so với hiện tại.</p>",
+      "1463916": "<p>Cụm từ này thể hiện sự đồng ý miễn cưỡng hoặc không chắc chắn, không phù hợp để đáp lại một thông tin lịch sử khách quan.</p>"
+    },
+    "images": [],
+    "sourceExamId": 14192,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hà Đông năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "282_9",
+    "questionNumber": 10,
+    "questionName": "Question 9",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong><span class=\"markedContent\" id=\"page28R_mcid24\"><span dir=\"ltr\" role=\"presentation\">-</span> <span dir=\"ltr\" role=\"presentation\">A: \"Do you mind if I borrow your dictionary?\"</span></span></strong></p>\n<p><strong><span class=\"markedContent\" id=\"page28R_mcid24\"><span dir=\"ltr\" role=\"presentation\">-</span> B<span dir=\"ltr\" role=\"presentation\">: \"_____\"</span></span></strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1463949,
+        "label": "A",
+        "text": "Great!",
+        "isCorrect": false
+      },
+      {
+        "id": 1463950,
+        "label": "B",
+        "text": "Yes, let’s.",
+        "isCorrect": false
+      },
+      {
+        "id": 1463951,
+        "label": "C",
+        "text": "No. Here it is.",
+        "isCorrect": true
+      },
+      {
+        "id": 1463952,
+        "label": "D",
+        "text": "Why not?",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1463951,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p style=\"text-align: justify;\">Mục đích giao tiếp của <em>\"Do you mind if I borrow your dictionary?\"</em> là gì? Đây là một lời xin phép lịch sự.</p>\n<p style=\"text-align: justify;\">Đối chiếu từng phương án với cách đáp lại phù hợp cho lời xin phép.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời của A, <em>\"Do you mind if I borrow your dictionary?\"</em>, là một câu hỏi xin phép lịch sự. Để đồng ý cho mượn, người nói B cần trả lời phủ định với <em>\"mind\"</em> (ví dụ: <em>\"No, I don't mind.\"</em>) hoặc một cách nói tương đương để thể hiện sự chấp thuận.</p>\n<p style=\"text-align: justify;\">Phương án 3, <em>\"No. Here it is.\"</em>, là câu đáp phù hợp nhất vì <em>\"No.\"</em> ở đây có nghĩa là \"Tôi không phiền\" và theo sau là hành động đưa từ điển.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2 và 4 đều không phù hợp về mặt ngữ dụng để đáp lại một lời xin phép.</p>",
+    "answerFeedbacks": {
+      "1463949": "Cụm từ <em>\"Great!\"</em> không phải là cách đáp lại phù hợp cho câu hỏi xin phép bắt đầu bằng <em>\"Do you mind if...\"</em>.",
+      "1463950": "Cụm từ <em>\"Yes, let’s.\"</em> dùng để đồng ý với một lời đề nghị hoặc gợi ý cùng làm gì đó, không phải để trả lời câu hỏi xin phép.",
+      "1463951": "Cụm từ <em>\"No.\"</em> là cách đáp lại đúng ngữ pháp và lịch sự khi đồng ý với câu hỏi <em>\"Do you mind if...\"</em>, theo sau là hành động đưa đồ vật.",
+      "1463952": "Cụm từ <em>\"Why not?\"</em> thường dùng để đồng ý với một gợi ý hoặc ý tưởng, không phù hợp để trả lời câu hỏi xin phép."
+    },
+    "images": [],
+    "sourceExamId": 14192,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hà Đông năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "282_10",
+    "questionNumber": 36,
+    "questionName": "Question 10",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>John: \"Congratulations on winning the last English-speaking contest\".</strong></p>\n<p><strong>Tom: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1464715,
+        "label": "A",
+        "text": "<p>Don't mention it.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1464716,
+        "label": "B",
+        "text": "<p>Thank you so much.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1464717,
+        "label": "C",
+        "text": "<p>You're welcome.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1464718,
+        "label": "D",
+        "text": "<p>You don't need to say that.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1464716,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Xác định mục đích giao tiếp của lời nói \"<em>Congratulations on winning the last English-speaking contest</em>\". Đây là một lời chúc mừng.</p>\n<p>Hãy suy nghĩ xem chúng ta thường đáp lại lời chúc mừng như thế nào trong tiếng Anh. Đối chiếu từng phương án với mục đích giao tiếp đã xác định để tìm ra câu trả lời phù hợp nhất.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của John là một lời chúc mừng (\"<em>Congratulations on winning the last English-speaking contest</em>\"). Để đáp lại lời chúc mừng, Tom cần bày tỏ sự cảm ơn.</p>\n<p style=\"text-align: justify;\">Phương án 2, \"<em>Thank you so much.</em>\", là lời đáp phù hợp nhất vì nó trực tiếp thể hiện sự cảm kích.</p>\n<p style=\"text-align: justify;\">Các phương án còn lại không phù hợp với ngữ cảnh chúc mừng vì chúng thường dùng để đáp lại lời cảm ơn hoặc mang ý nghĩa từ chối/phủ nhận.</p>",
+    "answerFeedbacks": {
+      "1464715": "<p>Cụm từ này thường dùng để đáp lại lời cảm ơn, mang nghĩa <em>\"không có gì\"</em> hoặc <em>\"đừng bận tâm\"</em>, không phù hợp khi được chúc mừng.</p>",
+      "1464716": "Đây là lời đáp lịch sự và phổ biến nhất để bày tỏ sự cảm kích khi nhận được lời chúc mừng.",
+      "1464717": "<p>Cụm từ này dùng để đáp lại lời cảm ơn, có nghĩa là <em>\"không có gì\" </em>hoặc <em>\"rất sẵn lòng\"</em>, không dùng khi được chúc mừng.</p>",
+      "1464718": "Cụm từ này mang ý nghĩa phủ nhận hoặc từ chối lời nói của người khác, không phù hợp để đáp lại lời chúc mừng."
+    },
+    "images": [],
+    "sourceExamId": 14195,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hai Bà Trưng năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "282_11",
+    "questionNumber": 37,
+    "questionName": "Question 11",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Mike: \"Would you like to have dinner with me tonight?\" </strong></p>\n<p><strong>Jenny: \"_____.\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1464719,
+        "label": "A",
+        "text": "<p>Yes, I'd love to</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1464720,
+        "label": "B",
+        "text": "No, I won't",
+        "isCorrect": false
+      },
+      {
+        "id": 1464721,
+        "label": "C",
+        "text": "Yes, I will",
+        "isCorrect": false
+      },
+      {
+        "id": 1464722,
+        "label": "D",
+        "text": "Never mind, thanks",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1464719,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p style=\"text-align: justify;\">Hãy xác định mục đích giao tiếp của câu hỏi <em>\"Would you like to have dinner with me tonight?\"</em>. Đây là một lời mời.</p>\n<p style=\"text-align: justify;\">Sau đó, hãy tìm câu đáp thể hiện sự chấp nhận lời mời một cách lịch sự và tự nhiên trong tiếng Anh.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của Mike: <em>\"Would you like to have dinner with me tonight?\"</em> là một lời mời ăn tối.</p>\n<p style=\"text-align: justify;\">Để đáp lại lời mời này một cách lịch sự và tự nhiên, phương án 1 <em>\"Yes, I'd love to\"</em> là lựa chọn phù hợp nhất vì nó thể hiện sự đồng ý và niềm vui khi được mời.</p>\n<p style=\"text-align: justify;\">Các phương án 2, 3 và 4 đều không phù hợp với ngữ cảnh của một lời mời và cách đáp lại lịch sự.</p>",
+    "answerFeedbacks": {
+      "1464719": "<p>Đây là cách lịch sự và tự nhiên để chấp nhận lời mời, thể hiện sự nhiệt tình và niềm vui.</p>",
+      "1464720": "Câu này không phù hợp vì <em>\"won't\"</em> dùng để từ chối một hành động hoặc ý định trong tương lai, không phải để từ chối lời mời một cách lịch sự.",
+      "1464721": "Câu này không tự nhiên khi chấp nhận lời mời, vì <em>\"will\"</em> thường dùng để diễn tả ý định hoặc dự định, không phải sự thích thú hay niềm vui khi được mời ăn tối.",
+      "1464722": "Cụm từ <em>\"Never mind\"</em> thường dùng để bảo ai đó đừng lo lắng hoặc bỏ qua điều gì đó, không phù hợp để đáp lại lời mời."
+    },
+    "images": [],
+    "sourceExamId": 14195,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hai Bà Trưng năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "282_12",
+    "questionNumber": 19,
+    "questionName": "Question 12",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong><span class=\"word\">Mark:</span> <span class=\"word\">\"Your</span> <span class=\"word\">parents</span> <span class=\"word\">must</span> <span class=\"word\">be</span> <span class=\"word\">proud</span> <span class=\"word\">of</span> <span class=\"word\">your</span> <span class=\"word\">result</span> <span class=\"word\">at</span> <span class=\"word\">school!\"</span></strong></p>\n<p><strong><span class=\"word\">Phuong: \"_____\"</span></strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1466839,
+        "label": "A",
+        "text": "<p>Well done! You did a really good job.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1466840,
+        "label": "B",
+        "text": "<p>Go on! I know you can do it!</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1466841,
+        "label": "C",
+        "text": "<p>Stay calm. Everything will be alright.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1466842,
+        "label": "D",
+        "text": "<p>Thanks. It's certainly encouraging.</p>",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 1466842,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Xác định mục đích giao tiếp của lời nói <em>\"Your parents must be proud of your result at school!\"</em> là gì.</p>\n<p>Sau đó, hãy tìm lời đáp thể hiện sự cảm ơn và phản hồi tích cực. Hãy loại bỏ các phương án là lời khen lại, lời động viên hoặc lời trấn an.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của Mark <em>\"Your parents must be proud of your result at school!\"</em> là một lời khen ngợi. Để đáp lại lời khen, người nghe cần bày tỏ sự cảm ơn và công nhận lời khen đó.</p>\n<p style=\"text-align: justify;\">Phương án 4 <em>\"Thanks. It's certainly encouraging.\"</em> hoàn toàn phù hợp vì nó thể hiện sự biết ơn và thừa nhận rằng lời khen đó mang tính động viên.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2, 3 không phù hợp với ngữ cảnh này.</p>",
+    "answerFeedbacks": {
+      "1466839": "<p>Đây là lời khen ngợi dành cho người khác, không phải lời đáp lại khi được khen.</p>",
+      "1466840": "<p>Đây là lời động viên, khuyến khích người khác, không phù hợp để đáp lại lời khen.</p>",
+      "1466841": "<p>Đây là lời trấn an, khuyên ai đó giữ bình tĩnh, không phù hợp với ngữ cảnh được khen.</p>",
+      "1466842": "<p>Đây là lời cảm ơn và xác nhận sự động viên, rất phù hợp để đáp lại lời khen.</p>"
+    },
+    "images": [],
+    "sourceExamId": 14235,
+    "sourceExamName": "Đề thi minh họa môn Tiếng Anh vào 10 Sở GD&ĐT Hà Nội năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "282_13",
+    "questionNumber": 20,
+    "questionName": "Question 13",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Thanh: Would you like something to eat?</strong></p>\n<p><strong>Kevin: _____</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1466843,
+        "label": "A",
+        "text": "<p>No, thanks. I'm good.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1466844,
+        "label": "B",
+        "text": "Yes, I do.",
+        "isCorrect": false
+      },
+      {
+        "id": 1466845,
+        "label": "C",
+        "text": "<p>No, no problem.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1466846,
+        "label": "D",
+        "text": "Yes, it is.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1466843,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Xác định mục đích giao tiếp của câu hỏi \"<em>Would you like something to eat?</em>\". Đây là một lời mời hoặc đề nghị.</p>\n<p>Hãy xem xét từng phương án để chọn câu đáp lại phù hợp nhất với lời mời này, đặc biệt là khi bạn muốn từ chối một cách lịch sự.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của Thanh \"<strong><em>Would you like something to eat?</em></strong>\" là một lời mời hoặc đề nghị ăn uống.</p>\n<p style=\"text-align: justify;\">Để đáp lại lời mời này một cách lịch sự khi không muốn, phương án 1 \"<strong><em>No, thanks. I'm good.</em></strong>\" là lựa chọn phù hợp nhất vì nó vừa từ chối vừa thể hiện sự cảm ơn và khẳng định bản thân đã ổn.</p>\n<p style=\"text-align: justify;\">Các phương án 2, 3, và 4 đều không phù hợp với ngữ cảnh vì chúng là các cách đáp lại cho những loại câu hỏi hoặc tình huống giao tiếp khác.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>Would you like...?</strong> (expr.): Bạn có muốn...? (dùng để mời hoặc đề nghị một cách lịch sự).</p>",
+    "answerFeedbacks": {
+      "1466843": "<p>Đây là câu trả lời lịch sự để từ chối một lời mời hoặc đề nghị, thể hiện rằng người nói không muốn ăn nhưng vẫn bày tỏ lòng biết ơn.</p>",
+      "1466844": "Cụm từ này không phù hợp để đáp lại lời đề nghị ăn uống; cách đáp này thường dùng để trả lời câu hỏi <em>\"Do you...?\"</em>",
+      "1466845": "<p>Cụm từ này dùng để đáp lại lời xin lỗi hoặc khi muốn nói rằng một việc gì đó không gây phiền phức, không phù hợp với lời mời.</p>",
+      "1466846": "Đây là câu trả lời dùng cho câu hỏi <em>\"Is it...?\"</em>, không phù hợp để đáp lại lời mời ăn uống."
+    },
+    "images": [],
+    "sourceExamId": 14235,
+    "sourceExamName": "Đề thi minh họa môn Tiếng Anh vào 10 Sở GD&ĐT Hà Nội năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "282_14",
+    "questionNumber": 19,
+    "questionName": "Question 14",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><em>Two students are talking about Pho, a Vietnamese dish.</em></p>\n<p><strong>Ted: \"I think one of the most popular foods for Vietnamese people is Pho.\"</strong></p>\n<p><strong>Kate: \"_____. Everyone likes it because it is delicious.\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1472074,
+        "label": "A",
+        "text": "<p>Oh! That's a problem</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1472075,
+        "label": "B",
+        "text": "<p>Not at all</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1472076,
+        "label": "C",
+        "text": "<p>I totally disagree</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1472077,
+        "label": "D",
+        "text": "<p>I couldn't agree with you more</p>",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 1472077,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Hãy xác định mục đích giao tiếp của Kate trong câu trả lời. Kate nói \"<em>Everyone likes it because it is delicious</em>\" (Mọi người đều thích nó vì nó ngon), điều này cho thấy cô ấy có quan điểm như thế nào về Phở so với Ted.</p>\n<p>Sau đó, hãy đối chiếu từng phương án lựa chọn với mục đích giao tiếp đã xác định để chọn câu trả lời phù hợp nhất.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lình thoại của Ted là một nhận định về món Phở. Lời đáp của Kate cần thể hiện sự đồng tình mạnh mẽ, bởi vì cô ấy bổ sung thêm rằng \"<em>Everyone likes it because it is delicious</em>\" (Mọi người đều thích nó vì nó ngon).</p>\n<p style=\"text-align: justify;\">Phương án 4, \"<em>I couldn't agree with you more</em>\", là một thành ngữ diễn tả sự đồng tình tuyệt đối, hoàn toàn phù hợp với ngữ cảnh này.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2 và 3 đều thể hiện sự không đồng tình hoặc phủ nhận, do đó không phù hợp với ngữ cảnh cuộc hội thoại.</p>",
+    "answerFeedbacks": {
+      "1472074": "<p>Phương án này thể hiện sự lo lắng hoặc nhận định một vấn đề, không phù hợp với ngữ cảnh đồng tình.</p>",
+      "1472075": "<p>Cụm từ này thường dùng để phủ nhận một điều gì đó hoặc đáp lại lời cảm ơn/xin lỗi, không thể hiện sự đồng tình trong ngữ cảnh này.</p>",
+      "1472076": "<p>Phương án này thể hiện sự không đồng tình hoàn toàn, trái ngược với ý của Kate trong lời thoại sau đó.</p>",
+      "1472077": "<p>Đây là một thành ngữ diễn tả sự đồng tình tuyệt đối, hoàn toàn phù hợp với ngữ cảnh Kate đang bày tỏ sự tán thành.</p>"
+    },
+    "images": [],
+    "sourceExamId": 14310,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Cầu Giấy năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "282_15",
+    "questionNumber": 20,
+    "questionName": "Question 15",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><em>Peter is sitting at his desk, working on his computer. There's a knock on the door.</em></p>\n<p><strong>Steven: \"May I come in?\"</strong></p>\n<p><strong>Peter: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1472078,
+        "label": "A",
+        "text": "<p>No, you may not.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1472079,
+        "label": "B",
+        "text": "<p>Yes, why not?</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1472080,
+        "label": "C",
+        "text": "<p>Yes, please do.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1472081,
+        "label": "D",
+        "text": "<p>No, I don't accept that.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1472080,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Steven đang hỏi \"<em>May I come in?</em>\", đây là một lời xin phép lịch sự. Bạn cần tìm một lời đáp đồng ý cho phép người khác vào một cách lịch sự và tự nhiên.</p>\n<p>Hãy đối chiếu từng phương án với mục đích này và xem xét sắc thái của chúng.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của Steven \"<em>May I come in?</em>\" là một lời xin phép lịch sự để vào phòng. Để đáp lại một lời xin phép, Peter cần một câu trả lời đồng ý hoặc từ chối một cách phù hợp.</p>\n<p style=\"text-align: justify;\">Phương án 3 \"<em>Yes, please do.</em>\" là cách đáp lịch sự và tự nhiên nhất để cho phép ai đó vào.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2 và 4 đều không phù hợp với ngữ cảnh. Phương án 1 \"<em>No, you may not.</em>\" quá thẳng thừng và thiếu lịch sự. Phương án 2 \"<em>Yes, why not?</em>\" mang sắc thái ngạc nhiên hoặc thách thức, không phải là lời mời vào. Phương án 4 \"<em>No, I don't accept that.</em>\" dùng để từ chối một đề nghị hoặc quan điểm, không phải lời xin phép.</p>",
+    "answerFeedbacks": {
+      "1472078": "<p>Đây là một cách từ chối lời xin phép, nhưng quá thẳng thừng và thiếu lịch sự trong ngữ cảnh này khi Steven đã lịch sự hỏi xin phép.</p>",
+      "1472079": "<p>Cụm từ này thường dùng để khuyến khích hoặc đồng ý một đề xuất, nhưng mang sắc thái ngạc nhiên hoặc thách thức, không phù hợp khi đáp lại lời xin phép vào phòng.</p>",
+      "1472080": "<p>Đây là lời đáp lịch sự và phù hợp nhất để đồng ý cho phép ai đó vào phòng sau khi họ đã lịch sự hỏi xin phép.</p>",
+      "1472081": "<p>Cụm từ này dùng để từ chối một lời đề nghị, một thỏa thuận hoặc một quan điểm, không phù hợp để đáp lại lời xin phép vào phòng.</p>"
+    },
+    "images": [],
+    "sourceExamId": 14310,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Cầu Giấy năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "282_16",
+    "questionNumber": 15,
+    "questionName": "Question 16",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Mr. James: You are making good progress. I'm proud of you!</strong></p>\n<p><strong>Linh: _____</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1474109,
+        "label": "A",
+        "text": "<p>I really appreciate you saying that.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1474110,
+        "label": "B",
+        "text": "<p>No problem.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1474111,
+        "label": "C",
+        "text": "<p>Don't worry about it!</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1474112,
+        "label": "D",
+        "text": "<p>Everything's alright. Thank you.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1474109,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>X&aacute;c định mục đ&iacute;ch giao tiếp của lời n&oacute;i cần đ&aacute;p lại: Mr. James đang <strong>khen ngợi v&agrave; b&agrave;y tỏ sự tự h&agrave;o</strong> về Linh.</p>\n<p>H&atilde;y chọn c&acirc;u đ&aacute;p lại thể hiện sự <strong>cảm k&iacute;ch hoặc biết ơn</strong> đối với lời khen.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của Mr. James là một lời khen ngợi và động viên (\"<em>You are making good progress. I'm proud of you!</em>\"), do đó Linh cần đáp lại bằng cách thể hiện sự cảm kích.</p>\n<p style=\"text-align: justify;\">Phương án 1, \"<em>I really appreciate you saying that.</em>\" (Tôi thực sự cảm kích khi bạn nói vậy.), là cách đáp lại phù hợp nhất, thể hiện sự biết ơn một cách lịch sự.</p>\n<p style=\"text-align: justify;\">Các phương án 2, 3 và 4 đều không phù hợp với ngữ cảnh nhận lời khen, vì chúng mang chức năng giao tiếp khác.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\"><strong>Cấu trúc / Từ vựng liên quan:</strong></span></p>\n<p style=\"text-align: justify;\"><strong>make progress</strong> (phr.): tiến bộ, đạt được sự phát triển</p>\n<p style=\"text-align: justify;\"><strong>be proud of someone</strong>: tự hào về ai đó</p>\n<p style=\"text-align: justify;\"><strong>appreciate</strong> (v.): đánh giá cao, cảm kích</p>",
+    "answerFeedbacks": {
+      "1474109": "<p>Đây là cách đáp lại lời khen một cách lịch sự và chân thành, thể hiện sự cảm kích.</p>",
+      "1474110": "<p>Cụm từ này thường dùng để đáp lại lời cảm ơn hoặc xin lỗi, không phù hợp khi nhận lời khen.</p>",
+      "1474111": "<p>Cụm từ này dùng để trấn an ai đó khi họ lo lắng hoặc xin lỗi, không phù hợp với ngữ cảnh nhận lời khen.</p>",
+      "1474112": "<p><em>\"Everything's alright\" </em>d&ugrave;ng để b&aacute;o rằng mọi thứ đều ổn hoặc trấn an ai đ&oacute;, kh&ocirc;ng phải l&agrave; phản hồi tự nhi&ecirc;n cho lời khen.</p>"
+    },
+    "images": [],
+    "sourceExamId": 14324,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Tây Hồ năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "282_17",
+    "questionNumber": 16,
+    "questionName": "Question 17",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Phong: \"Could you please give me a hand moving these boxes to the storeroom?\"</strong></p>\n<p><strong>Anne: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1474336,
+        "label": "A",
+        "text": "<p>Sure. I'd be glad to help.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1474337,
+        "label": "B",
+        "text": "<p>No, not yet.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1474338,
+        "label": "C",
+        "text": "<p>I promise.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1474339,
+        "label": "D",
+        "text": "<p>You're welcome.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1474336,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Xác định mục đích giao tiếp của câu nói của Phong: đó là một lời yêu cầu giúp đỡ, với cụm từ \"<em>give me a hand</em>\" có nghĩa là <em>\"giúp tôi\". </em></p>\n<p>Hãy xem xét từng phương án để tìm câu đáp phù hợp nhất với lời yêu cầu đó.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời của Phong là một lời yêu cầu giúp đỡ: \"<em>Could you please give me a hand moving these boxes to the storeroom?</em>\" (Bạn có thể vui lòng giúp tôi chuyển những chiếc hộp này vào kho không?). Do đó, lời đáp của Anne cần thể hiện sự chấp nhận hoặc từ chối lời yêu cầu này.</p>\n<p style=\"text-align: justify;\">Phương án 1, \"<em>Sure. I'd be glad to help.</em>\", thể hiện sự đồng ý giúp đỡ một cách lịch sự và nhiệt tình, hoàn toàn phù hợp với ngữ cảnh.</p>\n<p style=\"text-align: justify;\">Các phương án 2, 3, 4 không phù hợp với chức năng giao tiếp của lời yêu cầu giúp đỡ.</p>",
+    "answerFeedbacks": {
+      "1474336": "<p>Đây là lời đáp thể hiện sự đồng ý giúp đỡ một cách lịch sự và nhiệt tình, hoàn toàn phù hợp với lời yêu cầu giúp đỡ của Phong.</p>",
+      "1474337": "<p>Lời đáp này không phù hợp vì nó dùng để trả lời câu hỏi về việc đã hoàn thành một việc gì đó hay chưa, không phải để đáp lại lời yêu cầu giúp đỡ.</p>",
+      "1474338": "<p>Lời đáp này thể hiện sự hứa hẹn, cam kết, không phải là cách trực tiếp để chấp nhận hay từ chối một lời yêu cầu giúp đỡ.</p>",
+      "1474339": "<p>Lời đáp này được dùng để đáp lại lời cảm ơn, không phải để phản hồi một lời yêu cầu giúp đỡ.</p>"
+    },
+    "images": [],
+    "sourceExamId": 14324,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Tây Hồ năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "282_18",
+    "questionNumber": 27,
+    "questionName": "Question 18",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Trang: \"This football match is boring. I don't want to watch it anymore.\"</strong></p>\n<p><strong>Minh: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1477593,
+        "label": "A",
+        "text": "<p>So do I.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1477594,
+        "label": "B",
+        "text": "<p>Neither do I.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1477595,
+        "label": "C",
+        "text": "<p>I do too.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1477596,
+        "label": "D",
+        "text": "<p>I do either.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1477594,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Để chọn lời đáp phù hợp, bạn cần xác định loại câu của Trang: <em>\"I don't want to watch it anymore.\"</em> là một phát biểu khẳng định hay phủ định.</p>\n<p>Sau đó, hãy xem xét các cấu trúc dùng để đồng tình. Cấu trúc nào dùng để đồng tình với câu phủ định?</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của Trang là một phát biểu phủ định: <em>\"I don't want to watch it anymore.\"</em> (Tôi không muốn xem nó nữa.). Để đồng tình với một phát biểu phủ định, chúng ta sử dụng cấu trúc với \"Neither\" hoặc \"Nor\".</p>\n<p style=\"text-align: justify;\">Do đó, phương án 2 <em>\"Neither do I.\"</em> là lựa chọn phù hợp nhất.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 3 và 4 không phù hợp với ngữ cảnh vì chúng không được dùng để đồng tình với một phát biểu phủ định hoặc sai về mặt ngữ pháp.</p>",
+    "answerFeedbacks": {
+      "1477593": "<p>Cấu trúc <em>\"So do I\"</em> dùng để đồng tình với một phát biểu khẳng định.</p>",
+      "1477594": "<p>Cấu trúc <em>\"Neither do I\"</em> dùng để đồng tình với một phát biểu phủ định, phù hợp với câu nói của Trang.</p>",
+      "1477595": "<p>Cấu trúc<em> \"I do too\" </em>dùng để đồng tình với một phát biểu khẳng định.</p>",
+      "1477596": "<p>Cấu trúc<em> \"I do either\"</em> không đúng ngữ pháp để thể hiện sự đồng tình trong trường hợp này.</p>"
+    },
+    "images": [],
+    "sourceExamId": 14325,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hoàn Kiếm năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "282_19",
+    "questionNumber": 2,
+    "questionName": "Question 19",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Mike: \"I've just got awarded a scholarship!\"</strong></p>\n<p><strong>Chi: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1494415,
+        "label": "A",
+        "text": "<p>My pleasure.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1494416,
+        "label": "B",
+        "text": "<p>Thanks for your advice.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1494417,
+        "label": "C",
+        "text": "<p>No worries. Everything will be alright.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1494419,
+        "label": "D",
+        "text": "<p>How cool! Congratulations!</p>",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 1494419,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Lời thoại của Mike <em>\"I've just got awarded a scholarship!\"</em> là một tin vui về thành tích cá nhân.</p>\n<p>Hãy xác định xem trong các phương án, đâu là lời đáp thể hiện sự chúc mừng và vui mừng phù hợp nhất với một tin tốt.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của Mike là một thông báo về tin vui (được trao học bổng), thể hiện chức năng giao tiếp chia sẻ thành tích cá nhân. Do đó, Chi cần đáp lại bằng một lời chúc mừng và bày tỏ sự vui mừng.</p>\n<p style=\"text-align: justify;\">Phương án 4, <em>\"How cool! Congratulations!\"</em>, thể hiện đúng cả hai điều này và là câu đáp phù hợp nhất.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2, 3 đều không phù hợp với ngữ cảnh Mike báo tin vui.</p>",
+    "answerFeedbacks": {
+      "1494415": "<p>Đây là lời đáp lại khi ai đó nói <em>\"Thank you\"</em> hoặc khi bạn vui lòng giúp đỡ ai đó, không phù hợp để chúc mừng tin vui.</p>",
+      "1494416": "<p>Đây là lời cảm ơn khi nhận được lời khuyên, không phù hợp với ngữ cảnh bạn của bạn báo tin vui.</p>",
+      "1494417": "<p>Đây là lời an ủi, trấn an khi ai đó lo lắng hoặc xin lỗi, không phù hợp để đáp lại một tin vui.</p>",
+      "1494419": "<p>Đây là lời bày tỏ sự vui mừng và chúc mừng phù hợp khi nghe tin tốt lành hoặc thành tích của người khác.</p>"
+    },
+    "images": [],
+    "sourceExamId": 14532,
+    "sourceExamName": "Đề thi chính thức vào 10 môn Anh Sở Hà Nội năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "282_20",
+    "questionNumber": 17,
+    "questionName": "Question 20",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>John: \"How lovely your pets are!\"</strong></p>\n<p><strong>Peter: \"_____.\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 65266,
+        "label": "A",
+        "text": "<p>I love them, too</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 65267,
+        "label": "B",
+        "text": "<p>Thank you, it's nice of you to say so</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 65268,
+        "label": "C",
+        "text": "<p>Can you say that again</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 65269,
+        "label": "D",
+        "text": "<p>Really? They are</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 65267,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Lời thoại của John là một lời khen về thú cưng của Peter. Peter cần đáp lại lời khen đó một cách lịch sự và phù hợp.</p>\n<p>Hãy xem xét từng phương án và lựa chọn câu trả lời phù hợp.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của John \"<em>How lovely your pets are!</em>\" (Thú cưng của bạn đáng yêu làm sao!) là một lời khen ngợi. Để đáp lại một lời khen, chúng ta cần bày tỏ sự cảm kích một cách lịch sự.</p>\n<p style=\"text-align: justify;\">Phương án 2, \"<em>Thank you, it's nice of you to say so</em>\" (Cảm ơn bạn, thật tốt bụng khi bạn nói vậy), là câu đáp phù hợp nhất vì nó thể hiện sự biết ơn và chấp nhận lời khen một cách trang trọng.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 3 và 4 đều không phù hợp trong ngữ cảnh này. Phương án 1 không đáp lại lời khen, phương án 3 thể hiện sự không nghe rõ, và phương án 4 thể hiện sự nghi ngờ hoặc ngạc nhiên không đúng lúc.</p>",
+    "answerFeedbacks": {
+      "65266": "<p>Lựa chọn này không phù hợp vì nó không đáp lại lời khen của John mà chỉ bày tỏ cảm xúc cá nhân của Peter về thú cưng của mình.</p>",
+      "65267": "<p>Đây là cách đáp lại lời khen một cách lịch sự và phù hợp trong tiếng Anh.</p>",
+      "65268": "<p>Lựa chọn này không phù hợp vì nó ngụ ý Peter không nghe rõ hoặc không hiểu lời nói của John, trong khi John đã nói rất rõ ràng.</p>",
+      "65269": "<p>Lựa chọn này không phù hợp vì nó thể hiện sự ngạc nhiên hoặc không tin vào lời khen, điều này có thể bị coi là thiếu lịch sự hoặc khó hiểu.</p>"
+    },
+    "images": [],
+    "sourceExamId": 1462,
+    "sourceExamName": "Đề thi minh họa vào 10 môn Anh Sở Hà Nội năm 2019",
+    "year": 2019
+  }
+]

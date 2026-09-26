@@ -1,0 +1,27 @@
+{
+  "topicId": 581,
+  "topicName": "Âm câm",
+  "englishName": "Silent letters",
+  "rules": [
+    {
+      "sound": "Silent B",
+      "rule": "Chữ B câm khi đứng sau M ở cuối từ (climb, bomb, thumb, comb) hoặc đứng trước T (doubt, debt, subtle).",
+      "examples": "climb /klaɪm/, doubt /daʊt/, debt /det/"
+    },
+    {
+      "sound": "Silent K",
+      "rule": "Chữ K câm khi đứng trước N ở đầu từ (knee, knife, know, knock).",
+      "examples": "knife /naɪf/, knee /niː/, knowledge /ˈnɒlɪdʒ/"
+    },
+    {
+      "sound": "Silent W",
+      "rule": "Chữ W câm khi đứng trước R (write, wrong, wrist) hoặc trong một số từ đặc biệt (two, who, answer).",
+      "examples": "write /raɪt/, wrong /rɒŋ/, answer /ˈɑːnsər/"
+    },
+    {
+      "sound": "Silent H",
+      "rule": "Chữ H câm trong hour, honest, honour, heir và khi đứng sau W (what, when, where).",
+      "examples": "hour /ˈaʊər/, honest /ˈɒnɪst/, ghost /ɡəʊst/"
+    }
+  ]
+}

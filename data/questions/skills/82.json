@@ -1,0 +1,602 @@
+[
+  {
+    "id": "82_1",
+    "questionNumber": 1,
+    "questionName": "Question 1",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Tourist: \"Excuse me, could you tell me the way to the nearest bank?\"</strong></p><p><strong>Local resident: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8201,
+        "label": "A",
+        "text": "Go straight ahead for two blocks, then turn left. It is on your right.",
+        "isCorrect": true
+      },
+      {
+        "id": 8202,
+        "label": "B",
+        "text": "Yes, I like banks very much.",
+        "isCorrect": false
+      },
+      {
+        "id": 8203,
+        "label": "C",
+        "text": "The bank opens at 8 a.m. every weekday.",
+        "isCorrect": false
+      },
+      {
+        "id": 8204,
+        "label": "D",
+        "text": "No problem, you can take my money.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8201,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Khách du lịch hỏi đường tới ngân hàng gần nhất (\"could you tell me the way to...\"). Câu trả lời cần chỉ dẫn hướng đi cụ thể.",
+    "explanation": "Đáp án A là lời chỉ đường chuẩn xác: \"Go straight ahead for two blocks, then turn left. It is on your right.\" (Đi thẳng hai dãy nhà, sau đó rẽ trái. Ngân hàng nằm ở bên tay phải bạn)."
+  },
+  {
+    "id": "82_2",
+    "questionNumber": 2,
+    "questionName": "Question 2",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>A stranger: \"Excuse me, is there a post office near here?\"</strong></p><p><strong>Passer-by: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8205,
+        "label": "A",
+        "text": "I am posting a letter right now.",
+        "isCorrect": false
+      },
+      {
+        "id": 8206,
+        "label": "B",
+        "text": "Yes, it is just around the corner, next to the bookstore.",
+        "isCorrect": true
+      },
+      {
+        "id": 8207,
+        "label": "C",
+        "text": "Letters are very expensive nowadays.",
+        "isCorrect": false
+      },
+      {
+        "id": 8208,
+        "label": "D",
+        "text": "No, you cannot send emails there.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8206,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Người lạ hỏi liệu có bưu điện nào gần đây không (\"is there a post office near here?\").",
+    "explanation": "Đáp án B chỉ vị trí bưu điện một cách tự nhiên và chính xác: \"Yes, it is just around the corner, next to the bookstore.\" (Có, nó ngay góc phố, cạnh hiệu sách)."
+  },
+  {
+    "id": "82_3",
+    "questionNumber": 3,
+    "questionName": "Question 3",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Visitor: \"Can you show me how to get to the railway station?\"</strong></p><p><strong>Police officer: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8209,
+        "label": "A",
+        "text": "The train ticket is very cheap.",
+        "isCorrect": false
+      },
+      {
+        "id": 8210,
+        "label": "B",
+        "text": "Trains usually depart on time.",
+        "isCorrect": false
+      },
+      {
+        "id": 8211,
+        "label": "C",
+        "text": "Keep going until you see a roundabout, and it is on your right.",
+        "isCorrect": true
+      },
+      {
+        "id": 8212,
+        "label": "D",
+        "text": "I am not traveling by train today.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8211,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Cảnh sát cần đưa ra lời chỉ dẫn đường đi tới nhà ga.",
+    "explanation": "Đáp án C đưa ra chỉ dẫn giao thông rõ ràng: \"Keep going until you see a roundabout, and it is on your right.\" (Cứ đi tiếp cho đến khi bạn thấy vòng xuyến, nhà ga ở bên tay phải bạn)."
+  },
+  {
+    "id": "82_4",
+    "questionNumber": 4,
+    "questionName": "Question 4",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Sarah: \"How far is it from here to the national museum?\"</strong></p><p><strong>Tom: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8213,
+        "label": "A",
+        "text": "It is about a ten-minute walk.",
+        "isCorrect": true
+      },
+      {
+        "id": 8214,
+        "label": "B",
+        "text": "The museum has ancient artifacts.",
+        "isCorrect": false
+      },
+      {
+        "id": 8215,
+        "label": "C",
+        "text": "It costs 50,000 VND to enter.",
+        "isCorrect": false
+      },
+      {
+        "id": 8216,
+        "label": "D",
+        "text": "I visited the museum last Sunday.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8213,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Câu hỏi \"How far is it...?\" hỏi về khoảng cách / thời gian di chuyển.",
+    "explanation": "Đáp án A trả lời khoảng cách bằng thời gian đi bộ: \"It is about a ten-minute walk.\" (Khoảng 10 phút đi bộ)."
+  },
+  {
+    "id": "82_5",
+    "questionNumber": 5,
+    "questionName": "Question 5",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Tourist: \"Excuse me, where is the nearest bus stop?\"</strong></p><p><strong>Girl: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8217,
+        "label": "A",
+        "text": "Buses are often crowded at rush hour.",
+        "isCorrect": false
+      },
+      {
+        "id": 8218,
+        "label": "B",
+        "text": "It is opposite the supermarket over there.",
+        "isCorrect": true
+      },
+      {
+        "id": 8219,
+        "label": "C",
+        "text": "You should buy a monthly pass.",
+        "isCorrect": false
+      },
+      {
+        "id": 8220,
+        "label": "D",
+        "text": "I am waiting for my sister.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8218,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Hỏi vị trí của trạm dừng xe buýt gần nhất (\"where is the nearest bus stop?\").",
+    "explanation": "Đáp án B chỉ vị trí đối diện siêu thị: \"It is opposite the supermarket over there.\" (Nó nằm đối diện siêu thị ở đằng kia)."
+  },
+  {
+    "id": "82_6",
+    "questionNumber": 6,
+    "questionName": "Question 6",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>David: \"Which bus goes to the city center from here?\"</strong></p><p><strong>Officer: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8221,
+        "label": "A",
+        "text": "Bus number 09 will take you straight there.",
+        "isCorrect": true
+      },
+      {
+        "id": 8222,
+        "label": "B",
+        "text": "The city center is very lively at night.",
+        "isCorrect": false
+      },
+      {
+        "id": 8223,
+        "label": "C",
+        "text": "You can walk there in three hours.",
+        "isCorrect": false
+      },
+      {
+        "id": 8224,
+        "label": "D",
+        "text": "No buses run on rainy days.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8221,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Hỏi tuyến xe buýt đi đến trung tâm thành phố (\"Which bus goes to...?\").",
+    "explanation": "Đáp án A đưa ra tuyến xe buýt số 09 đi thẳng tới đó."
+  },
+  {
+    "id": "82_7",
+    "questionNumber": 7,
+    "questionName": "Question 7",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Driver: \"Excuse me, could you tell me how to get to the general hospital?\"</strong></p><p><strong>Pedestrian: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8225,
+        "label": "A",
+        "text": "Doctors and nurses work very hard.",
+        "isCorrect": false
+      },
+      {
+        "id": 8226,
+        "label": "B",
+        "text": "Drive straight on and take the second turning on your right.",
+        "isCorrect": true
+      },
+      {
+        "id": 8227,
+        "label": "C",
+        "text": "I hope you will feel better soon.",
+        "isCorrect": false
+      },
+      {
+        "id": 8228,
+        "label": "D",
+        "text": "Hospitals are strictly sanitized.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8226,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Chỉ đường lái xe tới bệnh viện.",
+    "explanation": "Đáp án B chỉ dẫn: \"Drive straight on and take the second turning on your right.\" (Lái xe thẳng và rẽ ở ngã rẽ thứ hai bên tay phải bạn)."
+  },
+  {
+    "id": "82_8",
+    "questionNumber": 8,
+    "questionName": "Question 8",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Driver: \"Excuse me, am I on the right road to Noi Bai airport?\"</strong></p><p><strong>Toll worker: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8229,
+        "label": "A",
+        "text": "Yes, just keep following this highway for 15 kilometers.",
+        "isCorrect": true
+      },
+      {
+        "id": 8230,
+        "label": "B",
+        "text": "Airplanes fly at high altitudes.",
+        "isCorrect": false
+      },
+      {
+        "id": 8231,
+        "label": "C",
+        "text": "Have a great flight next week.",
+        "isCorrect": false
+      },
+      {
+        "id": 8232,
+        "label": "D",
+        "text": "You should bring your passport.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8229,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Hỏi xem có đang đi đúng đường tới sân bay hay không.",
+    "explanation": "Đáp án A xác nhận đúng đường và hướng dẫn tiếp tục theo đường cao tốc."
+  },
+  {
+    "id": "82_9",
+    "questionNumber": 9,
+    "questionName": "Question 9",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Peter: \"Is the supermarket far from here?\"</strong></p><p><strong>Mary: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8233,
+        "label": "A",
+        "text": "No, it is within walking distance, just 5 minutes away.",
+        "isCorrect": true
+      },
+      {
+        "id": 8234,
+        "label": "B",
+        "text": "Yes, they sell fresh fruits and vegetables.",
+        "isCorrect": false
+      },
+      {
+        "id": 8235,
+        "label": "C",
+        "text": "I often go shopping at weekends.",
+        "isCorrect": false
+      },
+      {
+        "id": 8236,
+        "label": "D",
+        "text": "The parking lot is completely free.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8233,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Hỏi về khoảng cách (\"Is the supermarket far from here?\").",
+    "explanation": "Đáp án A: \"No, it is within walking distance, just 5 minutes away.\" (Không, nó ở cự ly đi bộ được, chỉ cách đây 5 phút)."
+  },
+  {
+    "id": "82_10",
+    "questionNumber": 10,
+    "questionName": "Question 10",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Customer: \"Excuse me, where can I catch a taxi?\"</strong></p><p><strong>Hotel receptionist: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8237,
+        "label": "A",
+        "text": "There is a taxi rank right outside the main hotel entrance.",
+        "isCorrect": true
+      },
+      {
+        "id": 8238,
+        "label": "B",
+        "text": "Taxi drivers are usually friendly.",
+        "isCorrect": false
+      },
+      {
+        "id": 8239,
+        "label": "C",
+        "text": "You should book a room in advance.",
+        "isCorrect": false
+      },
+      {
+        "id": 8240,
+        "label": "D",
+        "text": "Traffic jams are terrible in the morning.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8237,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Hỏi nơi bắt taxi (\"where can I catch a taxi?\").",
+    "explanation": "Đáp án A chỉ rõ bãi đón taxi: \"There is a taxi rank right outside the main hotel entrance.\""
+  },
+  {
+    "id": "82_11",
+    "questionNumber": 11,
+    "questionName": "Question 11",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Tourist: \"Could you direct me to the art gallery, please?\"</strong></p><p><strong>Guide: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8241,
+        "label": "A",
+        "text": "Go along this street until you reach the traffic lights, then cross over.",
+        "isCorrect": true
+      },
+      {
+        "id": 8242,
+        "label": "B",
+        "text": "Oil paintings are my favorite form of art.",
+        "isCorrect": false
+      },
+      {
+        "id": 8243,
+        "label": "C",
+        "text": "The artist graduated from university.",
+        "isCorrect": false
+      },
+      {
+        "id": 8244,
+        "label": "D",
+        "text": "Taking photos inside is strictly prohibited.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8241,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Yêu cầu chỉ đường đến phòng trưng bày nghệ thuật.",
+    "explanation": "Đáp án A chỉ đường rõ ràng với điểm mốc là đèn giao thông."
+  },
+  {
+    "id": "82_12",
+    "questionNumber": 12,
+    "questionName": "Question 12",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Old lady: \"Excuse me, son. Do you know where the pharmacy is?\"</strong></p><p><strong>Young man: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8245,
+        "label": "A",
+        "text": "Walk past the bakery and you will see it next to the clinic.",
+        "isCorrect": true
+      },
+      {
+        "id": 8246,
+        "label": "B",
+        "text": "Medicine is very good for your health.",
+        "isCorrect": false
+      },
+      {
+        "id": 8247,
+        "label": "C",
+        "text": "I am studying to become a pharmacist.",
+        "isCorrect": false
+      },
+      {
+        "id": 8248,
+        "label": "D",
+        "text": "You need a doctor prescription.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8245,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Bà cụ hỏi vị trí hiệu thuốc.",
+    "explanation": "Đáp án A chỉ dẫn: \"Walk past the bakery and you will see it next to the clinic.\" (Đi qua tiệm bánh và bác sẽ thấy nó cạnh phòng khám)."
+  },
+  {
+    "id": "82_13",
+    "questionNumber": 13,
+    "questionName": "Question 13",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Tourist: \"How long does it take to walk from here to the Old Quarter?\"</strong></p><p><strong>Local: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8249,
+        "label": "A",
+        "text": "It takes roughly 15 minutes at a normal pace.",
+        "isCorrect": true
+      },
+      {
+        "id": 8250,
+        "label": "B",
+        "text": "The Old Quarter has 36 ancient guild streets.",
+        "isCorrect": false
+      },
+      {
+        "id": 8251,
+        "label": "C",
+        "text": "Street food is very delicious there.",
+        "isCorrect": false
+      },
+      {
+        "id": 8252,
+        "label": "D",
+        "text": "You should buy some souvenirs.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8249,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Hỏi mất bao lâu để đi bộ đến Phố Cổ (\"How long does it take to walk...?\").",
+    "explanation": "Đáp án A nêu thời gian: \"It takes roughly 15 minutes at a normal pace.\" (Mất khoảng 15 phút đi bộ bình thường)."
+  },
+  {
+    "id": "82_14",
+    "questionNumber": 14,
+    "questionName": "Question 14",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Student: \"Excuse me, is the city library near the botanical park?\"</strong></p><p><strong>Librarian: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8253,
+        "label": "A",
+        "text": "Yes, it is right between the park and the history museum.",
+        "isCorrect": true
+      },
+      {
+        "id": 8254,
+        "label": "B",
+        "text": "You can borrow up to three books at a time.",
+        "isCorrect": false
+      },
+      {
+        "id": 8255,
+        "label": "C",
+        "text": "Trees provide shade and clean air.",
+        "isCorrect": false
+      },
+      {
+        "id": 8256,
+        "label": "D",
+        "text": "Please keep quiet in the reading room.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8253,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Hỏi thư viện thành phố có ở gần công viên không.",
+    "explanation": "Đáp án A chỉ rõ vị trí ở giữa công viên và bảo tàng lịch sử."
+  },
+  {
+    "id": "82_15",
+    "questionNumber": 15,
+    "questionName": "Question 15",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Passenger: \"Excuse me, could you tell me where gate number 3 is?\"</strong></p><p><strong>Airport staff: \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 8257,
+        "label": "A",
+        "text": "Go straight down this corridor and it is the second door on your left.",
+        "isCorrect": true
+      },
+      {
+        "id": 8258,
+        "label": "B",
+        "text": "Flight VN210 will depart in twenty minutes.",
+        "isCorrect": false
+      },
+      {
+        "id": 8259,
+        "label": "C",
+        "text": "You have two pieces of hand luggage.",
+        "isCorrect": false
+      },
+      {
+        "id": 8260,
+        "label": "D",
+        "text": "Please fasten your seat belt.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 8257,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Hành khách hỏi cửa ra máy bay số 3 ở đâu.",
+    "explanation": "Đáp án A chỉ dẫn đường đi trong sảnh sân bay: \"Go straight down this corridor and it is the second door on your left.\""
+  }
+]

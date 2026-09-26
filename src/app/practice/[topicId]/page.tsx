@@ -130,6 +130,7 @@ export default function PracticePage() {
   const [theory, setTheory] = useState<TopicTheory | null>(null);
   const [currentIndex, setCurrentIndex] = useState<number>(0);
   const [selectedChoiceId, setSelectedChoiceId] = useState<string | null>(null);
+  const [selectedChoiceIds, setSelectedChoiceIds] = useState<string[]>([]);
   const [blankAnswers, setBlankAnswers] = useState<Record<string, string>>({});
   const [selectedWordOrder, setSelectedWordOrder] = useState<string[]>([]);
   const questionPromptRef = useRef<HTMLDivElement>(null);
@@ -262,9 +263,9 @@ export default function PracticePage() {
         if (count) apiUrl += `&count=${count}`;
         if (topics) apiUrl += `&topics=${topics}`;
 
-        let qRes = await fetch(apiUrl);
+        const qRes = await fetch(apiUrl);
         if (!qRes.ok) {
-          qRes = await fetch(`/api/questions?topicId=68`);
+          throw new Error(`Failed to load questions for topic ${topicId}`);
         }
         const data = await qRes.json();
         if (data.questions && data.questions.length > 0) {
@@ -378,6 +379,7 @@ export default function PracticePage() {
   );
 
   const isWordOrder = Boolean(currentQ?.questionType === 'WordOrder');
+  const isCheckBox = Boolean(currentQ?.questionType === 'CheckBox' || (currentQ?.choices && currentQ.choices.filter(c => c.isCorrect).length > 1));
 
   // Memoize prompt HTML object so React does not recreate dangerouslySetInnerHTML and destroy form DOM nodes on re-render
   const promptInnerHTML = useMemo(
@@ -403,22 +405,24 @@ export default function PracticePage() {
     ? Boolean((blankAnswers['0'] || '').trim().length > 0)
     : isWordOrder
     ? Boolean(currentQ?.choices && currentQ.choices.length > 0 && selectedWordOrder.length === currentQ.choices.length)
+    : isCheckBox
+    ? selectedChoiceIds.length > 0
     : Boolean(selectedChoiceId);
 
-  // Sync canSubmit state with selectedChoiceId for FillBlank & ShortAnswer & WordOrder
+  // Sync canSubmit state with selectedChoiceId for FillBlank & ShortAnswer & WordOrder & CheckBox
   useEffect(() => {
-    if (isFillBlank || isShortAnswer || isWordOrder) {
+    if (isFillBlank || isShortAnswer || isWordOrder || isCheckBox) {
       if (canSubmit) {
         if (!selectedChoiceId) {
-          setSelectedChoiceId('interactive_answered');
+          setSelectedChoiceId(isCheckBox && selectedChoiceIds[0] ? selectedChoiceIds[0] : 'interactive_answered');
         }
       } else {
-        if (selectedChoiceId === 'fillblank_answered' || selectedChoiceId === 'interactive_answered') {
+        if (selectedChoiceId === 'fillblank_answered' || selectedChoiceId === 'interactive_answered' || (isCheckBox && selectedChoiceIds.length === 0)) {
           setSelectedChoiceId(null);
         }
       }
     }
-  }, [canSubmit, isFillBlank, isShortAnswer, isWordOrder, selectedChoiceId]);
+  }, [canSubmit, isFillBlank, isShortAnswer, isWordOrder, isCheckBox, selectedChoiceId, selectedChoiceIds]);
 
   // Pure native Tak12 parity: Dynamic HTML event delegation on question container (change & input events)
   useEffect(() => {
@@ -525,13 +529,96 @@ export default function PracticePage() {
     }
   }, [blankAnswers, isSubmitted, isRevealed, currentQ]);
 
+  const handleWordBankClick = (word: string) => {
+    if (isSubmitted && isRevealed) return;
+
+    // Check if this word is already filled in one of the blanks
+    const usedEntry = Object.entries(blankAnswers).find(
+      ([, val]) => normalizeBlankValue(val) === normalizeBlankValue(word)
+    );
+
+    if (usedEntry) {
+      const [usedKey] = usedEntry;
+      setBlankAnswers((prev) => {
+        const next = { ...prev };
+        delete next[usedKey];
+        return next;
+      });
+      const container = questionPromptRef.current;
+      if (container) {
+        const ctrl = container.querySelector<HTMLInputElement | HTMLSelectElement>(
+          `input[index='${usedKey}'], input#fbo-${currentQ?.id}-${usedKey}`
+        );
+        if (ctrl) ctrl.value = '';
+      }
+      return;
+    }
+
+    // Find target blank
+    const container = questionPromptRef.current;
+    const inputs = container
+      ? Array.from(container.querySelectorAll<HTMLInputElement | HTMLSelectElement>('.fillblank-option input, .fillblank-option select, input[index], select[index]'))
+      : [];
+
+    let targetIdx = -1;
+    const activeEl = document.activeElement as HTMLInputElement | HTMLSelectElement;
+    if (activeEl && inputs.includes(activeEl)) {
+      const idxAttr = activeEl.getAttribute('index');
+      if (idxAttr !== null) targetIdx = parseInt(idxAttr, 10);
+    }
+
+    if (targetIdx === -1) {
+      const maxBlanks = totalBlanks || inputs.length || 1;
+      for (let i = 0; i < maxBlanks; i++) {
+        const key = String(i);
+        if (!blankAnswers[key] || blankAnswers[key].trim() === '') {
+          targetIdx = i;
+          break;
+        }
+      }
+    }
+
+    if (targetIdx === -1) {
+      targetIdx = 0;
+    }
+
+    const targetKey = String(targetIdx);
+    setBlankAnswers((prev) => ({ ...prev, [targetKey]: word }));
+
+    if (container) {
+      const ctrl = container.querySelector<HTMLInputElement | HTMLSelectElement>(
+        `input[index='${targetKey}'], input#fbo-${currentQ?.id}-${targetKey}`
+      );
+      if (ctrl) {
+        ctrl.value = word;
+      }
+    }
+  };
+
   const handleSelectChoice = (choiceId: string) => {
+    if (isSubmitted && isRevealed) return;
     if (isSubmitted && !isRevealed && retryCount > 0) {
-      setSelectedChoiceId(choiceId);
+      if (isCheckBox) {
+        setSelectedChoiceIds((prev) =>
+          prev.includes(choiceId) ? prev.filter((id) => id !== choiceId) : [...prev, choiceId]
+        );
+        setSelectedChoiceId(choiceId);
+      } else {
+        setSelectedChoiceId(choiceId);
+        setSelectedChoiceIds([choiceId]);
+      }
       return;
     }
     if (!isSubmitted) {
-      setSelectedChoiceId(choiceId);
+      if (isCheckBox) {
+        setSelectedChoiceIds((prev) =>
+          prev.includes(choiceId) ? prev.filter((id) => id !== choiceId) : [...prev, choiceId]
+        );
+        setSelectedChoiceId(choiceId);
+      } else {
+        setSelectedChoiceId(choiceId);
+        setSelectedChoiceIds([choiceId]);
+      }
     }
   };
 
@@ -554,8 +641,14 @@ export default function PracticePage() {
       const userSentence = selectedWordOrder.join(' ');
       const answers = currentQ.shortAnswers || [];
       correct = answers.length > 0 ? answers.some((ans) => matchesSentence(userSentence, ans)) : false;
+    } else if (isCheckBox) {
+      const correctChoiceIds = currentQ.choices.filter(c => c.isCorrect).map(c => c.id);
+      correct = correctChoiceIds.length > 0 &&
+        correctChoiceIds.every(id => selectedChoiceIds.includes(id)) &&
+        selectedChoiceIds.every(id => correctChoiceIds.includes(id));
     } else {
-      correct = selectedChoiceId === currentQ.correctChoiceId;
+      correct = selectedChoiceId === currentQ.correctChoiceId ||
+        Boolean(currentQ.choices?.find(c => c.id === selectedChoiceId)?.isCorrect);
     }
 
     setIsSubmitted(true);
@@ -574,6 +667,7 @@ export default function PracticePage() {
   const handleRetry = () => {
     setRetryCount(prev => prev - 1);
     setSelectedChoiceId(null);
+    setSelectedChoiceIds([]);
     setIsSubmitted(false);
     if (isWordOrder) {
       setSelectedWordOrder([]);
@@ -582,7 +676,10 @@ export default function PracticePage() {
 
   const handleRevealAnswer = () => {
     setIsRevealed(true);
-    if (isFillBlank && currentQ?.fillblankAnswers) {
+    if (isCheckBox && currentQ?.choices) {
+      const correctChoiceIds = currentQ.choices.filter(c => c.isCorrect).map(c => c.id);
+      setSelectedChoiceIds(correctChoiceIds);
+    } else if (isFillBlank && currentQ?.fillblankAnswers) {
       const revealed: Record<string, string> = {};
       currentQ.fillblankAnswers.forEach((fb, idx) => {
         const val = fb.correctAnswers?.[0] || '';
@@ -636,6 +733,7 @@ export default function PracticePage() {
     if (currentIndex < questions.length - 1) {
       setCurrentIndex((prev) => prev + 1);
       setSelectedChoiceId(null);
+      setSelectedChoiceIds([]);
       setBlankAnswers({});
       setSelectedWordOrder([]);
       setIsSubmitted(false);
@@ -1143,16 +1241,64 @@ export default function PracticePage() {
             </div>
           )}
 
+          {/* CheckBox Multi-Select Hint */}
+          {isCheckBox && !isWordOrder && !isFillBlank && (
+            <div className="text-xs font-semibold text-emerald-400 bg-emerald-950/40 border border-emerald-800/60 px-3.5 py-2 rounded-lg flex items-center gap-2 mb-2">
+              <Info className="w-4 h-4 shrink-0 text-emerald-400" />
+              <span>Câu hỏi chọn nhiều đáp án: Hãy đánh dấu vào tất cả các phương án đúng.</span>
+            </div>
+          )}
+
+          {/* Word Bank for FillBlank with word choices (Drag and Drop / Vocabulary Fill) */}
+          {isFillBlank && currentQ.choices && currentQ.choices.length > 0 && (
+            <div className="p-4 rounded-xl bg-[#1e221e] border border-[#383c38] space-y-2.5">
+              <div className="text-xs font-bold text-slate-400 uppercase tracking-wider flex items-center justify-between">
+                <span>📌 Các từ / cụm từ gợi ý để điền:</span>
+                <span className="text-[11px] text-slate-400 font-normal hidden sm:inline">Nhấp vào từ để điền hoặc xóa khỏi ô trống</span>
+              </div>
+              <div className="flex flex-wrap gap-2.5">
+                {currentQ.choices.map((choice, cIdx) => {
+                  const text = choice.text;
+                  const isUsed = Object.values(blankAnswers).some(val => normalizeBlankValue(val) === normalizeBlankValue(text));
+
+                  return (
+                    <button
+                      key={choice.id || cIdx}
+                      type="button"
+                      disabled={isSubmitted && isRevealed}
+                      onClick={() => handleWordBankClick(text)}
+                      className={`px-3.5 py-2 rounded-lg text-sm font-semibold transition-all shadow-xs flex items-center gap-1.5 ${
+                        isUsed
+                          ? 'bg-[#181a18] border border-[#2a2d2a] text-slate-500 line-through opacity-60 cursor-pointer hover:border-red-500'
+                          : 'bg-[#252825] border border-slate-600 text-slate-200 hover:border-[#5fbd18] hover:bg-[#2a382a] hover:text-white cursor-pointer active:scale-95'
+                      }`}
+                      title={isUsed ? 'Nhấp để xóa từ này khỏi ô trống' : 'Nhấp để điền vào ô trống'}
+                    >
+                      <span>{text}</span>
+                      {isUsed && !isSubmitted && <span className="text-xs text-red-400 font-bold ml-1">×</span>}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+
           {/* Answer Choices List (Tak12 Semantic UI feed replica) */}
-          {!isWordOrder && (
+          {!isWordOrder && !isFillBlank && currentQ.choices && currentQ.choices.length > 0 && (
             <div className="space-y-3">
               {currentQ.choices.map((choice, cIdx) => {
-              const isSelected = selectedChoiceId === choice.id;
-              const isChoiceCorrect = choice.id === currentQ.correctChoiceId;
+              const isSelected = isCheckBox
+                ? selectedChoiceIds.includes(choice.id)
+                : selectedChoiceId === choice.id;
+              const isChoiceCorrect = choice.id === currentQ.correctChoiceId || Boolean(choice.isCorrect);
               const choiceLabel = choice.label || String.fromCharCode(65 + cIdx);
 
               let itemBg = 'bg-[#1e221e] border-[#383c38] hover:border-slate-500';
-              let iconElement = (
+              let iconElement = isCheckBox ? (
+                <span className="w-6 h-6 rounded-md border border-slate-600 bg-[#252825] flex items-center justify-center text-xs font-bold text-slate-300">
+                  {choiceLabel}
+                </span>
+              ) : (
                 <span className="w-7 h-7 rounded-lg border border-slate-600 bg-[#252825] flex items-center justify-center text-xs font-bold text-slate-300">
                   {choiceLabel}
                 </span>
@@ -1162,8 +1308,8 @@ export default function PracticePage() {
               if (isSelected && !isSubmitted) {
                 itemBg = 'bg-[#2a382a] border-[#5fbd18] shadow-xs';
                 iconElement = (
-                  <span className="w-7 h-7 rounded-lg border border-[#5fbd18] bg-[#5fbd18] text-white flex items-center justify-center text-xs font-bold shadow-xs">
-                    {choiceLabel}
+                  <span className={`w-7 h-7 ${isCheckBox ? 'rounded-md' : 'rounded-lg'} border border-[#5fbd18] bg-[#5fbd18] text-white flex items-center justify-center text-xs font-bold shadow-xs`}>
+                    {isCheckBox ? <Check className="w-4 h-4 text-white stroke-[3]" /> : choiceLabel}
                   </span>
                 );
                 textClass = 'text-white font-semibold';
@@ -1173,7 +1319,7 @@ export default function PracticePage() {
                 if (isChoiceCorrect) {
                   itemBg = 'bg-[#1e2e1e] border-[#22be34] shadow-xs /* border-emerald-500 */';
                   iconElement = (
-                    <div className="w-7 h-7 rounded-lg bg-[#22be34] text-white flex items-center justify-center">
+                    <div className={`w-7 h-7 ${isCheckBox ? 'rounded-md' : 'rounded-lg'} bg-[#22be34] text-white flex items-center justify-center`}>
                       <CheckCircle2 className="w-4 h-4 text-white stroke-[3]" />
                     </div>
                   );
@@ -1181,7 +1327,7 @@ export default function PracticePage() {
                 } else if (isSelected && !isChoiceCorrect) {
                   itemBg = 'bg-[#2e1e1e] border-[#db2828] shadow-xs';
                   iconElement = (
-                    <div className="w-7 h-7 rounded-lg bg-[#db2828] text-white flex items-center justify-center">
+                    <div className={`w-7 h-7 ${isCheckBox ? 'rounded-md' : 'rounded-lg'} bg-[#db2828] text-white flex items-center justify-center`}>
                       <X className="w-4 h-4 text-white stroke-[3]" />
                     </div>
                   );
@@ -1189,7 +1335,7 @@ export default function PracticePage() {
                 } else {
                   itemBg = 'bg-[#1a1d1a]/60 border-[#383c38] opacity-60';
                   iconElement = (
-                    <span className="w-7 h-7 rounded-lg border border-slate-700 bg-[#1a1d1a] flex items-center justify-center text-xs font-semibold text-slate-500">
+                    <span className={`w-7 h-7 ${isCheckBox ? 'rounded-md' : 'rounded-lg'} border border-slate-700 bg-[#1a1d1a] flex items-center justify-center text-xs font-semibold text-slate-500`}>
                       {choiceLabel}
                     </span>
                   );

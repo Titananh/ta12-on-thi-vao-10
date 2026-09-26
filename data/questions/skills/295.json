@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "295_1",
+    "questionNumber": 9,
+    "questionName": "Question 1",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Mary: How perfect that watch is with your outfit!</strong></p>\n<p><strong>Bill: _____</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1750986,
+        "label": "A",
+        "text": "<p>Yes, of course.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1750987,
+        "label": "B",
+        "text": "<p>I know it's fashionable.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1750988,
+        "label": "C",
+        "text": "<p>Thanks for your compliment.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1750989,
+        "label": "D",
+        "text": "<p>Do you want to know where I bought it?</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1750988,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Hãy xác định mục đích giao tiếp của câu nói từ Mary: \"<em>How perfect that watch is with your outfit!</em>\" (Đây là một lời khen).</p>\n<p>Sau đó, hãy chọn câu đáp lại thể hiện sự cảm ơn một cách lịch sự và phù hợp nhất với lời khen đó.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của Mary là một lời khen ngợi (\"<em>How perfect that watch is with your outfit!</em>\"). Trong ngữ cảnh này, Bill cần đáp lại bằng cách thể hiện sự cảm kích.</p>\n<p style=\"text-align: justify;\">Phương án 3 \"<em>Thanks for your compliment.</em>\" là cách đáp lại lời khen một cách lịch sự và trực tiếp nhất trong tiếng Anh.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2 và 4 đều không phù hợp với ngữ cảnh vì chúng không thể hiện sự cảm ơn hoặc có thể bị hiểu là kiêu ngạo hay đổi chủ đề.</p>",
+    "answerFeedbacks": {
+      "1750986": "<p>Phương án này không phù hợp vì nó nghe có vẻ đồng ý với một điều hiển nhiên, không phải lời cảm ơn cho lời khen.</p>",
+      "1750987": "<p>Phương án này thể hiện sự tự mãn và không lịch sự khi đáp lại lời khen của người khác.</p>",
+      "1750988": "<p>Đây là câu trả lời lịch sự và phù hợp nhất để bày tỏ lòng biết ơn khi nhận được lời khen.</p>",
+      "1750989": "<p>Phương án này chuyển hướng cuộc trò chuyện sang việc mua sắm, không trực tiếp đáp lại lời khen của Mary.</p>"
+    },
+    "images": [],
+    "sourceExamId": 16941,
+    "sourceExamName": "Đề số 29 luyện thi vào 10 môn Anh Sở Hà Nội ",
+    "year": 2024
+  },
+  {
+    "id": "295_2",
+    "questionNumber": 1,
+    "questionName": "Question 2",
+    "questionType": "FillBlank",
+    "questionText": "<p><strong>Four phrases/sentences have been removed from the text below. Choose the correct answer to complete the text. </strong></p>\n<p><strong>Write only the letter A-D in each blank.</strong></p>\n<table style=\"border-collapse: collapse; width: 55.7078%; height: 177px; border-color: #2dc26b; border-style: dashed;\" border=\"1\" cellspacing=\"5\" cellpadding=\"5\">\n<tbody>\n<tr style=\"height: 154.667px;\">\n<td style=\"width: 100%; height: 154.667px;\">\n<p><strong>A.</strong> students receive immediate corrections and suggestions</p>\n<p><strong>B.</strong> using Al alone may not develop strong communication skills</p>\n<p><strong>C.</strong> they offer a wide range of resources tailored to different needs&nbsp;</p>\n<p><strong>D. </strong>gives learners greater control over their progress</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: justify;\"><br>Artificial Intelligence (AI) is transforming the way people learn languages, making the process efficient and personalized. With the help of Al-powered tools, learners can practice their English skills anytime and anywhere. Whether through chatbots, speech recognition software, or language learning apps, <strong><span class='fillblank-option'><label>1.1</label><input id='fbo-930366-0' class='ms fillblank-option-1' index='0' name='fbo-930366-0' type='text' size='5' autocomplete='off' data-testid='fillblank-input-930366-0' /></span></strong>.</p>\n<p style=\"text-align: justify;\">One of the biggest advantages of Al in language learning is instant feedback. Traditional methods often require students to wait for teachers to correct their mistakes, but Al can analyze grammar, pronunciation, and vocabulary in real time. As a result, <strong><span class='fillblank-option'><label>1.2</label><input id='fbo-930366-1' class='ms fillblank-option-1' index='1' name='fbo-930366-1' type='text' size='4' autocomplete='off' data-testid='fillblank-input-930366-1' /></span></strong>,<strong> </strong>helping them improve faster and more effectively.</p>\n<p style=\"text-align: justify;\">Additionally, Al adapts to individual Iearning styles. Some learners prefer listening, while others benefit more from reading or interactive exercises. AI-driven platforms can identify these preferences and provide customized lessons. This flexibility <strong><span class='fillblank-option'><label>1.3</label><input id='fbo-930366-2' class='ms fillblank-option-1' index='2' name='fbo-930366-2' type='text' size='5' autocomplete='off' data-testid='fillblank-input-930366-2' /></span></strong> as they can learn at their own pace without feeling pressured.</p>\n<p style=\"text-align: justify;\">In conclusion, Al is a powerful tool for English learners, but it should not replace human interaction entirely. While Al can enhance grammar and pronunciation, <strong><span class='fillblank-option'><label>1.4</label><input id='fbo-930366-3' class='ms fillblank-option-1' index='3' name='fbo-930366-3' type='text' size='4' autocomplete='off' data-testid='fillblank-input-930366-3' /></span></strong>. A balanced approach, combining Al technology with real conversations, will lead to the best learning outcomes.</p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [],
+    "correctChoiceId": null,
+    "fillblankAnswers": [
+      {
+        "index": 0,
+        "correctAnswers": [
+          "C"
+        ]
+      },
+      {
+        "index": 1,
+        "correctAnswers": [
+          "A"
+        ]
+      },
+      {
+        "index": 2,
+        "correctAnswers": [
+          "D"
+        ]
+      },
+      {
+        "index": 3,
+        "correctAnswers": [
+          "B"
+        ]
+      }
+    ],
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p><strong>1.</strong> Đoạn 1 đang n&oacute;i về tr&iacute; tuệ nh&acirc;n tạo đang thay đổi c&aacute;ch mọi người học ngoại ngữ.</p>\n<p>Cần điền một mệnh đề v&agrave;o chỗ trống (1) v&igrave; ph&iacute;a trước n&oacute; l&agrave; một cụm trạng ngữ.</p>\n<p>Dịch: Bất kể th&ocirc;ng qua chatbot, phần mềm nhận diện giọng n&oacute;i hay ứng dụng học ngoại ngữ, <span style=\"text-decoration: underline;\">ch&uacute;ng đều cung cấp nhiều nguồn t&agrave;i nguy&ecirc;n ph&ugrave; hợp với c&aacute;c nhu cầu kh&aacute;c nhau</span>.</p>\n<p><strong>2.</strong> Đoạn 2 n&oacute;i về một trong những lợi &iacute;ch lớn nhất của tr&iacute; tuệ nh&acirc;n tạo.</p>\n<p>Cần điền một mệnh đề v&agrave;o chỗ trống (2) v&igrave; ph&iacute;a trước n&oacute; l&agrave; cụm trạng ngữ v&agrave; ph&iacute;a sau n&oacute; l&agrave; mệnh đề danh từ.</p>\n<p>Dịch: Kết quả l&agrave;, <span style=\"text-decoration: underline;\">học sinh&nbsp;nhận được sự sửa lỗi v&agrave; gợi &yacute; ngay lập tức</span>, gi&uacute;p họ cải thiện nhanh hơn v&agrave; hiệu quả hơn.</p>\n<p><strong>3.</strong> Đoạn 3 n&oacute;i về một lợi &iacute;ch kh&aacute;c của tr&iacute; tuệ nh&acirc;n tạo l&agrave; th&iacute;ch ứng với c&aacute;c phong c&aacute;ch học c&aacute; nh&acirc;n.</p>\n<p>Cần điền một cụm từ v&agrave;o chỗ trống (3) v&igrave; ph&iacute;a trước n&oacute; l&agrave; th&ocirc;ng tin trong c&ugrave;ng một c&acirc;u (kh&ocirc;ng viết hoa).</p>\n<p>Dịch: Sự linh hoạt n&agrave;y <span style=\"text-decoration: underline;\">gi&uacute;p người học kiểm so&aacute;t tốt hơn qu&aacute; tr&igrave;nh học của m&igrave;nh</span> v&igrave; họ c&oacute; thể học theo tốc độ của ri&ecirc;ng m&igrave;nh m&agrave; kh&ocirc;ng cảm thấy bị &aacute;p lực.</p>\n<p><strong>4.</strong> Đoạn 4 n&oacute;i về AI mặc d&ugrave; l&agrave; một c&ocirc;ng cụ mạnh mẽ đối với người học tiếng Anh nhưng n&oacute; kh&ocirc;ng thể thay thế ho&agrave;n to&agrave;n tương t&aacute;c giữa con người.</p>\n<p>Cần điền một mệnh đề ch&iacute;nh v&agrave;o chỗ trống (4) v&igrave; ph&iacute;a trước n&oacute; l&agrave; một mệnh đề trạng ngữ.</p>\n<p>Dịch: Mặc d&ugrave; Al c&oacute; thể cải thiện ngữ ph&aacute;p v&agrave; c&aacute;ch ph&aacute;t &acirc;m, <span style=\"text-decoration: underline;\">nhưng chỉ sử dụng Al c&oacute; thể kh&ocirc;ng ph&aacute;t triển được kỹ năng giao tiếp mạnh mẽ</span>.</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 17081,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hai Bà Trưng năm 2025",
+    "year": 2025
+  },
+  {
+    "id": "295_3",
+    "questionNumber": 23,
+    "questionName": "Question 3",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><em>A tourist and a hotel receptionist are talking. </em></p>\n<p><strong>Tourist: _____ </strong></p>\n<p><strong>The receptionist: You're welcome. Have a great stay!</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1770420,
+        "label": "A",
+        "text": "Thank you for helping me book a room at such short notice.",
+        "isCorrect": true
+      },
+      {
+        "id": 1770421,
+        "label": "B",
+        "text": "Can I check out now, please?",
+        "isCorrect": false
+      },
+      {
+        "id": 1770422,
+        "label": "C",
+        "text": "<p>Do you have any available rooms for tonight?</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1770423,
+        "label": "D",
+        "text": "<p>How much does a room cost per night?</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1770420,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Phân tích lời thoại của nhân viên lễ tân: \"<em>You're welcome. Have a great stay!</em>\". Cụm từ \"<em>You're welcome</em>\" dùng để đáp lại điều gì? Cụm từ \"<em>Have a great stay!</em>\" thường được nói trong ngữ cảnh nào?</p>\n<p>Đối chiếu các phương án lựa chọn với mục đích giao tiếp này để tìm ra câu thoại mà nhân viên lễ tân sẽ đáp lại như vậy.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời của nhân viên lễ tân \"<em>You're welcome. Have a great stay!</em>\" là lời đáp lại một lời cảm ơn và lời chúc khách có một kỳ nghỉ vui vẻ.</p>\n<p style=\"text-align: justify;\">Phương án 1, \"<em>Thank you for helping me book a room at such short notice.</em>\" (Cảm ơn bạn đã giúp tôi đặt phòng gấp như vậy), là lời cảm ơn phù hợp nhất với lời đáp này.</p>\n<p style=\"text-align: justify;\">Các phương án 2, 3 và 4 đều không phải là lời cảm ơn và không phù hợp với ngữ cảnh giao tiếp này.</p>",
+    "answerFeedbacks": {
+      "1770420": "Lời cảm ơn này phù hợp với lời đáp \"<em>You're welcome</em>\" và lời chúc \"<em>Have a great stay!</em>\" từ nhân viên lễ tân.",
+      "1770421": "Câu hỏi này không phù hợp vì nhân viên lễ tân sẽ không đáp lại bằng \"<em>You're welcome</em>\" và \"<em>Have a great stay!</em>\" khi khách muốn trả phòng.",
+      "1770422": "<p>Câu hỏi này không phù hợp vì nhân viên lễ tân sẽ trực tiếp trả lời về tình trạng phòng trống, không phải là lời đáp lại cảm ơn.</p>",
+      "1770423": "<p>Câu hỏi này không phù hợp vì nhân viên lễ tân sẽ cung cấp thông tin về giá phòng, không phải là lời đáp lại cảm ơn.</p>"
+    },
+    "images": [],
+    "sourceExamId": 17081,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hai Bà Trưng năm 2025",
+    "year": 2025
+  },
+  {
+    "id": "295_4",
+    "questionNumber": 14,
+    "questionName": "Question 4",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><em>Cindy and Ben are discussing their upcoming exams. Cindy is worried about the maths exam.</em></p>\n<p><strong>Cindy: I'm feeling really stressed about the maths exam. Could you do me a favor, please?</strong></p>\n<p><strong>Ben: Sure. _____.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1788044,
+        "label": "A",
+        "text": "You shouldn't stay up late to study",
+        "isCorrect": false
+      },
+      {
+        "id": 1788045,
+        "label": "B",
+        "text": "<p>First, tell me your common mistake</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1788046,
+        "label": "C",
+        "text": "<p>Forget it and relax</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1788047,
+        "label": "D",
+        "text": "No way. You will get good grade",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1788045,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Cindy đang nói: \"<em>Could you do me a favor, please?</em>\" có nghĩa là \"Bạn có thể giúp tôi một việc được không?\". Ben đã đáp lại \"<em>Sure.</em>\" (Chắc chắn rồi.).</p>\n<p>Hãy xác định xem sau khi đồng ý giúp đỡ, Ben nên nói gì tiếp theo để thể hiện sự sẵn lòng và tìm cách giúp đỡ Cindy một cách hiệu quả nhất.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Trong đoạn hội thoại, Cindy đang bày tỏ sự lo lắng về kỳ thi toán và yêu cầu Ben giúp đỡ bằng câu hỏi: \"<em>Could you do me a favor, please?</em>\" (Bạn có thể giúp tôi một việc được không?). Lời đáp của Ben cần thể hiện sự đồng ý giúp đỡ và/hoặc hỏi thêm thông tin để biết cách giúp.</p>\n<p style=\"text-align: justify;\">Phương án 2, \"<em>First, tell me your common mistake</em>\", là lời đáp phù hợp nhất vì Ben đã đồng ý giúp đỡ (\"Sure.\") và sau đó hỏi thêm thông tin cụ thể về vấn đề của Cindy để có thể giúp đỡ hiệu quả.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 3 và 4 không phù hợp với ngữ cảnh. Phương án 1 và 3 đưa ra lời khuyên hoặc bác bỏ vấn đề của Cindy mà không trực tiếp đáp lại yêu cầu giúp đỡ. Phương án 4 dùng \"<em>No way</em>\" để từ chối, mâu thuẫn với sự đồng ý \"Sure\" của Ben.</p>",
+    "answerFeedbacks": {
+      "1788044": "Lời khuyên này không phù hợp để đáp lại lời đề nghị \"<em>Could you do me a favor, please?</em>\" của Cindy.",
+      "1788045": "<p>Đây là câu đáp hợp lý nhất vì Ben đã đồng ý giúp đỡ và hỏi thêm thông tin cụ thể về vấn đề của Cindy.</p>",
+      "1788046": "<p>Câu này bác bỏ sự lo lắng của Cindy và không thể hiện sự sẵn lòng giúp đỡ.</p>",
+      "1788047": "Cụm từ \"<em>No way</em>\" thể hiện sự từ chối thẳng thừng, không phù hợp với việc Ben đã nói \"<em>Sure</em>\" trước đó."
+    },
+    "images": [],
+    "sourceExamId": 17160,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Long Biên năm 2025",
+    "year": 2025
+  },
+  {
+    "id": "295_5",
+    "questionNumber": 18,
+    "questionName": "Question 5",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><em>Lisa and Liam are talking about a new documentary about the Nile.</em></p>\n<p><strong>Lisa: There is a new documentary about the Nile, but I don't feel like watching it.</strong></p>\n<p><strong>Liam: _____ You will like it.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1792732,
+        "label": "A",
+        "text": "<p>Why don't you give it a go?</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1792733,
+        "label": "B",
+        "text": "<p>I can't understand it.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1792734,
+        "label": "C",
+        "text": "<p>I don't believe it.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1792735,
+        "label": "D",
+        "text": "<p>Do you like it?</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1792732,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Mục đích giao tiếp của lượt lời của Liam là gì? Lisa nói rằng cô ấy <em>\"don't feel like watching it\"</em> (không muốn xem nó). Liam đáp lại bằng một câu hỏi và khẳng định <em>\"You will like it.\"</em> (Bạn sẽ thích nó.).</p>\n<p>Hãy tìm một phương án diễn đạt sự khuyến khích hoặc gợi ý ai đó nên thử làm điều gì đó.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lisa bày tỏ sự không muốn xem một bộ phim tài liệu mới. Lượt lời của Liam cần có chức năng khuyến khích Lisa thử xem bộ phim đó.</p>\n<p style=\"text-align: justify;\">Phương án 1, <em>\"Why don't you give it a go?\"</em> (Tái sao bạn không thử xem nó đi?), là một cách diễn đạt thông dụng để gợi ý hoặc khuyến khích ai đó thử làm điều gì đó, rất phù hợp với ngữ cảnh và câu tiếp theo <em>\"You will like it.\"</em> (Bạn sẽ thích nó).</p>\n<p style=\"text-align: justify;\">Các phương án 2, 3 và 4 không phù hợp về mặt ngữ nghĩa và chức năng giao tiếp trong đoạn hội thoại này.</p>",
+    "answerFeedbacks": {
+      "1792732": "<p>Đây là cách diễn đạt phổ biến để khuyến khích hoặc gợi ý ai đó thử làm điều gì, rất phù hợp với việc Liam muốn thuyết phục Lisa xem phim.</p>",
+      "1792733": "<p>Câu này diễn tả sự không hiểu của bản thân Liam, không liên quan đến việc khuyến khích Lisa xem phim.</p>",
+      "1792734": "<p>Câu này thể hiện sự không tin tưởng, không phù hợp với ngữ cảnh khi Lisa chỉ đơn thuần bày tỏ sự không muốn xem phim.</p>",
+      "1792735": "<p>Câu hỏi này không khuyến khích Lisa mà chỉ hỏi về sở thích, không ăn nhập với việc Lisa nói rằng cô ấy không có hứng thú.</p>"
+    },
+    "images": [],
+    "sourceExamId": 17181,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hà Đông năm 2025",
+    "year": 2025
+  },
+  {
+    "id": "295_6",
+    "questionNumber": 16,
+    "questionName": "Question 6",
+    "questionType": "FillBlank",
+    "questionText": "<p style=\"text-align: justify;\"><strong>Read the following advertisement and choose the best answer for each blank.</strong></p>\n<p style=\"text-align: center;\"><strong>Start Speaking a New Language Today!</strong></p>\n<p style=\"text-align: justify;\">Tired of slow progress? Want to start speaking a new language much <strong><span class='fillblank-option'><label>15.1</label><select class='ms fillblank-option-15' index='0' name='fbo-940507-0' data-testid='fillblank-select-940507-0'><option value='' data-testid='fillblank-option-empty-940507-0'></option><option value=\"more fastly\" data-testid='fillblank-option-940507-0-more fastly'>more fastly</option><option value=\"as fast\" data-testid='fillblank-option-940507-0-as fast'>as fast</option><option value=\"faster\" data-testid='fillblank-option-940507-0-faster'>faster</option><option value=\"more fast\" data-testid='fillblank-option-940507-0-more fast'>more fast</option></select></span></strong>.</p>\n<p style=\"text-align: justify;\">Join our all-level courses with native teachers and make learning fun and <strong><span class='fillblank-option'><label>15.2</label><select class='ms fillblank-option-15' index='1' name='fbo-940507-1' data-testid='fillblank-select-940507-1'><option value='' data-testid='fillblank-option-empty-940507-1'></option><option value=\"ineffective\" data-testid='fillblank-option-940507-1-ineffective'>ineffective</option><option value=\"effectively\" data-testid='fillblank-option-940507-1-effectively'>effectively</option><option value=\"effective\" data-testid='fillblank-option-940507-1-effective'>effective</option><option value=\"effect\" data-testid='fillblank-option-940507-1-effect'>effect</option></select></span></strong>.</p>\n<p style=\"text-align: justify;\">Despite what <strong><span class='fillblank-option'><label>15.3</label><select class='ms fillblank-option-15' index='2' name='fbo-940507-2' data-testid='fillblank-select-940507-2'><option value='' data-testid='fillblank-option-empty-940507-2'></option><option value=\"the\" data-testid='fillblank-option-940507-2-the'>the</option><option value=\"a\" data-testid='fillblank-option-940507-2-a'>a</option><option value=\"an\" data-testid='fillblank-option-940507-2-an'>an</option><option value=\"Ø (no article)\" data-testid='fillblank-option-940507-2-Ø (no article)'>Ø (no article)</option></select></span></strong> level you are at, you'll enjoy <strong><span class='fillblank-option'><label>15.4</label><select class='ms fillblank-option-15' index='3' name='fbo-940507-3' data-testid='fillblank-select-940507-3'><option value='' data-testid='fillblank-option-empty-940507-3'></option><option value=\"practise\" data-testid='fillblank-option-940507-3-practise'>practise</option><option value=\"practising\" data-testid='fillblank-option-940507-3-practising'>practising</option><option value=\"to practising\" data-testid='fillblank-option-940507-3-to practising'>to practising</option><option value=\"to practise\" data-testid='fillblank-option-940507-3-to practise'>to practise</option></select></span> </strong>real conversations and improve your skills every day.</p>\n<p style=\"text-align: justify;\">You can choose flexible schedules, online or in person.</p>\n<p style=\"text-align: justify;\">Don't miss out - start learning today! Visit www.languageboost.com or call 123-456-7890.</p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [],
+    "correctChoiceId": null,
+    "fillblankAnswers": [
+      {
+        "index": 0,
+        "correctAnswers": [
+          "faster"
+        ]
+      },
+      {
+        "index": 1,
+        "correctAnswers": [
+          "effective"
+        ]
+      },
+      {
+        "index": 2,
+        "correctAnswers": [
+          "Ø (no article)"
+        ]
+      },
+      {
+        "index": 3,
+        "correctAnswers": [
+          "practising"
+        ]
+      }
+    ],
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p style=\"text-align: justify;\"><strong>1. </strong><span style=\"font-weight: 400;\">\"<strong>fast</strong>\" vừa l&agrave; t&iacute;nh từ, vừa l&agrave; trạng từ.</span></p>\n<p><span style=\"font-weight: 400;\">Cấu tr&uacute;c so s&aacute;nh hơn với trạng từ ngắn: <strong>S + V + adv. + er + than + Noun/Pronoun/S + V</strong></span></p>\n<p style=\"text-align: justify;\"><strong>2. </strong>Từ loại cần điền: t&iacute;nh từ, nằm trong cấu tr&uacute;c \"<strong>make sth + adj</strong>\".</p>\n<p style=\"text-align: justify;\"><strong>effective</strong> (adj.): hiệu quả</p>\n<p style=\"text-align: justify;\">effectively (adj.): (một c&aacute;ch) hiệu quả</p>\n<p style=\"text-align: justify;\">effect (adj.): sự ảnh hưởng</p>\n<p style=\"text-align: justify;\">ineffective (adj.): kh&ocirc;ng hiệu quả</p>\n<p style=\"text-align: justify;\"><strong>3. </strong>Mạo từ kh&ocirc;ng đứng trước danh từ đứng sau từ để hỏi \"<strong>what</strong>\".</p>\n<p style=\"text-align: justify;\"><strong>4. enjoy + V-ing</strong>: th&iacute;ch l&agrave;m g&igrave;</p>\n<p style=\"text-align: justify;\"><strong>👉 Dịch văn bản:</strong></p>\n<table style=\"border-collapse: collapse; width: 100%; border-color: #49c015; border-style: dashed;\" border=\"1\" cellspacing=\"10\" cellpadding=\"10\">\n<tbody>\n<tr>\n<td style=\"width: 99.3799%;\">\n<p style=\"text-align: center;\"><strong>Bắt đầu n&oacute;i một ng&ocirc;n ngữ mới ngay h&ocirc;m nay!</strong></p>\n<p style=\"text-align: justify;\">Bạn đ&atilde; ch&aacute;n nản v&igrave; tiến độ chậm? Bạn muốn bắt đầu n&oacute;i một ng&ocirc;n ngữ mới <strong>(1) <span style=\"text-decoration: underline;\">nhanh hơn</span></strong> nhiều.</p>\n<p style=\"text-align: justify;\">Tham gia c&aacute;c kh&oacute;a học mọi cấp độ của ch&uacute;ng t&ocirc;i với gi&aacute;o vi&ecirc;n bản ngữ v&agrave; biến việc học trở n&ecirc;n th&uacute; vị v&agrave; <strong>(2) <span style=\"text-decoration: underline;\">hiệu quả</span></strong>.</p>\n<p style=\"text-align: justify;\">Bất kể bạn đang ở <strong>(3) <span style=\"text-decoration: underline;\">tr&igrave;nh độ</span></strong> n&agrave;o, bạn sẽ th&iacute;ch <strong>(4) <span style=\"text-decoration: underline;\">thực h&agrave;nh</span></strong> c&aacute;c cuộc tr&ograve; chuyện thực tế v&agrave; cải thiện kỹ năng của m&igrave;nh mỗi ng&agrave;y.</p>\n<p style=\"text-align: justify;\">Bạn c&oacute; thể chọn lịch học linh hoạt, trực tuyến hoặc trực tiếp.</p>\n<p style=\"text-align: justify;\">Đừng bỏ lỡ - h&atilde;y bắt đầu học ngay h&ocirc;m nay! Truy cập www.languageboost.com hoặc gọi 123-456-7890.</p>\n</td>\n</tr>\n</tbody>\n</table>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 17183,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Đống Đa năm 2025",
+    "year": 2025
+  },
+  {
+    "id": "295_7",
+    "questionNumber": 24,
+    "questionName": "Question 7",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><em>After all group presentations, Minh and Ly are talking to each other.</em></p>\n<p><strong>Minh: I like your group's presentation on energy conservation the most.</strong></p>\n<p><strong> Ly: _____</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1793277,
+        "label": "A",
+        "text": "<p>Congratulations, he did a good job.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1793278,
+        "label": "B",
+        "text": "<p>Thanks, that really makes my day.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1793279,
+        "label": "C",
+        "text": "<p>That's a great idea. I would love to.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1793280,
+        "label": "D",
+        "text": "<p>Thank you, but I'm sorry I can't.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1793278,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Xác định mục đích giao tiếp của lời nói của Minh: <em>\"I like your group's presentation on energy conservation the most.\"</em> là một lời khen ngợi.</p>\n<p>Bạn cần chọn câu đáp thể hiện sự cảm kích và vui vẻ khi nhận được lời khen.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời của Minh là một lời khen ngợi dành cho bài thuyết trình của nhóm Ly. Để đáp lại lời khen, Ly cần thể hiện sự cảm kích và vui vẻ.</p>\n<p style=\"text-align: justify;\">Phương án 2, <em>\"Thanks, that really makes my day,\"</em> (Cảm ơn, điều đó thực sự làm tôi vui) là câu đáp phù hợp nhất vì nó thể hiện sự biết ơn và niềm vui khi nhận được lời khen.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 3 và 4 không phù hợp với ngữ cảnh vì chúng là những lời đáp cho các tình huống giao tiếp khác (chúc mừng, chấp nhận lời mời, từ chối lời mời).</p>",
+    "answerFeedbacks": {
+      "1793277": "<p>Không phù hợp vì <em>\"Congratulations\" </em>dùng để chúc mừng một thành tích, và <em>\"he did a good job\" </em>không liên quan đến người nói (Ly) hoặc nhóm của cô ấy.</p>",
+      "1793278": "<p>Đây là lời đáp lịch sự và thể hiện sự vui mừng khi nhận được lời khen, hoàn toàn phù hợp với ngữ cảnh.</p>",
+      "1793279": "<p>Không phù hợp vì đây là lời đáp cho một lời mời hoặc một đề xuất, không phải lời khen.</p>",
+      "1793280": "<p>Không phù hợp vì đây là lời từ chối một lời mời hoặc yêu cầu, mặc dù có <em>\"Thank you\"</em> nhưng phần sau không liên quan đến lời khen.</p>"
+    },
+    "images": [],
+    "sourceExamId": 17183,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Đống Đa năm 2025",
+    "year": 2025
+  },
+  {
+    "id": "295_8",
+    "questionNumber": 26,
+    "questionName": "Question 8",
+    "questionType": "MultipleChoice",
+    "questionText": "<p data-start=\"2236\" data-end=\"2300\"><em>Alex và Sarah are talking about computer games.</em></p>\n<p data-start=\"2302\" data-end=\"2433\"><strong>Alex: Playing computer games too much is not good for children's health.</strong></p>\n<p data-start=\"2302\" data-end=\"2433\"><strong>Sarah: _____. It also has a bad influence on their studies.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1799024,
+        "label": "A",
+        "text": "<p>That’s not true</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1799025,
+        "label": "B",
+        "text": "<p>That’s right</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1799026,
+        "label": "C",
+        "text": "<p>You’re wrong</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1799027,
+        "label": "D",
+        "text": "<p>I don’t agree with you</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1799025,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Xác định xem Alex đang nói về điều gì và quan điểm của anh ấy là gì.</p>\n<p>Từ đó, hãy chọn câu thể hiện sự đồng tình với quan điểm của Alex.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Alex đưa ra một quan điểm tiêu cực về việc chơi game. Lượt lời tiếp theo của Sarah “<em>It also has a bad influence on their studies</em>” (Nó cũng có ảnh hưởng xấu đến việc học của chúng) cho thấy cô ấy đồng tình với Alex và bổ sung thêm một tác hại khác. Vì vậy, đáp án cần là một câu thể hiện sự đồng tình.</p>\n<p style=\"text-align: justify;\">Phương án 2, “<em>That’s right</em>” (Đúng vậy), là cách diễn đạt sự đồng tình, hoàn toàn phù hợp với ngữ cảnh này.</p>\n<p style=\"text-align: justify;\">Các phương án 1 (“<em>That’s not true</em>”), 3 (“<em>You’re wrong</em>”), và 4 (“<em>I don’t agree with you</em>”) đều diễn đạt sự không đồng tình, do đó không phù hợp.</p>",
+    "answerFeedbacks": {
+      "1799024": "<p>Phương án này thể hiện sự không đồng tình, trái ngược với ý của Sarah.</p>",
+      "1799025": "<p>Phương án này thể hiện sự đồng tình với Alex và phù hợp với việc Sarah bổ sung thêm một tác hại khác.</p>",
+      "1799026": "<p>Phương án này thể hiện sự không đồng tình một cách trực tiếp, không phù hợp với ngữ cảnh.</p>",
+      "1799027": "<p>Phương án này thể hiện sự không đồng tình, không phù hợp với ngữ cảnh.</p>"
+    },
+    "images": [],
+    "sourceExamId": 17198,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Nam Từ Liêm năm 2025",
+    "year": 2025
+  },
+  {
+    "id": "295_9",
+    "questionNumber": 17,
+    "questionName": "Question 9",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><em>Harry wants to improve his study habits. </em></p>\n<p><strong>T</strong><strong>rung: Why don’t you set a regular time to study each day? It’ll really help you.</strong></p>\n<p><strong>Harry: _____</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1810970,
+        "label": "A",
+        "text": "<p>I don’t think so. Maybe later.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1810971,
+        "label": "B",
+        "text": "<p>That sounds good! I’ll start doing that.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1810972,
+        "label": "C",
+        "text": "<p>I’m not sure. It’s a waste of time.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1810973,
+        "label": "D",
+        "text": "<p>No way! I’m busy all day.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1810971,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Xác định mục đích giao tiếp của câu nói của Trung: Trung đang đưa ra một lời gợi ý/khuyên nhủ để giúp Harry cải thiện thói quen học tập. </p>\n<p>Hãy xem xét phương án nào thể hiện sự chấp nhận hoặc phản ứng tích cực với lời khuyên, đặc biệt khi Harry đang muốn \"<em>improve his study habits</em>\" (cải thiện thói quen học tập).</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời của Trung là một lời gợi ý (sử dụng cấu trúc \"<em>Why don’t you...?</em>\") nhằm giúp Harry cải thiện thói quen học tập. Vì Harry \"<em>wants to improve his study habits</em>\" (muốn cải thiện thói quen học tập), anh ấy cần đưa ra một phản hồi tích cực, thể hiện sự chấp nhận hoặc sẵn sàng thử lời khuyên đó.</p>\n<p style=\"text-align: justify;\">Phương án 2 \"<em>That sounds good! I’ll start doing that.</em>\" là câu đáp phù hợp nhất vì nó thể hiện sự đồng ý và ý định thực hiện lời gợi ý.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 3 và 4 đều là những câu từ chối lời gợi ý, không phù hợp với mong muốn của Harry.</p>",
+    "answerFeedbacks": {
+      "1810970": "<p>Phương án này từ chối lời khuyên của Trung, không phù hợp với việc Harry muốn cải thiện thói quen học tập.</p>",
+      "1810971": "<p>Đây là lời đáp chấp nhận và bày tỏ ý định làm theo lời khuyên, hoàn toàn phù hợp với ngữ cảnh Harry muốn cải thiện thói quen học tập.</p>",
+      "1810972": "<p>Phương án này từ chối lời khuyên một cách thẳng thừng và tiêu cực, không phù hợp với mục tiêu của Harry.</p>",
+      "1810973": "<p>Phương án này từ chối lời khuyên một cách mạnh mẽ và đưa ra lý do, không phù hợp với mong muốn của Harry.</p>"
+    },
+    "images": [],
+    "sourceExamId": 17277,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Ba Đình năm 2025 (Lần 2)",
+    "year": 2025
+  },
+  {
+    "id": "295_10",
+    "questionNumber": 3,
+    "questionName": "Question 10",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>If we plant more trees, we _____ fresher air in the cities.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1837409,
+        "label": "A",
+        "text": "had",
+        "isCorrect": false
+      },
+      {
+        "id": 1837410,
+        "label": "B",
+        "text": "would have",
+        "isCorrect": false
+      },
+      {
+        "id": 1837411,
+        "label": "C",
+        "text": "to have",
+        "isCorrect": false
+      },
+      {
+        "id": 1837412,
+        "label": "D",
+        "text": "will have",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 1837412,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Để chọn đáp án đúng, hãy xem xét cấu trúc của mệnh đề \"If\" trong câu: \"<em>If we plant more trees</em>\". Động từ \"<em>plant</em>\" đang ở thì hiện tại đơn.</p>\n<ul>\n<li>Khi mệnh đề \"If\" sử dụng thì hiện tại đơn, câu đó thường là câu điều kiện loại 1.</li>\n<li>Cấu trúc của câu điều kiện loại 1 là gì?</li>\n</ul>\n<p>Hãy tìm phương án có dạng đúng để hoàn thành mệnh đề chính.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span style=\"font-weight: 600;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Kiến thức cần vận dụng: </span>Câu điều kiện loại 1</span>.</p>\n<blockquote style=\"margin-left: 0px; padding-left: 18px;\">\n<p style=\"text-align: justify;\"><strong>Cách dùng:</strong> Diễn tả một hành động hoặc sự việc có thể xảy ra ở hiện tại hoặc tương lai nếu một điều kiện nhất định được đáp ứng. Kết quả được coi là có khả năng xảy ra.</p>\n<p style=\"text-align: justify;\"><strong>Cấu trúc: </strong><span style=\"color: #1c581f; font-weight: 600;\">If + S + V (hiện tại đơn), S + will + V (nguyên thể)</span></p>\n</blockquote>\n<p style=\"margin: 20px 0 10px 0; text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\">Phân tích:</span></p>\n<p style=\"text-align: justify;\">Câu hỏi có mệnh đề điều kiện là <strong>\"If we plant more trees\"</strong>, với động từ <strong>\"plant\"</strong> ở thì hiện tại đơn. Đây là dấu hiệu của câu điều kiện loại 1. Do đó, mệnh đề chính cần sử dụng dạng<strong> \"will + V (nguyên thể)\"</strong> để hoàn thành câu đúng ngữ pháp và ý nghĩa.</p>",
+    "answerFeedbacks": {
+      "1837409": "<p>Sai vì <em>\"had\"</em> là dạng quá khứ đơn, được dùng trong câu điều kiện loại 2 cho mệnh đề <em>\"If\"</em>, không phù hợp khi mệnh đề <em>\"If\"</em> ở câu điều kiện loại 1.</p>",
+      "1837410": "<p>Sai vì <em>\"would have\"</em> là cấu trúc của mệnh đề chính trong câu điều kiện loại 2, không phù hợp khi mệnh đề <em>\"If\"</em> ở câu điều kiện loại 1.</p>",
+      "1837411": "<p>Sai vì <em>\"to have\"</em> là dạng nguyên thể có <em>\"to\"</em>, không thể trực tiếp làm động từ chính sau chủ ngữ <em>\"we\"</em> khi mệnh đề <em>\"If\"</em> ở câu điều kiện loại 1.</p>",
+      "1837412": "<p>Đúng vì đây là cấu trúc của mệnh đề chính trong câu điều kiện loại 1 <em>(S + will + V-inf)</em>, phù hợp khi mệnh đề <em>\"If\"</em> ở câu điều kiện loại 1.</p>"
+    },
+    "images": [],
+    "sourceExamId": 17490,
+    "sourceExamName": "Đề thi chính thức vào lớp 10 môn Anh trường THPT Chuyên KHTN năm 2025",
+    "year": 2025
+  },
+  {
+    "id": "295_11",
+    "questionNumber": 4,
+    "questionName": "Question 11",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Sophie: I like your new dress. It looks good on you.</strong></p>\n<p><strong>Emma: _____.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1837413,
+        "label": "A",
+        "text": "<p>It's really expensive.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1837414,
+        "label": "B",
+        "text": "<p>Thanks. I'm glad you like it.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1837415,
+        "label": "C",
+        "text": "<p>The same to you.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1837416,
+        "label": "D",
+        "text": "<p>That is my pleasure.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1837414,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Sophie đang đưa ra một lời khen. Bạn cần chọn câu đáp lại lời khen một cách lịch sự và tự nhiên.</p>\n<p>Hãy xem xét chức năng giao tiếp của từng phương án và chọn câu phù hợp nhất với lời khen.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời của Sophie, “<em>I like your new dress. It looks good on you.</em>”, là một lời khen dành cho trang phục của Emma. Chức năng giao tiếp được kiểm tra ở đây là cách đáp lại lời khen một cách lịch sự và phù hợp.</p>\n<p style=\"text-align: justify;\">Phương án 2, “<em>Thanks. I’m glad you like it.</em>”, thể hiện sự cảm ơn và niềm vui khi người khác thích món đồ của mình, hoàn toàn phù hợp với ngữ cảnh nhận lời khen.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 3 và 4 đều không phù hợp với chức năng giao tiếp đáp lại lời khen trong tình huống này.</p>",
+    "answerFeedbacks": {
+      "1837413": "<p>Phương án này không phù hợp vì nó tập trung vào giá trị tiền bạc của món đồ thay vì chấp nhận lời khen về vẻ ngoài.</p>",
+      "1837414": "<p>Đây là phản hồi thích hợp nhất vì nó thể hiện sự cảm ơn và niềm vui khi người khác thích món đồ của mình.</p>",
+      "1837415": "<p>Câu này thường được dùng để đáp lại lời chúc hoặc lời chào tương tự, không phải để đáp lại lời khen về trang phục.</p>",
+      "1837416": "<p>Câu này được dùng để đáp lại lời cảm ơn khi bạn giúp đỡ ai đó, không phải để đáp lại lời khen.</p>"
+    },
+    "images": [],
+    "sourceExamId": 17490,
+    "sourceExamName": "Đề thi chính thức vào lớp 10 môn Anh trường THPT Chuyên KHTN năm 2025",
+    "year": 2025
+  },
+  {
+    "id": "295_12",
+    "questionNumber": 17,
+    "questionName": "Question 12",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><em>David and Mike are talking about the way to save the environment.</em></p>\n<p><strong>Peter: I think we should use reusable water bottles and shopping bags to save the environment.</strong></p>\n<p><strong>David: _____</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1534441,
+        "label": "A",
+        "text": "Don't mention it.",
+        "isCorrect": false
+      },
+      {
+        "id": 1534442,
+        "label": "B",
+        "text": "Good but I don't want to.",
+        "isCorrect": false
+      },
+      {
+        "id": 1534443,
+        "label": "C",
+        "text": "Not at all! Go ahead.",
+        "isCorrect": false
+      },
+      {
+        "id": 1534444,
+        "label": "D",
+        "text": "That's a good idea.",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 1534444,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p style=\"text-align: justify;\">Lời thoại của Peter <em>\"I think we should use reusable water bottles and shopping bags to save the environment.\"</em> l&agrave; một lời đề xuất hoặc gợi &yacute; về c&aacute;ch bảo vệ m&ocirc;i trường. Bạn cần t&igrave;m c&acirc;u đ&aacute;p lại thể hiện sự đồng t&igrave;nh hoặc đ&aacute;nh gi&aacute; t&iacute;ch cực về &yacute; tưởng đ&oacute;.&nbsp;</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span></p>\n<p style=\"text-align: justify;\">Trong đoạn hội thoại, Peter đưa ra một đề xuất để bảo vệ m&ocirc;i trường. David cần phản hồi lại đề xuất n&agrave;y. Lượt lời của Peter l&agrave; một lời gợi &yacute;, do đ&oacute; David cần một c&acirc;u đ&aacute;p thể hiện sự đồng t&igrave;nh hoặc nhận x&eacute;t về &yacute; tưởng đ&oacute;. Phương &aacute;n 4, <em>\"That's a good idea.\"</em> (Đ&oacute; l&agrave; một &yacute; hay.), trực tiếp thể hiện sự đồng t&igrave;nh v&agrave; đ&aacute;nh gi&aacute; t&iacute;ch cực về đề xuất của Peter. Đ&acirc;y l&agrave; phản hồi ph&ugrave; hợp nhất trong ngữ cảnh n&agrave;y.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n 1, 2, 3 kh&ocirc;ng ph&ugrave; hợp về mặt ngữ dụng trong t&igrave;nh huống n&agrave;y.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>reusable</strong> (adj.): c&oacute; thể t&aacute;i sử dụng</p>\n<p style=\"text-align: justify;\"><strong>Don't mention it.</strong> (expr.): kh&ocirc;ng c&oacute; g&igrave; (d&ugrave;ng để đ&aacute;p lại lời cảm ơn)</p>\n<p style=\"text-align: justify;\"><strong>Not at all!</strong> (expr.): kh&ocirc;ng c&oacute; g&igrave; (d&ugrave;ng để đ&aacute;p lại lời cảm ơn hoặc phủ nhận mạnh mẽ)</p>\n<p style=\"text-align: justify;\"><strong>Go ahead.</strong> (expr.): cứ tự nhi&ecirc;n/cứ l&agrave;m đi (d&ugrave;ng để cho ph&eacute;p)</p>",
+    "answerFeedbacks": {
+      "1534441": "Cụm từ này dùng để đáp lại lời cảm ơn, không phù hợp để phản hồi một ý kiến hay đề xuất.",
+      "1534442": "Cách diễn đạt này thể hiện sự đồng tình về mặt ý tưởng nhưng từ chối thực hiện, không phải là phản hồi tích cực cho một đề xuất chung.",
+      "1534443": "Cụm từ <em>\"Not at all\"</em> thường dùng để phủ nhận hoặc đáp lại lời cảm ơn, còn <em>\"Go ahead\"</em> dùng để cho phép làm gì đó, không phù hợp để nhận xét về một ý kiến.",
+      "1534444": "Đây là cách diễn đạt phổ biến và phù hợp để bày tỏ sự đồng tình và khen ngợi một ý tưởng hay đề xuất."
+    },
+    "images": [],
+    "sourceExamId": 18177,
+    "sourceExamName": "Đề thi ĐGNL vào lớp 10 môn Tiếng Anh - Dành cho HS đầu lớp 9",
+    "year": 2024
+  },
+  {
+    "id": "295_13",
+    "questionNumber": 18,
+    "questionName": "Question 13",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Trang: Your dress is terrific, Nga. The color quite suits you.</strong></p>\n<p><strong>Nga: _____</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 1534425,
+        "label": "A",
+        "text": "I’m glad you like it.",
+        "isCorrect": true
+      },
+      {
+        "id": 1534426,
+        "label": "B",
+        "text": "I'm sorry to hear about that.",
+        "isCorrect": false
+      },
+      {
+        "id": 1534427,
+        "label": "C",
+        "text": "Oh, I couldn't agree with you more.",
+        "isCorrect": false
+      },
+      {
+        "id": 1534428,
+        "label": "D",
+        "text": "There’s no doubt about that.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1534425,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<ul>\n<li>Xác định mục đích giao tiếp của lời nói cần đáp lại: Trang đang <em>khen ngợi</em> chiếc váy của Nga.</li>\n<li>Hãy xem xét phương án nào là cách đáp lại lời khen một cách tự nhiên và lịch sự nhất.</li>\n</ul>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của Trang l&agrave; một lời khen về chiếc v&aacute;y của Nga (&ldquo;<em>Your dress is terrific, Nga. The color quite suits you.</em>&rdquo;). Khi nhận được lời khen, người được khen thường b&agrave;y tỏ sự cảm ơn hoặc vui vẻ. Phương &aacute;n 1, &ldquo;<em>I&rsquo;m glad you like it.</em>&rdquo; (T&ocirc;i vui v&igrave; bạn th&iacute;ch n&oacute;.), l&agrave; c&acirc;u đ&aacute;p ph&ugrave; hợp nhất v&igrave; n&oacute; thể hiện sự tiếp nhận lời khen một c&aacute;ch t&iacute;ch cực v&agrave; lịch sự.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n 2, 3 v&agrave; 4 đều kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh nhận lời khen.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>terrific</strong> (adj.): tuyệt vời, xuất sắc</p>\n<p style=\"text-align: justify;\"><strong>suit </strong>(v.): hợp, ph&ugrave; hợp</p>\n<p style=\"text-align: justify;\"><strong>I&rsquo;m sorry to hear about that</strong> (expr.): T&ocirc;i rất tiếc khi nghe điều đ&oacute;. (b&agrave;y tỏ sự cảm th&ocirc;ng khi nghe tin xấu)</p>\n<p style=\"text-align: justify;\"><strong>I couldn&rsquo;t agree with you more</strong> (expr.): T&ocirc;i ho&agrave;n to&agrave;n đồng &yacute; với bạn. (b&agrave;y tỏ sự đồng t&igrave;nh mạnh mẽ)</p>\n<p style=\"text-align: justify;\"><strong>There&rsquo;s no doubt about that</strong> (expr.): Kh&ocirc;ng c&ograve;n nghi ngờ g&igrave; về điều đ&oacute;. (khẳng định một điều g&igrave; đ&oacute; l&agrave; sự thật hiển nhi&ecirc;n.)</p>",
+    "answerFeedbacks": {
+      "1534425": "Đây là cách đáp lại lời khen một cách lịch sự và tự nhiên, thể hiện sự vui vẻ khi người khác thích món đồ của mình.",
+      "1534426": "Đây là câu thể hiện sự tiếc nuối hoặc đồng cảm khi nghe tin xấu, không phù hợp với ngữ cảnh nhận lời khen.",
+      "1534427": "Đây là câu thể hiện sự đồng ý mạnh mẽ với ý kiến của người khác, không phải là cách đáp lại lời khen về ngoại hình.",
+      "1534428": "Đây là câu khẳng định một điều gì đó là sự thật hiển nhiên, không dùng để đáp lại lời khen cá nhân."
+    },
+    "images": [],
+    "sourceExamId": 18177,
+    "sourceExamName": "Đề thi ĐGNL vào lớp 10 môn Tiếng Anh - Dành cho HS đầu lớp 9",
+    "year": 2024
+  },
+  {
+    "id": "295_14",
+    "questionNumber": 21,
+    "questionName": "Question 14",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Choose the best way to rearrange the following sentences in order to make a meaningful conversation.</strong></p>\n<p><strong>a. </strong>Mark: Have you seen the new superhero movie yet?</p>\n<p><strong>b. </strong>Mark: It's definitely worth watching!</p>\n<p><strong>c. </strong>Sarah: No, but I've heard good things about it.</p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 2062991,
+        "label": "A",
+        "text": "b–c–a",
+        "isCorrect": false
+      },
+      {
+        "id": 2062992,
+        "label": "B",
+        "text": "b–a–c",
+        "isCorrect": false
+      },
+      {
+        "id": 2062993,
+        "label": "C",
+        "text": "a–c–b",
+        "isCorrect": true
+      },
+      {
+        "id": 2062994,
+        "label": "D",
+        "text": "a–b–c",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 2062993,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Một cuộc hội thoại thường bắt đầu bằng một câu hỏi để mở đầu chủ đề. Hãy xác định câu nào là câu hỏi và câu nào là câu trả lời cho câu hỏi đó.",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Để sắp xếp c&aacute;c c&acirc;u th&agrave;nh một đoạn hội thoại c&oacute; nghĩa, ch&uacute;ng ta cần t&igrave;m ra trật tự logic của c&aacute;c lượt lời.</p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 7px;\">Một đoạn hội thoại thường bắt đầu bằng một c&acirc;u hỏi để giới thiệu chủ đề. C&acirc;u <strong>(a)</strong> \"Have you seen the new superhero movie yet?\" l&agrave; một c&acirc;u hỏi, n&ecirc;n n&oacute; l&agrave; điểm khởi đầu hợp l&yacute; nhất.</li>\n<li style=\"text-align: justify; margin-bottom: 7px;\">C&acirc;u <strong>(c)</strong> \"No, but I've heard good things about it.\" bắt đầu bằng \"No\", l&agrave; c&acirc;u trả lời trực tiếp cho c&acirc;u hỏi Yes/No ở c&acirc;u <strong>(a)</strong>. Đại từ \"it\" trong c&acirc;u <strong>(c)</strong> cũng đề cập đến \"the new superhero movie\" trong c&acirc;u <strong>(a)</strong>.</li>\n<li style=\"text-align: justify; margin-bottom: 7px;\">C&acirc;u <strong>(b)</strong> \"It's definitely worth watching!\" l&agrave; lời nhận x&eacute;t, khuyến kh&iacute;ch của Mark, củng cố cho việc Sarah đ&atilde; \"heard good things\" về bộ phim. Đ&acirc;y l&agrave; một phản hồi tự nhi&ecirc;n sau khi nghe c&acirc;u trả lời của Sarah.</li>\n</ul>\n<p><strong>&rarr; </strong>Thứ tự logic để tạo hội thoại l&agrave;:<strong> a&ndash;c&ndash;b</strong></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>to be worth + V-ing</strong> (expr.): đ&aacute;ng để l&agrave;m g&igrave; đ&oacute;.</p>\n<p style=\"text-align: justify;\"><strong>to hear good things about something</strong> (expr.): nghe được những điều tốt đẹp về c&aacute;i g&igrave; / nghe n&oacute;i l&agrave; hay</p>",
+    "answerFeedbacks": {
+      "2062991": "Đoạn hội thoại không thể bắt đầu bằng câu nhận xét <em>\"It's definitely worth watching!\"</em> khi chủ đề (bộ phim) chưa được giới thiệu.",
+      "2062992": "Bắt đầu cuộc hội thoại bằng câu nhận xét <em>\"It's definitely worth watching!\"</em> là không hợp lý về mặt logic giao tiếp vì người nghe chưa biết nó đang nói về cái gì.",
+      "2062993": "Thứ tự này tạo thành một đoạn hội thoại hợp lý: Mark hỏi về bộ phim, Sarah trả lời, và sau đó Mark đưa ra lời khuyên/nhận xét của mình.",
+      "2062994": "Sau khi Mark hỏi <em>\"Have you seen the new superhero movie yet?\"</em>, anh ấy nên đợi câu trả lời của Sarah trước khi đưa ra nhận xét của mình."
+    },
+    "images": [],
+    "sourceExamId": 18177,
+    "sourceExamName": "Đề thi ĐGNL vào lớp 10 môn Tiếng Anh - Dành cho HS đầu lớp 9",
+    "year": 2024
+  },
+  {
+    "id": "295_15",
+    "questionNumber": 22,
+    "questionName": "Question 15",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Choose the best way to rearrange the following sentences in order to make a meaningful conversation.</strong></p>\n<p><strong>a. </strong>These programs are able to answer frequently asked questions at any time of day.&nbsp;</p>\n<p><strong>b. </strong>Many websites now use chatbots to provide immediate support to users.</p>\n<p><strong>c. </strong>The development of AI has transformed online customer service.</p>\n<p><strong>d.</strong> This has greatly improved the customer experience by offering instant assistance.</p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 2063094,
+        "label": "A",
+        "text": "a–b–c–d",
+        "isCorrect": false
+      },
+      {
+        "id": 2063095,
+        "label": "B",
+        "text": "b–a–c–d",
+        "isCorrect": false
+      },
+      {
+        "id": 2063096,
+        "label": "C",
+        "text": "c–b–a–d",
+        "isCorrect": true
+      },
+      {
+        "id": 2063097,
+        "label": "D",
+        "text": "c–a–b–d",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 2063096,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Hãy bắt đầu bằng cách tìm câu giới thiệu chủ đề chung nhất. Sau đó, hãy chú ý đến các từ nối hoặc các từ thay thế như <strong>'These programs'</strong> hoặc <strong>'This'</strong> để xác định mối liên kết giữa các câu.",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span>Để sắp xếp các câu thành một đoạn văn mạch lạc, chúng ta cần tìm ra trật tự logic từ ý tổng quát đến chi tiết và kết luận.</p>\n<ul style=\"padding-left: 30px;\">\n<li style=\"text-align: justify; margin-bottom: 7px;\">Câu <strong>(c)</strong> giới thiệu chủ đề chính một cách tổng quát nhất: sự phát triển của AI đã làm thay đổi dịch vụ khách hàng trực tuyến. Đây là câu mở đầu phù hợp nhất.</li>\n<li style=\"text-align: justify; margin-bottom: 7px;\">Câu <strong>(b)</strong> đưa ra một ví dụ cụ thể để minh họa cho ý ở câu <strong>(c)</strong>: nhiều trang web sử dụng chatbots để hỗ trợ người dùng.</li>\n<li style=\"text-align: justify; margin-bottom: 7px;\">Câu <strong>(a)</strong> giải thích rõ hơn về chức năng của các 'chatbots' được nhắc đến trong câu <strong>(b)</strong>. Cụm từ <em>\"These programs\"</em> ở đầu câu <strong>(a)</strong> chính là để chỉ 'chatbots'.</li>\n<li style=\"text-align: justify; margin-bottom: 7px;\">Câu <strong>(d)</strong> nêu lên kết quả, tác động của việc sử dụng chatbots. Từ <em>\"This\"</em> ở đầu câu đề cập đến toàn bộ sự việc được mô tả ở các câu trước đó. Đây là câu kết luận hợp lý.</li>\n</ul>\n<p><strong>→ </strong>Thứ tự logic để tạo thành đoạn văn hoàn chỉnh là:<strong> c–b–a–d</strong></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu trúc / Từ vựng liên quan: </span></p>\n<p style=\"text-align: justify;\"><strong>transform</strong> (v.): biến đổi, thay đổi hoàn toàn</p>\n<p style=\"text-align: justify;\"><strong>customer service</strong> (n. phr.): dịch vụ khách hàng</p>\n<p style=\"text-align: justify;\"><strong>immediate support</strong> (n. phr.): sự hỗ trợ ngay lập tức</p>\n<p style=\"text-align: justify;\"><strong>customer experience</strong> (n. phr.): trải nghiệm khách hàng</p>",
+    "answerFeedbacks": {
+      "2063094": "Thứ tự này không hợp lý vì câu (a) đề cập đến <em>\"These programs\"</em> mà không có đối tượng nào được giới thiệu trước đó để nó tham chiếu tới.",
+      "2063095": "Thứ tự này bắt đầu bằng một ví dụ cụ thể (câu b) trước khi giới thiệu chủ đề chính (câu c), làm cho đoạn văn thiếu tính logic.",
+      "2063096": "Thứ tự này tạo thành một đoạn văn logic: giới thiệu chủ đề chung (c), đưa ra ví dụ cụ thể (b), giải thích chi tiết cho ví dụ đó (a), và kết luận về kết quả (d).",
+      "2063097": "Thứ tự này không hợp lý vì câu (a) với cụm từ <em>\"These programs\"</em> được đặt trước câu (b), câu giới thiệu về 'chatbots' mà cụm từ này đang đề cập đến."
+    },
+    "images": [],
+    "sourceExamId": 18177,
+    "sourceExamName": "Đề thi ĐGNL vào lớp 10 môn Tiếng Anh - Dành cho HS đầu lớp 9",
+    "year": 2024
+  },
+  {
+    "id": "295_16",
+    "questionNumber": 30,
+    "questionName": "Question 16",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>What is the most suitable title for this passage?</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and do the following tasks.</strong></p>\n<p style=\"text-align: justify;\">Almost every house now has electronic waste, or 'e-waste.' This includes many different old devices that we don't need, like old mobile phones, printers, and televisions. When we throw these items away, we usually don't know what happens to them.</p>\n<p style=\"text-align: justify;\">Peter Essick, a journalist, wanted to know the truth about e-waste. He decided to follow the e-waste to its final destinations in different countries. He discovered that a large amount of this electronic waste travels to Ghana, in Africa. In Ghana's local markets, old computers are sold. People usually don't <strong>repair </strong>these computers; instead, they break them down to take out valuable materials such as gold and copper. However, melting these parts is very dangerous for the workers. This action produces toxic chemicals that hurt people's health and the local environment.</p>\n<p style=\"text-align: justify;\">After his investigation, Peter Essick believes that we should stop the international shipping of this electronic trash. He thinks it is an environmental and health problem. He wants companies to be responsible for making new electronics that are easier to recycle and safer for the environment when they become waste.</p>",
+    "parentQuestionId": 1082178,
+    "choices": [
+      {
+        "id": 2063793,
+        "label": "A",
+        "text": "Designing Electronics for Better Safety",
+        "isCorrect": false
+      },
+      {
+        "id": 2063794,
+        "label": "B",
+        "text": "How Electronic Waste Travels from Ghana",
+        "isCorrect": false
+      },
+      {
+        "id": 2063795,
+        "label": "C",
+        "text": "Electronic Waste: Issues and Consequences",
+        "isCorrect": true
+      },
+      {
+        "id": 2063796,
+        "label": "D",
+        "text": "The Market for Used Computers",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 2063795,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Để tìm tiêu đề phù hợp nhất, bạn cần đọc lướt toàn bộ bài đọc và tự hỏi: \"Chủ đề nào được lặp lại hoặc thảo luận trong tất cả các đoạn văn?\". Một tiêu đề tốt phải bao quát được ý chính của cả bài, không chỉ là một chi tiết nhỏ.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng x&aacute;c định &yacute; ch&iacute;nh của cả b&agrave;i đọc. Để trả lời, học sinh cần đọc v&agrave; tổng hợp th&ocirc;ng tin từ tất cả c&aacute;c đoạn để t&igrave;m ra chủ đề bao qu&aacute;t nhất.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc giới thiệu về vấn đề r&aacute;c thải điện tử, h&agrave;nh tr&igrave;nh của ch&uacute;ng đến Ghana v&agrave; những hậu quả ti&ecirc;u cực đối với sức khỏe con người v&agrave; m&ocirc;i trường. Đoạn cuối c&ugrave;ng đề xuất giải ph&aacute;p. Do đ&oacute;, ti&ecirc;u đề bao qu&aacute;t nhất phải đề cập đến c&aacute;c vấn đề v&agrave; hậu quả của r&aacute;c thải điện tử. Phương &aacute;n 3 \"Electronic Waste: Issues and Consequences\" (R&aacute;c thải điện tử: Vấn đề v&agrave; Hậu quả) đ&atilde; t&oacute;m tắt được to&agrave;n bộ nội dung n&agrave;y.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 c&oacute; thể g&acirc;y nhầm lẫn v&igrave; n&oacute; được đề cập ở cuối b&agrave;i, tuy nhi&ecirc;n đ&acirc;y chỉ l&agrave; một giải ph&aacute;p được đề xuất chứ kh&ocirc;ng phải l&agrave; chủ đề ch&iacute;nh được thảo luận xuy&ecirc;n suốt b&agrave;i đọc.</p>",
+    "answerFeedbacks": {
+      "2063793": "Đây là một thông tin quá hẹp vì nó chỉ là một giải pháp được đề cập ở cuối bài đọc.",
+      "2063794": "Thông tin này sai sự thật vì bài đọc nói rác thải điện tử được vận chuyển <em>đến</em> Ghana.",
+      "2063795": "Đáp án này tóm tắt chính xác chủ đề của cả bài đọc về các vấn đề và tác động tiêu cực của rác thải điện tử.",
+      "2063796": "Đây là một chi tiết quá hẹp, chỉ được đề cập trong một phần của bài đọc."
+    },
+    "images": [],
+    "sourceExamId": 18177,
+    "sourceExamName": "Đề thi ĐGNL vào lớp 10 môn Tiếng Anh - Dành cho HS đầu lớp 9",
+    "year": 2024
+  },
+  {
+    "id": "295_17",
+    "questionNumber": 1,
+    "questionName": "Question 17",
+    "questionType": "FillBlank",
+    "questionText": "<p><strong>Read the following passage and choose the best answer for each blank.</strong></p>\n<p style=\"text-align: center;\"><strong>ENGLISH CLUB MEMBERS WANTED</strong></p>\n<p style=\"margin-bottom: 10px; text-align: justify;\">The English Club of High School for Gifted Students is now <span class='fillblank-option'><label>1.1</label><select class='ms fillblank-option-1' index='0' name='fbo-1156918-0' data-testid='fillblank-select-1156918-0'><option value='' data-testid='fillblank-option-empty-1156918-0'></option><option value=\"opens\" data-testid='fillblank-option-1156918-0-opens'>opens</option><option value=\"to open\" data-testid='fillblank-option-1156918-0-to open'>to open</option><option value=\"opened\" data-testid='fillblank-option-1156918-0-opened'>opened</option><option value=\"opening\" data-testid='fillblank-option-1156918-0-opening'>opening</option></select></span> applications for new members for the coming school year.</p>\n<p style=\"margin-bottom: 10px; text-align: justify;\">The club <span class='fillblank-option'><label>1.2</label><select class='ms fillblank-option-1' index='1' name='fbo-1156918-1' data-testid='fillblank-select-1156918-1'><option value='' data-testid='fillblank-option-empty-1156918-1'></option><option value=\"aims to\" data-testid='fillblank-option-1156918-1-aims to'>aims to</option><option value=\"aims at\" data-testid='fillblank-option-1156918-1-aims at'>aims at</option><option value=\"aimed to\" data-testid='fillblank-option-1156918-1-aimed to'>aimed to</option><option value=\"aimed at\" data-testid='fillblank-option-1156918-1-aimed at'>aimed at</option></select></span> help students improve their communication skills and confidence in using English through various activities and events.</p>\n<p style=\"margin-bottom: 10px; text-align: justify;\">All students who are interested in joining the club are welcome to apply. Selected members will have opportunities to take part in debates, presentations, and <span class='fillblank-option'><label>1.3</label><select class='ms fillblank-option-1' index='2' name='fbo-1156918-2' data-testid='fillblank-select-1156918-2'><option value='' data-testid='fillblank-option-empty-1156918-2'></option><option value=\"cultural\" data-testid='fillblank-option-1156918-2-cultural'>cultural</option><option value=\"culturally\" data-testid='fillblank-option-1156918-2-culturally'>culturally</option><option value=\"culture\" data-testid='fillblank-option-1156918-2-culture'>culture</option><option value=\"culturing\" data-testid='fillblank-option-1156918-2-culturing'>culturing</option></select></span> exchanges.</p>\n<p style=\"margin-bottom: 10px; text-align: justify;\">The registration meeting will take place <span class='fillblank-option'><label>1.4</label><select class='ms fillblank-option-1' index='3' name='fbo-1156918-3' data-testid='fillblank-select-1156918-3'><option value='' data-testid='fillblank-option-empty-1156918-3'></option><option value=\"at\" data-testid='fillblank-option-1156918-3-at'>at</option><option value=\"on\" data-testid='fillblank-option-1156918-3-on'>on</option><option value=\"in\" data-testid='fillblank-option-1156918-3-in'>in</option><option value=\"for\" data-testid='fillblank-option-1156918-3-for'>for</option></select></span> October 25, 2026, at Phan Duc Chinh Lecture Hall.</p>\n<p style=\"margin-bottom: 10px; text-align: justify;\">Please make sure to attend the meeting on time to complete the registration process.</p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [],
+    "correctChoiceId": null,
+    "fillblankAnswers": [
+      {
+        "index": 0,
+        "correctAnswers": [
+          "opening"
+        ]
+      },
+      {
+        "index": 1,
+        "correctAnswers": [
+          "aims to"
+        ]
+      },
+      {
+        "index": 2,
+        "correctAnswers": [
+          "cultural"
+        ]
+      },
+      {
+        "index": 3,
+        "correctAnswers": [
+          "on"
+        ]
+      }
+    ],
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.1</strong>&nbsp; Do c&oacute; trạng từ \"<strong>now</strong>\" (<em>b&acirc;y giờ</em>) v&agrave; động từ to be \"<strong>is</strong>\", c&acirc;u cần d&ugrave;ng th&igrave; hiện tại tiếp diễn với cấu tr&uacute;c \"<strong>am/is/are + V-ing</strong>\" để diễn tả h&agrave;nh động đang xảy ra. Do đ&oacute; đ&aacute;p &aacute;n với \"<strong>opening</strong>\" l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.2</strong>&nbsp; Cấu tr&uacute;c\" <span style=\"font-weight: 600;\">aim to do something\"</span>&nbsp;(<em>nhắm tới việc l&agrave;m g&igrave;</em>) đi với động từ nguy&ecirc;n thể \"<strong>help</strong>\". Chủ ngữ \"<strong>The club</strong>\" l&agrave; số &iacute;t v&agrave; ngữ cảnh n&oacute;i về mục đ&iacute;ch chung n&ecirc;n d&ugrave;ng th&igrave; hiện tại đơn.</div>\n<ul>\n<li><strong>aim to do sth</strong>: đặt mục ti&ecirc;u, nhắm tới việc l&agrave;m g&igrave;</li>\n<li>aim at doing sth: nhắm v&agrave;o việc g&igrave;</li>\n</ul>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.3</strong> Vị tr&iacute; trống đứng trước danh từ \"<strong>exchanges</strong>\" (c&aacute;c buổi trao đổi), do đ&oacute; cần một <strong>t&iacute;nh từ</strong> để bổ nghĩa cho danh từ n&agrave;y. Cụm \"<strong>cultural exchanges</strong>\" c&oacute; nghĩa l&agrave; \"giao lưu văn h&oacute;a\".\n<ul>\n<li><strong>cultural </strong>(adj.): (thuộc về) văn h&oacute;a</li>\n<li>culture (n.): văn h&oacute;a</li>\n<li>culturally (adv.): về mặt văn h&oacute;a</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.4</strong> Giới từ \"<strong>on</strong>\" được sử dụng trước một ng&agrave;y cụ thể (bao gồm cả ng&agrave;y, th&aacute;ng, v&agrave; c&oacute; thể c&oacute; năm). \"<strong>October 25, 2026</strong>\" l&agrave; một ng&agrave;y cụ thể.\n<ul>\n<li><strong>on </strong>(prep.): v&agrave;o (d&ugrave;ng với ng&agrave;y cụ thể)</li>\n<li>in (prep.): trong (d&ugrave;ng với th&aacute;ng, năm)</li>\n<li>at (prep.): tại, v&agrave;o l&uacute;c (d&ugrave;ng với giờ cụ thể, địa điểm nhỏ)</li>\n<li>for (prep.): cho, để (thường d&ugrave;ng khi chỉ mục đich)</li>\n</ul>\n</div>\n</div>\n</div>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 18754,
+    "sourceExamName": "Đề KSCL thi Tiếng Anh vào 10 trường THPT Chuyên KHTN năm 2026 (Lần 1)",
+    "year": 2026
+  },
+  {
+    "id": "295_18",
+    "questionNumber": 26,
+    "questionName": "Question 18",
+    "questionType": "FillBlank",
+    "questionText": "<p><strong>Read the following passage and choose the best answer for each blank.</strong></p>\n<div style=\"text-align: justify;\">\n<p>On most afternoons, groups of teenagers sit together in caf&#233;s or parks, yet many of their conversations take place through screens. Smartphones, tablets, and laptops are now a common part of daily life. They shape how young people learn, relax, and stay in touch with others.</p>\n<p><span class='fillblank-option'><label>26.1</label><select class='ms fillblank-option-26' index='0' name='fbo-1225465-0' data-testid='fillblank-select-1225465-0'><option value='' data-testid='fillblank-option-empty-1225465-0'></option><option value=\"Despite\" data-testid='fillblank-option-1225465-0-Despite'>Despite</option><option value=\"Since\" data-testid='fillblank-option-1225465-0-Since'>Since</option><option value=\"As far as\" data-testid='fillblank-option-1225465-0-As far as'>As far as</option><option value=\"Though\" data-testid='fillblank-option-1225465-0-Though'>Though</option></select></span> high screen use, many teenagers view their devices as practical tools that support both study and social connection. In school, electronic devices play a key role. A large <span class='fillblank-option'><label>26.2</label><select class='ms fillblank-option-26' index='1' name='fbo-1225465-1' data-testid='fillblank-select-1225465-1'><option value='' data-testid='fillblank-option-empty-1225465-1'></option><option value=\"range\" data-testid='fillblank-option-1225465-1-range'>range</option><option value=\"sum\" data-testid='fillblank-option-1225465-1-sum'>sum</option><option value=\"number\" data-testid='fillblank-option-1225465-1-number'>number</option><option value=\"amount\" data-testid='fillblank-option-1225465-1-amount'>amount</option></select></span> of students use them to take notes, look for information, and complete tasks more easily. Online lessons and short videos help them review difficult topics at their own pace, which often improves understanding. They can also share files and ideas <span class='fillblank-option'><label>26.3</label><select class='ms fillblank-option-26' index='2' name='fbo-1225465-2' data-testid='fillblank-select-1225465-2'><option value='' data-testid='fillblank-option-empty-1225465-2'></option><option value=\"by\" data-testid='fillblank-option-1225465-2-by'>by</option><option value=\"within\" data-testid='fillblank-option-1225465-2-within'>within</option><option value=\"for\" data-testid='fillblank-option-1225465-2-for'>for</option><option value=\"with\" data-testid='fillblank-option-1225465-2-with'>with</option></select></span> classmates, which makes group work more convenient. However, teachers point out that frequent messages and alerts can interrupt lessons and reduce focus, <span class='fillblank-option'><label>26.4</label><select class='ms fillblank-option-26' index='3' name='fbo-1225465-3' data-testid='fillblank-select-1225465-3'><option value='' data-testid='fillblank-option-empty-1225465-3'></option><option value=\"have disrupted\" data-testid='fillblank-option-1225465-3-have disrupted'>have disrupted</option><option value=\"disrupt\" data-testid='fillblank-option-1225465-3-disrupt'>disrupt</option><option value=\"disrupting\" data-testid='fillblank-option-1225465-3-disrupting'>disrupting</option><option value=\"disrupted\" data-testid='fillblank-option-1225465-3-disrupted'>disrupted</option></select></span> students' concentration during class. Because of this, many schools now set clear rules to guide when devices should be used.</p>\n<p>Outside the classroom, digital devices obviously affect social life. Teenagers frequently use social media to keep in touch with friends, share experiences, and <span class='fillblank-option'><label>26.5</label><select class='ms fillblank-option-26' index='4' name='fbo-1225465-4' data-testid='fillblank-select-1225465-4'><option value='' data-testid='fillblank-option-empty-1225465-4'></option><option value=\"disrupt\" data-testid='fillblank-option-1225465-4-disrupt'>disrupt</option><option value=\"consider\" data-testid='fillblank-option-1225465-4-consider'>consider</option><option value=\"report\" data-testid='fillblank-option-1225465-4-report'>report</option><option value=\"follow\" data-testid='fillblank-option-1225465-4-follow'>follow</option></select></span> topics they enjoy. These platforms can help them feel connected, especially when they cannot meet in person. At the same time, spending too much time online may lead to <span class='fillblank-option'><label>26.6</label><select class='ms fillblank-option-26' index='5' name='fbo-1225465-5' data-testid='fillblank-select-1225465-5'><option value='' data-testid='fillblank-option-empty-1225465-5'></option><option value=\"disruption\" data-testid='fillblank-option-1225465-5-disruption'>disruption</option><option value=\"interaction\" data-testid='fillblank-option-1225465-5-interaction'>interaction</option><option value=\"comparison\" data-testid='fillblank-option-1225465-5-comparison'>comparison</option><option value=\"confusion\" data-testid='fillblank-option-1225465-5-confusion'>confusion</option></select></span> with others and higher stress levels. This often happens when people constantly measure their own lives against what they see on social media. Devices also influence <span class='fillblank-option'><label>26.7</label><select class='ms fillblank-option-26' index='6' name='fbo-1225465-6' data-testid='fillblank-select-1225465-6'><option value='' data-testid='fillblank-option-empty-1225465-6'></option><option value=\"when\" data-testid='fillblank-option-1225465-6-when'>when</option><option value=\"how\" data-testid='fillblank-option-1225465-6-how'>how</option><option value=\"what\" data-testid='fillblank-option-1225465-6-what'>what</option><option value=\"why\" data-testid='fillblank-option-1225465-6-why'>why</option></select></span> teenagers spend their free time. Music, films, and games are easy to access and provide quick ways to relax after a busy day. However, long periods of screen use can reduce sleep quality and limit physical activities.</p>\n<p>Overall, electronic devices are now a(n) <span class='fillblank-option'><label>26.8</label><select class='ms fillblank-option-26' index='7' name='fbo-1225465-7' data-testid='fillblank-select-1225465-7'><option value='' data-testid='fillblank-option-empty-1225465-7'></option><option value=\"significant\" data-testid='fillblank-option-1225465-7-significant'>significant</option><option value=\"private\" data-testid='fillblank-option-1225465-7-private'>private</option><option value=\"separate\" data-testid='fillblank-option-1225465-7-separate'>separate</option><option value=\"equal\" data-testid='fillblank-option-1225465-7-equal'>equal</option></select></span> part of teenage life. They offer clear benefits for learning and communication, but they also require careful and balanced use to avoid negative effects on health and well-being.</p>\n</div>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [],
+    "correctChoiceId": null,
+    "fillblankAnswers": [
+      {
+        "index": 0,
+        "correctAnswers": [
+          "Despite"
+        ]
+      },
+      {
+        "index": 1,
+        "correctAnswers": [
+          "number"
+        ]
+      },
+      {
+        "index": 2,
+        "correctAnswers": [
+          "with"
+        ]
+      },
+      {
+        "index": 3,
+        "correctAnswers": [
+          "disrupting"
+        ]
+      },
+      {
+        "index": 4,
+        "correctAnswers": [
+          "follow"
+        ]
+      },
+      {
+        "index": 5,
+        "correctAnswers": [
+          "comparison"
+        ]
+      },
+      {
+        "index": 6,
+        "correctAnswers": [
+          "how"
+        ]
+      },
+      {
+        "index": 7,
+        "correctAnswers": [
+          "significant"
+        ]
+      }
+    ],
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.1</strong> Chỗ trống cần một giới từ để chỉ sự tương phản, đối lập. Ph&iacute;a sau chỗ trống l&agrave; một cụm danh từ <strong>\"high screen use\"</strong>, do đ&oacute; ta d&ugrave;ng <strong>\"Despite\"</strong>.\n<ul>\n<li><strong>despite</strong> (prep.): mặc d&ugrave;, bất chấp (d&ugrave;ng với cụm danh từ, danh từ hoặc V-ing)</li>\n<li>though (conj.): mặc d&ugrave; (d&ugrave;ng với mệnh đề)</li>\n<li>since (conj.): bởi v&igrave; (d&ugrave;ng với mệnh đề)</li>\n<li>as far as (phr.): theo như</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.2</strong> <strong>\"Students\"</strong> l&agrave; danh từ đếm được số nhiều. Cụm từ <strong>\"a large number of\"</strong> được d&ugrave;ng với danh từ đếm được số nhiều để chỉ số lượng lớn.\n<ul>\n<li><strong>a number</strong> <strong>of</strong>: số lượng (d&ugrave;ng cho danh từ đếm được số nhiều)</li>\n<li>amount (n.): lượng (d&ugrave;ng cho danh từ kh&ocirc;ng đếm được)</li>\n<li>range (n.): phạm vi, loạt (d&ugrave;ng cho danh từ đếm được số nhiều) -&gt; kh&ocirc;ng hợp về nghĩa</li>\n<li>sum (n.): tổng số (thường d&ugrave;ng với tiền)</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.3</strong> Cấu tr&uacute;c cố định l&agrave; <strong>\"share something with someone\"</strong> (chia sẻ c&aacute;i g&igrave; với ai). V&igrave; vậy, giới từ <strong>\"with\" </strong>l&agrave; ph&ugrave; hợp nhất.\n<ul>\n<li><strong>with</strong> (prep.): với</li>\n<li>within (prep.): b&ecirc;n trong</li>\n<li>for (prep.): cho</li>\n<li>by (prep.): bởi</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.4</strong> Vế c&acirc;u c&oacute; mệnh đề ch&iacute;nh l&agrave; <strong>\"frequent messages and alerts can interrupt...\"</strong>. Mệnh đề ph&iacute;a sau dấu phẩy l&agrave; mệnh đề phụ v&agrave; diễn tả kết quả của h&agrave;nh động ở mệnh đề ch&iacute;nh. Ta d&ugrave;ng dạng V-ing (ph&acirc;n từ hiện tại) để r&uacute;t gọn mệnh đề, tạo th&agrave;nh một mệnh đề phụ chỉ kết quả. Do đ&oacute;, chọn<strong> \"disrupting\"</strong>.</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.5</strong> Trong ngữ cảnh sử dụng mạng x&atilde; hội, <strong>\"follow topics\"</strong> l&agrave; một cụm từ phổ biến, c&oacute; nghĩa l&agrave; theo d&otilde;i c&aacute;c chủ đề m&agrave; họ quan t&acirc;m.\n<ul>\n<li><strong>follow</strong> (v.): theo d&otilde;i</li>\n<li>consider (v.): xem x&eacute;t, c&acirc;n nhắc</li>\n<li>disrupt (v.): l&agrave;m gi&aacute;n đoạn</li>\n<li>report (v.): b&aacute;o c&aacute;o</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.6</strong> C&acirc;u tiếp theo giải th&iacute;ch r&otilde; nguy&ecirc;n nh&acirc;n: <strong>\"people constantly measure their own lives against what they see\"</strong> (mọi người li&ecirc;n tục so s&aacute;nh cuộc sống của m&igrave;nh với những g&igrave; họ thấy tr&ecirc;n mạng x&atilde; hội). Điều n&agrave;y dẫn đến sự so s&aacute;nh, v&igrave; vậy chọn <strong>\"comparison\"</strong>.\n<ul>\n<li><strong>comparison</strong> (n.): sự so s&aacute;nh</li>\n<li>interaction (n.): sự tương t&aacute;c</li>\n<li>disruption (n.): sự gi&aacute;n đoạn</li>\n<li>confusion (n.): sự bối rối, nhầm lẫn</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.7</strong> Chỗ trống cần một từ để hỏi về c&aacute;ch thức. Cả c&acirc;u c&oacute; nghĩa l&agrave; \"C&aacute;c thiết bị cũng ảnh hưởng đến c&aacute;ch m&agrave; thanh thiếu ni&ecirc;n d&agrave;nh thời gian rảnh rỗi\". Để n&oacute;i về c&aacute;ch thức l&agrave;m một việc g&igrave;, ta d&ugrave;ng từ để hỏi <strong>\"how\"</strong>.\n<ul>\n<li><strong>how</strong> (adv.): như thế n&agrave;o, c&aacute;ch m&agrave;</li>\n<li>when (adv.): khi n&agrave;o</li>\n<li>what (pron.): c&aacute;i g&igrave;</li>\n<li>why (adv.): tại sao</li>\n</ul>\n</div>\n</div>\n</div>\n<div style=\"margin-bottom: 10px;\">\n<div style=\"background-color: #f9f9f9; padding: 4px 8px; border-radius: 4px; border: 1px solid #eee; width: 100%; box-sizing: border-box;\">\n<div style=\"margin-bottom: 0px; text-align: justify;\"><strong style=\"background-color: #299b83; color: #fff; padding: 0px 4px; border-radius: 4px; font-size: 14px; margin-right: 5px;\">.8</strong> Sau khi ph&acirc;n t&iacute;ch cả mặt lợi v&agrave; hại của thiết bị điện tử, c&acirc;u cuối c&ugrave;ng đưa ra kết luận rằng ch&uacute;ng l&agrave; một phần quan trọng, đ&aacute;ng kể trong cuộc sống của thanh thiếu ni&ecirc;n. Từ <strong>\"significant\"</strong> l&agrave; ph&ugrave; hợp nhất về nghĩa.\n<ul>\n<li><strong>significant</strong> (adj.): quan trọng, đ&aacute;ng kể</li>\n<li>separate (adj.): ri&ecirc;ng biệt, t&aacute;ch rời</li>\n<li>equal (adj.): b&igrave;nh đẳng, ngang bằng</li>\n<li>private (adj.): ri&ecirc;ng tư</li>\n</ul>\n</div>\n</div>\n</div>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 19146,
+    "sourceExamName": "Đề thi chính thức vào lớp 10 môn Anh trường THPT Chuyên KHXH & NV năm 2026",
+    "year": 2026
+  },
+  {
+    "id": "295_19",
+    "questionNumber": 28,
+    "questionName": "Question 19",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>What is the best title for the passage?</strong></p>",
+    "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<div style=\"text-align: justify;\">\n<p>Vietnam has changed quickly over the past few decades. Today, daily life is very different from the past. For many young people, stories from their parents or grandparents may feel like scenes from another world. Yet these changes are not only about technology or money. They also show how values, habits, and expectations have changed over time.</p>\n<p>In the past, most Vietnamese people lived in rural areas and worked as farmers. Some also worked as fishermen near rivers and coastal areas, while others were carpenters or craft workers in small villages. Life was slower and often followed the seasons. Families grew their own food, and meals were simple and fresh, based on local food. Because work and home were closely linked, family members spent more time together during the day. Neighbors also played an important role. They helped each other in work and daily life, which created a strong sense of community.</p>\n<p>Transportation and communication were limited, so people felt distance more strongly. Bicycles were the main form of travel, and long trips took time and effort. Letters were often the only way to stay in touch with relatives far away. As a result, when people met, they valued those moments more deeply. Conversations were often longer and more meaningful.</p>\n<p>Today, Vietnam is more urban and connected than ever before. Large cities continue to grow and offer more jobs and better education. However, this also creates a faster pace of life. Many young people have busy schedules, long working hours, and high expectations. Technology, especially smartphones, has made communication easier. But it has also changed how people interact. Online messages are quick and easy, yet <strong>they</strong> sometimes replace face-to-face contact.</p>\n<p>People also see differences in what they eat. Traditional meals are still important at home and during special occasions. But modern life has increased the need for fast and convenient food. Eating out or having takeaways is now common, particularly for students and office workers.</p>\n<p>Even with these changes, some core values remain strong. Family ties still shape decisions and cultural traditions are still respected. Festivals such as Tet are not only holidays but also important times for reflection and connection.</p>\n<p>Vietnamese lifestyle has moved from simple and local to fast and global. For young people today, the <strong>challenge</strong> is to balance modern opportunities with traditional values. They try to create a way of life that respects the past while adapting to the future.</p>\n</div>",
+    "parentQuestionId": 1225474,
+    "choices": [
+      {
+        "id": 2372088,
+        "label": "A",
+        "text": "Balancing tradition and modern life in Vietnam",
+        "isCorrect": false
+      },
+      {
+        "id": 2372089,
+        "label": "B",
+        "text": "Vietnam then and now: A changing way of life",
+        "isCorrect": true
+      },
+      {
+        "id": 2372090,
+        "label": "C",
+        "text": "How global style replaces local style in Vietnam",
+        "isCorrect": false
+      },
+      {
+        "id": 2372091,
+        "label": "D",
+        "text": "Vietnam: A journey from bicycles to smartphones",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 2372089,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Để chọn được tiêu đề phù hợp nhất, bạn cần tìm một phương án có thể tóm tắt được nội dung của <strong>toàn bộ bài đọc</strong>, chứ không chỉ một vài chi tiết hay ý tưởng ở một đoạn văn cụ thể.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng x&aacute;c định &yacute; ch&iacute;nh của to&agrave;n bộ văn bản. Để trả lời, học sinh cần tổng hợp th&ocirc;ng tin từ tất cả c&aacute;c đoạn để t&igrave;m ra một ti&ecirc;u đề bao qu&aacute;t nhất.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc tập trung so s&aacute;nh lối sống ở Việt Nam giữa qu&aacute; khứ v&agrave; hiện tại tr&ecirc;n nhiều phương diện: c&ocirc;ng việc, đời sống cộng đồng, giao th&ocirc;ng, li&ecirc;n lạc, v&agrave; ẩm thực. Ngay từ đoạn đầu, t&aacute;c giả đ&atilde; n&ecirc;u r&otilde;: <strong>[[Today, daily life is very different from the past.]]</strong> (<em>Ng&agrave;y nay, cuộc sống h&agrave;ng ng&agrave;y rất kh&aacute;c so với qu&aacute; khứ.</em>). C&aacute;c đoạn sau đ&oacute; đi v&agrave;o chi tiết h&oacute;a sự kh&aacute;c biệt n&agrave;y. V&igrave; vậy, ti&ecirc;u đề <strong>\"Vietnam then and now: A changing way of life\"</strong> (<em>Việt Nam xưa v&agrave; nay: Một lối sống đang thay đổi</em>) phản &aacute;nh ch&iacute;nh x&aacute;c v&agrave; đầy đủ nhất nội dung của b&agrave;i đọc.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 dễ g&acirc;y nhầm lẫn v&igrave; &yacute; tưởng về việc \"c&acirc;n bằng\" được đề cập ở cuối b&agrave;i: <strong>[[the challenge is to balance modern opportunities with traditional values.]]</strong> (<em>th&aacute;ch thức l&agrave; c&acirc;n bằng giữa cơ hội hiện đại với c&aacute;c gi&aacute; trị truyền thống.</em>) Tuy nhi&ecirc;n, đ&acirc;y chỉ l&agrave; một &yacute; kết luận, kh&ocirc;ng phải chủ đề ch&iacute;nh xuy&ecirc;n suốt to&agrave;n b&agrave;i, vốn l&agrave; sự m&ocirc; tả v&agrave; so s&aacute;nh những thay đổi đ&atilde; diễn ra trong cuộc sống.</p>",
+    "answerFeedbacks": {
+      "2372088": "<p>Phương &aacute;n n&agrave;y kh&ocirc;ng ph&ugrave; hợp v&igrave; n&oacute; chỉ đề cập đến th&aacute;ch thức được n&ecirc;u ở đoạn cuối, kh&ocirc;ng bao qu&aacute;t to&agrave;n bộ nội dung so s&aacute;nh cuộc sống xưa v&agrave; nay của b&agrave;i đọc.</p>",
+      "2372089": "Phương án này là đáp án đúng vì nó tóm tắt chính xác chủ đề chính của bài đọc, đó là so sánh cuộc sống ở Việt Nam trong quá khứ (\"then\") và hiện tại (\"now\").",
+      "2372090": "<p>Phương &aacute;n n&agrave;y kh&ocirc;ng ch&iacute;nh x&aacute;c v&igrave; b&agrave;i đọc cho thấy c&aacute;c gi&aacute; trị truyền thống vẫn c&ograve;n mạnh mẽ chứ kh&ocirc;ng bị thay thế ho&agrave;n to&agrave;n.</p>",
+      "2372091": "Phương án này quá hẹp vì nó chỉ tập trung vào sự thay đổi trong giao thông và liên lạc, vốn chỉ là hai trong số nhiều khía cạnh được thảo luận trong bài đọc."
+    },
+    "images": [],
+    "sourceExamId": 19146,
+    "sourceExamName": "Đề thi chính thức vào lớp 10 môn Anh trường THPT Chuyên KHXH & NV năm 2026",
+    "year": 2026
+  },
+  {
+    "id": "295_20",
+    "questionNumber": 29,
+    "questionName": "Question 20",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Why does the writer mention older generations' stories in paragraph 1?</strong></p>",
+    "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<div style=\"text-align: justify;\">\n<p>Vietnam has changed quickly over the past few decades. Today, daily life is very different from the past. For many young people, stories from their parents or grandparents may feel like scenes from another world. Yet these changes are not only about technology or money. They also show how values, habits, and expectations have changed over time.</p>\n<p>In the past, most Vietnamese people lived in rural areas and worked as farmers. Some also worked as fishermen near rivers and coastal areas, while others were carpenters or craft workers in small villages. Life was slower and often followed the seasons. Families grew their own food, and meals were simple and fresh, based on local food. Because work and home were closely linked, family members spent more time together during the day. Neighbors also played an important role. They helped each other in work and daily life, which created a strong sense of community.</p>\n<p>Transportation and communication were limited, so people felt distance more strongly. Bicycles were the main form of travel, and long trips took time and effort. Letters were often the only way to stay in touch with relatives far away. As a result, when people met, they valued those moments more deeply. Conversations were often longer and more meaningful.</p>\n<p>Today, Vietnam is more urban and connected than ever before. Large cities continue to grow and offer more jobs and better education. However, this also creates a faster pace of life. Many young people have busy schedules, long working hours, and high expectations. Technology, especially smartphones, has made communication easier. But it has also changed how people interact. Online messages are quick and easy, yet <strong>they</strong> sometimes replace face-to-face contact.</p>\n<p>People also see differences in what they eat. Traditional meals are still important at home and during special occasions. But modern life has increased the need for fast and convenient food. Eating out or having takeaways is now common, particularly for students and office workers.</p>\n<p>Even with these changes, some core values remain strong. Family ties still shape decisions and cultural traditions are still respected. Festivals such as Tet are not only holidays but also important times for reflection and connection.</p>\n<p>Vietnamese lifestyle has moved from simple and local to fast and global. For young people today, the <strong>challenge</strong> is to balance modern opportunities with traditional values. They try to create a way of life that respects the past while adapting to the future.</p>\n</div>",
+    "parentQuestionId": 1225474,
+    "choices": [
+      {
+        "id": 2372092,
+        "label": "A",
+        "text": "To describe changes in Vietnamese way of life over time",
+        "isCorrect": false
+      },
+      {
+        "id": 2372093,
+        "label": "B",
+        "text": "To indicate how families share memories across generations",
+        "isCorrect": false
+      },
+      {
+        "id": 2372094,
+        "label": "C",
+        "text": "To show strong differences between past and present life",
+        "isCorrect": true
+      },
+      {
+        "id": 2372095,
+        "label": "D",
+        "text": "To explain how young people get to know their family histories",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 2372094,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Hãy đọc kỹ đoạn 1 và chú ý đến cụm từ tác giả dùng để miêu tả cảm giác của người trẻ khi nghe những câu chuyện từ thế hệ trước. Cụm từ “<em>scenes from another world</em>” gợi ý sự tương đồng hay một sự khác biệt lớn?</p>",
+    "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng ph&acirc;n t&iacute;ch chức năng của một chi tiết trong lập luận của t&aacute;c giả. Để trả lời, học sinh cần x&aacute;c định l&yacute; do tại sao t&aacute;c giả đề cập đến những c&acirc;u chuyện của c&aacute;c thế hệ cũ trong đoạn 1.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Đoạn 1 giới thiệu sự thay đổi trong lối sống ở Việt Nam. T&aacute;c giả n&ecirc;u rằng <strong>[[For many young people, stories from their parents or grandparents may feel like scenes from another world.]]</strong> (<em>Đối với nhiều người trẻ, những c&acirc;u chuyện từ cha mẹ hoặc &ocirc;ng b&agrave; của họ c&oacute; thể giống như những cảnh tượng từ một thế giới kh&aacute;c.</em>). Cụm từ <strong>\"scenes from another world\"</strong> nhấn mạnh một sự kh&aacute;c biệt rất lớn, một sự tương phản mạnh mẽ giữa cuộc sống trong qu&aacute; khứ được kể lại v&agrave; cuộc sống hiện tại m&agrave; những người trẻ đang trải qua. Do đ&oacute;, mục đ&iacute;ch của việc đề cập đến những c&acirc;u chuyện n&agrave;y l&agrave; để minh họa cho sự kh&aacute;c biệt s&acirc;u sắc đ&oacute;. Phương &aacute;n 3 diễn đạt ch&iacute;nh x&aacute;c &yacute; n&agrave;y.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 l&agrave; một lựa chọn dễ g&acirc;y nhầm lẫn v&igrave; n&oacute; l&agrave; &yacute; ch&iacute;nh của cả b&agrave;i đọc, nhưng c&acirc;u hỏi chỉ hỏi về chức năng của một chi tiết cụ thể trong đoạn 1.</p>",
+    "answerFeedbacks": {
+      "2372092": "Đây là mục đích chính của toàn bộ bài đọc, không phải lý do cụ thể để tác giả đề cập đến những câu chuyện trong đoạn đầu tiên.",
+      "2372093": "Bài đọc không tập trung vào quá trình chia sẻ ký ức mà vào nội dung của những câu chuyện và tác động của chúng.",
+      "2372094": "Thông tin trong bài “<em>stories from their parents or grandparents may feel like scenes from another world</em>” cho thấy những câu chuyện này nhấn mạnh sự khác biệt to lớn giữa quá khứ và hiện tại.",
+      "2372095": "Đây là một suy luận có thể xảy ra nhưng không phải là mục đích chính của tác giả; trọng tâm là sự tương phản, không phải phương pháp học hỏi lịch sử gia đình."
+    },
+    "images": [],
+    "sourceExamId": 19146,
+    "sourceExamName": "Đề thi chính thức vào lớp 10 môn Anh trường THPT Chuyên KHXH & NV năm 2026",
+    "year": 2026
+  }
+]

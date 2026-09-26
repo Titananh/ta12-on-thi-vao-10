@@ -84,14 +84,51 @@ export async function GET(request: Request) {
     } catch (e) {}
   }
 
-  // Load questions
-  const questionsPath = path.join(questionsDir, `${topicId}.json`);
-  let questions: any[] = [];
-  if (fs.existsSync(questionsPath)) {
+  // Load topic mapping if available
+  const mappingPath = path.join(dataDir, 'topic_mapping.json');
+  let topicMapping: Record<string, any> = {};
+  if (fs.existsSync(mappingPath)) {
     try {
-      const parsed = JSON.parse(fs.readFileSync(questionsPath, 'utf8'));
-      questions = Array.isArray(parsed) ? parsed : (parsed.questions || []);
+      topicMapping = JSON.parse(fs.readFileSync(mappingPath, 'utf8'));
     } catch (e) {}
+  }
+
+  // Load questions
+  let questions: any[] = [];
+  let theory: any = null;
+
+  // 1. Check topic mapping first
+  const mappingEntry = topicMapping[String(topicId)];
+  if (mappingEntry) {
+    if (mappingEntry.file) {
+      const mappedQPath = path.join(questionsDir, mappingEntry.file);
+      if (fs.existsSync(mappedQPath)) {
+        try {
+          const parsed = JSON.parse(fs.readFileSync(mappedQPath, 'utf8'));
+          questions = Array.isArray(parsed) ? parsed : (parsed.questions || []);
+          if (parsed.title) topicName = parsed.title;
+        } catch (e) {}
+      }
+    }
+    if (mappingEntry.theory) {
+      const mappedTPath = path.join(theoriesDir, mappingEntry.theory);
+      if (fs.existsSync(mappedTPath)) {
+        try {
+          theory = JSON.parse(fs.readFileSync(mappedTPath, 'utf8'));
+        } catch (e) {}
+      }
+    }
+  }
+
+  // 2. Direct question file lookup if not found in mapping
+  if (questions.length === 0) {
+    const questionsPath = path.join(questionsDir, `${topicId}.json`);
+    if (fs.existsSync(questionsPath)) {
+      try {
+        const parsed = JSON.parse(fs.readFileSync(questionsPath, 'utf8'));
+        questions = Array.isArray(parsed) ? parsed : (parsed.questions || []);
+      } catch (e) {}
+    }
   }
 
   // Check grammar subdirectory
@@ -118,7 +155,7 @@ export async function GET(request: Request) {
     }
   }
 
-  // Fallback to sample topic 68 if specific topic file not found
+  // Fallback to sample topic 68 for non-existent test IDs (e.g. 999999)
   if (questions.length === 0) {
     const fallbackPath = path.join(questionsDir, '68.json');
     if (fs.existsSync(fallbackPath)) {
@@ -128,30 +165,71 @@ export async function GET(request: Request) {
     }
   }
 
+  // Filter out unanswerable questions (e.g. empty matching shell cards, missing correct answers, needsManualReview)
+  const isAnswerable = (q: any) => {
+    if (q.needsManualReview) return false;
+    const hasChoices = Array.isArray(q.choices) && q.choices.length > 0;
+    const hasFB = (Array.isArray(q.fillblankAnswers) && q.fillblankAnswers.length > 0) ||
+      (typeof q.questionText === 'string' && (q.questionText.includes('fillblank-option') || q.questionText.includes('<input') || q.questionText.includes('<select')));
+    const hasShort = Array.isArray(q.shortAnswers) && q.shortAnswers.length > 0;
+    if (!hasChoices && !hasFB && !hasShort) return false;
+    if (hasChoices && !hasFB && !hasShort) {
+      const hasCorrectChoice = q.choices.some((c: any) => c.isCorrect);
+      const hasCorrectId = Boolean(q.correctChoiceId && q.choices.some((c: any) => String(c.id) === String(q.correctChoiceId)));
+      if (!hasCorrectChoice && !hasCorrectId) return false;
+    }
+    return true;
+  };
+
+  const filteredQuestions = questions.filter(isAnswerable);
+  if (filteredQuestions.length > 0) {
+    questions = filteredQuestions;
+  }
+
   // Apply count limit if requested
   if (count && questions.length > count) {
     questions = questions.slice(0, count);
   }
 
-  // Load theory
-  const theoryPath = path.join(theoriesDir, `${topicId}.json`);
-  let theory = null;
-  if (fs.existsSync(theoryPath)) {
-    try {
-      theory = JSON.parse(fs.readFileSync(theoryPath, 'utf8'));
-    } catch (e) {}
-  } else {
-    const grammarTheoryPath = path.join(theoriesDir, 'grammar', `grammar_${topicId}.json`);
-    const vocabTheoryPath = path.join(theoriesDir, 'vocabulary', `vocab_${topicId}.json`);
-    if (fs.existsSync(grammarTheoryPath)) {
+  // Load theory if not already loaded
+  if (!theory) {
+    const theoryPath = path.join(theoriesDir, `${topicId}.json`);
+    if (fs.existsSync(theoryPath)) {
       try {
-        theory = JSON.parse(fs.readFileSync(grammarTheoryPath, 'utf8'));
+        theory = JSON.parse(fs.readFileSync(theoryPath, 'utf8'));
       } catch (e) {}
-    } else if (fs.existsSync(vocabTheoryPath)) {
-      try {
-        theory = JSON.parse(fs.readFileSync(vocabTheoryPath, 'utf8'));
-      } catch (e) {}
+    } else {
+      const grammarTheoryPath = path.join(theoriesDir, 'grammar', `grammar_${topicId}.json`);
+      const vocabTheoryPath = path.join(theoriesDir, 'vocabulary', `vocab_${topicId}.json`);
+      if (fs.existsSync(grammarTheoryPath)) {
+        try {
+          theory = JSON.parse(fs.readFileSync(grammarTheoryPath, 'utf8'));
+        } catch (e) {}
+      } else if (fs.existsSync(vocabTheoryPath)) {
+        try {
+          theory = JSON.parse(fs.readFileSync(vocabTheoryPath, 'utf8'));
+        } catch (e) {}
+      }
     }
+  }
+
+  // Format lesson details into HTML if theory contains lessons array
+  if (theory && theory.lessons && !theory.detail) {
+    theory.detail = theory.lessons.map((l: any) => l.contentHtml).filter(Boolean).join('<hr class="my-4"/>');
+  }
+
+  // Check curated grammar theories for high-fidelity content
+  const curatedPath = path.join(dataDir, 'curated_grammar_theories.json');
+  if (fs.existsSync(curatedPath)) {
+    try {
+      const curated = JSON.parse(fs.readFileSync(curatedPath, 'utf8'));
+      if (curated[topicName]) {
+        if (!theory) {
+          theory = { topicId: Number(topicId) || 0, topicName, englishName };
+        }
+        theory.detail = curated[topicName];
+      }
+    } catch (e) {}
   }
 
   if (!theory) {
@@ -167,6 +245,16 @@ export async function GET(request: Request) {
         }
       ]
     };
+  }
+
+  if (theory && (!Array.isArray(theory.rules) || theory.rules.length === 0)) {
+    theory.rules = [
+      {
+        rule: `Nắm vững các cấu trúc câu và quy tắc của chuyên đề ${topicName}.`,
+        formula: 'Quy tắc trọng tâm thi tuyển sinh vào 10 Hà Nội',
+        examples: 'Luyện tập thường xuyên với các dạng câu hỏi chuẩn TA12.'
+      }
+    ];
   }
 
   return NextResponse.json({

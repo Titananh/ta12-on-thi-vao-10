@@ -1,0 +1,902 @@
+[
+  {
+    "id": "66_1",
+    "questionNumber": 14,
+    "questionName": "Question 1",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong><span class=\"markedContent\" id=\"page28R_mcid44\"><span dir=\"ltr\" role=\"presentation\">What is true about Mercury but not true about the moon or Mars?</span></span></strong></p>",
+    "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\"><span class=\"answerhighlight q5\">There is one planet that still fascinates and teases scientists mainly because it doesn&#8217;t have an atmosphere to obscure observation, yet it is not big enough for sufficiently accurate telescopic observation.</span></span> The fact that it is also very close to the sun also makes it difficult for astronomers.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">However, space telescopes have told us a lot more about Mercury.</span> It is rather similar to Earth&#8217;s moon and to Mars. There are mountainous areas dotted with craters and large valleys which are uncratered. The moon&#8217;s valleys have fewer cracks and ridges are smoother. <span class=\"answerhighlight q1\">Mercury&#8217;s valleys are filled with volcanic rocks, similar to on the moon, yet there is no evidence of volcanoes, even extinct ones, on Mercury, as there is on the both Mars and the moon, and of course here on Earth.</span></p>\n<p style=\"text-align: justify;\">So, scientists presume the valleys on Mercury were caused by different things, that is to say not by volcanoes, but by very large meteorites, which also caused the cracks in the terrain and left the ridges rough and uneven. <span class=\"answerhighlight q4\">More and better photos of Mercury are needed to prove what are at present at best only hypotheses.</span></p>",
+    "parentQuestionId": 760092,
+    "choices": [
+      {
+        "id": 1463993,
+        "label": "A",
+        "text": "The valleys are filled with volcanic rocks.",
+        "isCorrect": false
+      },
+      {
+        "id": 1463994,
+        "label": "B",
+        "text": "There are no volcanoes.",
+        "isCorrect": true
+      },
+      {
+        "id": 1463995,
+        "label": "C",
+        "text": "There are hilly regions.",
+        "isCorrect": false
+      },
+      {
+        "id": 1463996,
+        "label": "D",
+        "text": "The valleys are uncratered.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1463994,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p>C&aacute;c thung lũng của sao Thủy được lấp đầy bằng đ&aacute; n&uacute;i lửa, tương tự như tr&ecirc;n mặt trăng. Tuy nhi&ecirc;n, kh&ocirc;ng c&oacute; bằng chứng n&agrave;o về n&uacute;i lửa, kể cả những n&uacute;i lửa đ&atilde; tắt tr&ecirc;n sao Thủy, trong khi tr&ecirc;n cả sao Hỏa v&agrave; mặt trăng, v&agrave; tất nhi&ecirc;n l&agrave; cả tr&ecirc;n Tr&aacute;i Đất đều c&oacute; (n&uacute;i lửa).</p>\n<p>=&gt; Mặt trăng v&agrave; sao Hỏa c&oacute; n&uacute;i lửa c&ograve;n sao Thủy kh&ocirc;ng c&oacute; (chỉ c&oacute; đ&aacute; n&uacute;i lửa).&nbsp;</p>\n<p>=&gt; Th&ocirc;ng tin đ&uacute;ng về sao Thủy nhưng kh&ocirc;ng đ&uacute;ng về mặt trăng v&agrave; sao Hỏa l&agrave; kh&ocirc;ng c&oacute; n&uacute;i lửa.&nbsp;</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14192,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hà Đông năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_2",
+    "questionNumber": 15,
+    "questionName": "Question 2",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong><span class=\"markedContent\" id=\"page28R_mcid49\"><span dir=\"ltr\" role=\"presentation\">What is the main topic of this passage?</span></span></strong></p>",
+    "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\"><span class=\"answerhighlight q5\">There is one planet that still fascinates and teases scientists mainly because it doesn&#8217;t have an atmosphere to obscure observation, yet it is not big enough for sufficiently accurate telescopic observation.</span></span> The fact that it is also very close to the sun also makes it difficult for astronomers.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">However, space telescopes have told us a lot more about Mercury.</span> It is rather similar to Earth&#8217;s moon and to Mars. There are mountainous areas dotted with craters and large valleys which are uncratered. The moon&#8217;s valleys have fewer cracks and ridges are smoother. <span class=\"answerhighlight q1\">Mercury&#8217;s valleys are filled with volcanic rocks, similar to on the moon, yet there is no evidence of volcanoes, even extinct ones, on Mercury, as there is on the both Mars and the moon, and of course here on Earth.</span></p>\n<p style=\"text-align: justify;\">So, scientists presume the valleys on Mercury were caused by different things, that is to say not by volcanoes, but by very large meteorites, which also caused the cracks in the terrain and left the ridges rough and uneven. <span class=\"answerhighlight q4\">More and better photos of Mercury are needed to prove what are at present at best only hypotheses.</span></p>",
+    "parentQuestionId": 760092,
+    "choices": [
+      {
+        "id": 1464001,
+        "label": "A",
+        "text": "The planet, Mercury",
+        "isCorrect": true
+      },
+      {
+        "id": 1464002,
+        "label": "B",
+        "text": "The Earth’s moon",
+        "isCorrect": false
+      },
+      {
+        "id": 1464003,
+        "label": "C",
+        "text": "Observation of planets",
+        "isCorrect": false
+      },
+      {
+        "id": 1464004,
+        "label": "D",
+        "text": "Astronomers’ difficulties",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1464001,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p>&Yacute; ch&iacute;nh của c&aacute;c đoạn trong b&agrave;i:&nbsp;</p>\n<p>- Đoạn 1 n&oacute;i về một h&agrave;nh tinh m&agrave; c&aacute;c nh&agrave; khoa học đang gặp kh&oacute; khăn trong việc t&igrave;m hiểu từ tr&aacute;i đất.</p>\n<p>- Đoạn 2 n&oacute;i về những đặc điểm địa h&igrave;nh tr&ecirc;n sao Thủy được ghi lại từ k&iacute;nh viễn vọng kh&ocirc;ng gian.&nbsp;</p>\n<p>- Đoạn 3 n&oacute;i về những giả thiết (thuyết) về sao Thuỷ v&agrave; sự cần thiết của c&aacute;c bức ảnh kh&aacute;c để chứng minh ch&uacute;ng.</p>\n<p>=&gt; Nội dung ch&iacute;nh của b&agrave;i đọc n&oacute;i về h&agrave;nh tinh sao Thủy.&nbsp;</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14192,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hà Đông năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_3",
+    "questionNumber": 16,
+    "questionName": "Question 3",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong><span class=\"markedContent\" id=\"page28R_mcid52\"><span dir=\"ltr\" role=\"presentation\">What does the author imply space telescopes can do better than land-based telescopes?</span></span></strong></p>",
+    "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\"><span class=\"answerhighlight q5\">There is one planet that still fascinates and teases scientists mainly because it doesn&#8217;t have an atmosphere to obscure observation, yet it is not big enough for sufficiently accurate telescopic observation.</span></span> The fact that it is also very close to the sun also makes it difficult for astronomers.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">However, space telescopes have told us a lot more about Mercury.</span> It is rather similar to Earth&#8217;s moon and to Mars. There are mountainous areas dotted with craters and large valleys which are uncratered. The moon&#8217;s valleys have fewer cracks and ridges are smoother. <span class=\"answerhighlight q1\">Mercury&#8217;s valleys are filled with volcanic rocks, similar to on the moon, yet there is no evidence of volcanoes, even extinct ones, on Mercury, as there is on the both Mars and the moon, and of course here on Earth.</span></p>\n<p style=\"text-align: justify;\">So, scientists presume the valleys on Mercury were caused by different things, that is to say not by volcanoes, but by very large meteorites, which also caused the cracks in the terrain and left the ridges rough and uneven. <span class=\"answerhighlight q4\">More and better photos of Mercury are needed to prove what are at present at best only hypotheses.</span></p>",
+    "parentQuestionId": 760092,
+    "choices": [
+      {
+        "id": 1464009,
+        "label": "A",
+        "text": "Show the meteorites which hit Mercury",
+        "isCorrect": false
+      },
+      {
+        "id": 1464010,
+        "label": "B",
+        "text": "Show more of the planet, Mercury",
+        "isCorrect": true
+      },
+      {
+        "id": 1464011,
+        "label": "C",
+        "text": "Show the volcanoes on Mercury",
+        "isCorrect": false
+      },
+      {
+        "id": 1464012,
+        "label": "D",
+        "text": "Show what caused Mercury’s valleys",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1464010,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p>C&oacute; một h&agrave;nh tinh vẫn m&ecirc; hoặc v&agrave; tr&ecirc;u chọc c&aacute;c nh&agrave; khoa học chủ yếu v&igrave; n&oacute; kh&ocirc;ng c&oacute; bầu kh&iacute; quyển che khuất tầm quan s&aacute;t, nhưng n&oacute; kh&ocirc;ng đủ lớn để quan s&aacute;t một c&aacute;ch đủ ch&iacute;nh x&aacute;c bằng k&iacute;nh thi&ecirc;n văn. [...] Tuy nhi&ecirc;n, k&iacute;nh viễn vọng kh&ocirc;ng gian đ&atilde; cho ch&uacute;ng ta biết nhiều điều hơn về Sao Thủy.</p>\n<p>=&gt; T&aacute;c giả ngụ &yacute; rằng k&iacute;nh viễn vọng kh&ocirc;ng gian c&oacute; thể cho biết nhiều hơn về sao Thủy so với k&iacute;nh thi&ecirc;n văn tr&ecirc;n mặt đất (v&igrave; n&oacute; ở gần hơn).&nbsp;</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14192,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hà Đông năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_4",
+    "questionNumber": 17,
+    "questionName": "Question 4",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong><span dir=\"ltr\" role=\"presentation\">What can we infer from the passage that astronomers still need to get more detailed </span><span dir=\"ltr\" role=\"presentation\">observation of Mercury?</span></strong></p>",
+    "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\"><span class=\"answerhighlight q5\">There is one planet that still fascinates and teases scientists mainly because it doesn&#8217;t have an atmosphere to obscure observation, yet it is not big enough for sufficiently accurate telescopic observation.</span></span> The fact that it is also very close to the sun also makes it difficult for astronomers.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">However, space telescopes have told us a lot more about Mercury.</span> It is rather similar to Earth&#8217;s moon and to Mars. There are mountainous areas dotted with craters and large valleys which are uncratered. The moon&#8217;s valleys have fewer cracks and ridges are smoother. <span class=\"answerhighlight q1\">Mercury&#8217;s valleys are filled with volcanic rocks, similar to on the moon, yet there is no evidence of volcanoes, even extinct ones, on Mercury, as there is on the both Mars and the moon, and of course here on Earth.</span></p>\n<p style=\"text-align: justify;\">So, scientists presume the valleys on Mercury were caused by different things, that is to say not by volcanoes, but by very large meteorites, which also caused the cracks in the terrain and left the ridges rough and uneven. <span class=\"answerhighlight q4\">More and better photos of Mercury are needed to prove what are at present at best only hypotheses.</span></p>",
+    "parentQuestionId": 760092,
+    "choices": [
+      {
+        "id": 1464017,
+        "label": "A",
+        "text": "More ways to prove hypotheses",
+        "isCorrect": false
+      },
+      {
+        "id": 1464018,
+        "label": "B",
+        "text": "More hypotheses",
+        "isCorrect": false
+      },
+      {
+        "id": 1464019,
+        "label": "C",
+        "text": "Larger space telescopes",
+        "isCorrect": false
+      },
+      {
+        "id": 1464020,
+        "label": "D",
+        "text": "Better and more space telescopes",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 1464020,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p>Cần ng&agrave;y c&agrave;ng nhiều ảnh hơn v&agrave; chất lượng tốt hơn về Sao Thủy để chứng minh những g&igrave; hiện tại tốt nhất chỉ l&agrave; giả thuyết.</p>\n<p>=&gt; C&aacute;c nh&agrave; thi&ecirc;n văn học cần c&aacute;c k&iacute;nh viễn vọng kh&ocirc;ng gian tốt hơn để quan s&aacute;t chi tiết hơn về Sao Thủy (v&igrave; để c&oacute; ảnh chất lượng tốt hơn th&igrave; cần k&iacute;nh viễn vọng kh&ocirc;ng gian tốt hơn).</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14192,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hà Đông năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_5",
+    "questionNumber": 18,
+    "questionName": "Question 5",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong><span class=\"markedContent\" id=\"page28R_mcid60\"><span dir=\"ltr\" role=\"presentation\">Why does Mercury still tease scientists?</span></span></strong></p>",
+    "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\"><span class=\"answerhighlight q5\">There is one planet that still fascinates and teases scientists mainly because it doesn&#8217;t have an atmosphere to obscure observation, yet it is not big enough for sufficiently accurate telescopic observation.</span></span> The fact that it is also very close to the sun also makes it difficult for astronomers.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q3\">However, space telescopes have told us a lot more about Mercury.</span> It is rather similar to Earth&#8217;s moon and to Mars. There are mountainous areas dotted with craters and large valleys which are uncratered. The moon&#8217;s valleys have fewer cracks and ridges are smoother. <span class=\"answerhighlight q1\">Mercury&#8217;s valleys are filled with volcanic rocks, similar to on the moon, yet there is no evidence of volcanoes, even extinct ones, on Mercury, as there is on the both Mars and the moon, and of course here on Earth.</span></p>\n<p style=\"text-align: justify;\">So, scientists presume the valleys on Mercury were caused by different things, that is to say not by volcanoes, but by very large meteorites, which also caused the cracks in the terrain and left the ridges rough and uneven. <span class=\"answerhighlight q4\">More and better photos of Mercury are needed to prove what are at present at best only hypotheses.</span></p>",
+    "parentQuestionId": 760092,
+    "choices": [
+      {
+        "id": 1464025,
+        "label": "A",
+        "text": "Because it is too close to the sun.",
+        "isCorrect": false
+      },
+      {
+        "id": 1464026,
+        "label": "B",
+        "text": "Because it is difficult for space probes to get close to.",
+        "isCorrect": false
+      },
+      {
+        "id": 1464027,
+        "label": "C",
+        "text": "Because it is too small.",
+        "isCorrect": true
+      },
+      {
+        "id": 1464028,
+        "label": "D",
+        "text": "Because it has an atmosphere which obscures observation.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1464027,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p>C&oacute; một h&agrave;nh tinh vẫn m&ecirc; hoặc v&agrave; tr&ecirc;u chọc c&aacute;c nh&agrave; khoa học chủ yếu v&igrave; n&oacute; kh&ocirc;ng c&oacute; bầu kh&iacute; quyển che khuất tầm quan s&aacute;t, nhưng n&oacute; kh&ocirc;ng đủ lớn để quan s&aacute;t một c&aacute;ch đủ ch&iacute;nh x&aacute;c bằng k&iacute;nh thi&ecirc;n văn.</p>\n<p>=&gt; Sao Thủy vẫn tr&ecirc;u chọc c&aacute;c nh&agrave; khoa học bởi v&igrave; n&oacute; qu&aacute; nhỏ.&nbsp;</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14192,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hà Đông năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_6",
+    "questionNumber": 30,
+    "questionName": "Question 6",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>The passage is mainly about _____.</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">English is one of the most popular languages in the world. It comes second in the number of speakers after Chinese. <span class=\"answerhighlight q4\">In Vietnam, more and more people are studying English and they consider it a key to success.</span> However, not everyone knows how to learn English effectively.&nbsp;</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q5\">The best way to improve the four skills: speaking, listening, reading, and writing is to practice regularly.</span> You should make use of every opportunity to speak English with friends in class or at English speaking clubs or ourselves in front of the mirror. Learning by heart all the words does not help much if you do not read a lot because you will easily forget what you have learnt. <span class=\"answerhighlight q2\">Reading books, listening to the radio and watching films are better ways to&nbsp;<strong><span style=\"text-decoration: underline;\">memorize</span></strong> words. </span>Besides, English learners should not be so shy because making mistakes is unavoidable in learning foreign languages. <span class=\"answerhighlight q3\">Practicing speaking a lot is a good way to correct your mistakes.</span></p>",
+    "parentQuestionId": 760467,
+    "choices": [
+      {
+        "id": 1464659,
+        "label": "A",
+        "text": "<p>how to learn English effectively</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1464660,
+        "label": "B",
+        "text": "<p>how to read books, listen to radio and watch films</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1464661,
+        "label": "C",
+        "text": "<p>the importance of English</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1464662,
+        "label": "D",
+        "text": "<p>people who study English in Vietnam&nbsp;</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1464659,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p>Nội dung ch&iacute;nh của từng đoạn văn:</p>\n<p>Đoạn 1: Sự phổ biến của tiếng anh v&agrave; vấn đề nhiều người chưa biết c&aacute;ch học hiệu quả.</p>\n<p>Đoạn 2: C&aacute;c c&aacute;ch học tiếng anh hiệu quả.</p>\n<p>=&gt; Văn bản chủ yếu b&agrave;n về: C&aacute;ch để học tiếng anh hiệu quả.</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14195,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hai Bà Trưng năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_7",
+    "questionNumber": 32,
+    "questionName": "Question 7",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>A good way to correct your mistake is _____.</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">English is one of the most popular languages in the world. It comes second in the number of speakers after Chinese. <span class=\"answerhighlight q4\">In Vietnam, more and more people are studying English and they consider it a key to success.</span> However, not everyone knows how to learn English effectively.&nbsp;</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q5\">The best way to improve the four skills: speaking, listening, reading, and writing is to practice regularly.</span> You should make use of every opportunity to speak English with friends in class or at English speaking clubs or ourselves in front of the mirror. Learning by heart all the words does not help much if you do not read a lot because you will easily forget what you have learnt. <span class=\"answerhighlight q2\">Reading books, listening to the radio and watching films are better ways to&nbsp;<strong><span style=\"text-decoration: underline;\">memorize</span></strong> words. </span>Besides, English learners should not be so shy because making mistakes is unavoidable in learning foreign languages. <span class=\"answerhighlight q3\">Practicing speaking a lot is a good way to correct your mistakes.</span></p>",
+    "parentQuestionId": 760467,
+    "choices": [
+      {
+        "id": 1464677,
+        "label": "A",
+        "text": "<p>practicing speaking English a lot</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1464678,
+        "label": "B",
+        "text": "<p>avoiding speaking English</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1464679,
+        "label": "C",
+        "text": "<p>stopping learning English</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1464680,
+        "label": "D",
+        "text": "stopping speaking when making mistakes",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1464677,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p>Luyện n&oacute;i nhiều l&agrave; một c&aacute;ch tốt để sửa lỗi của bạn.</p>\n<p>=&gt; Một c&aacute;ch tốt để sửa lỗi của bạn l&agrave; luyện n&oacute;i tiếng Anh nhiều.</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14195,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hai Bà Trưng năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_8",
+    "questionNumber": 33,
+    "questionName": "Question 8",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>According to the passage, which of the following statements is TRUE?</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">English is one of the most popular languages in the world. It comes second in the number of speakers after Chinese. <span class=\"answerhighlight q4\">In Vietnam, more and more people are studying English and they consider it a key to success.</span> However, not everyone knows how to learn English effectively.&nbsp;</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q5\">The best way to improve the four skills: speaking, listening, reading, and writing is to practice regularly.</span> You should make use of every opportunity to speak English with friends in class or at English speaking clubs or ourselves in front of the mirror. Learning by heart all the words does not help much if you do not read a lot because you will easily forget what you have learnt. <span class=\"answerhighlight q2\">Reading books, listening to the radio and watching films are better ways to&nbsp;<strong><span style=\"text-decoration: underline;\">memorize</span></strong> words. </span>Besides, English learners should not be so shy because making mistakes is unavoidable in learning foreign languages. <span class=\"answerhighlight q3\">Practicing speaking a lot is a good way to correct your mistakes.</span></p>",
+    "parentQuestionId": 760467,
+    "choices": [
+      {
+        "id": 1464681,
+        "label": "A",
+        "text": "<p>Many Vietnamese people consider English a key to success.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 1464682,
+        "label": "B",
+        "text": "<p>Practicing speaking English is not necessary.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1464683,
+        "label": "C",
+        "text": "<p>You should never speak English with yourselves.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1464684,
+        "label": "D",
+        "text": "<p>English learners should be shy if they make mistakes.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1464681,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p>Tại Việt Nam, ng&agrave;y c&agrave;ng c&oacute; nhiều người học tiếng Anh v&agrave; họ coi đ&oacute; l&agrave; ch&igrave;a kh&oacute;a để th&agrave;nh c&ocirc;ng.</p>\n<p>=&gt; Nhiều người Việt Nam coi tiếng Anh l&agrave; ch&igrave;a kh&oacute;a để th&agrave;nh c&ocirc;ng.</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14195,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hai Bà Trưng năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_9",
+    "questionNumber": 34,
+    "questionName": "Question 9",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>The best way to improve speaking, listening, reading, and writing skills is _____.</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">English is one of the most popular languages in the world. It comes second in the number of speakers after Chinese. <span class=\"answerhighlight q4\">In Vietnam, more and more people are studying English and they consider it a key to success.</span> However, not everyone knows how to learn English effectively.&nbsp;</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q5\">The best way to improve the four skills: speaking, listening, reading, and writing is to practice regularly.</span> You should make use of every opportunity to speak English with friends in class or at English speaking clubs or ourselves in front of the mirror. Learning by heart all the words does not help much if you do not read a lot because you will easily forget what you have learnt. <span class=\"answerhighlight q2\">Reading books, listening to the radio and watching films are better ways to&nbsp;<strong><span style=\"text-decoration: underline;\">memorize</span></strong> words. </span>Besides, English learners should not be so shy because making mistakes is unavoidable in learning foreign languages. <span class=\"answerhighlight q3\">Practicing speaking a lot is a good way to correct your mistakes.</span></p>",
+    "parentQuestionId": 760467,
+    "choices": [
+      {
+        "id": 1464685,
+        "label": "A",
+        "text": "<p>speaking in English class</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1464686,
+        "label": "B",
+        "text": "<p>reading and speaking English</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1464687,
+        "label": "C",
+        "text": "<p>listening regularly</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 1464688,
+        "label": "D",
+        "text": "<p>practicing English regularly</p>",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 1464688,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p>C&aacute;ch tốt nhất để cải thiện bốn kỹ năng: n&oacute;i, nghe, đọc v&agrave; viết l&agrave; luyện tập thường xuy&ecirc;n.</p>\n<p>=&gt; C&aacute;ch tốt nhất để cải thiện bốn kỹ năng n&oacute;i, nghe, đọc v&agrave; viết l&agrave; luyện tập tiếng Anh thường xuy&ecirc;n.</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14195,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Hai Bà Trưng năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_10",
+    "questionNumber": 23,
+    "questionName": "Question 10",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>What is one of the most urgent environmental problems in the world today as stated in the passage?&nbsp;</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q1\">One of the most urgent environmental problems in the world today is the shortage of clean water.</span> Having clean drinking water is a basic human right. <span class=\"answerhighlight q2\">However, acid rain, industrial pollution and garbage have made many sources of water undrinkable.</span><span class=\"answerhighlight q3\"> Lakes, reservoirs and even entire seas have become vast pools of poison.</span> <span class=\"answerhighlight q3\">Lake Baikal in Russia is one of the largest lakes in the world. It contains a rich variety of animals and plants</span>, <span class=\"answerhighlight q3\">including 1,300 rare species that do not exist anywhere else in the world.</span> <span class=\"answerhighlight q4\">Yet, they are being destroyed by the massive volumes of industrial <strong>effluent </strong>which pour into the lake every day.</span> <span class=\"answerhighlight q5\">Even though laws have been made, the governments do not have the power to enforce <strong>them</strong>.</span> <span class=\"answerhighlight q3\">Most industries simply ignore the regulations.</span> The Mediterranean Sea occupies 1% of the world's water surface, but it is the dumping ground for 50% of all marine pollution. Almost 16 countries regularly dump industrial waste a few miles offshore.&nbsp;</p>\n<p style=\"text-align: justify;\">Clean water is now scarce, and we are at last beginning to respect this precious resource. We should do something now.&nbsp;</p>",
+    "parentQuestionId": 761712,
+    "choices": [
+      {
+        "id": 1466875,
+        "label": "A",
+        "text": "Air pollution",
+        "isCorrect": false
+      },
+      {
+        "id": 1466876,
+        "label": "B",
+        "text": "Deforestation",
+        "isCorrect": false
+      },
+      {
+        "id": 1466877,
+        "label": "C",
+        "text": "Clean water shortage",
+        "isCorrect": true
+      },
+      {
+        "id": 1466878,
+        "label": "D",
+        "text": "Soil erosion",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1466877,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p style=\"text-align: justify;\">Một trong những vấn đề m&ocirc;i trường cấp b&aacute;ch nhất hiện nay tr&ecirc;n thế giới l&agrave; t&igrave;nh trạng thiếu nước sạch.</p>\n<p style=\"text-align: justify;\">=&gt; Theo b&agrave;i viết, thiếu nước sạch l&agrave; một trong những vấn đề m&ocirc;i trường cấp b&aacute;ch nhất tr&ecirc;n thế giới hiện nay.</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14235,
+    "sourceExamName": "Đề thi minh họa môn Tiếng Anh vào 10 Sở GD&ĐT Hà Nội năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_11",
+    "questionNumber": 24,
+    "questionName": "Question 11",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>According to the passage, what has made many sources of water undrinkable?&nbsp;</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q1\">One of the most urgent environmental problems in the world today is the shortage of clean water.</span> Having clean drinking water is a basic human right. <span class=\"answerhighlight q2\">However, acid rain, industrial pollution and garbage have made many sources of water undrinkable.</span><span class=\"answerhighlight q3\"> Lakes, reservoirs and even entire seas have become vast pools of poison.</span> <span class=\"answerhighlight q3\">Lake Baikal in Russia is one of the largest lakes in the world. It contains a rich variety of animals and plants</span>, <span class=\"answerhighlight q3\">including 1,300 rare species that do not exist anywhere else in the world.</span> <span class=\"answerhighlight q4\">Yet, they are being destroyed by the massive volumes of industrial <strong>effluent </strong>which pour into the lake every day.</span> <span class=\"answerhighlight q5\">Even though laws have been made, the governments do not have the power to enforce <strong>them</strong>.</span> <span class=\"answerhighlight q3\">Most industries simply ignore the regulations.</span> The Mediterranean Sea occupies 1% of the world's water surface, but it is the dumping ground for 50% of all marine pollution. Almost 16 countries regularly dump industrial waste a few miles offshore.&nbsp;</p>\n<p style=\"text-align: justify;\">Clean water is now scarce, and we are at last beginning to respect this precious resource. We should do something now.&nbsp;</p>",
+    "parentQuestionId": 761712,
+    "choices": [
+      {
+        "id": 1466879,
+        "label": "A",
+        "text": "Acid rain",
+        "isCorrect": false
+      },
+      {
+        "id": 1466880,
+        "label": "B",
+        "text": "Industrial pollution",
+        "isCorrect": false
+      },
+      {
+        "id": 1466881,
+        "label": "C",
+        "text": "Garbage",
+        "isCorrect": false
+      },
+      {
+        "id": 1466882,
+        "label": "D",
+        "text": "All of the above",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 1466882,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p style=\"text-align: justify;\">Tuy nhi&ecirc;n, mưa axit, &ocirc; nhiễm c&ocirc;ng nghiệp v&agrave; r&aacute;c thải đ&atilde; khiến nhiều nguồn nước kh&ocirc;ng thể uống được.</p>\n<p style=\"text-align: justify;\">=&gt; Theo b&agrave;i viết, cả ba yếu tố mưa axit, &ocirc; nhiễm c&ocirc;ng nghiệp v&agrave; r&aacute;c thải đều khiến nhiều nguồn nước kh&ocirc;ng thể uống được.</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14235,
+    "sourceExamName": "Đề thi minh họa môn Tiếng Anh vào 10 Sở GD&ĐT Hà Nội năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_12",
+    "questionNumber": 25,
+    "questionName": "Question 12",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Which sentence is NOT TRUE according to the passage?&nbsp;</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q1\">One of the most urgent environmental problems in the world today is the shortage of clean water.</span> Having clean drinking water is a basic human right. <span class=\"answerhighlight q2\">However, acid rain, industrial pollution and garbage have made many sources of water undrinkable.</span><span class=\"answerhighlight q3\"> Lakes, reservoirs and even entire seas have become vast pools of poison.</span> <span class=\"answerhighlight q3\">Lake Baikal in Russia is one of the largest lakes in the world. It contains a rich variety of animals and plants</span>, <span class=\"answerhighlight q3\">including 1,300 rare species that do not exist anywhere else in the world.</span> <span class=\"answerhighlight q4\">Yet, they are being destroyed by the massive volumes of industrial <strong>effluent </strong>which pour into the lake every day.</span> <span class=\"answerhighlight q5\">Even though laws have been made, the governments do not have the power to enforce <strong>them</strong>.</span> <span class=\"answerhighlight q3\">Most industries simply ignore the regulations.</span> The Mediterranean Sea occupies 1% of the world's water surface, but it is the dumping ground for 50% of all marine pollution. Almost 16 countries regularly dump industrial waste a few miles offshore.&nbsp;</p>\n<p style=\"text-align: justify;\">Clean water is now scarce, and we are at last beginning to respect this precious resource. We should do something now.&nbsp;</p>",
+    "parentQuestionId": 761712,
+    "choices": [
+      {
+        "id": 1466883,
+        "label": "A",
+        "text": "Lake Baikal contains a rich variety of animals and plants.",
+        "isCorrect": false
+      },
+      {
+        "id": 1466884,
+        "label": "B",
+        "text": "Most industries ignore the regulations.",
+        "isCorrect": false
+      },
+      {
+        "id": 1466885,
+        "label": "C",
+        "text": "Lakes, reservoirs and even entire seas have become vast pools of poison.",
+        "isCorrect": false
+      },
+      {
+        "id": 1466886,
+        "label": "D",
+        "text": "Lake Baikal contains 1,300 rare species that are available somewhere else in the world.",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 1466886,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p style=\"text-align: justify;\">Th&ocirc;ng tin kh&ocirc;ng đ&uacute;ng với nội dung b&agrave;i đọc l&agrave;: Hồ Baikal chứa 1.300 lo&agrave;i qu&yacute; hiếm <strong>tồn tại ở nơi kh&aacute;c tr&ecirc;n thế giới</strong>.</p>\n<p style=\"text-align: justify;\">Th&ocirc;ng tin trong phần highlight số 3: [...] &nbsp;trong đ&oacute; c&oacute; 1.300 lo&agrave;i qu&yacute; hiếm <strong>kh&ocirc;ng tồn tại ở bất kỳ nơi n&agrave;o kh&aacute;c tr&ecirc;n thế giới</strong>.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n kh&aacute;c đều được nhắc tới trong b&agrave;i:</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1: Hồ Baikal chứa nhiều loại động vật v&agrave; thực vật phong ph&uacute;. ~ Th&ocirc;ng tin trong phần highlight số 2: Hồ Baikal ở Nga l&agrave; một trong những hồ lớn nhất thế giới. N&oacute; chứa nhiều loại động vật v&agrave; thực vật phong ph&uacute; [...]</p>\n<p style=\"text-align: justify;\">Phương &aacute;n&nbsp; 2: Hầu hết c&aacute;c ng&agrave;nh c&ocirc;ng nghiệp phớt lờ c&aacute;c quy định. ~ Th&ocirc;ng tin trong phần highlight số 4: Hầu hết c&aacute;c ng&agrave;nh c&ocirc;ng nghiệp đều phớt lờ c&aacute;c quy định.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 3: C&aacute;c hồ, hồ chứa v&agrave; thậm ch&iacute; to&agrave;n bộ v&ugrave;ng biển đ&atilde; trở th&agrave;nh những vũng chất độc khổng lồ. ~ Th&ocirc;ng tin trong phần highlight số 1: C&aacute;c hồ, hồ chứa v&agrave; thậm ch&iacute; to&agrave;n bộ v&ugrave;ng biển đ&atilde; trở th&agrave;nh những vũng chất độc khổng lồ.</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14235,
+    "sourceExamName": "Đề thi minh họa môn Tiếng Anh vào 10 Sở GD&ĐT Hà Nội năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_13",
+    "questionNumber": 26,
+    "questionName": "Question 13",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>What does the word &quot;effluent&quot; mean in the context of the passage?&nbsp;</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q1\">One of the most urgent environmental problems in the world today is the shortage of clean water.</span> Having clean drinking water is a basic human right. <span class=\"answerhighlight q2\">However, acid rain, industrial pollution and garbage have made many sources of water undrinkable.</span><span class=\"answerhighlight q3\"> Lakes, reservoirs and even entire seas have become vast pools of poison.</span> <span class=\"answerhighlight q3\">Lake Baikal in Russia is one of the largest lakes in the world. It contains a rich variety of animals and plants</span>, <span class=\"answerhighlight q3\">including 1,300 rare species that do not exist anywhere else in the world.</span> <span class=\"answerhighlight q4\">Yet, they are being destroyed by the massive volumes of industrial <strong>effluent </strong>which pour into the lake every day.</span> <span class=\"answerhighlight q5\">Even though laws have been made, the governments do not have the power to enforce <strong>them</strong>.</span> <span class=\"answerhighlight q3\">Most industries simply ignore the regulations.</span> The Mediterranean Sea occupies 1% of the world's water surface, but it is the dumping ground for 50% of all marine pollution. Almost 16 countries regularly dump industrial waste a few miles offshore.&nbsp;</p>\n<p style=\"text-align: justify;\">Clean water is now scarce, and we are at last beginning to respect this precious resource. We should do something now.&nbsp;</p>",
+    "parentQuestionId": 761712,
+    "choices": [
+      {
+        "id": 1466896,
+        "label": "A",
+        "text": "A type of fish found in Lake Baikal",
+        "isCorrect": false
+      },
+      {
+        "id": 1466897,
+        "label": "B",
+        "text": "A rare plant species",
+        "isCorrect": false
+      },
+      {
+        "id": 1466898,
+        "label": "C",
+        "text": "Industrial waste that flows into the lake",
+        "isCorrect": true
+      },
+      {
+        "id": 1466899,
+        "label": "D",
+        "text": "A method of water purification",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1466898,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p>Tuy nhi&ecirc;n, ch&uacute;ng đang bị ph&aacute; hủy bởi lượng nước thải c&ocirc;ng nghiệp khổng lồ đổ v&agrave;o hồ mỗi ng&agrave;y.</p>\n<p>=&gt; Từ \"<strong>effluent</strong>\" trong b&agrave;i viết n&oacute;i tới \"<strong>Industrial waste that flows into the lake</strong>\" (nước thải c&ocirc;ng nghiệp chảy v&agrave;o hồ).</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14235,
+    "sourceExamName": "Đề thi minh họa môn Tiếng Anh vào 10 Sở GD&ĐT Hà Nội năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_14",
+    "questionNumber": 27,
+    "questionName": "Question 14",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>What does the word &quot;them&quot; in the passage refer to?&nbsp;</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q1\">One of the most urgent environmental problems in the world today is the shortage of clean water.</span> Having clean drinking water is a basic human right. <span class=\"answerhighlight q2\">However, acid rain, industrial pollution and garbage have made many sources of water undrinkable.</span><span class=\"answerhighlight q3\"> Lakes, reservoirs and even entire seas have become vast pools of poison.</span> <span class=\"answerhighlight q3\">Lake Baikal in Russia is one of the largest lakes in the world. It contains a rich variety of animals and plants</span>, <span class=\"answerhighlight q3\">including 1,300 rare species that do not exist anywhere else in the world.</span> <span class=\"answerhighlight q4\">Yet, they are being destroyed by the massive volumes of industrial <strong>effluent </strong>which pour into the lake every day.</span> <span class=\"answerhighlight q5\">Even though laws have been made, the governments do not have the power to enforce <strong>them</strong>.</span> <span class=\"answerhighlight q3\">Most industries simply ignore the regulations.</span> The Mediterranean Sea occupies 1% of the world's water surface, but it is the dumping ground for 50% of all marine pollution. Almost 16 countries regularly dump industrial waste a few miles offshore.&nbsp;</p>\n<p style=\"text-align: justify;\">Clean water is now scarce, and we are at last beginning to respect this precious resource. We should do something now.&nbsp;</p>",
+    "parentQuestionId": 761712,
+    "choices": [
+      {
+        "id": 1466903,
+        "label": "A",
+        "text": "laws",
+        "isCorrect": true
+      },
+      {
+        "id": 1466904,
+        "label": "B",
+        "text": "governments",
+        "isCorrect": false
+      },
+      {
+        "id": 1466905,
+        "label": "C",
+        "text": "industries",
+        "isCorrect": false
+      },
+      {
+        "id": 1466906,
+        "label": "D",
+        "text": "regulations",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1466903,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p>Mặc d&ugrave; <strong>luật</strong> đ&atilde; được ban h&agrave;nh nhưng ch&iacute;nh phủ kh&ocirc;ng c&oacute; quyền thực thi <strong>ch&uacute;ng</strong>.</p>\n<p>=&gt; Đại từ \"<strong>them</strong>\" n&oacute;i tới danh từ \"<strong>laws</strong>\".</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14235,
+    "sourceExamName": "Đề thi minh họa môn Tiếng Anh vào 10 Sở GD&ĐT Hà Nội năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_15",
+    "questionNumber": 23,
+    "questionName": "Question 15",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Which of the following is the best title for this passage?</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">Women's equality is an important issue that has been discussed for many years. <span class=\"answerhighlight q30\">Women have historically faced disadvantages in areas like education and the workplace.</span> <span class=\"answerhighlight q30\">While progress has been made, there is still a lot of work to do.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q27\">One major challenge that women face is workplace discrimination.</span><span class=\"answerhighlight q30\"> <span class=\"answerhighlight q28\"><span class=\"answerhighlight q27\">Women are often paid less than men for the same job and are less likely to be promoted to leadership positions.</span></span></span><span class=\"answerhighlight q28\"> This can limit their career opportunities and hold <strong>them</strong> back.</span></p>\n<p style=\"text-align: justify;\">Access to education is another area where women have historically been disadvantaged. In some places, girls are not encouraged to go to school or pursue academic and professional goals, which limits their opportunities for personal and financial success.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q29\">Gender-based <strong>violence</strong> is also a problem that women face. </span>This can cause long-term physical and emotional problems for women, which affects their quality of life.</p>\n<p style=\"text-align: justify;\">To achieve gender equality, it's important to promote women's leadership, ensure equal access to education and economic opportunities, and address gender-based violence. This is necessary for creating a fair and just society where everyone has equal opportunities to succeed.</p>\n<p style=\"text-align: justify;\">Gender equality is an important issue that needs to be addressed to create a better and more reasonable world for all people.</p>",
+    "parentQuestionId": 764925,
+    "choices": [
+      {
+        "id": 1472102,
+        "label": "A",
+        "text": "The Importance of Women's Equality",
+        "isCorrect": true
+      },
+      {
+        "id": 1472103,
+        "label": "B",
+        "text": "Access to Education for Women",
+        "isCorrect": false
+      },
+      {
+        "id": 1472104,
+        "label": "C",
+        "text": "Gender-Based Violence in the Workplace",
+        "isCorrect": false
+      },
+      {
+        "id": 1472105,
+        "label": "D",
+        "text": "Solutions for Achieving Gender Equality",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1472102,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p>Nội dung c&aacute;c đoạn:</p>\n<p>- Đoạn 1: giới thiệu về vấn đề b&igrave;nh đẳng của phụ nữ.</p>\n<p>- Đoạn 2: n&oacute;i về sự bất b&igrave;nh đẳng ở nơi l&agrave;m việc.</p>\n<p>- Đoạn 3: n&oacute;i về sự bất b&igrave;nh đẳng trong gi&aacute;o dục.</p>\n<p>- Đoạn 4: n&oacute;i về ảnh hưởng, t&aacute;c động của sự bạo lực tr&ecirc;n cơ sở giới tới phụ nữ.</p>\n<p>- Đoạn 5: n&oacute;i về một số giải ph&aacute;p để đạt được b&igrave;nh đẳng giới.</p>\n<p>- Đoạn 6: nhấn mạnh sự cần thiết của việc giải quyết vấn đề b&igrave;nh đẳng giới.</p>\n<p>=&gt; Ti&ecirc;u đề ph&ugrave; hợp nhất: Tầm quan trọng của sự b&igrave;nh đẳng của phụ nữ.</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14310,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Cầu Giấy năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_16",
+    "questionNumber": 24,
+    "questionName": "Question 16",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>According to the passage, one major challenge women face in the workplace is _____.</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">Women's equality is an important issue that has been discussed for many years. <span class=\"answerhighlight q30\">Women have historically faced disadvantages in areas like education and the workplace.</span> <span class=\"answerhighlight q30\">While progress has been made, there is still a lot of work to do.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q27\">One major challenge that women face is workplace discrimination.</span><span class=\"answerhighlight q30\"> <span class=\"answerhighlight q28\"><span class=\"answerhighlight q27\">Women are often paid less than men for the same job and are less likely to be promoted to leadership positions.</span></span></span><span class=\"answerhighlight q28\"> This can limit their career opportunities and hold <strong>them</strong> back.</span></p>\n<p style=\"text-align: justify;\">Access to education is another area where women have historically been disadvantaged. In some places, girls are not encouraged to go to school or pursue academic and professional goals, which limits their opportunities for personal and financial success.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q29\">Gender-based <strong>violence</strong> is also a problem that women face. </span>This can cause long-term physical and emotional problems for women, which affects their quality of life.</p>\n<p style=\"text-align: justify;\">To achieve gender equality, it's important to promote women's leadership, ensure equal access to education and economic opportunities, and address gender-based violence. This is necessary for creating a fair and just society where everyone has equal opportunities to succeed.</p>\n<p style=\"text-align: justify;\">Gender equality is an important issue that needs to be addressed to create a better and more reasonable world for all people.</p>",
+    "parentQuestionId": 764925,
+    "choices": [
+      {
+        "id": 1472106,
+        "label": "A",
+        "text": "difficulty finding jobs",
+        "isCorrect": false
+      },
+      {
+        "id": 1472107,
+        "label": "B",
+        "text": "lower payment",
+        "isCorrect": true
+      },
+      {
+        "id": 1472108,
+        "label": "C",
+        "text": "lack of education",
+        "isCorrect": false
+      },
+      {
+        "id": 1472109,
+        "label": "D",
+        "text": "inadequate training",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1472107,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p style=\"text-align: justify;\">Một th&aacute;ch thức lớn m&agrave; phụ nữ phải đối mặt l&agrave; sự ph&acirc;n biệt đối xử tại nơi l&agrave;m việc. Phụ nữ thường được trả lương thấp hơn nam giới cho c&ugrave;ng một c&ocirc;ng việc v&agrave; &iacute;t c&oacute; khả năng được đề bạt v&agrave;o c&aacute;c vị tr&iacute; l&atilde;nh đạo.</p>\n<p style=\"text-align: justify;\">=&gt; Theo b&agrave;i viết, một th&aacute;ch thức lớn m&agrave; phụ nữ phải đối mặt ở nơi l&agrave;m việc l&agrave; số tiền được trả thấp hơn.</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14310,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Cầu Giấy năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_17",
+    "questionNumber": 25,
+    "questionName": "Question 17",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>The word &quot;them&quot; in paragraph 2 refers to _____.</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">Women's equality is an important issue that has been discussed for many years. <span class=\"answerhighlight q30\">Women have historically faced disadvantages in areas like education and the workplace.</span> <span class=\"answerhighlight q30\">While progress has been made, there is still a lot of work to do.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q27\">One major challenge that women face is workplace discrimination.</span><span class=\"answerhighlight q30\"> <span class=\"answerhighlight q28\"><span class=\"answerhighlight q27\">Women are often paid less than men for the same job and are less likely to be promoted to leadership positions.</span></span></span><span class=\"answerhighlight q28\"> This can limit their career opportunities and hold <strong>them</strong> back.</span></p>\n<p style=\"text-align: justify;\">Access to education is another area where women have historically been disadvantaged. In some places, girls are not encouraged to go to school or pursue academic and professional goals, which limits their opportunities for personal and financial success.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q29\">Gender-based <strong>violence</strong> is also a problem that women face. </span>This can cause long-term physical and emotional problems for women, which affects their quality of life.</p>\n<p style=\"text-align: justify;\">To achieve gender equality, it's important to promote women's leadership, ensure equal access to education and economic opportunities, and address gender-based violence. This is necessary for creating a fair and just society where everyone has equal opportunities to succeed.</p>\n<p style=\"text-align: justify;\">Gender equality is an important issue that needs to be addressed to create a better and more reasonable world for all people.</p>",
+    "parentQuestionId": 764925,
+    "choices": [
+      {
+        "id": 1472110,
+        "label": "A",
+        "text": "positions",
+        "isCorrect": false
+      },
+      {
+        "id": 1472111,
+        "label": "B",
+        "text": "women",
+        "isCorrect": true
+      },
+      {
+        "id": 1472112,
+        "label": "C",
+        "text": "men",
+        "isCorrect": false
+      },
+      {
+        "id": 1472113,
+        "label": "D",
+        "text": "opportunities",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1472111,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p><strong>Phụ nữ</strong> thường bị trả lương thấp hơn nam giới cho c&ugrave;ng một c&ocirc;ng việc v&agrave; &iacute;t c&oacute; khả năng được đề bạt v&agrave;o c&aacute;c vị tr&iacute; l&atilde;nh đạo. Điều n&agrave;y c&oacute; thể hạn chế cơ hội nghề nghiệp của họ v&agrave; k&igrave;m h&atilde;m <strong>họ</strong>.</p>\n<p>=&gt; Đại từ \"<strong>them</strong>\" thay thế cho danh từ \"<strong>women</strong>\".</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14310,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Cầu Giấy năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_18",
+    "questionNumber": 26,
+    "questionName": "Question 18",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>The word &quot;violence&quot; in paragraph 4 mostly means _____.</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">Women's equality is an important issue that has been discussed for many years. <span class=\"answerhighlight q30\">Women have historically faced disadvantages in areas like education and the workplace.</span> <span class=\"answerhighlight q30\">While progress has been made, there is still a lot of work to do.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q27\">One major challenge that women face is workplace discrimination.</span><span class=\"answerhighlight q30\"> <span class=\"answerhighlight q28\"><span class=\"answerhighlight q27\">Women are often paid less than men for the same job and are less likely to be promoted to leadership positions.</span></span></span><span class=\"answerhighlight q28\"> This can limit their career opportunities and hold <strong>them</strong> back.</span></p>\n<p style=\"text-align: justify;\">Access to education is another area where women have historically been disadvantaged. In some places, girls are not encouraged to go to school or pursue academic and professional goals, which limits their opportunities for personal and financial success.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q29\">Gender-based <strong>violence</strong> is also a problem that women face. </span>This can cause long-term physical and emotional problems for women, which affects their quality of life.</p>\n<p style=\"text-align: justify;\">To achieve gender equality, it's important to promote women's leadership, ensure equal access to education and economic opportunities, and address gender-based violence. This is necessary for creating a fair and just society where everyone has equal opportunities to succeed.</p>\n<p style=\"text-align: justify;\">Gender equality is an important issue that needs to be addressed to create a better and more reasonable world for all people.</p>",
+    "parentQuestionId": 764925,
+    "choices": [
+      {
+        "id": 1472114,
+        "label": "A",
+        "text": "an unsuccessful attempt",
+        "isCorrect": false
+      },
+      {
+        "id": 1472115,
+        "label": "B",
+        "text": "destructive force",
+        "isCorrect": true
+      },
+      {
+        "id": 1472116,
+        "label": "C",
+        "text": "a useful action",
+        "isCorrect": false
+      },
+      {
+        "id": 1472117,
+        "label": "D",
+        "text": "a professional struggle",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1472115,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p><strong>violence</strong> (n.): bạo lực ~ <strong>destructive force</strong> (phr.): vũ lực</p>\n<p>an unsuccessful attempt (phr.): một nỗ lực kh&ocirc;ng th&agrave;nh c&ocirc;ng</p>\n<p>a useful action (phr.): một h&agrave;nh động hữu &iacute;ch</p>\n<p>a professional struggle (phr.): một cuộc đấu tranh chuy&ecirc;n nghiệp</p>\n<p>Dịch: Bạo lực tr&ecirc;n cơ sở giới cũng l&agrave; vấn đề m&agrave; phụ nữ phải đối mặt.</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14310,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Cầu Giấy năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_19",
+    "questionNumber": 27,
+    "questionName": "Question 19",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Which of the following is NOT TRUE according to the passage?</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">Women's equality is an important issue that has been discussed for many years. <span class=\"answerhighlight q30\">Women have historically faced disadvantages in areas like education and the workplace.</span> <span class=\"answerhighlight q30\">While progress has been made, there is still a lot of work to do.</span></p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q27\">One major challenge that women face is workplace discrimination.</span><span class=\"answerhighlight q30\"> <span class=\"answerhighlight q28\"><span class=\"answerhighlight q27\">Women are often paid less than men for the same job and are less likely to be promoted to leadership positions.</span></span></span><span class=\"answerhighlight q28\"> This can limit their career opportunities and hold <strong>them</strong> back.</span></p>\n<p style=\"text-align: justify;\">Access to education is another area where women have historically been disadvantaged. In some places, girls are not encouraged to go to school or pursue academic and professional goals, which limits their opportunities for personal and financial success.</p>\n<p style=\"text-align: justify;\"><span class=\"answerhighlight q29\">Gender-based <strong>violence</strong> is also a problem that women face. </span>This can cause long-term physical and emotional problems for women, which affects their quality of life.</p>\n<p style=\"text-align: justify;\">To achieve gender equality, it's important to promote women's leadership, ensure equal access to education and economic opportunities, and address gender-based violence. This is necessary for creating a fair and just society where everyone has equal opportunities to succeed.</p>\n<p style=\"text-align: justify;\">Gender equality is an important issue that needs to be addressed to create a better and more reasonable world for all people.</p>",
+    "parentQuestionId": 764925,
+    "choices": [
+      {
+        "id": 1472118,
+        "label": "A",
+        "text": "Women are often paid less than men for the same job.",
+        "isCorrect": false
+      },
+      {
+        "id": 1472119,
+        "label": "B",
+        "text": "Discrimination can limit women's career opportunities.",
+        "isCorrect": false
+      },
+      {
+        "id": 1472120,
+        "label": "C",
+        "text": "There has been no progress made towards gender equality.",
+        "isCorrect": true
+      },
+      {
+        "id": 1472121,
+        "label": "D",
+        "text": "Women historically face disadvantages in education and the workplace.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1472120,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p style=\"text-align: justify;\">Th&ocirc;ng tin kh&ocirc;ng đ&uacute;ng so với b&agrave;i đọc: Phương &aacute;n 3: Chưa c&oacute; tiến bộ n&agrave;o đạt được về b&igrave;nh đẳng giới.</p>\n<p style=\"text-align: justify;\">Th&ocirc;ng tin cho đ&aacute;p &aacute;n ở phần highlight thứ 2: Mặc d&ugrave; đ&atilde; đạt được nhiều tiến triển nhưng vẫn c&ograve;n rất nhiều việc phải l&agrave;m.</p>\n<p style=\"text-align: justify;\"><em>C&aacute;c phương &aacute;n kh&aacute;c đều c&oacute; thể được t&igrave;m thấy ở trong b&agrave;i:</em></p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1: Phụ nữ thường bị trả lương thấp hơn nam giới cho c&ugrave;ng một c&ocirc;ng việc.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 2: Sự ph&acirc;n biệt đối xử c&oacute; thể hạn chế cơ hội nghề nghiệp của phụ nữ.</p>\n<p style=\"text-align: justify;\">~ Th&ocirc;ng tin cho hai phương &aacute;n n&agrave;y ở phần highlight thứ 3: Phụ nữ thường bị trả lương thấp hơn nam giới cho c&ugrave;ng một c&ocirc;ng việc v&agrave; &iacute;t c&oacute; khả năng được đề bạt v&agrave;o c&aacute;c vị tr&iacute; l&atilde;nh đạo.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 4: Phụ nữ trong lịch sử phải đối mặt với những bất lợi trong gi&aacute;o dục v&agrave; nơi l&agrave;m việc. ~ Th&ocirc;ng tin cho phương &aacute;n n&agrave;y ở phần highlight thứ nhất: Phụ nữ trong lịch sử đ&atilde; phải đối mặt với những bất lợi trong c&aacute;c lĩnh vực như gi&aacute;o dục v&agrave; nơi l&agrave;m việc.</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14310,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Cầu Giấy năm 2024",
+    "year": 2024
+  },
+  {
+    "id": "66_20",
+    "questionNumber": 25,
+    "questionName": "Question 20",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>What do people do for Earth Hour?</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<p style=\"text-align: justify;\">Earth Hour is organised by the World Wide Fund for Nature (WWF) and it&#8217;s a big event usually at the end of March every year. On this evening, people &#8216;go dark&#8217; &#8211; that is, switch off lights in their homes, schools and businesses all at the same time for one hour. <span class=\"answerhighlight q4\"><span class=\"answerhighlight q3\"><span class=\"answerhighlight q1\">Earth Hour started in Australia in 2007, when 2.2 million people in Sydney turned off all unnecessary lights for an hour.</span> Since then, <strong>it</strong> has grown into an international event, and many countries around the world have taken part.</span> Famous buildings that have gone dark for Earth Hour include the Sydney Opera House and Harbour Bridge, the Petronas Towers in Kuala Lumpur, the Houses of Parliament and Buckingham Palace in London, the Eiffel Tower in Paris, the Forbidden City in Beijing and New York&#8217;s Empire State Building.</span> <span class=\"answerhighlight q5\"><span class=\"answerhighlight q2\">The idea is to raise awareness of environmental issues and call for action to protect nature,</span></span><span class=\"answerhighlight q2\"> so that people enjoy healthy, happy and <strong>sustainable</strong> lives now and in the future.</span> It&#8217;s true that switching off the lights for just one hour saves only a small amount of power. But this is only the beginning. On one level, joining in Earth Hour makes people think about the problem of climate change and what we can do in everyday life to protect nature. <span class=\"answerhighlight q5\"><span class=\"answerhighlight q4\">The logo of Earth Hour is &#8216;60+&#8217;. The number 60 is for the 60 minutes of Earth Hour,</span> and the plus invites people to keep on taking action even after Earth Hour is finished. <span class=\"answerhighlight q4\">In fact, people who join in Earth Hour say that taking part makes them want to do more for the environment.</span></span> The climate activist Greta Thunberg says that &#8216;Earth Hour is every hour of every day.&#8217;&nbsp;</p>",
+    "parentQuestionId": 766131,
+    "choices": [
+      {
+        "id": 1474142,
+        "label": "A",
+        "text": "Switch off non-essential lights.",
+        "isCorrect": true
+      },
+      {
+        "id": 1474143,
+        "label": "B",
+        "text": "Watch TV to participate in the campaign.",
+        "isCorrect": false
+      },
+      {
+        "id": 1474144,
+        "label": "C",
+        "text": "Switch on the lights at famous buildings.",
+        "isCorrect": false
+      },
+      {
+        "id": 1474145,
+        "label": "D",
+        "text": "Go into dark places.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 1474142,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p style=\"text-align: justify;\">Giờ Tr&aacute;i đất bắt đầu ở &Uacute;c v&agrave;o năm 2007, khi 2,2 triệu người ở Sydney tắt tất cả c&aacute;c đ&egrave;n kh&ocirc;ng cần thiết trong một giờ.</p>\n<p style=\"text-align: justify;\">=&gt; Mọi người hưởng ứng Giờ Tr&aacute;i đất bằng c&aacute;ch tắt c&aacute;c đ&egrave;n kh&ocirc;ng cần thiết.</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 14324,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 quận Tây Hồ năm 2024",
+    "year": 2024
+  }
+]

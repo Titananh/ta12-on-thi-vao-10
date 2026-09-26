@@ -1,0 +1,22 @@
+{
+  "topicId": 31,
+  "topicName": "Từ có hơn 3 âm tiết",
+  "englishName": "more-than-3-syllable words stress",
+  "rules": [
+    {
+      "sound": "Quy tắc 1",
+      "rule": "Các từ tận cùng bằng -ic, -ish, -ical, -sion, -tion, -ance, -ence, -idle, -ious, -eous, -ian, -ity: trọng âm rơi vào âm tiết liền trước nó.",
+      "examples": "economic, geographic, scientific, decision, attraction, delicious"
+    },
+    {
+      "sound": "Quy tắc 2",
+      "rule": "Các từ tận cùng bằng -ate, -cy, -ty, -phy, -gy, -al nếu có từ 3 âm tiết trở lên thì trọng âm rơi vào âm tiết thứ 3 từ dưới đếm lên.",
+      "examples": "communicate, photography, technology, democracy"
+    },
+    {
+      "sound": "Quy tắc 3",
+      "rule": "Các hậu tố: -ee, -eer, -ese, -ique, -esque nhận trọng âm vào chính nó.",
+      "examples": "employee, pioneer, Vietnamese, unique, picturesque"
+    }
+  ]
+}

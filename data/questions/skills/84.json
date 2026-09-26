@@ -1,0 +1,997 @@
+[
+  {
+    "id": "84_1",
+    "questionNumber": 30,
+    "questionName": "Question 1",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>According to paragraph 2, what occupation did most Vietnamese do in the past?</strong></p>",
+    "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<div style=\"text-align: justify;\">\n<p>Vietnam has changed quickly over the past few decades. Today, daily life is very different from the past. For many young people, stories from their parents or grandparents may feel like scenes from another world. Yet these changes are not only about technology or money. They also show how values, habits, and expectations have changed over time.</p>\n<p>In the past, most Vietnamese people lived in rural areas and worked as farmers. Some also worked as fishermen near rivers and coastal areas, while others were carpenters or craft workers in small villages. Life was slower and often followed the seasons. Families grew their own food, and meals were simple and fresh, based on local food. Because work and home were closely linked, family members spent more time together during the day. Neighbors also played an important role. They helped each other in work and daily life, which created a strong sense of community.</p>\n<p>Transportation and communication were limited, so people felt distance more strongly. Bicycles were the main form of travel, and long trips took time and effort. Letters were often the only way to stay in touch with relatives far away. As a result, when people met, they valued those moments more deeply. Conversations were often longer and more meaningful.</p>\n<p>Today, Vietnam is more urban and connected than ever before. Large cities continue to grow and offer more jobs and better education. However, this also creates a faster pace of life. Many young people have busy schedules, long working hours, and high expectations. Technology, especially smartphones, has made communication easier. But it has also changed how people interact. Online messages are quick and easy, yet <strong>they</strong> sometimes replace face-to-face contact.</p>\n<p>People also see differences in what they eat. Traditional meals are still important at home and during special occasions. But modern life has increased the need for fast and convenient food. Eating out or having takeaways is now common, particularly for students and office workers.</p>\n<p>Even with these changes, some core values remain strong. Family ties still shape decisions and cultural traditions are still respected. Festivals such as Tet are not only holidays but also important times for reflection and connection.</p>\n<p>Vietnamese lifestyle has moved from simple and local to fast and global. For young people today, the <strong>challenge</strong> is to balance modern opportunities with traditional values. They try to create a way of life that respects the past while adapting to the future.</p>\n</div>",
+    "parentQuestionId": 1225474,
+    "choices": [
+      {
+        "id": 2372096,
+        "label": "A",
+        "text": "fishermen",
+        "isCorrect": false
+      },
+      {
+        "id": 2372097,
+        "label": "B",
+        "text": "craft workers",
+        "isCorrect": false
+      },
+      {
+        "id": 2372098,
+        "label": "C",
+        "text": "carpenters",
+        "isCorrect": false
+      },
+      {
+        "id": 2372099,
+        "label": "D",
+        "text": "farmers",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 2372099,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Hãy đọc kỹ câu đầu tiên của <strong>đoạn văn thứ hai</strong>. Chú ý vào từ khóa trong câu hỏi là \"<strong>most</strong>\" (hầu hết) để tìm ra nghề nghiệp phổ biến nhất được nhắc đến.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng t&igrave;m v&agrave; hiểu th&ocirc;ng tin cụ thể được n&ecirc;u r&otilde; trong b&agrave;i đọc. Để trả lời, học sinh cần x&aacute;c định đ&uacute;ng vị tr&iacute; của th&ocirc;ng tin trong đoạn 2 v&agrave; nhận ra từ kh&oacute;a chỉ số lượng lớn nhất.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>C&acirc;u hỏi y&ecirc;u cầu x&aacute;c định nghề nghiệp m&agrave; <strong>hầu hết</strong> người Việt Nam đ&atilde; l&agrave;m trong qu&aacute; khứ, dựa tr&ecirc;n th&ocirc;ng tin trong đoạn 2. B&agrave;i đọc cung cấp dẫn chứng rất r&otilde; r&agrave;ng ngay trong c&acirc;u đầu ti&ecirc;n của đoạn: [[<strong>In the past, most Vietnamese people lived in rural areas and worked as farmers.</strong>]] (<em>Trong qu&aacute; khứ, hầu hết người Việt Nam sống ở v&ugrave;ng n&ocirc;ng th&ocirc;n v&agrave; l&agrave;m nghề n&ocirc;ng.</em>). Từ<strong> \"most\"</strong> (hầu hết) trực tiếp trả lời cho c&acirc;u hỏi. Do đ&oacute;, phương &aacute;n 4 l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n kh&aacute;c như ngư d&acirc;n, thợ thủ c&ocirc;ng, thợ mộc cũng được đề cập, nhưng b&agrave;i đọc d&ugrave;ng c&aacute;c từ như <strong>\"Some\"</strong> (Một số) v&agrave; <strong>\"others\"</strong> (những người kh&aacute;c) để chỉ c&aacute;c nh&oacute;m n&agrave;y, cho thấy đ&acirc;y kh&ocirc;ng phải l&agrave; nghề nghiệp của đa số.</p>",
+    "answerFeedbacks": {
+      "2372096": "<p>Phương &aacute;n n&agrave;y sai v&igrave; b&agrave;i đọc chỉ đề cập <em>\"<strong>Some</strong> also worked as fishermen\"</em> (<strong>Một số </strong>cũng l&agrave;m nghề ch&agrave;i lưới), kh&ocirc;ng phải l&agrave; nghề nghiệp của đa số.</p>",
+      "2372097": "<p>Phương &aacute;n n&agrave;y kh&ocirc;ng đ&uacute;ng v&igrave; b&agrave;i đọc n&oacute;i rằng <em>\"<strong>others</strong> were ... craft workers\"</em> (<strong>những người kh&aacute;c</strong> l&agrave; ... thợ thủ c&ocirc;ng), cho thấy đ&acirc;y kh&ocirc;ng phải l&agrave; nghề nghiệp ch&iacute;nh.</p>",
+      "2372098": "Phương án này chưa chính xác vì bài đọc dùng từ \"<em>others</em>\" (<em>những người khác</em>) khi nhắc đến thợ mộc, ngụ ý đây không phải là nghề nghiệp phổ biến nhất.",
+      "2372099": "<p>Phương &aacute;n n&agrave;y đ&uacute;ng v&igrave; đoạn 2 c&oacute; c&acirc;u <em>\"most Vietnamese people lived in rural areas and worked as farmers\" </em>(đa số người Việt Nam sống ở v&ugrave;ng n&ocirc;ng th&ocirc;n v&agrave; l&agrave;m nghề n&ocirc;ng).</p>"
+    },
+    "images": [],
+    "sourceExamId": 19146,
+    "sourceExamName": "Đề thi chính thức vào lớp 10 môn Anh trường THPT Chuyên KHXH & NV năm 2026",
+    "year": 2026
+  },
+  {
+    "id": "84_2",
+    "questionNumber": 31,
+    "questionName": "Question 2",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>What does the word &quot;they&quot; in paragraph 4 refer to?</strong></p>",
+    "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<div style=\"text-align: justify;\">\n<p>Vietnam has changed quickly over the past few decades. Today, daily life is very different from the past. For many young people, stories from their parents or grandparents may feel like scenes from another world. Yet these changes are not only about technology or money. They also show how values, habits, and expectations have changed over time.</p>\n<p>In the past, most Vietnamese people lived in rural areas and worked as farmers. Some also worked as fishermen near rivers and coastal areas, while others were carpenters or craft workers in small villages. Life was slower and often followed the seasons. Families grew their own food, and meals were simple and fresh, based on local food. Because work and home were closely linked, family members spent more time together during the day. Neighbors also played an important role. They helped each other in work and daily life, which created a strong sense of community.</p>\n<p>Transportation and communication were limited, so people felt distance more strongly. Bicycles were the main form of travel, and long trips took time and effort. Letters were often the only way to stay in touch with relatives far away. As a result, when people met, they valued those moments more deeply. Conversations were often longer and more meaningful.</p>\n<p>Today, Vietnam is more urban and connected than ever before. Large cities continue to grow and offer more jobs and better education. However, this also creates a faster pace of life. Many young people have busy schedules, long working hours, and high expectations. Technology, especially smartphones, has made communication easier. But it has also changed how people interact. Online messages are quick and easy, yet <strong>they</strong> sometimes replace face-to-face contact.</p>\n<p>People also see differences in what they eat. Traditional meals are still important at home and during special occasions. But modern life has increased the need for fast and convenient food. Eating out or having takeaways is now common, particularly for students and office workers.</p>\n<p>Even with these changes, some core values remain strong. Family ties still shape decisions and cultural traditions are still respected. Festivals such as Tet are not only holidays but also important times for reflection and connection.</p>\n<p>Vietnamese lifestyle has moved from simple and local to fast and global. For young people today, the <strong>challenge</strong> is to balance modern opportunities with traditional values. They try to create a way of life that respects the past while adapting to the future.</p>\n</div>",
+    "parentQuestionId": 1225474,
+    "choices": [
+      {
+        "id": 2372100,
+        "label": "A",
+        "text": "people",
+        "isCorrect": false
+      },
+      {
+        "id": 2372101,
+        "label": "B",
+        "text": "smartphones",
+        "isCorrect": false
+      },
+      {
+        "id": 2372102,
+        "label": "C",
+        "text": "online messages",
+        "isCorrect": true
+      },
+      {
+        "id": 2372103,
+        "label": "D",
+        "text": "busy schedules",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 2372102,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Hãy đọc kỹ câu văn chứa từ \"they\" trong đoạn 4. Đại từ này dùng để thay thế cho danh từ số nhiều nào được nhắc đến ngay trước nó?</p>",
+    "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng x&aacute;c định từ quy chiếu (pronoun reference). Để trả lời, học sinh cần đọc c&acirc;u chứa từ được gạch ch&acirc;n v&agrave; x&aacute;c định danh từ m&agrave; n&oacute; đang thay thế.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Từ <strong>\"they\"</strong> nằm trong c&acirc;u cuối của đoạn 4: <strong>[[Online messages are quick and easy, yet they sometimes replace face-to-face contact]]</strong> (<em>Tin nhắn trực tuyến th&igrave; nhanh v&agrave; dễ d&agrave;ng, nhưng ch&uacute;ng đ&ocirc;i khi thay thế việc giao tiếp trực tiếp</em>). Đại từ <strong>\"they\"</strong> (ch&uacute;ng) l&agrave; một đại từ số nhiều. Theo quy tắc ngữ ph&aacute;p, n&oacute; thường thay thế cho danh từ số nhiều được nhắc đến gần nhất ngay trước đ&oacute;. Trong c&acirc;u n&agrave;y, danh từ số nhiều đứng ngay trước <strong>\"they\"</strong> l&agrave; <strong>\"online messages\"</strong> (tin nhắn trực tuyến). Khi thay thế <strong>\"they\" </strong>bằng <strong>\"online messages\"</strong>, c&acirc;u văn ho&agrave;n to&agrave;n c&oacute; nghĩa: \"Tin nhắn trực tuyến th&igrave; nhanh v&agrave; dễ d&agrave;ng, nhưng <em>tin nhắn trực tuyến</em> đ&ocirc;i khi thay thế việc giao tiếp mặt đối mặt.\" Do đ&oacute;, <strong>\"online messages\"</strong> (phương &aacute;n 3) l&agrave; đ&aacute;p &aacute;n ch&iacute;nh x&aacute;c.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 2 <em>\"smartphones\"</em> c&oacute; thể g&acirc;y nhầm lẫn v&igrave; điện thoại th&ocirc;ng minh l&agrave; c&ocirc;ng cụ để gửi tin nhắn, nhưng trong ngữ cảnh của c&acirc;u văn n&agrave;y, ch&iacute;nh \"tin nhắn\" mới l&agrave; thứ thay thế cho giao tiếp trực tiếp, v&agrave; \"they\" quy chiếu trực tiếp đến \"online messages\".</p>",
+    "answerFeedbacks": {
+      "2372100": "<p>Phương &aacute;n n&agrave;y sai v&igrave; đại từ <em>\"they\"</em> thay thế cho một danh từ được đề cập ngay trước đ&oacute; trong c&acirc;u, v&agrave; <em>\"people\"</em> kh&ocirc;ng ph&ugrave; hợp về mặt ngữ nghĩa với h&agrave;nh động \"thay thế giao tiếp trực tiếp\" trong cấu tr&uacute;c c&acirc;u n&agrave;y.</p>",
+      "2372101": "<p>Phương &aacute;n n&agrave;y sai v&igrave; mặc d&ugrave; điện thoại th&ocirc;ng minh li&ecirc;n quan đến tin nhắn trực tuyến, đại từ <em>\"they\"</em> trực tiếp đề cập đến <em>\"online messages\"</em>, chủ thể thực hiện h&agrave;nh động trong mệnh đề.</p>",
+      "2372102": "<p>Phương &aacute;n n&agrave;y đ&uacute;ng v&igrave; <em>\"they\"</em> l&agrave; một đại từ số nhiều, thay thế một c&aacute;ch hợp l&yacute; v&agrave; ch&iacute;nh x&aacute;c về mặt ngữ ph&aacute;p cho danh từ số nhiều<em> \"online messages\"</em> đứng ngay trước n&oacute; trong c&acirc;u.</p>",
+      "2372103": "<p>Phương &aacute;n n&agrave;y sai v&igrave; <em>\"busy schedules\"</em> được đề cập ở c&acirc;u trước đ&oacute; trong đoạn nhưng kh&ocirc;ng phải l&agrave; đối tượng m&agrave; đại từ <em>\"they\"</em> trực tiếp quy chiếu đến trong c&acirc;u văn chứa n&oacute;.</p>"
+    },
+    "images": [],
+    "sourceExamId": 19146,
+    "sourceExamName": "Đề thi chính thức vào lớp 10 môn Anh trường THPT Chuyên KHXH & NV năm 2026",
+    "year": 2026
+  },
+  {
+    "id": "84_3",
+    "questionNumber": 32,
+    "questionName": "Question 3",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>What is paragraph 5 mainly about?</strong></p>",
+    "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<div style=\"text-align: justify;\">\n<p>Vietnam has changed quickly over the past few decades. Today, daily life is very different from the past. For many young people, stories from their parents or grandparents may feel like scenes from another world. Yet these changes are not only about technology or money. They also show how values, habits, and expectations have changed over time.</p>\n<p>In the past, most Vietnamese people lived in rural areas and worked as farmers. Some also worked as fishermen near rivers and coastal areas, while others were carpenters or craft workers in small villages. Life was slower and often followed the seasons. Families grew their own food, and meals were simple and fresh, based on local food. Because work and home were closely linked, family members spent more time together during the day. Neighbors also played an important role. They helped each other in work and daily life, which created a strong sense of community.</p>\n<p>Transportation and communication were limited, so people felt distance more strongly. Bicycles were the main form of travel, and long trips took time and effort. Letters were often the only way to stay in touch with relatives far away. As a result, when people met, they valued those moments more deeply. Conversations were often longer and more meaningful.</p>\n<p>Today, Vietnam is more urban and connected than ever before. Large cities continue to grow and offer more jobs and better education. However, this also creates a faster pace of life. Many young people have busy schedules, long working hours, and high expectations. Technology, especially smartphones, has made communication easier. But it has also changed how people interact. Online messages are quick and easy, yet <strong>they</strong> sometimes replace face-to-face contact.</p>\n<p>People also see differences in what they eat. Traditional meals are still important at home and during special occasions. But modern life has increased the need for fast and convenient food. Eating out or having takeaways is now common, particularly for students and office workers.</p>\n<p>Even with these changes, some core values remain strong. Family ties still shape decisions and cultural traditions are still respected. Festivals such as Tet are not only holidays but also important times for reflection and connection.</p>\n<p>Vietnamese lifestyle has moved from simple and local to fast and global. For young people today, the <strong>challenge</strong> is to balance modern opportunities with traditional values. They try to create a way of life that respects the past while adapting to the future.</p>\n</div>",
+    "parentQuestionId": 1225474,
+    "choices": [
+      {
+        "id": 2372104,
+        "label": "A",
+        "text": "The role of traditional meals",
+        "isCorrect": false
+      },
+      {
+        "id": 2372105,
+        "label": "B",
+        "text": "Greater demand for fast food",
+        "isCorrect": false
+      },
+      {
+        "id": 2372106,
+        "label": "C",
+        "text": "Modern eating patterns",
+        "isCorrect": true
+      },
+      {
+        "id": 2372107,
+        "label": "D",
+        "text": "Different groups' food choices",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 2372106,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p style=\"text-align: justify;\">Để tìm ý chính của một đoạn, hãy đọc câu đầu tiên để xác định chủ đề, sau đó xem các câu sau hỗ trợ chủ đề đó như thế nào. Hãy tìm phương án bao quát được tất cả các ý được đề cập trong đoạn, chứ không chỉ một chi tiết riêng lẻ.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng x&aacute;c định &yacute; ch&iacute;nh của một đoạn văn. Để trả lời đ&uacute;ng, học sinh cần đọc to&agrave;n bộ đoạn văn, tổng hợp c&aacute;c chi tiết v&agrave; chọn phương &aacute;n diễn đạt được &yacute; bao qu&aacute;t nhất.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Đoạn 5 bắt đầu bằng việc giới thiệu chủ đề: <strong>[[People also see differences in what they eat.]]</strong> (<em>Mọi người cũng thấy sự kh&aacute;c biệt trong những g&igrave; họ ăn.</em>) Sau đ&oacute;, đoạn văn tr&igrave;nh b&agrave;y hai kh&iacute;a cạnh ch&iacute;nh của th&oacute;i quen ăn uống ng&agrave;y nay: bữa ăn truyền thống vẫn quan trọng (<strong>[[Traditional meals are still important]]</strong> (<em>C&aacute;c bữa ăn truyền thống vẫn quan trọng</em>)) v&agrave; nhu cầu về đồ ăn nhanh, tiện lợi ng&agrave;y c&agrave;ng tăng (<strong>[[modern life has increased the need for fast and convenient food]]</strong> (<em>cuộc sống hiện đại đ&atilde; l&agrave;m tăng nhu cầu về đồ ăn nhanh v&agrave; tiện lợi</em>)). Phương &aacute;n 3, <strong>\"Modern eating patterns\"</strong> (<em>C&aacute;c kiểu ăn uống hiện đại</em>), l&agrave; lựa chọn ch&iacute;nh x&aacute;c nhất v&igrave; n&oacute; bao h&agrave;m cả hai kh&iacute;a cạnh n&agrave;y, đưa ra một c&aacute;i nh&igrave;n tổng quan về th&oacute;i quen ăn uống trong x&atilde; hội Việt Nam hiện đại. C&aacute;c phương &aacute;n kh&aacute;c chỉ đề cập đến một phần th&ocirc;ng tin của đoạn n&ecirc;n qu&aacute; hẹp.</p>",
+    "answerFeedbacks": {
+      "2372104": "Phương án này không đúng vì đây chỉ là một chi tiết phụ trong đoạn, không phải ý chính bao quát toàn bộ nội dung.",
+      "2372105": "Phương án này không đúng vì nó chỉ đề cập đến một khía cạnh của thói quen ăn uống hiện đại được nhắc tới trong đoạn, do đó thông tin quá hẹp.",
+      "2372106": "Phương án này đúng vì nó tóm tắt được cả hai ý chính của đoạn: tầm quan trọng của bữa ăn truyền thống và nhu cầu ngày càng tăng đối với đồ ăn nhanh.",
+      "2372107": "Phương án này không đúng vì việc đề cập đến \"học sinh và nhân viên văn phòng\" chỉ là một ví dụ để minh họa, không phải là chủ đề chính của đoạn."
+    },
+    "images": [],
+    "sourceExamId": 19146,
+    "sourceExamName": "Đề thi chính thức vào lớp 10 môn Anh trường THPT Chuyên KHXH & NV năm 2026",
+    "year": 2026
+  },
+  {
+    "id": "84_4",
+    "questionNumber": 33,
+    "questionName": "Question 4",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Which of the following is NOT mentioned in the passage?</strong></p>",
+    "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<div style=\"text-align: justify;\">\n<p>Vietnam has changed quickly over the past few decades. Today, daily life is very different from the past. For many young people, stories from their parents or grandparents may feel like scenes from another world. Yet these changes are not only about technology or money. They also show how values, habits, and expectations have changed over time.</p>\n<p>In the past, most Vietnamese people lived in rural areas and worked as farmers. Some also worked as fishermen near rivers and coastal areas, while others were carpenters or craft workers in small villages. Life was slower and often followed the seasons. Families grew their own food, and meals were simple and fresh, based on local food. Because work and home were closely linked, family members spent more time together during the day. Neighbors also played an important role. They helped each other in work and daily life, which created a strong sense of community.</p>\n<p>Transportation and communication were limited, so people felt distance more strongly. Bicycles were the main form of travel, and long trips took time and effort. Letters were often the only way to stay in touch with relatives far away. As a result, when people met, they valued those moments more deeply. Conversations were often longer and more meaningful.</p>\n<p>Today, Vietnam is more urban and connected than ever before. Large cities continue to grow and offer more jobs and better education. However, this also creates a faster pace of life. Many young people have busy schedules, long working hours, and high expectations. Technology, especially smartphones, has made communication easier. But it has also changed how people interact. Online messages are quick and easy, yet <strong>they</strong> sometimes replace face-to-face contact.</p>\n<p>People also see differences in what they eat. Traditional meals are still important at home and during special occasions. But modern life has increased the need for fast and convenient food. Eating out or having takeaways is now common, particularly for students and office workers.</p>\n<p>Even with these changes, some core values remain strong. Family ties still shape decisions and cultural traditions are still respected. Festivals such as Tet are not only holidays but also important times for reflection and connection.</p>\n<p>Vietnamese lifestyle has moved from simple and local to fast and global. For young people today, the <strong>challenge</strong> is to balance modern opportunities with traditional values. They try to create a way of life that respects the past while adapting to the future.</p>\n</div>",
+    "parentQuestionId": 1225474,
+    "choices": [
+      {
+        "id": 2372108,
+        "label": "A",
+        "text": "Cultural traditions still play an important part in modern Vietnamese life.",
+        "isCorrect": false
+      },
+      {
+        "id": 2372109,
+        "label": "B",
+        "text": "A close link between work and home led to more family time in the past.",
+        "isCorrect": false
+      },
+      {
+        "id": 2372110,
+        "label": "C",
+        "text": "Technology has changed the way people keep in touch with each other.",
+        "isCorrect": false
+      },
+      {
+        "id": 2372111,
+        "label": "D",
+        "text": "People in big cities are working to tighter schedules than those in rural areas.",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 2372111,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Đ&acirc;y l&agrave; dạng c&acirc;u hỏi \"NOT mentioned\". Bạn h&atilde;y đọc kĩ từng phương &aacute;n v&agrave; d&ugrave;ng phương ph&aacute;p loại trừ:</p>\n<ul>\n<li>T&igrave;m bằng chứng trong b&agrave;i đọc để x&aacute;c nhận phương &aacute;n n&agrave;o được đề cập tới.</li>\n<li>H&atilde;y ch&uacute; &yacute; đến c&aacute;c chi tiết so s&aacute;nh. B&agrave;i đọc c&oacute; so s&aacute;nh cuộc sống th&agrave;nh thị v&agrave; n&ocirc;ng th&ocirc;n ở <em>hiện tại</em> kh&ocirc;ng, hay chỉ so s&aacute;nh hiện tại với qu&aacute; khứ? Phương &aacute;n n&agrave;o kh&ocirc;ng c&oacute; th&ocirc;ng tin hỗ trợ trực tiếp trong b&agrave;i sẽ l&agrave; đ&aacute;p &aacute;n đ&uacute;ng.</li>\n</ul>",
+    "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi y&ecirc;u cầu x&aacute;c định th&ocirc;ng tin KH&Ocirc;NG được đề cập trong b&agrave;i đọc. Để trả lời, học sinh cần đọc kỹ từng phương &aacute;n v&agrave; đối chiếu với nội dung b&agrave;i đọc để t&igrave;m ra th&ocirc;ng tin kh&ocirc;ng c&oacute; hoặc kh&ocirc;ng được hỗ trợ bởi bất kỳ chi tiết n&agrave;o trong văn bản.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc đề cập đến việc c&aacute;c truyền thống văn h&oacute;a vẫn được t&ocirc;n trọng (phương &aacute;n 1), mối li&ecirc;n kết giữa c&ocirc;ng việc v&agrave; gia đ&igrave;nh trong qu&aacute; khứ gi&uacute;p c&aacute;c th&agrave;nh vi&ecirc;n c&oacute; nhiều thời gian b&ecirc;n nhau hơn (phương &aacute;n 2), v&agrave; c&ocirc;ng nghệ đ&atilde; l&agrave;m thay đổi c&aacute;ch mọi người tương t&aacute;c (phương &aacute;n 3). Cụ thể:</p>\n<ul>\n<li>Phương &aacute;n 1 được đề cập đến ở c&acirc;u: <strong>[[cultural traditions are still respected]]</strong> (<em>c&aacute;c truyền thống văn h&oacute;a vẫn được t&ocirc;n trọng</em>).</li>\n<li>Phương &aacute;n 2 được đề cập đến ở c&acirc;u: <strong>[[Because work and home were closely linked, family members spent more time together during the day]]</strong> (<em>V&igrave; c&ocirc;ng việc v&agrave; nh&agrave; cửa li&ecirc;n kết chặt chẽ với nhau, c&aacute;c th&agrave;nh vi&ecirc;n trong gia đ&igrave;nh đ&atilde; d&agrave;nh nhiều thời gian b&ecirc;n nhau hơn v&agrave;o ban ng&agrave;y</em>).</li>\n<li>Phương &aacute;n 3 được đề cập đến ở c&acirc;u: <strong>[[Technology, especially smartphones, has made communication easier. But it has also changed how people interact]]</strong> (<em>C&ocirc;ng nghệ, đặc biệt l&agrave; điện thoại th&ocirc;ng minh, đ&atilde; gi&uacute;p việc giao tiếp dễ d&agrave;ng hơn. Nhưng n&oacute; cũng đ&atilde; thay đổi c&aacute;ch mọi người tương t&aacute;c</em>).</li>\n</ul>\n<p>Tuy nhi&ecirc;n, b&agrave;i đọc chỉ n&oacute;i rằng cuộc sống ở th&agrave;nh phố c&oacute; nhịp độ nhanh hơn v&agrave; lịch tr&igrave;nh bận rộn hơn so với qu&aacute; khứ, chứ kh&ocirc;ng hề c&oacute; sự so s&aacute;nh trực tiếp giữa lịch tr&igrave;nh l&agrave;m việc của người ở th&agrave;nh phố v&agrave; người ở n&ocirc;ng th&ocirc;n trong thời điểm hiện tại. Do đ&oacute;, phương &aacute;n 4 l&agrave; th&ocirc;ng tin kh&ocirc;ng được đề cập trong b&agrave;i.</p>\n<p>&nbsp;</p>",
+    "answerFeedbacks": {
+      "2372108": "<p>Th&ocirc;ng tin n&agrave;y được đề cập trực tiếp trong b&agrave;i đọc, cụ thể l&agrave; ở c&acirc;u: &ldquo;<em>cultural traditions are still respected</em>&rdquo; (c&aacute;c truyền thống văn h&oacute;a vẫn được t&ocirc;n trọng).</p>",
+      "2372109": "<p>Th&ocirc;ng tin n&agrave;y được n&ecirc;u r&otilde; ở đoạn 2: &ldquo;<em>Because work and home were closely linked, family members spent more time together during the day.</em>&rdquo; (Do c&ocirc;ng việc v&agrave; gia đ&igrave;nh c&oacute; mối li&ecirc;n hệ mật thiết, c&aacute;c th&agrave;nh vi&ecirc;n trong gia đ&igrave;nh d&agrave;nh nhiều thời gian b&ecirc;n nhau hơn trong ng&agrave;y.)</p>",
+      "2372110": "Thông tin này được đề cập ở đoạn 4, nói về việc công nghệ đã thay đổi cách mọi người tương tác và giao tiếp.",
+      "2372111": "Bài đọc có nói rằng cuộc sống ở thành phố có nhịp độ nhanh và lịch trình bận rộn, nhưng không hề so sánh trực tiếp lịch trình này với người dân ở nông thôn trong thời hiện đại."
+    },
+    "images": [],
+    "sourceExamId": 19146,
+    "sourceExamName": "Đề thi chính thức vào lớp 10 môn Anh trường THPT Chuyên KHXH & NV năm 2026",
+    "year": 2026
+  },
+  {
+    "id": "84_5",
+    "questionNumber": 34,
+    "questionName": "Question 5",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>What is the word &quot;challenge&quot; in paragraph 7 closest in meaning to?</strong></p>",
+    "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<div style=\"text-align: justify;\">\n<p>Vietnam has changed quickly over the past few decades. Today, daily life is very different from the past. For many young people, stories from their parents or grandparents may feel like scenes from another world. Yet these changes are not only about technology or money. They also show how values, habits, and expectations have changed over time.</p>\n<p>In the past, most Vietnamese people lived in rural areas and worked as farmers. Some also worked as fishermen near rivers and coastal areas, while others were carpenters or craft workers in small villages. Life was slower and often followed the seasons. Families grew their own food, and meals were simple and fresh, based on local food. Because work and home were closely linked, family members spent more time together during the day. Neighbors also played an important role. They helped each other in work and daily life, which created a strong sense of community.</p>\n<p>Transportation and communication were limited, so people felt distance more strongly. Bicycles were the main form of travel, and long trips took time and effort. Letters were often the only way to stay in touch with relatives far away. As a result, when people met, they valued those moments more deeply. Conversations were often longer and more meaningful.</p>\n<p>Today, Vietnam is more urban and connected than ever before. Large cities continue to grow and offer more jobs and better education. However, this also creates a faster pace of life. Many young people have busy schedules, long working hours, and high expectations. Technology, especially smartphones, has made communication easier. But it has also changed how people interact. Online messages are quick and easy, yet <strong>they</strong> sometimes replace face-to-face contact.</p>\n<p>People also see differences in what they eat. Traditional meals are still important at home and during special occasions. But modern life has increased the need for fast and convenient food. Eating out or having takeaways is now common, particularly for students and office workers.</p>\n<p>Even with these changes, some core values remain strong. Family ties still shape decisions and cultural traditions are still respected. Festivals such as Tet are not only holidays but also important times for reflection and connection.</p>\n<p>Vietnamese lifestyle has moved from simple and local to fast and global. For young people today, the <strong>challenge</strong> is to balance modern opportunities with traditional values. They try to create a way of life that respects the past while adapting to the future.</p>\n</div>",
+    "parentQuestionId": 1225474,
+    "choices": [
+      {
+        "id": 2372112,
+        "label": "A",
+        "text": "effort",
+        "isCorrect": false
+      },
+      {
+        "id": 2372113,
+        "label": "B",
+        "text": "difficulty",
+        "isCorrect": true
+      },
+      {
+        "id": 2372114,
+        "label": "C",
+        "text": "situation",
+        "isCorrect": false
+      },
+      {
+        "id": 2372115,
+        "label": "D",
+        "text": "question",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 2372113,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Đọc kỹ c&acirc;u cuối c&ugrave;ng của b&agrave;i đọc. T&aacute;c giả n&oacute;i rằng <em>\"việc c&acirc;n bằng giữa cơ hội hiện đại v&agrave; gi&aacute; trị truyền thống l&agrave; một... cho giới trẻ\"</em>. H&atilde;y suy nghĩ xem việc c&acirc;n bằng hai thứ c&oacute; phần tr&aacute;i ngược nhau n&agrave;y l&agrave; một việc dễ d&agrave;ng hay kh&oacute; khăn?</p>",
+    "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng đo&aacute;n nghĩa của từ trong ngữ cảnh. Để trả lời, học sinh cần đọc kỹ c&acirc;u chứa từ \"challenge\" v&agrave; c&aacute;c c&acirc;u xung quanh để suy ra &yacute; nghĩa ph&ugrave; hợp nhất.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>C&acirc;u chứa từ <strong>\"challenge\" </strong>trong b&agrave;i đọc l&agrave;: <strong>[[For young people today, the challenge is to balance modern opportunities with traditional values.]]</strong> (<em>Đối với giới trẻ ng&agrave;y nay, thử th&aacute;ch l&agrave; c&acirc;n bằng giữa cơ hội hiện đại v&agrave; gi&aacute; trị truyền thống.</em>). Việc \"c&acirc;n bằng\" hai yếu tố c&oacute; phần đối lập (hiện đại v&agrave; truyền thống) l&agrave; một việc kh&ocirc;ng hề dễ d&agrave;ng, đ&ograve;i hỏi sự nỗ lực. Do đ&oacute;, <strong>\"challenge\"</strong> (thử th&aacute;ch) ở đ&acirc;y mang nghĩa gần nhất với <strong>\"difficulty\"</strong> (sự kh&oacute; khăn).</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 <em>\"effort\"</em> (nỗ lực) l&agrave; thứ cần c&oacute; để vượt qua thử th&aacute;ch, chứ kh&ocirc;ng phải bản th&acirc;n thử th&aacute;ch. Phương &aacute;n 3 <em>\"situation\"</em> (t&igrave;nh huống) qu&aacute; chung chung v&agrave; kh&ocirc;ng thể hiện được t&iacute;nh chất kh&oacute; khăn của vấn đề. Phương &aacute;n 4 <em>\"question\"</em> (c&acirc;u hỏi) ho&agrave;n to&agrave;n kh&ocirc;ng ph&ugrave; hợp về nghĩa.</p>",
+    "answerFeedbacks": {
+      "2372112": "<p>Phương &aacute;n n&agrave;y sai v&igrave; \"<em>effort</em>\" (nỗ lực) l&agrave; điều cần c&oacute; để vượt qua thử th&aacute;ch, kh&ocirc;ng thể l&agrave; từ đồng nghĩa với <em>\"challenge\"</em> (thử th&aacute;ch).</p>",
+      "2372113": "<p>Phương &aacute;n n&agrave;y đ&uacute;ng v&igrave; trong ngữ cảnh c&acirc;n bằng giữa cơ hội hiện đại v&agrave; gi&aacute; trị truyền thống, \"<em>challenge</em>\" (thử th&aacute;ch) đồng nghĩa với một việc kh&oacute; khăn, tức l&agrave; một \"<em>difficulty</em>\".</p>",
+      "2372114": "<p>Phương &aacute;n n&agrave;y sai v&igrave; \"<em>situation</em>\" (t&igrave;nh huống) qu&aacute; chung chung v&agrave; kh&ocirc;ng truyền tải được sắc th&aacute;i \"kh&oacute; khăn\" của từ \"<em>challenge</em>\".</p>",
+      "2372115": "Phương án này sai vì ngữ cảnh không đề cập đến một câu hỏi cần trả lời mà là một nhiệm vụ khó khăn cần thực hiện."
+    },
+    "images": [],
+    "sourceExamId": 19146,
+    "sourceExamName": "Đề thi chính thức vào lớp 10 môn Anh trường THPT Chuyên KHXH & NV năm 2026",
+    "year": 2026
+  },
+  {
+    "id": "84_6",
+    "questionNumber": 35,
+    "questionName": "Question 6",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Which of the following statements can be inferred from the passage?</strong></p>",
+    "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<div style=\"text-align: justify;\">\n<p>Vietnam has changed quickly over the past few decades. Today, daily life is very different from the past. For many young people, stories from their parents or grandparents may feel like scenes from another world. Yet these changes are not only about technology or money. They also show how values, habits, and expectations have changed over time.</p>\n<p>In the past, most Vietnamese people lived in rural areas and worked as farmers. Some also worked as fishermen near rivers and coastal areas, while others were carpenters or craft workers in small villages. Life was slower and often followed the seasons. Families grew their own food, and meals were simple and fresh, based on local food. Because work and home were closely linked, family members spent more time together during the day. Neighbors also played an important role. They helped each other in work and daily life, which created a strong sense of community.</p>\n<p>Transportation and communication were limited, so people felt distance more strongly. Bicycles were the main form of travel, and long trips took time and effort. Letters were often the only way to stay in touch with relatives far away. As a result, when people met, they valued those moments more deeply. Conversations were often longer and more meaningful.</p>\n<p>Today, Vietnam is more urban and connected than ever before. Large cities continue to grow and offer more jobs and better education. However, this also creates a faster pace of life. Many young people have busy schedules, long working hours, and high expectations. Technology, especially smartphones, has made communication easier. But it has also changed how people interact. Online messages are quick and easy, yet <strong>they</strong> sometimes replace face-to-face contact.</p>\n<p>People also see differences in what they eat. Traditional meals are still important at home and during special occasions. But modern life has increased the need for fast and convenient food. Eating out or having takeaways is now common, particularly for students and office workers.</p>\n<p>Even with these changes, some core values remain strong. Family ties still shape decisions and cultural traditions are still respected. Festivals such as Tet are not only holidays but also important times for reflection and connection.</p>\n<p>Vietnamese lifestyle has moved from simple and local to fast and global. For young people today, the <strong>challenge</strong> is to balance modern opportunities with traditional values. They try to create a way of life that respects the past while adapting to the future.</p>\n</div>",
+    "parentQuestionId": 1225474,
+    "choices": [
+      {
+        "id": 2372116,
+        "label": "A",
+        "text": "Young people in urban areas may have to deal with higher levels of pressure.",
+        "isCorrect": true
+      },
+      {
+        "id": 2372117,
+        "label": "B",
+        "text": "Young people are eager to combine traditional culture with modern life.",
+        "isCorrect": false
+      },
+      {
+        "id": 2372118,
+        "label": "C",
+        "text": "It is probably hard to maintain the strong sense of community in rural areas.",
+        "isCorrect": false
+      },
+      {
+        "id": 2372119,
+        "label": "D",
+        "text": "Transportation barriers have been overcome thanks to technology.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 2372116,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Câu hỏi yêu cầu bạn \"suy luận\" (infer), tức là tìm ra ý nghĩa ẩn sau con chữ, không phải tìm thông tin được viết y hệt. Hãy tập trung vào những đoạn mô tả cuộc sống ở thành thị và tự hỏi: \"Những chi tiết này cho chúng ta biết điều gì về trải nghiệm của những người trẻ sống ở đó?\"</p>",
+    "explanation": "<p style=\"text-align: justify;\"><em>Câu hỏi này kiểm tra kỹ năng suy luận, yêu cầu bạn phải đọc và kết nối các chi tiết trong bài để rút ra một kết luận không được nêu trực tiếp.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span>Bài đọc không trực tiếp nói rằng người trẻ ở thành thị phải chịu áp lực cao hơn, nhưng có đưa ra các chi tiết ngụ ý điều này. Ví dụ, bài đọc có thể đề cập đến [[<strong>the fierce competition for jobs and the fast-paced, demanding lifestyle in major cities</strong>]] (<em>sự cạnh tranh khốc liệt về việc làm và nhịp sống nhanh, đòi hỏi cao ở các thành phố lớn</em>). Từ những chi tiết này, ta có thể suy luận một cách hợp lý rằng người trẻ ở khu vực thành thị có thể phải đối mặt với mức độ áp lực cao hơn. Các phương án còn lại không thể được suy ra từ các thông tin được cung cấp trong bài đọc.</p>",
+    "answerFeedbacks": {
+      "2372116": "Đáp án này là một suy luận hợp lý dựa trên các chi tiết trong bài đọc mô tả về sự cạnh tranh và nhịp sống đòi hỏi cao ở thành thị.",
+      "2372117": "<p>B&agrave;i đọc c&oacute; thể đề cập đến văn h&oacute;a v&agrave; cuộc sống hiện đại, nhưng kh&ocirc;ng n&oacute;i r&otilde; về sự h&aacute;o hức của giới trẻ trong việc kết hợp ch&uacute;ng.</p>",
+      "2372118": "Đây là một suy luận không có cơ sở vững chắc từ bài đọc; bài đọc có thể nói về những thay đổi ở nông thôn nhưng không đủ bằng chứng để kết luận việc duy trì cộng đồng là 'khó'.",
+      "2372119": "<p>Th&ocirc;ng tin n&agrave;y l&agrave; một sự kh&aacute;i qu&aacute;t h&oacute;a qu&aacute; mức; b&agrave;i đọc c&oacute; thể kh&ocirc;ng ủng hộ khẳng định tuyệt đối rằng c&aacute;c r&agrave;o cản đ&atilde; được 'vượt qua'.</p>"
+    },
+    "images": [],
+    "sourceExamId": 19146,
+    "sourceExamName": "Đề thi chính thức vào lớp 10 môn Anh trường THPT Chuyên KHXH & NV năm 2026",
+    "year": 2026
+  },
+  {
+    "id": "84_7",
+    "questionNumber": 19,
+    "questionName": "Question 7",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>What is the main idea of the passage?</strong></p>",
+    "passageText": "<p><strong>Read the following passage and choose the correct answer to each of the questions.</strong></p>\n<div style=\"text-align: justify;\">\n<p>Plants and animals are an essential part of Earth's ecology. When we speak about a specific habitat and time, we refer to them as flora and fauna. Flora refers to plants and fauna refers to animals. They are fascinating to study due to their beauty and significance to human life.</p>\n<p>First, the flora and fauna on Earth create an ecological balance, making life possible for humans. Flora releases oxygen for humans. The carbon dioxide we breathe out is <strong>vital</strong> to plants. Humans also rely on plants and animals for food, medicine, and more.</p>\n<p>Second, plants and animals combine to create a food chain. In the food chain, the animals play an important part. They feed on plants and, in turn, are the prey of other animals. Their droppings become fertilizers for plants.</p>\n<p>Finally, plants and animals add a lot of beauty to our Earth. People love and appreciate the natural beauty, the relaxed feeling in green spaces, and water areas.</p>\n<p>However, plants and animals are facing habitat loss, pollution, and climate <strong>change</strong>. To protect them, we should raise people's awareness of their significance, stop hunting, plant more trees, and build nature reserves for our wildlife.</p>\n</div>",
+    "parentQuestionId": 1225504,
+    "choices": [
+      {
+        "id": 2372224,
+        "label": "A",
+        "text": "Plants and animals are beautiful but not important.",
+        "isCorrect": false
+      },
+      {
+        "id": 2372225,
+        "label": "B",
+        "text": "Only animals are important to humans.",
+        "isCorrect": false
+      },
+      {
+        "id": 2372226,
+        "label": "C",
+        "text": "Flora and fauna are essential to life and need protection.",
+        "isCorrect": true
+      },
+      {
+        "id": 2372227,
+        "label": "D",
+        "text": "Humans should stop using natural resources completely.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 2372226,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Để tìm ý chính của cả bài, bạn hãy tự hỏi: \"Tác giả muốn nói với mình điều gì quan trọng nhất thông qua toàn bộ bài viết này?\" Hãy tìm một phương án trả lời bao quát được nội dung của hầu hết các đoạn, thay vì chỉ tập trung vào một chi tiết nhỏ lẻ.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng x&aacute;c định &yacute; ch&iacute;nh của to&agrave;n bộ văn bản. Để trả lời, học sinh cần tổng hợp th&ocirc;ng tin từ c&aacute;c đoạn để nhận ra th&ocirc;ng điệp cốt l&otilde;i m&agrave; t&aacute;c giả muốn truyền tải.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc nhấn mạnh tầm quan trọng của cả hệ thực vật v&agrave; động vật đối với sự sống tr&ecirc;n Tr&aacute;i Đất v&agrave; k&ecirc;u gọi h&agrave;nh động bảo vệ ch&uacute;ng. Phương &aacute;n 3 bao qu&aacute;t được cả hai kh&iacute;a cạnh n&agrave;y: tầm quan trọng (essential to life) v&agrave; sự cần thiết phải bảo vệ (need protection). C&aacute;c chi tiết trong b&agrave;i đều tập trung l&agrave;m r&otilde; hai luận điểm n&agrave;y, như c&acirc;u kết b&agrave;i thường t&oacute;m gọn lại &yacute; ch&iacute;nh: <strong>[[Therefore, it is our collective responsibility to conserve these invaluable natural treasures for future generations.]]</strong> <em>(V&igrave; vậy, tr&aacute;ch nhiệm chung của ch&uacute;ng ta l&agrave; bảo tồn những kho b&aacute;u thi&ecirc;n nhi&ecirc;n v&ocirc; gi&aacute; n&agrave;y cho c&aacute;c thế hệ tương lai.)</em></p>\n<p style=\"text-align: justify;\">Phương &aacute;n 4 dễ g&acirc;y nhầm lẫn v&igrave; b&agrave;i đọc n&oacute;i về \"bảo vệ\", nhưng \"bảo vệ\" kh&ocirc;ng đồng nghĩa với \"ngừng ho&agrave;n to&agrave;n việc sử dụng t&agrave;i nguy&ecirc;n thi&ecirc;n nhi&ecirc;n\", đ&acirc;y l&agrave; một suy diễn thiếu logic v&agrave; qu&aacute; cực đoan. Phương &aacute;n 1 v&agrave; 2 đưa ra c&aacute;c th&ocirc;ng tin tr&aacute;i ngược hoặc qu&aacute; hẹp.</p>",
+    "answerFeedbacks": {
+      "2372224": "Phương án này sai vì nội dung của nó trái ngược hoàn toàn với thông điệp chính của bài đọc về tầm quan trọng của hệ thực vật và động vật.",
+      "2372225": "Phương án này sai vì nó cung cấp thông tin quá hẹp, chỉ đề cập đến động vật trong khi bài đọc thảo luận về cả hệ thực vật (flora) và động vật (fauna).",
+      "2372226": "Phương án này đúng vì nó tóm tắt chính xác và đầy đủ hai luận điểm chính của bài đọc: tầm quan trọng thiết yếu của hệ thực vật, động vật và sự cần thiết phải bảo vệ chúng.",
+      "2372227": "Phương án này sai vì nó đưa ra một kết luận quá cực đoan và không được đề cập hay ủng hộ trong bài đọc, vốn chỉ nhấn mạnh việc bảo tồn và sử dụng bền vững."
+    },
+    "images": [],
+    "sourceExamId": 19148,
+    "sourceExamName": "Đề thi chính thức vào lớp 10 môn Anh trường THPT Chuyên KHTN năm 2026",
+    "year": 2026
+  },
+  {
+    "id": "84_8",
+    "questionNumber": 8,
+    "questionName": "Question 8",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>What is the passage about?</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read and choose the correct answers.</strong></p>\n<p style=\"text-align: justify;\">I was born in Ha Noi, the capital of Viet Nam. Ha Noi is famous for its natural beauty, with lots of rivers and lakes. There are many historical places to visit in Ha Noi. The Literature Temple (Van Mieu Quoc Tu Giam) is the country's first-ever historical university. Teenagers often come here to pray for high results in their upcoming examinations. As Viet Nam is a Buddhism-oriented nation, its capital has also been the centre of Buddhism for centuries. In Ha Noi alone, there are about 600 temples and pagodas. It also has a big church in the city centre, a <strong>popular</strong> place for the few Christians living here. With a population of nearly eight million, the city is quite crowded. However, the public transportation is not adequate, so visitors find it hard to safely cross the roads. The city is packed with universities and enterprises, making it the top destination for higher education students and labour workers. Many people from <strong>rural </strong>areas reside in Ha Noi so that they can get well-paid jobs. This makes the city become more crowded than ever before.</p>",
+    "parentQuestionId": 1201597,
+    "choices": [
+      {
+        "id": 2324951,
+        "label": "A",
+        "text": "<p>A city</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 2324952,
+        "label": "B",
+        "text": "<p>Changes in a city</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 2324953,
+        "label": "C",
+        "text": "<p>A city in the past</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 2324954,
+        "label": "D",
+        "text": "<p>Life in the countryside</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 2324951,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Đọc lướt toàn bộ bài đọc và tự hỏi: \"Tác giả đang nói về chủ đề chung nào xuyên suốt các câu văn?\". Chủ đề này bao quát tất cả các chi tiết như địa danh, dân số, và giao thông.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi y&ecirc;u cầu nhận biết chủ đề ch&iacute;nh của cả b&agrave;i đọc. Để trả lời, học sinh cần đọc to&agrave;n bộ văn bản, tổng hợp c&aacute;c th&ocirc;ng tin chi tiết để x&aacute;c định nội dung bao qu&aacute;t nhất.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc bắt đầu bằng việc giới thiệu về H&agrave; Nội: <strong>[[I was born in Ha Noi, the capital of Viet Nam.]]</strong> (<em>T&ocirc;i được sinh ra ở H&agrave; Nội, thủ đ&ocirc; của Việt Nam.</em>). Sau đ&oacute;, b&agrave;i đọc m&ocirc; tả nhiều kh&iacute;a cạnh kh&aacute;c nhau của th&agrave;nh phố n&agrave;y như vẻ đẹp tự nhi&ecirc;n, c&aacute;c địa danh lịch sử, t&ocirc;n gi&aacute;o, d&acirc;n số, giao th&ocirc;ng v&agrave; vai tr&ograve; l&agrave; trung t&acirc;m gi&aacute;o dục, kinh tế. Tất cả c&aacute;c chi tiết n&agrave;y đều d&ugrave;ng để m&ocirc; tả về một th&agrave;nh phố.</p>\n<p style=\"text-align: justify;\">Do đ&oacute;, phương &aacute;n 1 l&agrave; đ&aacute;p &aacute;n ch&iacute;nh x&aacute;c nhất. C&aacute;c phương &aacute;n c&ograve;n lại chỉ đề cập đến những kh&iacute;a cạnh nhỏ (phương &aacute;n 2, 3) hoặc th&ocirc;ng tin kh&ocirc;ng phải trọng t&acirc;m của b&agrave;i đọc (phương &aacute;n 4).</p>",
+    "answerFeedbacks": {
+      "2324951": "Toàn bộ bài đọc mô tả các khía cạnh khác nhau của Hà Nội, từ vẻ đẹp tự nhiên, các địa danh lịch sử, dân số cho đến tình hình giao thông, nên chủ đề chính là về một thành phố.",
+      "2324952": "<p>Đ&acirc;y l&agrave; th&ocirc;ng tin qu&aacute; hẹp v&igrave; b&agrave;i đọc chỉ đề cập đến việc th&agrave;nh phố ng&agrave;y c&agrave;ng đ&ocirc;ng đ&uacute;c hơn ở cuối b&agrave;i chứ kh&ocirc;ng tập trung v&agrave;o những thay đổi.</p>",
+      "2324953": "<p>Đ&acirc;y l&agrave; th&ocirc;ng tin sai v&igrave; b&agrave;i đọc m&ocirc; tả cả những đặc điểm trong qu&aacute; khứ lẫn hiện tại của th&agrave;nh phố chứ kh&ocirc;ng chỉ tập trung v&agrave;o qu&aacute; khứ.</p>",
+      "2324954": "Đây là thông tin sai vì bài đọc chỉ nhắc đến vùng nông thôn (<em>\"rural areas\"</em>) như là nơi người dân di cư đến thành phố chứ không mô tả cuộc sống ở đó."
+    },
+    "images": [],
+    "sourceExamId": 19155,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 xã Vân Đình năm 2026 (Lần 2)",
+    "year": 2026
+  },
+  {
+    "id": "84_9",
+    "questionNumber": 30,
+    "questionName": "Question 9",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Look at this message. What does it mean?</strong></p>\n<style>\n    .email-card-left {\n        max-width: 550px;\n        margin: 1.5rem 0;\n        background-color: #ffffff;\n        border: 2px solid #ceedca;\n        border-radius: 1.25rem;\n        overflow: hidden;\n        box-shadow: 0 4px 12px rgba(28, 88, 31, 0.05);\n        transition: border-color 0.3s ease;\n        text-align: left; \n    }\n\n    .email-card-left:hover {\n        border-color: #5fbd18;\n    }\n\n    .email-header {\n        background-color: #e5f6e3;\n        padding: 1.25rem;\n        border-bottom: 1px solid #ceedca;\n        display: flex;\n        flex-direction: column;\n        gap: 0.6rem;\n    }\n\n    .email-line {\n        display: flex;\n        align-items: center;\n        gap: 0.75rem;\n        color: #1c581f;\n    }\n\n    .email-label {\n        font-weight: bold;\n        color: #57aa19;\n        min-width: 3rem; /* Cố định độ rộng nhãn để căn thẳng hàng các email */\n    }\n\n    .email-address {\n        color: #1c581f;\n        opacity: 0.9;\n    }\n\n    .email-body {\n        padding: 1.5rem;\n        line-height: 1.6;\n        color: #1c581f;\n    }\n\n    .email-body p {\n        margin: 0 0 1rem 0;\n    }\n\n    .email-body p:last-child {\n        margin-bottom: 0;\n    }\n\n    /* Nhấn mạnh các từ quan trọng trong bài đọc */\n    .text-highlight {\n        color: #5fbd18;\n        font-weight: bold;\n        text-decoration: underline decoration-color(#add93f);\n        text-underline-offset: 4px;\n    }\n</style>\n<div class=\"email-card-left\">\n<div class=\"email-header\">\n<div class=\"email-line\"><span class=\"email-label\">Form:</span> <span class=\"email-address\">Pedro</span></div>\n<div class=\"email-line\"><span class=\"email-label\">To:</span> <span class=\"email-address\">Nick</span></div>\n</div>\n<div class=\"email-body\">\n<p>Hi Nick,</p>\n<p>I'd like to help with the concert. I like jazz and if you need a hand, I can play the piano, I have a time this afternoon. Can I meet you at 1.30 at the school hall?</p>\n<p>Bye,<br>Pedro</p>\n</div>\n</div>\n<p>&nbsp;</p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 2325939,
+        "label": "A",
+        "text": "<p>Pedro is offering to help with the concert.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 2325940,
+        "label": "B",
+        "text": "<p>Pedro does not want to help with the concert.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 2325941,
+        "label": "C",
+        "text": "<p>Pedro likes disco music and cannot play an instrument.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 2325942,
+        "label": "D",
+        "text": "<p>Pedro can help with the concert and play the guitar.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 2325939,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Đọc kỹ c&acirc;u đầu ti&ecirc;n của Pedro: \"<strong>I'd like to help with the concert.</strong>\" để hiểu &yacute; định ch&iacute;nh của anh ấy. Sau đ&oacute;, kiểm tra c&aacute;c chi tiết cụ thể m&agrave; Pedro đề cập về sở th&iacute;ch &acirc;m nhạc v&agrave; kỹ năng của m&igrave;nh.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Nội dung tin nhắn: </span></p>\n<p style=\"text-align: justify;\"><em>Pedro gửi tin nhắn cho Nick, b&agrave;y tỏ mong muốn được gi&uacute;p đỡ buổi h&ograve;a nhạc. Anh ấy n&oacute;i m&igrave;nh th&iacute;ch nhạc jazz, c&oacute; thể chơi piano v&agrave; c&oacute; thời gian v&agrave;o chiều nay. Pedro đề nghị gặp Nick l&uacute;c 1.30 tại sảnh trường.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Dựa v&agrave;o c&acirc;u mở đầu \"<strong>I'd like to help with the concert</strong>\" v&agrave; c&aacute;c chi tiết kh&aacute;c như \"<strong>if you need hand, I can play the piano</strong>\", r&otilde; r&agrave;ng Pedro đang đề nghị gi&uacute;p đỡ buổi h&ograve;a nhạc. Phương &aacute;n 1 phản &aacute;nh đ&uacute;ng &yacute; ch&iacute;nh n&agrave;y.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><b>help with something</b>: gi&uacute;p đỡ với việc g&igrave; đ&oacute;</p>\n<p style=\"text-align: justify;\"><b>need a hand</b> (idm.): cần một tay gi&uacute;p đỡ, cần gi&uacute;p đỡ</p>\n<p style=\"text-align: justify;\"><b>play the piano </b>(phr.): chơi đ&agrave;n piano</p>\n<p style=\"text-align: justify;\"><b>have time</b> (phr.): c&oacute; thời gian rảnh, c&oacute; sẵn thời gian</p>\n<p style=\"text-align: justify;\"><b>offer to do something</b>: đề nghị l&agrave;m g&igrave; đ&oacute;</p>",
+    "answerFeedbacks": {
+      "2325939": "Tin nhắn bắt đầu bằng \"<em>I'd like to help with the concert</em>\", thể hiện rõ Pedro đang đề nghị giúp đỡ.",
+      "2325940": "Pedro nói \"<em>I'd like to help with the concert</em>\", cho thấy anh ấy muốn giúp đỡ.",
+      "2325941": "Tin nhắn ghi rõ Pedro thích nhạc jazz (\"<em>I like jazz</em>\") và có thể chơi piano (\"<em>I can play the piano</em>\").",
+      "2325942": "Pedro có thể giúp đỡ và chơi nhạc cụ, nhưng anh ấy nói mình chơi piano (\"<em>I can play the piano</em>\") chứ không phải guitar."
+    },
+    "images": [],
+    "sourceExamId": 19156,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 trường THCS Ngọc Lâm Hà Nội năm 2026",
+    "year": 2026
+  },
+  {
+    "id": "84_10",
+    "questionNumber": 19,
+    "questionName": "Question 10",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>They don't enjoy that factory job. It's very _____, doing the same tasks over and over again all day.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 2325624,
+        "label": "A",
+        "text": "<p>creative</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 2325627,
+        "label": "B",
+        "text": "<p>primitive</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 2325629,
+        "label": "C",
+        "text": "<p>alternative</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 2325630,
+        "label": "D",
+        "text": "<p>repetitive</p>",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 2325630,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p><span style=\"text-align: justify;\">Để chọn từ ph&ugrave; hợp, bạn h&atilde;y ch&uacute; &yacute; đến cụm từ mi&ecirc;u tả t&iacute;nh chất của c&ocirc;ng việc trong c&acirc;u: \"doing the same tasks over and over again all day\". Cụm từ n&agrave;y gợi &yacute; điều g&igrave; về bản chất của c&ocirc;ng việc? H&atilde;y t&igrave;m một t&iacute;nh từ c&oacute; nghĩa tương đồng với việc \"lặp đi lặp lại\".</span></p>",
+    "explanation": "<p><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span>&nbsp;</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">creative</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/kriˈeɪtɪv/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>c&oacute; t&iacute;nh s&aacute;ng tạo, c&oacute; khả năng s&aacute;ng tạo</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">primitive</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈprɪmətɪv/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>nguy&ecirc;n thủy, sơ khai</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">alternative</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ɔːlˈtɜːrnətɪv/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>thay thế, kh&aacute;c</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">repetitive</span></strong><span class=\"word-pos-sharp\">(adj.)</span></td>\n<td><span class=\"word-ipa-sharp\">/rɪˈpetətɪv/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>lặp đi lặp lại, đơn điệu</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Ph&acirc;n t&iacute;ch:</span><span style=\"text-align: justify;\"> </span><span style=\"text-align: justify;\">Ngữ cảnh \"<strong>doing the same tasks over and over again all day</strong>\" (<em>l&agrave;m đi l&agrave;m lại những c&ocirc;ng việc giống nhau cả ng&agrave;y</em>) m&ocirc; tả một c&ocirc;ng việc đơn điệu, lặp lại. Từ \"<strong>repetitive</strong>\" <em>(lặp đi lặp lại)</em> ph&ugrave; hợp nhất để diễn tả t&iacute;nh chất n&agrave;y của c&ocirc;ng việc. </span></p>\n<p style=\"text-align: justify;\"><span style=\"text-align: justify;\">C&aacute;c phương &aacute;n kh&aacute;c đều c&oacute; nghĩa kh&ocirc;ng li&ecirc;n quan đến ngữ cảnh được đưa ra.</span></p>",
+    "answerFeedbacks": {
+      "2325624": "<p>\"creative\" nghĩa l&agrave; li&ecirc;n quan đến sự s&aacute;ng tạo v&agrave; &yacute; tưởng mới, kh&ocirc;ng ph&ugrave; hợp với m&ocirc; tả c&ocirc;ng việc lặp đi lặp lại.</p>",
+      "2325627": "<p>\"primitive\" nghĩa l&agrave; nguy&ecirc;n thủy hoặc ở giai đoạn ph&aacute;t triển ban đầu, kh&ocirc;ng li&ecirc;n quan đến t&iacute;nh chất của c&ocirc;ng việc.</p>",
+      "2325629": "<p>\"alternative\" nghĩa l&agrave; một lựa chọn kh&aacute;c, kh&ocirc;ng m&ocirc; tả t&iacute;nh chất của một c&ocirc;ng việc.</p>",
+      "2325630": "<p>\"repetitive\" (lặp đi lặp lại) mi&ecirc;u tả ch&iacute;nh x&aacute;c một c&ocirc;ng việc bao gồm <em>\"doing the same tasks over and over again all day\"</em>.</p>"
+    },
+    "images": [],
+    "sourceExamId": 19158,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 cụm chuyên môn Hà Nội số 25 năm 2026",
+    "year": 2026
+  },
+  {
+    "id": "84_11",
+    "questionNumber": 8,
+    "questionName": "Question 11",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Many people find it stressful to live in a _____ because of the lack of green spaces and high levels of pollution.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 2324939,
+        "label": "A",
+        "text": "public amenities",
+        "isCorrect": false
+      },
+      {
+        "id": 2324940,
+        "label": "B",
+        "text": "concrete jungle",
+        "isCorrect": true
+      },
+      {
+        "id": 2324941,
+        "label": "C",
+        "text": "bustling market",
+        "isCorrect": false
+      },
+      {
+        "id": 2324942,
+        "label": "D",
+        "text": "<p>hygiene district</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 2324940,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>H&atilde;y xem x&eacute;t ngữ cảnh c&acirc;u hỏi: \"<em>lack of green spaces and high levels of pollution</em>\" (thiếu kh&ocirc;ng gian xanh v&agrave; mức độ &ocirc; nhiễm cao). Cụm từ n&agrave;o trong c&aacute;c lựa chọn ph&ugrave; hợp nhất để mi&ecirc;u tả một nơi như vậy?</p>",
+    "explanation": "<p><span class=\"eq-highlight\">Giải nghĩa từ vựng:</span>&nbsp;</p>\n<style>\n    .vocab-table-sharp-wrapper {\n        width: 100%;\n        background-color: #ffffff; \n        border: 1px solid #ceedca;\n        border-radius: 10px; \n        overflow: hidden;\n    }\n\n    .vocab-table-sharp {\n        width: 100%;\n        border-collapse: collapse;\n        text-align: left;\n        table-layout: fixed; \n    }\n\n    .vocab-table-sharp th {\n        background-color: #f5f5f5; \n        color: #1c581f;\n        padding: 0.8rem 1.5rem;\n        border-bottom: 2px solid #5fbd18;\n    }\n\n    .vocab-table-sharp td {\n        padding: 0.8rem 1.5rem;\n        color: #1c581f;\n        border-bottom: 1px solid #ceedca;\n        transition: background-color 0.3s ease;\n        word-wrap: break-word;\n        vertical-align: middle; \n    }\n\n    .vocab-table-sharp tr:last-child td {\n        border-bottom: none;\n    }\n\n    .vocab-table-sharp tbody tr:hover td {\n        background-color: #f9f9f9;\n    }\n\n    .word-en-sharp {\n        color: #1c581f;\n        margin-right: 0.5rem; \n    }\n\n    .word-pos-sharp {\n        color: #57aa19;\n    }\n\n    .word-ipa-sharp {\n        color: #555;\n    }\n</style>\n<div class=\"vocab-table-sharp-wrapper\">\n<table class=\"vocab-table-sharp\">\n<thead>\n<tr>\n<th>Từ vựng</th>\n<th>Phi&ecirc;n &acirc;m</th>\n<th>Nghĩa</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong><span class=\"word-en-sharp\">public amenities</span></strong><span class=\"word-pos-sharp\">(phr.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˌpʌblɪk əˈmiːnətiz/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>tiện &iacute;ch c&ocirc;ng cộng</em></span></td>\n</tr>\n<tr style=\"background-color: #e5f6e3;\">\n<td><strong><span class=\"word-en-sharp\">concrete jungle</span></strong><span class=\"word-pos-sharp\">(n.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˌkɒŋkriːt ˈdʒʌŋɡl/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>khu rừng b&ecirc; t&ocirc;ng; th&agrave;nh phố nhiều nh&agrave; cao tầng v&agrave; &iacute;t c&acirc;y xanh</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">bustling market</span></strong><span class=\"word-pos-sharp\">(phr.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈbʌslɪŋ ˈmɑːrkɪt/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>chợ nhộn nhịp</em></span></td>\n</tr>\n<tr>\n<td><strong><span class=\"word-en-sharp\">hygiene district</span></strong><span class=\"word-pos-sharp\">(phr.)</span></td>\n<td><span class=\"word-ipa-sharp\">/ˈhaɪdʒiːn ˈdɪstrɪkt/</span></td>\n<td><span style=\"color: #7e8c8d;\"><em>khu vực vệ sinh (kh&ocirc;ng phải l&agrave; một cụm từ th&ocirc;ng dụng trong tiếng Anh với nghĩa n&agrave;y)</em></span></td>\n</tr>\n</tbody>\n</table>\n</div>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\" style=\"color: #5fbd18;\"><br />Ph&acirc;n t&iacute;ch:</span><span style=\"text-align: justify;\"> </span><span style=\"text-align: justify;\">Cụm từ \"<strong>lack of green spaces and high levels of pollution</strong>\" (thiếu kh&ocirc;ng gian xanh v&agrave; mức độ &ocirc; nhiễm cao) m&ocirc; tả r&otilde; r&agrave;ng một m&ocirc;i trường đ&ocirc; thị h&oacute;a cao, v&agrave; cụm th&agrave;nh ngữ \"<strong>concrete jungle</strong>\" (khu rừng b&ecirc; t&ocirc;ng) l&agrave; lựa chọn ph&ugrave; hợp nhất để diễn tả điều n&agrave;y.</span></p>\n<p style=\"text-align: justify;\"><span style=\"text-align: justify;\"> C&aacute;c phương &aacute;n c&ograve;n lại kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh của c&acirc;u.</span></p>",
+    "answerFeedbacks": {
+      "2324939": "<p>Cụm từ <em>\"public amenities\"</em> (tiện &iacute;ch c&ocirc;ng cộng) kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh m&ocirc; tả một nơi thiếu kh&ocirc;ng gian xanh v&agrave; &ocirc; nhiễm.</p>",
+      "2324940": "<p>Cụm từ <em>\"concrete jungle\" </em>(khu rừng b&ecirc; t&ocirc;ng) ch&iacute;nh x&aacute;c m&ocirc; tả một th&agrave;nh phố hoặc khu đ&ocirc; thị c&oacute; nhiều t&ograve;a nh&agrave; v&agrave; &iacute;t c&acirc;y xanh, khớp với m&ocirc; tả \"<em>lack of green spaces and high levels of pollution\"</em>.</p>",
+      "2324941": "<p>Cụm từ \"<em>bustling market\"</em> (chợ nhộn nhịp) chỉ một khu chợ đ&ocirc;ng đ&uacute;c, kh&ocirc;ng li&ecirc;n quan đến vấn đề kh&ocirc;ng gian xanh hay &ocirc; nhiễm.</p>",
+      "2324942": "<p>Cụm từ <em>\"hygiene district\"</em> kh&ocirc;ng phải l&agrave; một cụm th&ocirc;ng dụng trong tiếng Anh v&agrave; cũng kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh tr&ecirc;n.</p>"
+    },
+    "images": [],
+    "sourceExamId": 19159,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 phường Hà Đông năm 2026 (Lần 1)",
+    "year": 2026
+  },
+  {
+    "id": "84_12",
+    "questionNumber": 27,
+    "questionName": "Question 12",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>The word \"essential\" in paragraph 3 is CLOSEST in meaning to _____.</strong></p>",
+    "passageText": "<p style=\"text-align: justify;\"><strong>Read the following passage and choose the correct answer to each of the following questions.</strong></p>\n<p style=\"text-align: justify;\">Teenage years are a time when your young people grow and develop really quickly, and the requirements for some vitamins and minerals, like calcium and iron, are fairly high. The age at which your child will have a growth spurt will <strong>vary</strong>, but in girls the growth spurt normally peaks at 12.5 years of age, and in boys at 14 years of age.</p>\n<p style=\"text-align: justify;\">Many lifestyle changes take place during adolescence. When children start secondary school, they often have more independence and greater control over the choices they make. They can often make decisions about what and when they want to eat, and how they spend their free time. Media can often be a challenge promoting the \"thin\" body ideal, as well as challenging other aspects of your family values and beliefs. This can make it hard for them to understand what a healthy weight and lifestyle are, and it may lead to unhealthy eating habits and wrong beliefs.</p>\n<p style=\"text-align: justify;\">It is important to listen to what your young people are saying and explore with them what their views and opinions are. Accepting and understanding your child's point of view, even if you don't agree, is an <strong>essential </strong>part of parenting adolescents to keep lines of communication open. If you build good routines around healthy eating and exercise, they will understand that people come in all different shapes and sizes, and they will stay healthy by maintaining good habits.</p>",
+    "parentQuestionId": 1201719,
+    "choices": [
+      {
+        "id": 2325471,
+        "label": "A",
+        "text": "needy",
+        "isCorrect": false
+      },
+      {
+        "id": 2325472,
+        "label": "B",
+        "text": "helpful",
+        "isCorrect": false
+      },
+      {
+        "id": 2325473,
+        "label": "C",
+        "text": "massive",
+        "isCorrect": false
+      },
+      {
+        "id": 2325474,
+        "label": "D",
+        "text": "important",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 2325474,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Hãy đọc kỹ câu văn chứa từ <strong>'essential'</strong> trong đoạn 3. Câu này nói về một hành động cần làm để 'giữ cho các kênh giao tiếp luôn cởi mở' (keep lines of communication open). Hành động đó có vai trò như thế nào: chỉ hữu ích, hay rất quan trọng?</p>",
+    "explanation": "<p style=\"text-align: justify;\"><em>C&acirc;u hỏi n&agrave;y kiểm tra kỹ năng đo&aacute;n nghĩa của từ trong ngữ cảnh. Để trả lời đ&uacute;ng, học sinh cần đọc c&acirc;u chứa từ được hỏi v&agrave; c&aacute;c c&acirc;u xung quanh để suy ra &yacute; nghĩa ph&ugrave; hợp nhất.</em></p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>B&agrave;i đọc c&oacute; c&acirc;u: <strong>[[Accepting and understanding your child's point of view, even if you don't agree, is an essential part of parenting adolescents to keep lines of communication open.]]</strong> (<em>Chấp nhận v&agrave; thấu hiểu quan điểm của con, ngay cả khi bạn kh&ocirc;ng đồng &yacute;, l&agrave; một phần thiết yếu của việc nu&ocirc;i dạy thanh thiếu ni&ecirc;n để giữ cho c&aacute;c k&ecirc;nh giao tiếp lu&ocirc;n cởi mở.</em>).</p>\n<p style=\"text-align: justify;\">Ngữ cảnh n&agrave;y cho thấy việc thấu hiểu quan điểm của con l&agrave; một phần kh&ocirc;ng thể thiếu, rất quan trọng để duy tr&igrave; giao tiếp. Do đ&oacute;, \"<strong>essential</strong>\" (thiết yếu) c&oacute; nghĩa gần nhất với \"<strong>important</strong>\" (quan trọng).</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 2 \"helpful\" (hữu &iacute;ch) c&oacute; thể g&acirc;y nhầm lẫn, nhưng \"essential\" mang sắc th&aacute;i nghĩa mạnh hơn, nhấn mạnh sự cần thiết bắt buộc chứ kh&ocirc;ng chỉ đơn thuần l&agrave; c&oacute; &iacute;ch.</p>",
+    "answerFeedbacks": {
+      "2325471": "<p><em>\"needy\"</em> có nghĩa là \"thiếu thốn hoặc cần được giúp đỡ\", không phù hợp với ngữ cảnh <em>\"an essential part of parenting adolescents\"</em> (đoạn 3) trong bài đọc.</p>",
+      "2325472": "<p><em>\"helpful\"</em> (hữu ích) có nghĩa nhẹ hơn <em>\"essential\"</em> (thiết yếu, cực kỳ quan trọng), trong khi ngữ cảnh <em>\"an essential part of parenting adolescents\"</em> (đoạn 3) trong bài đọc nhấn mạnh tầm quan trọng không thể thiếu của việc thấu hiểu con.</p>",
+      "2325473": "<p><em>\"massive\"</em> có nghĩa là \"to lớn, đồ sộ\", dùng để chỉ kích thước chứ không phải tầm quan trọng như <em>\"essential\"</em> trong ngữ cảnh <em>\"an essential part of parenting adolescents\"</em> (đoạn 3) của bài đọc.</p>",
+      "2325474": "<p><em>\"essential\"</em> có nghĩa là \"cực kỳ quan trọng hoặc cần thiết\", đồng nghĩa với <em>\"important\"</em> trong ngữ cảnh <em>\"an essential part of parenting adolescents\"</em> (đoạn 3) của bài đọc.</p>"
+    },
+    "images": [],
+    "sourceExamId": 19159,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 phường Hà Đông năm 2026 (Lần 1)",
+    "year": 2026
+  },
+  {
+    "id": "84_13",
+    "questionNumber": 24,
+    "questionName": "Question 13",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Nam: Why don't we prepare for the entrance test together, Quan?</strong></p>\n<p><strong>Quan: _____.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 2325991,
+        "label": "A",
+        "text": "<p>I am fine, thanks</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 2325992,
+        "label": "B",
+        "text": "<p>Not at all, Nam</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 2325993,
+        "label": "C",
+        "text": "<p>I don't think so</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 2325994,
+        "label": "D",
+        "text": "<p>That's a good idea</p>",
+        "isCorrect": true
+      }
+    ],
+    "correctChoiceId": 2325994,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Ch&uacute; &yacute; đến chức năng giao tiếp của c&acirc;u hỏi <em>\"Why don't we...?\"</em>. Đ&acirc;y l&agrave; một cấu tr&uacute;c d&ugrave;ng để đưa ra <strong>lời đề nghị</strong>. Bạn cần chọn c&acirc;u trả lời thể hiện sự <strong>đồng &yacute;</strong> hoặc <strong>kh&ocirc;ng đồng &yacute;</strong> với lời đề nghị đ&oacute;.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span>Nam đưa ra lời đề nghị <em>\"Why don't we prepare for the entrance test together, Quan?\"</em> (Tại sao ch&uacute;ng ta kh&ocirc;ng c&ugrave;ng chuẩn bị cho kỳ thi tuyển sinh, Quan?). Để đ&aacute;p lại một lời đề nghị một c&aacute;ch t&iacute;ch cực, ch&uacute;ng ta cần một c&acirc;u thể hiện sự đồng &yacute; hoặc t&aacute;n th&agrave;nh. Phương &aacute;n 4 <em>\"That's a good idea\"</em> (Đ&oacute; l&agrave; một &yacute; hay) thể hiện sự chấp nhận v&agrave; t&aacute;n th&agrave;nh lời đề nghị n&agrave;y.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>Why don't we...?</strong> (expr.): Tại sao ch&uacute;ng ta kh&ocirc;ng...? (D&ugrave;ng để đưa ra gợi &yacute;, đề xuất)</p>\n<p style=\"text-align: justify;\"><strong>prepare for</strong> (phr.v.): chuẩn bị cho (một c&aacute;i g&igrave; đ&oacute;)</p>\n<p style=\"text-align: justify;\"><strong>entrance test</strong> (n.): kỳ thi tuyển sinh</p>",
+    "answerFeedbacks": {
+      "2325991": "<p>Đ&acirc;y l&agrave; một c&acirc;u trả lời cho c&acirc;u hỏi thăm sức khỏe, kh&ocirc;ng ph&ugrave; hợp để phản hồi lời đề nghị của Nam.</p>",
+      "2325992": "<p>Đ&acirc;y l&agrave; c&aacute;ch phản hồi một lời cảm ơn, kh&ocirc;ng ph&ugrave; hợp với việc trả lời một đề nghị hợp t&aacute;c.</p>",
+      "2325993": "<p><em>I don't think so</em> b&agrave;y tỏ sự kh&ocirc;ng đồng &yacute; với một &yacute; kiến hoặc một khả năng n&agrave;o đ&oacute;, kh&ocirc;ng phải l&agrave; c&aacute;ch đ&aacute;p lại lời đề nghị học c&ugrave;ng.</p>",
+      "2325994": "<em>That's a good idea</em> là cách diễn đạt sự đồng ý và tán thành với một lời đề nghị, hoàn toàn phù hợp với lời đề nghị của Nam."
+    },
+    "images": [],
+    "sourceExamId": 19160,
+    "sourceExamName": "Đề thi thử Tiếng Anh vào 10 trường THCS Ba Trại năm 2026 (Lần 1)",
+    "year": 2026
+  },
+  {
+    "id": "84_14",
+    "questionNumber": 17,
+    "questionName": "Question 14",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>Bill: &quot;Congratulations on winning the first prize!&quot;</strong></p>\n<p><strong>Jack: &quot;_______&quot;</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 137293,
+        "label": "A",
+        "text": "<p>Thank you so much.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 137294,
+        "label": "B",
+        "text": "<p>What can I do for you?</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 137295,
+        "label": "C",
+        "text": "<p>You're welcome.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 137296,
+        "label": "D",
+        "text": "<p>What a pity!</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 137293,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Lời thoại của Bill l&agrave; một lời ch&uacute;c mừng (<em>\"Congratulations on winning the first prize!\"</em>).</p>\n<p>Khi nhận được lời ch&uacute;c mừng, bạn thường đ&aacute;p lại như thế n&agrave;o để thể hiện sự cảm k&iacute;ch? H&atilde;y đối chiếu từng phương &aacute;n với mục đ&iacute;ch giao tiếp đ&atilde; x&aacute;c định để chọn c&acirc;u đ&aacute;p ph&ugrave; hợp nhất.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của Bill l&agrave; một lời ch&uacute;c mừng (<em>\"Congratulations on winning the first prize!\"</em>). Để đ&aacute;p lại lời ch&uacute;c mừng, Jack cần b&agrave;y tỏ l&ograve;ng biết ơn.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1, <em>\"Thank you so much.\"</em> (Cảm ơn bạn rất nhiều.), l&agrave; lời cảm ơn trực tiếp v&agrave; ph&ugrave; hợp nhất trong t&igrave;nh huống n&agrave;y.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n 2, 3 v&agrave; 4 kh&ocirc;ng ph&ugrave; hợp v&igrave; ch&uacute;ng diễn đạt c&aacute;c &yacute; nghĩa giao tiếp kh&aacute;c, kh&ocirc;ng phải lời đ&aacute;p lại lời ch&uacute;c mừng.</p>",
+    "answerFeedbacks": {
+      "137293": "<p>Đây là lời đáp phù hợp để bày tỏ lòng biết ơn khi nhận được lời chúc mừng.</p>",
+      "137294": "<p>Đây là câu hỏi đề nghị giúp đỡ, không phù hợp để đáp lại lời chúc mừng.</p>",
+      "137295": "<p>Đ&acirc;y l&agrave; lời đ&aacute;p lại khi người kh&aacute;c n&oacute;i <em>\"Thank you\"</em>, kh&ocirc;ng phải lời ch&uacute;c mừng.</p>",
+      "137296": "<p>Đây là lời bày tỏ sự tiếc nuối hoặc đồng cảm, không phù hợp trong ngữ cảnh này.</p>"
+    },
+    "images": [],
+    "sourceExamId": 1933,
+    "sourceExamName": "Đề thi chính thức vào 10 môn Anh Sở Hà Nội năm 2019",
+    "year": 2019
+  },
+  {
+    "id": "84_15",
+    "questionNumber": 18,
+    "questionName": "Question 15",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>A: &quot;Let's have a drink. What would you like?&quot;</strong></p>\n<p><strong>B: &quot;_____&quot;</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 137297,
+        "label": "A",
+        "text": "<p>Some coffee, please.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 137298,
+        "label": "B",
+        "text": "<p>It's not good.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 137299,
+        "label": "C",
+        "text": "<p>No, it isn't.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 137300,
+        "label": "D",
+        "text": "<p>Certainly. Here you are.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 137297,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p style=\"text-align: justify;\">Mục đ&iacute;ch giao tiếp của lời n&oacute;i cần đ&aacute;p lại l&agrave; để trả lời c&acirc;u hỏi <em>\"What would you like?\"</em> của người n&oacute;i A. C&acirc;u hỏi n&agrave;y c&oacute; nghĩa l&agrave; <em>\"Bạn muốn uống g&igrave;?\"</em>.</p>\n<p style=\"text-align: justify;\">H&atilde;y đối chiếu từng phương &aacute;n với mục đ&iacute;ch n&agrave;y. Phương &aacute;n n&agrave;o trực tiếp trả lời c&acirc;u hỏi về mong muốn đồ uống của bạn một c&aacute;ch lịch sự?</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi <em>\"What would you like?\"</em> l&agrave; một c&aacute;ch hỏi lịch sự để biết người kh&aacute;c muốn uống g&igrave;.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1, <em>\"Some coffee, please.\"</em>, l&agrave; c&acirc;u trả lời trực tiếp v&agrave; ph&ugrave; hợp, thể hiện sự lựa chọn đồ uống một c&aacute;ch lịch sự.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n c&ograve;n lại kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh: Phương &aacute;n 2 v&agrave; 3 kh&ocirc;ng trả lời đ&uacute;ng trọng t&acirc;m c&acirc;u hỏi, c&ograve;n phương &aacute;n 4 d&ugrave;ng trong ngữ cảnh đưa đồ vật.</p>\n<p style=\"text-align: justify;\">V&igrave; vậy, phương &aacute;n 1 l&agrave; phương &aacute;n ch&iacute;nh x&aacute;c v&agrave; ph&ugrave; hợp nhất.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>Let's</strong> (expr.): d&ugrave;ng để đề xuất một hoạt động chung.</p>\n<p style=\"text-align: justify;\"><strong>What would you like?</strong> (expr.): c&aacute;ch hỏi lịch sự \"Bạn muốn g&igrave;/Bạn muốn d&ugrave;ng g&igrave;?\".</p>\n<p style=\"text-align: justify;\"><strong>Here you are.</strong> (expr.): d&ugrave;ng khi đưa thứ g&igrave; đ&oacute; cho người kh&aacute;c, c&oacute; nghĩa l&agrave; \"Của bạn đ&acirc;y.\".</p>",
+    "answerFeedbacks": {
+      "137297": "<p>Đ&acirc;y l&agrave; c&acirc;u trả lời trực tiếp v&agrave; lịch sự cho c&acirc;u hỏi <em>\"What would you like?\"</em> (Bạn muốn uống g&igrave;?).</p>",
+      "137298": "<p>C&acirc;u n&agrave;y kh&ocirc;ng ph&ugrave; hợp v&igrave; kh&ocirc;ng trả lời c&acirc;u hỏi<em> \"What would you like?\"</em> v&agrave; ngữ cảnh đang l&agrave; lời mời.</p>",
+      "137299": "<p>Đ&acirc;y l&agrave; c&acirc;u trả lời cho c&acirc;u hỏi Yes/No, kh&ocirc;ng phải c&acirc;u hỏi Wh- như \"<em>What would you like?\".</em></p>",
+      "137300": "<p>Cụm từ này thường dùng khi bạn đồng ý làm gì đó và đưa thứ gì đó cho người khác, không phải để yêu cầu đồ uống.</p>"
+    },
+    "images": [],
+    "sourceExamId": 1933,
+    "sourceExamName": "Đề thi chính thức vào 10 môn Anh Sở Hà Nội năm 2019",
+    "year": 2019
+  },
+  {
+    "id": "84_16",
+    "questionNumber": 25,
+    "questionName": "Question 16",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>- &quot;Shall I open the window?&quot; </strong></p>\n<p><strong>- &quot;_____.&quot;</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 281239,
+        "label": "A",
+        "text": "<p>Yes, I shall</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 281240,
+        "label": "B",
+        "text": "<p>Yes, you will</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 281241,
+        "label": "C",
+        "text": "<p>Yes, please</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 332790,
+        "label": "D",
+        "text": "<p>Yes, you are</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 281241,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p><em>\"Shall I open the window?\"</em> l&agrave; một lời đề nghị.</p>\n<p>H&atilde;y xem x&eacute;t c&aacute;ch đ&aacute;p lại lịch sự v&agrave; tự nhi&ecirc;n nhất cho một lời đề nghị hoặc sự gi&uacute;p đỡ. Đối chiếu từng phương &aacute;n với mục đ&iacute;ch giao tiếp n&agrave;y để t&igrave;m c&acirc;u trả lời ph&ugrave; hợp nhất.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span></p>\n<p style=\"text-align: justify;\">C&acirc;u hỏi <em>\"Shall I open the window?\"</em> l&agrave; một lời đề nghị gi&uacute;p đỡ hoặc xin ph&eacute;p.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 3 <em>\"Yes, please.\" </em>l&agrave; c&aacute;ch đ&aacute;p lại lời đề nghị gi&uacute;p đỡ phổ biến trong tiếng Anh.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1 <em>\"Yes, I shall\"</em> kh&ocirc;ng đ&uacute;ng v&igrave; <em>\"Shall I...?\"</em> l&agrave; hỏi về h&agrave;nh động của người n&oacute;i, kh&ocirc;ng phải x&aacute;c nhận &yacute; định của họ. Phương &aacute;n 2 <em>\"Yes, you will\"</em> v&agrave; phương &aacute;n 4 <em>\"Yes, you are\"</em> đều kh&ocirc;ng phải l&agrave; c&aacute;ch đ&aacute;p lại tự nhi&ecirc;n v&agrave; ch&iacute;nh x&aacute;c cho một lời đề nghị.</p>\n<p style=\"text-align: justify;\">V&igrave; vậy, phương &aacute;n 3 l&agrave; phương &aacute;n ch&iacute;nh x&aacute;c v&agrave; ph&ugrave; hợp nhất.</p>\n<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Cấu tr&uacute;c / Từ vựng li&ecirc;n quan: </span></p>\n<p style=\"text-align: justify;\"><strong>Shall I...?</strong> (expr.): Một c&aacute;ch lịch sự để đưa ra lời đề nghị gi&uacute;p đỡ hoặc xin ph&eacute;p l&agrave;m g&igrave; đ&oacute;.</p>\n<p style=\"text-align: justify;\"><strong>Yes, please.</strong> (expr.): Một c&aacute;ch lịch sự để chấp nhận một lời đề nghị hoặc y&ecirc;u cầu.</p>",
+    "answerFeedbacks": {
+      "281239": "<p>Đ&acirc;y l&agrave; c&aacute;ch trả lời kh&ocirc;ng ph&ugrave; hợp v&igrave; c&acirc;u hỏi <em>\"Shall I...?\"</em> l&agrave; một lời đề nghị gi&uacute;p đỡ hoặc xin ph&eacute;p, kh&ocirc;ng phải l&agrave; c&acirc;u hỏi về &yacute; định của người n&oacute;i.</p>",
+      "281240": "<p>Cách trả lời này không đúng ngữ pháp và không tự nhiên khi đáp lại một lời đề nghị.</p>",
+      "281241": "<p>Đây là cách trả lời lịch sự và phổ biến để chấp nhận một lời đề nghị hoặc một sự giúp đỡ.</p>",
+      "332790": "<p>C&acirc;u trả lời n&agrave;y kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh của một lời đề nghị <em>\"Shall I...?\"</em> v&agrave; thường d&ugrave;ng để x&aacute;c nhận một trạng th&aacute;i hoặc danh t&iacute;nh.</p>"
+    },
+    "images": [],
+    "sourceExamId": 2012,
+    "sourceExamName": "Đề số 11 ôn luyện vào 10 môn Anh Sở Hà Nội ",
+    "year": 2024
+  },
+  {
+    "id": "84_17",
+    "questionNumber": 17,
+    "questionName": "Question 17",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><strong>- \"That's a very nice skirt you're wearing.\"</strong></p>\n<p><strong>- \"_____\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 10564,
+        "label": "A",
+        "text": "<p>How a compliment!</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 10565,
+        "label": "B",
+        "text": "<p>That's all right.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 10566,
+        "label": "C",
+        "text": "<p>It's nice of you to say so.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 10567,
+        "label": "D",
+        "text": "<p>I like you said so.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 10566,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "Để chọn đáp án đúng, hãy xác định mục đích giao tiếp của câu \"<em>That's a very nice skirt you're wearing.</em>\". Đây là một lời khen, vì vậy bạn cần tìm câu đáp lại thể hiện sự cảm kích hoặc chấp nhận lời khen một cách lịch sự.",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Lượt lời đầu tiên là một lời khen: \"<em>That's a very nice skirt you're wearing.</em>\" (Bạn đang mặc một chiếc váy rất đẹp đó). Để đáp lại lời khen một cách lịch sự, chúng ta cần thể hiện sự cảm kích.</p>\n<p style=\"text-align: justify;\">Phương án 3 \"<em>It's nice of you to say so.</em>\" (Bạn thật tốt khi nói như vậy / Cảm ơn bạn đã khen) là cách đáp lại phù hợp nhất, thể hiện sự khiêm tốn và cảm ơn.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2, 4 đều không phù hợp về mặt ngữ pháp hoặc ngữ cảnh giao tiếp.</p>",
+    "answerFeedbacks": {
+      "10564": "<p>Cấu trúc cảm thán này không chính xác về mặt ngữ pháp để đáp lại lời khen.</p>",
+      "10565": "<p>Cụm từ này thường dùng để chấp nhận lời xin lỗi hoặc trấn an ai đó, không phù hợp để đáp lại lời khen.</p>",
+      "10566": "<p>Đây là cách đáp lại lời khen lịch sự và phổ biến trong tiếng Anh, thể hiện sự cảm kích.</p>",
+      "10567": "<p>Cụm từ này sai về mặt ngữ pháp và không có nghĩa trong ngữ cảnh này.</p>"
+    },
+    "images": [],
+    "sourceExamId": 4394,
+    "sourceExamName": "Đề số 2 ôn luyện vào 10 môn Anh Sở Hà Nội ",
+    "year": 2024
+  },
+  {
+    "id": "84_18",
+    "questionNumber": 37,
+    "questionName": "Question 18",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the sentence given.</em></p>\n<p><strong>In order not to disturb our conversation, he took his seat quietly.</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 110152,
+        "label": "A",
+        "text": "He took his seat quietly so that he wouldn’t disturb our conversation.",
+        "isCorrect": true
+      },
+      {
+        "id": 110153,
+        "label": "B",
+        "text": "So as to keep us continue our conversation, he took his seat quietly.",
+        "isCorrect": false
+      },
+      {
+        "id": 110154,
+        "label": "C",
+        "text": "Not to disturbing our conversation, he took his seat quietly.",
+        "isCorrect": false
+      },
+      {
+        "id": 110155,
+        "label": "D",
+        "text": "As long as he took his seat quietly, we weren’t disturbed to keep on our conversation.",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 110152,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "",
+    "explanation": "<p>Cấu tr&uacute;c:&nbsp;<strong>in order (not) to + V(inf) </strong>~<strong> so that + S + (not) V</strong>: để m&agrave; ...</p>\n<p>~ so as (not) to + V(inf): để (kh&ocirc;ng)...</p>\n<p>keep sb/sth + V-ing: giữ cho ai/c&aacute;i g&igrave; l&agrave;m g&igrave;</p>\n<p>as long as + clause: miễn l&agrave;</p>\n<p><em>C&aacute;c phương &aacute;n c&ograve;n lại sai v&igrave;:</em></p>\n<ul>\n<li><em>So as to keep us <span style=\"text-decoration: line-through;\"><strong>continue</strong></span> our conversation, he took his seat quietly.</em></li>\n<li><em>Not to <span style=\"text-decoration: line-through;\"><strong>disturbing</strong></span> our conversation, he took his seat quietly.</em></li>\n<li><em>As long as he took his seat quietly, we weren&rsquo;t disturbed to keep on our conversation. (sai nghĩa)</em></li>\n</ul>\n<p>Dịch: Để kh&ocirc;ng l&agrave;m phiền cuộc tr&ograve; chuyện của ch&uacute;ng t&ocirc;i, anh ấy lặng lẽ ngồi xuống.</p>\n<p>~&nbsp;Anh ấy lặng lẽ ngồi xuống để anh kh&ocirc;ng l&agrave;m phiền cuộc tr&ograve; chuyện của ch&uacute;ng t&ocirc;i.</p>",
+    "answerFeedbacks": {},
+    "images": [],
+    "sourceExamId": 4394,
+    "sourceExamName": "Đề số 2 ôn luyện vào 10 môn Anh Sở Hà Nội ",
+    "year": 2024
+  },
+  {
+    "id": "84_19",
+    "questionNumber": 17,
+    "questionName": "Question 19",
+    "questionType": "MultipleChoice",
+    "questionText": "<p>Daisy is talking to Jim about his house.</p>\n<p><strong>Daisy: &quot;What a lovely house you have!&quot;</strong></p>\n<p><strong>Jim: &quot;_____&quot;</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 292803,
+        "label": "A",
+        "text": "<p>Thank you. Hope you will drop in.</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 292804,
+        "label": "B",
+        "text": "<p>I think so.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 292805,
+        "label": "C",
+        "text": "<p>Of course not, it’s not costly.</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 292806,
+        "label": "D",
+        "text": "<p>No problem.</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 292803,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Mục đ&iacute;ch giao tiếp của lời n&oacute;i của Daisy l&agrave; <em>\"khen ngợi\"</em> ng&ocirc;i nh&agrave; của Jim.</p>\n<p>H&atilde;y xem x&eacute;t c&aacute;c phương &aacute;n để chọn lời đ&aacute;p ph&ugrave; hợp nhất khi nhận được lời khen v&agrave; c&oacute; thể thể hiện sự hiếu kh&aacute;ch.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Ph&acirc;n t&iacute;ch: </span></p>\n<p style=\"text-align: justify;\">Lời thoại của Daisy, <em>\"What a lovely house you have!\"</em>, l&agrave; một lời khen ngợi d&agrave;nh cho ng&ocirc;i nh&agrave; của Jim. Để đ&aacute;p lại lời khen n&agrave;y, Jim cần thể hiện sự cảm ơn v&agrave; c&oacute; thể mở lời mời.</p>\n<p style=\"text-align: justify;\">Phương &aacute;n 1, <em>\"Thank you. Hope you will drop in.\"</em> (Cảm ơn bạn. Mong bạn sẽ gh&eacute; chơi.), l&agrave; lời đ&aacute;p ph&ugrave; hợp nhất v&igrave; vừa b&agrave;y tỏ l&ograve;ng biết ơn, vừa thể hiện sự hiếu kh&aacute;ch.</p>\n<p style=\"text-align: justify;\">C&aacute;c phương &aacute;n 2, 3, v&agrave; 4 đều kh&ocirc;ng ph&ugrave; hợp với ngữ cảnh nhận lời khen.</p>",
+    "answerFeedbacks": {
+      "292803": "<p>Đây là lời đáp phù hợp khi nhận được lời khen, vừa thể hiện sự cảm ơn vừa thể hiện sự hiếu khách bằng cách mời người nói ghé thăm.</p>",
+      "292804": "<p>Đây là lời đáp không phù hợp vì thể hiện sự tự mãn và không lịch sự khi nhận được lời khen.</p>",
+      "292805": "<p>Đây là lời đáp không phù hợp vì trả lời sai trọng tâm của lời khen và nghe có vẻ phòng thủ.</p>",
+      "292806": "<p>Đây là lời đáp không phù hợp vì cụm từ này thường dùng để đáp lại lời cảm ơn hoặc lời xin lỗi, không phải lời khen.</p>"
+    },
+    "images": [],
+    "sourceExamId": 4421,
+    "sourceExamName": "Đề số 3 ôn luyện vào 10 môn Anh Sở Hà Nội ",
+    "year": 2024
+  },
+  {
+    "id": "84_20",
+    "questionNumber": 18,
+    "questionName": "Question 20",
+    "questionType": "MultipleChoice",
+    "questionText": "<p><em>Charles and Lisa are talking outside the cinema.</em></p>\n<p><strong>- Charles: \"Do you mind if I smoke?\"</strong></p>\n<p><strong>- Lisa: \"_____.\"</strong></p>",
+    "passageText": null,
+    "parentQuestionId": 0,
+    "choices": [
+      {
+        "id": 302995,
+        "label": "A",
+        "text": "<p>Yes, I don't mind</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 302996,
+        "label": "B",
+        "text": "<p>No, I don't think so</p>",
+        "isCorrect": false
+      },
+      {
+        "id": 302997,
+        "label": "C",
+        "text": "<p>No, go right ahead</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 302998,
+        "label": "D",
+        "text": "<p>Yes, go ahead</p>",
+        "isCorrect": false
+      }
+    ],
+    "correctChoiceId": 302997,
+    "fillblankAnswers": null,
+    "shortAnswers": null,
+    "hint": "<p>Câu hỏi <em>\"Do you mind if I...?\"</em> là cách xin phép lịch sự, có nghĩa là \"Bạn có phiền không nếu tôi...?\".</p>\n<p>Nếu bạn không phiền, bạn sẽ trả lời thế nào để thể hiện sự đồng ý và cho phép? Hãy chú ý cách dùng <em>\"Yes\"</em> và <em>\"No\"</em> khi đáp lại câu hỏi với <em>\"mind\"</em>.</p>",
+    "explanation": "<p style=\"text-align: justify;\"><span class=\"eq-highlight\">Phân tích: </span></p>\n<p style=\"text-align: justify;\">Charles hỏi <em>\"Do you mind if I smoke?\"</em> là một cách lịch sự để xin phép hút thuốc. Cụm từ <em>\"Do you mind if I...?\"</em> có nghĩa là \"Bạn có phiền nếu tôi...?\" hoặc \"Bạn có ngại nếu tôi...?\". Để đồng ý cho phép (tức là \"không phiền\"), người nghe phải trả lời bằng <em>\"No\"</em> (tức là \"Không, tôi không phiền\").</p>\n<p style=\"text-align: justify;\">Phương án 3, <em>\"No, go right ahead\"</em>, là câu đáp phù hợp nhất vì <em>\"No\"</em> phủ định việc <em>\"mind\"</em> (phiền) và <em>\"go right ahead\"</em> trực tiếp cho phép Charles hút thuốc.</p>\n<p style=\"text-align: justify;\">Các phương án 1, 2, và 4 đều không phù hợp ngữ cảnh vì chúng chứa sự mâu thuẫn về ý nghĩa hoặc không phải là cách đáp lại lời xin phép một cách tự nhiên.</p>",
+    "answerFeedbacks": {
+      "302995": "<p>Sai vì<em> \"Yes\"</em> mâu thuẫn với<em> \"I don't mind\"</em>, tạo thành một câu trả lời không hợp lý.</p>",
+      "302996": "<p>Sai vì<em> \"No, I don't think so\" </em>không phải là cách đáp lại lời xin phép một cách tự nhiên và có thể gây hiểu lầm.</p>",
+      "302997": "<p>Đúng vì <em>\"No\"</em> phủ định việc <em>\"mind\"</em> (phiền), và<em> \"go right ahead\"</em> cho phép người nói thực hiện hành động.</p>",
+      "302998": "<p>Sai vì <em>\"Yes\"</em> thể hiện sự phiền lòng nhưng<em> \"go ahead\"</em> lại cho phép, tạo ra một sự mâu thuẫn về ý nghĩa.</p>"
+    },
+    "images": [],
+    "sourceExamId": 4421,
+    "sourceExamName": "Đề số 3 ôn luyện vào 10 môn Anh Sở Hà Nội ",
+    "year": 2024
+  }
+]
