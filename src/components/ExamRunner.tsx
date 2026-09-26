@@ -408,7 +408,6 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
   const [isExitModalOpen, setIsExitModalOpen] = useState<boolean>(false);
   const [isMobilePaletteOpen, setIsMobilePaletteOpen] = useState<boolean>(false);
   const questionPromptRef = useRef<HTMLDivElement>(null);
-  const lastPickerActivationRef = useRef<number>(0);
 
   // Review mode filter
   const [reviewFilter, setReviewFilter] = useState<'all' | 'correct' | 'wrong' | 'unanswered' | 'bookmarked'>('all');
@@ -515,10 +514,22 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
     return getQuestionResult(q, answers[String(q.id)]).isFullyAnswered;
   };
 
-  // Event delegation to capture user selection/inputs in FillBlank questions
+  // Pure native Tak12 parity: Event delegation to capture user selection/inputs in FillBlank questions
   useEffect(() => {
     const container = questionPromptRef.current;
     if (!container || !currentQ) return;
+
+    // Associate <label htmlFor> with <select id> / <input id> for native accessibility and activation
+    const options = container.querySelectorAll<HTMLElement>('.fillblank-option');
+    options.forEach((opt) => {
+      const label = opt.querySelector('label');
+      const control = opt.querySelector<HTMLSelectElement | HTMLInputElement>('select, input');
+      if (label && control) {
+        const controlId = control.id || control.getAttribute('name') || `fbo-${currentQ.id}-${control.getAttribute('index') || '0'}`;
+        if (!control.id) control.id = controlId;
+        if (!label.getAttribute('for')) label.setAttribute('for', controlId);
+      }
+    });
 
     const handleSync = (e: Event) => {
       if (isSubmitted) return;
@@ -537,41 +548,12 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
       });
     };
 
-    const handleClick = (e: MouseEvent) => {
-      if (isSubmitted) return;
-      const target = e.target as HTMLElement | null;
-      if (!target || target.tagName === 'SELECT' || target.tagName === 'INPUT') return;
-
-      const now = Date.now();
-      if (now - lastPickerActivationRef.current < 250) return;
-
-      const fillblankContainer = (target.closest('.fillblank-option') || target.querySelector('.fillblank-option')) as HTMLElement | null;
-      if (fillblankContainer) {
-        const select = fillblankContainer.querySelector('select') as HTMLSelectElement | null;
-        const input = fillblankContainer.querySelector('input') as HTMLInputElement | null;
-        if (select && !select.disabled) {
-          lastPickerActivationRef.current = now;
-          select.focus();
-          try {
-            (select as any).showPicker?.();
-          } catch {
-            // fallback focus
-          }
-        } else if (input && !input.disabled) {
-          lastPickerActivationRef.current = now;
-          input.focus();
-        }
-      }
-    };
-
     container.addEventListener('change', handleSync);
     container.addEventListener('input', handleSync);
-    container.addEventListener('click', handleClick);
 
     return () => {
       container.removeEventListener('change', handleSync);
       container.removeEventListener('input', handleSync);
-      container.removeEventListener('click', handleClick);
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentQ?.id, isSubmitted]);
@@ -580,6 +562,17 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
   useEffect(() => {
     const container = questionPromptRef.current;
     if (!container || !currentQ) return;
+
+    const options = container.querySelectorAll<HTMLElement>('.fillblank-option');
+    options.forEach((opt) => {
+      const label = opt.querySelector('label');
+      const control = opt.querySelector<HTMLSelectElement | HTMLInputElement>('select, input');
+      if (label && control) {
+        const controlId = control.id || control.getAttribute('name') || `fbo-${currentQ.id}-${control.getAttribute('index') || '0'}`;
+        if (!control.id) control.id = controlId;
+        if (!label.getAttribute('for')) label.setAttribute('for', controlId);
+      }
+    });
 
     const controls = container.querySelectorAll<HTMLSelectElement | HTMLInputElement>('select, input');
     const qAnswers = answers[String(currentQ.id)];
@@ -946,62 +939,6 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                   {/* Question Text */}
                   <div
                     ref={questionPromptRef}
-                    onClick={(e) => {
-                      if (isSubmitted) return;
-                      const target = e.target as HTMLElement | null;
-                      if (!target || target.tagName === 'SELECT' || target.tagName === 'INPUT') return;
-
-                      const now = Date.now();
-                      if (now - lastPickerActivationRef.current < 250) return;
-
-                      const fillblankContainer = (target.closest('.fillblank-option') || target.querySelector('.fillblank-option')) as HTMLElement | null;
-                      if (fillblankContainer) {
-                        const select = fillblankContainer.querySelector('select') as HTMLSelectElement | null;
-                        const input = fillblankContainer.querySelector('input') as HTMLInputElement | null;
-                        if (select && !select.disabled) {
-                          lastPickerActivationRef.current = now;
-                          select.focus();
-                          try {
-                            (select as any).showPicker?.();
-                          } catch {
-                            // fallback focus
-                          }
-                        } else if (input && !input.disabled) {
-                          lastPickerActivationRef.current = now;
-                          input.focus();
-                        }
-                      }
-                    }}
-                    onChange={(e) => {
-                      if (isSubmitted) return;
-                      const target = e.target as HTMLSelectElement | HTMLInputElement;
-                      if (!target || !['SELECT', 'INPUT'].includes(target.tagName)) return;
-                      const idxStr = target.getAttribute('index') || target.getAttribute('name')?.split('-').pop() || '0';
-                      const idx = parseInt(idxStr, 10);
-                      const val = target.value;
-                      setAnswers((prev) => {
-                        const existing = typeof prev[String(currentQ.id)] === 'object' && prev[String(currentQ.id)] !== null
-                          ? { ...prev[String(currentQ.id)] }
-                          : {};
-                        existing[idx] = val;
-                        return { ...prev, [String(currentQ.id)]: existing };
-                      });
-                    }}
-                    onInput={(e) => {
-                      if (isSubmitted) return;
-                      const target = e.target as HTMLSelectElement | HTMLInputElement;
-                      if (!target || !['SELECT', 'INPUT'].includes(target.tagName)) return;
-                      const idxStr = target.getAttribute('index') || target.getAttribute('name')?.split('-').pop() || '0';
-                      const idx = parseInt(idxStr, 10);
-                      const val = target.value;
-                      setAnswers((prev) => {
-                        const existing = typeof prev[String(currentQ.id)] === 'object' && prev[String(currentQ.id)] !== null
-                          ? { ...prev[String(currentQ.id)] }
-                          : {};
-                        existing[idx] = val;
-                        return { ...prev, [String(currentQ.id)]: existing };
-                      });
-                    }}
                     className="text-slate-800 dark:text-white text-base sm:text-lg font-medium leading-relaxed"
                     dangerouslySetInnerHTML={{ __html: currentQ.questionText }}
                   />
@@ -1169,7 +1106,7 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                 {/* Legend */}
                 <div className="grid grid-cols-2 gap-2 text-xs text-slate-600 dark:text-slate-300 pb-2">
                   <div className="flex items-center gap-2">
-                    <span className="w-3 h-3 rounded-full bg-emerald-600 flex-shrink-0" />
+                    <span className="w-3 h-3 rounded-full bg-[#5fbd18] bg-emerald-600 flex-shrink-0" />
                     <span>Đã làm</span>
                   </div>
                   <div className="flex items-center gap-2">
@@ -1181,7 +1118,7 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                     <span>Phân vân</span>
                   </div>
                   <div className="flex items-center gap-2">
-                    <span className="w-3 h-3 rounded-full ring-2 ring-emerald-800 bg-emerald-600 flex-shrink-0" />
+                    <span className="w-3 h-3 rounded-full ring-2 ring-emerald-800 bg-[#5fbd18] bg-emerald-600 flex-shrink-0" />
                     <span>Đang chọn</span>
                   </div>
                 </div>
@@ -1197,9 +1134,9 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                       'relative h-9 rounded-lg font-bold text-xs flex items-center justify-center transition-all cursor-pointer border ';
 
                     if (isAnswered && !isBookmarked) {
-                      pillClass += 'bg-emerald-600 border-emerald-600 text-white shadow-xs';
+                      pillClass += 'bg-[#5fbd18] border-[#5fbd18] bg-emerald-600 border-emerald-600 text-white shadow-xs';
                     } else if (isAnswered && isBookmarked) {
-                      pillClass += 'bg-emerald-600 border-amber-400 text-white ring-2 ring-amber-400';
+                      pillClass += 'bg-[#5fbd18] bg-emerald-600 border-amber-400 text-white ring-2 ring-amber-400';
                     } else if (!isAnswered && isBookmarked) {
                       pillClass += 'bg-amber-100 dark:bg-amber-950/70 border-amber-400 text-amber-800 dark:text-amber-300 font-extrabold';
                     } else {
@@ -1786,7 +1723,7 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                   {/* Legend */}
                   <div className="grid grid-cols-2 gap-2 text-xs text-slate-600 dark:text-slate-300 pb-2">
                     <div className="flex items-center gap-2">
-                      <span className="w-3 h-3 rounded-full bg-emerald-600 flex-shrink-0" />
+                      <span className="w-3 h-3 rounded-full bg-[#5fbd18] bg-emerald-600 flex-shrink-0" />
                       <span>Đúng ({correctCount})</span>
                     </div>
                     <div className="flex items-center gap-2">
@@ -1817,7 +1754,7 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                         'relative h-9 rounded-lg font-bold text-xs flex items-center justify-center transition-all cursor-pointer border ';
 
                       if (isCorrect) {
-                        pillClass += 'bg-emerald-600 border-emerald-600 text-white shadow-xs hover:bg-emerald-700';
+                        pillClass += 'bg-[#5fbd18] border-[#5fbd18] bg-emerald-600 border-emerald-600 text-white shadow-xs hover:bg-[#4ea713] hover:bg-emerald-700';
                       } else if (isAnswered && !isCorrect) {
                         pillClass += 'bg-[#db2828] border-[#db2828] text-white shadow-xs hover:bg-red-700';
                       } else {

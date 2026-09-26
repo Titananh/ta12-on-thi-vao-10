@@ -2,7 +2,7 @@
 
 import React, { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
-import { ArrowRight, CheckCircle2, Clock3, ListFilter, Search, Users } from 'lucide-react';
+import { ArrowRight, Clock3, ListFilter, Search, Users } from 'lucide-react';
 import cat1097Data from '../../data/exams/category_1097.json';
 import cat1687Data from '../../data/exams/category_1687.json';
 import cat1489Data from '../../data/exams/category_1489.json';
@@ -47,14 +47,6 @@ const CATEGORIES: Array<{ id: number; name: string; data: ExamItem[] }> = [
 ];
 
 
-const GUIDE_LINKS = [
-  'Tổng hợp đề thi vào 10 môn Toán, Văn, Tiếng Anh trên toàn quốc từ 2020 đến nay (kèm đáp án chi tiết)',
-  'Hướng dẫn ôn thi vào 10 môn tiếng Anh theo đề thi năm 2026 chi tiết',
-  'Tuyển tập 100+ đề ôn thi vào 10 môn Tiếng Anh theo mẫu Sở GD&ĐT Hà Nội (kèm đáp án có giải thích chi tiết)',
-  'Tổng hợp lịch thi thử vào 10 Hà Nội mới nhất', 'Lộ trình ôn thi Tiếng Anh vào 10 tối ưu cho học sinh lớp 9',
-  'Tổng hợp thông tin tuyển sinh lớp 10 tại Hà Nội mới nhất', 'Cẩm nang hướng dẫn ôn thi vào lớp 10 môn tiếng Anh toàn diện',
-];
-
 function formatCount(value?: number): string {
   if (!value) return '0';
   return new Intl.NumberFormat('vi-VN').format(value);
@@ -70,7 +62,6 @@ function ExamRow({ exam, result }: { exam: ExamItem; result?: ExamResult }) {
             <Link href={`/exam/${exam.id}/intro`} className="min-w-0 truncate text-xs font-bold leading-5 text-[#1c581f] hover:text-[#5fbd18] dark:text-emerald-300 dark:hover:text-emerald-200" title={title}>{title}</Link>
           </div>
           <div className="mt-1 flex flex-wrap items-center gap-x-4 gap-y-1 text-[11px] text-slate-500 dark:text-slate-400">
-            {exam.showFeedBackForFreeUser && <span className="font-semibold text-[#5fbd18]"><CheckCircle2 className="mr-1 inline h-3 w-3" />Có giải thích đáp án</span>}
             <span><ListFilter className="mr-1 inline h-3 w-3" />{exam.totalPoint || exam.questionCount} points</span>
             <span><Clock3 className="mr-1 inline h-3 w-3" />{exam.timeLimit || 60} phút</span>
             {exam.averagePoint != null && <span>Điểm TB: {Number(exam.averagePoint).toFixed(2)}</span>}
@@ -119,13 +110,10 @@ export default function LuyenDeView() {
       </div>
 
       <div className="grid grid-cols-1 items-start gap-5 lg:grid-cols-12">
-        <div className="space-y-7 lg:col-span-9">
+        <div className="space-y-7 lg:col-span-12">
           {visibleCategories.map((category) => { const expanded = expandedCategories[String(category.id)] || selectedCatId === category.id || Boolean(searchTerm.trim()); const displayed = expanded ? category.data : category.data.slice(0, 5); return <section key={category.id}><div className="mb-2 flex items-center gap-2"><span className="rounded-full bg-[#f0f9e8] px-2 py-1 text-[10px] font-bold text-[#5fbd18] dark:bg-[#24351f]">{category.data.length} bài</span><h2 className="text-sm font-extrabold text-[#1c581f] dark:text-emerald-300">{category.name}</h2></div><div className="space-y-1.5">{displayed.map((exam) => <ExamRow key={exam.id} exam={exam} result={examResults[String(exam.id)]} />)}</div>{!expanded && category.data.length > displayed.length && <button type="button" onClick={() => setExpandedCategories((current) => ({ ...current, [String(category.id)]: true }))} className="mt-2 float-right rounded bg-[#a9dc36] px-4 py-1 text-[11px] font-extrabold text-[#315400] hover:bg-[#96cd1f]">Xem thêm &gt;&gt;</button>}<div className="clear-both" /></section>; })}
           {totalVisible === 0 && <div className="rounded-md border border-slate-200 bg-white p-10 text-center text-sm text-slate-500 dark:border-[#383c38] dark:bg-[#242824] dark:text-slate-300">Không tìm thấy đề thi phù hợp với “{searchTerm}”.</div>}
         </div>
-        <aside className="space-y-4 lg:col-span-3">
-          <div className="rounded-md border border-slate-200 bg-white p-4 shadow-sm dark:border-[#383c38] dark:bg-[#242824]"><h3 className="mb-3 font-bold text-slate-700 dark:text-slate-200">Hướng dẫn ôn luyện</h3><ul className="space-y-2 text-[11px] leading-4 text-slate-500 dark:text-slate-400">{GUIDE_LINKS.map((guide) => <li key={guide} className="border-b border-slate-100 pb-2 pl-3 before:mr-1 before:content-['•'] dark:border-[#383c38]">{guide}</li>)}</ul><button type="button" className="mt-3 text-xs font-bold text-[#5fbd18] hover:underline">Xem thêm &gt;&gt;</button></div>
-        </aside>
       </div>
     </div>
   );

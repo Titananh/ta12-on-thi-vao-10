@@ -75,59 +75,90 @@ check('globals.css .dark .fillblank-option.correct select has color-scheme: dark
 check('globals.css .dark .fillblank-option.wrong select has color-scheme: dark',
   cssContent.includes('.dark .fillblank-option.wrong select') && cssContent.includes('color-scheme: dark;'));
 
+// Tak12 Question Palette Signature Green Priority
+check('globals.css defines .bg-[#5fbd18] priority rule with background-color: #5fbd18 !important',
+  cssContent.includes('.bg-\\[\\#5fbd18\\]') && cssContent.includes('background-color: #5fbd18 !important;'));
+check('globals.css defines .border-[#5fbd18] priority rule with border-color: #5fbd18 !important',
+  cssContent.includes('.border-\\[\\#5fbd18\\]') && cssContent.includes('border-color: #5fbd18 !important;'));
+check('globals.css defines .hover:bg-[#4ea713]:hover priority rule with background-color: #4ea713 !important',
+  cssContent.includes('.hover\\:bg-\\[\\#4ea713\\]:hover') && cssContent.includes('background-color: #4ea713 !important;'));
+
 // -----------------------------------------------------------------------------
-// VECTOR 2: ExamRunner.tsx Click Delegation & showPicker Implementation
+// VECTOR 2: ExamRunner.tsx Native Tak12 Parity & Event Delegation
 // -----------------------------------------------------------------------------
-console.log('\n▶ Vector 2: ExamRunner.tsx Click Delegation & showPicker AST/Static Verification...');
+console.log('\n▶ Vector 2: ExamRunner.tsx Native Tak12 Parity & Event Delegation Verification...');
 const examRunnerPath = path.join(SRC_DIR, 'components', 'ExamRunner.tsx');
 const examRunnerCode = fs.readFileSync(examRunnerPath, 'utf8');
 
-check('ExamRunner has lastPickerActivationRef for debounce', examRunnerCode.includes('lastPickerActivationRef'));
-check('ExamRunner adds click listener to questionPromptRef container', examRunnerCode.includes("container.addEventListener('click', handleClick)"));
-check('ExamRunner removes click listener on cleanup', examRunnerCode.includes("container.removeEventListener('click', handleClick)"));
-check('ExamRunner locates .fillblank-option on click target', examRunnerCode.includes("target.closest('.fillblank-option')"));
-check('ExamRunner calls select.focus()', examRunnerCode.includes('select.focus()'));
-check('ExamRunner calls select.showPicker() with fallback try/catch', examRunnerCode.includes('showPicker?.()') || examRunnerCode.includes('showPicker()'));
-check('ExamRunner guards select activation with !select.disabled', examRunnerCode.includes('!select.disabled'));
-check('ExamRunner also attaches onClick to questionPromptRef div in JSX', examRunnerCode.includes('ref={questionPromptRef}') && examRunnerCode.includes('onClick='));
-check('ExamRunner bidirectional sync supports numeric & string index lookup', examRunnerCode.includes('parseInt(idx, 10)'));
+check('ExamRunner dynamically associates <label htmlFor> with control id',
+  examRunnerCode.includes("label.setAttribute('for', controlId)"));
+check('ExamRunner ensures controls have unique id',
+  examRunnerCode.includes('control.id = controlId'));
+check('ExamRunner adds native change listener to questionPromptRef container',
+  examRunnerCode.includes("container.addEventListener('change', handleSync)"));
+check('ExamRunner adds native input listener to questionPromptRef container',
+  examRunnerCode.includes("container.addEventListener('input', handleSync)"));
+check('ExamRunner removes native listeners on cleanup',
+  examRunnerCode.includes("container.removeEventListener('change', handleSync)") &&
+  examRunnerCode.includes("container.removeEventListener('input', handleSync)"));
+check('ExamRunner eliminates conflicting showPicker calls',
+  !examRunnerCode.includes('showPicker'));
+check('ExamRunner eliminates duplicate onClick on questionPromptRef in JSX',
+  !examRunnerCode.includes('ref={questionPromptRef}\n                    onClick=') &&
+  !examRunnerCode.includes('ref={questionPromptRef} onClick='));
+check('ExamRunner palette completed state includes Tak12 signature green #5fbd18',
+  examRunnerCode.includes('#5fbd18'));
+check('ExamRunner bidirectional sync supports numeric & string index lookup',
+  examRunnerCode.includes('parseInt(idx, 10)'));
 
 // -----------------------------------------------------------------------------
-// VECTOR 3: PracticeRunner (page.tsx) Click Delegation & showPicker Implementation
+// VECTOR 3: PracticeRunner (page.tsx) Native Tak12 Parity & Event Delegation
 // -----------------------------------------------------------------------------
-console.log('\n▶ Vector 3: PracticeRunner (page.tsx) Click Delegation & showPicker Verification...');
+console.log('\n▶ Vector 3: PracticeRunner (page.tsx) Native Tak12 Parity Verification...');
 const practicePath = path.join(SRC_DIR, 'app', 'practice', '[topicId]', 'page.tsx');
 const practiceCode = fs.readFileSync(practicePath, 'utf8');
 
-check('Practice page has lastPickerActivationRef for debounce', practiceCode.includes('lastPickerActivationRef'));
-check('Practice page adds click listener to container', practiceCode.includes("container.addEventListener('click', handleClick)"));
-check('Practice page removes click listener on cleanup', practiceCode.includes("container.removeEventListener('click', handleClick)"));
-check('Practice page locates .fillblank-option on click target', practiceCode.includes("target.closest('.fillblank-option')"));
-check('Practice page calls select.focus()', practiceCode.includes('select.focus()'));
-check('Practice page calls select.showPicker() with fallback try/catch', practiceCode.includes('showPicker?.()') || practiceCode.includes('showPicker()'));
-check('Practice page guards select activation with !select.disabled', practiceCode.includes('!select.disabled'));
-check('Practice page also attaches onClick to questionPromptRef div in JSX', practiceCode.includes('ref={questionPromptRef}') && practiceCode.includes('onClick='));
-check('Practice page bidirectional sync supports numeric & string index lookup', practiceCode.includes('parseInt(idx, 10)'));
+check('Practice page dynamically associates <label htmlFor> with control id',
+  practiceCode.includes("label.setAttribute('for', controlId)"));
+check('Practice page ensures controls have unique id',
+  practiceCode.includes('control.id = controlId'));
+check('Practice page adds native change listener to container',
+  practiceCode.includes("container.addEventListener('change', handleSync)"));
+check('Practice page adds native input listener to container',
+  practiceCode.includes("container.addEventListener('input', handleSync)"));
+check('Practice page removes native listeners on cleanup',
+  practiceCode.includes("container.removeEventListener('change', handleSync)") &&
+  practiceCode.includes("container.removeEventListener('input', handleSync)"));
+check('Practice page eliminates conflicting showPicker calls',
+  !practiceCode.includes('showPicker'));
+check('Practice page eliminates duplicate onClick on questionPromptRef in JSX',
+  !practiceCode.includes('ref={questionPromptRef}\n              onClick=') &&
+  !practiceCode.includes('ref={questionPromptRef} onClick='));
+check('Practice page bidirectional sync supports numeric & string index lookup',
+  practiceCode.includes('parseInt(idx, 10)'));
 
 // -----------------------------------------------------------------------------
 // VECTOR 4: Functional Simulation of Click Delegation & showPicker
 // -----------------------------------------------------------------------------
-console.log('\n▶ Vector 4: Functional DOM Simulation of Click Delegation...');
+console.log('\n▶ Vector 4: Functional DOM Simulation of Native Label htmlFor Pairing...');
 
 function createMockElement(tag, attrs = {}) {
   const children = [];
   const classList = new Set((attrs.class || '').split(/\s+/).filter(Boolean));
   let parent = null;
   let focused = false;
-  let pickerOpened = false;
 
   const el = {
     tagName: tag.toUpperCase(),
     attributes: { ...attrs },
     disabled: Boolean(attrs.disabled),
     value: attrs.value || '',
+    id: attrs.id || '',
     getAttribute(name) { return el.attributes[name] ?? null; },
-    setAttribute(name, val) { el.attributes[name] = val; },
+    setAttribute(name, val) {
+      el.attributes[name] = val;
+      if (name === 'id') el.id = val;
+    },
     appendChild(child) {
       child.parent = el;
       children.push(child);
@@ -144,8 +175,6 @@ function createMockElement(tag, attrs = {}) {
     },
     focus() { focused = true; },
     get isFocused() { return focused; },
-    showPicker() { pickerOpened = true; },
-    get isPickerOpened() { return pickerOpened; },
     closest(selector) {
       let cur = el;
       while (cur) {
@@ -158,10 +187,22 @@ function createMockElement(tag, attrs = {}) {
       for (const ch of children) {
         if (selector === 'select' && ch.tagName === 'SELECT') return ch;
         if (selector === 'input' && ch.tagName === 'INPUT') return ch;
+        if (selector === 'label' && ch.tagName === 'LABEL') return ch;
         const found = ch.querySelector(selector);
         if (found) return found;
       }
       return null;
+    },
+    querySelectorAll(selector) {
+      const results = [];
+      function walk(node) {
+        for (const ch of node.children) {
+          if (selector === '.fillblank-option' && ch.classList.contains('fillblank-option')) results.push(ch);
+          walk(ch);
+        }
+      }
+      walk(el);
+      return results;
     }
   };
   return el;
@@ -178,47 +219,40 @@ fbSpan.appendChild(label);
 fbSpan.appendChild(select);
 container.appendChild(fbSpan);
 
-// Simulate the click delegation logic
-let lastActivation = 0;
-function simulateContainerClick(target, isSubmitted = false) {
-  if (isSubmitted || !target) return false;
-  if (target.tagName === 'SELECT' || target.tagName === 'INPUT') return false;
+// Simulate the dynamic pairing logic in ExamRunner and PracticeRunner
+const options = container.querySelectorAll('.fillblank-option');
+options.forEach((opt) => {
+  const lbl = opt.querySelector('label');
+  const ctrl = opt.querySelector('select');
+  if (lbl && ctrl) {
+    const controlId = ctrl.id || ctrl.getAttribute('name') || `fbo-1201768-${ctrl.getAttribute('index') || '0'}`;
+    if (!ctrl.id) ctrl.id = controlId;
+    if (!lbl.getAttribute('for')) lbl.setAttribute('for', controlId);
+  }
+});
 
-  const now = Date.now();
-  if (now - lastActivation < 250) return false;
+// 1. Verify dynamic pairing
+check('Dynamic pairing assigns control id', select.id === 'fbo-1201768-0');
+check('Dynamic pairing associates label for attribute', label.getAttribute('for') === 'fbo-1201768-0');
 
-  const fillblankContainer = (target.closest('.fillblank-option') || target.querySelector?.('.fillblank-option'));
-  if (fillblankContainer) {
-    const sel = fillblankContainer.querySelector('select');
-    if (sel && !sel.disabled) {
-      lastActivation = now;
-      sel.focus();
-      try { sel.showPicker?.(); } catch {}
-      return true;
-    }
+// 2. Simulate native browser label activation (HTML standard triggers focus on labeled control)
+function simulateLabelClick(lbl) {
+  const forId = lbl.getAttribute('for');
+  if (forId && select.id === forId && !select.disabled) {
+    select.focus();
+    return true;
   }
   return false;
 }
 
-// 1. Click on <label>
-const labelClickResult = simulateContainerClick(label);
-check('Click on <label> activates select (returns true)', labelClickResult === true);
-check('Click on <label> focused the select', select.isFocused === true);
-check('Click on <label> invoked showPicker() on the select', select.isPickerOpened === true);
+const labelClickResult = simulateLabelClick(label);
+check('Clicking <label> activates select via htmlFor (returns true)', labelClickResult === true);
+check('Clicking <label> focused the select element natively', select.isFocused === true);
 
-// 2. Click immediately within debounce window (synthetic duplicate)
-const duplicateClickResult = simulateContainerClick(label);
-check('Debounce prevents duplicate activation within 250ms', duplicateClickResult === false);
-
-// 3. Click directly on select element
-const directSelectClick = simulateContainerClick(select);
-check('Click directly on select lets native handler proceed (returns false)', directSelectClick === false);
-
-// 4. Click when disabled
+// 3. Verify disabled control is not activated
 select.disabled = true;
-lastActivation = 0; // reset debounce
-const disabledClick = simulateContainerClick(label);
-check('Click on disabled control does not activate', disabledClick === false);
+const disabledClick = simulateLabelClick(label);
+check('Clicking <label> on disabled select does not activate', disabledClick === false);
 
 // -----------------------------------------------------------------------------
 // VECTOR 5: Real Exam 19159 Q33-36 State Sync & Palette Transition

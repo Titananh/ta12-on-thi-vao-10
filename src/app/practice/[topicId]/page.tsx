@@ -133,7 +133,6 @@ export default function PracticePage() {
   const [blankAnswers, setBlankAnswers] = useState<Record<string, string>>({});
   const [selectedWordOrder, setSelectedWordOrder] = useState<string[]>([]);
   const questionPromptRef = useRef<HTMLDivElement>(null);
-  const lastPickerActivationRef = useRef<number>(0);
   const [isSubmitted, setIsSubmitted] = useState<boolean>(false);
   const [isCorrect, setIsCorrect] = useState<boolean>(false);
   const [isRevealed, setIsRevealed] = useState<boolean>(false);
@@ -414,10 +413,22 @@ export default function PracticePage() {
     }
   }, [canSubmit, isFillBlank, isShortAnswer, isWordOrder, selectedChoiceId]);
 
-  // Dynamic HTML event delegation on question container (change & input events)
+  // Pure native Tak12 parity: Dynamic HTML event delegation on question container (change & input events)
   useEffect(() => {
     const container = questionPromptRef.current;
     if (!container) return;
+
+    // Associate <label htmlFor> with <select id> / <input id> for native accessibility and activation
+    const options = container.querySelectorAll<HTMLElement>('.fillblank-option');
+    options.forEach((opt) => {
+      const label = opt.querySelector('label');
+      const control = opt.querySelector<HTMLSelectElement | HTMLInputElement>('select, input');
+      if (label && control) {
+        const controlId = control.id || control.getAttribute('name') || `fbo-${currentQ?.id}-${control.getAttribute('index') || '0'}`;
+        if (!control.id) control.id = controlId;
+        if (!label.getAttribute('for')) label.setAttribute('for', controlId);
+      }
+    });
 
     const handleSync = (e: Event) => {
       const target = e.target as HTMLSelectElement | HTMLInputElement;
@@ -427,40 +438,12 @@ export default function PracticePage() {
       setBlankAnswers((prev) => ({ ...prev, [idx]: val }));
     };
 
-    const handleClick = (e: MouseEvent) => {
-      const target = e.target as HTMLElement | null;
-      if (!target || target.tagName === 'SELECT' || target.tagName === 'INPUT') return;
-
-      const now = Date.now();
-      if (now - lastPickerActivationRef.current < 250) return;
-
-      const fillblankContainer = (target.closest('.fillblank-option') || target.querySelector('.fillblank-option')) as HTMLElement | null;
-      if (fillblankContainer) {
-        const select = fillblankContainer.querySelector('select') as HTMLSelectElement | null;
-        const input = fillblankContainer.querySelector('input') as HTMLInputElement | null;
-        if (select && !select.disabled) {
-          lastPickerActivationRef.current = now;
-          select.focus();
-          try {
-            (select as any).showPicker?.();
-          } catch {
-            // fallback focus
-          }
-        } else if (input && !input.disabled) {
-          lastPickerActivationRef.current = now;
-          input.focus();
-        }
-      }
-    };
-
     container.addEventListener('change', handleSync);
     container.addEventListener('input', handleSync);
-    container.addEventListener('click', handleClick);
 
     return () => {
       container.removeEventListener('change', handleSync);
       container.removeEventListener('input', handleSync);
-      container.removeEventListener('click', handleClick);
     };
   }, [currentQ?.id]);
 
@@ -468,6 +451,17 @@ export default function PracticePage() {
   useEffect(() => {
     const container = questionPromptRef.current;
     if (!container) return;
+
+    const options = container.querySelectorAll<HTMLElement>('.fillblank-option');
+    options.forEach((opt) => {
+      const label = opt.querySelector('label');
+      const control = opt.querySelector<HTMLSelectElement | HTMLInputElement>('select, input');
+      if (label && control) {
+        const controlId = control.id || control.getAttribute('name') || `fbo-${currentQ?.id}-${control.getAttribute('index') || '0'}`;
+        if (!control.id) control.id = controlId;
+        if (!label.getAttribute('for')) label.setAttribute('for', controlId);
+      }
+    });
 
     const controls = container.querySelectorAll<HTMLSelectElement | HTMLInputElement>('select, input');
     controls.forEach((ctrl) => {
@@ -942,45 +936,6 @@ export default function PracticePage() {
           <div className="flex items-start justify-between gap-3">
             <div
               ref={questionPromptRef}
-              onClick={(e) => {
-                const target = e.target as HTMLElement | null;
-                if (!target || target.tagName === 'SELECT' || target.tagName === 'INPUT') return;
-
-                const now = Date.now();
-                if (now - lastPickerActivationRef.current < 250) return;
-
-                const fillblankContainer = (target.closest('.fillblank-option') || target.querySelector('.fillblank-option')) as HTMLElement | null;
-                if (fillblankContainer) {
-                  const select = fillblankContainer.querySelector('select') as HTMLSelectElement | null;
-                  const input = fillblankContainer.querySelector('input') as HTMLInputElement | null;
-                  if (select && !select.disabled) {
-                    lastPickerActivationRef.current = now;
-                    select.focus();
-                    try {
-                      (select as any).showPicker?.();
-                    } catch {
-                      // fallback focus
-                    }
-                  } else if (input && !input.disabled) {
-                    lastPickerActivationRef.current = now;
-                    input.focus();
-                  }
-                }
-              }}
-              onChange={(e) => {
-                const target = e.target as HTMLSelectElement | HTMLInputElement;
-                if (!target || !['SELECT', 'INPUT'].includes(target.tagName)) return;
-                const idx = target.getAttribute('index') || target.getAttribute('name')?.split('-').pop() || '0';
-                const val = target.value;
-                setBlankAnswers((prev) => ({ ...prev, [idx]: val }));
-              }}
-              onInput={(e) => {
-                const target = e.target as HTMLSelectElement | HTMLInputElement;
-                if (!target || !['SELECT', 'INPUT'].includes(target.tagName)) return;
-                const idx = target.getAttribute('index') || target.getAttribute('name')?.split('-').pop() || '0';
-                const val = target.value;
-                setBlankAnswers((prev) => ({ ...prev, [idx]: val }));
-              }}
               className="text-[17px] leading-relaxed font-bold text-white flex-1"
               dangerouslySetInnerHTML={{ __html: currentQ.questionText }}
             />

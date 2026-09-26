@@ -1,7 +1,6 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import Link from 'next/link';
 import NavCards from '@/components/NavCards';
 import FilterPills from '@/components/FilterPills';
 import TopicList from '@/components/TopicList';

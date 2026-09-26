@@ -714,5 +714,13 @@ input.ms {
   vertical-align: middle;
 }
 
-
-
+/* Tak12 Question Palette Signature Green Priority */
+.bg-\[\#5fbd18\] {
+  background-color: #5fbd18 !important;
+}
+.border-\[\#5fbd18\] {
+  border-color: #5fbd18 !important;
+}
+.hover\:bg-\[\#4ea713\]:hover {
+  background-color: #4ea713 !important;
+}
