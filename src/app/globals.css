@@ -219,6 +219,176 @@ body {
   background-color: #1e221e !important;
 }
 
+/* Comprehensive Dark-Mode Styling for Tak12 Theory Slide Decks & Cards */
+.related-topic-content [class*="-slide-container"],
+.related-topic-content .tinh-tu-card-wrapper,
+.related-topic-content .compound-noun-container {
+  background: transparent !important;
+}
+
+.related-topic-content [class*="-slide-card"],
+.related-topic-content .tinh-tu-card {
+  background-color: #1e221e !important;
+  color: #e6e6e6 !important;
+  border: 1px solid #383c38 !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4) !important;
+}
+
+.related-topic-content [class*="-slide-card"] h3,
+.related-topic-content .tinh-tu-card h3 {
+  color: #4ade80 !important;
+  border-bottom: 2px solid #5fbd18 !important;
+}
+
+.related-topic-content [class*="-slide-table"] table {
+  background-color: #161916 !important;
+  box-shadow: none !important;
+  border: 1px solid #383c38 !important;
+}
+
+.related-topic-content [class*="-slide-table"] th {
+  background-color: #1c581f !important;
+  color: #ffffff !important;
+  border: 1px solid #383c38 !important;
+}
+
+.related-topic-content [class*="-slide-table"] td {
+  background-color: transparent !important;
+  color: #e6e6e6 !important;
+  border: 1px solid #2e332e !important;
+  border-bottom: 1px solid #2e332e !important;
+}
+
+.related-topic-content [class*="-slide-table"] td strong,
+.related-topic-content [class*="-slide-card"] strong,
+.related-topic-content .tinh-tu-card strong {
+  color: #86efac !important;
+  font-weight: 700 !important;
+}
+
+.related-topic-content [class*="-slide-table"] td em,
+.related-topic-content [class*="-slide-card"] em,
+.related-topic-content .tinh-tu-card em {
+  color: #cbd5e1 !important;
+  font-style: italic !important;
+}
+
+.related-topic-content [class*="-slide-table"] tr:hover {
+  background-color: #242a24 !important;
+}
+
+.related-topic-content [class*="-slide-nav-button"] {
+  background-color: #5fbd18 !important;
+  color: #ffffff !important;
+  border-radius: 8px !important;
+  font-weight: 600 !important;
+  cursor: pointer !important;
+  box-shadow: 0 2px 8px rgba(95, 189, 24, 0.3) !important;
+  border: none !important;
+}
+
+.related-topic-content [class*="-slide-nav-button"]:hover {
+  filter: brightness(1.1) !important;
+}
+
+.related-topic-content [class*="-slide-nav-button-disabled"] {
+  background-color: #2d332d !important;
+  color: #6b7280 !important;
+  box-shadow: none !important;
+  cursor: not-allowed !important;
+  opacity: 0.45 !important;
+}
+
+.related-topic-content [class*="-slide-congrats-box"] {
+  background-color: #1e2e1e !important;
+  border: 2px solid #5fbd18 !important;
+  color: #e6e6e6 !important;
+}
+
+.related-topic-content [class*="-slide-summary-box"] {
+  background-color: #1e2e1e !important;
+  border-left: 4px solid #5fbd18 !important;
+  color: #e6e6e6 !important;
+}
+
+.related-topic-content [class*="-slide-summary-box"] th {
+  background-color: #274027 !important;
+  color: #86efac !important;
+}
+
+.related-topic-content [class*="-slide-summary-box"] td {
+  border-bottom: 1px solid #2e332e !important;
+  color: #e6e6e6 !important;
+}
+
+.related-topic-content [class*="-slide-progress-container"],
+.related-topic-content .tinh-tu-progress-bar {
+  background-color: #2a332a !important;
+}
+
+.related-topic-content [class*="-slide-counter"],
+.related-topic-content .tinh-tu-card-counter {
+  color: #86efac !important;
+}
+
+.related-topic-content [class*="-slide-strong"] {
+  color: #4ade80 !important;
+}
+
+.related-topic-content [class*="-slide-yellow-highlight"] {
+  background-color: #854d0e !important;
+  color: #fef08a !important;
+}
+
+.related-topic-content .compound-noun-box {
+  background-color: #1e2e1e !important;
+  border: 1px solid #383c38 !important;
+}
+
+.related-topic-content .compound-noun-title {
+  color: #4ade80 !important;
+}
+
+.related-topic-content .compound-noun-examples {
+  color: #e6e6e6 !important;
+}
+
+/* Eliminate harsh white inline backgrounds and prevent white-on-white text */
+.related-topic-content [style*="background: white"],
+.related-topic-content [style*="background:white"],
+.related-topic-content [style*="background:#fff"],
+.related-topic-content [style*="background: #fff"],
+.related-topic-content [style*="background-color: white"],
+.related-topic-content [style*="background-color:white"],
+.related-topic-content [style*="background-color:#fff"],
+.related-topic-content [style*="background-color: #fff"] {
+  background-color: #1e221e !important;
+  color: #e6e6e6 !important;
+}
+
+/* Fallback: If any container still has a white background, ensure dark text for 100% readability */
+.related-topic-content .bg-white strong,
+.related-topic-content [style*="background: white"] strong,
+.related-topic-content [style*="background: #fff"] strong,
+.related-topic-content [style*="background-color: white"] strong,
+.related-topic-content [style*="background-color: #fff"] strong {
+  color: #166534 !important;
+}
+.related-topic-content .bg-white em,
+.related-topic-content [style*="background: white"] em,
+.related-topic-content [style*="background: #fff"] em,
+.related-topic-content [style*="background-color: white"] em,
+.related-topic-content [style*="background-color: #fff"] em {
+  color: #334155 !important;
+}
+.related-topic-content .bg-white td,
+.related-topic-content [style*="background: white"] td,
+.related-topic-content [style*="background: #fff"] td,
+.related-topic-content [style*="background-color: white"] td,
+.related-topic-content [style*="background-color: #fff"] td {
+  color: #0f172a !important;
+}
+
 .related-topic-content .lp-template,
 .related-topic-content .lp-template.lp-partners {
   background-color: transparent !important;
@@ -348,6 +518,17 @@ body {
    TA12 FillBlank & Select Dropdown Styles (Light & Dark Mode)
    ========================================================================== */
 
+/* Universal select and option color-scheme preservation */
+select,
+option {
+  color-scheme: light;
+}
+
+.dark select,
+.dark option {
+  color-scheme: dark;
+}
+
 .fillblank-option {
   display: inline-flex;
   align-items: center;
@@ -355,6 +536,7 @@ body {
   vertical-align: middle;
   margin: 0 4px;
   position: relative;
+  cursor: pointer;
 }
 
 .fillblank-option label {
@@ -366,17 +548,20 @@ body {
   padding: 2px 6px;
   border-radius: 4px;
   user-select: none;
+  cursor: pointer;
 }
 
 .dark .fillblank-option label {
   color: #a3a3a3;
   background-color: #262926;
   border: 1px solid #383c38;
+  cursor: pointer;
 }
 
 .fillblank-option select,
 select.fillblank-select,
 select.ms {
+  color-scheme: light;
   appearance: none;
   -webkit-appearance: none;
   font-family: inherit;
@@ -404,6 +589,7 @@ select.ms {
 .dark .fillblank-option select,
 .dark select.fillblank-select,
 .dark select.ms {
+  color-scheme: dark;
   background-color: #1e221e !important;
   color: #ffffff !important;
   border-color: #383c38;
@@ -423,6 +609,7 @@ select.ms:focus {
 select.fillblank-select option,
 select.ms option,
 option.fillblank-option {
+  color-scheme: light;
   background-color: #ffffff !important;
   color: #1e293b !important;
   padding: 6px 10px;
@@ -432,6 +619,7 @@ option.fillblank-option {
 .dark select.fillblank-select option,
 .dark select.ms option,
 .dark option.fillblank-option {
+  color-scheme: dark;
   background-color: #1e221e !important;
   color: #ffffff !important;
 }
@@ -480,6 +668,7 @@ input.ms {
   border-color: #22be34 !important;
   background-color: rgba(34, 190, 52, 0.18) !important;
   color: #22be34 !important;
+  color-scheme: light;
 }
 
 .dark .fillblank-option.correct select,
@@ -491,6 +680,7 @@ input.ms {
   border-color: #22be34 !important;
   background-color: rgba(34, 190, 52, 0.22) !important;
   color: #4ade80 !important;
+  color-scheme: dark;
 }
 
 .fillblank-option.wrong select,
@@ -502,6 +692,7 @@ input.ms {
   border-color: #db2828 !important;
   background-color: rgba(219, 40, 40, 0.18) !important;
   color: #db2828 !important;
+  color-scheme: light;
 }
 
 .dark .fillblank-option.wrong select,
@@ -513,6 +704,7 @@ input.ms {
   border-color: #db2828 !important;
   background-color: rgba(219, 40, 40, 0.22) !important;
   color: #f87171 !important;
+  color-scheme: dark;
 }
 
 .fillblank-correct-badge {

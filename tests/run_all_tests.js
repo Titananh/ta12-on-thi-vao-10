@@ -28,7 +28,9 @@ const suites = [
   { name: 'Deep Penetration & Zero-Leak Security Audit Suite', file: 'tests/test_penetration_deep_audit.js' },
   { name: 'Interactive Question Types & Multi-Blank Scoring Suite', file: 'tests/test_question_types_interactive.js' },
   { name: 'Question Types Parity & Cross-Feature Comprehensive Suite', file: 'tests/test_question_types_parity.js' },
-  { name: 'All 138 Exam Bundles Atomic-Point Parity Suite', file: 'tests/test_exam_bundle_atomic_parity.js' }
+  { name: 'All 138 Exam Bundles Atomic-Point Parity Suite', file: 'tests/test_exam_bundle_atomic_parity.js' },
+  { name: 'Cloze Dropdowns, Dark Contrast & Palette Scoring Suite', file: 'tests/adversarial_challenger_m1_palette_scoring_css.js' },
+  { name: 'User Reported Issues (Zero Canva Iframes, Offline Theories, Slide Dark Mode)', file: 'tests/test_user_reported_issues_m3.js' }
 ];
 
 console.log('========================================================================');

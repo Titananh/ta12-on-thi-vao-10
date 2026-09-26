@@ -408,6 +408,7 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
   const [isExitModalOpen, setIsExitModalOpen] = useState<boolean>(false);
   const [isMobilePaletteOpen, setIsMobilePaletteOpen] = useState<boolean>(false);
   const questionPromptRef = useRef<HTMLDivElement>(null);
+  const lastPickerActivationRef = useRef<number>(0);
 
   // Review mode filter
   const [reviewFilter, setReviewFilter] = useState<'all' | 'correct' | 'wrong' | 'unanswered' | 'bookmarked'>('all');
@@ -536,12 +537,41 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
       });
     };
 
+    const handleClick = (e: MouseEvent) => {
+      if (isSubmitted) return;
+      const target = e.target as HTMLElement | null;
+      if (!target || target.tagName === 'SELECT' || target.tagName === 'INPUT') return;
+
+      const now = Date.now();
+      if (now - lastPickerActivationRef.current < 250) return;
+
+      const fillblankContainer = (target.closest('.fillblank-option') || target.querySelector('.fillblank-option')) as HTMLElement | null;
+      if (fillblankContainer) {
+        const select = fillblankContainer.querySelector('select') as HTMLSelectElement | null;
+        const input = fillblankContainer.querySelector('input') as HTMLInputElement | null;
+        if (select && !select.disabled) {
+          lastPickerActivationRef.current = now;
+          select.focus();
+          try {
+            (select as any).showPicker?.();
+          } catch {
+            // fallback focus
+          }
+        } else if (input && !input.disabled) {
+          lastPickerActivationRef.current = now;
+          input.focus();
+        }
+      }
+    };
+
     container.addEventListener('change', handleSync);
     container.addEventListener('input', handleSync);
+    container.addEventListener('click', handleClick);
 
     return () => {
       container.removeEventListener('change', handleSync);
       container.removeEventListener('input', handleSync);
+      container.removeEventListener('click', handleClick);
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentQ?.id, isSubmitted]);
@@ -556,9 +586,13 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
 
     controls.forEach((ctrl) => {
       const idx = ctrl.getAttribute('index') || ctrl.getAttribute('name')?.split('-').pop() || '0';
-      if (typeof qAnswers === 'object' && qAnswers !== null && qAnswers[idx] !== undefined) {
-        if (ctrl.value !== qAnswers[idx]) {
-          ctrl.value = qAnswers[idx];
+      const userVal = (typeof qAnswers === 'object' && qAnswers !== null)
+        ? (qAnswers[idx] ?? qAnswers[String(idx)] ?? (qAnswers as any)[parseInt(idx, 10)])
+        : undefined;
+
+      if (userVal !== undefined) {
+        if (ctrl.value !== userVal) {
+          ctrl.value = userVal;
         }
       } else if (!isSubmitted) {
         if (ctrl.value !== '') {
@@ -912,6 +946,32 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                   {/* Question Text */}
                   <div
                     ref={questionPromptRef}
+                    onClick={(e) => {
+                      if (isSubmitted) return;
+                      const target = e.target as HTMLElement | null;
+                      if (!target || target.tagName === 'SELECT' || target.tagName === 'INPUT') return;
+
+                      const now = Date.now();
+                      if (now - lastPickerActivationRef.current < 250) return;
+
+                      const fillblankContainer = (target.closest('.fillblank-option') || target.querySelector('.fillblank-option')) as HTMLElement | null;
+                      if (fillblankContainer) {
+                        const select = fillblankContainer.querySelector('select') as HTMLSelectElement | null;
+                        const input = fillblankContainer.querySelector('input') as HTMLInputElement | null;
+                        if (select && !select.disabled) {
+                          lastPickerActivationRef.current = now;
+                          select.focus();
+                          try {
+                            (select as any).showPicker?.();
+                          } catch {
+                            // fallback focus
+                          }
+                        } else if (input && !input.disabled) {
+                          lastPickerActivationRef.current = now;
+                          input.focus();
+                        }
+                      }
+                    }}
                     onChange={(e) => {
                       if (isSubmitted) return;
                       const target = e.target as HTMLSelectElement | HTMLInputElement;

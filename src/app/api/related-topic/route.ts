@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
+import { getCuratedTheoryHtml, sanitizeTheoryDetail } from '@/lib/curatedTheories';
 
 // Load cached related topics into memory once
 let cachedTopics: Record<string, any> = {};
@@ -79,15 +80,25 @@ function getFallbackTheory(studyUnit?: string | null, sectionId?: string | null,
 // Render fallback HTML detail from structured theory rules
 function formatTheoryToHtml(theory: any): string {
   if (!theory) return '';
-  if (theory.detail) return theory.detail;
 
-  // Support lessons array (Học Ôn, Grammar, Vocabulary) with Canva 16:9 embeds
+  const theoryName = theory.topicName || theory.title || theory.englishName;
+  const curated = getCuratedTheoryHtml(theoryName);
+  if (curated && (!theory.detail || theory.detail.includes('canva.com') || theory.detail.includes('cth.edu.vn'))) {
+    return curated;
+  }
+
+  if (theory.detail) return sanitizeTheoryDetail(theory.detail, theoryName);
+
+  // Support lessons array (Học Ôn, Grammar, Vocabulary)
   if (theory.lessons && Array.isArray(theory.lessons) && theory.lessons.length > 0) {
+    if (curated) {
+      return curated;
+    }
     const validLessons = theory.lessons
       .filter((l: any) => l.contentHtml || l.embedUrl)
       .map((l: any) => {
-        let content = l.contentHtml || '';
-        if (l.embedUrl && !content.includes('<iframe')) {
+        let content = sanitizeTheoryDetail(l.contentHtml || '', theoryName);
+        if (l.embedUrl && !content.includes('<iframe') && !l.embedUrl.includes('canva.com') && !l.embedUrl.includes('cth.edu.vn')) {
           content += `
             <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">
               <iframe style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" src="${l.embedUrl}" allowfullscreen="allowfullscreen" loading="lazy"></iframe>
@@ -103,8 +114,11 @@ function formatTheoryToHtml(theory: any): string {
 
   // Direct contentHtml / embedUrl on theory root
   if (theory.contentHtml || theory.embedUrl) {
-    let content = theory.contentHtml || '';
-    if (theory.embedUrl && !content.includes('<iframe')) {
+    if (curated) {
+      return curated;
+    }
+    let content = sanitizeTheoryDetail(theory.contentHtml || '', theoryName);
+    if (theory.embedUrl && !content.includes('<iframe') && !theory.embedUrl.includes('canva.com') && !theory.embedUrl.includes('cth.edu.vn')) {
       content += `
         <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;">
           <iframe style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" src="${theory.embedUrl}" allowfullscreen="allowfullscreen" loading="lazy"></iframe>
@@ -154,26 +168,25 @@ export async function GET(request: NextRequest) {
   if (questionId && cachedTopics[questionId]) {
     const cached = cachedTopics[questionId];
     if (cached.listQuestionTopicDetail && cached.listQuestionTopicDetail.length > 0) {
-      // Enrich any null/empty detail if possible
+      // Enrich any null/empty detail if possible and sanitize all details
       const enrichedList = cached.listQuestionTopicDetail.map((t: any) => {
-        if (!t.detail || t.detail.trim() === '') {
+        let detail = t.detail;
+        if (!detail || detail.trim() === '') {
           // Check Level 2 explanation/ruleTip
           if (explanation?.trim() || ruleTip?.trim()) {
-            return {
-              ...t,
-              detail: explanation?.trim() || ruleTip?.trim() || '',
-            };
-          }
-          // Check Level 3 studyUnit or Level 4 sectionId
-          const fallback = getFallbackTheory(studyUnit, sectionId, topicId);
-          if (fallback) {
-            return {
-              ...t,
-              detail: formatTheoryToHtml(fallback),
-            };
+            detail = explanation?.trim() || ruleTip?.trim() || '';
+          } else {
+            // Check Level 3 studyUnit or Level 4 sectionId
+            const fallback = getFallbackTheory(studyUnit, sectionId, topicId);
+            if (fallback) {
+              detail = formatTheoryToHtml(fallback);
+            }
           }
         }
-        return t;
+        return {
+          ...t,
+          detail: sanitizeTheoryDetail(detail, t.name),
+        };
       });
 
       return NextResponse.json({
