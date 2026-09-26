@@ -66,7 +66,9 @@ export default function Header() {
   useEffect(() => {
     // Check localStorage or default to dark
     const stored = localStorage.getItem('ta12_theme');
-    if (stored === 'light') {
+    // The public course defaults to the light surface.  A saved dark choice
+    // remains respected so the theme toggle is still persistent.
+    if (stored !== 'dark') {
       setIsDark(false);
       document.documentElement.setAttribute('data-theme', 'light');
       document.documentElement.classList.remove('dark');
@@ -169,19 +171,19 @@ export default function Header() {
             </Link>
             <div className="h-4 w-px bg-slate-200 dark:bg-slate-700"></div>
             <Link
-              href="/"
+              href="/?tab=luyen-de"
               className="text-[#66cc00] font-semibold border-b-2 border-[#66cc00] pb-0.5"
             >
               TA vào 10 HN
             </Link>
             <Link
-              href="/"
+              href="/?tab=hoc-on"
               className="hover:text-emerald-500 text-slate-600 dark:text-slate-300"
             >
               Chương trình ôn luyện
             </Link>
             <Link
-              href="/"
+              href="/?tab=luyen-chudiem"
               className="hover:text-emerald-500 text-slate-600 dark:text-slate-300"
             >
               Tiếng Anh THPT

@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
+import Link from 'next/link';
 import NavCards from '@/components/NavCards';
 import FilterPills from '@/components/FilterPills';
 import TopicList from '@/components/TopicList';
@@ -31,6 +32,13 @@ export default function HomePage() {
   // Load user progress from localStorage
   useEffect(() => {
     setHasHydrated(true);
+    const requestedTab = new URLSearchParams(window.location.search).get('tab');
+    if (requestedTab === 'hoc-on' || requestedTab === 'luyen-de' || requestedTab === 'luyen-phan' || requestedTab === 'luyen-chudiem') {
+      setActiveTab(requestedTab);
+    } else {
+      // User preference: default landing tab in browser is 'luyen-de' (Luyện đề thi)
+      setActiveTab('luyen-de');
+    }
     try {
       const saved = localStorage.getItem('ta12_progress');
       if (saved) {
@@ -100,8 +108,29 @@ export default function HomePage() {
     }
   }
 
+  const handleTabChange = (tab: 'hoc-on' | 'luyen-de' | 'luyen-phan' | 'luyen-chudiem') => {
+    setActiveTab(tab);
+    if (typeof window !== 'undefined') {
+      const url = new URL(window.location.href);
+      url.searchParams.set('tab', tab);
+      window.history.replaceState({}, '', `${url.pathname}?${url.searchParams.toString()}`);
+    }
+  };
+
   return (
     <div className="space-y-4">
+      {/* Official course heading keeps the course identity visible above every mode. */}
+      <section className="flex flex-col gap-3 rounded-md border border-slate-200 bg-white px-4 py-3 shadow-sm dark:border-[#383c38] dark:bg-[#242824] sm:flex-row sm:items-center sm:justify-between">
+        <div className="flex min-w-0 items-center gap-3">
+          <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-md bg-[#5fbd18] text-xl shadow-sm">📗</div>
+          <div className="min-w-0">
+            <p className="truncate text-lg font-extrabold text-[#1c581f] dark:text-emerald-300">Ôn thi vào 10 môn Anh - HN</p>
+            <p className="text-xs text-slate-500 dark:text-slate-400">Luyện thi theo chương trình Hà Nội · 138 đề · 76 bài học · 5 kỹ năng</p>
+          </div>
+        </div>
+        <Link href="/?tab=luyen-de" className="inline-flex shrink-0 items-center justify-center rounded-md bg-[#5fbd18] px-4 py-2 text-xs font-extrabold text-white hover:bg-[#4ea713]">Mua gói PRO</Link>
+      </section>
+
       {/* Breadcrumb */}
       <nav className="text-xs text-slate-500 flex items-center space-x-2 py-1">
         <span className="hover:text-emerald-700 cursor-pointer">Trang chủ</span>
@@ -120,7 +149,7 @@ export default function HomePage() {
       </nav>
 
       {/* 4 Big Nav Cards */}
-      <NavCards activeTab={activeTab} onTabChange={setActiveTab} />
+      <NavCards activeTab={activeTab} onTabChange={handleTabChange} />
 
       {/* Mode 1: HỌC ÔN */}
       {activeTab === 'hoc-on' && <HocOnView />}

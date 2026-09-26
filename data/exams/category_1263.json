@@ -9,8 +9,15 @@
     "timeLimit": 60,
     "questionCount": 41,
     "totalPoint": 45,
-    "description": "<style>\n    .ta12-quiz-desc-wrapper {\n      width: 100%;\n      margin: 0 auto;\n      background-color: #ffffff;\n      border: 1px solid #ceedca;\n      border-radius: 16px;\n      padding: 12px 18px;\n      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);\n      color: #333333;\n      line-height: 1.6;\n    }\n\n    .ta12-quiz-intro {\n      font-size: 16px;\n      margin-bottom: 14px;\n    }\n\n    .ta12-quiz-specs {\n      list-style: none;\n      margin: 0 0 16px 0;\n      padding: 0;\n      display: flex;\n      flex-direction: column;\n      gap: 6px;\n      font-size: 16px;\n      color: inherit;\n    }\n\n    .ta12-quiz-specs li {\n      position: relative;\n      padding-left: 18px;\n    }\n\n    .ta12-quiz-specs li::before {\n      content: \"•\";\n      color: #5fbd18;\n      font-weight: bold;\n      font-size: 18px;\n      position: absolute;\n      left: 0;\n      top: -2px;\n    }\n\n    .ta12-quiz-specs strong {\n      color: #1c581f;\n    }\n\n    .ta12-highlight-ai {\n      color: #e53935;\n      font-weight: 700;\n    }\n\n    .ta12-quiz-perks {\n      background-color: #f8fcf7;\n      border: 1px dashed #5fbd18;\n      border-radius: 12px;\n      padding: 14px 16px;\n      margin-bottom: 16px;\n    }\n\n    .ta12-perks-title {\n      font-size: 16px;\n      font-weight: 800;\n      color: #1c581f;\n      margin-bottom: 8px;\n      display: flex;\n      align-items: center;\n      gap: 6px;\n    }\n\n    .ta12-perks-list {\n      list-style: none;\n      margin: 0;\n      padding: 0;\n      display: flex;\n      flex-direction: column;\n      gap: 6px;\n      font-size: 16px;\n      color: inherit;\n    }\n\n    .ta12-perks-list li {\n      position: relative;\n      padding-left: 18px;\n    }\n\n    .ta12-perks-list li::before {\n      content: \"✓\";\n      color: #5fbd18;\n      font-weight: 800;\n      font-size: 15px;\n      position: absolute;\n      left: 0;\n      top: 0;\n    }\n\n    .ta12-expiry-tag {\n      color: #e53935;\n      font-size: 15px;\n      font-weight: 600;\n    }\n\n    .ta12-quiz-note {\n      font-size: 13px;\n      color: #666666;\n      font-style: italic;\n      text-align: center;\n    }\n\n    .ta12-quiz-note strong {\n      color: #1c581f;\n      font-style: normal;\n    }\n\n    /* ---------------------------------------------------- */\n    /* DARK MODE SUPPORT (Tự động nhận diện theme hệ thống/trình duyệt) */\n    /* ---------------------------------------------------- */\n    @media (prefers-color-scheme: dark) {\n      .ta12-quiz-desc-wrapper {\n        background-color: #1e241e;\n        border-color: #2e4d28;\n        color: #e2e8f0;\n      }\n\n      .ta12-quiz-intro {\n        color: #e2e8f0 !important;\n      }\n\n      .ta12-quiz-specs strong {\n        color: #82e03c;\n      }\n\n      .ta12-highlight-ai {\n        color: #ff6b6b;\n      }\n\n      .ta12-quiz-perks {\n        background-color: #162214;\n        border-color: #438f12;\n      }\n\n      .ta12-perks-title {\n        color: #82e03c;\n      }\n\n      .ta12-expiry-tag {\n        color: #ff6b6b;\n      }\n\n      .ta12-quiz-note {\n        color: #a0aec0;\n      }\n\n      .ta12-quiz-note strong {\n        color: #82e03c;\n      }\n    }\n\n    /* Hỗ trợ thêm trường hợp website toggles class dark/dark-mode thủ công */\n    .dark .ta12-quiz-desc-wrapper,\n    .dark-mode .ta12-quiz-desc-wrapper {\n      background-color: #1e241e;\n      border-color: #2e4d28;\n      color: #e2e8f0;\n    }\n\n    .dark .ta12-quiz-intro,\n    .dark-mode .ta12-quiz-intro {\n      color: #e2e8f0 !important;\n    }\n\n    .dark .ta12-quiz-specs strong,\n    .dark-mode .ta12-quiz-specs strong {\n      color: #82e03c;\n    }\n\n    .dark .ta12-highlight-ai,\n    .dark-mode .ta12-highlight-ai {\n      color: #ff6b6b;\n    }\n\n    .dark .ta12-quiz-perks,\n    .dark-mode .ta12-quiz-perks {\n      background-color: #162214;\n      border-color: #438f12;\n    }\n\n    .dark .ta12-perks-title,\n    .dark-mode .ta12-perks-title {\n      color: #82e03c;\n    }\n\n    .dark .ta12-expiry-tag,\n    .dark-mode .ta12-expiry-tag {\n      color: #ff6b6b;\n    }\n\n    .dark .ta12-quiz-note,\n    .dark-mode .ta12-quiz-note {\n      color: #a0aec0;\n    }\n\n    .dark .ta12-quiz-note strong,\n    .dark-mode .ta12-quiz-note strong {\n      color: #82e03c;\n    }\n\n    /* Mobile Responsive */\n    @media (max-width: 768px) {\n      .ta12-quiz-desc-wrapper {\n        padding: 16px;\n        border-radius: 12px;\n      }\n\n      .ta12-quiz-intro,\n      .ta12-quiz-specs {\n        font-size: 13px;\n      }\n\n      .ta12-perks-list {\n        font-size: 12.5px;\n      }\n\n      .ta12-quiz-perks {\n        padding: 12px;\n      }\n      .ta12-expiry-tag {\n        font-size: 12.5px;\n      }\n    }\n  </style>\n<div class=\"ta12-quiz-desc-wrapper\"><!-- Nội dung mô tả -->\n<p class=\"ta12-quiz-intro\">Đề thi ĐGNL Tiếng Anh vào lớp 10 dành cho học sinh đầu lớp 9 muốn xác định trình độ hiện tại so với yêu cầu của các đề thi. Đề thi bao quát các dạng bài và chủ điểm kiến thức thường gặp, hỗ trợ học sinh xây dựng lộ trình ôn thi phù hợp. Học sinh sẽ nhận <span style=\"font-weight: 600;\">báo cáo phân tích chi tiết</span> & lộ trình ôn thi vào 10 sau khi hoàn thành đề.</p>\n<ul class=\"ta12-quiz-specs\">\n<li><strong>Số câu hỏi:</strong> 45 câu</li>\n<li><strong>Thời gian làm bài:</strong> 60 phút</li>\n</ul>\n<p class=\"ta12-quiz-note\">(Học sinh nhấn <strong>Làm bài</strong> để bắt đầu - Đăng nhập hoặc đăng ký tài khoản miễn phí trên TA12).</p>\n</div>",
-    "isPremium": false
+    "description": "<style>\n    .tak12-quiz-desc-wrapper {\n      width: 100%;\n      margin: 0 auto;\n      background-color: #ffffff;\n      border: 1px solid #ceedca;\n      border-radius: 16px;\n      padding: 12px 18px;\n      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);\n      color: #333333;\n      line-height: 1.6;\n    }\n\n    .tak12-quiz-intro {\n      font-size: 16px;\n      margin-bottom: 14px;\n    }\n\n    .tak12-quiz-specs {\n      list-style: none;\n      margin: 0 0 16px 0;\n      padding: 0;\n      display: flex;\n      flex-direction: column;\n      gap: 6px;\n      font-size: 16px;\n      color: inherit;\n    }\n\n    .tak12-quiz-specs li {\n      position: relative;\n      padding-left: 18px;\n    }\n\n    .tak12-quiz-specs li::before {\n      content: \"•\";\n      color: #5fbd18;\n      font-weight: bold;\n      font-size: 18px;\n      position: absolute;\n      left: 0;\n      top: -2px;\n    }\n\n    .tak12-quiz-specs strong {\n      color: #1c581f;\n    }\n\n    .tak12-highlight-ai {\n      color: #e53935;\n      font-weight: 700;\n    }\n\n    .tak12-quiz-perks {\n      background-color: #f8fcf7;\n      border: 1px dashed #5fbd18;\n      border-radius: 12px;\n      padding: 14px 16px;\n      margin-bottom: 16px;\n    }\n\n    .tak12-perks-title {\n      font-size: 16px;\n      font-weight: 800;\n      color: #1c581f;\n      margin-bottom: 8px;\n      display: flex;\n      align-items: center;\n      gap: 6px;\n    }\n\n    .tak12-perks-list {\n      list-style: none;\n      margin: 0;\n      padding: 0;\n      display: flex;\n      flex-direction: column;\n      gap: 6px;\n      font-size: 16px;\n      color: inherit;\n    }\n\n    .tak12-perks-list li {\n      position: relative;\n      padding-left: 18px;\n    }\n\n    .tak12-perks-list li::before {\n      content: \"✓\";\n      color: #5fbd18;\n      font-weight: 800;\n      font-size: 15px;\n      position: absolute;\n      left: 0;\n      top: 0;\n    }\n\n    .tak12-expiry-tag {\n      color: #e53935;\n      font-size: 15px;\n      font-weight: 600;\n    }\n\n    .tak12-quiz-note {\n      font-size: 13px;\n      color: #666666;\n      font-style: italic;\n      text-align: center;\n    }\n\n    .tak12-quiz-note strong {\n      color: #1c581f;\n      font-style: normal;\n    }\n\n    /* ---------------------------------------------------- */\n    /* DARK MODE SUPPORT (Tự động nhận diện theme hệ thống/trình duyệt) */\n    /* ---------------------------------------------------- */\n    @media (prefers-color-scheme: dark) {\n      .tak12-quiz-desc-wrapper {\n        background-color: #1e241e;\n        border-color: #2e4d28;\n        color: #e2e8f0;\n      }\n\n      .tak12-quiz-intro {\n        color: #e2e8f0 !important;\n      }\n\n      .tak12-quiz-specs strong {\n        color: #82e03c;\n      }\n\n      .tak12-highlight-ai {\n        color: #ff6b6b;\n      }\n\n      .tak12-quiz-perks {\n        background-color: #162214;\n        border-color: #438f12;\n      }\n\n      .tak12-perks-title {\n        color: #82e03c;\n      }\n\n      .tak12-expiry-tag {\n        color: #ff6b6b;\n      }\n\n      .tak12-quiz-note {\n        color: #a0aec0;\n      }\n\n      .tak12-quiz-note strong {\n        color: #82e03c;\n      }\n    }\n\n    /* Hỗ trợ thêm trường hợp website toggles class dark/dark-mode thủ công */\n    .dark .tak12-quiz-desc-wrapper,\n    .dark-mode .tak12-quiz-desc-wrapper {\n      background-color: #1e241e;\n      border-color: #2e4d28;\n      color: #e2e8f0;\n    }\n\n    .dark .tak12-quiz-intro,\n    .dark-mode .tak12-quiz-intro {\n      color: #e2e8f0 !important;\n    }\n\n    .dark .tak12-quiz-specs strong,\n    .dark-mode .tak12-quiz-specs strong {\n      color: #82e03c;\n    }\n\n    .dark .tak12-highlight-ai,\n    .dark-mode .tak12-highlight-ai {\n      color: #ff6b6b;\n    }\n\n    .dark .tak12-quiz-perks,\n    .dark-mode .tak12-quiz-perks {\n      background-color: #162214;\n      border-color: #438f12;\n    }\n\n    .dark .tak12-perks-title,\n    .dark-mode .tak12-perks-title {\n      color: #82e03c;\n    }\n\n    .dark .tak12-expiry-tag,\n    .dark-mode .tak12-expiry-tag {\n      color: #ff6b6b;\n    }\n\n    .dark .tak12-quiz-note,\n    .dark-mode .tak12-quiz-note {\n      color: #a0aec0;\n    }\n\n    .dark .tak12-quiz-note strong,\n    .dark-mode .tak12-quiz-note strong {\n      color: #82e03c;\n    }\n\n    /* Mobile Responsive */\n    @media (max-width: 768px) {\n      .tak12-quiz-desc-wrapper {\n        padding: 16px;\n        border-radius: 12px;\n      }\n\n      .tak12-quiz-intro,\n      .tak12-quiz-specs {\n        font-size: 13px;\n      }\n\n      .tak12-perks-list {\n        font-size: 12.5px;\n      }\n\n      .tak12-quiz-perks {\n        padding: 12px;\n      }\n      .tak12-expiry-tag {\n        font-size: 12.5px;\n      }\n    }\n  </style>\n<div class=\"tak12-quiz-desc-wrapper\"><!-- Nội dung mô tả -->\n<p class=\"tak12-quiz-intro\">Đề thi ĐGNL Tiếng Anh vào lớp 10 dành cho học sinh đầu lớp 9 muốn xác định trình độ hiện tại so với yêu cầu của các đề thi. Đề thi bao quát các dạng bài và chủ điểm kiến thức thường gặp, hỗ trợ học sinh xây dựng lộ trình ôn thi phù hợp. Học sinh sẽ nhận <span style=\"font-weight: 600;\">báo cáo phân tích chi tiết</span> &amp; lộ trình ôn thi vào 10 sau khi hoàn thành đề.</p>\n<ul class=\"tak12-quiz-specs\">\n<li><strong>Số câu hỏi:</strong> 45 câu</li>\n<li><strong>Thời gian làm bài:</strong> 60 phút</li>\n</ul>\n<p class=\"tak12-quiz-note\">(Học sinh nhấn <strong>Làm bài</strong> để bắt đầu - Đăng nhập hoặc đăng ký tài khoản miễn phí trên TAK12).</p>\n</div>",
+    "isPremium": false,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 5.93,
+    "attemptCount": 3998,
+    "showFeedBackForFreeUser": true,
+    "seoName": "de-thi-dgnl-vao-lop-10-mon-tieng-anh---danh-cho-hs-dau-lop-9",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/18177/de-thi-dgnl-vao-lop-10-mon-tieng-anh---danh-cho-hs-dau-lop-9",
+    "publishDate": "2019-02-01T06:00:00+07:00"
   },
   {
     "id": 15503,
@@ -22,8 +29,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề trải nghiệm luyện thi vào 10 môn Anh Sở Hà Nội được biên soạn <strong>bám sát cấu trúc đề chính thức năm 2025 Sở Hà Nội</strong>, giúp học sinh đánh giá năng lực và chuẩn bị kiến thức cho kỳ thi chính thức.</p>",
-    "isPremium": false
+    "description": "<p>Đề trải nghiệm luyện thi v&agrave;o 10 m&ocirc;n Anh Sở H&agrave; Nội được bi&ecirc;n soạn <strong>b&aacute;m s&aacute;t cấu tr&uacute;c đề ch&iacute;nh thức năm 2025 Sở H&agrave; Nội</strong>, gi&uacute;p học sinh đ&aacute;nh gi&aacute; năng lực v&agrave; chuẩn bị kiến thức cho kỳ thi ch&iacute;nh thức.</p>",
+    "isPremium": false,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 6.06,
+    "attemptCount": 4568,
+    "showFeedBackForFreeUser": true,
+    "seoName": "de-trai-nghiem-so-1-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15503/de-trai-nghiem-so-1-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-01T06:00:00+07:00"
   },
   {
     "id": 15509,
@@ -35,8 +49,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề trải nghiệm luyện thi vào 10 môn Anh Sở Hà Nội được biên soạn <strong>bám sát cấu trúc đề chính thức năm 2025 Sở Hà Nội</strong>, giúp học sinh đánh giá năng lực và chuẩn bị kiến thức cho kỳ thi chính thức.</p>",
-    "isPremium": false
+    "description": "<p>Đề trải nghiệm luyện thi v&agrave;o 10 m&ocirc;n Anh Sở H&agrave; Nội được bi&ecirc;n soạn <strong>b&aacute;m s&aacute;t cấu tr&uacute;c đề ch&iacute;nh thức năm 2025 Sở H&agrave; Nội</strong>, gi&uacute;p học sinh đ&aacute;nh gi&aacute; năng lực v&agrave; chuẩn bị kiến thức cho kỳ thi ch&iacute;nh thức.</p>",
+    "isPremium": false,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.06,
+    "attemptCount": 3191,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-trai-nghiem-so-2-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15509/de-trai-nghiem-so-2-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-02T06:00:00+07:00"
   },
   {
     "id": 15264,
@@ -48,8 +69,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong> </strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 6.78,
+    "attemptCount": 2325,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-1-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15264/de-so-1-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-03T06:00:00+07:00"
   },
   {
     "id": 15265,
@@ -61,8 +89,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p><em>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</em></p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p><em>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</em></p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.25,
+    "attemptCount": 2246,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-2-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15265/de-so-2-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-04T06:00:00+07:00"
   },
   {
     "id": 15266,
@@ -74,8 +109,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p><em>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</em></p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p><em>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</em></p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.2,
+    "attemptCount": 1849,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-3-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15266/de-so-3-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-05T06:00:00+07:00"
   },
   {
     "id": 15267,
@@ -87,8 +129,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.37,
+    "attemptCount": 1767,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-4-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15267/de-so-4-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-06T06:00:00+07:00"
   },
   {
     "id": 15268,
@@ -100,8 +149,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.4,
+    "attemptCount": 1746,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-5-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15268/de-so-5-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-07T06:00:00+07:00"
   },
   {
     "id": 15269,
@@ -113,8 +169,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p><em>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</em></p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p><em>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</em></p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.26,
+    "attemptCount": 1619,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-6-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15269/de-so-6-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-08T06:00:00+07:00"
   },
   {
     "id": 15270,
@@ -126,8 +189,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.26,
+    "attemptCount": 1563,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-7-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15270/de-so-7-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-09T06:00:00+07:00"
   },
   {
     "id": 15271,
@@ -139,8 +209,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.22,
+    "attemptCount": 1512,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-8-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15271/de-so-8-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-10T06:00:00+07:00"
   },
   {
     "id": 15272,
@@ -152,8 +229,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.12,
+    "attemptCount": 1582,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-9-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15272/de-so-9-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-11T06:00:00+07:00"
   },
   {
     "id": 15274,
@@ -165,8 +249,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.3,
+    "attemptCount": 1479,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-10-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15274/de-so-10-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-12T06:00:00+07:00"
   },
   {
     "id": 15273,
@@ -178,8 +269,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.4,
+    "attemptCount": 1400,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-11-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15273/de-so-11-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-13T06:00:00+07:00"
   },
   {
     "id": 15275,
@@ -191,8 +289,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.41,
+    "attemptCount": 1378,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-12-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15275/de-so-12-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-14T06:00:00+07:00"
   },
   {
     "id": 15276,
@@ -204,8 +309,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.48,
+    "attemptCount": 1357,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-13-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15276/de-so-13-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-15T06:00:00+07:00"
   },
   {
     "id": 15277,
@@ -217,8 +329,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.09,
+    "attemptCount": 1319,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-14-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15277/de-so-14-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-16T06:00:00+07:00"
   },
   {
     "id": 15278,
@@ -230,8 +349,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.42,
+    "attemptCount": 1457,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-15-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15278/de-so-15-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-17T06:00:00+07:00"
   },
   {
     "id": 15279,
@@ -243,8 +369,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.46,
+    "attemptCount": 1252,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-16-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15279/de-so-16-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-18T06:00:00+07:00"
   },
   {
     "id": 15280,
@@ -256,8 +389,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.44,
+    "attemptCount": 1222,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-17-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15280/de-so-17-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-19T06:00:00+07:00"
   },
   {
     "id": 15282,
@@ -269,8 +409,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.12,
+    "attemptCount": 1243,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-18-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15282/de-so-18-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-20T06:00:00+07:00"
   },
   {
     "id": 15283,
@@ -282,8 +429,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.43,
+    "attemptCount": 1416,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-19-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15283/de-so-19-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-21T06:00:00+07:00"
   },
   {
     "id": 15284,
@@ -295,8 +449,15 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p>Đề thi được biên soạn bám sát cấu trúc và phạm vi kiến thức của <a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa vào 10 năm 2025 môn tiếng Anh<strong> </strong>Sở Hà Nội</a>.</p>\n<p>Sau khi hoàn thành đề thi, học sinh đọc kỹ giải thích đáp án chi tiết với các câu trả lời sai, xem báo cáo phân tích kết quả và học bù, ôn luyện ngay những chủ điểm còn chưa vững.</p>\n<p>👉 <a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn ôn thi vào 10 môn tiếng Anh Sở Hà Nội theo đề minh họa năm 2025</a></p>",
-    "isPremium": true
+    "description": "<p>Đề thi được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c v&agrave; phạm vi kiến thức của&nbsp;<a href=\"https://tak12.com/ex/9/tieng-anh-vao-10-khong-chuyen-toan-quoc/q/15054/de-thi-minh-hoa-vao-10-nam-2025-mon-anh---so-gddt-ha-noi-co-giai-thich-dap-an-chi-tiet-cho-tai-khoan-free\" target=\"_blank\" rel=\"noopener\">đề minh họa v&agrave;o 10 năm 2025 m&ocirc;n tiếng Anh<strong>&nbsp;</strong>Sở H&agrave; Nội</a>.</p>\n<p>Sau khi ho&agrave;n th&agrave;nh đề thi, học sinh đọc kỹ giải th&iacute;ch đ&aacute;p &aacute;n chi tiết với c&aacute;c c&acirc;u trả lời sai, xem b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch kết quả v&agrave; học b&ugrave;, &ocirc;n luyện ngay những chủ điểm c&ograve;n chưa vững.</p>\n<p>👉&nbsp;<a href=\"https://tak12.com/news/n/1844/huong-dan-on-thi-vao-10-mon-tieng-anh-so-ha-noi-theo-de-minh-hoa-moi-nhat\" target=\"_blank\" rel=\"noopener\">Xem hướng dẫn &ocirc;n thi v&agrave;o 10 m&ocirc;n tiếng Anh Sở H&agrave; Nội theo đề minh họa năm 2025</a></p>",
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.46,
+    "attemptCount": 1242,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-20-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15284/de-so-20-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-22T06:00:00+07:00"
   },
   {
     "id": 16650,
@@ -309,7 +470,14 @@
     "questionCount": 29,
     "totalPoint": 40,
     "description": "",
-    "isPremium": true
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.84,
+    "attemptCount": 903,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-21-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/16650/de-so-21-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-23T06:00:00+07:00"
   },
   {
     "id": 16680,
@@ -322,7 +490,14 @@
     "questionCount": 29,
     "totalPoint": 40,
     "description": "",
-    "isPremium": true
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.59,
+    "attemptCount": 837,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-22--luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/16680/de-so-22--luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-24T06:00:00+07:00"
   },
   {
     "id": 16720,
@@ -335,7 +510,14 @@
     "questionCount": 29,
     "totalPoint": 40,
     "description": "",
-    "isPremium": true
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.78,
+    "attemptCount": 848,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-23-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/16720/de-so-23-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-25T06:00:00+07:00"
   },
   {
     "id": 16745,
@@ -348,7 +530,14 @@
     "questionCount": 29,
     "totalPoint": 40,
     "description": "",
-    "isPremium": true
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.7,
+    "attemptCount": 773,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-24-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/16745/de-so-24-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-26T06:00:00+07:00"
   },
   {
     "id": 16754,
@@ -361,7 +550,14 @@
     "questionCount": 29,
     "totalPoint": 40,
     "description": "",
-    "isPremium": true
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.74,
+    "attemptCount": 771,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-25-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/16754/de-so-25-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-27T06:00:00+07:00"
   },
   {
     "id": 16758,
@@ -374,7 +570,14 @@
     "questionCount": 29,
     "totalPoint": 40,
     "description": "",
-    "isPremium": true
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.77,
+    "attemptCount": 740,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-26-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/16758/de-so-26-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-28T06:00:00+07:00"
   },
   {
     "id": 16799,
@@ -387,7 +590,14 @@
     "questionCount": 29,
     "totalPoint": 40,
     "description": "",
-    "isPremium": true
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.61,
+    "attemptCount": 750,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-27-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/16799/de-so-27-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-29T06:00:00+07:00"
   },
   {
     "id": 16938,
@@ -400,7 +610,14 @@
     "questionCount": 29,
     "totalPoint": 40,
     "description": "",
-    "isPremium": true
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.7,
+    "attemptCount": 784,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-28-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/16938/de-so-28-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-06-30T06:00:00+07:00"
   },
   {
     "id": 16941,
@@ -413,7 +630,14 @@
     "questionCount": 29,
     "totalPoint": 40,
     "description": "",
-    "isPremium": true
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.75,
+    "attemptCount": 785,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-29-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/16941/de-so-29-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-07-01T06:00:00+07:00"
   },
   {
     "id": 16942,
@@ -426,7 +650,14 @@
     "questionCount": 29,
     "totalPoint": 40,
     "description": "",
-    "isPremium": true
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 7.77,
+    "attemptCount": 754,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-30-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/16942/de-so-30-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-07-02T06:00:00+07:00"
   },
   {
     "id": 15519,
@@ -439,7 +670,14 @@
     "questionCount": 29,
     "totalPoint": 40,
     "description": "",
-    "isPremium": true
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 6.35,
+    "attemptCount": 1472,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-31-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15519/de-so-31-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-07-03T06:00:00+07:00"
   },
   {
     "id": 15103,
@@ -452,7 +690,14 @@
     "questionCount": 29,
     "totalPoint": 40,
     "description": "",
-    "isPremium": true
+    "isPremium": true,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 6.73,
+    "attemptCount": 2781,
+    "showFeedBackForFreeUser": false,
+    "seoName": "de-so-32-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/15103/de-so-32-luyen-thi-vao-10-mon-anh-so-ha-noi",
+    "publishDate": "2024-07-04T06:00:00+07:00"
   },
   {
     "id": 18731,
@@ -464,7 +709,14 @@
     "timeLimit": 60,
     "questionCount": 29,
     "totalPoint": 40,
-    "description": "<p style=\"line-height: 1.5;\"><span class=\"news-high-light-text\">Đề thi thử môn Tiếng Anh vào lớp 10 Sở Hà Nội năm 2026</span> được biên soạn bám sát cấu trúc đề chính thức năm 2025 Sở Hà Nội, giúp học sinh đánh giá năng lực và chuẩn bị kiến thức cho kỳ thi chính thức.</p>\n<p>Học sinh ấn nút <strong>Làm bài</strong> để bắt đầu (đăng nhập nếu đã có tài khoản, đăng kí miễn phí nếu chưa có tài khoản trên TA12). Sau khi hoàn thành, học sinh sẽ nhìn thấy <strong>kết quả bài làm</strong> và <strong>báo cáo phân tích chi tiết</strong>, <strong>khuyến nghị lộ trình học phù hợp.</strong></p>\n<p>👉 <a href=\"https://tak12.com/ex/168/on-thi-vao-10-mon-toan---hn/q/18742/de-thi-thu-vao-lop-10-mon-toan-so-ha-noi-mua-thi-nam-2026---lan-1\" target=\"_blank\" rel=\"noopener\">Làm đề thi thử môn Toán vào lớp 10 Sở Hà Nội năm 2026</a></p>\n<p>👉 <a href=\"https://info.tak12.com/lo-trinh-on-thi-vao-10\" target=\"_blank\" rel=\"noopener\">Đăng ký nhận lộ trình ôn thi vào 10</a></p>",
-    "isPremium": false
+    "description": "<p style=\"line-height: 1.5;\"><span class=\"news-high-light-text\">Đề thi thử m&ocirc;n Tiếng Anh v&agrave;o lớp 10 Sở H&agrave; Nội năm 2026</span> được bi&ecirc;n soạn b&aacute;m s&aacute;t cấu tr&uacute;c đề ch&iacute;nh thức năm 2025 Sở H&agrave; Nội, gi&uacute;p học sinh đ&aacute;nh gi&aacute; năng lực v&agrave; chuẩn bị kiến thức cho kỳ thi ch&iacute;nh thức.</p>\n<p>Học sinh ấn n&uacute;t&nbsp;<strong>L&agrave;m b&agrave;i</strong>&nbsp;để bắt đầu (đăng nhập nếu đ&atilde; c&oacute; t&agrave;i khoản, đăng k&iacute; miễn ph&iacute; nếu chưa c&oacute; t&agrave;i khoản tr&ecirc;n TAK12). Sau khi ho&agrave;n th&agrave;nh, học sinh sẽ nh&igrave;n thấy&nbsp;<strong>kết quả b&agrave;i l&agrave;m</strong>&nbsp;v&agrave;&nbsp;<strong>b&aacute;o c&aacute;o ph&acirc;n t&iacute;ch chi tiết</strong>,&nbsp;<strong>khuyến nghị lộ tr&igrave;nh học ph&ugrave; hợp.</strong></p>\n<p>👉 <a href=\"https://tak12.com/ex/168/on-thi-vao-10-mon-toan---hn/q/18742/de-thi-thu-vao-lop-10-mon-toan-so-ha-noi-mua-thi-nam-2026---lan-1\" target=\"_blank\" rel=\"noopener\">L&agrave;m đề thi thử m&ocirc;n To&aacute;n v&agrave;o lớp 10 Sở H&agrave; Nội năm 2026</a></p>\n<p>👉 <a href=\"https://info.tak12.com/lo-trinh-on-thi-vao-10\" target=\"_blank\" rel=\"noopener\">Đăng k&yacute; nhận lộ tr&igrave;nh &ocirc;n thi v&agrave;o 10</a></p>",
+    "isPremium": false,
+    "author": "Tổ GV Tiếng Anh - TAK12",
+    "averagePoint": 5.79,
+    "attemptCount": 3443,
+    "showFeedBackForFreeUser": true,
+    "seoName": "de-thi-thu-mon-tieng-anh-vao-lop-10-so-ha-noi-nam-2026",
+    "viewUrl": "/ex/9/on-thi-vao-10-mon-anh---hn/q/18731/de-thi-thu-mon-tieng-anh-vao-lop-10-so-ha-noi-nam-2026",
+    "publishDate": "2026-02-03T08:42:20.5+07:00"
   }
 ]

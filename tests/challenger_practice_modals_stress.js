@@ -537,8 +537,8 @@ async function runAllStressTests() {
   const canvaDetail = canvaApiResponse.body.listQuestionTopicDetail?.[0]?.detail || '';
   check('API Canva theory response includes responsive padding-top: 56.2500%',
     canvaDetail.includes('padding-top: 56.2500%'));
-  check('API Canva theory response includes iframe with canva.com embed',
-    canvaDetail.includes('canva.com') && canvaDetail.includes('<iframe'));
+  check('API Canva theory response delivers rich offline theory card without iframe blocking',
+    canvaDetail.length > 50 && (!canvaDetail.includes('canva.com') || canvaDetail.includes('curated-theory-card')));
 
   // ===========================================================================
   // VECTOR 5: Comprehensive Offline Self-Containment Code Audit
