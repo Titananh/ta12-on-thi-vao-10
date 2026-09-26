@@ -514,7 +514,14 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
     return getQuestionResult(q, answers[String(q.id)]).isFullyAnswered;
   };
 
-  // Pure native Tak12 parity: Event delegation to capture user selection/inputs in FillBlank questions
+  // Memoize prompt HTML object so React does not recreate dangerouslySetInnerHTML and destroy form DOM nodes on re-render
+  const promptInnerHTML = useMemo(
+    () => ({ __html: currentQ?.questionText || '' }),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [currentQ?.id, currentQ?.questionText]
+  );
+
+  // Pure native Tak12 parity: Event delegation and non-destructive DOM sync for FillBlank questions
   useEffect(() => {
     const container = questionPromptRef.current;
     if (!container || !currentQ) return;
@@ -531,14 +538,37 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
       }
     });
 
+    // Populate saved answers when navigating to this question
+    const controls = container.querySelectorAll<HTMLSelectElement | HTMLInputElement>('select, input');
+    const qAnswers = answers[String(currentQ.id)];
+
+    controls.forEach((ctrl) => {
+      const idx = ctrl.getAttribute('index') || ctrl.getAttribute('name')?.split('-').pop() || '0';
+      const userVal = (typeof qAnswers === 'object' && qAnswers !== null)
+        ? (qAnswers[idx] ?? qAnswers[String(idx)] ?? (qAnswers as any)[parseInt(idx, 10)])
+        : undefined;
+
+      if (userVal !== undefined && userVal !== null) {
+        if (ctrl.value !== userVal) {
+          ctrl.value = userVal;
+        }
+      } else if (!isSubmitted) {
+        if (ctrl.value !== '') {
+          ctrl.value = '';
+        }
+      }
+      ctrl.disabled = isSubmitted;
+    });
+
     const handleSync = (e: Event) => {
       if (isSubmitted) return;
       const target = e.target as HTMLSelectElement | HTMLInputElement;
       if (!target || !['SELECT', 'INPUT'].includes(target.tagName)) return;
       const idx = target.getAttribute('index') || target.getAttribute('name')?.split('-').pop() || '0';
       const val = target.value;
+      const qId = target.getAttribute('name')?.split('-')[1] || String(currentQ.id);
+
       setAnswers((prev) => {
-        const qId = String(currentQ.id);
         const currentQAnswers = (typeof prev[qId] === 'object' && prev[qId] !== null) ? { ...prev[qId] } : {};
         currentQAnswers[idx] = val;
         return {
@@ -557,45 +587,6 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentQ?.id, isSubmitted]);
-
-  // Bidirectional DOM sync for FillBlank controls when navigating between questions in exam mode
-  useEffect(() => {
-    const container = questionPromptRef.current;
-    if (!container || !currentQ) return;
-
-    const options = container.querySelectorAll<HTMLElement>('.fillblank-option');
-    options.forEach((opt) => {
-      const label = opt.querySelector('label');
-      const control = opt.querySelector<HTMLSelectElement | HTMLInputElement>('select, input');
-      if (label && control) {
-        const controlId = control.id || control.getAttribute('name') || `fbo-${currentQ.id}-${control.getAttribute('index') || '0'}`;
-        if (!control.id) control.id = controlId;
-        if (!label.getAttribute('for')) label.setAttribute('for', controlId);
-      }
-    });
-
-    const controls = container.querySelectorAll<HTMLSelectElement | HTMLInputElement>('select, input');
-    const qAnswers = answers[String(currentQ.id)];
-
-    controls.forEach((ctrl) => {
-      const idx = ctrl.getAttribute('index') || ctrl.getAttribute('name')?.split('-').pop() || '0';
-      const userVal = (typeof qAnswers === 'object' && qAnswers !== null)
-        ? (qAnswers[idx] ?? qAnswers[String(idx)] ?? (qAnswers as any)[parseInt(idx, 10)])
-        : undefined;
-
-      if (userVal !== undefined) {
-        if (ctrl.value !== userVal) {
-          ctrl.value = userVal;
-        }
-      } else if (!isSubmitted) {
-        if (ctrl.value !== '') {
-          ctrl.value = '';
-        }
-      }
-      ctrl.disabled = isSubmitted;
-    });
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [currentQ?.id, answers, isSubmitted]);
 
   // Review Mode: Decorate FillBlank questions in review cards
   useEffect(() => {
@@ -939,8 +930,35 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                   {/* Question Text */}
                   <div
                     ref={questionPromptRef}
+                    onChange={(e) => {
+                      if (isSubmitted) return;
+                      const target = e.target as HTMLSelectElement | HTMLInputElement;
+                      if (!target || !['SELECT', 'INPUT'].includes(target.tagName)) return;
+                      const idx = target.getAttribute('index') || target.getAttribute('name')?.split('-').pop() || '0';
+                      const val = target.value;
+                      const qId = target.getAttribute('name')?.split('-')[1] || String(currentQ.id);
+                      setAnswers((prev) => {
+                        const currentQAnswers = (typeof prev[qId] === 'object' && prev[qId] !== null) ? { ...prev[qId] } : {};
+                        currentQAnswers[idx] = val;
+                        return { ...prev, [qId]: currentQAnswers };
+                      });
+                    }}
+                    onInput={(e) => {
+                      if (isSubmitted) return;
+                      const target = e.target as HTMLSelectElement | HTMLInputElement;
+                      if (!target || !['SELECT', 'INPUT'].includes(target.tagName)) return;
+                      const idx = target.getAttribute('index') || target.getAttribute('name')?.split('-').pop() || '0';
+                      const val = target.value;
+                      const qId = target.getAttribute('name')?.split('-')[1] || String(currentQ.id);
+                      setAnswers((prev) => {
+                        const currentQAnswers = (typeof prev[qId] === 'object' && prev[qId] !== null) ? { ...prev[qId] } : {};
+                        currentQAnswers[idx] = val;
+                        return { ...prev, [qId]: currentQAnswers };
+                      });
+                    }}
                     className="text-slate-800 dark:text-white text-base sm:text-lg font-medium leading-relaxed"
-                    dangerouslySetInnerHTML={{ __html: currentQ.questionText }}
+                    // Rich HTML formatting: dangerouslySetInnerHTML={{ __html: currentQ.questionText }}
+                    dangerouslySetInnerHTML={promptInnerHTML}
                   />
 
                   {/* Open-response question */}

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { useParams, useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import {
@@ -378,6 +378,13 @@ export default function PracticePage() {
   );
 
   const isWordOrder = Boolean(currentQ?.questionType === 'WordOrder');
+
+  // Memoize prompt HTML object so React does not recreate dangerouslySetInnerHTML and destroy form DOM nodes on re-render
+  const promptInnerHTML = useMemo(
+    () => ({ __html: currentQ?.questionText || '' }),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [currentQ?.id, currentQ?.questionText]
+  );
 
   const totalBlanks = currentQ?.fillblankAnswers?.length || (
     isFillBlank ? (currentQ?.questionText?.match(/class=['"][^'"]*fillblank-option/g)?.length || 1) : 0
@@ -936,8 +943,25 @@ export default function PracticePage() {
           <div className="flex items-start justify-between gap-3">
             <div
               ref={questionPromptRef}
+              onChange={(e) => {
+                if (isSubmitted && isRevealed) return;
+                const target = e.target as HTMLSelectElement | HTMLInputElement;
+                if (!target || !['SELECT', 'INPUT'].includes(target.tagName)) return;
+                const idx = target.getAttribute('index') || target.getAttribute('name')?.split('-').pop() || '0';
+                const val = target.value;
+                setBlankAnswers((prev) => ({ ...prev, [idx]: val }));
+              }}
+              onInput={(e) => {
+                if (isSubmitted && isRevealed) return;
+                const target = e.target as HTMLSelectElement | HTMLInputElement;
+                if (!target || !['SELECT', 'INPUT'].includes(target.tagName)) return;
+                const idx = target.getAttribute('index') || target.getAttribute('name')?.split('-').pop() || '0';
+                const val = target.value;
+                setBlankAnswers((prev) => ({ ...prev, [idx]: val }));
+              }}
               className="text-[17px] leading-relaxed font-bold text-white flex-1"
-              dangerouslySetInnerHTML={{ __html: currentQ.questionText }}
+              // Rich HTML formatting: dangerouslySetInnerHTML={{ __html: currentQ.questionText }}
+              dangerouslySetInnerHTML={promptInnerHTML}
             />
             <button
               type="button"
