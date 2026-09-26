@@ -67,13 +67,33 @@ export async function GET(request: Request) {
     return NextResponse.json({ error: 'Study unit not found' }, { status: 404 });
   }
 
+  const isAnswerable = (q: any) => {
+    if (q.needsManualReview) return false;
+    const hasChoices = Array.isArray(q.choices) && q.choices.length > 0;
+    const hasFB = (Array.isArray(q.fillblankAnswers) && q.fillblankAnswers.length > 0) ||
+      (typeof q.questionText === 'string' && (q.questionText.includes('fillblank-option') || q.questionText.includes('<input') || q.questionText.includes('<select')));
+    const hasShort = Array.isArray(q.shortAnswers) && q.shortAnswers.length > 0;
+    if (!hasChoices && !hasFB && !hasShort) return false;
+    if (hasChoices && !hasFB && !hasShort) {
+      const hasCorrectChoice = q.choices.some((c: any) => c.isCorrect);
+      const hasCorrectId = Boolean(q.correctChoiceId && q.choices.some((c: any) => String(c.id) === String(q.correctChoiceId)));
+      if (!hasCorrectChoice && !hasCorrectId) return false;
+    }
+    return true;
+  };
+
+  const rawQuestions = questionsData?.questions || [];
+  const filteredQuestions = rawQuestions.filter(isAnswerable);
+  const finalQuestions = filteredQuestions.length > 0 ? filteredQuestions : rawQuestions;
+
   return NextResponse.json({
     moduleId,
     type,
     title: theoryData?.title || questionsData?.title || `Chuyên đề #${moduleId}`,
     lessons: theoryData?.lessons || [],
     vocabTable: theoryData?.vocabTable || [],
-    totalQuestions: questionsData?.questions?.length || 0,
-    questions: questionsData?.questions || []
+    totalQuestions: finalQuestions.length,
+    questions: finalQuestions
   });
 }
+

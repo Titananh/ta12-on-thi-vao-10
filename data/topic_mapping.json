@@ -65,9 +65,9 @@
     "theory": "69.json"
   },
   "70": {
-    "type": "root",
-    "file": "70.json",
-    "theory": "70.json"
+    "type": "grammar",
+    "file": "grammar/grammar_16391.json",
+    "theory": "grammar/grammar_16391.json"
   },
   "71": {
     "type": "skills",
@@ -75,9 +75,9 @@
     "theory": "skills/71.json"
   },
   "72": {
-    "type": "root",
-    "file": "72.json",
-    "theory": "72.json"
+    "type": "grammar",
+    "file": "grammar/grammar_16356.json",
+    "theory": "grammar/grammar_16356.json"
   },
   "73": {
     "type": "root",
@@ -225,9 +225,9 @@
     "theory": "grammar/grammar_5836.json"
   },
   "134": {
-    "type": "root",
-    "file": "134.json",
-    "theory": "134.json"
+    "type": "grammar",
+    "file": "grammar/grammar_16149.json",
+    "theory": "grammar/grammar_16149.json"
   },
   "137": {
     "type": "grammar",
@@ -245,9 +245,9 @@
     "theory": "grammar/grammar_6096.json"
   },
   "141": {
-    "type": "root",
-    "file": "141.json",
-    "theory": "141.json"
+    "type": "grammar",
+    "file": "grammar/grammar_6172.json",
+    "theory": "grammar/grammar_6172.json"
   },
   "143": {
     "type": "grammar",
@@ -280,9 +280,9 @@
     "theory": "grammar/grammar_6118.json"
   },
   "160": {
-    "type": "root",
-    "file": "160.json",
-    "theory": "160.json"
+    "type": "grammar",
+    "file": "grammar/grammar_5943.json",
+    "theory": "grammar/grammar_5943.json"
   },
   "161": {
     "type": "grammar",
@@ -491,8 +491,8 @@
   },
   "341": {
     "type": "grammar",
-    "file": "grammar/grammar_15960.json",
-    "theory": "grammar/grammar_15960.json"
+    "file": "grammar/grammar_5941.json",
+    "theory": "grammar/grammar_5941.json"
   },
   "342": {
     "type": "grammar",
@@ -506,8 +506,8 @@
   },
   "345": {
     "type": "grammar",
-    "file": "grammar/grammar_6157.json",
-    "theory": "grammar/grammar_6157.json"
+    "file": "grammar/grammar_5942.json",
+    "theory": "grammar/grammar_5942.json"
   },
   "346": {
     "type": "grammar",
@@ -516,8 +516,8 @@
   },
   "347": {
     "type": "grammar",
-    "file": "grammar/grammar_15995.json",
-    "theory": "grammar/grammar_15995.json"
+    "file": "grammar/grammar_6157.json",
+    "theory": "grammar/grammar_6157.json"
   },
   "348": {
     "type": "grammar",
@@ -526,8 +526,8 @@
   },
   "349": {
     "type": "grammar",
-    "file": "grammar/grammar_6134.json",
-    "theory": "grammar/grammar_6134.json"
+    "file": "grammar/grammar_15960.json",
+    "theory": "grammar/grammar_15960.json"
   },
   "350": {
     "type": "grammar",

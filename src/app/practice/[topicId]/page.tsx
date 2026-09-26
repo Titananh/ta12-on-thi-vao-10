@@ -599,10 +599,11 @@ export default function PracticePage() {
     if (isSubmitted && isRevealed) return;
     if (isSubmitted && !isRevealed && retryCount > 0) {
       if (isCheckBox) {
-        setSelectedChoiceIds((prev) =>
-          prev.includes(choiceId) ? prev.filter((id) => id !== choiceId) : [...prev, choiceId]
-        );
-        setSelectedChoiceId(choiceId);
+        setSelectedChoiceIds((prev) => {
+          const next = prev.includes(choiceId) ? prev.filter((id) => id !== choiceId) : [...prev, choiceId];
+          setSelectedChoiceId(next.length > 0 ? next[next.length - 1] : null);
+          return next;
+        });
       } else {
         setSelectedChoiceId(choiceId);
         setSelectedChoiceIds([choiceId]);
@@ -611,10 +612,11 @@ export default function PracticePage() {
     }
     if (!isSubmitted) {
       if (isCheckBox) {
-        setSelectedChoiceIds((prev) =>
-          prev.includes(choiceId) ? prev.filter((id) => id !== choiceId) : [...prev, choiceId]
-        );
-        setSelectedChoiceId(choiceId);
+        setSelectedChoiceIds((prev) => {
+          const next = prev.includes(choiceId) ? prev.filter((id) => id !== choiceId) : [...prev, choiceId];
+          setSelectedChoiceId(next.length > 0 ? next[next.length - 1] : null);
+          return next;
+        });
       } else {
         setSelectedChoiceId(choiceId);
         setSelectedChoiceIds([choiceId]);
@@ -983,9 +985,7 @@ export default function PracticePage() {
         {/* Question Sub-Header Row */}
         <div className="px-6 py-3.5 border-b border-[#383c38] flex items-center justify-between text-sm bg-[#242824] flex-wrap gap-2">
           <span className="font-bold text-white text-base">
-            {(!currentQ.questionName || /^(\d+|[a-zA-Z]|Question\s*\d+)$/i.test(currentQ.questionName.trim()))
-              ? `Câu ${currentIndex + 1}`
-              : currentQ.questionName}
+            Câu {currentIndex + 1}
           </span>
 
           {/* Subheader Banner: Bạn trả lời chính xác / chưa chính xác */}

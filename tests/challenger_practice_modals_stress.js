@@ -61,7 +61,7 @@ function fetchJson(url) {
               const theory = JSON.parse(fs.readFileSync(grammarPath, 'utf8'));
               let detailHtml = '';
               if (theory.lessons) {
-                detailHtml = theory.lessons.map(l => l.embedUrl ? `<div style="padding-top: 56.2500%;"><iframe src="${l.embedUrl}"></iframe></div>` : '').join('');
+                detailHtml = theory.lessons.map(l => l.embedUrl ? `<div class="curated-theory-card" style="padding-top: 56.2500%;"><iframe src="${l.embedUrl}"></iframe></div>` : '').join('');
               }
               return resolve({
                 status: 200,

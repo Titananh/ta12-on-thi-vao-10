@@ -2,451 +2,451 @@
   {
     "id": "116_1",
     "questionName": "Question 1",
-    "questionText": "<p>________ it was raining heavily, the students arrived at the exam hall on time.</p>",
+    "questionText": "<p>I had my hair ________ at a famous hair salon in Hanoi yesterday.</p>",
     "choices": [
       {
+        "id": "116_1_1",
+        "text": "cut",
+        "html": "cut"
+      },
+      {
         "id": "116_1_2",
-        "text": "Despite",
-        "html": "Despite"
+        "text": "cutting",
+        "html": "cutting"
       },
       {
         "id": "116_1_3",
-        "text": "Because",
-        "html": "Because"
+        "text": "to cut",
+        "html": "to cut"
       },
       {
         "id": "116_1_4",
-        "text": "However",
-        "html": "However"
-      },
-      {
-        "id": "116_1_1",
-        "text": "Although",
-        "html": "Although"
+        "text": "cuts",
+        "html": "cuts"
       }
     ],
     "correctChoiceId": "116_1_1",
-    "explanation": "<p>Đứng trước mệnh đề (S + V: 'it was raining heavily') chỉ sự tương phản: dùng liên từ <strong>Although</strong>.</p>",
-    "ruleTip": "'Although + Mệnh đề (S + V)': mặc dù."
+    "explanation": "<p>Cấu trúc thể cầu khiến bị động: <strong>S + have + sth + V(pp/V3)</strong> (nhờ/thuê ai làm gì). Động từ 'cut' có dạng phân từ 2 vẫn là 'cut'.</p>",
+    "ruleTip": "have + sth + V(pp): nhờ/thuê cái gì được làm."
   },
   {
     "id": "116_2",
     "questionName": "Question 2",
-    "questionText": "<p>________ the torrential rain, they thoroughly enjoyed their camping trip in Ba Vi.</p>",
+    "questionText": "<p>My father got the mechanic ________ his motorbike before our long road trip.</p>",
     "choices": [
       {
         "id": "116_2_1",
-        "text": "Despite",
-        "html": "Despite"
+        "text": "repair",
+        "html": "repair"
       },
       {
         "id": "116_2_2",
-        "text": "Although",
-        "html": "Although"
+        "text": "to repair",
+        "html": "to repair"
       },
       {
         "id": "116_2_3",
-        "text": "Even though",
-        "html": "Even though"
+        "text": "repaired",
+        "html": "repaired"
       },
       {
         "id": "116_2_4",
-        "text": "Because",
-        "html": "Because"
+        "text": "repairing",
+        "html": "repairing"
       }
     ],
-    "correctChoiceId": "116_2_1",
-    "explanation": "<p>Đứng trước cụm danh từ ('the torrential rain'): dùng <strong>Despite</strong> hoặc 'In spite of' (không có of sau despite).</p>",
-    "ruleTip": "'Despite / In spite of + Cụm danh từ / V-ing' (không có of sau despite)."
+    "correctChoiceId": "116_2_2",
+    "explanation": "<p>Cấu trúc thể cầu khiến chủ động với <strong>GET</strong>: <strong>S + get + sb + to V(inf)</strong> (nhờ/thuyết phục ai làm việc gì). Ở đây tân ngữ chỉ người là 'the mechanic', do đó dùng 'to repair'.</p>",
+    "ruleTip": "get + sb (người) + to V: nhờ ai làm gì."
   },
   {
     "id": "116_3",
     "questionName": "Question 3",
-    "questionText": "<p>We couldn't play our football match yesterday ________ the stormy weather.</p>",
+    "questionText": "<p>The teacher had the students ________ a 200-word paragraph about environmental protection.</p>",
     "choices": [
       {
+        "id": "116_3_1",
+        "text": "write",
+        "html": "write"
+      },
+      {
         "id": "116_3_2",
-        "text": "because",
-        "html": "because"
+        "text": "to write",
+        "html": "to write"
       },
       {
         "id": "116_3_3",
-        "text": "since",
-        "html": "since"
-      },
-      {
-        "id": "116_3_1",
-        "text": "because of",
-        "html": "because of"
+        "text": "written",
+        "html": "written"
       },
       {
         "id": "116_3_4",
-        "text": "as",
-        "html": "as"
+        "text": "writing",
+        "html": "writing"
       }
     ],
     "correctChoiceId": "116_3_1",
-    "explanation": "<p>'The stormy weather' là cụm danh từ chỉ nguyên nhân: dùng <strong>because of</strong> ('because' phải đi với mệnh đề S + V).</p>",
-    "ruleTip": "'Because of + Cụm danh từ' (the bad weather); 'Because + Mệnh đề'."
+    "explanation": "<p>Cấu trúc thể cầu khiến chủ động với <strong>HAVE</strong>: <strong>S + have + sb + V(bare-inf)</strong> (yêu cầu/giao cho ai làm gì). Sau tân ngữ chỉ người 'the students' dùng động từ nguyên thể không to 'write'.</p>",
+    "ruleTip": "have + sb (người) + V nguyên thể: yêu cầu/giao ai làm gì."
   },
   {
     "id": "116_4",
     "questionName": "Question 4",
-    "questionText": "<p>The winter weather was ________ bitterly cold that we decided to stay indoors all day.</p>",
+    "questionText": "<p>We are going to have our house ________ before the Lunar New Year holiday.</p>",
     "choices": [
       {
+        "id": "116_4_1",
+        "text": "redecorate",
+        "html": "redecorate"
+      },
+      {
         "id": "116_4_2",
-        "text": "such",
-        "html": "such"
+        "text": "to redecorate",
+        "html": "to redecorate"
       },
       {
         "id": "116_4_3",
-        "text": "too",
-        "html": "too"
-      },
-      {
-        "id": "116_4_1",
-        "text": "so",
-        "html": "so"
+        "text": "redecorated",
+        "html": "redecorated"
       },
       {
         "id": "116_4_4",
-        "text": "very",
-        "html": "very"
+        "text": "redecorating",
+        "html": "redecorating"
       }
     ],
-    "correctChoiceId": "116_4_1",
-    "explanation": "<p>Cấu trúc chỉ kết quả: <strong>so + adj + that (so bitterly cold that...)</strong> = quá lạnh đến nỗi mà.</p>",
-    "ruleTip": "Cấu trúc: 'so + tính từ + that' (quá... đến nỗi mà)."
+    "correctChoiceId": "116_4_3",
+    "explanation": "<p>Cấu trúc thể cầu khiến bị động: <strong>have + sth + V(pp/V3)</strong>. 'Our house' là tân ngữ chỉ vật nên theo sau là phân từ quá khứ 'redecorated'.</p>",
+    "ruleTip": "have + vật + V-ed/V3: ngôi nhà được sơn sửa/trang trí lại."
   },
   {
     "id": "116_5",
     "questionName": "Question 5",
-    "questionText": "<p>It was ________ an interesting novel that I read it from cover to cover in one sitting.</p>",
+    "questionText": "<p>You should get your eyes ________ by an ophthalmologist once a year.</p>",
     "choices": [
       {
+        "id": "116_5_1",
+        "text": "examine",
+        "html": "examine"
+      },
+      {
         "id": "116_5_2",
-        "text": "so",
-        "html": "so"
+        "text": "examined",
+        "html": "examined"
       },
       {
         "id": "116_5_3",
-        "text": "too",
-        "html": "too"
+        "text": "to examine",
+        "html": "to examine"
       },
       {
         "id": "116_5_4",
-        "text": "very",
-        "html": "very"
-      },
-      {
-        "id": "116_5_1",
-        "text": "such",
-        "html": "such"
+        "text": "examining",
+        "html": "examining"
       }
     ],
-    "correctChoiceId": "116_5_1",
-    "explanation": "<p>Cấu trúc chỉ kết quả: <strong>such + a/an + adj + Noun + that (such an interesting novel that...)</strong>.</p>",
-    "ruleTip": "Cấu trúc: 'such + a/an + tính từ + danh từ đếm được + that'."
+    "correctChoiceId": "116_5_2",
+    "explanation": "<p>Cấu trúc cầu khiến bị động với <strong>GET</strong>: <strong>S + get + sth + V(pp/V3)</strong>. 'Your eyes' là tân ngữ chỉ vật/bộ phận cơ thể, do đó dùng phân từ 2 'examined'.</p>",
+    "ruleTip": "get + sth + V(pp): kiểm tra mắt bởi bác sĩ chuyên khoa."
   },
   {
     "id": "116_6",
     "questionName": "Question 6",
-    "questionText": "<p>She turned on the dim night light ________ her little daughter wouldn't be frightened in the dark.</p>",
+    "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the following sentence.</em></p><p><strong>Workers installed an air conditioner in our classroom yesterday.</strong></p>",
     "choices": [
       {
-        "id": "116_6_2",
-        "text": "in order to",
-        "html": "in order to"
+        "id": "116_6_1",
+        "text": "We had an air conditioner installed in our classroom yesterday.",
+        "html": "We had an air conditioner installed in our classroom yesterday."
       },
       {
-        "id": "116_6_1",
-        "text": "so that",
-        "html": "so that"
+        "id": "116_6_2",
+        "text": "We got an air conditioner to install in our classroom yesterday.",
+        "html": "We got an air conditioner to install in our classroom yesterday."
       },
       {
         "id": "116_6_3",
-        "text": "so as to",
-        "html": "so as to"
+        "text": "We had installed an air conditioner by workers in our classroom yesterday.",
+        "html": "We had installed an air conditioner by workers in our classroom yesterday."
       },
       {
         "id": "116_6_4",
-        "text": "because",
-        "html": "because"
+        "text": "We got workers installed an air conditioner in our classroom yesterday.",
+        "html": "We got workers installed an air conditioner in our classroom yesterday."
       }
     ],
     "correctChoiceId": "116_6_1",
-    "explanation": "<p>Đứng trước mệnh đề chỉ mục đích (her daughter wouldn't be...): dùng liên từ <strong>so that / in order that</strong>.</p>",
-    "ruleTip": "'So that / In order that + Mệnh đề' chỉ mục đích (để mà)."
+    "explanation": "<p>Chuyển đổi câu sang thể cầu khiến bị động: Thợ lắp đặt điều hòa cho lớp học -> Chúng tôi thuê/nhờ lắp điều hòa: <strong>S + had + sth (an air conditioner) + V(pp) (installed)</strong>.</p>",
+    "ruleTip": "S + have + sth + V(pp): cấu trúc viết lại câu kinh điển trong thi vào 10."
   },
   {
     "id": "116_7",
     "questionName": "Question 7",
-    "questionText": "<p>Minh got up early at 5:00 AM ________ miss the school bus to the exam venue.</p>",
+    "questionText": "<p>Mr. Brown had his assistant ________ all the contracts before the board meeting started.</p>",
     "choices": [
       {
-        "id": "116_7_2",
-        "text": "in order to not",
-        "html": "in order to not"
+        "id": "116_7_1",
+        "text": "photocopy",
+        "html": "photocopy"
       },
       {
-        "id": "116_7_1",
-        "text": "in order not to",
-        "html": "in order not to"
+        "id": "116_7_2",
+        "text": "to photocopy",
+        "html": "to photocopy"
       },
       {
         "id": "116_7_3",
-        "text": "so as to not",
-        "html": "so as to not"
+        "text": "photocopied",
+        "html": "photocopied"
       },
       {
         "id": "116_7_4",
-        "text": "so that not",
-        "html": "so that not"
+        "text": "photocopying",
+        "html": "photocopying"
       }
     ],
     "correctChoiceId": "116_7_1",
-    "explanation": "<p>Chỉ mục đích phủ định với động từ nguyên mẫu: <strong>in order not to / so as not to + V-inf (in order not to miss)</strong>.</p>",
-    "ruleTip": "Chỉ mục đích phủ định: 'in order not to / so as not to + V-inf' (để không bị)."
+    "explanation": "<p>Cấu trúc: <strong>have + sb + V(bare)</strong>. Tân ngữ là 'his assistant' (người) nên động từ theo sau là nguyên thể không 'to': 'photocopy'.</p>",
+    "ruleTip": "have + người + V nguyên mẫu: nhờ/giao trợ lý photo hợp đồng."
   },
   {
     "id": "116_8",
     "questionName": "Question 8",
-    "questionText": "<p>He studied very hard for the entrance exam. ________, he did not achieve the dream score he wished.</p>",
+    "questionText": "<p>Can you help me get this heavy wardrobe ________ upstairs?</p>",
     "choices": [
       {
+        "id": "116_8_1",
+        "text": "carry",
+        "html": "carry"
+      },
+      {
         "id": "116_8_2",
-        "text": "Although",
-        "html": "Although"
+        "text": "carried",
+        "html": "carried"
       },
       {
         "id": "116_8_3",
-        "text": "Therefore",
-        "html": "Therefore"
+        "text": "to carry",
+        "html": "to carry"
       },
       {
         "id": "116_8_4",
-        "text": "Despite",
-        "html": "Despite"
-      },
-      {
-        "id": "116_8_1",
-        "text": "However",
-        "html": "However"
+        "text": "carrying",
+        "html": "carrying"
       }
     ],
-    "correctChoiceId": "116_8_1",
-    "explanation": "<p>Trạng từ liên kết đứng đầu câu sau dấu chấm và có dấu phẩy ngăn cách diễn tả ý tương phản: <strong>However,</strong>.</p>",
-    "ruleTip": "'However' đứng đầu câu sau dấu chấm và ngăn cách bởi dấu phẩy (; however, hoặc . However,)."
+    "correctChoiceId": "116_8_2",
+    "explanation": "<p>Cấu trúc: <strong>get + sth + V(pp/V3)</strong>. 'This heavy wardrobe' (chiếc tủ quần áo nặng) là đồ vật được khiêng lên tầng, nên dùng quá khứ phân từ 'carried'.</p>",
+    "ruleTip": "get + vật + V(pp): cái tủ được khiêng lên gác."
   },
   {
     "id": "116_9",
     "questionName": "Question 9",
-    "questionText": "<p>Although he was feeling sick, he still went to work. = In spite of ________ sick, he still went to work.</p>",
+    "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the following sentence.</em></p><p><strong>A professional photographer will take our graduation photos.</strong></p>",
     "choices": [
       {
+        "id": "116_9_1",
+        "text": "We will have our graduation photos taken by a professional photographer.",
+        "html": "We will have our graduation photos taken by a professional photographer."
+      },
+      {
         "id": "116_9_2",
-        "text": "be",
-        "html": "be"
+        "text": "We will have taken our graduation photos by a professional photographer.",
+        "html": "We will have taken our graduation photos by a professional photographer."
       },
       {
         "id": "116_9_3",
-        "text": "was",
-        "html": "was"
-      },
-      {
-        "id": "116_9_1",
-        "text": "being",
-        "html": "being"
+        "text": "We will get a professional photographer taken our graduation photos.",
+        "html": "We will get a professional photographer taken our graduation photos."
       },
       {
         "id": "116_9_4",
-        "text": "he was",
-        "html": "he was"
+        "text": "We will have our graduation photos to be taken by a photographer.",
+        "html": "We will have our graduation photos to be taken by a photographer."
       }
     ],
     "correctChoiceId": "116_9_1",
-    "explanation": "<p>Chuyển đổi từ 'Although + clause' sang 'In spite of + V-ing': động từ to be biến đổi thành <strong>being (being sick)</strong>.</p>",
-    "ruleTip": "'In spite of + V-ing' (being ill) thay cho mệnh đề 'Although he was ill'."
+    "explanation": "<p>Thì tương lai đơn dạng cầu khiến bị động: <strong>S + will have + sth (photos) + V(pp) (taken) + by sb</strong>.</p>",
+    "ruleTip": "will have + sth + taken: sẽ nhờ thợ chụp ảnh kỷ yếu."
   },
   {
     "id": "116_10",
     "questionName": "Question 10",
-    "questionText": "<p>The main bridge was under repair; ________, all vehicles had to take a detour.</p>",
+    "questionText": "<p>Hoa finally managed to get her younger brother ________ all his vegetables during dinner.</p>",
     "choices": [
       {
+        "id": "116_10_1",
+        "text": "eat",
+        "html": "eat"
+      },
+      {
         "id": "116_10_2",
-        "text": "however",
-        "html": "however"
+        "text": "to eat",
+        "html": "to eat"
       },
       {
         "id": "116_10_3",
-        "text": "although",
-        "html": "although"
-      },
-      {
-        "id": "116_10_1",
-        "text": "therefore",
-        "html": "therefore"
+        "text": "eaten",
+        "html": "eaten"
       },
       {
         "id": "116_10_4",
-        "text": "otherwise",
-        "html": "otherwise"
+        "text": "eating",
+        "html": "eating"
       }
     ],
-    "correctChoiceId": "116_10_1",
-    "explanation": "<p>Trạng từ nối chỉ kết quả hệ quả hợp lý (cây cầu bị hỏng; vì thế xe cộ phải đi đường vòng): <strong>therefore (vì vậy, do đó)</strong>.</p>",
-    "ruleTip": "'Therefore' chỉ kết quả: vì vậy, do đó."
+    "correctChoiceId": "116_10_2",
+    "explanation": "<p>Cấu trúc: <strong>get + sb + to V(inf)</strong>: thuyết phục được ai làm việc gì. Tân ngữ 'her younger brother' là người, do đó cần 'to eat'.</p>",
+    "ruleTip": "get + người + to V: thuyết phục ai làm gì."
   },
   {
     "id": "116_11",
     "questionName": "Question 11",
-    "questionText": "<p>________ Tom nor his close friends have visited that historical pagoda before.</p>",
+    "questionText": "<p>Lan had her bicycle ________ because the chain broke on her way to school.</p>",
     "choices": [
       {
         "id": "116_11_1",
-        "text": "Neither",
-        "html": "Neither"
+        "text": "repair",
+        "html": "repair"
       },
       {
         "id": "116_11_2",
-        "text": "Either",
-        "html": "Either"
+        "text": "repaired",
+        "html": "repaired"
       },
       {
         "id": "116_11_3",
-        "text": "Both",
-        "html": "Both"
+        "text": "to repair",
+        "html": "to repair"
       },
       {
         "id": "116_11_4",
-        "text": "Not only",
-        "html": "Not only"
+        "text": "repairing",
+        "html": "repairing"
       }
     ],
-    "correctChoiceId": "116_11_1",
-    "explanation": "<p>Cặp liên từ tương quan đi với 'nor': <strong>Neither... nor (cả hai đều không)</strong>.</p>",
-    "ruleTip": "Cặp liên từ tương quan: 'Neither... nor' (cả hai đều không)."
+    "correctChoiceId": "116_11_2",
+    "explanation": "<p>Cấu trúc cầu khiến bị động: <strong>had + her bicycle (sth) + repaired (V_pp)</strong>: sửa xe đạp.</p>",
+    "ruleTip": "have + vật + V(pp): xe đạp được đem đi sửa."
   },
   {
     "id": "116_12",
     "questionName": "Question 12",
-    "questionText": "<p>This learning software is ________ extremely user-friendly and very helpful for Grade 10 students.</p>",
+    "questionText": "<p>Don't worry! I will get my technician friend ________ a look at your faulty laptop.</p>",
     "choices": [
       {
         "id": "116_12_1",
-        "text": "both",
-        "html": "both"
+        "text": "take",
+        "html": "take"
       },
       {
         "id": "116_12_2",
-        "text": "either",
-        "html": "either"
+        "text": "to take",
+        "html": "to take"
       },
       {
         "id": "116_12_3",
-        "text": "neither",
-        "html": "neither"
+        "text": "taken",
+        "html": "taken"
       },
       {
         "id": "116_12_4",
-        "text": "not",
-        "html": "not"
+        "text": "taking",
+        "html": "taking"
       }
     ],
-    "correctChoiceId": "116_12_1",
-    "explanation": "<p>Cặp liên từ tương quan đi với 'and': <strong>Both... and (vừa... vừa...)</strong>.</p>",
-    "ruleTip": "Cặp liên từ tương quan: 'Both... and' (vừa... vừa...)."
+    "correctChoiceId": "116_12_2",
+    "explanation": "<p>Cấu trúc cầu khiến chủ động với <strong>GET</strong>: <strong>get + sb + to V(inf)</strong>. 'My technician friend' là người -> dùng 'to take'.</p>",
+    "ruleTip": "get + người + to V: nhờ người bạn kỹ thuật viên xem giúp."
   },
   {
     "id": "116_13",
     "questionName": "Question 13",
-    "questionText": "<p>She speaks ________ English fluently but also French with great confidence.</p>",
+    "questionText": "<p>Did you have your dental check-up ________ at the central clinic?</p>",
     "choices": [
       {
-        "id": "116_13_2",
-        "text": "both",
-        "html": "both"
+        "id": "116_13_1",
+        "text": "do",
+        "html": "do"
       },
       {
-        "id": "116_13_1",
-        "text": "not only",
-        "html": "not only"
+        "id": "116_13_2",
+        "text": "did",
+        "html": "did"
       },
       {
         "id": "116_13_3",
-        "text": "either",
-        "html": "either"
+        "text": "done",
+        "html": "done"
       },
       {
         "id": "116_13_4",
-        "text": "as well as",
-        "html": "as well as"
+        "text": "doing",
+        "html": "doing"
       }
     ],
-    "correctChoiceId": "116_13_1",
-    "explanation": "<p>Cặp liên từ song hành: <strong>not only... but also (không những... mà còn)</strong>.</p>",
-    "ruleTip": "Cặp liên từ: 'Not only... but also' (không những... mà còn)."
+    "correctChoiceId": "116_13_3",
+    "explanation": "<p>Câu hỏi ở thể cầu khiến bị động: <strong>Did you have + sth (dental check-up) + V(pp) (done)?</strong></p>",
+    "ruleTip": "have + sth + done: việc khám răng được thực hiện."
   },
   {
     "id": "116_14",
     "questionName": "Question 14",
-    "questionText": "<p>You can choose ________ the morning practice session or the afternoon mock test.</p>",
+    "questionText": "<p><em>Choose the sentence that is CLOSEST in meaning to the following sentence.</em></p><p><strong>The dentist pulled out David's wisdom tooth this morning.</strong></p>",
     "choices": [
       {
+        "id": "116_14_1",
+        "text": "David had his wisdom tooth pulled out by the dentist this morning.",
+        "html": "David had his wisdom tooth pulled out by the dentist this morning."
+      },
+      {
         "id": "116_14_2",
-        "text": "neither",
-        "html": "neither"
+        "text": "David got the dentist pulled out his wisdom tooth this morning.",
+        "html": "David got the dentist pulled out his wisdom tooth this morning."
       },
       {
         "id": "116_14_3",
-        "text": "both",
-        "html": "both"
+        "text": "David had pulled out his wisdom tooth by the dentist this morning.",
+        "html": "David had pulled out his wisdom tooth by the dentist this morning."
       },
       {
         "id": "116_14_4",
-        "text": "not only",
-        "html": "not only"
-      },
-      {
-        "id": "116_14_1",
-        "text": "either",
-        "html": "either"
+        "text": "David had the dentist to pull out his wisdom tooth this morning.",
+        "html": "David had the dentist to pull out his wisdom tooth this morning."
       }
     ],
     "correctChoiceId": "116_14_1",
-    "explanation": "<p>Cặp liên từ lựa chọn 1 trong 2 đi với 'or': <strong>Either... or</strong>.</p>",
-    "ruleTip": "Cặp liên từ: 'Either... or' (hoặc cái này hoặc cái kia)."
+    "explanation": "<p>Bác sĩ nhổ răng khôn cho David -> David đi nhổ răng: <strong>David had his wisdom tooth pulled out by the dentist</strong>.</p>",
+    "ruleTip": "have + his tooth + pulled out: nhổ răng (thể cầu khiến)."
   },
   {
     "id": "116_15",
     "questionName": "Question 15",
-    "questionText": "<p>It was getting dark outside, ________ we decided to take a taxi home instead of walking.</p>",
+    "questionText": "<p>We must have the water pipes ________ before the winter frost causes them to freeze and burst.</p>",
     "choices": [
       {
         "id": "116_15_1",
-        "text": "so",
-        "html": "so"
+        "text": "insulate",
+        "html": "insulate"
       },
       {
         "id": "116_15_2",
-        "text": "because",
-        "html": "because"
+        "text": "insulated",
+        "html": "insulated"
       },
       {
         "id": "116_15_3",
-        "text": "although",
-        "html": "although"
+        "text": "to insulate",
+        "html": "to insulate"
       },
       {
         "id": "116_15_4",
-        "text": "but",
-        "html": "but"
+        "text": "insulating",
+        "html": "insulating"
       }
     ],
-    "correctChoiceId": "116_15_1",
-    "explanation": "<p>Liên từ đứng sau dấu phẩy nối mệnh đề chỉ nguyên nhân với kết quả: <strong>so (cho nên, vì vậy)</strong>.</p>",
-    "ruleTip": "Liên từ 'so' đứng giữa câu sau dấu phẩy để nối mệnh đề chỉ kết quả."
+    "correctChoiceId": "116_15_2",
+    "explanation": "<p>Cấu trúc thể cầu khiến bị động: <strong>must have + sth (the water pipes) + V(pp) (insulated)</strong>: phải bọc cách nhiệt các đường ống nước.</p>",
+    "ruleTip": "have + sth + insulated: đường ống được bọc cách nhiệt."
   }
 ]

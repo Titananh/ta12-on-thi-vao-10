@@ -1,32 +1,32 @@
 {
   "topicId": 116,
-  "topicName": "Liên từ và mệnh đề trạng ngữ",
-  "englishName": "Conjunctions and Adverbial Clauses",
+  "topicName": "Thể cầu khiến: have/get sth done",
+  "englishName": "Causative Form: have/get sth done",
   "rules": [
     {
-      "rule": "Liên từ chỉ sự nhượng bộ, tương phản:",
-      "formula": "Although / Even though / Though + S + V, S + V // In spite of / Despite + N / V-ing, S + V",
-      "examples": "Although it rained heavily, we went to school on time. / Despite the heavy rain, we went to school."
+      "rule": "Cấu trúc cầu khiến bị động (Passive Causative):",
+      "formula": "S + have / get + Something (Vật) + V(pp) / V3 (+ by Someone)",
+      "examples": "I had my car repaired yesterday. / She gets her hair cut every month. / We will have the roof fixed before the rainy season."
     },
     {
-      "rule": "Lưu ý cấm kỵ: Tuyệt đối KHÔNG dùng cả 'Although' và 'But' trong cùng một câu!",
-      "formula": "ĐÚNG: Although it rained, we went out. HOẶC It rained, but we went out. (SAI: Although it rained, but we went out.)",
-      "examples": "Although he was tired, he finished his work."
+      "rule": "Cấu trúc cầu khiến chủ động với HAVE (Active Causative with HAVE):",
+      "formula": "S + have + Someone (Người) + V(bare-inf) + Something",
+      "examples": "I had the mechanic repair my car. / The teacher had the students write an essay."
     },
     {
-      "rule": "Liên từ chỉ lý do, nguyên nhân:",
-      "formula": "Because / Since / As + S + V, S + V // Because of / Due to + N / V-ing, S + V",
-      "examples": "Because she was ill, she stayed home. / Because of her illness, she stayed home."
+      "rule": "Cấu trúc cầu khiến chủ động với GET (Active Causative with GET):",
+      "formula": "S + get + Someone (Người) + TO V(inf) + Something",
+      "examples": "I got the plumber to fix the leak. / She got her brother to carry the heavy luggage."
     },
     {
-      "rule": "Cấu trúc So... that và Such... that (quá... đến nỗi mà):",
-      "formula": "S + be/V + SO + adj/adv + THAT + S + V // S + V + SUCH + (a/an) + adj + N + THAT + S + V",
-      "examples": "The tea is so hot that I cannot drink it. / It was such hot tea that I could not drink it."
+      "rule": "Chuyển đổi câu viết lại (Sentence Transformation):",
+      "formula": "Someone did something for S -> S had/got something done // S asked/hired someone to do something -> S had someone do / got someone to do something",
+      "examples": "The painter painted our house. -> We had our house painted by the painter."
     },
     {
-      "rule": "Liên từ chỉ mục đích:",
-      "formula": "so that / in order that + S + can/could/will/would + V-inf // in order to / so as to / to + V-inf",
-      "examples": "He studies hard so that he can pass the exam. / He studies hard in order to pass the exam."
+      "rule": "Lưu ý quan trọng trong đề thi:",
+      "formula": "HAVE + người + V nguyên thể (KHÔNG có to) // GET + người + TO V // CẢ HAI: HAVE/GET + vật + V(pp/V3)",
+      "examples": "He had the technician check (not to check) the computer. / He got the technician to check the computer."
     }
   ]
 }
