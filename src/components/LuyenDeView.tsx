@@ -2,7 +2,7 @@
 
 import React, { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
-import { ArrowRight, CheckCircle2, Clock3, Crown, ListFilter, Search, Users } from 'lucide-react';
+import { ArrowRight, CheckCircle2, Clock3, ListFilter, Search, Users } from 'lucide-react';
 import cat1097Data from '../../data/exams/category_1097.json';
 import cat1687Data from '../../data/exams/category_1687.json';
 import cat1489Data from '../../data/exams/category_1489.json';
@@ -46,11 +46,6 @@ const CATEGORIES: Array<{ id: number; name: string; data: ExamItem[] }> = [
   { id: 170, name: 'Đề luyện thi vào 10 môn Anh Sở Hà Nội từ năm 2024 trở về trước', data: cat170Data as ExamItem[] },
 ];
 
-const RANKING = [
-  ['Nguyễn Ngọc Xuân Lan', '997'], ['Nguyễn Đức Quang Vinh', '750'], ['Nguyễn Trí Dũng', '422'],
-  ['Nguyễn Đức Trí', '285'], ['Vũ Duy Khiêm', '273'], ['Vũ Khánh Chi', '271'], ['Hải', '234'],
-  ['Trần Minh Nhật', '212'], ['Nguyễn Hồng Bảo Linh', '206'], ['Đinh Nho Hạo', '189'],
-];
 
 const GUIDE_LINKS = [
   'Tổng hợp đề thi vào 10 môn Toán, Văn, Tiếng Anh trên toàn quốc từ 2020 đến nay (kèm đáp án chi tiết)',
@@ -67,19 +62,15 @@ function formatCount(value?: number): string {
 
 function ExamRow({ exam, result }: { exam: ExamItem; result?: ExamResult }) {
   const title = exam.title || exam.quizName || 'Đề thi Tiếng Anh vào 10';
-  const premium = Boolean(exam.isPremium);
   return (
     <article className="group rounded-[4px] border border-slate-200 bg-white px-3 py-2.5 transition hover:border-[#83c224] hover:shadow-sm dark:border-[#383c38] dark:bg-[#242824]">
       <div className="flex flex-col gap-2.5 sm:flex-row sm:items-center sm:justify-between">
         <div className="min-w-0 flex-1">
           <div className="flex min-w-0 items-start gap-2">
-            <span className={`mt-0.5 shrink-0 rounded-full border px-1.5 py-0.5 text-[10px] font-bold ${premium ? 'border-orange-200 bg-orange-50 text-orange-500 dark:border-orange-900 dark:bg-orange-950/30' : 'border-emerald-200 bg-emerald-50 text-emerald-700 dark:border-emerald-900 dark:bg-emerald-950/30 dark:text-emerald-300'}`}>
-              {premium ? <><Crown className="mr-0.5 inline h-2.5 w-2.5" />PRO</> : 'Free'}
-            </span>
             <Link href={`/exam/${exam.id}/intro`} className="min-w-0 truncate text-xs font-bold leading-5 text-[#1c581f] hover:text-[#5fbd18] dark:text-emerald-300 dark:hover:text-emerald-200" title={title}>{title}</Link>
           </div>
-          <div className="mt-1 flex flex-wrap items-center gap-x-4 gap-y-1 pl-7 text-[11px] text-slate-500 dark:text-slate-400">
-            {exam.showFeedBackForFreeUser && <span className="font-semibold text-[#5fbd18]"><CheckCircle2 className="mr-1 inline h-3 w-3" />Có giải thích đáp án cho tài khoản FREE</span>}
+          <div className="mt-1 flex flex-wrap items-center gap-x-4 gap-y-1 text-[11px] text-slate-500 dark:text-slate-400">
+            {exam.showFeedBackForFreeUser && <span className="font-semibold text-[#5fbd18]"><CheckCircle2 className="mr-1 inline h-3 w-3" />Có giải thích đáp án</span>}
             <span><ListFilter className="mr-1 inline h-3 w-3" />{exam.totalPoint || exam.questionCount} points</span>
             <span><Clock3 className="mr-1 inline h-3 w-3" />{exam.timeLimit || 60} phút</span>
             {exam.averagePoint != null && <span>Điểm TB: {Number(exam.averagePoint).toFixed(2)}</span>}
@@ -133,7 +124,6 @@ export default function LuyenDeView() {
           {totalVisible === 0 && <div className="rounded-md border border-slate-200 bg-white p-10 text-center text-sm text-slate-500 dark:border-[#383c38] dark:bg-[#242824] dark:text-slate-300">Không tìm thấy đề thi phù hợp với “{searchTerm}”.</div>}
         </div>
         <aside className="space-y-4 lg:col-span-3">
-          <div className="rounded-md border border-slate-200 bg-white p-3 shadow-sm dark:border-[#383c38] dark:bg-[#242824]"><div className="mb-2 flex items-center justify-between border-b border-slate-100 pb-2 dark:border-[#383c38]"><h3 className="font-bold text-slate-700 dark:text-slate-200">📗 Bảng xếp hạng</h3><span className="rounded-full bg-[#f0f9e8] px-2 py-1 text-[10px] font-bold text-[#5fbd18]">Tuần này</span></div><ol className="space-y-2 text-xs">{RANKING.map(([name, score], index) => <li key={`${name}-${index}`} className="flex items-center gap-2"><span className="w-4 text-center font-bold text-[#a9c83c]">{index + 1}</span><span className="flex h-6 w-6 items-center justify-center rounded-full bg-slate-100 text-[10px] font-bold text-slate-500 dark:bg-[#1a1d1a] dark:text-slate-300">{name.charAt(0)}</span><span className="min-w-0 flex-1 truncate text-slate-600 dark:text-slate-300">{name}</span><strong className="text-[#5fbd18]">{score}</strong></li>)}</ol></div>
           <div className="rounded-md border border-slate-200 bg-white p-4 shadow-sm dark:border-[#383c38] dark:bg-[#242824]"><h3 className="mb-3 font-bold text-slate-700 dark:text-slate-200">Hướng dẫn ôn luyện</h3><ul className="space-y-2 text-[11px] leading-4 text-slate-500 dark:text-slate-400">{GUIDE_LINKS.map((guide) => <li key={guide} className="border-b border-slate-100 pb-2 pl-3 before:mr-1 before:content-['•'] dark:border-[#383c38]">{guide}</li>)}</ul><button type="button" className="mt-3 text-xs font-bold text-[#5fbd18] hover:underline">Xem thêm &gt;&gt;</button></div>
         </aside>
       </div>

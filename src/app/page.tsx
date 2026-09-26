@@ -128,7 +128,6 @@ export default function HomePage() {
             <p className="text-xs text-slate-500 dark:text-slate-400">Luyện thi theo chương trình Hà Nội · 138 đề · 76 bài học · 5 kỹ năng</p>
           </div>
         </div>
-        <Link href="/?tab=luyen-de" className="inline-flex shrink-0 items-center justify-center rounded-md bg-[#5fbd18] px-4 py-2 text-xs font-extrabold text-white hover:bg-[#4ea713]">Mua gói PRO</Link>
       </section>
 
       {/* Breadcrumb */}
