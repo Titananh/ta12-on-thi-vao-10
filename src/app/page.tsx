@@ -15,6 +15,11 @@ import taxonomyData from '../../data/taxonomy.json';
 
 export default function HomePage() {
   const { user, isLoading } = useAuthProgress();
+  // Keep the first render identical on the server and in the browser.  The
+  // access guard below depends on browser-only session state (and on
+  // navigator.webdriver for the test harness); evaluating it during the
+  // initial render causes a hydration mismatch in a normal browser.
+  const [hasHydrated, setHasHydrated] = useState(false);
   const [activeTab, setActiveTab] = useState<'hoc-on' | 'luyen-de' | 'luyen-phan' | 'luyen-chudiem'>('luyen-chudiem');
   const [activeSkillSeo, setActiveSkillSeo] = useState<string>('phonetics');
   const [isModalOpen, setIsModalOpen] = useState<boolean>(false);
@@ -25,6 +30,7 @@ export default function HomePage() {
 
   // Load user progress from localStorage
   useEffect(() => {
+    setHasHydrated(true);
     try {
       const saved = localStorage.getItem('ta12_progress');
       if (saved) {
@@ -33,8 +39,10 @@ export default function HomePage() {
     } catch (e) {}
   }, []);
 
-  // Access Guard: In real browser runtime, strictly gate authentication
-  const isRealBrowser = typeof window !== 'undefined' && typeof window.document !== 'undefined' && !Boolean((window as any).navigator?.webdriver);
+  // Access Guard: In real browser runtime, strictly gate authentication. The
+  // hasHydrated guard keeps the server render and the browser's first render
+  // identical, avoiding a hydration mismatch while preserving static markup.
+  const isRealBrowser = hasHydrated && typeof window !== 'undefined' && typeof window.document !== 'undefined' && !Boolean((window as any).navigator?.webdriver);
 
   if (isRealBrowser) {
     // Loading state: show spinner while checking auth session

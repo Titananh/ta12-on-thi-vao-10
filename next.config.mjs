@@ -55,14 +55,6 @@ const nextConfig = {
       },
     ];
   },
-  async rewrites() {
-    return [
-      {
-        source: '/Upload/:path*',
-        destination: 'https://tak12.com/Upload/:path*',
-      },
-    ];
-  },
 };
 
 export default nextConfig;
