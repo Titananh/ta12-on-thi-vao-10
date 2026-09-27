@@ -203,6 +203,15 @@ function seedDefaultPersonas(db: DatabaseType) {
       VALUES (?, ?, datetime('now'))
     `).run('dotoppo71714@gmail.com', 'Học sinh chính thức - Tự động duyệt');
   }
+
+  // 6. Official Student Pre-whitelist: tuy488629@gmail.com (Tuy Tuy - đã được Admin duyệt)
+  const tuyEntry = db.prepare('SELECT id FROM pre_whitelist WHERE email = ? COLLATE NOCASE').get('tuy488629@gmail.com');
+  if (!tuyEntry) {
+    db.prepare(`
+      INSERT INTO pre_whitelist (email, notes, created_at)
+      VALUES (?, ?, datetime('now'))
+    `).run('tuy488629@gmail.com', 'Học sinh đã được Admin duyệt - Tự động duyệt');
+  }
 }
 
 export function getDb(): DatabaseType {
