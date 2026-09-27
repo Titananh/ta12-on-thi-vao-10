@@ -31,7 +31,8 @@ const suites = [
   { name: 'All 138 Exam Bundles Atomic-Point Parity Suite', file: 'tests/test_exam_bundle_atomic_parity.js' },
   { name: 'Cloze Dropdowns, Dark Contrast & Palette Scoring Suite', file: 'tests/adversarial_challenger_m1_palette_scoring_css.js' },
   { name: 'User Reported Issues (Zero Canva Iframes, Offline Theories, Slide Dark Mode)', file: 'tests/test_user_reported_issues_m3.js' },
-  { name: 'Backend & Data Architecture Parity Suite (M2)', file: 'tests/verify_backend_data_parity_m2.js' }
+  { name: 'Backend & Data Architecture Parity Suite (M2)', file: 'tests/verify_backend_data_parity_m2.js' },
+  { name: 'Challenger 2 URL Rewrites & Tab Stress Suite (M1)', file: 'tests/adversarial_challenger2_m1_url_tab_stress.js' }
 ];
 
 console.log('========================================================================');
