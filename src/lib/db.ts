@@ -225,6 +225,26 @@ export const getDatabase = getDb;
 export function getUserById(id: string): User | undefined {
   const db = getDb();
   let user = db.prepare('SELECT * FROM users WHERE id = ?').get(id) as User | undefined;
+
+  // Auto-promote: If user exists but is 'pending', check pre_whitelist.
+  // This is CRITICAL for Vercel serverless where each Lambda has its own
+  // /tmp/SQLite copy. Admin approval on Lambda A writes to pre_whitelist,
+  // but Lambda B still has status='pending'. By checking pre_whitelist on
+  // every session read, any Lambda can self-heal and promote the user.
+  if (user && user.status === 'pending' && user.email) {
+    try {
+      const whitelisted = isEmailWhitelisted(user.email);
+      if (whitelisted) {
+        db.prepare(`
+          UPDATE users SET status = 'approved', approved_at = ? WHERE id = ?
+        `).run(new Date().toISOString(), user.id);
+        user = db.prepare('SELECT * FROM users WHERE id = ?').get(id) as User | undefined;
+      }
+    } catch {
+      // safe fallback — don't break session if whitelist check fails
+    }
+  }
+
   if (!user && id && id.startsWith('usr_local_')) {
     try {
       const hex = id.slice(10);
@@ -417,13 +437,33 @@ export function createPasswordUser(data: {
 
   const existing = (db.prepare('SELECT * FROM users WHERE id = ? OR email = ? COLLATE NOCASE').get(newId, normalizedEmail)) as User | undefined;
   if (existing) {
-    db.prepare(`
-      UPDATE users SET
-        name = COALESCE(?, name),
-        password_hash = COALESCE(?, password_hash),
-        last_login_at = datetime('now')
-      WHERE id = ?
-    `).run(data.name || null, data.passwordHash || null, existing.id);
+    // Check if user should be auto-promoted (whitelisted but still pending)
+    let statusUpdate = '';
+    let approvedAtUpdate: string | null = null;
+    if (existing.status === 'pending' && whitelisted) {
+      statusUpdate = 'approved';
+      approvedAtUpdate = new Date().toISOString();
+    }
+
+    if (statusUpdate) {
+      db.prepare(`
+        UPDATE users SET
+          name = COALESCE(?, name),
+          password_hash = COALESCE(?, password_hash),
+          status = ?,
+          approved_at = ?,
+          last_login_at = datetime('now')
+        WHERE id = ?
+      `).run(data.name || null, data.passwordHash || null, statusUpdate, approvedAtUpdate, existing.id);
+    } else {
+      db.prepare(`
+        UPDATE users SET
+          name = COALESCE(?, name),
+          password_hash = COALESCE(?, password_hash),
+          last_login_at = datetime('now')
+        WHERE id = ?
+      `).run(data.name || null, data.passwordHash || null, existing.id);
+    }
     return { user: getUserById(existing.id)!, isNew: false };
   }
 
