@@ -206,13 +206,23 @@ export default function AdminDashboardPage() {
   }, [checkAdminSession, refreshAll]);
 
   // 1-Click Action Handler
-  const handleUserAction = async (userId: string, action: 'approve' | 'revoke' | 'reject') => {
+  const handleUserAction = async (
+    userId: string,
+    action: 'approve' | 'revoke' | 'reject',
+    studentInfo?: { email?: string; name?: string; avatar_url?: string | null }
+  ) => {
     setActionLoadingId(userId);
     try {
       const res = await fetch('/api/admin/users', {
         method: 'PATCH',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ userId, action }),
+        body: JSON.stringify({
+          userId,
+          action,
+          email: studentInfo?.email,
+          name: studentInfo?.name,
+          avatarUrl: studentInfo?.avatar_url,
+        }),
       });
       const data = await res.json();
       if (data.success) {
@@ -865,7 +875,7 @@ export default function AdminDashboardPage() {
                                   {isPending && (
                                     <>
                                       <button
-                                        onClick={() => handleUserAction(u.id, 'approve')}
+                                        onClick={() => handleUserAction(u.id, 'approve', { email: u.email, name: u.name, avatar_url: u.avatar_url })}
                                         disabled={isLoading}
                                         className="px-3.5 py-1.5 rounded-lg bg-emerald-600 hover:bg-emerald-500 text-white font-bold text-xs flex items-center gap-1.5 shadow-md shadow-emerald-950/40 transition-all disabled:opacity-50"
                                         title="Phê duyệt ngay lập tức cho học sinh truy cập web"
@@ -873,7 +883,7 @@ export default function AdminDashboardPage() {
                                         <span>✓ Duyệt (Approve)</span>
                                       </button>
                                       <button
-                                        onClick={() => handleUserAction(u.id, 'reject')}
+                                        onClick={() => handleUserAction(u.id, 'reject', { email: u.email, name: u.name, avatar_url: u.avatar_url })}
                                         disabled={isLoading}
                                         className="px-3 py-1.5 rounded-lg bg-[#2b1f1f] hover:bg-rose-900/60 border border-rose-500/40 text-rose-300 font-semibold text-xs transition-colors disabled:opacity-50"
                                         title="Từ chối truy cập"
@@ -886,7 +896,7 @@ export default function AdminDashboardPage() {
                                   {/* Approved user actions */}
                                   {isApproved && (
                                     <button
-                                      onClick={() => handleUserAction(u.id, 'revoke')}
+                                      onClick={() => handleUserAction(u.id, 'revoke', { email: u.email, name: u.name, avatar_url: u.avatar_url })}
                                       disabled={isLoading}
                                       className="px-3 py-1.5 rounded-lg bg-[#292218] hover:bg-amber-900/60 border border-amber-500/40 text-amber-300 font-semibold text-xs transition-colors disabled:opacity-50"
                                       title="Khóa / Thu hồi quyền truy cập học sinh này"
@@ -898,7 +908,7 @@ export default function AdminDashboardPage() {
                                   {/* Rejected user actions */}
                                   {isRejected && (
                                     <button
-                                      onClick={() => handleUserAction(u.id, 'approve')}
+                                      onClick={() => handleUserAction(u.id, 'approve', { email: u.email, name: u.name, avatar_url: u.avatar_url })}
                                       disabled={isLoading}
                                       className="px-3 py-1.5 rounded-lg bg-[#1a281a] hover:bg-emerald-900/60 border border-emerald-500/40 text-emerald-300 font-semibold text-xs transition-colors disabled:opacity-50"
                                       title="Kích hoạt lại tài khoản này"

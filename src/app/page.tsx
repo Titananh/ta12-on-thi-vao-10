@@ -31,14 +31,15 @@ export default function HomePage() {
   // Load user progress from localStorage
   useEffect(() => {
     setHasHydrated(true);
+    const pathname = (typeof window !== 'undefined' ? window.location.pathname.toLowerCase() : '');
     const requestedTab = new URLSearchParams(window.location.search).get('tab');
-    if (requestedTab === 'hoc-on') {
+    if (requestedTab === 'hoc-on' || pathname === '/hoc-on') {
       setActiveTab('hoc-on');
-    } else if (requestedTab === 'luyen-de' || requestedTab === 'luyen-de-thi') {
+    } else if (requestedTab === 'luyen-de' || requestedTab === 'luyen-de-thi' || pathname === '/luyen-de-thi' || pathname === '/luyen-de') {
       setActiveTab('luyen-de');
-    } else if (requestedTab === 'luyen-phan' || requestedTab === 'luyen-theo-dang-bai') {
+    } else if (requestedTab === 'luyen-phan' || requestedTab === 'luyen-theo-dang-bai' || pathname === '/luyen-theo-dang-bai' || pathname === '/luyen-phan') {
       setActiveTab('luyen-phan');
-    } else if (requestedTab === 'luyen-chudiem' || requestedTab === 'luyen-theo-chuyen-de') {
+    } else if (requestedTab === 'luyen-chudiem' || requestedTab === 'luyen-theo-chuyen-de' || pathname === '/luyen-theo-chuyen-de' || pathname === '/luyen-chudiem') {
       setActiveTab('luyen-chudiem');
     } else {
       // User preference: default landing tab in browser is 'luyen-de' (Luyện đề thi)

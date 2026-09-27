@@ -119,7 +119,7 @@ export async function PATCH(request: NextRequest) {
   try {
     const db = getDatabase();
     const body = await request.json();
-    const { userId, action } = body;
+    const { userId, action, email, name, avatarUrl } = body;
 
     if (!userId || !action) {
       return NextResponse.json({ success: false, error: 'Thiếu userId hoặc action' }, { status: 400 });
@@ -141,9 +141,39 @@ export async function PATCH(request: NextRequest) {
       return NextResponse.json({ success: false, error: 'Hành động không hợp lệ' }, { status: 400 });
     }
 
-    const targetUser = db.prepare('SELECT id, email FROM users WHERE id = ?').get(userId) as any;
+    const cleanEmail = (email || '').trim().toLowerCase();
+    const cleanUserId = String(userId).trim();
+
+    // 1. Flexible lookup: match by id, google_id, or email
+    let targetUser = db.prepare(`
+      SELECT id, email, name, status, approved_at 
+      FROM users 
+      WHERE id = ? OR google_id = ? OR (email IS NOT NULL AND LOWER(email) = LOWER(?))
+    `).get(cleanUserId, cleanUserId, cleanEmail || cleanUserId) as any;
+
+    if (!targetUser && cleanEmail) {
+      targetUser = db.prepare('SELECT id, email, name, status, approved_at FROM users WHERE LOWER(email) = LOWER(?)').get(cleanEmail) as any;
+    }
+
+    // 2. Serverless multi-instance resilience: If student was on another lambda instance, upsert directly
     if (!targetUser) {
-      return NextResponse.json({ success: false, error: 'Không tìm thấy người dùng' }, { status: 404 });
+      const userEmail = cleanEmail || (cleanUserId.includes('@') ? cleanUserId : null);
+      if (userEmail) {
+        const idToUse = cleanUserId.includes('@') ? `usr_${Date.now()}` : cleanUserId;
+        const userName = name || userEmail.split('@')[0];
+        const userAvatar = avatarUrl || null;
+        const initialStatus = newStatus;
+        const approvedAtVal = setApprovedAt ? new Date().toISOString().replace('T', ' ').substring(0, 19) : null;
+
+        db.prepare(`
+          INSERT OR REPLACE INTO users (id, google_id, email, name, avatar_url, status, approved_at, created_at, last_login_at)
+          VALUES (?, ?, ?, ?, ?, ?, ?, datetime('now'), datetime('now'))
+        `).run(idToUse, idToUse, userEmail, userName, userAvatar, initialStatus, approvedAtVal);
+
+        targetUser = { id: idToUse, email: userEmail, name: userName, status: initialStatus };
+      } else {
+        return NextResponse.json({ success: false, error: 'Không tìm thấy người dùng' }, { status: 404 });
+      }
     }
 
     if (targetUser.email?.toLowerCase() === 'dot71714@gmail.com' && (action === 'revoke' || action === 'reject')) {
@@ -157,35 +187,36 @@ export async function PATCH(request: NextRequest) {
       UPDATE users SET
         status = ?,
         approved_at = CASE WHEN ? = 1 THEN datetime('now') ELSE NULL END
-      WHERE id = ?
+      WHERE id = ? OR (email IS NOT NULL AND LOWER(email) = LOWER(?))
     `);
 
-    const result = stmt.run(newStatus, setApprovedAt ? 1 : 0, userId);
+    stmt.run(newStatus, setApprovedAt ? 1 : 0, targetUser.id, targetUser.email || '');
 
-    if (result.changes === 0) {
-      return NextResponse.json({ success: false, error: 'Không tìm thấy người dùng' }, { status: 404 });
-    }
-
+    // Synchronize pre_whitelist so future container instances auto-approve immediately
     if (targetUser.email) {
       const normalizedEmail = targetUser.email.toLowerCase().trim();
       if (action === 'approve') {
         db.prepare(`
-          INSERT OR IGNORE INTO pre_whitelist (email, notes, created_at)
+          INSERT OR REPLACE INTO pre_whitelist (email, notes, created_at)
           VALUES (?, 'Duyệt trực tiếp từ Cổng Quản trị Admin', datetime('now'))
         `).run(normalizedEmail);
       } else if (action === 'revoke' || action === 'reject') {
         db.prepare(`
-          DELETE FROM pre_whitelist WHERE email = ? COLLATE NOCASE
+          DELETE FROM pre_whitelist WHERE LOWER(email) = LOWER(?)
         `).run(normalizedEmail);
       }
     }
 
-    const updatedUser = db.prepare('SELECT id, email, name, status, approved_at FROM users WHERE id = ?').get(userId);
+    const updatedUser = db.prepare(`
+      SELECT id, email, name, status, approved_at 
+      FROM users 
+      WHERE id = ? OR (email IS NOT NULL AND LOWER(email) = LOWER(?))
+    `).get(targetUser.id, targetUser.email || '');
 
     return NextResponse.json({
       success: true,
       message: `Đã cập nhật trạng thái người dùng thành: ${newStatus}`,
-      user: updatedUser,
+      user: updatedUser || targetUser,
     });
   } catch (error: any) {
     return NextResponse.json({ success: false, error: error.message }, { status: 500 });
@@ -210,27 +241,34 @@ export async function DELETE(request: NextRequest) {
       return NextResponse.json({ success: false, error: 'Thiếu userId' }, { status: 400 });
     }
 
-    const targetUser = db.prepare('SELECT id, email FROM users WHERE id = ?').get(userId) as any;
-    if (!targetUser) {
-      return NextResponse.json({ success: false, error: 'Không tìm thấy người dùng' }, { status: 404 });
-    }
+    const cleanUserId = String(userId).trim();
+    const cleanEmail = cleanUserId.includes('@') ? cleanUserId.toLowerCase() : '';
 
-    if (targetUser.email?.toLowerCase() === 'dot71714@gmail.com') {
+    const targetUser = db.prepare(`
+      SELECT id, email FROM users 
+      WHERE id = ? OR google_id = ? OR (email IS NOT NULL AND LOWER(email) = LOWER(?))
+    `).get(cleanUserId, cleanUserId, cleanEmail || cleanUserId) as any;
+
+    if (targetUser && targetUser.email?.toLowerCase() === 'dot71714@gmail.com') {
       return NextResponse.json(
         { success: false, error: 'Không thể xóa tài khoản Quản trị viên tối cao (Superadmin)!' },
         { status: 403 }
       );
     }
 
-    db.prepare('DELETE FROM users WHERE id = ?').run(userId);
-    db.prepare('DELETE FROM user_progress WHERE user_id = ?').run(userId);
-    if (targetUser.email) {
-      db.prepare('DELETE FROM pre_whitelist WHERE email = ? COLLATE NOCASE').run(targetUser.email.toLowerCase().trim());
+    if (targetUser) {
+      db.prepare('DELETE FROM users WHERE id = ?').run(targetUser.id);
+      db.prepare('DELETE FROM user_progress WHERE user_id = ?').run(targetUser.id);
+      if (targetUser.email) {
+        db.prepare('DELETE FROM pre_whitelist WHERE LOWER(email) = LOWER(?)').run(targetUser.email.toLowerCase().trim());
+      }
+    } else if (cleanEmail) {
+      db.prepare('DELETE FROM pre_whitelist WHERE LOWER(email) = LOWER(?)').run(cleanEmail);
     }
 
     return NextResponse.json({
       success: true,
-      message: `Đã xóa tài khoản ${targetUser.email} thành công`,
+      message: `Đã xóa tài khoản ${targetUser?.email || cleanUserId} thành công`,
     });
   } catch (error: any) {
     return NextResponse.json({ success: false, error: error.message }, { status: 500 });

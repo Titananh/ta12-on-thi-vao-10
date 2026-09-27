@@ -12,7 +12,8 @@
     "build:admin": "npm run --prefix admin build",
     "start:admin": "npm run --prefix admin start",
     "build:all": "npm run build && npm run build:admin",
-    "test:admin": "node tests/test_admin_portal.js"
+    "test:admin": "node tests/test_admin_portal.js",
+    "test:student": "node tests/student_journey_simulation.js"
   },
   "dependencies": {
     "better-sqlite3": "^12.11.1",
