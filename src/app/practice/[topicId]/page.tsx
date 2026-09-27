@@ -112,6 +112,176 @@ function matchesSentence(user: string, target: string): boolean {
   return expandContractions(normUser) === expandContractions(normTarget);
 }
 
+export interface VocabItem {
+  word: string;
+  pos?: string;
+  ipa?: string;
+  meaning?: string;
+  example?: string;
+  isHighlighted?: boolean;
+}
+
+function extractVocabFromQuestion(q: Question, correctWordHint?: string): VocabItem[] {
+  const cleanWordHint = (correctWordHint || '').toLowerCase().trim();
+  const items: VocabItem[] = [];
+  const cleanHtml = (str: string) =>
+    (str || '').replace(/<[^>]*>/g, ' ').replace(/&nbsp;/g, ' ').replace(/\s+/g, ' ').trim();
+
+  // Source 0: pre-baked vocabTable
+  if ((q as any).vocabTable && Array.isArray((q as any).vocabTable) && (q as any).vocabTable.length > 0) {
+    return (q as any).vocabTable.map((item: any) => {
+      const w = (item.word || '').toLowerCase().trim();
+      const isHighlighted = Boolean(
+        item.isHighlighted ||
+        (cleanWordHint && (w === cleanWordHint || cleanWordHint.includes(w) || w.includes(cleanWordHint)))
+      );
+      return {
+        word: item.word || '',
+        pos: item.pos || '',
+        ipa: item.ipa || '',
+        meaning: item.meaning || '',
+        example: item.example || '',
+        isHighlighted,
+      };
+    });
+  }
+
+  // Combine text sources: explanation, answerFeedbacks, and ruleTip
+  const sources = [
+    q.explanation || '',
+    q.ruleTip || '',
+    ...(q.answerFeedbacks ? Object.values(q.answerFeedbacks) : []),
+  ].filter(Boolean);
+
+  for (const html of sources) {
+    // Pattern 1: HTML tables with rows
+    if (html.includes('<tr')) {
+      const rowRegex = /<tr[^>]*>([\s\S]*?)<\/tr>/gi;
+      let match;
+      while ((match = rowRegex.exec(html)) !== null) {
+        const fullRowTag = match[0];
+        const rowContent = match[1];
+        if (rowContent.includes('<th')) continue;
+
+        let word = '';
+        let pos = '';
+        let ipa = '';
+        let meaning = '';
+        let example = '';
+
+        const enMatch = rowContent.match(/class=["']word-en-sharp["'][^>]*>([\s\S]*?)<\/span>/i);
+        if (enMatch) word = cleanHtml(enMatch[1]);
+
+        const posMatch = rowContent.match(/class=["']word-pos-sharp["'][^>]*>([\s\S]*?)<\/span>/i);
+        if (posMatch) pos = cleanHtml(posMatch[1]);
+
+        const ipaMatch = rowContent.match(/class=["']word-(?:ipa|pron)-sharp["'][^>]*>([\s\S]*?)<\/span>/i);
+        if (ipaMatch) ipa = cleanHtml(ipaMatch[1]);
+
+        const exMatch = rowContent.match(/class=["']example-sharp["'][^>]*>([\s\S]*?)<\/div>/i);
+        if (exMatch) example = cleanHtml(exMatch[1]);
+
+        const tdMatches: string[] = [];
+        const tdRegex = /<td[^>]*>([\s\S]*?)<\/td>/gi;
+        let tdM;
+        while ((tdM = tdRegex.exec(rowContent)) !== null) {
+          tdMatches.push(tdM[1]);
+        }
+        if (tdMatches.length >= 2) {
+          const col2 = tdMatches[1];
+          const emMatch = col2.match(/<em[^>]*>([\s\S]*?)<\/em>/i);
+          if (emMatch) {
+            meaning = cleanHtml(emMatch[1]);
+          } else {
+            meaning = cleanHtml(col2);
+          }
+        }
+
+        if (!word && tdMatches.length >= 2) {
+          const col1 = tdMatches[0];
+          const strongMatch = col1.match(/<(?:strong|b)[^>]*>([\s\S]*?)<\/(?:strong|b)>/i);
+          if (strongMatch) {
+            word = cleanHtml(strongMatch[1]);
+            const ipaFound = col1.match(/\/[^/]+\//);
+            if (ipaFound) ipa = ipaFound[0];
+            const posFound = col1.match(/\((?:n|v|adj|adv|prep|conj|pron|phr\.v\.|idm)\.?\)/i);
+            if (posFound) pos = posFound[0];
+          }
+        }
+
+        const isRowHighlighted =
+          fullRowTag.includes('#e5f6e3') ||
+          fullRowTag.includes('rgb(229, 246, 227)') ||
+          fullRowTag.includes('background-color: #e5f6e3') ||
+          Boolean(cleanWordHint && word && (word.toLowerCase().trim() === cleanWordHint || cleanWordHint.includes(word.toLowerCase().trim())));
+
+        if (word && word.length > 0 && word !== 'Từ' && !items.some((it) => it.word.toLowerCase() === word.toLowerCase())) {
+          items.push({ word, pos, ipa, meaning, example, isHighlighted: isRowHighlighted });
+        }
+      }
+    }
+
+    // Pattern 2: Paragraphs / list items with bold word and definition
+    const pRegex = /<(?:p|li|div)[^>]*>[\s\S]*?<(?:strong|b)[^>]*>([\s\S]*?)<\/(?:strong|b)>[\s\S]*?[:\-]\s*([\s\S]*?)<\/(?:p|li|div)>/gi;
+    let matchP;
+    while ((matchP = pRegex.exec(html)) !== null) {
+      let rawWord = cleanHtml(matchP[1]);
+      const rawMeaning = cleanHtml(matchP[2]);
+      if (!rawWord || !rawMeaning || rawWord.length > 45 || rawMeaning.length < 2) continue;
+      if (/^(giải thích|dịch nghĩa|cấu trúc|phân tích|ghi nhớ|lưu ý|tạm dịch|đáp án|chú ý)/i.test(rawWord)) continue;
+
+      let pos = '';
+      let ipa = '';
+      const posMatch = rawWord.match(/\((?:n|v|adj|adv|prep|conj|pron|phr\.v\.|idm)\.?\)/i);
+      if (posMatch) {
+        pos = posMatch[0];
+        rawWord = rawWord.replace(posMatch[0], '').trim();
+      }
+      const ipaMatch = rawWord.match(/\/[^/]+\//);
+      if (ipaMatch) {
+        ipa = ipaMatch[0];
+        rawWord = rawWord.replace(ipaMatch[0], '').trim();
+      }
+
+      const isItemHighlighted = Boolean(
+        cleanWordHint && (rawWord.toLowerCase() === cleanWordHint || cleanWordHint.includes(rawWord.toLowerCase()))
+      );
+
+      if (rawWord && !items.some((it) => it.word.toLowerCase() === rawWord.toLowerCase())) {
+        items.push({ word: rawWord, pos, ipa, meaning: rawMeaning, isHighlighted: isItemHighlighted });
+      }
+    }
+  }
+
+  // Fallback: If still no items, extract highlighted keywords or choices
+  if (items.length === 0 && q.choices && q.choices.length > 0) {
+    const correctC = q.choices.find(c => c.isCorrect || c.id === q.correctChoiceId) || q.choices[0];
+    if (correctC && cleanHtml(correctC.text).length < 30) {
+      const meaning = q.translation?.answers?.[correctC.id] || '';
+      items.push({
+        word: cleanHtml(correctC.text),
+        pos: '',
+        ipa: '',
+        meaning: meaning || 'Từ vựng cốt lõi của câu hỏi',
+        isHighlighted: true,
+      });
+    }
+  }
+
+  return items;
+}
+
+const ENCOURAGEMENT_PHRASES = [
+  "Tuyệt vời! Bạn nắm rất vững kiến thức này.",
+  "Chính xác! Tiếp tục duy trì phong độ nhé.",
+  "Làm tốt lắm! Sự tập trung của bạn đang mang lại kết quả cao.",
+  "Xuất sắc! Câu trả lời hoàn toàn chính xác.",
+  "Sự cẩn trọng của bạn đã phát huy hiệu quả. Làm tốt lắm!",
+  "Rất tốt! Bạn đang tiến bộ rõ rệt qua từng câu hỏi.",
+  "Chuẩn xác! Hãy giữ vững sự tự tin cho các câu tiếp theo.",
+  "Thật ấn tượng! Bạn đã xử lý câu hỏi này rất mượt mà.",
+];
+
 export default function PracticePage() {
   const { user, isLoading } = useAuthProgress();
   const params = useParams();
@@ -123,6 +293,7 @@ export default function PracticePage() {
   // const relatedTopicId = studyUnit || topicId;
   const relatedTopicId = studyUnit || ((sectionIdParam) ? null : (topicId === '68' ? null : topicId));
 
+  const [hasMounted, setHasMounted] = useState<boolean>(false);
   const [questions, setQuestions] = useState<Question[]>([]);
   const [topicName, setTopicName] = useState<string>('Luyện theo chủ điểm');
   const [sectionId, setSectionId] = useState<string | null>(null);
@@ -137,6 +308,8 @@ export default function PracticePage() {
   const [isSubmitted, setIsSubmitted] = useState<boolean>(false);
   const [isCorrect, setIsCorrect] = useState<boolean>(false);
   const [isRevealed, setIsRevealed] = useState<boolean>(false);
+  const [encouragementMessage, setEncouragementMessage] = useState<string>(ENCOURAGEMENT_PHRASES[0]);
+  const [isDrawerExplanationOpen, setIsDrawerExplanationOpen] = useState<boolean>(true);
   const [retryCount, setRetryCount] = useState<number>(1);
   const [score, setScore] = useState<number>(0);
   const [isTheoryOpen, setIsTheoryOpen] = useState<boolean>(false);
@@ -146,6 +319,10 @@ export default function PracticePage() {
   const [showExplanation, setShowExplanation] = useState<boolean>(true);
   const [zoomedImage, setZoomedImage] = useState<string | null>(null);
   const [activeRelatedTopics, setActiveRelatedTopics] = useState<Array<{ name: string; url: string }>>([]);
+
+  useEffect(() => {
+    setHasMounted(true);
+  }, []);
 
   // Load questions and theory
   useEffect(() => {
@@ -663,6 +840,8 @@ export default function PracticePage() {
 
     if (correct) {
       setScore(prev => prev + 1);
+      const nextPhrase = ENCOURAGEMENT_PHRASES[Math.floor(Math.random() * ENCOURAGEMENT_PHRASES.length)];
+      setEncouragementMessage(nextPhrase);
     }
   };
 
@@ -797,7 +976,7 @@ export default function PracticePage() {
   };
 
   // Access Guard: block unauthenticated or non-approved users from practice questions
-  const isAutomatedTest = typeof window !== 'undefined' && Boolean(window.navigator?.webdriver);
+  const isAutomatedTest = hasMounted && typeof window !== 'undefined' && Boolean(window.navigator?.webdriver);
 
   if (!isAutomatedTest) {
     if (isLoading) {
@@ -998,7 +1177,7 @@ export default function PracticePage() {
                   </div>
                   <div className="question-header-message-content">
                     <span className="question-header-message-content-message font-medium">
-                      Sự cẩn trọng của bạn đã phát huy hiệu quả. Làm tốt lắm!
+                      {encouragementMessage}
                     </span>
                   </div>
                 </div>
@@ -1638,7 +1817,7 @@ export default function PracticePage() {
           {/* Passage Translation if present */}
           {currentQ.passageText && (
             <div className="p-4 bg-[#181a18] rounded-xl border border-[#383c38] space-y-2">
-              <span className="text-xs font-bold text-emerald-400 uppercase tracking-wider">📖 Đoạn văn:</span>
+              <span className="text-xs font-bold text-emerald-400 uppercase tracking-wider block">📖 Đoạn văn:</span>
               <div
                 className="text-xs text-slate-300 leading-relaxed max-h-60 overflow-y-auto pr-1 scrollbar-thin"
                 dangerouslySetInnerHTML={{ __html: currentQ.passageText }}
@@ -1646,30 +1825,179 @@ export default function PracticePage() {
             </div>
           )}
 
-          <div className="translation-content font-bold text-base text-white leading-relaxed">
+          {/* Question Translation Card */}
+          <div className="p-4 bg-[#181a18] rounded-xl border border-[#383c38] space-y-1.5">
+            <span className="text-xs font-bold text-emerald-400 uppercase tracking-wider block">
+              Dịch câu hỏi:
+            </span>
             <div
+              className="translation-content font-semibold text-sm sm:text-base text-white leading-relaxed"
               dangerouslySetInnerHTML={{
                 __html: currentQ.translation?.questionText || currentQ.questionText,
               }}
             />
           </div>
 
-          <div className="translation-answers space-y-3">
-            {currentQ.choices.map((c, i) => (
-              <div
-                key={c.id}
-                className="translation-answer-item p-3.5 bg-[#1e221e] rounded-xl border border-[#383c38] flex items-center gap-3 text-sm shadow-2xs"
-              >
-                <span className="translation-answer-label font-bold text-[#5fbd18] w-6 shrink-0">{c.label || String.fromCharCode(65 + i)}.</span>
-                <span
-                  className="text-white font-medium"
-                  dangerouslySetInnerHTML={{
-                    __html: currentQ.translation?.answers?.[c.id] || c.text,
-                  }}
-                />
+          {/* 4 Bilingual Choice Cards (A, B, C, D) */}
+          {currentQ.choices && currentQ.choices.length > 0 && (
+            <div className="space-y-3">
+              <span className="text-xs font-bold text-emerald-400 uppercase tracking-wider block">
+                Đáp án song ngữ:
+              </span>
+              <div className="space-y-2.5">
+                {currentQ.choices.map((c, i) => {
+                  const letter = c.label || String.fromCharCode(65 + i);
+                  const isRightChoice = c.isCorrect || c.id === currentQ.correctChoiceId;
+                  const viTranslation = currentQ.translation?.answers?.[c.id];
+
+                  return (
+                    <div
+                      key={c.id}
+                      className={`p-3.5 rounded-xl border transition-all ${
+                        isRightChoice
+                          ? 'border-emerald-600/70 bg-emerald-950/30'
+                          : 'border-[#383c38] bg-[#1e221e]'
+                      }`}
+                    >
+                      <div className="flex items-start gap-3">
+                        <div
+                          className={`w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold shrink-0 ${
+                            isRightChoice
+                              ? 'bg-emerald-600 text-white'
+                              : 'bg-[#2a2e2a] text-[#5fbd18] border border-[#383c38]'
+                          }`}
+                        >
+                          {letter}
+                        </div>
+                        <div className="flex-1 min-w-0 space-y-1">
+                          <div
+                            className="text-sm font-semibold text-white leading-snug"
+                            dangerouslySetInnerHTML={{ __html: c.text }}
+                          />
+                          {viTranslation && viTranslation !== c.text && (
+                            <div
+                              className="text-xs text-emerald-300/90 font-normal leading-relaxed pt-0.5"
+                              dangerouslySetInnerHTML={{ __html: viTranslation }}
+                            />
+                          )}
+                        </div>
+                        {isRightChoice && (
+                          <span className="text-[11px] font-bold text-emerald-300 bg-emerald-900/60 border border-emerald-700/60 px-2 py-0.5 rounded shrink-0">
+                            Đáp án đúng
+                          </span>
+                        )}
+                      </div>
+                    </div>
+                  );
+                })}
               </div>
-            ))}
-          </div>
+            </div>
+          )}
+
+          {/* Detailed Explanation Section / Accordion (Only when answer is revealed) */}
+          {isRevealed && (currentQ.explanation || currentQ.ruleTip) && (
+            <div className="rounded-xl border border-[#383c38] bg-[#1a1c1a] overflow-hidden">
+              <button
+                type="button"
+                onClick={() => setIsDrawerExplanationOpen(!isDrawerExplanationOpen)}
+                className="w-full px-4 py-3 bg-[#242824] hover:bg-[#2b302b] flex items-center justify-between text-left transition-colors cursor-pointer"
+              >
+                <div className="flex items-center gap-2">
+                  <Lightbulb className="w-4 h-4 text-amber-400 shrink-0" />
+                  <span className="text-xs font-bold text-white uppercase tracking-wider">
+                    Giải thích chi tiết &amp; Ngữ pháp
+                  </span>
+                </div>
+                <ChevronDown
+                  className={`w-4 h-4 text-slate-400 transition-transform duration-200 ${
+                    isDrawerExplanationOpen ? 'rotate-180' : ''
+                  }`}
+                />
+              </button>
+              {isDrawerExplanationOpen && (
+                <div className="p-4 text-xs text-slate-200 leading-relaxed border-t border-[#383c38] space-y-3">
+                  {currentQ.ruleTip && (
+                    <div className="p-3 bg-amber-950/30 border border-amber-800/40 rounded-lg text-amber-200">
+                      <span className="font-bold text-amber-300 block mb-1">Mẹo làm bài:</span>
+                      <div dangerouslySetInnerHTML={{ __html: currentQ.ruleTip }} />
+                    </div>
+                  )}
+                  {currentQ.explanation && (
+                    <div
+                      className="practice-explanation-html"
+                      dangerouslySetInnerHTML={{ __html: currentQ.explanation }}
+                    />
+                  )}
+                </div>
+              )}
+            </div>
+          )}
+
+          {/* Vocabulary Flashcard Component */}
+          {(() => {
+            const correctChoice = currentQ.choices?.find(c => c.isCorrect || c.id === currentQ.correctChoiceId);
+            const vocabList = extractVocabFromQuestion(currentQ, correctChoice?.text);
+            if (vocabList.length === 0) return null;
+
+            return (
+              <div className="space-y-3">
+                <div className="flex items-center justify-between">
+                  <span className="text-xs font-bold text-emerald-400 uppercase tracking-wider block">
+                    Flashcard từ vựng ({vocabList.length} từ)
+                  </span>
+                  <span className="text-[11px] text-slate-400">Audio US</span>
+                </div>
+                <div className="space-y-2.5">
+                  {vocabList.map((item, vIdx) => (
+                    <div
+                      key={vIdx}
+                      className={`p-3.5 rounded-xl border transition-all ${
+                        item.isHighlighted
+                          ? 'border-emerald-600/70 bg-emerald-950/40 shadow-xs'
+                          : 'border-[#383c38] bg-[#1a1c1a]'
+                      }`}
+                    >
+                      <div className="flex items-start justify-between gap-2 mb-1.5">
+                        <div className="flex items-baseline gap-2 flex-wrap">
+                          <span className="text-sm font-bold text-white tracking-wide">
+                            {item.word}
+                          </span>
+                          {item.pos && (
+                            <span className="text-[11px] font-semibold text-amber-400 bg-amber-950/60 px-1.5 py-0.5 rounded border border-amber-800/40">
+                              {item.pos}
+                            </span>
+                          )}
+                          {item.ipa && (
+                            <span className="text-xs font-mono text-slate-400">
+                              {item.ipa}
+                            </span>
+                          )}
+                        </div>
+                        <button
+                          type="button"
+                          onClick={() => speakText(item.word)}
+                          className="p-1 rounded-full text-slate-400 hover:text-emerald-400 hover:bg-[#252a25] transition-colors shrink-0 cursor-pointer"
+                          title="Nghe phát âm"
+                        >
+                          <Volume2 className="w-3.5 h-3.5" />
+                        </button>
+                      </div>
+                      {item.meaning && (
+                        <p className="text-xs text-slate-200 leading-relaxed font-medium">
+                          {item.meaning}
+                        </p>
+                      )}
+                      {item.example && (
+                        <p className="text-[11px] text-slate-400 italic mt-1 border-l-2 border-emerald-700/60 pl-2">
+                          {item.example}
+                        </p>
+                      )}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            );
+          })()}
         </div>
       </div>
 

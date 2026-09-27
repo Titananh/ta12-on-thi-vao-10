@@ -24,7 +24,7 @@ interface StatsState {
 }
 
 export default function CourseDashboardReport() {
-  const [timeFilter, setTimeFilter] = useState<'7' | '15' | '30'>('7');
+  const [timeFilter, setTimeFilter] = useState<'7d' | '15d' | '30d' | '7' | '15' | '30'>('7d');
   const [stats, setStats] = useState<StatsState>({
     questionsDone: 0,
     quizzesDone: 0,
@@ -43,13 +43,27 @@ export default function CourseDashboardReport() {
       let topicsCount = 0;
       let taxonomiesCount = 0;
 
+      let days = 7;
+      if (timeFilter === '15d' || timeFilter === '15') days = 15;
+      else if (timeFilter === '30d' || timeFilter === '30') days = 30;
+      else if (timeFilter === '7d' || timeFilter === '7') days = 7;
+      const cutoff = Date.now() - days * 86400000;
+
       // Read exam results
       const examSaved = localStorage.getItem('ta12_exam_results');
       if (examSaved) {
         const parsed = JSON.parse(examSaved);
-        const entries = Object.values(parsed) as any[];
-        examCount = entries.length;
-        entries.forEach((e) => {
+        const allEntries = Object.values(parsed) as any[];
+        const filteredEntries = allEntries.filter((e) => {
+          if (!e) return false;
+          const ts = typeof e.completedAt === 'number' ? e.completedAt : (e.completedAt ? new Date(e.completedAt).getTime() : null);
+          if (ts !== null && !isNaN(ts)) {
+            return ts >= cutoff;
+          }
+          return true;
+        });
+        examCount = filteredEntries.length;
+        filteredEntries.forEach((e) => {
           if (e.totalQuestions) qCount += e.totalQuestions;
           if (typeof e.score === 'number') {
             totalScore += (e.score / 10) * 100;
@@ -62,7 +76,16 @@ export default function CourseDashboardReport() {
       const progSaved = localStorage.getItem('ta12_progress');
       if (progSaved) {
         const parsed = JSON.parse(progSaved);
-        topicsCount = Object.keys(parsed).length;
+        const progEntries = Object.entries(parsed).filter(([_, val]: [string, any]) => {
+          if (val && typeof val === 'object') {
+            const ts = typeof val.completedAt === 'number' ? val.completedAt : (val.completedAt ? new Date(val.completedAt).getTime() : (val.lastTrainedAt ? new Date(val.lastTrainedAt).getTime() : null));
+            if (ts !== null && !isNaN(ts)) {
+              return ts >= cutoff;
+            }
+          }
+          return true;
+        });
+        topicsCount = progEntries.length;
         // Each topic practice session is typically 15-20 questions
         qCount += topicsCount * 15;
       }
@@ -71,7 +94,16 @@ export default function CourseDashboardReport() {
       const secSaved = localStorage.getItem('ta12_section_progress');
       if (secSaved) {
         const parsed = JSON.parse(secSaved);
-        taxonomiesCount = Object.keys(parsed).length;
+        const secEntries = Object.values(parsed).filter((sec: any) => {
+          if (sec && typeof sec === 'object') {
+            const ts = typeof sec.completedAt === 'number' ? sec.completedAt : (sec.completedAt ? new Date(sec.completedAt).getTime() : (sec.lastTrainedAt ? new Date(sec.lastTrainedAt).getTime() : null));
+            if (ts !== null && !isNaN(ts)) {
+              return ts >= cutoff;
+            }
+          }
+          return true;
+        });
+        taxonomiesCount = secEntries.length;
       }
 
       const calculatedAccuracy = evaluatedExams > 0 ? Math.round(totalScore / evaluatedExams) : (qCount > 0 ? 90 : 0);
@@ -104,9 +136,9 @@ export default function CourseDashboardReport() {
               onChange={(e) => setTimeFilter(e.target.value as any)}
               className="bg-white dark:bg-[#252825] border border-slate-200 dark:border-[#383c38] text-slate-700 dark:text-slate-200 text-xs font-semibold rounded-lg px-2.5 py-1 pr-6 appearance-none outline-none cursor-pointer focus:border-[#5fbd18]"
             >
-              <option value="7">7 Ngày gần đây</option>
-              <option value="15">15 Ngày gần đây</option>
-              <option value="30">30 Ngày gần đây</option>
+              <option value="7d">7 Ngày gần đây</option>
+              <option value="15d">15 Ngày gần đây</option>
+              <option value="30d">30 Ngày gần đây</option>
             </select>
             <ChevronDown className="w-3.5 h-3.5 text-slate-400 absolute right-1.5 top-1/2 -translate-y-1/2 pointer-events-none" />
           </div>

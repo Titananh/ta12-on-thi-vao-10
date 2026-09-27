@@ -69,6 +69,7 @@ export default function LuyenPhanView() {
   const [selectedSection, setSelectedSection] = useState<SectionItem | null>(null);
   const [isDrillModalOpen, setIsDrillModalOpen] = useState(false);
   const [drillCount, setDrillCount] = useState<number>(10);
+  const [drillDifficulty, setDrillDifficulty] = useState<string>('all');
 
   // Load section progress from LocalStorage
   useEffect(() => {
@@ -83,6 +84,7 @@ export default function LuyenPhanView() {
   const handleOpenDrill = (section: SectionItem) => {
     setSelectedSection(section);
     setDrillCount(10);
+    setDrillDifficulty('all');
     setIsDrillModalOpen(true);
   };
 
@@ -90,7 +92,8 @@ export default function LuyenPhanView() {
     if (!selectedSection) return;
     setIsDrillModalOpen(false);
     // Navigate to practice session configured for this section
-    window.location.href = `/practice/${selectedSection.sectionId}?sectionId=${selectedSection.sectionId}&count=${drillCount}`;
+    const diffQuery = drillDifficulty && drillDifficulty !== 'all' ? `&difficulty=${drillDifficulty}` : '';
+    window.location.href = `/practice/${selectedSection.sectionId}?sectionId=${selectedSection.sectionId}&count=${drillCount}${diffQuery}`;
   };
 
   return (
@@ -154,6 +157,19 @@ export default function LuyenPhanView() {
                 <p className="text-xs text-slate-500 mt-2 leading-relaxed line-clamp-2">
                   {sec.description}
                 </p>
+
+                {/* Difficulty Level Badges */}
+                <div className="flex items-center gap-1.5 mt-2.5 flex-wrap">
+                  <span className="text-[10px] font-semibold text-emerald-800 bg-emerald-50 border border-emerald-200 px-2 py-0.5 rounded-md">
+                    Dễ
+                  </span>
+                  <span className="text-[10px] font-semibold text-amber-800 bg-amber-50 border border-amber-200 px-2 py-0.5 rounded-md">
+                    Trung bình
+                  </span>
+                  <span className="text-[10px] font-semibold text-red-800 bg-red-50 border border-red-200 px-2 py-0.5 rounded-md">
+                    Khó
+                  </span>
+                </div>
 
                 {/* Progress bar */}
                 <div className="mt-4 pt-3 border-t border-slate-100 space-y-1.5">
@@ -247,6 +263,34 @@ export default function LuyenPhanView() {
               <p className="text-xs text-slate-500 pt-1">
                 Ngân hàng có sẵn <strong>{selectedSection.totalQuestions} câu hỏi</strong> được trích xuất từ các đề thi vào 10 Hà Nội qua các năm.
               </p>
+            </div>
+
+            {/* Chọn mức độ khó */}
+            <div className="space-y-2">
+              <label className="text-xs font-bold text-slate-700 uppercase tracking-wider block">
+                Mức độ khó:
+              </label>
+              <div className="grid grid-cols-4 gap-2">
+                {[
+                  { id: 'all', label: 'Tất cả' },
+                  { id: 'easy', label: 'Dễ' },
+                  { id: 'medium', label: 'Trung bình' },
+                  { id: 'hard', label: 'Khó' },
+                ].map((lvl) => (
+                  <button
+                    key={lvl.id}
+                    type="button"
+                    onClick={() => setDrillDifficulty(lvl.id)}
+                    className={`py-2 px-1 rounded-xl text-xs font-bold border text-center transition-all ${
+                      drillDifficulty === lvl.id
+                        ? 'border-emerald-600 bg-emerald-50 text-[#1c581f] ring-2 ring-emerald-500 shadow-xs'
+                        : 'border-slate-200 text-slate-600 hover:bg-slate-50'
+                    }`}
+                  >
+                    {lvl.label}
+                  </button>
+                ))}
+              </div>
             </div>
 
             <div className="flex items-center justify-end gap-2 pt-3 border-t border-slate-100">

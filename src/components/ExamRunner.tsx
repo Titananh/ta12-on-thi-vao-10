@@ -501,6 +501,68 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
     };
   }, [isSubmitted]);
 
+  // Draft restore on mount
+  const isDraftLoadedRef = useRef<boolean>(false);
+
+  useEffect(() => {
+    if (!exam.id) return;
+    try {
+      const draftKey = `ta12_exam_draft_${exam.id}`;
+      const rawDraft = localStorage.getItem(draftKey);
+      if (rawDraft) {
+        const draft = JSON.parse(rawDraft);
+        if (draft && typeof draft === 'object') {
+          if (draft.answers && typeof draft.answers === 'object') {
+            setAnswers(draft.answers);
+          }
+          if (draft.flagged && typeof draft.flagged === 'object') {
+            if (Array.isArray(draft.flagged)) {
+              setBookmarks(new Set(draft.flagged));
+            } else {
+              const flaggedSet = new Set<string | number>();
+              Object.entries(draft.flagged).forEach(([k, v]) => {
+                if (v) flaggedSet.add(k);
+              });
+              setBookmarks(flaggedSet);
+            }
+          } else if (Array.isArray(draft.bookmarks)) {
+            setBookmarks(new Set(draft.bookmarks));
+          }
+          if (typeof draft.timeLeftSeconds === 'number' && draft.timeLeftSeconds > 0) {
+            setTimeLeftSeconds(draft.timeLeftSeconds);
+            endTimeRef.current = Date.now() + draft.timeLeftSeconds * 1000;
+          }
+        }
+      }
+    } catch (e) {
+      // ignore draft load error
+    } finally {
+      isDraftLoadedRef.current = true;
+    }
+  }, [exam.id]);
+
+  // Continuous Draft Auto-Save
+  useEffect(() => {
+    if (!isDraftLoadedRef.current || isSubmitted || !exam.id) return;
+    try {
+      const draftKey = `ta12_exam_draft_${exam.id}`;
+      const flaggedRecord: Record<string, boolean> = {};
+      bookmarks.forEach((id) => {
+        flaggedRecord[String(id)] = true;
+      });
+      const draftPayload = {
+        examId: exam.id,
+        answers,
+        flagged: flaggedRecord,
+        timeLeftSeconds,
+        lastSavedAt: Date.now(),
+      };
+      localStorage.setItem(draftKey, JSON.stringify(draftPayload));
+    } catch (e) {
+      // ignore storage error
+    }
+  }, [answers, bookmarks, timeLeftSeconds, isSubmitted, exam.id]);
+
   // Answer selection handler (Exam Mode: NO instant feedback)
   const handleSelectChoice = (questionId: string | number, choiceId: string | number) => {
     if (isSubmitted) return;
@@ -725,6 +787,13 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
       localStorage.setItem('ta12_user_stats', JSON.stringify(userStats));
     } catch (e) {
       console.error('Failed to update user stats:', e);
+    }
+
+    // Remove in-progress draft from localStorage once submitted
+    try {
+      localStorage.removeItem(`ta12_exam_draft_${exam.id}`);
+    } catch (e) {
+      // ignore
     }
 
     // Scroll to top of review screen

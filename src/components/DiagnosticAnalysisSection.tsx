@@ -27,56 +27,66 @@ interface DiagnosticProps {
   getQuestionResult: (q: ExamQuestion, ans: any) => QuestionResult;
 }
 
-function getQuestionDangBai(q: ExamQuestion): string {
+interface DangBaiItem {
+  name: string;
+  sectionId: string;
+}
+
+interface ChuDiemItem {
+  name: string;
+  topicId: number;
+}
+
+function getQuestionDangBai(q: ExamQuestion): DangBaiItem {
   const text = (q.questionText || '').toLowerCase();
   const passage = (q.passageText || '').toLowerCase();
   const hint = (q.hint || '').toLowerCase();
   const exp = (q.explanation || '').toLowerCase();
 
-  if (q.images && q.images.length > 0) return 'ĐỌC - Hiểu nội dung hình ảnh, biển báo';
-  if (text.includes('sign') || text.includes('notice') || text.includes('biển báo')) return 'ĐỌC - Hiểu nội dung hình ảnh, biển báo';
-  if (passage || text.includes('read the following passage') || text.includes('đọc đoạn văn')) return 'ĐỌC HIỂU - Trả lời câu hỏi đọc hiểu';
-  if (q.fillblankAnswers?.length || text.includes('fillblank-option') || text.includes('chọn từ/cụm từ trong số vài lựa chọn của mỗi chỗ trống')) return 'HOÀN THÀNH ĐOẠN VĂN - Chọn một từ/cụm từ trong số vài lựa chọn của mỗi chỗ trống';
-  if (text.includes('stress') || text.includes('trọng âm') || hint.includes('trọng âm') || exp.includes('trọng âm')) return 'NGỮ ÂM - Trọng âm';
-  if (text.includes('pronounced') || text.includes('underlined part') || text.includes('phát âm') || exp.includes('phát âm')) return 'NGỮ ÂM - Phát âm';
-  if (text.includes('correction') || text.includes('mistake') || text.includes('lỗi sai') || exp.includes('tìm lỗi')) return 'TÌM LỖI SAI - Nhận diện lỗi sai ngữ pháp';
-  if (text.includes('closest in meaning to the original') || text.includes('sát câu gốc') || text.includes('meaning to the following sentence')) return 'VIẾT CÂU - Chọn câu sát câu gốc';
-  if (text.includes('combines') || text.includes('kết hợp câu') || text.includes('combine the sentences')) return 'VIẾT CÂU - Chọn cách tạo câu từ các từ gợi ý';
-  if (text.includes('closest in meaning') || text.includes('opposite in meaning') || text.includes('đồng nghĩa') || text.includes('trái nghĩa')) return 'TỪ VỰNG - Từ đồng nghĩa và trái nghĩa';
-  if (text.includes('–') && (text.includes(':') || text.includes('conversation') || text.includes('hội thoại') || exp.includes('giao tiếp'))) return 'HOÀN THÀNH HỘI THOẠI - Chọn cụm từ/câu để hoàn thành hội thoại 2 lượt lời';
+  if (q.images && q.images.length > 0) return { name: 'ĐỌC - Hiểu nội dung hình ảnh, biển báo', sectionId: 'sign_notices' };
+  if (text.includes('sign') || text.includes('notice') || text.includes('biển báo')) return { name: 'ĐỌC - Hiểu nội dung hình ảnh, biển báo', sectionId: 'sign_notices' };
+  if (passage || text.includes('read the following passage') || text.includes('đọc đoạn văn')) return { name: 'ĐỌC HIỂU - Trả lời câu hỏi đọc hiểu', sectionId: 'reading_comprehension' };
+  if (q.fillblankAnswers?.length || text.includes('fillblank-option') || text.includes('chọn từ/cụm từ trong số vài lựa chọn của mỗi chỗ trống')) return { name: 'HOÀN THÀNH ĐOẠN VĂN - Chọn một từ/cụm từ trong số vài lựa chọn của mỗi chỗ trống', sectionId: 'guided_cloze' };
+  if (text.includes('stress') || text.includes('trọng âm') || hint.includes('trọng âm') || exp.includes('trọng âm')) return { name: 'NGỮ ÂM - Trọng âm', sectionId: 'stress' };
+  if (text.includes('pronounced') || text.includes('underlined part') || text.includes('phát âm') || exp.includes('phát âm')) return { name: 'NGỮ ÂM - Phát âm', sectionId: 'pronunciation' };
+  if (text.includes('correction') || text.includes('mistake') || text.includes('lỗi sai') || exp.includes('tìm lỗi')) return { name: 'TÌM LỖI SAI - Nhận diện lỗi sai ngữ pháp', sectionId: 'error_identification' };
+  if (text.includes('closest in meaning to the original') || text.includes('sát câu gốc') || text.includes('meaning to the following sentence')) return { name: 'VIẾT CÂU - Chọn câu sát câu gốc', sectionId: 'sentence_transformation' };
+  if (text.includes('combines') || text.includes('kết hợp câu') || text.includes('combine the sentences')) return { name: 'VIẾT CÂU - Chọn cách tạo câu từ các từ gợi ý', sectionId: 'sentence_combination' };
+  if (text.includes('closest in meaning') || text.includes('opposite in meaning') || text.includes('đồng nghĩa') || text.includes('trái nghĩa')) return { name: 'TỪ VỰNG - Từ đồng nghĩa và trái nghĩa', sectionId: 'grammar_vocab_cloze' };
+  if (text.includes('–') && (text.includes(':') || text.includes('conversation') || text.includes('hội thoại') || exp.includes('giao tiếp'))) return { name: 'HOÀN THÀNH HỘI THOẠI - Chọn cụm từ/câu để hoàn thành hội thoại 2 lượt lời', sectionId: 'communicative_functions' };
 
-  return 'HOÀN THÀNH CÂU VỀ NGỮ PHÁP - Chọn từ/cụm từ điền vào chỗ trống';
+  return { name: 'HOÀN THÀNH CÂU VỀ NGỮ PHÁP - Chọn từ/cụm từ điền vào chỗ trống', sectionId: 'grammar_vocab_cloze' };
 }
 
-function getQuestionChuDiem(q: ExamQuestion): string {
+function getQuestionChuDiem(q: ExamQuestion): ChuDiemItem {
   const combined = `${q.questionText || ''} ${q.hint || ''} ${q.explanation || ''}`.toLowerCase();
 
-  if (combined.includes('đuôi "ed"') || combined.includes('phát âm ed') || combined.includes('đuôi ed') || combined.includes('-ed')) return 'Phonetics/Đuôi "ed"';
-  if (combined.includes('đuôi "s"') || combined.includes('đuôi "es"') || combined.includes('phát âm s/es') || combined.includes('-s/es')) return 'Phonetics/Đuôi "s"/"es"';
-  if (combined.includes('từ có 2 âm tiết') || combined.includes('2-syllable')) return 'Phonetics/Từ có 2 âm tiết';
-  if (combined.includes('từ có 3 âm tiết') || combined.includes('3-syllable')) return 'Phonetics/Từ có 3 âm tiết';
-  if (combined.includes('câu điều kiện') || combined.includes('conditional') || combined.includes('if type')) return 'Grammar/Câu điều kiện';
-  if (combined.includes('câu ước') || combined.includes('wish')) return 'Grammar/Câu ước (Wish)';
-  if (combined.includes('câu bị động') || combined.includes('passive voice')) return 'Grammar/Câu bị động';
-  if (combined.includes('đại từ quan hệ') || combined.includes('mệnh đề quan hệ') || combined.includes('relative clause')) return 'Grammar/Mệnh đề quan hệ';
-  if (combined.includes('câu gián tiếp') || combined.includes('câu trực tiếp') || combined.includes('reported speech')) return 'Grammar/Câu gián tiếp';
-  if (combined.includes('mạo từ') || combined.includes('articles (a/an/the)')) return 'Grammar/Mạo từ xác định và mạo từ không xác định (a/an/the)';
-  if (combined.includes('liên từ') || combined.includes('conjunctions') || combined.includes('although') || combined.includes('because')) return 'Grammar/Liên từ chỉ nguyên nhân, nhượng bộ';
-  if (combined.includes('so sánh') || combined.includes('comparative') || combined.includes('superlative')) return 'Grammar/Các cấp so sánh';
-  if (combined.includes('câu hỏi đuôi') || combined.includes('tag question')) return 'Grammar/Câu hỏi đuôi (Tag questions)';
-  if (combined.includes('động từ khuyết thiếu') || combined.includes('modal verbs')) return 'Grammar/Động từ khuyết thiếu (Modal verbs)';
-  if (combined.includes('thì hiện tại hoàn thành') || combined.includes('present perfect')) return 'Grammar/Thì hiện tại hoàn thành';
-  if (combined.includes('thì quá khứ đơn') || combined.includes('past simple')) return 'Grammar/Thì quá khứ đơn';
-  if (combined.includes('thì quá khứ tiếp diễn') || combined.includes('past continuous')) return 'Grammar/Thì quá khứ tiếp diễn';
-  if (combined.includes('thì tương lai') || combined.includes('future tense')) return 'Grammar/Thì tương lai đơn và tương lai gần';
-  if (combined.includes('cụm động từ') || combined.includes('phrasal verb')) return 'Vocabulary/Cụm động từ (Phrasal verbs)';
-  if (combined.includes('thành ngữ') || combined.includes('idiom') || combined.includes('tight with money')) return 'Vocabulary/Thành ngữ thông dụng';
-  if (combined.includes('từ đồng nghĩa') || combined.includes('synonym')) return 'Vocabulary/Từ đồng nghĩa';
-  if (combined.includes('từ trái nghĩa') || combined.includes('antonym')) return 'Vocabulary/Từ trái nghĩa';
-  if (combined.includes('collocation') || combined.includes('cụm từ cố định')) return 'Vocabulary/Cụm từ cố định (Collocations)';
-  if (combined.includes('đoạn văn') || combined.includes('đọc hiểu') || combined.includes('main idea')) return 'Reading/Kỹ năng đọc hiểu & tìm ý chính';
+  if (combined.includes('đuôi "ed"') || combined.includes('phát âm ed') || combined.includes('đuôi ed') || combined.includes('-ed')) return { name: 'Phonetics/Đuôi "ed"', topicId: 68 };
+  if (combined.includes('đuôi "s"') || combined.includes('đuôi "es"') || combined.includes('phát âm s/es') || combined.includes('-s/es')) return { name: 'Phonetics/Đuôi "s"/"es"', topicId: 69 };
+  if (combined.includes('từ có 2 âm tiết') || combined.includes('2-syllable')) return { name: 'Phonetics/Từ có 2 âm tiết', topicId: 29 };
+  if (combined.includes('từ có 3 âm tiết') || combined.includes('3-syllable')) return { name: 'Phonetics/Từ có 3 âm tiết', topicId: 30 };
+  if (combined.includes('câu điều kiện') || combined.includes('conditional') || combined.includes('if type')) return { name: 'Grammar/Câu điều kiện', topicId: 126 };
+  if (combined.includes('câu ước') || combined.includes('wish')) return { name: 'Grammar/Câu ước (Wish)', topicId: 141 };
+  if (combined.includes('câu bị động') || combined.includes('passive voice')) return { name: 'Grammar/Câu bị động', topicId: 143 };
+  if (combined.includes('đại từ quan hệ') || combined.includes('mệnh đề quan hệ') || combined.includes('relative clause')) return { name: 'Grammar/Mệnh đề quan hệ', topicId: 151 };
+  if (combined.includes('câu gián tiếp') || combined.includes('câu trực tiếp') || combined.includes('reported speech')) return { name: 'Grammar/Câu gián tiếp', topicId: 114 };
+  if (combined.includes('mạo từ') || combined.includes('articles (a/an/the)')) return { name: 'Grammar/Mạo từ xác định và mạo từ không xác định (a/an/the)', topicId: 109 };
+  if (combined.includes('liên từ') || combined.includes('conjunctions') || combined.includes('although') || combined.includes('because')) return { name: 'Grammar/Liên từ chỉ nguyên nhân, nhượng bộ', topicId: 399 };
+  if (combined.includes('so sánh') || combined.includes('comparative') || combined.includes('superlative')) return { name: 'Grammar/Các cấp so sánh', topicId: 257 };
+  if (combined.includes('câu hỏi đuôi') || combined.includes('tag question')) return { name: 'Grammar/Câu hỏi đuôi (Tag questions)', topicId: 168 };
+  if (combined.includes('động từ khuyết thiếu') || combined.includes('modal verbs')) return { name: 'Grammar/Động từ khuyết thiếu (Modal verbs)', topicId: 313 };
+  if (combined.includes('thì hiện tại hoàn thành') || combined.includes('present perfect')) return { name: 'Grammar/Thì hiện tại hoàn thành', topicId: 429 };
+  if (combined.includes('thì quá khứ đơn') || combined.includes('past simple')) return { name: 'Grammar/Thì quá khứ đơn', topicId: 91 };
+  if (combined.includes('thì quá khứ tiếp diễn') || combined.includes('past continuous')) return { name: 'Grammar/Thì quá khứ tiếp diễn', topicId: 92 };
+  if (combined.includes('thì tương lai') || combined.includes('future tense')) return { name: 'Grammar/Thì tương lai đơn và tương lai gần', topicId: 95 };
+  if (combined.includes('cụm động từ') || combined.includes('phrasal verb')) return { name: 'Vocabulary/Cụm động từ (Phrasal verbs)', topicId: 73 };
+  if (combined.includes('thành ngữ') || combined.includes('idiom') || combined.includes('tight with money')) return { name: 'Vocabulary/Thành ngữ thông dụng', topicId: 74 };
+  if (combined.includes('từ đồng nghĩa') || combined.includes('synonym')) return { name: 'Vocabulary/Từ đồng nghĩa', topicId: 1644 };
+  if (combined.includes('từ trái nghĩa') || combined.includes('antonym')) return { name: 'Vocabulary/Từ trái nghĩa', topicId: 1662 };
+  if (combined.includes('collocation') || combined.includes('cụm từ cố định')) return { name: 'Vocabulary/Cụm từ cố định (Collocations)', topicId: 216 };
+  if (combined.includes('đoạn văn') || combined.includes('đọc hiểu') || combined.includes('main idea')) return { name: 'Reading/Kỹ năng đọc hiểu & tìm ý chính', topicId: 58 };
 
-  return 'Grammar/Cấu trúc câu & Ngữ pháp tổng hợp';
+  return { name: 'Grammar/Cấu trúc câu & Ngữ pháp tổng hợp', topicId: 383 };
 }
 
 export default function DiagnosticAnalysisSection({
@@ -88,11 +98,11 @@ export default function DiagnosticAnalysisSection({
 
   // 1. Group by Dạng bài
   const { dangBaiNeedImprove, dangBaiGood } = useMemo(() => {
-    const groups: Record<string, { name: string; correct: number; wrong: number }> = {};
+    const groups: Record<string, { name: string; sectionId: string; correct: number; wrong: number }> = {};
 
     questions.forEach((q) => {
-      const name = getQuestionDangBai(q);
-      if (!groups[name]) groups[name] = { name, correct: 0, wrong: 0 };
+      const { name, sectionId } = getQuestionDangBai(q);
+      if (!groups[name]) groups[name] = { name, sectionId, correct: 0, wrong: 0 };
 
       const userChoice = answers[String(q.id)];
       const res = getQuestionResult(q, userChoice);
@@ -103,8 +113,8 @@ export default function DiagnosticAnalysisSection({
       }
     });
 
-    const need: Array<{ name: string; correct: number; wrong: number }> = [];
-    const good: Array<{ name: string; correct: number; wrong: number }> = [];
+    const need: Array<{ name: string; sectionId: string; correct: number; wrong: number }> = [];
+    const good: Array<{ name: string; sectionId: string; correct: number; wrong: number }> = [];
 
     Object.values(groups).forEach((g) => {
       if (g.wrong > 0) {
@@ -119,11 +129,11 @@ export default function DiagnosticAnalysisSection({
 
   // 2. Group by Chủ điểm
   const { chuDiemNeedImprove, chuDiemGood } = useMemo(() => {
-    const groups: Record<string, { name: string; correct: number; wrong: number }> = {};
+    const groups: Record<string, { name: string; topicId: number; correct: number; wrong: number }> = {};
 
     questions.forEach((q) => {
-      const name = getQuestionChuDiem(q);
-      if (!groups[name]) groups[name] = { name, correct: 0, wrong: 0 };
+      const { name, topicId } = getQuestionChuDiem(q);
+      if (!groups[name]) groups[name] = { name, topicId, correct: 0, wrong: 0 };
 
       const userChoice = answers[String(q.id)];
       const res = getQuestionResult(q, userChoice);
@@ -134,8 +144,8 @@ export default function DiagnosticAnalysisSection({
       }
     });
 
-    const need: Array<{ name: string; correct: number; wrong: number }> = [];
-    const good: Array<{ name: string; correct: number; wrong: number }> = [];
+    const need: Array<{ name: string; topicId: number; correct: number; wrong: number }> = [];
+    const good: Array<{ name: string; topicId: number; correct: number; wrong: number }> = [];
 
     Object.values(groups).forEach((g) => {
       if (g.wrong > 0) {
@@ -157,8 +167,69 @@ export default function DiagnosticAnalysisSection({
     setSelectedChuDiem(chuDiemNeedImprove.slice(0, 5).map((c) => c.name));
   }, [dangBaiNeedImprove, chuDiemNeedImprove]);
 
-  const handleStartCustomSession = (topics: string[]) => {
-    router.push(`/practice/custom?topics=${encodeURIComponent(topics.join(','))}&count=20`);
+  const handleStartCustomSession = (selectedItems: string[]) => {
+    const topicIdMap: Record<string, number | number[]> = {
+      'Phonetics/Đuôi "ed"': 68,
+      'Phonetics/Đuôi "s"/"es"': 69,
+      'Phonetics/Từ có 2 âm tiết': 29,
+      'Phonetics/Từ có 3 âm tiết': 30,
+      'Grammar/Câu điều kiện': 126,
+      'Grammar/Câu ước (Wish)': 141,
+      'Grammar/Câu bị động': 143,
+      'Grammar/Mệnh đề quan hệ': 151,
+      'Grammar/Câu gián tiếp': 114,
+      'Grammar/Mạo từ xác định và mạo từ không xác định (a/an/the)': 109,
+      'Grammar/Liên từ chỉ nguyên nhân, nhượng bộ': 399,
+      'Grammar/Các cấp so sánh': 257,
+      'Grammar/Câu hỏi đuôi (Tag questions)': 168,
+      'Grammar/Động từ khuyết thiếu (Modal verbs)': 313,
+      'Grammar/Thì hiện tại hoàn thành': 429,
+      'Grammar/Thì quá khứ đơn': 91,
+      'Grammar/Thì quá khứ tiếp diễn': 92,
+      'Grammar/Thì tương lai đơn và tương lai gần': 95,
+      'Vocabulary/Cụm động từ (Phrasal verbs)': 73,
+      'Vocabulary/Thành ngữ thông dụng': 74,
+      'Vocabulary/Từ đồng nghĩa': 1644,
+      'Vocabulary/Từ trái nghĩa': 1662,
+      'Vocabulary/Cụm từ cố định (Collocations)': 216,
+      'Reading/Kỹ năng đọc hiểu & tìm ý chính': 58,
+      'Grammar/Cấu trúc câu & Ngữ pháp tổng hợp': 383,
+      // Section mappings
+      'ĐỌC - Hiểu nội dung hình ảnh, biển báo': [67, 62],
+      'ĐỌC HIỂU - Trả lời câu hỏi đọc hiểu': [58, 62, 67],
+      'HOÀN THÀNH ĐOẠN VĂN - Chọn một từ/cụm từ trong số vài lựa chọn của mỗi chỗ trống': [109, 399, 151],
+      'NGỮ ÂM - Trọng âm': [29, 30],
+      'NGỮ ÂM - Phát âm': [68, 69],
+      'TÌM LỖI SAI - Nhận diện lỗi sai ngữ pháp': [100, 143, 151],
+      'VIẾT CÂU - Chọn câu sát câu gốc': [143, 114, 126],
+      'VIẾT CÂU - Chọn cách tạo câu từ các từ gợi ý': [383, 399],
+      'TỪ VỰNG - Từ đồng nghĩa và trái nghĩa': [1644, 1662, 73],
+      'HOÀN THÀNH HỘI THOẠI - Chọn cụm từ/câu để hoàn thành hội thoại 2 lượt lời': [78, 79, 82],
+      'HOÀN THÀNH CÂU VỀ NGỮ PHÁP - Chọn từ/cụm từ điền vào chỗ trống': [73, 216, 429],
+    };
+
+    const numericTopicIds: number[] = [];
+    selectedItems.forEach((name) => {
+      if (/^\d+$/.test(name)) {
+        numericTopicIds.push(parseInt(name, 10));
+      } else if (topicIdMap[name]) {
+        const val = topicIdMap[name];
+        if (Array.isArray(val)) {
+          numericTopicIds.push(...val);
+        } else {
+          numericTopicIds.push(val);
+        }
+      } else {
+        const found = chuDiemNeedImprove.find((c) => c.name === name);
+        if (found && found.topicId) {
+          numericTopicIds.push(found.topicId);
+        }
+      }
+    });
+
+    const uniqueTopicIds = Array.from(new Set(numericTopicIds));
+    const finalIds = uniqueTopicIds.length > 0 ? uniqueTopicIds : [126, 143, 151];
+    router.push(`/practice/custom?topics=${finalIds.join(',')}&count=20`);
   };
 
   return (
@@ -244,7 +315,7 @@ export default function DiagnosticAnalysisSection({
                       </span>
                       <button
                         type="button"
-                        onClick={() => router.push('/practice/guided_cloze?sectionId=guided_cloze')}
+                        onClick={() => router.push(`/practice/${item.sectionId}?sectionId=${item.sectionId}&count=20`)}
                         className="app-btn-base app-btn-positive-outline px-3 py-1 text-xs font-bold"
                       >
                         Luyện dạng bài này
@@ -363,7 +434,7 @@ export default function DiagnosticAnalysisSection({
                       </span>
                       <button
                         type="button"
-                        onClick={() => router.push('/practice/29')}
+                        onClick={() => router.push(`/practice/${item.topicId}`)}
                         className="app-btn-base app-btn-positive-outline px-3 py-1 text-xs font-bold"
                       >
                         Luyện chủ điểm này

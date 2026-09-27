@@ -47,10 +47,11 @@ export default function PracticeSessionModal({
     });
 
     onClose();
+    const diffQuery = difficulty && difficulty !== 'all' ? `&difficulty=${difficulty}` : '';
     if (selectedTopicIds.length > 0) {
-      router.push(`/practice/custom?topics=${selectedTopicIds.slice(0, 15).join(',')}&count=${questionCount}`);
+      router.push(`/practice/custom?topics=${selectedTopicIds.slice(0, 15).join(',')}&count=${questionCount}${diffQuery}`);
     } else {
-      router.push(`/practice/68?count=${questionCount}`);
+      router.push(`/practice/68?count=${questionCount}${diffQuery}`);
     }
   };
 
@@ -130,6 +131,34 @@ export default function PracticeSessionModal({
                   }`}
                 >
                   {num} câu
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* Mức độ khó */}
+          <div>
+            <label className="block text-sm font-bold text-slate-700 mb-3">
+              Mức độ khó
+            </label>
+            <div className="grid grid-cols-4 gap-2">
+              {[
+                { id: 'all', label: 'Tất cả' },
+                { id: 'easy', label: 'Dễ' },
+                { id: 'medium', label: 'Trung bình' },
+                { id: 'hard', label: 'Khó' },
+              ].map((lvl) => (
+                <button
+                  key={lvl.id}
+                  type="button"
+                  onClick={() => setDifficulty(lvl.id)}
+                  className={`py-2.5 rounded-xl border text-center text-xs sm:text-sm font-bold transition-all ${
+                    difficulty === lvl.id
+                      ? 'border-emerald-600 bg-[#1c581f] text-white shadow-xs'
+                      : 'border-slate-200 hover:bg-slate-50 text-slate-700'
+                  }`}
+                >
+                  {lvl.label}
                 </button>
               ))}
             </div>
