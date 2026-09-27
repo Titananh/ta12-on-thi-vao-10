@@ -55,6 +55,14 @@ const nextConfig = {
       },
     ];
   },
+  async rewrites() {
+    return [
+      { source: '/hoc-on', destination: '/?tab=hoc-on' },
+      { source: '/luyen-de-thi', destination: '/?tab=luyen-de' },
+      { source: '/luyen-theo-dang-bai', destination: '/?tab=luyen-phan' },
+      { source: '/luyen-theo-chuyen-de', destination: '/?tab=luyen-chudiem' },
+    ];
+  },
 };
 
 export default nextConfig;

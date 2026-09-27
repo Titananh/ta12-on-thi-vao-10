@@ -32,8 +32,14 @@ export default function HomePage() {
   useEffect(() => {
     setHasHydrated(true);
     const requestedTab = new URLSearchParams(window.location.search).get('tab');
-    if (requestedTab === 'hoc-on' || requestedTab === 'luyen-de' || requestedTab === 'luyen-phan' || requestedTab === 'luyen-chudiem') {
-      setActiveTab(requestedTab);
+    if (requestedTab === 'hoc-on') {
+      setActiveTab('hoc-on');
+    } else if (requestedTab === 'luyen-de' || requestedTab === 'luyen-de-thi') {
+      setActiveTab('luyen-de');
+    } else if (requestedTab === 'luyen-phan' || requestedTab === 'luyen-theo-dang-bai') {
+      setActiveTab('luyen-phan');
+    } else if (requestedTab === 'luyen-chudiem' || requestedTab === 'luyen-theo-chuyen-de') {
+      setActiveTab('luyen-chudiem');
     } else {
       // User preference: default landing tab in browser is 'luyen-de' (Luyện đề thi)
       setActiveTab('luyen-de');

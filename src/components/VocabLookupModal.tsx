@@ -61,26 +61,26 @@ export default function VocabLookupModal({
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-slate-900/60 backdrop-blur-sm animate-fadeIn">
       <div
-        className="bg-white w-full max-w-4xl max-h-[90vh] rounded-2xl shadow-2xl flex flex-col overflow-hidden border border-slate-100"
+        className="bg-white dark:bg-[#242824] w-full max-w-4xl max-h-[90vh] rounded-2xl shadow-2xl flex flex-col overflow-hidden border border-slate-100 dark:border-[#383c38]"
         role="dialog"
         aria-modal="true"
       >
         {/* Header */}
-        <div className="flex items-center justify-between px-6 py-4 border-b border-slate-100 bg-[#f7faf8]">
+        <div className="flex items-center justify-between px-6 py-4 border-b border-slate-100 dark:border-[#383c38] bg-[#f7faf8] dark:bg-[#1a1d1a]">
           <div className="flex items-center space-x-3">
-            <div className="w-10 h-10 rounded-xl bg-emerald-100 text-emerald-800 flex items-center justify-center font-bold">
+            <div className="w-10 h-10 rounded-xl bg-emerald-100 dark:bg-emerald-950/60 text-emerald-800 dark:text-[#7ed957] flex items-center justify-center font-bold">
               {type === 'vocabulary' ? <BookOpen className="w-5 h-5" /> : <Sparkles className="w-5 h-5" />}
             </div>
             <div>
-              <span className="text-xs font-bold uppercase tracking-wider text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-200">
+              <span className="text-xs font-bold uppercase tracking-wider text-emerald-700 dark:text-[#7ed957] bg-emerald-50 dark:bg-emerald-950/40 px-2 py-0.5 rounded border border-emerald-200 dark:border-emerald-800">
                 {type === 'vocabulary' ? 'Tra cứu từ vựng cốt lõi' : 'Lý thuyết ngữ pháp trọng tâm'}
               </span>
-              <h2 className="text-lg font-bold text-slate-800 mt-0.5 line-clamp-1">{title}</h2>
+              <h2 className="text-lg font-bold text-slate-800 dark:text-white mt-0.5 line-clamp-1">{title}</h2>
             </div>
           </div>
           <button
             onClick={onClose}
-            className="p-2 text-slate-400 hover:text-slate-600 hover:bg-slate-100 rounded-full transition-colors"
+            className="p-2 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-[#383c38] rounded-full transition-colors"
             aria-label="Đóng modal"
           >
             <X className="w-5 h-5" />
@@ -99,45 +99,45 @@ export default function VocabLookupModal({
                   placeholder="Tìm từ vựng hoặc nghĩa..."
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
-                  className="w-full pl-9 pr-4 py-2 text-sm border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-transparent"
+                  className="w-full pl-9 pr-4 py-2 text-sm border border-slate-200 dark:border-[#383c38] rounded-xl focus:outline-none focus:ring-2 focus:ring-emerald-500 focus:border-transparent bg-white dark:bg-[#1a1d1a] text-slate-800 dark:text-white placeholder-slate-400 dark:placeholder-slate-400"
                 />
               </div>
-              <div className="text-xs font-medium text-slate-500 self-end sm:self-center">
-                Hiển thị <span className="font-bold text-[#1c581f]">{filteredItems.length}</span> / {vocabItems.length} từ
+              <div className="text-xs font-medium text-slate-500 dark:text-slate-400 self-end sm:self-center">
+                Hiển thị <span className="font-bold text-[#1c581f] dark:text-[#7ed957]">{filteredItems.length}</span> / {vocabItems.length} từ
               </div>
             </div>
 
             {/* Vocabulary Table */}
             {filteredItems.length > 0 ? (
-              <div className="overflow-x-auto border border-slate-200 rounded-xl shadow-xs">
+              <div className="overflow-x-auto border border-slate-200 dark:border-[#383c38] rounded-xl shadow-xs">
                 <table className="w-full text-left border-collapse text-sm">
                   <thead>
-                    <tr className="bg-[#f2f8f4] text-[#1c581f] border-b border-emerald-200 font-bold">
+                    <tr className="bg-[#f2f8f4] dark:bg-[#1a1d1a] text-[#1c581f] dark:text-[#7ed957] border-b border-emerald-200 dark:border-emerald-800 font-bold">
                       <th className="py-3 px-4 w-[38%]">Từ vựng & Phiên âm</th>
                       <th className="py-3 px-4 w-[32%]">Nghĩa tiếng Việt</th>
                       <th className="py-3 px-4 w-[30%]">Ví dụ ngữ cảnh</th>
                     </tr>
                   </thead>
-                  <tbody className="divide-y divide-slate-100">
+                  <tbody className="divide-y divide-slate-100 dark:divide-[#383c38]">
                     {filteredItems.map((item, idx) => (
-                      <tr key={idx} className="hover:bg-slate-50/80 transition-colors">
+                      <tr key={idx} className="hover:bg-slate-50/80 dark:hover:bg-[#1a1d1a]/60 transition-colors">
                         <td className="py-3 px-4 align-top">
                           <div className="flex items-start justify-between gap-2">
                             <div>
                               <div className="flex items-center gap-1.5 flex-wrap">
-                                <span className="font-bold text-[#1c581f] text-base">{item.word}</span>
-                                <span className="text-[11px] font-semibold text-emerald-700 bg-emerald-50 px-1.5 py-0.5 rounded border border-emerald-200">
+                                <span className="font-bold text-[#1c581f] dark:text-[#7ed957] text-base">{item.word}</span>
+                                <span className="text-[11px] font-semibold text-emerald-700 dark:text-[#7ed957] bg-emerald-50 dark:bg-emerald-950/40 px-1.5 py-0.5 rounded border border-emerald-200 dark:border-emerald-800">
                                   {item.pos}
                                 </span>
                               </div>
-                              <span className="text-xs font-mono text-slate-500 block mt-0.5">{item.ipa}</span>
+                              <span className="text-xs font-mono text-slate-500 dark:text-slate-400 block mt-0.5">{item.ipa}</span>
                             </div>
                             <button
                               onClick={() => handleSpeak(item.word)}
                               className={`p-1.5 rounded-lg transition-colors flex-shrink-0 ${
                                 playingWord === item.word
                                   ? 'bg-emerald-600 text-white animate-pulse'
-                                  : 'text-slate-400 hover:text-emerald-700 hover:bg-emerald-50'
+                                  : 'text-slate-400 hover:text-emerald-700 dark:hover:text-[#7ed957] hover:bg-emerald-50 dark:hover:bg-emerald-950/40'
                               }`}
                               title="Nghe phát âm"
                             >
@@ -145,10 +145,10 @@ export default function VocabLookupModal({
                             </button>
                           </div>
                         </td>
-                        <td className="py-3 px-4 align-top text-slate-700 font-medium leading-relaxed">
+                        <td className="py-3 px-4 align-top text-slate-700 dark:text-slate-200 font-medium leading-relaxed">
                           {item.meaning}
                         </td>
-                        <td className="py-3 px-4 align-top text-xs text-slate-500 italic leading-relaxed">
+                        <td className="py-3 px-4 align-top text-xs text-slate-500 dark:text-slate-400 italic leading-relaxed">
                           {item.example}
                         </td>
                       </tr>
@@ -158,7 +158,7 @@ export default function VocabLookupModal({
               </div>
             ) : (
               <div className="py-12 text-center text-slate-400">
-                <BookOpen className="w-10 h-10 mx-auto mb-2 text-slate-300" />
+                <BookOpen className="w-10 h-10 mx-auto mb-2 text-slate-300 dark:text-slate-600" />
                 <p className="text-sm">Không tìm thấy từ vựng phù hợp với từ khóa.</p>
               </div>
             )}
@@ -168,8 +168,8 @@ export default function VocabLookupModal({
           <div className="flex-1 overflow-y-auto p-6 space-y-6">
             {lessons && lessons.length > 0 ? (
               lessons.map((lesson, idx) => (
-                <div key={idx} className="p-5 rounded-xl border border-slate-200 bg-slate-50/50 space-y-3">
-                  <h3 className="font-bold text-slate-800 text-base flex items-center gap-2">
+                <div key={idx} className="p-5 rounded-xl border border-slate-200 dark:border-[#383c38] bg-slate-50/50 dark:bg-[#1a1d1a]/50 space-y-3">
+                  <h3 className="font-bold text-slate-800 dark:text-white text-base flex items-center gap-2">
                     <span className="w-6 h-6 rounded-full bg-[#1c581f] text-white text-xs flex items-center justify-center font-bold">
                       {idx + 1}
                     </span>
@@ -177,7 +177,7 @@ export default function VocabLookupModal({
                   </h3>
                   {lesson.contentHtml && (
                     <div
-                      className="text-sm text-slate-700 leading-relaxed prose prose-sm max-w-none"
+                      className="text-sm text-slate-700 dark:text-slate-200 leading-relaxed prose prose-sm dark:prose-invert max-w-none"
                       dangerouslySetInnerHTML={{ __html: lesson.contentHtml }}
                     />
                   )}
@@ -185,7 +185,7 @@ export default function VocabLookupModal({
               ))
             ) : (
               <div className="py-12 text-center text-slate-400">
-                <Sparkles className="w-10 h-10 mx-auto mb-2 text-slate-300" />
+                <Sparkles className="w-10 h-10 mx-auto mb-2 text-slate-300 dark:text-slate-600" />
                 <p className="text-sm">Nội dung lý thuyết đang được tải.</p>
               </div>
             )}
@@ -193,10 +193,10 @@ export default function VocabLookupModal({
         )}
 
         {/* Footer Actions */}
-        <div className="flex items-center justify-between px-6 py-3.5 border-t border-slate-100 bg-slate-50/80">
+        <div className="flex items-center justify-between px-6 py-3.5 border-t border-slate-100 dark:border-[#383c38] bg-slate-50/80 dark:bg-[#1a1d1a]">
           <button
             onClick={onClose}
-            className="px-4 py-2 border border-slate-300 text-slate-700 font-semibold rounded-xl text-sm hover:bg-white transition-colors"
+            className="px-4 py-2 border border-slate-300 dark:border-[#383c38] text-slate-700 dark:text-slate-300 font-semibold rounded-xl text-sm hover:bg-white dark:hover:bg-[#242824] transition-colors"
           >
             Đóng
           </button>
