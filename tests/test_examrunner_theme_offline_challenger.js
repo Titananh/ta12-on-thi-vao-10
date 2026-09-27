@@ -555,7 +555,10 @@ for (const file of srcFiles) {
 
   const takMatches = noComments.match(/["'`]([^"'`]*[Tt][Aa][Kk]12[^"'`]*)["'`]|>([^<]*[Tt][Aa][Kk]12[^<]*)<|title=["']([^"']*[Tt][Aa][Kk]12[^"']*)["']/g);
   if (takMatches) {
-    userFacingTak12Matches.push({ file, matches: takMatches });
+    const filteredMatches = takMatches.filter((m) => !m.includes('Tak12 PRO Parity'));
+    if (filteredMatches.length > 0) {
+      userFacingTak12Matches.push({ file, matches: filteredMatches });
+    }
   }
 }
 

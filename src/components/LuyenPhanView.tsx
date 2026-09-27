@@ -165,7 +165,7 @@ export default function LuyenPhanView() {
             Luyện theo dạng bài
           </span>
           <h2 className="text-xl md:text-2xl font-bold text-slate-800 dark:text-white mt-2">
-            10 Dạng Bài Chuẩn Hóa Vào Lớp 10 Môn Tiếng Anh (14 Dạng Bài Chi Tiết)
+            14 Dạng Bài Chuẩn Hóa Vào Lớp 10 Môn Tiếng Anh (14 Dạng Bài Chi Tiết)
           </h2>
           <p className="text-sm text-slate-500 dark:text-slate-400 mt-0.5">
             Ngân hàng {totalAllQuestions.toLocaleString('vi-VN')} câu hỏi phân loại chi tiết theo ma trận đề thi chính thức
