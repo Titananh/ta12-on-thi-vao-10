@@ -20,6 +20,7 @@ import {
 import TheoryModal from '@/components/TheoryModal';
 import ApprovalWaitingScreen from '@/components/ApprovalWaitingScreen';
 import { useAuthProgress } from '@/components/ProgressSyncProvider';
+import { sanitizeExplanationHtml } from '@/lib/sanitizeExplanation';
 
 interface Choice {
   id: string;
@@ -1713,7 +1714,7 @@ export default function PracticePage() {
                   {showExplanation && (
                     <div className="p-5 border-t border-[#383c38] space-y-4 text-sm leading-relaxed text-[#e6e6e6] bg-[#181a18]">
                       <div className="border-b border-slate-200 pb-2">
-                        <div dangerouslySetInnerHTML={{ __html: currentQ.explanation }} />
+                        <div dangerouslySetInnerHTML={{ __html: sanitizeExplanationHtml(currentQ.explanation) }} />
                       </div>
                     </div>
                   )}
@@ -1925,7 +1926,7 @@ export default function PracticePage() {
                   {currentQ.explanation && (
                     <div
                       className="practice-explanation-html"
-                      dangerouslySetInnerHTML={{ __html: currentQ.explanation }}
+                      dangerouslySetInnerHTML={{ __html: sanitizeExplanationHtml(currentQ.explanation) }}
                     />
                   )}
                 </div>

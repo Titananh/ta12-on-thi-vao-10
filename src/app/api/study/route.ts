@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
+import { sanitizeTheoryDetail, getCuratedTheoryHtml } from '@/lib/curatedTheories';
 
 function sanitizeBrand(str: string): string {
   if (!str) return '';
@@ -86,11 +87,44 @@ export async function GET(request: Request) {
   const filteredQuestions = rawQuestions.filter(isAnswerable);
   const finalQuestions = filteredQuestions.length > 0 ? filteredQuestions : rawQuestions;
 
+  const title = theoryData?.title || questionsData?.title || `Chuyên đề #${moduleId}`;
+  const rawLessons = theoryData?.lessons || [];
+  const curatedHtml = getCuratedTheoryHtml(title);
+
+  let sanitizedLessons = rawLessons.map((l: any) => {
+    let contentHtml = sanitizeTheoryDetail(l.contentHtml, title);
+    if (contentHtml) {
+      contentHtml = contentHtml
+        .replace(/<iframe\b[^>]*\bsrc=["'][^"']*(?:canva\.com|cth\.edu\.vn)[^"']*["'][^>]*>[\s\S]*?<\/iframe>/gi, '<div class="offline-embed-note p-3 my-3 rounded-lg border border-[#383c38] bg-[#1e221e] text-sm text-slate-300">Nội dung đa phương tiện đã được chuyển sang chế độ offline.</div>')
+        .replace(/https?:\/\/(?:www\.)?(?:canva\.com|cth\.edu\.vn)[^\s"'>]*/gi, '#');
+    }
+    let embedUrl = l.embedUrl;
+    if (embedUrl && (embedUrl.includes('canva.com') || embedUrl.includes('cth.edu.vn'))) {
+      embedUrl = null;
+    }
+    return {
+      ...l,
+      contentHtml,
+      embedUrl,
+    };
+  });
+
+  if (sanitizedLessons.length === 0 && curatedHtml) {
+    sanitizedLessons = [
+      {
+        order: 1,
+        title: 'Lý thuyết trọng tâm',
+        contentHtml: curatedHtml,
+        embedUrl: null,
+      },
+    ];
+  }
+
   return NextResponse.json({
     moduleId,
     type,
-    title: theoryData?.title || questionsData?.title || `Chuyên đề #${moduleId}`,
-    lessons: theoryData?.lessons || [],
+    title,
+    lessons: sanitizedLessons,
     vocabTable: theoryData?.vocabTable || [],
     totalQuestions: finalQuestions.length,
     questions: finalQuestions

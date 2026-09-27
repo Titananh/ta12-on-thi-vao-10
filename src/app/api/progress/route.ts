@@ -70,11 +70,27 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    const body = await request.json();
+    let body: any;
+    try {
+      body = await request.json();
+      if (!body || typeof body !== 'object') {
+        return NextResponse.json({ error: 'Invalid or missing JSON payload' }, { status: 400 });
+      }
+    } catch {
+      return NextResponse.json({ error: 'Invalid or missing JSON payload' }, { status: 400 });
+    }
 
     const serialize = (val: any) => {
       if (val === undefined || val === null) return undefined;
       return typeof val === 'string' ? val : JSON.stringify(val);
+    };
+
+    const parseCounter = (val: any) => {
+      if (val === undefined || val === null) return undefined;
+      if (typeof val !== 'number' && typeof val !== 'string') return undefined;
+      const num = Number(val);
+      if (isNaN(num)) return undefined;
+      return Math.max(0, Math.floor(num));
     };
 
     saveUserProgress(user.id, {
@@ -82,8 +98,8 @@ export async function POST(request: NextRequest) {
       topic_practice_history: serialize(body.topic_practice_history),
       section_progress: serialize(body.section_progress),
       study_progress: serialize(body.study_progress),
-      streak_flame: typeof body.streak_flame === 'number' ? body.streak_flame : undefined,
-      diamonds: typeof body.diamonds === 'number' ? body.diamonds : undefined,
+      streak_flame: parseCounter(body.streak_flame),
+      diamonds: parseCounter(body.diamonds),
     });
 
     const updated = getUserProgress(user.id);

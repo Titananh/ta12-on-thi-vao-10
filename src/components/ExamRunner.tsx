@@ -25,6 +25,7 @@ import {
 } from 'lucide-react';
 import TheoryModal from '@/components/TheoryModal';
 import DiagnosticAnalysisSection from '@/components/DiagnosticAnalysisSection';
+import { sanitizeExplanationHtml } from '@/lib/sanitizeExplanation';
 
 export interface ExamChoice {
   id: string | number;
@@ -1762,9 +1763,11 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                           <div
                             className="text-sm text-slate-800 dark:text-[#e6e6e6] leading-relaxed space-y-2"
                             dangerouslySetInnerHTML={{
-                              __html: (explanationHtml && explanationHtml.replace(/<[^>]*>/g, '').trim().length > 0)
-                                ? explanationHtml
-                                : q.explanation,
+                              __html: sanitizeExplanationHtml(
+                                (explanationHtml && explanationHtml.replace(/<[^>]*>/g, '').trim().length > 0)
+                                  ? explanationHtml
+                                  : q.explanation
+                              ),
                             }}
                           />
                         </div>
@@ -2007,7 +2010,7 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
         onClose={() => setSelectedTheoryQId(null)}
         questionId={selectedTheoryQId}
         questionDetail={
-          testableQuestions.find((q) => String(q.id) === String(selectedTheoryQId))?.explanation ||
+          sanitizeExplanationHtml(testableQuestions.find((q) => String(q.id) === String(selectedTheoryQId))?.explanation) ||
           testableQuestions.find((q) => String(q.id) === String(selectedTheoryQId))?.hint ||
           null
         }

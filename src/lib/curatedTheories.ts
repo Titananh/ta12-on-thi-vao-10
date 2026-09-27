@@ -209,7 +209,7 @@ export function sanitizeTheoryDetail(detail: string | null | undefined, topicNam
   // embeds are not reliable in production and leave a large blank iframe when
   // blocked by the browser. Preserve the surrounding lesson text and replace
   // only the remote frame with a compact offline notice.
-  return detail.replace(
+  let res = detail.replace(
     /<iframe\b[^>]*\bsrc=["']([^"']+)["'][^>]*>[\s\S]*?<\/iframe>/gi,
     (_match, src: string) => {
       const isLocal = src.startsWith('/') && !src.startsWith('//');
@@ -217,4 +217,15 @@ export function sanitizeTheoryDetail(detail: string | null | undefined, topicNam
       return '<div class="offline-embed-note p-3 my-3 rounded-lg border border-[#383c38] bg-[#1e221e] text-sm text-slate-300">Nội dung đa phương tiện đã được chuyển sang chế độ offline.</div>';
     },
   );
+
+  // Guarantee zero residual Canva or CTH URLs remain in the HTML
+  if (res.includes('canva.com') || res.includes('cth.edu.vn')) {
+    res = res.replace(/https?:\/\/(?:www\.)?(?:canva\.com|cth\.edu\.vn)[^\s"'>]*/gi, '#');
+  }
+
+  return res;
 }
+
+export { sanitizeExplanationHtml } from '@/lib/sanitizeExplanation';
+
+

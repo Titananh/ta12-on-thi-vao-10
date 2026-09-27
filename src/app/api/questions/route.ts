@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
+import { getCuratedTheoryHtml, sanitizeTheoryDetail } from '@/lib/curatedTheories';
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
@@ -219,17 +220,41 @@ export async function GET(request: Request) {
   }
 
   // Check curated grammar theories for high-fidelity content
-  const curatedPath = path.join(dataDir, 'curated_grammar_theories.json');
-  if (fs.existsSync(curatedPath)) {
-    try {
-      const curated = JSON.parse(fs.readFileSync(curatedPath, 'utf8'));
-      if (curated[topicName]) {
-        if (!theory) {
-          theory = { topicId: Number(topicId) || 0, topicName, englishName };
-        }
-        theory.detail = curated[topicName];
+  const curated = getCuratedTheoryHtml(topicName);
+  if (curated) {
+    if (!theory) {
+      theory = { topicId: Number(topicId) || 0, topicName, englishName };
+    }
+    theory.detail = curated;
+  } else if (theory?.detail) {
+    theory.detail = sanitizeTheoryDetail(theory.detail, topicName);
+  }
+
+  // Sanitize theory lessons array to eliminate Canva/cth iframes and embedUrls across all topics
+  if (theory && theory.lessons && Array.isArray(theory.lessons)) {
+    theory.lessons = theory.lessons.map((l: any) => {
+      let contentHtml = sanitizeTheoryDetail(l.contentHtml, topicName);
+      if (contentHtml) {
+        contentHtml = contentHtml
+          .replace(/<iframe\b[^>]*\bsrc=["'][^"']*(?:canva\.com|cth\.edu\.vn)[^"']*["'][^>]*>[\s\S]*?<\/iframe>/gi, '<div class="offline-embed-note p-3 my-3 rounded-lg border border-[#383c38] bg-[#1e221e] text-sm text-slate-300">Nội dung đa phương tiện đã được chuyển sang chế độ offline.</div>')
+          .replace(/https?:\/\/(?:www\.)?(?:canva\.com|cth\.edu\.vn)[^\s"'>]*/gi, '#');
       }
-    } catch (e) {}
+      let embedUrl = l.embedUrl;
+      if (embedUrl && (embedUrl.includes('canva.com') || embedUrl.includes('cth.edu.vn'))) {
+        embedUrl = null;
+      }
+      return {
+        ...l,
+        contentHtml,
+        embedUrl,
+      };
+    });
+  }
+
+  if (theory?.detail) {
+    theory.detail = theory.detail
+      .replace(/<iframe\b[^>]*\bsrc=["'][^"']*(?:canva\.com|cth\.edu\.vn)[^"']*["'][^>]*>[\s\S]*?<\/iframe>/gi, '<div class="offline-embed-note p-3 my-3 rounded-lg border border-[#383c38] bg-[#1e221e] text-sm text-slate-300">Nội dung đa phương tiện đã được chuyển sang chế độ offline.</div>')
+      .replace(/https?:\/\/(?:www\.)?(?:canva\.com|cth\.edu\.vn)[^\s"'>]*/gi, '#');
   }
 
   if (!theory) {
@@ -245,6 +270,12 @@ export async function GET(request: Request) {
         }
       ]
     };
+  }
+
+  if (theory) {
+    theory.topicName = theory.topicName || theory.title || topicName;
+    theory.englishName = theory.englishName || englishName;
+    theory.topicId = theory.topicId || Number(topicId) || 0;
   }
 
   if (theory && (!Array.isArray(theory.rules) || theory.rules.length === 0)) {
