@@ -1661,9 +1661,12 @@ export default function PracticePage() {
                 className="translation-answer-item p-3.5 bg-[#1e221e] rounded-xl border border-[#383c38] flex items-center gap-3 text-sm shadow-2xs"
               >
                 <span className="translation-answer-label font-bold text-[#5fbd18] w-6 shrink-0">{c.label || String.fromCharCode(65 + i)}.</span>
-                <span className="text-white font-medium">
-                  {currentQ.translation?.answers?.[c.id] || c.text}
-                </span>
+                <span
+                  className="text-white font-medium"
+                  dangerouslySetInnerHTML={{
+                    __html: currentQ.translation?.answers?.[c.id] || c.text,
+                  }}
+                />
               </div>
             ))}
           </div>
