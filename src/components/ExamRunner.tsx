@@ -24,6 +24,7 @@ import {
   MessageSquare
 } from 'lucide-react';
 import TheoryModal from '@/components/TheoryModal';
+import DiagnosticAnalysisSection from '@/components/DiagnosticAnalysisSection';
 
 export interface ExamChoice {
   id: string | number;
@@ -1259,6 +1260,13 @@ export default function ExamRunner({ exam }: ExamRunnerProps) {
                 </Link>
               </div>
             </div>
+
+            {/* 100% Tak12 Authentic 2-Tier Diagnostic Analysis: By Dạng bài & By Chủ điểm */}
+            <DiagnosticAnalysisSection
+              questions={testableQuestions}
+              answers={answers}
+              getQuestionResult={getQuestionResult}
+            />
 
             {/* Filter Tabs for Review Questions */}
             <div className="flex flex-wrap items-center gap-2 bg-white dark:bg-[#242824] p-3 rounded-2xl border border-slate-200 dark:border-[#383c38]">

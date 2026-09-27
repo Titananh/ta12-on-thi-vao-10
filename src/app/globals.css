@@ -514,6 +514,60 @@ body {
   right: 0;
 }
 
+.translation-sheet .sidebar-header {
+  padding: 16px;
+  border-bottom: 1px solid #383c38;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #1f231f;
+}
+
+.translation-sheet .sidebar-header h3 {
+  font-size: 18px;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0;
+}
+
+.translation-sheet .sidebar-content {
+  padding: 20px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.translation-sheet .translation-content {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.6;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.translation-sheet .translation-answers {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.translation-sheet .translation-answer-item {
+  padding: 12px 14px;
+  background-color: #1e221e;
+  border: 1px solid #383c38;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  color: #e6e6e6;
+}
+
+.translation-sheet .translation-answer-label {
+  font-weight: 700;
+  color: #5fbd18;
+  min-width: 24px;
+}
+
 /* ==========================================================================
    TA12 FillBlank & Select Dropdown Styles (Light & Dark Mode)
    ========================================================================== */

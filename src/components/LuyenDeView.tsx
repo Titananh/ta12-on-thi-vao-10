@@ -8,6 +8,8 @@ import cat1687Data from '../../data/exams/category_1687.json';
 import cat1489Data from '../../data/exams/category_1489.json';
 import cat1263Data from '../../data/exams/category_1263.json';
 import cat170Data from '../../data/exams/category_170.json';
+import CourseDashboardReport from './CourseDashboardReport';
+import ExamGuideSidebar from './ExamGuideSidebar';
 
 interface ExamItem {
   id: number;
@@ -100,6 +102,9 @@ export default function LuyenDeView() {
 
   return (
     <div className="space-y-5">
+      {/* 100% Tak12 Authentic Course Dashboard Statistics & Recommendations */}
+      <CourseDashboardReport />
+
       <div className="flex flex-col gap-3 rounded-md border border-slate-200 bg-white p-3 shadow-sm dark:border-[#383c38] dark:bg-[#242824] sm:flex-row sm:items-center sm:justify-between">
         <div className="flex min-w-0 items-center gap-2 overflow-x-auto pb-0.5">
           <span className="shrink-0 text-xs font-extrabold uppercase tracking-wide text-[#1c581f] dark:text-emerald-300">Luyện đề thi</span>
@@ -110,10 +115,16 @@ export default function LuyenDeView() {
       </div>
 
       <div className="grid grid-cols-1 items-start gap-5 lg:grid-cols-12">
-        <div className="space-y-7 lg:col-span-12">
+        {/* Main Column: 5 Categories */}
+        <div className="space-y-7 lg:col-span-8 xl:col-span-9">
           {visibleCategories.map((category) => { const expanded = expandedCategories[String(category.id)] || selectedCatId === category.id || Boolean(searchTerm.trim()); const displayed = expanded ? category.data : category.data.slice(0, 5); return <section key={category.id}><div className="mb-2 flex items-center gap-2"><span className="rounded-full bg-[#f0f9e8] px-2 py-1 text-[10px] font-bold text-[#5fbd18] dark:bg-[#24351f]">{category.data.length} bài</span><h2 className="text-sm font-extrabold text-[#1c581f] dark:text-emerald-300">{category.name}</h2></div><div className="space-y-1.5">{displayed.map((exam) => <ExamRow key={exam.id} exam={exam} result={examResults[String(exam.id)]} />)}</div>{!expanded && category.data.length > displayed.length && <button type="button" onClick={() => setExpandedCategories((current) => ({ ...current, [String(category.id)]: true }))} className="mt-2 float-right rounded bg-[#a9dc36] px-4 py-1 text-[11px] font-extrabold text-[#315400] hover:bg-[#96cd1f]">Xem thêm &gt;&gt;</button>}<div className="clear-both" /></section>; })}
           {totalVisible === 0 && <div className="rounded-md border border-slate-200 bg-white p-10 text-center text-sm text-slate-500 dark:border-[#383c38] dark:bg-[#242824] dark:text-slate-300">Không tìm thấy đề thi phù hợp với “{searchTerm}”.</div>}
         </div>
+
+        {/* Right Sidebar: Hướng dẫn ôn luyện */}
+        <aside className="lg:col-span-4 xl:col-span-3 space-y-4">
+          <ExamGuideSidebar />
+        </aside>
       </div>
     </div>
   );

@@ -988,20 +988,42 @@ export default function PracticePage() {
             Câu {currentIndex + 1}
           </span>
 
-          {/* Subheader Banner: Bạn trả lời chính xác / chưa chính xác */}
+          {/* Subheader Banner: Sự cẩn trọng / Chưa chính xác */}
           {isSubmitted && isRevealed && (
-            <div className="animate-in fade-in duration-200">
+            <div className="animate-in fade-in duration-200 flex items-center gap-2.5">
               {isCorrect ? (
-                <div className="flex items-center gap-1.5 text-sm font-semibold text-[#22be34] bg-[#22be34]/15 px-3 py-1 rounded-full border border-[#22be34]/30">
-                  <Check className="w-4 h-4 text-[#22be34]" />
-                  <span>Bạn trả lời chính xác!</span>
+                <div className="question-header-message message-box correct flex items-center gap-2 text-xs sm:text-sm font-semibold text-[#22be34] bg-[#22be34]/15 px-3.5 py-1 rounded-full border border-[#22be34]/30 shadow-2xs">
+                  <div className="dynamic-feedback-icon-wrap flex items-center justify-center w-4 h-4 rounded-full bg-[#22be34] text-white shrink-0">
+                    <Check className="w-3 h-3 stroke-[3]" />
+                  </div>
+                  <div className="question-header-message-content">
+                    <span className="question-header-message-content-message font-medium">
+                      Sự cẩn trọng của bạn đã phát huy hiệu quả. Làm tốt lắm!
+                    </span>
+                  </div>
                 </div>
               ) : (
-                <div className="flex items-center gap-1.5 text-sm font-semibold text-[#db2828] bg-[#db2828]/15 px-3 py-1 rounded-full border border-[#db2828]/30">
-                  <X className="w-4 h-4 text-[#db2828]" />
-                  <span>Bạn trả lời chưa chính xác!</span>
+                <div className="question-header-message message-box incorrect flex items-center gap-2 text-xs sm:text-sm font-semibold text-[#db2828] bg-[#db2828]/15 px-3.5 py-1 rounded-full border border-[#db2828]/30 shadow-2xs">
+                  <div className="dynamic-feedback-icon-wrap flex items-center justify-center w-4 h-4 rounded-full bg-[#db2828] text-white shrink-0">
+                    <X className="w-3 h-3 stroke-[3]" />
+                  </div>
+                  <div className="question-header-message-content">
+                    <span className="question-header-message-content-message font-medium">
+                      Chưa chính xác. Cùng xem giải thích để hiểu rõ hơn nhé!
+                    </span>
+                  </div>
                 </div>
               )}
+
+              {/* Header Next Button (Tak12 fast forward) */}
+              <button
+                type="button"
+                onClick={handleNextQuestion}
+                data-testid="next-question-btn-header"
+                className="app-btn-base app-btn-positive-outline px-3.5 py-1 text-xs font-bold shrink-0"
+              >
+                <span>{currentIndex === questions.length - 1 ? 'Xem kết quả' : 'Next'}</span>
+              </button>
             </div>
           )}
 
@@ -1534,16 +1556,19 @@ export default function PracticePage() {
                 <button
                   onClick={handleNextQuestion}
                   data-testid={`next-question-btn-${currentQ.id}`}
-                  className="app-btn-base app-btn-positive-outline"
+                  className="app-btn-base app-btn-positive-outline app-btn-md-2 submit-btn"
                 >
-                  <span>{currentIndex === questions.length - 1 ? 'Xem kết quả' : 'Tiếp theo'}</span>
+                  <span>{currentIndex === questions.length - 1 ? 'Xem kết quả' : 'Next'}</span>
                 </button>
 
                 <button
                   onClick={() => setIsTranslationOpen(true)}
-                  className="app-btn-base app-btn-default-outline flex items-center gap-2"
+                  className="app-btn-base app-btn-default-outline app-btn-md-2 flex items-center gap-2"
                 >
-                  <Languages className="w-4 h-4" />
+                  <svg fill="currentColor" width="1em" height="1em" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M478.33,433.6l-90-218a22,22,0,0,0-40.67,0l-90,218a22,22,0,1,0,40.67,16.79L316.66,406H419.33l18.33,44.39A22,22,0,0,0,458,464a22,22,0,0,0,20.32-30.4ZM334.83,362,368,281.65,401.17,362Z"></path>
+                    <path d="M267.84,342.92a22,22,0,0,0-4.89-30.7c-.2-.15-15-11.13-36.49-34.73,39.65-53.68,62.11-114.75,71.27-143.49H330a22,22,0,0,0,0-44H214V70a22,22,0,0,0-44,0V90H54a22,22,0,0,0,0,44H251.25c-9.52,26.95-27.05,69.5-53.79,108.36-31.41-41.68-43.08-68.65-43.17-68.87a22,22,0,0,0-40.58,17c.58,1.38,14.55,34.23,52.86,83.93.92,1.19,1.83,2.35,2.74,3.51-39.24,44.35-77.74,71.86-93.85,80.74a22,22,0,1,0,21.07,38.63c2.16-1.18,48.6-26.89,101.63-85.59,22.52,24.08,38,35.44,38.93,36.1a22,22,0,0,0,30.75-4.9Z"></path>
+                  </svg>
                   <span>Xem bản dịch</span>
                 </button>
               </div>
@@ -1593,19 +1618,23 @@ export default function PracticePage() {
       </button>
 
       {/* Slide-out Translation Sheet Drawer (100% Tak12 Authentic Drawer) */}
-      <div className={`translation-sheet ${isTranslationOpen ? 'open' : ''}`}>
-        <div className="p-4 border-b border-[#383c38] flex items-center justify-between bg-[#1f231f]">
-          <h3 className="font-bold text-lg text-white">Bản dịch</h3>
-          <button
-            onClick={() => setIsTranslationOpen(false)}
-            className="p-1.5 text-slate-400 hover:text-white rounded-lg hover:bg-[#2a2e2a] transition-colors cursor-pointer"
-            aria-label="Đóng"
-          >
-            <X className="w-5 h-5" />
-          </button>
+      <div className={`translation-sheet ${isTranslationOpen ? 'open' : ''} translation-sheet--right`}>
+        <div className="sidebar-header p-4 border-b border-[#383c38] flex items-center justify-between bg-[#1f231f]">
+          <div className="header-title">
+            <h3 className="font-bold text-lg text-white">Bản dịch</h3>
+          </div>
+          <div className="header-title-right flex items-center gap-1.5">
+            <button
+              onClick={() => setIsTranslationOpen(false)}
+              className="close-button p-1.5 text-slate-400 hover:text-white rounded-lg hover:bg-[#2a2e2a] transition-colors cursor-pointer"
+              aria-label="Đóng"
+            >
+              <X className="w-5 h-5" />
+            </button>
+          </div>
         </div>
 
-        <div className="p-6 overflow-y-auto flex-1 space-y-6 text-[#e6e6e6]">
+        <div className="sidebar-content p-6 overflow-y-auto flex-1 space-y-6 text-[#e6e6e6]" style={{ paddingBottom: '100px' }}>
           {/* Passage Translation if present */}
           {currentQ.passageText && (
             <div className="p-4 bg-[#181a18] rounded-xl border border-[#383c38] space-y-2">
@@ -1617,21 +1646,22 @@ export default function PracticePage() {
             </div>
           )}
 
-          <div
-            className="font-bold text-base text-white leading-relaxed"
-            dangerouslySetInnerHTML={{
-              __html: currentQ.translation?.questionText || currentQ.questionText,
-            }}
-          />
+          <div className="translation-content font-bold text-base text-white leading-relaxed">
+            <div
+              dangerouslySetInnerHTML={{
+                __html: currentQ.translation?.questionText || currentQ.questionText,
+              }}
+            />
+          </div>
 
-          <div className="space-y-3">
+          <div className="translation-answers space-y-3">
             {currentQ.choices.map((c, i) => (
               <div
                 key={c.id}
-                className="p-3 bg-[#1e221e] rounded-lg border border-[#383c38] flex items-center gap-3 text-sm"
+                className="translation-answer-item p-3.5 bg-[#1e221e] rounded-xl border border-[#383c38] flex items-center gap-3 text-sm shadow-2xs"
               >
-                <span className="font-bold text-[#5fbd18]">{String.fromCharCode(65 + i)}.</span>
-                <span className="text-white">
+                <span className="translation-answer-label font-bold text-[#5fbd18] w-6 shrink-0">{c.label || String.fromCharCode(65 + i)}.</span>
+                <span className="text-white font-medium">
                   {currentQ.translation?.answers?.[c.id] || c.text}
                 </span>
               </div>
