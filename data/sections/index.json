@@ -1,82 +1,112 @@
 [
   {
+    "taxonomyId": 6,
     "sectionId": "pronunciation",
+    "skill": "NGỮ ÂM",
     "sectionName": "Phát âm (Pronunciation)",
     "description": "Luyện tập phát âm đuôi -ed, -s/es, các nguyên âm và phụ âm thường gặp trong đề thi vào 10 Hà Nội",
     "icon": "volume-2",
-    "totalQuestions": 274,
-    "examCount": 137
+    "totalQuestions": 3487,
+    "examCount": 137,
+    "isDeHN": false
   },
   {
+    "taxonomyId": 7,
     "sectionId": "stress",
+    "skill": "NGỮ ÂM",
     "sectionName": "Trọng âm (Word Stress)",
     "description": "Luyện tập quy tắc trọng âm từ 2 âm tiết và 3 âm tiết chuẩn cấu trúc thi",
     "icon": "sparkles",
-    "totalQuestions": 280,
-    "examCount": 138
+    "totalQuestions": 1518,
+    "examCount": 138,
+    "isDeHN": false
   },
   {
+    "taxonomyId": 21,
     "sectionId": "error_identification",
+    "skill": "TÌM LỖI SAI",
     "sectionName": "Tìm lỗi sai (Error Identification)",
     "description": "Nhận diện lỗi sai về thì của động từ, đại từ quan hệ, sự hòa hợp chủ - vị và ngữ pháp trọng tâm",
     "icon": "alert-circle",
     "totalQuestions": 236,
-    "examCount": 79
+    "examCount": 79,
+    "isDeHN": false
   },
   {
+    "taxonomyId": 11,
     "sectionId": "communicative_functions",
+    "skill": "HOÀN THÀNH HỘI THOẠI",
     "sectionName": "Chức năng giao tiếp (Communicative Exchanges)",
     "description": "Đáp lại lời khen, lời mời, lời đề nghị, cảm ơn và các tình huống giao tiếp thường ngày",
     "icon": "message-circle",
-    "totalQuestions": 191,
-    "examCount": 109
+    "totalQuestions": 2267,
+    "examCount": 109,
+    "isDeHN": false
   },
   {
+    "taxonomyId": 304,
     "sectionId": "sign_notices",
+    "skill": "ĐỌC",
     "sectionName": "Đọc hiểu biển báo & Thông báo (Signs & Notices)",
-    "description": "Dạng bài mới nhận diện ý nghĩa biển báo công cộng, thông báo trường học và tờ rơi",
+    "description": "Dạng bài nhận diện ý nghĩa biển báo công cộng, thông báo trường học và tờ rơi",
     "icon": "info",
-    "totalQuestions": 141,
-    "examCount": 68
+    "totalQuestions": 1442,
+    "examCount": 68,
+    "isDeHN": false
   },
   {
+    "taxonomyId": 4,
     "sectionId": "grammar_vocab_cloze",
+    "skill": "HOÀN THÀNH CÂU VỀ NGỮ PHÁP",
     "sectionName": "Trắc nghiệm Ngữ pháp & Từ vựng (Grammar & Vocab)",
     "description": "Câu hỏi trắc nghiệm đơn lẻ về từ vựng, từ đồng nghĩa/trái nghĩa, cụm động từ và thì ngữ pháp",
     "icon": "book-open",
-    "totalQuestions": 1484,
-    "examCount": 138
+    "totalQuestions": 15195,
+    "examCount": 138,
+    "isDeHN": false
   },
   {
+    "taxonomyId": 16,
     "sectionId": "guided_cloze",
+    "skill": "HOÀN THÀNH ĐOẠN VĂN",
     "sectionName": "Điền từ vào đoạn văn (Guided Cloze)",
     "description": "Điền liên từ, mạo từ, đại từ quan hệ và giới từ thích hợp vào các chỗ trống trong đoạn văn",
     "icon": "edit-3",
-    "totalQuestions": 207,
-    "examCount": 123
+    "totalQuestions": 2316,
+    "examCount": 123,
+    "isDeHN": false
   },
   {
+    "taxonomyId": 17,
     "sectionId": "reading_comprehension",
+    "skill": "ĐỌC",
     "sectionName": "Đọc hiểu văn bản (Reading Comprehension)",
-    "description": "Đọc hiểu các chủ đề đời sống, môi trường, công nghệ và trả lời câu hỏi tìm ý chính, chi tiết",
+    "description": "Đọc văn bản phi hư cấu và trả lời câu hỏi dạng trắc nghiệm với ngân hàng câu hỏi chuyên sâu",
     "icon": "file-text",
-    "totalQuestions": 759,
-    "examCount": 135
+    "totalQuestions": 7675,
+    "examCount": 138,
+    "isDeHN": false
   },
   {
+    "taxonomyId": 14,
     "sectionId": "sentence_transformation",
-    "sectionName": "Viết lại câu đồng nghĩa (Sentence Transformation)",
-    "description": "Chuyển đổi câu bị động, câu điều kiện, câu tường thuật, so sánh và cấu trúc tương đương",
+    "skill": "VIẾT CÂU",
+    "sectionName": "Viết lại câu (Sentence Transformation)",
+    "description": "Chọn câu sát câu gốc sử dụng câu điều kiện, câu bị động, câu gián tiếp và so sánh",
     "icon": "repeat",
-    "totalQuestions": 635,
-    "examCount": 138
+    "totalQuestions": 2341,
+    "examCount": 115,
+    "isDeHN": true
   },
   {
+    "taxonomyId": 246,
     "sectionId": "sentence_combination",
-    "sectionName": "Kết hợp & Sắp xếp câu (Sentence Combination)",
-    "description": "Kết hợp hai câu đơn thành một câu phức và sắp xếp lại các từ xáo trộn để tạo câu hoàn chỉnh",
+    "skill": "VIẾT CÂU",
+    "sectionName": "Kết hợp câu (Sentence Combination)",
+    "description": "Chọn cách tạo câu từ các từ gợi ý và liên từ thích hợp",
     "icon": "layers",
-    "totalQuestions": 353,
-    "examCount": 119
+    "totalQuestions": 711,
+    "examCount": 80,
+    "isDeHN": true
   }
 ]
