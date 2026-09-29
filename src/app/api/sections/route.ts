@@ -71,6 +71,31 @@ export async function GET(request: Request) {
     const raw = fs.readFileSync(sectionFilePath, 'utf8');
     const sectionData = JSON.parse(sanitizeBrand(raw));
 
+    // Match exact taxonomy metadata from index.json if available
+    let exactSkill = sectionData.skill || '';
+    let exactSectionName = sectionData.sectionName || '';
+    let exactDescription = sectionData.description || '';
+    let matchedTaxonomyId = taxonomyParam ? parseInt(taxonomyParam, 10) : undefined;
+
+    if (fs.existsSync(indexPath)) {
+      try {
+        const rawIndex = fs.readFileSync(indexPath, 'utf8');
+        const catalog = JSON.parse(rawIndex);
+        const match = catalog.find((item: any) => {
+          if (taxonomyParam && String(item.taxonomyId) === String(taxonomyParam)) return true;
+          if (sectionId && String(item.sectionId) === String(sectionId) && (!taxonomyParam || String(item.taxonomyId) === String(taxonomyParam))) return true;
+          if (String(item.taxonomyId) === rawId) return true;
+          return false;
+        });
+        if (match) {
+          exactSkill = match.skill || exactSkill;
+          exactSectionName = match.sectionName || exactSectionName;
+          exactDescription = match.description || exactDescription;
+          matchedTaxonomyId = match.taxonomyId;
+        }
+      } catch (e) {}
+    }
+
     let questions = sectionData.questions || [];
     if (count && count < questions.length) {
       let pinnedId: string | null = null;
@@ -87,14 +112,29 @@ export async function GET(request: Request) {
       questions = targetQ ? [targetQ, ...shuffled.slice(0, count - 1)] : shuffled.slice(0, count);
     }
 
+    // Load section theory if exists
+    let theory: any = null;
+    const theoryPath = path.join(dataDir, 'theories', 'sections', `${mappedFileId}.json`);
+    if (fs.existsSync(theoryPath)) {
+      try {
+        theory = JSON.parse(fs.readFileSync(theoryPath, 'utf8'));
+      } catch (e) {}
+    }
+
+    const title = exactSkill ? `${exactSkill} - ${exactSectionName}` : exactSectionName;
+
     return NextResponse.json({
-      sectionId: sectionData.sectionId,
-      sectionName: sectionData.sectionName,
-      description: sectionData.description,
+      sectionId: mappedFileId,
+      taxonomyId: matchedTaxonomyId,
+      skill: exactSkill,
+      sectionName: exactSectionName,
+      title,
+      description: exactDescription,
       icon: sectionData.icon,
       totalAvailable: (sectionData.questions || []).length,
       count: questions.length,
-      questions
+      questions,
+      theory
     });
   } catch (e: any) {
     return NextResponse.json({ error: 'Failed to read section questions', details: e.message }, { status: 500 });

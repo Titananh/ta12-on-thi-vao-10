@@ -6,17 +6,59 @@ import { getCuratedTheoryHtml, sanitizeTheoryDetail } from '@/lib/curatedTheorie
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
   const rawTopicId = searchParams.get('topicId') || '68';
+
+  const SECTION_FALLBACK_MAP: Record<string, string> = {
+    'pronunciation': 'pronunciation',
+    'stress': 'stress',
+    'grammar_vocab_cloze': 'grammar_vocab_cloze',
+    'guided_cloze': 'guided_cloze',
+    'communicative_functions': 'communicative_functions',
+    'sign_notices': 'sign_notices',
+    'reading_comprehension': 'reading_comprehension',
+    'sentence_transformation': 'sentence_transformation',
+    'sentence_combination': 'sentence_combination',
+    'error_identification': 'error_identification',
+  };
+
+  const dataDir = path.join(process.cwd(), 'data');
+  const questionsDir = path.join(dataDir, 'questions');
+  const theoriesDir = path.join(dataDir, 'theories');
+  const taxonomyPath = path.join(dataDir, 'taxonomy.json');
+
+  // If topicId is a known section name, serve questions from data/sections/ directly
+  if (SECTION_FALLBACK_MAP[rawTopicId]) {
+    const secFile = path.join(dataDir, 'sections', `${SECTION_FALLBACK_MAP[rawTopicId]}.json`);
+    if (fs.existsSync(secFile)) {
+      try {
+        const secData = JSON.parse(fs.readFileSync(secFile, 'utf8'));
+        let qs = secData.questions || [];
+        const countParam = searchParams.get('count');
+        const count = countParam ? Math.min(Math.max(parseInt(countParam, 10) || 15, 1), 50) : 20;
+        if (qs.length > count) {
+          const shuffled = [...qs];
+          for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+          }
+          qs = shuffled.slice(0, count);
+        }
+        return NextResponse.json({
+          topicId: rawTopicId,
+          topicName: secData.sectionName || rawTopicId,
+          englishName: rawTopicId,
+          questions: qs,
+          theory: null
+        });
+      } catch (e) {}
+    }
+  }
+
   // Strictly validate topicId to prevent path traversal
   const isCustom = rawTopicId === 'custom';
   const topicId = isCustom ? 'custom' : (/^\d+$/.test(rawTopicId) ? rawTopicId : '68');
   const countParam = searchParams.get('count');
   const count = countParam ? Math.min(Math.max(parseInt(countParam, 10) || 15, 1), 50) : null;
   const topicsParam = searchParams.get('topics');
-
-  const dataDir = path.join(process.cwd(), 'data');
-  const questionsDir = path.join(dataDir, 'questions');
-  const theoriesDir = path.join(dataDir, 'theories');
-  const taxonomyPath = path.join(dataDir, 'taxonomy.json');
 
   let topicName = `Chuyên đề #${topicId}`;
   let englishName = '';

@@ -377,14 +377,61 @@ export default function PracticePage() {
           }
         }
 
-        const secId = searchParams.get('sectionId');
+        const secIdParam = searchParams.get('sectionId');
+        const taxonomyIdParam = searchParams.get('taxonomyId');
         const count = searchParams.get('count');
         const topics = searchParams.get('topics');
 
-        if (secId) {
-          setSectionId(secId);
-          let secUrl = `/api/sections?sectionId=${encodeURIComponent(secId)}`;
+        const KNOWN_SECTIONS = [
+          'pronunciation',
+          'stress',
+          'grammar_vocab_cloze',
+          'guided_cloze',
+          'communicative_functions',
+          'sign_notices',
+          'reading_comprehension',
+          'sentence_transformation',
+          'sentence_combination',
+          'error_identification',
+        ];
+
+        const TAXONOMY_MAP: Record<string, string> = {
+          '6': 'pronunciation',
+          '7': 'stress',
+          '4': 'grammar_vocab_cloze',
+          '537': 'grammar_vocab_cloze',
+          '457': 'guided_cloze',
+          '242': 'guided_cloze',
+          '16': 'guided_cloze',
+          '11': 'communicative_functions',
+          '456': 'sign_notices',
+          '304': 'sign_notices',
+          '224': 'sign_notices',
+          '17': 'reading_comprehension',
+          '14': 'sentence_transformation',
+          '246': 'sentence_combination',
+        };
+
+        const isSectionRoute =
+          Boolean(secIdParam) ||
+          Boolean(taxonomyIdParam) ||
+          KNOWN_SECTIONS.includes(topicId) ||
+          Boolean(TAXONOMY_MAP[topicId]);
+
+        if (isSectionRoute) {
+          const resolvedTaxId = taxonomyIdParam || (TAXONOMY_MAP[topicId] ? topicId : null);
+          const resolvedSecId = secIdParam || (KNOWN_SECTIONS.includes(topicId) ? topicId : (resolvedTaxId ? TAXONOMY_MAP[resolvedTaxId] : null));
+
+          setSectionId(resolvedSecId || 'section');
+
+          const diff = searchParams.get('difficulty');
+          const mode = searchParams.get('mode');
+
+          let secUrl = `/api/sections?sectionId=${encodeURIComponent(resolvedSecId || '')}`;
+          if (resolvedTaxId) secUrl += `&taxonomyId=${encodeURIComponent(resolvedTaxId)}`;
           if (count) secUrl += `&count=${count}`;
+          if (diff && diff !== 'all') secUrl += `&difficulty=${encodeURIComponent(diff)}`;
+          if (mode) secUrl += `&mode=${encodeURIComponent(mode)}`;
 
           const res = await fetch(secUrl);
           if (res.ok) {
@@ -415,22 +462,26 @@ export default function PracticePage() {
                 translation: q.translation || null,
               }));
               setQuestions(formatted);
-              const name = data.sectionName || `Dạng bài: ${secId}`;
-              setTopicName(name);
-              setSectionName(name);
+              const displayName = data.title || (data.skill ? `${data.skill} - ${data.sectionName}` : data.sectionName) || `Dạng bài: ${resolvedSecId}`;
+              setTopicName(displayName);
+              setSectionName(data.sectionName || displayName);
 
-              try {
-                const tRes = await fetch(`/api/related-topic?sectionId=${encodeURIComponent(secId)}`);
-                if (tRes.ok) {
-                  const tData = await tRes.json();
-                  if (tData.listQuestionTopicDetail && tData.listQuestionTopicDetail.length > 0) {
-                    setTheory({
-                      topicName: tData.listQuestionTopicDetail[0].name,
-                      detail: tData.listQuestionTopicDetail[0].detail,
-                    });
+              if (data.theory) {
+                setTheory(data.theory);
+              } else {
+                try {
+                  const tRes = await fetch(`/api/related-topic?sectionId=${encodeURIComponent(resolvedSecId || '')}`);
+                  if (tRes.ok) {
+                    const tData = await tRes.json();
+                    if (tData.listQuestionTopicDetail && tData.listQuestionTopicDetail.length > 0) {
+                      setTheory({
+                        topicName: tData.listQuestionTopicDetail[0].name || displayName,
+                        detail: tData.listQuestionTopicDetail[0].detail,
+                      });
+                    }
                   }
-                }
-              } catch (e) {}
+                } catch (e) {}
+              }
 
               return;
             }
@@ -934,31 +985,39 @@ export default function PracticePage() {
       } catch (e) {}
 
       const secId = sectionId || searchParams.get('sectionId');
-      if (secId) {
+      const taxId = searchParams.get('taxonomyId');
+      if (secId || taxId) {
         try {
           const key = 'ta12_section_progress';
           const stored = JSON.parse(localStorage.getItem(key) || '{}');
-          const existing = stored[secId] || {
-            sectionId: secId,
-            sectionName: sectionName || topicName,
-            totalAnswered: 0,
-            correctCount: 0,
-            accuracyPercent: 0,
-            lastTrainedAt: '',
-          };
-          const updatedTotal = (existing.totalAnswered || 0) + questions.length;
-          const updatedCorrect = (existing.correctCount || 0) + score;
-          const updatedAccuracy = updatedTotal > 0 ? Math.round((updatedCorrect / updatedTotal) * 100) : 0;
+          const updateRecord = (recordKey: string) => {
+            const existing = stored[recordKey] || {
+              sectionId: secId || recordKey,
+              sectionName: sectionName || topicName,
+              totalAnswered: 0,
+              correctCount: 0,
+              accuracyPercent: 0,
+              lastTrainedAt: '',
+            };
+            const updatedTotal = (existing.totalAnswered || 0) + questions.length;
+            const updatedCorrect = (existing.correctCount || 0) + score;
+            const updatedAccuracy = updatedTotal > 0 ? Math.round((updatedCorrect / updatedTotal) * 100) : 0;
 
-          stored[secId] = {
-            sectionId: secId,
-            sectionName: existing.sectionName || sectionName || topicName,
-            totalAnswered: updatedTotal,
-            correctCount: updatedCorrect,
-            accuracyPercent: updatedAccuracy,
-            lastTrainedAt: new Date().toISOString(),
+            stored[recordKey] = {
+              sectionId: secId || recordKey,
+              taxonomyId: taxId ? parseInt(taxId, 10) : undefined,
+              sectionName: existing.sectionName || sectionName || topicName,
+              totalAnswered: updatedTotal,
+              correctCount: updatedCorrect,
+              accuracyPercent: updatedAccuracy,
+              lastTrainedAt: new Date().toISOString(),
+            };
           };
+
+          if (secId) updateRecord(secId);
+          if (taxId) updateRecord(String(taxId));
           localStorage.setItem(key, JSON.stringify(stored));
+          window.dispatchEvent(new Event('ta12_progress_updated'));
         } catch (err) {
           console.error('Error saving section progress:', err);
         }

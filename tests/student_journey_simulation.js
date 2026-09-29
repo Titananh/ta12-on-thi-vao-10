@@ -190,6 +190,25 @@ async function runStudentJourneySimulation() {
 
     await page.screenshot({ path: path.join(ARTIFACTS_DIR, '03_luyen_dang_bai.png'), fullPage: false });
 
+    // Live drill: Student clicks "Trọng âm" (taxonomy 7)
+    console.log('  → Student enters Dạng Bài "Trọng âm" (/practice/stress?taxonomyId=7&count=20)...');
+    await page.goto(`${BASE_URL}/practice/stress?taxonomyId=7&count=20`, { waitUntil: 'networkidle2' });
+    await new Promise((r) => setTimeout(r, 2000));
+
+    const stressPageText = await page.evaluate(() => document.body.innerText);
+    check('Section player header indicates "Luyện theo dạng bài"', stressPageText.includes('Luyện theo dạng bài'));
+    check('Section player displays "Trọng âm" (NOT Topic 68)', stressPageText.includes('Trọng âm') && !stressPageText.includes('Nguyên âm và bán nguyên âm'));
+    check('Section player loads question content', stressPageText.includes('Câu 1') || stressPageText.includes('Câu hỏi') || stressPageText.includes('Kiểm tra'));
+
+    // Live drill 2: Student enters "Phát âm" (taxonomy 6)
+    console.log('  → Student enters Dạng Bài "Phát âm" (/practice/pronunciation?taxonomyId=6&count=20)...');
+    await page.goto(`${BASE_URL}/practice/pronunciation?taxonomyId=6&count=20`, { waitUntil: 'networkidle2' });
+    await new Promise((r) => setTimeout(r, 2000));
+
+    const pronPageText = await page.evaluate(() => document.body.innerText);
+    check('Phát âm section player displays "Phát âm"', pronPageText.includes('Phát âm'));
+    check('Phát âm section player loads question content', pronPageText.includes('Câu 1') || pronPageText.includes('Câu hỏi') || pronPageText.includes('Kiểm tra'));
+
     // -------------------------------------------------------------------------
     // STEP 5: Tab 4 - Luyện theo chuyên đề (/luyen-theo-chuyen-de) & Practice Player
     // -------------------------------------------------------------------------

@@ -12,6 +12,22 @@ interface PracticeLayoutProps {
 
 function getTopicInfo(topicId: string): { name: string; englishName: string } | null {
   try {
+    // 1. Check sections index
+    const secPath = path.join(process.cwd(), 'data', 'sections', 'index.json');
+    if (fs.existsSync(secPath)) {
+      try {
+        const sections = JSON.parse(fs.readFileSync(secPath, 'utf8'));
+        const match = sections.find((s: any) => s.sectionId === topicId || String(s.taxonomyId) === topicId);
+        if (match) {
+          return {
+            name: `${match.skill} - ${match.sectionName}`,
+            englishName: match.sectionName,
+          };
+        }
+      } catch (e) {}
+    }
+
+    // 2. Check taxonomy.json
     const taxPath = path.join(process.cwd(), 'data', 'taxonomy.json');
     if (!fs.existsSync(taxPath)) return null;
     const tax = JSON.parse(fs.readFileSync(taxPath, 'utf8'));
