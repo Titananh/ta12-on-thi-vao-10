@@ -183,10 +183,10 @@ export default function Header() {
               Chương trình ôn luyện
             </Link>
             <Link
-              href="/?tab=luyen-chudiem"
-              className="hover:text-emerald-500 text-slate-600 dark:text-slate-300"
+              href="/kiem-tra-hk1"
+              className="bg-emerald-600 hover:bg-emerald-700 text-white font-bold px-3 py-1.5 rounded-xl text-xs flex items-center space-x-1 shadow-sm transition-all animate-pulse hover:animate-none"
             >
-              Tiếng Anh THPT
+              <span>📝 3 Đề Kiểm Tra 6 Unit Đầu</span>
             </Link>
           </nav>
         </div>

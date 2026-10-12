@@ -146,6 +146,29 @@ export default function LoginRequiredScreen() {
               </div>
             </div>
 
+            {/* Quick Public Exam Banner for Students */}
+            <div className="mb-5 p-4 rounded-2xl bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-700 text-white shadow-md text-left flex items-center justify-between gap-3">
+              <div>
+                <div className="text-[10px] font-bold uppercase tracking-wider text-emerald-200 flex items-center gap-1.5 mb-0.5">
+                  <Sparkles className="w-3.5 h-3.5" />
+                  <span>Dành Riêng Cho Học Sinh</span>
+                </div>
+                <div className="text-sm font-extrabold leading-snug">
+                  📝 Làm 3 Đề Kiểm Tra 6 Unit Đầu (HK1)
+                </div>
+                <div className="text-[11px] text-emerald-100 mt-0.5">
+                  Tự do làm bài không cần đăng nhập • Có bấm giờ & chấm điểm ngay
+                </div>
+              </div>
+              <a
+                href="/kiem-tra-hk1"
+                className="shrink-0 px-3.5 py-2 rounded-xl bg-white text-emerald-800 font-bold text-xs shadow-sm hover:bg-emerald-50 transition-all cursor-pointer flex items-center gap-1"
+              >
+                <span>Vào Làm Bài</span>
+                <ArrowRight className="w-3.5 h-3.5" />
+              </a>
+            </div>
+
             {/* Login & Register Container */}
             <div className="border border-slate-200 dark:border-[#383c38] rounded-2xl overflow-hidden shadow-xs">
               {/* Tab Selector */}
