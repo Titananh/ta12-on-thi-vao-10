@@ -1,8 +1,5 @@
-// AUTO-GENERATED: TRỌN BỘ 3 ĐỀ KIỂM TRA HỌC KÌ 1 — 6 UNIT ĐẦU TIẾNG ANH 9 GLOBAL SUCCESS
-// Phục vụ học sinh làm bài trực tuyến trên Vercel không cần đăng nhập phức tạp
-
 export interface ExamOption {
-  id: string;
+  id: 'A' | 'B' | 'C' | 'D';
   content: string;
 }
 
@@ -13,7 +10,7 @@ export interface ExamQuestion {
   readingText?: string;
   content: string;
   options: ExamOption[];
-  correctAnswer: string;
+  correctAnswer: 'A' | 'B' | 'C' | 'D';
   explanation: string;
   translation?: string;
   unitTopic?: string;
@@ -23,13 +20,13 @@ export interface HK1Exam {
   id: string;
   code: string;
   title: string;
-  subtitle: string;
-  description: string;
+  subtitle?: string;
+  totalQuestions?: number;
   durationMinutes: number;
-  totalQuestions: number;
-  difficulty: "Cơ bản - Trọng tâm" | "Nâng cao - Phân hóa" | "Mô phỏng thi vào 10";
-  badgeColor: string;
+  description: string;
+  difficulty: string;
   questions: ExamQuestion[];
+  [key: string]: any;
 }
 
 export const HK1_EXAMS: HK1Exam[] = [
@@ -164,22 +161,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "where"
-          },
-          {
-            "id": "B",
             "content": "why"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "which"
+          },
+          {
+            "id": "C",
+            "content": "where"
           },
           {
             "id": "D",
             "content": "what to"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "Cấu trúc: Wh-word + to V_bare chỉ nơi chốn: 'where to buy' (mua ở đâu). Từ 'why' tuyệt đối không kết hợp với to-V.",
         "translation": "Bạn có thể chỉ cho tôi biết mua đồ gốm Bát Tràng chính gốc ở đâu tại Hà Nội không?",
         "unitTopic": "Unit 1: Question words before to-infinitives"
@@ -220,7 +217,7 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "more modern / less"
+            "content": "modern / little"
           },
           {
             "id": "B",
@@ -232,10 +229,10 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "D",
-            "content": "modern / little"
+            "content": "more modern / less"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "Cấu trúc so sánh kép: The + comp + S1 + V1, the + comp + S2 + V2. 'Traffic congestion' là danh từ không đếm được ➔ dùng 'less' (fewer chỉ dùng cho danh từ đếm được số nhiều).",
         "translation": "Hệ thống tàu điện ngầm càng hiện đại thì cư dân thành phố càng gặp ít tắc nghẽn giao thông hơn.",
         "unitTopic": "Unit 2: Double comparatives"
@@ -248,22 +245,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "cut down on"
-          },
-          {
-            "id": "B",
             "content": "run out of"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "look back on"
+          },
+          {
+            "id": "C",
+            "content": "cut down on"
           },
           {
             "id": "D",
             "content": "get on with"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "'Cut down on' = cắt giảm (chi tiêu, lượng tiêu thụ). 'Run out of' = cạn kiệt; 'Look back on' = nhìn lại quá khứ; 'Get on with' = hòa hợp với ai.",
         "translation": "Vì chi phí sinh hoạt đang tăng nhanh chóng, các gia đình thành thị phải cắt giảm các khoản chi tiêu không cần thiết.",
         "unitTopic": "Unit 2: Phrasal verbs 2"
@@ -276,22 +273,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "should"
-          },
-          {
-            "id": "B",
             "content": "will should"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "should to"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "would"
+          },
+          {
+            "id": "D",
+            "content": "should"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "Câu điều kiện loại 1 với động từ khuyết thiếu: If + S + V(hiện tại đơn), S + can/must/should + V_bare (đưa ra lời khuyên).",
         "translation": "Nếu thanh thiếu niên cảm thấy quá tải vì áp lực bạn bè và thi cử, các em nên tham khảo ý kiến của chuyên viên tư vấn học đường.",
         "unitTopic": "Unit 3: Modals in Conditionals Type 1"
@@ -304,22 +301,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "give up"
-          },
-          {
-            "id": "B",
             "content": "put on"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "look into"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "bring back"
+          },
+          {
+            "id": "D",
+            "content": "give up"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "'Give up' = từ bỏ (thói quen xấu). 'Put on' = mặc vào/tăng cân; 'Look into' = điều tra; 'Bring back' = gợi lại kỷ niệm.",
         "translation": "Cần một ý chí to lớn để thanh thiếu niên từ bỏ các thói quen không lành mạnh như thức khuya chơi trò chơi điện tử.",
         "unitTopic": "Unit 3: Phrasal verbs & Healthy habits"
@@ -332,22 +329,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "lived"
-          },
-          {
-            "id": "B",
             "content": "live"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "will live"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "have lived"
+          },
+          {
+            "id": "D",
+            "content": "lived"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "Câu ước muốn trái ngược với hiện tại (dấu hiệu 'right now'): S + wish + S + V2/ed ➔ dùng 'lived'.",
         "translation": "Tôi ước ông bà tôi đang sống trong căn hộ hiện đại cùng chúng tôi lúc này thay vì sống một mình ở vùng nông thôn.",
         "unitTopic": "Unit 4: Wish for the present"
@@ -360,11 +357,11 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "was telling / went"
+            "content": "told / was going"
           },
           {
             "id": "B",
-            "content": "told / was going"
+            "content": "was telling / went"
           },
           {
             "id": "C",
@@ -375,7 +372,7 @@ export const HK1_EXAMS: HK1Exam[] = [
             "content": "told / went"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "Hành động dài đang diễn ra dùng Quá khứ tiếp diễn (was telling), hành động ngắn bất ngờ xen vào dùng Quá khứ đơn (went).",
         "translation": "Trong khi người nghệ nhân cao tuổi đang kể một câu chuyện dân gian truyền thống, điện đột nhiên bị tắt.",
         "unitTopic": "Unit 4: Past Continuous with While"
@@ -416,11 +413,11 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "has organized / since"
+            "content": "organized / for"
           },
           {
             "id": "B",
-            "content": "organized / for"
+            "content": "has organized / since"
           },
           {
             "id": "C",
@@ -431,7 +428,7 @@ export const HK1_EXAMS: HK1Exam[] = [
             "content": "had organized / in"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "'Volunteer club' là chủ ngữ số ít ➔ has organized. 'The beginning of this semester' là một mốc thời gian xác định ➔ dùng 'since'.",
         "translation": "Câu lạc bộ tình nguyện của trường chúng tôi đã tổ chức ba chuyến đi thực tế từ thiện kể từ đầu học kỳ này.",
         "unitTopic": "Unit 5: Present Perfect with since"
@@ -444,7 +441,7 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "pick up"
+            "content": "look after"
           },
           {
             "id": "B",
@@ -456,10 +453,10 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "D",
-            "content": "look after"
+            "content": "pick up"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "'Pick up' = học lỏm được, tiếp thu ngôn ngữ một cách tự nhiên trong giao tiếp đời thường.",
         "translation": "Trong chuyến ở cùng người bản xứ tại Sydney vào mùa hè, Mai đã học lỏm được khá nhiều thành ngữ tự nhiên của người Úc.",
         "unitTopic": "Unit 5: Phrasal verb 'pick up'"
@@ -472,22 +469,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "has gone to"
-          },
-          {
-            "id": "B",
-            "content": "has been to"
-          },
-          {
-            "id": "C",
             "content": "went to"
           },
           {
-            "id": "D",
+            "id": "B",
             "content": "was at"
+          },
+          {
+            "id": "C",
+            "content": "has been to"
+          },
+          {
+            "id": "D",
+            "content": "has gone to"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "'Has gone to' = đã đi đến đó và hiện CHƯA VỀ (ngữ cảnh: 'he will be back in an hour'). 'Has been to' = đã đi và đã trở về rồi.",
         "translation": "Nam đang ở đâu thế? - Cậu ấy đã đến thư viện công cộng để mượn sách lịch sử; cậu ấy sẽ về nhà trong một giờ nữa.",
         "unitTopic": "Unit 5: Have been to vs Have gone to"
@@ -500,22 +497,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "eating"
-          },
-          {
-            "id": "B",
             "content": "to eat"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "eat"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "to eating"
+          },
+          {
+            "id": "D",
+            "content": "eating"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "Động từ 'avoid' (tránh) luôn đi kèm với danh động từ V-ing: avoid + V-ing.",
         "translation": "Để duy trì năng lượng cao và ngăn ngừa béo phì, học sinh nên tránh ăn quá nhiều đồ ngọt.",
         "unitTopic": "Unit 6: Verbs followed by V-ing"
@@ -613,22 +610,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "artisans"
-          },
-          {
-            "id": "B",
             "content": "counselors"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "commuters"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "officers"
+          },
+          {
+            "id": "D",
+            "content": "artisans"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "'Artisans' = các nghệ nhân, thợ thủ công làm đồ gốm. Các từ khác không phù hợp ngữ cảnh làng gốm.",
         "translation": "artisans (nghệ nhân thủ công làng nghề).",
         "unitTopic": "Cloze Test: Vocabulary Unit 1"
@@ -641,22 +638,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "pass down"
+            "content": "give up"
           },
           {
             "id": "B",
-            "content": "cut down"
+            "content": "pass down"
           },
           {
             "id": "C",
-            "content": "run out"
+            "content": "cut down"
           },
           {
             "id": "D",
-            "content": "give up"
+            "content": "run out"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "'Pass down' = truyền lại kỹ thuật cho thế hệ sau. 'Cut down' = cắt giảm; 'Run out' = cạn kiệt; 'Give up' = từ bỏ.",
         "translation": "pass down their craft (truyền nghề của mình lại cho thế hệ trẻ).",
         "unitTopic": "Cloze Test: Phrasal verbs Unit 1"
@@ -669,22 +666,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "how"
-          },
-          {
-            "id": "B",
             "content": "why"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "what to"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "when to moulding"
+          },
+          {
+            "id": "D",
+            "content": "how"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "'Learn how to mould clay' = học cách nhào nặn đất sét. 'How + to V' chỉ phương pháp, kỹ năng.",
         "translation": "learn how to mould clay (học cách nhào nặn đất sét).",
         "unitTopic": "Cloze Test: Wh- + to V Unit 1"
@@ -701,18 +698,18 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "B",
-            "content": "attractive"
+            "content": "illiterate"
           },
           {
             "id": "C",
-            "content": "illiterate"
+            "content": "attractive"
           },
           {
             "id": "D",
             "content": "crowdedly"
           }
         ],
-        "correctAnswer": "B",
+        "correctAnswer": "C",
         "explanation": "Đứng trước danh từ 'destination' cần tính từ thích hợp 'an attractive destination' (một điểm đến hấp dẫn).",
         "translation": "an attractive destination (một điểm đến hấp dẫn).",
         "unitTopic": "Cloze Test: Vocabulary Unit 2"
@@ -725,11 +722,11 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "to"
+            "content": "for"
           },
           {
             "id": "B",
-            "content": "for"
+            "content": "to"
           },
           {
             "id": "C",
@@ -740,7 +737,7 @@ export const HK1_EXAMS: HK1Exam[] = [
             "content": "at"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "Cấu trúc cố định: 'look forward to + V-ing' (trông mong, háo hức điều gì).",
         "translation": "look forward to experiencing (háo hức được trải nghiệm).",
         "unitTopic": "Cloze Test: Look forward to Unit 1"
@@ -754,11 +751,11 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "The transformation from extended to nuclear families in Vietnam"
+            "content": "The daily chores in traditional rural households"
           },
           {
             "id": "B",
-            "content": "The daily chores in traditional rural households"
+            "content": "The transformation from extended to nuclear families in Vietnam"
           },
           {
             "id": "C",
@@ -769,7 +766,7 @@ export const HK1_EXAMS: HK1Exam[] = [
             "content": "The problems of building high-rise apartments in big cities"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "Ý chính của toàn bài là sự chuyển đổi từ mô hình gia đình đa thế hệ sang gia đình hạt nhân tại Việt Nam cùng những thuận lợi và thách thức của nó.",
         "translation": "Chủ đề chính: Sự biến chuyển từ gia đình đa thế hệ sang gia đình hạt nhân ở Việt Nam.",
         "unitTopic": "Reading Comprehension: Main Idea Unit 6"
@@ -782,7 +779,7 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "Grandparents"
+            "content": "Children"
           },
           {
             "id": "B",
@@ -790,14 +787,14 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "C",
-            "content": "Community helpers"
+            "content": "Grandparents"
           },
           {
             "id": "D",
-            "content": "Children"
+            "content": "Community helpers"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "Trong đoạn 1 nêu rõ: 'Whenever conflicts arose, grandparents served as patient mediators, helping to maintain household harmony.'",
         "translation": "Bất cứ khi nào mâu thuẫn nảy sinh, ông bà đóng vai trò là những người hòa giải kiên nhẫn.",
         "unitTopic": "Reading Comprehension: Detail Unit 6"
@@ -810,22 +807,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "most common and widespread"
+            "content": "complicated"
           },
           {
             "id": "B",
-            "content": "extremely ancient"
+            "content": "most common and widespread"
           },
           {
             "id": "C",
-            "content": "barefoot and poor"
+            "content": "extremely ancient"
           },
           {
             "id": "D",
-            "content": "complicated"
+            "content": "barefoot and poor"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "'Prevailing' = phổ biến nhất, thịnh hành nhất (= most common and widespread).",
         "translation": "Từ 'prevailing' đồng nghĩa với 'phổ biến, lan rộng nhất'.",
         "unitTopic": "Reading Comprehension: Vocabulary in context"
@@ -866,22 +863,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "By organizing regular weekend reunions and holiday get-togethers"
-          },
-          {
-            "id": "B",
             "content": "By sending children to study abroad"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "By stopping all online communication"
+          },
+          {
+            "id": "C",
+            "content": "By organizing regular weekend reunions and holiday get-togethers"
           },
           {
             "id": "D",
             "content": "By moving back to the countryside permanently"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "Đoạn cuối nêu rõ: 'To bridge this generational gap, many urban families now maintain regular weekend reunions, celebrating birthdays and traditional holidays together...'",
         "translation": "Nhiều gia đình duy trì các buổi đoàn tụ cuối tuần đều đặn và cùng tổ chức các ngày lễ truyền thống.",
         "unitTopic": "Reading Comprehension: Inference Unit 6"
@@ -1034,11 +1031,11 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "The faster life in the big city becomes, the more stressed people feel."
+            "content": "The more fast life in the big city becomes, the stressed people feel."
           },
           {
             "id": "B",
-            "content": "The more fast life in the big city becomes, the stressed people feel."
+            "content": "The faster life in the big city becomes, the more stressed people feel."
           },
           {
             "id": "C",
@@ -1049,7 +1046,7 @@ export const HK1_EXAMS: HK1Exam[] = [
             "content": "The most fast life in the big city becomes, the most stressed people feel."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "Công thức so sánh kép: As S1 + V1 + comp, S2 + V2 + comp ➔ The faster..., the more stressed...",
         "translation": "Cuộc sống ở thành phố càng nhanh thì người ta càng cảm thấy căng thẳng hơn.",
         "unitTopic": "Unit 2: Double comparative transformation"
@@ -1062,11 +1059,11 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "Unless you get at least eight hours of sleep every night, you cannot concentrate on your revision."
+            "content": "Unless you don't get at least eight hours of sleep, you cannot concentrate on your revision."
           },
           {
             "id": "B",
-            "content": "Unless you don't get at least eight hours of sleep, you cannot concentrate on your revision."
+            "content": "Unless you get at least eight hours of sleep every night, you cannot concentrate on your revision."
           },
           {
             "id": "C",
@@ -1077,7 +1074,7 @@ export const HK1_EXAMS: HK1Exam[] = [
             "content": "Unless you get enough sleep, you can concentrate on your revision."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "Unless = If... not. Mệnh đề sau Unless luôn ở dạng khẳng định: 'Unless you get...'. Đáp án B sai vì phủ định hai lần.",
         "translation": "Trừ khi bạn ngủ đủ 8 tiếng mỗi đêm, nếu không bạn không thể tập trung ôn bài.",
         "unitTopic": "Unit 3: Unless transformation"
@@ -1090,22 +1087,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "My father used to walk barefoot to school when he was a boy."
-          },
-          {
-            "id": "B",
             "content": "My father is used to walking barefoot to school when he was a boy."
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "My father used to walking barefoot to school when he was a boy."
+          },
+          {
+            "id": "C",
+            "content": "My father used to walk barefoot to school when he was a boy."
           },
           {
             "id": "D",
             "content": "My father didn't use to walk barefoot to school anymore."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "Cấu trúc 'used to + V_bare' diễn tả hành động từng làm thường xuyên trong quá khứ và nay không còn nữa.",
         "translation": "Bố tôi đã từng đi chân đất đến trường khi còn là một cậu bé.",
         "unitTopic": "Unit 4: Used to transformation"
@@ -1118,7 +1115,7 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "We have not gone on an eco-tour to Cuc Phuong National Park for two years."
+            "content": "It is two years when we last went on an eco-tour to Cuc Phuong."
           },
           {
             "id": "B",
@@ -1130,10 +1127,10 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "D",
-            "content": "It is two years when we last went on an eco-tour to Cuc Phuong."
+            "content": "We have not gone on an eco-tour to Cuc Phuong National Park for two years."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "Biến đổi câu kinh điển: S + last + V2 + ... ago ➔ S + have/has not + V3 + for + [khoảng thời gian].",
         "translation": "Chúng tôi đã không đi tour sinh thái tới Vườn quốc gia Cúc Phương trong hai năm nay rồi.",
         "unitTopic": "Unit 5: Present Perfect transformation"
@@ -1146,11 +1143,11 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "Vietnamese people spent decades adapting to the fast-paced modern lifestyle."
+            "content": "Vietnamese people spent decades to adapt to the fast-paced modern lifestyle."
           },
           {
             "id": "B",
-            "content": "Vietnamese people spent decades to adapt to the fast-paced modern lifestyle."
+            "content": "Vietnamese people spent decades adapting to the fast-paced modern lifestyle."
           },
           {
             "id": "C",
@@ -1161,7 +1158,7 @@ export const HK1_EXAMS: HK1Exam[] = [
             "content": "It spent Vietnamese people decades adapting to modern lifestyle."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "Chuyển đổi: It takes/took + O + time + to V ➔ S + spend/spent + time + V-ing.",
         "translation": "Người Việt Nam đã dành nhiều thập kỷ để thích nghi với lối sống hiện đại hối hả.",
         "unitTopic": "Unit 6: Spend time V-ing transformation"
@@ -1299,22 +1296,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "whether"
-          },
-          {
-            "id": "B",
             "content": "if"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "why to"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "what"
+          },
+          {
+            "id": "D",
+            "content": "whether"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "Cấu trúc: 'whether + or not + to V' hoặc 'whether to V or not'. Từ 'if' KHÔNG BAO GIỜ đi trực tiếp với 'to V' hay đứng ngay trước 'or not'.",
         "translation": "Những người du lịch bụi đã tranh luận liệu có nên thuê hướng dẫn viên địa phương trước khi đi vào rừng núi sương mù hay không.",
         "unitTopic": "Unit 1: Whether + to V"
@@ -1387,15 +1384,15 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "B",
-            "content": "cut down on"
-          },
-          {
-            "id": "C",
             "content": "looked back on"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "got on with"
+          },
+          {
+            "id": "D",
+            "content": "cut down on"
           }
         ],
         "correctAnswer": "A",
@@ -1411,7 +1408,7 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "take / may"
+            "content": "takes / can"
           },
           {
             "id": "B",
@@ -1419,14 +1416,14 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "C",
-            "content": "took / could"
+            "content": "take / may"
           },
           {
             "id": "D",
-            "content": "takes / can"
+            "content": "took / could"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "Sau Unless động từ chia khẳng định ở hiện tại đơn (teenagers số nhiều ➔ take). Vế chính dùng modal verb chỉ khả năng: 'may deteriorate'.",
         "translation": "Trừ khi thanh thiếu niên tập thể dục thể chất đều đặn, nếu không khả năng miễn dịch của các em có thể dễ dàng suy giảm.",
         "unitTopic": "Unit 3: Unless with Modal Verbs"
@@ -1439,11 +1436,11 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "cope with"
+            "content": "give in"
           },
           {
             "id": "B",
-            "content": "give in"
+            "content": "cope with"
           },
           {
             "id": "C",
@@ -1454,7 +1451,7 @@ export const HK1_EXAMS: HK1Exam[] = [
             "content": "pass down"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "'Cope with' = đương đầu, đối phó thành công với áp lực và khó khăn.",
         "translation": "Thường rất khó khăn cho thanh thiếu niên để đối phó với những phán xét gay gắt của bạn bè và kỳ vọng quá lớn của cha mẹ.",
         "unitTopic": "Unit 3: Phrasal verb 'cope with'"
@@ -1467,22 +1464,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "had preserved / would preserve"
-          },
-          {
-            "id": "B",
             "content": "preserved"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "preserve"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "will preserve"
+          },
+          {
+            "id": "D",
+            "content": "had preserved / would preserve"
           }
         ],
-        "correctAnswer": "B",
+        "correctAnswer": "A",
         "explanation": "Câu ước muốn trái với hiện tại hoặc thói quen hiện tại: S + wish + S + V2/ed ➔ preserved.",
         "translation": "Dân làng ước rằng chính quyền địa phương gìn giữ cây đa cổ thụ hàng trăm năm tuổi thay vì chặt hạ nó.",
         "unitTopic": "Unit 4: Wish for present"
@@ -1495,7 +1492,7 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "were you doing"
+            "content": "had you done"
           },
           {
             "id": "B",
@@ -1507,10 +1504,10 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "D",
-            "content": "had you done"
+            "content": "were you doing"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "Hỏi về hành động đang diễn ra tại thời điểm quá khứ khi có sự việc khác cắt ngang ➔ Quá khứ tiếp diễn: 'were you doing'.",
         "translation": "Chính xác thì bạn đang làm gì khi sự cố mất điện đột ngột xảy ra trên toàn quận vào tối hôm qua?",
         "unitTopic": "Unit 4: Past continuous question"
@@ -1523,7 +1520,7 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "living"
+            "content": "be living"
           },
           {
             "id": "B",
@@ -1531,14 +1528,14 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "C",
-            "content": "lived"
+            "content": "living"
           },
           {
             "id": "D",
-            "content": "be living"
+            "content": "lived"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "Cấu trúc 'get used to + V-ing' = dần quen với việc gì. Phân biệt với 'used to + V_bare' (đã từng).",
         "translation": "Đến từ một ngôi làng nông thôn yên bình, Minh thấy vô cùng khó khăn để quen với việc sống ở một đại đô thị nhộn nhịp như vậy.",
         "unitTopic": "Unit 4: Be/Get used to + V-ing"
@@ -1551,22 +1548,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "has ever taken part"
-          },
-          {
-            "id": "B",
-            "content": "ever took part"
-          },
-          {
-            "id": "C",
             "content": "was taking part"
           },
           {
-            "id": "D",
+            "id": "B",
+            "content": "has ever taken part"
+          },
+          {
+            "id": "C",
             "content": "had ever taken part"
+          },
+          {
+            "id": "D",
+            "content": "ever took part"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "Cấu trúc trải nghiệm lần đầu tiên: 'It/This is the first time + S + have/has + V3/ed'.",
         "translation": "Đây là lần đầu tiên lớp chúng tôi tham gia vào một chiến dịch dọn sạch môi trường hấp dẫn đến vậy.",
         "unitTopic": "Unit 5: Present Perfect with 'first time'"
@@ -1579,7 +1576,7 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "has been to"
+            "content": "is going to"
           },
           {
             "id": "B",
@@ -1591,10 +1588,10 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "D",
-            "content": "is going to"
+            "content": "has been to"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "'Has been to' = đã từng đến đó và đã về (diễn tả trải nghiệm 5 lần trong đời).",
         "translation": "Ông Brown hiểu rõ Đà Nẵng đến từng ngóc ngách vì ông đã từng đến đó nghỉ dưỡng ít nhất năm lần.",
         "unitTopic": "Unit 5: Have been to vs Have gone to"
@@ -1607,22 +1604,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "since"
-          },
-          {
-            "id": "B",
-            "content": "for"
-          },
-          {
-            "id": "C",
             "content": "when"
           },
           {
-            "id": "D",
+            "id": "B",
+            "content": "since"
+          },
+          {
+            "id": "C",
             "content": "until"
+          },
+          {
+            "id": "D",
+            "content": "for"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "Cấu trúc: S + have/has V3 + SINCE + S + V(quá khứ đơn). Mệnh đề sau since là 'he joined...'.",
         "translation": "Hoàng đã mở rộng tầm nhìn văn hóa của mình rất nhiều kể từ khi cậu ấy tham gia chương trình trao đổi thanh niên quốc tế.",
         "unitTopic": "Unit 5: Present perfect with since + clause"
@@ -1635,22 +1632,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "relying"
-          },
-          {
-            "id": "B",
             "content": "to rely"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "rely"
+          },
+          {
+            "id": "C",
+            "content": "relying"
           },
           {
             "id": "D",
             "content": "to relying"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "Sau động từ 'avoid' bắt buộc là V-ing: avoid relying on.",
         "translation": "Học sinh nên tránh việc chỉ phụ thuộc vào các công cụ trí tuệ nhân tạo mà không tự rèn luyện tư duy phản biện.",
         "unitTopic": "Unit 6: Verbs + V-ing"
@@ -1719,22 +1716,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "Yes, every single piece is handcrafted by our master artisans right in this village."
-          },
-          {
-            "id": "B",
-            "content": "No, you cannot touch them because they are very cheap."
-          },
-          {
-            "id": "C",
             "content": "I wish they were not made of clay."
           },
           {
-            "id": "D",
+            "id": "B",
             "content": "You should cut down on looking at them."
+          },
+          {
+            "id": "C",
+            "content": "No, you cannot touch them because they are very cheap."
+          },
+          {
+            "id": "D",
+            "content": "Yes, every single piece is handcrafted by our master artisans right in this village."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "Câu trả lời lịch sự và tự hào của chủ xưởng gốm về sản phẩm thủ công địa phương.",
         "translation": "Du khách: 'Những chiếc bát gốm vẽ tay này trông thật tráng lệ! Có phải nghệ nhân địa phương làm ra không?' - Chủ xưởng: 'Vâng, từng sản phẩm đều được làm thủ công bởi các nghệ nhân bậc thầy ngay tại làng này.'",
         "unitTopic": "Social Communication: Craft appreciation"
@@ -1748,22 +1745,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "congestion"
-          },
-          {
-            "id": "B",
-            "content": "lifestyle"
-          },
-          {
-            "id": "C",
             "content": "counselor"
           },
           {
-            "id": "D",
+            "id": "B",
+            "content": "congestion"
+          },
+          {
+            "id": "C",
             "content": "seniority"
+          },
+          {
+            "id": "D",
+            "content": "lifestyle"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "'Traffic congestion' = sự tắc nghẽn giao thông.",
         "translation": "relieve chronic traffic congestion (giảm bớt tình trạng ùn tắc giao thông kinh niên).",
         "unitTopic": "Cloze Test: Unit 2"
@@ -1776,22 +1773,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "affordable"
-          },
-          {
-            "id": "B",
             "content": "illiterate"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "barefoot"
+          },
+          {
+            "id": "C",
+            "content": "affordable"
           },
           {
             "id": "D",
             "content": "stressful"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "'Affordable' = giá cả phải chăng, vừa túi tiền của người dân đi làm.",
         "translation": "a clean, fast, and affordable alternative (một giải pháp thay thế sạch, nhanh và giá cả phải chăng).",
         "unitTopic": "Cloze Test: Unit 2"
@@ -1804,22 +1801,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "liveable"
-          },
-          {
-            "id": "B",
             "content": "livelihood"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "living"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "live"
+          },
+          {
+            "id": "D",
+            "content": "liveable"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "Cần tính từ 'liveable' (đáng sống) để bổ nghĩa cho cụm 'city life'.",
         "translation": "make city life more liveable (làm cho cuộc sống thành phố đáng sống hơn).",
         "unitTopic": "Cloze Test: Unit 2"
@@ -1832,22 +1829,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "cut down"
-          },
-          {
-            "id": "B",
             "content": "run out"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "pass down"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "give up"
+          },
+          {
+            "id": "D",
+            "content": "cut down"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "'Cut down on' = cắt giảm việc tiêu thụ đồ nhựa dùng một lần.",
         "translation": "cut down on single-use plastics (cắt giảm đồ nhựa dùng một lần).",
         "unitTopic": "Cloze Test: Unit 2"
@@ -1860,22 +1857,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "how"
-          },
-          {
-            "id": "B",
             "content": "why"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "which"
+          },
+          {
+            "id": "C",
+            "content": "how"
           },
           {
             "id": "D",
             "content": "where to sorting"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "Cấu trúc: 'learn how to sort' = học cách phân loại rác thải gia đình.",
         "translation": "learn how to sort household waste (học cách phân loại rác thải).",
         "unitTopic": "Cloze Test: Unit 1"
@@ -1889,7 +1886,7 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "To examine causes of teenage stress and suggest holistic healthy living solutions"
+            "content": "To advise teenagers to stop using smartphones permanently"
           },
           {
             "id": "B",
@@ -1901,10 +1898,10 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "D",
-            "content": "To advise teenagers to stop using smartphones permanently"
+            "content": "To examine causes of teenage stress and suggest holistic healthy living solutions"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "Toàn bài phân tích áp lực của thanh thiếu niên hiện đại và đề xuất các giải pháp toàn diện về dinh dưỡng, thể thao và tư vấn tâm lý.",
         "translation": "Mục đích chính: Khảo sát nguyên nhân gây căng thẳng ở tuổi teen và đề xuất giải pháp lối sống lành mạnh.",
         "unitTopic": "Reading Comprehension: Main Purpose Unit 3"
@@ -1945,22 +1942,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "powerful and effective"
-          },
-          {
-            "id": "B",
-            "content": "ancient and traditional"
-          },
-          {
-            "id": "C",
             "content": "dangerous and harmful"
           },
           {
-            "id": "D",
+            "id": "B",
+            "content": "powerful and effective"
+          },
+          {
+            "id": "C",
             "content": "expensive"
+          },
+          {
+            "id": "D",
+            "content": "ancient and traditional"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "'Potent' = mạnh mẽ, có tác dụng mạnh (= powerful and effective).",
         "translation": "potent = có hiệu quả mạnh mẽ.",
         "unitTopic": "Reading Comprehension: Vocabulary in context"
@@ -1973,22 +1970,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "Triggering the release of endorphins that uplift mood and improve memory"
-          },
-          {
-            "id": "B",
             "content": "Allowing students to skip nutritious meals"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "Helping students become professional athletes"
+          },
+          {
+            "id": "C",
+            "content": "Triggering the release of endorphins that uplift mood and improve memory"
           },
           {
             "id": "D",
             "content": "Reducing the need for sleep to only four hours per night"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "Đoạn 2 nêu rõ: 'triggers the release of endorphins—natural hormones that uplift spirits and improve memory retention.'",
         "translation": "Kích hoạt việc tiết ra endorphin giúp nâng cao tinh thần và cải thiện trí nhớ.",
         "unitTopic": "Reading Comprehension: Detail Unit 3"
@@ -2001,7 +1998,7 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "Learning stress management early provides valuable resilience for later life."
+            "content": "Parents should never discuss exam scores with their children."
           },
           {
             "id": "B",
@@ -2013,10 +2010,10 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "D",
-            "content": "Parents should never discuss exam scores with their children."
+            "content": "Learning stress management early provides valuable resilience for later life."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "Câu kết đoạn cuối khẳng định: 'Learning how to cope with stress early in life equips young people with resilience that will serve them well into adulthood.'",
         "translation": "Học cách quản lý căng thẳng sớm giúp trang bị sự kiên cường quý giá cho cuộc sống sau này.",
         "unitTopic": "Reading Comprehension: Inference Unit 3"
@@ -2169,22 +2166,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "The more polluted the city air is, the harder it is for elderly residents to breathe."
-          },
-          {
-            "id": "B",
             "content": "The polluted the city air is, the harder it is for elderly residents to breathe."
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "The more polluted is the city air, the harder it is for elderly residents to breathe."
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "The most polluted the city air is, the most hard it is for elderly residents to breathe."
+          },
+          {
+            "id": "D",
+            "content": "The more polluted the city air is, the harder it is for elderly residents to breathe."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "Cấu trúc So sánh kép: The + comp + S1 + V1, the + comp + S2 + V2. Giữ nguyên trật tự S + V.",
         "translation": "Không khí thành phố càng ô nhiễm thì người cao tuổi càng khó thở hơn.",
         "unitTopic": "Unit 2: Double comparative transformation"
@@ -2197,11 +2194,11 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "Unless you cut down on excessive screen time, you will suffer from chronic eye strain."
+            "content": "Unless you don't cut down on excessive screen time, you will suffer from chronic eye strain."
           },
           {
             "id": "B",
-            "content": "Unless you don't cut down on excessive screen time, you will suffer from chronic eye strain."
+            "content": "Unless you cut down on excessive screen time, you will suffer from chronic eye strain."
           },
           {
             "id": "C",
@@ -2212,7 +2209,7 @@ export const HK1_EXAMS: HK1Exam[] = [
             "content": "If you cut down on excessive screen time, you will suffer from chronic eye strain."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "If... not ➔ Unless + mệnh đề khẳng định. Đảm bảo nghĩa giữ nguyên.",
         "translation": "Trừ khi bạn cắt giảm thời gian nhìn màn hình quá mức, nếu không bạn sẽ bị mỏi mắt mãn tính.",
         "unitTopic": "Unit 3: Unless transformation"
@@ -2225,22 +2222,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "My sister used to play traditional folk games like tug of war with village children."
-          },
-          {
-            "id": "B",
             "content": "My sister is used to playing traditional folk games like tug of war with village children."
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "My sister used to playing traditional folk games like tug of war with village children."
+          },
+          {
+            "id": "C",
+            "content": "My sister used to play traditional folk games like tug of war with village children."
           },
           {
             "id": "D",
             "content": "My sister didn't use to play traditional folk games anymore."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "S + no longer + V(hiện tại) ➔ S + used to + V_bare (đã từng).",
         "translation": "Chị gái tôi đã từng chơi các trò chơi dân gian truyền thống như kéo co cùng trẻ con trong làng.",
         "unitTopic": "Unit 4: Used to transformation"
@@ -2253,22 +2250,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "The artisan has carved traditional wooden masks for five years."
-          },
-          {
-            "id": "B",
             "content": "The artisan carved traditional wooden masks since five years."
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "The artisan has been carving traditional wooden masks since five years ago."
+          },
+          {
+            "id": "C",
+            "content": "The artisan has carved traditional wooden masks for five years."
           },
           {
             "id": "D",
             "content": "It is five years when the artisan started carving traditional wooden masks."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "S + began/started + V-ing + [time] ago ➔ S + have/has V3/ed + for + [time].",
         "translation": "Người nghệ nhân đã điêu khắc mặt nạ gỗ truyền thống được năm năm nay rồi.",
         "unitTopic": "Unit 5: Present Perfect transformation"
@@ -2281,22 +2278,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "The foreign exchange students spent two weeks getting on with their local host family."
-          },
-          {
-            "id": "B",
             "content": "The foreign exchange students spent two weeks to get on with their local host family."
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "The foreign exchange students took two weeks getting on with their local host family."
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "It spent two weeks for the foreign exchange students to get on with their host family."
+          },
+          {
+            "id": "D",
+            "content": "The foreign exchange students spent two weeks getting on with their local host family."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "It took + O + time + to V ➔ S + spent + time + V-ing.",
         "translation": "Các du học sinh trao đổi đã mất hai tuần để hòa hợp với gia đình người bản xứ.",
         "unitTopic": "Unit 6: Spend time V-ing transformation"
@@ -2434,7 +2431,7 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "how"
+            "content": "what to registering"
           },
           {
             "id": "B",
@@ -2442,14 +2439,14 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "C",
-            "content": "which"
+            "content": "how"
           },
           {
             "id": "D",
-            "content": "what to registering"
+            "content": "which"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "Cấu trúc: Wh-word + to V_bare: 'how to register' (cách thức đăng ký).",
         "translation": "Du khách nước ngoài đã hỏi tại quầy lễ tân cách thức đăng ký tham gia xưởng nặn gốm.",
         "unitTopic": "Unit 1: How + to V"
@@ -2462,22 +2459,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "turned down"
-          },
-          {
-            "id": "B",
-            "content": "passed down"
-          },
-          {
-            "id": "C",
             "content": "run out"
           },
           {
-            "id": "D",
+            "id": "B",
+            "content": "turned down"
+          },
+          {
+            "id": "C",
             "content": "given in"
+          },
+          {
+            "id": "D",
+            "content": "passed down"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "'Turn down' = từ chối (đơn xin việc, lời mời). 'Pass down' = truyền lại.",
         "translation": "Vì ứng viên thiếu kỹ năng thực hành thực tế, đơn xin việc của anh ấy đã bị công ty từ chối.",
         "unitTopic": "Unit 1: Phrasal verb 'turn down'"
@@ -2490,7 +2487,7 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "more / better"
+            "content": "much / better"
           },
           {
             "id": "B",
@@ -2498,14 +2495,14 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "C",
-            "content": "more / more well"
+            "content": "more / better"
           },
           {
             "id": "D",
-            "content": "much / better"
+            "content": "more / more well"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "So sánh kép: The + comp + S1 + V1, the + comp + S2 + V2. 'Good' chuyển thành 'better'.",
         "translation": "Học sinh càng tìm hiểu nhiều thông tin về các trường THPT chuyên thì sự lựa chọn thi cử của các em càng tốt hơn.",
         "unitTopic": "Unit 2: Double comparative with good ➔ better"
@@ -2518,11 +2515,11 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "liveable"
+            "content": "livelihood"
           },
           {
             "id": "B",
-            "content": "livelihood"
+            "content": "liveable"
           },
           {
             "id": "C",
@@ -2533,7 +2530,7 @@ export const HK1_EXAMS: HK1Exam[] = [
             "content": "alive"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "Liveable (tính từ) = đáng sống. Livelihood (kế sinh nhai), lively (sống động).",
         "translation": "Nhờ môi trường ven biển trong sạch và giao thông công cộng xanh, Đà Nẵng liên tục được bình chọn là một trong những thành phố đáng sống nhất châu Á.",
         "unitTopic": "Unit 2: Vocabulary 'liveable'"
@@ -2550,15 +2547,15 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "B",
-            "content": "must"
+            "content": "might to"
           },
           {
             "id": "C",
-            "content": "won't should"
+            "content": "must"
           },
           {
             "id": "D",
-            "content": "might to"
+            "content": "won't should"
           }
         ],
         "correctAnswer": "A",
@@ -2574,22 +2571,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "well-balanced"
-          },
-          {
-            "id": "B",
             "content": "barefoot"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "illiterate"
+          },
+          {
+            "id": "C",
+            "content": "well-balanced"
           },
           {
             "id": "D",
             "content": "bustling"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "'Well-balanced diet' = chế độ ăn uống cân bằng, đầy đủ dinh dưỡng.",
         "translation": "Một chế độ ăn uống cân bằng chứa nhiều rau tươi, chất đạm và khoáng chất thiết yếu là rất quan trọng cho sự phát triển của thanh thiếu niên.",
         "unitTopic": "Unit 3: Collocation 'well-balanced diet'"
@@ -2658,22 +2655,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "used to act out"
-          },
-          {
-            "id": "B",
             "content": "were acting out"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "got used to act out"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "use to act out"
+          },
+          {
+            "id": "D",
+            "content": "used to act out"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "'Used to act out' = đã từng diễn lại các tích truyện dân gian (thói quen trong quá khứ).",
         "translation": "Trước khi truyền hình trở nên phổ biến ở khắp nơi, các cụ cao niên trong làng thường đóng kịch diễn lại các truyền thuyết dân gian quanh đống lửa vào mỗi tối mùa đông.",
         "unitTopic": "Unit 4: Used to + act out"
@@ -2686,22 +2683,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "has taken part"
-          },
-          {
-            "id": "B",
             "content": "took part"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "have taken part"
+          },
+          {
+            "id": "C",
+            "content": "has taken part"
           },
           {
             "id": "D",
             "content": "had taken part"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "Thì Hiện tại hoàn thành với 'since'. Chủ ngữ 'Our class' là danh từ tập hợp số ít ➔ 'has taken part'.",
         "translation": "Lớp chúng tôi đã tham gia vào ba dự án tình nguyện thanh niên lớn kể từ khi năm học bắt đầu.",
         "unitTopic": "Unit 5: Present Perfect with since"
@@ -2714,22 +2711,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "has gone to"
-          },
-          {
-            "id": "B",
             "content": "has been to"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "went"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "was going to"
+          },
+          {
+            "id": "D",
+            "content": "has gone to"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "'Has gone to' = đã đi đến đó và hiện CHƯA VỀ (ngữ cảnh: 'won't be back until 6 PM').",
         "translation": "Huy không có ở nhà lúc này; cậu ấy đã đến câu lạc bộ thanh niên để tập múa dân gian và sẽ không về trước 6 giờ tối.",
         "unitTopic": "Unit 5: Have gone to"
@@ -2742,11 +2739,11 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "picked up"
+            "content": "gave up"
           },
           {
             "id": "B",
-            "content": "gave up"
+            "content": "picked up"
           },
           {
             "id": "C",
@@ -2757,7 +2754,7 @@ export const HK1_EXAMS: HK1Exam[] = [
             "content": "looked after"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "'Pick up' = tiếp thu tự nhiên, học lỏm ngôn ngữ.",
         "translation": "Mai đã rất kinh ngạc trước việc anh họ của cô ấy học lỏm các cách diễn đạt thông tục một cách dễ dàng như thế nào trong chuyến du học ngắn ngày.",
         "unitTopic": "Unit 5: Phrasal verb 'pick up'"
@@ -2770,22 +2767,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "to live"
-          },
-          {
-            "id": "B",
             "content": "live"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "lived"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "to living"
+          },
+          {
+            "id": "D",
+            "content": "to live"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "Cấu trúc: 'prefer to V' hoặc 'prefer V-ing'. Phương án A (to live) là chuẩn xác nhất.",
         "translation": "Các cặp vợ chồng trẻ ở các thành phố đang phát triển nhanh thường thích sống trong các căn hộ hạt nhân để có sự riêng tư và tiện lợi.",
         "unitTopic": "Unit 6: Verb forms"
@@ -2798,22 +2795,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "turning"
-          },
-          {
-            "id": "B",
             "content": "to turn"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "turn"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "to turning"
+          },
+          {
+            "id": "D",
+            "content": "turning"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "'Remember V-ing' = nhớ đã làm hành động gì trong quá khứ. Ngữ cảnh: Tôi nhớ rõ ràng là ĐÃ tắt bếp trước khi rời đi.",
         "translation": "Tôi nhớ rất rõ là mình đã tắt bếp từ trước khi chúng tôi rời đi tham gia lễ rước đèn trung thu.",
         "unitTopic": "Unit 6: Remember V-ing"
@@ -2826,22 +2823,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "That is extremely kind of you, young man. Thank you so much!"
+            "content": "You will be penalized if you carry them."
           },
           {
             "id": "B",
-            "content": "No, you must not touch my boxes."
+            "content": "That is extremely kind of you, young man. Thank you so much!"
           },
           {
             "id": "C",
-            "content": "I wish you had arrived two days ago."
+            "content": "No, you must not touch my boxes."
           },
           {
             "id": "D",
-            "content": "You will be penalized if you carry them."
+            "content": "I wish you had arrived two days ago."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "Lời cảm ơn lịch sự và nồng hậu đáp lại lời đề nghị giúp đỡ của học sinh: 'That is extremely kind of you...'.",
         "translation": "Học sinh: 'Xin lỗi chú ạ. Cháu có thể giúp chú một tay khiêng những thùng đồ gốm nặng này được không ạ?' - Nghệ nhân: 'Cháu thật tốt bụng quá, cảm ơn cháu rất nhiều!'",
         "unitTopic": "Social Communication: Offering help"
@@ -2858,15 +2855,15 @@ export const HK1_EXAMS: HK1Exam[] = [
           },
           {
             "id": "B",
-            "content": "You should not look at it too long."
-          },
-          {
-            "id": "C",
             "content": "I wish it were made of paper."
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "You have to run out of money to buy it."
+          },
+          {
+            "id": "D",
+            "content": "You should not look at it too long."
           }
         ],
         "correctAnswer": "A",
@@ -2883,22 +2880,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "broaden"
-          },
-          {
-            "id": "B",
             "content": "deteriorate"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "modernize"
+          },
+          {
+            "id": "C",
+            "content": "broaden"
           },
           {
             "id": "D",
             "content": "give up"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "'Broaden cultural awareness' = mở rộng nhận thức văn hóa.",
         "translation": "broaden students' cultural awareness (mở rộng nhận thức văn hóa của học sinh).",
         "unitTopic": "Cloze Test: Unit 5"
@@ -2911,22 +2908,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "passing"
-          },
-          {
-            "id": "B",
             "content": "cutting"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "running"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "giving"
+          },
+          {
+            "id": "D",
+            "content": "passing"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "'Witness artisans passing down...' (Cấu trúc witness + O + V-ing/V_bare: chứng kiến nghệ nhân truyền lại nghề).",
         "translation": "passing down intricate techniques (truyền lại các kỹ thuật tinh xảo).",
         "unitTopic": "Cloze Test: Unit 1"
@@ -2939,22 +2936,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "how"
-          },
-          {
-            "id": "B",
             "content": "why"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "which"
+          },
+          {
+            "id": "C",
+            "content": "how"
           },
           {
             "id": "D",
             "content": "where to producing"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "'Learning how to produce...' (học cách sản xuất đồ lưu niệm).",
         "translation": "learning how to produce simple souvenirs (học cách làm quà lưu niệm đơn giản).",
         "unitTopic": "Cloze Test: Unit 1"
@@ -2967,22 +2964,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "memorable"
+            "content": "stressful"
           },
           {
             "id": "B",
-            "content": "illiterate"
+            "content": "memorable"
           },
           {
             "id": "C",
-            "content": "barefoot"
+            "content": "illiterate"
           },
           {
             "id": "D",
-            "content": "stressful"
+            "content": "barefoot"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "'Memorable journeys' = những chuyến đi đáng nhớ, không thể nào quên.",
         "translation": "memorable journeys (những hành trình đáng nhớ).",
         "unitTopic": "Cloze Test: Unit 5"
@@ -3024,22 +3021,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "The heritage, current challenges, and revitalization of Vietnamese traditional craft villages"
+            "content": "The economic impact of plastic manufacturing in big cities"
           },
           {
             "id": "B",
-            "content": "The step-by-step process of painting folk pictures in Dong Ho"
+            "content": "The heritage, current challenges, and revitalization of Vietnamese traditional craft villages"
           },
           {
             "id": "C",
-            "content": "Why young Vietnamese people prefer living in high-rise apartments"
+            "content": "The step-by-step process of painting folk pictures in Dong Ho"
           },
           {
             "id": "D",
-            "content": "The economic impact of plastic manufacturing in big cities"
+            "content": "Why young Vietnamese people prefer living in high-rise apartments"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "Chủ đề bao quát: Di sản truyền thống, những thách thức hiện nay và các giải pháp hồi sinh làng nghề thủ công tại Việt Nam.",
         "translation": "Chủ đề chính: Di sản, thách thức và sự hồi sinh của các làng nghề truyền thống Việt Nam.",
         "unitTopic": "Reading Comprehension: Main Idea Unit 1"
@@ -3052,22 +3049,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "By observing master artisans patiently over years without formal textbooks"
-          },
-          {
-            "id": "B",
-            "content": "By studying online video tutorials on the internet"
-          },
-          {
-            "id": "C",
             "content": "By attending foreign vocational universities abroad"
           },
           {
-            "id": "D",
+            "id": "B",
             "content": "By reading ancient technical textbooks in libraries"
+          },
+          {
+            "id": "C",
+            "content": "By observing master artisans patiently over years without formal textbooks"
+          },
+          {
+            "id": "D",
+            "content": "By studying online video tutorials on the internet"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "Đoạn 2 nêu rõ: 'Young apprentices learned by observing master artisans for years, developing tactile sensitivity and artistic mastery without formal textbooks.'",
         "translation": "Bằng cách kiên nhẫn quan sát các nghệ nhân bậc thầy trong nhiều năm mà không cần sách giáo khoa chính quy.",
         "unitTopic": "Reading Comprehension: Detail Unit 1"
@@ -3080,22 +3077,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "offer goods at a lower price than competitors"
-          },
-          {
-            "id": "B",
             "content": "destroy historical monuments completely"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "improve product quality significantly"
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "refuse to sell goods to tourists"
+          },
+          {
+            "id": "D",
+            "content": "offer goods at a lower price than competitors"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "'Undercut' trong thương mại có nghĩa là bán phá giá / bán rẻ hơn đối thủ để cạnh tranh.",
         "translation": "undercut = bán với giá thấp hơn đối thủ cạnh tranh.",
         "unitTopic": "Reading Comprehension: Vocabulary in context"
@@ -3108,22 +3105,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "Youths frequently migrate to cities to seek higher-paying modern careers."
+            "content": "The government has banned traditional handicraft workshops."
           },
           {
             "id": "B",
-            "content": "Master artisans refuse to teach anyone outside their nuclear family."
+            "content": "Youths frequently migrate to cities to seek higher-paying modern careers."
           },
           {
             "id": "C",
-            "content": "Craft materials have completely run out across the nation."
+            "content": "Master artisans refuse to teach anyone outside their nuclear family."
           },
           {
             "id": "D",
-            "content": "The government has banned traditional handicraft workshops."
+            "content": "Craft materials have completely run out across the nation."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "Đoạn 3 nêu: 'younger generations often migrate to bustling urban metropolises seeking higher-paying tech careers, leading to an acute shortage of skilled successor artisans.'",
         "translation": "Giới trẻ thường di cư ra các đô thị để tìm kiếm công việc công nghệ có thu nhập cao hơn.",
         "unitTopic": "Reading Comprehension: Cause and Effect Unit 1"
@@ -3136,22 +3133,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "By combining eco-tourism, modern design, and social media marketing"
-          },
-          {
-            "id": "B",
             "content": "By closing all workshops to foreign tourists"
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "By replacing all handmade ceramics with plastic products"
+          },
+          {
+            "id": "C",
+            "content": "By combining eco-tourism, modern design, and social media marketing"
           },
           {
             "id": "D",
             "content": "By moving all workshops into high-rise city apartments"
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "Đoạn cuối nêu rõ: 'Many have embraced eco-tourism and cultural experiential programs... Others collaborate with contemporary designers and utilize social media platforms...'",
         "translation": "Bằng cách kết hợp du lịch sinh thái, thiết kế hiện đại và tiếp thị trên mạng xã hội.",
         "unitTopic": "Reading Comprehension: Solution Unit 1"
@@ -3276,22 +3273,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "Mark asked how to register for the pottery course."
-          },
-          {
-            "id": "B",
-            "content": "Mark asked how registering for the pottery course."
-          },
-          {
-            "id": "C",
             "content": "Mark asked why to register for the pottery course."
           },
           {
-            "id": "D",
+            "id": "B",
             "content": "Mark asked how can he register for the pottery course."
+          },
+          {
+            "id": "C",
+            "content": "Mark asked how to register for the pottery course."
+          },
+          {
+            "id": "D",
+            "content": "Mark asked how registering for the pottery course."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "Rút gọn câu gián tiếp chứa từ để hỏi: Wh-word + to V_bare ➔ 'how to register'.",
         "translation": "Mark đã hỏi cách thức đăng ký khóa học làm gốm.",
         "unitTopic": "Unit 1: How to V transformation"
@@ -3304,22 +3301,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "The more mock tests students practice, the higher entrance exam scores they will achieve."
-          },
-          {
-            "id": "B",
             "content": "The more mock tests students practice, the more high entrance exam scores they will achieve."
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "The most mock tests students practice, the highest entrance exam scores they will achieve."
           },
           {
-            "id": "D",
+            "id": "C",
             "content": "The more students practice mock tests, the higher exam scores will they achieve."
+          },
+          {
+            "id": "D",
+            "content": "The more mock tests students practice, the higher entrance exam scores they will achieve."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "D",
         "explanation": "Công thức So sánh kép: The + comp + S1 + V1, the + comp + S2 + V2. Giữ trật tự S + V.",
         "translation": "Học sinh càng luyện tập nhiều đề thi thử thì điểm thi tuyển sinh đạt được càng cao.",
         "unitTopic": "Unit 2: Double comparative transformation"
@@ -3332,22 +3329,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "Unless you eat nutritious meals, you will not stay fit during the exam preparation."
+            "content": "Unless you eat nutritious meals, you will stay fit during the exam preparation."
           },
           {
             "id": "B",
-            "content": "Unless you don't eat nutritious meals, you will stay fit during the exam preparation."
+            "content": "Unless you eat nutritious meals, you will not stay fit during the exam preparation."
           },
           {
             "id": "C",
-            "content": "If you eat nutritious meals, you will not stay fit during the exam preparation."
+            "content": "Unless you don't eat nutritious meals, you will stay fit during the exam preparation."
           },
           {
             "id": "D",
-            "content": "Unless you eat nutritious meals, you will stay fit during the exam preparation."
+            "content": "If you eat nutritious meals, you will not stay fit during the exam preparation."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "Unless = If... not. Mệnh đề sau Unless luôn ở dạng khẳng định 'Unless you eat nutritious meals...'.",
         "translation": "Trừ khi bạn ăn các bữa ăn bổ dưỡng, nếu không bạn sẽ không duy trì được thể lực tốt trong quá trình ôn thi.",
         "unitTopic": "Unit 3: Unless transformation"
@@ -3360,22 +3357,22 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "My brother used to play traditional folk games with village children."
-          },
-          {
-            "id": "B",
             "content": "My brother is used to playing traditional folk games with village children."
           },
           {
-            "id": "C",
+            "id": "B",
             "content": "My brother was used to play traditional folk games with village children."
+          },
+          {
+            "id": "C",
+            "content": "My brother used to play traditional folk games with village children."
           },
           {
             "id": "D",
             "content": "My brother used to playing traditional folk games with village children."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "C",
         "explanation": "S + does not + V + anymore ➔ S + used to + V_bare (đã từng làm gì trong quá khứ).",
         "translation": "Anh trai tôi đã từng chơi các trò chơi dân gian truyền thống cùng trẻ con trong làng.",
         "unitTopic": "Unit 4: Used to transformation"
@@ -3388,11 +3385,11 @@ export const HK1_EXAMS: HK1Exam[] = [
         "options": [
           {
             "id": "A",
-            "content": "We have not visited our grandparents' ancestral village for four years."
+            "content": "We have visited our grandparents' ancestral village since four years."
           },
           {
             "id": "B",
-            "content": "We have visited our grandparents' ancestral village since four years."
+            "content": "We have not visited our grandparents' ancestral village for four years."
           },
           {
             "id": "C",
@@ -3403,7 +3400,7 @@ export const HK1_EXAMS: HK1Exam[] = [
             "content": "It was four years since we have visited our grandparents' ancestral village."
           }
         ],
-        "correctAnswer": "A",
+        "correctAnswer": "B",
         "explanation": "S + last + V2 + ... ago ➔ S + have/has not + V3 + for + [khoảng thời gian].",
         "translation": "Chúng tôi đã không về thăm ngôi làng tổ tiên của ông bà suốt bốn năm nay rồi.",
         "unitTopic": "Unit 5: Present Perfect transformation"
